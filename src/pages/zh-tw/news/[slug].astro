@@ -1,0 +1,23 @@
+---
+import { getCollection, getEntry, render } from 'astro:content';
+import NewsArticle from '../../../components/news/NewsArticle.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('news', ({ data }) => data.lang === 'zh-TW' && data.status === 'published');
+  return entries.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entryId: entry.id },
+  }));
+}
+
+const { entryId } = Astro.props;
+const entry = await getEntry('news', entryId);
+
+if (!entry) {
+  throw new Error(`News entry not found for ID: ${entryId}`);
+}
+
+const { Content } = await render(entry);
+---
+
+<NewsArticle locale="zh-TW" entry={entry} content={Content} />

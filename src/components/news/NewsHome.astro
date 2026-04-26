@@ -1,0 +1,58 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import type { Locale } from '../../lib/i18n';
+import { localeBasePath, siteCopy } from '../../lib/i18n';
+import { collectCategoryCounts, getPublishedNewsByLocale } from '../../lib/news';
+import SiteHeader from './SiteHeader.astro';
+import NewsPaginated from './NewsPaginated.astro';
+import digestData from '../../data/daily-digest.json';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const copy = siteCopy[locale];
+const entries = await getPublishedNewsByLocale(locale);
+const categoryCounts = collectCategoryCounts(entries);
+const localeDigest = digestData[locale] ?? null;
+---
+
+<Layout locale={locale} title={copy.siteTitle}>
+  <main class="mx-auto flex w-full max-w-6xl flex-col space-y-12 px-5 py-10 sm:px-8 sm:py-14">
+    <SiteHeader locale={locale} />
+
+    <section class="rounded-3xl border border-indigo-200 bg-gradient-to-r from-indigo-50 via-white to-cyan-50 p-5 sm:p-8">
+      <div class="flex flex-wrap items-center justify-between gap-3">
+        <h2 class="font-['Merriweather'] text-3xl font-black tracking-tight text-slate-900">{copy.digest}</h2>
+        <span class="rounded-full border border-indigo-200 bg-white px-3 py-1 text-xs font-bold uppercase tracking-wide text-indigo-700">
+          {copy.digestUpdated}: {new Date(digestData.generatedAt).toLocaleDateString(locale === 'zh-TW' ? 'zh-Hant-TW' : 'en-US')}
+        </span>
+      </div>
+      {localeDigest?.highlights && localeDigest.highlights.length > 0 ? (
+        <>
+          <p class="mt-4 font-['Merriweather'] text-lg leading-relaxed text-slate-700">{localeDigest.summary}</p>
+          <ul class="mt-5 grid gap-3 sm:grid-cols-2">
+            {localeDigest.highlights.map((item) => (
+              <li class="rounded-2xl border border-white/80 bg-white/70 p-4">
+                <a href={`${localeBasePath(locale)}/news/${item.slug}`} class="font-semibold text-slate-800 transition-all duration-300 hover:text-indigo-700">
+                  {item.title}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </>
+      ) : (
+        <p class="mt-4 text-slate-600">{copy.digestFallback}</p>
+      )}
+    </section>
+
+    <section class="rounded-3xl border border-slate-200 bg-white p-5 sm:p-8">
+      <div>
+        <h2 class="font-['Merriweather'] text-3xl font-black tracking-tight text-slate-900">{copy.latest}</h2>
+      </div>
+    </section>
+
+    <NewsPaginated locale={locale} entries={entries} categoryCounts={categoryCounts} currentPage={1} perPage={20} />
+  </main>
+</Layout>

@@ -1,0 +1,25 @@
+---
+---
+
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="robots" content="noindex" />
+		<title>Inclu.si</title>
+	</head>
+	<body class="bg-slate-50 p-8 text-slate-700">
+		<p>Redirecting...</p>
+
+		<script>
+			const preferred = navigator.language.toLowerCase().startsWith('zh') ? '/zh-tw/' : '/en/';
+			window.location.replace(preferred);
+		</script>
+
+		<noscript>
+			<p>
+				<a href="/en/">English</a> | <a href="/zh-tw/">繁體中文</a>
+			</p>
+		</noscript>
+	</body>
+</html>

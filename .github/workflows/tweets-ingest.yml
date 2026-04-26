@@ -1,0 +1,68 @@
+name: Daily Ingest A11y Tweets
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "20 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch and cluster a11y tweets
+        shell: bash
+        run: |
+          set -o pipefail
+          npm run tweets:ingest 2>&1 | tee tweets-ingest.log
+          npm run news:cluster 2>&1 | tee -a tweets-ingest.log
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          APIFY_ACTOR_ID: ${{ vars.APIFY_ACTOR_ID || 'kaitoeasyapi/twitter-x-data-tweet-scraper-pay-per-result-cheapest' }}
+          A11Y_TWEET_QUERY: ""
+          A11Y_TWEET_KEYWORDS: a11y,accessibility,inclusion
+          A11Y_TWEET_ACCOUNTS: BlindNewWorld,UCBInfo
+          A11Y_TWEET_WINDOW_HOURS: 24
+          A11Y_TWEET_MAX_ITEMS: 100
+          A11Y_TWEET_LANGUAGES: en,zh,ja,ko
+          OLLAMA_API_KEY: ${{ secrets.OLLAMA_API_KEY }}
+          OLLAMA_BASE_URL: ${{ secrets.OLLAMA_BASE_URL }}
+          OLLAMA_MODEL: ${{ secrets.OLLAMA_MODEL }}
+          BATCH_SIZE: 3
+          CLUSTER_SIMILARITY_THRESHOLD: 0.72
+          CLUSTER_MAX_HOURS_DIFF: 36
+
+      - name: Upload tweet ingest log artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: tweet-ingest-log-${{ github.run_id }}
+          path: tweets-ingest.log
+          if-no-files-found: warn
+
+      - name: Commit generated content
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add src/content/news
+            git commit -m "chore: ingest a11y social signals"
+            git push
+          fi

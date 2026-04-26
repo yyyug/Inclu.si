@@ -1,0 +1,51 @@
+---
+import '../styles/global.css';
+import InstallBanner from '../components/InstallBanner.astro';
+
+interface Props {
+	title: string;
+	locale: 'en' | 'zh-TW';
+	description?: string;
+}
+
+const { title, locale, description = 'Global accessibility news in English and Traditional Chinese.' } = Astro.props;
+const lang = locale === 'zh-TW' ? 'zh-Hant' : 'en';
+---
+
+<!doctype html>
+<html lang={lang}>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+		<meta name="description" content={description} />
+		<meta name="theme-color" content="#4f46e5" />
+		<meta name="mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+		<meta name="apple-mobile-web-app-title" content="Inclu.si" />
+		<!-- Icons -->
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="icon" href="/favicon.ico" />
+		<link rel="apple-touch-icon" href="/apple-touch-icon.svg" />
+		<!-- PWA Manifest -->
+		<link rel="manifest" href="/manifest.json" />
+		<meta name="generator" content={Astro.generator} />
+		<!-- Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;700;800&family=Merriweather:wght@400;700;900&display=swap"
+			rel="stylesheet"
+		/>
+		<!-- Open Graph -->
+		<meta property="og:title" content={title} />
+		<meta property="og:description" content={description} />
+		<meta property="og:type" content="website" />
+		<meta property="og:locale" content={locale === 'zh-TW' ? 'zh_TW' : 'en_US'} />
+		<title>{title}</title>
+	</head>
+	<body class="min-h-screen bg-slate-50 text-slate-800 antialiased">
+		<slot />
+		<InstallBanner locale={locale} />
+	</body>
+</html>

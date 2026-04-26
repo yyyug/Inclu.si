@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <title>Inclu.si</title>
+  <rect width="192" height="192" rx="38" fill="#4f46e5"/>
+  <circle cx="96" cy="42" r="15" fill="#ffffff"/>
+  <line x1="96" y1="60" x2="96" y2="108" stroke="#ffffff" stroke-width="10" stroke-linecap="round"/>
+  <line x1="96" y1="108" x2="72" y2="144" stroke="#ffffff" stroke-width="10" stroke-linecap="round"/>
+  <line x1="96" y1="108" x2="120" y2="144" stroke="#ffffff" stroke-width="10" stroke-linecap="round"/>
+  <line x1="96" y1="78" x2="66" y2="93" stroke="#a5b4fc" stroke-width="9" stroke-linecap="round"/>
+  <line x1="96" y1="78" x2="132" y2="63" stroke="#a5b4fc" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="96" cy="168" r="8" fill="#c7d2fe"/>
+</svg>

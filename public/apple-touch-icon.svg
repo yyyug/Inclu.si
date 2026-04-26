@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+  <!-- Apple touch icon: 180x180, iOS rounds corners automatically -->
+  <title>Inclu.si</title>
+  <rect width="180" height="180" fill="#4f46e5"/>
+  <circle cx="90" cy="39" r="14" fill="#ffffff"/>
+  <line x1="90" y1="56" x2="90" y2="102" stroke="#ffffff" stroke-width="9" stroke-linecap="round"/>
+  <line x1="90" y1="102" x2="67" y2="135" stroke="#ffffff" stroke-width="9" stroke-linecap="round"/>
+  <line x1="90" y1="102" x2="113" y2="135" stroke="#ffffff" stroke-width="9" stroke-linecap="round"/>
+  <line x1="90" y1="73" x2="62" y2="87" stroke="#a5b4fc" stroke-width="8" stroke-linecap="round"/>
+  <line x1="90" y1="73" x2="124" y2="60" stroke="#a5b4fc" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="90" cy="157" r="7" fill="#c7d2fe"/>
+</svg>

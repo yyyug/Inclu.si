@@ -1,0 +1,51 @@
+---
+import type { NewsEntry } from '../../lib/news';
+import type { Locale } from '../../lib/i18n';
+
+interface Props {
+  locale: Locale;
+  entry: NewsEntry;
+}
+
+const { locale, entry } = Astro.props;
+const articleHref = entry.data.sourceUrl;
+
+const categoryLabels: Record<string, Record<Locale, string>> = {
+  'digital-a11y': { en: 'Digital A11y', 'zh-TW': '數位無障礙' },
+  'assistive-tech': { en: 'Assistive Tech', 'zh-TW': '輔助科技' },
+  'laws-rights': { en: 'Laws & Rights', 'zh-TW': '政策與法規' },
+  'physical-design': { en: 'Physical Design', 'zh-TW': '空間與通用設計' },
+  'lifestyle-culture': { en: 'Lifestyle & Culture', 'zh-TW': '文化與生活' },
+  'case-studies': { en: 'Case Studies', 'zh-TW': '案例與最佳實踐' },
+  'social-signals': { en: 'Social Signals', 'zh-TW': '社群訊號' },
+  general: { en: 'General', 'zh-TW': '綜合' },
+};
+
+const categoryLabel = categoryLabels[entry.data.category]?.[locale] ?? categoryLabels.general[locale];
+---
+
+<article class="group rounded-3xl border border-slate-200 bg-white p-5 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg sm:p-8">
+  <div class="flex flex-wrap items-center gap-3 text-sm text-slate-600">
+    <span class="rounded-full bg-indigo-600 px-3 py-1 font-semibold text-white">{categoryLabel}</span>
+    <time datetime={entry.data.publishedAt.toISOString()}>
+      {entry.data.publishedAt.toLocaleDateString(locale === 'zh-TW' ? 'zh-Hant-TW' : 'en-US', {
+        year: 'numeric',
+        month: 'short',
+        day: 'numeric',
+      })}
+    </time>
+  </div>
+
+  <h2 class="mt-5 text-2xl font-black tracking-tight text-slate-900 sm:text-3xl">
+    <a
+      href={articleHref}
+      target="_blank"
+      rel="noopener noreferrer"
+      class="focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-indigo-300"
+    >
+      {entry.data.title}
+    </a>
+  </h2>
+
+  <p class="mt-4 text-base font-normal leading-relaxed text-slate-700">{entry.data.summary}</p>
+</article>

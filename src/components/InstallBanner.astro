@@ -1,0 +1,244 @@
+---
+import type { Locale } from '../lib/i18n';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+
+const copy = {
+  en: {
+    heading: 'Read offline, anytime',
+    body: 'Add Inclu.si to your home screen for quick access — no app store needed.',
+    install: 'Add to Home Screen',
+    dismiss: 'Not now',
+    iosHeading: 'Add to your Home Screen',
+    iosStep1: 'Tap the',
+    iosShare: 'Share',
+    iosStep2: 'button in Safari, then choose',
+    iosAddHome: '"Add to Home Screen"',
+  },
+  'zh-TW': {
+    heading: '隨時離線閱讀',
+    body: '將 Inclu.si 加到桌面，一鍵啟動，不需要 App Store。',
+    install: '加到桌面',
+    dismiss: '稍後再說',
+    iosHeading: '加到桌面',
+    iosStep1: '在 Safari 點選底部的',
+    iosShare: '分享',
+    iosStep2: '按鈕，再選',
+    iosAddHome: '「加入主畫面」',
+  },
+};
+
+const t = copy[locale];
+---
+
+<!-- Install Banner: hidden by default, shown by JS -->
+<div
+  id="install-banner"
+  role="banner"
+  aria-label={t.heading}
+  aria-hidden="true"
+  inert
+  class="fixed bottom-0 left-0 right-0 z-50 hidden translate-y-full pb-[env(safe-area-inset-bottom)] transition-transform duration-500 ease-out"
+>
+  <!-- Android / Chrome install prompt -->
+  <div
+    id="install-banner-android"
+    aria-hidden="true"
+    inert
+    class="hidden mx-4 mb-4 rounded-3xl border border-indigo-200 bg-white px-6 py-5 shadow-2xl"
+  >
+    <div class="flex items-start gap-4">
+      <img src="/icon-192.svg" alt="" role="presentation" class="h-12 w-12 flex-none rounded-xl" />
+      <div class="flex-1 min-w-0">
+        <p class="font-['Manrope'] text-base font-extrabold text-slate-900">{t.heading}</p>
+        <p class="mt-1 text-sm leading-relaxed text-slate-600">{t.body}</p>
+      </div>
+    </div>
+    <div class="mt-4 flex flex-wrap gap-3">
+      <button
+        id="install-btn"
+        type="button"
+        class="rounded-full bg-indigo-600 px-5 py-2.5 text-sm font-bold text-white transition-all duration-300 hover:-translate-y-0.5 hover:bg-indigo-700 hover:shadow-lg focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-indigo-300"
+      >
+        {t.install}
+      </button>
+      <button
+        id="install-dismiss"
+        type="button"
+        class="rounded-full border border-slate-300 px-5 py-2.5 text-sm font-bold text-slate-700 transition-all duration-300 hover:border-slate-400 focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-slate-300"
+      >
+        {t.dismiss}
+      </button>
+    </div>
+  </div>
+
+  <!-- iOS Safari instruction prompt -->
+  <div
+    id="install-banner-ios"
+    aria-hidden="true"
+    inert
+    class="hidden mx-4 mb-4 rounded-3xl border border-indigo-200 bg-white px-6 py-5 shadow-2xl"
+  >
+    <div class="flex items-center justify-between gap-4">
+      <div class="flex items-center gap-3">
+        <img src="/icon-192.svg" alt="" role="presentation" class="h-10 w-10 flex-none rounded-xl" />
+        <p class="font-['Manrope'] text-base font-extrabold text-slate-900">{t.iosHeading}</p>
+      </div>
+      <button
+        id="ios-dismiss"
+        type="button"
+        aria-label={t.dismiss}
+        class="flex-none rounded-full p-2 text-slate-500 hover:bg-slate-100 focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-slate-300"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+        </svg>
+      </button>
+    </div>
+    <p class="mt-3 text-sm leading-relaxed text-slate-600">
+      {t.iosStep1}
+      <span class="inline-flex items-center gap-0.5 rounded-md bg-slate-100 px-1.5 py-0.5 font-semibold text-slate-800">
+        <!-- Share icon inline -->
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m0 2.684l6.632 3.316m-6.632-6l6.632-3.316m0 0a3 3 0 105.367-2.684 3 3 0 00-5.367 2.684zm0 9.316a3 3 0 105.368 2.684 3 3 0 00-5.368-2.684z" />
+        </svg>
+        {t.iosShare}
+      </span>
+      {t.iosStep2} <strong class="text-slate-800">{t.iosAddHome}</strong>
+    </p>
+    <!-- Animated arrow pointing at Safari share bar -->
+    <div class="mt-3 flex justify-center">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 animate-bounce text-indigo-500" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+      </svg>
+    </div>
+  </div>
+</div>
+
+<script>
+  const DISMISSED_KEY = 'pwa-banner-dismissed';
+  const DISMISSED_EXPIRY_DAYS = 30;
+
+  function wasDismissedRecently(): boolean {
+    try {
+      const raw = localStorage.getItem(DISMISSED_KEY);
+      if (!raw) return false;
+      const ts = Number(raw);
+      return Date.now() - ts < DISMISSED_EXPIRY_DAYS * 24 * 60 * 60 * 1000;
+    } catch {
+      return false;
+    }
+  }
+
+  function recordDismissal(): void {
+    try {
+      localStorage.setItem(DISMISSED_KEY, String(Date.now()));
+    } catch {
+      // storage unavailable
+    }
+  }
+
+  function isIos(): boolean {
+    return /iphone|ipad|ipod/i.test(navigator.userAgent);
+  }
+
+  function isSafari(): boolean {
+    const ua = navigator.userAgent;
+    return /safari/i.test(ua) && !/chrome|crios|edg|opr|fxios/i.test(ua);
+  }
+
+  function isInStandaloneMode(): boolean {
+    return (
+      ('standalone' in navigator && (navigator as any).standalone === true) ||
+      window.matchMedia('(display-mode: standalone)').matches
+    );
+  }
+
+  function showBanner(): void {
+    const banner = document.getElementById('install-banner');
+    if (!banner) return;
+    banner.removeAttribute('inert');
+    banner.setAttribute('aria-hidden', 'false');
+    banner.classList.remove('hidden');
+    requestAnimationFrame(() => {
+      banner.classList.remove('translate-y-full');
+    });
+  }
+
+  function hideBanner(): void {
+    const banner = document.getElementById('install-banner');
+    if (!banner) return;
+    banner.setAttribute('aria-hidden', 'true');
+    banner.setAttribute('inert', '');
+    banner.classList.add('translate-y-full');
+    banner.addEventListener('transitionend', () => {
+      banner.classList.add('hidden');
+    }, { once: true });
+  }
+
+  // Do nothing if already installed or recently dismissed
+  if (!isInStandaloneMode() && !wasDismissedRecently()) {
+    const iosPanel = document.getElementById('install-banner-ios');
+    const androidPanel = document.getElementById('install-banner-android');
+
+    if (isIos() && isSafari()) {
+      androidPanel?.remove();
+      // iOS Safari: show manual instructions
+      if (iosPanel) {
+        iosPanel.removeAttribute('inert');
+        iosPanel.setAttribute('aria-hidden', 'false');
+        iosPanel.classList.remove('hidden');
+        // Small delay so user is oriented first
+        setTimeout(showBanner, 3000);
+      }
+
+      const iosDismiss = document.getElementById('ios-dismiss');
+      iosDismiss?.addEventListener('click', () => {
+        recordDismissal();
+        hideBanner();
+      });
+    } else {
+      iosPanel?.remove();
+      // Android / Chrome: intercept beforeinstallprompt
+      let deferredPrompt: BeforeInstallPromptEvent | null = null;
+
+      window.addEventListener('beforeinstallprompt', (e) => {
+        e.preventDefault();
+        deferredPrompt = e as BeforeInstallPromptEvent;
+
+        if (androidPanel) {
+          androidPanel.removeAttribute('inert');
+          androidPanel.setAttribute('aria-hidden', 'false');
+          androidPanel.classList.remove('hidden');
+          setTimeout(showBanner, 2000);
+        }
+      });
+
+      document.getElementById('install-btn')?.addEventListener('click', async () => {
+        if (!deferredPrompt) return;
+        deferredPrompt.prompt();
+        const { outcome } = await deferredPrompt.userChoice;
+        deferredPrompt = null;
+        if (outcome === 'accepted') {
+          recordDismissal();
+        }
+        hideBanner();
+      });
+
+      document.getElementById('install-dismiss')?.addEventListener('click', () => {
+        recordDismissal();
+        hideBanner();
+      });
+    }
+  }
+
+  // TypeScript interface for BeforeInstallPromptEvent
+  interface BeforeInstallPromptEvent extends Event {
+    prompt(): Promise<void>;
+    userChoice: Promise<{ outcome: 'accepted' | 'dismissed' }>;
+  }
+</script>

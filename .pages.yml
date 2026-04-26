@@ -1,0 +1,48 @@
+media: public
+content:
+  - name: news
+    label: News Articles
+    path: src/content/news
+    type: collection
+    filename: "{year}-{month}-{day}-{primary}.md"
+    view:
+      fields: [title, lang, status, publishedAt, category]
+      primary: title
+      sort: [publishedAt, desc]
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: slug, label: Slug, type: string, required: true }
+      - { name: lang, label: Language, type: select, options: [en, zh-TW], required: true }
+      - { name: summary, label: Summary, type: text, required: true }
+      - {
+          name: category,
+          label: Category,
+          type: select,
+          options: [digital-a11y, assistive-tech, laws-rights, physical-design, lifestyle-culture, case-studies, general],
+          required: true
+        }
+      - { name: tags, label: Tags, type: string, list: true }
+      - { name: sourceName, label: Source Name, type: string, required: true }
+      - { name: sourceUrl, label: Source URL, type: string, required: true }
+      - {
+          name: relatedSources,
+          label: Related Sources,
+          type: object,
+          list: true,
+          fields:
+            - { name: name, label: Name, type: string }
+            - { name: url, label: URL, type: string }
+        }
+      - { name: clusterId, label: Cluster ID, type: string, required: true }
+      - { name: translationOf, label: Translation Pair Slug, type: string }
+      - {
+          name: status,
+          label: Publish Status,
+          type: select,
+          options: [draft, published, archived, deleted],
+          default: draft,
+          required: true
+        }
+      - { name: publishedAt, label: Published At, type: date, options: { format: yyyy-MM-dd'T'HH:mm:ss.SSSX } }
+      - { name: fetchedAt, label: Fetched At, type: date, options: { format: yyyy-MM-dd'T'HH:mm:ss.SSSX } }
+      - { name: body, label: Body, type: rich-text }
