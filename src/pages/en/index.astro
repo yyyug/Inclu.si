@@ -3,3 +3,15 @@ import NewsHome from '../../components/news/NewsHome.astro';
 ---
 
 <NewsHome locale="en" />
+
+<script is:inline>
+  const url = new URL(window.location.href);
+  const page = Number.parseInt(url.searchParams.get('page') ?? '', 10);
+
+  if (Number.isFinite(page) && page > 1) {
+    url.searchParams.delete('page');
+    const query = url.searchParams.toString();
+    const target = `/en/page/${page}/${query ? `?${query}` : ''}`;
+    window.location.replace(target);
+  }
+</script>

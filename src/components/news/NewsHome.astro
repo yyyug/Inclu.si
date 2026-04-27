@@ -9,9 +9,10 @@ import digestData from '../../data/daily-digest.json';
 
 interface Props {
   locale: Locale;
+  currentPage?: number;
 }
 
-const { locale } = Astro.props;
+const { locale, currentPage = 1 } = Astro.props;
 const copy = siteCopy[locale];
 const entries = await getPublishedNewsByLocale(locale);
 const categoryCounts = collectCategoryCounts(entries);
@@ -64,6 +65,6 @@ const entryBySlug = new Map(entries.map((entry) => [entry.data.slug, entry]));
       </div>
     </section>
 
-    <NewsPaginated locale={locale} entries={entries} categoryCounts={categoryCounts} currentPage={1} perPage={20} />
+    <NewsPaginated locale={locale} entries={entries} categoryCounts={categoryCounts} currentPage={currentPage} perPage={20} />
   </main>
 </Layout>

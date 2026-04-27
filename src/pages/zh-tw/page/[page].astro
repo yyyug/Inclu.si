@@ -1,0 +1,22 @@
+---
+import NewsHome from '../../../components/news/NewsHome.astro';
+import { getPublishedNewsByLocale } from '../../../lib/news';
+
+export async function getStaticPaths() {
+  const perPage = 20;
+  const entries = await getPublishedNewsByLocale('zh-TW');
+  const totalPages = Math.max(1, Math.ceil(entries.length / perPage));
+
+  return Array.from({ length: Math.max(0, totalPages - 1) }, (_, i) => {
+    const page = i + 2;
+    return {
+      params: { page: String(page) },
+      props: { currentPage: page },
+    };
+  });
+}
+
+const { currentPage } = Astro.props;
+---
+
+<NewsHome locale="zh-TW" currentPage={currentPage} />

@@ -24,27 +24,30 @@ const filteredEntries = selectedCategory
   : entries;
 
 const total = filteredEntries.length;
-const pages = Math.ceil(total / perPage);
-const urlPageParam = parseInt(url.searchParams.get('page') ?? '', 10);
-const resolvedPage = isNaN(urlPageParam) ? currentPage : urlPageParam;
-const page = Math.max(1, Math.min(resolvedPage, pages));
+const pages = Math.max(1, Math.ceil(total / perPage));
+const page = Math.max(1, Math.min(currentPage, pages));
 const start = (page - 1) * perPage;
 const end = start + perPage;
 const paginatedEntries = filteredEntries.slice(start, end);
 
+const buildPageUrl = (targetPage: number) => {
+  const path = targetPage <= 1 ? `${basePath}` : `${basePath}/page/${targetPage}`;
+  if (!selectedCategory) return path;
+
+  const params = new URLSearchParams();
+  params.set('category', selectedCategory);
+  return `${path}?${params.toString()}`;
+};
+
 const buildCategoryUrl = (category: string | null) => {
   const params = new URLSearchParams();
   if (category) params.set('category', category);
-  params.set('page', '1');
-  return `${basePath}${params.toString() ? `?${params.toString()}` : ''}`;
+  const query = params.toString();
+  return `${basePath}${query ? `?${query}` : ''}`;
 };
 
-const prevHref = page > 1 
-  ? `${basePath}${selectedCategory ? `?category=${selectedCategory}&` : '?'}page=${page - 1}` 
-  : null;
-const nextHref = page < pages 
-  ? `${basePath}${selectedCategory ? `?category=${selectedCategory}&` : '?'}page=${page + 1}` 
-  : null;
+const prevHref = page > 1 ? buildPageUrl(page - 1) : null;
+const nextHref = page < pages ? buildPageUrl(page + 1) : null;
 ---
 
 <section class="space-y-8">
