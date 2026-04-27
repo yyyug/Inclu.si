@@ -11,10 +11,10 @@ tags:
   - "media"
   - "disability"
 sourceName: "The Rocky Mountain Collegian"
-sourceUrl: "https://collegian.com/"
+sourceUrl: "https://collegian.com/articles/aande/2026/04/category-arts-and-entertainment-through-the-student-lens-festival-presents-assorted-work-boosts-film-accessibility/"
 relatedSources:
   - name: "The Rocky Mountain Collegian"
-    url: "https://collegian.com/"
+    url: "https://collegian.com/articles/aande/2026/04/category-arts-and-entertainment-through-the-student-lens-festival-presents-assorted-work-boosts-film-accessibility/"
 clusterId: "cluster-d8399623"
 status: "published"
 translationOf: "through-the-student-lens-festival-presents-assorted-work-boosts-film-accessibili-zh-d8399623"
@@ -24,4 +24,4 @@ fetchedAt: "2026-04-27T09:25:18.087Z"
 
 The Through the Student Lens festival showcases various films while enhancing accessibility features for viewers with disabilities.
 
-Read more from the original source: [The Rocky Mountain Collegian](https://collegian.com/)
+Read more from the original source: [The Rocky Mountain Collegian](https://collegian.com/articles/aande/2026/04/category-arts-and-entertainment-through-the-student-lens-festival-presents-assorted-work-boosts-film-accessibility/)

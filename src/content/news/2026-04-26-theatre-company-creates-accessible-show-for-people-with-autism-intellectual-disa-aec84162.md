@@ -11,7 +11,7 @@ tags:
   - "performing-arts"
   - "inclusive"
 sourceName: "CBC"
-sourceUrl: "https://www.cbc.ca/"
+sourceUrl: "https://www.cbc.ca/news/canada/new-brunswick/fredericton-theatre-fresh-mix-accessibility-9.7177930"
 relatedSources:
   - name: "CBC"
     url: "https://www.cbc.ca/news/canada/new-brunswick/fredericton-theatre-fresh-mix-accessibility-9.7177930"
@@ -26,4 +26,4 @@ fetchedAt: "2026-04-27T09:25:18.081Z"
 
 A theatre company has created an accessible performance specifically designed for individuals with autism and intellectual disabilities, providing an inclusive cultural experience.
 
-Read more from the original source: [CBC](https://www.cbc.ca/)
+Read more from the original source: [CBC](https://www.cbc.ca/news/canada/new-brunswick/fredericton-theatre-fresh-mix-accessibility-9.7177930)

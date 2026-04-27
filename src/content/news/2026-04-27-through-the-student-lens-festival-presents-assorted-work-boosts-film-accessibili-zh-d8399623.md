@@ -11,10 +11,10 @@ tags:
   - "media"
   - "disability"
 sourceName: "The Rocky Mountain Collegian"
-sourceUrl: "https://collegian.com/"
+sourceUrl: "https://collegian.com/articles/aande/2026/04/category-arts-and-entertainment-through-the-student-lens-festival-presents-assorted-work-boosts-film-accessibility/"
 relatedSources:
   - name: "The Rocky Mountain Collegian"
-    url: "https://collegian.com/"
+    url: "https://collegian.com/articles/aande/2026/04/category-arts-and-entertainment-through-the-student-lens-festival-presents-assorted-work-boosts-film-accessibility/"
 clusterId: "cluster-d8399623"
 status: "published"
 translationOf: "through-the-student-lens-festival-presents-assorted-work-boosts-film-accessibili-d8399623"
@@ -24,4 +24,4 @@ fetchedAt: "2026-04-27T09:25:18.087Z"
 
 「透過學生鏡頭」電影節展示各種電影，同時為殘障觀眾增強無障礙功能。
 
-原文來源： [The Rocky Mountain Collegian](https://collegian.com/)
+原文來源： [The Rocky Mountain Collegian](https://collegian.com/articles/aande/2026/04/category-arts-and-entertainment-through-the-student-lens-festival-presents-assorted-work-boosts-film-accessibility/)
