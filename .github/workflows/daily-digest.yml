@@ -37,6 +37,7 @@ jobs:
 
       - name: Upload digest log artifact
         if: always()
+        continue-on-error: true
         uses: actions/upload-artifact@v4
         with:
           name: digest-log-${{ github.run_id }}
