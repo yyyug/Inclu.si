@@ -1,0 +1,28 @@
+---
+title: "學院獲得額外一年時間遵守網頁無障礙截止日期"
+slug: "colleges-get-another-year-to-comply-with-web-accessibility-deadlines-zh-dce1cbf1"
+lang: "zh-TW"
+summary: "教育機構已獲准額外一年時間來滿足網頁無障礙合規要求。"
+category: "laws-rights"
+tags:
+  - "colleges"
+  - "universities"
+  - "web-accessibility"
+  - "deadlines"
+  - "compliance"
+  - "regulation"
+sourceName: "Higher Ed Dive"
+sourceUrl: "https://www.highereddive.com/"
+relatedSources:
+  - name: "Higher Ed Dive"
+    url: "https://www.highereddive.com/"
+clusterId: "cluster-dce1cbf1"
+status: "published"
+translationOf: "colleges-get-another-year-to-comply-with-web-accessibility-deadlines-dce1cbf1"
+publishedAt: "2026-04-22T13:16:04.000Z"
+fetchedAt: "2026-04-27T09:25:18.090Z"
+---
+
+教育機構已獲准額外一年時間來滿足網頁無障礙合規要求。
+
+原文來源： [Higher Ed Dive](https://www.highereddive.com/)
