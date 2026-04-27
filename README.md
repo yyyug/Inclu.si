@@ -11,7 +11,7 @@ A multilingual accessibility news website powered by Astro, Google News RSS, and
 
 - System language auto-routing at `/` (`zh*` -> `/zh-tw/`, otherwise `/en/`)
 - News list and detail pages in English and Traditional Chinese
-- Hourly ingest workflow for Google News RSS (`accessibility` query)
+- 4-hour ingest workflow for Google News RSS (`accessibility` query)
 - Daily ingest workflow for X/Twitter social signals (`a11y`, `accessibility`, `inclusion`, plus selected accounts; rolling 24h UTC)
 - Daily digest workflow with top stories summary shown above the news feed
 - Static full-text search using Pagefind (`/en/search`, `/zh-tw/search`)
@@ -148,11 +148,11 @@ The homepage digest block is rendered before the regular news list and links hig
 
 ## Workflow Separation
 
-### 1) Hourly ingest
+### 1) 4-hour ingest
 
 File: `.github/workflows/news-ingest.yml`
 
-- Schedule: every hour at minute 5
+- Schedule: every 4 hours at minute 5
 - Action: runs `npm run news:ingest`
 - Output: commits new markdown into `src/content/news`
 
@@ -218,7 +218,7 @@ If you run these scripts at build time (not recommended), add corresponding secr
 4. Ensure Actions are enabled in `Settings -> Actions`.
 5. Manually run workflows once from the `Actions` tab:
 
-- `Hourly Ingest Accessibility News`
+- `4-Hour Ingest Accessibility News`
 - `Daily Accessibility Digest`
 
 6. Confirm commits are created by `github-actions[bot]` in:
@@ -226,12 +226,12 @@ If you run these scripts at build time (not recommended), add corresponding secr
 - `src/content/news`
 - `src/data/daily-digest.json`
 
-The hourly ingest workflow already runs both steps in order:
+The 4-hour ingest workflow already runs both steps in order:
 
 - `npm run news:ingest`
 - `npm run news:cluster`
 
-This means similarity clustering (Jaccard + Levenshtein) is fixed in the hourly pipeline, not handled in the frontend.
+This means similarity clustering (Jaccard + Levenshtein) is fixed in the 4-hour pipeline, not handled in the frontend.
 
 ## Cloudflare Pages Setup (Production)
 

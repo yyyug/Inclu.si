@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import crypto from 'node:crypto';
 import Parser from 'rss-parser';
+import { GoogleDecoder } from 'google-news-url-decoder';
 
 const FEED_URL = process.env.GOOGLE_NEWS_RSS_URL
   ?? 'https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US:en';
@@ -110,6 +111,51 @@ function decodeXmlEntities(value) {
     .replace(/&quot;/g, '"')
     .replace(/&#39;/g, "'")
     .trim();
+}
+
+function isGoogleNewsUrl(rawUrl) {
+  try {
+    const url = new URL(rawUrl);
+    return url.hostname === 'news.google.com';
+  } catch {
+    return false;
+  }
+}
+
+function isHomepageUrl(rawUrl) {
+  try {
+    const url = new URL(rawUrl);
+    return url.pathname === '/' || url.pathname === '';
+  } catch {
+    return false;
+  }
+}
+
+async function resolveArticleUrl(item, decoder) {
+  const itemLink = String(item?.link ?? '').trim();
+  if (!itemLink) {
+    throw new Error('RSS item is missing <link>.');
+  }
+
+  let resolvedUrl = itemLink;
+  if (isGoogleNewsUrl(itemLink)) {
+    const decoded = await decoder.decode(itemLink);
+    if (!decoded?.status || !decoded?.decoded_url) {
+      throw new Error(`Unable to decode Google News article URL. ${decoded?.message ?? ''}`.trim());
+    }
+
+    resolvedUrl = decoded.decoded_url;
+  }
+
+  const normalized = normalizeUrl(resolvedUrl);
+  if (isGoogleNewsUrl(normalized)) {
+    throw new Error('Decoded URL still points to Google News.');
+  }
+  if (isHomepageUrl(normalized)) {
+    throw new Error(`Decoded URL points to source homepage instead of article: ${normalized}`);
+  }
+
+  return normalized;
 }
 
 function isAccessibilityRelated(title, snippet) {
@@ -389,6 +435,7 @@ async function writeStoryPair(item, ai, sourceName, sourceUrl) {
 
 async function main() {
   const parser = new Parser();
+  const decoder = new GoogleDecoder();
 
   const existing = await readExistingKeys();
   const sourceMap = await readSourceMapFromRssXml(FEED_URL);
@@ -412,7 +459,7 @@ async function main() {
         throw new Error('RSS item is missing <source url="..."> in raw XML mapping.');
       }
 
-      const sourceUrl = mapped.sourceUrl;
+      const sourceUrl = await resolveArticleUrl(item, decoder);
       const sourceName = mapped.sourceName || extractSourceName(item);
       const key = `url:${normalizeUrl(sourceUrl)}`;
 

@@ -16,6 +16,7 @@ const copy = siteCopy[locale];
 const entries = await getPublishedNewsByLocale(locale);
 const categoryCounts = collectCategoryCounts(entries);
 const localeDigest = digestData[locale] ?? null;
+const entryBySlug = new Map(entries.map((entry) => [entry.slug, entry]));
 ---
 
 <Layout locale={locale} title={copy.siteTitle}>
@@ -33,13 +34,23 @@ const localeDigest = digestData[locale] ?? null;
         <>
           <p class="mt-4 font-['Merriweather'] text-lg leading-relaxed text-slate-700">{localeDigest.summary}</p>
           <ul class="mt-5 grid gap-3 sm:grid-cols-2">
-            {localeDigest.highlights.map((item) => (
-              <li class="rounded-2xl border border-white/80 bg-white/70 p-4">
-                <a href={`${localeBasePath(locale)}/news/${item.slug}`} class="font-semibold text-slate-800 transition-all duration-300 hover:text-indigo-700">
-                  {item.title}
-                </a>
-              </li>
-            ))}
+            {localeDigest.highlights.map((item) => {
+              const sourceHref = entryBySlug.get(item.slug)?.data.sourceUrl ?? `${localeBasePath(locale)}/news/${item.slug}`;
+              const isExternal = sourceHref.startsWith('http://') || sourceHref.startsWith('https://');
+
+              return (
+                <li class="rounded-2xl border border-white/80 bg-white/70 p-4">
+                  <a
+                    href={sourceHref}
+                    target={isExternal ? '_blank' : undefined}
+                    rel={isExternal ? 'noopener noreferrer' : undefined}
+                    class="font-semibold text-slate-800 transition-all duration-300 hover:text-indigo-700"
+                  >
+                    {item.title}
+                  </a>
+                </li>
+              );
+            })}
           </ul>
         </>
       ) : (

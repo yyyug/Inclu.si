@@ -21,6 +21,7 @@
     "@tailwindcss/vite": "^4.2.4",
     "apify-client": "^2.12.3",
     "astro": "^6.1.9",
+    "google-news-url-decoder": "^1.2.1",
     "rss-parser": "^3.13.0",
     "tailwindcss": "^4.2.4"
   },
