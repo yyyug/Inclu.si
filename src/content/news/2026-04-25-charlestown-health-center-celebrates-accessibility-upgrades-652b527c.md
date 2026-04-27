@@ -11,7 +11,7 @@ tags:
   - "Vermont"
   - "medical center"
 sourceName: "The Vermont Journal & The Shopper -"
-sourceUrl: "https://vermontjournal.com/"
+sourceUrl: "https://vermontjournal.com/health/charlestown-health-center-celebrates-accessibility-upgrades/"
 relatedSources:
   - name: "The Vermont Journal & The Shopper -"
     url: "https://vermontjournal.com/"

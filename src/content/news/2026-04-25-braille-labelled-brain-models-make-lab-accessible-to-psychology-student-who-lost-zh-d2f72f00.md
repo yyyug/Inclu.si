@@ -13,7 +13,7 @@ tags:
   - "university"
   - "psychology"
 sourceName: "Chico State Today"
-sourceUrl: "https://today.csuchico.edu/"
+sourceUrl: "https://today.csuchico.edu/braille-labelled-brain-models-make-lab-accessible-to-psychology-student-who-lost-eyesight/"
 relatedSources:
   - name: "Chico State Today"
     url: "https://today.csuchico.edu/"

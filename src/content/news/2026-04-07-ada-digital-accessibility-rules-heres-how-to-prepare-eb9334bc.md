@@ -11,7 +11,7 @@ tags:
   - "government"
   - "regulations"
 sourceName: "Mass.gov"
-sourceUrl: "https://www.mass.gov/"
+sourceUrl: "https://www.mass.gov/news/ada-digital-accessibility-rules-heres-how-to-prepare"
 relatedSources:
   - name: "Mass.gov"
     url: "https://www.mass.gov/"

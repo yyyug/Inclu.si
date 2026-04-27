@@ -12,7 +12,7 @@ tags:
   - "mobility"
   - "community"
 sourceName: "WSLS"
-sourceUrl: "https://www.wsls.com/"
+sourceUrl: "https://www.wsls.com/news/virginia/2025/03/25/gov-youngkin-signs-nearly-600-bills-amends-and-vetoes-more-than-150-each/"
 relatedSources:
   - name: "WSLS"
     url: "https://www.wsls.com/"

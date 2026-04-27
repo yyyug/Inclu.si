@@ -11,7 +11,7 @@ tags:
   - "hands-on"
   - "assistive tech"
 sourceName: "RochesterFirst"
-sourceUrl: "https://www.rochesterfirst.com/"
+sourceUrl: "https://www.rochesterfirst.com/news/education/imagine-rit-returns-with-hands-on-innovation-accessible-tech-in-spotlight/"
 relatedSources:
   - name: "RochesterFirst"
     url: "https://www.rochesterfirst.com/"

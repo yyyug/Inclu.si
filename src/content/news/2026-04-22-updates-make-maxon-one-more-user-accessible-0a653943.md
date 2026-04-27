@@ -10,7 +10,7 @@ tags:
   - "accessibility features"
   - "user-friendly"
 sourceName: "Jon Peddie Research"
-sourceUrl: "https://www.jonpeddie.com/"
+sourceUrl: "https://www.jonpeddie.com/news/updates-make-maxon-one-more-user-accessible/"
 relatedSources:
   - name: "Jon Peddie Research"
     url: "https://www.jonpeddie.com/"

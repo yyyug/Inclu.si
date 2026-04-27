@@ -12,7 +12,7 @@ tags:
   - "inclusion"
   - "environment"
 sourceName: "Runway Girl"
-sourceUrl: "https://runwaygirlnetwork.com/"
+sourceUrl: "https://runwaygirlnetwork.com/2026/04/why-aviation-sustainability-and-accessibility-are-interconnected/"
 relatedSources:
   - name: "Runway Girl"
     url: "https://runwaygirlnetwork.com/"

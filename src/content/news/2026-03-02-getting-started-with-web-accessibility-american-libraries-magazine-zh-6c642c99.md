@@ -9,7 +9,7 @@ tags:
   - "libraries"
   - "beginners guide"
 sourceName: "American Libraries Magazine"
-sourceUrl: "https://americanlibrariesmagazine.org/"
+sourceUrl: "https://americanlibrariesmagazine.org/2026/03/02/getting-started-with-web-accessibility/"
 relatedSources:
   - name: "American Libraries Magazine"
     url: "https://americanlibrariesmagazine.org/"

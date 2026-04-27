@@ -10,7 +10,7 @@ tags:
   - "government"
   - "visitor services"
 sourceName: "National Park Service (.gov)"
-sourceUrl: "https://www.nps.gov/"
+sourceUrl: "https://www.nps.gov/subjects/accessibility/index.htm"
 relatedSources:
   - name: "National Park Service (.gov)"
     url: "https://www.nps.gov/"

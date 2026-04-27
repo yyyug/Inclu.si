@@ -10,7 +10,7 @@ tags:
   - "inclusive design"
   - "standards"
 sourceName: "Ellucian"
-sourceUrl: "https://www.ellucian.com/"
+sourceUrl: "https://www.ellucian.com/blog/wcag-accessibility"
 relatedSources:
   - name: "Ellucian"
     url: "https://www.ellucian.com/"

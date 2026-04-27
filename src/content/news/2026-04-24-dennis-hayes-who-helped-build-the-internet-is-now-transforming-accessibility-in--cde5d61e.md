@@ -13,7 +13,7 @@ tags:
   - "urban accessibility"
   - "assistive technology"
 sourceName: "Hypepotamus"
-sourceUrl: "https://hypepotamus.com/"
+sourceUrl: "https://hypepotamus.com/author/maijaehlinger/"
 relatedSources:
   - name: "Hypepotamus"
     url: "https://hypepotamus.com/"

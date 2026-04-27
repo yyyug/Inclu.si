@@ -11,7 +11,7 @@ tags:
   - "best practices"
   - "public sector"
 sourceName: "SF.gov"
-sourceUrl: "https://www.sf.gov/"
+sourceUrl: "https://www.sf.gov/event-20260505-welcoming-all-customers-accessibility-bestpractices-for-disabilityfriendly-small-businesses"
 relatedSources:
   - name: "SF.gov"
     url: "https://www.sf.gov/"

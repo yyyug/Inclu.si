@@ -9,7 +9,7 @@ tags:
   - "city council"
   - "Lucas County"
 sourceName: "wtol.com"
-sourceUrl: "https://www.wtol.com/"
+sourceUrl: "https://www.wtol.com/video/news/local/city-council-hears-report-on-need-for-accessible-housing-in-lucas-county/512-b5db3a31-6935-4941-ab43-cb5a983aa456"
 relatedSources:
   - name: "wtol.com"
     url: "https://www.wtol.com/"

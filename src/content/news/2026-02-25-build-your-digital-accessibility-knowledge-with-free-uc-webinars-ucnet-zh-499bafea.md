@@ -10,7 +10,7 @@ tags:
   - "education"
   - "UCnet"
 sourceName: "UCnet"
-sourceUrl: "https://ucnet.universityofcalifornia.edu/"
+sourceUrl: "https://ucnet.universityofcalifornia.edu/employee-news/build-your-digital-accessibility-knowledge-with-free-uc-webinars/"
 relatedSources:
   - name: "UCnet"
     url: "https://ucnet.universityofcalifornia.edu/"

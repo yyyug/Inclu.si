@@ -11,10 +11,10 @@ tags:
   - "funding"
   - "education"
 sourceName: "KCAU 9 News"
-sourceUrl: "https://www.kcau9.com/"
+sourceUrl: "https://www.yahoo.com/news/articles/10k-grant-given-local-college-031128454.html"
 relatedSources:
   - name: "KCAU 9 News"
-    url: "https://www.kcau9.com/"
+    url: "https://www.yahoo.com/news/articles/10k-grant-given-local-college-031128454.html"
   - name: "Yahoo"
     url: "https://www.yahoo.com/"
 clusterId: "cluster-22a4312b"
@@ -26,4 +26,4 @@ fetchedAt: "2026-04-26T06:49:02.443Z"
 
 A $10,000 grant has been awarded to a local college to improve accessibility infrastructure and services, supporting inclusive education for students with disabilities.
 
-Read more from the original source: [KCAU 9 News](https://www.kcau9.com/)
+Read more from the original source: [KCAU 9 News](https://www.yahoo.com/news/articles/10k-grant-given-local-college-031128454.html)

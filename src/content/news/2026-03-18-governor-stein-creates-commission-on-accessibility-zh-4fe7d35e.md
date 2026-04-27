@@ -12,7 +12,7 @@ tags:
   - "accessibility-commission"
   - "north-carolina"
 sourceName: "NC Department of Administration (.gov)"
-sourceUrl: "https://www.doa.nc.gov/"
+sourceUrl: "https://www.doa.nc.gov/news/press-releases/2026/03/18/governor-stein-creates-commission-accessibility"
 relatedSources:
   - name: "NC Department of Administration (.gov)"
     url: "https://www.doa.nc.gov/"

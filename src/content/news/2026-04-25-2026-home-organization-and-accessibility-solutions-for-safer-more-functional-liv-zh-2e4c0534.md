@@ -14,7 +14,7 @@ tags:
   - "assistive-living"
   - "2026"
 sourceName: "The Good Men Project"
-sourceUrl: "https://goodmenproject.com/"
+sourceUrl: "https://goodmenproject.com/everyday-life-2/2026-home-organization-and-accessibility-solutions-for-safer-more-functional-living-spaces/"
 relatedSources:
   - name: "The Good Men Project"
     url: "https://goodmenproject.com/"

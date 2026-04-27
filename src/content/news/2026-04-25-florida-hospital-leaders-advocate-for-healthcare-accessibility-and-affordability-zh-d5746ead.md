@@ -13,7 +13,7 @@ tags:
   - "Florida"
   - "Washington"
 sourceName: "Florida Politics"
-sourceUrl: "https://floridapolitics.com/"
+sourceUrl: "https://floridapolitics.com/archives/category/influence/"
 relatedSources:
   - name: "Florida Politics"
     url: "https://floridapolitics.com/"

@@ -12,7 +12,7 @@ tags:
   - "fans"
   - "stadium"
 sourceName: "Angel City Football Club"
-sourceUrl: "https://angelcity.com/"
+sourceUrl: "https://angelcity.com/acfc-post"
 relatedSources:
   - name: "Angel City Football Club"
     url: "https://angelcity.com/"

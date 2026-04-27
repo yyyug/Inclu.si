@@ -12,7 +12,7 @@ tags:
   - "federal regulations"
   - "Inside Higher Ed"
 sourceName: "Inside Higher Ed"
-sourceUrl: "https://www.insidehighered.com/"
+sourceUrl: "https://www.insidehighered.com/news/government/colleges-localities/2026/04/21/doj-extends-web-accessibility-deadline"
 relatedSources:
   - name: "Inside Higher Ed"
     url: "https://www.insidehighered.com/"

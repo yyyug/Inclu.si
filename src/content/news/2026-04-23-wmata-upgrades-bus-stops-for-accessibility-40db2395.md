@@ -11,7 +11,7 @@ tags:
   - "mobility"
   - "accessibility upgrades"
 sourceName: "Moovit"
-sourceUrl: "https://news.moovitapp.com/"
+sourceUrl: "https://news.moovitapp.com/en/news/wmata-upgrades-bus-stops-for-accessibility_142_2026-04-22_1776859213808"
 relatedSources:
   - name: "Moovit"
     url: "https://news.moovitapp.com/"

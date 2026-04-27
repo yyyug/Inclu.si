@@ -12,7 +12,7 @@ tags:
   - "ADA"
   - "municipalities"
 sourceName: "League of Minnesota Cities"
-sourceUrl: "https://www.lmc.org/"
+sourceUrl: "https://www.lmc.org/news-publications/news/all/doj-extends-web-accessibility-compliance-deadlines-for-local-governments/"
 relatedSources:
   - name: "League of Minnesota Cities"
     url: "https://www.lmc.org/"

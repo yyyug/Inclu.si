@@ -25,7 +25,9 @@ const filteredEntries = selectedCategory
 
 const total = filteredEntries.length;
 const pages = Math.ceil(total / perPage);
-const page = Math.max(1, Math.min(currentPage, pages));
+const urlPageParam = parseInt(url.searchParams.get('page') ?? '', 10);
+const resolvedPage = isNaN(urlPageParam) ? currentPage : urlPageParam;
+const page = Math.max(1, Math.min(resolvedPage, pages));
 const start = (page - 1) * perPage;
 const end = start + perPage;
 const paginatedEntries = filteredEntries.slice(start, end);

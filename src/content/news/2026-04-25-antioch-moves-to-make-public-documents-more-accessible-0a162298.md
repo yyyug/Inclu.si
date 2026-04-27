@@ -10,7 +10,7 @@ tags:
   - "government"
   - "municipal"
 sourceName: "East Bay Times"
-sourceUrl: "https://www.eastbaytimes.com/"
+sourceUrl: "https://www.eastbaytimes.com/2026/04/24/in-brief-antioch-moves-to-make-public-documents-more-accessible/"
 relatedSources:
   - name: "East Bay Times"
     url: "https://www.eastbaytimes.com/"

@@ -12,7 +12,7 @@ tags:
   - "accessible design"
   - "sustainable"
 sourceName: "Aviation Week"
-sourceUrl: "https://aviationweek.com/"
+sourceUrl: "https://aviationweek.com/aerospace/manufacturing-supply-chain/aircraft-cabin-interiors-will-become-more-accessible"
 relatedSources:
   - name: "Aviation Week"
     url: "https://aviationweek.com/"

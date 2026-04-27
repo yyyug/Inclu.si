@@ -12,7 +12,7 @@ tags:
   - "opinion"
   - "university-of-portland"
 sourceName: "upbeacon.com"
-sourceUrl: "https://upbeacon.com/"
+sourceUrl: "https://www.upbeacon.com/article/opinion-accessibility-at-up-still-falls-short-20260423"
 relatedSources:
   - name: "upbeacon.com"
     url: "https://upbeacon.com/"

@@ -13,7 +13,7 @@ tags:
   - "Section 508"
   - "WCAG"
 sourceName: "JD Supra"
-sourceUrl: "https://www.jdsupra.com/"
+sourceUrl: "https://www.jdsupra.com/authors/david-raizman/state-and-local-government/"
 relatedSources:
   - name: "JD Supra"
     url: "https://www.jdsupra.com/"

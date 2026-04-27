@@ -10,7 +10,7 @@ tags:
   - "accessible destinations"
   - "Philadelphia"
 sourceName: "Visit Philadelphia"
-sourceUrl: "https://www.visitphilly.com/"
+sourceUrl: "https://www.visitphilly.com/features/accessible-philadelphia/"
 relatedSources:
   - name: "Visit Philadelphia"
     url: "https://www.visitphilly.com/"

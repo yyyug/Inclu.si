@@ -12,7 +12,7 @@ tags:
   - "education"
   - "regulations"
 sourceName: "K-12 Dive"
-sourceUrl: "https://www.k12dive.com/"
+sourceUrl: "https://www.k12dive.com/news/justice-department-extends-web-accessibility-deadlines/817982/"
 relatedSources:
   - name: "K-12 Dive"
     url: "https://www.k12dive.com/"

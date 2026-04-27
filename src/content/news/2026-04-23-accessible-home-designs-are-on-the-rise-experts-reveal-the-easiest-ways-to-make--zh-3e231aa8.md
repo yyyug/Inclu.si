@@ -10,7 +10,7 @@ tags:
   - "home modification"
   - "architectural accessibility"
 sourceName: "Realtor.com"
-sourceUrl: "https://www.realtor.com/"
+sourceUrl: "https://www.realtor.com/living/"
 relatedSources:
   - name: "Realtor.com"
     url: "https://www.realtor.com/"

@@ -14,7 +14,7 @@ tags:
   - "schools"
   - "universities"
 sourceName: "PR Newswire"
-sourceUrl: "https://www.prnewswire.com/"
+sourceUrl: "https://www.prnewswire.com/rss/multicultural-latest-news/multicultural-latest-news-list.rss"
 relatedSources:
   - name: "PR Newswire"
     url: "https://www.prnewswire.com/"

@@ -11,7 +11,7 @@ tags:
   - "students"
   - "disability"
 sourceName: "The Duke Chronicle"
-sourceUrl: "https://dukechronicle.com/"
+sourceUrl: "https://dukechronicle.com/article/duke-has-an-accessibility-problem-20251030"
 relatedSources:
   - name: "The Duke Chronicle"
     url: "https://dukechronicle.com/"

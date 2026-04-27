@@ -13,7 +13,7 @@ tags:
   - "higher education"
   - "disability rights"
 sourceName: "KKCO 11 News"
-sourceUrl: "https://www.kkco11news.com/"
+sourceUrl: "https://www.kkco11news.com/news/"
 relatedSources:
   - name: "KKCO 11 News"
     url: "https://www.kkco11news.com/"

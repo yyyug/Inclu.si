@@ -12,7 +12,7 @@ tags:
   - "federal-regulations"
   - "compliance"
 sourceName: "Texas Standard"
-sourceUrl: "https://www.texasstandard.org/"
+sourceUrl: "https://www.texasstandard.org/stories/department-of-justice-delays-enforcement-of-digital-accessibility-rules/"
 relatedSources:
   - name: "Texas Standard"
     url: "https://www.texasstandard.org/"

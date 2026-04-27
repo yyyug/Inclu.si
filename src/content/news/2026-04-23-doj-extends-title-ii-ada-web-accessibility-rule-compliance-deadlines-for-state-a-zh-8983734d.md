@@ -14,7 +14,7 @@ tags:
   - "compliance deadlines"
   - "regulations"
 sourceName: "Consumer Financial Services Law Monitor"
-sourceUrl: "https://www.consumerfinancialserviceslawmonitor.com/"
+sourceUrl: "https://www.consumerfinancialserviceslawmonitor.com/2026/04/doj-extends-title-ii-ada-web-accessibility-rule-compliance-deadlines-for-state-and-local-governments/"
 relatedSources:
   - name: "Consumer Financial Services Law Monitor"
     url: "https://www.consumerfinancialserviceslawmonitor.com/"

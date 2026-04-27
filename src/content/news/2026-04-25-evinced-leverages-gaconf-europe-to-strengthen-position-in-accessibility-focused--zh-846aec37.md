@@ -10,10 +10,10 @@ tags:
   - "market"
   - "conference"
 sourceName: "TipRanks"
-sourceUrl: "https://www.tipranks.com/"
+sourceUrl: "https://www.linkedin.com/posts/evinced_conference-activity-7453530823343087616-698B"
 relatedSources:
   - name: "TipRanks"
-    url: "https://www.tipranks.com/"
+    url: "https://www.linkedin.com/posts/evinced_conference-activity-7453530823343087616-698B"
 clusterId: "cluster-846aec37"
 status: "published"
 translationOf: "evinced-leverages-gaconf-europe-to-strengthen-position-in-accessibility-focused--846aec37"
@@ -23,4 +23,4 @@ fetchedAt: "2026-04-26T06:47:30.410Z"
 
 Evinced正在利用GAConf Europe加強其在無障礙遊戲市場的地位，表明業界越來越重視讓電子遊戲更能惠及殘障玩家。
 
-原文來源： [TipRanks](https://www.tipranks.com/)
+原文來源： [TipRanks](https://www.linkedin.com/posts/evinced_conference-activity-7453530823343087616-698B)

@@ -11,7 +11,7 @@ tags:
   - "municipal"
   - "requirements"
 sourceName: "National League of Cities"
-sourceUrl: "https://www.nlc.org/"
+sourceUrl: "https://www.nlc.org/article/2026/02/18/is-your-city-ready-for-website-accessibility-requirements/"
 relatedSources:
   - name: "National League of Cities"
     url: "https://www.nlc.org/"

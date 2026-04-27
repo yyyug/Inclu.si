@@ -11,7 +11,7 @@ tags:
   - "technology"
   - "artificial intelligence"
 sourceName: "Microsoft"
-sourceUrl: "https://www.microsoft.com/"
+sourceUrl: "https://www.microsoft.com/insidetrack/blog/mapping-the-microsoft-approach-to-accessibility-in-the-world-of-ai/"
 relatedSources:
   - name: "Microsoft"
     url: "https://www.microsoft.com/"

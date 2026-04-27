@@ -10,7 +10,7 @@ tags:
   - "college students"
   - "Rory Goss"
 sourceName: "Apple"
-sourceUrl: "https://www.apple.com/"
+sourceUrl: "https://www.apple.com/education/college-students/success-stories/goss/"
 relatedSources:
   - name: "Apple"
     url: "https://www.apple.com/"

@@ -12,7 +12,7 @@ tags:
   - "city government"
   - "public comment"
 sourceName: "The Killeen Daily Herald"
-sourceUrl: "https://kdhnews.com/"
+sourceUrl: "https://kdhnews.com/news/local/killeen-seeks-public-input-on-ada-accessibility/article_4786aa8d-0227-48a5-8c63-6bb53eb8a59d.html"
 relatedSources:
   - name: "The Killeen Daily Herald"
     url: "https://kdhnews.com/"

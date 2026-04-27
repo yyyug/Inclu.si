@@ -12,7 +12,7 @@ tags:
   - "accessible-tourism"
   - "disability"
 sourceName: "travelportland.com"
-sourceUrl: "https://www.travelportland.com/"
+sourceUrl: "https://www.travelportland.com/plan/accessible-portland/"
 relatedSources:
   - name: "travelportland.com"
     url: "https://www.travelportland.com/"

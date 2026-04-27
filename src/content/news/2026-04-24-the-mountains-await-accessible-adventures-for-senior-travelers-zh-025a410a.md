@@ -11,7 +11,7 @@ tags:
   - "mountains"
   - "outdoor adventures"
 sourceName: "AMAC - The Association of Mature American Citizens"
-sourceUrl: "https://amac.us/"
+sourceUrl: "https://amac.us/newsline/lifestyle/the-mountains-await-accessible-adventures-for-senior-travelers/"
 relatedSources:
   - name: "AMAC - The Association of Mature American Citizens"
     url: "https://amac.us/"

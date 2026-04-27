@@ -11,7 +11,7 @@ tags:
   - "accessible-learning"
   - "compliance"
 sourceName: "The Daily Utah Chronicle"
-sourceUrl: "https://dailyutahchronicle.com/"
+sourceUrl: "https://dailyutahchronicle.com/2026/04/21/professors-navigate-new-accessibility-requirements-in-coursework/"
 relatedSources:
   - name: "The Daily Utah Chronicle"
     url: "https://dailyutahchronicle.com/"

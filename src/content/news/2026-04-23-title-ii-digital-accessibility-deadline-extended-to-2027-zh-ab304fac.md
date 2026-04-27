@@ -11,7 +11,7 @@ tags:
   - "deadline"
   - "compliance"
 sourceName: "Wahoo Newspaper"
-sourceUrl: "https://wahoo-ashland-waverly.com/"
+sourceUrl: "https://wahoo-ashland-waverly.com/community/ashland/"
 relatedSources:
   - name: "Wahoo Newspaper"
     url: "https://wahoo-ashland-waverly.com/"

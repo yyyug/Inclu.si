@@ -11,7 +11,7 @@ tags:
   - "accessibility"
   - "campus accessibility"
 sourceName: "Georgia Institute of Technology"
-sourceUrl: "https://www.gatech.edu/"
+sourceUrl: "https://www.gatech.edu/news/2026/01/13/strengthening-georgia-techs-commitment-accessibility"
 relatedSources:
   - name: "Georgia Institute of Technology"
     url: "https://www.gatech.edu/"

@@ -12,7 +12,7 @@ tags:
   - "compliance"
   - "regulation"
 sourceName: "Higher Ed Dive"
-sourceUrl: "https://www.highereddive.com/"
+sourceUrl: "https://www.highereddive.com/news/justice-department-extends-web-accessibility-deadlines/818133/"
 relatedSources:
   - name: "Higher Ed Dive"
     url: "https://www.highereddive.com/"

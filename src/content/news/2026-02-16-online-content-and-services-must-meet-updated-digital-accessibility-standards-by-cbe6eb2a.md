@@ -11,7 +11,7 @@ tags:
   - "compliance deadline"
   - "online accessibility"
 sourceName: "Clemson News"
-sourceUrl: "https://news.clemson.edu/"
+sourceUrl: "https://news.clemson.edu/online-content-and-services-must-meet-updated-digital-accessibility-standards-by-april-2026/"
 relatedSources:
   - name: "Clemson News"
     url: "https://news.clemson.edu/"

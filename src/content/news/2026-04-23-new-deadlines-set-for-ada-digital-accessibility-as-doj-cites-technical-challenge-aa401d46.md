@@ -13,7 +13,7 @@ tags:
   - "regulations"
   - "compliance"
 sourceName: "The EDU Ledger"
-sourceUrl: "https://www.theeduledger.com/"
+sourceUrl: "https://www.theeduledger.com/leadership-policy/article/15823102/new-deadlines-set-for-ada-digital-accessibility-as-doj-cites-technical-challenges"
 relatedSources:
   - name: "The EDU Ledger"
     url: "https://www.theeduledger.com/"

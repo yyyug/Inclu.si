@@ -10,7 +10,7 @@ tags:
   - "quality"
   - "accessibility in learning"
 sourceName: "University of Montana"
-sourceUrl: "https://www.umt.edu/"
+sourceUrl: "https://www.umt.edu/strategy/stories/paws_for_accessibility.php"
 relatedSources:
   - name: "University of Montana"
     url: "https://www.umt.edu/"

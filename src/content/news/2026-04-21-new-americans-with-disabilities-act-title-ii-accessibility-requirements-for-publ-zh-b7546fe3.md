@@ -14,7 +14,7 @@ tags:
   - "higher education"
   - "in-house counsel"
 sourceName: "New York State Bar Association"
-sourceUrl: "https://nysba.org/"
+sourceUrl: "https://nysba.org/author/dalexandernysba-org/"
 relatedSources:
   - name: "New York State Bar Association"
     url: "https://nysba.org/"

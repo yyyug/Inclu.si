@@ -10,7 +10,7 @@ tags:
   - "task force"
   - "higher education"
 sourceName: "Purdue University Northwest"
-sourceUrl: "https://www.pnw.edu/"
+sourceUrl: "https://www.pnw.edu/digital-accessibility-updates-and-thank-you-to-task-force/"
 relatedSources:
   - name: "Purdue University Northwest"
     url: "https://www.pnw.edu/"

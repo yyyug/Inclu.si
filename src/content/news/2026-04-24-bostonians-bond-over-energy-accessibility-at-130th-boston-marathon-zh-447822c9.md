@@ -11,7 +11,7 @@ tags:
   - "Boston"
   - "community"
 sourceName: "The Huntington News"
-sourceUrl: "https://huntnewsnu.com/"
+sourceUrl: "https://huntnewsnu.com/92939/city/metro/everybody-here-loves-getting-crunk-and-thats-wonderful-bostonians-bond-over-energy-accessibility-at-130th-boston-marathon/"
 relatedSources:
   - name: "The Huntington News"
     url: "https://huntnewsnu.com/"

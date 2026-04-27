@@ -12,7 +12,7 @@ tags:
   - "compliance"
   - "public entities"
 sourceName: "University of Michigan-Flint"
-sourceUrl: "https://www.umflint.edu/"
+sourceUrl: "https://www.umflint.edu/accessibility/recent-email-news/title-ii-update/"
 relatedSources:
   - name: "University of Michigan-Flint"
     url: "https://www.umflint.edu/"

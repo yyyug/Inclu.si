@@ -11,7 +11,7 @@ tags:
   - "UC Davis"
   - "digital accessibility"
 sourceName: "UC Davis"
-sourceUrl: "https://www.ucdavis.edu/"
+sourceUrl: "https://www.ucdavis.edu/news/new-accessibility-regulations-apply-employees-who-create-online-content"
 relatedSources:
   - name: "UC Davis"
     url: "https://www.ucdavis.edu/"

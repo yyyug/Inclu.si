@@ -10,7 +10,7 @@ tags:
   - "city government"
   - "inclusion"
 sourceName: "City of Philadelphia (.gov)"
-sourceUrl: "https://www.phila.gov/"
+sourceUrl: "https://www.phila.gov/2026-01-15-new-accessibility-plan-requirement-for-special-events/"
 relatedSources:
   - name: "City of Philadelphia (.gov)"
     url: "https://www.phila.gov/"

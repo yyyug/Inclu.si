@@ -11,7 +11,7 @@ tags:
   - "adaptive"
   - "Google"
 sourceName: "blog.google"
-sourceUrl: "https://blog.google/"
+sourceUrl: "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/"
 relatedSources:
   - name: "blog.google"
     url: "https://blog.google/"

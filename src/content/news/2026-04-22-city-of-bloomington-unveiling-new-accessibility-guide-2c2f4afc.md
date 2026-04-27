@@ -10,7 +10,7 @@ tags:
   - "public services"
   - "resources"
 sourceName: "Fox 59"
-sourceUrl: "https://fox59.com/"
+sourceUrl: "https://fox59.com/video/city-of-bloomington-unveiling-new-accessibility-guide/11724814/"
 relatedSources:
   - name: "Fox 59"
     url: "https://fox59.com/"

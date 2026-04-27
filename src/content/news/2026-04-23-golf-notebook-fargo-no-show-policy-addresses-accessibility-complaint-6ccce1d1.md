@@ -10,7 +10,7 @@ tags:
   - "policy"
   - "city services"
 sourceName: "InForum"
-sourceUrl: "https://www.inforum.com/"
+sourceUrl: "https://www.inforum.com/sports/golf-notebook-fargo-no-show-policy-addresses-accessibility-complaint"
 relatedSources:
   - name: "InForum"
     url: "https://www.inforum.com/"

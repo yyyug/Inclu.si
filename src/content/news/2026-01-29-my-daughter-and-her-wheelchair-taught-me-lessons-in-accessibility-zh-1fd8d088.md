@@ -10,7 +10,7 @@ tags:
   - "accessibility lessons"
   - "mobility"
 sourceName: "Rett Syndrome News"
-sourceUrl: "https://rettsyndromenews.com/"
+sourceUrl: "https://rettsyndromenews.com/columns/daughter-wheelchair-taught-me-lessons-accessibility/"
 relatedSources:
   - name: "Rett Syndrome News"
     url: "https://rettsyndromenews.com/"

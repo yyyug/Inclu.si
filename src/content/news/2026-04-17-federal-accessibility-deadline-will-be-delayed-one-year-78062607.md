@@ -13,7 +13,7 @@ tags:
   - "regulation"
   - "compliance"
 sourceName: "govtech.com"
-sourceUrl: "https://www.govtech.com/"
+sourceUrl: "https://www.govtech.com/policy/federal-accessibility-deadline-will-be-delayed-one-year"
 relatedSources:
   - name: "govtech.com"
     url: "https://www.govtech.com/"

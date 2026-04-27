@@ -13,7 +13,7 @@ tags:
   - "government"
   - "health"
 sourceName: "Association of State and Territorial Health Officials | ASTHO"
-sourceUrl: "https://www.astho.org/"
+sourceUrl: "https://www.astho.org/topic/resource/2026/guide-for-meeting-wcag-web-accessibility-standards/"
 relatedSources:
   - name: "Association of State and Territorial Health Officials | ASTHO"
     url: "https://www.astho.org/"

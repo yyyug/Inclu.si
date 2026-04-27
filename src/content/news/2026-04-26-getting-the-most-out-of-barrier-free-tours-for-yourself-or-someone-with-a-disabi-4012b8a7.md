@@ -11,7 +11,7 @@ tags:
   - "travel"
   - "accessible tourism"
 sourceName: "AP News"
-sourceUrl: "https://apnews.com/"
+sourceUrl: "https://apnews.com/article/barrierfree-tours-tourism-accessibility-travel-d6db91935bdc0210e70479954a70f0ec"
 relatedSources:
   - name: "AP News"
     url: "https://apnews.com/"

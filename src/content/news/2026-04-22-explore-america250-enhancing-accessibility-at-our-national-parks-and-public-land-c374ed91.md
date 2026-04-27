@@ -13,7 +13,7 @@ tags:
   - "legislation"
   - "inclusion"
 sourceName: "House Committee on Natural Resources (.gov)"
-sourceUrl: "https://naturalresources.house.gov/"
+sourceUrl: "https://naturalresources.house.gov/calendar/eventsingle.aspx?EventID=418710"
 relatedSources:
   - name: "House Committee on Natural Resources (.gov)"
     url: "https://naturalresources.house.gov/"

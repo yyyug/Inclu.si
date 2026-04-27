@@ -13,7 +13,7 @@ tags:
   - "digital accessibility"
   - "higher education"
 sourceName: "Columbia Missourian"
-sourceUrl: "https://www.columbiamissourian.com/"
+sourceUrl: "https://www.columbiamissourian.com/news/higher_education/ada-online-accessibility-deadline-extended-for-university-of-missouri/article_def6a107-9cd1-466f-aabf-952521c08a7b.html"
 relatedSources:
   - name: "Columbia Missourian"
     url: "https://www.columbiamissourian.com/"

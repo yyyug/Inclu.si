@@ -13,7 +13,7 @@ tags:
   - "gaming"
   - "accessibility law"
 sourceName: "NBC Sports"
-sourceUrl: "https://www.nbcsports.com/"
+sourceUrl: "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/senator-tammy-baldwin-will-introduce-bill-aimed-at-game-accessibility"
 relatedSources:
   - name: "NBC Sports"
     url: "https://www.nbcsports.com/"

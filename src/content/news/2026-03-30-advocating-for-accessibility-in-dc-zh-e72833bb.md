@@ -10,7 +10,7 @@ tags:
   - "accessibility rights"
   - "legislation"
 sourceName: "SUNY Brockport"
-sourceUrl: "https://www.brockport.edu/"
+sourceUrl: "https://www.brockport.edu/live/news/12473-advocating-for-accessibility-in-dc"
 relatedSources:
   - name: "SUNY Brockport"
     url: "https://www.brockport.edu/"

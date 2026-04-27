@@ -11,7 +11,7 @@ tags:
   - "accessibility commitments"
   - "tech"
 sourceName: "simplywall.st"
-sourceUrl: "https://simplywall.st/"
+sourceUrl: "https://simplywall.st/stocks/us/tech/nasdaq-aapl/apple/news/apple-lawsuit-puts-apple-pay-oversight-and-accessibility-com"
 relatedSources:
   - name: "simplywall.st"
     url: "https://simplywall.st/"

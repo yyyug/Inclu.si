@@ -10,7 +10,7 @@ tags:
   - "education"
   - "compliance"
 sourceName: "Ohio University"
-sourceUrl: "https://www.ohio.edu/"
+sourceUrl: "https://www.ohio.edu/news/2026/02/new-federal-digital-accessibility-deadline-what-ohio-faculty-need-know"
 relatedSources:
   - name: "Ohio University"
     url: "https://www.ohio.edu/"

@@ -12,7 +12,7 @@ tags:
   - "digital-accessibility"
   - "property-access"
 sourceName: "National Association of REALTORS®"
-sourceUrl: "https://www.nar.realtor/"
+sourceUrl: "https://www.nar.realtor/magazine/real-estate-news/barry-long-rewriting-the-rules-on-accessibility"
 relatedSources:
   - name: "National Association of REALTORS®"
     url: "https://www.nar.realtor/"

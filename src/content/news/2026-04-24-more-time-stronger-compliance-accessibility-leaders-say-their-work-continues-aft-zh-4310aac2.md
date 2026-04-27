@@ -12,7 +12,7 @@ tags:
   - "government"
   - "regulations"
 sourceName: "StateScoop"
-sourceUrl: "https://statescoop.com/"
+sourceUrl: "https://statescoop.com/doj-accessibility-deadline-extension-compliance/"
 relatedSources:
   - name: "StateScoop"
     url: "https://statescoop.com/"

@@ -11,7 +11,7 @@ tags:
   - "gameplay modifiers"
   - "Saros"
 sourceName: "PlayStation.Blog"
-sourceUrl: "https://blog.playstation.com/"
+sourceUrl: "https://blog.playstation.com/2026/04/23/saros-gameplay-modifiers-accessibility-options-and-more-detailed/"
 relatedSources:
   - name: "PlayStation.Blog"
     url: "https://blog.playstation.com/"

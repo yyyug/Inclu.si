@@ -12,7 +12,7 @@ tags:
   - "public services"
   - "municipal program"
 sourceName: "Indiana Daily Student"
-sourceUrl: "https://www.idsnews.com/"
+sourceUrl: "https://www.idsnews.com/article/2026/04/cityofbloomington041526"
 relatedSources:
   - name: "Indiana Daily Student"
     url: "https://www.idsnews.com/"

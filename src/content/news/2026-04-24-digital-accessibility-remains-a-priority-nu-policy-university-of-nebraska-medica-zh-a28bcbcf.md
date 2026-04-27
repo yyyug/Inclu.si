@@ -11,7 +11,7 @@ tags:
   - "NU"
   - "UNMC"
 sourceName: "University of Nebraska Medical Center"
-sourceUrl: "https://www.unmc.edu/"
+sourceUrl: "https://www.unmc.edu/newsroom/2026/04/24/digital-accessibility-remains-a-priority-nu-policy/"
 relatedSources:
   - name: "University of Nebraska Medical Center"
     url: "https://www.unmc.edu/"

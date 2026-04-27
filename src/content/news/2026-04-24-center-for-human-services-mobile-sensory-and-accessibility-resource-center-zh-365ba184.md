@@ -10,7 +10,7 @@ tags:
   - "community services"
   - "sensory support"
 sourceName: "KCTV"
-sourceUrl: "https://www.kctv5.com/"
+sourceUrl: "https://www.kctv5.com/2026/04/24/center-human-services-mobile-sensory-accessibility-resource-center/"
 relatedSources:
   - name: "KCTV"
     url: "https://www.kctv5.com/"

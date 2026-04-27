@@ -11,7 +11,7 @@ tags:
   - "video"
   - "educational"
 sourceName: "University of North Dakota"
-sourceUrl: "https://blogs.und.edu/"
+sourceUrl: "https://blogs.und.edu/und-today/2026/03/video-part-3-the-expectations-of-digital-accessibility-compliance/"
 relatedSources:
   - name: "University of North Dakota"
     url: "https://blogs.und.edu/"

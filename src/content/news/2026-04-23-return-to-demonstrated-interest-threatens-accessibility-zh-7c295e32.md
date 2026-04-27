@@ -11,7 +11,7 @@ tags:
   - "disability rights"
   - "students"
 sourceName: "studlife.com"
-sourceUrl: "https://www.studlife.com/"
+sourceUrl: "https://www.studlife.com/forum/2026/04/23/return-to-demonstrated-interest-threatens-accessibility"
 relatedSources:
   - name: "studlife.com"
     url: "https://www.studlife.com/"

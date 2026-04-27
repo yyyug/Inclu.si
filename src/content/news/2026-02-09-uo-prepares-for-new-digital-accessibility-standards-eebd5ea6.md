@@ -11,7 +11,7 @@ tags:
   - "UO"
   - "policy"
 sourceName: "OregonNews"
-sourceUrl: "https://news.uoregon.edu/"
+sourceUrl: "https://news.uoregon.edu/content/uo-prepares-new-digital-accessibility-standards"
 relatedSources:
   - name: "OregonNews"
     url: "https://news.uoregon.edu/"

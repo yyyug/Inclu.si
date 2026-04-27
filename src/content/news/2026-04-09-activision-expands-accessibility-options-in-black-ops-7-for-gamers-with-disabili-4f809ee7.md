@@ -14,7 +14,7 @@ tags:
   - "inclusive design"
   - "assistive gaming"
 sourceName: "Call of Duty"
-sourceUrl: "https://www.callofduty.com/"
+sourceUrl: "https://www.callofduty.com/blog/2026/04/call-of-duty-black-ops-7-expanding-accessibility-new-control-options"
 relatedSources:
   - name: "Call of Duty"
     url: "https://www.callofduty.com/"

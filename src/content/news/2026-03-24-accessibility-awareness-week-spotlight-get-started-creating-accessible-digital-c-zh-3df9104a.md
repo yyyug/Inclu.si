@@ -10,7 +10,7 @@ tags:
   - "education"
   - "best practices"
 sourceName: "Virginia Tech News"
-sourceUrl: "https://news.vt.edu/"
+sourceUrl: "https://news.vt.edu/tags/_jcr_content/search-results.xml/news_vt_edu:accessibility"
 relatedSources:
   - name: "Virginia Tech News"
     url: "https://news.vt.edu/"

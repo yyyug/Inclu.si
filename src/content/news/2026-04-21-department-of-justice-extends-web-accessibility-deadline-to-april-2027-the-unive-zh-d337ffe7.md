@@ -14,7 +14,7 @@ tags:
   - "higher education"
   - "2027"
 sourceName: "The University of Utah"
-sourceUrl: "https://attheu.utah.edu/"
+sourceUrl: "https://attheu.utah.edu/announcements/dept-of-justice-extends-web-accessibility-deadline-to-april-2027/"
 relatedSources:
   - name: "The University of Utah"
     url: "https://attheu.utah.edu/"

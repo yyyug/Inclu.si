@@ -13,7 +13,7 @@ tags:
   - "digital accessibility"
   - "deadline extension"
 sourceName: "National Association of Counties"
-sourceUrl: "https://www.naco.org/"
+sourceUrl: "https://www.naco.org/topics/telecommunications-technology"
 relatedSources:
   - name: "National Association of Counties"
     url: "https://www.naco.org/"

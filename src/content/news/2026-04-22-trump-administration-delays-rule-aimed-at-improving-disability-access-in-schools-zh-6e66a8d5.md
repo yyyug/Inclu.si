@@ -14,7 +14,7 @@ tags:
   - "regulation"
   - "delay"
 sourceName: "NPR"
-sourceUrl: "https://www.npr.org/"
+sourceUrl: "https://www.npr.org/2026/04/22/nx-s1-5791680/doj-disability-web-access-delay-schools"
 relatedSources:
   - name: "NPR"
     url: "https://www.npr.org/"

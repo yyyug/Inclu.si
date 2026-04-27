@@ -13,7 +13,7 @@ tags:
   - "HHS"
   - "federal regulations"
 sourceName: "Jackson Lewis"
-sourceUrl: "https://www.jacksonlewis.com/"
+sourceUrl: "https://www.jacksonlewis.com/insights/doj-extends-public-entities-compliance-deadline-ada-related-website-accessibility-hhss-may-2026-deadline-still-looms"
 relatedSources:
   - name: "Jackson Lewis"
     url: "https://www.jacksonlewis.com/"

@@ -11,7 +11,7 @@ tags:
   - "London"
   - "disability"
 sourceName: "Disability Horizons"
-sourceUrl: "https://disabilityhorizons.com/"
+sourceUrl: "https://disabilityhorizons.com/tag/disability-access-london-parks/"
 relatedSources:
   - name: "Disability Horizons"
     url: "https://disabilityhorizons.com/"

@@ -13,7 +13,7 @@ tags:
   - "UGA"
   - "higher education"
 sourceName: "The Red & Black"
-sourceUrl: "https://www.redandblack.com/"
+sourceUrl: "https://www.redandblack.com/uga-digital-accessibility-program-compliance-deadline-extended-to-2027/article_9577c249-a9ba-45a3-9069-118f89ab6c22.html"
 relatedSources:
   - name: "The Red & Black"
     url: "https://www.redandblack.com/"

@@ -11,7 +11,7 @@ tags:
   - "education"
   - "disability"
 sourceName: "Yahoo"
-sourceUrl: "https://www.yahoo.com/"
+sourceUrl: "https://www.yahoo.com/news/articles/10k-grant-given-local-college-031128454.html"
 relatedSources:
   - name: "KCAU 9 News"
     url: "https://www.kcau9.com/"

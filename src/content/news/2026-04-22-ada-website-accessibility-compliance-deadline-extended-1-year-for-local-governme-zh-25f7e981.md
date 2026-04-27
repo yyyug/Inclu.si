@@ -13,7 +13,7 @@ tags:
   - "websites"
   - "digital accessibility"
 sourceName: "Smart Cities Dive"
-sourceUrl: "https://www.smartcitiesdive.com/"
+sourceUrl: "https://www.smartcitiesdive.com/news/ada-website-accessibility-compliance-deadline-extended-one-year/818187/"
 relatedSources:
   - name: "Smart Cities Dive"
     url: "https://www.smartcitiesdive.com/"

@@ -10,7 +10,7 @@ tags:
   - "federal"
   - "university"
 sourceName: "UCnet"
-sourceUrl: "https://ucnet.universityofcalifornia.edu/"
+sourceUrl: "https://ucnet.universityofcalifornia.edu/labor-news/uc-teamsters-032426/"
 relatedSources:
   - name: "UCnet"
     url: "https://ucnet.universityofcalifornia.edu/"

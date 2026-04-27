@@ -12,7 +12,7 @@ tags:
   - "physical accessibility"
   - "inclusion"
 sourceName: "BBC"
-sourceUrl: "https://www.bbc.com/"
+sourceUrl: "https://www.bbc.com/news/articles/cgk04l0zjzxo"
 relatedSources:
   - name: "BBC"
     url: "https://www.bbc.com/"

@@ -11,7 +11,7 @@ tags:
   - "Northwestern"
   - "higher education"
 sourceName: "Northwestern Now News"
-sourceUrl: "https://news.northwestern.edu/"
+sourceUrl: "https://news.northwestern.edu/topics/show/university-news"
 relatedSources:
   - name: "Northwestern Now News"
     url: "https://news.northwestern.edu/"

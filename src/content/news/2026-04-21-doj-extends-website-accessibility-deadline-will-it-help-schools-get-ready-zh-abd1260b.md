@@ -14,7 +14,7 @@ tags:
   - "digital accessibility"
   - "ADA"
 sourceName: "EdSurge"
-sourceUrl: "https://www.edsurge.com/"
+sourceUrl: "https://www.edsurge.com/news/2026-04-21-doj-extends-website-accessibility-deadline-will-it-help-schools-get-ready"
 relatedSources:
   - name: "EdSurge"
     url: "https://www.edsurge.com/"

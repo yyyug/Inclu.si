@@ -11,7 +11,7 @@ tags:
   - "education"
   - "ADA"
 sourceName: "WKU Public Radio"
-sourceUrl: "https://www.wkyufm.org/"
+sourceUrl: "https://www.wkyufm.org/news/2026-04-22/trump-administration-delays-rule-aimed-at-improving-disability-access-in-schools"
 relatedSources:
   - name: "WKU Public Radio"
     url: "https://www.wkyufm.org/"

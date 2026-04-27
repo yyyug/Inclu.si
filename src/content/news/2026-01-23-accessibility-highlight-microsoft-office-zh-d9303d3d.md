@@ -10,7 +10,7 @@ tags:
   - "software"
   - "assistive technology"
 sourceName: "The Pennsylvania State University"
-sourceUrl: "https://www.psu.edu/"
+sourceUrl: "https://www.psu.edu/news/information-technology/story/accessibility-highlight-microsoft-office"
 relatedSources:
   - name: "The Pennsylvania State University"
     url: "https://www.psu.edu/"
