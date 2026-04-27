@@ -16,7 +16,7 @@ const copy = siteCopy[locale];
 const entries = await getPublishedNewsByLocale(locale);
 const categoryCounts = collectCategoryCounts(entries);
 const localeDigest = digestData[locale] ?? null;
-const entryBySlug = new Map(entries.map((entry) => [entry.slug, entry]));
+const entryBySlug = new Map(entries.map((entry) => [entry.data.slug, entry]));
 ---
 
 <Layout locale={locale} title={copy.siteTitle}>
