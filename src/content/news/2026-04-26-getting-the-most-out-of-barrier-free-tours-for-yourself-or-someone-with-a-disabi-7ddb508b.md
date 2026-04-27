@@ -15,6 +15,8 @@ sourceUrl: "https://www.newsday.com/"
 relatedSources:
   - name: "AP News"
     url: "https://apnews.com/"
+  - name: "AP News"
+    url: "https://apnews.com/article/barrierfree-tours-tourism-accessibility-travel-d6db91935bdc0210e70479954a70f0ec"
   - name: "Newsday"
     url: "https://www.newsday.com/"
 clusterId: "cluster-4012b8a7"

@@ -16,6 +16,8 @@ sourceUrl: "https://www.abc.net.au/"
 relatedSources:
   - name: "Australian Broadcasting Corporation"
     url: "https://www.abc.net.au/"
+  - name: "Australian Broadcasting Corporation"
+    url: "https://www.abc.net.au/news/2026-04-26/advocate-threatened-with-fine-at-airport-disability-parking-zone/106607748"
 clusterId: "cluster-25b47c71"
 status: "published"
 translationOf: "wheelchair-user-calls-for-common-sense-after-fine-threat-for-using-accessible-zo-zh-25b47c71"
