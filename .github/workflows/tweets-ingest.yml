@@ -33,7 +33,7 @@ jobs:
           npm run news:cluster 2>&1 | tee -a tweets-ingest.log
         env:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
-          APIFY_ACTOR_ID: apidojo/tweet-scraper
+          APIFY_ACTOR_ID: ${{ secrets.APIFY_ACTOR_ID || 'kaitoeasyapi/twitter-x-data-tweet-scraper-pay-per-result-cheapest' }}
           A11Y_TWEET_DEBUG: 1
           A11Y_TWEET_QUERY: ""
           A11Y_TWEET_KEYWORDS: a11y,accessibility,inclusion
@@ -49,13 +49,14 @@ jobs:
           CLUSTER_MAX_HOURS_DIFF: 36
 
       - name: Upload tweet ingest log artifact
-        if: always()
+        if: failure()
         continue-on-error: true
         uses: actions/upload-artifact@v4
         with:
           name: tweet-ingest-log-${{ github.run_id }}
           path: tweets-ingest.log
-          if-no-files-found: warn
+          if-no-files-found: ignore
+          retention-days: 2
 
       - name: Commit generated content
         run: |

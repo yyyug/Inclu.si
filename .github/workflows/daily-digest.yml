@@ -36,13 +36,14 @@ jobs:
           OLLAMA_MODEL: ${{ secrets.OLLAMA_MODEL }}
 
       - name: Upload digest log artifact
-        if: always()
+        if: failure()
         continue-on-error: true
         uses: actions/upload-artifact@v4
         with:
           name: digest-log-${{ github.run_id }}
           path: digest.log
-          if-no-files-found: warn
+          if-no-files-found: ignore
+          retention-days: 2
 
       - name: Commit digest output
         run: |
