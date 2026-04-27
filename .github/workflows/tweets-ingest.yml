@@ -33,7 +33,8 @@ jobs:
           npm run news:cluster 2>&1 | tee -a tweets-ingest.log
         env:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
-          APIFY_ACTOR_ID: ${{ vars.APIFY_ACTOR_ID || 'kaitoeasyapi/twitter-x-data-tweet-scraper-pay-per-result-cheapest' }}
+          APIFY_ACTOR_ID: apidojo/tweet-scraper
+          A11Y_TWEET_DEBUG: 1
           A11Y_TWEET_QUERY: ""
           A11Y_TWEET_KEYWORDS: a11y,accessibility,inclusion
           A11Y_TWEET_ACCOUNTS: BlindNewWorld,UCBInfo
