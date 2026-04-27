@@ -11,7 +11,7 @@ tags:
   - "Ireland"
   - "disability rights"
 sourceName: "The Irish Times"
-sourceUrl: "https://www.irishtimes.com/"
+sourceUrl: "https://www.irishtimes.com/culture/2026/04/26/basic-income-for-the-arts-how-accessible-is-it-for-artists-with-disabilities/"
 relatedSources:
   - name: "The Irish Times"
     url: "https://www.irishtimes.com/"

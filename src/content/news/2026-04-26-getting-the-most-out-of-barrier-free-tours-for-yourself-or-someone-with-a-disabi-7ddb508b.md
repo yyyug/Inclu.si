@@ -11,7 +11,7 @@ tags:
   - "travel"
   - "accessible tourism"
 sourceName: "Newsday"
-sourceUrl: "https://www.newsday.com/"
+sourceUrl: "https://www.newsday.com/lifestyle/barrierfree-tours-tourism-accessibility-travel-a84753"
 relatedSources:
   - name: "AP News"
     url: "https://apnews.com/"

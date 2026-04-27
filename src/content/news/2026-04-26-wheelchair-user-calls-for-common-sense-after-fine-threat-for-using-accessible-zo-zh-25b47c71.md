@@ -12,7 +12,7 @@ tags:
   - "Australia"
   - "disability rights"
 sourceName: "Australian Broadcasting Corporation"
-sourceUrl: "https://www.abc.net.au/"
+sourceUrl: "https://www.abc.net.au/news/2026-04-26/advocate-threatened-with-fine-at-airport-disability-parking-zone/106607748"
 relatedSources:
   - name: "Australian Broadcasting Corporation"
     url: "https://www.abc.net.au/"

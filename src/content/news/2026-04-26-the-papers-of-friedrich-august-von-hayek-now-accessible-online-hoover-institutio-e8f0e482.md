@@ -13,7 +13,7 @@ tags:
   - "academic"
   - "history"
 sourceName: "Hoover Institution"
-sourceUrl: "https://www.hoover.org/"
+sourceUrl: "https://www.hoover.org/news/papers-friedrich-august-von-hayek-now-accessible-online"
 relatedSources:
   - name: "Hoover Institution"
     url: "https://www.hoover.org/"

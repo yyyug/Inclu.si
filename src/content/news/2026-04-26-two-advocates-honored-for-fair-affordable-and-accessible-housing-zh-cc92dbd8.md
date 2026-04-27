@@ -13,7 +13,7 @@ tags:
   - "affordable housing"
   - "disability"
 sourceName: "Fig City News"
-sourceUrl: "https://www.figcitynews.com/"
+sourceUrl: "https://www.figcitynews.com/2026/04/two-advocates-honored-for-fair-affordable-and-accessible-housing/"
 relatedSources:
   - name: "Fig City News"
     url: "https://www.figcitynews.com/"
