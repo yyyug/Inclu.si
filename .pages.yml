@@ -18,7 +18,7 @@ content:
           name: category,
           label: Category,
           type: select,
-          options: [digital-a11y, assistive-tech, laws-rights, physical-design, lifestyle-culture, case-studies, general],
+          options: [digital-a11y, assistive-tech, laws-rights, physical-design, lifestyle-culture, case-studies, social-signals, general],
           required: true
         }
       - { name: tags, label: Tags, type: string, list: true }

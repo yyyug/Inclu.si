@@ -395,10 +395,12 @@ async function askOllamaForBatch(batchItems) {
 
   const userPrompt = [
     'You are an accessibility social media editor.',
-    'For each tweet item, produce bilingual metadata for an accessibility news website.',
+    'For each tweet item, first decide if it is related to accessibility, disability, assistive technology, inclusive design, or related advocacy.',
+    'If not related, return: {"itemId": <id>, "isRelevant": false}',
+    'If related, produce bilingual metadata for an accessibility news website.',
     'Return strict JSON array only. No markdown, no extra text.',
-    'Each output item must include keys:',
-    'itemId, englishTitle, englishSummary, zhTitle, zhSummary, tags.',
+    'Each relevant output item must include keys:',
+    'itemId, isRelevant, englishTitle, englishSummary, zhTitle, zhSummary, tags.',
     'Keep title concise. Keep summary to 1-2 sentences with factual wording only.',
     'The category is fixed and NOT returned: social-signals.',
     '',
@@ -459,6 +461,7 @@ async function askOllamaForBatch(batchItems) {
 
   return parsed.map((row) => ({
     itemId: Number(row?.itemId),
+    isRelevant: row?.isRelevant !== false,
     englishTitle: String(row?.englishTitle || '').trim(),
     englishSummary: String(row?.englishSummary || '').trim(),
     zhTitle: String(row?.zhTitle || '').trim(),
@@ -707,6 +710,11 @@ async function main() {
       if (!output) {
         failed += 1;
         console.error(`Missing LLM output item for batch index ${j}`);
+        continue;
+      }
+
+      if (!output.isRelevant) {
+        console.log(`Skipped (not accessibility-related): ${entry.tweetId}`);
         continue;
       }
 
