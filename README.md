@@ -50,26 +50,26 @@ npm install
 cp .env.example .env
 ```
 
-4. Fill required environment variables:
+4. Fill required environment variables (fail-fast; no silent fallback):
 
 - `OLLAMA_API_KEY`
-- `OLLAMA_BASE_URL` (default `https://ollama.cloud/v1`)
+- `OLLAMA_BASE_URL` (example `https://ollama.com/v1`)
 - `OLLAMA_MODEL`
-- `OLLAMA_TIMEOUT_MS` (default `60000`)
+- `OLLAMA_TIMEOUT_MS` (example `60000`)
 - `APIFY_TOKEN`
-- `APIFY_ACTOR_ID` (default `kaitoeasyapi/twitter-x-data-tweet-scraper-pay-per-result-cheapest`)
+- `APIFY_ACTOR_ID`
 - `A11Y_TWEET_QUERY` (optional override; leave empty to auto-build query)
 - `A11Y_TWEET_KEYWORDS` (default `a11y,accessibility,inclusion`)
 - `A11Y_TWEET_ACCOUNTS` (default `BlindNewWorld,UCBInfo`)
 - `A11Y_TWEET_WINDOW_HOURS` (default `24`)
 - `A11Y_TWEET_MAX_ITEMS` (default `100`)
 - `A11Y_TWEET_LANGUAGES` (default `en,zh,ja,ko`)
-- `DIGEST_LOOKBACK_DAYS` (default `2`)
+- `DIGEST_LOOKBACK_DAYS` (example `2`)
 - `GOOGLE_NEWS_RSS_URLS` (comma-separated RSS feed URLs)
 - `NEWS_API_KEY`
-- `NEWS_API_BASE_URL` (default `https://newsapi.org/v2/everything`)
-- `NEWS_API_QUERIES` (default `accessibility,無障礙`)
-- `NEWS_API_PAGE_SIZE` (default `50`)
+- `NEWS_API_BASE_URL` (example `https://newsapi.org/v2/everything`)
+- `NEWS_API_QUERIES` (example `accessibility,無障礙`)
+- `NEWS_API_PAGE_SIZE` (example `50`)
 - `MAX_ITEMS_PER_RUN`
 
 ## Local Usage
@@ -216,19 +216,22 @@ If you run these scripts at build time (not recommended), add corresponding secr
 3. Add these repository secrets:
 
 - `OLLAMA_API_KEY`
-- `OLLAMA_BASE_URL` (for example `https://ollama.cloud/v1`)
-- `OLLAMA_MODEL` (for example `llama3.1:8b-instruct`)
+- `OLLAMA_BASE_URL` (for example `https://ollama.com/v1`)
 - `NEWS_API_KEY`
 
-4. Ensure Actions are enabled in `Settings -> Actions`.
-5. Manually run workflows once from the `Actions` tab:
+4. Add this repository variable:
+
+- `APIFY_ACTOR_ID` (for example `kaitoeasyapi/twitter-x-data-tweet-scraper-pay-per-result-cheapest`)
+
+5. Ensure Actions are enabled in `Settings -> Actions`.
+6. Manually run workflows once from the `Actions` tab:
 
 - `4-Hour Ingest Accessibility News`
 - `Daily Accessibility Digest`
 
-6. Confirm commits are created by `github-actions[bot]` in:
+7. Confirm commits are created by `github-actions[bot]` in:
 
-- `src/content/news`
+- `src/data/news`
 - `src/data/daily-digest.json`
 
 The 4-hour ingest workflow already runs both steps in order:
