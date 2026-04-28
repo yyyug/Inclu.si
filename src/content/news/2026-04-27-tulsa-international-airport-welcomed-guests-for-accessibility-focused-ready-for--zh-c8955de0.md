@@ -19,6 +19,9 @@ status: "published"
 translationOf: "tulsa-international-airport-welcomed-guests-for-accessibility-focused-ready-for--c8955de0"
 publishedAt: "2026-04-27T21:38:35.000Z"
 fetchedAt: "2026-04-28T03:25:46.430Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 圖爾薩國際機場舉辦了一場以無障礙為主題的「起飛準備」活動，旨在歡迎殘障旅客，並展示機場提供的無障礙旅行資源和服務。

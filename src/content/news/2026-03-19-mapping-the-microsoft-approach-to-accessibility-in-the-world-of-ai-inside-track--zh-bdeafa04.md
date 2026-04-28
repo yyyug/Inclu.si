@@ -22,6 +22,7 @@ publishedAt: "2026-03-19T07:00:00.000Z"
 fetchedAt: "2026-04-26T06:47:39.641Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 Microsoft 概述了将无障碍性整合到人工智能技术中的方法。该公司专注于确保 AI 系统的设计以无障碍性为前提，使技术对残障人士更加包容。

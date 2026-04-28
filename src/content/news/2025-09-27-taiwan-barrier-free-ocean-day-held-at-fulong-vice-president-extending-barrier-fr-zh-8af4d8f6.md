@@ -20,6 +20,9 @@ status: "published"
 translationOf: "taiwan-barrier-free-ocean-day-held-at-fulong-vice-president-extending-barrier-fr-8af4d8f6"
 publishedAt: "2025-09-27T07:28:33.000Z"
 fetchedAt: "2026-04-28T03:27:43.795Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 首屆「台灣無障礙海洋日」於福隆海灘舉辦，副總統強調將無障礙環境從街道延伸至大海，展現平權共融社會。

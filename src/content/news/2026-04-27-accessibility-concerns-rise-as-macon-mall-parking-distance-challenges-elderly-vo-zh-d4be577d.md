@@ -20,6 +20,9 @@ status: "published"
 translationOf: "accessibility-concerns-rise-as-macon-mall-parking-distance-challenges-elderly-vo-d4be577d"
 publishedAt: "2026-04-27T22:38:00.000Z"
 fetchedAt: "2026-04-28T03:25:33.676Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 梅肯的無障礙問題日益受到關注，因為選民面臨停車場到投票地點（購物中心）距離過長的挑戰。老年選民和行動不便者受到的影響尤其嚴重，引發了對投票地點實體無障礙設施的質疑。

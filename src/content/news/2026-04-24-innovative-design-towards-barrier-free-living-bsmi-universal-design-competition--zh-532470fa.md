@@ -20,6 +20,9 @@ status: "published"
 translationOf: "innovative-design-towards-barrier-free-living-bsmi-universal-design-competition--532470fa"
 publishedAt: "2026-04-24T07:00:00.000Z"
 fetchedAt: "2026-04-28T03:26:57.478Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 標準局舉辦輔具通用設計競賽，旨在推動創新設計以提升身心障礙者及年長者的生活品質與無障礙環境，獲獎名單已揭曉。

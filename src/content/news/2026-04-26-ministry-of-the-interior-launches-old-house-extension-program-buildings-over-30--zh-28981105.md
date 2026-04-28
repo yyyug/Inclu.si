@@ -21,6 +21,9 @@ status: "published"
 translationOf: "ministry-of-the-interior-launches-old-house-extension-program-buildings-over-30--28981105"
 publishedAt: "2026-04-26T10:11:11.000Z"
 fetchedAt: "2026-04-28T03:28:59.835Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 內政部「老宅延壽機能復新計畫」預計5月底由地方政府受理申請，補助項目包括外牆修繕、屋頂防水隔熱、管線更新及無障礙改善等，公寓最高可補助390萬元，室內修繕最高20萬元，高齡及弱勢可達30萬元，並結合光電、家電汰換與輔具政策推動節能與安全改善。

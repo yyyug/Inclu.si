@@ -23,6 +23,7 @@ publishedAt: "2026-04-21T07:03:11.000Z"
 fetchedAt: "2026-04-26T02:50:26.055Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 The U.S. Department of Justice has extended the web accessibility compliance deadline for higher education institutions. This extension affects colleges and universities required to meet accessibility standards for their digital properties, giving them additional time to implement necessary changes to ensure compliance with federal accessibility regulations.

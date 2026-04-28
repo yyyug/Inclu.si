@@ -21,6 +21,9 @@ status: "published"
 translationOf: "volkswagen-commercial-vehicles-partners-to-create-new-accessible-transportation--zh-5e3ee34e"
 publishedAt: "2026-04-25T17:21:39.000Z"
 fetchedAt: "2026-04-28T03:26:39.348Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 Volkswagen Commercial Vehicles has partnered to create a new accessible transportation future in Taiwan. The Crafter welfare taxi, the only flagship model in Taiwan with 5 wheelchair positions, has officially launched, providing more accessible mobility options for wheelchair users.

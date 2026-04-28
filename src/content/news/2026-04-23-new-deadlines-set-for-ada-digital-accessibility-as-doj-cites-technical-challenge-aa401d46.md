@@ -24,6 +24,7 @@ publishedAt: "2026-04-23T20:42:24.000Z"
 fetchedAt: "2026-04-26T02:53:30.287Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 The Department of Justice has established new deadlines for ADA digital accessibility compliance, citing technical challenges as a key factor in the extended timeline. The EDU Ledger reports on how these new timelines will affect organizations required to meet digital accessibility standards.

@@ -22,6 +22,7 @@ publishedAt: "2026-04-23T18:12:11.000Z"
 fetchedAt: "2026-04-26T06:49:46.966Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 Spotify 透過 Claude 整合擴展其無障礙功能。此更新旨在透過人工智慧技術為殘疾人士提供更無障礙的音樂串流服務，以改善用戶體驗。

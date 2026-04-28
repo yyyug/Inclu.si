@@ -20,6 +20,9 @@ status: "published"
 translationOf: "taiwan-barrier-free-ocean-day-held-at-fulong-vice-president-extending-barrier-fr-zh-8af4d8f6"
 publishedAt: "2025-09-27T07:28:33.000Z"
 fetchedAt: "2026-04-28T03:27:43.795Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 The first Taiwan Barrier-Free Ocean Day was held at Fulong Beach, with Vice President highlighting the goal of extending barrier-free accessibility from streets to the ocean, demonstrating equality and inclusive society.

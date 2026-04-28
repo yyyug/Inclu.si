@@ -23,6 +23,7 @@ publishedAt: "2026-04-25T23:07:10.000Z"
 fetchedAt: "2026-04-26T12:52:44.021Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 Problematic tweet containing derogatory language and attacking DEI initiatives with offensive terminology.

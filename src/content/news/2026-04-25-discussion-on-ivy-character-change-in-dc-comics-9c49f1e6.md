@@ -23,6 +23,7 @@ publishedAt: "2026-04-25T23:44:09.000Z"
 fetchedAt: "2026-04-26T12:51:29.170Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 User argues Ivy became an anti-hero due to Harley's influence and DC's push for inclusion in relationships.

@@ -20,6 +20,9 @@ status: "published"
 translationOf: "university-neighborhood-house-reopens-with-accessible-restrooms-added-e49e3ff8"
 publishedAt: "2026-04-23T06:00:00.000Z"
 fetchedAt: "2026-04-28T03:27:23.171Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 大學睦鄰之家翻新後重新開放，新增無障礙衛生間設施，提供更完善的無障礙空間以服務社區民眾。

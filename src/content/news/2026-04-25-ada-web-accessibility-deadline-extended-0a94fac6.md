@@ -24,6 +24,7 @@ publishedAt: "2026-04-25T23:27:04.000Z"
 fetchedAt: "2026-04-26T12:52:10.225Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 Deadlines for ADA web accessibility compliance have been extended by one year.

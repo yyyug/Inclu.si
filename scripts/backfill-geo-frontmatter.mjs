@@ -14,7 +14,8 @@ const langToRegion = {
 for (const file of files) {
   if (!file.endsWith('.md')) continue;
   const fullPath = path.join(DIR, file);
-  const text = await fs.readFile(fullPath, 'utf8');
+  // Normalize CRLF → LF so the script works on Windows checkouts too
+  const text = (await fs.readFile(fullPath, 'utf8')).replace(/\r\n/g, '\n');
   if (!text.startsWith('---\n')) continue;
 
   const end = text.indexOf('\n---\n', 4);
@@ -39,12 +40,12 @@ for (const file of files) {
   let newFm = fm;
   let changed = false;
 
-  if (!hasSourceCountry && inferredCountry) {
-    newFm += `\nsourceCountry: "${inferredCountry}"`;
+  const effectiveRegion = inferredCountry ?? langToRegion[lang];
+
+  if (!hasSourceCountry && effectiveRegion) {
+    newFm += `\nsourceCountry: "${effectiveRegion}"`;
     changed = true;
   }
-
-  const effectiveRegion = inferredCountry ?? langToRegion[lang];
   if (!hasQueryRegion && effectiveRegion) {
     newFm += `\nqueryRegion: "${effectiveRegion}"`;
     changed = true;

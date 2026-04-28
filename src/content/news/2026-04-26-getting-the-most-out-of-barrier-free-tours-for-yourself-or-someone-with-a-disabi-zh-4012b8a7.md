@@ -24,6 +24,7 @@ publishedAt: "2026-04-26T04:05:00.000Z"
 fetchedAt: "2026-04-26T06:46:40.883Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 本文為殘疾人士或其同行者提供如何充分利用無障礙之旅的指導。涵蓋無障礙旅行體驗的技巧和策略。

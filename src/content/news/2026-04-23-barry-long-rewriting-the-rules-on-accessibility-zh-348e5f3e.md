@@ -23,6 +23,7 @@ publishedAt: "2026-04-23T18:00:00.000Z"
 fetchedAt: "2026-04-26T02:51:19.028Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 本文介紹Barry Long在房地產行業推動無障礙標準更新改造的工作。全國房地產經紀人協會強調更新現代化無障礙規則的倡議，可能會影響房產和房地產平台如何為殘疾人士提供服務。

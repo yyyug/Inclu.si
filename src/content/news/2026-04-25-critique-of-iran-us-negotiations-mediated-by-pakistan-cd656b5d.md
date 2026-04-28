@@ -26,6 +26,9 @@ status: "archived"
 translationOf: "critique-of-iran-us-negotiations-mediated-by-pakistan-zh-cd656b5d"
 publishedAt: "2026-04-25T23:43:21.000Z"
 fetchedAt: "2026-04-26T12:51:42.317Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 Document critiques Iran-US negotiations via Pakistan, calling for broader inclusion and focus on Iranian people's democratic aspirations.

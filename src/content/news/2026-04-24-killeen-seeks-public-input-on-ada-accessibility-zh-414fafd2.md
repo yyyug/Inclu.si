@@ -23,6 +23,7 @@ publishedAt: "2026-04-24T16:34:00.000Z"
 fetchedAt: "2026-04-26T02:53:36.380Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 基林市正在尋求公眾對美國殘疾人法案無障礙設施的回饋意見。居民被鼓勵分享他們對遵守《美國殘疾人法案》的看法。

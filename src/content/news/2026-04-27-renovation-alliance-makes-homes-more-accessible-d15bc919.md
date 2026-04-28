@@ -19,6 +19,9 @@ status: "published"
 translationOf: "renovation-alliance-makes-homes-more-accessible-zh-d15bc919"
 publishedAt: "2026-04-27T21:11:36.000Z"
 fetchedAt: "2026-04-28T03:25:58.375Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 News about an organization providing home modification services to improve accessibility for people with disabilities, helping them live more independently.

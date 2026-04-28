@@ -25,6 +25,7 @@ publishedAt: "2026-04-25T22:38:11.000Z"
 fetchedAt: "2026-04-26T12:53:14.207Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 DEIA代表多元、公平、包容与无障碍。作者认为这些是每个人都应支持的基本价值观。

@@ -18,6 +18,9 @@ status: "published"
 translationOf: "5-clever-things-your-airpods-can-do-besides-play-music-zh-d00d5bdf"
 publishedAt: "2026-04-26T23:17:00.000Z"
 fetchedAt: "2026-04-28T03:28:31.487Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 Discover clever things AirPods can do beyond music, from hidden accessibility tools to smart features that improve how you listen and interact daily.

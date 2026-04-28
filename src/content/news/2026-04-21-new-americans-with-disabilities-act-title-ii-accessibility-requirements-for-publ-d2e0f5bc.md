@@ -25,6 +25,9 @@ status: "archived"
 translationOf: "new-americans-with-disabilities-act-title-ii-accessibility-requirements-for-publ-zh-d2e0f5bc"
 publishedAt: "2026-04-21T07:00:00.000Z"
 fetchedAt: "2026-04-28T03:26:39.347Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 This article provides guidance for in-house counsel at public colleges and universities on the new ADA Title II accessibility requirements. It addresses legal obligations and compliance measures that institutions must implement to ensure accessibility for students with disabilities.

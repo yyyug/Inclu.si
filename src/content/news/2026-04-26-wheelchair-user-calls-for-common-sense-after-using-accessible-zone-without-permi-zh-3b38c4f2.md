@@ -20,6 +20,9 @@ status: "published"
 translationOf: "wheelchair-user-calls-for-common-sense-after-using-accessible-zone-without-permi-3b38c4f2"
 publishedAt: "2026-04-26T03:33:13.000Z"
 fetchedAt: "2026-04-27T14:44:22.009Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 一名輪椅使用者在因無許可使用無障礙停車區而被威脅罰款後倡導常話，反映出持續存在的無障礙權利問題。

@@ -24,6 +24,7 @@ publishedAt: "2026-04-25T23:45:36.000Z"
 fetchedAt: "2026-04-26T12:51:20.016Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 Truth in Polling提供无论教育背景如何都能理解的立法内容，促进公民参与和民主。

@@ -23,6 +23,7 @@ publishedAt: "2026-04-15T07:00:00.000Z"
 fetchedAt: "2026-04-26T02:53:41.958Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 Travel Portland website provides accessibility information for visitors with disabilities, offering resources on accessible attractions, accommodations, and transportation options in Portland, Oregon.

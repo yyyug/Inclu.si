@@ -23,6 +23,7 @@ publishedAt: "2026-04-22T22:15:14.000Z"
 fetchedAt: "2026-04-26T06:48:52.615Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 Aircraft cabin interiors are being redesigned to be more accessible and sustainable, incorporating features that better accommodate passengers with disabilities. This includes improved seating options, accessible lavatories, and better navigation aids for travelers with mobility challenges or visual impairments.

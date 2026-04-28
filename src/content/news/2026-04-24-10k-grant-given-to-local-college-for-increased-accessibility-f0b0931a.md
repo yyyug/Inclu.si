@@ -24,6 +24,7 @@ publishedAt: "2026-04-24T03:11:28.000Z"
 fetchedAt: "2026-04-26T06:49:02.443Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 A $10,000 grant has been awarded to a local college to improve accessibility infrastructure and services, supporting inclusive education for students with disabilities.

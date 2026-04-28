@@ -24,6 +24,7 @@ publishedAt: "2026-04-25T23:00:26.000Z"
 fetchedAt: "2026-04-26T12:52:52.616Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 The organization hosted its annual gala bringing together community leaders and medical professionals to support individuals with physical and mental health challenges.

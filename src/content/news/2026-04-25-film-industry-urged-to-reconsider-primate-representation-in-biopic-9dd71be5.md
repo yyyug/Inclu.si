@@ -23,6 +23,7 @@ publishedAt: "2026-04-25T23:26:43.000Z"
 fetchedAt: "2026-04-26T12:52:23.325Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 A social media user calls on Michael Jackson biopic creators to reconsider portraying apes as companions, stating it is harmful and damaging to public perception of wild animals.

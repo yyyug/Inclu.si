@@ -24,6 +24,9 @@ status: "archived"
 translationOf: "iran-us-negotiations-critiqued-for-inclusion-gaps-b47e4b0a"
 publishedAt: "2026-04-25T23:46:10.000Z"
 fetchedAt: "2026-04-26T12:51:11.686Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 对巴基斯坦调解的伊朗-美国谈判进行分析，呼吁更广泛的利益相关者参与，并优先考虑伊朗人民的自由和人权。

@@ -23,6 +23,7 @@ publishedAt: "2026-04-25T23:11:46.000Z"
 fetchedAt: "2026-04-26T12:52:44.016Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 Commentator discusses the distinction between transparency and accessibility in political contexts, specifically referencing Trump.

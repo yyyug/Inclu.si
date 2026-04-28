@@ -19,6 +19,9 @@ status: "published"
 translationOf: "not-just-temples-kaohsiung-public-sector-also-lacks-accessibility-legislators-cr-zh-8b46496a"
 publishedAt: "2026-04-15T07:00:00.000Z"
 fetchedAt: "2026-04-28T03:28:16.639Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 Legislators in Kaohsiung criticized the city's public sector for lacking accessibility infrastructure, pointing out that even government buildings do not meet accessibility standards. The criticism highlights the gap between the government's accessibility promotion and actual implementation, calling for immediate improvements.

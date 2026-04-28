@@ -21,6 +21,7 @@ publishedAt: "2026-04-25T05:05:34.000Z"
 fetchedAt: "2026-04-26T06:49:13.498Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 安蒂奧克市正在采取措施確保公共文件更具无障碍性，改善殘疾居民獲取信息的便利性。

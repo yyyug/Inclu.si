@@ -19,6 +19,9 @@ status: "published"
 translationOf: "week-in-review-web-accessibility-rules-and-federal-school-choice-127f5973"
 publishedAt: "2026-04-27T09:09:54.000Z"
 fetchedAt: "2026-04-28T03:25:58.375Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 每週回顧涵蓋K-12教育中的網頁無障礙法規及聯邦學校選擇權政策。

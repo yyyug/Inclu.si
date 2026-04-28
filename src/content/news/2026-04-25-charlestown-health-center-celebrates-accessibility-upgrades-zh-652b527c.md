@@ -22,6 +22,7 @@ publishedAt: "2026-04-25T20:00:16.000Z"
 fetchedAt: "2026-04-26T02:16:05.915Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 Charlestown 健康中心宣布慶祝近期的無障礙設施改善，強調他們致力於為所有患者提供包容性的醫療服務。

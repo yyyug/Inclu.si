@@ -20,6 +20,9 @@ status: "published"
 translationOf: "yoxi-launches-ai-door-number-recognition-and-barrier-free-navigation-to-capture--zh-2382c62c"
 publishedAt: "2026-04-27T08:50:00.000Z"
 fetchedAt: "2026-04-28T03:26:57.477Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 Toyota's ride-hailing service Yoxi has introduced AI-powered door number recognition and barrier-free navigation features to target the elderly population. This technology helps senior citizens and people with disabilities easily identify their destination and navigate to pickup points, making transportation more accessible.

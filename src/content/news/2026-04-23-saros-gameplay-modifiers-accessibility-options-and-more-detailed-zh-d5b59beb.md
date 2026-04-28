@@ -19,6 +19,9 @@ status: "published"
 translationOf: "saros-gameplay-modifiers-accessibility-options-and-more-detailed-d5b59beb"
 publishedAt: "2026-04-23T12:00:36.000Z"
 fetchedAt: "2026-04-27T14:44:48.795Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 PlayStation 宣布為 Saros 提供詳細的無障礙選項和遊戲玩法修飾符，為玩家提供多種方式自訂遊戲體驗以提升無障礙性。

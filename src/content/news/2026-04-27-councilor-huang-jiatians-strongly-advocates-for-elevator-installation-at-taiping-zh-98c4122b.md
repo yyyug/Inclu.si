@@ -20,6 +20,9 @@ status: "published"
 translationOf: "councilor-huang-jiatians-strongly-advocates-for-elevator-installation-at-taiping-98c4122b"
 publishedAt: "2026-04-27T10:31:16.000Z"
 fetchedAt: "2026-04-28T03:27:23.170Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 黃佳恬議員積極爭取在太平警分局設置電梯，創建無障礙友善空間，旨在提升市民前往警局的便利性。

@@ -21,6 +21,7 @@ publishedAt: "2026-04-22T21:31:15.000Z"
 fetchedAt: "2026-04-26T06:49:25.963Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 Maxon 發布了 Maxon One 3D 軟體套件的更新，提升了用戶無障礙訪問功能，使軟體更便於殘障用戶使用。

@@ -25,6 +25,7 @@ publishedAt: "2026-04-25T23:34:04.000Z"
 fetchedAt: "2026-04-26T12:52:00.335Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 祝贺Fatima Ganduje十年人道主义服务工作，致力于赋能残障人士并促进数字包容。

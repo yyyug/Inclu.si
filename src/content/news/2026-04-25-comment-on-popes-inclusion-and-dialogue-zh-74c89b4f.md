@@ -23,6 +23,7 @@ publishedAt: "2026-04-25T23:33:56.000Z"
 fetchedAt: "2026-04-26T12:52:10.220Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 一条针对教皇关于宗教背景下的包容、对话和主教会议的评论。

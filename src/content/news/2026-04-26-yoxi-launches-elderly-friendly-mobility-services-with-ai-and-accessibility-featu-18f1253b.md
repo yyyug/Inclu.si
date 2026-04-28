@@ -22,6 +22,9 @@ status: "published"
 translationOf: "yoxi-launches-elderly-friendly-mobility-services-with-ai-and-accessibility-featu-zh-18f1253b"
 publishedAt: "2026-04-26T23:52:02.000Z"
 fetchedAt: "2026-04-28T03:28:59.834Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 Toyota Taiwan's yoxi ride-hailing service introduces AI door number recognition and accessible exit guidance features to support the 'Mobility for All' initiative. The service includes wheelchair storage and boarding assistance, creating a comprehensive elderly-friendly transportation solution as Taiwan officially enters an ultra-aged society with over 20% of the population aged 65 and above.

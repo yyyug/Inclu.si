@@ -25,6 +25,7 @@ publishedAt: "2026-04-23T18:00:00.000Z"
 fetchedAt: "2026-04-26T02:53:10.330Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 Jotform announces new features and services to help educational institutions comply with ADA accessibility standards for their digital services, ensuring websites and online platforms are accessible to students with disabilities.

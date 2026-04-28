@@ -20,6 +20,9 @@ status: "published"
 translationOf: "public-building-barrier-free-environment-supervision-six-major-cities-and-nantou-zh-656b6ea2"
 publishedAt: "2026-04-25T11:10:48.000Z"
 fetchedAt: "2026-04-28T03:27:43.795Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 The annual public building barrier-free environment supervision evaluation awarded special excellence recognition to Taiwan's six major cities and Nantou County, acknowledging their outstanding implementation of accessibility standards in public infrastructure.

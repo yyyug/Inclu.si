@@ -19,6 +19,9 @@ status: "published"
 translationOf: "tulsa-international-airport-welcomed-guests-for-accessibility-focused-ready-for--zh-c8955de0"
 publishedAt: "2026-04-27T21:38:35.000Z"
 fetchedAt: "2026-04-28T03:25:46.430Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 Tulsa International Airport hosted an accessibility-focused event called 'Ready for Takeoff' designed to welcome guests with disabilities and showcase accessible travel resources and services available at the airport.

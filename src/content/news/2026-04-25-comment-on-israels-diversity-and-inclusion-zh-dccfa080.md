@@ -23,6 +23,7 @@ publishedAt: "2026-04-25T23:32:29.000Z"
 fetchedAt: "2026-04-26T12:52:10.222Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 一条关于以色列需要更多多元化和包容性的积极评论。

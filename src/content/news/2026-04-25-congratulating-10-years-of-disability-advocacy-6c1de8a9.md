@@ -25,6 +25,7 @@ publishedAt: "2026-04-25T23:34:04.000Z"
 fetchedAt: "2026-04-26T12:52:00.335Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 Congratulations extended to Fatima Ganduje for ten years of humanitarian service empowering persons with disabilities and promoting digital inclusion.

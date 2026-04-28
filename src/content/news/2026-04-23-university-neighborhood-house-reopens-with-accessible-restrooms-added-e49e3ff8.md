@@ -20,6 +20,9 @@ status: "published"
 translationOf: "university-neighborhood-house-reopens-with-accessible-restrooms-added-zh-e49e3ff8"
 publishedAt: "2026-04-23T06:00:00.000Z"
 fetchedAt: "2026-04-28T03:27:23.171Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 The University Neighborhood House has reopened after renovations, featuring newly added accessible restrooms. The facility now provides barrier-free amenities to better serve community members with diverse needs.

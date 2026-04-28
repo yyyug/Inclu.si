@@ -24,6 +24,7 @@ publishedAt: "2026-04-25T23:00:07.000Z"
 fetchedAt: "2026-04-26T12:52:52.625Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 Community members gathered at the Vegas Plunge for a day focused on inclusion and accessibility.

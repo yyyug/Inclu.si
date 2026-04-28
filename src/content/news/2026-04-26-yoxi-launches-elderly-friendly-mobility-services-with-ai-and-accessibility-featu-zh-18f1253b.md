@@ -22,6 +22,9 @@ status: "published"
 translationOf: "yoxi-launches-elderly-friendly-mobility-services-with-ai-and-accessibility-featu-18f1253b"
 publishedAt: "2026-04-26T23:52:02.000Z"
 fetchedAt: "2026-04-28T03:28:59.834Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 和泰車旗下乘車派遣服務yoxi呼應TOYOTA Mobility Foundation共同推動的「Mobility for All」理念，推出「AI門牌辨識」與「無障礙出入口導引」功能打破數位鴻溝，搭配原有「輪椅收納」與「協助上車」的乘車備註，打造全台最友善的銀髮移動方式，響應台灣正式邁入超高齡社會。

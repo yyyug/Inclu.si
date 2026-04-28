@@ -24,6 +24,7 @@ publishedAt: "2026-04-22T18:16:42.000Z"
 fetchedAt: "2026-04-26T02:15:59.202Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 The Department of Justice has extended the compliance deadline for public entities regarding ADA-related website accessibility requirements. However, the Health and Human Services' May 2026 deadline remains in effect, requiring continued attention from covered entities.

@@ -21,6 +21,7 @@ publishedAt: "2026-04-23T22:20:17.000Z"
 fetchedAt: "2026-04-26T06:48:06.068Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 This article discusses the growing trend of accessible home designs and provides expert tips on making residential properties more inclusive for people with disabilities. It covers features like wider doorways, grab bars, zero-threshold showers, and universal design principles that benefit people of all ages and abilities.

@@ -19,6 +19,9 @@ status: "published"
 translationOf: "true-senior-friendly-housing-is-not-just-a-barrier-free-building-design-circulat-zh-7296a913"
 publishedAt: "2026-04-15T07:00:00.000Z"
 fetchedAt: "2026-04-28T03:28:16.640Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 This article emphasizes that true senior-friendly housing goes beyond mere barrier-free architecture. It requires high-standard design, circulation planning, and space layout to meet the six major needs of elderly residents, including safety, comfort, and independent living support.

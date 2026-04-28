@@ -25,6 +25,7 @@ publishedAt: "2026-04-22T09:00:00.000Z"
 fetchedAt: "2026-04-26T02:15:28.134Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 川普政府延遲了一項旨在改善學校殘疾學生無障礙通道的規定實施。

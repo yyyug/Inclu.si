@@ -20,6 +20,9 @@ status: "published"
 translationOf: "taichung-city-wins-second-consecutive-excellent-rating-for-barrier-free-environm-986d2406"
 publishedAt: "2026-04-24T07:15:19.000Z"
 fetchedAt: "2026-04-28T03:26:57.479Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 臺中市無障礙環境督導連續兩年榮獲「特優」殊榮，展現市府打造無障礙都市環境的成果，獲得全國肯定。

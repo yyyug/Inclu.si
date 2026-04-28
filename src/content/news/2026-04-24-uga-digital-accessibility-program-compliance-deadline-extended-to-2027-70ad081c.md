@@ -24,6 +24,7 @@ publishedAt: "2026-04-24T09:00:00.000Z"
 fetchedAt: "2026-04-26T02:15:21.720Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 The University of Georgia has extended its digital accessibility program compliance deadline to 2027, providing additional time for the institution to meet required accessibility standards.

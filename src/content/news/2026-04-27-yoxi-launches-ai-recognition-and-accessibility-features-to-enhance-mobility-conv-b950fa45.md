@@ -20,6 +20,9 @@ status: "published"
 translationOf: "yoxi-launches-ai-recognition-and-accessibility-features-to-enhance-mobility-conv-zh-b950fa45"
 publishedAt: "2026-04-27T10:10:00.000Z"
 fetchedAt: "2026-04-28T03:27:23.170Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 yoxi has introduced AI recognition technology and accessibility features to improve transportation convenience for elderly users. The initiative aims to address mobility challenges faced by the aging population through innovative technological solutions.

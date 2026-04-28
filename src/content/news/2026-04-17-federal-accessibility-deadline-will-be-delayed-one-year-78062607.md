@@ -24,6 +24,7 @@ publishedAt: "2026-04-17T07:00:00.000Z"
 fetchedAt: "2026-04-26T02:52:44.227Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 The federal government has announced a one-year delay to accessibility compliance deadlines, providing additional time for agencies and organizations to meet required accessibility standards.

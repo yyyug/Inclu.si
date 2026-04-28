@@ -19,6 +19,9 @@ status: "published"
 translationOf: "saros-gameplay-modifiers-accessibility-options-and-more-detailed-zh-d5b59beb"
 publishedAt: "2026-04-23T12:00:36.000Z"
 fetchedAt: "2026-04-27T14:44:48.795Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 PlayStation announces detailed accessibility options and gameplay modifiers for Saros, providing players with various ways to customize their gaming experience for better accessibility.

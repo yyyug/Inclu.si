@@ -24,6 +24,7 @@ publishedAt: "2026-04-26T04:05:00.000Z"
 fetchedAt: "2026-04-26T06:46:40.883Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 This article provides guidance on how to make the most of barrier-free tours for individuals with disabilities or those traveling with someone who has a disability. It covers tips and strategies for accessible travel experiences.

@@ -20,6 +20,9 @@ status: "published"
 translationOf: "taichung-city-wins-second-consecutive-excellent-rating-for-barrier-free-environm-zh-986d2406"
 publishedAt: "2026-04-24T07:15:19.000Z"
 fetchedAt: "2026-04-28T03:26:57.479Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 Taichung City has received national recognition for its barrier-free environment achievements, winning an 'excellent' rating in barrier-free environment supervision for two consecutive years. This demonstrates the city's commitment to building an accessible urban environment.

@@ -24,6 +24,7 @@ publishedAt: "2026-04-20T07:00:00.000Z"
 fetchedAt: "2026-04-26T02:51:02.556Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 The National Association of Counties provides guidance to county governments on ADA web accessibility compliance requirements and how to prepare for upcoming deadlines, likely including information about deadline extensions for implementation.

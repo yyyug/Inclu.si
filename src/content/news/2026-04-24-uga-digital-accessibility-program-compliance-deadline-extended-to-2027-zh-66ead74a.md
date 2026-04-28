@@ -19,6 +19,9 @@ status: "published"
 translationOf: "uga-digital-accessibility-program-compliance-deadline-extended-to-2027-66ead74a"
 publishedAt: "2026-04-24T09:00:00.000Z"
 fetchedAt: "2026-04-27T14:44:48.794Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 喬治亞大學已將其數位無障礙計畫的合規期限延長至 2027 年，讓該機構有更多時間確保其數位資源符合無障礙標準。

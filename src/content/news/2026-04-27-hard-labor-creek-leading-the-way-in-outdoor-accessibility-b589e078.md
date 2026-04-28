@@ -19,6 +19,9 @@ status: "published"
 translationOf: "hard-labor-creek-leading-the-way-in-outdoor-accessibility-zh-b589e078"
 publishedAt: "2026-04-27T17:57:00.000Z"
 fetchedAt: "2026-04-28T03:26:24.538Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 Hard Labor Creek is pioneering outdoor accessibility initiatives, creating inclusive outdoor experiences for people with disabilities. The location serves as a model for accessible outdoor recreation and nature access.

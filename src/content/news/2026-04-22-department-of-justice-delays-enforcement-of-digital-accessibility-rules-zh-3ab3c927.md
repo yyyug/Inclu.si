@@ -23,6 +23,7 @@ publishedAt: "2026-04-22T14:06:36.000Z"
 fetchedAt: "2026-04-26T02:51:11.900Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 美國司法部宣布延遲執行數位無障礙規則，可能影響需要符合網路無障礙標準的組織之合規時間表。

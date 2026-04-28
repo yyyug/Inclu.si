@@ -26,6 +26,9 @@ status: "archived"
 translationOf: "critique-of-iran-us-negotiations-mediated-by-pakistan-cd656b5d"
 publishedAt: "2026-04-25T23:43:21.000Z"
 fetchedAt: "2026-04-26T12:51:42.317Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 文件批评了通过巴基斯坦进行的伊美谈判，呼吁更广泛的参与并关注伊朗人民的民主愿望。

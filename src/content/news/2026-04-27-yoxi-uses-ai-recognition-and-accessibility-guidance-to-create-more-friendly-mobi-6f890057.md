@@ -22,6 +22,9 @@ status: "published"
 translationOf: "yoxi-uses-ai-recognition-and-accessibility-guidance-to-create-more-friendly-mobi-zh-6f890057"
 publishedAt: "2026-04-27T05:56:20.000Z"
 fetchedAt: "2026-04-28T03:26:39.349Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 yoxi utilizes AI recognition technology and accessibility guidance to create a more friendly mobility environment for the elderly. The solution aims to address the transportation needs of senior citizens through intelligent technology, enhancing safety and independence in their daily commutes.

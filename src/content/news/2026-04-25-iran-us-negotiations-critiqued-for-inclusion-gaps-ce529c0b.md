@@ -24,6 +24,9 @@ status: "published"
 translationOf: "iran-us-negotiations-critiqued-for-inclusion-gaps-zh-ce529c0b"
 publishedAt: "2026-04-25T23:46:18.000Z"
 fetchedAt: "2026-04-26T12:51:11.684Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 Analysis of Iran-US negotiations mediated by Pakistan calls for broader stakeholder inclusion and prioritizes Iranian people's freedom and human rights.

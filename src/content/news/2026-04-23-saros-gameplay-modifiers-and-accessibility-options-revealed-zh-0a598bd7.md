@@ -22,6 +22,7 @@ publishedAt: "2026-04-23T12:00:36.000Z"
 fetchedAt: "2026-04-26T02:15:13.616Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 PlayStation.Blog 詳細介紹了 Saros 中的遊戲玩法調整與無障礙選項，為玩家提供多元化的自訂選擇。

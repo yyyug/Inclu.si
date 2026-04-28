@@ -20,6 +20,9 @@ status: "published"
 translationOf: "getting-the-most-out-of-barrier-free-tours-for-yourself-or-someone-with-a-disabi-8f6ec338"
 publishedAt: "2026-04-26T04:13:00.000Z"
 fetchedAt: "2026-04-27T14:44:22.006Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 本文提供了如何為殘障人士或陪同殘障人士旅行的人充分利用無障礙旅遊的指導。涵蓋了旅遊和旅行規劃中的無障礙考量。

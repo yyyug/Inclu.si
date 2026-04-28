@@ -21,6 +21,7 @@ publishedAt: "2026-04-25T13:34:23.000Z"
 fetchedAt: "2026-04-26T06:47:30.410Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 Evinced正在利用GAConf Europe加強其在無障礙遊戲市場的地位，表明業界越來越重視讓電子遊戲更能惠及殘障玩家。

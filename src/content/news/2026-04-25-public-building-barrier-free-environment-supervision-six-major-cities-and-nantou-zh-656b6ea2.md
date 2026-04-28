@@ -20,6 +20,9 @@ status: "published"
 translationOf: "public-building-barrier-free-environment-supervision-six-major-cities-and-nantou-656b6ea2"
 publishedAt: "2026-04-25T11:10:48.000Z"
 fetchedAt: "2026-04-28T03:27:43.795Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 年度公共建築物無障礙環境督導考核中，台灣六都與南投縣榮獲特優肯定，表彰其在公共設施無障礙環境推動上的卓越成效。

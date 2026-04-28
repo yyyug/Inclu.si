@@ -24,6 +24,7 @@ publishedAt: "2026-04-25T23:27:04.000Z"
 fetchedAt: "2026-04-26T12:52:10.225Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 ADA网站无障碍合规的截止日期已延长一年。

@@ -19,6 +19,9 @@ status: "published"
 translationOf: "kaohsiung-public-restroom-accessibility-facilities-criticized-for-not-meeting-de-c1503295"
 publishedAt: "2026-04-22T16:00:00.000Z"
 fetchedAt: "2026-04-28T03:27:54.287Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 高雄公廁缺乏照護床、汙物盆等無障礙設施，未能滿足身障者的需求。批評者指出，目前的無障礙基礎設施未能跟上實際需求。

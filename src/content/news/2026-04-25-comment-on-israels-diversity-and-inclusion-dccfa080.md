@@ -23,6 +23,7 @@ publishedAt: "2026-04-25T23:32:29.000Z"
 fetchedAt: "2026-04-26T12:52:10.222Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 A positive comment about the need for more diversity and inclusion in Israel.

@@ -19,6 +19,9 @@ status: "published"
 translationOf: "kaohsiung-public-restroom-accessibility-facilities-criticized-for-not-meeting-de-zh-c1503295"
 publishedAt: "2026-04-22T16:00:00.000Z"
 fetchedAt: "2026-04-28T03:27:54.287Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 Kaohsiung's public restrooms lack necessary accessibility facilities such as care beds and cleaning basins, failing to meet the needs of users with disabilities. Critics argue that the current accessibility infrastructure has not kept pace with actual demand.

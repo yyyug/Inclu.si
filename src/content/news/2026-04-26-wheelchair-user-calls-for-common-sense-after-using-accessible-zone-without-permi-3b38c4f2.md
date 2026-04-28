@@ -22,6 +22,9 @@ status: "archived"
 translationOf: "wheelchair-user-calls-for-common-sense-after-using-accessible-zone-without-permi-zh-3b38c4f2"
 publishedAt: "2026-04-26T03:33:13.000Z"
 fetchedAt: "2026-04-27T14:44:22.009Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 A wheelchair user is advocating for common sense after being threatened with a fine for using an accessible parking zone without a permit, highlighting ongoing accessibility rights issues.

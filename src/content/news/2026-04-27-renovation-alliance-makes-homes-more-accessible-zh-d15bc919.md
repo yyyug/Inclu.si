@@ -19,6 +19,9 @@ status: "published"
 translationOf: "renovation-alliance-makes-homes-more-accessible-d15bc919"
 publishedAt: "2026-04-27T21:11:36.000Z"
 fetchedAt: "2026-04-28T03:25:58.375Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 報導一個組織為殘疾人士提供居家無障礙改造服務的新聞，幫助他們更獨立地生活。

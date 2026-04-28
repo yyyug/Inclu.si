@@ -22,6 +22,9 @@ status: "published"
 translationOf: "tribute-to-workers-hsinchu-city-commends-246-model-workers-77959d25"
 publishedAt: "2026-04-25T09:22:08.000Z"
 fetchedAt: "2026-04-28T03:29:45.667Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 新竹市政府於身心障礙者就業綜合大樓舉辦模範勞工表揚大會，在五一勞動節前夕表揚來自各行各業的246位優秀勞工。表彰對象包括庇護工場員工、外國工作者及工會幹部等，肯定不同領域工作者包括身心障礙者的多元貢獻。

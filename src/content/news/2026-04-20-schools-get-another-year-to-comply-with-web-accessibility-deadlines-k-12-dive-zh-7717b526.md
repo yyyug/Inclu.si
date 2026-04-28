@@ -23,6 +23,7 @@ publishedAt: "2026-04-20T21:44:30.000Z"
 fetchedAt: "2026-04-26T02:52:13.600Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 K-12 學校部門已獲准額外一年時間來符合網站無障礙合規截止日期，讓他們有更多時間確保數位平台可供身心障礙學生使用。

@@ -20,6 +20,7 @@ publishedAt: "2026-04-23T22:51:00.000Z"
 fetchedAt: "2026-04-26T06:47:30.418Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 Lucas County縣議會聽取了一份報告，強調該地區對無障礙住房的迫切需求，旨在解決殘障人士在住宅環境中的無障礙障礙。

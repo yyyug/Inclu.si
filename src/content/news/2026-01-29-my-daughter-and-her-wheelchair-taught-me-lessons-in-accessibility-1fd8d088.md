@@ -21,6 +21,7 @@ publishedAt: "2026-01-29T08:00:00.000Z"
 fetchedAt: "2026-04-26T06:48:36.792Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 A personal story sharing insights gained from navigating accessibility challenges through the experience of a parent whose daughter uses a wheelchair, highlighting real-world accessibility lessons.

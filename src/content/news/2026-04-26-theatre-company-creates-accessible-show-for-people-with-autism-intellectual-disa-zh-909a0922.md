@@ -20,6 +20,9 @@ status: "published"
 translationOf: "theatre-company-creates-accessible-show-for-people-with-autism-intellectual-disa-909a0922"
 publishedAt: "2026-04-26T19:50:21.000Z"
 fetchedAt: "2026-04-27T14:44:22.008Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 一家劇院公司開發了一場專為自閉症和智力障礙人士設計的無障礙演出，確保包容性的娛樂選擇。

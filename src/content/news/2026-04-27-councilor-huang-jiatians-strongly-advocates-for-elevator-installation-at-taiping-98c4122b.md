@@ -20,6 +20,9 @@ status: "published"
 translationOf: "councilor-huang-jiatians-strongly-advocates-for-elevator-installation-at-taiping-zh-98c4122b"
 publishedAt: "2026-04-27T10:31:16.000Z"
 fetchedAt: "2026-04-28T03:27:23.170Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 Councilor Huang Jiatian is actively advocating for the installation of an elevator at the Taiping Police Station to create a barrier-free and accessible environment. This initiative aims to improve accessibility for citizens visiting the police facility.

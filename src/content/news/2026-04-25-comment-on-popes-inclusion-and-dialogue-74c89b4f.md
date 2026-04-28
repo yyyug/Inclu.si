@@ -23,6 +23,7 @@ publishedAt: "2026-04-25T23:33:56.000Z"
 fetchedAt: "2026-04-26T12:52:10.220Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 A comment addressed to the Pope regarding inclusion, dialogue, and synodality in religious context.

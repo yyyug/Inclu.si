@@ -20,6 +20,9 @@ status: "published"
 translationOf: "2026-taiwan-lantern-festival-in-chiayi-family-friendly-senior-and-barrier-free-a-zh-de736d32"
 publishedAt: "2026-02-26T08:00:00.000Z"
 fetchedAt: "2026-04-28T03:27:43.794Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 The 2026 Taiwan Lantern Festival in Chiayi provides comprehensive accessibility information for families, seniors, and visitors requiring barrier-free access. The event offers technology-assisted navigation services to ensure all visitors can enjoy the festival comfortably.

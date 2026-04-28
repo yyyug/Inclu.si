@@ -20,6 +20,9 @@ status: "published"
 translationOf: "innovative-design-towards-barrier-free-living-bsmi-universal-design-competition--zh-532470fa"
 publishedAt: "2026-04-24T07:00:00.000Z"
 fetchedAt: "2026-04-28T03:26:57.478Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 The Bureau of Standards, Metrology and Inspection (BSMI) has announced the winners of its universal design competition for assistive devices. The competition aims to promote innovative designs that enhance accessibility and quality of life for people with disabilities and the elderly.

@@ -22,6 +22,7 @@ publishedAt: "2026-04-24T18:20:19.000Z"
 fetchedAt: "2026-04-26T06:47:50.617Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 The 130th Boston Marathon featured strong community engagement around accessibility, with participants and spectators highlighting the inclusive atmosphere and the importance of making major sporting events accessible to all runners and fans.

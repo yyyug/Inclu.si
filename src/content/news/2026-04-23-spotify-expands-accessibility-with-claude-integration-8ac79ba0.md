@@ -22,6 +22,7 @@ publishedAt: "2026-04-23T18:12:11.000Z"
 fetchedAt: "2026-04-26T06:49:46.966Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 Spotify has expanded its accessibility features through Claude integration. This update aims to improve the user experience for people with disabilities by leveraging AI technology to provide more accessible music streaming services.

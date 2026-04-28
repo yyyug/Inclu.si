@@ -22,6 +22,9 @@ status: "published"
 translationOf: "tribute-to-workers-hsinchu-city-commends-246-model-workers-zh-77959d25"
 publishedAt: "2026-04-25T09:22:08.000Z"
 fetchedAt: "2026-04-28T03:29:45.667Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 Hsinchu City held a model worker commendation ceremony at the Comprehensive Building for Disabled Employment, honoring 246 outstanding workers from various industries ahead of Labor Day. The recognition included employees from sheltered workshops, foreign workers, and labor union leaders, highlighting the diverse contributions of workers including those with disabilities.

@@ -19,6 +19,9 @@ status: "published"
 translationOf: "expanding-accessibility-in-black-ops-7-with-new-control-options-call-of-duty-zh-0777cb37"
 publishedAt: "2026-04-09T07:00:00.000Z"
 fetchedAt: "2026-04-27T14:45:08.728Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 The article discusses new accessibility control options being added to Call of Duty Black Ops 7, expanding gaming accessibility for players with disabilities.

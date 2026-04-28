@@ -23,6 +23,7 @@ publishedAt: "2026-04-20T21:44:30.000Z"
 fetchedAt: "2026-04-26T02:52:13.600Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 The K-12 education sector has been granted an additional year to meet web accessibility compliance deadlines, providing schools more time to ensure their digital platforms are accessible to students with disabilities.

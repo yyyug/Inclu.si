@@ -21,6 +21,7 @@ publishedAt: "2026-04-22T21:31:15.000Z"
 fetchedAt: "2026-04-26T06:49:25.963Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 Maxon has released updates for Maxon One, their 3D software suite, improving user accessibility and making the software more accessible for users with disabilities.

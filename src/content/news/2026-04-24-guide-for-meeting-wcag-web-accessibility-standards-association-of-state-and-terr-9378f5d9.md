@@ -24,6 +24,7 @@ publishedAt: "2026-04-24T15:03:41.000Z"
 fetchedAt: "2026-04-26T02:50:37.455Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 A practical guide from ASTHO (Association of State and Territorial Health Officials) helping organizations meet WCAG web accessibility standards. Provides guidance for making websites accessible to people with disabilities.

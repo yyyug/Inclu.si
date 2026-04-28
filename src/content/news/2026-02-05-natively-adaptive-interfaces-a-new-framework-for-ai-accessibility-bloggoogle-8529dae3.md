@@ -22,6 +22,7 @@ publishedAt: "2026-02-05T08:00:00.000Z"
 fetchedAt: "2026-04-26T06:48:25.592Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 Google introduces Natively Adaptive Interfaces, a new framework designed to make AI systems more accessible to users with disabilities.

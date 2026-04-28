@@ -22,6 +22,9 @@ status: "archived"
 translationOf: "theatre-company-creates-accessible-show-for-people-with-autism-intellectual-disa-zh-aec84162"
 publishedAt: "2026-04-26T19:50:21.000Z"
 fetchedAt: "2026-04-27T09:25:18.081Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 A theatre company has created an accessible performance specifically designed for individuals with autism and intellectual disabilities, providing an inclusive cultural experience.

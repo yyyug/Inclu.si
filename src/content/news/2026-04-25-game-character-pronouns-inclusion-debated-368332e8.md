@@ -25,6 +25,7 @@ publishedAt: "2026-04-25T22:47:15.000Z"
 fetchedAt: "2026-04-26T12:53:04.825Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 The protagonist in a game has always been addressed as they/them since the first installment, with users discussing gender inclusion in gaming and player interpretation of characters.

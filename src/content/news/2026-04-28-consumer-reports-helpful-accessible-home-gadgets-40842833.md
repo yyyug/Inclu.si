@@ -20,6 +20,9 @@ status: "published"
 translationOf: "consumer-reports-helpful-accessible-home-gadgets-zh-40842833"
 publishedAt: "2026-04-28T02:59:00.000Z"
 fetchedAt: "2026-04-28T03:25:33.675Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 Consumer Reports highlights various accessible home gadgets designed to improve daily living for people with disabilities and seniors. The report covers smart home devices, adaptive tools, and innovative technologies that enhance independence and accessibility within the home environment.

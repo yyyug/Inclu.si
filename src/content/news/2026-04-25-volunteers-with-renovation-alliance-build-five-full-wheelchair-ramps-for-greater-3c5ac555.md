@@ -23,6 +23,7 @@ publishedAt: "2026-04-25T21:43:39.000Z"
 fetchedAt: "2026-04-26T02:50:13.965Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 Volunteers from Renovation Alliance have constructed five complete wheelchair ramps to improve accessibility in the community. The project aims to help people with mobility disabilities navigate buildings and homes more easily.

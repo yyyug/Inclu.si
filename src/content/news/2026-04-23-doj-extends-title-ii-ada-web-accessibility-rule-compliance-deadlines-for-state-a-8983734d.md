@@ -25,6 +25,7 @@ publishedAt: "2026-04-23T20:25:49.000Z"
 fetchedAt: "2026-04-26T02:51:42.895Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 The U.S. Department of Justice has announced extended compliance deadlines for state and local governments to meet Title II of the Americans with Disabilities Act web accessibility requirements.

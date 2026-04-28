@@ -21,6 +21,7 @@ publishedAt: "2026-01-19T08:00:00.000Z"
 fetchedAt: "2026-04-26T06:49:35.182Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 This article discusses how WCAG (Web Content Accessibility Guidelines) standards help make websites more inclusive for all users, including those with disabilities. It explores the importance of implementing accessibility standards in web development.

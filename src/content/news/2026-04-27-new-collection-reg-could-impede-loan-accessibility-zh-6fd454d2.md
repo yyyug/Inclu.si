@@ -19,6 +19,9 @@ status: "published"
 translationOf: "new-collection-reg-could-impede-loan-accessibility-6fd454d2"
 publishedAt: "2026-04-27T22:16:08.000Z"
 fetchedAt: "2026-04-28T03:26:24.536Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 新的收款法規可能會阻礙貸款的無障礙訪問，可能影響殘疾人士或依賴無障礙金融服務的個人。文章討論了該法規可能為殘疾人在獲取或維持貸款方面造成障礙的擔憂。

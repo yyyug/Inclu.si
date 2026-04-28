@@ -20,6 +20,9 @@ status: "published"
 translationOf: "consumer-reports-helpful-accessible-home-gadgets-40842833"
 publishedAt: "2026-04-28T02:59:00.000Z"
 fetchedAt: "2026-04-28T03:25:33.675Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 《消費者報告》介紹了多種專為改善殘疾人和老年人日常生活而設計的無障礙家居設備。報告涵蓋智能家居設備、輔助工具和創新技術，這些技術可增強居家環境中的獨立性和無障礙性。

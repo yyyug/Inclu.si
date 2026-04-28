@@ -24,6 +24,9 @@ status: "published"
 translationOf: "senator-tammy-baldwin-to-introduce-bill-aimed-at-game-accessibility-zh-aa7027b4"
 publishedAt: "2026-04-15T13:45:02.000Z"
 fetchedAt: "2026-04-26T02:15:53.229Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 Senator Tammy Baldwin is set to introduce legislation focused on improving accessibility in video games. The bill aims to ensure that video games are more accessible to players with disabilities, potentially requiring developers to incorporate features like customizable controls, subtitles, and other accessibility options.

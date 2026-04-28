@@ -28,6 +28,7 @@ publishedAt: "2026-04-25T14:47:03.000Z"
 fetchedAt: "2026-04-26T11:44:31.130Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 CCTubes publishes a new captioned video of Alicia Keys' Girl On Fire for deaf and hard of hearing viewers.

@@ -20,6 +20,9 @@ status: "published"
 translationOf: "wicked-star-marissa-bode-says-airline-that-denied-her-boarding-wants-to-make-thi-zh-cced6d9b"
 publishedAt: "2026-04-27T20:47:25.000Z"
 fetchedAt: "2026-04-28T03:25:33.673Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 'Wicked' actress Marissa Bode, who uses a wheelchair, reports that the airline that previously denied her boarding is now expressing commitment to improve accessibility. The incident highlights ongoing accessibility challenges faced by travelers with disabilities and the need for better airline policies.

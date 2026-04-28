@@ -20,6 +20,9 @@ status: "published"
 translationOf: "2026-taiwan-lantern-festival-in-chiayi-family-friendly-senior-and-barrier-free-a-de736d32"
 publishedAt: "2026-02-26T08:00:00.000Z"
 fetchedAt: "2026-04-28T03:27:43.794Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 2026台灣燈會在嘉義提供親子、高齡及無障礙友善的全面資訊，並運用科技導航服務，確保所有參觀者都能舒適地享受燈會。

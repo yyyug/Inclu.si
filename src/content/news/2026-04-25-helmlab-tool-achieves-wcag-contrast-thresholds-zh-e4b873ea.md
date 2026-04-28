@@ -25,6 +25,7 @@ publishedAt: "2026-04-25T22:42:28.000Z"
 fetchedAt: "2026-04-26T12:53:14.165Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 Helmlab的ensureContrast()工具通过调整亮度实现WCAG对比度标准（4.5、7、10、14:1），同时保持色相和色度不变。

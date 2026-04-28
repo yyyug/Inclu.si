@@ -21,6 +21,7 @@ publishedAt: "2026-02-12T08:00:00.000Z"
 fetchedAt: "2026-04-26T06:49:02.435Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 一本全面的旅遊指南，介紹費城對殘疾遊客無障礙的景點、住宿和服務，確保包容性的旅遊體驗。

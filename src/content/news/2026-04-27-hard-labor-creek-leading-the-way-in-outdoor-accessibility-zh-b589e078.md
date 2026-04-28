@@ -19,6 +19,9 @@ status: "published"
 translationOf: "hard-labor-creek-leading-the-way-in-outdoor-accessibility-b589e078"
 publishedAt: "2026-04-27T17:57:00.000Z"
 fetchedAt: "2026-04-28T03:26:24.538Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 哈德拉伯克里克正在開創戶外無障礙倡議，為殘疾人士創造包容性的戶外體驗。該地點作為無障礙戶外休閒和自然體驗的典範。

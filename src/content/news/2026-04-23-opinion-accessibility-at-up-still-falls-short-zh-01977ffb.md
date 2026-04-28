@@ -23,6 +23,7 @@ publishedAt: "2026-04-23T20:15:59.000Z"
 fetchedAt: "2026-04-26T02:50:19.360Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 一篇觀點文章指出，波特蘭大學（UP）的可及性問題依然存在，暗示該機構在為殘疾學生和工作人員提供充分的可及性方面仍有不足。

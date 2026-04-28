@@ -24,6 +24,7 @@ publishedAt: "2026-04-24T01:51:00.000Z"
 fetchedAt: "2026-04-26T02:52:25.760Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 Colorado Mesa University hosted an Intersectionality Fair to bring attention to accessibility issues on campus, promoting awareness and inclusive discussions about disability rights and accessibility needs in higher education.

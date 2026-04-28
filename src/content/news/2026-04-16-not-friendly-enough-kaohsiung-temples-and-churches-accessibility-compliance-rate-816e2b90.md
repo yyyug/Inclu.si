@@ -19,6 +19,9 @@ status: "published"
 translationOf: "not-friendly-enough-kaohsiung-temples-and-churches-accessibility-compliance-rate-zh-816e2b90"
 publishedAt: "2026-04-16T07:00:00.000Z"
 fetchedAt: "2026-04-28T03:28:16.639Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 A survey found that only 1.3% of temples and churches in Kaohsiung meet accessibility standards, prompting the city government to announce a comprehensive review. The low compliance rate highlights significant barriers for people with disabilities and elderly worshippers, raising concerns about inclusive access to religious venues.

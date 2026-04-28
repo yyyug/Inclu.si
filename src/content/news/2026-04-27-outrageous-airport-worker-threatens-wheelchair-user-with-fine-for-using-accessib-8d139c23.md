@@ -20,6 +20,9 @@ status: "published"
 translationOf: "outrageous-airport-worker-threatens-wheelchair-user-with-fine-for-using-accessib-zh-8d139c23"
 publishedAt: "2026-04-27T15:00:51.000Z"
 fetchedAt: "2026-04-28T03:25:46.429Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 An airport worker at Adelaide Airport threatened a wheelchair user with a fine for using the accessible pick-up zone. The incident highlights ongoing accessibility issues and discrimination faced by people with disabilities at transportation hubs.

@@ -19,6 +19,9 @@ status: "published"
 translationOf: "not-just-temples-kaohsiung-public-sector-also-lacks-accessibility-legislators-cr-8b46496a"
 publishedAt: "2026-04-15T07:00:00.000Z"
 fetchedAt: "2026-04-28T03:28:16.639Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 高雄市民代批評市府公務部門缺乏無障礙設施，直指連政府建築本身都未達無障礙標準。批評凸顯政府在推動無障礙環境方面的落差，要求立即改善。

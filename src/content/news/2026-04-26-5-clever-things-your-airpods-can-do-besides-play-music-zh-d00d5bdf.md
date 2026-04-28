@@ -18,6 +18,9 @@ status: "published"
 translationOf: "5-clever-things-your-airpods-can-do-besides-play-music-d00d5bdf"
 publishedAt: "2026-04-26T23:17:00.000Z"
 fetchedAt: "2026-04-28T03:28:31.487Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 探索 AirPods 除了播放音樂外的聰明功能，從隱藏的無障礙工具到改善日常聆聽和互動的智慧功能。

@@ -25,6 +25,7 @@ publishedAt: "2026-04-25T22:45:16.000Z"
 fetchedAt: "2026-04-26T12:53:14.162Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 残障人士被期望免费且心怀感激地教育其压迫者关于能力主义、残疾歧视、无障碍和包容性。

@@ -25,6 +25,7 @@ publishedAt: "2026-04-21T08:19:30.000Z"
 fetchedAt: "2026-04-26T02:51:26.035Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 The U.S. Department of Justice has extended the deadline for website accessibility compliance, raising questions about whether schools will be better prepared to meet accessibility standards. The extension comes as educational institutions struggle to make their digital properties accessible to students with disabilities.

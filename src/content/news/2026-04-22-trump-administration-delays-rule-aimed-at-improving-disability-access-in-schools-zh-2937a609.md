@@ -20,6 +20,9 @@ status: "published"
 translationOf: "trump-administration-delays-rule-aimed-at-improving-disability-access-in-schools-2937a609"
 publishedAt: "2026-04-22T09:00:00.000Z"
 fetchedAt: "2026-04-27T14:44:48.794Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 川普政府延遲了一項旨在改善學校殘疾無障礙的法規，引發對殘疾學生影響的擔憂。

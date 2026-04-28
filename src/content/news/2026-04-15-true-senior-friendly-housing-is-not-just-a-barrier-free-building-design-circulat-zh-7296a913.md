@@ -19,6 +19,9 @@ status: "published"
 translationOf: "true-senior-friendly-housing-is-not-just-a-barrier-free-building-design-circulat-7296a913"
 publishedAt: "2026-04-15T07:00:00.000Z"
 fetchedAt: "2026-04-28T03:28:16.640Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 本文強調真正的樂齡宅不僅是無障礙建築，還需要高標準的設計、動線規劃和空間配置，以滿足老年居民的六大需求，包括安全、舒適和獨立生活支持。

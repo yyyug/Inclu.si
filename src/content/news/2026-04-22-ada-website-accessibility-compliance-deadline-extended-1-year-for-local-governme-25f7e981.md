@@ -24,6 +24,7 @@ publishedAt: "2026-04-22T15:22:13.000Z"
 fetchedAt: "2026-04-26T02:52:58.064Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 The compliance deadline for ADA website accessibility standards has been extended by one year for local governments, providing additional time to meet digital accessibility requirements.

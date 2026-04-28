@@ -19,6 +19,9 @@ status: "published"
 translationOf: "accessibility-at-up-still-falls-short-zh-54bfa515"
 publishedAt: "2026-04-23T20:15:59.000Z"
 fetchedAt: "2026-04-28T03:25:58.374Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 An opinion piece highlighting ongoing accessibility deficiencies at the University of Portland, discussing gaps in accessibility provisions and the need for improvement.

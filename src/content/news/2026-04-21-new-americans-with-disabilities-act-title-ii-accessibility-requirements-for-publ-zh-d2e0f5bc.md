@@ -21,6 +21,9 @@ status: "published"
 translationOf: "new-americans-with-disabilities-act-title-ii-accessibility-requirements-for-publ-d2e0f5bc"
 publishedAt: "2026-04-21T07:00:00.000Z"
 fetchedAt: "2026-04-28T03:26:39.347Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 本文为公立大专院校的内部法律顾问提供关于新版《美国残疾人法案》第二章无障碍要求的指导。文章探讨了机构为确保残障学生无障碍必须实施的法律义务和合规措施。

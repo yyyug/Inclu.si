@@ -25,6 +25,7 @@ publishedAt: "2026-04-25T22:42:28.000Z"
 fetchedAt: "2026-04-26T12:53:14.165Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 Helmlab's ensureContrast() walks the lightness axis to achieve WCAG contrast thresholds (4.5, 7, 10, 14:1) without changing hue or chroma family.

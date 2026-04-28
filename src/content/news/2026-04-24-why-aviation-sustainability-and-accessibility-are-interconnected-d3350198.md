@@ -23,6 +23,7 @@ publishedAt: "2026-04-24T15:11:46.000Z"
 fetchedAt: "2026-04-26T02:52:52.764Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 This article explores the relationship between aviation sustainability and accessibility, discussing how environmentally-friendly initiatives in the aviation industry can also benefit passengers with disabilities, and how accessibility improvements can contribute to broader sustainability goals.

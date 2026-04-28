@@ -24,6 +24,7 @@ publishedAt: "2026-04-25T23:00:15.000Z"
 fetchedAt: "2026-04-26T12:52:52.621Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 这座由泰格·伍兹设计的新球场位于新泽西州,引发了关于现代高尔夫运动排他性的讨论。

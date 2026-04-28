@@ -24,6 +24,7 @@ publishedAt: "2026-04-24T12:35:30.000Z"
 fetchedAt: "2026-04-26T02:53:24.275Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 Dennis Hayes, a pioneer who helped build the internet, is now leading an accessibility transformation initiative in Peachtree Corners. Applying his technological expertise to accessibility innovation, Hayes is working to make the city more inclusive for people with disabilities.

@@ -28,6 +28,7 @@ publishedAt: "2026-04-25T12:31:51.000Z"
 fetchedAt: "2026-04-26T11:44:31.134Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 Passmark 1.0.9 introduces CUA mode using OpenAI GPT-5.5 for testing canvas-heavy apps where ARIA snapshots fall short.

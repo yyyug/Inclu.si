@@ -21,6 +21,9 @@ status: "published"
 translationOf: "volkswagen-commercial-vehicles-partners-to-create-new-accessible-transportation--5e3ee34e"
 publishedAt: "2026-04-25T17:21:39.000Z"
 fetchedAt: "2026-04-28T03:26:39.348Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 福斯商旅携手共创台湾无障碍运输新未来。Crafter福祉计程车作为全台唯一配备五座轮椅位的无障碍旗舰车款正式启航，为轮椅使用者提供更多无障碍交通选择。

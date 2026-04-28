@@ -20,6 +20,7 @@ publishedAt: "2026-04-23T22:51:00.000Z"
 fetchedAt: "2026-04-26T06:47:30.418Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 The Lucas County city council received a report highlighting the urgent need for accessible housing options in the area, addressing accessibility barriers for people with disabilities in residential settings.

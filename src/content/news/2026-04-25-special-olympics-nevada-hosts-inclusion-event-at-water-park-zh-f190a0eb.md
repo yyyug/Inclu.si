@@ -24,6 +24,7 @@ publishedAt: "2026-04-25T23:00:07.000Z"
 fetchedAt: "2026-04-26T12:52:52.625Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 社区民众齐聚维加斯泳池,参加以融合与无障碍为主题的活动日。

@@ -24,6 +24,7 @@ publishedAt: "2026-04-24T01:51:00.000Z"
 fetchedAt: "2026-04-26T02:52:25.760Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 科羅拉多梅薩大學舉辦交叉性博覽會，旨在提高校園無障礙意識，促進高等教育中殘疾權利和無障礙需求的包容性討論。

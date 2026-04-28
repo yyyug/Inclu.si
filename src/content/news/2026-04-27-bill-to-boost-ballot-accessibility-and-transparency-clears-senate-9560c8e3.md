@@ -20,6 +20,9 @@ status: "published"
 translationOf: "bill-to-boost-ballot-accessibility-and-transparency-clears-senate-zh-9560c8e3"
 publishedAt: "2026-04-27T19:30:45.000Z"
 fetchedAt: "2026-04-28T03:25:46.431Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 A bill to enhance ballot accessibility and transparency has passed the Colorado Senate, aiming to improve voting access for people with disabilities and ensure greater transparency in the electoral process.

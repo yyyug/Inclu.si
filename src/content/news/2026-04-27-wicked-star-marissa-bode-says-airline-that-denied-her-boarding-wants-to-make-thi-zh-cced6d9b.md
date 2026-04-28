@@ -20,6 +20,9 @@ status: "published"
 translationOf: "wicked-star-marissa-bode-says-airline-that-denied-her-boarding-wants-to-make-thi-cced6d9b"
 publishedAt: "2026-04-27T20:47:25.000Z"
 fetchedAt: "2026-04-28T03:25:33.673Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 《魔法壞女巫》女演員瑪麗莎·博德（使用輪椅）表示，之前拒絕她登機的航空公司現在承諾將改善無障礙設施。此事件突顯了殘疾旅客面臨的無障礙挑戰，以及更需要完善的航空公司政策。

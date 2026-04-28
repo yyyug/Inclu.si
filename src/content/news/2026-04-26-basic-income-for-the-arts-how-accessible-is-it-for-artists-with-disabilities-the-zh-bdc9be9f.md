@@ -22,6 +22,7 @@ publishedAt: "2026-04-26T05:04:25.000Z"
 fetchedAt: "2026-04-26T06:47:39.646Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 探讨爱尔兰艺术基本收入计划及其对残疾艺术家的无障碍性。文章探讨该计划是否充分支持残疾艺术家并解决潜在的参与障碍。

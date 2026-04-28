@@ -27,6 +27,7 @@ publishedAt: "2026-04-22T09:00:00.000Z"
 fetchedAt: "2026-04-26T02:15:28.134Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 The Trump administration has delayed implementation of a rule designed to improve accessibility for students with disabilities in schools.

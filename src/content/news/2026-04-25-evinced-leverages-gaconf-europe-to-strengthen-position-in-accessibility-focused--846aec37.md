@@ -21,6 +21,7 @@ publishedAt: "2026-04-25T13:34:23.000Z"
 fetchedAt: "2026-04-26T06:47:30.410Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 Evinced is utilizing GAConf Europe to enhance its position in the accessibility-focused gaming market, indicating growing industry attention to making video games more accessible for players with disabilities.

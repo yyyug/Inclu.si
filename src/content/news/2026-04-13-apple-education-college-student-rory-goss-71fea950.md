@@ -21,6 +21,7 @@ publishedAt: "2026-04-13T23:03:25.000Z"
 fetchedAt: "2026-04-26T02:15:47.237Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 Story about college student Rory Goss featured in Apple's education section, highlighting the company's initiatives and resources for college students.

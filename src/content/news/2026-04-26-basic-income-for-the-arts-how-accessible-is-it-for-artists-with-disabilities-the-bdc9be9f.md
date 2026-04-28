@@ -22,6 +22,7 @@ publishedAt: "2026-04-26T05:04:25.000Z"
 fetchedAt: "2026-04-26T06:47:39.646Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 An examination of Ireland's Basic Income for the Arts scheme and its accessibility for artists with disabilities. The article explores whether the program adequately supports artists with disabilities and addresses potential barriers to participation.

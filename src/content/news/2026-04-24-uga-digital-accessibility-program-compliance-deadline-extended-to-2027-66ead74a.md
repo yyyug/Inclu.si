@@ -19,6 +19,9 @@ status: "published"
 translationOf: "uga-digital-accessibility-program-compliance-deadline-extended-to-2027-zh-66ead74a"
 publishedAt: "2026-04-24T09:00:00.000Z"
 fetchedAt: "2026-04-27T14:44:48.794Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 The University of Georgia has extended the compliance deadline for its digital accessibility program to 2027, allowing more time for the institution to ensure its digital resources meet accessibility standards.

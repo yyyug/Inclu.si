@@ -24,6 +24,7 @@ publishedAt: "2026-04-25T23:00:15.000Z"
 fetchedAt: "2026-04-26T12:52:52.621Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 The new Tiger Woods-designed course in New Jersey sparks discussion about exclusivity in modern golf development.

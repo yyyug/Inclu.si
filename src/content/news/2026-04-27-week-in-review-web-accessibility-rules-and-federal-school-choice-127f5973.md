@@ -19,6 +19,9 @@ status: "published"
 translationOf: "week-in-review-web-accessibility-rules-and-federal-school-choice-zh-127f5973"
 publishedAt: "2026-04-27T09:09:54.000Z"
 fetchedAt: "2026-04-28T03:25:58.375Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 A weekly review covering web accessibility regulations and federal policies regarding school choice in K-12 education.

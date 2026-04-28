@@ -23,6 +23,7 @@ publishedAt: "2026-04-26T03:34:44.000Z"
 fetchedAt: "2026-04-26T06:46:40.866Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 澳洲一名輪椅使用者在因使用無障礙停車區而無許可證收到罰款威脅後，呼籲「common sense」。此案例突顯了殘疾人士在使用無障礙設施時面臨的挑戰，以及對合理便利的需求。

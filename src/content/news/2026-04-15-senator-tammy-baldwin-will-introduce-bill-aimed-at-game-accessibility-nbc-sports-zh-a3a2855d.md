@@ -20,6 +20,9 @@ status: "published"
 translationOf: "senator-tammy-baldwin-will-introduce-bill-aimed-at-game-accessibility-nbc-sports-a3a2855d"
 publishedAt: "2026-04-15T07:00:00.000Z"
 fetchedAt: "2026-04-27T14:45:08.729Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 參議員坦迪·鮑德溫提出立法，旨在改善電子遊戲的無障礙性，可能為遊戲產業樹立新標準。

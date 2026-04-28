@@ -22,6 +22,7 @@ publishedAt: "2026-04-23T12:00:36.000Z"
 fetchedAt: "2026-04-26T02:15:13.616Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 PlayStation.Blog details the gameplay modifiers and accessibility options available in Saros, providing players with detailed customization choices.

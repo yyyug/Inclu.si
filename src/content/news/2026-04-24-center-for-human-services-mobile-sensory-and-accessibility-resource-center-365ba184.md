@@ -21,6 +21,7 @@ publishedAt: "2026-04-24T17:14:00.000Z"
 fetchedAt: "2026-04-26T02:52:39.841Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 The Center for Human Services has launched a Mobile Sensory and Accessibility Resource Center, providing accessibility resources and services to the local community.

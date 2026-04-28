@@ -23,6 +23,7 @@ publishedAt: "2026-04-23T20:15:59.000Z"
 fetchedAt: "2026-04-26T02:50:19.360Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 An opinion piece highlighting that accessibility issues persist at the University of Portland (UP), suggesting that despite efforts, the institution still falls short in providing adequate accessibility for students and staff with disabilities.

@@ -19,6 +19,9 @@ status: "published"
 translationOf: "expanding-accessibility-in-black-ops-7-with-new-control-options-call-of-duty-0777cb37"
 publishedAt: "2026-04-09T07:00:00.000Z"
 fetchedAt: "2026-04-27T14:45:08.728Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 文章討論了《使命召喚：黑色行動 7》新增的無障礙控制選項，為殘疾玩家擴展遊戲無障礙功能。

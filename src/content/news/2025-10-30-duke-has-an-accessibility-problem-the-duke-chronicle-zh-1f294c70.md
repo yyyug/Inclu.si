@@ -22,6 +22,7 @@ publishedAt: "2025-10-30T07:00:00.000Z"
 fetchedAt: "2026-04-26T06:48:25.598Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 《杜克紀事報》報導了杜克大學面臨的無障礙問題，突顯殘障學生和教職員所遇到的挑戰。

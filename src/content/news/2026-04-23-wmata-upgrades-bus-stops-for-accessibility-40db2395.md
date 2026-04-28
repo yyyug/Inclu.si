@@ -22,6 +22,7 @@ publishedAt: "2026-04-23T07:00:00.000Z"
 fetchedAt: "2026-04-26T06:48:36.794Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 WMATA announces infrastructure improvements to bus stops, enhancing accessibility for passengers with disabilities, including features like better boarding areas and accessibility upgrades.

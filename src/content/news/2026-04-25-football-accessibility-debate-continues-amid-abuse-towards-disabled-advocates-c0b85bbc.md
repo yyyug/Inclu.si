@@ -25,6 +25,7 @@ publishedAt: "2026-04-25T23:21:45.000Z"
 fetchedAt: "2026-04-26T12:52:23.400Z"
 queryRegion: "US"
 region: "US"
+sourceCountry: "US"
 ---
 
 Criticism of fans who challenge stadium safety rules faces backlash, while concerns about disabled accessibility at football matches remain unresolved.

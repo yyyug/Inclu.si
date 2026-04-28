@@ -27,6 +27,9 @@ status: "published"
 translationOf: "new-americans-with-disabilities-act-title-ii-accessibility-requirements-for-publ-zh-b7546fe3"
 publishedAt: "2026-04-21T07:00:00.000Z"
 fetchedAt: "2026-04-26T02:16:10.754Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 This article discusses the new accessibility requirements under the Americans with Disabilities Act Title II specifically applicable to public colleges and universities. It provides guidance for in-house counsel on what actions they should take to ensure their institutions comply with these federal accessibility requirements.

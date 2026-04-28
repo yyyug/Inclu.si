@@ -24,6 +24,7 @@ publishedAt: "2026-04-25T23:44:58.000Z"
 fetchedAt: "2026-04-26T12:51:20.018Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 Disabled LLC提供资源、指导和社区支持，培养残障人士的包容性和无障碍环境。

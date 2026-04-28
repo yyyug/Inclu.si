@@ -19,6 +19,9 @@ status: "published"
 translationOf: "sacrt-to-expand-wheelchair-accessible-service-8e2dec30"
 publishedAt: "2026-04-27T23:37:37.000Z"
 fetchedAt: "2026-04-28T03:26:24.537Z"
+sourceCountry: "TW"
+queryRegion: "TW"
+region: "TW"
 ---
 
 薩克拉門托區域交通局宣布擴大輪椅無障礙服務的計劃，為輪椅使用者和行動障礙人士改善交通選址。擴展旨在提升公共交通的無障礙性。

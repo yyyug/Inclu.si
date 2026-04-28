@@ -23,6 +23,7 @@ publishedAt: "2026-04-25T23:26:43.000Z"
 fetchedAt: "2026-04-26T12:52:23.325Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 一位社交媒体用户呼吁迈克尔·杰克逊传记片创作者重新考虑将猿类描绘为伴侣的做法，称其对公众认知野生动物造成伤害和损害。

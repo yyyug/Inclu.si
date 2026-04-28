@@ -21,6 +21,9 @@ status: "published"
 translationOf: "ministry-of-the-interior-launches-old-house-extension-program-buildings-over-30--zh-28981105"
 publishedAt: "2026-04-26T10:11:11.000Z"
 fetchedAt: "2026-04-28T03:28:59.835Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 Taiwan's Ministry of the Interior will launch the 'Old House Extension and Functional Renewal Program' at the end of May. The plan covers exterior wall repairs, roof waterproofing, pipeline updates, and accessibility improvements. Apartment buildings can receive up to 3.9 million yuan in subsidies, with interior renovations covered up to 200,000 yuan and up to 300,000 yuan for elderly and vulnerable residents. The program combines solar power, appliance replacement, and assistive device policies.

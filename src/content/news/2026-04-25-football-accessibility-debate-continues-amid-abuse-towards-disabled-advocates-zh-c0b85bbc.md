@@ -25,6 +25,7 @@ publishedAt: "2026-04-25T23:21:45.000Z"
 fetchedAt: "2026-04-26T12:52:23.400Z"
 queryRegion: "TW"
 region: "TW"
+sourceCountry: "TW"
 ---
 
 对挑战体育场安全规则的球迷的批评引发强烈反弹，而对足球比赛无障碍性的担忧仍未得到解决。
