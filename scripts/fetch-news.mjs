@@ -7,6 +7,12 @@ import { GoogleDecoder } from 'google-news-url-decoder';
 const DEFAULT_GOOGLE_RSS_URLS = [
   'https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US:en',
   'https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW:zh-Hant',
+  'https://news.google.com/rss/search?q=%EC%9E%A5%EC%95%A0%EC%9D%B8+%EC%A0%91%EA%B7%BC%EC%84%B1&hl=ko&gl=KR&ceid=KR:ko',
+  'https://news.google.com/rss/search?q=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3&hl=ja&gl=JP&ceid=JP:ja',
+  'https://news.google.com/rss/search?q=%E3%83%90%E3%83%AA%E3%82%A2%E3%83%95%E3%83%AA%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja',
+  'https://news.google.com/rss/search?q=%E9%9A%9C%E5%AE%B3%E8%80%85+%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3&hl=ja&gl=JP&ceid=JP:ja',
+  'https://news.google.com/rss/search?q=%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA:ar',
+  'https://news.google.com/rss/search?q=%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=AE&ceid=AE:ar',
 ];
 
 const GOOGLE_NEWS_RSS_URLS = parseCommaList(
@@ -46,6 +52,15 @@ const ACCESSIBILITY_KEYWORDS = [
 ];
 
 function parseCommaList(value) {
+  function extractRegionFromFeedUrl(feedUrl) {
+    try {
+      return new URL(feedUrl).searchParams.get('gl') ?? undefined;
+    } catch {
+      return undefined;
+    }
+  }
+
+  function parseCommaList(value) {
   return String(value ?? '')
     .split(',')
     .map((item) => item.trim())
@@ -280,6 +295,7 @@ async function collectCandidatesFromRss({ parser, decoder, existing }) {
           sourceName,
           sourceUrl,
           title,
+          region: extractRegionFromFeedUrl(feedUrl),
         });
       } catch (error) {
         failed += 1;
@@ -499,6 +515,7 @@ function buildFrontmatter({
   summary,
   category,
   tags,
+    region,
   sourceName,
   sourceUrl,
   clusterId,
@@ -522,6 +539,7 @@ function buildFrontmatter({
     'relatedSources:',
     `  - name: "${sourceName.replace(/"/g, '\\"')}"`,
     `    url: "${sourceUrl}"`,
+    ...(region ? [`region: "${region}"`] : []),
     `clusterId: "${clusterId}"`,
     'status: "published"',
     `translationOf: "${translationOf}"`,
@@ -532,7 +550,7 @@ function buildFrontmatter({
   ].join('\n');
 }
 
-async function writeStoryPair(item, ai, sourceName, sourceUrl) {
+async function writeStoryPair(item, ai, sourceName, sourceUrl, region) {
   const canonicalUrl = normalizeUrl(sourceUrl);
   const publishedAt = toIsoDate(item.isoDate ?? item.pubDate);
   const fetchedAt = new Date().toISOString();
@@ -553,6 +571,7 @@ async function writeStoryPair(item, ai, sourceName, sourceUrl) {
       tags: ai.tags,
       sourceName,
       sourceUrl: canonicalUrl,
+      region,
       clusterId,
       translationOf: zhSlug,
       publishedAt,
@@ -574,6 +593,7 @@ async function writeStoryPair(item, ai, sourceName, sourceUrl) {
       tags: ai.tags,
       sourceName,
       sourceUrl: canonicalUrl,
+      region,
       clusterId,
       translationOf: enSlug,
       publishedAt,
@@ -659,7 +679,7 @@ async function main() {
       };
 
       try {
-        const result = await writeStoryPair(entry.item, ai, entry.sourceName, entry.sourceUrl);
+        const result = await writeStoryPair(entry.item, ai, entry.sourceName, entry.sourceUrl, entry.region);
         existing.add(`url:${result.canonicalUrl}`);
         existing.add(`title:${entry.title}`);
         created += 1;
