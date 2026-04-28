@@ -1,6 +1,7 @@
 ---
 import type { NewsEntry } from '../../lib/news';
 import type { Locale } from '../../lib/i18n';
+import { inferCountryFromSourceUrl } from '../../lib/geo';
 
 interface Props {
   locale: Locale;
@@ -30,16 +31,41 @@ const regionLabels: Record<string, string> = {
   JP: '🇯🇵 JP',
   SA: '🇸🇦 SA',
   AE: '🇦🇪 AE',
+  GB: '🇬🇧 GB',
 };
-const regionLabel = entry.data.region ? (regionLabels[entry.data.region] ?? entry.data.region) : null;
+
+const sourceCountryCode = entry.data.sourceCountry
+  ?? inferCountryFromSourceUrl(entry.data.sourceUrl)
+  ?? entry.data.region
+  ?? null;
+
+const queryRegionCode = entry.data.queryRegion ?? entry.data.region ?? null;
+
+const sourceCountryLabel = sourceCountryCode
+  ? (regionLabels[sourceCountryCode] ?? sourceCountryCode)
+  : null;
+
+const queryRegionLabel = queryRegionCode
+  ? (regionLabels[queryRegionCode] ?? queryRegionCode)
+  : null;
+
+const sourceBadgePrefix = locale === 'zh-TW' ? '來源' : 'Source';
+const queryBadgePrefix = locale === 'zh-TW' ? '查詢' : 'Query';
 ---
 
 <article class="group rounded-3xl border border-slate-200 bg-white p-5 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg sm:p-8">
   <div class="flex flex-wrap items-center gap-3 text-sm text-slate-600">
     <span class="rounded-full bg-indigo-600 px-3 py-1 font-semibold text-white">{categoryLabel}</span>
-        {regionLabel && (
-          <span class="rounded-full bg-slate-100 px-3 py-1 font-medium text-slate-600 border border-slate-200">{regionLabel}</span>
-        )}
+    {sourceCountryLabel && (
+      <span class="rounded-full bg-slate-100 px-3 py-1 font-medium text-slate-600 border border-slate-200">
+        {sourceBadgePrefix}: {sourceCountryLabel}
+      </span>
+    )}
+    {queryRegionLabel && (
+      <span class="rounded-full bg-amber-50 px-3 py-1 font-medium text-amber-800 border border-amber-200">
+        {queryBadgePrefix}: {queryRegionLabel}
+      </span>
+    )}
     <time datetime={entry.data.publishedAt.toISOString()}>
       {entry.data.publishedAt.toLocaleDateString(locale === 'zh-TW' ? 'zh-Hant-TW' : 'en-US', {
         year: 'numeric',

@@ -27,6 +27,8 @@ const newsCollection = defineCollection({
     sourceName: z.string(),
     sourceUrl: z.string().url(),
     relatedSources: z.array(sourceSchema).default([]),
+    sourceCountry: z.string().optional(),
+    queryRegion: z.string().optional(),
     region: z.string().optional(),
     clusterId: z.string(),
     status: z.enum(['draft', 'published', 'archived', 'deleted']).default('draft'),

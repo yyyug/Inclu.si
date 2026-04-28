@@ -3,6 +3,7 @@ import path from 'node:path';
 import crypto from 'node:crypto';
 import Parser from 'rss-parser';
 import { GoogleDecoder } from 'google-news-url-decoder';
+import { extractQueryRegionFromFeedUrl, pickSourceCountry } from './news-ingest/geo.mjs';
 
 const DEFAULT_GOOGLE_RSS_URLS = [
   'https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US:en',
@@ -50,14 +51,6 @@ const ACCESSIBILITY_KEYWORDS = [
   '無障礙', '可及性', '輔助', '身心障礙', '視障', '聽障', '聽力',
   '動作', '認知', '殘障', '包容設計', '通用設計',
 ];
-
-function extractRegionFromFeedUrl(feedUrl) {
-  try {
-    return new URL(feedUrl).searchParams.get('gl') ?? undefined;
-  } catch {
-    return undefined;
-  }
-}
 
 function parseCommaList(value) {
   return String(value ?? '')
@@ -289,12 +282,18 @@ async function collectCandidatesFromRss({ parser, decoder, existing }) {
           continue;
         }
 
+        const queryRegion = extractQueryRegionFromFeedUrl(feedUrl);
+
         candidates.push({
           item,
           sourceName,
           sourceUrl,
           title,
-          region: extractRegionFromFeedUrl(feedUrl),
+          queryRegion,
+          sourceCountry: pickSourceCountry({
+            sourceUrl,
+            queryRegion,
+          }),
         });
       } catch (error) {
         failed += 1;
@@ -377,6 +376,7 @@ async function collectCandidatesFromNewsApi({ existing }) {
           sourceName,
           sourceUrl,
           title: normalizedTitle,
+          sourceCountry: pickSourceCountry({ sourceUrl }),
         });
       } catch (error) {
         failed += 1;
@@ -514,7 +514,8 @@ function buildFrontmatter({
   summary,
   category,
   tags,
-    region,
+  sourceCountry,
+  queryRegion,
   sourceName,
   sourceUrl,
   clusterId,
@@ -538,7 +539,9 @@ function buildFrontmatter({
     'relatedSources:',
     `  - name: "${sourceName.replace(/"/g, '\\"')}"`,
     `    url: "${sourceUrl}"`,
-    ...(region ? [`region: "${region}"`] : []),
+    ...(sourceCountry ? [`sourceCountry: "${sourceCountry}"`] : []),
+    ...(queryRegion ? [`queryRegion: "${queryRegion}"`] : []),
+    ...(queryRegion ? [`region: "${queryRegion}"`] : []),
     `clusterId: "${clusterId}"`,
     'status: "published"',
     `translationOf: "${translationOf}"`,
@@ -549,7 +552,7 @@ function buildFrontmatter({
   ].join('\n');
 }
 
-async function writeStoryPair(item, ai, sourceName, sourceUrl, region) {
+async function writeStoryPair(item, ai, sourceName, sourceUrl, sourceCountry, queryRegion) {
   const canonicalUrl = normalizeUrl(sourceUrl);
   const publishedAt = toIsoDate(item.isoDate ?? item.pubDate);
   const fetchedAt = new Date().toISOString();
@@ -570,7 +573,8 @@ async function writeStoryPair(item, ai, sourceName, sourceUrl, region) {
       tags: ai.tags,
       sourceName,
       sourceUrl: canonicalUrl,
-      region,
+      sourceCountry,
+      queryRegion,
       clusterId,
       translationOf: zhSlug,
       publishedAt,
@@ -592,7 +596,8 @@ async function writeStoryPair(item, ai, sourceName, sourceUrl, region) {
       tags: ai.tags,
       sourceName,
       sourceUrl: canonicalUrl,
-      region,
+      sourceCountry,
+      queryRegion,
       clusterId,
       translationOf: enSlug,
       publishedAt,
@@ -678,7 +683,14 @@ async function main() {
       };
 
       try {
-        const result = await writeStoryPair(entry.item, ai, entry.sourceName, entry.sourceUrl, entry.region);
+        const result = await writeStoryPair(
+          entry.item,
+          ai,
+          entry.sourceName,
+          entry.sourceUrl,
+          entry.sourceCountry,
+          entry.queryRegion,
+        );
         existing.add(`url:${result.canonicalUrl}`);
         existing.add(`title:${entry.title}`);
         created += 1;
