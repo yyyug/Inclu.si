@@ -21,8 +21,11 @@ const entryBySlug = new Map(entries.map((entry) => [entry.data.slug, entry]));
 ---
 
 <Layout locale={locale} title={copy.siteTitle}>
-  <main class="mx-auto flex w-full max-w-6xl flex-col space-y-12 px-5 py-10 sm:px-8 sm:py-14">
+  <div class="mx-auto w-full max-w-6xl px-5 pt-10 sm:px-8 sm:pt-14">
     <SiteHeader locale={locale} />
+  </div>
+
+  <main class="mx-auto flex w-full max-w-6xl flex-col space-y-12 px-5 pb-10 pt-6 sm:px-8 sm:pb-14 sm:pt-8">
 
     <section class="rounded-2xl border border-slate-200 bg-white px-6 py-5 sm:px-8">
       <p class="text-base leading-relaxed text-slate-600">{copy.intro}</p>
