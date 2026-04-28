@@ -51,16 +51,15 @@ const ACCESSIBILITY_KEYWORDS = [
   '動作', '認知', '殘障', '包容設計', '通用設計',
 ];
 
-function parseCommaList(value) {
-  function extractRegionFromFeedUrl(feedUrl) {
-    try {
-      return new URL(feedUrl).searchParams.get('gl') ?? undefined;
-    } catch {
-      return undefined;
-    }
+function extractRegionFromFeedUrl(feedUrl) {
+  try {
+    return new URL(feedUrl).searchParams.get('gl') ?? undefined;
+  } catch {
+    return undefined;
   }
+}
 
-  function parseCommaList(value) {
+function parseCommaList(value) {
   return String(value ?? '')
     .split(',')
     .map((item) => item.trim())
