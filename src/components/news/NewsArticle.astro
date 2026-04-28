@@ -7,12 +7,15 @@ import type { NewsEntry } from '../../lib/news';
 interface Props {
   locale: Locale;
   entry: NewsEntry;
-  content: any;
 }
 
-const { locale, entry, content: Content } = Astro.props;
+const { locale, entry } = Astro.props;
 const backLabel = locale === 'en' ? 'Back to homepage' : '返回首頁';
 const sourceLabel = locale === 'en' ? 'Original source' : '原始來源';
+const paragraphs = entry.body
+  .split(/\n\s*\n/g)
+  .map((line) => line.trim())
+  .filter(Boolean);
 ---
 
 <Layout locale={locale} title={entry.data.title}>
@@ -48,8 +51,12 @@ const sourceLabel = locale === 'en' ? 'Original source' : '原始來源';
       </div>
     </header>
 
-    <article class="prose prose-slate max-w-none rounded-3xl border border-slate-200 bg-white p-8 prose-headings:font-['Merriweather'] prose-headings:font-bold prose-p:font-['Merriweather'] prose-p:leading-relaxed prose-a:text-indigo-700 hover:prose-a:text-indigo-900">
-      <Content />
+    <article class="rounded-3xl border border-slate-200 bg-white p-8">
+      <div class="space-y-4 font-['Merriweather'] text-base leading-relaxed text-slate-700">
+        {paragraphs.map((paragraph) => (
+          <p>{paragraph}</p>
+        ))}
+      </div>
     </article>
   </main>
 </Layout>

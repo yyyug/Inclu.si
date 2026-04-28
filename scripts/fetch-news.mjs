@@ -5,26 +5,19 @@ import Parser from 'rss-parser';
 import { GoogleDecoder } from 'google-news-url-decoder';
 import { extractQueryRegionFromFeedUrl, pickSourceCountry } from './news-ingest/geo.mjs';
 
-const DEFAULT_GOOGLE_RSS_URLS = [
-  'https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US:en',
-  'https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW:zh-Hant',
-  'https://news.google.com/rss/search?q=%EC%9E%A5%EC%95%A0%EC%9D%B8+%EC%A0%91%EA%B7%BC%EC%84%B1&hl=ko&gl=KR&ceid=KR:ko',
-  'https://news.google.com/rss/search?q=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3&hl=ja&gl=JP&ceid=JP:ja',
-  'https://news.google.com/rss/search?q=%E3%83%90%E3%83%AA%E3%82%A2%E3%83%95%E3%83%AA%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja',
-  'https://news.google.com/rss/search?q=%E9%9A%9C%E5%AE%B3%E8%80%85+%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3&hl=ja&gl=JP&ceid=JP:ja',
-  'https://news.google.com/rss/search?q=%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA:ar',
-  'https://news.google.com/rss/search?q=%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=AE&ceid=AE:ar',
-];
+function requireEnv(name) {
+  const value = process.env[name];
+  if (!value || !String(value).trim()) {
+    throw new Error(`Missing required environment variable: ${name}`);
+  }
+  return String(value).trim();
+}
 
-const GOOGLE_NEWS_RSS_URLS = parseCommaList(
-  process.env.GOOGLE_NEWS_RSS_URLS
-  ?? process.env.GOOGLE_NEWS_RSS_URL
-  ?? DEFAULT_GOOGLE_RSS_URLS.join(','),
-);
+const GOOGLE_NEWS_RSS_URLS = parseCommaList(requireEnv('GOOGLE_NEWS_RSS_URLS'));
 
-const NEWS_API_KEY = process.env.NEWS_API_KEY ?? '';
-const NEWS_API_BASE_URL = (process.env.NEWS_API_BASE_URL ?? 'https://newsapi.org/v2/everything').replace(/\/$/, '');
-const NEWS_API_QUERIES = parseCommaList(process.env.NEWS_API_QUERIES ?? 'accessibility,無障礙');
+const NEWS_API_KEY = requireEnv('NEWS_API_KEY');
+const NEWS_API_BASE_URL = requireEnv('NEWS_API_BASE_URL').replace(/\/$/, '');
+const NEWS_API_QUERIES = parseCommaList(requireEnv('NEWS_API_QUERIES'));
 const NEWS_API_PAGE_SIZE = Math.min(100, Math.max(10, Number(process.env.NEWS_API_PAGE_SIZE ?? 50)));
 const NEWS_API_QUERY_REGION_MAP = {
   accessibility: 'US',
@@ -35,9 +28,10 @@ const NEWS_API_QUERY_REGION_MAP = {
 };
 
 const CONTENT_DIR = path.resolve('src/content/news');
-const OLLAMA_BASE_URL = (process.env.OLLAMA_BASE_URL ?? 'https://ollama.cloud/v1').replace(/\/$/, '');
-const OLLAMA_API_KEY = process.env.OLLAMA_API_KEY ?? '';
-const OLLAMA_MODEL = process.env.OLLAMA_MODEL ?? 'nemotron-3-super:cloud';
+const NEWS_DATA_DIR = path.resolve('src/data/news');
+const OLLAMA_BASE_URL = requireEnv('OLLAMA_BASE_URL').replace(/\/$/, '');
+const OLLAMA_API_KEY = requireEnv('OLLAMA_API_KEY');
+const OLLAMA_MODEL = requireEnv('OLLAMA_MODEL');
 const MAX_ITEMS_PER_RUN = Math.max(1, Number(process.env.MAX_ITEMS_PER_RUN ?? 10));
 const OLLAMA_TIMEOUT_MS = Number(process.env.OLLAMA_TIMEOUT_MS ?? 60000);
 const BATCH_SIZE = Math.min(5, Math.max(3, Number(process.env.BATCH_SIZE ?? 3)));
@@ -398,8 +392,77 @@ async function collectCandidatesFromNewsApi({ existing }) {
   return { candidates, skipped, failed };
 }
 
+function monthlyNewsFilePath(lang, publishedAt) {
+  const month = String(publishedAt).slice(0, 7);
+  return path.join(NEWS_DATA_DIR, `${month}.${lang}.json`);
+}
+
+async function readMonthlyNewsFile(filePath) {
+  try {
+    const raw = await fs.readFile(filePath, 'utf8');
+    const parsed = JSON.parse(raw);
+    return Array.isArray(parsed) ? parsed : [];
+  } catch {
+    return [];
+  }
+}
+
+async function writeMonthlyNewsFile(filePath, stories) {
+  await fs.mkdir(path.dirname(filePath), { recursive: true });
+  await fs.writeFile(filePath, `${JSON.stringify(stories, null, 2)}\n`, 'utf8');
+}
+
+async function upsertMonthlyNewsStory(story) {
+  const filePath = monthlyNewsFilePath(story.lang, story.publishedAt);
+  const stories = await readMonthlyNewsFile(filePath);
+  const index = stories.findIndex((item) => item.slug === story.slug);
+
+  if (index >= 0) {
+    stories[index] = story;
+  } else {
+    stories.push(story);
+  }
+
+  await writeMonthlyNewsFile(filePath, stories);
+  return path.basename(filePath);
+}
+
+async function listMonthlyNewsRecords() {
+  const rows = [];
+
+  try {
+    const files = await fs.readdir(NEWS_DATA_DIR);
+    for (const file of files) {
+      if (!file.endsWith('.json')) continue;
+      const filePath = path.join(NEWS_DATA_DIR, file);
+      const items = await readMonthlyNewsFile(filePath);
+      for (const item of items) {
+        if (item && typeof item === 'object') {
+          rows.push(item);
+        }
+      }
+    }
+  } catch {
+    await fs.mkdir(NEWS_DATA_DIR, { recursive: true });
+  }
+
+  return rows;
+}
+
 async function readExistingKeys() {
   const keys = new Set();
+
+  const monthlyStories = await listMonthlyNewsRecords();
+  for (const story of monthlyStories) {
+    const sourceUrl = String(story.sourceUrl ?? '').trim();
+    const title = String(story.title ?? '').trim();
+    if (sourceUrl) {
+      keys.add(`url:${normalizeUrl(sourceUrl)}`);
+    }
+    if (title) {
+      keys.add(`title:${title.toLowerCase()}`);
+    }
+  }
 
   try {
     const files = await fs.readdir(CONTENT_DIR);
@@ -516,51 +579,6 @@ async function askOllamaForBatch(batchItems) {
   }));
 }
 
-function buildFrontmatter({
-  title,
-  slug,
-  lang,
-  summary,
-  category,
-  tags,
-  sourceCountry,
-  queryRegion,
-  sourceName,
-  sourceUrl,
-  clusterId,
-  translationOf,
-  publishedAt,
-  fetchedAt,
-}) {
-  const encodedTags = tags.map((tag) => `  - "${tag.replace(/"/g, '\\"')}"`).join('\n');
-
-  return [
-    '---',
-    `title: "${title.replace(/"/g, '\\"')}"`,
-    `slug: "${slug}"`,
-    `lang: "${lang}"`,
-    `summary: "${summary.replace(/"/g, '\\"')}"`,
-    `category: "${category}"`,
-    'tags:',
-    encodedTags || '  - "accessibility"',
-    `sourceName: "${sourceName.replace(/"/g, '\\"')}"`,
-    `sourceUrl: "${sourceUrl}"`,
-    'relatedSources:',
-    `  - name: "${sourceName.replace(/"/g, '\\"')}"`,
-    `    url: "${sourceUrl}"`,
-    ...(sourceCountry ? [`sourceCountry: "${sourceCountry}"`] : []),
-    ...(queryRegion ? [`queryRegion: "${queryRegion}"`] : []),
-    ...(queryRegion ? [`region: "${queryRegion}"`] : []),
-    `clusterId: "${clusterId}"`,
-    'status: "published"',
-    `translationOf: "${translationOf}"`,
-    `publishedAt: "${publishedAt}"`,
-    `fetchedAt: "${fetchedAt}"`,
-    '---',
-    '',
-  ].join('\n');
-}
-
 async function writeStoryPair(item, ai, sourceName, sourceUrl, sourceCountry, queryRegion) {
   const canonicalUrl = normalizeUrl(sourceUrl);
   const publishedAt = toIsoDate(item.isoDate ?? item.pubDate);
@@ -572,60 +590,52 @@ async function writeStoryPair(item, ai, sourceName, sourceUrl, sourceCountry, qu
   const zhSlug = `${baseSlug}-zh-${hash}`;
   const clusterId = `cluster-${hash}`;
 
-  const enBody = [
-    buildFrontmatter({
-      title: ai.englishTitle,
-      slug: enSlug,
-      lang: 'en',
-      summary: ai.englishSummary,
-      category: ai.category,
-      tags: ai.tags,
-      sourceName,
-      sourceUrl: canonicalUrl,
-      sourceCountry,
-      queryRegion,
-      clusterId,
-      translationOf: zhSlug,
-      publishedAt,
-      fetchedAt,
-    }),
-    ai.englishSummary,
-    '',
-    `Read more from the original source: [${sourceName}](${canonicalUrl})`,
-    '',
-  ].join('\n');
+  const enStory = {
+    title: ai.englishTitle,
+    slug: enSlug,
+    lang: 'en',
+    summary: ai.englishSummary,
+    category: ai.category,
+    tags: ai.tags,
+    sourceName,
+    sourceUrl: canonicalUrl,
+    relatedSources: [{ name: sourceName, url: canonicalUrl }],
+    sourceCountry: sourceCountry ?? null,
+    queryRegion: queryRegion ?? null,
+    region: queryRegion ?? null,
+    clusterId,
+    status: 'published',
+    translationOf: zhSlug,
+    publishedAt,
+    fetchedAt,
+    body: `${ai.englishSummary}\n\nRead more from the original source: [${sourceName}](${canonicalUrl})`,
+  };
 
-  const zhBody = [
-    buildFrontmatter({
-      title: ai.zhTitle,
-      slug: zhSlug,
-      lang: 'zh-TW',
-      summary: ai.zhSummary,
-      category: ai.category,
-      tags: ai.tags,
-      sourceName,
-      sourceUrl: canonicalUrl,
-      sourceCountry,
-      queryRegion,
-      clusterId,
-      translationOf: enSlug,
-      publishedAt,
-      fetchedAt,
-    }),
-    ai.zhSummary,
-    '',
-    `原文來源： [${sourceName}](${canonicalUrl})`,
-    '',
-  ].join('\n');
+  const zhStory = {
+    title: ai.zhTitle,
+    slug: zhSlug,
+    lang: 'zh-TW',
+    summary: ai.zhSummary,
+    category: ai.category,
+    tags: ai.tags,
+    sourceName,
+    sourceUrl: canonicalUrl,
+    relatedSources: [{ name: sourceName, url: canonicalUrl }],
+    sourceCountry: sourceCountry ?? null,
+    queryRegion: queryRegion ?? null,
+    region: queryRegion ?? null,
+    clusterId,
+    status: 'published',
+    translationOf: enSlug,
+    publishedAt,
+    fetchedAt,
+    body: `${ai.zhSummary}\n\n原文來源： [${sourceName}](${canonicalUrl})`,
+  };
 
-  const datePrefix = publishedAt.slice(0, 10);
-  const enFilename = `${datePrefix}-${enSlug}.md`;
-  const zhFilename = `${datePrefix}-${zhSlug}.md`;
+  const enFile = await upsertMonthlyNewsStory(enStory);
+  const zhFile = await upsertMonthlyNewsStory(zhStory);
 
-  await fs.writeFile(path.join(CONTENT_DIR, enFilename), enBody, 'utf8');
-  await fs.writeFile(path.join(CONTENT_DIR, zhFilename), zhBody, 'utf8');
-
-  return { canonicalUrl, enFilename, zhFilename };
+  return { canonicalUrl, enFile, zhFile };
 }
 
 async function main() {
@@ -703,7 +713,7 @@ async function main() {
         existing.add(`url:${result.canonicalUrl}`);
         existing.add(`title:${entry.title}`);
         created += 1;
-        console.log(`Created: ${result.enFilename} + ${result.zhFilename}`);
+        console.log(`Created: ${result.enFile} + ${result.zhFile}`);
       } catch (error) {
         failed += 1;
         console.error(`Failed on item write: ${entry.item.title ?? 'unknown'}`);

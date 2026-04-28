@@ -1,63 +1,63 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 
-const CONTENT_DIR = path.resolve('src/content/news');
+function requireEnv(name) {
+  const value = process.env[name];
+  if (!value || !String(value).trim()) {
+    throw new Error(`Missing required environment variable: ${name}`);
+  }
+  return String(value).trim();
+}
+
+const NEWS_DATA_DIR = path.resolve('src/data/news');
 const OUTPUT_FILE = path.resolve('src/data/daily-digest.json');
-const OLLAMA_BASE_URL = (process.env.OLLAMA_BASE_URL ?? 'https://ollama.cloud/v1').replace(/\/$/, '');
-const OLLAMA_API_KEY = process.env.OLLAMA_API_KEY ?? '';
-const OLLAMA_MODEL = process.env.OLLAMA_MODEL ?? 'nemotron-3-super:cloud';
+const OLLAMA_BASE_URL = requireEnv('OLLAMA_BASE_URL').replace(/\/$/, '');
+const OLLAMA_API_KEY = requireEnv('OLLAMA_API_KEY');
+const OLLAMA_MODEL = requireEnv('OLLAMA_MODEL');
 const DIGEST_DATE = process.env.DIGEST_DATE ?? new Date().toISOString().slice(0, 10);
 const OLLAMA_TIMEOUT_MS = Number(process.env.OLLAMA_TIMEOUT_MS ?? 60000);
 const DIGEST_LOOKBACK_DAYS = Number(process.env.DIGEST_LOOKBACK_DAYS ?? 2);
 const DIGEST_MIN_HIGHLIGHTS = 3;
 const DIGEST_MAX_HIGHLIGHTS = 5;
 
-function extract(text, field) {
-  const pattern = new RegExp(`^${field}:\\s*"(.+)"$`, 'm');
-  const match = text.match(pattern);
-  return match ? match[1] : '';
-}
-
-function parseArticle(text) {
-  return {
-    title: extract(text, 'title'),
-    slug: extract(text, 'slug'),
-    lang: extract(text, 'lang'),
-    summary: extract(text, 'summary'),
-    category: extract(text, 'category'),
-    status: extract(text, 'status'),
-    publishedAt: extract(text, 'publishedAt'),
-  };
-}
-
 async function loadRecentPublishedArticles() {
-  const files = await fs.readdir(CONTENT_DIR);
   const rows = [];
   const digestBaseTime = new Date(`${DIGEST_DATE}T23:59:59.999Z`).getTime();
   const lookbackMs = DIGEST_LOOKBACK_DAYS * 24 * 60 * 60 * 1000;
   const cutoffTime = digestBaseTime - lookbackMs;
 
+  let files = [];
+  try {
+    files = await fs.readdir(NEWS_DATA_DIR);
+  } catch {
+    return [];
+  }
+
   for (const file of files) {
-    if (!file.endsWith('.md')) {
-      continue;
-    }
-    const fullPath = path.join(CONTENT_DIR, file);
+    if (!file.endsWith('.json')) continue;
+
+    const fullPath = path.join(NEWS_DATA_DIR, file);
     const text = await fs.readFile(fullPath, 'utf8');
-    const row = parseArticle(text);
+    const items = JSON.parse(text);
+    if (!Array.isArray(items)) continue;
 
-    if (row.status !== 'published') {
-      continue;
-    }
+    for (const row of items) {
+      if (row?.status !== 'published') continue;
 
-    const publishedTs = Date.parse(row.publishedAt);
-    if (Number.isNaN(publishedTs)) {
-      continue;
-    }
-    if (publishedTs < cutoffTime || publishedTs > digestBaseTime) {
-      continue;
-    }
+      const publishedTs = Date.parse(String(row?.publishedAt ?? ''));
+      if (Number.isNaN(publishedTs)) continue;
+      if (publishedTs < cutoffTime || publishedTs > digestBaseTime) continue;
 
-    rows.push(row);
+      rows.push({
+        title: String(row?.title ?? ''),
+        slug: String(row?.slug ?? ''),
+        lang: String(row?.lang ?? ''),
+        summary: String(row?.summary ?? ''),
+        category: String(row?.category ?? 'general'),
+        status: String(row?.status ?? ''),
+        publishedAt: String(row?.publishedAt ?? ''),
+      });
+    }
   }
 
   return rows.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));

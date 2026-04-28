@@ -3,15 +3,24 @@ import path from 'node:path';
 import crypto from 'node:crypto';
 import { ApifyClient } from 'apify-client';
 
+function requireEnv(name) {
+  const value = process.env[name];
+  if (!value || !String(value).trim()) {
+    throw new Error(`Missing required environment variable: ${name}`);
+  }
+  return String(value).trim();
+}
+
 const CONTENT_DIR = path.resolve('src/content/news');
-const OLLAMA_BASE_URL = (process.env.OLLAMA_BASE_URL ?? 'https://ollama.cloud/v1').replace(/\/$/, '');
-const OLLAMA_API_KEY = process.env.OLLAMA_API_KEY ?? '';
-const OLLAMA_MODEL = process.env.OLLAMA_MODEL ?? 'nemotron-3-super:cloud';
+const NEWS_DATA_DIR = path.resolve('src/data/news');
+const OLLAMA_BASE_URL = requireEnv('OLLAMA_BASE_URL').replace(/\/$/, '');
+const OLLAMA_API_KEY = requireEnv('OLLAMA_API_KEY');
+const OLLAMA_MODEL = requireEnv('OLLAMA_MODEL');
 const OLLAMA_TIMEOUT_MS = Number(process.env.OLLAMA_TIMEOUT_MS ?? 60000);
 const BATCH_SIZE = Math.min(5, Math.max(3, Number(process.env.BATCH_SIZE ?? 3)));
 
-const APIFY_TOKEN = process.env.APIFY_TOKEN ?? '';
-const APIFY_ACTOR_ID = process.env.APIFY_ACTOR_ID ?? 'apidojo/tweet-scraper';
+const APIFY_TOKEN = requireEnv('APIFY_TOKEN');
+const APIFY_ACTOR_ID = requireEnv('APIFY_ACTOR_ID');
 const A11Y_QUERY = String(process.env.A11Y_TWEET_QUERY ?? '').trim();
 const A11Y_KEYWORDS = String(process.env.A11Y_TWEET_KEYWORDS ?? 'a11y,accessibility,inclusion')
   .split(',')
@@ -321,6 +330,26 @@ async function readExistingTweetKeys() {
   const tweetUrlKeys = new Set();
 
   try {
+    const files = await fs.readdir(NEWS_DATA_DIR);
+    for (const file of files) {
+      if (!file.endsWith('.json')) continue;
+      const filePath = path.join(NEWS_DATA_DIR, file);
+      const raw = await fs.readFile(filePath, 'utf8');
+      const rows = JSON.parse(raw);
+      if (!Array.isArray(rows)) continue;
+
+      for (const row of rows) {
+        const sourceUrl = normalizeUrl(row?.sourceUrl ?? '');
+        if (sourceUrl) {
+          tweetUrlKeys.add(sourceUrl);
+        }
+      }
+    }
+  } catch {
+    await fs.mkdir(NEWS_DATA_DIR, { recursive: true });
+  }
+
+  try {
     const files = await fs.readdir(CONTENT_DIR);
     for (const file of files) {
       if (!file.endsWith('.md')) {
@@ -470,52 +499,39 @@ async function askOllamaForBatch(batchItems) {
   }));
 }
 
-function buildFrontmatter({
-  title,
-  slug,
-  lang,
-  summary,
-  tags,
-  sourceName,
-  sourceUrl,
-  relatedSources,
-  clusterId,
-  translationOf,
-  publishedAt,
-  fetchedAt,
-}) {
-  const encodedTags = tags.map((tag) => `  - "${tag.replace(/"/g, '\\"')}"`).join('\n');
-  const related = relatedSources.length > 0
-    ? relatedSources.map((item) => [
-      `  - name: "${item.name.replace(/"/g, '\\"')}"`,
-      `    url: "${item.url}"`,
-    ].join('\n')).join('\n')
-    : [
-      `  - name: "${sourceName.replace(/"/g, '\\"')}"`,
-      `    url: "${sourceUrl}"`,
-    ].join('\n');
+function monthlyNewsFilePath(lang, publishedAt) {
+  const month = String(publishedAt).slice(0, 7);
+  return path.join(NEWS_DATA_DIR, `${month}.${lang}.json`);
+}
 
-  return [
-    '---',
-    `title: "${title.replace(/"/g, '\\"')}"`,
-    `slug: "${slug}"`,
-    `lang: "${lang}"`,
-    `summary: "${summary.replace(/"/g, '\\"')}"`,
-    'category: "social-signals"',
-    'tags:',
-    encodedTags || '  - "a11y"',
-    `sourceName: "${sourceName.replace(/"/g, '\\"')}"`,
-    `sourceUrl: "${sourceUrl}"`,
-    'relatedSources:',
-    related,
-    `clusterId: "${clusterId}"`,
-    'status: "published"',
-    `translationOf: "${translationOf}"`,
-    `publishedAt: "${publishedAt}"`,
-    `fetchedAt: "${fetchedAt}"`,
-    '---',
-    '',
-  ].join('\n');
+async function readMonthlyNewsFile(filePath) {
+  try {
+    const raw = await fs.readFile(filePath, 'utf8');
+    const parsed = JSON.parse(raw);
+    return Array.isArray(parsed) ? parsed : [];
+  } catch {
+    return [];
+  }
+}
+
+async function writeMonthlyNewsFile(filePath, stories) {
+  await fs.mkdir(path.dirname(filePath), { recursive: true });
+  await fs.writeFile(filePath, `${JSON.stringify(stories, null, 2)}\n`, 'utf8');
+}
+
+async function upsertMonthlyNewsStory(story) {
+  const filePath = monthlyNewsFilePath(story.lang, story.publishedAt);
+  const stories = await readMonthlyNewsFile(filePath);
+  const index = stories.findIndex((item) => item.slug === story.slug);
+
+  if (index >= 0) {
+    stories[index] = story;
+  } else {
+    stories.push(story);
+  }
+
+  await writeMonthlyNewsFile(filePath, stories);
+  return path.basename(filePath);
 }
 
 async function writeStoryPair(entry, ai) {
@@ -548,58 +564,56 @@ async function writeStoryPair(entry, ai) {
     });
   }
 
-  const enBody = [
-    buildFrontmatter({
-      title: ai.englishTitle,
-      slug: enSlug,
-      lang: 'en',
-      summary: ai.englishSummary,
-      tags,
-      sourceName,
-      sourceUrl: canonicalTweetUrl,
-      relatedSources,
-      clusterId,
-      translationOf: zhSlug,
-      publishedAt,
-      fetchedAt,
-    }),
-    ai.englishSummary,
-    '',
-    `Tweet source: [${sourceName}](${canonicalTweetUrl})`,
-    entry.externalUrl ? `External link: [${entry.externalUrl}](${entry.externalUrl})` : '',
-    '',
-  ].filter(Boolean).join('\n');
+  const enStory = {
+    title: ai.englishTitle,
+    slug: enSlug,
+    lang: 'en',
+    summary: ai.englishSummary,
+    category: 'social-signals',
+    tags,
+    sourceName,
+    sourceUrl: canonicalTweetUrl,
+    relatedSources,
+    clusterId,
+    status: 'published',
+    translationOf: zhSlug,
+    publishedAt,
+    fetchedAt,
+    body: [
+      ai.englishSummary,
+      '',
+      `Tweet source: [${sourceName}](${canonicalTweetUrl})`,
+      entry.externalUrl ? `External link: [${entry.externalUrl}](${entry.externalUrl})` : '',
+    ].filter(Boolean).join('\n'),
+  };
 
-  const zhBody = [
-    buildFrontmatter({
-      title: ai.zhTitle,
-      slug: zhSlug,
-      lang: 'zh-TW',
-      summary: ai.zhSummary,
-      tags,
-      sourceName,
-      sourceUrl: canonicalTweetUrl,
-      relatedSources,
-      clusterId,
-      translationOf: enSlug,
-      publishedAt,
-      fetchedAt,
-    }),
-    ai.zhSummary,
-    '',
-    `推文來源： [${sourceName}](${canonicalTweetUrl})`,
-    entry.externalUrl ? `外部連結： [${entry.externalUrl}](${entry.externalUrl})` : '',
-    '',
-  ].filter(Boolean).join('\n');
+  const zhStory = {
+    title: ai.zhTitle,
+    slug: zhSlug,
+    lang: 'zh-TW',
+    summary: ai.zhSummary,
+    category: 'social-signals',
+    tags,
+    sourceName,
+    sourceUrl: canonicalTweetUrl,
+    relatedSources,
+    clusterId,
+    status: 'published',
+    translationOf: enSlug,
+    publishedAt,
+    fetchedAt,
+    body: [
+      ai.zhSummary,
+      '',
+      `推文來源： [${sourceName}](${canonicalTweetUrl})`,
+      entry.externalUrl ? `外部連結： [${entry.externalUrl}](${entry.externalUrl})` : '',
+    ].filter(Boolean).join('\n'),
+  };
 
-  const datePrefix = publishedAt.slice(0, 10);
-  const enFilename = `${datePrefix}-${enSlug}.md`;
-  const zhFilename = `${datePrefix}-${zhSlug}.md`;
+  const enFile = await upsertMonthlyNewsStory(enStory);
+  const zhFile = await upsertMonthlyNewsStory(zhStory);
 
-  await fs.writeFile(path.join(CONTENT_DIR, enFilename), enBody, 'utf8');
-  await fs.writeFile(path.join(CONTENT_DIR, zhFilename), zhBody, 'utf8');
-
-  return { canonicalTweetUrl, enFilename, zhFilename };
+  return { canonicalTweetUrl, enFile, zhFile };
 }
 
 async function fetchTweetItems() {
@@ -729,7 +743,7 @@ async function main() {
       try {
         const result = await writeStoryPair(entry, ai);
         created += 1;
-        console.log(`Created: ${result.enFilename} + ${result.zhFilename}`);
+        console.log(`Created: ${result.enFile} + ${result.zhFile}`);
       } catch (error) {
         failed += 1;
         console.error(`Failed on item write: ${entry.tweetId}`);
