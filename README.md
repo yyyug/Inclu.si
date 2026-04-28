@@ -1,6 +1,6 @@
 # Inclu.si
 
-A multilingual accessibility news website powered by Astro, Google News RSS, and Ollama Cloud.
+A multilingual accessibility news website powered by Astro, Google News RSS, NewsAPI, and Ollama Cloud.
 
 - Site title: Inclu.si
 - Frontend: Astro + Tailwind CSS
@@ -11,7 +11,7 @@ A multilingual accessibility news website powered by Astro, Google News RSS, and
 
 - System language auto-routing at `/` (`zh*` -> `/zh-tw/`, otherwise `/en/`)
 - News list and detail pages in English and Traditional Chinese
-- 4-hour ingest workflow for Google News RSS (`accessibility` query)
+- 4-hour ingest workflow for multi-source news ingest (Google RSS + NewsAPI for `accessibility` and `無障礙`)
 - Daily ingest workflow for X/Twitter social signals (`a11y`, `accessibility`, `inclusion`, plus selected accounts; rolling 24h UTC)
 - Daily digest workflow with top stories summary shown above the news feed
 - Static full-text search using Pagefind (`/en/search`, `/zh-tw/search`)
@@ -65,7 +65,11 @@ cp .env.example .env
 - `A11Y_TWEET_MAX_ITEMS` (default `100`)
 - `A11Y_TWEET_LANGUAGES` (default `en,zh,ja,ko`)
 - `DIGEST_LOOKBACK_DAYS` (default `2`)
-- `GOOGLE_NEWS_RSS_URL`
+- `GOOGLE_NEWS_RSS_URLS` (comma-separated RSS feed URLs)
+- `NEWS_API_KEY`
+- `NEWS_API_BASE_URL` (default `https://newsapi.org/v2/everything`)
+- `NEWS_API_QUERIES` (default `accessibility,無障礙`)
+- `NEWS_API_PAGE_SIZE` (default `50`)
 - `MAX_ITEMS_PER_RUN`
 
 ## Local Usage

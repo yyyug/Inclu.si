@@ -4,13 +4,27 @@ import crypto from 'node:crypto';
 import Parser from 'rss-parser';
 import { GoogleDecoder } from 'google-news-url-decoder';
 
-const FEED_URL = process.env.GOOGLE_NEWS_RSS_URL
-  ?? 'https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US:en';
+const DEFAULT_GOOGLE_RSS_URLS = [
+  'https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US:en',
+  'https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW:zh-Hant',
+];
+
+const GOOGLE_NEWS_RSS_URLS = parseCommaList(
+  process.env.GOOGLE_NEWS_RSS_URLS
+  ?? process.env.GOOGLE_NEWS_RSS_URL
+  ?? DEFAULT_GOOGLE_RSS_URLS.join(','),
+);
+
+const NEWS_API_KEY = process.env.NEWS_API_KEY ?? '';
+const NEWS_API_BASE_URL = (process.env.NEWS_API_BASE_URL ?? 'https://newsapi.org/v2/everything').replace(/\/$/, '');
+const NEWS_API_QUERIES = parseCommaList(process.env.NEWS_API_QUERIES ?? 'accessibility,無障礙');
+const NEWS_API_PAGE_SIZE = Math.min(100, Math.max(10, Number(process.env.NEWS_API_PAGE_SIZE ?? 50)));
+
 const CONTENT_DIR = path.resolve('src/content/news');
 const OLLAMA_BASE_URL = (process.env.OLLAMA_BASE_URL ?? 'https://ollama.cloud/v1').replace(/\/$/, '');
 const OLLAMA_API_KEY = process.env.OLLAMA_API_KEY ?? '';
 const OLLAMA_MODEL = process.env.OLLAMA_MODEL ?? 'llama3.1:8b-instruct';
-const MAX_ITEMS_PER_RUN = Number(process.env.MAX_ITEMS_PER_RUN ?? 10);
+const MAX_ITEMS_PER_RUN = Math.max(1, Number(process.env.MAX_ITEMS_PER_RUN ?? 10));
 const OLLAMA_TIMEOUT_MS = Number(process.env.OLLAMA_TIMEOUT_MS ?? 60000);
 const BATCH_SIZE = Math.min(5, Math.max(3, Number(process.env.BATCH_SIZE ?? 3)));
 
@@ -30,6 +44,13 @@ const ACCESSIBILITY_KEYWORDS = [
   '無障礙', '可及性', '輔助', '身心障礙', '視障', '聽障', '聽力',
   '動作', '認知', '殘障', '包容設計', '通用設計',
 ];
+
+function parseCommaList(value) {
+  return String(value ?? '')
+    .split(',')
+    .map((item) => item.trim())
+    .filter(Boolean);
+}
 
 function normalizeUrl(rawUrl) {
   try {
@@ -97,6 +118,15 @@ function extractSourceName(item) {
   }
 
   return 'Unknown source';
+}
+
+function sourceNameFromUrl(rawUrl) {
+  try {
+    const url = new URL(rawUrl);
+    return url.hostname.replace(/^www\./i, '');
+  } catch {
+    return 'Unknown source';
+  }
 }
 
 function normalizeTitleKey(value) {
@@ -210,6 +240,138 @@ async function readSourceMapFromRssXml(feedUrl) {
   }
 
   return map;
+}
+
+async function collectCandidatesFromRss({ parser, decoder, existing }) {
+  const candidates = [];
+  let skipped = 0;
+  let failed = 0;
+
+  for (const feedUrl of GOOGLE_NEWS_RSS_URLS) {
+    const sourceMap = await readSourceMapFromRssXml(feedUrl);
+
+    console.log(`Fetching RSS: ${feedUrl}`);
+    const feed = await parser.parseURL(feedUrl);
+    const items = (feed.items ?? []).slice(0, MAX_ITEMS_PER_RUN);
+
+    for (const item of items) {
+      const title = String(item.title ?? '').trim().toLowerCase();
+
+      try {
+        const keyByTitle = normalizeTitleKey(item.title);
+        const mapped = sourceMap.get(keyByTitle);
+
+        const sourceUrl = await resolveArticleUrl(item, decoder);
+        const sourceName = mapped?.sourceName || extractSourceName(item) || sourceNameFromUrl(sourceUrl);
+        const key = `url:${normalizeUrl(sourceUrl)}`;
+
+        if (!sourceUrl || existing.has(key) || existing.has(`title:${title}`)) {
+          skipped += 1;
+          continue;
+        }
+
+        if (!isAccessibilityRelated(item.title, item.contentSnippet ?? item.content ?? '')) {
+          skipped += 1;
+          continue;
+        }
+
+        candidates.push({
+          item,
+          sourceName,
+          sourceUrl,
+          title,
+        });
+      } catch (error) {
+        failed += 1;
+        console.error(`Failed on RSS item: ${item.title ?? 'unknown'}`);
+        console.error(error);
+      }
+    }
+  }
+
+  return { candidates, skipped, failed };
+}
+
+async function collectCandidatesFromNewsApi({ existing }) {
+  const candidates = [];
+  let skipped = 0;
+  let failed = 0;
+
+  if (NEWS_API_QUERIES.length === 0) {
+    return { candidates, skipped, failed };
+  }
+
+  if (!NEWS_API_KEY) {
+    throw new Error('Missing NEWS_API_KEY while NEWS_API_QUERIES is configured.');
+  }
+
+  for (const query of NEWS_API_QUERIES) {
+    const endpoint = `${NEWS_API_BASE_URL}?q=${encodeURIComponent(query)}&sortBy=publishedAt&pageSize=${NEWS_API_PAGE_SIZE}`;
+    console.log(`Fetching NewsAPI: ${query}`);
+
+    let response;
+    try {
+      response = await fetch(endpoint, {
+        headers: {
+          'X-Api-Key': NEWS_API_KEY,
+        },
+        signal: AbortSignal.timeout(15000),
+      });
+    } catch (error) {
+      throw new Error(`NewsAPI request failed for query "${query}": ${error?.message ?? 'unknown error'}`);
+    }
+
+    if (!response.ok) {
+      const text = await response.text();
+      throw new Error(`NewsAPI returned ${response.status} for query "${query}": ${text}`);
+    }
+
+    const data = await response.json();
+    if (data?.status !== 'ok' || !Array.isArray(data?.articles)) {
+      throw new Error(`NewsAPI response shape invalid for query "${query}".`);
+    }
+
+    const articles = data.articles.slice(0, MAX_ITEMS_PER_RUN);
+    for (const article of articles) {
+      const title = String(article.title ?? '').trim();
+      const normalizedTitle = title.toLowerCase();
+      const sourceUrl = normalizeUrl(String(article.url ?? '').trim());
+      const sourceName = String(article?.source?.name ?? '').trim() || sourceNameFromUrl(sourceUrl);
+      const key = `url:${sourceUrl}`;
+
+      try {
+        if (!sourceUrl || !title || existing.has(key) || existing.has(`title:${normalizedTitle}`)) {
+          skipped += 1;
+          continue;
+        }
+
+        const snippet = String(article.description ?? article.content ?? '');
+        if (!isAccessibilityRelated(title, snippet)) {
+          skipped += 1;
+          continue;
+        }
+
+        candidates.push({
+          item: {
+            title,
+            contentSnippet: snippet,
+            content: String(article.content ?? ''),
+            isoDate: String(article.publishedAt ?? ''),
+            pubDate: String(article.publishedAt ?? ''),
+          },
+          sourceName,
+          sourceUrl,
+          title: normalizedTitle,
+        });
+      } catch (error) {
+        failed += 1;
+        console.error(`Failed on NewsAPI item: ${title || 'unknown'}`);
+        console.error(error);
+      }
+    }
+  }
+
+  return { candidates, skipped, failed };
 }
 
 async function readExistingKeys() {
@@ -438,48 +600,30 @@ async function main() {
   const decoder = new GoogleDecoder();
 
   const existing = await readExistingKeys();
-  const sourceMap = await readSourceMapFromRssXml(FEED_URL);
 
-  console.log(`Fetching: ${FEED_URL}`);
-  const feed = await parser.parseURL(FEED_URL);
-  const items = (feed.items ?? []).slice(0, MAX_ITEMS_PER_RUN);
-
-  const candidates = [];
   let created = 0;
   let failed = 0;
   let skipped = 0;
 
-  for (const item of items) {
-    const title = String(item.title ?? '').trim().toLowerCase();
+  const rssResult = await collectCandidatesFromRss({ parser, decoder, existing });
+  const newsApiResult = await collectCandidatesFromNewsApi({ existing });
 
-    try {
-      const keyByTitle = normalizeTitleKey(item.title);
-      const mapped = sourceMap.get(keyByTitle);
-      if (!mapped) {
-        throw new Error('RSS item is missing <source url="..."> in raw XML mapping.');
-      }
+  let candidates = [...rssResult.candidates, ...newsApiResult.candidates];
+  skipped += rssResult.skipped + newsApiResult.skipped;
+  failed += rssResult.failed + newsApiResult.failed;
 
-      const sourceUrl = await resolveArticleUrl(item, decoder);
-      const sourceName = mapped.sourceName || extractSourceName(item);
-      const key = `url:${normalizeUrl(sourceUrl)}`;
-
-      if (!sourceUrl || existing.has(key) || existing.has(`title:${title}`)) {
-        skipped += 1;
-        continue;
-      }
-
-      if (!isAccessibilityRelated(item.title, item.contentSnippet ?? item.content ?? '')) {
-        skipped += 1;
-        continue;
-      }
-
-      candidates.push({ item, sourceName, sourceUrl, title });
-    } catch (error) {
-      failed += 1;
-      console.error(`Failed on item: ${item.title ?? 'unknown'}`);
-      console.error(error);
+  const seen = new Set();
+  candidates = candidates.filter((entry) => {
+    const key = `url:${normalizeUrl(entry.sourceUrl)}`;
+    if (seen.has(key) || existing.has(key)) {
+      skipped += 1;
+      return false;
     }
-  }
+    seen.add(key);
+    return true;
+  });
+
+  console.log(`Candidates queued: ${candidates.length}`);
 
   for (let i = 0; i < candidates.length; i += BATCH_SIZE) {
     const batch = candidates.slice(i, i + BATCH_SIZE);

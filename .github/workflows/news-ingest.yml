@@ -35,8 +35,11 @@ jobs:
           OLLAMA_API_KEY: ${{ secrets.OLLAMA_API_KEY }}
           OLLAMA_BASE_URL: ${{ secrets.OLLAMA_BASE_URL }}
           OLLAMA_MODEL: ${{ secrets.OLLAMA_MODEL }}
-          GOOGLE_NEWS_RSS_URL: https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US:en
-          MAX_ITEMS_PER_RUN: 8
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+          GOOGLE_NEWS_RSS_URLS: https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US:en,https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW:zh-Hant
+          NEWS_API_QUERIES: accessibility,無障礙
+          NEWS_API_PAGE_SIZE: 50
+          MAX_ITEMS_PER_RUN: 20
           BATCH_SIZE: 3
           CLUSTER_SIMILARITY_THRESHOLD: 0.72
           CLUSTER_MAX_HOURS_DIFF: 36
