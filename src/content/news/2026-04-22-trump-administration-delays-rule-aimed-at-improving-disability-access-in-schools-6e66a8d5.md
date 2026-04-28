@@ -25,6 +25,8 @@ status: "archived"
 translationOf: "trump-administration-delays-rule-aimed-at-improving-disability-access-in-schools-zh-6e66a8d5"
 publishedAt: "2026-04-22T09:00:00.000Z"
 fetchedAt: "2026-04-26T02:15:28.134Z"
+queryRegion: "US"
+region: "US"
 ---
 
 The Trump administration has delayed implementation of a rule designed to improve accessibility for students with disabilities in schools.

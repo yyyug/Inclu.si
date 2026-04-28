@@ -26,6 +26,8 @@ status: "published"
 translationOf: "passmark-109-adds-cua-mode-for-canvas-apps-3484030c"
 publishedAt: "2026-04-25T12:31:51.000Z"
 fetchedAt: "2026-04-26T11:44:31.134Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 Passmark 1.0.9引入CUA模式，使用OpenAI GPT-5.5模型测试AR需快照难以处理的画布密集型应用。

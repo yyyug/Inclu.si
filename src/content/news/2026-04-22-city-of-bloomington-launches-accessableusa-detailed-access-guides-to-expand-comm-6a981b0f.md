@@ -21,6 +21,8 @@ status: "published"
 translationOf: "city-of-bloomington-launches-accessableusa-detailed-access-guides-to-expand-comm-zh-6a981b0f"
 publishedAt: "2026-04-22T15:59:00.000Z"
 fetchedAt: "2026-04-26T02:53:49.518Z"
+queryRegion: "US"
+region: "US"
 ---
 
 The City of Bloomington has announced the launch of AccessAbleUSA Detailed Access Guides, a new initiative to expand accessibility information across the community. The program aims to provide comprehensive accessibility details to help residents and visitors navigate the city more easily.

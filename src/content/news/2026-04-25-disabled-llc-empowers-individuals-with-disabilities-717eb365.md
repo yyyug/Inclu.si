@@ -22,6 +22,8 @@ status: "published"
 translationOf: "disabled-llc-empowers-individuals-with-disabilities-zh-717eb365"
 publishedAt: "2026-04-25T23:44:58.000Z"
 fetchedAt: "2026-04-26T12:51:20.018Z"
+queryRegion: "US"
+region: "US"
 ---
 
 Disabled LLC offers resources, guidance, and community support to foster inclusivity and accessibility for people with disabilities.

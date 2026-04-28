@@ -20,6 +20,9 @@ status: "published"
 translationOf: "online-content-and-services-must-meet-updated-digital-accessibility-standards-by-zh-cbe6eb2a"
 publishedAt: "2026-02-16T22:25:15.000Z"
 fetchedAt: "2026-04-26T06:48:06.075Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 This announcement informs organizations that online content and services must comply with updated digital accessibility standards by April 2026. The standards likely reference WCAG (Web Content Accessibility Guidelines) and other digital accessibility requirements for ensuring websites and digital services are accessible to people with disabilities.

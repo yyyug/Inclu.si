@@ -22,6 +22,8 @@ status: "published"
 translationOf: "doj-extends-public-entities-ada-website-accessibility-compliance-deadline-hhs-ma-6040a0e9"
 publishedAt: "2026-04-22T18:16:42.000Z"
 fetchedAt: "2026-04-26T02:15:59.202Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 司法部已延長公共機構遵守《殘疾人法案》網站無障礙要求的合規期限。然而，衛生與公眾服務部2026年5月的期限仍然有效，相關機構需繼續關注。

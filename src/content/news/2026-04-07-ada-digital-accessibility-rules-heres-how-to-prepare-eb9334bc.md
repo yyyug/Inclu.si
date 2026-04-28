@@ -20,6 +20,9 @@ status: "published"
 translationOf: "ada-digital-accessibility-rules-heres-how-to-prepare-zh-eb9334bc"
 publishedAt: "2026-04-07T07:00:00.000Z"
 fetchedAt: "2026-04-26T06:48:36.786Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 This article from Mass.gov provides guidance on preparing for ADA digital accessibility rules, helping organizations understand and comply with accessibility requirements for digital services.

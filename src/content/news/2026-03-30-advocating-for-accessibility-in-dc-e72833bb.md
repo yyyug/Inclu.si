@@ -19,6 +19,9 @@ status: "published"
 translationOf: "advocating-for-accessibility-in-dc-zh-e72833bb"
 publishedAt: "2026-03-30T07:00:00.000Z"
 fetchedAt: "2026-04-26T06:49:25.968Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 SUNY Brockport students are advocating for accessibility rights and legislation in Washington DC, working to promote better accessibility standards and awareness.

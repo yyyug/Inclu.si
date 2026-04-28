@@ -19,6 +19,9 @@ status: "published"
 translationOf: "accessibility-highlight-microsoft-office-d9303d3d"
 publishedAt: "2026-01-23T08:00:00.000Z"
 fetchedAt: "2026-04-26T06:49:25.972Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 賓州州立大學介紹 Microsoft Office 的無障礙功能，展示內建工具和功能如何幫助殘障用戶有效使用軟體。

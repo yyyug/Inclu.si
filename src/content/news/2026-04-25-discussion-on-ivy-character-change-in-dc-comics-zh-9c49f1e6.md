@@ -21,6 +21,8 @@ status: "published"
 translationOf: "discussion-on-ivy-character-change-in-dc-comics-9c49f1e6"
 publishedAt: "2026-04-25T23:44:09.000Z"
 fetchedAt: "2026-04-26T12:51:29.170Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 用户认为艾薇因为哈莉的影响和DC推动的关系包容性而成为反英雄。

@@ -22,6 +22,8 @@ status: "published"
 translationOf: "platform-makes-legislation-accessible-to-all-zh-1b9050f3"
 publishedAt: "2026-04-25T23:45:36.000Z"
 fetchedAt: "2026-04-26T12:51:20.016Z"
+queryRegion: "US"
+region: "US"
 ---
 
 Truth in Polling provides legislation accessible to everyone regardless of education or background, promoting civic engagement and democracy.

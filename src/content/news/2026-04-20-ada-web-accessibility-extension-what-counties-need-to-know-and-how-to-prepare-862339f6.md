@@ -22,6 +22,8 @@ status: "published"
 translationOf: "ada-web-accessibility-extension-what-counties-need-to-know-and-how-to-prepare-zh-862339f6"
 publishedAt: "2026-04-20T07:00:00.000Z"
 fetchedAt: "2026-04-26T02:51:02.556Z"
+queryRegion: "US"
+region: "US"
 ---
 
 The National Association of Counties provides guidance to county governments on ADA web accessibility compliance requirements and how to prepare for upcoming deadlines, likely including information about deadline extensions for implementation.

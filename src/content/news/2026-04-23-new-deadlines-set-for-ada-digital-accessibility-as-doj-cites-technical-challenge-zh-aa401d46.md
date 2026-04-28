@@ -22,6 +22,8 @@ status: "published"
 translationOf: "new-deadlines-set-for-ada-digital-accessibility-as-doj-cites-technical-challenge-aa401d46"
 publishedAt: "2026-04-23T20:42:24.000Z"
 fetchedAt: "2026-04-26T02:53:30.287Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 美國司法部已針對《美國殘疾人法案》數位無障礙合規設定新期限，並以技術挑戰作為延長時間表的關鍵因素。《EDU Ledger》報導了這些新時間表將如何影響需要符合數位無障礙標準的組織。

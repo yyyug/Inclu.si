@@ -22,6 +22,8 @@ status: "published"
 translationOf: "guide-for-meeting-wcag-web-accessibility-standards-association-of-state-and-terr-zh-9378f5d9"
 publishedAt: "2026-04-24T15:03:41.000Z"
 fetchedAt: "2026-04-26T02:50:37.455Z"
+queryRegion: "US"
+region: "US"
 ---
 
 A practical guide from ASTHO (Association of State and Territorial Health Officials) helping organizations meet WCAG web accessibility standards. Provides guidance for making websites accessible to people with disabilities.

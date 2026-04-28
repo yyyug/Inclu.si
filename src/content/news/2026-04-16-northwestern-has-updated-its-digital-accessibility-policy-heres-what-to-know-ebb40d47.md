@@ -20,6 +20,9 @@ status: "published"
 translationOf: "northwestern-has-updated-its-digital-accessibility-policy-heres-what-to-know-zh-ebb40d47"
 publishedAt: "2026-04-16T15:44:20.000Z"
 fetchedAt: "2026-04-26T02:53:56.722Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 Northwestern University has announced updates to its digital accessibility policy. The new policy aims to ensure digital resources and platforms are accessible to all users, including those with disabilities. Details of the specific changes are outlined in the university's announcement.

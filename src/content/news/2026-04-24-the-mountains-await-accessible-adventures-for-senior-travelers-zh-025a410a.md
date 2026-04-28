@@ -20,6 +20,9 @@ status: "published"
 translationOf: "the-mountains-await-accessible-adventures-for-senior-travelers-025a410a"
 publishedAt: "2026-04-24T12:03:44.000Z"
 fetchedAt: "2026-04-26T06:49:02.446Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 專為長者旅客設計的山區無障礙旅遊機會，介紹適合行動需求的戶外探險目的地和活動。

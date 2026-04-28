@@ -19,6 +19,9 @@ status: "published"
 translationOf: "accessibility-national-park-service-6b15a600"
 publishedAt: "2026-02-16T08:00:00.000Z"
 fetchedAt: "2026-04-26T06:49:13.502Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 國家公園管理局提供關於其無障碍服務和為殘疾遊客提供的住宿信息。

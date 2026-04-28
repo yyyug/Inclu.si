@@ -19,6 +19,8 @@ status: "published"
 translationOf: "center-for-human-services-mobile-sensory-and-accessibility-resource-center-365ba184"
 publishedAt: "2026-04-24T17:14:00.000Z"
 fetchedAt: "2026-04-26T02:52:39.841Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 人類服務中心推出流動感官及無障礙資源中心，為社區提供無障礙資源和服務。

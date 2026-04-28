@@ -20,6 +20,9 @@ status: "published"
 translationOf: "online-content-and-services-must-meet-updated-digital-accessibility-standards-by-cbe6eb2a"
 publishedAt: "2026-02-16T22:25:15.000Z"
 fetchedAt: "2026-04-26T06:48:06.075Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 此公告通知各組織，線上內容和服務必須在2026年4月之前遵守更新的數位無障礙標準。該標準可能參考了WCAG（網頁內容無障礙指南）和其他數位無障礙要求，以確保網站和數位服務可供殘疾人士使用。

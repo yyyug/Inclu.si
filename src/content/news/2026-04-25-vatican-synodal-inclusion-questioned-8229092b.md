@@ -22,6 +22,8 @@ status: "published"
 translationOf: "vatican-synodal-inclusion-questioned-zh-8229092b"
 publishedAt: "2026-04-25T23:58:30.000Z"
 fetchedAt: "2026-04-26T12:51:11.677Z"
+queryRegion: "US"
+region: "US"
 ---
 
 Question raised about Vatican synodal inclusion policies amid debates over excommunication and theological positions on LGBTQ+ individuals.

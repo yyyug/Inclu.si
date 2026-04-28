@@ -23,6 +23,8 @@ status: "published"
 translationOf: "doj-extends-title-ii-ada-web-accessibility-rule-compliance-deadlines-for-state-a-8983734d"
 publishedAt: "2026-04-23T20:25:49.000Z"
 fetchedAt: "2026-04-26T02:51:42.895Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 美國司法部宣布延長州和地方政府遵守《美國殘疾人法案》第二 Title II 網路無障礙要求的合規期限。

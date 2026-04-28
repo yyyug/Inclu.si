@@ -21,6 +21,8 @@ status: "published"
 translationOf: "colleges-get-another-year-to-comply-with-web-accessibility-deadlines-zh-dce1cbf1"
 publishedAt: "2026-04-22T13:16:04.000Z"
 fetchedAt: "2026-04-27T09:25:18.090Z"
+queryRegion: "US"
+region: "US"
 ---
 
 Educational institutions have been granted an additional year to meet web accessibility compliance requirements.

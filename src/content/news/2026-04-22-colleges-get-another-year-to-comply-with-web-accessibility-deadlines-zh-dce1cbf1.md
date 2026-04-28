@@ -21,6 +21,8 @@ status: "published"
 translationOf: "colleges-get-another-year-to-comply-with-web-accessibility-deadlines-dce1cbf1"
 publishedAt: "2026-04-22T13:16:04.000Z"
 fetchedAt: "2026-04-27T09:25:18.090Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 教育機構已獲准額外一年時間來滿足網頁無障礙合規要求。

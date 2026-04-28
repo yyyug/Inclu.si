@@ -20,6 +20,8 @@ status: "published"
 translationOf: "through-the-student-lens-festival-presents-assorted-work-boosts-film-accessibili-d8399623"
 publishedAt: "2026-04-27T06:14:58.000Z"
 fetchedAt: "2026-04-27T09:25:18.087Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 「透過學生鏡頭」電影節展示各種電影，同時為殘障觀眾增強無障礙功能。

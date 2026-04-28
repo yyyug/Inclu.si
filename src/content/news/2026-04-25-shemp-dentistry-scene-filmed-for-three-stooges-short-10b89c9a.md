@@ -22,6 +22,8 @@ status: "published"
 translationOf: "shemp-dentistry-scene-filmed-for-three-stooges-short-zh-10b89c9a"
 publishedAt: "2026-04-25T22:48:53.000Z"
 fetchedAt: "2026-04-26T12:53:04.819Z"
+queryRegion: "US"
+region: "US"
 ---
 
 The dental school scene featuring Shemp was originally filmed for Merry Mavericks (1951) but was cut due to length. Producer Hugh McCollum used extra filming days to add the sequence.

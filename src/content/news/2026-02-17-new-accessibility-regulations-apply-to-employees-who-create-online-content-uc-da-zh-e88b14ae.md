@@ -20,6 +20,9 @@ status: "published"
 translationOf: "new-accessibility-regulations-apply-to-employees-who-create-online-content-uc-da-e88b14ae"
 publishedAt: "2026-02-17T08:00:00.000Z"
 fetchedAt: "2026-04-26T06:47:39.637Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 UC Davis 实施了新的无障碍法规，要求创建在线内容的员工确保其材料具有无障碍性。该法规旨在提高大学在线平台的无障碍性，并确保符合无障碍标准。

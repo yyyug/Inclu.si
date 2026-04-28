@@ -22,6 +22,8 @@ status: "published"
 translationOf: "grok-outperforms-chatgpt-and-gemini-for-academic-research-zh-a8b558a0"
 publishedAt: "2026-04-25T23:44:48.000Z"
 fetchedAt: "2026-04-26T12:51:29.168Z"
+queryRegion: "US"
+region: "US"
 ---
 
 User reports Grok provides better web-sourced information with working links compared to ChatGPT and Gemini for academic research.

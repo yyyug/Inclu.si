@@ -21,6 +21,8 @@ status: "published"
 translationOf: "burnaby-council-policy-shift-on-inclusionary-housing-zh-8d763fc2"
 publishedAt: "2026-04-25T23:43:45.000Z"
 fetchedAt: "2026-04-26T12:51:29.234Z"
+queryRegion: "US"
+region: "US"
 ---
 
 User is working on a multi-page response to Burnaby Council's pivot on inclusionary housing policy.

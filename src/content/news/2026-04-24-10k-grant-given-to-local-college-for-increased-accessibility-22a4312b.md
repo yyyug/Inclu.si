@@ -22,6 +22,8 @@ status: "archived"
 translationOf: "10k-grant-given-to-local-college-for-increased-accessibility-zh-22a4312b"
 publishedAt: "2026-04-24T03:11:00.000Z"
 fetchedAt: "2026-04-26T06:47:50.620Z"
+queryRegion: "US"
+region: "US"
 ---
 
 A $10,000 grant has been awarded to a local college to improve accessibility features on campus, supporting students with disabilities and enhancing inclusive educational opportunities.

@@ -19,6 +19,9 @@ status: "published"
 translationOf: "new-accessibility-plan-requirement-for-special-events-city-of-philadelphia-gov-zh-31b232ca"
 publishedAt: "2026-01-15T08:00:00.000Z"
 fetchedAt: "2026-04-26T06:48:15.360Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 Announcement of new accessibility planning requirements for special events in Philadelphia, requiring event organizers to develop accessibility plans to ensure events are inclusive and accessible to people with disabilities.

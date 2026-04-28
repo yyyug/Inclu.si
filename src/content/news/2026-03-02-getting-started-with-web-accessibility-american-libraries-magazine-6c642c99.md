@@ -18,6 +18,8 @@ status: "published"
 translationOf: "getting-started-with-web-accessibility-american-libraries-magazine-zh-6c642c99"
 publishedAt: "2026-03-02T08:00:00.000Z"
 fetchedAt: "2026-04-26T06:48:15.287Z"
+queryRegion: "US"
+region: "US"
 ---
 
 An introductory guide to web accessibility practices for libraries, covering fundamental concepts and implementation strategies to ensure digital content is accessible to all users, including those with disabilities.

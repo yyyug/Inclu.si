@@ -20,6 +20,9 @@ status: "published"
 translationOf: "digital-accessibility-remains-a-priority-nu-policy-university-of-nebraska-medica-a28bcbcf"
 publishedAt: "2026-04-24T07:24:32.000Z"
 fetchedAt: "2026-04-26T02:50:53.795Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 內布拉斯加大學醫學中心重申其對數位無障礙的承諾，將其作為NU政策的持續優先事項，確保數位資源對所有使用者保持無障礙。

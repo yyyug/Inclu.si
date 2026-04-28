@@ -23,6 +23,8 @@ status: "published"
 translationOf: "new-americans-with-disabilities-act-title-ii-accessibility-requirements-for-publ-b7546fe3"
 publishedAt: "2026-04-21T07:00:00.000Z"
 fetchedAt: "2026-04-26T02:16:10.754Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 本文探討美國殘疾人法案第二章針對公立大專院校的新無障礙要求，並為內部律師提供建議，說明其機構應如何確保符合這些聯邦無障礙標準。

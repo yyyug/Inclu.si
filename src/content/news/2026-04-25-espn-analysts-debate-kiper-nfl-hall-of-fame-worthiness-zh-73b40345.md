@@ -24,6 +24,8 @@ status: "published"
 translationOf: "espn-analysts-debate-kiper-nfl-hall-of-fame-worthiness-73b40345"
 publishedAt: "2026-04-25T22:45:17.000Z"
 fetchedAt: "2026-04-26T12:53:04.828Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 Based on the love-fest by @LRiddickESPN, Reese Davis and the rest, shouldn't Kiper get some inclusion in the NFL Hall of Fame? 🤔

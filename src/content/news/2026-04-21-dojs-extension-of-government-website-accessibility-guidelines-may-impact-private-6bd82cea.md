@@ -22,6 +22,8 @@ status: "published"
 translationOf: "dojs-extension-of-government-website-accessibility-guidelines-may-impact-private-zh-6bd82cea"
 publishedAt: "2026-04-21T21:20:29.000Z"
 fetchedAt: "2026-04-26T02:53:14.894Z"
+queryRegion: "US"
+region: "US"
 ---
 
 The U.S. Department of Justice has extended website accessibility guidelines originally designed for government websites, which may now affect private sector websites as well. This regulatory extension could require more businesses to ensure their digital platforms comply with accessibility standards.

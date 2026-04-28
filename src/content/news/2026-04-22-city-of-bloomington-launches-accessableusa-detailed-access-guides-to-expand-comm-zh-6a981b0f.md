@@ -21,6 +21,8 @@ status: "published"
 translationOf: "city-of-bloomington-launches-accessableusa-detailed-access-guides-to-expand-comm-6a981b0f"
 publishedAt: "2026-04-22T15:59:00.000Z"
 fetchedAt: "2026-04-26T02:53:49.518Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 布魯明頓市宣布推出 AccessAbleUSA 詳細無障礙指南，這是一項擴展社區無障礙資訊的新計畫。該計畫旨在提供全面的無障礙詳情，幫助居民和遊客更輕鬆地遊覽這座城市。

@@ -19,6 +19,9 @@ status: "published"
 translationOf: "advocating-for-accessibility-in-dc-e72833bb"
 publishedAt: "2026-03-30T07:00:00.000Z"
 fetchedAt: "2026-04-26T06:49:25.968Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 紐約州立大學布羅克波特分校學生正在華盛頓特區倡導無障礙權利和立法，致力於推動更完善的无障碍標準和意識。

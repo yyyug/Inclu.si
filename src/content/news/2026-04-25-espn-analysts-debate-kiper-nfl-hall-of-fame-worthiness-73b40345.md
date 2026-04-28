@@ -23,6 +23,8 @@ status: "published"
 translationOf: "espn-analysts-debate-kiper-nfl-hall-of-fame-worthiness-zh-73b40345"
 publishedAt: "2026-04-25T22:45:17.000Z"
 fetchedAt: "2026-04-26T12:53:04.828Z"
+queryRegion: "US"
+region: "US"
 ---
 
 Sports commentators discuss whether Mel Kiper Jr. should be inducted into the NFL Hall of Fame based on his long-standing ESPN analysis work and draft coverage.

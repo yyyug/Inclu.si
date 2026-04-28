@@ -21,6 +21,8 @@ status: "published"
 translationOf: "volunteers-with-renovation-alliance-build-five-full-wheelchair-ramps-for-greater-zh-3c5ac555"
 publishedAt: "2026-04-25T21:43:39.000Z"
 fetchedAt: "2026-04-26T02:50:13.965Z"
+queryRegion: "US"
+region: "US"
 ---
 
 Volunteers from Renovation Alliance have constructed five complete wheelchair ramps to improve accessibility in the community. The project aims to help people with mobility disabilities navigate buildings and homes more easily.

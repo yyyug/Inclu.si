@@ -20,6 +20,8 @@ status: "published"
 translationOf: "charlestown-health-center-celebrates-accessibility-upgrades-zh-652b527c"
 publishedAt: "2026-04-25T20:00:16.000Z"
 fetchedAt: "2026-04-26T02:16:05.915Z"
+queryRegion: "US"
+region: "US"
 ---
 
 Charlestown Health Center announces celebrations for recent accessibility improvements, highlighting their commitment to providing inclusive healthcare services for all patients.

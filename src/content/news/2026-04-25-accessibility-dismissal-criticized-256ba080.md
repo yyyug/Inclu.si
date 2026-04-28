@@ -22,6 +22,8 @@ status: "published"
 translationOf: "accessibility-dismissal-criticized-zh-256ba080"
 publishedAt: "2026-04-25T18:49:35.000Z"
 fetchedAt: "2026-04-26T11:17:21.165Z"
+queryRegion: "US"
+region: "US"
 ---
 
 A social media user critiques the statement 'I don't care about a11y' as an uninformed take, highlighting the importance of accessibility awareness in digital spaces.

@@ -20,6 +20,8 @@ status: "published"
 translationOf: "wmata-upgrades-bus-stops-for-accessibility-40db2395"
 publishedAt: "2026-04-23T07:00:00.000Z"
 fetchedAt: "2026-04-26T06:48:36.794Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 WMATA宣布改善公車站點的基礎設施，提升殘疾乘客的無障礙性，包括更好的上下車區域和無障礙升級。

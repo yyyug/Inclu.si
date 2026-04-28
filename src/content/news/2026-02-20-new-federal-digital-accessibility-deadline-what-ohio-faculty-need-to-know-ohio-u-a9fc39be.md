@@ -19,6 +19,9 @@ status: "published"
 translationOf: "new-federal-digital-accessibility-deadline-what-ohio-faculty-need-to-know-ohio-u-zh-a9fc39be"
 publishedAt: "2026-02-20T08:00:00.000Z"
 fetchedAt: "2026-04-26T06:48:15.295Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 Information about new federal digital accessibility requirements and deadlines that Ohio University faculty must comply with, detailing what educators need to do to meet accessibility standards for digital educational materials.

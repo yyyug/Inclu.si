@@ -22,6 +22,8 @@ status: "published"
 translationOf: "ada-online-accessibility-deadline-extended-for-university-of-missouri-zh-9ca6f120"
 publishedAt: "2026-04-21T00:15:00.000Z"
 fetchedAt: "2026-04-26T02:53:03.139Z"
+queryRegion: "US"
+region: "US"
 ---
 
 The University of Missouri has been granted an extension for meeting ADA online accessibility requirements, providing the institution with additional time to ensure its digital platforms comply with federal accessibility standards.

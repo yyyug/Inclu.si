@@ -20,6 +20,8 @@ status: "published"
 translationOf: "through-the-student-lens-festival-presents-assorted-work-boosts-film-accessibili-zh-d8399623"
 publishedAt: "2026-04-27T06:14:58.000Z"
 fetchedAt: "2026-04-27T09:25:18.087Z"
+queryRegion: "US"
+region: "US"
 ---
 
 The Through the Student Lens festival showcases various films while enhancing accessibility features for viewers with disabilities.

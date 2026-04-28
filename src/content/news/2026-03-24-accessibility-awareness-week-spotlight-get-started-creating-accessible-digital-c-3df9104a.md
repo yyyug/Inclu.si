@@ -19,6 +19,9 @@ status: "published"
 translationOf: "accessibility-awareness-week-spotlight-get-started-creating-accessible-digital-c-zh-3df9104a"
 publishedAt: "2026-03-24T07:00:00.000Z"
 fetchedAt: "2026-04-26T06:49:35.189Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 This piece highlights Accessibility Awareness Week and provides guidance on how to create accessible digital content. It offers practical tips for content creators to ensure their materials are accessible to people with disabilities.

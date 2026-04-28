@@ -24,6 +24,8 @@ status: "published"
 translationOf: "kachilu-browser-v006-release-zh-679db304"
 publishedAt: "2026-04-25T23:42:42.000Z"
 fetchedAt: "2026-04-26T12:51:42.319Z"
+queryRegion: "US"
+region: "US"
 ---
 
 kachilu-browser v0.0.6 improves accessibility automation with better accuracy for dynamic sites, enhanced iframe and modal handling, and more reliable user interactions.

@@ -21,6 +21,9 @@ status: "published"
 translationOf: "governor-stein-creates-commission-on-accessibility-4fe7d35e"
 publishedAt: "2026-03-18T07:00:00.000Z"
 fetchedAt: "2026-04-26T06:47:21.144Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 北卡羅來納州州長史坦成立了無障礙委員會，以解決障礙並改善全州殘疾人的無障礙環境。該委員會將審查確保公共空間和項目更大無障礙所需的基础设施、服務和政策變更。

@@ -23,6 +23,8 @@ status: "published"
 translationOf: "congratulating-10-years-of-disability-advocacy-6c1de8a9"
 publishedAt: "2026-04-25T23:34:04.000Z"
 fetchedAt: "2026-04-26T12:52:00.335Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 祝贺Fatima Ganduje十年人道主义服务工作，致力于赋能残障人士并促进数字包容。

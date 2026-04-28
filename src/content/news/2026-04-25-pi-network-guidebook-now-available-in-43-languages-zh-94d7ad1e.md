@@ -23,6 +23,8 @@ status: "published"
 translationOf: "pi-network-guidebook-now-available-in-43-languages-94d7ad1e"
 publishedAt: "2026-04-25T23:13:30.000Z"
 fetchedAt: "2026-04-26T12:52:34.448Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 GCV Movement将Pi Network官方指南扩展至43种语言，为全球先驱者提供无障碍访问支持。

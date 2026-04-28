@@ -20,6 +20,8 @@ status: "published"
 translationOf: "return-to-demonstrated-interest-threatens-accessibility-zh-7c295e32"
 publishedAt: "2026-04-23T06:50:54.000Z"
 fetchedAt: "2026-04-26T06:51:41.661Z"
+queryRegion: "US"
+region: "US"
 ---
 
 An article discussing how returning to demonstrated interest requirements may threaten accessibility in higher education. The piece likely examines the potential negative impact on students with disabilities when educational institutions revert to previous admission or participation policies that could limit accessibility.

@@ -22,6 +22,8 @@ status: "published"
 translationOf: "accessibility-first-vs-depth-first-market-evolution-9bc9e450"
 publishedAt: "2026-04-25T23:20:40.000Z"
 fetchedAt: "2026-04-26T12:52:34.440Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 探讨市场如何认知多样化的程序员角色，以及在AI代理日益自主化的情况下人类如何保持不可或缺的地位。

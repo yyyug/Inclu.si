@@ -19,6 +19,8 @@ status: "published"
 translationOf: "my-daughter-and-her-wheelchair-taught-me-lessons-in-accessibility-1fd8d088"
 publishedAt: "2026-01-29T08:00:00.000Z"
 fetchedAt: "2026-04-26T06:48:36.792Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 一個分享透過女兒使用輪椅的經歷而獲得的無障礙見解的個人故事，強調現實生活中的無障礙知識。

@@ -21,6 +21,8 @@ status: "published"
 translationOf: "personal-accountability-and-boundaries-98014045"
 publishedAt: "2026-04-25T23:05:36.000Z"
 fetchedAt: "2026-04-26T12:52:44.025Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 作者反思个人责任、无障碍访问和在人际关系中设定边界的个人原则。

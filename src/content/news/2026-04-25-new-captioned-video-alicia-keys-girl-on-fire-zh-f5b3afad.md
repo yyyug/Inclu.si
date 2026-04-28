@@ -26,6 +26,8 @@ status: "published"
 translationOf: "new-captioned-video-alicia-keys-girl-on-fire-f5b3afad"
 publishedAt: "2026-04-25T14:47:03.000Z"
 fetchedAt: "2026-04-26T11:44:31.130Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 CCTubes发布Alicia Keys的《Girl On Fire》字幕视频，为失聪和听力障碍观众提供无障碍观看。

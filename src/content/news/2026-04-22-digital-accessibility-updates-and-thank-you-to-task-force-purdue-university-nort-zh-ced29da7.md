@@ -19,6 +19,9 @@ status: "published"
 translationOf: "digital-accessibility-updates-and-thank-you-to-task-force-purdue-university-nort-ced29da7"
 publishedAt: "2026-04-22T08:24:51.000Z"
 fetchedAt: "2026-04-26T02:52:02.518Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 普渡大學西北分校向其數位無障礙特別工作組表達感謝，並提供數位無障礙倡議的最新進展。

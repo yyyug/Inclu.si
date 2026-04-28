@@ -24,6 +24,8 @@ status: "published"
 translationOf: "use-oorion-with-meta-smart-glasses-zh-cccb582b"
 publishedAt: "2026-04-25T16:22:21.000Z"
 fetchedAt: "2026-04-26T11:44:31.124Z"
+queryRegion: "US"
+region: "US"
 ---
 
 The Epic A11y Podcast showcases using OOrion with Meta Smart Glasses for accessibility.

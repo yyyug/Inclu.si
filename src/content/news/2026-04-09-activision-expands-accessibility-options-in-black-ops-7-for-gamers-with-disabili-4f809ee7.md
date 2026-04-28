@@ -23,6 +23,8 @@ status: "published"
 translationOf: "activision-expands-accessibility-options-in-black-ops-7-for-gamers-with-disabili-zh-4f809ee7"
 publishedAt: "2026-04-09T07:00:00.000Z"
 fetchedAt: "2026-04-26T02:15:39.443Z"
+queryRegion: "US"
+region: "US"
 ---
 
 Activision announces new accessibility features for Call of Duty: Black Ops 7, including expanded control options to improve playability for gamers with disabilities. The update aims to make the popular first-person shooter more inclusive.

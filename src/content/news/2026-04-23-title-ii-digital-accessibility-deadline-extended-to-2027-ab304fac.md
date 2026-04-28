@@ -20,6 +20,8 @@ status: "published"
 translationOf: "title-ii-digital-accessibility-deadline-extended-to-2027-zh-ab304fac"
 publishedAt: "2026-04-23T05:00:00.000Z"
 fetchedAt: "2026-04-26T06:49:57.312Z"
+queryRegion: "US"
+region: "US"
 ---
 
 The deadline for Title II digital accessibility compliance has been extended to 2027, providing more time for organizations to meet ADA accessibility requirements for digital content and services.

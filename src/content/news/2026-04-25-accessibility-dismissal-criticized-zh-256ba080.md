@@ -22,6 +22,8 @@ status: "published"
 translationOf: "accessibility-dismissal-criticized-256ba080"
 publishedAt: "2026-04-25T18:49:35.000Z"
 fetchedAt: "2026-04-26T11:17:21.165Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 一位社交媒体用户批评「我不在乎无障碍」这一说法缺乏认知，强调数字空间中无障碍意识的重要性。

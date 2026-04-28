@@ -20,6 +20,9 @@ status: "published"
 translationOf: "ada-digital-accessibility-rules-heres-how-to-prepare-eb9334bc"
 publishedAt: "2026-04-07T07:00:00.000Z"
 fetchedAt: "2026-04-26T06:48:36.786Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 來自Mass.gov的文章提供關於準備ADA數位無障礙規則的指導，幫助組織理解和遵守數位服務的無障礙要求。

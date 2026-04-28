@@ -24,6 +24,8 @@ status: "published"
 translationOf: "use-oorion-with-meta-smart-glasses-cccb582b"
 publishedAt: "2026-04-25T16:22:21.000Z"
 fetchedAt: "2026-04-26T11:44:31.124Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 Epic A11y播客展示如何在Meta智能眼镜上使用OOrion实现无障碍功能。

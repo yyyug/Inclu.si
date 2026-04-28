@@ -20,6 +20,8 @@ status: "published"
 translationOf: "queen-elizabeth-ii-garden-regents-park-full-accessibility-guide-including-new-ch-zh-7ae271a6"
 publishedAt: "2026-04-24T11:25:09.000Z"
 fetchedAt: "2026-04-26T06:49:46.958Z"
+queryRegion: "US"
+region: "US"
 ---
 
 This article provides a comprehensive accessibility guide to Queen Elizabeth II Garden in Regent's Park, highlighting the new Changing Places toilet facility. The guide covers accessibility features for visitors with disabilities, including parking, pathways, and facilities available at this London park.

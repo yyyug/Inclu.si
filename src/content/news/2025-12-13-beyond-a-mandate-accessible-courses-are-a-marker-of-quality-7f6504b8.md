@@ -19,6 +19,9 @@ status: "published"
 translationOf: "beyond-a-mandate-accessible-courses-are-a-marker-of-quality-zh-7f6504b8"
 publishedAt: "2025-12-13T00:36:24.000Z"
 fetchedAt: "2026-04-26T06:49:35.193Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 This article argues that accessible courses are not just a regulatory requirement but also a marker of educational quality. It discusses how making course materials accessible benefits all students and reflects high-quality teaching practices.

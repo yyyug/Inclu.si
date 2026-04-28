@@ -20,6 +20,8 @@ status: "published"
 translationOf: "apple-lawsuit-puts-apple-pay-oversight-and-accessibility-commitments-under-scrut-zh-9777c2aa"
 publishedAt: "2026-04-23T08:26:05.000Z"
 fetchedAt: "2026-04-26T06:47:07.604Z"
+queryRegion: "US"
+region: "US"
 ---
 
 A lawsuit against Apple is examining the company's Apple Pay oversight and its commitments to accessibility. The legal case highlights questions about whether Apple has fulfilled its accessibility obligations across its products and services.

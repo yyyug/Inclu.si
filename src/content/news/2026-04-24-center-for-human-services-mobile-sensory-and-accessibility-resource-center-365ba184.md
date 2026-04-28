@@ -19,6 +19,8 @@ status: "published"
 translationOf: "center-for-human-services-mobile-sensory-and-accessibility-resource-center-zh-365ba184"
 publishedAt: "2026-04-24T17:14:00.000Z"
 fetchedAt: "2026-04-26T02:52:39.841Z"
+queryRegion: "US"
+region: "US"
 ---
 
 The Center for Human Services has launched a Mobile Sensory and Accessibility Resource Center, providing accessibility resources and services to the local community.

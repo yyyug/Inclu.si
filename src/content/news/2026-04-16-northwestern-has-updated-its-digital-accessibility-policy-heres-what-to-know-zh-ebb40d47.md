@@ -20,6 +20,9 @@ status: "published"
 translationOf: "northwestern-has-updated-its-digital-accessibility-policy-heres-what-to-know-ebb40d47"
 publishedAt: "2026-04-16T15:44:20.000Z"
 fetchedAt: "2026-04-26T02:53:56.722Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 西北大學宣布更新其數位無障礙政策。新政策旨在確保數位資源和平台對所有使用者（包括殘障人士）都可存取。具體變更的詳細內容在大學的公告中說明。

@@ -20,6 +20,8 @@ status: "published"
 translationOf: "10k-grant-given-to-local-college-for-increased-accessibility-22a4312b"
 publishedAt: "2026-04-24T03:11:00.000Z"
 fetchedAt: "2026-04-26T06:47:50.620Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 一所當地大學獲得1萬美元補助，用於改善校園無障礙設施，支持身心障礙學生並提升包容性的教育機會。

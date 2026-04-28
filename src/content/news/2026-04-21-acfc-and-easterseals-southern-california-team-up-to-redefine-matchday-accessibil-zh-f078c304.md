@@ -21,6 +21,8 @@ status: "published"
 translationOf: "acfc-and-easterseals-southern-california-team-up-to-redefine-matchday-accessibil-f078c304"
 publishedAt: "2026-04-21T18:13:04.000Z"
 fetchedAt: "2026-04-26T06:51:41.595Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 天使城足球俱樂部（ACFC）與南加州 Easterseals 合作，提升比賽日的無障礙設施和殘疾人包容性。這項合作旨在為殘疾人士創造更具包容性的球場體驗，確保所有人能平等參與比賽和活動。

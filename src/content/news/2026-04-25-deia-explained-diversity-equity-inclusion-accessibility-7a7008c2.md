@@ -23,6 +23,8 @@ status: "published"
 translationOf: "deia-explained-diversity-equity-inclusion-accessibility-zh-7a7008c2"
 publishedAt: "2026-04-25T22:38:11.000Z"
 fetchedAt: "2026-04-26T12:53:14.207Z"
+queryRegion: "US"
+region: "US"
 ---
 
 DEIA stands for diversity, equity, inclusion, and accessibility. The author argues these are basic values everyone should support.

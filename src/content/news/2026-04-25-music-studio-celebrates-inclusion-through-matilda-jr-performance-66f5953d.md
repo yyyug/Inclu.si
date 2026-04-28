@@ -22,6 +22,8 @@ status: "published"
 translationOf: "music-studio-celebrates-inclusion-through-matilda-jr-performance-zh-66f5953d"
 publishedAt: "2026-04-25T23:24:33.000Z"
 fetchedAt: "2026-04-26T12:52:23.328Z"
+queryRegion: "US"
+region: "US"
 ---
 
 Dreams Come True Music Studio reflects on memories made with Matilda Jr, promoting inclusion and abilities-first approaches in music education and performance.

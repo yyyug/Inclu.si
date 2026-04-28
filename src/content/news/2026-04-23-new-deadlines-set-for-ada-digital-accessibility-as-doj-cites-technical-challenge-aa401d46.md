@@ -22,6 +22,8 @@ status: "published"
 translationOf: "new-deadlines-set-for-ada-digital-accessibility-as-doj-cites-technical-challenge-zh-aa401d46"
 publishedAt: "2026-04-23T20:42:24.000Z"
 fetchedAt: "2026-04-26T02:53:30.287Z"
+queryRegion: "US"
+region: "US"
 ---
 
 The Department of Justice has established new deadlines for ADA digital accessibility compliance, citing technical challenges as a key factor in the extended timeline. The EDU Ledger reports on how these new timelines will affect organizations required to meet digital accessibility standards.

@@ -21,6 +21,9 @@ status: "published"
 translationOf: "governor-stein-creates-commission-on-accessibility-zh-4fe7d35e"
 publishedAt: "2026-03-18T07:00:00.000Z"
 fetchedAt: "2026-04-26T06:47:21.144Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 North Carolina Governor Stein has established a Commission on Accessibility to address barriers and improve accessibility for people with disabilities across the state. The commission will likely examine infrastructure, services, and policy changes needed to ensure greater accessibility in public spaces and programs.

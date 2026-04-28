@@ -22,6 +22,8 @@ status: "published"
 translationOf: "guide-for-meeting-wcag-web-accessibility-standards-association-of-state-and-terr-9378f5d9"
 publishedAt: "2026-04-24T15:03:41.000Z"
 fetchedAt: "2026-04-26T02:50:37.455Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 這是由美國州和領地衛生官員協會(ASTHO)發布的實務指南，幫助組織符合WCAG網頁無障礙標準，為殘障人士打造無障礙網站提供指導。

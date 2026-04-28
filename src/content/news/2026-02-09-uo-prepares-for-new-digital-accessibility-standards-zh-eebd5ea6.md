@@ -20,6 +20,9 @@ status: "published"
 translationOf: "uo-prepares-for-new-digital-accessibility-standards-eebd5ea6"
 publishedAt: "2026-02-09T08:00:00.000Z"
 fetchedAt: "2026-04-26T06:48:52.612Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 俄勒岡大學正準備實施新的數位無障礙標準，確保數位內容和資源可供所有使用者（包括殘障人士）使用。這項倡議將影響全校的網站、數位學習材料和線上資源。

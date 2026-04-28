@@ -19,6 +19,9 @@ status: "published"
 translationOf: "creating-online-content-for-uc-new-federal-digital-accessibility-regulations-app-zh-499bafea"
 publishedAt: "2026-02-10T08:00:00.000Z"
 fetchedAt: "2026-04-26T06:47:30.415Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 The University of California system is informing content creators that new federal digital accessibility regulations now apply to their online content, requiring compliance with accessibility standards.

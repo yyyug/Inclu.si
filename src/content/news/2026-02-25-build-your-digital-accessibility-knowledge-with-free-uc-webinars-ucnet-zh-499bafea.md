@@ -19,6 +19,9 @@ status: "published"
 translationOf: "build-your-digital-accessibility-knowledge-with-free-uc-webinars-ucnet-499bafea"
 publishedAt: "2026-02-25T08:00:00.000Z"
 fetchedAt: "2026-04-26T06:48:25.587Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 UCnet 提供免費網路研討會，幫助個人和組織建立數位無障礙知識。

@@ -22,6 +22,8 @@ status: "published"
 translationOf: "players-debate-kaltsit-alter-revival-timing-in-arknights-32256b97"
 publishedAt: "2026-04-25T22:36:42.000Z"
 fetchedAt: "2026-04-26T12:53:23.675Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 玩家讨论明日方舟中凯尔希异格回归是否过早，与蒙 Mont3r加入进行比较，等待故事发展。

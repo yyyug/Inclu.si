@@ -23,6 +23,9 @@ status: "published"
 translationOf: "department-of-justice-extends-web-accessibility-deadline-to-april-2027-the-unive-d337ffe7"
 publishedAt: "2026-04-21T01:25:27.000Z"
 fetchedAt: "2026-04-26T02:51:31.067Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 美國司法部宣布將網路無障礙截止日期延長至2027年4月，此決定影響包括猶他大學在內的組織。這項延後為各機構提供了更多時間，以確保身心障礙人士能夠使用無障礙網站。

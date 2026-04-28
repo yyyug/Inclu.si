@@ -20,6 +20,9 @@ status: "published"
 translationOf: "digital-accessibility-remains-a-priority-nu-policy-university-of-nebraska-medica-zh-a28bcbcf"
 publishedAt: "2026-04-24T07:24:32.000Z"
 fetchedAt: "2026-04-26T02:50:53.795Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 The University of Nebraska Medical Center reaffirms its commitment to digital accessibility as a continuing priority under NU policy, ensuring that digital resources remain accessible to all users.

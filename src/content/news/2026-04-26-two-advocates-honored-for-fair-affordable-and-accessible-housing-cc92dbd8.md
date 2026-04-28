@@ -22,6 +22,8 @@ status: "published"
 translationOf: "two-advocates-honored-for-fair-affordable-and-accessible-housing-zh-cc92dbd8"
 publishedAt: "2026-04-26T00:29:14.000Z"
 fetchedAt: "2026-04-26T02:51:57.417Z"
+queryRegion: "US"
+region: "US"
 ---
 
 Two housing advocates have been recognized for their work in promoting fair, affordable, and accessible housing options in their community. The recognition highlights efforts to ensure housing accessibility for people with disabilities and low-income residents.

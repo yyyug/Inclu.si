@@ -21,6 +21,8 @@ status: "published"
 translationOf: "offensive-content-using-disability-slurs-34557390"
 publishedAt: "2026-04-25T23:07:10.000Z"
 fetchedAt: "2026-04-26T12:52:44.021Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 包含歧视性语言并用冒犯性措辞攻击多元化包容项目的推文。

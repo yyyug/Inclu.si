@@ -20,6 +20,8 @@ status: "published"
 translationOf: "is-your-city-ready-for-website-accessibility-requirements-zh-e897abdc"
 publishedAt: "2026-02-18T08:00:00.000Z"
 fetchedAt: "2026-04-26T06:47:50.623Z"
+queryRegion: "US"
+region: "US"
 ---
 
 Cities must prepare for website accessibility requirements to ensure digital inclusion for residents with disabilities. The article discusses the importance of compliant municipal websites and provides guidance on meeting accessibility standards.

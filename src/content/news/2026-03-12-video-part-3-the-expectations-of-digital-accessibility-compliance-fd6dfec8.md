@@ -20,6 +20,9 @@ status: "published"
 translationOf: "video-part-3-the-expectations-of-digital-accessibility-compliance-zh-fd6dfec8"
 publishedAt: "2026-03-12T07:00:00.000Z"
 fetchedAt: "2026-04-26T06:49:57.377Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 This video part 3 discusses the expectations for digital accessibility compliance, providing guidance on meeting accessibility standards in digital content and services.

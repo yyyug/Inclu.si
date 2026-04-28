@@ -22,6 +22,9 @@ status: "published"
 translationOf: "explore-america250-enhancing-accessibility-at-our-national-parks-and-public-land-zh-c374ed91"
 publishedAt: "2026-04-22T07:00:00.000Z"
 fetchedAt: "2026-04-26T02:52:08.206Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 The House Committee on Natural Resources discusses initiatives to improve accessibility at U.S. national parks and public lands, ensuring inclusive access for all visitors as part of the America250 commemoration.

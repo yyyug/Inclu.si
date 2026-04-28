@@ -22,6 +22,8 @@ status: "archived"
 translationOf: "getting-the-most-out-of-barrier-free-tours-for-yourself-or-someone-with-a-disabi-zh-4012b8a7"
 publishedAt: "2026-04-26T04:05:00.000Z"
 fetchedAt: "2026-04-26T06:46:40.883Z"
+queryRegion: "US"
+region: "US"
 ---
 
 This article provides guidance on how to make the most of barrier-free tours for individuals with disabilities or those traveling with someone who has a disability. It covers tips and strategies for accessible travel experiences.

@@ -22,6 +22,9 @@ status: "published"
 translationOf: "braille-labelled-brain-models-make-lab-accessible-to-psychology-student-who-lost-zh-d2f72f00"
 publishedAt: "2026-04-25T16:00:09.000Z"
 fetchedAt: "2026-04-26T02:50:43.931Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 Chico State has made its psychology lab accessible to a blind student by introducing braille-labelled brain models. The student, who lost her eyesight, can now participate fully in anatomy studies through tactile learning materials.

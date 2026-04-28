@@ -21,6 +21,9 @@ status: "published"
 translationOf: "title-ii-update-accessibility-zh-e37eb45a"
 publishedAt: "2026-04-20T07:00:00.000Z"
 fetchedAt: "2026-04-26T06:51:41.600Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 The University of Michigan-Flint provides an update on Title II accessibility requirements, which pertain to accessibility standards for public entities under the Americans with Disabilities Act (ADA). This update likely covers compliance measures and guidelines for ensuring equal access to university programs and services.

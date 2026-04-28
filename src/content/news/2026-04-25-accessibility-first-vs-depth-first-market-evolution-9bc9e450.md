@@ -22,6 +22,8 @@ status: "published"
 translationOf: "accessibility-first-vs-depth-first-market-evolution-zh-9bc9e450"
 publishedAt: "2026-04-25T23:20:40.000Z"
 fetchedAt: "2026-04-26T12:52:34.440Z"
+queryRegion: "US"
+region: "US"
 ---
 
 Discussion on how the market recognizes diverse programmer roles and how humans remain essential as AI agents become more autonomous.

@@ -20,6 +20,8 @@ status: "published"
 translationOf: "wmata-upgrades-bus-stops-for-accessibility-zh-40db2395"
 publishedAt: "2026-04-23T07:00:00.000Z"
 fetchedAt: "2026-04-26T06:48:36.794Z"
+queryRegion: "US"
+region: "US"
 ---
 
 WMATA announces infrastructure improvements to bus stops, enhancing accessibility for passengers with disabilities, including features like better boarding areas and accessibility upgrades.

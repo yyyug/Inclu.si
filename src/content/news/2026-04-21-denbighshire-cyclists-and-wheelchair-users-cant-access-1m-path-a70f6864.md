@@ -21,6 +21,8 @@ status: "published"
 translationOf: "denbighshire-cyclists-and-wheelchair-users-cant-access-1m-path-zh-a70f6864"
 publishedAt: "2026-04-21T11:32:54.000Z"
 fetchedAt: "2026-04-26T06:49:57.380Z"
+queryRegion: "US"
+region: "US"
 ---
 
 A newly constructed £1 million path in Denbighshire remains inaccessible to cyclists and wheelchair users due to design issues, highlighting ongoing challenges in inclusive infrastructure planning.

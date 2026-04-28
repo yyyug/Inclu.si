@@ -20,6 +20,9 @@ status: "published"
 translationOf: "new-accessibility-regulations-apply-to-employees-who-create-online-content-uc-da-zh-e88b14ae"
 publishedAt: "2026-02-17T08:00:00.000Z"
 fetchedAt: "2026-04-26T06:47:39.637Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 UC Davis has implemented new accessibility regulations that require employees who create online content to ensure their materials are accessible. The regulations aim to improve digital accessibility across the university's online platforms and ensure compliance with accessibility standards.

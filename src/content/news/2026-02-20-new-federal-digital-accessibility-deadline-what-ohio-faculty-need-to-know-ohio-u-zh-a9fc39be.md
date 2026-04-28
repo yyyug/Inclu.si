@@ -19,6 +19,9 @@ status: "published"
 translationOf: "new-federal-digital-accessibility-deadline-what-ohio-faculty-need-to-know-ohio-u-a9fc39be"
 publishedAt: "2026-02-20T08:00:00.000Z"
 fetchedAt: "2026-04-26T06:48:15.295Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 關於俄亥俄大學教師必須遵守的新聯邦數位無障礙要求和截止日期的資訊，詳細說明教育工作者需要如何符合數位教育材料的無障礙標準。

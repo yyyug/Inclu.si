@@ -22,6 +22,8 @@ status: "published"
 translationOf: "ada-website-accessibility-compliance-deadline-extended-1-year-for-local-governme-25f7e981"
 publishedAt: "2026-04-22T15:22:13.000Z"
 fetchedAt: "2026-04-26T02:52:58.064Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 地方政府網站無障礙 ADA 標準的合規期限已延長一年，為滿足數位無障礙要求提供了更多時間。

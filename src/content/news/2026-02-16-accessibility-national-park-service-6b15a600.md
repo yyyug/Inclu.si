@@ -19,6 +19,9 @@ status: "published"
 translationOf: "accessibility-national-park-service-zh-6b15a600"
 publishedAt: "2026-02-16T08:00:00.000Z"
 fetchedAt: "2026-04-26T06:49:13.502Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 The National Park Service provides information about their accessibility services and accommodations for visitors with disabilities across national parks.

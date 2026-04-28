@@ -19,6 +19,8 @@ status: "published"
 translationOf: "golf-notebook-fargo-no-show-policy-addresses-accessibility-complaint-zh-6ccce1d1"
 publishedAt: "2026-04-23T20:23:00.000Z"
 fetchedAt: "2026-04-26T06:47:07.596Z"
+queryRegion: "US"
+region: "US"
 ---
 
 The City of Fargo has implemented a no-show policy for golf courses that specifically addresses an accessibility complaint. The policy aims to ensure fair access for players with disabilities by managing tee time reservations more effectively.

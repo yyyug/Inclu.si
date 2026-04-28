@@ -23,6 +23,9 @@ status: "published"
 translationOf: "department-of-justice-extends-web-accessibility-deadline-to-april-2027-the-unive-zh-d337ffe7"
 publishedAt: "2026-04-21T01:25:27.000Z"
 fetchedAt: "2026-04-26T02:51:31.067Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 The Department of Justice has announced an extension of the web accessibility deadline to April 2027, affecting organizations including The University of Utah. This delay provides additional time for entities to comply with accessibility requirements for people with disabilities.

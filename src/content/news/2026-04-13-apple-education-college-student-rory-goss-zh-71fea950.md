@@ -19,6 +19,8 @@ status: "published"
 translationOf: "apple-education-college-student-rory-goss-71fea950"
 publishedAt: "2026-04-13T23:03:25.000Z"
 fetchedAt: "2026-04-26T02:15:47.237Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 關於大學生 Rory Goss 的報導，收錄於 Apple 教育專區，突顯該公司對大學生的相關計畫與資源。

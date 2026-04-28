@@ -22,6 +22,8 @@ status: "published"
 translationOf: "ada-online-accessibility-deadline-extended-for-university-of-missouri-9ca6f120"
 publishedAt: "2026-04-21T00:15:00.000Z"
 fetchedAt: "2026-04-26T02:53:03.139Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 密蘇里大學已獲准延長ADA線上無障礙合規截止日期，使該機構有更多時間確保其數位平台符合聯邦無障礙標準。

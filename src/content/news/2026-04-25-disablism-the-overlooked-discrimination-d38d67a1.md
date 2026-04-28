@@ -23,6 +23,8 @@ status: "published"
 translationOf: "disablism-the-overlooked-discrimination-zh-d38d67a1"
 publishedAt: "2026-04-25T22:45:16.000Z"
 fetchedAt: "2026-04-26T12:53:14.162Z"
+queryRegion: "US"
+region: "US"
 ---
 
 Disabled people are expected to educate their oppressors on ableism, disablism, accessibility and inclusion for free, and with gratitude.

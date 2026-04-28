@@ -21,6 +21,9 @@ status: "published"
 translationOf: "title-ii-update-accessibility-e37eb45a"
 publishedAt: "2026-04-20T07:00:00.000Z"
 fetchedAt: "2026-04-26T06:51:41.600Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 密歇根大學弗林特分校發布了 Title II 無障礙要求的最新資訊，該要求涉及《美國殘疾人法案》（ADA）對公共實體的無障礙標準。此更新可能涵蓋確保平等參與大學課程和服務的合規措施和指南。

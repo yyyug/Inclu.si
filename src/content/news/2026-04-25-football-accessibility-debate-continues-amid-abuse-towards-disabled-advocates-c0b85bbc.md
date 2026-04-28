@@ -23,6 +23,8 @@ status: "published"
 translationOf: "football-accessibility-debate-continues-amid-abuse-towards-disabled-advocates-zh-c0b85bbc"
 publishedAt: "2026-04-25T23:21:45.000Z"
 fetchedAt: "2026-04-26T12:52:23.400Z"
+queryRegion: "US"
+region: "US"
 ---
 
 Criticism of fans who challenge stadium safety rules faces backlash, while concerns about disabled accessibility at football matches remain unresolved.

@@ -20,6 +20,9 @@ status: "published"
 translationOf: "the-mountains-await-accessible-adventures-for-senior-travelers-zh-025a410a"
 publishedAt: "2026-04-24T12:03:44.000Z"
 fetchedAt: "2026-04-26T06:49:02.446Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 An article featuring accessible travel opportunities in mountainous regions designed for senior travelers, highlighting destinations and activities that accommodate mobility needs while enjoying outdoor adventures.

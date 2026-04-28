@@ -21,6 +21,8 @@ status: "published"
 translationOf: "department-of-justice-delays-enforcement-of-digital-accessibility-rules-zh-3ab3c927"
 publishedAt: "2026-04-22T14:06:36.000Z"
 fetchedAt: "2026-04-26T02:51:11.900Z"
+queryRegion: "US"
+region: "US"
 ---
 
 The U.S. Department of Justice has announced a delay in the enforcement of digital accessibility rules, potentially impacting compliance timelines for organizations required to meet web accessibility standards.

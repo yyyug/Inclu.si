@@ -20,6 +20,8 @@ status: "published"
 translationOf: "professors-navigate-new-accessibility-requirements-in-coursework-a0c0ee1c"
 publishedAt: "2026-04-21T21:50:58.000Z"
 fetchedAt: "2026-04-26T06:47:21.139Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 大學教授正在適應課程的新無障礙要求，確保教育材料和資源能夠讓殘疾學生無障礙地訪問。這包括實施符合標準的數位內容、提供替代格式，以及遵循無障礙教學實踐指南。

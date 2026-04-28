@@ -20,6 +20,9 @@ status: "published"
 translationOf: "uo-prepares-for-new-digital-accessibility-standards-zh-eebd5ea6"
 publishedAt: "2026-02-09T08:00:00.000Z"
 fetchedAt: "2026-04-26T06:48:52.612Z"
+sourceCountry: "US"
+queryRegion: "US"
+region: "US"
 ---
 
 The University of Oregon is preparing to implement new digital accessibility standards, ensuring digital content and resources are accessible to all users including those with disabilities. This initiative will affect websites, digital learning materials, and online resources across the university.

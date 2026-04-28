@@ -20,6 +20,8 @@ status: "published"
 translationOf: "duke-has-an-accessibility-problem-the-duke-chronicle-zh-1f294c70"
 publishedAt: "2025-10-30T07:00:00.000Z"
 fetchedAt: "2026-04-26T06:48:25.598Z"
+queryRegion: "US"
+region: "US"
 ---
 
 The Duke Chronicle reports on accessibility issues facing Duke University, highlighting challenges encountered by students and staff with disabilities.

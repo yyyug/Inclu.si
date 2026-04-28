@@ -21,6 +21,8 @@ status: "published"
 translationOf: "doj-extends-web-accessibility-compliance-deadlines-for-local-governments-zh-78a17234"
 publishedAt: "2026-04-20T18:05:30.000Z"
 fetchedAt: "2026-04-26T02:50:48.821Z"
+queryRegion: "US"
+region: "US"
 ---
 
 The U.S. Department of Justice has extended web accessibility compliance deadlines for local governments, providing additional time for municipalities to meet ADA requirements for their digital services and websites.

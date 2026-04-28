@@ -21,6 +21,8 @@ status: "published"
 translationOf: "doj-extends-web-accessibility-compliance-deadlines-for-local-governments-78a17234"
 publishedAt: "2026-04-20T18:05:30.000Z"
 fetchedAt: "2026-04-26T02:50:48.821Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 美國司法部已延長地方政府的網路無障礙合規期限，為市政當局提供更多時間以符合其數位服務和網站的美國殘疾人法案要求。

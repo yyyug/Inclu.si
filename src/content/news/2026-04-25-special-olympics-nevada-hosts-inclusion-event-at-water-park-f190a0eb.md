@@ -22,6 +22,8 @@ status: "published"
 translationOf: "special-olympics-nevada-hosts-inclusion-event-at-water-park-zh-f190a0eb"
 publishedAt: "2026-04-25T23:00:07.000Z"
 fetchedAt: "2026-04-26T12:52:52.625Z"
+queryRegion: "US"
+region: "US"
 ---
 
 Community members gathered at the Vegas Plunge for a day focused on inclusion and accessibility.

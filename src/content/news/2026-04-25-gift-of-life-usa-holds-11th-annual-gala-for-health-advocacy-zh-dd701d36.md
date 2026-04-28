@@ -22,6 +22,8 @@ status: "published"
 translationOf: "gift-of-life-usa-holds-11th-annual-gala-for-health-advocacy-dd701d36"
 publishedAt: "2026-04-25T23:00:26.000Z"
 fetchedAt: "2026-04-26T12:52:52.616Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 该组织举办年度晚宴,汇聚社区领袖和医疗专业人员,为身心障碍人士提供支持。

@@ -24,6 +24,8 @@ status: "published"
 translationOf: "kachilu-browser-v006-release-679db304"
 publishedAt: "2026-04-25T23:42:42.000Z"
 fetchedAt: "2026-04-26T12:51:42.319Z"
+queryRegion: "TW"
+region: "TW"
 ---
 
 kachilu-browser v0.0.6提升无障碍自动化性能，对动态网站提供更高精度，增强iframe和模态框处理，用户交互更可靠。

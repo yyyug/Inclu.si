@@ -21,6 +21,8 @@ status: "published"
 translationOf: "more-time-stronger-compliance-accessibility-leaders-say-their-work-continues-aft-zh-4310aac2"
 publishedAt: "2026-04-24T21:21:45.000Z"
 fetchedAt: "2026-04-26T02:51:51.232Z"
+queryRegion: "US"
+region: "US"
 ---
 
 Accessibility leaders say they will continue their work on digital accessibility compliance despite the Department of Justice extending the compliance deadline. The extended timeline gives organizations more time to ensure their digital services meet ADA standards, but leaders emphasize this shouldn't slow down accessibility efforts.
