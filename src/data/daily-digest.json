@@ -1,23 +1,39 @@
 {
   "date": "2026-04-28",
-  "generatedAt": "2026-04-28T03:25:21.184Z",
+  "generatedAt": "2026-04-28T04:02:31.004Z",
   "en": {
-    "title": "Through the Student Lens festival presents assorted work, boosts film accessibility",
-    "summary": "The Through the Student Lens festival showcases various films while enhancing accessibility features for viewers with disabilities.",
+    "title": "Accessibility Innovations: Home Devices, Transit Upgrades, and Voting Access Challenges",
+    "summary": "This digest covers three key accessibility developments. Consumer Reports highlights smart home devices and adaptive tools designed to enhance independence for people with disabilities and seniors. In Sacramento, SacRT announces plans to expand wheelchair accessible service to improve public transit options. Meanwhile, accessibility concerns are rising in Macon where voters face long walking distances from parking to polling locations, disproportionately affecting elderly voters and those with mobility issues.",
     "highlights": [
       {
-        "title": "Through the Student Lens festival presents assorted work, boosts film accessibility",
-        "slug": "through-the-student-lens-festival-presents-assorted-work-boosts-film-accessibili-d8399623"
+        "title": "Consumer Reports: Helpful accessible home gadgets",
+        "slug": "consumer-reports-helpful-accessible-home-gadgets-40842833"
+      },
+      {
+        "title": "SacRT to Expand Wheelchair Accessible Service",
+        "slug": "sacrt-to-expand-wheelchair-accessible-service-8e2dec30"
+      },
+      {
+        "title": "Accessibility concerns rise as Macon Mall parking distance challenges elderly voters",
+        "slug": "accessibility-concerns-rise-as-macon-mall-parking-distance-challenges-elderly-vo-d4be577d"
       }
     ]
   },
   "zh-TW": {
-    "title": "「透過學生鏡頭」電影節呈現多樣作品並提升電影無障礙",
-    "summary": "「透過學生鏡頭」電影節展示各種電影，同時為殘障觀眾增強無障礙功能。",
+    "title": "無障礙創新：家居設備、交通升級與投票通道挑戰",
+    "summary": "本期摘要涵蓋三項無障礙發展。《消費者報告》介紹了專為改善殘疾人和老年人生活設計的智能家居設備與輔助工具。薩克拉門托區域交通局宣布擴大輪椅無障礙服務計畫，以改善公共交通選項。同時，梅肯的無障礙問題日益受到關注，選民面臨停車場到投票地點距離過長的挑戰，對老年選民和行動不便者影響尤其嚴重。",
     "highlights": [
       {
-        "title": "「透過學生鏡頭」電影節呈現多樣作品並提升電影無障礙",
-        "slug": "through-the-student-lens-festival-presents-assorted-work-boosts-film-accessibili-zh-d8399623"
+        "title": "消費者報告：實用的無障礙家居設備",
+        "slug": "consumer-reports-helpful-accessible-home-gadgets-zh-40842833"
+      },
+      {
+        "title": "SacRT 擴大輪椅無障礙服務",
+        "slug": "sacrt-to-expand-wheelchair-accessible-service-zh-8e2dec30"
+      },
+      {
+        "title": "停車距離挑戰老年選民 梅肯購物中心無障礙問題引發關注",
+        "slug": "accessibility-concerns-rise-as-macon-mall-parking-distance-challenges-elderly-vo-zh-d4be577d"
       }
     ]
   }
