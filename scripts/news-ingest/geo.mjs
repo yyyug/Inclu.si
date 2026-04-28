@@ -3,8 +3,6 @@ const TLD_TO_COUNTRY = {
   jp: 'JP',
   kr: 'KR',
   sa: 'SA',
-  ae: 'AE',
-  uk: 'GB',
   us: 'US',
 };
 
@@ -18,7 +16,6 @@ const HOST_HINTS = [
   ['.go.kr', 'KR'],
   ['.ac.kr', 'KR'],
   ['.gov.sa', 'SA'],
-  ['.gov.ae', 'AE'],
   ['.gov', 'US'],
   ['.edu', 'US'],
 ];

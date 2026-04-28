@@ -26,6 +26,13 @@ const NEWS_API_KEY = process.env.NEWS_API_KEY ?? '';
 const NEWS_API_BASE_URL = (process.env.NEWS_API_BASE_URL ?? 'https://newsapi.org/v2/everything').replace(/\/$/, '');
 const NEWS_API_QUERIES = parseCommaList(process.env.NEWS_API_QUERIES ?? 'accessibility,無障礙');
 const NEWS_API_PAGE_SIZE = Math.min(100, Math.max(10, Number(process.env.NEWS_API_PAGE_SIZE ?? 50)));
+const NEWS_API_QUERY_REGION_MAP = {
+  accessibility: 'US',
+  無障礙: 'TW',
+  접근성: 'KR',
+  アクセシビリティ: 'JP',
+  الإعاقة: 'SA',
+};
 
 const CONTENT_DIR = path.resolve('src/content/news');
 const OLLAMA_BASE_URL = (process.env.OLLAMA_BASE_URL ?? 'https://ollama.cloud/v1').replace(/\/$/, '');
@@ -320,6 +327,7 @@ async function collectCandidatesFromNewsApi({ existing }) {
   }
 
   for (const query of NEWS_API_QUERIES) {
+    const queryRegion = NEWS_API_QUERY_REGION_MAP[query];
     const endpoint = `${NEWS_API_BASE_URL}?q=${encodeURIComponent(query)}&sortBy=publishedAt&pageSize=${NEWS_API_PAGE_SIZE}`;
     console.log(`Fetching NewsAPI: ${query}`);
 
@@ -376,7 +384,8 @@ async function collectCandidatesFromNewsApi({ existing }) {
           sourceName,
           sourceUrl,
           title: normalizedTitle,
-          sourceCountry: pickSourceCountry({ sourceUrl }),
+          queryRegion,
+          sourceCountry: pickSourceCountry({ sourceUrl, queryRegion }),
         });
       } catch (error) {
         failed += 1;

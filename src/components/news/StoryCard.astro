@@ -1,7 +1,6 @@
 ---
 import type { NewsEntry } from '../../lib/news';
 import type { Locale } from '../../lib/i18n';
-import { inferCountryFromSourceUrl } from '../../lib/geo';
 
 interface Props {
   locale: Locale;
@@ -24,33 +23,38 @@ const categoryLabels: Record<string, Record<Locale, string>> = {
 
 const categoryLabel = categoryLabels[entry.data.category]?.[locale] ?? categoryLabels.general[locale];
 
-const regionLabels: Record<string, string> = {
+const countryLabels: Record<string, string> = {
   US: '🇺🇸 US',
   TW: '🇹🇼 TW',
   KR: '🇰🇷 KR',
   JP: '🇯🇵 JP',
   SA: '🇸🇦 SA',
-  AE: '🇦🇪 AE',
-  GB: '🇬🇧 GB',
+};
+
+const languageLabelsByRegion: Record<string, Record<Locale, string>> = {
+  US: { en: 'English', 'zh-TW': '英文' },
+  TW: { en: 'Chinese', 'zh-TW': '中文' },
+  KR: { en: 'Korean', 'zh-TW': '韓文' },
+  JP: { en: 'Japanese', 'zh-TW': '日文' },
+  SA: { en: 'Arabic', 'zh-TW': '阿拉伯文' },
+  AE: { en: 'Arabic', 'zh-TW': '阿拉伯文' },
 };
 
 const sourceCountryCode = entry.data.sourceCountry
-  ?? inferCountryFromSourceUrl(entry.data.sourceUrl)
-  ?? entry.data.region
   ?? null;
 
 const queryRegionCode = entry.data.queryRegion ?? entry.data.region ?? null;
 
 const sourceCountryLabel = sourceCountryCode
-  ? (regionLabels[sourceCountryCode] ?? sourceCountryCode)
+  ? (countryLabels[sourceCountryCode] ?? null)
   : null;
 
-const queryRegionLabel = queryRegionCode
-  ? (regionLabels[queryRegionCode] ?? queryRegionCode)
+const languageLabel = !sourceCountryLabel && queryRegionCode
+  ? (languageLabelsByRegion[queryRegionCode]?.[locale] ?? null)
   : null;
 
 const sourceBadgePrefix = locale === 'zh-TW' ? '來源' : 'Source';
-const queryBadgePrefix = locale === 'zh-TW' ? '查詢' : 'Query';
+const languageBadgePrefix = locale === 'zh-TW' ? '語系' : 'Language';
 ---
 
 <article class="group rounded-3xl border border-slate-200 bg-white p-5 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg sm:p-8">
@@ -61,9 +65,9 @@ const queryBadgePrefix = locale === 'zh-TW' ? '查詢' : 'Query';
         {sourceBadgePrefix}: {sourceCountryLabel}
       </span>
     )}
-    {queryRegionLabel && (
+    {languageLabel && (
       <span class="rounded-full bg-amber-50 px-3 py-1 font-medium text-amber-800 border border-amber-200">
-        {queryBadgePrefix}: {queryRegionLabel}
+        {languageBadgePrefix}: {languageLabel}
       </span>
     )}
     <time datetime={entry.data.publishedAt.toISOString()}>
