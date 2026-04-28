@@ -1,39 +1,23 @@
 {
-  "date": "2026-04-27",
-  "generatedAt": "2026-04-27T14:44:12.696Z",
+  "date": "2026-04-28",
+  "generatedAt": "2026-04-28T03:25:21.184Z",
   "en": {
-    "title": "Accessibility News Digest: Film Festival Enhances Accessibility, Theatre Creates Inclusive Shows, Ireland's Arts Income Questioned",
-    "summary": "Three stories highlight progress and challenges in disability accessibility across arts and culture. The Through the Student Lens film festival showcases diverse films while implementing enhanced accessibility features for viewers with disabilities. Meanwhile, a theatre company has developed an dedicated accessible performance for individuals with autism and intellectual disabilities, offering an inclusive cultural experience. In Ireland, advocates are questioning whether the Basic Income for the Arts scheme adequately supports artists with disabilities, examining potential barriers to participation and whether the program truly addresses the needs of disabled creators.",
+    "title": "Through the Student Lens festival presents assorted work, boosts film accessibility",
+    "summary": "The Through the Student Lens festival showcases various films while enhancing accessibility features for viewers with disabilities.",
     "highlights": [
       {
         "title": "Through the Student Lens festival presents assorted work, boosts film accessibility",
         "slug": "through-the-student-lens-festival-presents-assorted-work-boosts-film-accessibili-d8399623"
-      },
-      {
-        "title": "Theatre company creates accessible show for people with autism, intellectual disabilities",
-        "slug": "theatre-company-creates-accessible-show-for-people-with-autism-intellectual-disa-aec84162"
-      },
-      {
-        "title": "Basic Income for the Arts: how accessible is it for artists with disabilities? - The Irish Times",
-        "slug": "basic-income-for-the-arts-how-accessible-is-it-for-artists-with-disabilities-the-bdc9be9f"
       }
     ]
   },
   "zh-TW": {
-    "title": "無障礙新聞摘要：電影節提升無障礙服務、劇團創建包容性演出、愛爾蘭藝術津貼存疑",
-    "summary": "三則新聞突顯殘疾人無障礙在藝術和文化領域的進展與挑戰。「透過學生鏡頭」電影節展示多樣化電影的同時，也為殘障觀眾實施了強化的無障礙功能。同時，一個劇團專門為自閉症和智障人士開發了無障礙表演，提供包容性的文化體驗。在愛爾蘭，倡議者正在質疑藝術基本收入計劃是否充分支持殘疾藝術家，檢視潛在的參與障礙以及該計劃是否真正滿足殘疾創作者的需求。",
+    "title": "「透過學生鏡頭」電影節呈現多樣作品並提升電影無障礙",
+    "summary": "「透過學生鏡頭」電影節展示各種電影，同時為殘障觀眾增強無障礙功能。",
     "highlights": [
       {
         "title": "「透過學生鏡頭」電影節呈現多樣作品並提升電影無障礙",
         "slug": "through-the-student-lens-festival-presents-assorted-work-boosts-film-accessibili-zh-d8399623"
-      },
-      {
-        "title": "劇團為自閉症和智障人士製作無障礙演出",
-        "slug": "theatre-company-creates-accessible-show-for-people-with-autism-intellectual-disa-zh-aec84162"
-      },
-      {
-        "title": "藝術基本收入：對殘疾藝術家來說是否無障礙？- The Irish Times",
-        "slug": "basic-income-for-the-arts-how-accessible-is-it-for-artists-with-disabilities-the-zh-bdc9be9f"
       }
     ]
   }
