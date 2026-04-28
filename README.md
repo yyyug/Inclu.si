@@ -218,6 +218,7 @@ If you run these scripts at build time (not recommended), add corresponding secr
 - `OLLAMA_API_KEY`
 - `OLLAMA_BASE_URL` (for example `https://ollama.cloud/v1`)
 - `OLLAMA_MODEL` (for example `llama3.1:8b-instruct`)
+- `NEWS_API_KEY`
 
 4. Ensure Actions are enabled in `Settings -> Actions`.
 5. Manually run workflows once from the `Actions` tab:
