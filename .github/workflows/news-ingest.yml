@@ -88,12 +88,12 @@ jobs:
 
       - name: Commit generated content
         run: |
-          if git diff --quiet src/data/news; then
+          git add src/data/news
+          if git diff --cached --quiet; then
             echo "No changes to commit"
           else
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add src/data/news
             git commit -m "chore: ingest accessibility news"
             for attempt in 1 2 3; do
               if git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
