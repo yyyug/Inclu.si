@@ -1,14 +1,24 @@
 {
   "date": "2026-04-29",
-  "generatedAt": "2026-04-29T01:25:00.928Z",
+  "generatedAt": "2026-04-29T01:32:29.356Z",
   "en": {
-    "title": "Daily Accessibility Digest",
-    "summary": "",
-    "highlights": []
+    "title": "South coast path work to improve accessibility",
+    "summary": "Improvements are underway on the South Coast path to enhance accessibility for pedestrians, including those with mobility challenges.",
+    "highlights": [
+      {
+        "title": "South coast path work to improve accessibility",
+        "slug": "south-coast-path-work-to-improve-accessibility-938ebe8b"
+      }
+    ]
   },
   "zh-TW": {
-    "title": "每日無障礙摘要",
-    "summary": "",
-    "highlights": []
+    "title": "南海岸步道改善工程以提升無障礙通行性",
+    "summary": "南海岸步道正進行改善工程，以提升行人（尤其是行動不便者）的無障礙通行性。",
+    "highlights": [
+      {
+        "title": "南海岸步道改善工程以提升無障礙通行性",
+        "slug": "south-coast-path-work-to-improve-accessibility-zh-938ebe8b"
+      }
+    ]
   }
 }
