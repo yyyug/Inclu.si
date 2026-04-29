@@ -16,14 +16,17 @@ const OLLAMA_API_KEY = requireEnv('OLLAMA_API_KEY');
 const OLLAMA_MODEL = requireEnv('OLLAMA_MODEL');
 const DIGEST_DATE = process.env.DIGEST_DATE ?? new Date().toISOString().slice(0, 10);
 const OLLAMA_TIMEOUT_MS = Number(process.env.OLLAMA_TIMEOUT_MS ?? 60000);
-const DIGEST_LOOKBACK_DAYS = Number(process.env.DIGEST_LOOKBACK_DAYS ?? 2);
+const DIGEST_LOOKBACK_HOURS = Number(
+  process.env.DIGEST_LOOKBACK_HOURS
+  ?? (Number(process.env.DIGEST_LOOKBACK_DAYS ?? 1) * 24),
+);
 const DIGEST_MIN_HIGHLIGHTS = 3;
 const DIGEST_MAX_HIGHLIGHTS = 5;
 
 async function loadRecentPublishedArticles() {
   const rows = [];
   const digestBaseTime = new Date(`${DIGEST_DATE}T23:59:59.999Z`).getTime();
-  const lookbackMs = DIGEST_LOOKBACK_DAYS * 24 * 60 * 60 * 1000;
+  const lookbackMs = Math.max(1, DIGEST_LOOKBACK_HOURS) * 60 * 60 * 1000;
   const cutoffTime = digestBaseTime - lookbackMs;
 
   let files = [];
@@ -63,46 +66,63 @@ async function loadRecentPublishedArticles() {
   return rows.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
-function pickHighlights(rows, lang) {
-  const byLang = rows.filter((item) => item.lang === lang);
-  const today = byLang.filter((item) => item.publishedAt.startsWith(DIGEST_DATE));
+function normalizeHighlightSlugs(candidates, requestedSlugs) {
+  const allowed = new Set(candidates.map((item) => item.slug));
+  const selected = [];
 
-  const picked = [...today.slice(0, DIGEST_MAX_HIGHLIGHTS)];
-  if (picked.length >= DIGEST_MIN_HIGHLIGHTS) {
-    return picked.slice(0, DIGEST_MAX_HIGHLIGHTS);
+  for (const slug of requestedSlugs) {
+    if (!allowed.has(slug)) continue;
+    if (selected.includes(slug)) continue;
+    selected.push(slug);
+    if (selected.length >= DIGEST_MAX_HIGHLIGHTS) break;
   }
 
-  for (const item of byLang) {
-    if (picked.length >= DIGEST_MIN_HIGHLIGHTS) {
-      break;
-    }
-    if (!picked.some((existing) => existing.slug === item.slug)) {
-      picked.push(item);
+  if (selected.length < DIGEST_MIN_HIGHLIGHTS) {
+    for (const item of candidates) {
+      if (!selected.includes(item.slug)) {
+        selected.push(item.slug);
+      }
+      if (selected.length >= DIGEST_MIN_HIGHLIGHTS) break;
     }
   }
 
-  return picked.slice(0, DIGEST_MAX_HIGHLIGHTS);
+  return selected.slice(0, DIGEST_MAX_HIGHLIGHTS);
 }
 
-async function askOllama(enRows, zhRows) {
+async function askOllama(enCandidates, zhCandidates) {
   if (!OLLAMA_API_KEY) {
     throw new Error('Missing OLLAMA_API_KEY.');
   }
 
-  const topEn = enRows.slice(0, 8);
-  const topZh = zhRows.slice(0, 8);
+  const enPayload = enCandidates.map((item) => ({
+    slug: item.slug,
+    title: item.title,
+    category: item.category,
+    summary: item.summary,
+    publishedAt: item.publishedAt,
+  }));
+
+  const zhPayload = zhCandidates.map((item) => ({
+    slug: item.slug,
+    title: item.title,
+    category: item.category,
+    summary: item.summary,
+    publishedAt: item.publishedAt,
+  }));
 
   const prompt = [
     'You are an accessibility news editor.',
-    'Create one daily digest in English and Traditional Chinese from the provided stories.',
-    'Return strict JSON only with keys: enTitle, enSummary, zhTitle, zhSummary.',
+    'Create one daily digest in English and Traditional Chinese from the provided stories from the lookback window.',
+    `For each language, choose ${DIGEST_MIN_HIGHLIGHTS} to ${DIGEST_MAX_HIGHLIGHTS} most important stories.`,
+    'Return strict JSON only with keys: enTitle, enSummary, zhTitle, zhSummary, enHighlightSlugs, zhHighlightSlugs.',
+    'enHighlightSlugs and zhHighlightSlugs must be arrays of slug strings from the provided candidate lists only.',
     `Digest date: ${DIGEST_DATE}`,
     '',
-    'English stories:',
-    ...topEn.map((item, index) => `${index + 1}. ${item.title} | ${item.category} | ${item.summary}`),
+    'English candidate stories:',
+    JSON.stringify(enPayload),
     '',
-    'Traditional Chinese stories:',
-    ...topZh.map((item, index) => `${index + 1}. ${item.title} | ${item.category} | ${item.summary}`),
+    'Traditional Chinese candidate stories:',
+    JSON.stringify(zhPayload),
   ].join('\n');
 
   let response;
@@ -157,20 +177,30 @@ async function askOllama(enRows, zhRows) {
     en: {
       title: String(parsed.enTitle || 'Daily Accessibility Digest'),
       summary: String(parsed.enSummary || ''),
-      highlights: enRows.slice(0, DIGEST_MAX_HIGHLIGHTS).map((item) => ({ title: item.title, slug: item.slug })),
+      highlights: normalizeHighlightSlugs(enCandidates, Array.isArray(parsed.enHighlightSlugs) ? parsed.enHighlightSlugs.map((slug) => String(slug)) : [])
+        .map((slug) => {
+          const item = enCandidates.find((row) => row.slug === slug);
+          return item ? { title: item.title, slug: item.slug } : null;
+        })
+        .filter(Boolean),
     },
     'zh-TW': {
       title: String(parsed.zhTitle || '每日無障礙摘要'),
       summary: String(parsed.zhSummary || ''),
-      highlights: zhRows.slice(0, DIGEST_MAX_HIGHLIGHTS).map((item) => ({ title: item.title, slug: item.slug })),
+      highlights: normalizeHighlightSlugs(zhCandidates, Array.isArray(parsed.zhHighlightSlugs) ? parsed.zhHighlightSlugs.map((slug) => String(slug)) : [])
+        .map((slug) => {
+          const item = zhCandidates.find((row) => row.slug === slug);
+          return item ? { title: item.title, slug: item.slug } : null;
+        })
+        .filter(Boolean),
     },
   };
 }
 
 async function main() {
   const rows = await loadRecentPublishedArticles();
-  const enRows = pickHighlights(rows, 'en');
-  const zhRows = pickHighlights(rows, 'zh-TW');
+  const enRows = rows.filter((item) => item.lang === 'en');
+  const zhRows = rows.filter((item) => item.lang === 'zh-TW');
 
   const digest = await askOllama(enRows, zhRows);
   const output = {
