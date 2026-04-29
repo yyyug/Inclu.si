@@ -45,6 +45,36 @@ jobs:
           if-no-files-found: ignore
           retention-days: 2
 
+      - name: Build concise run summary
+        if: always()
+        shell: bash
+        run: |
+          {
+            echo "workflow: daily-digest"
+            echo "run_id: ${{ github.run_id }}"
+            echo "run_attempt: ${{ github.run_attempt }}"
+            echo "job_status: ${{ job.status }}"
+            echo "ref: ${{ github.ref_name }}"
+            echo "sha: ${{ github.sha }}"
+            echo "generated_at_utc: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            if [ -f digest.log ]; then
+              echo "log_tail:"
+              tail -n 60 digest.log
+            else
+              echo "log_tail: digest.log not found"
+            fi
+          } > digest-summary.txt
+
+      - name: Upload concise run summary
+        if: always()
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: digest-summary-${{ github.run_id }}
+          path: digest-summary.txt
+          if-no-files-found: ignore
+          retention-days: 2
+
       - name: Commit digest output
         run: |
           if git diff --quiet src/data/daily-digest.json; then

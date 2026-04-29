@@ -56,6 +56,36 @@ jobs:
           if-no-files-found: ignore
           retention-days: 2
 
+      - name: Build concise run summary
+        if: always()
+        shell: bash
+        run: |
+          {
+            echo "workflow: news-ingest"
+            echo "run_id: ${{ github.run_id }}"
+            echo "run_attempt: ${{ github.run_attempt }}"
+            echo "job_status: ${{ job.status }}"
+            echo "ref: ${{ github.ref_name }}"
+            echo "sha: ${{ github.sha }}"
+            echo "generated_at_utc: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            if [ -f ingest.log ]; then
+              echo "log_tail:"
+              tail -n 60 ingest.log
+            else
+              echo "log_tail: ingest.log not found"
+            fi
+          } > ingest-summary.txt
+
+      - name: Upload concise run summary
+        if: always()
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: ingest-summary-${{ github.run_id }}
+          path: ingest-summary.txt
+          if-no-files-found: ignore
+          retention-days: 2
+
       - name: Commit generated content
         run: |
           if git diff --quiet src/data/news; then
