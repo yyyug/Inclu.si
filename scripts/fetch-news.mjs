@@ -34,6 +34,8 @@ const OLLAMA_API_KEY = requireEnv('OLLAMA_API_KEY');
 const OLLAMA_MODEL = requireEnv('OLLAMA_MODEL');
 const MAX_ITEMS_PER_RUN = Math.max(1, Number(process.env.MAX_ITEMS_PER_RUN ?? 10));
 const OLLAMA_TIMEOUT_MS = Number(process.env.OLLAMA_TIMEOUT_MS ?? 60000);
+const OLLAMA_MAX_TOKENS = Number(process.env.OLLAMA_MAX_TOKENS ?? 2048);
+const OLLAMA_MAX_RETRIES = Number(process.env.OLLAMA_MAX_RETRIES ?? 3);
 const BATCH_SIZE = Math.min(5, Math.max(3, Number(process.env.BATCH_SIZE ?? 3)));
 
 const CATEGORY_KEYS = [
@@ -514,6 +516,23 @@ async function readExistingKeys() {
   return keys;
 }
 
+async function retryOllama(fn, batchIndex) {
+  let lastError;
+  for (let attempt = 1; attempt <= OLLAMA_MAX_RETRIES; attempt += 1) {
+    try {
+      return await fn();
+    } catch (err) {
+      lastError = err;
+      if (attempt < OLLAMA_MAX_RETRIES) {
+        const delay = attempt * 2000;
+        console.warn(`[ollama] Batch ${batchIndex} attempt ${attempt} failed (${err.message}). Retrying in ${delay}ms…`);
+        await new Promise((r) => setTimeout(r, delay));
+      }
+    }
+  }
+  throw lastError;
+}
+
 async function askOllamaForBatch(batchItems) {
   if (!OLLAMA_API_KEY) {
     throw new Error('Missing OLLAMA_API_KEY.');
@@ -550,6 +569,7 @@ async function askOllamaForBatch(batchItems) {
       body: JSON.stringify({
         model: OLLAMA_MODEL,
         temperature: 0.2,
+        max_tokens: OLLAMA_MAX_TOKENS,
         messages: [
           {
             role: 'system',
@@ -703,7 +723,7 @@ async function main() {
     let outputs;
 
     try {
-      outputs = await askOllamaForBatch(batch);
+      outputs = await retryOllama(() => askOllamaForBatch(batch), i);
     } catch (error) {
       failed += batch.length;
       console.error(`Failed on batch starting index ${i}`);

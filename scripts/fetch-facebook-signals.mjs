@@ -16,6 +16,8 @@ const OLLAMA_BASE_URL = requireEnv('OLLAMA_BASE_URL').replace(/\/$/, '');
 const OLLAMA_API_KEY = requireEnv('OLLAMA_API_KEY');
 const OLLAMA_MODEL = requireEnv('OLLAMA_MODEL');
 const OLLAMA_TIMEOUT_MS = Number(process.env.OLLAMA_TIMEOUT_MS ?? 60000);
+const OLLAMA_MAX_TOKENS = Number(process.env.OLLAMA_MAX_TOKENS ?? 2048);
+const OLLAMA_MAX_RETRIES = Number(process.env.OLLAMA_MAX_RETRIES ?? 3);
 
 const BRIGHTDATA_API_KEY = requireEnv('BRIGHTDATA_API_KEY');
 const BRIGHTDATA_FACEBOOK_DATASET_ID = String(process.env.BRIGHTDATA_FACEBOOK_DATASET_ID ?? 'gd_lkaxegm826bjpoo9m5').trim();
@@ -227,6 +229,23 @@ function filterCandidates(rawRows, existingSourceUrls) {
     .slice(0, BRIGHTDATA_FACEBOOK_MAX_POSTS);
 }
 
+async function retryOllama(fn, batchIndex) {
+  let lastError;
+  for (let attempt = 1; attempt <= OLLAMA_MAX_RETRIES; attempt += 1) {
+    try {
+      return await fn();
+    } catch (err) {
+      lastError = err;
+      if (attempt < OLLAMA_MAX_RETRIES) {
+        const delay = attempt * 2000;
+        console.warn(`[ollama] Batch ${batchIndex} attempt ${attempt} failed (${err.message}). Retrying in ${delay}ms…`);
+        await new Promise((r) => setTimeout(r, delay));
+      }
+    }
+  }
+  throw lastError;
+}
+
 async function askOllamaForBatch(batchItems) {
   const payload = batchItems.map((entry, index) => ({
     itemId: index,
@@ -258,6 +277,7 @@ async function askOllamaForBatch(batchItems) {
     body: JSON.stringify({
       model: OLLAMA_MODEL,
       temperature: 0.2,
+      max_tokens: OLLAMA_MAX_TOKENS,
       messages: [
         { role: 'system', content: 'Always output valid minified JSON and nothing else.' },
         { role: 'user', content: userPrompt },
@@ -407,7 +427,7 @@ async function main() {
     let outputs;
 
     try {
-      outputs = await askOllamaForBatch(batch);
+      outputs = await retryOllama(() => askOllamaForBatch(batch), i);
     } catch (error) {
       failed += batch.length;
       console.error(`[facebook] Failed on batch starting index ${i}`);
