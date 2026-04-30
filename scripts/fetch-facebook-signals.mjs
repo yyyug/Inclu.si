@@ -24,6 +24,10 @@ const BRIGHTDATA_FACEBOOK_DATASET_ID = String(process.env.BRIGHTDATA_FACEBOOK_DA
 const BRIGHTDATA_FACEBOOK_PAGE_URL = String(process.env.BRIGHTDATA_FACEBOOK_PAGE_URL ?? 'https://www.facebook.com/silence.deaf/').trim();
 const BRIGHTDATA_FACEBOOK_WINDOW_HOURS = Number(process.env.BRIGHTDATA_FACEBOOK_WINDOW_HOURS ?? 24);
 const BRIGHTDATA_FACEBOOK_MAX_POSTS = Math.max(1, Number(process.env.BRIGHTDATA_FACEBOOK_MAX_POSTS ?? 3));
+const BRIGHTDATA_TIMEOUT_MS = Number(process.env.BRIGHTDATA_TIMEOUT_MS ?? 180000);
+const BRIGHTDATA_MAX_RETRIES = Number(process.env.BRIGHTDATA_MAX_RETRIES ?? 3);
+const BRIGHTDATA_POLL_INTERVAL_MS = Number(process.env.BRIGHTDATA_POLL_INTERVAL_MS ?? 5000);
+const BRIGHTDATA_MAX_POLL_ATTEMPTS = Number(process.env.BRIGHTDATA_MAX_POLL_ATTEMPTS ?? 36);
 
 function normalizeUrl(rawUrl) {
   try {
@@ -159,28 +163,106 @@ async function readExistingSourceUrls() {
 
 async function fetchFacebookPagePosts() {
   const endpoint = `https://api.brightdata.com/datasets/v3/scrape?dataset_id=${encodeURIComponent(BRIGHTDATA_FACEBOOK_DATASET_ID)}&format=json`;
+  const progressEndpoint = 'https://api.brightdata.com/datasets/v3/progress';
+  const snapshotEndpoint = 'https://api.brightdata.com/datasets/v3/snapshot';
 
-  const response = await fetch(endpoint, {
-    method: 'POST',
-    headers: {
-      Authorization: `Bearer ${BRIGHTDATA_API_KEY}`,
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify([{ url: BRIGHTDATA_FACEBOOK_PAGE_URL }]),
-    signal: AbortSignal.timeout(60000),
-  });
+  const downloadSnapshotRows = async (snapshotId) => {
+    for (let poll = 1; poll <= BRIGHTDATA_MAX_POLL_ATTEMPTS; poll += 1) {
+      const progressResp = await fetch(`${progressEndpoint}/${encodeURIComponent(snapshotId)}`, {
+        method: 'GET',
+        headers: {
+          Authorization: `Bearer ${BRIGHTDATA_API_KEY}`,
+        },
+        signal: AbortSignal.timeout(BRIGHTDATA_TIMEOUT_MS),
+      });
 
-  if (!response.ok) {
-    const text = await response.text();
-    throw new Error(`Bright Data Facebook scrape failed: ${response.status} ${text}`);
+      if (!progressResp.ok) {
+        const text = await progressResp.text();
+        throw new Error(`Bright Data progress check failed: ${progressResp.status} ${text}`);
+      }
+
+      const progress = await progressResp.json();
+      const status = String(progress?.status ?? '').toLowerCase();
+
+      if (status === 'failed') {
+        throw new Error(`Bright Data snapshot failed: ${JSON.stringify(progress)}`);
+      }
+
+      const snapshotResp = await fetch(`${snapshotEndpoint}/${encodeURIComponent(snapshotId)}`, {
+        method: 'GET',
+        headers: {
+          Authorization: `Bearer ${BRIGHTDATA_API_KEY}`,
+        },
+        signal: AbortSignal.timeout(BRIGHTDATA_TIMEOUT_MS),
+      });
+
+      if (snapshotResp.status === 202) {
+        if (poll < BRIGHTDATA_MAX_POLL_ATTEMPTS) {
+          await new Promise((r) => setTimeout(r, BRIGHTDATA_POLL_INTERVAL_MS));
+          continue;
+        }
+        const text = await snapshotResp.text();
+        throw new Error(`Bright Data snapshot still not ready after polling: ${text}`);
+      }
+
+      if (!snapshotResp.ok) {
+        const text = await snapshotResp.text();
+        throw new Error(`Bright Data snapshot download failed: ${snapshotResp.status} ${text}`);
+      }
+
+      const data = await snapshotResp.json();
+      if (!Array.isArray(data)) {
+        throw new Error('Bright Data snapshot download returned non-array payload.');
+      }
+
+      return data;
+    }
+
+    throw new Error('Bright Data snapshot polling exhausted.');
+  };
+
+  let lastError;
+
+  for (let attempt = 1; attempt <= BRIGHTDATA_MAX_RETRIES; attempt += 1) {
+    try {
+      const response = await fetch(endpoint, {
+        method: 'POST',
+        headers: {
+          Authorization: `Bearer ${BRIGHTDATA_API_KEY}`,
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify([{ url: BRIGHTDATA_FACEBOOK_PAGE_URL }]),
+        signal: AbortSignal.timeout(BRIGHTDATA_TIMEOUT_MS),
+      });
+
+      if (!response.ok) {
+        const text = await response.text();
+        throw new Error(`Bright Data Facebook scrape failed: ${response.status} ${text}`);
+      }
+
+      const data = await response.json();
+      if (Array.isArray(data)) {
+        return data;
+      }
+
+      const snapshotId = String(data?.snapshot_id ?? '').trim();
+      if (snapshotId) {
+        console.log(`[facebook] BrightData snapshot_id=${snapshotId}`);
+        return await downloadSnapshotRows(snapshotId);
+      }
+
+      throw new Error(`Bright Data Facebook scrape returned unsupported payload: ${JSON.stringify(data).slice(0, 400)}`);
+    } catch (error) {
+      lastError = error;
+      if (attempt < BRIGHTDATA_MAX_RETRIES) {
+        const delay = attempt * 3000;
+        console.warn(`[facebook] BrightData attempt ${attempt} failed (${error?.message ?? 'unknown'}). Retrying in ${delay}ms...`);
+        await new Promise((r) => setTimeout(r, delay));
+      }
+    }
   }
 
-  const data = await response.json();
-  if (!Array.isArray(data)) {
-    throw new Error('Bright Data Facebook scrape returned non-array payload.');
-  }
-
-  return data;
+  throw lastError;
 }
 
 function inferCandidate(row) {
