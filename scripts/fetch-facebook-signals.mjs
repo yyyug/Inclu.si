@@ -16,7 +16,7 @@ const OLLAMA_BASE_URL = requireEnv('OLLAMA_BASE_URL').replace(/\/$/, '');
 const OLLAMA_API_KEY = requireEnv('OLLAMA_API_KEY');
 const OLLAMA_MODEL = requireEnv('OLLAMA_MODEL');
 const OLLAMA_TIMEOUT_MS = Number(process.env.OLLAMA_TIMEOUT_MS ?? 60000);
-const OLLAMA_MAX_TOKENS = Number(process.env.OLLAMA_MAX_TOKENS ?? 2048);
+const OLLAMA_MAX_TOKENS = Number(process.env.OLLAMA_MAX_TOKENS ?? 4096);
 const OLLAMA_MAX_RETRIES = Number(process.env.OLLAMA_MAX_RETRIES ?? 3);
 
 const BRIGHTDATA_API_KEY = requireEnv('BRIGHTDATA_API_KEY');

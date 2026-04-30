@@ -14,9 +14,6 @@ const description = isZh
   ? '若你有無障礙新聞來源建議，歡迎透過表單聯絡 Inclu.si 團隊。'
   : 'Share accessibility news source suggestions with the Inclu.si team.';
 const backHref = localeBasePath(locale);
-
-const resendApiKey = 're_QAc5pLFA_8zcshRGkfNdQxEvxvCjSnbr5';
-const resendToEmail = 'yoofun@gmail.com';
 ---
 
 <Layout locale={locale} title={`${title} | Inclu.si`} description={description}>
@@ -33,7 +30,7 @@ const resendToEmail = 'yoofun@gmail.com';
           : 'Have a source recommendation, account, or topic tip? Send it here.'}
       </p>
 
-      <form id="contact-form" class="mt-8 grid gap-4" data-locale={locale} data-resend-api-key={resendApiKey} data-resend-to={resendToEmail}>
+      <form id="contact-form" class="mt-8 grid gap-4" data-locale={locale}>
         <label class="grid gap-2">
           <span class="text-sm font-semibold text-slate-700">{isZh ? '姓名' : 'Name'}</span>
           <input
@@ -96,9 +93,6 @@ const resendToEmail = 'yoofun@gmail.com';
         event.preventDefault();
 
         const locale = form.getAttribute('data-locale') || 'en';
-        const resendApiKey = form.getAttribute('data-resend-api-key') || '';
-        const resendTo = form.getAttribute('data-resend-to') || '';
-
         const formData = new FormData(form);
         const name = String(formData.get('name') || '').trim();
         const email = String(formData.get('email') || '').trim();
@@ -113,32 +107,18 @@ const resendToEmail = 'yoofun@gmail.com';
         submitButton.setAttribute('disabled', 'disabled');
         statusEl.textContent = locale === 'zh-TW' ? '傳送中...' : 'Sending...';
 
-        const subject = locale === 'zh-TW'
-          ? '[Inclu.si] 新的聯絡表單訊息'
-          : '[Inclu.si] New contact form message';
-
-        const bodyLines = [
-          `Name: ${name}`,
-          `Email: ${email}`,
-          `Locale: ${locale}`,
-          '',
-          'Message:',
-          message,
-        ];
-
         try {
-          const response = await fetch('https://api.resend.com/emails', {
+          const response = await fetch('/api/contact', {
             method: 'POST',
             headers: {
-              Authorization: `Bearer ${resendApiKey}`,
               'Content-Type': 'application/json',
             },
             body: JSON.stringify({
-              from: 'Inclu.si Contact <onboarding@resend.dev>',
-              to: [resendTo],
-              reply_to: email,
-              subject,
-              text: bodyLines.join('\n'),
+              locale,
+              name,
+              email,
+              message,
+              company,
             }),
           });
 
