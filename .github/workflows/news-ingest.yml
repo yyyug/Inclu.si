@@ -26,6 +26,8 @@ jobs:
         run: npm ci
 
       - name: Fetch, generate, and cluster stories
+        id: news_ingest
+        continue-on-error: true
         shell: bash
         run: |
           set -o pipefail
@@ -89,6 +91,7 @@ jobs:
           retention-days: 2
 
       - name: Commit generated content
+        if: always()
         run: |
           git add src/data/news
           if git diff --cached --quiet; then
@@ -106,3 +109,9 @@ jobs:
             echo "Failed to push changes after retries"
             exit 1
           fi
+
+      - name: Report step outcomes
+        if: always()
+        shell: bash
+        run: |
+          echo "news_ingest=${{ steps.news_ingest.outcome }}"

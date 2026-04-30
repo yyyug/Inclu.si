@@ -11,6 +11,29 @@ permissions:
 jobs:
   ingest:
     runs-on: ubuntu-latest
+    env:
+      APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+      APIFY_ACTOR_ID: ${{ vars.APIFY_ACTOR_ID }}
+      BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
+      BRIGHTDATA_FACEBOOK_DATASET_ID: gd_lkaxegm826bjpoo9m5
+      BRIGHTDATA_FACEBOOK_PAGE_URL: https://www.facebook.com/silence.deaf/
+      BRIGHTDATA_FACEBOOK_WINDOW_HOURS: 24
+      BRIGHTDATA_FACEBOOK_MAX_POSTS: 3
+      A11Y_TWEET_DEBUG: 1
+      A11Y_TWEET_QUERY: ""
+      A11Y_TWEET_KEYWORDS: a11y,accessibility,inclusion
+      A11Y_TWEET_ACCOUNTS: BlindNewWorld,UCBInfo
+      A11Y_TWEET_WINDOW_HOURS: 24
+      A11Y_TWEET_MAX_ITEMS: 100
+      A11Y_TWEET_LANGUAGES: en,zh,ja,ko
+      OLLAMA_API_KEY: ${{ secrets.OLLAMA_API_KEY }}
+      OLLAMA_BASE_URL: ${{ secrets.OLLAMA_BASE_URL }}
+      OLLAMA_MODEL: nemotron-3-super:cloud
+      OLLAMA_MAX_TOKENS: 4096
+      OLLAMA_MAX_RETRIES: 3
+      BATCH_SIZE: 3
+      CLUSTER_SIMILARITY_THRESHOLD: 0.72
+      CLUSTER_MAX_HOURS_DIFF: 36
 
     steps:
       - name: Checkout
@@ -25,39 +48,34 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Fetch and cluster a11y tweets
+      - name: Fetch a11y tweets
+        id: tweets_ingest
+        continue-on-error: true
         shell: bash
         run: |
           set -o pipefail
           npm run tweets:ingest 2>&1 | tee tweets-ingest.log
+
+      - name: Fetch facebook signals
+        id: facebook_ingest
+        if: always()
+        continue-on-error: true
+        shell: bash
+        run: |
+          set -o pipefail
           npm run facebook:ingest 2>&1 | tee -a tweets-ingest.log
+
+      - name: Cluster stories
+        id: cluster_ingest
+        if: always()
+        continue-on-error: true
+        shell: bash
+        run: |
+          set -o pipefail
           npm run news:cluster 2>&1 | tee -a tweets-ingest.log
-        env:
-          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
-          APIFY_ACTOR_ID: ${{ vars.APIFY_ACTOR_ID }}
-          BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
-          BRIGHTDATA_FACEBOOK_DATASET_ID: gd_lkaxegm826bjpoo9m5
-          BRIGHTDATA_FACEBOOK_PAGE_URL: https://www.facebook.com/silence.deaf/
-          BRIGHTDATA_FACEBOOK_WINDOW_HOURS: 24
-          BRIGHTDATA_FACEBOOK_MAX_POSTS: 3
-          A11Y_TWEET_DEBUG: 1
-          A11Y_TWEET_QUERY: ""
-          A11Y_TWEET_KEYWORDS: a11y,accessibility,inclusion
-          A11Y_TWEET_ACCOUNTS: BlindNewWorld,UCBInfo
-          A11Y_TWEET_WINDOW_HOURS: 24
-          A11Y_TWEET_MAX_ITEMS: 100
-          A11Y_TWEET_LANGUAGES: en,zh,ja,ko
-          OLLAMA_API_KEY: ${{ secrets.OLLAMA_API_KEY }}
-          OLLAMA_BASE_URL: ${{ secrets.OLLAMA_BASE_URL }}
-          OLLAMA_MODEL: nemotron-3-super:cloud
-          OLLAMA_MAX_TOKENS: 4096
-          OLLAMA_MAX_RETRIES: 3
-          BATCH_SIZE: 3
-          CLUSTER_SIMILARITY_THRESHOLD: 0.72
-          CLUSTER_MAX_HOURS_DIFF: 36
 
       - name: Upload tweet ingest log artifact
-        if: failure()
+        if: always()
         continue-on-error: true
         uses: actions/upload-artifact@v4
         with:
@@ -97,6 +115,7 @@ jobs:
           retention-days: 2
 
       - name: Commit generated content
+        if: always()
         run: |
           git add src/data/news
           if git diff --cached --quiet; then
@@ -114,3 +133,11 @@ jobs:
             echo "Failed to push changes after retries"
             exit 1
           fi
+
+      - name: Report step outcomes
+        if: always()
+        shell: bash
+        run: |
+          echo "tweets_ingest=${{ steps.tweets_ingest.outcome }}"
+          echo "facebook_ingest=${{ steps.facebook_ingest.outcome }}"
+          echo "cluster_ingest=${{ steps.cluster_ingest.outcome }}"

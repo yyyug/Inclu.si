@@ -26,6 +26,8 @@ jobs:
         run: npm ci
 
       - name: Generate daily digest
+        id: daily_digest
+        continue-on-error: true
         shell: bash
         run: |
           set -o pipefail
@@ -77,6 +79,7 @@ jobs:
           retention-days: 2
 
       - name: Commit digest output
+        if: always()
         run: |
           if git diff --quiet src/data/daily-digest.json; then
             echo "No digest updates"
@@ -94,3 +97,9 @@ jobs:
             echo "Failed to push changes after retries"
             exit 1
           fi
+
+      - name: Report step outcomes
+        if: always()
+        shell: bash
+        run: |
+          echo "daily_digest=${{ steps.daily_digest.outcome }}"
