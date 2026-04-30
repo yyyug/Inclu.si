@@ -137,6 +137,14 @@ function sourceNameFromUrl(rawUrl) {
   }
 }
 
+function sourceHostname(rawUrl) {
+  try {
+    return new URL(rawUrl).hostname.replace(/^www\./i, '');
+  } catch {
+    return '';
+  }
+}
+
 function normalizeTitleKey(value) {
   return String(value ?? '').replace(/\s+/g, ' ').trim().toLowerCase();
 }
@@ -256,11 +264,21 @@ async function collectCandidatesFromRss({ parser, decoder, existing }) {
   let failed = 0;
 
   for (const feedUrl of GOOGLE_NEWS_RSS_URLS) {
-    const sourceMap = await readSourceMapFromRssXml(feedUrl);
+    let sourceMap = new Map();
+    let feed;
+    let items = [];
 
-    console.log(`Fetching RSS: ${feedUrl}`);
-    const feed = await parser.parseURL(feedUrl);
-    const items = (feed.items ?? []).slice(0, MAX_ITEMS_PER_RUN);
+    try {
+      sourceMap = await readSourceMapFromRssXml(feedUrl);
+      console.log(`Fetching RSS: ${feedUrl}`);
+      feed = await parser.parseURL(feedUrl);
+      items = (feed.items ?? []).slice(0, MAX_ITEMS_PER_RUN);
+    } catch (error) {
+      failed += 1;
+      console.error(`Failed to fetch RSS feed: ${feedUrl}`);
+      console.error(error);
+      continue;
+    }
 
     for (const item of items) {
       const title = String(item.title ?? '').trim().toLowerCase();
@@ -295,6 +313,9 @@ async function collectCandidatesFromRss({ parser, decoder, existing }) {
             sourceUrl,
             queryRegion,
           }),
+          ingestType: 'rss',
+          ingestSource: normalizeUrl(feedUrl),
+          ingestProvider: sourceHostname(feedUrl),
         });
       } catch (error) {
         failed += 1;
@@ -380,6 +401,9 @@ async function collectCandidatesFromNewsApi({ existing }) {
           title: normalizedTitle,
           queryRegion,
           sourceCountry: pickSourceCountry({ sourceUrl, queryRegion }),
+          ingestType: 'newsapi',
+          ingestSource: 'newsapi.org',
+          ingestProvider: sourceHostname(NEWS_API_BASE_URL),
         });
       } catch (error) {
         failed += 1;
@@ -579,7 +603,7 @@ async function askOllamaForBatch(batchItems) {
   }));
 }
 
-async function writeStoryPair(item, ai, sourceName, sourceUrl, sourceCountry, queryRegion) {
+async function writeStoryPair(item, ai, sourceName, sourceUrl, sourceCountry, queryRegion, ingestMeta = {}) {
   const canonicalUrl = normalizeUrl(sourceUrl);
   const publishedAt = toIsoDate(item.isoDate ?? item.pubDate);
   const fetchedAt = new Date().toISOString();
@@ -603,6 +627,9 @@ async function writeStoryPair(item, ai, sourceName, sourceUrl, sourceCountry, qu
     sourceCountry: sourceCountry ?? null,
     queryRegion: queryRegion ?? null,
     region: queryRegion ?? null,
+    ingestType: String(ingestMeta.ingestType ?? ''),
+    ingestSource: String(ingestMeta.ingestSource ?? ''),
+    ingestProvider: String(ingestMeta.ingestProvider ?? ''),
     clusterId,
     status: 'published',
     translationOf: zhSlug,
@@ -624,6 +651,9 @@ async function writeStoryPair(item, ai, sourceName, sourceUrl, sourceCountry, qu
     sourceCountry: sourceCountry ?? null,
     queryRegion: queryRegion ?? null,
     region: queryRegion ?? null,
+    ingestType: String(ingestMeta.ingestType ?? ''),
+    ingestSource: String(ingestMeta.ingestSource ?? ''),
+    ingestProvider: String(ingestMeta.ingestProvider ?? ''),
     clusterId,
     status: 'published',
     translationOf: enSlug,
@@ -709,6 +739,11 @@ async function main() {
           entry.sourceUrl,
           entry.sourceCountry,
           entry.queryRegion,
+          {
+            ingestType: entry.ingestType,
+            ingestSource: entry.ingestSource,
+            ingestProvider: entry.ingestProvider,
+          },
         );
         existing.add(`url:${result.canonicalUrl}`);
         existing.add(`title:${entry.title}`);

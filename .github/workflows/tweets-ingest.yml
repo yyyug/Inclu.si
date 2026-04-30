@@ -30,10 +30,16 @@ jobs:
         run: |
           set -o pipefail
           npm run tweets:ingest 2>&1 | tee tweets-ingest.log
+          npm run facebook:ingest 2>&1 | tee -a tweets-ingest.log
           npm run news:cluster 2>&1 | tee -a tweets-ingest.log
         env:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
           APIFY_ACTOR_ID: ${{ vars.APIFY_ACTOR_ID }}
+          BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
+          BRIGHTDATA_FACEBOOK_DATASET_ID: gd_lkaxegm826bjpoo9m5
+          BRIGHTDATA_FACEBOOK_PAGE_URL: https://www.facebook.com/silence.deaf/
+          BRIGHTDATA_FACEBOOK_WINDOW_HOURS: 24
+          BRIGHTDATA_FACEBOOK_MAX_POSTS: 3
           A11Y_TWEET_DEBUG: 1
           A11Y_TWEET_QUERY: ""
           A11Y_TWEET_KEYWORDS: a11y,accessibility,inclusion
@@ -55,6 +61,36 @@ jobs:
         with:
           name: tweet-ingest-log-${{ github.run_id }}
           path: tweets-ingest.log
+          if-no-files-found: ignore
+          retention-days: 2
+
+      - name: Build concise run summary
+        if: always()
+        shell: bash
+        run: |
+          {
+            echo "workflow: tweets-ingest"
+            echo "run_id: ${{ github.run_id }}"
+            echo "run_attempt: ${{ github.run_attempt }}"
+            echo "job_status: ${{ job.status }}"
+            echo "ref: ${{ github.ref_name }}"
+            echo "sha: ${{ github.sha }}"
+            echo "generated_at_utc: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            if [ -f tweets-ingest.log ]; then
+              echo "log_tail:"
+              tail -n 60 tweets-ingest.log
+            else
+              echo "log_tail: tweets-ingest.log not found"
+            fi
+          } > tweets-ingest-summary.txt
+
+      - name: Upload concise run summary
+        if: always()
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: tweets-ingest-summary-${{ github.run_id }}
+          path: tweets-ingest-summary.txt
           if-no-files-found: ignore
           retention-days: 2
 

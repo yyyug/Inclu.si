@@ -17,6 +17,9 @@ export interface NewsData {
   sourceCountry?: string;
   queryRegion?: string;
   region?: string;
+  ingestType?: string;
+  ingestSource?: string;
+  ingestProvider?: string;
   clusterId: string;
   status: 'draft' | 'published' | 'archived' | 'deleted';
   translationOf?: string;
@@ -43,6 +46,9 @@ interface RawNewsRecord {
   sourceCountry?: string | null;
   queryRegion?: string | null;
   region?: string | null;
+  ingestType?: string | null;
+  ingestSource?: string | null;
+  ingestProvider?: string | null;
   clusterId: string;
   status?: 'draft' | 'published' | 'archived' | 'deleted';
   translationOf?: string;
@@ -85,6 +91,9 @@ function normalizeRecord(raw: RawNewsRecord): NewsEntry | null {
       sourceCountry: raw.sourceCountry ?? undefined,
       queryRegion: raw.queryRegion ?? undefined,
       region: raw.region ?? undefined,
+      ingestType: raw.ingestType ?? undefined,
+      ingestSource: raw.ingestSource ?? undefined,
+      ingestProvider: raw.ingestProvider ?? undefined,
       clusterId: String(raw.clusterId ?? ''),
       status: raw.status ?? 'published',
       translationOf: raw.translationOf,

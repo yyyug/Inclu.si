@@ -574,6 +574,9 @@ async function writeStoryPair(entry, ai) {
     sourceName,
     sourceUrl: canonicalTweetUrl,
     relatedSources,
+    ingestType: 'x',
+    ingestSource: 'x.com',
+    ingestProvider: 'x.com',
     clusterId,
     status: 'published',
     translationOf: zhSlug,
@@ -597,6 +600,9 @@ async function writeStoryPair(entry, ai) {
     sourceName,
     sourceUrl: canonicalTweetUrl,
     relatedSources,
+    ingestType: 'x',
+    ingestSource: 'x.com',
+    ingestProvider: 'x.com',
     clusterId,
     status: 'published',
     translationOf: enSlug,
@@ -693,6 +699,9 @@ async function main() {
   const existingTweetUrls = await readExistingTweetKeys();
   const rawItems = await fetchTweetItems();
   const candidates = filterCandidates(rawItems, existingTweetUrls);
+
+  console.log(`[tweets] raw_items=${rawItems.length}`);
+  console.log(`[tweets] filtered_candidates=${candidates.length}`);
 
   if (candidates.length === 0) {
     const sampleKeys = Object.keys(rawItems[0] ?? {}).sort();

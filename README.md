@@ -11,8 +11,9 @@ A multilingual accessibility news website powered by Astro, Google News RSS, New
 
 - System language auto-routing at `/` (`zh*` -> `/zh-tw/`, otherwise `/en/`)
 - News list and detail pages in English and Traditional Chinese
-- 4-hour ingest workflow for multi-source news ingest (Google RSS + NewsAPI for `accessibility` and `無障礙`)
+- Twice-daily ingest workflow for multi-source news ingest (Google RSS + NewsAPI + curated disability RSS sources)
 - Daily ingest workflow for X/Twitter social signals (`a11y`, `accessibility`, `inclusion`, plus selected accounts; rolling 24h UTC)
+- Daily Facebook social signals ingest (Bright Data page-post scraper; up to 3 posts/day)
 - Daily digest workflow with top stories summary shown above the news feed
 - Static full-text search using Pagefind (`/en/search`, `/zh-tw/search`)
 
@@ -58,13 +59,17 @@ cp .env.example .env
 - `OLLAMA_TIMEOUT_MS` (example `60000`)
 - `APIFY_TOKEN`
 - `APIFY_ACTOR_ID`
+- `BRIGHTDATA_API_KEY`
+- `BRIGHTDATA_FACEBOOK_DATASET_ID` (default `gd_lkaxegm826bjpoo9m5`)
+- `BRIGHTDATA_FACEBOOK_PAGE_URL` (default `https://www.facebook.com/silence.deaf/`)
+- `BRIGHTDATA_FACEBOOK_MAX_POSTS` (default `3`)
 - `A11Y_TWEET_QUERY` (optional override; leave empty to auto-build query)
 - `A11Y_TWEET_KEYWORDS` (default `a11y,accessibility,inclusion`)
 - `A11Y_TWEET_ACCOUNTS` (default `BlindNewWorld,UCBInfo`)
 - `A11Y_TWEET_WINDOW_HOURS` (default `24`)
 - `A11Y_TWEET_MAX_ITEMS` (default `100`)
 - `A11Y_TWEET_LANGUAGES` (default `en,zh,ja,ko`)
-- `DIGEST_LOOKBACK_DAYS` (example `2`)
+- `DIGEST_LOOKBACK_HOURS` (default `25`)
 - `GOOGLE_NEWS_RSS_URLS` (comma-separated RSS feed URLs)
 - `NEWS_API_KEY`
 - `NEWS_API_BASE_URL` (example `https://newsapi.org/v2/everything`)
@@ -156,7 +161,7 @@ The homepage digest block is rendered before the regular news list and links hig
 
 File: `.github/workflows/news-ingest.yml`
 
-- Schedule: every 4 hours at minute 5
+- Schedule: twice daily (`00:05` and `12:05` UTC)
 - Action: runs `npm run news:ingest`
 - Output: commits new markdown into `src/content/news`
 
@@ -173,7 +178,7 @@ File: `.github/workflows/daily-digest.yml`
 File: `.github/workflows/tweets-ingest.yml`
 
 - Schedule: every day at `00:20` UTC
-- Action: runs `npm run tweets:ingest` then `npm run news:cluster`
+- Action: runs `npm run tweets:ingest`, `npm run facebook:ingest`, then `npm run news:cluster`
 - Default limits: rolling `24` hours, max `100` tweets, languages `en,zh,ja,ko`, keywords `a11y,accessibility,inclusion`, and accounts `BlindNewWorld,UCBInfo`
 - Output: commits new markdown into `src/content/news`
 
@@ -218,6 +223,7 @@ If you run these scripts at build time (not recommended), add corresponding secr
 - `OLLAMA_API_KEY`
 - `OLLAMA_BASE_URL` (for example `https://ollama.com/v1`)
 - `NEWS_API_KEY`
+- `BRIGHTDATA_API_KEY`
 
 4. Add this repository variable:
 

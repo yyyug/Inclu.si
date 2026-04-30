@@ -18,14 +18,17 @@ const DIGEST_DATE = process.env.DIGEST_DATE ?? new Date().toISOString().slice(0,
 const OLLAMA_TIMEOUT_MS = Number(process.env.OLLAMA_TIMEOUT_MS ?? 60000);
 const DIGEST_LOOKBACK_HOURS = Number(
   process.env.DIGEST_LOOKBACK_HOURS
-  ?? (Number(process.env.DIGEST_LOOKBACK_DAYS ?? 1) * 24),
+  ?? (Number(process.env.DIGEST_LOOKBACK_DAYS ?? 0) > 0 ? Number(process.env.DIGEST_LOOKBACK_DAYS) * 24 : 25),
 );
 const DIGEST_MIN_HIGHLIGHTS = 3;
 const DIGEST_MAX_HIGHLIGHTS = 5;
 
 async function loadRecentPublishedArticles() {
   const rows = [];
-  const digestBaseTime = new Date(`${DIGEST_DATE}T23:59:59.999Z`).getTime();
+  const hasExplicitDigestDate = Boolean(process.env.DIGEST_DATE);
+  const digestBaseTime = hasExplicitDigestDate
+    ? new Date(`${DIGEST_DATE}T23:59:59.999Z`).getTime()
+    : Date.now();
   const lookbackMs = Math.max(1, DIGEST_LOOKBACK_HOURS) * 60 * 60 * 1000;
   const cutoffTime = digestBaseTime - lookbackMs;
 
@@ -63,7 +66,14 @@ async function loadRecentPublishedArticles() {
     }
   }
 
-  return rows.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+  const sorted = rows.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+
+  console.log(`[digest] lookback_hours=${Math.max(1, DIGEST_LOOKBACK_HOURS)}`);
+  console.log(`[digest] base_time=${new Date(digestBaseTime).toISOString()}`);
+  console.log(`[digest] cutoff_time=${new Date(cutoffTime).toISOString()}`);
+  console.log(`[digest] candidate_total=${sorted.length}`);
+
+  return sorted;
 }
 
 function normalizeHighlightSlugs(candidates, requestedSlugs) {
@@ -201,6 +211,16 @@ async function main() {
   const rows = await loadRecentPublishedArticles();
   const enRows = rows.filter((item) => item.lang === 'en');
   const zhRows = rows.filter((item) => item.lang === 'zh-TW');
+
+  console.log(`[digest] candidate_en=${enRows.length}`);
+  console.log(`[digest] candidate_zh_tw=${zhRows.length}`);
+
+  if (rows.length === 0) {
+    throw new Error('No published stories found in the digest lookback window.');
+  }
+  if (enRows.length === 0 || zhRows.length === 0) {
+    console.warn('[digest] Warning: one locale has zero candidates; highlights may be sparse for that locale.');
+  }
 
   const digest = await askOllama(enRows, zhRows);
   const output = {

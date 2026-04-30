@@ -11,6 +11,8 @@ export const siteCopy: Record<Locale, {
   siteTitle: string;
   siteName: string;
   subtitle: string;
+  contactInvite: string;
+  contactLinkLabel: string;
   intro: string;
   globalNewsMessage: string;
   latest: string;
@@ -27,6 +29,8 @@ export const siteCopy: Record<Locale, {
     siteTitle: 'Accessibility News Hub',
     siteName: 'Inclu.si',
     subtitle: 'Stay on top of global accessibility news.',
+    contactInvite: 'Have a source we should follow? ',
+    contactLinkLabel: 'Contact us',
     intro: 'This site curates news on diversity, equity, inclusion, and accessibility from sources in multiple languages. English translations are provided to make reporting from different regions more accessible to more readers.',
     globalNewsMessage: 'Curated accessibility reporting across policy, design, and technology.',
     latest: 'Latest Coverage',
@@ -43,6 +47,8 @@ export const siteCopy: Record<Locale, {
     siteTitle: 'Inclu.si',
     siteName: 'Inclu.si',
     subtitle: '掌握全球無障礙新聞脈動。',
+    contactInvite: '若你有值得追蹤的無障礙新聞來源，歡迎',
+    contactLinkLabel: '聯絡我們',
     intro: '本站整理來自多種語言來源的多元、公平、共融與無障礙新聞並進行翻譯，讓讀者更容易掌握不同地區的重要報導。',
     globalNewsMessage: '聚焦政策、設計與科技的無障礙重點報導。',
     latest: '最新焦點',

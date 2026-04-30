@@ -34,6 +34,7 @@ jobs:
           OLLAMA_API_KEY: ${{ secrets.OLLAMA_API_KEY }}
           OLLAMA_BASE_URL: ${{ secrets.OLLAMA_BASE_URL }}
           OLLAMA_MODEL: nemotron-3-super:cloud
+          DIGEST_LOOKBACK_HOURS: 25
 
       - name: Upload digest log artifact
         if: failure()

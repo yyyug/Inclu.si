@@ -12,6 +12,7 @@
     "astro": "astro",
     "news:ingest": "node --env-file-if-exists=.env ./scripts/fetch-news.mjs",
     "tweets:ingest": "node --env-file-if-exists=.env ./scripts/fetch-a11y-tweets.mjs",
+    "facebook:ingest": "node --env-file-if-exists=.env ./scripts/fetch-facebook-signals.mjs",
     "news:digest": "node --env-file-if-exists=.env ./scripts/generate-daily-digest.mjs",
     "news:cluster": "node --env-file-if-exists=.env ./scripts/dedupe-and-cluster.mjs",
     "news:pipeline": "npm run news:ingest && npm run news:cluster",
