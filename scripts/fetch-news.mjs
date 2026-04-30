@@ -13,7 +13,15 @@ function requireEnv(name) {
   return String(value).trim();
 }
 
-const GOOGLE_NEWS_RSS_URLS = parseCommaList(requireEnv('GOOGLE_NEWS_RSS_URLS'));
+function requireRssFeedUrls() {
+  const value = process.env.RSS_FEED_URLS ?? process.env.GOOGLE_NEWS_RSS_URLS;
+  if (!value || !String(value).trim()) {
+    throw new Error('Missing required environment variable: RSS_FEED_URLS (or legacy GOOGLE_NEWS_RSS_URLS)');
+  }
+  return parseCommaList(value);
+}
+
+const RSS_FEED_URLS = requireRssFeedUrls();
 
 const NEWS_API_KEY = requireEnv('NEWS_API_KEY');
 const NEWS_API_BASE_URL = requireEnv('NEWS_API_BASE_URL').replace(/\/$/, '');
@@ -265,7 +273,7 @@ async function collectCandidatesFromRss({ parser, decoder, existing }) {
   let skipped = 0;
   let failed = 0;
 
-  for (const feedUrl of GOOGLE_NEWS_RSS_URLS) {
+  for (const feedUrl of RSS_FEED_URLS) {
     let sourceMap = new Map();
     let feed;
     let items = [];
