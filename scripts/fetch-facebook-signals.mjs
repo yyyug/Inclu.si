@@ -231,7 +231,7 @@ async function fetchFacebookPagePosts() {
           Authorization: `Bearer ${BRIGHTDATA_API_KEY}`,
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify([{ url: BRIGHTDATA_FACEBOOK_PAGE_URL }]),
+        body: JSON.stringify([{ url: BRIGHTDATA_FACEBOOK_PAGE_URL, num_of_posts: BRIGHTDATA_FACEBOOK_MAX_POSTS }]),
         signal: AbortSignal.timeout(BRIGHTDATA_TIMEOUT_MS),
       });
 
@@ -287,17 +287,11 @@ function inferCandidate(row) {
 }
 
 function filterCandidates(rawRows, existingSourceUrls) {
-  const now = Date.now();
-  const lowerBound = now - (BRIGHTDATA_FACEBOOK_WINDOW_HOURS * 60 * 60 * 1000);
-
   const unique = new Map();
 
   for (const rawRow of rawRows) {
     const row = inferCandidate(rawRow);
     if (!row.postUrl || !row.postText) continue;
-
-    const ts = Date.parse(row.datePosted);
-    if (Number.isNaN(ts) || ts < lowerBound || ts > now) continue;
     if (existingSourceUrls.has(row.postUrl)) continue;
 
     const prev = unique.get(row.postId);
