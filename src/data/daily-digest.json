@@ -1,23 +1,55 @@
 {
-  "date": "2026-04-29",
-  "generatedAt": "2026-04-29T03:59:32.247Z",
+  "date": "2026-04-30",
+  "generatedAt": "2026-04-30T02:21:06.206Z",
   "en": {
-    "title": "South coast path work to improve accessibility",
-    "summary": "Improvements are underway on the South Coast path to enhance accessibility for pedestrians, including those with mobility challenges.",
+    "title": "Daily Accessibility Digest – April 30, 2026",
+    "summary": "Highlighting key accessibility developments: MassDOT's $15.6M funding for accessible vans, Missouri's website accessibility lawsuit bill, EU/UK hotel compliance efforts, Sgt. Bluff's braille story walk, and Charlotte's new Braille Trail combining art and accessibility.",
     "highlights": [
       {
-        "title": "South coast path work to improve accessibility",
-        "slug": "south-coast-path-work-to-improve-accessibility-938ebe8b"
+        "title": "MassDOT awards $15.6M for accessible vans and minivans",
+        "slug": "massdot-awards-156m-for-accessible-vans-and-minivans-bbfb7e85"
+      },
+      {
+        "title": "Missouri lawmakers send website accessibility lawsuit bill to governor",
+        "slug": "missouri-lawmakers-send-website-accessibility-lawsuit-bill-to-governor-8ef72ec3"
+      },
+      {
+        "title": "How hotels are adapting to the EU and UK Accessibility Laws",
+        "slug": "how-hotels-are-adapting-to-the-eu-and-uk-accessibility-laws-e9be0118"
+      },
+      {
+        "title": "Sgt. Bluff story walk adds braille for accessibility",
+        "slug": "sgt-bluff-story-walk-adds-braille-for-accessibility-75e8f082"
+      },
+      {
+        "title": "Art meets accessibility on Charlotte’s new Braille Trail",
+        "slug": "art-meets-accessibility-on-charlottes-new-braille-trail-d5c509e8"
       }
     ]
   },
   "zh-TW": {
-    "title": "南海岸步道改善工程以提升無障礙通行性",
-    "summary": "南海岸步道正進行改善工程，以提升行人（尤其是行動不便者）的無障礙通行性。",
+    "title": "每日無障礙消息摘要 – 2026年4月30日",
+    "summary": "重點報導：MassDOT 撥款 1560 萬美元購買無障礙車輛；密蘇里州立法者推送網站無障礙訴訟法案；歐洲與英國酒店適應新無障礙法律；Sgt. Bluff 故事步道加入盲文；夏洛特新盲人步道結合藝術與無障礙設計。",
     "highlights": [
       {
-        "title": "南海岸步道改善工程以提升無障礙通行性",
-        "slug": "south-coast-path-work-to-improve-accessibility-zh-938ebe8b"
+        "title": "MassDOT 頒發 1560 萬美元用於購買無障礙面包車和小型客車",
+        "slug": "massdot-awards-156m-for-accessible-vans-and-minivans-zh-bbfb7e85"
+      },
+      {
+        "title": "密蘇里州立法者將網站無障礙訴訟法案送交州長簽署",
+        "slug": "missouri-lawmakers-send-website-accessibility-lawsuit-bill-to-governor-zh-8ef72ec3"
+      },
+      {
+        "title": "酒店如何適應歐盟和英國的無障礙法律",
+        "slug": "how-hotels-are-adapting-to-the-eu-and-uk-accessibility-laws-zh-e9be0118"
+      },
+      {
+        "title": "Sgt. Bluff 散步故事路加入盲文以提升無障礙性",
+        "slug": "sgt-bluff-story-walk-adds-braille-for-accessibility-zh-75e8f082"
+      },
+      {
+        "title": "夏洛特新盲人步道結合藝術與無障礙設計",
+        "slug": "art-meets-accessibility-on-charlottes-new-braille-trail-zh-d5c509e8"
       }
     ]
   }
