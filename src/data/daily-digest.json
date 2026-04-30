@@ -1,55 +1,47 @@
 {
   "date": "2026-04-30",
-  "generatedAt": "2026-04-30T02:21:06.206Z",
+  "generatedAt": "2026-04-30T04:09:41.858Z",
   "en": {
     "title": "Daily Accessibility Digest – April 30, 2026",
-    "summary": "Highlighting key accessibility developments: MassDOT's $15.6M funding for accessible vans, Missouri's website accessibility lawsuit bill, EU/UK hotel compliance efforts, Sgt. Bluff's braille story walk, and Charlotte's new Braille Trail combining art and accessibility.",
+    "summary": "Today's highlights include redesigning everyday furniture for better access, accessibility concerns at Fargo's new sports center, legal updates on museum inclusion efforts, and Starbucks Singapore's straw removal sparking accessibility debates.",
     "highlights": [
       {
-        "title": "MassDOT awards $15.6M for accessible vans and minivans",
-        "slug": "massdot-awards-156m-for-accessible-vans-and-minivans-bbfb7e85"
+        "title": "Reprogramming Couch for Accessibility",
+        "slug": "reprogramming-couch-for-accessibility-0d84d85c"
       },
       {
-        "title": "Missouri lawmakers send website accessibility lawsuit bill to governor",
-        "slug": "missouri-lawmakers-send-website-accessibility-lawsuit-bill-to-governor-8ef72ec3"
+        "title": "Fargo Parks Sports Center Accessibility Concerns",
+        "slug": "fargo-parks-sports-center-accessibility-concerns-40e0b929"
       },
       {
-        "title": "How hotels are adapting to the EU and UK Accessibility Laws",
-        "slug": "how-hotels-are-adapting-to-the-eu-and-uk-accessibility-laws-e9be0118"
+        "title": "Legal Updates on Museum Inclusion Efforts",
+        "slug": "legal-updates-on-museum-inclusion-efforts-928161bb"
       },
       {
-        "title": "Sgt. Bluff story walk adds braille for accessibility",
-        "slug": "sgt-bluff-story-walk-adds-braille-for-accessibility-75e8f082"
-      },
-      {
-        "title": "Art meets accessibility on Charlotte’s new Braille Trail",
-        "slug": "art-meets-accessibility-on-charlottes-new-braille-trail-d5c509e8"
+        "title": "Starbucks Singapore Removes Straws, Sparks Accessibility Concerns",
+        "slug": "starbucks-singapore-removes-straws-sparks-accessibility-concerns-ff0444fa"
       }
     ]
   },
   "zh-TW": {
-    "title": "每日無障礙消息摘要 – 2026年4月30日",
-    "summary": "重點報導：MassDOT 撥款 1560 萬美元購買無障礙車輛；密蘇里州立法者推送網站無障礙訴訟法案；歐洲與英國酒店適應新無障礙法律；Sgt. Bluff 故事步道加入盲文；夏洛特新盲人步道結合藝術與無障礙設計。",
+    "title": "每日無障礙消息 – 2026年4月30日",
+    "summary": "今日重點包括重新設計日常家具以提升無障礙、法戈新體育中心的無障礙問題、博物館包容性的法律更新，以及星巴克新加坡移除吸管引發的無障礙爭議。",
     "highlights": [
       {
-        "title": "MassDOT 頒發 1560 萬美元用於購買無障礙面包車和小型客車",
-        "slug": "massdot-awards-156m-for-accessible-vans-and-minivans-zh-bbfb7e85"
+        "title": "重新编程沙发以提升无障碍",
+        "slug": "reprogramming-couch-for-accessibility-zh-0d84d85c"
       },
       {
-        "title": "密蘇里州立法者將網站無障礙訴訟法案送交州長簽署",
-        "slug": "missouri-lawmakers-send-website-accessibility-lawsuit-bill-to-governor-zh-8ef72ec3"
+        "title": "法戈公园体育中心无障碍问题",
+        "slug": "fargo-parks-sports-center-accessibility-concerns-zh-40e0b929"
       },
       {
-        "title": "酒店如何適應歐盟和英國的無障礙法律",
-        "slug": "how-hotels-are-adapting-to-the-eu-and-uk-accessibility-laws-zh-e9be0118"
+        "title": "博物馆包容性工作的法律更新",
+        "slug": "legal-updates-on-museum-inclusion-efforts-zh-928161bb"
       },
       {
-        "title": "Sgt. Bluff 散步故事路加入盲文以提升無障礙性",
-        "slug": "sgt-bluff-story-walk-adds-braille-for-accessibility-zh-75e8f082"
-      },
-      {
-        "title": "夏洛特新盲人步道結合藝術與無障礙設計",
-        "slug": "art-meets-accessibility-on-charlottes-new-braille-trail-zh-d5c509e8"
+        "title": "星巴克新加坡移除吸管，引发可及性担忧",
+        "slug": "starbucks-singapore-removes-straws-sparks-accessibility-concerns-zh-ff0444fa"
       }
     ]
   }
