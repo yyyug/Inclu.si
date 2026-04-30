@@ -701,6 +701,9 @@ async function main() {
   const rssResult = await collectCandidatesFromRss({ parser, decoder, existing });
   const newsApiResult = await collectCandidatesFromNewsApi({ existing });
 
+  console.log(`[news] rss_candidates=${rssResult.candidates.length}`);
+  console.log(`[news] newsapi_candidates=${newsApiResult.candidates.length}`);
+
   let candidates = [...rssResult.candidates, ...newsApiResult.candidates];
   skipped += rssResult.skipped + newsApiResult.skipped;
   failed += rssResult.failed + newsApiResult.failed;
@@ -737,7 +740,8 @@ async function main() {
       const entry = batch[j];
       const output = outputMap.get(j);
 
-      if (!output || !output.isRelevant) {
+      const forceRelevant = entry.ingestType === 'rss' && entry.ingestProvider !== 'news.google.com';
+      if (!output || (!output.isRelevant && !forceRelevant)) {
         skipped += 1;
         continue;
       }

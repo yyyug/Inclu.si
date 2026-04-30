@@ -335,11 +335,11 @@ async function askOllamaForBatch(batchItems) {
 
   const userPrompt = [
     'You are an accessibility social editor.',
-    'Each input is a Facebook page post. Decide if it is related to accessibility, disability, assistive technology, inclusive design, or related advocacy.',
-    'If not related, return {"itemId": <id>, "isRelevant": false}.',
-    'If related, return bilingual output with strict JSON array only.',
-    'Each relevant output item must include: itemId, isRelevant, englishTitle, englishSummary, zhTitle, zhSummary, tags.',
+    'Each input is a Facebook page post. Summarize it in English and Traditional Chinese.',
+    'Return a strict JSON array and nothing else.',
+    'Each output item must include: itemId, englishTitle, englishSummary, zhTitle, zhSummary, tags.',
     'Category is fixed and NOT returned: social-signals.',
+    'Tags must be relevant to accessibility, disability, or inclusion.',
     '',
     JSON.stringify(payload),
   ].join('\n');
@@ -386,7 +386,6 @@ async function askOllamaForBatch(batchItems) {
 
   return parsed.map((row) => ({
     itemId: Number(row?.itemId),
-    isRelevant: row?.isRelevant !== false,
     englishTitle: String(row?.englishTitle || '').trim(),
     englishSummary: String(row?.englishSummary || '').trim(),
     zhTitle: String(row?.zhTitle || '').trim(),
@@ -517,7 +516,7 @@ async function main() {
       const entry = batch[j];
       const output = outputMap.get(j);
 
-      if (!output || !output.isRelevant) {
+      if (!output) {
         continue;
       }
 
