@@ -1,9 +1,17 @@
 export async function onRequestPost(context) {
   const { request, env } = context;
   const resendApiKey = env.RESEND_API_KEY;
+  const turnstileSecretKey = env.CLOUDFLARE_TURNSTILE_SECRET_KEY;
 
   if (!resendApiKey) {
     return new Response(JSON.stringify({ error: 'Server misconfigured: RESEND_API_KEY missing' }), {
+      status: 500,
+      headers: { 'Content-Type': 'application/json' },
+    });
+  }
+
+  if (!turnstileSecretKey) {
+    return new Response(JSON.stringify({ error: 'Server misconfigured: CLOUDFLARE_TURNSTILE_SECRET_KEY missing' }), {
       status: 500,
       headers: { 'Content-Type': 'application/json' },
     });
@@ -24,6 +32,32 @@ export async function onRequestPost(context) {
   const email = String(payload?.email ?? '').trim();
   const message = String(payload?.message ?? '').trim();
   const company = String(payload?.company ?? '').trim();
+  const turnstileToken = String(payload?.turnstileToken ?? '').trim();
+
+  // Verify Turnstile CAPTCHA before any other processing.
+  if (!turnstileToken) {
+    return new Response(JSON.stringify({ error: 'Missing CAPTCHA token' }), {
+      status: 400,
+      headers: { 'Content-Type': 'application/json' },
+    });
+  }
+
+  const verifyBody = new URLSearchParams({
+    secret: turnstileSecretKey,
+    response: turnstileToken,
+    remoteip: request.headers.get('CF-Connecting-IP') ?? '',
+  });
+  const verifyResp = await fetch('https://challenges.cloudflare.com/turnstile/v0/siteverify', {
+    method: 'POST',
+    body: verifyBody,
+  });
+  const verifyData = await verifyResp.json();
+  if (!verifyData.success) {
+    return new Response(JSON.stringify({ error: 'CAPTCHA verification failed' }), {
+      status: 400,
+      headers: { 'Content-Type': 'application/json' },
+    });
+  }
 
   // Honeypot for spam bots.
   if (company) {

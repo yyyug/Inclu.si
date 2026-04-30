@@ -69,6 +69,8 @@ const backHref = localeBasePath(locale);
           <input name="company" type="text" tabindex="-1" autocomplete="off" />
         </label>
 
+        <div class="cf-turnstile" data-sitekey="0x4AAAAAADGJaHY77kTpgVMd" data-theme="light"></div>
+
         <div class="mt-2 flex items-center gap-3">
           <button
             id="contact-submit"
@@ -98,9 +100,15 @@ const backHref = localeBasePath(locale);
         const email = String(formData.get('email') || '').trim();
         const message = String(formData.get('message') || '').trim();
         const company = String(formData.get('company') || '').trim();
+        const turnstileToken = String(formData.get('cf-turnstile-response') || '').trim();
 
         if (company) {
           statusEl.textContent = '';
+          return;
+        }
+
+        if (!turnstileToken) {
+          statusEl.textContent = locale === 'zh-TW' ? '請完成驗證後再送出。' : 'Please complete the CAPTCHA before submitting.';
           return;
         }
 
@@ -119,6 +127,7 @@ const backHref = localeBasePath(locale);
               email,
               message,
               company,
+              turnstileToken,
             }),
           });
 
@@ -141,4 +150,5 @@ const backHref = localeBasePath(locale);
       });
     }
   </script>
+  <script is:inline src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 </Layout>
