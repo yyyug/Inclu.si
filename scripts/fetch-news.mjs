@@ -42,7 +42,7 @@ const OLLAMA_API_KEY = requireEnv('OLLAMA_API_KEY');
 const OLLAMA_MODEL = requireEnv('OLLAMA_MODEL');
 const MAX_ITEMS_PER_RUN = Math.max(1, Number(process.env.MAX_ITEMS_PER_RUN ?? 10));
 const OLLAMA_TIMEOUT_MS = Number(process.env.OLLAMA_TIMEOUT_MS ?? 60000);
-const OLLAMA_MAX_TOKENS = Number(process.env.OLLAMA_MAX_TOKENS ?? 4096);
+const OLLAMA_MAX_TOKENS = Math.max(1, Math.min(20000, Number(process.env.OLLAMA_MAX_TOKENS ?? 20000)));
 const OLLAMA_MAX_RETRIES = Number(process.env.OLLAMA_MAX_RETRIES ?? 3);
 const BATCH_SIZE = Math.min(5, Math.max(3, Number(process.env.BATCH_SIZE ?? 3)));
 
