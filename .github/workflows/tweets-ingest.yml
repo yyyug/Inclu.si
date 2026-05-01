@@ -88,48 +88,20 @@ jobs:
           if-no-files-found: ignore
           retention-days: 2
 
-      - name: Build concise run summary
-        if: always()
-        shell: bash
-        run: |
-          {
-            echo "workflow: tweets-ingest"
-            echo "run_id: ${{ github.run_id }}"
-            echo "run_attempt: ${{ github.run_attempt }}"
-            echo "job_status: ${{ job.status }}"
-            echo "ref: ${{ github.ref_name }}"
-            echo "sha: ${{ github.sha }}"
-            echo "generated_at_utc: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
-            if [ -f tweets-ingest.log ]; then
-              echo "log_tail:"
-              tail -n 60 tweets-ingest.log
-            else
-              echo "log_tail: tweets-ingest.log not found"
-            fi
-          } > tweets-ingest-summary.txt
-
-      - name: Upload concise run summary
-        if: always()
-        continue-on-error: true
-        uses: actions/upload-artifact@v4
-        with:
-          name: tweets-ingest-summary-${{ github.run_id }}
-          path: tweets-ingest-summary.txt
-          if-no-files-found: ignore
-          retention-days: 2
-
       - name: Commit generated content
         if: always()
         run: |
           git add src/data/news
           if git diff --cached --quiet; then
             echo "No changes to commit"
+            echo "COMMITTED_YES_NO=no" >> "$GITHUB_ENV"
           else
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git commit -m "chore: ingest a11y social signals"
             for attempt in 1 2 3; do
               if git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
+                echo "COMMITTED_YES_NO=yes" >> "$GITHUB_ENV"
                 exit 0
               fi
               echo "Push attempt ${attempt} failed; retrying..."
@@ -145,3 +117,61 @@ jobs:
           echo "tweets_ingest=${{ steps.tweets_ingest.outcome }}"
           echo "facebook_ingest=${{ steps.facebook_ingest.outcome }}"
           echo "cluster_ingest=${{ steps.cluster_ingest.outcome }}"
+
+      - name: Build concise run summary
+        if: always()
+        shell: bash
+        run: |
+          if [ -f tweets-ingest.log ]; then
+            tweets_returned=$(grep -Eo 'Done\. New tweet stories: [0-9]+' tweets-ingest.log | tail -1 | awk '{print $5}')
+            facebook_returned=$(grep -Eo '\[facebook\] Done\. New stories: [0-9]+' tweets-ingest.log | tail -1 | awk '{print $5}')
+          else
+            tweets_returned="n/a"
+            facebook_returned="n/a"
+          fi
+
+          tweets_returned=${tweets_returned:-n/a}
+          facebook_returned=${facebook_returned:-0}
+
+          {
+            echo "workflow=tweets-ingest"
+            echo "run_id=${{ github.run_id }}"
+            echo "run_attempt=${{ github.run_attempt }}"
+            echo "job_status=${{ job.status }}"
+            echo "ref=${{ github.ref_name }}"
+            echo "sha=${{ github.sha }}"
+            echo "generated_at_utc=$(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            echo "rss_returned=n/a"
+            echo "newsapi_returned=n/a"
+            echo "tweets_returned=${tweets_returned}"
+            echo "facebook_returned=${facebook_returned}"
+            echo "committed_yes_no=${COMMITTED_YES_NO:-no}"
+            if [ -f tweets-ingest.log ]; then
+              echo "log_tail:"
+              tail -n 60 tweets-ingest.log
+            else
+              echo "log_tail=tweets-ingest.log not found"
+            fi
+          } > tweets-ingest-summary.txt
+
+      - name: Upload concise run summary
+        if: always()
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: tweets-ingest-summary-${{ github.run_id }}
+          path: tweets-ingest-summary.txt
+          if-no-files-found: ignore
+          retention-days: 2
+
+      - name: Final ingest gate
+        if: always()
+        shell: bash
+        run: |
+          echo "tweets_ingest=${{ steps.tweets_ingest.outcome }}"
+          echo "facebook_ingest=${{ steps.facebook_ingest.outcome }}"
+
+          if [ "${{ steps.tweets_ingest.outcome }}" = "failure" ] || [ "${{ steps.facebook_ingest.outcome }}" = "failure" ]; then
+            echo "Failing run because one or more ingest steps failed."
+            exit 1
+          fi
