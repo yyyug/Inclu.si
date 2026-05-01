@@ -426,5 +426,38 @@
     "publishedAt": "2026-05-01T02:10:07.000Z",
     "fetchedAt": "2026-05-01T03:12:45.958Z",
     "body": "总统纳伊布·布kele 推出 Doctor SB 应用，提供免费 24/7 AI 辅助医疗咨询，旨在提升全民对国家医疗服务的可及性。\n推文來源： [Katrina (@verummultum)](https://x.com/verummultum/status/2050035004290261007)\n外部連結： [https://apnews.com/video/el-salvadors-bukele-launches-app-for-free-medical-consultations-via-mobile-devices-2fcbdc0ef4fa40299c6faf302519c46b](https://apnews.com/video/el-salvadors-bukele-launches-app-for-free-medical-consultations-via-mobile-devices-2fcbdc0ef4fa40299c6faf302519c46b)"
+  },
+  {
+    "title": "『我感到被困在家中』：殘障母親談論自由縣巴士無障礙問題",
+    "slug": "i-feel-bound-to-my-home-disabled-mother-speaks-on-liberty-county-bus-accessibili-zh-ba62c449",
+    "lang": "zh-TW",
+    "summary": "自由縣的一位殘障母親描述，巴士無障礙設施不足讓她感到被困在家中，她呼籲改善公共交通以殘障人士為優先。",
+    "category": "physical-design",
+    "tags": [
+      "bus accessibility",
+      "public transit",
+      "disability rights",
+      "Liberty County"
+    ],
+    "sourceName": "WSAV-TV",
+    "sourceUrl": "https://www.wsav.com/news/local-news/i-feel-bound-to-my-home-disabled-mother-speaks-on-liberty-county-bus-accessibility-issues",
+    "relatedSources": [
+      {
+        "name": "WSAV-TV",
+        "url": "https://www.wsav.com/news/local-news/i-feel-bound-to-my-home-disabled-mother-speaks-on-liberty-county-bus-accessibility-issues"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ba62c449",
+    "status": "published",
+    "translationOf": "i-feel-bound-to-my-home-disabled-mother-speaks-on-liberty-county-bus-accessibili-ba62c449",
+    "publishedAt": "2026-05-01T03:15:08.000Z",
+    "fetchedAt": "2026-05-01T03:55:50.734Z",
+    "body": "自由縣的一位殘障母親描述，巴士無障礙設施不足讓她感到被困在家中，她呼籲改善公共交通以殘障人士為優先。\n\n原文來源： [WSAV-TV](https://www.wsav.com/news/local-news/i-feel-bound-to-my-home-disabled-mother-speaks-on-liberty-county-bus-accessibility-issues)"
   }
 ]

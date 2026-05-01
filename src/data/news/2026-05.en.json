@@ -426,5 +426,38 @@
     "publishedAt": "2026-05-01T02:10:07.000Z",
     "fetchedAt": "2026-05-01T03:12:45.958Z",
     "body": "President Nayib Bukele launched the Doctor SB app offering free 24/7 AI-assisted medical consultations to all adults, aiming to increase accessibility of state healthcare services.\nTweet source: [Katrina (@verummultum)](https://x.com/verummultum/status/2050035004290261007)\nExternal link: [https://apnews.com/video/el-salvadors-bukele-launches-app-for-free-medical-consultations-via-mobile-devices-2fcbdc0ef4fa40299c6faf302519c46b](https://apnews.com/video/el-salvadors-bukele-launches-app-for-free-medical-consultations-via-mobile-devices-2fcbdc0ef4fa40299c6faf302519c46b)"
+  },
+  {
+    "title": "‘I feel bound to my home’: Disabled mother speaks on Liberty County bus accessibility issues",
+    "slug": "i-feel-bound-to-my-home-disabled-mother-speaks-on-liberty-county-bus-accessibili-ba62c449",
+    "lang": "en",
+    "summary": "A disabled mother in Liberty County describes how inadequate bus accessibility leaves her feeling confined to her home, calling for improvements to public transit for people with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "bus accessibility",
+      "public transit",
+      "disability rights",
+      "Liberty County"
+    ],
+    "sourceName": "WSAV-TV",
+    "sourceUrl": "https://www.wsav.com/news/local-news/i-feel-bound-to-my-home-disabled-mother-speaks-on-liberty-county-bus-accessibility-issues",
+    "relatedSources": [
+      {
+        "name": "WSAV-TV",
+        "url": "https://www.wsav.com/news/local-news/i-feel-bound-to-my-home-disabled-mother-speaks-on-liberty-county-bus-accessibility-issues"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ba62c449",
+    "status": "published",
+    "translationOf": "i-feel-bound-to-my-home-disabled-mother-speaks-on-liberty-county-bus-accessibili-zh-ba62c449",
+    "publishedAt": "2026-05-01T03:15:08.000Z",
+    "fetchedAt": "2026-05-01T03:55:50.734Z",
+    "body": "A disabled mother in Liberty County describes how inadequate bus accessibility leaves her feeling confined to her home, calling for improvements to public transit for people with disabilities.\n\nRead more from the original source: [WSAV-TV](https://www.wsav.com/news/local-news/i-feel-bound-to-my-home-disabled-mother-speaks-on-liberty-county-bus-accessibility-issues)"
   }
 ]

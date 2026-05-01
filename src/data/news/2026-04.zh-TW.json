@@ -4972,5 +4972,570 @@
     "publishedAt": "2026-04-08T07:00:19.000Z",
     "fetchedAt": "2026-04-30T14:24:12.568Z",
     "body": "平等組織呼籲歐盟機構確保《成人保護條例》在三方磋商中保護殘障和老年人的基本權益。\n\n原文來源： [Unknown source](https://www.edf-feph.org/joint-call-to-ensure-disability-rights-in-the-trilogue-negotiation-of-the-regulation-on-protection-of-adults)"
+  },
+  {
+    "title": "'改變我們的生活' | 休斯頓家庭尋求幫助為年幼兒子購買無障礙面包車",
+    "slug": "change-our-lives-houston-family-needs-help-getting-accessible-van-for-young-son-zh-7056214a",
+    "lang": "zh-TW",
+    "summary": "休斯頓的一個家庭正在尋求社區支持，為面臨行動障礙的年幼兒子購買一部無障礙面包車，他們相信這輛車將顯著改善他們的日常生活。",
+    "category": "assistive-tech",
+    "tags": [
+      "accessible van",
+      "mobility",
+      "family support",
+      "Houston"
+    ],
+    "sourceName": "KHOU",
+    "sourceUrl": "https://www.khou.com/article/news/local/it-would-change-our-lives-houston-family-needs-help-getting-accessible-van-for-young-son/285-bba6ac97-8b9c-4cc1-8d7a-d8698c7d5110",
+    "relatedSources": [
+      {
+        "name": "KHOU",
+        "url": "https://www.khou.com/article/news/local/it-would-change-our-lives-houston-family-needs-help-getting-accessible-van-for-young-son/285-bba6ac97-8b9c-4cc1-8d7a-d8698c7d5110"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-7056214a",
+    "status": "published",
+    "translationOf": "change-our-lives-houston-family-needs-help-getting-accessible-van-for-young-son-7056214a",
+    "publishedAt": "2026-04-29T11:41:00.000Z",
+    "fetchedAt": "2026-05-01T03:55:50.724Z",
+    "body": "休斯頓的一個家庭正在尋求社區支持，為面臨行動障礙的年幼兒子購買一部無障礙面包車，他們相信這輛車將顯著改善他們的日常生活。\n\n原文來源： [KHOU](https://www.khou.com/article/news/local/it-would-change-our-lives-houston-family-needs-help-getting-accessible-van-for-young-son/285-bba6ac97-8b9c-4cc1-8d7a-d8698c7d5110)"
+  },
+  {
+    "title": "安適營地與碼頭擴展無障礙選項，以服務行動受限的鄰居",
+    "slug": "at-ease-campground-and-marina-expands-accessibility-options-for-neighbors-with-l-zh-452eab54",
+    "lang": "zh-TW",
+    "summary": "安適營地與碼頭新增了輪椅友善步道和適應性設施等無障礙功能，以更好地服務行動受限的鄰居。",
+    "category": "physical-design",
+    "tags": [
+      "campground",
+      "marina",
+      "accessibility expansion",
+      "limited mobility"
+    ],
+    "sourceName": "WTXL ABC 27 Tallahassee News",
+    "sourceUrl": "https://www.wtxl.com/news/local-news/in-your-neighborhood/decatur-county/at-ease-campground-and-marina-expands-accessibility-options-for-neighbors-with-limited-mobility",
+    "relatedSources": [
+      {
+        "name": "WTXL ABC 27 Tallahassee News",
+        "url": "https://www.wtxl.com/news/local-news/in-your-neighborhood/decatur-county/at-ease-campground-and-marina-expands-accessibility-options-for-neighbors-with-limited-mobility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-452eab54",
+    "status": "published",
+    "translationOf": "at-ease-campground-and-marina-expands-accessibility-options-for-neighbors-with-l-452eab54",
+    "publishedAt": "2026-04-30T22:39:38.000Z",
+    "fetchedAt": "2026-05-01T03:55:50.736Z",
+    "body": "安適營地與碼頭新增了輪椅友善步道和適應性設施等無障礙功能，以更好地服務行動受限的鄰居。\n\n原文來源： [WTXL ABC 27 Tallahassee News](https://www.wtxl.com/news/local-news/in-your-neighborhood/decatur-county/at-ease-campground-and-marina-expands-accessibility-options-for-neighbors-with-limited-mobility)"
+  },
+  {
+    "title": "FCC 提議修訂可聽爬行規則以保障無障礙",
+    "slug": "fcc-proposes-to-amend-audible-crawl-rule-to-preserve-accessibility-zh-788b5ef6",
+    "lang": "zh-TW",
+    "summary": "美國聯邦通訊委員會（FCC）提議修訂可聽爬行規則，以確保視障使用者能夠透過聲音獲得電視新聞爬行字幕的資訊。",
+    "category": "digital-a11y",
+    "tags": [
+      "FCC",
+      "audible crawl",
+      "TV accessibility",
+      "regulation"
+    ],
+    "sourceName": "TVTechnology",
+    "sourceUrl": "https://www.tvtechnology.com/regulatory-legal/fcc-proposes-to-amend-audible-crawl-rule-to-preserve-accessibility",
+    "relatedSources": [
+      {
+        "name": "TVTechnology",
+        "url": "https://www.tvtechnology.com/regulatory-legal/fcc-proposes-to-amend-audible-crawl-rule-to-preserve-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-788b5ef6",
+    "status": "published",
+    "translationOf": "fcc-proposes-to-amend-audible-crawl-rule-to-preserve-accessibility-788b5ef6",
+    "publishedAt": "2026-04-30T23:10:14.000Z",
+    "fetchedAt": "2026-05-01T03:56:27.390Z",
+    "body": "美國聯邦通訊委員會（FCC）提議修訂可聽爬行規則，以確保視障使用者能夠透過聲音獲得電視新聞爬行字幕的資訊。\n\n原文來源： [TVTechnology](https://www.tvtechnology.com/regulatory-legal/fcc-proposes-to-amend-audible-crawl-rule-to-preserve-accessibility)"
+  },
+  {
+    "title": "夜與日；新項目提升 Lucky Peak 探索單元的戶外無障礙",
+    "slug": "night-and-day-new-project-boosts-outdoor-accessibility-at-lucky-peaks-discovery--zh-ca479fd7",
+    "lang": "zh-TW",
+    "summary": "Lucky Peak 探索單元推出新項目，顯著改善戶外設施的無障礙程度，使殘障人士更易使用步道與設施，被形容為『夜與日』的改變。",
+    "category": "physical-design",
+    "tags": [
+      "Lucky Peak",
+      "Discovery Unit",
+      "outdoor accessibility",
+      "trail improvements"
+    ],
+    "sourceName": "Idaho News 6",
+    "sourceUrl": "https://www.kivitv.com/backroads/night-and-day-new-project-boosts-outdoor-accessibility-at-lucky-peaks-discovery-unit",
+    "relatedSources": [
+      {
+        "name": "Idaho News 6",
+        "url": "https://www.kivitv.com/backroads/night-and-day-new-project-boosts-outdoor-accessibility-at-lucky-peaks-discovery-unit"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ca479fd7",
+    "status": "published",
+    "translationOf": "night-and-day-new-project-boosts-outdoor-accessibility-at-lucky-peaks-discovery--ca479fd7",
+    "publishedAt": "2026-04-30T23:04:56.000Z",
+    "fetchedAt": "2026-05-01T03:56:27.399Z",
+    "body": "Lucky Peak 探索單元推出新項目，顯著改善戶外設施的無障礙程度，使殘障人士更易使用步道與設施，被形容為『夜與日』的改變。\n\n原文來源： [Idaho News 6](https://www.kivitv.com/backroads/night-and-day-new-project-boosts-outdoor-accessibility-at-lucky-peaks-discovery-unit)"
+  },
+  {
+    "title": "唐森德擬徵收 3% 住宿稅 用於旅遊升級，包含無障礙改善",
+    "slug": "townsend-to-impose-3-lodging-tax-for-tourism-upgrades-including-accessibility-im-zh-3d4685eb",
+    "lang": "zh-TW",
+    "summary": "唐森德計畫對住宿征收 3% 稅金，以資助旅遊設施升級，其中將包含對殘障遊客的無障礙改善。",
+    "category": "laws-rights",
+    "tags": [
+      "Townsend",
+      "lodging tax",
+      "tourism upgrades",
+      "accessibility funding"
+    ],
+    "sourceName": "WBIR",
+    "sourceUrl": "https://www.wbir.com/video/news/latest-news-ott/townsend-to-impose-3-lodging-tax-for-tourism-upgrades-including-accessibility-improvements/51-7e7c5dc8-e10c-4fc9-9bd5-a1d713148c0c",
+    "relatedSources": [
+      {
+        "name": "WBIR",
+        "url": "https://www.wbir.com/video/news/latest-news-ott/townsend-to-impose-3-lodging-tax-for-tourism-upgrades-including-accessibility-improvements/51-7e7c5dc8-e10c-4fc9-9bd5-a1d713148c0c"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3d4685eb",
+    "status": "published",
+    "translationOf": "townsend-to-impose-3-lodging-tax-for-tourism-upgrades-including-accessibility-im-3d4685eb",
+    "publishedAt": "2026-04-30T22:36:00.000Z",
+    "fetchedAt": "2026-05-01T03:56:27.407Z",
+    "body": "唐森德計畫對住宿征收 3% 稅金，以資助旅遊設施升級，其中將包含對殘障遊客的無障礙改善。\n\n原文來源： [WBIR](https://www.wbir.com/video/news/latest-news-ott/townsend-to-impose-3-lodging-tax-for-tourism-upgrades-including-accessibility-improvements/51-7e7c5dc8-e10c-4fc9-9bd5-a1d713148c0c)"
+  },
+  {
+    "title": "福斯商旅#WeNotMe精神力挺亞洲首創無障礙水上活動首屆「台灣無障礙海洋日」指定接駁偕同身障者探索珍貴生命時刻",
+    "slug": "fosun-tourism-supports-asias-first-accessible-water-activity-inaugural-taiwan-ac-zh-9a36241f",
+    "lang": "zh-TW",
+    "summary": "福斯商旅以WeNotMe精神支持亞洲首創無障礙水上活動，首屆台灣無障礙海洋日提供指定接駁車，帶領身障者參與體驗，共同探索珍貴的生命時刻。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "accessible water activity",
+      "Taiwan Accessible Ocean Day",
+      "disability inclusion",
+      "marine tourism"
+    ],
+    "sourceName": "Yahoo - 汽機車",
+    "sourceUrl": "https://autos.yahoo.com.tw/news/%E7%A6%8F%E6%96%AF%E5%95%86%E6%97%85-wenotme%E7%B2%BE%E7%A5%9E%E5%8A%9B%E6%8C%BA%E4%BA%9E%E6%B4%B2%E9%A6%96%E5%89%B5%E7%84%A1%E9%9A%9C%E7%A4%99%E6%B0%B4%E4%B8%8A%E6%B4%BB%E5%8B%95%E9%A6%96%E5%B1%86-%E5%8F%B0%E7%81%A3%E7%84%A1%E9%9A%9C%E7%A4%99%E6%B5%B7%E6%B4%8B%E6%97%A5-%E6%8C%87%E5%AE%9A%E6%8E%A5%E9%A7%81-%E5%81%95%E5%90%8C%E8%BA%AB%E9%9A%9C%E8%80%85%E6%8E%A2%E7%B4%A2%E7%8F%8D%E8%B2%B4%E7%94%9F%E5%91%BD%E6%99%82%E5%88%BB-150340350.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo - 汽機車",
+        "url": "https://autos.yahoo.com.tw/news/%E7%A6%8F%E6%96%AF%E5%95%86%E6%97%85-wenotme%E7%B2%BE%E7%A5%9E%E5%8A%9B%E6%8C%BA%E4%BA%9E%E6%B4%B2%E9%A6%96%E5%89%B5%E7%84%A1%E9%9A%9C%E7%A4%99%E6%B0%B4%E4%B8%8A%E6%B4%BB%E5%8B%95%E9%A6%96%E5%B1%86-%E5%8F%B0%E7%81%A3%E7%84%A1%E9%9A%9C%E7%A4%99%E6%B5%B7%E6%B4%8B%E6%97%A5-%E6%8C%87%E5%AE%9A%E6%8E%A5%E9%A7%81-%E5%81%95%E5%90%8C%E8%BA%AB%E9%9A%9C%E8%80%85%E6%8E%A2%E7%B4%A2%E7%8F%8D%E8%B2%B4%E7%94%9F%E5%91%BD%E6%99%82%E5%88%BB-150340350.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-9a36241f",
+    "status": "published",
+    "translationOf": "fosun-tourism-supports-asias-first-accessible-water-activity-inaugural-taiwan-ac-9a36241f",
+    "publishedAt": "2026-04-29T17:15:20.000Z",
+    "fetchedAt": "2026-05-01T03:57:08.633Z",
+    "body": "福斯商旅以WeNotMe精神支持亞洲首創無障礙水上活動，首屆台灣無障礙海洋日提供指定接駁車，帶領身障者參與體驗，共同探索珍貴的生命時刻。\n\n原文來源： [Yahoo - 汽機車](https://autos.yahoo.com.tw/news/%E7%A6%8F%E6%96%AF%E5%95%86%E6%97%85-wenotme%E7%B2%BE%E7%A5%9E%E5%8A%9B%E6%8C%BA%E4%BA%9E%E6%B4%B2%E9%A6%96%E5%89%B5%E7%84%A1%E9%9A%9C%E7%A4%99%E6%B0%B4%E4%B8%8A%E6%B4%BB%E5%8B%95%E9%A6%96%E5%B1%86-%E5%8F%B0%E7%81%A3%E7%84%A1%E9%9A%9C%E7%A4%99%E6%B5%B7%E6%B4%8B%E6%97%A5-%E6%8C%87%E5%AE%9A%E6%8E%A5%E9%A7%81-%E5%81%95%E5%90%8C%E8%BA%AB%E9%9A%9C%E8%80%85%E6%8E%A2%E7%B4%A2%E7%8F%8D%E8%B2%B4%E7%94%9F%E5%91%BD%E6%99%82%E5%88%BB-150340350.html)"
+  },
+  {
+    "title": "盼活水湖著重無障礙設施改善 簡維國將持續監督",
+    "slug": "calls-for-improved-accessibility-facilities-at-huoshui-lake-jian-weiguo-to-conti-zh-6a44e2a1",
+    "lang": "zh-TW",
+    "summary": "民眾期望活水湖加強無障礙設施，立法委員簡維國表示將持續監督改善進度。",
+    "category": "physical-design",
+    "tags": [
+      "Huoshui Lake",
+      "accessibility facilities",
+      "infrastructure improvement",
+      "legislative oversight"
+    ],
+    "sourceName": "Yahoo新聞",
+    "sourceUrl": "https://tw.news.yahoo.com/%E7%9B%BC%E6%B4%BB%E6%B0%B4%E6%B9%96%E8%91%97%E9%87%8D%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A8%AD%E6%96%BD%E6%94%B9%E5%96%84-%E7%B0%A1%E7%B6%AD%E5%9C%8B%E5%B0%87%E6%8C%81%E7%BA%8C%E7%9B%A3%E7%9D%A3-073735253.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo新聞",
+        "url": "https://tw.news.yahoo.com/%E7%9B%BC%E6%B4%BB%E6%B0%B4%E6%B9%96%E8%91%97%E9%87%8D%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A8%AD%E6%96%BD%E6%94%B9%E5%96%84-%E7%B0%A1%E7%B6%AD%E5%9C%8B%E5%B0%87%E6%8C%81%E7%BA%8C%E7%9B%A3%E7%9D%A3-073735253.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-6a44e2a1",
+    "status": "published",
+    "translationOf": "calls-for-improved-accessibility-facilities-at-huoshui-lake-jian-weiguo-to-conti-6a44e2a1",
+    "publishedAt": "2026-04-16T07:00:00.000Z",
+    "fetchedAt": "2026-05-01T03:57:08.641Z",
+    "body": "民眾期望活水湖加強無障礙設施，立法委員簡維國表示將持續監督改善進度。\n\n原文來源： [Yahoo新聞](https://tw.news.yahoo.com/%E7%9B%BC%E6%B4%BB%E6%B0%B4%E6%B9%96%E8%91%97%E9%87%8D%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A8%AD%E6%96%BD%E6%94%B9%E5%96%84-%E7%B0%A1%E7%B6%AD%E5%9C%8B%E5%B0%87%E6%8C%81%E7%BA%8C%E7%9B%A3%E7%9D%A3-073735253.html)"
+  },
+  {
+    "title": "持續推動無障礙移動願景 福斯商旅Caddy Maxi EasyLife福祉車國際身心障礙者日正式亮相",
+    "slug": "fosun-tourism-continues-accessible-mobility-vision-with-caddy-maxi-easylife-welf-zh-78d63663",
+    "lang": "zh-TW",
+    "summary": "福斯商旅持續推動無障礙移動願景，在國際身心障礙者日發表Caddy Maxi EasyLife福祉車，提升行動障礙者的出行便利。",
+    "category": "assistive-tech",
+    "tags": [
+      "accessible vehicle",
+      "Caddy Maxi EasyLife",
+      "International Day of Persons with Disabilities",
+      "mobility aid"
+    ],
+    "sourceName": "Yahoo - 汽機車",
+    "sourceUrl": "https://autos.yahoo.com.tw/news/%E6%8C%81%E7%BA%8C%E6%8E%A8%E5%8B%95%E7%84%A1%E9%9A%9C%E7%A4%99%E7%A7%BB%E5%8B%95%E9%A1%98%E6%99%AF-%E7%A6%8F%E6%96%AF%E5%95%86%E6%97%85caddy-maxi-easylife%E7%A6%8F%E7%A5%89%E8%BB%8A%E5%9C%8B%E9%9A%9B%E8%BA%AB%E5%BF%83%E9%9A%9C%E7%A4%99%E8%80%85%E6%97%A5%E6%AD%A3%E5%BC%8F%E4%BA%AE%E7%9B%B8-063530492.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo - 汽機車",
+        "url": "https://autos.yahoo.com.tw/news/%E6%8C%81%E7%BA%8C%E6%8E%A8%E5%8B%95%E7%84%A1%E9%9A%9C%E7%A4%99%E7%A7%BB%E5%8B%95%E9%A1%98%E6%99%AF-%E7%A6%8F%E6%96%AF%E5%95%86%E6%97%85caddy-maxi-easylife%E7%A6%8F%E7%A5%89%E8%BB%8A%E5%9C%8B%E9%9A%9B%E8%BA%AB%E5%BF%83%E9%9A%9C%E7%A4%99%E8%80%85%E6%97%A5%E6%AD%A3%E5%BC%8F%E4%BA%AE%E7%9B%B8-063530492.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-78d63663",
+    "status": "published",
+    "translationOf": "fosun-tourism-continues-accessible-mobility-vision-with-caddy-maxi-easylife-welf-78d63663",
+    "publishedAt": "2026-04-28T08:17:37.000Z",
+    "fetchedAt": "2026-05-01T03:57:08.649Z",
+    "body": "福斯商旅持續推動無障礙移動願景，在國際身心障礙者日發表Caddy Maxi EasyLife福祉車，提升行動障礙者的出行便利。\n\n原文來源： [Yahoo - 汽機車](https://autos.yahoo.com.tw/news/%E6%8C%81%E7%BA%8C%E6%8E%A8%E5%8B%95%E7%84%A1%E9%9A%9C%E7%A4%99%E7%A7%BB%E5%8B%95%E9%A1%98%E6%99%AF-%E7%A6%8F%E6%96%AF%E5%95%86%E6%97%85caddy-maxi-easylife%E7%A6%8F%E7%A5%89%E8%BB%8A%E5%9C%8B%E9%9A%9B%E8%BA%AB%E5%BF%83%E9%9A%9C%E7%A4%99%E8%80%85%E6%97%A5%E6%AD%A3%E5%BC%8F%E4%BA%AE%E7%9B%B8-063530492.html)"
+  },
+  {
+    "title": "西拉雅打造友善無障礙助力身障者勇闖二寮圓夢 - 蕃新聞",
+    "slug": "siliya-creates-friendly-accessibility-to-empower-disabled-persons-to-realize-dre-zh-8ced1b5d",
+    "lang": "zh-TW",
+    "summary": "文章說明西拉雅建構友善無障礙設施，協助身障者順暢前往二寮旅遊，推動友善觀光。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "tourism",
+      "disability",
+      "Erliao",
+      "Siliya"
+    ],
+    "sourceName": "蕃新聞",
+    "sourceUrl": "https://n.yam.com/Article/20260417969399",
+    "relatedSources": [
+      {
+        "name": "蕃新聞",
+        "url": "https://n.yam.com/Article/20260417969399"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-8ced1b5d",
+    "status": "published",
+    "translationOf": "siliya-creates-friendly-accessibility-to-empower-disabled-persons-to-realize-dre-8ced1b5d",
+    "publishedAt": "2026-04-18T01:16:49.000Z",
+    "fetchedAt": "2026-05-01T03:57:41.433Z",
+    "body": "文章說明西拉雅建構友善無障礙設施，協助身障者順暢前往二寮旅遊，推動友善觀光。\n\n原文來源： [蕃新聞](https://n.yam.com/Article/20260417969399)"
+  },
+  {
+    "title": "Wijmo 2026J v1 發行：JavaScript UI 庫增強以符合 WCAG 2.2 AA 標準",
+    "slug": "wijmo-2026j-v1-released-javascript-ui-library-enhanced-for-wcag-22-aa-compliance-zh-cda8b3c2",
+    "lang": "zh-TW",
+    "summary": "Wijmo 2026J v1 版本發布，加強無障礙功能以符合 WCAG 2.2 AA 標準，提升殘障人士的使用體驗。",
+    "category": "digital-a11y",
+    "tags": [
+      "WCAG 2.2",
+      "JavaScript UI",
+      "Wijmo",
+      "accessibility",
+      "digital accessibility"
+    ],
+    "sourceName": "千葉テレビ放送株式会社",
+    "sourceUrl": "https://www.chiba-tv.com/plus/detail/2026041572483",
+    "relatedSources": [
+      {
+        "name": "千葉テレビ放送株式会社",
+        "url": "https://www.chiba-tv.com/plus/detail/2026041572483"
+      }
+    ],
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3&hl=ja&gl=JP&ceid=JP%3Aja",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-cda8b3c2",
+    "status": "published",
+    "translationOf": "wijmo-2026j-v1-released-javascript-ui-library-enhanced-for-wcag-22-aa-compliance-cda8b3c2",
+    "publishedAt": "2026-04-28T02:04:49.000Z",
+    "fetchedAt": "2026-05-01T03:57:41.448Z",
+    "body": "Wijmo 2026J v1 版本發布，加強無障礙功能以符合 WCAG 2.2 AA 標準，提升殘障人士的使用體驗。\n\n原文來源： [千葉テレビ放送株式会社](https://www.chiba-tv.com/plus/detail/2026041572483)"
+  },
+  {
+    "title": "Servo 部落格：Servo 三月更新：鍵盤導航、更佳除錯、FreeBSD 支援等",
+    "slug": "the-servo-blog-march-in-servo-keyboard-navigation-better-debugging-freebsd-suppo-zh-4295fd04",
+    "lang": "zh-TW",
+    "summary": "Servo 三月更新加強鍵盤導航，提升依賴 tab 導航使用者的無障礙體驗，同時提供更佳除錯與 FreeBSD 支援。",
+    "category": "digital-a11y",
+    "tags": [
+      "Servo",
+      "keyboard navigation",
+      "accessibility",
+      "browser engine",
+      "FreeBSD"
+    ],
+    "sourceName": "Servo.org",
+    "sourceUrl": "https://servo.org/blog/2026/04/30/march-in-servo",
+    "relatedSources": [
+      {
+        "name": "Servo.org",
+        "url": "https://servo.org/blog/2026/04/30/march-in-servo"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-4295fd04",
+    "status": "published",
+    "translationOf": "the-servo-blog-march-in-servo-keyboard-navigation-better-debugging-freebsd-suppo-4295fd04",
+    "publishedAt": "2026-04-30T00:00:00.000Z",
+    "fetchedAt": "2026-05-01T03:57:41.456Z",
+    "body": "Servo 三月更新加強鍵盤導航，提升依賴 tab 導航使用者的無障礙體驗，同時提供更佳除錯與 FreeBSD 支援。\n\n原文來源： [Servo.org](https://servo.org/blog/2026/04/30/march-in-servo)"
+  },
+  {
+    "title": "中彰投身障就博會5/8登場 25家企業釋500職缺搶才",
+    "slug": "changhua-investment-disability-job-fair-to-launch-on-may-8-with-25-companies-off-zh-7727a59c",
+    "lang": "zh-TW",
+    "summary": "勞動部勞動力發展署中彰投分署將於5月8日在台中世界貿易中心二館舉辦「2026年身心障礙者就業博覽會」，邀請25家友善企業提供超過500個多元職缺，並結合職業重建、職務再設計及合理調整示範等服務，協助身障朋友掌握就業機會、探索職涯方向。",
+    "category": "laws-rights",
+    "tags": [
+      "disability employment",
+      "job fair",
+      "Taiwan",
+      "Changhua"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E4%B8%AD%E5%BD%B0%E6%8A%95%E8%BA%AB%E9%9A%9C%E5%B0%B1%E5%8D%9A%E6%9C%835-8%E7%99%BB%E5%A0%B4-25%E5%AE%B6%E4%BC%81%E6%A5%AD%E9%87%8B500%E8%81%B7%E7%BC%BA%E6%90%B6%E6%89%8D-034816637.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%BD%B0%E6%8A%95%E8%BA%AB%E9%9A%9C%E5%B0%B1%E5%8D%9A%E6%9C%835-8%E7%99%BB%E5%A0%B4-25%E5%AE%B6%E4%BC%81%E6%A5%AD%E9%87%8B500%E8%81%B7%E7%BC%BA%E6%90%B6%E6%89%8D-034816637.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-7727a59c",
+    "status": "published",
+    "translationOf": "changhua-investment-disability-job-fair-to-launch-on-may-8-with-25-companies-off-7727a59c",
+    "publishedAt": "2026-04-30T03:48:16.000Z",
+    "fetchedAt": "2026-05-01T03:58:12.030Z",
+    "body": "勞動部勞動力發展署中彰投分署將於5月8日在台中世界貿易中心二館舉辦「2026年身心障礙者就業博覽會」，邀請25家友善企業提供超過500個多元職缺，並結合職業重建、職務再設計及合理調整示範等服務，協助身障朋友掌握就業機會、探索職涯方向。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E4%B8%AD%E5%BD%B0%E6%8A%95%E8%BA%AB%E9%9A%9C%E5%B0%B1%E5%8D%9A%E6%9C%835-8%E7%99%BB%E5%A0%B4-25%E5%AE%B6%E4%BC%81%E6%A5%AD%E9%87%8B500%E8%81%B7%E7%BC%BA%E6%90%B6%E6%89%8D-034816637.html)"
+  },
+  {
+    "title": "龍井手球小將與身障國手 祈求大甲媽庇佑國際賽佳績",
+    "slug": "dragon-well-handball-youth-team-and-disabled-national-athletes-pray-to-mazu-for--zh-b58532f1",
+    "lang": "zh-TW",
+    "summary": "世界三大宗教盛事「大甲媽祖遶境進香」回鑾後，持續吸引信眾進香祈福，近百名身障運動員、亞帕運國手及龍井國中小手球隊員，祈求媽祖庇佑5月「115年全國身心障礙國民運動會」，以及7月遠征斯洛維尼亞參加國際手球分齡賽都能有好成績。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disabled sports",
+      "handball",
+      "Mazu prayer",
+      "Taichung"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dbc9e486-37c0-470b-ae37-745c0d50a8b4",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dbc9e486-37c0-470b-ae37-745c0d50a8b4"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-b58532f1",
+    "status": "published",
+    "translationOf": "dragon-well-handball-youth-team-and-disabled-national-athletes-pray-to-mazu-for--b58532f1",
+    "publishedAt": "2026-04-29T22:23:23.000Z",
+    "fetchedAt": "2026-05-01T03:58:12.039Z",
+    "body": "世界三大宗教盛事「大甲媽祖遶境進香」回鑾後，持續吸引信眾進香祈福，近百名身障運動員、亞帕運國手及龍井國中小手球隊員，祈求媽祖庇佑5月「115年全國身心障礙國民運動會」，以及7月遠征斯洛維尼亞參加國際手球分齡賽都能有好成績。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dbc9e486-37c0-470b-ae37-745c0d50a8b4)"
+  },
+  {
+    "title": "愛玩車／yoxi推出兩新功能 助長者搭車更方便",
+    "slug": "yoxi-launches-ai-doorplate-recognition-and-accessible-entrance-guidance-to-aid-s-zh-986c225c",
+    "lang": "zh-TW",
+    "summary": "面對銀髮族「行」的需求，yoxi 推出 AI 門牌辨識（Snap to Go）與無障礙出入口導引功能，結合原有輪椅收納與協助上車備註，盼打破數位鴻溝，降低叫車門檻，提升使用友善程度。",
+    "category": "digital-a11y",
+    "tags": [
+      "senior mobility",
+      "AI doorplate",
+      "accessible transport",
+      "yoxi"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%84%9B%E7%8E%A9%E8%BB%8A-yoxi%E6%8E%A8%E5%87%BA%E5%85%A9%E6%96%B0%E5%8A%9F%E8%83%BD-%E5%8A%A9%E9%95%B7%E8%80%85%E6%90%AD%E8%BB%8A%E6%9B%B4%E6%96%B9%E4%BE%BF-141700536.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E6%84%9B%E7%8E%A9%E8%BB%8A-yoxi%E6%8E%A8%E5%87%BA%E5%85%A9%E6%96%B0%E5%8A%9F%E8%83%BD-%E5%8A%A9%E9%95%B7%E8%80%85%E6%90%AD%E8%BB%8A%E6%9B%B4%E6%96%B9%E4%BE%BF-141700536.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-986c225c",
+    "status": "published",
+    "translationOf": "yoxi-launches-ai-doorplate-recognition-and-accessible-entrance-guidance-to-aid-s-986c225c",
+    "publishedAt": "2026-04-29T14:17:00.000Z",
+    "fetchedAt": "2026-05-01T04:00:51.614Z",
+    "body": "面對銀髮族「行」的需求，yoxi 推出 AI 門牌辨識（Snap to Go）與無障礙出入口導引功能，結合原有輪椅收納與協助上車備註，盼打破數位鴻溝，降低叫車門檻，提升使用友善程度。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E6%84%9B%E7%8E%A9%E8%BB%8A-yoxi%E6%8E%A8%E5%87%BA%E5%85%A9%E6%96%B0%E5%8A%9F%E8%83%BD-%E5%8A%A9%E9%95%B7%E8%80%85%E6%90%AD%E8%BB%8A%E6%9B%B4%E6%96%B9%E4%BE%BF-141700536.html)"
+  },
+  {
+    "title": "十分瀑布5月起延長開園迎夏季 串聯平溪線山城風光",
+    "slug": "shifen-waterfall-extends-opening-hours-and-adds-wheelchairfriendly-accessible-ro-zh-65237dd0",
+    "lang": "zh-TW",
+    "summary": "新北觀光旅遊局宣布，五月一日至九月三十分延長開園時間一小時，開放上午九時至下午六時。園區已優化平緩坡道步道，並串聯新設無障礙通道，讓輪椅與嬰兒車皆能輕鬆通行，完成最後一哩路。",
+    "category": "physical-design",
+    "tags": [
+      "Shifen Waterfall",
+      "accessible path",
+      "wheelchair",
+      "stroller",
+      "tourism"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2f411c39-7999-48c1-b638-d6f7f9d5f1d9",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2f411c39-7999-48c1-b638-d6f7f9d5f1d9"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-65237dd0",
+    "status": "published",
+    "translationOf": "shifen-waterfall-extends-opening-hours-and-adds-wheelchairfriendly-accessible-ro-65237dd0",
+    "publishedAt": "2026-04-29T06:36:06.000Z",
+    "fetchedAt": "2026-05-01T04:00:51.622Z",
+    "body": "新北觀光旅遊局宣布，五月一日至九月三十分延長開園時間一小時，開放上午九時至下午六時。園區已優化平緩坡道步道，並串聯新設無障礙通道，讓輪椅與嬰兒車皆能輕鬆通行，完成最後一哩路。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2f411c39-7999-48c1-b638-d6f7f9d5f1d9)"
+  },
+  {
+    "title": "台灣第一文學步道升級 基隆天鵝洞整修完工啟用",
+    "slug": "keelung-upgrades-taiwans-first-literary-path-with-accessible-ramp-and-improved-t-zh-2977ff80",
+    "lang": "zh-TW",
+    "summary": "有「台灣第一文學步道」的基隆市中正公園天鵝洞，步道老舊龜裂有安全顧慮，市府設置無障礙坡道及優化園區步道今天啟用，結合文學與自然生態休閒秘境。",
+    "category": "physical-design",
+    "tags": [
+      "Keelung",
+      "literary path",
+      "accessible ramp",
+      "park renovation"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9ed5a424-22f2-40f3-b1aa-9b639b9811bd",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9ed5a424-22f2-40f3-b1aa-9b639b9811bd"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-2977ff80",
+    "status": "published",
+    "translationOf": "keelung-upgrades-taiwans-first-literary-path-with-accessible-ramp-and-improved-t-2977ff80",
+    "publishedAt": "2026-04-29T05:18:06.000Z",
+    "fetchedAt": "2026-05-01T04:00:51.630Z",
+    "body": "有「台灣第一文學步道」的基隆市中正公園天鵝洞，步道老舊龜裂有安全顧慮，市府設置無障礙坡道及優化園區步道今天啟用，結合文學與自然生態休閒秘境。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9ed5a424-22f2-40f3-b1aa-9b639b9811bd)"
+  },
+  {
+    "title": "機車停停車格被移動\"壓車格線\" 男子遭罰1200喊冤",
+    "slug": "man-fined-nt1200-after-motorcycles-stand-presses-disability-parking-line-zh-2e4dbc9f",
+    "lang": "zh-TW",
+    "summary": "新北市一名男子將機車停在一般停車格內，後來機車被他人移動，導致機車中柱壓在身心障礙車格線上，因而被檢舉並開出1200元罰單。男子稱自己已停放數天，不知何時被移動，來不及申訴，感到冤枉。",
+    "category": "laws-rights",
+    "tags": [
+      "disability parking",
+      "fine",
+      "New Taipei City",
+      "motorbike"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9c48c823-6241-4660-add6-59c104bcc050",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9c48c823-6241-4660-add6-59c104bcc050"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-2e4dbc9f",
+    "status": "published",
+    "translationOf": "man-fined-nt1200-after-motorcycles-stand-presses-disability-parking-line-2e4dbc9f",
+    "publishedAt": "2026-04-29T01:47:45.000Z",
+    "fetchedAt": "2026-05-01T04:01:18.919Z",
+    "body": "新北市一名男子將機車停在一般停車格內，後來機車被他人移動，導致機車中柱壓在身心障礙車格線上，因而被檢舉並開出1200元罰單。男子稱自己已停放數天，不知何時被移動，來不及申訴，感到冤枉。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9c48c823-6241-4660-add6-59c104bcc050)"
   }
 ]
