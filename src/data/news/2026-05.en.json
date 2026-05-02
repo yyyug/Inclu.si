@@ -2479,5 +2479,104 @@
     "publishedAt": "2026-05-02T02:41:02.000Z",
     "fetchedAt": "2026-05-02T03:58:47.875Z",
     "body": "The tweet recalls how low-cost Raspberry Pi devices once offered accessibility and versatility, lamenting their current high price.\nTweet source: [G (@_SimplyG)](https://x.com/_SimplyG/status/2050405171226624420)"
+  },
+  {
+    "title": "Taoyuan Yangmei Sports Park to Install Accessible Baseball/Softball Field, Expected Completion in First Half of Next Year",
+    "slug": "taoyuan-yangmei-sports-park-to-install-accessible-baseballsoftball-field-expecte-3603591e",
+    "lang": "en",
+    "summary": "Taoyuan Yangmei Sports Park will install accessible baseball/softball fields, etc., with completion expected in the first half of next year.",
+    "category": "physical-design",
+    "tags": [
+      "accessible sports",
+      "baseball",
+      "Taoyuan",
+      "Yangmei"
+    ],
+    "sourceName": "自由時報",
+    "sourceUrl": "https://news.ltn.com.tw/news/Taoyuan/breakingnews/5422902",
+    "relatedSources": [
+      {
+        "name": "自由時報",
+        "url": "https://news.ltn.com.tw/news/Taoyuan/breakingnews/5422902"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3603591e",
+    "status": "published",
+    "translationOf": "taoyuan-yangmei-sports-park-to-install-accessible-baseballsoftball-field-expecte-zh-3603591e",
+    "publishedAt": "2026-05-02T03:40:25.000Z",
+    "fetchedAt": "2026-05-02T07:59:52.704Z",
+    "body": "Taoyuan Yangmei Sports Park will install accessible baseball/softball fields, etc., with completion expected in the first half of next year.\n\nRead more from the original source: [自由時報](https://news.ltn.com.tw/news/Taoyuan/breakingnews/5422902)"
+  },
+  {
+    "title": "Banqiao Rural Park's Triple Courtyard Revitalized into New Arts and Culture Venue",
+    "slug": "banqiao-rural-parks-triple-courtyard-revitalized-into-new-arts-and-culture-venue-d1d4ed02",
+    "lang": "en",
+    "summary": "The Banqiao Rural Park's triple courtyard underwent five months of renovation, removing walls to expand space, adding a plaza, accessible ramp, four sets of fitness equipment, flower arches, landscape pond, wooden platform and seating, and landscape lighting for safety and aesthetics.",
+    "category": "physical-design",
+    "tags": [
+      "accessible ramp",
+      "public park",
+      "Banqiao",
+      "cultural venue"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%9D%BF%E6%A9%8B%E8%BE%B2%E6%9D%91%E5%85%AC%E5%9C%92%E4%B8%89%E5%90%88%E9%99%A2%E5%86%8D%E7%94%9F-%E5%8C%96%E8%BA%AB%E8%97%9D%E6%96%87%E5%B1%95%E6%BC%94%E6%96%B0%E6%93%9A%E9%BB%9E-072929433.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E6%9D%BF%E6%A9%8B%E8%BE%B2%E6%9D%91%E5%85%AC%E5%9C%92%E4%B8%89%E5%90%88%E9%99%A2%E5%86%8D%E7%94%9F-%E5%8C%96%E8%BA%AB%E8%97%9D%E6%96%87%E5%B1%95%E6%BC%94%E6%96%B0%E6%93%9A%E9%BB%9E-072929433.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-d1d4ed02",
+    "status": "published",
+    "translationOf": "banqiao-rural-parks-triple-courtyard-revitalized-into-new-arts-and-culture-venue-zh-d1d4ed02",
+    "publishedAt": "2026-05-01T07:29:29.000Z",
+    "fetchedAt": "2026-05-02T07:59:52.710Z",
+    "body": "The Banqiao Rural Park's triple courtyard underwent five months of renovation, removing walls to expand space, adding a plaza, accessible ramp, four sets of fitness equipment, flower arches, landscape pond, wooden platform and seating, and landscape lighting for safety and aesthetics.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E6%9D%BF%E6%A9%8B%E8%BE%B2%E6%9D%91%E5%85%AC%E5%9C%92%E4%B8%89%E5%90%88%E9%99%A2%E5%86%8D%E7%94%9F-%E5%8C%96%E8%BA%AB%E8%97%9D%E6%96%87%E5%B1%95%E6%BC%94%E6%96%B0%E6%93%9A%E9%BB%9E-072929433.html)"
+  },
+  {
+    "title": "Banqiao Rural Park's Triple Courtyard Opens, Transformed into Arts and Performance Venue",
+    "slug": "banqiao-rural-parks-triple-courtyard-opens-transformed-into-arts-and-performance-d717f89e",
+    "lang": "en",
+    "summary": "Banqiao Rural Park's triple courtyard has opened after five months of renovation, featuring an accessible ramp, plaza, fitness equipment, flower arches, landscape pond, wooden platform, seating, and landscape lighting, enhancing safety and beauty.",
+    "category": "physical-design",
+    "tags": [
+      "accessible ramp",
+      "public park",
+      "Banqiao",
+      "cultural venue"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e1ce0e5d-8dd3-499f-a9f8-4d73c09b40aa",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e1ce0e5d-8dd3-499f-a9f8-4d73c09b40aa"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-d717f89e",
+    "status": "published",
+    "translationOf": "banqiao-rural-parks-triple-courtyard-opens-transformed-into-arts-and-performance-zh-d717f89e",
+    "publishedAt": "2026-05-01T06:05:00.000Z",
+    "fetchedAt": "2026-05-02T07:59:52.714Z",
+    "body": "Banqiao Rural Park's triple courtyard has opened after five months of renovation, featuring an accessible ramp, plaza, fitness equipment, flower arches, landscape pond, wooden platform, seating, and landscape lighting, enhancing safety and beauty.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e1ce0e5d-8dd3-499f-a9f8-4d73c09b40aa)"
   }
 ]
