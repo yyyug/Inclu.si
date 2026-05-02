@@ -27,7 +27,6 @@ jobs:
 
       - name: Fetch, generate, and cluster stories
         id: news_ingest
-        continue-on-error: true
         shell: bash
         run: |
           set -o pipefail
@@ -60,48 +59,20 @@ jobs:
           if-no-files-found: ignore
           retention-days: 2
 
-      - name: Build concise run summary
-        if: always()
-        shell: bash
-        run: |
-          {
-            echo "workflow: news-ingest"
-            echo "run_id: ${{ github.run_id }}"
-            echo "run_attempt: ${{ github.run_attempt }}"
-            echo "job_status: ${{ job.status }}"
-            echo "ref: ${{ github.ref_name }}"
-            echo "sha: ${{ github.sha }}"
-            echo "generated_at_utc: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
-            if [ -f ingest.log ]; then
-              echo "log_tail:"
-              tail -n 60 ingest.log
-            else
-              echo "log_tail: ingest.log not found"
-            fi
-          } > ingest-summary.txt
-
-      - name: Upload concise run summary
-        if: always()
-        continue-on-error: true
-        uses: actions/upload-artifact@v4
-        with:
-          name: ingest-summary-${{ github.run_id }}
-          path: ingest-summary.txt
-          if-no-files-found: ignore
-          retention-days: 2
-
       - name: Commit generated content
         if: always()
         run: |
           git add src/data/news
           if git diff --cached --quiet; then
             echo "No changes to commit"
+            echo "COMMITTED_YES_NO=no" >> "$GITHUB_ENV"
           else
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git commit -m "chore: ingest accessibility news"
             for attempt in 1 2 3; do
               if git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
+                echo "COMMITTED_YES_NO=yes" >> "$GITHUB_ENV"
                 exit 0
               fi
               echo "Push attempt ${attempt} failed; retrying..."
@@ -115,3 +86,49 @@ jobs:
         shell: bash
         run: |
           echo "news_ingest=${{ steps.news_ingest.outcome }}"
+
+      - name: Build concise run summary
+        if: always()
+        shell: bash
+        run: |
+          if [ -f ingest.log ]; then
+            rss_returned=$(grep -Eo '\[news\] rss_candidates=[0-9]+' ingest.log | tail -1 | cut -d= -f2)
+            newsapi_returned=$(grep -Eo '\[news\] newsapi_candidates=[0-9]+' ingest.log | tail -1 | cut -d= -f2)
+          else
+            rss_returned="n/a"
+            newsapi_returned="n/a"
+          fi
+
+          rss_returned=${rss_returned:-n/a}
+          newsapi_returned=${newsapi_returned:-n/a}
+
+          {
+            echo "workflow=news-ingest"
+            echo "run_id=${{ github.run_id }}"
+            echo "run_attempt=${{ github.run_attempt }}"
+            echo "job_status=${{ job.status }}"
+            echo "ref=${{ github.ref_name }}"
+            echo "sha=${{ github.sha }}"
+            echo "generated_at_utc=$(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            echo "rss_returned=${rss_returned}"
+            echo "newsapi_returned=${newsapi_returned}"
+            echo "tweets_returned=n/a"
+            echo "facebook_returned=n/a"
+            echo "committed_yes_no=${COMMITTED_YES_NO:-no}"
+            if [ -f ingest.log ]; then
+              echo "log_tail:"
+              tail -n 60 ingest.log
+            else
+              echo "log_tail=ingest.log not found"
+            fi
+          } > ingest-summary.txt
+
+      - name: Upload concise run summary
+        if: always()
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: ingest-summary-${{ github.run_id }}
+          path: ingest-summary.txt
+          if-no-files-found: ignore
+          retention-days: 2
