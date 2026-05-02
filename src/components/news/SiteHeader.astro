@@ -9,7 +9,6 @@ interface Props {
 const { locale } = Astro.props;
 const copy = siteCopy[locale];
 const searchHref = `${localeBasePath(locale)}/search`;
-const contactHref = `${localeBasePath(locale)}/contact`;
 ---
 
 <header class="relative overflow-hidden rounded-3xl border border-slate-200 bg-gradient-to-br from-slate-50 via-white to-indigo-50 p-5 sm:p-10">
@@ -24,13 +23,6 @@ const contactHref = `${localeBasePath(locale)}/contact`;
       </h1>
       <p class="mt-4 max-w-2xl font-['Merriweather'] text-lg leading-relaxed text-slate-700">
         {copy.subtitle}
-      </p>
-      <p class="mt-3 max-w-2xl text-base leading-relaxed text-slate-600">
-        {copy.contactInvite}
-        <a href={contactHref} class="font-bold text-indigo-700 underline decoration-indigo-300 underline-offset-2 hover:text-indigo-800">
-          {copy.contactLinkLabel}
-        </a>
-        {locale === 'zh-TW' ? '。' : '.'}
       </p>
     </div>
 
