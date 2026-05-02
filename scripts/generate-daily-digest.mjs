@@ -16,7 +16,7 @@ const OLLAMA_API_KEY = requireEnv('OLLAMA_API_KEY');
 const OLLAMA_MODEL = requireEnv('OLLAMA_MODEL');
 const DIGEST_DATE = process.env.DIGEST_DATE ?? new Date().toISOString().slice(0, 10);
 const OLLAMA_TIMEOUT_MS = Number(process.env.OLLAMA_TIMEOUT_MS ?? 60000);
-const OLLAMA_MAX_TOKENS = Math.max(1, Math.min(100000, Number(process.env.OLLAMA_MAX_TOKENS ?? 100000)));
+const OLLAMA_MAX_TOKENS = Math.max(1, Math.min(65536, Number(process.env.OLLAMA_MAX_TOKENS ?? 4096)));
 const DIGEST_LOOKBACK_HOURS = Number(
   process.env.DIGEST_LOOKBACK_HOURS
   ?? (Number(process.env.DIGEST_LOOKBACK_DAYS ?? 0) > 0 ? Number(process.env.DIGEST_LOOKBACK_DAYS) * 24 : 25),
