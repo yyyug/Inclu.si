@@ -1,47 +1,47 @@
 {
-  "date": "2026-04-30",
-  "generatedAt": "2026-04-30T04:09:41.858Z",
+  "date": "2026-05-02",
+  "generatedAt": "2026-05-02T08:00:40.031Z",
   "en": {
-    "title": "Daily Accessibility Digest – April 30, 2026",
-    "summary": "Today's highlights include redesigning everyday furniture for better access, accessibility concerns at Fargo's new sports center, legal updates on museum inclusion efforts, and Starbucks Singapore's straw removal sparking accessibility debates.",
+    "title": "Daily Accessibility Digest – May 2, 2026",
+    "summary": "Highlights include a new accessibility project at Harlem subway station, Sikkim's launch of India's first paperless judiciary, NYC's 2026 Five-Year Accessibility Plan benchmark report, and Apple's iOS 26.5 preview of upcoming accessibility features.",
     "highlights": [
       {
-        "title": "Reprogramming Couch for Accessibility",
-        "slug": "reprogramming-couch-for-accessibility-0d84d85c"
+        "title": "New accessibility project opens at Harlem subway station",
+        "slug": "new-accessibility-project-opens-at-harlem-subway-station-b7d2f463"
       },
       {
-        "title": "Fargo Parks Sports Center Accessibility Concerns",
-        "slug": "fargo-parks-sports-center-accessibility-concerns-40e0b929"
+        "title": "Sikkim launches India's first paperless judiciary to improve access to justice",
+        "slug": "sikkim-launches-indias-first-paperless-judiciary-to-improve-access-to-justice-ba07ec22"
       },
       {
-        "title": "Legal Updates on Museum Inclusion Efforts",
-        "slug": "legal-updates-on-museum-inclusion-efforts-928161bb"
+        "title": "Five-Year Accessibility Plan 2026 Benchmark - NYC.gov",
+        "slug": "five-year-accessibility-plan-2026-benchmark-nycgov-f5043cfd"
       },
       {
-        "title": "Starbucks Singapore Removes Straws, Sparks Accessibility Concerns",
-        "slug": "starbucks-singapore-removes-straws-sparks-accessibility-concerns-ff0444fa"
+        "title": "Apple releases iOS 26.5 update with accessibility features preview",
+        "slug": "apple-releases-ios-265-update-with-accessibility-features-preview-f27445b1"
       }
     ]
   },
   "zh-TW": {
-    "title": "每日無障礙消息 – 2026年4月30日",
-    "summary": "今日重點包括重新設計日常家具以提升無障礙、法戈新體育中心的無障礙問題、博物館包容性的法律更新，以及星巴克新加坡移除吸管引發的無障礙爭議。",
+    "title": "每日無障礙 digest – 2026年5月2日",
+    "summary": "重點包括哈萊姆地鐵站新無障礙項目、錫金推出印度首個無紙化司法系統、紐約市政府2026年五年無障礙計畫基準報告，以及蘋果發布iOS 26.5更新並預覽新無障礙功能。",
     "highlights": [
       {
-        "title": "重新编程沙发以提升无障碍",
-        "slug": "reprogramming-couch-for-accessibility-zh-0d84d85c"
+        "title": "哈萊姆地鐵站新無障礙項目啟用",
+        "slug": "new-accessibility-project-opens-at-harlem-subway-station-zh-b7d2f463"
       },
       {
-        "title": "法戈公园体育中心无障碍问题",
-        "slug": "fargo-parks-sports-center-accessibility-concerns-zh-40e0b929"
+        "title": "锡金推出印度首个无纸化司法系统以提升司法可及性",
+        "slug": "sikkim-launches-indias-first-paperless-judiciary-to-improve-access-to-justice-zh-ba07ec22"
       },
       {
-        "title": "博物馆包容性工作的法律更新",
-        "slug": "legal-updates-on-museum-inclusion-efforts-zh-928161bb"
+        "title": "纽约市政府五年无障碍计划2026基准报告",
+        "slug": "five-year-accessibility-plan-2026-benchmark-nycgov-zh-f5043cfd"
       },
       {
-        "title": "星巴克新加坡移除吸管，引发可及性担忧",
-        "slug": "starbucks-singapore-removes-straws-sparks-accessibility-concerns-zh-ff0444fa"
+        "title": "Apple 發布 iOS 26.5 更新，預覽無障礙功能",
+        "slug": "apple-releases-ios-265-update-with-accessibility-features-preview-zh-f27445b1"
       }
     ]
   }
