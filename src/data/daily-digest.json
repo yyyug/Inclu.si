@@ -1,47 +1,39 @@
 {
-  "date": "2026-05-02",
-  "generatedAt": "2026-05-02T08:00:40.031Z",
+  "date": "2026-05-03",
+  "generatedAt": "2026-05-03T04:26:22.944Z",
   "en": {
-    "title": "Daily Accessibility Digest – May 2, 2026",
-    "summary": "Highlights include a new accessibility project at Harlem subway station, Sikkim's launch of India's first paperless judiciary, NYC's 2026 Five-Year Accessibility Plan benchmark report, and Apple's iOS 26.5 preview of upcoming accessibility features.",
+    "title": "Accessibility Highlights: Tax Filing Upgrades, Playground Improvements, and Curb Ramp Advocacy",
+    "summary": "Today's digest highlights a new upgrade to the tax filing system adding accessible web operations, a Wilmington playground renovation to improve accessibility for children, and a community complaint about insufficient curb ramps prompting accessibility advocacy.",
     "highlights": [
       {
-        "title": "New accessibility project opens at Harlem subway station",
-        "slug": "new-accessibility-project-opens-at-harlem-subway-station-b7d2f463"
+        "title": "Tax Filing System Upgrade Adds More Friendly Accessible Web Operations",
+        "slug": "tax-filing-system-upgrade-adds-more-friendly-accessible-web-operations-1489015b"
       },
       {
-        "title": "Sikkim launches India's first paperless judiciary to improve access to justice",
-        "slug": "sikkim-launches-indias-first-paperless-judiciary-to-improve-access-to-justice-ba07ec22"
+        "title": "Wilmington playground getting an upgrade to make it more accessible",
+        "slug": "wilmington-playground-getting-an-upgrade-to-make-it-more-accessible-10571ead"
       },
       {
-        "title": "Five-Year Accessibility Plan 2026 Benchmark - NYC.gov",
-        "slug": "five-year-accessibility-plan-2026-benchmark-nycgov-f5043cfd"
-      },
-      {
-        "title": "Apple releases iOS 26.5 update with accessibility features preview",
-        "slug": "apple-releases-ios-265-update-with-accessibility-features-preview-f27445b1"
+        "title": "Curb Ramp Shortage Prompts Accessibility Complaint",
+        "slug": "curb-ramp-shortage-prompts-accessibility-complaint-46a3ef2f"
       }
     ]
   },
   "zh-TW": {
-    "title": "每日無障礙 digest – 2026年5月2日",
-    "summary": "重點包括哈萊姆地鐵站新無障礙項目、錫金推出印度首個無紙化司法系統、紐約市政府2026年五年無障礙計畫基準報告，以及蘋果發布iOS 26.5更新並預覽新無障礙功能。",
+    "title": "無障礙焦點：稅務申報系統升級、威明頓遊樂場改善及路縫坡不足倡議",
+    "summary": "今日摘要報導稅務申報系統新增友善無障礙網頁操作、威明頓遊樂場進行無障礙升級以方便殘障兒童，以及居民因路縫坡不足提出無障礙投訴，推動社區無障礙改善。",
     "highlights": [
       {
-        "title": "哈萊姆地鐵站新無障礙項目啟用",
-        "slug": "new-accessibility-project-opens-at-harlem-subway-station-zh-b7d2f463"
+        "title": "綜所稅報稅系統升級 新增無障礙網頁操作更友善",
+        "slug": "tax-filing-system-upgrade-adds-more-friendly-accessible-web-operations-zh-1489015b"
       },
       {
-        "title": "锡金推出印度首个无纸化司法系统以提升司法可及性",
-        "slug": "sikkim-launches-indias-first-paperless-judiciary-to-improve-access-to-justice-zh-ba07ec22"
+        "title": "威明頓遊樂場將進行升級以提升無障礙性",
+        "slug": "wilmington-playground-getting-an-upgrade-to-make-it-more-accessible-zh-10571ead"
       },
       {
-        "title": "纽约市政府五年无障碍计划2026基准报告",
-        "slug": "five-year-accessibility-plan-2026-benchmark-nycgov-zh-f5043cfd"
-      },
-      {
-        "title": "Apple 發布 iOS 26.5 更新，預覽無障礙功能",
-        "slug": "apple-releases-ios-265-update-with-accessibility-features-preview-zh-f27445b1"
+        "title": "路缘坡不足引发无障碍投诉",
+        "slug": "curb-ramp-shortage-prompts-accessibility-complaint-zh-46a3ef2f"
       }
     ]
   }
