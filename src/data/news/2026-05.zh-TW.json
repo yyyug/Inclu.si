@@ -3980,5 +3980,137 @@
     "publishedAt": "2026-05-03T04:03:22.000Z",
     "fetchedAt": "2026-05-03T04:17:38.862Z",
     "body": "该推文指出包容是让每个人都能安全闪耀的空间，号召点亮世界。\n推文來源： [디에타민 후기계 (@DHugigye)](https://x.com/DHugigye/status/2050788282045468715)"
+  },
+  {
+    "title": "波蘭海港針對無障礙與基礎建設投資",
+    "slug": "polish-seaports-target-accessibility-and-infrastructure-investment-container-new-zh-ebbbe681",
+    "lang": "zh-TW",
+    "summary": "波蘭海港正專注於提升無障礙設施並投資基礎建設，以改善所有人的使用便利性。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "infrastructure",
+      "seaports",
+      "Poland"
+    ],
+    "sourceName": "Container News",
+    "sourceUrl": "https://container-news.com/polish-seaports-target-accessibility-and-infrastructure-investment",
+    "relatedSources": [
+      {
+        "name": "Container News",
+        "url": "https://container-news.com/polish-seaports-target-accessibility-and-infrastructure-investment"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ebbbe681",
+    "status": "published",
+    "translationOf": "polish-seaports-target-accessibility-and-infrastructure-investment-container-new-ebbbe681",
+    "publishedAt": "2026-05-03T12:00:11.000Z",
+    "fetchedAt": "2026-05-03T13:24:41.922Z",
+    "body": "波蘭海港正專注於提升無障礙設施並投資基礎建設，以改善所有人的使用便利性。\n\n原文來源： [Container News](https://container-news.com/polish-seaports-target-accessibility-and-infrastructure-investment)"
+  },
+  {
+    "title": "綜所稅報稅系統升級 新增無障礙網頁操作更友善 - 新住民全球新聞網",
+    "slug": "tax-filing-system-upgrade-adds-more-user-friendly-accessible-web-operations-zh-c835c43f",
+    "lang": "zh-TW",
+    "summary": "綜所稅報稅系統進行升級，新增無障礙網頁操作介面，使操作更加友善，方便殘障人士使用。",
+    "category": "digital-a11y",
+    "tags": [
+      "tax",
+      "web accessibility",
+      "UI",
+      "disability"
+    ],
+    "sourceName": "新住民全球新聞網",
+    "sourceUrl": "https://news.immigration.gov.tw/NewsSection/Detail/E2348883-E081-42C7-BDD7-2B019689AEBD?lang=TW&topic=onetouch",
+    "relatedSources": [
+      {
+        "name": "新住民全球新聞網",
+        "url": "https://news.immigration.gov.tw/NewsSection/Detail/E2348883-E081-42C7-BDD7-2B019689AEBD?lang=TW&topic=onetouch"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-c835c43f",
+    "status": "published",
+    "translationOf": "tax-filing-system-upgrade-adds-more-user-friendly-accessible-web-operations-c835c43f",
+    "publishedAt": "2026-05-03T01:05:00.000Z",
+    "fetchedAt": "2026-05-03T13:24:41.930Z",
+    "body": "綜所稅報稅系統進行升級，新增無障礙網頁操作介面，使操作更加友善，方便殘障人士使用。\n\n原文來源： [新住民全球新聞網](https://news.immigration.gov.tw/NewsSection/Detail/E2348883-E081-42C7-BDD7-2B019689AEBD?lang=TW&topic=onetouch)"
+  },
+  {
+    "title": "特殊學校公民科考察參與增七成學生：深圳無障礙出行方便體會傳統現代交融- 教育 - 香港文匯網",
+    "slug": "special-school-civic-science-field-trip-participation-up-70-shenzhen-accessible--zh-59ae5852",
+    "lang": "zh-TW",
+    "summary": "特殊學校公民科考察參與學生增加七成，深圳無障礙出行方便，讓學生體驗傳統與現代的結合。",
+    "category": "physical-design",
+    "tags": [
+      "special education",
+      "accessible travel",
+      "Shenzhen",
+      "civic science"
+    ],
+    "sourceName": "香港文匯網",
+    "sourceUrl": "https://www.wenweipo.com/a/202605/03/AP69f71f38e4b0b49ad1b9606d.html",
+    "relatedSources": [
+      {
+        "name": "香港文匯網",
+        "url": "https://www.wenweipo.com/a/202605/03/AP69f71f38e4b0b49ad1b9606d.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-59ae5852",
+    "status": "published",
+    "translationOf": "special-school-civic-science-field-trip-participation-up-70-shenzhen-accessible--59ae5852",
+    "publishedAt": "2026-05-03T10:13:33.000Z",
+    "fetchedAt": "2026-05-03T13:24:41.936Z",
+    "body": "特殊學校公民科考察參與學生增加七成，深圳無障礙出行方便，讓學生體驗傳統與現代的結合。\n\n原文來源： [香港文匯網](https://www.wenweipo.com/a/202605/03/AP69f71f38e4b0b49ad1b9606d.html)"
+  },
+  {
+    "title": "屏東表揚四十七位模範母親伸展台走秀展現動人風采",
+    "slug": "pingtung-county-honors-47-exemplary-mothers-with-runway-show-showcasing-moving-g-zh-db737bff",
+    "lang": "zh-TW",
+    "summary": "屏東縣政府二日表揚模範母親，縣長周春米向四十七位模範母親致上最崇高的敬意，模範母親們也在子女們梳妝打扮下，自信地踏上伸展台，展現動人及溫暖的風采。今年表揚活動融入創意巧思，結合屏東縣花藝設計協會精心布置與造型設計，讓模範母親化身舞台主角，在子女陪伴與應援下，展現自信笑容。縣長周春米表示，今年接受表揚的模範母親有來自各鄉鎮市推薦的典範母親，也有寄養媽媽以及身心障礙者母親，每一位母親都是孩子生命中最堅定的依靠，用無私的愛與堅韌，守護家庭、陪伴成長，每一段故事都令人動容。最年長的模範母親為長治鄉九十八歲的洪沈連春，她一…",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "mothers",
+      "honor",
+      "runway"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ae2b990e-e31a-48bb-83a8-b22be28780ac",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ae2b990e-e31a-48bb-83a8-b22be28780ac"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-db737bff",
+    "status": "published",
+    "translationOf": "pingtung-county-honors-47-exemplary-mothers-with-runway-show-showcasing-moving-g-db737bff",
+    "publishedAt": "2026-05-02T09:17:06.000Z",
+    "fetchedAt": "2026-05-03T13:24:50.868Z",
+    "body": "屏東縣政府二日表揚模範母親，縣長周春米向四十七位模範母親致上最崇高的敬意，模範母親們也在子女們梳妝打扮下，自信地踏上伸展台，展現動人及溫暖的風采。今年表揚活動融入創意巧思，結合屏東縣花藝設計協會精心布置與造型設計，讓模範母親化身舞台主角，在子女陪伴與應援下，展現自信笑容。縣長周春米表示，今年接受表揚的模範母親有來自各鄉鎮市推薦的典範母親，也有寄養媽媽以及身心障礙者母親，每一位母親都是孩子生命中最堅定的依靠，用無私的愛與堅韌，守護家庭、陪伴成長，每一段故事都令人動容。最年長的模範母親為長治鄉九十八歲的洪沈連春，她一…\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ae2b990e-e31a-48bb-83a8-b22be28780ac)"
   }
 ]
