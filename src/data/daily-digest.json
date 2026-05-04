@@ -1,39 +1,55 @@
 {
-  "date": "2026-05-03",
-  "generatedAt": "2026-05-03T04:26:22.944Z",
+  "date": "2026-05-04",
+  "generatedAt": "2026-05-04T04:15:50.521Z",
   "en": {
-    "title": "Accessibility Highlights: Tax Filing Upgrades, Playground Improvements, and Curb Ramp Advocacy",
-    "summary": "Today's digest highlights a new upgrade to the tax filing system adding accessible web operations, a Wilmington playground renovation to improve accessibility for children, and a community complaint about insufficient curb ramps prompting accessibility advocacy.",
+    "title": "Daily Accessibility Digest – May 4, 2026",
+    "summary": "Today's highlights include Forbes on AI's unique chance to embed accessibility, an all-terrain wheelchair boosting outdoor access in South Dakota, Kansas City's Roy Blunt Luminary Park prioritizing inclusive design, Tainan's Star Cup croquet tournament promoting sports for disabled and elderly, and upgrades to the tax filing system adding more accessible web operations.",
     "highlights": [
+      {
+        "title": "Artificial Intelligence Has One Chance To Get Accessibility Right - Forbes",
+        "slug": "artificial-intelligence-has-one-chance-to-get-accessibility-right-forbes-9230b443"
+      },
+      {
+        "title": "All-terrain wheelchair provides outdoor accessibility in SD - KELOLAND.com",
+        "slug": "all-terrain-wheelchair-provides-outdoor-accessibility-in-sd-kelolandcom-3f7746af"
+      },
+      {
+        "title": "Heart of Kansas City: Roy Blunt Luminary Park to focus on accessibility - KCTV",
+        "slug": "heart-of-kansas-city-roy-blunt-luminary-park-to-focus-on-accessibility-kctv-efa28d1d"
+      },
+      {
+        "title": "Star Cup Disabled and Elderly Leisure Croquet Tournament Promotes Inclusive Sports Environment in Tainan",
+        "slug": "star-cup-disabled-and-elderly-leisure-croquet-tournament-promotes-inclusive-spor-bc9b48a2"
+      },
       {
         "title": "Tax Filing System Upgrade Adds More Friendly Accessible Web Operations",
         "slug": "tax-filing-system-upgrade-adds-more-friendly-accessible-web-operations-1489015b"
-      },
-      {
-        "title": "Wilmington playground getting an upgrade to make it more accessible",
-        "slug": "wilmington-playground-getting-an-upgrade-to-make-it-more-accessible-10571ead"
-      },
-      {
-        "title": "Curb Ramp Shortage Prompts Accessibility Complaint",
-        "slug": "curb-ramp-shortage-prompts-accessibility-complaint-46a3ef2f"
       }
     ]
   },
   "zh-TW": {
-    "title": "無障礙焦點：稅務申報系統升級、威明頓遊樂場改善及路縫坡不足倡議",
-    "summary": "今日摘要報導稅務申報系統新增友善無障礙網頁操作、威明頓遊樂場進行無障礙升級以方便殘障兒童，以及居民因路縫坡不足提出無障礙投訴，推動社區無障礙改善。",
+    "title": "每日無障礙 digest – 2026年5月4日",
+    "summary": "今日重點包括福布斯指出AI僅有一次機會將無障礙納入設計、南達科州全地形輪椅提升戶外無障礙、堪薩斯城Roy Blunt Luminary公園聚焦無障礙設計、臺南星光盃身心障礙者暨長青者樂活槌球賽打造共融運動環境，以及綜所稅報稅系統升級新增更友善的無障礙網頁操作。",
     "highlights": [
+      {
+        "title": "人工智慧只有一次機會讓無障礙做對 - Forbes",
+        "slug": "artificial-intelligence-has-one-chance-to-get-accessibility-right-forbes-zh-9230b443"
+      },
+      {
+        "title": "全地形輪椅提升南達科州戶外無障礙 - KELOLAND.com",
+        "slug": "all-terrain-wheelchair-provides-outdoor-accessibility-in-sd-kelolandcom-zh-3f7746af"
+      },
+      {
+        "title": "堪薩斯城心臟：Roy Blunt Luminary 公園將聚焦無障礙 - KCTV",
+        "slug": "heart-of-kansas-city-roy-blunt-luminary-park-to-focus-on-accessibility-kctv-zh-efa28d1d"
+      },
+      {
+        "title": "星光盃身心障礙者暨長青者樂活槌球賽 臺南打造共融友善運動環境",
+        "slug": "star-cup-disabled-and-elderly-leisure-croquet-tournament-promotes-inclusive-spor-zh-bc9b48a2"
+      },
       {
         "title": "綜所稅報稅系統升級 新增無障礙網頁操作更友善",
         "slug": "tax-filing-system-upgrade-adds-more-friendly-accessible-web-operations-zh-1489015b"
-      },
-      {
-        "title": "威明頓遊樂場將進行升級以提升無障礙性",
-        "slug": "wilmington-playground-getting-an-upgrade-to-make-it-more-accessible-zh-10571ead"
-      },
-      {
-        "title": "路缘坡不足引发无障碍投诉",
-        "slug": "curb-ramp-shortage-prompts-accessibility-complaint-zh-46a3ef2f"
       }
     ]
   }
