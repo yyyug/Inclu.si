@@ -6020,5 +6020,37 @@
     "publishedAt": "2026-04-30T07:00:00.000Z",
     "fetchedAt": "2026-05-04T03:47:58.141Z",
     "body": "標準局公布輔具通用設計競賽得獎名單，展示創新設計以實現無障礙生活願景。\n\n原文來源： [bsmi.gov.tw](https://www.bsmi.gov.tw/SafetyGIP/wSite/ct?xItem=124415&ctNode=7733&mp=7)"
+  },
+  {
+    "title": "yoxi以AI 辨識、無障礙導引打造更友善銀髮移動環境 - udn.com",
+    "slug": "yoxi-uses-ai-recognition-and-accessible-guidance-to-create-a-more-friendly-mobil-zh-fb0c0546",
+    "lang": "zh-TW",
+    "summary": "yoxi以AI 辨識、無障礙導引打造更友善銀髮移動環境",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "elderly mobility",
+      "accessibility"
+    ],
+    "sourceName": "udn.com",
+    "sourceUrl": "https://udn.com/news/story/7240/9466928",
+    "relatedSources": [
+      {
+        "name": "udn.com",
+        "url": "https://udn.com/news/story/7240/9466928"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-fb0c0546",
+    "status": "published",
+    "translationOf": "yoxi-uses-ai-recognition-and-accessible-guidance-to-create-a-more-friendly-mobil-fb0c0546",
+    "publishedAt": "2026-04-27T05:56:15.000Z",
+    "fetchedAt": "2026-05-04T14:18:04.192Z",
+    "body": "yoxi以AI 辨識、無障礙導引打造更友善銀髮移動環境\n\n原文來源： [udn.com](https://udn.com/news/story/7240/9466928)"
   }
 ]

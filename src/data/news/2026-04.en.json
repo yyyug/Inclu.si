@@ -6020,5 +6020,37 @@
     "publishedAt": "2026-04-30T07:00:00.000Z",
     "fetchedAt": "2026-05-04T03:47:58.141Z",
     "body": "The Bureau of Standards, Metrology and Inspection announces the winners of its assistive technology universal design competition, highlighting innovative designs for barrier-free living.\n\nRead more from the original source: [bsmi.gov.tw](https://www.bsmi.gov.tw/SafetyGIP/wSite/ct?xItem=124415&ctNode=7733&mp=7)"
+  },
+  {
+    "title": "Yoxi uses AI recognition and accessible guidance to create a more friendly mobility environment for seniors",
+    "slug": "yoxi-uses-ai-recognition-and-accessible-guidance-to-create-a-more-friendly-mobil-fb0c0546",
+    "lang": "en",
+    "summary": "Yoxi uses AI recognition and accessible guidance to create a more friendly mobility environment for seniors",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "elderly mobility",
+      "accessibility"
+    ],
+    "sourceName": "udn.com",
+    "sourceUrl": "https://udn.com/news/story/7240/9466928",
+    "relatedSources": [
+      {
+        "name": "udn.com",
+        "url": "https://udn.com/news/story/7240/9466928"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-fb0c0546",
+    "status": "published",
+    "translationOf": "yoxi-uses-ai-recognition-and-accessible-guidance-to-create-a-more-friendly-mobil-zh-fb0c0546",
+    "publishedAt": "2026-04-27T05:56:15.000Z",
+    "fetchedAt": "2026-05-04T14:18:04.192Z",
+    "body": "Yoxi uses AI recognition and accessible guidance to create a more friendly mobility environment for seniors\n\nRead more from the original source: [udn.com](https://udn.com/news/story/7240/9466928)"
   }
 ]
