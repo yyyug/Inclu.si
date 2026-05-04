@@ -26,7 +26,7 @@ export const siteCopy: Record<Locale, {
   allCategories: string;
 }> = {
   en: {
-    siteTitle: 'Accessibility News Hub',
+    siteTitle: 'Inclusion and Accessibility News Hub',
     siteName: 'Inclu.si',
     subtitle: 'Stay on top of global accessibility news.',
     contactInvite: 'Have a source we should follow? ',
@@ -44,7 +44,7 @@ export const siteCopy: Record<Locale, {
     allCategories: 'All Categories',
   },
   'zh-TW': {
-    siteTitle: 'Inclu.si',
+    siteTitle: 'Inclusion and Accessibility News Hub',
     siteName: 'Inclu.si',
     subtitle: '掌握全球無障礙新聞脈動。',
     contactInvite: '若你有值得追蹤的無障礙新聞來源，歡迎',
