@@ -1,55 +1,47 @@
 {
-  "date": "2026-05-04",
-  "generatedAt": "2026-05-04T04:15:50.521Z",
+  "date": "2026-05-05",
+  "generatedAt": "2026-05-05T03:54:46.966Z",
   "en": {
-    "title": "Daily Accessibility Digest – May 4, 2026",
-    "summary": "Today's highlights include Forbes on AI's unique chance to embed accessibility, an all-terrain wheelchair boosting outdoor access in South Dakota, Kansas City's Roy Blunt Luminary Park prioritizing inclusive design, Tainan's Star Cup croquet tournament promoting sports for disabled and elderly, and upgrades to the tax filing system adding more accessible web operations.",
+    "title": "Accessibility Digest: Key Updates on Healthcare Deadlines, Infrastructure, and Assistive Tech (May 5, 2026)",
+    "summary": "Healthcare providers face an approaching deadline to enhance accessibility compliance; a Delray Beach restoration project has introduced a steep drop-off that poses accessibility challenges; Guoguang Technology unveiled high-tech assistive devices to enable barrier-free travel for people with disabilities; Jacksonville’s legislative portal has been offline for several weeks while the city implements accessibility upgrades.",
     "highlights": [
       {
-        "title": "Artificial Intelligence Has One Chance To Get Accessibility Right - Forbes",
-        "slug": "artificial-intelligence-has-one-chance-to-get-accessibility-right-forbes-9230b443"
+        "title": "Deadline Looms For Healthcare Providers To Improve Accessibility",
+        "slug": "deadline-looms-for-healthcare-providers-to-improve-accessibility-3f620670"
       },
       {
-        "title": "All-terrain wheelchair provides outdoor accessibility in SD - KELOLAND.com",
-        "slug": "all-terrain-wheelchair-provides-outdoor-accessibility-in-sd-kelolandcom-3f7746af"
+        "title": "Delray Beach restoration project creates steep drop-off, raising accessibility concerns",
+        "slug": "delray-beach-restoration-project-creates-steep-drop-off-raising-accessibility-co-17c86b56"
       },
       {
-        "title": "Heart of Kansas City: Roy Blunt Luminary Park to focus on accessibility - KCTV",
-        "slug": "heart-of-kansas-city-roy-blunt-luminary-park-to-focus-on-accessibility-kctv-efa28d1d"
+        "title": "Guoguang Technology Unveils High-Tech Assistive Devices to Enable Barrier-Free Travel for People with Disabilities",
+        "slug": "guoguang-technology-unveils-high-tech-assistive-devices-to-enable-barrier-free-t-153f612e"
       },
       {
-        "title": "Star Cup Disabled and Elderly Leisure Croquet Tournament Promotes Inclusive Sports Environment in Tainan",
-        "slug": "star-cup-disabled-and-elderly-leisure-croquet-tournament-promotes-inclusive-spor-bc9b48a2"
-      },
-      {
-        "title": "Tax Filing System Upgrade Adds More Friendly Accessible Web Operations",
-        "slug": "tax-filing-system-upgrade-adds-more-friendly-accessible-web-operations-1489015b"
+        "title": "Jacksonville’s legislative portal down for multiple weeks, as city makes accessibility upgrades",
+        "slug": "jacksonvilles-legislative-portal-down-for-multiple-weeks-as-city-makes-accessibi-78487e4d"
       }
     ]
   },
   "zh-TW": {
-    "title": "每日無障礙 digest – 2026年5月4日",
-    "summary": "今日重點包括福布斯指出AI僅有一次機會將無障礙納入設計、南達科州全地形輪椅提升戶外無障礙、堪薩斯城Roy Blunt Luminary公園聚焦無障礙設計、臺南星光盃身心障礙者暨長青者樂活槌球賽打造共融運動環境，以及綜所稅報稅系統升級新增更友善的無障礙網頁操作。",
+    "title": "無障礙每日摘要：醫療截止日期、基礎設施與輔助科技重點更新（2026年5月5日）",
+    "summary": "醫療提供者面臨即將到來的無障礙合規截止日期；Delray Beach修復項目產生陡坡，對行人和輪椅使用者構成無障礙通行問題；大國科技展示高科技輔助器具，幫助殘障人士實現無障礙出行；杰克逊维尔立法門户因無障礙升級而離線數週，市政府正在進行改善以提升殘障人士的訪問。",
     "highlights": [
       {
-        "title": "人工智慧只有一次機會讓無障礙做對 - Forbes",
-        "slug": "artificial-intelligence-has-one-chance-to-get-accessibility-right-forbes-zh-9230b443"
+        "title": "醫療提供者面臨改善無障礙設施的截止日期",
+        "slug": "deadline-looms-for-healthcare-providers-to-improve-accessibility-zh-3f620670"
       },
       {
-        "title": "全地形輪椅提升南達科州戶外無障礙 - KELOLAND.com",
-        "slug": "all-terrain-wheelchair-provides-outdoor-accessibility-in-sd-kelolandcom-zh-3f7746af"
+        "title": "Delray Beach修復項目產生陡坡，引發無障礙擔憂",
+        "slug": "delray-beach-restoration-project-creates-steep-drop-off-raising-accessibility-co-zh-17c86b56"
       },
       {
-        "title": "堪薩斯城心臟：Roy Blunt Luminary 公園將聚焦無障礙 - KCTV",
-        "slug": "heart-of-kansas-city-roy-blunt-luminary-park-to-focus-on-accessibility-kctv-zh-efa28d1d"
+        "title": "大國科技｜高科技輔助器具先後亮相助殘障人士實現無障礙出行",
+        "slug": "guoguang-technology-unveils-high-tech-assistive-devices-to-enable-barrier-free-t-zh-153f612e"
       },
       {
-        "title": "星光盃身心障礙者暨長青者樂活槌球賽 臺南打造共融友善運動環境",
-        "slug": "star-cup-disabled-and-elderly-leisure-croquet-tournament-promotes-inclusive-spor-zh-bc9b48a2"
-      },
-      {
-        "title": "綜所稅報稅系統升級 新增無障礙網頁操作更友善",
-        "slug": "tax-filing-system-upgrade-adds-more-friendly-accessible-web-operations-zh-1489015b"
+        "title": "杰克逊维尔立法门户因无障碍升级而下线数周",
+        "slug": "jacksonvilles-legislative-portal-down-for-multiple-weeks-as-city-makes-accessibi-zh-78487e4d"
       }
     ]
   }
