@@ -1,55 +1,55 @@
 {
   "date": "2026-05-06",
-  "generatedAt": "2026-05-06T04:11:06.641Z",
+  "generatedAt": "2026-05-06T15:07:28.635Z",
   "en": {
     "title": "Daily Accessibility Digest – May 6, 2026",
-    "summary": "Today's highlights include inclusive health equity approaches, new wheelchair mount technology, sponsorship of the CSUN Assistive Technology Conference, RJ Mitte’s keynote on inclusion, and a study on how delivery timescales affect accessibility outcomes.",
+    "summary": "The EU’s updated Disability Rights Strategy draws criticism for lacking ambition and new legislation; model‑activist Tasha Ghouri launches an accessible fashion brand and online store; a city council approves a study to assess ADA compliance at City Hall; a university adopts a new digital accessibility policy; and a study reveals a major shortage of accessible housing in Toledo.",
     "highlights": [
       {
-        "title": "Inclusive Approaches for Health Equity",
-        "slug": "inclusive-approaches-for-health-equity-c5014e95"
+        "title": "Update of EU Disability Rights Strategy lacks ambition to advance our rights",
+        "slug": "update-of-eu-disability-rights-strategy-lacks-ambition-to-advance-our-rights-37901b9d"
       },
       {
-        "title": "KUPOCARE KMA-104 OmniReach Wheelchair Mount for Tablets and Phones",
-        "slug": "kupocare-kma-104-omnireach-wheelchair-mount-for-tablets-and-phones-409f38a8"
+        "title": "Tasha Ghouri launches 'accessible' fashion brand and webstore",
+        "slug": "tasha-ghouri-launches-accessible-fashion-brand-and-webstore-329163df"
       },
       {
-        "title": "Sponsorship of CSUN Assistive Technology Conference",
-        "slug": "sponsorship-of-csun-assistive-technology-conference-d1947cfb"
+        "title": "City Council Approves Study on ADA Accessibility at City Hall",
+        "slug": "city-council-approves-study-on-ada-accessibility-at-city-hall-7e724776"
       },
       {
-        "title": "RJ Mitte speaks at And Justice for All Conference",
-        "slug": "rj-mitte-speaks-at-and-justice-for-all-conference-9b6f42fb"
+        "title": "University adopts policy on digital accessibility",
+        "slug": "university-adopts-policy-on-digital-accessibility-8a6ba5a3"
       },
       {
-        "title": "Study Shows Delivery Timescales Affect Accessibility Outcomes",
-        "slug": "study-shows-delivery-timescales-affect-accessibility-outcomes-7d404f89"
+        "title": "Toledo faces major gap in accessible housing, study finds",
+        "slug": "toledo-faces-major-gap-in-accessible-housing-study-finds-2bc59477"
       }
     ]
   },
   "zh-TW": {
-    "title": "每日無障礙 digest – 2026年5月6日",
-    "summary": "今日重點包括健康公平的包容性方法、新型輪椅支撐架、贊助CSUN助ive技術會議、RJ Mitte在And Justice for All大會的演講，以及研究顯示交付時間尺度如何影響無障礙結果。",
+    "title": "無障礙每日消息 – 2026年5月6日",
+    "summary": "歐盟殘疾人權利戰略更新被批評缺乏野心和新立法措施；模特兼活動人士塔莎·古里推出無障礙時尚品牌及線上商店；市議會批准評估市政廳ADA無障礙合規的研究；大學採納數位無障礙政策；研究顯示托萊多存在嚴重的無障礙住房缺口。",
     "highlights": [
       {
-        "title": "健康公平的包容性方法",
-        "slug": "inclusive-approaches-for-health-equity-zh-c5014e95"
+        "title": "歐盟殘疾人權利戰略更新缺乏野心，未能推進權利",
+        "slug": "update-of-eu-disability-rights-strategy-lacks-ambition-to-advance-our-rights-zh-37901b9d"
       },
       {
-        "title": "KUPOCARE KMA-104 OmniReach 轮椅支架，适用于平板和手机",
-        "slug": "kupocare-kma-104-omnireach-wheelchair-mount-for-tablets-and-phones-zh-409f38a8"
+        "title": "塔莎·古里推出『無障礙』時尚品牌及網店",
+        "slug": "tasha-ghouri-launches-accessible-fashion-brand-and-webstore-zh-329163df"
       },
       {
-        "title": "赞助CSUN助ive技术会议",
-        "slug": "sponsorship-of-csun-assistive-technology-conference-zh-d1947cfb"
+        "title": "市議會批准對市政廳進行ADA無障礙研究",
+        "slug": "city-council-approves-study-on-ada-accessibility-at-city-hall-zh-7e724776"
       },
       {
-        "title": "RJ Mitte在And Justice for All大会演讲",
-        "slug": "rj-mitte-speaks-at-and-justice-for-all-conference-zh-9b6f42fb"
+        "title": "大學採納數位無障礙政策",
+        "slug": "university-adopts-policy-on-digital-accessibility-zh-8a6ba5a3"
       },
       {
-        "title": "研究表明交付时间尺度影响可访问性结果",
-        "slug": "study-shows-delivery-timescales-affect-accessibility-outcomes-zh-7d404f89"
+        "title": "托萊多面臨無障礙住房的重大缺口，研究發現",
+        "slug": "toledo-faces-major-gap-in-accessible-housing-study-finds-zh-2bc59477"
       }
     ]
   }
