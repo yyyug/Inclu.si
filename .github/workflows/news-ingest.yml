@@ -37,7 +37,8 @@ jobs:
           OLLAMA_BASE_URL: ${{ secrets.OLLAMA_BASE_URL }}
           OLLAMA_MODEL: nemotron-3-super:cloud
           OLLAMA_MAX_TOKENS: 4096
-          OLLAMA_MAX_RETRIES: 3
+          OLLAMA_TIMEOUT_MS: 180000
+          OLLAMA_MAX_RETRIES: 5
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
           NEWS_API_BASE_URL: https://newsapi.org/v2/everything
           GOOGLE_NEWS_RSS_URLS: >-
