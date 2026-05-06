@@ -53,6 +53,9 @@ jobs:
       - name: Build concise run summary
         if: always()
         shell: bash
+        env:
+          OLLAMA_TIMEOUT_MS: 180000
+          OLLAMA_MAX_RETRIES: 5
         run: |
           {
             echo "workflow: daily-digest"
@@ -62,6 +65,8 @@ jobs:
             echo "ref: ${{ github.ref_name }}"
             echo "sha: ${{ github.sha }}"
             echo "generated_at_utc: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            echo "ollama_timeout_ms: ${OLLAMA_TIMEOUT_MS}"
+            echo "ollama_max_retries: ${OLLAMA_MAX_RETRIES}"
             if [ -f digest.log ]; then
               echo "log_tail:"
               tail -n 60 digest.log

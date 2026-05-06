@@ -91,6 +91,9 @@ jobs:
       - name: Build concise run summary
         if: always()
         shell: bash
+        env:
+          OLLAMA_TIMEOUT_MS: 180000
+          OLLAMA_MAX_RETRIES: 5
         run: |
           if [ -f ingest.log ]; then
             rss_returned=$(grep -Eo '\[news\] rss_candidates=[0-9]+' ingest.log | tail -1 | cut -d= -f2)
@@ -111,6 +114,8 @@ jobs:
             echo "ref=${{ github.ref_name }}"
             echo "sha=${{ github.sha }}"
             echo "generated_at_utc=$(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            echo "ollama_timeout_ms=${OLLAMA_TIMEOUT_MS}"
+            echo "ollama_max_retries=${OLLAMA_MAX_RETRIES}"
             echo "rss_returned=${rss_returned}"
             echo "newsapi_returned=${newsapi_returned}"
             echo "tweets_returned=n/a"
