@@ -1,10 +1,14 @@
 {
   "date": "2026-05-06",
-  "generatedAt": "2026-05-06T15:07:28.635Z",
+  "generatedAt": "2026-05-06T15:11:01.811Z",
   "en": {
     "title": "Daily Accessibility Digest – May 6, 2026",
-    "summary": "The EU’s updated Disability Rights Strategy draws criticism for lacking ambition and new legislation; model‑activist Tasha Ghouri launches an accessible fashion brand and online store; a city council approves a study to assess ADA compliance at City Hall; a university adopts a new digital accessibility policy; and a study reveals a major shortage of accessible housing in Toledo.",
+    "summary": "Today's highlights include a settlement ensuring DC apartment accessibility, criticism of the EU's updated disability rights strategy for lacking ambition, the launch of an accessible fashion brand by model Tasha Ghouri, and a city council vote to study ADA compliance at City Hall.",
     "highlights": [
+      {
+        "title": "Equal Rights Center Reaches Agreement to Ensure Accessibility for People with Disabilities at D.C. Apartment Building - Morningstar",
+        "slug": "equal-rights-center-reaches-agreement-to-ensure-accessibility-for-people-with-di-19428d6b"
+      },
       {
         "title": "Update of EU Disability Rights Strategy lacks ambition to advance our rights",
         "slug": "update-of-eu-disability-rights-strategy-lacks-ambition-to-advance-our-rights-37901b9d"
@@ -16,21 +20,17 @@
       {
         "title": "City Council Approves Study on ADA Accessibility at City Hall",
         "slug": "city-council-approves-study-on-ada-accessibility-at-city-hall-7e724776"
-      },
-      {
-        "title": "University adopts policy on digital accessibility",
-        "slug": "university-adopts-policy-on-digital-accessibility-8a6ba5a3"
-      },
-      {
-        "title": "Toledo faces major gap in accessible housing, study finds",
-        "slug": "toledo-faces-major-gap-in-accessible-housing-study-finds-2bc59477"
       }
     ]
   },
   "zh-TW": {
-    "title": "無障礙每日消息 – 2026年5月6日",
-    "summary": "歐盟殘疾人權利戰略更新被批評缺乏野心和新立法措施；模特兼活動人士塔莎·古里推出無障礙時尚品牌及線上商店；市議會批准評估市政廳ADA無障礙合規的研究；大學採納數位無障礙政策；研究顯示托萊多存在嚴重的無障礙住房缺口。",
+    "title": "每日無障礙消息摘要 – 2026年5月6日",
+    "summary": "今日重點包括華盛頓特區公寓無障礙和解協議、歐盟殘疾人權利戰略更新被批評缺乏野心、模特Tasha Ghouri推出無障礙時尚品牌，以及市議會批准研究市政廳ADA無障礙合規情況。",
     "highlights": [
+      {
+        "title": "平等權利中心達成協議，確保殘障人士在華盛頓特區公寓大樓的可及性",
+        "slug": "equal-rights-center-reaches-agreement-to-ensure-accessibility-for-people-with-di-zh-19428d6b"
+      },
       {
         "title": "歐盟殘疾人權利戰略更新缺乏野心，未能推進權利",
         "slug": "update-of-eu-disability-rights-strategy-lacks-ambition-to-advance-our-rights-zh-37901b9d"
@@ -42,14 +42,6 @@
       {
         "title": "市議會批准對市政廳進行ADA無障礙研究",
         "slug": "city-council-approves-study-on-ada-accessibility-at-city-hall-zh-7e724776"
-      },
-      {
-        "title": "大學採納數位無障礙政策",
-        "slug": "university-adopts-policy-on-digital-accessibility-zh-8a6ba5a3"
-      },
-      {
-        "title": "托萊多面臨無障礙住房的重大缺口，研究發現",
-        "slug": "toledo-faces-major-gap-in-accessible-housing-study-finds-zh-2bc59477"
       }
     ]
   }
