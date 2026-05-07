@@ -421,6 +421,8 @@ async function retryOllama(fn, batchIndex) {
       }
     }
   }
+
+  console.error(`[ollama] Batch ${batchIndex} exhausted retries=${OLLAMA_MAX_RETRIES} timeout_ms=${OLLAMA_TIMEOUT_MS} model=${OLLAMA_MODEL}`);
   throw lastError;
 }
 
@@ -482,7 +484,16 @@ async function askOllamaForBatch(batchItems) {
     });
   } catch (error) {
     const code = error?.cause?.code ?? error?.code ?? 'UNKNOWN';
-    throw new Error(`Ollama request failed (${code}). ${error?.message ?? ''}`.trim());
+    const name = error?.name ?? error?.cause?.name ?? 'UnknownError';
+    const details = [
+      `Ollama request failed (${code}).`,
+      `name=${name}`,
+      `timeout_ms=${OLLAMA_TIMEOUT_MS}`,
+      `model=${OLLAMA_MODEL}`,
+      `base_url=${OLLAMA_BASE_URL}`,
+      `${error?.message ?? ''}`,
+    ].filter(Boolean).join(' ');
+    throw new Error(details.trim());
   }
 
   if (!response.ok) {
@@ -733,26 +744,37 @@ async function main() {
 
   for (let i = 0; i < candidates.length; i += BATCH_SIZE) {
     const batch = candidates.slice(i, i + BATCH_SIZE);
-    let outputs;
+    const outputMap = new Map();
 
     try {
-      outputs = await retryOllama(() => askOllamaForBatch(batch), i);
+      const outputs = await retryOllama(() => askOllamaForBatch(batch), i);
+      for (const item of outputs) {
+        outputMap.set(item.itemId, item);
+      }
     } catch (error) {
-      failed += batch.length;
-      console.error(`Failed on batch starting index ${i}`);
+      console.error(`Failed on batch starting index ${i}; attempting per-item fallback`);
       console.error(error);
-      continue;
     }
-
-    const outputMap = new Map(outputs.map((item) => [item.itemId, item]));
 
     for (let j = 0; j < batch.length; j += 1) {
       const entry = batch[j];
-      const output = outputMap.get(j);
+      let output = outputMap.get(j);
+
+      if (!output) {
+        try {
+          const single = await retryOllama(() => askOllamaForBatch([entry]), `${i + j}/single`);
+          output = single.find((row) => row.itemId === 0);
+        } catch (singleError) {
+          failed += 1;
+          console.error(`Single-item fallback failed at global index ${i + j}`);
+          console.error(singleError);
+          continue;
+        }
+      }
 
       if (!output) {
         failed += 1;
-        console.error(`Missing LLM output item for batch index ${j}`);
+        console.error(`Missing LLM output item for batch index ${j} (global ${i + j})`);
         continue;
       }
 
