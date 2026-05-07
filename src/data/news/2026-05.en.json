@@ -8587,5 +8587,521 @@
     "publishedAt": "2026-05-05T21:08:31.000Z",
     "fetchedAt": "2026-05-07T02:18:54.459Z",
     "body": "A recent report card shows that no Canadian province or territory scored higher than a C grade for arthritis treatment, with most receiving D or lower due to poor access to community support and long wait times.\n\nRead more from the original source: [Global News](https://globalnews.ca/news/11831525/arthritis-canada-report-card-progress)"
+  },
+  {
+    "title": "Chaka Khan Foundation helps bring accessibility upgrades to renovated Metro Atlanta park",
+    "slug": "chaka-khan-foundation-helps-bring-accessibility-upgrades-to-renovated-metro-atla-755a9a33",
+    "lang": "en",
+    "summary": "The Chaka Khan Foundation is funding accessibility improvements, including accessible pathways and facilities, in a newly renovated park in Metro Atlanta.",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "park",
+      "foundation",
+      "Metro Atlanta"
+    ],
+    "sourceName": "CBS News",
+    "sourceUrl": "https://www.cbsnews.com/atlanta/news/chaka-khan-foundation-helps-bring-accessibility-upgrades-to-renovated-metro-atlanta-park",
+    "relatedSources": [
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/atlanta/news/chaka-khan-foundation-helps-bring-accessibility-upgrades-to-renovated-metro-atlanta-park"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-755a9a33",
+    "status": "published",
+    "translationOf": "chaka-khan-foundation-helps-bring-accessibility-upgrades-to-renovated-metro-atla-zh-755a9a33",
+    "publishedAt": "2026-05-07T12:47:59.000Z",
+    "fetchedAt": "2026-05-07T14:48:13.092Z",
+    "body": "The Chaka Khan Foundation is funding accessibility improvements, including accessible pathways and facilities, in a newly renovated park in Metro Atlanta.\n\nRead more from the original source: [CBS News](https://www.cbsnews.com/atlanta/news/chaka-khan-foundation-helps-bring-accessibility-upgrades-to-renovated-metro-atlanta-park)"
+  },
+  {
+    "title": "Shafter family raising funds for wheelchair-accessible van for 9-year-old son",
+    "slug": "shafter-family-raising-funds-for-wheelchair-accessible-van-for-9-year-old-son-c652bf87",
+    "lang": "en",
+    "summary": "The Shafter family is fundraising to purchase a wheelchair-accessible van to improve mobility and independence for their 9-year-old son with a disability.",
+    "category": "assistive-tech",
+    "tags": [
+      "wheelchair-accessible van",
+      "fundraising",
+      "disability",
+      "child"
+    ],
+    "sourceName": "KBAK",
+    "sourceUrl": "https://bakersfieldnow.com/news/local/shafter-family-raising-funds-for-wheelchair-accessible-van-for-9-year-old-son",
+    "relatedSources": [
+      {
+        "name": "KBAK",
+        "url": "https://bakersfieldnow.com/news/local/shafter-family-raising-funds-for-wheelchair-accessible-van-for-9-year-old-son"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-c652bf87",
+    "status": "published",
+    "translationOf": "shafter-family-raising-funds-for-wheelchair-accessible-van-for-9-year-old-son-zh-c652bf87",
+    "publishedAt": "2026-05-07T05:44:01.000Z",
+    "fetchedAt": "2026-05-07T14:48:13.104Z",
+    "body": "The Shafter family is fundraising to purchase a wheelchair-accessible van to improve mobility and independence for their 9-year-old son with a disability.\n\nRead more from the original source: [KBAK](https://bakersfieldnow.com/news/local/shafter-family-raising-funds-for-wheelchair-accessible-van-for-9-year-old-son)"
+  },
+  {
+    "title": "Experience CU ramps up fight for accessibility - The Daily Illini",
+    "slug": "experience-cu-ramps-up-fight-for-accessibility-the-daily-illini-48b9a588",
+    "lang": "en",
+    "summary": "Students at the University of Colorado are intensifying their advocacy for better campus accessibility, pushing for more ramps, accessible facilities, and inclusive policies.",
+    "category": "general",
+    "tags": [
+      "campus accessibility",
+      "advocacy",
+      "ramps",
+      "university"
+    ],
+    "sourceName": "The Daily Illini",
+    "sourceUrl": "https://dailyillini.com/special-sections/campus-navigator/2026/05/07/accessible-champaign-ramps-accessibility-in-cu",
+    "relatedSources": [
+      {
+        "name": "The Daily Illini",
+        "url": "https://dailyillini.com/special-sections/campus-navigator/2026/05/07/accessible-champaign-ramps-accessibility-in-cu"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-48b9a588",
+    "status": "published",
+    "translationOf": "experience-cu-ramps-up-fight-for-accessibility-the-daily-illini-zh-48b9a588",
+    "publishedAt": "2026-05-07T13:07:35.000Z",
+    "fetchedAt": "2026-05-07T14:48:13.114Z",
+    "body": "Students at the University of Colorado are intensifying their advocacy for better campus accessibility, pushing for more ramps, accessible facilities, and inclusive policies.\n\nRead more from the original source: [The Daily Illini](https://dailyillini.com/special-sections/campus-navigator/2026/05/07/accessible-champaign-ramps-accessibility-in-cu)"
+  },
+  {
+    "title": "Kansas Silver Haired Legislature advocates for senior voting accessibility, medical cannabis",
+    "slug": "kansas-silver-haired-legislature-advocates-for-senior-voting-accessibility-medic-2efa89c5",
+    "lang": "en",
+    "summary": "Kansas Silver Haired Legislature advocates for senior voting accessibility, medical cannabis",
+    "category": "laws-rights",
+    "tags": [],
+    "sourceName": "Kansas Reflector",
+    "sourceUrl": "https://kansasreflector.com/2026/05/07/kansas-silver-haired-legislature-advocates-for-senior-voting-accessibility-medical-cannabis",
+    "relatedSources": [
+      {
+        "name": "Kansas Reflector",
+        "url": "https://kansasreflector.com/2026/05/07/kansas-silver-haired-legislature-advocates-for-senior-voting-accessibility-medical-cannabis"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-2efa89c5",
+    "status": "published",
+    "translationOf": "kansas-silver-haired-legislature-advocates-for-senior-voting-accessibility-medic-zh-2efa89c5",
+    "publishedAt": "2026-05-07T13:04:02.000Z",
+    "fetchedAt": "2026-05-07T14:48:52.534Z",
+    "body": "Kansas Silver Haired Legislature advocates for senior voting accessibility, medical cannabis\n\nRead more from the original source: [Kansas Reflector](https://kansasreflector.com/2026/05/07/kansas-silver-haired-legislature-advocates-for-senior-voting-accessibility-medical-cannabis)"
+  },
+  {
+    "title": "Key CT housing legislations aimed at increasing accessibility fail to gain vote",
+    "slug": "key-ct-housing-legislations-aimed-at-increasing-accessibility-fail-to-gain-vote-27d72b1f",
+    "lang": "en",
+    "summary": "Key CT housing legislations aimed at increasing accessibility fail to gain vote",
+    "category": "laws-rights",
+    "tags": [],
+    "sourceName": "Connecticut Public",
+    "sourceUrl": "https://www.ctpublic.org/news/2026-05-07/key-ct-housing-legislations-aimed-at-increasing-accessibility-fail-to-gain-vote",
+    "relatedSources": [
+      {
+        "name": "Connecticut Public",
+        "url": "https://www.ctpublic.org/news/2026-05-07/key-ct-housing-legislations-aimed-at-increasing-accessibility-fail-to-gain-vote"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-27d72b1f",
+    "status": "published",
+    "translationOf": "key-ct-housing-legislations-aimed-at-increasing-accessibility-fail-to-gain-vote-zh-27d72b1f",
+    "publishedAt": "2026-05-07T13:33:00.000Z",
+    "fetchedAt": "2026-05-07T14:48:52.548Z",
+    "body": "Key CT housing legislations aimed at increasing accessibility fail to gain vote\n\nRead more from the original source: [Connecticut Public](https://www.ctpublic.org/news/2026-05-07/key-ct-housing-legislations-aimed-at-increasing-accessibility-fail-to-gain-vote)"
+  },
+  {
+    "title": "Homer Glen State Rep La Ha Works On Legislation For Accessibility",
+    "slug": "homer-glen-state-rep-la-ha-works-on-legislation-for-accessibility-3102e89a",
+    "lang": "en",
+    "summary": "Homer Glen State Rep La Ha Works On Legislation For Accessibility",
+    "category": "laws-rights",
+    "tags": [],
+    "sourceName": "1340 WJOL",
+    "sourceUrl": "https://www.wjol.com/homer-glen-state-rep-la-ha-works-on-legislation-for-accessibility",
+    "relatedSources": [
+      {
+        "name": "1340 WJOL",
+        "url": "https://www.wjol.com/homer-glen-state-rep-la-ha-works-on-legislation-for-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3102e89a",
+    "status": "published",
+    "translationOf": "homer-glen-state-rep-la-ha-works-on-legislation-for-accessibility-zh-3102e89a",
+    "publishedAt": "2026-05-07T11:51:00.000Z",
+    "fetchedAt": "2026-05-07T14:48:53.045Z",
+    "body": "Homer Glen State Rep La Ha Works On Legislation For Accessibility\n\nRead more from the original source: [1340 WJOL](https://www.wjol.com/homer-glen-state-rep-la-ha-works-on-legislation-for-accessibility)"
+  },
+  {
+    "title": "Taiwan Welfare Partners with Fuso Commercial Travel to Deepen Local Accessibility Layout, Leading a New Era in Long-Term Care Transportation Transformation",
+    "slug": "taiwan-welfare-partners-with-fuso-commercial-travel-to-deepen-local-accessibilit-d408330f",
+    "lang": "en",
+    "summary": "Taiwan Welfare and Fuso Commercial Travel collaborate to enhance local accessibility infrastructure, aiming to transform long-term care transportation and set a new benchmark for accessible mobility.",
+    "category": "physical-design",
+    "tags": [
+      "無障礙",
+      "長照",
+      "交通",
+      "福斯商旅",
+      "台灣福祉"
+    ],
+    "sourceName": "經濟日報",
+    "sourceUrl": "https://money.udn.com/money/story/5635/9487320",
+    "relatedSources": [
+      {
+        "name": "經濟日報",
+        "url": "https://money.udn.com/money/story/5635/9487320"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-d408330f",
+    "status": "published",
+    "translationOf": "taiwan-welfare-partners-with-fuso-commercial-travel-to-deepen-local-accessibilit-zh-d408330f",
+    "publishedAt": "2026-05-07T08:01:01.000Z",
+    "fetchedAt": "2026-05-07T14:49:43.583Z",
+    "body": "Taiwan Welfare and Fuso Commercial Travel collaborate to enhance local accessibility infrastructure, aiming to transform long-term care transportation and set a new benchmark for accessible mobility.\n\nRead more from the original source: [經濟日報](https://money.udn.com/money/story/5635/9487320)"
+  },
+  {
+    "title": "First Legal Amendment in 17 Years: Ministry of Health and Welfare Strengthens Medical Rights for Persons with Disabilities",
+    "slug": "first-legal-amendment-in-17-years-ministry-of-health-and-welfare-strengthens-med-cda12817",
+    "lang": "en",
+    "summary": "After 17 years, the Ministry of Health and Welfare has amended the law to reinforce healthcare access and medical rights for people with disabilities.",
+    "category": "laws-rights",
+    "tags": [
+      "身心障礙",
+      "就醫權益",
+      "衛福部",
+      "修法",
+      "醫療"
+    ],
+    "sourceName": "LINE TODAY",
+    "sourceUrl": "https://today.line.me/tw/v3/article/oqYE5yN",
+    "relatedSources": [
+      {
+        "name": "LINE TODAY",
+        "url": "https://today.line.me/tw/v3/article/oqYE5yN"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-cda12817",
+    "status": "published",
+    "translationOf": "first-legal-amendment-in-17-years-ministry-of-health-and-welfare-strengthens-med-zh-cda12817",
+    "publishedAt": "2026-05-07T08:46:33.000Z",
+    "fetchedAt": "2026-05-07T14:49:43.594Z",
+    "body": "After 17 years, the Ministry of Health and Welfare has amended the law to reinforce healthcare access and medical rights for people with disabilities.\n\nRead more from the original source: [LINE TODAY](https://today.line.me/tw/v3/article/oqYE5yN)"
+  },
+  {
+    "title": "NCKU's 'Reading Without Barriers × Sound of Love' Thematic Exhibition Invites Visitors to Explore the World of Accessible Reading",
+    "slug": "nckus-reading-without-barriers-sound-of-love-thematic-exhibition-invites-visitor-aff09ae4",
+    "lang": "en",
+    "summary": "National Cheng Kung University hosts an exhibition promoting barrier-free reading, showcasing assistive technologies and inclusive reading experiences.",
+    "category": "assistive-tech",
+    "tags": [
+      "無障礙閱讀",
+      "成大",
+      "閱無界",
+      "聲有愛",
+      "主題展",
+      "輔助技術"
+    ],
+    "sourceName": "蕃新聞",
+    "sourceUrl": "https://n.yam.com/Article/20260507857231",
+    "relatedSources": [
+      {
+        "name": "蕃新聞",
+        "url": "https://n.yam.com/Article/20260507857231"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-aff09ae4",
+    "status": "published",
+    "translationOf": "nckus-reading-without-barriers-sound-of-love-thematic-exhibition-invites-visitor-zh-aff09ae4",
+    "publishedAt": "2026-05-07T06:27:00.000Z",
+    "fetchedAt": "2026-05-07T14:49:43.608Z",
+    "body": "National Cheng Kung University hosts an exhibition promoting barrier-free reading, showcasing assistive technologies and inclusive reading experiences.\n\nRead more from the original source: [蕃新聞](https://n.yam.com/Article/20260507857231)"
+  },
+  {
+    "title": "Law firm files thousands of lawsuits over accessibility facility deficiencies",
+    "slug": "law-firm-files-thousands-of-lawsuits-over-accessibility-facility-deficiencies-e121c74a",
+    "lang": "en",
+    "summary": "A law firm has filed thousands of lawsuits alleging deficiencies in accessibility facilities, causing distress to businesses; lawyers have counterattacked.",
+    "category": "laws-rights",
+    "tags": [
+      "accessibility",
+      "lawsuits",
+      "facilities",
+      "legal"
+    ],
+    "sourceName": "世界新聞網",
+    "sourceUrl": "https://www.worldjournal.com/wj/story/124181/9487335",
+    "relatedSources": [
+      {
+        "name": "世界新聞網",
+        "url": "https://www.worldjournal.com/wj/story/124181/9487335"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e121c74a",
+    "status": "published",
+    "translationOf": "law-firm-files-thousands-of-lawsuits-over-accessibility-facility-deficiencies-zh-e121c74a",
+    "publishedAt": "2026-05-07T06:17:00.000Z",
+    "fetchedAt": "2026-05-07T14:50:35.031Z",
+    "body": "A law firm has filed thousands of lawsuits alleging deficiencies in accessibility facilities, causing distress to businesses; lawyers have counterattacked.\n\nRead more from the original source: [世界新聞網](https://www.worldjournal.com/wj/story/124181/9487335)"
+  },
+  {
+    "title": "Official inspects Matsu Beihai Tunnel to promote accessible tourism and peace vision",
+    "slug": "official-inspects-matsu-beihai-tunnel-to-promote-accessible-tourism-and-peace-vi-5e69ded3",
+    "lang": "en",
+    "summary": "Officials visited the Beihai Tunnel in Matsu to advance accessible tourism initiatives alongside a peace vision.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "accessibility",
+      "tourism",
+      "Matsu",
+      "infrastructure"
+    ],
+    "sourceName": "PChome Online 新聞",
+    "sourceUrl": "https://news.pchome.com.tw/public/pronews/20260502/index-77765254547571353016.html",
+    "relatedSources": [
+      {
+        "name": "PChome Online 新聞",
+        "url": "https://news.pchome.com.tw/public/pronews/20260502/index-77765254547571353016.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5e69ded3",
+    "status": "published",
+    "translationOf": "official-inspects-matsu-beihai-tunnel-to-promote-accessible-tourism-and-peace-vi-zh-5e69ded3",
+    "publishedAt": "2026-05-01T16:22:25.000Z",
+    "fetchedAt": "2026-05-07T14:50:35.042Z",
+    "body": "Officials visited the Beihai Tunnel in Matsu to advance accessible tourism initiatives alongside a peace vision.\n\nRead more from the original source: [PChome Online 新聞](https://news.pchome.com.tw/public/pronews/20260502/index-77765254547571353016.html)"
+  },
+  {
+    "title": "JavaScript UI library 'Wijmo 2026J v1' enhances accessibility with WCAG 2.2 AA compliance",
+    "slug": "javascript-ui-library-wijmo-2026j-v1-enhances-accessibility-with-wcag-22-aa-comp-9e3619a7",
+    "lang": "en",
+    "summary": "The Wijmo 2026J v1 JavaScript UI library has been updated to strengthen accessibility by conforming to WCAG 2.2 AA standards.",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility",
+      "WCAG",
+      "JavaScript",
+      "UI library"
+    ],
+    "sourceName": "CodeZine",
+    "sourceUrl": "https://codezine.jp/news/detail/24146",
+    "relatedSources": [
+      {
+        "name": "CodeZine",
+        "url": "https://codezine.jp/news/detail/24146"
+      }
+    ],
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3&hl=ja&gl=JP&ceid=JP%3Aja",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-9e3619a7",
+    "status": "published",
+    "translationOf": "javascript-ui-library-wijmo-2026j-v1-enhances-accessibility-with-wcag-22-aa-comp-zh-9e3619a7",
+    "publishedAt": "2026-05-07T06:28:58.000Z",
+    "fetchedAt": "2026-05-07T14:50:35.051Z",
+    "body": "The Wijmo 2026J v1 JavaScript UI library has been updated to strengthen accessibility by conforming to WCAG 2.2 AA standards.\n\nRead more from the original source: [CodeZine](https://codezine.jp/news/detail/24146)"
+  },
+  {
+    "title": "Victorian budget fails stroke community, again",
+    "slug": "victorian-budget-fails-stroke-community-again-ce9f01b1",
+    "lang": "en",
+    "summary": "The Stroke Foundation expressed disappointment over the 2026–27 Victorian State Budget, saying it again failed to fund stroke awareness, prevention and recovery despite urgent need.",
+    "category": "laws-rights",
+    "tags": [
+      "stroke",
+      "budget",
+      "disability",
+      "health"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/05/07/health/victorian-budget-fails-stroke-community-again",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/05/07/health/victorian-budget-fails-stroke-community-again"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-ce9f01b1",
+    "status": "published",
+    "translationOf": "victorian-budget-fails-stroke-community-again-zh-ce9f01b1",
+    "publishedAt": "2026-05-07T02:20:10.000Z",
+    "fetchedAt": "2026-05-07T14:51:39.014Z",
+    "body": "The Stroke Foundation expressed disappointment over the 2026–27 Victorian State Budget, saying it again failed to fund stroke awareness, prevention and recovery despite urgent need.\n\nRead more from the original source: [Unknown source](https://disabilityinsider.com/2026/05/07/health/victorian-budget-fails-stroke-community-again)"
+  },
+  {
+    "title": "The EU must amend the proposed law on protection of adults",
+    "slug": "the-eu-must-amend-the-proposed-law-on-protection-of-adults-0ac7327b",
+    "lang": "en",
+    "summary": "We renew our urgent call to amend the proposed EU Regulation on protection of adults in cross-border situations, ahead of the next, and possibly last, EU Interistituional negotiation meeting (trilogue) scheduled for 12 May. We call on the negotiators to: Ensure the protection of people’s rights by recognising and focusing on supported decision-making regimes and mechanisms;",
+    "category": "laws-rights",
+    "tags": [
+      "EU",
+      "law",
+      "adults protection",
+      "supported decision-making"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.edf-feph.org/the-eu-must-amend-the-proposed-law-on-protection-of-adults",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.edf-feph.org/the-eu-must-amend-the-proposed-law-on-protection-of-adults"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.edf-feph.org/feed",
+    "ingestProvider": "edf-feph.org",
+    "clusterId": "cluster-0ac7327b",
+    "status": "published",
+    "translationOf": "the-eu-must-amend-the-proposed-law-on-protection-of-adults-zh-0ac7327b",
+    "publishedAt": "2026-05-07T10:23:05.000Z",
+    "fetchedAt": "2026-05-07T14:51:39.024Z",
+    "body": "We renew our urgent call to amend the proposed EU Regulation on protection of adults in cross-border situations, ahead of the next, and possibly last, EU Interistituional negotiation meeting (trilogue) scheduled for 12 May. We call on the negotiators to: Ensure the protection of people’s rights by recognising and focusing on supported decision-making regimes and mechanisms;\n\nRead more from the original source: [Unknown source](https://www.edf-feph.org/the-eu-must-amend-the-proposed-law-on-protection-of-adults)"
+  },
+  {
+    "title": "Accessibility-Ready Requirements Updated",
+    "slug": "accessibility-ready-requirements-updated-899e390b",
+    "lang": "en",
+    "summary": "Learn about the updated WordPress Theme Requirements for the accessibility-ready tag. The new guidelines come with detailed documentation, testing instructions, and many improved processes.",
+    "category": "digital-a11y",
+    "tags": [
+      "WordPress",
+      "accessibility-ready",
+      "theme requirements"
+    ],
+    "sourceName": "Wordpress.org",
+    "sourceUrl": "https://make.wordpress.org/accessibility/2026/05/06/accessibility-ready-requirements-updated",
+    "relatedSources": [
+      {
+        "name": "Wordpress.org",
+        "url": "https://make.wordpress.org/accessibility/2026/05/06/accessibility-ready-requirements-updated"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-899e390b",
+    "status": "published",
+    "translationOf": "accessibility-ready-requirements-updated-zh-899e390b",
+    "publishedAt": "2026-05-06T14:30:00.000Z",
+    "fetchedAt": "2026-05-07T14:51:39.034Z",
+    "body": "Learn about the updated WordPress Theme Requirements for the accessibility-ready tag. The new guidelines come with detailed documentation, testing instructions, and many improved processes.\n\nRead more from the original source: [Wordpress.org](https://make.wordpress.org/accessibility/2026/05/06/accessibility-ready-requirements-updated)"
+  },
+  {
+    "title": "Almost 1 in 5 Brown U. Students Now Qualify for Disability Accommodations",
+    "slug": "almost-1-in-5-brown-u-students-now-qualify-for-disability-accommodations-4a6b8db3",
+    "lang": "en",
+    "summary": "Nearly 20% of Brown University students now qualify for disability accommodations, reflecting increased recognition of diverse needs.",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "accommodations",
+      "university",
+      "Brown University"
+    ],
+    "sourceName": "Legalinsurrection.com",
+    "sourceUrl": "https://legalinsurrection.com/2026/05/almost-1-in-5-brown-u-students-now-qualify-for-disability-accommodations",
+    "relatedSources": [
+      {
+        "name": "Legalinsurrection.com",
+        "url": "https://legalinsurrection.com/2026/05/almost-1-in-5-brown-u-students-now-qualify-for-disability-accommodations"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-4a6b8db3",
+    "status": "published",
+    "translationOf": "almost-1-in-5-brown-u-students-now-qualify-for-disability-accommodations-zh-4a6b8db3",
+    "publishedAt": "2026-05-06T14:00:52.000Z",
+    "fetchedAt": "2026-05-07T14:52:20.534Z",
+    "body": "Nearly 20% of Brown University students now qualify for disability accommodations, reflecting increased recognition of diverse needs.\n\nRead more from the original source: [Legalinsurrection.com](https://legalinsurrection.com/2026/05/almost-1-in-5-brown-u-students-now-qualify-for-disability-accommodations)"
   }
 ]
