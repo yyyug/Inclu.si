@@ -1,47 +1,55 @@
 {
-  "date": "2026-05-07",
-  "generatedAt": "2026-05-07T02:17:07.682Z",
+  "date": "2026-05-08",
+  "generatedAt": "2026-05-08T04:01:11.130Z",
   "en": {
-    "title": "Daily Accessibility Digest – May 7, 2026",
-    "summary": "The Equal Rights Center secured an agreement for accessibility upgrades at a D.C. apartment building, while the EU’s updated Disability Rights Strategy drew criticism for lacking ambition. Model Tasha Ghouri launched an accessible fashion brand, and a university announced a new digital accessibility policy to improve online access for students with disabilities.",
+    "title": "Daily Accessibility Digest – May 8, 2026",
+    "summary": "Today's top accessibility stories include an updated ADA website compliance deadline, VR training improving police interactions with autistic individuals, wheelchair users mapping 420km of accessible pathways in Townsville, concerns that Australia's EV future excludes drivers with disabilities, and South Australia's plan to speed up support for children with complex needs.",
     "highlights": [
       {
-        "title": "Equal Rights Center Reaches Agreement to Ensure Accessibility for People with Disabilities at D.C. Apartment Building - Morningstar",
-        "slug": "equal-rights-center-reaches-agreement-to-ensure-accessibility-for-people-with-di-19428d6b"
+        "title": "Compliance Deadline Changed for ADA Website Accessibility",
+        "slug": "compliance-deadline-changed-for-ada-website-accessibility-53603ac0"
       },
       {
-        "title": "Update of EU Disability Rights Strategy lacks ambition to advance our rights",
-        "slug": "update-of-eu-disability-rights-strategy-lacks-ambition-to-advance-our-rights-37901b9d"
+        "title": "VR training helps police improve interactions with people with autism",
+        "slug": "vr-training-helps-police-improve-interactions-with-people-with-autism-6bfc8548"
       },
       {
-        "title": "Tasha Ghouri launches 'accessible' fashion brand and webstore",
-        "slug": "tasha-ghouri-launches-accessible-fashion-brand-and-webstore-329163df"
+        "title": "Wheelchair pilots map 420km of accessible pathways",
+        "slug": "wheelchair-pilots-map-420km-of-accessible-pathways-a7a0e1d1"
       },
       {
-        "title": "University adopts policy on digital accessibility",
-        "slug": "university-adopts-policy-on-digital-accessibility-8a6ba5a3"
+        "title": "Australia’s EV future excludes drivers with disabilities behind",
+        "slug": "australias-ev-future-excludes-drivers-with-disabilities-behind-c3094162"
+      },
+      {
+        "title": "Faster support for children with complex needs",
+        "slug": "faster-support-for-children-with-complex-needs-b2ced8c2"
       }
     ]
   },
   "zh-TW": {
-    "title": "每日無障礙消息摘要 – 2026年5月7日",
-    "summary": "平等權利中心與華盛頓特區公寓大樓達成協議，確保殘障人士可及性；歐盟殘疾人權利戰略更新被批評缺乏野心；模特塔莎·古里推出無障礙時尚品牌；某大學採納數位無障礙政策，提升線上學習可及性。",
+    "title": "每日無障礙消息摘要 – 2026年5月8日",
+    "summary": "今日重點無障礙新聞包括ADA網站無障礙合規期限更新、VR培訓提升警方與自閉症人士互動、輪椅使用者繪製湯斯維爾420公里可及路徑、澳洲電動車未來可能忽視殘障駕駛者，以及南澳洲加速支援有複雜需求兒童的行動計畫。",
     "highlights": [
       {
-        "title": "平等權利中心達成協議，確保殘障人士在華盛頓特區公寓大樓的可及性",
-        "slug": "equal-rights-center-reaches-agreement-to-ensure-accessibility-for-people-with-di-zh-19428d6b"
+        "title": "ADA網站無障礙合規期限變更",
+        "slug": "compliance-deadline-changed-for-ada-website-accessibility-zh-53603ac0"
       },
       {
-        "title": "歐盟殘疾人權利戰略更新缺乏野心，未能推進權利",
-        "slug": "update-of-eu-disability-rights-strategy-lacks-ambition-to-advance-our-rights-zh-37901b9d"
+        "title": "VR 培训帮助警方改善与自闭症人士的互动",
+        "slug": "vr-training-helps-police-improve-interactions-with-people-with-autism-zh-6bfc8548"
       },
       {
-        "title": "塔莎·古里推出『無障礙』時尚品牌及網店",
-        "slug": "tasha-ghouri-launches-accessible-fashion-brand-and-webstore-zh-329163df"
+        "title": "輪椅駕駛者繪製420公里可及路徑",
+        "slug": "wheelchair-pilots-map-420km-of-accessible-pathways-zh-a7a0e1d1"
       },
       {
-        "title": "大學採納數位無障礙政策",
-        "slug": "university-adopts-policy-on-digital-accessibility-zh-8a6ba5a3"
+        "title": "澳洲電動車未來忽視殘障駕駛者",
+        "slug": "australias-ev-future-excludes-drivers-with-disabilities-behind-zh-c3094162"
+      },
+      {
+        "title": "加速支援有複雜需求的兒童",
+        "slug": "faster-support-for-children-with-complex-needs-zh-b2ced8c2"
       }
     ]
   }
