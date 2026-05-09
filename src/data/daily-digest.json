@@ -1,55 +1,47 @@
 {
-  "date": "2026-05-08",
-  "generatedAt": "2026-05-08T04:01:11.130Z",
+  "date": "2026-05-09",
+  "generatedAt": "2026-05-09T04:06:17.249Z",
   "en": {
-    "title": "Daily Accessibility Digest – May 8, 2026",
-    "summary": "Today's top accessibility stories include an updated ADA website compliance deadline, VR training improving police interactions with autistic individuals, wheelchair users mapping 420km of accessible pathways in Townsville, concerns that Australia's EV future excludes drivers with disabilities, and South Australia's plan to speed up support for children with complex needs.",
+    "title": "Daily Accessibility Digest – May 9, 2026",
+    "summary": "Today's highlights include the Michigan Army National Guard improving trails at Ludington State Park, a visually impaired creator sharing accessible LEGO guides, Columbia University and MTA upgrading the 125th Street subway station, and NCKU Library's exhibition promoting accessible reading.",
     "highlights": [
       {
-        "title": "Compliance Deadline Changed for ADA Website Accessibility",
-        "slug": "compliance-deadline-changed-for-ada-website-accessibility-53603ac0"
+        "title": "Michigan Army National Guard assists with accessibility improvements at Ludington State Park - Shoreline Media Group",
+        "slug": "michigan-army-national-guard-assists-with-accessibility-improvements-at-ludingto-1c2a40b0"
       },
       {
-        "title": "VR training helps police improve interactions with people with autism",
-        "slug": "vr-training-helps-police-improve-interactions-with-people-with-autism-6bfc8548"
+        "title": "2026-05-09 'Looking Out at the World': Visually Impaired Person in the US Creates Accessible LEGO Assembly Instructions to Help Peers Enjoy Fun",
+        "slug": "2026-05-09-looking-out-at-the-world-visually-impaired-person-in-the-us-creates-a-c17a158b"
       },
       {
-        "title": "Wheelchair pilots map 420km of accessible pathways",
-        "slug": "wheelchair-pilots-map-420km-of-accessible-pathways-a7a0e1d1"
+        "title": "Columbia and MTA Partner to Improve Accessibility of 125 Street 1 Subway Station",
+        "slug": "columbia-and-mta-partner-to-improve-accessibility-of-125-street-1-subway-station-729d53e1"
       },
       {
-        "title": "Australia’s EV future excludes drivers with disabilities behind",
-        "slug": "australias-ev-future-excludes-drivers-with-disabilities-behind-c3094162"
-      },
-      {
-        "title": "Faster support for children with complex needs",
-        "slug": "faster-support-for-children-with-complex-needs-b2ced8c2"
+        "title": "NCKU Library's 'Reading Without Borders × Sound of Love' Thematic Exhibition Invites You to Enter the World of Accessible Reading",
+        "slug": "ncku-librarys-reading-without-borders-sound-of-love-thematic-exhibition-invites--eb4194e7"
       }
     ]
   },
   "zh-TW": {
-    "title": "每日無障礙消息摘要 – 2026年5月8日",
-    "summary": "今日重點無障礙新聞包括ADA網站無障礙合規期限更新、VR培訓提升警方與自閉症人士互動、輪椅使用者繪製湯斯維爾420公里可及路徑、澳洲電動車未來可能忽視殘障駕駛者，以及南澳洲加速支援有複雜需求兒童的行動計畫。",
+    "title": "每日無障礙 digest – 2026年5月9日",
+    "summary": "今日焦點：密歇根州陸軍國民警衛隊協助魯丁頓州立公園無障礙改善、美國視障者製作無障礙樂高組裝說明書、哥倫比亞大學與MTA提升125街地鐵站無障礙設施、以及國立成功大學圖書館舉辦《閱無界×聲有愛》主題展推廣無障礙閱讀。",
     "highlights": [
       {
-        "title": "ADA網站無障礙合規期限變更",
-        "slug": "compliance-deadline-changed-for-ada-website-accessibility-zh-53603ac0"
+        "title": "密歇根州陸軍國民警衛隊協助魯丁頓州立公園無障礙改善 - Shoreline Media Group",
+        "slug": "michigan-army-national-guard-assists-with-accessibility-improvements-at-ludingto-zh-1c2a40b0"
       },
       {
-        "title": "VR 培训帮助警方改善与自闭症人士的互动",
-        "slug": "vr-training-helps-police-improve-interactions-with-people-with-autism-zh-6bfc8548"
+        "title": "2026-05-09 《放眼世界》： 美國有視障人士製無障礙積木組裝說明書助同路人享受樂趣",
+        "slug": "2026-05-09-looking-out-at-the-world-visually-impaired-person-in-the-us-creates-a-zh-c17a158b"
       },
       {
-        "title": "輪椅駕駛者繪製420公里可及路徑",
-        "slug": "wheelchair-pilots-map-420km-of-accessible-pathways-zh-a7a0e1d1"
+        "title": "哥倫比亞大學與MTA合作提升125街1號地鐵站無障礙設施",
+        "slug": "columbia-and-mta-partner-to-improve-accessibility-of-125-street-1-subway-station-zh-729d53e1"
       },
       {
-        "title": "澳洲電動車未來忽視殘障駕駛者",
-        "slug": "australias-ev-future-excludes-drivers-with-disabilities-behind-zh-c3094162"
-      },
-      {
-        "title": "加速支援有複雜需求的兒童",
-        "slug": "faster-support-for-children-with-complex-needs-zh-b2ced8c2"
+        "title": "成大圖館《閱無界×聲有愛》主題展 邀您走進無障礙閱讀世界",
+        "slug": "ncku-librarys-reading-without-borders-sound-of-love-thematic-exhibition-invites--zh-eb4194e7"
       }
     ]
   }
