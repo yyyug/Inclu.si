@@ -1,47 +1,47 @@
 {
-  "date": "2026-05-09",
-  "generatedAt": "2026-05-09T04:06:17.249Z",
+  "date": "2026-05-10",
+  "generatedAt": "2026-05-10T04:35:55.808Z",
   "en": {
-    "title": "Daily Accessibility Digest – May 9, 2026",
-    "summary": "Today's highlights include the Michigan Army National Guard improving trails at Ludington State Park, a visually impaired creator sharing accessible LEGO guides, Columbia University and MTA upgrading the 125th Street subway station, and NCKU Library's exhibition promoting accessible reading.",
+    "title": "Daily Accessibility Digest – May 10, 2026",
+    "summary": "Highlighting key accessibility stories: Web3 ecosystem prioritizing inclusivity, London 2012 Olympics legacy of accessibility, threats to disabled women's livelihood in Sambhaji Nagar, and the appointment of the first blind Aikido master to an accessibility role.",
     "highlights": [
       {
-        "title": "Michigan Army National Guard assists with accessibility improvements at Ludington State Park - Shoreline Media Group",
-        "slug": "michigan-army-national-guard-assists-with-accessibility-improvements-at-ludingto-1c2a40b0"
+        "title": "Web3 ecosystem focuses on accessibility",
+        "slug": "web3-ecosystem-focuses-on-accessibility-a5d58c34"
       },
       {
-        "title": "2026-05-09 'Looking Out at the World': Visually Impaired Person in the US Creates Accessible LEGO Assembly Instructions to Help Peers Enjoy Fun",
-        "slug": "2026-05-09-looking-out-at-the-world-visually-impaired-person-in-the-us-creates-a-c17a158b"
+        "title": "London 2012 Olympics Highlight Accessibility and Inclusion",
+        "slug": "london-2012-olympics-highlight-accessibility-and-inclusion-d8f5096e"
       },
       {
-        "title": "Columbia and MTA Partner to Improve Accessibility of 125 Street 1 Subway Station",
-        "slug": "columbia-and-mta-partner-to-improve-accessibility-of-125-street-1-subway-station-729d53e1"
+        "title": "Disabled Women's Livelihood Threatened by Shop Demolition in Sambhaji Nagar",
+        "slug": "disabled-womens-livelihood-threatened-by-shop-demolition-in-sambhaji-nagar-fc560ac1"
       },
       {
-        "title": "NCKU Library's 'Reading Without Borders × Sound of Love' Thematic Exhibition Invites You to Enter the World of Accessible Reading",
-        "slug": "ncku-librarys-reading-without-borders-sound-of-love-thematic-exhibition-invites--eb4194e7"
+        "title": "First Blind Aikido Master Appointed to Accessibility Role",
+        "slug": "first-blind-aikido-master-appointed-to-accessibility-role-47a6c3b4"
       }
     ]
   },
   "zh-TW": {
-    "title": "每日無障礙 digest – 2026年5月9日",
-    "summary": "今日焦點：密歇根州陸軍國民警衛隊協助魯丁頓州立公園無障礙改善、美國視障者製作無障礙樂高組裝說明書、哥倫比亞大學與MTA提升125街地鐵站無障礙設施、以及國立成功大學圖書館舉辦《閱無界×聲有愛》主題展推廣無障礙閱讀。",
+    "title": "無障礙每日摘要 – 2026年5月10日",
+    "summary": "重點報導：Web3 生態系統聚焦無障礙、倫敦2012奧運會的無障礙與包容遺產、桑巴吉納加爾殘疾婦女生計受威脅，以及首位盲人合氣道大師獲任無障礙事務職務。",
     "highlights": [
       {
-        "title": "密歇根州陸軍國民警衛隊協助魯丁頓州立公園無障礙改善 - Shoreline Media Group",
-        "slug": "michigan-army-national-guard-assists-with-accessibility-improvements-at-ludingto-zh-1c2a40b0"
+        "title": "Web3生态系统聚焦无障碍",
+        "slug": "web3-ecosystem-focuses-on-accessibility-zh-a5d58c34"
       },
       {
-        "title": "2026-05-09 《放眼世界》： 美國有視障人士製無障礙積木組裝說明書助同路人享受樂趣",
-        "slug": "2026-05-09-looking-out-at-the-world-visually-impaired-person-in-the-us-creates-a-zh-c17a158b"
+        "title": "伦敦2012奥运会突出无障碍与包容",
+        "slug": "london-2012-olympics-highlight-accessibility-and-inclusion-zh-d8f5096e"
       },
       {
-        "title": "哥倫比亞大學與MTA合作提升125街1號地鐵站無障礙設施",
-        "slug": "columbia-and-mta-partner-to-improve-accessibility-of-125-street-1-subway-station-zh-729d53e1"
+        "title": "桑巴吉纳加尔残疾妇女生计遭店铺拆除威胁",
+        "slug": "disabled-womens-livelihood-threatened-by-shop-demolition-in-sambhaji-nagar-zh-fc560ac1"
       },
       {
-        "title": "成大圖館《閱無界×聲有愛》主題展 邀您走進無障礙閱讀世界",
-        "slug": "ncku-librarys-reading-without-borders-sound-of-love-thematic-exhibition-invites--zh-eb4194e7"
+        "title": "首位盲人合气道大师获任无障碍事务职务",
+        "slug": "first-blind-aikido-master-appointed-to-accessibility-role-zh-47a6c3b4"
       }
     ]
   }
