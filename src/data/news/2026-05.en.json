@@ -12192,5 +12192,176 @@
     "publishedAt": "2026-05-10T03:04:52.000Z",
     "fetchedAt": "2026-05-10T04:26:08.029Z",
     "body": "Halo offers a modern crypto and NFT wallet that simplifies digital asset management while providing strong security and seamless accessibility for Web3 users.\nTweet source: [Alpha One (@AlphaOneStudio)](https://x.com/AlphaOneStudio/status/2053310271528071227)"
+  },
+  {
+    "title": "Columbia SkyTrain station upgrade deemed most technically challenging retrofit project",
+    "slug": "columbia-skytrain-station-upgrade-deemed-most-technically-challenging-retrofit-p-405be7f6",
+    "lang": "en",
+    "summary": "TransLink reports that upgrading the 37‑year‑old Columbia SkyTrain station to fix accessibility issues is its most technically challenging retrofit yet, prompting calls from transit advocates and municipal leaders for major changes.",
+    "category": "physical-design",
+    "tags": [
+      "transit",
+      "station",
+      "accessibility",
+      "retrofit",
+      "TransLink",
+      "SkyTrain"
+    ],
+    "sourceName": "CBC News",
+    "sourceUrl": "https://www.cbc.ca/news/canada/british-columbia/columbia-skytrain-station-upgrades-9.7190173",
+    "relatedSources": [
+      {
+        "name": "CBC News",
+        "url": "https://www.cbc.ca/news/canada/british-columbia/columbia-skytrain-station-upgrades-9.7190173"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-405be7f6",
+    "status": "published",
+    "translationOf": "columbia-skytrain-station-upgrade-deemed-most-technically-challenging-retrofit-p-zh-405be7f6",
+    "publishedAt": "2026-05-09T13:00:00.000Z",
+    "fetchedAt": "2026-05-10T13:56:07.229Z",
+    "body": "TransLink reports that upgrading the 37‑year‑old Columbia SkyTrain station to fix accessibility issues is its most technically challenging retrofit yet, prompting calls from transit advocates and municipal leaders for major changes.\n\nRead more from the original source: [CBC News](https://www.cbc.ca/news/canada/british-columbia/columbia-skytrain-station-upgrades-9.7190173)"
+  },
+  {
+    "title": "Speechify’s AI text‑to‑speech app boosts reading accessibility for dyslexic and ADHD users",
+    "slug": "speechifys-ai-texttospeech-app-boosts-reading-accessibility-for-dyslexic-and-adh-341aa2b6",
+    "lang": "en",
+    "summary": "In a 20VC interview, Cliff Weitzman explains how Speechify’s AI‑driven text‑to‑speech platform transforms reading for millions, especially those with dyslexia and ADHD, by leveraging volume and leverage to drive unexpected outcomes.",
+    "category": "assistive-tech",
+    "tags": [
+      "Speechify",
+      "text-to-speech",
+      "AI",
+      "dyslexia",
+      "ADHD",
+      "reading accessibility"
+    ],
+    "sourceName": "Crypto Briefing",
+    "sourceUrl": "https://cryptobriefing.com/cliff-weitzman-volume-and-leverage-drive-unexpected-outcomes-speechify-transforms-reading-accessibility-and-growth-is-an-arbitrage-game-20vc",
+    "relatedSources": [
+      {
+        "name": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/cliff-weitzman-volume-and-leverage-drive-unexpected-outcomes-speechify-transforms-reading-accessibility-and-growth-is-an-arbitrage-game-20vc"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-341aa2b6",
+    "status": "published",
+    "translationOf": "speechifys-ai-texttospeech-app-boosts-reading-accessibility-for-dyslexic-and-adh-zh-341aa2b6",
+    "publishedAt": "2026-05-09T12:59:52.000Z",
+    "fetchedAt": "2026-05-10T13:56:07.260Z",
+    "body": "In a 20VC interview, Cliff Weitzman explains how Speechify’s AI‑driven text‑to‑speech platform transforms reading for millions, especially those with dyslexia and ADHD, by leveraging volume and leverage to drive unexpected outcomes.\n\nRead more from the original source: [Crypto Briefing](https://cryptobriefing.com/cliff-weitzman-volume-and-leverage-drive-unexpected-outcomes-speechify-transforms-reading-accessibility-and-growth-is-an-arbitrage-game-20vc)"
+  },
+  {
+    "title": "Wagtail Skynet Accessibility Scanner released on PyPI for WCAG and legal compliance testing",
+    "slug": "wagtail-skynet-accessibility-scanner-released-on-pypi-for-wcag-and-legal-complia-cfd32546",
+    "lang": "en",
+    "summary": "The new wagtail‑skynetaccessibility‑scanner package on PyPI scans websites for WCAG 2.0‑2.2, ADA, Section 508, EN 301 549, UK Equality Act, Australian DDA and Canada ACA issues, providing concise highlights and recommended fixes.",
+    "category": "digital-a11y",
+    "tags": [
+      "wagtail",
+      "accessibility scanner",
+      "WCAG",
+      "ADA",
+      "Section 508",
+      "EN 301 549",
+      "PyPI"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/wagtail-skynetaccessibility-scanner",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/wagtail-skynetaccessibility-scanner"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-cfd32546",
+    "status": "published",
+    "translationOf": "wagtail-skynet-accessibility-scanner-released-on-pypi-for-wcag-and-legal-complia-zh-cfd32546",
+    "publishedAt": "2026-05-09T12:17:43.000Z",
+    "fetchedAt": "2026-05-10T13:56:07.285Z",
+    "body": "The new wagtail‑skynetaccessibility‑scanner package on PyPI scans websites for WCAG 2.0‑2.2, ADA, Section 508, EN 301 549, UK Equality Act, Australian DDA and Canada ACA issues, providing concise highlights and recommended fixes.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/wagtail-skynetaccessibility-scanner)"
+  },
+  {
+    "title": "What DJI Actually Changed in the New Neo 2 Drone",
+    "slug": "what-dji-actually-changed-in-the-new-neo-2-drone-679d09f8",
+    "lang": "en",
+    "summary": "The DJI Neo 2 represents a thoughtful approach to making aerial photography and videography more accessible. With its compact design and intuitive functionality, this drone is tailored for users who value portability without sacrificing essential features.",
+    "category": "assistive-tech",
+    "tags": [
+      "drone",
+      "accessibility",
+      "portable"
+    ],
+    "sourceName": "Geeky Gadgets",
+    "sourceUrl": "https://www.geeky-gadgets.com/dji-neo-2-review-2026",
+    "relatedSources": [
+      {
+        "name": "Geeky Gadgets",
+        "url": "https://www.geeky-gadgets.com/dji-neo-2-review-2026"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-679d09f8",
+    "status": "published",
+    "translationOf": "what-dji-actually-changed-in-the-new-neo-2-drone-zh-679d09f8",
+    "publishedAt": "2026-05-09T10:00:00.000Z",
+    "fetchedAt": "2026-05-10T13:58:32.568Z",
+    "body": "The DJI Neo 2 represents a thoughtful approach to making aerial photography and videography more accessible. With its compact design and intuitive functionality, this drone is tailored for users who value portability without sacrificing essential features.\n\nRead more from the original source: [Geeky Gadgets](https://www.geeky-gadgets.com/dji-neo-2-review-2026)"
+  },
+  {
+    "title": "Car Accident Devastates Family Livelihood, Anxi Township Head Activates Social Safety Net",
+    "slug": "car-accident-devastates-family-livelihood-anxi-township-head-activates-social-sa-0be93eb8",
+    "lang": "en",
+    "summary": "Anxi Township Social Affairs Division received a report about a resident who assists parents at a meatball stall by day and works part-time at a restaurant by night, who suffered a severe motorcycle accident causing cervical spine injury. After emergency surgery, the person temporarily lost independent living ability and continues rehabilitation and acupuncture, unable to help parents maintain the stall. The father holds a mild physical disability certificate and receives a monthly low-income elderly subsidy of 4,664 NT dollars; the mother suffers long-term hip joint pain and had planned to rest but must now support the stall due to sudden family changes. The uncle also holds a mild physical disability certificate, receiving a monthly labor pension of 17,822 NT dollars, most of which pays for over 20,000 NT dollars of foreign caregiver fees monthly.",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "social welfare",
+      "accident",
+      "caregiver"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7f587c1e-c5c7-4ae8-a658-d9b16fef027d",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7f587c1e-c5c7-4ae8-a658-d9b16fef027d"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-0be93eb8",
+    "status": "published",
+    "translationOf": "car-accident-devastates-family-livelihood-anxi-township-head-activates-social-sa-zh-0be93eb8",
+    "publishedAt": "2026-05-09T09:49:51.000Z",
+    "fetchedAt": "2026-05-10T13:58:32.588Z",
+    "body": "Anxi Township Social Affairs Division received a report about a resident who assists parents at a meatball stall by day and works part-time at a restaurant by night, who suffered a severe motorcycle accident causing cervical spine injury. After emergency surgery, the person temporarily lost independent living ability and continues rehabilitation and acupuncture, unable to help parents maintain the stall. The father holds a mild physical disability certificate and receives a monthly low-income elderly subsidy of 4,664 NT dollars; the mother suffers long-term hip joint pain and had planned to rest but must now support the stall due to sudden family changes. The uncle also holds a mild physical disability certificate, receiving a monthly labor pension of 17,822 NT dollars, most of which pays for over 20,000 NT dollars of foreign caregiver fees monthly.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7f587c1e-c5c7-4ae8-a658-d9b16fef027d)"
   }
 ]
