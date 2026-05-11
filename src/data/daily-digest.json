@@ -1,47 +1,47 @@
 {
-  "date": "2026-05-10",
-  "generatedAt": "2026-05-10T04:35:55.808Z",
+  "date": "2026-05-11",
+  "generatedAt": "2026-05-11T04:46:39.122Z",
   "en": {
-    "title": "Daily Accessibility Digest – May 10, 2026",
-    "summary": "Highlighting key accessibility stories: Web3 ecosystem prioritizing inclusivity, London 2012 Olympics legacy of accessibility, threats to disabled women's livelihood in Sambhaji Nagar, and the appointment of the first blind Aikido master to an accessibility role.",
+    "title": "Daily Accessibility Digest – May 11, 2026",
+    "summary": "Today's highlights include the Asian Digital Library expanding access to Indian scholarly journals, U.S. federal officials reconsidering a healthcare anti‑discrimination rule, new Australian grant opportunities for disability support, and a retail coalition rewriting accessibility standards to improve inclusive shopping.",
     "highlights": [
       {
-        "title": "Web3 ecosystem focuses on accessibility",
-        "slug": "web3-ecosystem-focuses-on-accessibility-a5d58c34"
+        "title": "Asian Digital Library Boosts Accessibility of Indian Scholarly Journals",
+        "slug": "asian-digital-library-boosts-accessibility-of-indian-scholarly-journals-09b215ba"
       },
       {
-        "title": "London 2012 Olympics Highlight Accessibility and Inclusion",
-        "slug": "london-2012-olympics-highlight-accessibility-and-inclusion-d8f5096e"
+        "title": "Feds To Reconsider Rule Barring Disability Discrimination In Healthcare - Disability Scoop",
+        "slug": "feds-to-reconsider-rule-barring-disability-discrimination-in-healthcare-disabili-169ef0f3"
       },
       {
-        "title": "Disabled Women's Livelihood Threatened by Shop Demolition in Sambhaji Nagar",
-        "slug": "disabled-womens-livelihood-threatened-by-shop-demolition-in-sambhaji-nagar-fc560ac1"
+        "title": "Grant applications open to improve lives of persons with disabilities",
+        "slug": "grant-applications-open-to-improve-lives-of-persons-with-disabilities-e9deadd1"
       },
       {
-        "title": "First Blind Aikido Master Appointed to Accessibility Role",
-        "slug": "first-blind-aikido-master-appointed-to-accessibility-role-47a6c3b4"
+        "title": "How A Coalition Of Retail Giants Is Rewriting Accessibility Standards - Forbes",
+        "slug": "how-a-coalition-of-retail-giants-is-rewriting-accessibility-standards-forbes-56572bc7"
       }
     ]
   },
   "zh-TW": {
-    "title": "無障礙每日摘要 – 2026年5月10日",
-    "summary": "重點報導：Web3 生態系統聚焦無障礙、倫敦2012奧運會的無障礙與包容遺產、桑巴吉納加爾殘疾婦女生計受威脅，以及首位盲人合氣道大師獲任無障礙事務職務。",
+    "title": "无障碍每日摘要 – 2026年5月11日",
+    "summary": "今日亮点包括亚洲数字图书馆扩大印度学术期刊的可访问性，美国联邦官员重新考虑医疗反歧视规则，澳大利亚开放残障人士支持补助金，以及零售巨头联盟修订无障碍标准以提升购物包容性。",
     "highlights": [
       {
-        "title": "Web3生态系统聚焦无障碍",
-        "slug": "web3-ecosystem-focuses-on-accessibility-zh-a5d58c34"
+        "title": "亚洲数字图书馆提升印度学术期刊的可访问性",
+        "slug": "asian-digital-library-boosts-accessibility-of-indian-scholarly-journals-zh-09b215ba"
       },
       {
-        "title": "伦敦2012奥运会突出无障碍与包容",
-        "slug": "london-2012-olympics-highlight-accessibility-and-inclusion-zh-d8f5096e"
+        "title": "聯邦政府重新考慮禁止醫療殘障歧視的規則 - Disability Scoop",
+        "slug": "feds-to-reconsider-rule-barring-disability-discrimination-in-healthcare-disabili-zh-169ef0f3"
       },
       {
-        "title": "桑巴吉纳加尔残疾妇女生计遭店铺拆除威胁",
-        "slug": "disabled-womens-livelihood-threatened-by-shop-demolition-in-sambhaji-nagar-zh-fc560ac1"
+        "title": "澳洲政府開放補助金申請以改善殘障人士生活",
+        "slug": "grant-applications-open-to-improve-lives-of-persons-with-disabilities-zh-e9deadd1"
       },
       {
-        "title": "首位盲人合气道大师获任无障碍事务职务",
-        "slug": "first-blind-aikido-master-appointed-to-accessibility-role-zh-47a6c3b4"
+        "title": "零售巨頭聯盟正在重寫無障礙標準 - Forbes",
+        "slug": "how-a-coalition-of-retail-giants-is-rewriting-accessibility-standards-forbes-zh-56572bc7"
       }
     ]
   }
