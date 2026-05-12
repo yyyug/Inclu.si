@@ -1,47 +1,55 @@
 {
-  "date": "2026-05-11",
-  "generatedAt": "2026-05-11T04:46:39.122Z",
+  "date": "2026-05-12",
+  "generatedAt": "2026-05-12T04:26:21.006Z",
   "en": {
-    "title": "Daily Accessibility Digest – May 11, 2026",
-    "summary": "Today's highlights include the Asian Digital Library expanding access to Indian scholarly journals, U.S. federal officials reconsidering a healthcare anti‑discrimination rule, new Australian grant opportunities for disability support, and a retail coalition rewriting accessibility standards to improve inclusive shopping.",
+    "title": "Accessibility Digest: Gaming, Tech, Transit, Policy, and SEO Highlights – May 12, 2026",
+    "summary": "Today's digest highlights Blizzard's discussion of accessibility features in Diablo game design, Xiaomi HyperOS introducing a Clarity Mode for senior users, Nairobi's commuter rail modernization improving accessibility, the HHS OCR delaying enforcement of Section 504 digital accessibility requirements, and how optimizing page accessibility can enhance SEO crawl budget.",
     "highlights": [
       {
-        "title": "Asian Digital Library Boosts Accessibility of Indian Scholarly Journals",
-        "slug": "asian-digital-library-boosts-accessibility-of-indian-scholarly-journals-09b215ba"
+        "title": "Blizzard Discusses Accessibility in Diablo Game Design",
+        "slug": "blizzard-discusses-accessibility-in-diablo-game-design-20aecb37"
       },
       {
-        "title": "Feds To Reconsider Rule Barring Disability Discrimination In Healthcare - Disability Scoop",
-        "slug": "feds-to-reconsider-rule-barring-disability-discrimination-in-healthcare-disabili-169ef0f3"
+        "title": "Xiaomi HyperOS Introduces Clarity Mode for Senior Users",
+        "slug": "xiaomi-hyperos-introduces-clarity-mode-for-senior-users-59da32d0"
       },
       {
-        "title": "Grant applications open to improve lives of persons with disabilities",
-        "slug": "grant-applications-open-to-improve-lives-of-persons-with-disabilities-e9deadd1"
+        "title": "Nairobi Commuter Rail modernization improves accessibility",
+        "slug": "nairobi-commuter-rail-modernization-improves-accessibility-e93e1fde"
       },
       {
-        "title": "How A Coalition Of Retail Giants Is Rewriting Accessibility Standards - Forbes",
-        "slug": "how-a-coalition-of-retail-giants-is-rewriting-accessibility-standards-forbes-56572bc7"
+        "title": "HHS OCR delays Section 504 digital accessibility compliance",
+        "slug": "hhs-ocr-delays-section-504-digital-accessibility-compliance-806fdfc1"
+      },
+      {
+        "title": "Optimizing Page Accessibility Improves SEO Crawl Budget",
+        "slug": "optimizing-page-accessibility-improves-seo-crawl-budget-cdb6c0a2"
       }
     ]
   },
   "zh-TW": {
-    "title": "无障碍每日摘要 – 2026年5月11日",
-    "summary": "今日亮点包括亚洲数字图书馆扩大印度学术期刊的可访问性，美国联邦官员重新考虑医疗反歧视规则，澳大利亚开放残障人士支持补助金，以及零售巨头联盟修订无障碍标准以提升购物包容性。",
+    "title": "无障碍每日摘要：游戏、科技、交通、政策与SEO亮点 – 2026年5月12日",
+    "summary": "今日摘要包括暴雪讨论《暗黑破坏神》游戏中的无障碍功能、小米HyperOS推出适合老年用户的清晰模式、内罗毕通勤铁路现代化提升无障碍性、HHS OCR推迟Section 504数字无障碍合规执行，以及优化页面可访问性如何提升SEO爬取预算。",
     "highlights": [
       {
-        "title": "亚洲数字图书馆提升印度学术期刊的可访问性",
-        "slug": "asian-digital-library-boosts-accessibility-of-indian-scholarly-journals-zh-09b215ba"
+        "title": "暴雪讨论《暗黑破坏神》游戏设计中的无障碍功能",
+        "slug": "blizzard-discusses-accessibility-in-diablo-game-design-zh-20aecb37"
       },
       {
-        "title": "聯邦政府重新考慮禁止醫療殘障歧視的規則 - Disability Scoop",
-        "slug": "feds-to-reconsider-rule-barring-disability-discrimination-in-healthcare-disabili-zh-169ef0f3"
+        "title": "小米HyperOS推出清晰模式以助老年用户",
+        "slug": "xiaomi-hyperos-introduces-clarity-mode-for-senior-users-zh-59da32d0"
       },
       {
-        "title": "澳洲政府開放補助金申請以改善殘障人士生活",
-        "slug": "grant-applications-open-to-improve-lives-of-persons-with-disabilities-zh-e9deadd1"
+        "title": "内罗毕通勤铁路现代化提升无障碍性",
+        "slug": "nairobi-commuter-rail-modernization-improves-accessibility-zh-e93e1fde"
       },
       {
-        "title": "零售巨頭聯盟正在重寫無障礙標準 - Forbes",
-        "slug": "how-a-coalition-of-retail-giants-is-rewriting-accessibility-standards-forbes-zh-56572bc7"
+        "title": "HHS OCR 推迟 Section 504 数字无障碍合规",
+        "slug": "hhs-ocr-delays-section-504-digital-accessibility-compliance-zh-806fdfc1"
+      },
+      {
+        "title": "优化页面可访问性可提升SEO爬取预算",
+        "slug": "optimizing-page-accessibility-improves-seo-crawl-budget-zh-cdb6c0a2"
       }
     ]
   }
