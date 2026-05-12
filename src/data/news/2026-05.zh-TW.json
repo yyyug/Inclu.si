@@ -14510,5 +14510,567 @@
     "publishedAt": "2026-05-12T03:08:34.000Z",
     "fetchedAt": "2026-05-12T04:13:15.780Z",
     "body": "用户批评axes4的PDF无障碍检查工具不佳，尽管他们已尽力按照规范实施。\n推文來源： [Thomas Cioppettini (@TomCiopp)](https://x.com/TomCiopp/status/2054035978562478153)"
+  },
+  {
+    "title": "為視障小組成員啟用無障礙功能 - YouGov",
+    "slug": "enabling-accessibility-for-visually-impaired-panellists-yougov-zh-466a71fb",
+    "lang": "zh-TW",
+    "summary": "為視障小組成員啟用無障礙功能",
+    "category": "digital-a11y",
+    "tags": [
+      "visual impairment",
+      "accessibility",
+      "survey",
+      "YouGov"
+    ],
+    "sourceName": "YouGov",
+    "sourceUrl": "https://yougov.com/en-us/articles/54746-bla-bal",
+    "relatedSources": [
+      {
+        "name": "YouGov",
+        "url": "https://yougov.com/en-us/articles/54746-bla-bal"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-466a71fb",
+    "status": "published",
+    "translationOf": "enabling-accessibility-for-visually-impaired-panellists-yougov-466a71fb",
+    "publishedAt": "2026-05-12T09:40:44.000Z",
+    "fetchedAt": "2026-05-12T14:52:39.550Z",
+    "body": "為視障小組成員啟用無障礙功能\n\n原文來源： [YouGov](https://yougov.com/en-us/articles/54746-bla-bal)"
+  },
+  {
+    "title": "博士生開發衡量城市無障礙的新方法 - USC Price School",
+    "slug": "phd-student-develops-new-way-to-measure-urban-accessibility-usc-price-school-zh-5e354aa0",
+    "lang": "zh-TW",
+    "summary": "博士生開發衡量城市無障礙的新方法",
+    "category": "physical-design",
+    "tags": [
+      "urban accessibility",
+      "measurement",
+      "research",
+      "USC Price School"
+    ],
+    "sourceName": "USC Price School",
+    "sourceUrl": "https://priceschool.usc.edu/news/urban-planning-accessibility-data-maps",
+    "relatedSources": [
+      {
+        "name": "USC Price School",
+        "url": "https://priceschool.usc.edu/news/urban-planning-accessibility-data-maps"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5e354aa0",
+    "status": "published",
+    "translationOf": "phd-student-develops-new-way-to-measure-urban-accessibility-usc-price-school-5e354aa0",
+    "publishedAt": "2026-05-12T13:47:10.000Z",
+    "fetchedAt": "2026-05-12T14:52:39.581Z",
+    "body": "博士生開發衡量城市無障礙的新方法\n\n原文來源： [USC Price School](https://priceschool.usc.edu/news/urban-planning-accessibility-data-maps)"
+  },
+  {
+    "title": "MTA 與哥倫比亞大學成立公私合作夥伴關係以改善車站無障礙 - aptapassengertransport.com",
+    "slug": "mta-and-columbia-university-enter-public-private-partnership-to-improve-station--zh-c7cc08bf",
+    "lang": "zh-TW",
+    "summary": "MTA 與哥倫比亞大學成立公私合作夥伴關係以改善車站無障礙",
+    "category": "physical-design",
+    "tags": [
+      "MTA",
+      "Columbia University",
+      "station accessibility",
+      "public-private partnership",
+      "aptapassengertransport.com"
+    ],
+    "sourceName": "aptapassengertransport.com",
+    "sourceUrl": "https://aptapassengertransport.com/mta-and-columbia-university-public-private-partnership-to-improve-station-accessibility",
+    "relatedSources": [
+      {
+        "name": "aptapassengertransport.com",
+        "url": "https://aptapassengertransport.com/mta-and-columbia-university-public-private-partnership-to-improve-station-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-c7cc08bf",
+    "status": "published",
+    "translationOf": "mta-and-columbia-university-enter-public-private-partnership-to-improve-station--c7cc08bf",
+    "publishedAt": "2026-05-12T13:06:47.000Z",
+    "fetchedAt": "2026-05-12T14:52:39.600Z",
+    "body": "MTA 與哥倫比亞大學成立公私合作夥伴關係以改善車站無障礙\n\n原文來源： [aptapassengertransport.com](https://aptapassengertransport.com/mta-and-columbia-university-public-private-partnership-to-improve-station-accessibility)"
+  },
+  {
+    "title": "布萊克本交易所在150萬英鎊無障礙設施升級後重新開放",
+    "slug": "blackburn-exchange-opens-after-15m-accessibility-upgrades-zh-009a18d6",
+    "lang": "zh-TW",
+    "summary": "該場館完成無障礙設施改善，提升殘障人士的使用便利性。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility upgrades",
+      "public venue",
+      "UK"
+    ],
+    "sourceName": "BBC",
+    "sourceUrl": "https://www.bbc.com/news/articles/cy42npnpnqvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "relatedSources": [
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/cy42npnpnqvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-009a18d6",
+    "status": "published",
+    "translationOf": "blackburn-exchange-opens-after-15m-accessibility-upgrades-009a18d6",
+    "publishedAt": "2026-05-12T05:31:00.000Z",
+    "fetchedAt": "2026-05-12T14:53:03.817Z",
+    "body": "該場館完成無障礙設施改善，提升殘障人士的使用便利性。\n\n原文來源： [BBC](https://www.bbc.com/news/articles/cy42npnpnqvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D)"
+  },
+  {
+    "title": "Golf It! 與 Toro 讓高爾夫運動更具無障礙性",
+    "slug": "golf-it-and-toro-make-golf-more-accessible-zh-ab51f4ad",
+    "lang": "zh-TW",
+    "summary": "Golf It! 與 Toro 推出相關設備與計畫，使高爾夫運動對殘障人士更具友善性，鼓勵廣泛參與。",
+    "category": "assistive-tech",
+    "tags": [
+      "golf",
+      "assistive technology",
+      "inclusive sports"
+    ],
+    "sourceName": "Golf Business News",
+    "sourceUrl": "https://golfbusinessnews.com/news/growing-the-game/golf-it-and-toro-make-golf-more-accessible",
+    "relatedSources": [
+      {
+        "name": "Golf Business News",
+        "url": "https://golfbusinessnews.com/news/growing-the-game/golf-it-and-toro-make-golf-more-accessible"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ab51f4ad",
+    "status": "published",
+    "translationOf": "golf-it-and-toro-make-golf-more-accessible-ab51f4ad",
+    "publishedAt": "2026-05-12T14:08:17.000Z",
+    "fetchedAt": "2026-05-12T14:53:03.844Z",
+    "body": "Golf It! 與 Toro 推出相關設備與計畫，使高爾夫運動對殘障人士更具友善性，鼓勵廣泛參與。\n\n原文來源： [Golf Business News](https://golfbusinessnews.com/news/growing-the-game/golf-it-and-toro-make-golf-more-accessible)"
+  },
+  {
+    "title": "提升居住安全與便利性 中市補助社區優化無障礙設施 即日起至8/31受理申請",
+    "slug": "taichung-city-subsidizes-community-barrier-free-facility-optimization-applicatio-zh-2bc845f6",
+    "lang": "zh-TW",
+    "summary": "中市提供補助，鼓勵社區優化無障礙設施，提升居住安全與便利性，申請期間自即日起至8月31日。",
+    "category": "physical-design",
+    "tags": [
+      "barrier-free",
+      "subsidy",
+      "community",
+      "Taichung"
+    ],
+    "sourceName": "taichung.gov.tw",
+    "sourceUrl": "https://www.taichung.gov.tw/3274232/post",
+    "relatedSources": [
+      {
+        "name": "taichung.gov.tw",
+        "url": "https://www.taichung.gov.tw/3274232/post"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-2bc845f6",
+    "status": "published",
+    "translationOf": "taichung-city-subsidizes-community-barrier-free-facility-optimization-applicatio-2bc845f6",
+    "publishedAt": "2026-05-12T03:31:02.000Z",
+    "fetchedAt": "2026-05-12T14:53:03.870Z",
+    "body": "中市提供補助，鼓勵社區優化無障礙設施，提升居住安全與便利性，申請期間自即日起至8月31日。\n\n原文來源： [taichung.gov.tw](https://www.taichung.gov.tw/3274232/post)"
+  },
+  {
+    "title": "桃機攜手阿聯酋航空辦「星兒登機體驗」 打造友善無障礙國門",
+    "slug": "taoyuan-airport-partners-with-emirates-to-host-star-children-boarding-experience-zh-76236d59",
+    "lang": "zh-TW",
+    "summary": "桃機攜手阿聯酋航空辦「星兒登機體驗」 打造友善無障礙國門",
+    "category": "physical-design",
+    "tags": [
+      "airport",
+      "accessibility",
+      "Emirates",
+      "special needs",
+      "boarding experience"
+    ],
+    "sourceName": "聯合新聞網",
+    "sourceUrl": "https://udn.com/news/story/7266/9497998",
+    "relatedSources": [
+      {
+        "name": "聯合新聞網",
+        "url": "https://udn.com/news/story/7266/9497998"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-76236d59",
+    "status": "published",
+    "translationOf": "taoyuan-airport-partners-with-emirates-to-host-star-children-boarding-experience-76236d59",
+    "publishedAt": "2026-05-12T09:00:05.000Z",
+    "fetchedAt": "2026-05-12T14:54:05.075Z",
+    "body": "桃機攜手阿聯酋航空辦「星兒登機體驗」 打造友善無障礙國門\n\n原文來源： [聯合新聞網](https://udn.com/news/story/7266/9497998)"
+  },
+  {
+    "title": "機場公司攜手阿聯酋航空辦理「星兒的登機首部曲」 打造友善無障礙國門- 桃園市",
+    "slug": "airport-authority-teams-with-emirates-for-star-childrens-first-boarding-chapter--zh-ccf4fb89",
+    "lang": "zh-TW",
+    "summary": "機場公司攜手阿聯酋航空辦理「星兒的登機首部曲」 打造友善無障礙國門- 桃園市",
+    "category": "physical-design",
+    "tags": [
+      "airport",
+      "accessibility",
+      "Emirates",
+      "special needs",
+      "boarding program"
+    ],
+    "sourceName": "自由時報",
+    "sourceUrl": "https://news.ltn.com.tw/news/Taoyuan/breakingnews/5434511",
+    "relatedSources": [
+      {
+        "name": "自由時報",
+        "url": "https://news.ltn.com.tw/news/Taoyuan/breakingnews/5434511"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ccf4fb89",
+    "status": "published",
+    "translationOf": "airport-authority-teams-with-emirates-for-star-childrens-first-boarding-chapter--ccf4fb89",
+    "publishedAt": "2026-05-12T09:11:30.000Z",
+    "fetchedAt": "2026-05-12T14:54:05.095Z",
+    "body": "機場公司攜手阿聯酋航空辦理「星兒的登機首部曲」 打造友善無障礙國門- 桃園市\n\n原文來源： [自由時報](https://news.ltn.com.tw/news/Taoyuan/breakingnews/5434511)"
+  },
+  {
+    "title": "GPT旅行翻譯神器：斷網旅行中即時溝通無障礙",
+    "slug": "gpt-travel-translation-tool-real-time-offline-communication-for-accessible-trave-zh-34b20763",
+    "lang": "zh-TW",
+    "summary": "GPT旅行翻譯神器：斷網旅行中即時溝通無障礙",
+    "category": "digital-a11y",
+    "tags": [
+      "GPT",
+      "translation",
+      "offline",
+      "travel",
+      "accessibility",
+      "communication"
+    ],
+    "sourceName": "Techritual Hong Kong",
+    "sourceUrl": "https://www.techritual.com/2026/05/12/526205",
+    "relatedSources": [
+      {
+        "name": "Techritual Hong Kong",
+        "url": "https://www.techritual.com/2026/05/12/526205"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-34b20763",
+    "status": "published",
+    "translationOf": "gpt-travel-translation-tool-real-time-offline-communication-for-accessible-trave-34b20763",
+    "publishedAt": "2026-05-12T11:00:00.000Z",
+    "fetchedAt": "2026-05-12T14:54:05.121Z",
+    "body": "GPT旅行翻譯神器：斷網旅行中即時溝通無障礙\n\n原文來源： [Techritual Hong Kong](https://www.techritual.com/2026/05/12/526205)"
+  },
+  {
+    "title": "尼泊爾 KAP+A 審計檢視殘障納入差距",
+    "slug": "nepal-kapa-audit-examines-disability-inclusion-gaps-zh-790cd6ae",
+    "lang": "zh-TW",
+    "summary": "祈禱納爾（Prayatna Nepal）舉辦驗證工作坊，針對 KAP+A 審計進行評估，該審計用於檢視各主題權益組織在殘障納入與無障礙方面的情況。",
+    "category": "laws-rights",
+    "tags": [
+      "disability inclusion",
+      "audit",
+      "Nepal",
+      "KAP+A"
+    ],
+    "sourceName": "Disabled World",
+    "sourceUrl": "https://www.disabled-world.com/disability/accessibility/kap-a.php",
+    "relatedSources": [
+      {
+        "name": "Disabled World",
+        "url": "https://www.disabled-world.com/disability/accessibility/kap-a.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-790cd6ae",
+    "status": "published",
+    "translationOf": "nepal-kapa-audit-examines-disability-inclusion-gaps-790cd6ae",
+    "publishedAt": "2026-05-12T14:16:00.000Z",
+    "fetchedAt": "2026-05-12T14:54:28.228Z",
+    "body": "祈禱納爾（Prayatna Nepal）舉辦驗證工作坊，針對 KAP+A 審計進行評估，該審計用於檢視各主題權益組織在殘障納入與無障礙方面的情況。\n\n原文來源： [Disabled World](https://www.disabled-world.com/disability/accessibility/kap-a.php)"
+  },
+  {
+    "title": "殘障權益倡導者兼電影製片人 Crystal R. Emery 於 65 歲去世",
+    "slug": "disability-rights-advocate-and-filmmaker-crystal-r-emery-dies-at-65-zh-2890eef0",
+    "lang": "zh-TW",
+    "summary": "獲獎製片人、導演、作者及全國知名 STEM 與殘障倡導者 Crystal R. Emery 因長期疾病於 65 歲在康乃狄克州紐黑文耶魯新天堂醫院去世。",
+    "category": "laws-rights",
+    "tags": [
+      "disability rights",
+      "filmmaker",
+      "obituary",
+      "Crystal R. Emery"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/05/12/misc/disability-rights-advocate-and-filmmaker-crystal-r-emery-dies-at-65",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/05/12/misc/disability-rights-advocate-and-filmmaker-crystal-r-emery-dies-at-65"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-2890eef0",
+    "status": "published",
+    "translationOf": "disability-rights-advocate-and-filmmaker-crystal-r-emery-dies-at-65-2890eef0",
+    "publishedAt": "2026-05-12T05:59:57.000Z",
+    "fetchedAt": "2026-05-12T14:54:28.249Z",
+    "body": "獲獎製片人、導演、作者及全國知名 STEM 與殘障倡導者 Crystal R. Emery 因長期疾病於 65 歲在康乃狄克州紐黑文耶魯新天堂醫院去世。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/05/12/misc/disability-rights-advocate-and-filmmaker-crystal-r-emery-dies-at-65)"
+  },
+  {
+    "title": "莫納什大學徵求公眾意見以更新痴呆症指南",
+    "slug": "monash-university-calls-public-input-for-dementia-guidelines-update-zh-ec0e820c",
+    "lang": "zh-TW",
+    "summary": "莫納什大公開邀請醫護專業人士與廣泛社區參與，針對國家痴呆症臨床實務指南進行首次十年以上的主要修訂，以改善痴呆症照護決策。",
+    "category": "general",
+    "tags": [
+      "dementia",
+      "guidelines",
+      "public consultation",
+      "Monash University"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/05/12/health/monash-university-calls-public-input-for-dementia-guidelines-update",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/05/12/health/monash-university-calls-public-input-for-dementia-guidelines-update"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-ec0e820c",
+    "status": "published",
+    "translationOf": "monash-university-calls-public-input-for-dementia-guidelines-update-ec0e820c",
+    "publishedAt": "2026-05-12T05:36:55.000Z",
+    "fetchedAt": "2026-05-12T14:54:28.272Z",
+    "body": "莫納什大公開邀請醫護專業人士與廣泛社區參與，針對國家痴呆症臨床實務指南進行首次十年以上的主要修訂，以改善痴呆症照護決策。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/05/12/health/monash-university-calls-public-input-for-dementia-guidelines-update)"
+  },
+  {
+    "title": "殘疾人士就業人數下降，接近歷史高點",
+    "slug": "employment-of-persons-with-disabilities-declines-near-record-high-zh-488b7f51",
+    "lang": "zh-TW",
+    "summary": "2026年5月的nTIDE報告顯示，殘疾人士的就業人數出現下降，但整體仍高於疫情前的水平。",
+    "category": "laws-rights",
+    "tags": [
+      "employment",
+      "disability",
+      "statistics"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/05/12/education-and-employment/employment-of-persons-with-disabilities-declines-near-record-high",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/05/12/education-and-employment/employment-of-persons-with-disabilities-declines-near-record-high"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-488b7f51",
+    "status": "published",
+    "translationOf": "employment-of-persons-with-disabilities-declines-near-record-high-488b7f51",
+    "publishedAt": "2026-05-12T05:28:44.000Z",
+    "fetchedAt": "2026-05-12T14:55:02.561Z",
+    "body": "2026年5月的nTIDE報告顯示，殘疾人士的就業人數出現下降，但整體仍高於疫情前的水平。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/05/12/education-and-employment/employment-of-persons-with-disabilities-declines-near-record-high)"
+  },
+  {
+    "title": "國家殘疾保險計畫遭遇巨額削減，旨在預算中單項措施節省超過360億美元",
+    "slug": "huge-cuts-to-national-disability-insurance-scheme-aim-to-save-more-than-36bn-in--zh-291cc90e",
+    "lang": "zh-TW",
+    "summary": "澳洲聯邦政府2026年預算提出削減國家殘疾保險計畫（NDIS），減少服務可及性並裁減約700個NDIA職位，預計四年內節省362億美元，以重新聚焦於支援具有重大且永久性殘疾的人士。",
+    "category": "laws-rights",
+    "tags": [
+      "NDIS",
+      "budget",
+      "disability rights",
+      "Australia"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/australia-news/2026/may/12/australia-federal-budget-2026-ndis-savings-cuts-national-disability-insurance-scheme-support-jobs-changes",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/australia-news/2026/may/12/australia-federal-budget-2026-ndis-savings-cuts-national-disability-insurance-scheme-support-jobs-changes"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-291cc90e",
+    "status": "published",
+    "translationOf": "huge-cuts-to-national-disability-insurance-scheme-aim-to-save-more-than-36bn-in--291cc90e",
+    "publishedAt": "2026-05-12T09:40:16.000Z",
+    "fetchedAt": "2026-05-12T14:55:02.583Z",
+    "body": "澳洲聯邦政府2026年預算提出削減國家殘疾保險計畫（NDIS），減少服務可及性並裁減約700個NDIA職位，預計四年內節省362億美元，以重新聚焦於支援具有重大且永久性殘疾的人士。\n\n原文來源： [Unknown source](https://www.theguardian.com/australia-news/2026/may/12/australia-federal-budget-2026-ndis-savings-cuts-national-disability-insurance-scheme-support-jobs-changes)"
+  },
+  {
+    "title": "皇家加勒比郵輪被指對殘疾兒童的訂單收取不公平費用",
+    "slug": "royal-caribbean-unfairly-charged-me-over-booking-for-disabled-son-zh-e17346f6",
+    "lang": "zh-TW",
+    "summary": "一位家長為其嚴重殘疾的兒子及其照護者預訂了無障礙郵輪艙房，但在更改姓名時遇到困難，並聲稱在付款截止前更新照護者資訊時被不公平收費。",
+    "category": "physical-design",
+    "tags": [
+      "travel",
+      "accessible accommodation",
+      "cruise",
+      "disability"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/money/2026/may/12/royal-caribbean-booking-disabled-son-cruise",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/money/2026/may/12/royal-caribbean-booking-disabled-son-cruise"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-e17346f6",
+    "status": "published",
+    "translationOf": "royal-caribbean-unfairly-charged-me-over-booking-for-disabled-son-e17346f6",
+    "publishedAt": "2026-05-12T06:00:16.000Z",
+    "fetchedAt": "2026-05-12T14:55:02.609Z",
+    "body": "一位家長為其嚴重殘疾的兒子及其照護者預訂了無障礙郵輪艙房，但在更改姓名時遇到困難，並聲稱在付款截止前更新照護者資訊時被不公平收費。\n\n原文來源： [Unknown source](https://www.theguardian.com/money/2026/may/12/royal-caribbean-booking-disabled-son-cruise)"
+  },
+  {
+    "title": "新領導層：認識我們的新治理機構",
+    "slug": "renewed-leadership-meet-our-new-governing-bodies-zh-fa68a0e2",
+    "lang": "zh-TW",
+    "summary": "歐洲殘疾人論壇選出2026‑2030年的新治理機構，由新任主席Gunta Anča領導，她是擁有超過二十年經驗的殘疾權益倡導者，致力於推進平等與人權。",
+    "category": "laws-rights",
+    "tags": [
+      "disability rights",
+      "leadership",
+      "European Disability Forum"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.edf-feph.org/renewed-leadership-meet-our-new-governing-bodies",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.edf-feph.org/renewed-leadership-meet-our-new-governing-bodies"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.edf-feph.org/feed",
+    "ingestProvider": "edf-feph.org",
+    "clusterId": "cluster-fa68a0e2",
+    "status": "published",
+    "translationOf": "renewed-leadership-meet-our-new-governing-bodies-fa68a0e2",
+    "publishedAt": "2026-05-12T14:39:25.000Z",
+    "fetchedAt": "2026-05-12T14:55:16.642Z",
+    "body": "歐洲殘疾人論壇選出2026‑2030年的新治理機構，由新任主席Gunta Anča領導，她是擁有超過二十年經驗的殘疾權益倡導者，致力於推進平等與人權。\n\n原文來源： [Unknown source](https://www.edf-feph.org/renewed-leadership-meet-our-new-governing-bodies)"
+  },
+  {
+    "title": "「展翅高飛」紀錄片首映 助身心障礙者走出機構迎向獨立生活",
+    "slug": "premiere-of-the-soaring-high-documentary-assists-persons-with-disabilities-to-le-zh-5ffcad25",
+    "lang": "zh-TW",
+    "summary": "台灣身心障礙人口已超過125萬人，占總人口5.39%。其中，第1類神經系統構造及精神、心智功能障礙者約占31.2%，人數超過40萬人；65歲以上者更已占50%。然而台灣目前仍以機構式服務為主：夜間型住宿機構5家、全日型住宿機構168家，安置人數達12,521人。換句話說，平均每100位障礙者，就有1人住在機構裡。更多障礙者，則只能在家庭照顧與機構安置之間做出無奈選擇，缺乏更多元、自主的生活可能。",
+    "category": "case-studies",
+    "tags": [
+      "disability",
+      "independent living",
+      "documentary",
+      "Taiwan"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_226d64a6-611c-41c8-ab3b-21d8c23d9795",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_226d64a6-611c-41c8-ab3b-21d8c23d9795"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-5ffcad25",
+    "status": "published",
+    "translationOf": "premiere-of-the-soaring-high-documentary-assists-persons-with-disabilities-to-le-5ffcad25",
+    "publishedAt": "2026-05-11T09:59:00.000Z",
+    "fetchedAt": "2026-05-12T14:56:06.195Z",
+    "body": "台灣身心障礙人口已超過125萬人，占總人口5.39%。其中，第1類神經系統構造及精神、心智功能障礙者約占31.2%，人數超過40萬人；65歲以上者更已占50%。然而台灣目前仍以機構式服務為主：夜間型住宿機構5家、全日型住宿機構168家，安置人數達12,521人。換句話說，平均每100位障礙者，就有1人住在機構裡。更多障礙者，則只能在家庭照顧與機構安置之間做出無奈選擇，缺乏更多元、自主的生活可能。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_226d64a6-611c-41c8-ab3b-21d8c23d9795)"
   }
 ]
