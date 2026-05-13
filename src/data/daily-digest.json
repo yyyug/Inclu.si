@@ -1,55 +1,39 @@
 {
-  "date": "2026-05-12",
-  "generatedAt": "2026-05-12T04:26:21.006Z",
+  "date": "2026-05-13",
+  "generatedAt": "2026-05-13T04:33:39.469Z",
   "en": {
-    "title": "Accessibility Digest: Gaming, Tech, Transit, Policy, and SEO Highlights – May 12, 2026",
-    "summary": "Today's digest highlights Blizzard's discussion of accessibility features in Diablo game design, Xiaomi HyperOS introducing a Clarity Mode for senior users, Nairobi's commuter rail modernization improving accessibility, the HHS OCR delaying enforcement of Section 504 digital accessibility requirements, and how optimizing page accessibility can enhance SEO crawl budget.",
+    "title": "Daily Accessibility Digest – May 13, 2026",
+    "summary": "Today's highlights include a law enforcement torch run supporting Special Olympics BC athletes, insights on how AI is revolutionizing accessibility and sustainable innovation, and the integration of CRPD spirit into school celebration activities to boost student participation.",
     "highlights": [
       {
-        "title": "Blizzard Discusses Accessibility in Diablo Game Design",
-        "slug": "blizzard-discusses-accessibility-in-diablo-game-design-20aecb37"
+        "title": "Law Enforcement Torch Run Supports Special Olympics BC Athletes",
+        "slug": "law-enforcement-torch-run-supports-special-olympics-bc-athletes-c24e8ada"
       },
       {
-        "title": "Xiaomi HyperOS Introduces Clarity Mode for Senior Users",
-        "slug": "xiaomi-hyperos-introduces-clarity-mode-for-senior-users-59da32d0"
+        "title": "AI revolutionizes accessibility and sustainable innovation",
+        "slug": "ai-revolutionizes-accessibility-and-sustainable-innovation-015972f0"
       },
       {
-        "title": "Nairobi Commuter Rail modernization improves accessibility",
-        "slug": "nairobi-commuter-rail-modernization-improves-accessibility-e93e1fde"
-      },
-      {
-        "title": "HHS OCR delays Section 504 digital accessibility compliance",
-        "slug": "hhs-ocr-delays-section-504-digital-accessibility-compliance-806fdfc1"
-      },
-      {
-        "title": "Optimizing Page Accessibility Improves SEO Crawl Budget",
-        "slug": "optimizing-page-accessibility-improves-seo-crawl-budget-cdb6c0a2"
+        "title": "CRPD Spirit Integrated into School Celebration Activities to Enhance Student Participation Opportunities",
+        "slug": "crpd-spirit-integrated-into-school-celebration-activities-to-enhance-student-par-504a1690"
       }
     ]
   },
   "zh-TW": {
-    "title": "无障碍每日摘要：游戏、科技、交通、政策与SEO亮点 – 2026年5月12日",
-    "summary": "今日摘要包括暴雪讨论《暗黑破坏神》游戏中的无障碍功能、小米HyperOS推出适合老年用户的清晰模式、内罗毕通勤铁路现代化提升无障碍性、HHS OCR推迟Section 504数字无障碍合规执行，以及优化页面可访问性如何提升SEO爬取预算。",
+    "title": "每日無障礙消息摘要 – 2026年5月13日",
+    "summary": "今日重點包括執法火炬接力賽支持特殊奧林匹克BC運動員、AI如何革新無障礙與永續創新，以及身心障礙者權利公約精神融入校慶活動以提升學生參與。",
     "highlights": [
       {
-        "title": "暴雪讨论《暗黑破坏神》游戏设计中的无障碍功能",
-        "slug": "blizzard-discusses-accessibility-in-diablo-game-design-zh-20aecb37"
+        "title": "执法火炬接力赛支持特殊奥林匹克BC运动员",
+        "slug": "law-enforcement-torch-run-supports-special-olympics-bc-athletes-zh-c24e8ada"
       },
       {
-        "title": "小米HyperOS推出清晰模式以助老年用户",
-        "slug": "xiaomi-hyperos-introduces-clarity-mode-for-senior-users-zh-59da32d0"
+        "title": "AI正在革新无障碍和可持续创新",
+        "slug": "ai-revolutionizes-accessibility-and-sustainable-innovation-zh-015972f0"
       },
       {
-        "title": "内罗毕通勤铁路现代化提升无障碍性",
-        "slug": "nairobi-commuter-rail-modernization-improves-accessibility-zh-e93e1fde"
-      },
-      {
-        "title": "HHS OCR 推迟 Section 504 数字无障碍合规",
-        "slug": "hhs-ocr-delays-section-504-digital-accessibility-compliance-zh-806fdfc1"
-      },
-      {
-        "title": "优化页面可访问性可提升SEO爬取预算",
-        "slug": "optimizing-page-accessibility-improves-seo-crawl-budget-zh-cdb6c0a2"
+        "title": "身心障礙者權利公約（CRPD）精神融入校慶活動增進學生參與機會- 預約系統 - demo.52salon.com",
+        "slug": "crpd-spirit-integrated-into-school-celebration-activities-to-enhance-student-par-zh-504a1690"
       }
     ]
   }
