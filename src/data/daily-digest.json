@@ -1,39 +1,55 @@
 {
-  "date": "2026-05-13",
-  "generatedAt": "2026-05-13T04:33:39.469Z",
+  "date": "2026-05-14",
+  "generatedAt": "2026-05-14T04:31:33.408Z",
   "en": {
-    "title": "Daily Accessibility Digest – May 13, 2026",
-    "summary": "Today's highlights include a law enforcement torch run supporting Special Olympics BC athletes, insights on how AI is revolutionizing accessibility and sustainable innovation, and the integration of CRPD spirit into school celebration activities to boost student participation.",
+    "title": "Daily Accessibility Digest – May 14, 2026",
+    "summary": "Today's highlights include concerns that GTA cheats are being mistaken for accessibility features, accessibility cited as a key hurdle for startup funding, criticism of workplace inclusion programs for rewarding performative professionalism over cognitive sustainability, Regina's executive committee reviewing progress on its accessibility plan, and a video description highlighting accessibility in a music clip.",
     "highlights": [
       {
-        "title": "Law Enforcement Torch Run Supports Special Olympics BC Athletes",
-        "slug": "law-enforcement-torch-run-supports-special-olympics-bc-athletes-c24e8ada"
+        "title": "GTA cheats mistaken for accessibility feature",
+        "slug": "gta-cheats-mistaken-for-accessibility-feature-5fa922e6"
       },
       {
-        "title": "AI revolutionizes accessibility and sustainable innovation",
-        "slug": "ai-revolutionizes-accessibility-and-sustainable-innovation-015972f0"
+        "title": "Accessibility cited as key hurdle for startup funding",
+        "slug": "accessibility-cited-as-key-hurdle-for-startup-funding-6666b422"
       },
       {
-        "title": "CRPD Spirit Integrated into School Celebration Activities to Enhance Student Participation Opportunities",
-        "slug": "crpd-spirit-integrated-into-school-celebration-activities-to-enhance-student-par-504a1690"
+        "title": "Workplace inclusion criticized for rewarding performative professionalism over cognitive sustainability",
+        "slug": "workplace-inclusion-criticized-for-rewarding-performative-professionalism-over-c-16e720b9"
+      },
+      {
+        "title": "City of Regina executive committee reviews accessibility plan progress",
+        "slug": "city-of-regina-executive-committee-reviews-accessibility-plan-progress-1722bf96"
+      },
+      {
+        "title": "Video Description Highlights Accessibility in Music Clip",
+        "slug": "video-description-highlights-accessibility-in-music-clip-fec850d1"
       }
     ]
   },
   "zh-TW": {
-    "title": "每日無障礙消息摘要 – 2026年5月13日",
-    "summary": "今日重點包括執法火炬接力賽支持特殊奧林匹克BC運動員、AI如何革新無障礙與永續創新，以及身心障礙者權利公約精神融入校慶活動以提升學生參與。",
+    "title": "每日無障礙 digest – 2026年5月14日",
+    "summary": "今日重點包括：用戶質疑 GTA 作弊被當作無障礙功能宣傳；無障礙被視為初創融資的主要障礙；工作場所因獎勵表演性專業主義而忽視認知可持續性被批評；里贾納市執行委員會審查無障礙計畫進展；以及影片描述突顯音樂片段中的無障礙元素。",
     "highlights": [
       {
-        "title": "执法火炬接力赛支持特殊奥林匹克BC运动员",
-        "slug": "law-enforcement-torch-run-supports-special-olympics-bc-athletes-zh-c24e8ada"
+        "title": "GTA 作弊被误认为无障碍功能",
+        "slug": "gta-cheats-mistaken-for-accessibility-feature-zh-5fa922e6"
       },
       {
-        "title": "AI正在革新无障碍和可持续创新",
-        "slug": "ai-revolutionizes-accessibility-and-sustainable-innovation-zh-015972f0"
+        "title": "无障碍被视为初创融资的主要障碍",
+        "slug": "accessibility-cited-as-key-hurdle-for-startup-funding-zh-6666b422"
       },
       {
-        "title": "身心障礙者權利公約（CRPD）精神融入校慶活動增進學生參與機會- 預約系統 - demo.52salon.com",
-        "slug": "crpd-spirit-integrated-into-school-celebration-activities-to-enhance-student-par-zh-504a1690"
+        "title": "工作场所因奖励表演性专业主义而忽视认知可持续性被批评",
+        "slug": "workplace-inclusion-criticized-for-rewarding-performative-professionalism-over-c-zh-16e720b9"
+      },
+      {
+        "title": "里贾纳市执行委员会审查无障碍计划进展",
+        "slug": "city-of-regina-executive-committee-reviews-accessibility-plan-progress-zh-1722bf96"
+      },
+      {
+        "title": "音乐片段中的无障碍视频描述",
+        "slug": "video-description-highlights-accessibility-in-music-clip-zh-fec850d1"
       }
     ]
   }
