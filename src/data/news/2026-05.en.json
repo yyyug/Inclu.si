@@ -17732,5 +17732,627 @@
     "publishedAt": "2026-05-14T03:10:37.000Z",
     "fetchedAt": "2026-05-14T04:18:06.932Z",
     "body": "The tweet provides a detailed visual description of Susan’s outfit and setting to support accessibility for blind or low‑vision viewers.\nTweet source: [Susan Lien Whigham (@tierrasimbolica)](https://x.com/tierrasimbolica/status/2054761271296434474)"
+  },
+  {
+    "title": "Pro baseball player seeks DIY accessibility solution to #ProtectTheNub - USA Today",
+    "slug": "pro-baseball-player-seeks-diy-accessibility-solution-to-protectthenub-usa-today-0f0bde24",
+    "lang": "en",
+    "summary": "Pro baseball player seeks DIY accessibility solution to #ProtectTheNub  USA Today",
+    "category": "assistive-tech",
+    "tags": [
+      "baseball",
+      "DIY",
+      "accessibility",
+      "ProtectTheNub"
+    ],
+    "sourceName": "USA Today",
+    "sourceUrl": "https://www.usatoday.com/videos/sports/2026/05/14/womens-pro-baseball-player-seeks-diy-accessibility-solution/90051765007",
+    "relatedSources": [
+      {
+        "name": "USA Today",
+        "url": "https://www.usatoday.com/videos/sports/2026/05/14/womens-pro-baseball-player-seeks-diy-accessibility-solution/90051765007"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-0f0bde24",
+    "status": "published",
+    "translationOf": "pro-baseball-player-seeks-diy-accessibility-solution-to-protectthenub-usa-today-zh-0f0bde24",
+    "publishedAt": "2026-05-14T10:12:05.000Z",
+    "fetchedAt": "2026-05-14T14:38:36.710Z",
+    "body": "Pro baseball player seeks DIY accessibility solution to #ProtectTheNub  USA Today\n\nRead more from the original source: [USA Today](https://www.usatoday.com/videos/sports/2026/05/14/womens-pro-baseball-player-seeks-diy-accessibility-solution/90051765007)"
+  },
+  {
+    "title": "DOJ Extends Deadline for ADA-Related Website Accessibility - SHRM",
+    "slug": "doj-extends-deadline-for-ada-related-website-accessibility-shrm-972665c9",
+    "lang": "en",
+    "summary": "DOJ Extends Deadline for ADA-Related Website Accessibility  SHRM",
+    "category": "laws-rights",
+    "tags": [
+      "DOJ",
+      "ADA",
+      "website accessibility",
+      "deadline"
+    ],
+    "sourceName": "SHRM",
+    "sourceUrl": "https://www.shrm.org/topics-tools/employment-law-compliance/doj-extends-deadline-ada-related-website-accessibility",
+    "relatedSources": [
+      {
+        "name": "SHRM",
+        "url": "https://www.shrm.org/topics-tools/employment-law-compliance/doj-extends-deadline-ada-related-website-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-972665c9",
+    "status": "published",
+    "translationOf": "doj-extends-deadline-for-ada-related-website-accessibility-shrm-zh-972665c9",
+    "publishedAt": "2026-05-13T13:38:49.000Z",
+    "fetchedAt": "2026-05-14T14:38:36.745Z",
+    "body": "DOJ Extends Deadline for ADA-Related Website Accessibility  SHRM\n\nRead more from the original source: [SHRM](https://www.shrm.org/topics-tools/employment-law-compliance/doj-extends-deadline-ada-related-website-accessibility)"
+  },
+  {
+    "title": "PATH’s New Map Puts Accessibility Front and Center - aptapassengertransport.com",
+    "slug": "paths-new-map-puts-accessibility-front-and-center-aptapassengertransportcom-34ffc9b2",
+    "lang": "en",
+    "summary": "PATH’s New Map Puts Accessibility Front and Center  aptapassengertransport.com",
+    "category": "physical-design",
+    "tags": [
+      "PATH",
+      "map",
+      "accessibility",
+      "public transport"
+    ],
+    "sourceName": "aptapassengertransport.com",
+    "sourceUrl": "https://aptapassengertransport.com/paths-new-map-puts-accessibility-front-and-center",
+    "relatedSources": [
+      {
+        "name": "aptapassengertransport.com",
+        "url": "https://aptapassengertransport.com/paths-new-map-puts-accessibility-front-and-center"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-34ffc9b2",
+    "status": "published",
+    "translationOf": "paths-new-map-puts-accessibility-front-and-center-aptapassengertransportcom-zh-34ffc9b2",
+    "publishedAt": "2026-05-14T14:09:49.000Z",
+    "fetchedAt": "2026-05-14T14:38:36.769Z",
+    "body": "PATH’s New Map Puts Accessibility Front and Center  aptapassengertransport.com\n\nRead more from the original source: [aptapassengertransport.com](https://aptapassengertransport.com/paths-new-map-puts-accessibility-front-and-center)"
+  },
+  {
+    "title": "Turkcell Advances Accessibility Projects and Efforts",
+    "slug": "turkcell-advances-accessibility-projects-and-efforts-0b476cb8",
+    "lang": "en",
+    "summary": "Turkish telecommunications giant Turkcell is expanding its accessibility initiatives, focusing on improving digital services for users with disabilities.",
+    "category": "digital-a11y",
+    "tags": [
+      "Turkcell",
+      "digital accessibility",
+      "telecommunications"
+    ],
+    "sourceName": "Daily Sabah",
+    "sourceUrl": "https://www.dailysabah.com/business/tech/turkish-tech-major-turkcell-advances-its-accessibility-projects-efforts",
+    "relatedSources": [
+      {
+        "name": "Daily Sabah",
+        "url": "https://www.dailysabah.com/business/tech/turkish-tech-major-turkcell-advances-its-accessibility-projects-efforts"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-0b476cb8",
+    "status": "published",
+    "translationOf": "turkcell-advances-accessibility-projects-and-efforts-zh-0b476cb8",
+    "publishedAt": "2026-05-14T13:36:52.000Z",
+    "fetchedAt": "2026-05-14T14:38:47.259Z",
+    "body": "Turkish telecommunications giant Turkcell is expanding its accessibility initiatives, focusing on improving digital services for users with disabilities.\n\nRead more from the original source: [Daily Sabah](https://www.dailysabah.com/business/tech/turkish-tech-major-turkcell-advances-its-accessibility-projects-efforts)"
+  },
+  {
+    "title": "Shorebird Keynote Highlights Birding Accessibility and Benefits",
+    "slug": "shorebird-keynote-highlights-birding-accessibility-and-benefits-4757f5b5",
+    "lang": "en",
+    "summary": "A keynote address at a birding conference emphasized the importance of making birdwatching accessible to people of all abilities, outlining benefits for inclusivity and conservation.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "birding",
+      "accessibility",
+      "outdoor recreation"
+    ],
+    "sourceName": "Peninsula Clarion",
+    "sourceUrl": "https://www.peninsulaclarion.com/2026/05/13/shorebird-keynote-highlights-birding-accessibility-benefits",
+    "relatedSources": [
+      {
+        "name": "Peninsula Clarion",
+        "url": "https://www.peninsulaclarion.com/2026/05/13/shorebird-keynote-highlights-birding-accessibility-benefits"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-4757f5b5",
+    "status": "published",
+    "translationOf": "shorebird-keynote-highlights-birding-accessibility-and-benefits-zh-4757f5b5",
+    "publishedAt": "2026-05-14T07:01:57.000Z",
+    "fetchedAt": "2026-05-14T14:38:47.284Z",
+    "body": "A keynote address at a birding conference emphasized the importance of making birdwatching accessible to people of all abilities, outlining benefits for inclusivity and conservation.\n\nRead more from the original source: [Peninsula Clarion](https://www.peninsulaclarion.com/2026/05/13/shorebird-keynote-highlights-birding-accessibility-benefits)"
+  },
+  {
+    "title": "Accessibility Concerns Prompt Review of Millburn Parking Facilities",
+    "slug": "accessibility-concerns-prompt-review-of-millburn-parking-facilities-419205c2",
+    "lang": "en",
+    "summary": "Local officials in Millburn are reviewing parking facilities after receiving accessibility concerns, aiming to improve compliance with ADA standards and enhance access for disabled drivers.",
+    "category": "physical-design",
+    "tags": [
+      "parking",
+      "accessibility review",
+      "ADA compliance"
+    ],
+    "sourceName": "TAPinto",
+    "sourceUrl": "https://www.tapinto.net/towns/millburn-slash-short-hills/sections/government/articles/accessibility-concerns-prompt-review-of-millburn-parking-facilities",
+    "relatedSources": [
+      {
+        "name": "TAPinto",
+        "url": "https://www.tapinto.net/towns/millburn-slash-short-hills/sections/government/articles/accessibility-concerns-prompt-review-of-millburn-parking-facilities"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-419205c2",
+    "status": "published",
+    "translationOf": "accessibility-concerns-prompt-review-of-millburn-parking-facilities-zh-419205c2",
+    "publishedAt": "2026-05-14T12:00:00.000Z",
+    "fetchedAt": "2026-05-14T14:38:47.313Z",
+    "body": "Local officials in Millburn are reviewing parking facilities after receiving accessibility concerns, aiming to improve compliance with ADA standards and enhance access for disabled drivers.\n\nRead more from the original source: [TAPinto](https://www.tapinto.net/towns/millburn-slash-short-hills/sections/government/articles/accessibility-concerns-prompt-review-of-millburn-parking-facilities)"
+  },
+  {
+    "title": "How Pickleball Is Using Accessibility as a Growth Strategy - Youth Sports Business Report",
+    "slug": "how-pickleball-is-using-accessibility-as-a-growth-strategy-youth-sports-business-1e3d076d",
+    "lang": "en",
+    "summary": "Pickleball is leveraging accessibility initiatives to drive growth in youth sports, promoting inclusive participation and expanding its market reach.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "pickleball",
+      "accessibility",
+      "youth sports",
+      "growth strategy"
+    ],
+    "sourceName": "Youth Sports Business Report",
+    "sourceUrl": "https://youthsportsbusinessreport.com/how-pickleball-is-using-accessibility-as-a-growth-strategy",
+    "relatedSources": [
+      {
+        "name": "Youth Sports Business Report",
+        "url": "https://youthsportsbusinessreport.com/how-pickleball-is-using-accessibility-as-a-growth-strategy"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-1e3d076d",
+    "status": "published",
+    "translationOf": "how-pickleball-is-using-accessibility-as-a-growth-strategy-youth-sports-business-zh-1e3d076d",
+    "publishedAt": "2026-05-14T13:56:57.000Z",
+    "fetchedAt": "2026-05-14T14:39:08.680Z",
+    "body": "Pickleball is leveraging accessibility initiatives to drive growth in youth sports, promoting inclusive participation and expanding its market reach.\n\nRead more from the original source: [Youth Sports Business Report](https://youthsportsbusinessreport.com/how-pickleball-is-using-accessibility-as-a-growth-strategy)"
+  },
+  {
+    "title": "Fosun Travel Launches New Kombi Welfare Vehicle Targeting Elderly Long-Term Care Needs, Setting a New Benchmark for Accessible Mobility",
+    "slug": "fosun-travel-launches-new-kombi-welfare-vehicle-targeting-elderly-long-term-care-a52f4331",
+    "lang": "en",
+    "summary": "Fosun Travel unveiled its latest Kombi welfare vehicle designed to meet the transportation demands of seniors requiring long-term care, aiming to establish a new standard for accessible travel.",
+    "category": "physical-design",
+    "tags": [
+      "福斯商旅",
+      "Kombi",
+      "福祉車",
+      "無障礙",
+      "高齡長照"
+    ],
+    "sourceName": "壹蘋新聞網",
+    "sourceUrl": "https://news.nextapple.com/gadget/20260514/391385D871807E32EB68297C2790942C",
+    "relatedSources": [
+      {
+        "name": "壹蘋新聞網",
+        "url": "https://news.nextapple.com/gadget/20260514/391385D871807E32EB68297C2790942C"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a52f4331",
+    "status": "published",
+    "translationOf": "fosun-travel-launches-new-kombi-welfare-vehicle-targeting-elderly-long-term-care-zh-a52f4331",
+    "publishedAt": "2026-05-14T10:51:00.000Z",
+    "fetchedAt": "2026-05-14T14:39:08.705Z",
+    "body": "Fosun Travel unveiled its latest Kombi welfare vehicle designed to meet the transportation demands of seniors requiring long-term care, aiming to establish a new standard for accessible travel.\n\nRead more from the original source: [壹蘋新聞網](https://news.nextapple.com/gadget/20260514/391385D871807E32EB68297C2790942C)"
+  },
+  {
+    "title": "Airport Authority Partners with Emirates Airline to Launch First Phase of Star Children Boarding, Creating a Friendly Accessible Gateway",
+    "slug": "airport-authority-partners-with-emirates-airline-to-launch-first-phase-of-star-c-3642089f",
+    "lang": "en",
+    "summary": "The airport authority collaborated with Emirates Airlines to initiate the first stage of boarding procedures for children with special needs (Star children), aiming to build a welcoming and accessible airport environment.",
+    "category": "physical-design",
+    "tags": [
+      "機場公司",
+      "阿聯酋航空",
+      "星兒",
+      "無障礙",
+      "友善"
+    ],
+    "sourceName": "中華新聞雲／中華日報",
+    "sourceUrl": "https://www.cdns.com.tw/articles/1400523",
+    "relatedSources": [
+      {
+        "name": "中華新聞雲／中華日報",
+        "url": "https://www.cdns.com.tw/articles/1400523"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3642089f",
+    "status": "published",
+    "translationOf": "airport-authority-partners-with-emirates-airline-to-launch-first-phase-of-star-c-zh-3642089f",
+    "publishedAt": "2026-05-14T01:05:39.000Z",
+    "fetchedAt": "2026-05-14T14:39:08.734Z",
+    "body": "The airport authority collaborated with Emirates Airlines to initiate the first stage of boarding procedures for children with special needs (Star children), aiming to build a welcoming and accessible airport environment.\n\nRead more from the original source: [中華新聞雲／中華日報](https://www.cdns.com.tw/articles/1400523)"
+  },
+  {
+    "title": "New Taipei Promotes Parent-Child Shared Friendly Accessible Toilets to Build an Inclusive City",
+    "slug": "new-taipei-promotes-parent-child-shared-friendly-accessible-toilets-to-build-an--17a31bfc",
+    "lang": "en",
+    "summary": "New Taipei City is launching parent-child shared friendly accessible toilets as part of efforts to create a diverse and equitable urban environment.",
+    "category": "physical-design",
+    "tags": [
+      "accessible toilet",
+      "parent-child facilities",
+      "inclusive city",
+      "New Taipei"
+    ],
+    "sourceName": "Yahoo - 汽機車",
+    "sourceUrl": "https://autos.yahoo.com.tw/%E6%89%93%E9%80%A0%E5%A4%9A%E5%85%83%E5%B9%B3%E6%AC%8A%E5%9F%8E%E5%B8%82-%E6%96%B0%E5%8C%97%E6%8E%A8%E8%A6%AA%E5%AD%90%E5%85%B1%E7%94%A8%E5%8F%8B%E5%96%84%E7%84%A1%E9%9A%9C%E7%A4%99%E5%BB%81%E6%89%80-080354138.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo - 汽機車",
+        "url": "https://autos.yahoo.com.tw/%E6%89%93%E9%80%A0%E5%A4%9A%E5%85%83%E5%B9%B3%E6%AC%8A%E5%9F%8E%E5%B8%82-%E6%96%B0%E5%8C%97%E6%8E%A8%E8%A6%AA%E5%AD%90%E5%85%B1%E7%94%A8%E5%8F%8B%E5%96%84%E7%84%A1%E9%9A%9C%E7%A4%99%E5%BB%81%E6%89%80-080354138.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-17a31bfc",
+    "status": "published",
+    "translationOf": "new-taipei-promotes-parent-child-shared-friendly-accessible-toilets-to-build-an--zh-17a31bfc",
+    "publishedAt": "2026-05-13T16:44:14.000Z",
+    "fetchedAt": "2026-05-14T14:39:33.773Z",
+    "body": "New Taipei City is launching parent-child shared friendly accessible toilets as part of efforts to create a diverse and equitable urban environment.\n\nRead more from the original source: [Yahoo - 汽機車](https://autos.yahoo.com.tw/%E6%89%93%E9%80%A0%E5%A4%9A%E5%85%83%E5%B9%B3%E6%AC%8A%E5%9F%8E%E5%B8%82-%E6%96%B0%E5%8C%97%E6%8E%A8%E8%A6%AA%E5%AD%90%E5%85%B1%E7%94%A8%E5%8F%8B%E5%96%84%E7%84%A1%E9%9A%9C%E7%A4%99%E5%BB%81%E6%89%80-080354138.html)"
+  },
+  {
+    "title": "Ledesone Considers Accessibility Worldwide on Global Accessibility Awareness Day",
+    "slug": "ledesone-considers-accessibility-worldwide-on-global-accessibility-awareness-day-59626339",
+    "lang": "en",
+    "summary": "Ledesone joins global observance of Global Accessibility Awareness Day, reflecting on accessibility around the world.",
+    "category": "digital-a11y",
+    "tags": [
+      "GAAD",
+      "digital accessibility",
+      "awareness",
+      "Ledesone"
+    ],
+    "sourceName": "ニコニコニュース",
+    "sourceUrl": "https://news.nicovideo.jp/watch/nw19284094?news_ref=search_search",
+    "relatedSources": [
+      {
+        "name": "ニコニコニュース",
+        "url": "https://news.nicovideo.jp/watch/nw19284094?news_ref=search_search"
+      }
+    ],
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3&hl=ja&gl=JP&ceid=JP%3Aja",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-59626339",
+    "status": "published",
+    "translationOf": "ledesone-considers-accessibility-worldwide-on-global-accessibility-awareness-day-zh-59626339",
+    "publishedAt": "2026-05-14T06:21:22.000Z",
+    "fetchedAt": "2026-05-14T14:39:33.804Z",
+    "body": "Ledesone joins global observance of Global Accessibility Awareness Day, reflecting on accessibility around the world.\n\nRead more from the original source: [ニコニコニュース](https://news.nicovideo.jp/watch/nw19284094?news_ref=search_search)"
+  },
+  {
+    "title": "Ledesone Sponsors GAAD Japan 2026 and Related Events in Conjunction with Global Accessibility Awareness Day",
+    "slug": "ledesone-sponsors-gaad-japan-2026-and-related-events-in-conjunction-with-global--07409c86",
+    "lang": "en",
+    "summary": "Ledesone announces sponsorship and related activities for GAAD Japan 2026, aligning with Global Accessibility Awareness Day on May 14, 2026.",
+    "category": "digital-a11y",
+    "tags": [
+      "GAAD Japan 2026",
+      "accessibility awareness",
+      "sponsorship",
+      "Ledesone"
+    ],
+    "sourceName": "ライブドアニュース",
+    "sourceUrl": "https://news.livedoor.com/pr_topics/detail/31267745",
+    "relatedSources": [
+      {
+        "name": "ライブドアニュース",
+        "url": "https://news.livedoor.com/pr_topics/detail/31267745"
+      }
+    ],
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3&hl=ja&gl=JP&ceid=JP%3Aja",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-07409c86",
+    "status": "published",
+    "translationOf": "ledesone-sponsors-gaad-japan-2026-and-related-events-in-conjunction-with-global--zh-07409c86",
+    "publishedAt": "2026-05-14T07:50:00.000Z",
+    "fetchedAt": "2026-05-14T14:39:33.834Z",
+    "body": "Ledesone announces sponsorship and related activities for GAAD Japan 2026, aligning with Global Accessibility Awareness Day on May 14, 2026.\n\nRead more from the original source: [ライブドアニュース](https://news.livedoor.com/pr_topics/detail/31267745)"
+  },
+  {
+    "title": "Don't Forget the Long-Term Care Special Deduction of NT$180,000 When Filing Taxes to Alleviate Family Burden",
+    "slug": "dont-forget-the-long-term-care-special-deduction-of-nt180000-when-filing-taxes-t-5454ae21",
+    "lang": "en",
+    "summary": "The Nantou County Health Bureau reminds taxpayers that if they have family members with disabilities, dementia, or other impairments who qualify, they should claim the long-term care special deduction (up to NT$180,000) when filing their comprehensive income tax to reduce the financial burden of family caregiving.",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "tax deduction",
+      "long-term care"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d894bcf1-10dc-426d-8d82-ad17212bfe0e",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d894bcf1-10dc-426d-8d82-ad17212bfe0e"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-5454ae21",
+    "status": "published",
+    "translationOf": "dont-forget-the-long-term-care-special-deduction-of-nt180000-when-filing-taxes-t-zh-5454ae21",
+    "publishedAt": "2026-05-13T14:36:46.000Z",
+    "fetchedAt": "2026-05-14T14:40:08.201Z",
+    "body": "The Nantou County Health Bureau reminds taxpayers that if they have family members with disabilities, dementia, or other impairments who qualify, they should claim the long-term care special deduction (up to NT$180,000) when filing their comprehensive income tax to reduce the financial burden of family caregiving.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d894bcf1-10dc-426d-8d82-ad17212bfe0e)"
+  },
+  {
+    "title": "New Taipei City Disabled Sports Team Flag Presentation Ceremony",
+    "slug": "new-taipei-city-disabled-sports-team-flag-presentation-ceremony-cc398e4c",
+    "lang": "en",
+    "summary": "New Taipei City held a flag presentation ceremony for its delegation to the National Disabled Sports Games, with Mayor Hou You-yi presenting the flag and encouraging athletes to compete with confidence. The event highlighted the city's commitment to sports equality and accessible environments for persons with disabilities.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability sports",
+      "flag ceremony",
+      "New Taipei City"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_13a8dc7d-bb19-4270-8e05-c9b05ead3fee",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_13a8dc7d-bb19-4270-8e05-c9b05ead3fee"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-cc398e4c",
+    "status": "published",
+    "translationOf": "new-taipei-city-disabled-sports-team-flag-presentation-ceremony-zh-cc398e4c",
+    "publishedAt": "2026-05-13T12:19:18.000Z",
+    "fetchedAt": "2026-05-14T14:40:24.503Z",
+    "body": "New Taipei City held a flag presentation ceremony for its delegation to the National Disabled Sports Games, with Mayor Hou You-yi presenting the flag and encouraging athletes to compete with confidence. The event highlighted the city's commitment to sports equality and accessible environments for persons with disabilities.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_13a8dc7d-bb19-4270-8e05-c9b05ead3fee)"
+  },
+  {
+    "title": "Keelung Bus Company Recruits Twenty New Drivers with Focus on Accessible Public Transport",
+    "slug": "keelung-bus-company-recruits-twenty-new-drivers-with-focus-on-accessible-public--49d9dcd2",
+    "lang": "en",
+    "summary": "Keelung's bus operator is hiring twenty new drivers, offering increased salaries and adjusting the recruitment process to include road tests and interviews. The changes respond to the government's emphasis on traffic safety, service quality, and accessible, friendly bus environments for passengers with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "public transport",
+      "accessibility",
+      "bus driver recruitment",
+      "Keelung"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%85%AC%E8%BB%8A%E8%99%95%E6%8B%9B%E5%8B%9F%E6%96%B0%E8%A1%80%E9%A7%95%E9%A7%9B%E9%95%B7%E5%BB%BF%E5%90%8D-111811642.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E5%85%AC%E8%BB%8A%E8%99%95%E6%8B%9B%E5%8B%9F%E6%96%B0%E8%A1%80%E9%A7%95%E9%A7%9B%E9%95%B7%E5%BB%BF%E5%90%8D-111811642.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-49d9dcd2",
+    "status": "published",
+    "translationOf": "keelung-bus-company-recruits-twenty-new-drivers-with-focus-on-accessible-public--zh-49d9dcd2",
+    "publishedAt": "2026-05-13T11:18:11.000Z",
+    "fetchedAt": "2026-05-14T14:40:24.532Z",
+    "body": "Keelung's bus operator is hiring twenty new drivers, offering increased salaries and adjusting the recruitment process to include road tests and interviews. The changes respond to the government's emphasis on traffic safety, service quality, and accessible, friendly bus environments for passengers with disabilities.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%85%AC%E8%BB%8A%E8%99%95%E6%8B%9B%E5%8B%9F%E6%96%B0%E8%A1%80%E9%A7%95%E9%A7%9B%E9%95%B7%E5%BB%BF%E5%90%8D-111811642.html)"
+  },
+  {
+    "title": "Creating a Friendly Gateway! Taoyuan Airport and Emirates Launch 'Star Child' Boarding Experience",
+    "slug": "creating-a-friendly-gateway-taoyuan-airport-and-emirates-launch-star-child-board-3b43a7a3",
+    "lang": "en",
+    "summary": "Taoyuan Airport continues to promote a friendly, barrier-free environment, partnering with Emirates Airlines to host the 'Star Child's Boarding First Chapter' event, inviting teachers and students from the Taoyuan City Autism Association Longtian Workshop to simulate the boarding process on-site, helping the autism community become familiar with airport and boarding situations, reducing anxiety when facing unfamiliar environments.",
+    "category": "physical-design",
+    "tags": [
+      "autism",
+      "airport",
+      "accessibility"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_64ac9985-4bde-4284-9834-b683d823d74e",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_64ac9985-4bde-4284-9834-b683d823d74e"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-3b43a7a3",
+    "status": "published",
+    "translationOf": "creating-a-friendly-gateway-taoyuan-airport-and-emirates-launch-star-child-board-zh-3b43a7a3",
+    "publishedAt": "2026-05-13T10:04:04.000Z",
+    "fetchedAt": "2026-05-14T14:42:15.346Z",
+    "body": "Taoyuan Airport continues to promote a friendly, barrier-free environment, partnering with Emirates Airlines to host the 'Star Child's Boarding First Chapter' event, inviting teachers and students from the Taoyuan City Autism Association Longtian Workshop to simulate the boarding process on-site, helping the autism community become familiar with airport and boarding situations, reducing anxiety when facing unfamiliar environments.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_64ac9985-4bde-4284-9834-b683d823d74e)"
+  },
+  {
+    "title": "Responding to International Museum Day, Gold Museum's 'No Limits Mine' Weekend Event Runs Three Days Straight",
+    "slug": "responding-to-international-museum-day-gold-museums-no-limits-mine-weekend-event-7939a8c1",
+    "lang": "en",
+    "summary": "The Gold Museum in New Taipei City is celebrating International Museum Day with a 'No Limits Mine' weekend event featuring performances by disabled artists and indigenous dance troupes, free admission on May 18, and special free experiences for seniors over 65, aiming to promote cultural accessibility and inclusion.",
+    "category": "physical-design",
+    "tags": [
+      "museum",
+      "disability",
+      "seniors",
+      "accessibility"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c8f189da-8ba0-4100-a1b9-322ae4a6baf7",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c8f189da-8ba0-4100-a1b9-322ae4a6baf7"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-7939a8c1",
+    "status": "published",
+    "translationOf": "responding-to-international-museum-day-gold-museums-no-limits-mine-weekend-event-zh-7939a8c1",
+    "publishedAt": "2026-05-13T07:19:33.000Z",
+    "fetchedAt": "2026-05-14T14:42:15.371Z",
+    "body": "The Gold Museum in New Taipei City is celebrating International Museum Day with a 'No Limits Mine' weekend event featuring performances by disabled artists and indigenous dance troupes, free admission on May 18, and special free experiences for seniors over 65, aiming to promote cultural accessibility and inclusion.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c8f189da-8ba0-4100-a1b9-322ae4a6baf7)"
+  },
+  {
+    "title": "Preventing Elders from Sighing at the Bridge: Foggy Peak Convenience Bridge Adds Accessible Ramp",
+    "slug": "preventing-elders-from-sighing-at-the-bridge-foggy-peak-convenience-bridge-adds--0c620f4b",
+    "lang": "en",
+    "summary": "The simple convenience bridge crossing Pingxi River on Fourth Section Lane 435 in Taichung City's Fengyuan District has a step difference that makes it difficult for people with mobility impairments to cross. Councilmember Zhang Fen-yu, after receiving local feedback, coordinated with the Public Works Bureau's Maintenance Engineering Office and related units for a site inspection, announcing the installation of a standards-compliant accessible ramp.",
+    "category": "physical-design",
+    "tags": [
+      "bridge",
+      "ramp",
+      "mobility",
+      "accessibility"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E4%B8%8D%E8%AE%93%E9%95%B7%E8%BC%A9%E6%9C%9B%E6%A9%8B%E8%88%88%E5%98%86-%E9%9C%A7%E5%B3%B0%E4%BE%BF%E6%A9%8B%E5%A2%9E%E8%A8%AD%E7%84%A1%E9%9A%9C%E7%A4%99%E5%9D%A1%E9%81%93-062509595.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E4%B8%8D%E8%AE%93%E9%95%B7%E8%BC%A9%E6%9C%9B%E6%A9%8B%E8%88%88%E5%98%86-%E9%9C%A7%E5%B3%B0%E4%BE%BF%E6%A9%8B%E5%A2%9E%E8%A8%AD%E7%84%A1%E9%9A%9C%E7%A4%99%E5%9D%A1%E9%81%93-062509595.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-0c620f4b",
+    "status": "published",
+    "translationOf": "preventing-elders-from-sighing-at-the-bridge-foggy-peak-convenience-bridge-adds--zh-0c620f4b",
+    "publishedAt": "2026-05-13T06:25:09.000Z",
+    "fetchedAt": "2026-05-14T14:42:15.399Z",
+    "body": "The simple convenience bridge crossing Pingxi River on Fourth Section Lane 435 in Taichung City's Fengyuan District has a step difference that makes it difficult for people with mobility impairments to cross. Councilmember Zhang Fen-yu, after receiving local feedback, coordinated with the Public Works Bureau's Maintenance Engineering Office and related units for a site inspection, announcing the installation of a standards-compliant accessible ramp.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E4%B8%8D%E8%AE%93%E9%95%B7%E8%BC%A9%E6%9C%9B%E6%A9%8B%E8%88%88%E5%98%86-%E9%9C%A7%E5%B3%B0%E4%BE%BF%E6%A9%8B%E5%A2%9E%E8%A8%AD%E7%84%A1%E9%9A%9C%E7%A4%99%E5%9D%A1%E9%81%93-062509595.html)"
+  },
+  {
+    "title": "New Taipei Delegation Flags Off for 115th National Disabled Sports Games",
+    "slug": "new-taipei-delegation-flags-off-for-115th-national-disabled-sports-games-66f71ce6",
+    "lang": "en",
+    "summary": "The 115th National Disabled Sports Games will be held in New Taipei City from May 23 to 26. The New Taipei delegation held a flag‑granting ceremony on May 13, with Mayor Hou You‑yi presenting the flag and encouraging athletes to compete with confidence and belief, showcase their training results, and demonstrate an indomitable sports spirit. Mayor Hou praised disabled athletes for their long‑term training, breaking limits on the field, and bringing society moving and positive force. New Taipei continues to promote sports equality and a friendly environment, hoping every athlete can participate fully supported and citizens cheer them on.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability sports",
+      "national games",
+      "New Taipei"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_813414df-029d-4aa0-84ee-720825836f4b",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_813414df-029d-4aa0-84ee-720825836f4b"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-66f71ce6",
+    "status": "published",
+    "translationOf": "new-taipei-delegation-flags-off-for-115th-national-disabled-sports-games-zh-66f71ce6",
+    "publishedAt": "2026-05-13T04:14:20.000Z",
+    "fetchedAt": "2026-05-14T14:42:34.425Z",
+    "body": "The 115th National Disabled Sports Games will be held in New Taipei City from May 23 to 26. The New Taipei delegation held a flag‑granting ceremony on May 13, with Mayor Hou You‑yi presenting the flag and encouraging athletes to compete with confidence and belief, showcase their training results, and demonstrate an indomitable sports spirit. Mayor Hou praised disabled athletes for their long‑term training, breaking limits on the field, and bringing society moving and positive force. New Taipei continues to promote sports equality and a friendly environment, hoping every athlete can participate fully supported and citizens cheer them on.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_813414df-029d-4aa0-84ee-720825836f4b)"
   }
 ]
