@@ -1,47 +1,47 @@
 {
-  "date": "2026-05-15",
-  "generatedAt": "2026-05-15T04:38:13.751Z",
+  "date": "2026-05-16",
+  "generatedAt": "2026-05-16T04:20:27.624Z",
   "en": {
-    "title": "Daily Accessibility Digest: Key Developments on May 15, 2026",
-    "summary": "Today's highlights include government pledges to accelerate disability inclusion laws, GAAD's focus on home support for older adults, vision models enabling scalable accessibility testing, and Kenya's awards recognizing accessibility champions.",
+    "title": "Daily Accessibility Digest – May 16, 2026",
+    "summary": "Today's highlights include Scotiabank ATMs launching audio guidance for visually impaired users, Hermes Agent gaining Mac control via accessibility permissions, a new accessible home for a child with special needs, and video descriptions enhancing music video accessibility for blind and low‑vision viewers.",
     "highlights": [
       {
-        "title": "Government pledges to speed disability inclusion laws",
-        "slug": "government-pledges-to-speed-disability-inclusion-laws-72c8044f"
+        "title": "Scotiabank ATMs Launch Audio Guidance for Accessibility",
+        "slug": "scotiabank-atms-launch-audio-guidance-for-accessibility-0c72de36"
       },
       {
-        "title": "GAAD highlights home support for older adults",
-        "slug": "gaad-highlights-home-support-for-older-adults-d9ffa986"
+        "title": "Hermes Agent Gains Mac Control via Accessibility Permissions",
+        "slug": "hermes-agent-gains-mac-control-via-accessibility-permissions-6d014d54"
       },
       {
-        "title": "Vision Models Enable Scalable Accessibility Testing",
-        "slug": "vision-models-enable-scalable-accessibility-testing-dd8a84b6"
+        "title": "New Home with Accessibility Features for Child with Special Needs",
+        "slug": "new-home-with-accessibility-features-for-child-with-special-needs-d165a77e"
       },
       {
-        "title": "Kenya Disability Inclusion Awards Recognize Accessibility Champions",
-        "slug": "kenya-disability-inclusion-awards-recognize-accessibility-champions-a0937789"
+        "title": "Video Description Highlights Accessibility in Music Video",
+        "slug": "video-description-highlights-accessibility-in-music-video-86a518bb"
       }
     ]
   },
   "zh-TW": {
-    "title": "每日無障礙消息摘要：2026年5月15日重要動態",
-    "summary": "今日重點包括政府承諾加速殘疾人包容性法律實施、全球無障礙意識日突出老年人居家支持、視覺模型實現可擴展的無障礙測試，以及肯尼亞殘疾包容獎表彰無障礙倡導者。",
+    "title": "每日無障礙消化 – 2026年5月16日",
+    "summary": "今日重點包括 Scotiabank 自動櫃員機推出語音導引協助視障使用者、Hermes Agent 透過無障礙權限取得 Mac 控制、為有特殊需求兒童提供的新無障礙住宅，以及影片描述提升音樂錄影帶對盲人與低視力觀眾的可及性。",
     "highlights": [
       {
-        "title": "政府承诺加快残疾人包容性法律实施",
-        "slug": "government-pledges-to-speed-disability-inclusion-laws-zh-72c8044f"
+        "title": "Scotiabank ATM 推出语音导航以提升无障碍",
+        "slug": "scotiabank-atms-launch-audio-guidance-for-accessibility-zh-0c72de36"
       },
       {
-        "title": "全球无障碍意识日突出老年人居家支持",
-        "slug": "gaad-highlights-home-support-for-older-adults-zh-d9ffa986"
+        "title": "Hermes Agent 通过无障碍权限获得 Mac 控制能力",
+        "slug": "hermes-agent-gains-mac-control-via-accessibility-permissions-zh-6d014d54"
       },
       {
-        "title": "视觉模型实现可扩展的无障碍测试",
-        "slug": "vision-models-enable-scalable-accessibility-testing-zh-dd8a84b6"
+        "title": "为有特殊需求儿童提供无障碍设施的新家",
+        "slug": "new-home-with-accessibility-features-for-child-with-special-needs-zh-d165a77e"
       },
       {
-        "title": "肯尼亚残疾包容奖表彰无障碍倡导者",
-        "slug": "kenya-disability-inclusion-awards-recognize-accessibility-champions-zh-a0937789"
+        "title": "视频描述展示音乐视频中的无障碍",
+        "slug": "video-description-highlights-accessibility-in-music-video-zh-86a518bb"
       }
     ]
   }
