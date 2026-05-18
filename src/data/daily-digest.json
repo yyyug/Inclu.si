@@ -1,55 +1,47 @@
 {
-  "date": "2026-05-17",
-  "generatedAt": "2026-05-17T04:41:48.167Z",
+  "date": "2026-05-18",
+  "generatedAt": "2026-05-18T04:53:24.804Z",
   "en": {
-    "title": "Accessibility Digest – May 17, 2026",
-    "summary": "Today's highlights include NVDA Japan's charity talk announcement, OpenAI's partnership with Malta for nationwide ChatGPT Plus, new color palette guidelines for accessible design, MovitOn_P2P's focus on accessibility in Web3 peer-to-peer solutions, and Dlicom's expansion to web for cross‑platform accessibility.",
+    "title": "Accessibility Digest: Taiwan Health Reform, Taichung Awards, Beijing Transit Gains, MS Mental Health Training",
+    "summary": "Taiwan's health reform pushes inclusive policies for disability accessibility; Taichung's public buildings win two-year accessibility excellence award; Beijing reports over half of its ground buses are now accessible; and an online training on mental health, multiple sclerosis and accessibility runs May 18‑22, 2026.",
     "highlights": [
       {
-        "title": "NVDA Japanese Team Announces Charity Talk 2026 Page",
-        "slug": "nvda-japanese-team-announces-charity-talk-2026-page-4395d5af"
+        "title": "Taiwan’s Health Revolution Boosts Inclusion Call",
+        "slug": "taiwans-health-revolution-boosts-inclusion-call-95f626c0"
       },
       {
-        "title": "OpenAI partners with Malta to roll out ChatGPT Plus nationwide",
-        "slug": "openai-partners-with-malta-to-roll-out-chatgpt-plus-nationwide-ff0dda03"
+        "title": "Taichung Wins Two-Year Championship! Public Buildings' Accessible Environment Receives Central Excellence Award, Urban Development Bureau Promotes Human-Centric Livable City",
+        "slug": "taichung-wins-two-year-championship-public-buildings-accessible-environment-rece-02622acb"
       },
       {
-        "title": "Color Palette Rules for Accessible Design",
-        "slug": "color-palette-rules-for-accessible-design-03ebeb9c"
+        "title": "Beijing continues to optimize accessible travel services, proportion of accessible ground bus models exceeds half - People's Daily",
+        "slug": "beijing-continues-to-optimize-accessible-travel-services-proportion-of-accessibl-d4a48766"
       },
       {
-        "title": "MovitOn_P2P highlights accessibility in Web3 peer-to-peer solutions",
-        "slug": "movitonp2p-highlights-accessibility-in-web3-peer-to-peer-solutions-f3bedd68"
-      },
-      {
-        "title": "Dlicom Expands to Web for Cross‑Platform Accessibility",
-        "slug": "dlicom-expands-to-web-for-crossplatform-accessibility-2c9a7fba"
+        "title": "Mental Health, MS & Accessibility Online Training",
+        "slug": "mental-health-ms-accessibility-online-training-77518aa0"
       }
     ]
   },
   "zh-TW": {
-    "title": "無障礙每日摘要 – 2026年5月17日",
-    "summary": "今日重點包括 NVDA 日本團隊發布 2026 年慈善講演頁面，OpenAI 與馬耳他合作全國推出 ChatGPT Plus，提供無障礙設計的配色規則，MovitOn_P2P 強調 Web3 點對點方案中的無障礙，以及 Dlicom 擴展至網頁以實現跨平台無障礙。",
+    "title": "無障礙每日摘要：台灣健康改革、台中雙年獎、北京無障礙公交、心理健康與多發性硬化症線上培訓",
+    "summary": "台灣健康改革推動殘障人士的無障礙政策；台中公共建築連兩年獲得中央無障礙環境特優獎；北京地面公交無障礙車型佔比逾半；以及心理健康、多發性硬化症及無障礙線上培訓將於5月18日至22日舉行。",
     "highlights": [
       {
-        "title": "NVDA 日本語チーム公開 2026 慈善講演頁面",
-        "slug": "nvda-japanese-team-announces-charity-talk-2026-page-zh-4395d5af"
+        "title": "台湾健康革命推动包容呼声",
+        "slug": "taiwans-health-revolution-boosts-inclusion-call-zh-95f626c0"
       },
       {
-        "title": "OpenAI 与 马耳他 合作 全国推出 ChatGPT Plus",
-        "slug": "openai-partners-with-malta-to-roll-out-chatgpt-plus-nationwide-zh-ff0dda03"
+        "title": "連兩年奪冠！台中公共建築「無障礙環境」獲中央特優評比 都發局力推人本宜居城市",
+        "slug": "taichung-wins-two-year-championship-public-buildings-accessible-environment-rece-zh-02622acb"
       },
       {
-        "title": "无障碍设计的配色规则",
-        "slug": "color-palette-rules-for-accessible-design-zh-03ebeb9c"
+        "title": "北京市持續優化無障礙出行服務 地面公交無障礙車型佔比過半 - 人民网",
+        "slug": "beijing-continues-to-optimize-accessible-travel-services-proportion-of-accessibl-zh-d4a48766"
       },
       {
-        "title": "MovitOn_P2P 在 Web3 中强调无障碍的点对点解决方案",
-        "slug": "movitonp2p-highlights-accessibility-in-web3-peer-to-peer-solutions-zh-f3bedd68"
-      },
-      {
-        "title": "Dlicom 扩展至网页以实现跨平台无障碍",
-        "slug": "dlicom-expands-to-web-for-crossplatform-accessibility-zh-2c9a7fba"
+        "title": "心理健康、多发性硬化症及无障碍在线培训",
+        "slug": "mental-health-ms-accessibility-online-training-zh-77518aa0"
       }
     ]
   }
