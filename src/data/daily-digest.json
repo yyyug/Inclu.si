@@ -1,47 +1,47 @@
 {
-  "date": "2026-05-18",
-  "generatedAt": "2026-05-18T04:53:24.804Z",
+  "date": "2026-05-19",
+  "generatedAt": "2026-05-19T04:45:28.561Z",
   "en": {
-    "title": "Accessibility Digest: Taiwan Health Reform, Taichung Awards, Beijing Transit Gains, MS Mental Health Training",
-    "summary": "Taiwan's health reform pushes inclusive policies for disability accessibility; Taichung's public buildings win two-year accessibility excellence award; Beijing reports over half of its ground buses are now accessible; and an online training on mental health, multiple sclerosis and accessibility runs May 18‑22, 2026.",
+    "title": "Accessibility Digest: Boomerang Cinema OTT Launch, Allegiant Stadium Honors, Optimum Web3 Integration, and Davanagere GAAD Event",
+    "summary": "Today's top accessibility stories include Boomerang Cinema's global OTT platform aiming to improve access for filmmakers, Allegiant Stadium receiving recognition for its disability-friendly features, Optimum embedding accessibility into its Web3 infrastructure, and a Global Accessibility Awareness Day event in Davanagere that provided assistive devices to participants.",
     "highlights": [
       {
-        "title": "Taiwan’s Health Revolution Boosts Inclusion Call",
-        "slug": "taiwans-health-revolution-boosts-inclusion-call-95f626c0"
+        "title": "Boomerang Cinema Global OTT launches to improve accessibility for filmmakers",
+        "slug": "boomerang-cinema-global-ott-launches-to-improve-accessibility-for-filmmakers-05b8a892"
       },
       {
-        "title": "Taichung Wins Two-Year Championship! Public Buildings' Accessible Environment Receives Central Excellence Award, Urban Development Bureau Promotes Human-Centric Livable City",
-        "slug": "taichung-wins-two-year-championship-public-buildings-accessible-environment-rece-02622acb"
+        "title": "Allegiant Stadium honored for accessibility features",
+        "slug": "allegiant-stadium-honored-for-accessibility-features-64c98e20"
       },
       {
-        "title": "Beijing continues to optimize accessible travel services, proportion of accessible ground bus models exceeds half - People's Daily",
-        "slug": "beijing-continues-to-optimize-accessible-travel-services-proportion-of-accessibl-d4a48766"
+        "title": "Optimum integrates accessibility into Web3 infrastructure",
+        "slug": "optimum-integrates-accessibility-into-web3-infrastructure-eaad72fd"
       },
       {
-        "title": "Mental Health, MS & Accessibility Online Training",
-        "slug": "mental-health-ms-accessibility-online-training-77518aa0"
+        "title": "Global Accessibility Awareness Day Event in Davanagere",
+        "slug": "global-accessibility-awareness-day-event-in-davanagere-2fb71ba3"
       }
     ]
   },
   "zh-TW": {
-    "title": "無障礙每日摘要：台灣健康改革、台中雙年獎、北京無障礙公交、心理健康與多發性硬化症線上培訓",
-    "summary": "台灣健康改革推動殘障人士的無障礙政策；台中公共建築連兩年獲得中央無障礙環境特優獎；北京地面公交無障礙車型佔比逾半；以及心理健康、多發性硬化症及無障礙線上培訓將於5月18日至22日舉行。",
+    "title": "無障礙每日摘要：Boomerang Cinema 全球 OTT 上線、阿萊吉安特體育場獲榮譽、Optimum 將無障礙融入 Web3 基礎設施、達瓦納格勒全球無障礙意識日活動",
+    "summary": "今日重要無障礙新聞包括 Boomerang Cinema 推出全球 OTT 平台，旨在提升電影製作者的可訪問性；阿萊吉安特體育場獲殘障人士美國退伍軍人協會表彰其無障礙設施；Optimum 說明其去中心化網路將無障礙與效能、可擴展性結合；以及在達瓦納格勒舉辦的全球無障礙意識日活動，為 92 名參與者提供服務，其中 17 名殘障人士獲得輔助設備。",
     "highlights": [
       {
-        "title": "台湾健康革命推动包容呼声",
-        "slug": "taiwans-health-revolution-boosts-inclusion-call-zh-95f626c0"
+        "title": "Boomerang Cinema 全球 OTT 上线，提升电影制作者的可访问性",
+        "slug": "boomerang-cinema-global-ott-launches-to-improve-accessibility-for-filmmakers-zh-05b8a892"
       },
       {
-        "title": "連兩年奪冠！台中公共建築「無障礙環境」獲中央特優評比 都發局力推人本宜居城市",
-        "slug": "taichung-wins-two-year-championship-public-buildings-accessible-environment-rece-zh-02622acb"
+        "title": "阿莱吉安特体育场获无障碍设施荣誉",
+        "slug": "allegiant-stadium-honored-for-accessibility-features-zh-64c98e20"
       },
       {
-        "title": "北京市持續優化無障礙出行服務 地面公交無障礙車型佔比過半 - 人民网",
-        "slug": "beijing-continues-to-optimize-accessible-travel-services-proportion-of-accessibl-zh-d4a48766"
+        "title": "Optimum 将无障碍融入 Web3 基础设施",
+        "slug": "optimum-integrates-accessibility-into-web3-infrastructure-zh-eaad72fd"
       },
       {
-        "title": "心理健康、多发性硬化症及无障碍在线培训",
-        "slug": "mental-health-ms-accessibility-online-training-zh-77518aa0"
+        "title": "达瓦纳格勒全球无障碍意识日活动",
+        "slug": "global-accessibility-awareness-day-event-in-davanagere-zh-2fb71ba3"
       }
     ]
   }
