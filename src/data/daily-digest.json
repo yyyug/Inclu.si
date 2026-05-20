@@ -1,47 +1,55 @@
 {
-  "date": "2026-05-19",
-  "generatedAt": "2026-05-19T04:45:28.561Z",
+  "date": "2026-05-20",
+  "generatedAt": "2026-05-20T04:50:01.348Z",
   "en": {
-    "title": "Accessibility Digest: Boomerang Cinema OTT Launch, Allegiant Stadium Honors, Optimum Web3 Integration, and Davanagere GAAD Event",
-    "summary": "Today's top accessibility stories include Boomerang Cinema's global OTT platform aiming to improve access for filmmakers, Allegiant Stadium receiving recognition for its disability-friendly features, Optimum embedding accessibility into its Web3 infrastructure, and a Global Accessibility Awareness Day event in Davanagere that provided assistive devices to participants.",
+    "title": "May 20, 2026 Accessibility Digest: Police Outreach, Apple AI Features, Global Venue Access, Student Gym Pass, AI‑Driven Training",
+    "summary": "Today's highlights include Ahmedabad Police opening a new Zone 8 office to boost public accessibility, Apple unveiling AI‑powered accessibility features across its devices, a discussion on how overseas venue accessibility shapes artist tours, a Bangalore startup offering low‑cost daily gym passes for students, and a webinar on scaling accessibility using AI and automation.",
     "highlights": [
       {
-        "title": "Boomerang Cinema Global OTT launches to improve accessibility for filmmakers",
-        "slug": "boomerang-cinema-global-ott-launches-to-improve-accessibility-for-filmmakers-05b8a892"
+        "title": "Ahmedabad Police Opens Zone 8 Office to Improve Public Accessibility",
+        "slug": "ahmedabad-police-opens-zone-8-office-to-improve-public-accessibility-41144350"
       },
       {
-        "title": "Allegiant Stadium honored for accessibility features",
-        "slug": "allegiant-stadium-honored-for-accessibility-features-64c98e20"
+        "title": "Apple Intelligence Introduces New Accessibility Features",
+        "slug": "apple-intelligence-introduces-new-accessibility-features-46f87b3a"
       },
       {
-        "title": "Optimum integrates accessibility into Web3 infrastructure",
-        "slug": "optimum-integrates-accessibility-into-web3-infrastructure-eaad72fd"
+        "title": "Accessibility to overseas venues influences artist tours",
+        "slug": "accessibility-to-overseas-venues-influences-artist-tours-dacd817d"
       },
       {
-        "title": "Global Accessibility Awareness Day Event in Davanagere",
-        "slug": "global-accessibility-awareness-day-event-in-davanagere-2fb71ba3"
+        "title": "Daily pass model improves gym accessibility for students",
+        "slug": "daily-pass-model-improves-gym-accessibility-for-students-a759fdae"
+      },
+      {
+        "title": "Webinar on Scaling Accessibility with AI and Automation",
+        "slug": "webinar-on-scaling-accessibility-with-ai-and-automation-f1bbd208"
       }
     ]
   },
   "zh-TW": {
-    "title": "無障礙每日摘要：Boomerang Cinema 全球 OTT 上線、阿萊吉安特體育場獲榮譽、Optimum 將無障礙融入 Web3 基礎設施、達瓦納格勒全球無障礙意識日活動",
-    "summary": "今日重要無障礙新聞包括 Boomerang Cinema 推出全球 OTT 平台，旨在提升電影製作者的可訪問性；阿萊吉安特體育場獲殘障人士美國退伍軍人協會表彰其無障礙設施；Optimum 說明其去中心化網路將無障礙與效能、可擴展性結合；以及在達瓦納格勒舉辦的全球無障礙意識日活動，為 92 名參與者提供服務，其中 17 名殘障人士獲得輔助設備。",
+    "title": "2026年5月20日無障礙每日摘要：警民合作、蘋果AI功能、海外場館影響、學生健身通行證、AI自動化研討會",
+    "summary": "今日重點包括艾哈迈达巴德警方開放第8區辦公室以提升公共可及性、蘋果發布AI驅動的新無障礙功能、海外場館可及性如何影響藝術家巡演、班加羅爾初創公司推出低價日通行幫助學生使用健身房，以及利用AI與自動化擴大無障礙的線上研討會。",
     "highlights": [
       {
-        "title": "Boomerang Cinema 全球 OTT 上线，提升电影制作者的可访问性",
-        "slug": "boomerang-cinema-global-ott-launches-to-improve-accessibility-for-filmmakers-zh-05b8a892"
+        "title": "艾哈迈达巴德警察开放第8区办公室以提升公共可及性",
+        "slug": "ahmedabad-police-opens-zone-8-office-to-improve-public-accessibility-zh-41144350"
       },
       {
-        "title": "阿莱吉安特体育场获无障碍设施荣誉",
-        "slug": "allegiant-stadium-honored-for-accessibility-features-zh-64c98e20"
+        "title": "Apple Intelligence 推出全新无障碍功能",
+        "slug": "apple-intelligence-introduces-new-accessibility-features-zh-46f87b3a"
       },
       {
-        "title": "Optimum 将无障碍融入 Web3 基础设施",
-        "slug": "optimum-integrates-accessibility-into-web3-infrastructure-zh-eaad72fd"
+        "title": "海外场馆可及性影响艺术家巡演",
+        "slug": "accessibility-to-overseas-venues-influences-artist-tours-zh-dacd817d"
       },
       {
-        "title": "达瓦纳格勒全球无障碍意识日活动",
-        "slug": "global-accessibility-awareness-day-event-in-davanagere-zh-2fb71ba3"
+        "title": "日通行证模式提升学生健身房可及性",
+        "slug": "daily-pass-model-improves-gym-accessibility-for-students-zh-a759fdae"
+      },
+      {
+        "title": "关于利用AI和自动化实现企业级无障碍的网络研讨会",
+        "slug": "webinar-on-scaling-accessibility-with-ai-and-automation-zh-f1bbd208"
       }
     ]
   }
