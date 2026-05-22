@@ -1,47 +1,55 @@
 {
-  "date": "2026-05-21",
-  "generatedAt": "2026-05-21T04:57:43.250Z",
+  "date": "2026-05-22",
+  "generatedAt": "2026-05-22T04:47:27.330Z",
   "en": {
-    "title": "Global Accessibility Awareness Day 2026: Key Highlights",
-    "summary": "On May 21, 2026, Global Accessibility Awareness Day featured a marathon across Canada, APNA's upcoming disability lives publication, and worldwide calls for inclusive design and digital experiences.",
+    "title": "Accessibility Digest: Tech, Tourism, and Sports Highlights for May 22, 2026",
+    "summary": "Day 5 of an online training program covers mental health, multiple sclerosis, and accessibility to build fear-free spaces; accessibility is highlighted as a strategic factor for senior tourism competitiveness in Europe; Konnex World's Web3 project prioritizes interoperability and accessibility for inclusive decentralized tools; Apple Intelligence introduces new accessibility features including enhanced VoiceOver, natural Voice Control, AI-generated captions and Vision Pro wheelchair support; the UEFA Women's Champions League final in Oslo offers sensory rooms, upgraded accessibility, healthy food options and cup recycling to promote inclusion.",
     "highlights": [
       {
-        "title": "Global Accessibility Awareness Day highlights accessibility for persons with disabilities",
-        "slug": "global-accessibility-awareness-day-highlights-accessibility-for-persons-with-dis-03dd69e1"
+        "title": "Breaking the Silos: Building Fear-Free Spaces for All",
+        "slug": "breaking-the-silos-building-fear-free-spaces-for-all-30106278"
       },
       {
-        "title": "APNA Prepares Disability Lives Publication for GAAD",
-        "slug": "apna-prepares-disability-lives-publication-for-gaad-da9aed52"
+        "title": "Accessibility Drives Senior Tourism Competitiveness in Europe",
+        "slug": "accessibility-drives-senior-tourism-competitiveness-in-europe-6f3f2658"
       },
       {
-        "title": "Global Accessibility Awareness Day Marathon Live Across Canada",
-        "slug": "global-accessibility-awareness-day-marathon-live-across-canada-f3f1c753"
+        "title": "Web3 Project Emphasizes Accessibility for Inclusive Decentralized Tools",
+        "slug": "web3-project-emphasizes-accessibility-for-inclusive-decentralized-tools-8768d386"
       },
       {
-        "title": "World Accessibility Awareness Day Promotes Inclusive Digital Experiences",
-        "slug": "world-accessibility-awareness-day-promotes-inclusive-digital-experiences-c8e06cc5"
+        "title": "Apple Intelligence adds accessibility upgrades: VoiceOver, Voice Control, AI captions, Vision Pro wheelchair support",
+        "slug": "apple-intelligence-adds-accessibility-upgrades-voiceover-voice-control-ai-captio-c870941d"
+      },
+      {
+        "title": "UEFA Women's Champions League Final Features Accessible Facilities",
+        "slug": "uefa-womens-champions-league-final-features-accessible-facilities-dbb59ca7"
       }
     ]
   },
   "zh-TW": {
-    "title": "2026年全球無障礙意識日：重點摘要",
-    "summary": "5月21日全球無障礙意識日，加拿大舉辦馬拉松直播，APNA準備殘障人士生活出版物，全球倡導包容設計與數位體驗。",
+    "title": "無障礙每日摘要：科技、觀光與體育亮點（2026年5月22日）",
+    "summary": "線上培訓項目第5天涵蓋心理健康、多發性硬化症與無障礙，致力打造無恐懼空間；無障礙被視為歐洲老年旅遊競爭力的戰略因素；Konnex World 的 Web3 項目強調互操作性與無障礙，以實現包容性去中心化工具；Apple Intelligence 推出新無障礙功能，包括更智慧的 VoiceOver、自然的 Voice Control、AI 生成字幕及 Vision Pro 輪椅支持；歐洲女子冠軍聯賽決賽在奧斯陸提供感官室、提升的無障礙設施、健康食品選擇及杯子回收，以促進可持續性與包容性。",
     "highlights": [
       {
-        "title": "全球无障碍意识日强调对残障人士的无障碍需求",
-        "slug": "global-accessibility-awareness-day-highlights-accessibility-for-persons-with-dis-zh-03dd69e1"
+        "title": "打破孤岛：为所有人构建无恐惧空间",
+        "slug": "breaking-the-silos-building-fear-free-spaces-for-all-zh-30106278"
       },
       {
-        "title": "亚太无障碍网络筹备GAAD残障生活出版物",
-        "slug": "apna-prepares-disability-lives-publication-for-gaad-zh-da9aed52"
+        "title": "无障碍推动欧洲老年旅游竞争力",
+        "slug": "accessibility-drives-senior-tourism-competitiveness-in-europe-zh-6f3f2658"
       },
       {
-        "title": "全球无障碍意识日马拉松加拿大直播",
-        "slug": "global-accessibility-awareness-day-marathon-live-across-canada-zh-f3f1c753"
+        "title": "Web3 项目强调可访问性以实现包容性去中心化工具",
+        "slug": "web3-project-emphasizes-accessibility-for-inclusive-decentralized-tools-zh-8768d386"
       },
       {
-        "title": "世界无障碍意识日推广包容性数字体验",
-        "slug": "world-accessibility-awareness-day-promotes-inclusive-digital-experiences-zh-c8e06cc5"
+        "title": "Apple Intelligence 增加无障碍功能：VoiceOver、Voice Control、AI 字幕及 Vision Pro 轮椅支持",
+        "slug": "apple-intelligence-adds-accessibility-upgrades-voiceover-voice-control-ai-captio-zh-c870941d"
+      },
+      {
+        "title": "欧洲女子冠军联赛决赛提供无障碍设施",
+        "slug": "uefa-womens-champions-league-final-features-accessible-facilities-zh-dbb59ca7"
       }
     ]
   }
