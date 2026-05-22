@@ -31617,5 +31617,815 @@
     "publishedAt": "2026-05-22T03:56:10.000Z",
     "fetchedAt": "2026-05-22T04:40:56.509Z",
     "body": "Shuili 应用让用户无需打开应用即可通过设备的动作按钮添加替代文本。该 AI 驱动功能在全球无障碍意识日（GAAD）期间被展示，体现 AI 在提升无障碍方面的应用。\n推文來源： [Vidit Bhargava (@viditb)](https://x.com/viditb/status/2057671838755590344)\n外部連結： [https://apps.apple.com/in/app/shiuli-alt-text-generator/id6746376256](https://apps.apple.com/in/app/shiuli-alt-text-generator/id6746376256)"
+  },
+  {
+    "title": "Netflix 讓搜尋無障礙電影和節目變得更簡單",
+    "slug": "netflix-makes-it-easier-to-search-for-accessible-movies-and-tv-shows-cnet-zh-997e79ef",
+    "lang": "zh-TW",
+    "summary": "Netflix 更新平台，提升具音訊說明和字幕等無障礙功能的電影和節目的可搜尋性，讓使用者可透過無障礙選項篩選搜尋結果。",
+    "category": "digital-a11y",
+    "tags": [
+      "Netflix",
+      "accessible content",
+      "search",
+      "streaming",
+      "disability"
+    ],
+    "sourceName": "CNET",
+    "sourceUrl": "https://www.cnet.com/tech/home-entertainment/netflix-easier-search-accessible-movies-tv-shows",
+    "relatedSources": [
+      {
+        "name": "CNET",
+        "url": "https://www.cnet.com/tech/home-entertainment/netflix-easier-search-accessible-movies-tv-shows"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-997e79ef",
+    "status": "published",
+    "translationOf": "netflix-makes-it-easier-to-search-for-accessible-movies-and-tv-shows-cnet-997e79ef",
+    "publishedAt": "2026-05-21T13:00:00.000Z",
+    "fetchedAt": "2026-05-22T15:19:36.848Z",
+    "body": "Netflix 更新平台，提升具音訊說明和字幕等無障礙功能的電影和節目的可搜尋性，讓使用者可透過無障礙選項篩選搜尋結果。\n\n原文來源： [CNET](https://www.cnet.com/tech/home-entertainment/netflix-easier-search-accessible-movies-tv-shows)"
+  },
+  {
+    "title": "西維吉尼亞大學表彰教職員獲 2026 年無障礙倡導獎",
+    "slug": "e-news-faculty-and-staff-honored-with-2026-accessibility-advocate-award-west-vir-zh-39de9705",
+    "lang": "zh-TW",
+    "summary": "西維吉尼亞大學授予教職員 2026 年無障礙倡導獎，以表彰他們在推動校園無障礙與包容方面的貢獻。",
+    "category": "laws-rights",
+    "tags": [
+      "West Virginia University",
+      "Accessibility Advocate Award",
+      "faculty",
+      "staff",
+      "disability advocacy"
+    ],
+    "sourceName": "West Virginia University",
+    "sourceUrl": "https://enews.wvu.edu/articles/2026/05/22/faculty-and-staff-honored-with-2026-accessibility-advocate-award",
+    "relatedSources": [
+      {
+        "name": "West Virginia University",
+        "url": "https://enews.wvu.edu/articles/2026/05/22/faculty-and-staff-honored-with-2026-accessibility-advocate-award"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-39de9705",
+    "status": "published",
+    "translationOf": "e-news-faculty-and-staff-honored-with-2026-accessibility-advocate-award-west-vir-39de9705",
+    "publishedAt": "2026-05-22T14:35:31.000Z",
+    "fetchedAt": "2026-05-22T15:19:36.906Z",
+    "body": "西維吉尼亞大學授予教職員 2026 年無障礙倡導獎，以表彰他們在推動校園無障礙與包容方面的貢獻。\n\n原文來源： [West Virginia University](https://enews.wvu.edu/articles/2026/05/22/faculty-and-staff-honored-with-2026-accessibility-advocate-award)"
+  },
+  {
+    "title": "美洲國家組織 2025 年用戶無障礙訪問 IACHR 機制調查",
+    "slug": "survey-on-user-accessibility-to-iachr-mechanisms-2025-oas-organization-of-americ-zh-91b1b4a5",
+    "lang": "zh-TW",
+    "summary": "美洲國家組織於 2025 年進行調查，評估殘障使用者存取美洲人權委員會機制的情況，找出障礙並提出改進建議，以促進包容性參與。",
+    "category": "laws-rights",
+    "tags": [
+      "OAS",
+      "IACHR",
+      "accessibility survey",
+      "human rights",
+      "disability rights",
+      "2025"
+    ],
+    "sourceName": "OAS - Organization of American States",
+    "sourceUrl": "https://www.oas.org/en/iachr/jsForm?File=%2Fen%2Fiachr%2Freports%2Fquestionnaires.asp&Q=72",
+    "relatedSources": [
+      {
+        "name": "OAS - Organization of American States",
+        "url": "https://www.oas.org/en/iachr/jsForm?File=%2Fen%2Fiachr%2Freports%2Fquestionnaires.asp&Q=72"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-91b1b4a5",
+    "status": "published",
+    "translationOf": "survey-on-user-accessibility-to-iachr-mechanisms-2025-oas-organization-of-americ-91b1b4a5",
+    "publishedAt": "2026-05-22T14:58:42.000Z",
+    "fetchedAt": "2026-05-22T15:19:36.943Z",
+    "body": "美洲國家組織於 2025 年進行調查，評估殘障使用者存取美洲人權委員會機制的情況，找出障礙並提出改進建議，以促進包容性參與。\n\n原文來源： [OAS - Organization of American States](https://www.oas.org/en/iachr/jsForm?File=%2Fen%2Fiachr%2Freports%2Fquestionnaires.asp&Q=72)"
+  },
+  {
+    "title": "Līhuʻe機場無障礙改善工程將於5月26日開始",
+    "slug": "accessibility-improvement-project-at-lihue-airport-to-begin-may-26-zh-669d6614",
+    "lang": "zh-TW",
+    "summary": "Līhuʻe機場將於5月26日啟動無障礙改善工程，以提升殘障旅客的設施便利性。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "airport",
+      "physical design",
+      "Līhuʻe"
+    ],
+    "sourceName": "Kauai Now",
+    "sourceUrl": "https://kauainownews.com/2026/05/22/accessibility-improvement-project-at-lihu%CA%BBe-airport-to-begin-may-26",
+    "relatedSources": [
+      {
+        "name": "Kauai Now",
+        "url": "https://kauainownews.com/2026/05/22/accessibility-improvement-project-at-lihu%CA%BBe-airport-to-begin-may-26"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-669d6614",
+    "status": "published",
+    "translationOf": "accessibility-improvement-project-at-lihue-airport-to-begin-may-26-669d6614",
+    "publishedAt": "2026-05-22T11:00:00.000Z",
+    "fetchedAt": "2026-05-22T15:20:23.586Z",
+    "body": "Līhuʻe機場將於5月26日啟動無障礙改善工程，以提升殘障旅客的設施便利性。\n\n原文來源： [Kauai Now](https://kauainownews.com/2026/05/22/accessibility-improvement-project-at-lihu%CA%BBe-airport-to-begin-may-26)"
+  },
+  {
+    "title": "AppleInsider Podcast討論無障礙、AI謠言及Google I/O",
+    "slug": "accessibility-ai-rumors-and-google-io-on-the-appleinsider-podcast-zh-b2170c25",
+    "lang": "zh-TW",
+    "summary": "AppleInsider Podcast節目探討無障礙議題、AI謠言以及Google I/O的最新資訊，說明科技如何影響包容性設計。",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility",
+      "AI",
+      "Google I/O",
+      "podcast",
+      "digital"
+    ],
+    "sourceName": "AppleInsider",
+    "sourceUrl": "https://appleinsider.com/articles/26/05/22/accessibility-ai-rumors-and-google-io-on-the-appleinsider-podcast",
+    "relatedSources": [
+      {
+        "name": "AppleInsider",
+        "url": "https://appleinsider.com/articles/26/05/22/accessibility-ai-rumors-and-google-io-on-the-appleinsider-podcast"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-b2170c25",
+    "status": "published",
+    "translationOf": "accessibility-ai-rumors-and-google-io-on-the-appleinsider-podcast-b2170c25",
+    "publishedAt": "2026-05-22T12:08:00.000Z",
+    "fetchedAt": "2026-05-22T15:20:23.639Z",
+    "body": "AppleInsider Podcast節目探討無障礙議題、AI謠言以及Google I/O的最新資訊，說明科技如何影響包容性設計。\n\n原文來源： [AppleInsider](https://appleinsider.com/articles/26/05/22/accessibility-ai-rumors-and-google-io-on-the-appleinsider-podcast)"
+  },
+  {
+    "title": "2026年國際足協世界盃將於所有場館提供感官室及無障礙服務",
+    "slug": "fifa-world-cup-2026-to-offer-sensory-rooms-and-accessibility-services-at-every-v-zh-036115cd",
+    "lang": "zh-TW",
+    "summary": "2026年國際足協世界盃將在每個場館設置感官室並提供全面無障礙服務，以滿足不同需求的球迷。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "FIFA World Cup",
+      "sensory rooms",
+      "venue",
+      "physical design"
+    ],
+    "sourceName": "SILive.com",
+    "sourceUrl": "https://www.silive.com/news/2026/05/fifa-world-cup-2026-to-offer-sensory-rooms-and-accessibility-services-at-every-venue.html",
+    "relatedSources": [
+      {
+        "name": "SILive.com",
+        "url": "https://www.silive.com/news/2026/05/fifa-world-cup-2026-to-offer-sensory-rooms-and-accessibility-services-at-every-venue.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-036115cd",
+    "status": "published",
+    "translationOf": "fifa-world-cup-2026-to-offer-sensory-rooms-and-accessibility-services-at-every-v-036115cd",
+    "publishedAt": "2026-05-22T13:58:00.000Z",
+    "fetchedAt": "2026-05-22T15:20:23.683Z",
+    "body": "2026年國際足協世界盃將在每個場館設置感官室並提供全面無障礙服務，以滿足不同需求的球迷。\n\n原文來源： [SILive.com](https://www.silive.com/news/2026/05/fifa-world-cup-2026-to-offer-sensory-rooms-and-accessibility-services-at-every-venue.html)"
+  },
+  {
+    "title": "電動汽車更新 - 金融革命化可持續交通的無障礙",
+    "slug": "electric-vehicles-update-financing-revolutionizes-accessibility-in-sustainable-t-zh-10719f13",
+    "lang": "zh-TW",
+    "summary": "電動汽車更新 - 金融革命化可持續交通的無障礙",
+    "category": "physical-design",
+    "tags": [
+      "electric vehicles",
+      "financing",
+      "accessibility",
+      "sustainable transportation"
+    ],
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/sectors/technology/articles/electric-vehicles-financing-revolutionizes-accessibility-103941745.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/electric-vehicles-financing-revolutionizes-accessibility-103941745.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-10719f13",
+    "status": "published",
+    "translationOf": "electric-vehicles-update-financing-revolutionizes-accessibility-in-sustainable-t-10719f13",
+    "publishedAt": "2026-05-22T10:39:41.000Z",
+    "fetchedAt": "2026-05-22T15:20:48.305Z",
+    "body": "電動汽車更新 - 金融革命化可持續交通的無障礙\n\n原文來源： [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/electric-vehicles-financing-revolutionizes-accessibility-103941745.html)"
+  },
+  {
+    "title": "普達系統AccessONE無障礙自助服務機獲紅點設計獎- 商情 - 工商時報",
+    "slug": "prada-system-accessone-accessible-self-service-kiosk-wins-red-dot-design-award-zh-8b9e2cfc",
+    "lang": "zh-TW",
+    "summary": "普達系統AccessONE無障礙自助服務機獲紅點設計獎- 商情",
+    "category": "assistive-tech",
+    "tags": [
+      "AccessONE",
+      "self-service kiosk",
+      "Red Dot",
+      "accessibility",
+      "design award"
+    ],
+    "sourceName": "工商時報",
+    "sourceUrl": "https://www.ctee.com.tw/news/20260522701579-431202",
+    "relatedSources": [
+      {
+        "name": "工商時報",
+        "url": "https://www.ctee.com.tw/news/20260522701579-431202"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-8b9e2cfc",
+    "status": "published",
+    "translationOf": "prada-system-accessone-accessible-self-service-kiosk-wins-red-dot-design-award-8b9e2cfc",
+    "publishedAt": "2026-05-22T10:58:00.000Z",
+    "fetchedAt": "2026-05-22T15:20:48.358Z",
+    "body": "普達系統AccessONE無障礙自助服務機獲紅點設計獎- 商情\n\n原文來源： [工商時報](https://www.ctee.com.tw/news/20260522701579-431202)"
+  },
+  {
+    "title": "育碧啟動遊戲無障礙標籤計畫 響應全球意識日 - 商傳媒",
+    "slug": "ubisoft-launches-game-accessibility-label-initiative-in-response-to-global-aware-zh-7f488f8a",
+    "lang": "zh-TW",
+    "summary": "育碧啟動遊戲無障礙標籤計畫 響應全球意識日",
+    "category": "digital-a11y",
+    "tags": [
+      "Ubisoft",
+      "game accessibility",
+      "label",
+      "Global Awareness Day"
+    ],
+    "sourceName": "商傳媒",
+    "sourceUrl": "https://sunmedia.tw/news/Industry-information/1779407894-%E8%82%B2%E7%A2%A7%E5%95%9F%E5%8B%95%E9%81%8A%E6%88%B2%E7%84%A1%E9%9A%9C%E7%A4%99%E6%A8%99%E7%B1%A4%E8%A8%88%E7%95%AB%20%E9%9F%BF%E6%87%89%E5%85%A8%E7%90%83%E6%84%8F%E8%AD%98%E6%97%A5",
+    "relatedSources": [
+      {
+        "name": "商傳媒",
+        "url": "https://sunmedia.tw/news/Industry-information/1779407894-%E8%82%B2%E7%A2%A7%E5%95%9F%E5%8B%95%E9%81%8A%E6%88%B2%E7%84%A1%E9%9A%9C%E7%A4%99%E6%A8%99%E7%B1%A4%E8%A8%88%E7%95%AB%20%E9%9F%BF%E6%87%89%E5%85%A8%E7%90%83%E6%84%8F%E8%AD%98%E6%97%A5"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-7f488f8a",
+    "status": "published",
+    "translationOf": "ubisoft-launches-game-accessibility-label-initiative-in-response-to-global-aware-7f488f8a",
+    "publishedAt": "2026-05-22T12:50:21.000Z",
+    "fetchedAt": "2026-05-22T15:20:48.394Z",
+    "body": "育碧啟動遊戲無障礙標籤計畫 響應全球意識日\n\n原文來源： [商傳媒](https://sunmedia.tw/news/Industry-information/1779407894-%E8%82%B2%E7%A2%A7%E5%95%9F%E5%8B%95%E9%81%8A%E6%88%B2%E7%84%A1%E9%9A%9C%E7%A4%99%E6%A8%99%E7%B1%A4%E8%A8%88%E7%95%AB%20%E9%9F%BF%E6%87%89%E5%85%A8%E7%90%83%E6%84%8F%E8%AD%98%E6%97%A5)"
+  },
+  {
+    "title": "協助推廣布袋球 南大師生營造無障礙運動參與環境",
+    "slug": "promoting-bag-ball-south-university-students-and-faculty-create-accessible-sport-zh-d14dd159",
+    "lang": "zh-TW",
+    "summary": "南大師生積極推廣布袋球，致力於打造無障礙的運動參與環境，讓不同能力的人都能參與體育活動。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "bag ball",
+      "inclusive sports",
+      "accessibility",
+      "Taiwan"
+    ],
+    "sourceName": "Yahoo新聞",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%8D%94%E5%8A%A9%E6%8E%A8%E5%BB%A3%E5%B8%83%E8%A2%8B%E7%90%83-%E5%8D%97%E5%A4%A7%E5%B8%AB%E7%94%9F%E7%87%9F%E9%80%A0%E7%84%A1%E9%9A%9C%E7%A4%99%E9%81%8B%E5%8B%95%E5%8F%83%E8%88%87%E7%92%B0%E5%A2%83-060018430.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo新聞",
+        "url": "https://tw.news.yahoo.com/%E5%8D%94%E5%8A%A9%E6%8E%A8%E5%BB%A3%E5%B8%83%E8%A2%8B%E7%90%83-%E5%8D%97%E5%A4%A7%E5%B8%AB%E7%94%9F%E7%87%9F%E9%80%A0%E7%84%A1%E9%9A%9C%E7%A4%99%E9%81%8B%E5%8B%95%E5%8F%83%E8%88%87%E7%92%B0%E5%A2%83-060018430.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-d14dd159",
+    "status": "published",
+    "translationOf": "promoting-bag-ball-south-university-students-and-faculty-create-accessible-sport-d14dd159",
+    "publishedAt": "2026-05-22T06:11:50.000Z",
+    "fetchedAt": "2026-05-22T15:21:11.782Z",
+    "body": "南大師生積極推廣布袋球，致力於打造無障礙的運動參與環境，讓不同能力的人都能參與體育活動。\n\n原文來源： [Yahoo新聞](https://tw.news.yahoo.com/%E5%8D%94%E5%8A%A9%E6%8E%A8%E5%BB%A3%E5%B8%83%E8%A2%8B%E7%90%83-%E5%8D%97%E5%A4%A7%E5%B8%AB%E7%94%9F%E7%87%9F%E9%80%A0%E7%84%A1%E9%9A%9C%E7%A4%99%E9%81%8B%E5%8B%95%E5%8F%83%E8%88%87%E7%92%B0%E5%A2%83-060018430.html)"
+  },
+  {
+    "title": "育碧啟動遊戲無障礙標籤計畫 響應全球意識日",
+    "slug": "ubisoft-launches-game-accessibility-tagging-initiative-in-response-to-global-acc-zh-7ae57455",
+    "lang": "zh-TW",
+    "summary": "育碧推出遊戲無障礙標籤計畫，以提升遊戲對殘障玩家的可及性，並呼應全球無障礙意識日。",
+    "category": "digital-a11y",
+    "tags": [
+      "Ubisoft",
+      "game accessibility",
+      "accessibility tags",
+      "Global Accessibility Awareness Day"
+    ],
+    "sourceName": "蕃新聞",
+    "sourceUrl": "https://n.yam.com/Article/20260522200315",
+    "relatedSources": [
+      {
+        "name": "蕃新聞",
+        "url": "https://n.yam.com/Article/20260522200315"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-7ae57455",
+    "status": "published",
+    "translationOf": "ubisoft-launches-game-accessibility-tagging-initiative-in-response-to-global-acc-7ae57455",
+    "publishedAt": "2026-05-22T12:50:00.000Z",
+    "fetchedAt": "2026-05-22T15:21:11.836Z",
+    "body": "育碧推出遊戲無障礙標籤計畫，以提升遊戲對殘障玩家的可及性，並呼應全球無障礙意識日。\n\n原文來源： [蕃新聞](https://n.yam.com/Article/20260522200315)"
+  },
+  {
+    "title": "Siteimprove 公佈2026年全球無障礙客戶獎獲獎者，以表彰其在推動無障礙環境方面的承諾、人工智能領域的創新以及可衡量的影響力",
+    "slug": "siteimprove-announces-2026-global-accessibility-customer-award-winners-recognizi-zh-7fddc17c",
+    "lang": "zh-TW",
+    "summary": "Siteimprove 公布 2026 年全球無障礙客戶獎得主，肯定他們在推動無障礙環境、AI 創新及可衡量影響方面的表現。",
+    "category": "digital-a11y",
+    "tags": [
+      "Siteimprove",
+      "accessibility award",
+      "AI innovation",
+      "measurable impact"
+    ],
+    "sourceName": "富途牛牛",
+    "sourceUrl": "https://news.futunn.com/hk/post/73531294/siteimprove-annonce-les-laure-ats-du-global-accessibility-customer-award",
+    "relatedSources": [
+      {
+        "name": "富途牛牛",
+        "url": "https://news.futunn.com/hk/post/73531294/siteimprove-annonce-les-laure-ats-du-global-accessibility-customer-award"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-7fddc17c",
+    "status": "published",
+    "translationOf": "siteimprove-announces-2026-global-accessibility-customer-award-winners-recognizi-7fddc17c",
+    "publishedAt": "2026-05-22T12:49:00.000Z",
+    "fetchedAt": "2026-05-22T15:21:11.872Z",
+    "body": "Siteimprove 公布 2026 年全球無障礙客戶獎得主，肯定他們在推動無障礙環境、AI 創新及可衡量影響方面的表現。\n\n原文來源： [富途牛牛](https://news.futunn.com/hk/post/73531294/siteimprove-annonce-les-laure-ats-du-global-accessibility-customer-award)"
+  },
+  {
+    "title": "打造無障礙賽事！聽障項目首創手語直播、專業播報獲好評",
+    "slug": "creating-accessible-sports-events-deaf-sports-introduce-sign-language-live-broad-zh-056e9877",
+    "lang": "zh-TW",
+    "summary": "該賽事首次為聽障運動員提供手語直播與專業播報，獲得好評。",
+    "category": "assistive-tech",
+    "tags": [
+      "deaf",
+      "sign language",
+      "sports",
+      "accessibility",
+      "live broadcast"
+    ],
+    "sourceName": "ETtoday運動雲",
+    "sourceUrl": "https://sports.ettoday.net/news/3170281",
+    "relatedSources": [
+      {
+        "name": "ETtoday運動雲",
+        "url": "https://sports.ettoday.net/news/3170281"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-056e9877",
+    "status": "published",
+    "translationOf": "creating-accessible-sports-events-deaf-sports-introduce-sign-language-live-broad-056e9877",
+    "publishedAt": "2026-05-22T06:49:00.000Z",
+    "fetchedAt": "2026-05-22T15:21:35.706Z",
+    "body": "該賽事首次為聽障運動員提供手語直播與專業播報，獲得好評。\n\n原文來源： [ETtoday運動雲](https://sports.ettoday.net/news/3170281)"
+  },
+  {
+    "title": "XBOX、「Global Accessibility Awareness Day」を記念し、新しい Adaptive サムスティック トッパーなどを発表",
+    "slug": "xbox-announces-new-adaptive-thumbstick-topper-and-more-to-mark-global-accessibil-zh-0449d70e",
+    "lang": "zh-TW",
+    "summary": "Xbox 在 Global Accessibility Awareness Day 推出新型適應拇指桿頂蓋等配件，以提升遊戲無障礙性。",
+    "category": "assistive-tech",
+    "tags": [
+      "Xbox",
+      "adaptive controller",
+      "GAAD",
+      "accessibility",
+      "hardware"
+    ],
+    "sourceName": "XBOX Wire",
+    "sourceUrl": "https://news.xbox.com/ja-jp/2026/05/22/xbox-global-accessibility-awareness-day-2026",
+    "relatedSources": [
+      {
+        "name": "XBOX Wire",
+        "url": "https://news.xbox.com/ja-jp/2026/05/22/xbox-global-accessibility-awareness-day-2026"
+      }
+    ],
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3&hl=ja&gl=JP&ceid=JP%3Aja",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-0449d70e",
+    "status": "published",
+    "translationOf": "xbox-announces-new-adaptive-thumbstick-topper-and-more-to-mark-global-accessibil-0449d70e",
+    "publishedAt": "2026-05-22T09:12:02.000Z",
+    "fetchedAt": "2026-05-22T15:21:35.749Z",
+    "body": "Xbox 在 Global Accessibility Awareness Day 推出新型適應拇指桿頂蓋等配件，以提升遊戲無障礙性。\n\n原文來源： [XBOX Wire](https://news.xbox.com/ja-jp/2026/05/22/xbox-global-accessibility-awareness-day-2026)"
+  },
+  {
+    "title": "工黨的 NDIS 改革將使參與者更加『孤立』和『隔離』，前皇家委員會委員警告",
+    "slug": "labors-ndis-overhaul-will-leave-participants-more-isolated-and-segregated-former-zh-413d232e",
+    "lang": "zh-TW",
+    "summary": "前殘疾皇家委員會委員 Alastair McEwin 警告，澳洲政府對 NDIS 的改革可能導致參與者更加孤立與隔離，呼籲停止該計畫。",
+    "category": "laws-rights",
+    "tags": [
+      "NDIS",
+      "disability rights",
+      "Australia",
+      "policy",
+      "isolation"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/australia-news/2026/may/23/albanese-government-ndis-legislation-cuts-changes-reform-australians-more-isolated",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/australia-news/2026/may/23/albanese-government-ndis-legislation-cuts-changes-reform-australians-more-isolated"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-413d232e",
+    "status": "published",
+    "translationOf": "labors-ndis-overhaul-will-leave-participants-more-isolated-and-segregated-former-413d232e",
+    "publishedAt": "2026-05-22T15:00:03.000Z",
+    "fetchedAt": "2026-05-22T15:21:35.797Z",
+    "body": "前殘疾皇家委員會委員 Alastair McEwin 警告，澳洲政府對 NDIS 的改革可能導致參與者更加孤立與隔離，呼籲停止該計畫。\n\n原文來源： [Unknown source](https://www.theguardian.com/australia-news/2026/may/23/albanese-government-ndis-legislation-cuts-changes-reform-australians-more-isolated)"
+  },
+  {
+    "title": "近死體驗、『殘疾人』迷因與DWP的暴政：由疾病與殘障驅動的新展覽",
+    "slug": "near-death-experiences-crip-memes-and-the-tyranny-of-the-dwp-the-new-exhibition--zh-b34444ba",
+    "lang": "zh-TW",
+    "summary": "文章描述了一個名為Flare Up的新展覽，展示了源自疾病、殘障、神經多樣性和聾人經驗的藝術作品。文章指出藝術家如何將醫院床單、DWP信件和潮濕裝置等挑戰轉化為創作表達，慶祝慢性病的波動性以及使隱藏的現實變得可見。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "art",
+      "exhibition",
+      "chronic illness",
+      "neurodivergence",
+      "deafness"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/artanddesign/2026/may/22/flare-up-cca-goldsmiths-racheal-crowther-derek-jarman-abi-palmer-bella-milroy-lizzy-rose",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/artanddesign/2026/may/22/flare-up-cca-goldsmiths-racheal-crowther-derek-jarman-abi-palmer-bella-milroy-lizzy-rose"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-b34444ba",
+    "status": "published",
+    "translationOf": "near-death-experiences-crip-memes-and-the-tyranny-of-the-dwp-the-new-exhibition--b34444ba",
+    "publishedAt": "2026-05-22T12:00:01.000Z",
+    "fetchedAt": "2026-05-22T15:22:00.586Z",
+    "body": "文章描述了一個名為Flare Up的新展覽，展示了源自疾病、殘障、神經多樣性和聾人經驗的藝術作品。文章指出藝術家如何將醫院床單、DWP信件和潮濕裝置等挑戰轉化為創作表達，慶祝慢性病的波動性以及使隱藏的現實變得可見。\n\n原文來源： [Unknown source](https://www.theguardian.com/artanddesign/2026/may/22/flare-up-cca-goldsmiths-racheal-crowther-derek-jarman-abi-palmer-bella-milroy-lizzy-rose)"
+  },
+  {
+    "title": "家庭在揭露管理失誤後，成功確保英國護理院的未來",
+    "slug": "families-secure-future-of-uk-care-home-after-uncovering-management-failures-zh-362878e0",
+    "lang": "zh-TW",
+    "summary": "有學習障礙的成年人家屬成功發起運動，在揭露William Blake House（北安普頓郡的一間照顧學習障礙者之家）嚴重管理失誤後，確保其未來。失誤包括未繳稅項150萬英鎊、向前主席支付100萬英鎊費用以及接近破產，因而引發慈善委員會調查並制定救援計畫。",
+    "category": "laws-rights",
+    "tags": [
+      "learning disability",
+      "care home",
+      "advocacy",
+      "management failure",
+      "rescue plan"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/uk-news/2026/may/22/families-secure-future-uk-children-care-home-uncovering-management-failures",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/uk-news/2026/may/22/families-secure-future-uk-children-care-home-uncovering-management-failures"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-362878e0",
+    "status": "published",
+    "translationOf": "families-secure-future-of-uk-care-home-after-uncovering-management-failures-362878e0",
+    "publishedAt": "2026-05-22T05:00:51.000Z",
+    "fetchedAt": "2026-05-22T15:22:00.626Z",
+    "body": "有學習障礙的成年人家屬成功發起運動，在揭露William Blake House（北安普頓郡的一間照顧學習障礙者之家）嚴重管理失誤後，確保其未來。失誤包括未繳稅項150萬英鎊、向前主席支付100萬英鎊費用以及接近破產，因而引發慈善委員會調查並制定救援計畫。\n\n原文來源： [Unknown source](https://www.theguardian.com/uk-news/2026/may/22/families-secure-future-uk-children-care-home-uncovering-management-failures)"
+  },
+  {
+    "title": "a11y-moda 0.4.4",
+    "slug": "a11y-moda-044-zh-b589231e",
+    "lang": "zh-TW",
+    "summary": "a11y-moda 0.4.4 是一個由台灣開發的無障礙命令列介面（CLI），可依據 WCAG A、AA、AAA 標準測試網頁內容，提供繁體中文支援，並補充 Freego 工具集。",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility",
+      "CLI",
+      "WCAG",
+      "Taiwan",
+      "MODA"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/a11y-moda/0.4.4",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/a11y-moda/0.4.4"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-b589231e",
+    "status": "published",
+    "translationOf": "a11y-moda-044-b589231e",
+    "publishedAt": "2026-05-21T14:11:28.000Z",
+    "fetchedAt": "2026-05-22T15:22:00.674Z",
+    "body": "a11y-moda 0.4.4 是一個由台灣開發的無障礙命令列介面（CLI），可依據 WCAG A、AA、AAA 標準測試網頁內容，提供繁體中文支援，並補充 Freego 工具集。\n\n原文來源： [Pypi.org](https://pypi.org/project/a11y-moda/0.4.4)"
+  },
+  {
+    "title": "社區共同參與國家聾盲人關懷月 2026",
+    "slug": "communities-come-together-for-national-deafblind-awareness-month-2026-zh-5d00c37c",
+    "lang": "zh-TW",
+    "summary": "2026 年 6 月，全國各地社區共同舉辦活動，慶祝國家聾盲人關懷月，肯定聾盲人士的貢獻與韌性，並提升公眾對其需求的認識。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "deafblind",
+      "awareness",
+      "disability",
+      "community",
+      "June 2026"
+    ],
+    "sourceName": "Financial Post",
+    "sourceUrl": "https://financialpost.com/globe-newswire/communities-come-together-for-national-deafblind-awareness-month-2026",
+    "relatedSources": [
+      {
+        "name": "Financial Post",
+        "url": "https://financialpost.com/globe-newswire/communities-come-together-for-national-deafblind-awareness-month-2026"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-5d00c37c",
+    "status": "published",
+    "translationOf": "communities-come-together-for-national-deafblind-awareness-month-2026-5d00c37c",
+    "publishedAt": "2026-05-21T14:03:56.000Z",
+    "fetchedAt": "2026-05-22T15:22:36.301Z",
+    "body": "2026 年 6 月，全國各地社區共同舉辦活動，慶祝國家聾盲人關懷月，肯定聾盲人士的貢獻與韌性，並提升公眾對其需求的認識。\n\n原文來源： [Financial Post](https://financialpost.com/globe-newswire/communities-come-together-for-national-deafblind-awareness-month-2026)"
+  },
+  {
+    "title": "高鐵新竹站助弱勢家庭遊高雄",
+    "slug": "hsr-hsinchu-station-assists-disadvantaged-families-in-travel-to-kaohsiung-zh-52f1794b",
+    "lang": "zh-TW",
+    "summary": "高鐵新竹站於 21 日協助「社團法人新竹市智障福利協進會」40 位智障礙者及其高齡家屬、志工搭乘高鐵前往高雄旅行，站長陳欣宜送上祝福，希望弱勢家庭能留下美好回憶。行程包括旗津海岸散步與哈瑪星鐵道館體驗軌道文化，讓家長輕鬆陪伴子女出遊。",
+    "category": "physical-design",
+    "tags": [
+      "accessible transport",
+      "intellectual disability",
+      "elderly",
+      "high speed rail",
+      "Taiwan",
+      "HSR"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E9%AB%98%E9%90%B5%E6%96%B0%E7%AB%B9%E7%AB%99%E5%8A%A9%E5%BC%B1%E5%8B%A2%E5%AE%B6%E5%BA%AD%E9%81%8A%E9%AB%98%E9%9B%84-121246851.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%90%B5%E6%96%B0%E7%AB%B9%E7%AB%99%E5%8A%A9%E5%BC%B1%E5%8B%A2%E5%AE%B6%E5%BA%AD%E9%81%8A%E9%AB%98%E9%9B%84-121246851.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-52f1794b",
+    "status": "published",
+    "translationOf": "hsr-hsinchu-station-assists-disadvantaged-families-in-travel-to-kaohsiung-52f1794b",
+    "publishedAt": "2026-05-21T12:12:46.000Z",
+    "fetchedAt": "2026-05-22T15:22:37.795Z",
+    "body": "高鐵新竹站於 21 日協助「社團法人新竹市智障福利協進會」40 位智障礙者及其高齡家屬、志工搭乘高鐵前往高雄旅行，站長陳欣宜送上祝福，希望弱勢家庭能留下美好回憶。行程包括旗津海岸散步與哈瑪星鐵道館體驗軌道文化，讓家長輕鬆陪伴子女出遊。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E9%AB%98%E9%90%B5%E6%96%B0%E7%AB%B9%E7%AB%99%E5%8A%A9%E5%BC%B1%E5%8B%A2%E5%AE%B6%E5%BA%AD%E9%81%8A%E9%AB%98%E9%9B%84-121246851.html)"
+  },
+  {
+    "title": "上屆勇奪19金 竹市代表隊再戰全國身障運拚亮眼成績",
+    "slug": "last-edition-won-19-golds-hsinchu-team-returns-to-national-disabled-sports-games-zh-b725d58d",
+    "lang": "zh-TW",
+    "summary": "新竹市於市府廣場舉行授旗儀式，市長高虹安勉勵代表隊選手堅毅不拔、勇於挑戰，期望在全國身心障礙國民運動會中再創佳績。市府長期重視身障運動權益，持續完善無障礙運動設施，上屆曾奪十九金、二銀、三銅。",
+    "category": "case-studies",
+    "tags": [
+      "disability sports",
+      "accessible facilities",
+      "National Disabled Sports Games",
+      "Hsinchu"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E4%B8%8A%E5%B1%86%E5%8B%87%E5%A5%AA19%E9%87%91-%E7%AB%B9%E5%B8%82%E4%BB%A3%E8%A1%A8%E9%9A%8A%E5%86%8D%E6%88%B0%E5%85%A8%E5%9C%8B%E8%BA%AB%E9%9A%9C%E9%81%8B%E6%8B%9A%E4%BA%AE%E7%9C%BC%E6%88%90%E7%B8%BE-100828757.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E4%B8%8A%E5%B1%86%E5%8B%87%E5%A5%AA19%E9%87%91-%E7%AB%B9%E5%B8%82%E4%BB%A3%E8%A1%A8%E9%9A%8A%E5%86%8D%E6%88%B0%E5%85%A8%E5%9C%8B%E8%BA%AB%E9%9A%9C%E9%81%8B%E6%8B%9A%E4%BA%AE%E7%9C%BC%E6%88%90%E7%B8%BE-100828757.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-b725d58d",
+    "status": "published",
+    "translationOf": "last-edition-won-19-golds-hsinchu-team-returns-to-national-disabled-sports-games-b725d58d",
+    "publishedAt": "2026-05-21T10:08:28.000Z",
+    "fetchedAt": "2026-05-22T15:24:20.131Z",
+    "body": "新竹市於市府廣場舉行授旗儀式，市長高虹安勉勵代表隊選手堅毅不拔、勇於挑戰，期望在全國身心障礙國民運動會中再創佳績。市府長期重視身障運動權益，持續完善無障礙運動設施，上屆曾奪十九金、二銀、三銅。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E4%B8%8A%E5%B1%86%E5%8B%87%E5%A5%AA19%E9%87%91-%E7%AB%B9%E5%B8%82%E4%BB%A3%E8%A1%A8%E9%9A%8A%E5%86%8D%E6%88%B0%E5%85%A8%E5%9C%8B%E8%BA%AB%E9%9A%9C%E9%81%8B%E6%8B%9A%E4%BA%AE%E7%9C%BC%E6%88%90%E7%B8%BE-100828757.html)"
+  },
+  {
+    "title": "高鐵新竹站助弱勢家庭 圓夢共賞蔚藍海岸",
+    "slug": "hsr-hsinchu-station-helps-disabled-families-realize-dream-of-enjoying-the-blue-c-zh-1570b578",
+    "lang": "zh-TW",
+    "summary": "高鐵新竹站協助「社團法人新竹市智障福利協進會」四十位心智障礙者及其高齡家屬、志工，搭乘高鐵前往高雄旅行。站長陳欣宜送上祝福，希望弱勢家庭能留下美好回憶，感受社會溫暖。",
+    "category": "physical-design",
+    "tags": [
+      "high-speed rail",
+      "accessible transportation",
+      "disability travel",
+      "Hsinchu"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f1ecc122-49a8-43ef-9368-58fc0e8b3238",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f1ecc122-49a8-43ef-9368-58fc0e8b3238"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-1570b578",
+    "status": "published",
+    "translationOf": "hsr-hsinchu-station-helps-disabled-families-realize-dream-of-enjoying-the-blue-c-1570b578",
+    "publishedAt": "2026-05-21T09:47:54.000Z",
+    "fetchedAt": "2026-05-22T15:24:20.169Z",
+    "body": "高鐵新竹站協助「社團法人新竹市智障福利協進會」四十位心智障礙者及其高齡家屬、志工，搭乘高鐵前往高雄旅行。站長陳欣宜送上祝福，希望弱勢家庭能留下美好回憶，感受社會溫暖。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f1ecc122-49a8-43ef-9368-58fc0e8b3238)"
+  },
+  {
+    "title": "綠委籲推動「一縣市一適應運動場地」 障礙青年喊要注意「2件事」",
+    "slug": "legislators-urge-one-adaptive-sports-field-per-citycounty-disability-youth-group-zh-4a670e55",
+    "lang": "zh-TW",
+    "summary": "民進黨立委張雅琳、沈伯洋呼籲推動「一縣市一適應運動場地」，以回應身心障礙者、高齡者、慢性病者及復健後民眾的運動需求。台灣障礙青年協會理事梁惠芯指出，該政策需注意無障礙可及性及教育與支持系統兩項。",
+    "category": "laws-rights",
+    "tags": [
+      "adaptive sports facilities",
+      "disability rights",
+      "legislation",
+      "sports policy"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E7%B6%A0%E5%A7%94%E7%B1%B2%E6%8E%A8%E5%8B%95-%E7%B8%A3%E5%B8%82-%E9%81%A9%E6%87%89%E9%81%8B%E5%8B%95%E5%A0%B4%E5%9C%B0-%E9%9A%9C%E7%A4%99%E9%9D%92%E5%B9%B4%E5%96%8A%E8%A6%81%E6%B3%A8%E6%84%8F-2%E4%BB%B6%E4%BA%8B-053414265.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E7%B6%A0%E5%A7%94%E7%B1%B2%E6%8E%A8%E5%8B%95-%E7%B8%A3%E5%B8%82-%E9%81%A9%E6%87%89%E9%81%8B%E5%8B%95%E5%A0%B4%E5%9C%B0-%E9%9A%9C%E7%A4%99%E9%9D%92%E5%B9%B4%E5%96%8A%E8%A6%81%E6%B3%A8%E6%84%8F-2%E4%BB%B6%E4%BA%8B-053414265.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-4a670e55",
+    "status": "published",
+    "translationOf": "legislators-urge-one-adaptive-sports-field-per-citycounty-disability-youth-group-4a670e55",
+    "publishedAt": "2026-05-21T05:34:14.000Z",
+    "fetchedAt": "2026-05-22T15:24:20.225Z",
+    "body": "民進黨立委張雅琳、沈伯洋呼籲推動「一縣市一適應運動場地」，以回應身心障礙者、高齡者、慢性病者及復健後民眾的運動需求。台灣障礙青年協會理事梁惠芯指出，該政策需注意無障礙可及性及教育與支持系統兩項。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E7%B6%A0%E5%A7%94%E7%B1%B2%E6%8E%A8%E5%8B%95-%E7%B8%A3%E5%B8%82-%E9%81%A9%E6%87%89%E9%81%8B%E5%8B%95%E5%A0%B4%E5%9C%B0-%E9%9A%9C%E7%A4%99%E9%9D%92%E5%B9%B4%E5%96%8A%E8%A6%81%E6%B3%A8%E6%84%8F-2%E4%BB%B6%E4%BA%8B-053414265.html)"
+  },
+  {
+    "title": "JetBrains IDE 無障礙改進：2026 年新功能與未來規劃",
+    "slug": "jetbrains-ide-accessibility-improvements-new-features-in-2026-and-future-plans-zh-785e037e",
+    "lang": "zh-TW",
+    "summary": "JetBrains 在其 IDE 中推出多項無障礙改進，包括輔助技術相容性、鍵盤導航及非視覺回饋，以配合 2026 年世界無障礙日。",
+    "category": "digital-a11y",
+    "tags": [
+      "IDE",
+      "accessibility",
+      "JetBrains",
+      "software",
+      "GAAD"
+    ],
+    "sourceName": "Jetbrains.com",
+    "sourceUrl": "https://blog.jetbrains.com/ja/platform/2026/05/improving-accessibility-in-jetbrains-ides-what-s-new-and-what-s-next-in-2026",
+    "relatedSources": [
+      {
+        "name": "Jetbrains.com",
+        "url": "https://blog.jetbrains.com/ja/platform/2026/05/improving-accessibility-in-jetbrains-ides-what-s-new-and-what-s-next-in-2026"
+      }
+    ],
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-785e037e",
+    "status": "published",
+    "translationOf": "jetbrains-ide-accessibility-improvements-new-features-in-2026-and-future-plans-785e037e",
+    "publishedAt": "2026-05-21T07:31:07.000Z",
+    "fetchedAt": "2026-05-22T15:24:25.381Z",
+    "body": "JetBrains 在其 IDE 中推出多項無障礙改進，包括輔助技術相容性、鍵盤導航及非視覺回饋，以配合 2026 年世界無障礙日。\n\n原文來源： [Jetbrains.com](https://blog.jetbrains.com/ja/platform/2026/05/improving-accessibility-in-jetbrains-ides-what-s-new-and-what-s-next-in-2026)"
   }
 ]
