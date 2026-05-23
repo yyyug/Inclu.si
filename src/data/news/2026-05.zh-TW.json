@@ -32427,5 +32427,438 @@
     "publishedAt": "2026-05-21T07:31:07.000Z",
     "fetchedAt": "2026-05-22T15:24:25.381Z",
     "body": "JetBrains 在其 IDE 中推出多項無障礙改進，包括輔助技術相容性、鍵盤導航及非視覺回饋，以配合 2026 年世界無障礙日。\n\n原文來源： [Jetbrains.com](https://blog.jetbrains.com/ja/platform/2026/05/improving-accessibility-in-jetbrains-ides-what-s-new-and-what-s-next-in-2026)"
+  },
+  {
+    "title": "WWDC 邀請函，iOS 27 無障礙功能，新 Siri 將為測試版",
+    "slug": "wwdc-invites-ios-27-accessibility-features-new-siri-will-be-a-beta-zh-7b5fe870",
+    "lang": "zh-TW",
+    "summary": "蘋果即將舉辦的 WWDC 將展示 iOS 27 的新無障礙功能，其中包括一個旨在提升殘障用戶語音控制的更新版 Siri 測試版。",
+    "category": "digital-a11y",
+    "tags": [
+      "WWDC",
+      "iOS 27",
+      "accessibility",
+      "Siri",
+      "beta"
+    ],
+    "sourceName": "9to5Mac",
+    "sourceUrl": "https://9to5mac.com/2026/05/22/happy-hour-591",
+    "relatedSources": [
+      {
+        "name": "9to5Mac",
+        "url": "https://9to5mac.com/2026/05/22/happy-hour-591"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-7b5fe870",
+    "status": "published",
+    "translationOf": "wwdc-invites-ios-27-accessibility-features-new-siri-will-be-a-beta-7b5fe870",
+    "publishedAt": "2026-05-22T14:30:00.000Z",
+    "fetchedAt": "2026-05-23T04:06:40.473Z",
+    "body": "蘋果即將舉辦的 WWDC 將展示 iOS 27 的新無障礙功能，其中包括一個旨在提升殘障用戶語音控制的更新版 Siri 測試版。\n\n原文來源： [9to5Mac](https://9to5mac.com/2026/05/22/happy-hour-591)"
+  },
+  {
+    "title": "Blue Prince 「無障礙」更新現已推出，補丁說明 – 新功能一覽",
+    "slug": "blue-prince-accessibility-update-out-now-patch-notes-new-features-included-zh-a0037d2d",
+    "lang": "zh-TW",
+    "summary": "遊戲《Blue Prince》已發布無障礙更新，新增可自訂控制、色盲模式、文字縮放等功能，以提升殘障玩家的遊戲體驗。",
+    "category": "digital-a11y",
+    "tags": [
+      "Blue Prince",
+      "accessibility update",
+      "game",
+      "customizable controls",
+      "colorblind mode"
+    ],
+    "sourceName": "Nintendo Everything",
+    "sourceUrl": "https://nintendoeverything.com/blue-prince-accessibility-update-out-now-patch-notes-new-features-included",
+    "relatedSources": [
+      {
+        "name": "Nintendo Everything",
+        "url": "https://nintendoeverything.com/blue-prince-accessibility-update-out-now-patch-notes-new-features-included"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a0037d2d",
+    "status": "published",
+    "translationOf": "blue-prince-accessibility-update-out-now-patch-notes-new-features-included-a0037d2d",
+    "publishedAt": "2026-05-22T11:58:39.000Z",
+    "fetchedAt": "2026-05-23T04:06:40.529Z",
+    "body": "遊戲《Blue Prince》已發布無障礙更新，新增可自訂控制、色盲模式、文字縮放等功能，以提升殘障玩家的遊戲體驗。\n\n原文來源： [Nintendo Everything](https://nintendoeverything.com/blue-prince-accessibility-update-out-now-patch-notes-new-features-included)"
+  },
+  {
+    "title": "Windows 11 將加入 Screen Tint 功能及其他無障礙改進",
+    "slug": "windows-11-is-getting-screen-tint-feature-and-other-accessibility-improvements-i-zh-ee73bb53",
+    "lang": "zh-TW",
+    "summary": "即將推出的 Windows 11 新增建版將加入 Screen Tint 功能以降低眼部疲勞，並提供其他無障礙增強，如改進的朗讀器和放大工具。",
+    "category": "digital-a11y",
+    "tags": [
+      "Windows 11",
+      "Screen Tint",
+      "accessibility",
+      "narrator",
+      "magnifier"
+    ],
+    "sourceName": "Neowin",
+    "sourceUrl": "https://www.neowin.net/news/windows-11-is-getting-screen-tint-feature-and-other-accessibility-improvements-in-new-builds",
+    "relatedSources": [
+      {
+        "name": "Neowin",
+        "url": "https://www.neowin.net/news/windows-11-is-getting-screen-tint-feature-and-other-accessibility-improvements-in-new-builds"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ee73bb53",
+    "status": "published",
+    "translationOf": "windows-11-is-getting-screen-tint-feature-and-other-accessibility-improvements-i-ee73bb53",
+    "publishedAt": "2026-05-22T17:49:04.000Z",
+    "fetchedAt": "2026-05-23T04:06:40.572Z",
+    "body": "即將推出的 Windows 11 新增建版將加入 Screen Tint 功能以降低眼部疲勞，並提供其他無障礙增強，如改進的朗讀器和放大工具。\n\n原文來源： [Neowin](https://www.neowin.net/news/windows-11-is-getting-screen-tint-feature-and-other-accessibility-improvements-in-new-builds)"
+  },
+  {
+    "title": "專家推薦的歐洲無障礙探險旅遊地點",
+    "slug": "where-to-travel-for-accessible-adventures-in-europe-according-to-the-experts-zh-94137aa7",
+    "lang": "zh-TW",
+    "summary": "專家推薦提供無障礙探險體驗的歐洲目的地，適合殘障旅客。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "accessible travel",
+      "Europe",
+      "tourism",
+      "disability"
+    ],
+    "sourceName": "Euronews",
+    "sourceUrl": "https://www.euronews.com/travel/2026/05/22/where-to-travel-for-accessible-adventures-in-europe-according-to-the-experts",
+    "relatedSources": [
+      {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/travel/2026/05/22/where-to-travel-for-accessible-adventures-in-europe-according-to-the-experts"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-94137aa7",
+    "status": "published",
+    "translationOf": "where-to-travel-for-accessible-adventures-in-europe-according-to-the-experts-94137aa7",
+    "publishedAt": "2026-05-22T05:00:00.000Z",
+    "fetchedAt": "2026-05-23T04:06:45.947Z",
+    "body": "專家推薦提供無障礙探險體驗的歐洲目的地，適合殘障旅客。\n\n原文來源： [Euronews](https://www.euronews.com/travel/2026/05/22/where-to-travel-for-accessible-adventures-in-europe-according-to-the-experts)"
+  },
+  {
+    "title": "Harkin研究所入選福布斯2026年無障礙200強名單",
+    "slug": "harkin-institute-named-to-forbes-2026-accessibility-200-list-zh-1c2e88c0",
+    "lang": "zh-TW",
+    "summary": "Harkin研究所被福布斯列入2026年無障礙200強，表彰其在推進無障礙方面的貢獻。",
+    "category": "general",
+    "tags": [
+      "Harkin Institute",
+      "Forbes Accessibility 200",
+      "recognition",
+      "accessibility"
+    ],
+    "sourceName": "Business Record",
+    "sourceUrl": "https://www.businessrecord.com/harkin-institute-named-to-forbes-2026-accessibility-200-list",
+    "relatedSources": [
+      {
+        "name": "Business Record",
+        "url": "https://www.businessrecord.com/harkin-institute-named-to-forbes-2026-accessibility-200-list"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-1c2e88c0",
+    "status": "published",
+    "translationOf": "harkin-institute-named-to-forbes-2026-accessibility-200-list-1c2e88c0",
+    "publishedAt": "2026-05-22T19:58:37.000Z",
+    "fetchedAt": "2026-05-23T04:06:45.993Z",
+    "body": "Harkin研究所被福布斯列入2026年無障礙200強，表彰其在推進無障礙方面的貢獻。\n\n原文來源： [Business Record](https://www.businessrecord.com/harkin-institute-named-to-forbes-2026-accessibility-200-list)"
+  },
+  {
+    "title": "美國退伍軍人協會第108分部獲得新補助金提升無障礙設施",
+    "slug": "american-legion-post-108-upgrades-accessibility-with-new-grants-zh-2fcd645d",
+    "lang": "zh-TW",
+    "summary": "美國退伍軍人協會第108分部獲得新補助金，用於改善無障礙設施，以方便退伍軍人和訪客。",
+    "category": "physical-design",
+    "tags": [
+      "American Legion",
+      "accessibility upgrades",
+      "grants",
+      "veterans",
+      "building access"
+    ],
+    "sourceName": "WTHI-TV",
+    "sourceUrl": "https://www.wthitv.com/news/american-legion-post-108-upgrades-accessibility-with-new-grants/article_123b5235-b35a-46b0-8dcc-a73b3b6be11a.html",
+    "relatedSources": [
+      {
+        "name": "WTHI-TV",
+        "url": "https://www.wthitv.com/news/american-legion-post-108-upgrades-accessibility-with-new-grants/article_123b5235-b35a-46b0-8dcc-a73b3b6be11a.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-2fcd645d",
+    "status": "published",
+    "translationOf": "american-legion-post-108-upgrades-accessibility-with-new-grants-2fcd645d",
+    "publishedAt": "2026-05-22T21:50:30.000Z",
+    "fetchedAt": "2026-05-23T04:06:46.032Z",
+    "body": "美國退伍軍人協會第108分部獲得新補助金，用於改善無障礙設施，以方便退伍軍人和訪客。\n\n原文來源： [WTHI-TV](https://www.wthitv.com/news/american-legion-post-108-upgrades-accessibility-with-new-grants/article_123b5235-b35a-46b0-8dcc-a73b3b6be11a.html)"
+  },
+  {
+    "title": "「無障礙就是這裡的一切」：Walla Walla 劇院現在提供觸覺背心",
+    "slug": "accessibility-is-everything-around-here-haptic-vests-now-available-at-this-walla-zh-8af5cb50",
+    "lang": "zh-TW",
+    "summary": "「無障礙就是這裡的一切」：Walla Walla 劇院現在提供觸覺背心　NWPB",
+    "category": "assistive-tech",
+    "tags": [
+      "haptic",
+      "theater",
+      "accessibility",
+      "assistive technology"
+    ],
+    "sourceName": "NWPB",
+    "sourceUrl": "https://www.nwpb.org/local/2026-05-22/accessibility-is-everything-around-here-haptic-vests-now-available-at-this-walla-walla-theater",
+    "relatedSources": [
+      {
+        "name": "NWPB",
+        "url": "https://www.nwpb.org/local/2026-05-22/accessibility-is-everything-around-here-haptic-vests-now-available-at-this-walla-walla-theater"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-8af5cb50",
+    "status": "published",
+    "translationOf": "accessibility-is-everything-around-here-haptic-vests-now-available-at-this-walla-8af5cb50",
+    "publishedAt": "2026-05-22T15:26:00.000Z",
+    "fetchedAt": "2026-05-23T04:06:55.042Z",
+    "body": "「無障礙就是這裡的一切」：Walla Walla 劇院現在提供觸覺背心　NWPB\n\n原文來源： [NWPB](https://www.nwpb.org/local/2026-05-22/accessibility-is-everything-around-here-haptic-vests-now-available-at-this-walla-walla-theater)"
+  },
+  {
+    "title": "Apple 宣佈 iOS 27 新增無障礙功能及 WWDC 召開日期，Siri 將進行改版",
+    "slug": "apple-announces-ios-27-adds-accessibility-features-and-wwdc-date-siri-to-be-reva-zh-ede8f4a8",
+    "lang": "zh-TW",
+    "summary": "Apple 宣佈 iOS 27 新增無障礙功能及 WWDC 召開日期，Siri 將進行改版　Techritual Hong Kong",
+    "category": "digital-a11y",
+    "tags": [
+      "Apple",
+      "iOS 27",
+      "accessibility",
+      "WWDC",
+      "Siri"
+    ],
+    "sourceName": "Techritual Hong Kong",
+    "sourceUrl": "https://www.techritual.com/2026/05/23/535326",
+    "relatedSources": [
+      {
+        "name": "Techritual Hong Kong",
+        "url": "https://www.techritual.com/2026/05/23/535326"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ede8f4a8",
+    "status": "published",
+    "translationOf": "apple-announces-ios-27-adds-accessibility-features-and-wwdc-date-siri-to-be-reva-ede8f4a8",
+    "publishedAt": "2026-05-22T20:32:42.000Z",
+    "fetchedAt": "2026-05-23T04:06:55.091Z",
+    "body": "Apple 宣佈 iOS 27 新增無障礙功能及 WWDC 召開日期，Siri 將進行改版　Techritual Hong Kong\n\n原文來源： [Techritual Hong Kong](https://www.techritual.com/2026/05/23/535326)"
+  },
+  {
+    "title": "透過殘障與藝術改變社會：Herbalony 被選入美國 Forbes『Accessibility 200』",
+    "slug": "changing-society-through-disability-and-art-heralbony-selected-for-us-forbes-acc-zh-09d2cad1",
+    "lang": "zh-TW",
+    "summary": "透過殘障與藝術改變社會：Herbalony 被選入美國 Forbes『Accessibility 200』　ELEMINIST",
+    "category": "case-studies",
+    "tags": [
+      "disability",
+      "art",
+      "Forbes",
+      "Accessibility 200",
+      "Heralbony"
+    ],
+    "sourceName": "ELEMINIST",
+    "sourceUrl": "https://eleminist.com/article/4668",
+    "relatedSources": [
+      {
+        "name": "ELEMINIST",
+        "url": "https://eleminist.com/article/4668"
+      }
+    ],
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3&hl=ja&gl=JP&ceid=JP%3Aja",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-09d2cad1",
+    "status": "published",
+    "translationOf": "changing-society-through-disability-and-art-heralbony-selected-for-us-forbes-acc-09d2cad1",
+    "publishedAt": "2026-05-23T00:04:30.000Z",
+    "fetchedAt": "2026-05-23T04:06:55.134Z",
+    "body": "透過殘障與藝術改變社會：Herbalony 被選入美國 Forbes『Accessibility 200』　ELEMINIST\n\n原文來源： [ELEMINIST](https://eleminist.com/article/4668)"
+  },
+  {
+    "title": "Scentbird’s ‘Smart Sampling’ 支援香氛實驗與無障礙",
+    "slug": "scentbirds-smart-sampling-supports-fragrance-experimentation-and-accessibility-zh-a59283e2",
+    "lang": "zh-TW",
+    "summary": "Scentbird 的 Smart Sampling 服務鼓勵香氛實驗，提供多樣選擇，提升香氛取樣的無障礙性。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "fragrance",
+      "sampling",
+      "accessibility"
+    ],
+    "sourceName": "WWD",
+    "sourceUrl": "http://wwd.com/beauty-industry-news/fragrance/fragrance-growth-trends-experimentation-online-sales-1238976610",
+    "relatedSources": [
+      {
+        "name": "WWD",
+        "url": "http://wwd.com/beauty-industry-news/fragrance/fragrance-growth-trends-experimentation-online-sales-1238976610"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-a59283e2",
+    "status": "published",
+    "translationOf": "scentbirds-smart-sampling-supports-fragrance-experimentation-and-accessibility-a59283e2",
+    "publishedAt": "2026-05-22T04:00:00.000Z",
+    "fetchedAt": "2026-05-23T04:07:03.556Z",
+    "body": "Scentbird 的 Smart Sampling 服務鼓勵香氛實驗，提供多樣選擇，提升香氛取樣的無障礙性。\n\n原文來源： [WWD](http://wwd.com/beauty-industry-news/fragrance/fragrance-growth-trends-experimentation-online-sales-1238976610)"
+  },
+  {
+    "title": "Google 的 reCAPTCHA 在去除 Google 的 Android 設備上失效，影響隱私",
+    "slug": "googles-recaptcha-fails-de-googled-android-users-impacting-privacy-zh-77b0ab1b",
+    "lang": "zh-TW",
+    "summary": "Google 的 reCAPTCHA 服務在去除 Google 的 Android 設備上據稱失效，引發無障礙和隱私方面的擔憂。",
+    "category": "digital-a11y",
+    "tags": [
+      "reCAPTCHA",
+      "Android",
+      "accessibility",
+      "privacy"
+    ],
+    "sourceName": "Linksdv.com",
+    "sourceUrl": "https://www.linksdv.com/25256",
+    "relatedSources": [
+      {
+        "name": "Linksdv.com",
+        "url": "https://www.linksdv.com/25256"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-77b0ab1b",
+    "status": "published",
+    "translationOf": "googles-recaptcha-fails-de-googled-android-users-impacting-privacy-77b0ab1b",
+    "publishedAt": "2026-05-22T03:01:46.000Z",
+    "fetchedAt": "2026-05-23T04:07:03.595Z",
+    "body": "Google 的 reCAPTCHA 服務在去除 Google 的 Android 設備上據稱失效，引發無障礙和隱私方面的擔憂。\n\n原文來源： [Linksdv.com](https://www.linksdv.com/25256)"
+  },
+  {
+    "title": "蒂姆·韋亞批評世界盃門票價格凸顯無障礙危機",
+    "slug": "tim-weahs-world-cup-ticket-criticism-highlights-accessibility-crisis-zh-a548e5d7",
+    "lang": "zh-TW",
+    "summary": "美國男子國家足球隊球員蒂姆·韋亞批評世界盃門票價格過高，表示許多真正的球迷無法觀賽，凸顯了觀賽無障礙的危機。",
+    "category": "physical-design",
+    "tags": [
+      "World Cup",
+      "ticket pricing",
+      "fan access"
+    ],
+    "sourceName": "Pitchside-us.com",
+    "sourceUrl": "https://pitchside-us.com/tim-weah-world-cup-ticket-prices-accessibility-crisis",
+    "relatedSources": [
+      {
+        "name": "Pitchside-us.com",
+        "url": "https://pitchside-us.com/tim-weah-world-cup-ticket-prices-accessibility-crisis"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-a548e5d7",
+    "status": "published",
+    "translationOf": "tim-weahs-world-cup-ticket-criticism-highlights-accessibility-crisis-a548e5d7",
+    "publishedAt": "2026-05-22T02:20:00.000Z",
+    "fetchedAt": "2026-05-23T04:07:09.200Z",
+    "body": "美國男子國家足球隊球員蒂姆·韋亞批評世界盃門票價格過高，表示許多真正的球迷無法觀賽，凸顯了觀賽無障礙的危機。\n\n原文來源： [Pitchside-us.com](https://pitchside-us.com/tim-weah-world-cup-ticket-prices-accessibility-crisis)"
+  },
+  {
+    "title": "Bitcoin Depot 因嚴格監管申請第 11 章破產",
+    "slug": "bitcoin-depot-files-for-chapter-11-bankruptcy-amid-strict-regulations-zh-c3da843f",
+    "lang": "zh-TW",
+    "summary": "Bitcoin Depot 因監管嚴格而申請第 11 章破產，這影響了其加密貨幣 ATM 的可及性，並對類似營運者構成風險。",
+    "category": "laws-rights",
+    "tags": [
+      "Bitcoin Depot",
+      "Chapter 11",
+      "crypto ATM",
+      "regulation"
+    ],
+    "sourceName": "Crypto Briefing",
+    "sourceUrl": "https://cryptobriefing.com/bitcoin-depot-chapter-11-bankruptcy",
+    "relatedSources": [
+      {
+        "name": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/bitcoin-depot-chapter-11-bankruptcy"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-c3da843f",
+    "status": "published",
+    "translationOf": "bitcoin-depot-files-for-chapter-11-bankruptcy-amid-strict-regulations-c3da843f",
+    "publishedAt": "2026-05-21T23:16:23.000Z",
+    "fetchedAt": "2026-05-23T04:07:09.244Z",
+    "body": "Bitcoin Depot 因監管嚴格而申請第 11 章破產，這影響了其加密貨幣 ATM 的可及性，並對類似營運者構成風險。\n\n原文來源： [Crypto Briefing](https://cryptobriefing.com/bitcoin-depot-chapter-11-bankruptcy)"
   }
 ]
