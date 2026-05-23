@@ -1,55 +1,55 @@
 {
-  "date": "2026-05-22",
-  "generatedAt": "2026-05-22T04:47:27.330Z",
+  "date": "2026-05-23",
+  "generatedAt": "2026-05-23T04:27:58.828Z",
   "en": {
-    "title": "Accessibility Digest: Tech, Tourism, and Sports Highlights for May 22, 2026",
-    "summary": "Day 5 of an online training program covers mental health, multiple sclerosis, and accessibility to build fear-free spaces; accessibility is highlighted as a strategic factor for senior tourism competitiveness in Europe; Konnex World's Web3 project prioritizes interoperability and accessibility for inclusive decentralized tools; Apple Intelligence introduces new accessibility features including enhanced VoiceOver, natural Voice Control, AI-generated captions and Vision Pro wheelchair support; the UEFA Women's Champions League final in Oslo offers sensory rooms, upgraded accessibility, healthy food options and cup recycling to promote inclusion.",
+    "title": "Daily Accessibility Digest – May 23 2026",
+    "summary": "Today's highlights include Web3 adoption relying on accessibility improvements, a new AI model poised to enhance accessibility, Kenya's MoU to enforce disability mainstreaming in public service, transport upgrades in China's Xizang region improving accessibility, and leadership promoting housing accessibility initiatives.",
     "highlights": [
       {
-        "title": "Breaking the Silos: Building Fear-Free Spaces for All",
-        "slug": "breaking-the-silos-building-fear-free-spaces-for-all-30106278"
+        "title": "Web3 Adoption Hinges on Accessibility Improvements",
+        "slug": "web3-adoption-hinges-on-accessibility-improvements-5b195cfa"
       },
       {
-        "title": "Accessibility Drives Senior Tourism Competitiveness in Europe",
-        "slug": "accessibility-drives-senior-tourism-competitiveness-in-europe-6f3f2658"
+        "title": "New AI Model Promises to Enhance Accessibility",
+        "slug": "new-ai-model-promises-to-enhance-accessibility-69cf1cc0"
       },
       {
-        "title": "Web3 Project Emphasizes Accessibility for Inclusive Decentralized Tools",
-        "slug": "web3-project-emphasizes-accessibility-for-inclusive-decentralized-tools-8768d386"
+        "title": "Kenya signs MoU to enforce disability mainstreaming in public service",
+        "slug": "kenya-signs-mou-to-enforce-disability-mainstreaming-in-public-service-3124938f"
       },
       {
-        "title": "Apple Intelligence adds accessibility upgrades: VoiceOver, Voice Control, AI captions, Vision Pro wheelchair support",
-        "slug": "apple-intelligence-adds-accessibility-upgrades-voiceover-voice-control-ai-captio-c870941d"
+        "title": "China's Xizang Transport Upgrades Improve Accessibility",
+        "slug": "chinas-xizang-transport-upgrades-improve-accessibility-a1617c6d"
       },
       {
-        "title": "UEFA Women's Champions League Final Features Accessible Facilities",
-        "slug": "uefa-womens-champions-league-final-features-accessible-facilities-dbb59ca7"
+        "title": "Leader Promotes Housing Accessibility Initiatives",
+        "slug": "leader-promotes-housing-accessibility-initiatives-3dd70d73"
       }
     ]
   },
   "zh-TW": {
-    "title": "無障礙每日摘要：科技、觀光與體育亮點（2026年5月22日）",
-    "summary": "線上培訓項目第5天涵蓋心理健康、多發性硬化症與無障礙，致力打造無恐懼空間；無障礙被視為歐洲老年旅遊競爭力的戰略因素；Konnex World 的 Web3 項目強調互操作性與無障礙，以實現包容性去中心化工具；Apple Intelligence 推出新無障礙功能，包括更智慧的 VoiceOver、自然的 Voice Control、AI 生成字幕及 Vision Pro 輪椅支持；歐洲女子冠軍聯賽決賽在奧斯陸提供感官室、提升的無障礙設施、健康食品選擇及杯子回收，以促進可持續性與包容性。",
+    "title": "每日無障礙摘要 – 2026年5月23日",
+    "summary": "今日重點包括：Web3 採用依賴無障礙改進、新 AI 模型有望提升無障礙、肯尼亞簽署備忘錄以在公共服務中推進殘疾人主流化、中國西藏交通網絡升級提升無障礙，以及領導者推動住房無障礙倡議。",
     "highlights": [
       {
-        "title": "打破孤岛：为所有人构建无恐惧空间",
-        "slug": "breaking-the-silos-building-fear-free-spaces-for-all-zh-30106278"
+        "title": "Web3 采用依赖于可访问性改进",
+        "slug": "web3-adoption-hinges-on-accessibility-improvements-zh-5b195cfa"
       },
       {
-        "title": "无障碍推动欧洲老年旅游竞争力",
-        "slug": "accessibility-drives-senior-tourism-competitiveness-in-europe-zh-6f3f2658"
+        "title": "新AI模型有望提升无障碍",
+        "slug": "new-ai-model-promises-to-enhance-accessibility-zh-69cf1cc0"
       },
       {
-        "title": "Web3 项目强调可访问性以实现包容性去中心化工具",
-        "slug": "web3-project-emphasizes-accessibility-for-inclusive-decentralized-tools-zh-8768d386"
+        "title": "肯尼亚签署备忘录以在公共服务中推进残疾人主流化",
+        "slug": "kenya-signs-mou-to-enforce-disability-mainstreaming-in-public-service-zh-3124938f"
       },
       {
-        "title": "Apple Intelligence 增加无障碍功能：VoiceOver、Voice Control、AI 字幕及 Vision Pro 轮椅支持",
-        "slug": "apple-intelligence-adds-accessibility-upgrades-voiceover-voice-control-ai-captio-zh-c870941d"
+        "title": "中国西藏交通网络升级提升无障碍",
+        "slug": "chinas-xizang-transport-upgrades-improve-accessibility-zh-a1617c6d"
       },
       {
-        "title": "欧洲女子冠军联赛决赛提供无障碍设施",
-        "slug": "uefa-womens-champions-league-final-features-accessible-facilities-zh-dbb59ca7"
+        "title": "领导者推动住房可及性倡议",
+        "slug": "leader-promotes-housing-accessibility-initiatives-zh-3dd70d73"
       }
     ]
   }
