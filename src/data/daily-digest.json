@@ -1,55 +1,47 @@
 {
-  "date": "2026-05-23",
-  "generatedAt": "2026-05-23T04:27:58.828Z",
+  "date": "2026-05-24",
+  "generatedAt": "2026-05-24T04:50:10.983Z",
   "en": {
-    "title": "Daily Accessibility Digest – May 23 2026",
-    "summary": "Today's highlights include Web3 adoption relying on accessibility improvements, a new AI model poised to enhance accessibility, Kenya's MoU to enforce disability mainstreaming in public service, transport upgrades in China's Xizang region improving accessibility, and leadership promoting housing accessibility initiatives.",
+    "title": "Daily Accessibility Digest – May 24 2026",
+    "summary": "Today's highlights include concerns over railway ticket booking accessibility, an AI tool enhancing UX workflow accessibility, ADA‑compliant restroom trailers for events, and the essential role of inclusion in adventure spaces for accessible outdoors.",
     "highlights": [
       {
-        "title": "Web3 Adoption Hinges on Accessibility Improvements",
-        "slug": "web3-adoption-hinges-on-accessibility-improvements-5b195cfa"
+        "title": "Railway ticket booking accessibility concerns",
+        "slug": "railway-ticket-booking-accessibility-concerns-13c11260"
       },
       {
-        "title": "New AI Model Promises to Enhance Accessibility",
-        "slug": "new-ai-model-promises-to-enhance-accessibility-69cf1cc0"
+        "title": "AI tool improves accessibility in UX workflow",
+        "slug": "ai-tool-improves-accessibility-in-ux-workflow-94de83f3"
       },
       {
-        "title": "Kenya signs MoU to enforce disability mainstreaming in public service",
-        "slug": "kenya-signs-mou-to-enforce-disability-mainstreaming-in-public-service-3124938f"
+        "title": "Company offers ADA-compliant restroom trailers for events",
+        "slug": "company-offers-ada-compliant-restroom-trailers-for-events-9d7bb03b"
       },
       {
-        "title": "China's Xizang Transport Upgrades Improve Accessibility",
-        "slug": "chinas-xizang-transport-upgrades-improve-accessibility-a1617c6d"
-      },
-      {
-        "title": "Leader Promotes Housing Accessibility Initiatives",
-        "slug": "leader-promotes-housing-accessibility-initiatives-3dd70d73"
+        "title": "Inclusion in Adventure Spaces Essential for Accessible Outdoors",
+        "slug": "inclusion-in-adventure-spaces-essential-for-accessible-outdoors-52025e7d"
       }
     ]
   },
   "zh-TW": {
-    "title": "每日無障礙摘要 – 2026年5月23日",
-    "summary": "今日重點包括：Web3 採用依賴無障礙改進、新 AI 模型有望提升無障礙、肯尼亞簽署備忘錄以在公共服務中推進殘疾人主流化、中國西藏交通網絡升級提升無障礙，以及領導者推動住房無障礙倡議。",
+    "title": "每日無障礙消息摘要 – 2026年5月24日",
+    "summary": "今日重點包括鐵路票務無障礙問題、提升UX工作流程無障礙的AI工具、符合ADA標準的無障礙休息車服務，以及探索空間包容性對無障礙戶外活動的重要性。",
     "highlights": [
       {
-        "title": "Web3 采用依赖于可访问性改进",
-        "slug": "web3-adoption-hinges-on-accessibility-improvements-zh-5b195cfa"
+        "title": "铁路票务无障碍问题",
+        "slug": "railway-ticket-booking-accessibility-concerns-zh-13c11260"
       },
       {
-        "title": "新AI模型有望提升无障碍",
-        "slug": "new-ai-model-promises-to-enhance-accessibility-zh-69cf1cc0"
+        "title": "AI工具提升UX中的无障碍体验",
+        "slug": "ai-tool-improves-accessibility-in-ux-workflow-zh-94de83f3"
       },
       {
-        "title": "肯尼亚签署备忘录以在公共服务中推进残疾人主流化",
-        "slug": "kenya-signs-mou-to-enforce-disability-mainstreaming-in-public-service-zh-3124938f"
+        "title": "公司提供符合ADA标准的无障碍休息车",
+        "slug": "company-offers-ada-compliant-restroom-trailers-for-events-zh-9d7bb03b"
       },
       {
-        "title": "中国西藏交通网络升级提升无障碍",
-        "slug": "chinas-xizang-transport-upgrades-improve-accessibility-zh-a1617c6d"
-      },
-      {
-        "title": "领导者推动住房可及性倡议",
-        "slug": "leader-promotes-housing-accessibility-initiatives-zh-3dd70d73"
+        "title": "探险空间的包容性对无障碍户外至关重要",
+        "slug": "inclusion-in-adventure-spaces-essential-for-accessible-outdoors-zh-52025e7d"
       }
     ]
   }
