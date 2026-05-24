@@ -33983,5 +33983,434 @@
     "publishedAt": "2026-05-22T07:26:34.000Z",
     "fetchedAt": "2026-05-23T14:02:28.742Z",
     "body": "(觀傳媒花東新聞）【記者劉百瑞/花蓮報導】花蓮縣政府為協助因認知障礙、心智障礙或無法完整表達意思能力的身心障礙 […]\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9da74549-1f56-471a-93c1-29873c5aad5a)"
+  },
+  {
+    "title": "戰鎚40,000是個很好的愛好，但作為殘障玩家，我不得不重新學習許多無障礙課程",
+    "slug": "warhammer-40000-is-a-great-hobby-but-as-a-disabled-player-ive-had-to-relearn-man-zh-4d53e30e",
+    "lang": "zh-TW",
+    "summary": "IGN報導指出，一位殘障的戰鎚40k玩家分享了他在桌上遊戲中學到的無障礙課程，說明了為實現包容性遊戲所面臨的挑戰與所需的適應措施。",
+    "category": "digital-a11y",
+    "tags": [
+      "Warhammer 40k",
+      "disability",
+      "gaming accessibility",
+      "tabletop",
+      "inclusive gaming"
+    ],
+    "sourceName": "IGN",
+    "sourceUrl": "https://www.ign.com/articles/warhammer-40000-is-an-accessibility-battle",
+    "relatedSources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/warhammer-40000-is-an-accessibility-battle"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-4d53e30e",
+    "status": "published",
+    "translationOf": "warhammer-40000-is-a-great-hobby-but-as-a-disabled-player-ive-had-to-relearn-man-4d53e30e",
+    "publishedAt": "2026-05-23T13:00:00.000Z",
+    "fetchedAt": "2026-05-24T04:37:07.363Z",
+    "body": "IGN報導指出，一位殘障的戰鎚40k玩家分享了他在桌上遊戲中學到的無障礙課程，說明了為實現包容性遊戲所面臨的挑戰與所需的適應措施。\n\n原文來源： [IGN](https://www.ign.com/articles/warhammer-40000-is-an-accessibility-battle)"
+  },
+  {
+    "title": "羅伯特·克拉夫特贈送無障礙廂型車給當地家庭",
+    "slug": "robert-kraft-gifts-handicap-accessible-minivan-to-local-family-zh-99e9637c",
+    "lang": "zh-TW",
+    "summary": "新英格蘭愛國者隊老闆羅伯特·克拉夫特捐贈一部輪椅可進入的廂型車給當地家庭，提升他們的行動能力與獨立性。",
+    "category": "physical-design",
+    "tags": [
+      "Robert Kraft",
+      "wheelchair accessible minivan",
+      "disability",
+      "mobility",
+      "charity"
+    ],
+    "sourceName": "New England Patriots",
+    "sourceUrl": "https://www.patriots.com/video/robert-kraft-gifts-handicap-accessible-minivan-to-local-family",
+    "relatedSources": [
+      {
+        "name": "New England Patriots",
+        "url": "https://www.patriots.com/video/robert-kraft-gifts-handicap-accessible-minivan-to-local-family"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-99e9637c",
+    "status": "published",
+    "translationOf": "robert-kraft-gifts-handicap-accessible-minivan-to-local-family-99e9637c",
+    "publishedAt": "2026-05-22T20:05:50.000Z",
+    "fetchedAt": "2026-05-24T04:37:07.423Z",
+    "body": "新英格蘭愛國者隊老闆羅伯特·克拉夫特捐贈一部輪椅可進入的廂型車給當地家庭，提升他們的行動能力與獨立性。\n\n原文來源： [New England Patriots](https://www.patriots.com/video/robert-kraft-gifts-handicap-accessible-minivan-to-local-family)"
+  },
+  {
+    "title": "Windows 11 測試新無障礙功能，對眼睛友好（ literally ）",
+    "slug": "windows-11-tests-new-accessibility-features-that-are-easy-on-the-eyes-literally-zh-8953ebd6",
+    "lang": "zh-TW",
+    "summary": "Windows Central 報導，Windows 11 正在試驗新的無障礙升級，包括螢幕色調和改進的盲文支援，旨在減少眼睛疲勞並提升視障使用者的易用性。",
+    "category": "digital-a11y",
+    "tags": [
+      "Windows 11",
+      "accessibility features",
+      "screen tint",
+      "braille support",
+      "visual impairment"
+    ],
+    "sourceName": "Windows Central",
+    "sourceUrl": "https://www.windowscentral.com/microsoft/windows-11/windows-11-tests-new-accessibility-upgrades-including-screen-tint-and-improved-braille-support",
+    "relatedSources": [
+      {
+        "name": "Windows Central",
+        "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-tests-new-accessibility-upgrades-including-screen-tint-and-improved-braille-support"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-8953ebd6",
+    "status": "published",
+    "translationOf": "windows-11-tests-new-accessibility-features-that-are-easy-on-the-eyes-literally-8953ebd6",
+    "publishedAt": "2026-05-22T18:01:29.000Z",
+    "fetchedAt": "2026-05-24T04:37:07.461Z",
+    "body": "Windows Central 報導，Windows 11 正在試驗新的無障礙升級，包括螢幕色調和改進的盲文支援，旨在減少眼睛疲勞並提升視障使用者的易用性。\n\n原文來源： [Windows Central](https://www.windowscentral.com/microsoft/windows-11/windows-11-tests-new-accessibility-upgrades-including-screen-tint-and-improved-braille-support)"
+  },
+  {
+    "title": "需求與發明：西密歇根大學開發工具解決 PDF 無障礙問題 - 西密歇根大學",
+    "slug": "need-meets-invention-wmu-built-tool-tackles-pdf-accessibility-western-michigan-u-zh-8d722202",
+    "lang": "zh-TW",
+    "summary": "西密歇根大學研發了一款工具，以提升 PDF 無障礙性，滿足可讀取文件的需求。",
+    "category": "digital-a11y",
+    "tags": [
+      "PDF",
+      "accessibility",
+      "tool",
+      "WMU"
+    ],
+    "sourceName": "Western Michigan University",
+    "sourceUrl": "https://wmich.edu/library/news/2026/05/wmu-built-tool-tackles-pdf-accessibility",
+    "relatedSources": [
+      {
+        "name": "Western Michigan University",
+        "url": "https://wmich.edu/library/news/2026/05/wmu-built-tool-tackles-pdf-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-8d722202",
+    "status": "published",
+    "translationOf": "need-meets-invention-wmu-built-tool-tackles-pdf-accessibility-western-michigan-u-8d722202",
+    "publishedAt": "2026-05-21T07:00:00.000Z",
+    "fetchedAt": "2026-05-24T04:37:18.755Z",
+    "body": "西密歇根大學研發了一款工具，以提升 PDF 無障礙性，滿足可讀取文件的需求。\n\n原文來源： [Western Michigan University](https://wmich.edu/library/news/2026/05/wmu-built-tool-tackles-pdf-accessibility)"
+  },
+  {
+    "title": "這是如何運用無障礙工具與 Gemini 協助學生獲得獨立 - blog.google",
+    "slug": "heres-how-accessibility-tools-and-gemini-are-helping-students-find-independence--zh-a0ffaff8",
+    "lang": "zh-TW",
+    "summary": "Google 部落格說明無障礙工具與 Gemini AI 如何協助學生在學習中獲得更大的獨立性。",
+    "category": "assistive-tech",
+    "tags": [
+      "accessibility tools",
+      "Gemini",
+      "students",
+      "independence"
+    ],
+    "sourceName": "blog.google",
+    "sourceUrl": "https://blog.google/products-and-platforms/devices/chromebooks/face-control",
+    "relatedSources": [
+      {
+        "name": "blog.google",
+        "url": "https://blog.google/products-and-platforms/devices/chromebooks/face-control"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a0ffaff8",
+    "status": "published",
+    "translationOf": "heres-how-accessibility-tools-and-gemini-are-helping-students-find-independence--a0ffaff8",
+    "publishedAt": "2026-05-21T16:08:22.000Z",
+    "fetchedAt": "2026-05-24T04:37:18.805Z",
+    "body": "Google 部落格說明無障礙工具與 Gemini AI 如何協助學生在學習中獲得更大的獨立性。\n\n原文來源： [blog.google](https://blog.google/products-and-platforms/devices/chromebooks/face-control)"
+  },
+  {
+    "title": "無障礙環境建設，為何能讓所有人受益 - 人民网云南",
+    "slug": "barrier-free-environment-construction-how-it-benefits-everyone-peoples-network-y-zh-8f5c9ec2",
+    "lang": "zh-TW",
+    "summary": "無障礙環境建設，為何能讓所有人受益",
+    "category": "physical-design",
+    "tags": [
+      "無障礙",
+      "環境建設",
+      "社會受益"
+    ],
+    "sourceName": "人民网云南",
+    "sourceUrl": "http://yn.people.com.cn/BIG5/n2/2026/0521/c378440-41586496.html",
+    "relatedSources": [
+      {
+        "name": "人民网云南",
+        "url": "http://yn.people.com.cn/BIG5/n2/2026/0521/c378440-41586496.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-8f5c9ec2",
+    "status": "published",
+    "translationOf": "barrier-free-environment-construction-how-it-benefits-everyone-peoples-network-y-8f5c9ec2",
+    "publishedAt": "2026-05-21T00:32:00.000Z",
+    "fetchedAt": "2026-05-24T04:37:18.843Z",
+    "body": "無障礙環境建設，為何能讓所有人受益\n\n原文來源： [人民网云南](http://yn.people.com.cn/BIG5/n2/2026/0521/c378440-41586496.html)"
+  },
+  {
+    "title": "蘋果無障礙功能曝光　Vision Pro將可眼控輪椅、AI即時生成字幕 - ETtoday新聞雲",
+    "slug": "apple-accessibility-features-revealed-vision-pro-to-enable-eye-controlled-wheelc-zh-b45d0611",
+    "lang": "zh-TW",
+    "summary": "蘋果發表 Vision Pro 新無障礙功能，包括眼動控制輪椅與 AI 即時產生字幕，旨在提升殘障使用者的移動與溝通能力。",
+    "category": "digital-a11y",
+    "tags": [
+      "Apple",
+      "Vision Pro",
+      "eye control",
+      "AI subtitles",
+      "accessibility"
+    ],
+    "sourceName": "ETtoday新聞雲",
+    "sourceUrl": "https://www.ettoday.net/news/20260521/3169485.htm",
+    "relatedSources": [
+      {
+        "name": "ETtoday新聞雲",
+        "url": "https://www.ettoday.net/news/20260521/3169485.htm"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-b45d0611",
+    "status": "published",
+    "translationOf": "apple-accessibility-features-revealed-vision-pro-to-enable-eye-controlled-wheelc-b45d0611",
+    "publishedAt": "2026-05-21T02:14:00.000Z",
+    "fetchedAt": "2026-05-24T04:37:34.930Z",
+    "body": "蘋果發表 Vision Pro 新無障礙功能，包括眼動控制輪椅與 AI 即時產生字幕，旨在提升殘障使用者的移動與溝通能力。\n\n原文來源： [ETtoday新聞雲](https://www.ettoday.net/news/20260521/3169485.htm)"
+  },
+  {
+    "title": "賈德布爾大學推出『書記銀行』以支援視障學生考試",
+    "slug": "jadavpur-university-launches-scribe-bank-to-support-visually-impaired-students-d-zh-5156841b",
+    "lang": "zh-TW",
+    "summary": "賈德布爾大學推出『書記銀行』平台，將視障學生與經驗證的志願書記配對，確保他們能獲得考試協助而不被拒絕。",
+    "category": "assistive-tech",
+    "tags": [
+      "Jadavpur University",
+      "Scribe Bank",
+      "visually impaired",
+      "exams",
+      "assistive technology"
+    ],
+    "sourceName": "The Times of India",
+    "sourceUrl": "https://timesofindia.indiatimes.com/city/kolkata/jadavpur-university-launches-scribe-bank-to-support-visually-impaired-students-during-exams/articleshow/131271773.cms",
+    "relatedSources": [
+      {
+        "name": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/kolkata/jadavpur-university-launches-scribe-bank-to-support-visually-impaired-students-during-exams/articleshow/131271773.cms"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-5156841b",
+    "status": "published",
+    "translationOf": "jadavpur-university-launches-scribe-bank-to-support-visually-impaired-students-d-5156841b",
+    "publishedAt": "2026-05-23T04:00:34.000Z",
+    "fetchedAt": "2026-05-24T04:37:34.985Z",
+    "body": "賈德布爾大學推出『書記銀行』平台，將視障學生與經驗證的志願書記配對，確保他們能獲得考試協助而不被拒絕。\n\n原文來源： [The Times of India](https://timesofindia.indiatimes.com/city/kolkata/jadavpur-university-launches-scribe-bank-to-support-visually-impaired-students-during-exams/articleshow/131271773.cms)"
+  },
+  {
+    "title": "微軟的 Fara1.5 AI 在網頁任務中表現優於 OpenAI 與 Google",
+    "slug": "microsofts-fara15-ai-outperforms-openai-and-google-in-web-tasks-zh-39ffc526",
+    "lang": "zh-TW",
+    "summary": "微軟的開放權重 Fara1.5 AI 模型有望普及進階網頁任務自動化，挑戰專屬 AI 的主導地位並提升可及性。",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "web accessibility",
+      "automation"
+    ],
+    "sourceName": "Crypto Briefing",
+    "sourceUrl": "https://cryptobriefing.com/microsoft-fara-ai-outperforms-openai-google",
+    "relatedSources": [
+      {
+        "name": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/microsoft-fara-ai-outperforms-openai-google"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-39ffc526",
+    "status": "published",
+    "translationOf": "microsofts-fara15-ai-outperforms-openai-and-google-in-web-tasks-39ffc526",
+    "publishedAt": "2026-05-23T02:22:50.000Z",
+    "fetchedAt": "2026-05-24T04:37:55.105Z",
+    "body": "微軟的開放權重 Fara1.5 AI 模型有望普及進階網頁任務自動化，挑戰專屬 AI 的主導地位並提升可及性。\n\n原文來源： [Crypto Briefing](https://cryptobriefing.com/microsoft-fara-ai-outperforms-openai-google)"
+  },
+  {
+    "title": "2026 年國際足協世界盃病毒式票務揭露佛得角對沙特阿拉伯賽事的意外價格轉折，儘管票價爭議廣泛",
+    "slug": "2026-fifa-world-cup-viral-ticket-reveals-unexpected-pricing-twist-for-cape-verde-zh-02687538",
+    "lang": "zh-TW",
+    "summary": "2026 年世界盃已引發關於票價、轉售費用及可及性的激烈討論，但一則關於分組賽的病毒式票務列表突然將對話導向完全不同的方向。",
+    "category": "laws-rights",
+    "tags": [
+      "World Cup",
+      "ticket pricing",
+      "accessibility"
+    ],
+    "sourceName": "Worldsoccertalk.com",
+    "sourceUrl": "https://worldsoccertalk.com/world-cup/2026-fifa-world-cup-viral-ticket-reveals-unexpected-pricing-twist-for-cape-verde-vs-saudi-arabia-clash-amid-widespread-ticket-price-criticism",
+    "relatedSources": [
+      {
+        "name": "Worldsoccertalk.com",
+        "url": "https://worldsoccertalk.com/world-cup/2026-fifa-world-cup-viral-ticket-reveals-unexpected-pricing-twist-for-cape-verde-vs-saudi-arabia-clash-amid-widespread-ticket-price-criticism"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-02687538",
+    "status": "published",
+    "translationOf": "2026-fifa-world-cup-viral-ticket-reveals-unexpected-pricing-twist-for-cape-verde-02687538",
+    "publishedAt": "2026-05-22T20:47:07.000Z",
+    "fetchedAt": "2026-05-24T04:37:55.148Z",
+    "body": "2026 年世界盃已引發關於票價、轉售費用及可及性的激烈討論，但一則關於分組賽的病毒式票務列表突然將對話導向完全不同的方向。\n\n原文來源： [Worldsoccertalk.com](https://worldsoccertalk.com/world-cup/2026-fifa-world-cup-viral-ticket-reveals-unexpected-pricing-twist-for-cape-verde-vs-saudi-arabia-clash-amid-widespread-ticket-price-criticism)"
+  },
+  {
+    "title": "學生因請求安裝坡道以參加八年級畢業典禮而被學校羞辱，母親表示",
+    "slug": "school-shamed-disabled-girl-after-she-asked-for-ramp-so-she-could-go-to-her-eigh-zh-37873441",
+    "lang": "zh-TW",
+    "summary": "殘疾權益活動家 Shannon Dingle 呼籲女兒的學校在典禮前提供所需的無障礙設施。",
+    "category": "case-studies",
+    "tags": [
+      "disability",
+      "ramp",
+      "school",
+      "graduation"
+    ],
+    "sourceName": "Dailymail.com",
+    "sourceUrl": "https://www.dailymail.com/news/article-15841387/school-shamed-disabled-girl-ramp-north-carolina.html",
+    "relatedSources": [
+      {
+        "name": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15841387/school-shamed-disabled-girl-ramp-north-carolina.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-37873441",
+    "status": "published",
+    "translationOf": "school-shamed-disabled-girl-after-she-asked-for-ramp-so-she-could-go-to-her-eigh-37873441",
+    "publishedAt": "2026-05-22T20:45:02.000Z",
+    "fetchedAt": "2026-05-24T04:37:55.197Z",
+    "body": "殘疾權益活動家 Shannon Dingle 呼籲女兒的學校在典禮前提供所需的無障礙設施。\n\n原文來源： [Dailymail.com](https://www.dailymail.com/news/article-15841387/school-shamed-disabled-girl-ramp-north-carolina.html)"
+  },
+  {
+    "title": "動線太寬敞? 機車闖板橋車站 突破防線掀安全疑慮",
+    "slug": "too-wide-aisle-motorcycles-rush-into-banqiao-station-breaking-through-barriers-r-zh-707a9b85",
+    "lang": "zh-TW",
+    "summary": "社會中心／洪巧璇、洪國凱 新北報導三鐵共構的板橋車站，和台北車站、南港車站，並列雙北3大交通樞紐，機車怎麼能直接闖入大廳？引發外界討論，但其實這已經不是機車第一次騎進來了。由於西側入口為了營造無障礙空間，沒有設置欄杆阻擋進出。雖然依規定可以處7，500元以下罰鍰，但萬一有人騎車亂闖甚至惡意衝撞，開罰也難以彌補。",
+    "category": "physical-design",
+    "tags": [
+      "barrier-free",
+      "motorcycle",
+      "station safety"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e25a580b-2e66-4394-8f07-faea81fc14c9",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e25a580b-2e66-4394-8f07-faea81fc14c9"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-707a9b85",
+    "status": "published",
+    "translationOf": "too-wide-aisle-motorcycles-rush-into-banqiao-station-breaking-through-barriers-r-707a9b85",
+    "publishedAt": "2026-05-23T02:45:49.000Z",
+    "fetchedAt": "2026-05-24T04:38:48.152Z",
+    "body": "社會中心／洪巧璇、洪國凱 新北報導三鐵共構的板橋車站，和台北車站、南港車站，並列雙北3大交通樞紐，機車怎麼能直接闖入大廳？引發外界討論，但其實這已經不是機車第一次騎進來了。由於西側入口為了營造無障礙空間，沒有設置欄杆阻擋進出。雖然依規定可以處7，500元以下罰鍰，但萬一有人騎車亂闖甚至惡意衝撞，開罰也難以彌補。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e25a580b-2e66-4394-8f07-faea81fc14c9)"
+  },
+  {
+    "title": "「第二次心跳」走秀 讓生命力量成最美時尚",
+    "slug": "second-heartbeat-fashion-show-empowers-life-power-as-beautiful-fashion-zh-a49495fc",
+    "lang": "zh-TW",
+    "summary": "高雄市政府社會局無障礙之家附設燕巢家園與樹德科技大學流行設計系，於今(22)日攜手舉辦「第二次心跳」永續時尚走秀活動，現場由27位身障學員穿上由學生團隊以二手衣設計改造的專屬服裝，用笑容展現跨越障礙的自信魅力，透過服裝設計結合生命故事，展現永續時尚與社會共融精神。 此次活動核心理念為「賦予時尚生命力」，15組設計團隊在製作前，多次深入燕巢家園與學員互動、訪談與量身，藉此了解每位學員的個性與興趣。有學員熱愛保養與流行品牌，學生便以俐落剪裁與亮面材質打造自信風格；也有喜愛籃球、個性熱情開朗的學員，被設計成充滿運動感的…",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability fashion",
+      "inclusive design",
+      "Kaohsiung"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_37d4a95d-182c-49af-ba35-da21c9468450",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_37d4a95d-182c-49af-ba35-da21c9468450"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-a49495fc",
+    "status": "published",
+    "translationOf": "second-heartbeat-fashion-show-empowers-life-power-as-beautiful-fashion-a49495fc",
+    "publishedAt": "2026-05-23T00:24:14.000Z",
+    "fetchedAt": "2026-05-24T04:38:48.193Z",
+    "body": "高雄市政府社會局無障礙之家附設燕巢家園與樹德科技大學流行設計系，於今(22)日攜手舉辦「第二次心跳」永續時尚走秀活動，現場由27位身障學員穿上由學生團隊以二手衣設計改造的專屬服裝，用笑容展現跨越障礙的自信魅力，透過服裝設計結合生命故事，展現永續時尚與社會共融精神。 此次活動核心理念為「賦予時尚生命力」，15組設計團隊在製作前，多次深入燕巢家園與學員互動、訪談與量身，藉此了解每位學員的個性與興趣。有學員熱愛保養與流行品牌，學生便以俐落剪裁與亮面材質打造自信風格；也有喜愛籃球、個性熱情開朗的學員，被設計成充滿運動感的…\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_37d4a95d-182c-49af-ba35-da21c9468450)"
   }
 ]
