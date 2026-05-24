@@ -34874,5 +34874,516 @@
     "publishedAt": "2026-05-24T03:04:23.000Z",
     "fetchedAt": "2026-05-24T04:44:03.625Z",
     "body": "The user states they have not played the upcoming game and criticizes developers for not balancing the game, claiming that an abundance of accessibility features automatically leads to imbalance.\nTweet source: [jeneriket (@jeneriket)](https://x.com/jeneriket/status/2058383580460396979)"
+  },
+  {
+    "title": "Apple's New AI-Powered Accessibility Features Could Change the Way You Use Your iPhone",
+    "slug": "apples-new-ai-powered-accessibility-features-could-change-the-way-you-use-your-i-1428eabe",
+    "lang": "en",
+    "summary": "Apple announced new AI-driven accessibility features for iPhone, including enhanced VoiceOver, real-time captioning, and personalized interaction models, aiming to improve usability for users with disabilities.",
+    "category": "digital-a11y",
+    "tags": [
+      "Apple",
+      "iPhone",
+      "AI",
+      "accessibility",
+      "VoiceOver"
+    ],
+    "sourceName": "Lifehacker",
+    "sourceUrl": "https://lifehacker.com/tech/apple-new-ai-accessibility-features",
+    "relatedSources": [
+      {
+        "name": "Lifehacker",
+        "url": "https://lifehacker.com/tech/apple-new-ai-accessibility-features"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-1428eabe",
+    "status": "published",
+    "translationOf": "apples-new-ai-powered-accessibility-features-could-change-the-way-you-use-your-i-zh-1428eabe",
+    "publishedAt": "2026-05-21T20:00:00.000Z",
+    "fetchedAt": "2026-05-24T13:57:41.439Z",
+    "body": "Apple announced new AI-driven accessibility features for iPhone, including enhanced VoiceOver, real-time captioning, and personalized interaction models, aiming to improve usability for users with disabilities.\n\nRead more from the original source: [Lifehacker](https://lifehacker.com/tech/apple-new-ai-accessibility-features)"
+  },
+  {
+    "title": "GitHub Unveils Next-Generation Accessibility Strategy for AI-Era Development Platforms",
+    "slug": "github-unveils-next-generation-accessibility-strategy-for-ai-era-development-pla-06cea14e",
+    "lang": "en",
+    "summary": "GitHub introduced a next-generation accessibility strategy focused on making its AI-era development platforms more inclusive, featuring improved screen reader support, keyboard navigation, and accessible code review tools.",
+    "category": "digital-a11y",
+    "tags": [
+      "GitHub",
+      "accessibility",
+      "AI",
+      "development",
+      "screen reader"
+    ],
+    "sourceName": "thelec.net",
+    "sourceUrl": "https://www.thelec.net/news/articleView.html?idxno=10712",
+    "relatedSources": [
+      {
+        "name": "thelec.net",
+        "url": "https://www.thelec.net/news/articleView.html?idxno=10712"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-06cea14e",
+    "status": "published",
+    "translationOf": "github-unveils-next-generation-accessibility-strategy-for-ai-era-development-pla-zh-06cea14e",
+    "publishedAt": "2026-05-24T06:00:37.000Z",
+    "fetchedAt": "2026-05-24T13:57:41.506Z",
+    "body": "GitHub introduced a next-generation accessibility strategy focused on making its AI-era development platforms more inclusive, featuring improved screen reader support, keyboard navigation, and accessible code review tools.\n\nRead more from the original source: [thelec.net](https://www.thelec.net/news/articleView.html?idxno=10712)"
+  },
+  {
+    "title": "Xbox Responds to Accessibility Day with Free 3D-Printable Adaptive Controller Caps for Custom Controllers",
+    "slug": "xbox-responds-to-accessibility-day-with-free-3d-printable-adaptive-controller-ca-623a710a",
+    "lang": "en",
+    "summary": "Xbox marked Accessibility Day by releasing free 3D-printable adaptive controller caps, allowing users to customize their controllers for better fit and comfort, promoting inclusive gaming.",
+    "category": "physical-design",
+    "tags": [
+      "Xbox",
+      "Accessibility Day",
+      "3D printing",
+      "adaptive controller",
+      "inclusive gaming"
+    ],
+    "sourceName": "T客邦",
+    "sourceUrl": "https://www.techbang.com/posts/129636-xbox-3d-printed-adaptive-controller-caps-goalpost",
+    "relatedSources": [
+      {
+        "name": "T客邦",
+        "url": "https://www.techbang.com/posts/129636-xbox-3d-printed-adaptive-controller-caps-goalpost"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-623a710a",
+    "status": "published",
+    "translationOf": "xbox-responds-to-accessibility-day-with-free-3d-printable-adaptive-controller-ca-zh-623a710a",
+    "publishedAt": "2026-05-24T06:00:00.000Z",
+    "fetchedAt": "2026-05-24T13:57:41.550Z",
+    "body": "Xbox marked Accessibility Day by releasing free 3D-printable adaptive controller caps, allowing users to customize their controllers for better fit and comfort, promoting inclusive gaming.\n\nRead more from the original source: [T客邦](https://www.techbang.com/posts/129636-xbox-3d-printed-adaptive-controller-caps-goalpost)"
+  },
+  {
+    "title": "First amendment in 17 years: Ministry of Health and Welfare strengthens medical rights for persons with disabilities",
+    "slug": "first-amendment-in-17-years-ministry-of-health-and-welfare-strengthens-medical-r-d16d56e5",
+    "lang": "en",
+    "summary": "The Ministry of Health and Welfare has amended regulations for the first time in 17 years to enhance medical access and rights for people with disabilities.",
+    "category": "laws-rights",
+    "tags": [
+      "disability rights",
+      "healthcare",
+      "legislation"
+    ],
+    "sourceName": "rti.org.tw",
+    "sourceUrl": "https://www.rti.org.tw/news?uid=3&pid=207096",
+    "relatedSources": [
+      {
+        "name": "rti.org.tw",
+        "url": "https://www.rti.org.tw/news?uid=3&pid=207096"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-d16d56e5",
+    "status": "published",
+    "translationOf": "first-amendment-in-17-years-ministry-of-health-and-welfare-strengthens-medical-r-zh-d16d56e5",
+    "publishedAt": "2026-05-07T07:00:00.000Z",
+    "fetchedAt": "2026-05-24T13:57:52.048Z",
+    "body": "The Ministry of Health and Welfare has amended regulations for the first time in 17 years to enhance medical access and rights for people with disabilities.\n\nRead more from the original source: [rti.org.tw](https://www.rti.org.tw/news?uid=3&pid=207096)"
+  },
+  {
+    "title": "Hyderabad police deploys AI-powered mobile app that can record, transcribe, translate complaints in 10 Indian languages",
+    "slug": "hyderabad-police-deploys-ai-powered-mobile-app-that-can-record-transcribe-transl-8285e150",
+    "lang": "en",
+    "summary": "Hyderabad police launches the AI-CopWriter app, enabling real-time complaint recording and translation in ten languages to improve accessibility.",
+    "category": "assistive-tech",
+    "tags": [
+      "AI",
+      "mobile app",
+      "multilingual",
+      "police",
+      "accessibility"
+    ],
+    "sourceName": "BusinessLine",
+    "sourceUrl": "https://www.thehindubusinessline.com/info-tech/hyderabad-police-deploys-ai-powered-mobile-app-that-can-record-transcribe-and-translate-complaints-in-10-indian-languages/article71014253.ece",
+    "relatedSources": [
+      {
+        "name": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/info-tech/hyderabad-police-deploys-ai-powered-mobile-app-that-can-record-transcribe-and-translate-complaints-in-10-indian-languages/article71014253.ece"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-8285e150",
+    "status": "published",
+    "translationOf": "hyderabad-police-deploys-ai-powered-mobile-app-that-can-record-transcribe-transl-zh-8285e150",
+    "publishedAt": "2026-05-23T13:23:30.000Z",
+    "fetchedAt": "2026-05-24T13:57:52.099Z",
+    "body": "Hyderabad police launches the AI-CopWriter app, enabling real-time complaint recording and translation in ten languages to improve accessibility.\n\nRead more from the original source: [BusinessLine](https://www.thehindubusinessline.com/info-tech/hyderabad-police-deploys-ai-powered-mobile-app-that-can-record-transcribe-and-translate-complaints-in-10-indian-languages/article71014253.ece)"
+  },
+  {
+    "title": "Hyderabad police deploys AI-powered mobile app that can record, transcribe, and translate complaints in 10 Indian languages",
+    "slug": "hyderabad-police-deploys-ai-powered-mobile-app-that-can-record-transcribe-and-tr-3c77d7f1",
+    "lang": "en",
+    "summary": "Hyderabad police launches AI-CopWriter app, enabling real-time complaint recording and translation in 10 languages for enhanced accessibility.",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "mobile app",
+      "multilingual",
+      "police",
+      "accessibility",
+      "transcription",
+      "translation"
+    ],
+    "sourceName": "BusinessLine",
+    "sourceUrl": "https://www.thehindubusinessline.com/news/hyderabad-police-deploys-ai-powered-mobile-app-that-can-record-transcribe-and-translate-complaints-in-10-indian-languages/article71014253.ece",
+    "relatedSources": [
+      {
+        "name": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/hyderabad-police-deploys-ai-powered-mobile-app-that-can-record-transcribe-and-translate-complaints-in-10-indian-languages/article71014253.ece"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-3c77d7f1",
+    "status": "published",
+    "translationOf": "hyderabad-police-deploys-ai-powered-mobile-app-that-can-record-transcribe-and-tr-zh-3c77d7f1",
+    "publishedAt": "2026-05-23T11:17:04.000Z",
+    "fetchedAt": "2026-05-24T13:58:21.317Z",
+    "body": "Hyderabad police launches AI-CopWriter app, enabling real-time complaint recording and translation in 10 languages for enhanced accessibility.\n\nRead more from the original source: [BusinessLine](https://www.thehindubusinessline.com/news/hyderabad-police-deploys-ai-powered-mobile-app-that-can-record-transcribe-and-translate-complaints-in-10-indian-languages/article71014253.ece)"
+  },
+  {
+    "title": "PTE Request for AI Alt Text Generator for SEO & Accessibility | AutoAlt",
+    "slug": "pte-request-for-ai-alt-text-generator-for-seo-accessibility-autoalt-09376efc",
+    "lang": "en",
+    "summary": "Hello Polyglots team, I am the plugin author for AI Alt Text Generator for SEO & Accessibility | AutoAlt. We have a number of great translation editors that we’d like to be able to approve translation for our plugin. Please add the following WordPress.org use…",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "alt text",
+      "SEO",
+      "WordPress",
+      "accessibility",
+      "plugin"
+    ],
+    "sourceName": "Wordpress.org",
+    "sourceUrl": "https://make.wordpress.org/polyglots/2026/05/23/pte-request-for-ai-alt-text-generator-for-seo-accessibility-autoalt",
+    "relatedSources": [
+      {
+        "name": "Wordpress.org",
+        "url": "https://make.wordpress.org/polyglots/2026/05/23/pte-request-for-ai-alt-text-generator-for-seo-accessibility-autoalt"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-09376efc",
+    "status": "published",
+    "translationOf": "pte-request-for-ai-alt-text-generator-for-seo-accessibility-autoalt-zh-09376efc",
+    "publishedAt": "2026-05-23T10:39:13.000Z",
+    "fetchedAt": "2026-05-24T13:58:21.377Z",
+    "body": "Hello Polyglots team, I am the plugin author for AI Alt Text Generator for SEO & Accessibility | AutoAlt. We have a number of great translation editors that we’d like to be able to approve translation for our plugin. Please add the following WordPress.org use…\n\nRead more from the original source: [Wordpress.org](https://make.wordpress.org/polyglots/2026/05/23/pte-request-for-ai-alt-text-generator-for-seo-accessibility-autoalt)"
+  },
+  {
+    "title": "OpenAI showcases ChatGPT’s new voice and image processing features",
+    "slug": "openai-showcases-chatgpts-new-voice-and-image-processing-features-7075adf3",
+    "lang": "en",
+    "summary": "OpenAI's advancements in multimodal AI could revolutionize user interaction, enhancing accessibility and efficiency in digital workflows. The post OpenAI showcases ChatGPT’s new voice and image processing features appeared first on Crypto Briefing.",
+    "category": "digital-a11y",
+    "tags": [
+      "OpenAI",
+      "ChatGPT",
+      "voice",
+      "image",
+      "accessibility",
+      "multimodal"
+    ],
+    "sourceName": "Crypto Briefing",
+    "sourceUrl": "https://cryptobriefing.com/openai-chatgpt-voice-image-features",
+    "relatedSources": [
+      {
+        "name": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/openai-chatgpt-voice-image-features"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-7075adf3",
+    "status": "published",
+    "translationOf": "openai-showcases-chatgpts-new-voice-and-image-processing-features-zh-7075adf3",
+    "publishedAt": "2026-05-23T10:02:38.000Z",
+    "fetchedAt": "2026-05-24T13:58:21.417Z",
+    "body": "OpenAI's advancements in multimodal AI could revolutionize user interaction, enhancing accessibility and efficiency in digital workflows. The post OpenAI showcases ChatGPT’s new voice and image processing features appeared first on Crypto Briefing.\n\nRead more from the original source: [Crypto Briefing](https://cryptobriefing.com/openai-chatgpt-voice-image-features)"
+  },
+  {
+    "title": "How to build UX using Claude Opus 4.5 + shadcn/ui – Use UXPin Merge!",
+    "slug": "how-to-build-ux-using-claude-opus-45-shadcnui-use-uxpin-merge-7630345c",
+    "lang": "en",
+    "summary": "Plan UX with AI and prototype using code-backed components for consistent, accessible interfaces and faster design-to-development handoffs.",
+    "category": "digital-a11y",
+    "tags": [
+      "UX",
+      "accessibility",
+      "AI",
+      "shadcn/ui",
+      "UXPin"
+    ],
+    "sourceName": "Uxpin.com",
+    "sourceUrl": "https://www.uxpin.com/studio?p=59970",
+    "relatedSources": [
+      {
+        "name": "Uxpin.com",
+        "url": "https://www.uxpin.com/studio?p=59970"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-7630345c",
+    "status": "published",
+    "translationOf": "how-to-build-ux-using-claude-opus-45-shadcnui-use-uxpin-merge-zh-7630345c",
+    "publishedAt": "2026-05-23T08:44:06.000Z",
+    "fetchedAt": "2026-05-24T13:58:45.133Z",
+    "body": "Plan UX with AI and prototype using code-backed components for consistent, accessible interfaces and faster design-to-development handoffs.\n\nRead more from the original source: [Uxpin.com](https://www.uxpin.com/studio?p=59970)"
+  },
+  {
+    "title": "Cartoon Character (Charming) by Maksim Bugrimov",
+    "slug": "cartoon-character-charming-by-maksim-bugrimov-a17cd192",
+    "lang": "en",
+    "summary": "The Charming character is ideal for casual games emphasizing simplicity, accessibility, and relaxing gameplay. It includes face morphing and five different skins.",
+    "category": "assistive-tech",
+    "tags": [
+      "game character",
+      "accessibility",
+      "casual game",
+      "Unity",
+      "face morphing",
+      "skins"
+    ],
+    "sourceName": "Unity.com",
+    "sourceUrl": "https://assetstore.unity.com/packages/3d/characters/humanoids/cartoon-character-charming-382022",
+    "relatedSources": [
+      {
+        "name": "Unity.com",
+        "url": "https://assetstore.unity.com/packages/3d/characters/humanoids/cartoon-character-charming-382022"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-a17cd192",
+    "status": "published",
+    "translationOf": "cartoon-character-charming-by-maksim-bugrimov-zh-a17cd192",
+    "publishedAt": "2026-05-23T07:57:10.000Z",
+    "fetchedAt": "2026-05-24T13:58:45.190Z",
+    "body": "The Charming character is ideal for casual games emphasizing simplicity, accessibility, and relaxing gameplay. It includes face morphing and five different skins.\n\nRead more from the original source: [Unity.com](https://assetstore.unity.com/packages/3d/characters/humanoids/cartoon-character-charming-382022)"
+  },
+  {
+    "title": "National Disabled Sports Games: Yang Chuan-hui Wins Long Jump Gold, Urges Support for Guides",
+    "slug": "national-disabled-sports-games-yang-chuan-hui-wins-long-jump-gold-urges-support--8775bf8b",
+    "lang": "en",
+    "summary": "The 2026 National Disabled Sports Games officially opened today. Yang Chuan-hui, who previously set an Asian record of 6.60 meters in the T11 long jump, easily won the T11 long jump gold with a distance of 5.69 meters. After the event, he earnestly said: 'Guides are the eyes of blind athletes; I want to advocate for these unsung heroes, seek welfare for them, and hope relevant authorities will pay attention to them.'",
+    "category": "case-studies",
+    "tags": [
+      "disabled sports",
+      "blind athlete",
+      "guide",
+      "National Disabled Sports Games",
+      "Taiwan",
+      "Yang Chuan-hui"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8de25592-fd05-4ffb-9b15-e5e68df57d9e",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8de25592-fd05-4ffb-9b15-e5e68df57d9e"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-8775bf8b",
+    "status": "published",
+    "translationOf": "national-disabled-sports-games-yang-chuan-hui-wins-long-jump-gold-urges-support--zh-8775bf8b",
+    "publishedAt": "2026-05-23T13:29:37.000Z",
+    "fetchedAt": "2026-05-24T13:58:45.237Z",
+    "body": "The 2026 National Disabled Sports Games officially opened today. Yang Chuan-hui, who previously set an Asian record of 6.60 meters in the T11 long jump, easily won the T11 long jump gold with a distance of 5.69 meters. After the event, he earnestly said: 'Guides are the eyes of blind athletes; I want to advocate for these unsung heroes, seek welfare for them, and hope relevant authorities will pay attention to them.'\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8de25592-fd05-4ffb-9b15-e5e68df57d9e)"
+  },
+  {
+    "title": "Hualien County Increases Subsidy for Elderly Love Taxi Service",
+    "slug": "hualien-county-increases-subsidy-for-elderly-love-taxi-service-a4a9ce22",
+    "lang": "en",
+    "summary": "Hualien County Government, responding to the aging society trend, continues to promote age-friendly and barrier-free transportation policies. Effective June 1, 2026, the monthly subsidy for the Elderly Love Taxi fleet will be increased from 1,000 points to 1,500 points, gradually improving the county's transportation support network. County Mayor Xu Junwei said the Elderly Love Taxi policy, launched in March 2024, has been widely praised by seniors aged 65 and above and people with disabilities, with over 900,000 usages in 2025. To meet the public's daily travel and social participation needs, after overall evaluation of usage, the subsidy amount is raised to provide more sufficient transportation support. After this increase, residents can use the county-issued valid Elderly Card or Love Card (collectively Elderly Love Card) to take contracted Elderly Love Taxi services...",
+    "category": "assistive-tech",
+    "tags": [
+      "elderly",
+      "disability",
+      "transportation",
+      "subsidy"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4c14e9fc-003b-4d47-8e0a-4d99b5e2fba8",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4c14e9fc-003b-4d47-8e0a-4d99b5e2fba8"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-a4a9ce22",
+    "status": "published",
+    "translationOf": "hualien-county-increases-subsidy-for-elderly-love-taxi-service-zh-a4a9ce22",
+    "publishedAt": "2026-05-23T12:51:18.000Z",
+    "fetchedAt": "2026-05-24T13:58:57.673Z",
+    "body": "Hualien County Government, responding to the aging society trend, continues to promote age-friendly and barrier-free transportation policies. Effective June 1, 2026, the monthly subsidy for the Elderly Love Taxi fleet will be increased from 1,000 points to 1,500 points, gradually improving the county's transportation support network. County Mayor Xu Junwei said the Elderly Love Taxi policy, launched in March 2024, has been widely praised by seniors aged 65 and above and people with disabilities, with over 900,000 usages in 2025. To meet the public's daily travel and social participation needs, after overall evaluation of usage, the subsidy amount is raised to provide more sufficient transportation support. After this increase, residents can use the county-issued valid Elderly Card or Love Card (collectively Elderly Love Card) to take contracted Elderly Love Taxi services...\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4c14e9fc-003b-4d47-8e0a-4d99b5e2fba8)"
+  },
+  {
+    "title": "National Disabled Sports Games Kicks Off in New Taipei with Support from Premier Cho, Minister Li, and Mayor Hou",
+    "slug": "national-disabled-sports-games-kicks-off-in-new-taipei-with-support-from-premier-6877757b",
+    "lang": "en",
+    "summary": "The 2026 National Disabled Sports Games opening ceremony was held this afternoon (23rd) at the New Taipei City Zhuang Gymnasium. Premier Cho Jung-tai, Minister of Sports Li Yang, and New Taipei City Mayor Hou Yu-ih jointly attended to cheer for athletes, coaches, and staff from all counties and cities, officially opening the event. Premier Cho stated that the government highly values the development of disability sports, the Sports Ministry has established and added the 'Adaptive Sports Division', incorporating the exercise rights of special needs groups into national sports policy to promote sports equality, striving to create a friendly, barrier-free sports environment so every citizen can equally participate in sports and move toward a more civilized nation. Additionally, Premier Cho quoted veteran Paralympic archer Zeng Long-hui: 'Never doubt how much ability you have, because you never know what you can achieve...'",
+    "category": "case-studies",
+    "tags": [
+      "sports",
+      "disability",
+      "event",
+      "inclusion"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d15e08fd-8635-4c76-af35-f9983d1f81bd",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d15e08fd-8635-4c76-af35-f9983d1f81bd"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-6877757b",
+    "status": "published",
+    "translationOf": "national-disabled-sports-games-kicks-off-in-new-taipei-with-support-from-premier-zh-6877757b",
+    "publishedAt": "2026-05-23T09:28:00.000Z",
+    "fetchedAt": "2026-05-24T13:58:57.721Z",
+    "body": "The 2026 National Disabled Sports Games opening ceremony was held this afternoon (23rd) at the New Taipei City Zhuang Gymnasium. Premier Cho Jung-tai, Minister of Sports Li Yang, and New Taipei City Mayor Hou Yu-ih jointly attended to cheer for athletes, coaches, and staff from all counties and cities, officially opening the event. Premier Cho stated that the government highly values the development of disability sports, the Sports Ministry has established and added the 'Adaptive Sports Division', incorporating the exercise rights of special needs groups into national sports policy to promote sports equality, striving to create a friendly, barrier-free sports environment so every citizen can equally participate in sports and move toward a more civilized nation. Additionally, Premier Cho quoted veteran Paralympic archer Zeng Long-hui: 'Never doubt how much ability you have, because you never know what you can achieve...'\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d15e08fd-8635-4c76-af35-f9983d1f81bd)"
+  },
+  {
+    "title": "Hualien County Raises Monthly Subsidy for Elderly Love Taxi to 1500 Points Effective June 1",
+    "slug": "hualien-county-raises-monthly-subsidy-for-elderly-love-taxi-to-1500-points-effec-4244d273",
+    "lang": "en",
+    "summary": "Hualien County Government, responding to the aging society trend, continues to promote age-friendly and barrier-free transportation policies. Effective June 1, 2026, the monthly subsidy for the Elderly Love Taxi fleet will be increased from 1,000 points to 1,500 points, gradually improving the county's transportation support network. County Mayor Xu Junwei said the Elderly Love Taxi policy, launched in March 2024, has been widely praised by seniors aged 65 and above and people with disabilities, with over 900,000 usages in 2025. To meet the public's daily travel and social participation needs, after overall evaluation of usage, the subsidy amount is raised to provide more sufficient transportation support. After this increase, residents can use the county-issued valid Elderly Card or Love Card (collectively Elderly Love Card) to take contracted Elderly Love Taxi services...",
+    "category": "assistive-tech",
+    "tags": [
+      "elderly",
+      "disability",
+      "transportation",
+      "subsidy"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E8%8A%B1%E8%93%AE%E7%B8%A3%E6%95%AC%E8%80%81%E6%84%9B%E5%BF%83%E8%A8%88%E7%A8%8B%E8%BB%8A%E8%A3%9C%E5%8A%A9%E6%AF%8F%E6%9C%88%E6%8F%90%E5%8D%87%E8%87%B3-%E4%BA%9400%E9%BB%9E-%E5%B0%87%E6%96%BC6-1%E4%B8%8A%E8%B7%AF-084647844.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E8%8A%B1%E8%93%AE%E7%B8%A3%E6%95%AC%E8%80%81%E6%84%9B%E5%BF%83%E8%A8%88%E7%A8%8B%E8%BB%8A%E8%A3%9C%E5%8A%A9%E6%AF%8F%E6%9C%88%E6%8F%90%E5%8D%87%E8%87%B3-%E4%BA%9400%E9%BB%9E-%E5%B0%87%E6%96%BC6-1%E4%B8%8A%E8%B7%AF-084647844.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-4244d273",
+    "status": "published",
+    "translationOf": "hualien-county-raises-monthly-subsidy-for-elderly-love-taxi-to-1500-points-effec-zh-4244d273",
+    "publishedAt": "2026-05-23T08:46:47.000Z",
+    "fetchedAt": "2026-05-24T13:58:57.771Z",
+    "body": "Hualien County Government, responding to the aging society trend, continues to promote age-friendly and barrier-free transportation policies. Effective June 1, 2026, the monthly subsidy for the Elderly Love Taxi fleet will be increased from 1,000 points to 1,500 points, gradually improving the county's transportation support network. County Mayor Xu Junwei said the Elderly Love Taxi policy, launched in March 2024, has been widely praised by seniors aged 65 and above and people with disabilities, with over 900,000 usages in 2025. To meet the public's daily travel and social participation needs, after overall evaluation of usage, the subsidy amount is raised to provide more sufficient transportation support. After this increase, residents can use the county-issued valid Elderly Card or Love Card (collectively Elderly Love Card) to take contracted Elderly Love Taxi services...\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E8%8A%B1%E8%93%AE%E7%B8%A3%E6%95%AC%E8%80%81%E6%84%9B%E5%BF%83%E8%A8%88%E7%A8%8B%E8%BB%8A%E8%A3%9C%E5%8A%A9%E6%AF%8F%E6%9C%88%E6%8F%90%E5%8D%87%E8%87%B3-%E4%BA%9400%E9%BB%9E-%E5%B0%87%E6%96%BC6-1%E4%B8%8A%E8%B7%AF-084647844.html)"
+  },
+  {
+    "title": "Hualien County Increases Monthly Subsidy for Elderly Love Taxi Service to NT$1,500",
+    "slug": "hualien-county-increases-monthly-subsidy-for-elderly-love-taxi-service-to-nt1500-5ef72a30",
+    "lang": "en",
+    "summary": "To create an age-friendly city and implement barrier-free transportation, Hualien County Government announced that starting June 1, the monthly subsidy for the 'Elderly Love Taxi' service will be raised from the current 1,000 points (NT$) to 1,500 points (NT$) for all qualified residents countywide.",
+    "category": "physical-design",
+    "tags": [
+      "elderly",
+      "transport",
+      "subsidy",
+      "accessibility",
+      "Hualien"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%B8%9B%E8%BC%95%E9%95%B7%E8%BC%A9%E8%B2%A0%E6%93%94-%E8%8A%B1%E8%93%AE%E6%95%AC%E8%80%81%E6%84%9B%E5%BF%83%E8%A8%88%E7%A8%8B%E8%BB%8A-%E6%9C%88%E8%A3%9C%E5%8A%A9%E5%A2%9E%E8%87%B31500%E5%85%83-063000299.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E6%B8%9B%E8%BC%95%E9%95%B7%E8%BC%A9%E8%B2%A0%E6%93%94-%E8%8A%B1%E8%93%AE%E6%95%AC%E8%80%81%E6%84%9B%E5%BF%83%E8%A8%88%E7%A8%8B%E8%BB%8A-%E6%9C%88%E8%A3%9C%E5%8A%A9%E5%A2%9E%E8%87%B31500%E5%85%83-063000299.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-5ef72a30",
+    "status": "published",
+    "translationOf": "hualien-county-increases-monthly-subsidy-for-elderly-love-taxi-service-to-nt1500-zh-5ef72a30",
+    "publishedAt": "2026-05-23T06:30:00.000Z",
+    "fetchedAt": "2026-05-24T13:59:01.850Z",
+    "body": "To create an age-friendly city and implement barrier-free transportation, Hualien County Government announced that starting June 1, the monthly subsidy for the 'Elderly Love Taxi' service will be raised from the current 1,000 points (NT$) to 1,500 points (NT$) for all qualified residents countywide.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E6%B8%9B%E8%BC%95%E9%95%B7%E8%BC%A9%E8%B2%A0%E6%93%94-%E8%8A%B1%E8%93%AE%E6%95%AC%E8%80%81%E6%84%9B%E5%BF%83%E8%A8%88%E7%A8%8B%E8%BB%8A-%E6%9C%88%E8%A3%9C%E5%8A%A9%E5%A2%9E%E8%87%B31500%E5%85%83-063000299.html)"
   }
 ]
