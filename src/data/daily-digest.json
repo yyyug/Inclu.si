@@ -1,47 +1,47 @@
 {
-  "date": "2026-05-24",
-  "generatedAt": "2026-05-24T04:50:10.983Z",
+  "date": "2026-05-25",
+  "generatedAt": "2026-05-25T05:09:25.433Z",
   "en": {
-    "title": "Daily Accessibility Digest – May 24 2026",
-    "summary": "Today's highlights include concerns over railway ticket booking accessibility, an AI tool enhancing UX workflow accessibility, ADA‑compliant restroom trailers for events, and the essential role of inclusion in adventure spaces for accessible outdoors.",
+    "title": "Daily Accessibility Digest: GAAD Week Highlights Overlooked Groups and Global Inclusion Efforts",
+    "summary": "GAAD Week highlights that the 1.3 billion disability figure undercounts older users, temporary impairments and situational limits; inclusion ensures equal access for people with disabilities; Central Asia is underrepresented at the Zero Project Conference, prompting a planned June 5 webinar; UN Women China is praised for prioritizing the rights and wellbeing of women with disabilities, showing that inclusion requires intentional action.",
     "highlights": [
       {
-        "title": "Railway ticket booking accessibility concerns",
-        "slug": "railway-ticket-booking-accessibility-concerns-13c11260"
+        "title": "GAAD Week Highlights Overlooked Accessibility Groups",
+        "slug": "gaad-week-highlights-overlooked-accessibility-groups-f55ecf39"
       },
       {
-        "title": "AI tool improves accessibility in UX workflow",
-        "slug": "ai-tool-improves-accessibility-in-ux-workflow-94de83f3"
+        "title": "Inclusion ensures equal access for people with disabilities",
+        "slug": "inclusion-ensures-equal-access-for-people-with-disabilities-b6745cc7"
       },
       {
-        "title": "Company offers ADA-compliant restroom trailers for events",
-        "slug": "company-offers-ada-compliant-restroom-trailers-for-events-9d7bb03b"
+        "title": "Central Asia Underrepresented at Zero Project Conference, Webinar Planned",
+        "slug": "central-asia-underrepresented-at-zero-project-conference-webinar-planned-cc120c75"
       },
       {
-        "title": "Inclusion in Adventure Spaces Essential for Accessible Outdoors",
-        "slug": "inclusion-in-adventure-spaces-essential-for-accessible-outdoors-52025e7d"
+        "title": "UN Women China praised for prioritizing women with disabilities' rights",
+        "slug": "un-women-china-praised-for-prioritizing-women-with-disabilities-rights-1c9f353d"
       }
     ]
   },
   "zh-TW": {
-    "title": "每日無障礙消息摘要 – 2026年5月24日",
-    "summary": "今日重點包括鐵路票務無障礙問題、提升UX工作流程無障礙的AI工具、符合ADA標準的無障礙休息車服務，以及探索空間包容性對無障礙戶外活動的重要性。",
+    "title": "每日無障礙 digest：GAAD週凸顯被忽視群體與全球包容行動",
+    "summary": "GAAD週指出13億殘疾人數字被低估，常忽略老年用戶、臨時障礙和情境限制；包容確保殘疾人平等獲取機會；中亞在零項目會議代表性不足，將舉辦6月5日網路研討會提升參與；聯合國婦女中國分獲讚賞，優先考慮殘疾婦女權利與福祉，顯示包容需要有意識的行動。",
     "highlights": [
       {
-        "title": "铁路票务无障碍问题",
-        "slug": "railway-ticket-booking-accessibility-concerns-zh-13c11260"
+        "title": "GAAD周突显被忽视的可访问性群体",
+        "slug": "gaad-week-highlights-overlooked-accessibility-groups-zh-f55ecf39"
       },
       {
-        "title": "AI工具提升UX中的无障碍体验",
-        "slug": "ai-tool-improves-accessibility-in-ux-workflow-zh-94de83f3"
+        "title": "包容确保残疾人平等获取机会",
+        "slug": "inclusion-ensures-equal-access-for-people-with-disabilities-zh-b6745cc7"
       },
       {
-        "title": "公司提供符合ADA标准的无障碍休息车",
-        "slug": "company-offers-ada-compliant-restroom-trailers-for-events-zh-9d7bb03b"
+        "title": "中亚在零项目会议中代表性不足，计划举办网络研讨会",
+        "slug": "central-asia-underrepresented-at-zero-project-conference-webinar-planned-zh-cc120c75"
       },
       {
-        "title": "探险空间的包容性对无障碍户外至关重要",
-        "slug": "inclusion-in-adventure-spaces-essential-for-accessible-outdoors-zh-52025e7d"
+        "title": "感谢联合国妇女中国优先考虑残疾妇女的权利",
+        "slug": "un-women-china-praised-for-prioritizing-women-with-disabilities-rights-zh-1c9f353d"
       }
     ]
   }
