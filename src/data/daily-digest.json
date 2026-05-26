@@ -1,47 +1,47 @@
 {
-  "date": "2026-05-25",
-  "generatedAt": "2026-05-25T05:09:25.433Z",
+  "date": "2026-05-26",
+  "generatedAt": "2026-05-26T04:47:41.196Z",
   "en": {
-    "title": "Daily Accessibility Digest: GAAD Week Highlights Overlooked Groups and Global Inclusion Efforts",
-    "summary": "GAAD Week highlights that the 1.3 billion disability figure undercounts older users, temporary impairments and situational limits; inclusion ensures equal access for people with disabilities; Central Asia is underrepresented at the Zero Project Conference, prompting a planned June 5 webinar; UN Women China is praised for prioritizing the rights and wellbeing of women with disabilities, showing that inclusion requires intentional action.",
+    "title": "Accessibility Digest – May 26, 2026",
+    "summary": "Today's highlights include India's EV report examining charging accessibility challenges, Framer's roadmap video featuring an accessibility checklist, Google's recommendation for descriptive alt text to improve image SEO and accessibility, and the launch of India's first AAC mobile app for intellectual disabilities.",
     "highlights": [
       {
-        "title": "GAAD Week Highlights Overlooked Accessibility Groups",
-        "slug": "gaad-week-highlights-overlooked-accessibility-groups-f55ecf39"
+        "title": "India EV Report Examines Charging Accessibility Challenges",
+        "slug": "india-ev-report-examines-charging-accessibility-challenges-adf02e01"
       },
       {
-        "title": "Inclusion ensures equal access for people with disabilities",
-        "slug": "inclusion-ensures-equal-access-for-people-with-disabilities-b6745cc7"
+        "title": "Framer Roadmap Video Includes Accessibility Checklist",
+        "slug": "framer-roadmap-video-includes-accessibility-checklist-5134f08c"
       },
       {
-        "title": "Central Asia Underrepresented at Zero Project Conference, Webinar Planned",
-        "slug": "central-asia-underrepresented-at-zero-project-conference-webinar-planned-cc120c75"
+        "title": "Google Recommends Descriptive Alt Text for Image SEO",
+        "slug": "google-recommends-descriptive-alt-text-for-image-seo-9559b6ab"
       },
       {
-        "title": "UN Women China praised for prioritizing women with disabilities' rights",
-        "slug": "un-women-china-praised-for-prioritizing-women-with-disabilities-rights-1c9f353d"
+        "title": "India Launches First AAC Mobile App for Intellectual Disability",
+        "slug": "india-launches-first-aac-mobile-app-for-intellectual-disability-1d3fabf6"
       }
     ]
   },
   "zh-TW": {
-    "title": "每日無障礙 digest：GAAD週凸顯被忽視群體與全球包容行動",
-    "summary": "GAAD週指出13億殘疾人數字被低估，常忽略老年用戶、臨時障礙和情境限制；包容確保殘疾人平等獲取機會；中亞在零項目會議代表性不足，將舉辦6月5日網路研討會提升參與；聯合國婦女中國分獲讚賞，優先考慮殘疾婦女權利與福祉，顯示包容需要有意識的行動。",
+    "title": "無障礙消化 – 2026年5月26日",
+    "summary": "今日重點包括印度EV報告審視充電無障礙挑戰、Framer路線圖影片提供無障礙清單、谷歌建議使用描述性alt文本提升圖像SEO與無障礙，以及印度首款智力殘障人士AAC移動應用發布。",
     "highlights": [
       {
-        "title": "GAAD周突显被忽视的可访问性群体",
-        "slug": "gaad-week-highlights-overlooked-accessibility-groups-zh-f55ecf39"
+        "title": "印度 EV 报告审视充电可访问性挑战",
+        "slug": "india-ev-report-examines-charging-accessibility-challenges-zh-adf02e01"
       },
       {
-        "title": "包容确保残疾人平等获取机会",
-        "slug": "inclusion-ensures-equal-access-for-people-with-disabilities-zh-b6745cc7"
+        "title": "Framer 路线图视频提供可访问性清单",
+        "slug": "framer-roadmap-video-includes-accessibility-checklist-zh-5134f08c"
       },
       {
-        "title": "中亚在零项目会议中代表性不足，计划举办网络研讨会",
-        "slug": "central-asia-underrepresented-at-zero-project-conference-webinar-planned-zh-cc120c75"
+        "title": "谷歌建议使用描述性alt文本进行图像SEO",
+        "slug": "google-recommends-descriptive-alt-text-for-image-seo-zh-9559b6ab"
       },
       {
-        "title": "感谢联合国妇女中国优先考虑残疾妇女的权利",
-        "slug": "un-women-china-praised-for-prioritizing-women-with-disabilities-rights-zh-1c9f353d"
+        "title": "印度首款智力残障人士AAC移动应用发布",
+        "slug": "india-launches-first-aac-mobile-app-for-intellectual-disability-zh-1d3fabf6"
       }
     ]
   }
