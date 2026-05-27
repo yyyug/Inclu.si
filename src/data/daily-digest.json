@@ -1,47 +1,39 @@
 {
-  "date": "2026-05-26",
-  "generatedAt": "2026-05-26T04:47:41.196Z",
+  "date": "2026-05-27",
+  "generatedAt": "2026-05-27T05:02:33.023Z",
   "en": {
-    "title": "Accessibility Digest – May 26, 2026",
-    "summary": "Today's highlights include India's EV report examining charging accessibility challenges, Framer's roadmap video featuring an accessibility checklist, Google's recommendation for descriptive alt text to improve image SEO and accessibility, and the launch of India's first AAC mobile app for intellectual disabilities.",
+    "title": "Daily Accessibility Digest - May 27, 2026",
+    "summary": "Today's highlights include NASA's Parker Solar Probe providing sonified solar wind with video descriptions for blind audiences, an eight-year-old visually impaired boy from Oman championing inclusion and independence through assistive tech, and a blind gamer calling out missing accessibility features in recent game releases.",
     "highlights": [
       {
-        "title": "India EV Report Examines Charging Accessibility Challenges",
-        "slug": "india-ev-report-examines-charging-accessibility-challenges-adf02e01"
+        "title": "NASA Parker Solar Probe Solar Wind Audio with Video Description",
+        "slug": "nasa-parker-solar-probe-solar-wind-audio-with-video-description-ac8f642d"
       },
       {
-        "title": "Framer Roadmap Video Includes Accessibility Checklist",
-        "slug": "framer-roadmap-video-includes-accessibility-checklist-5134f08c"
+        "title": "Eight‑year‑old visually impaired boy champions inclusion and independence",
+        "slug": "eightyearold-visually-impaired-boy-champions-inclusion-and-independence-bcd1aac3"
       },
       {
-        "title": "Google Recommends Descriptive Alt Text for Image SEO",
-        "slug": "google-recommends-descriptive-alt-text-for-image-seo-9559b6ab"
-      },
-      {
-        "title": "India Launches First AAC Mobile App for Intellectual Disability",
-        "slug": "india-launches-first-aac-mobile-app-for-intellectual-disability-1d3fabf6"
+        "title": "Blind gamer highlights lack of accessibility in new game releases",
+        "slug": "blind-gamer-highlights-lack-of-accessibility-in-new-game-releases-94123277"
       }
     ]
   },
   "zh-TW": {
-    "title": "無障礙消化 – 2026年5月26日",
-    "summary": "今日重點包括印度EV報告審視充電無障礙挑戰、Framer路線圖影片提供無障礙清單、谷歌建議使用描述性alt文本提升圖像SEO與無障礙，以及印度首款智力殘障人士AAC移動應用發布。",
+    "title": "每日無障礙消息摘要 - 2026年5月27日",
+    "summary": "今日亮點包括NASA帕克太陽探測器提供帶視頻描述的太陽聲音，以協助盲人和低視力觀眾；來自阿曼的八歲視障男孩倡導包容與獨立；以及盲人玩家指出新遊戲缺乏必要的無障礙功能。",
     "highlights": [
       {
-        "title": "印度 EV 报告审视充电可访问性挑战",
-        "slug": "india-ev-report-examines-charging-accessibility-challenges-zh-adf02e01"
+        "title": "NASA帕克太阳探测器太阳风音频附视频描述",
+        "slug": "nasa-parker-solar-probe-solar-wind-audio-with-video-description-zh-ac8f642d"
       },
       {
-        "title": "Framer 路线图视频提供可访问性清单",
-        "slug": "framer-roadmap-video-includes-accessibility-checklist-zh-5134f08c"
+        "title": "八岁视障男孩倡导包容与独立",
+        "slug": "eightyearold-visually-impaired-boy-champions-inclusion-and-independence-zh-bcd1aac3"
       },
       {
-        "title": "谷歌建议使用描述性alt文本进行图像SEO",
-        "slug": "google-recommends-descriptive-alt-text-for-image-seo-zh-9559b6ab"
-      },
-      {
-        "title": "印度首款智力残障人士AAC移动应用发布",
-        "slug": "india-launches-first-aac-mobile-app-for-intellectual-disability-zh-1d3fabf6"
+        "title": "盲人玩家指出新游戏缺乏无障碍功能",
+        "slug": "blind-gamer-highlights-lack-of-accessibility-in-new-game-releases-zh-94123277"
       }
     ]
   }
