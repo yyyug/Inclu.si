@@ -1,39 +1,47 @@
 {
-  "date": "2026-05-27",
-  "generatedAt": "2026-05-27T05:02:33.023Z",
+  "date": "2026-05-28",
+  "generatedAt": "2026-05-28T04:54:25.838Z",
   "en": {
-    "title": "Daily Accessibility Digest - May 27, 2026",
-    "summary": "Today's highlights include NASA's Parker Solar Probe providing sonified solar wind with video descriptions for blind audiences, an eight-year-old visually impaired boy from Oman championing inclusion and independence through assistive tech, and a blind gamer calling out missing accessibility features in recent game releases.",
+    "title": "Daily Accessibility Digest – May 28, 2026",
+    "summary": "Today's highlights include calls for inclusive urban infrastructure, the need for accessibility in Africa's digital growth, Netflix's global rollout of accessibility features, and Hollister's deployment of sidewalk robots to assess accessibility conditions.",
     "highlights": [
       {
-        "title": "NASA Parker Solar Probe Solar Wind Audio with Video Description",
-        "slug": "nasa-parker-solar-probe-solar-wind-audio-with-video-description-ac8f642d"
+        "title": "Inclusive Infrastructure for Accessible Cities",
+        "slug": "inclusive-infrastructure-for-accessible-cities-33eba471"
       },
       {
-        "title": "Eight‑year‑old visually impaired boy champions inclusion and independence",
-        "slug": "eightyearold-visually-impaired-boy-champions-inclusion-and-independence-bcd1aac3"
+        "title": "Inclusion Needed in Africa's Digital Growth",
+        "slug": "inclusion-needed-in-africas-digital-growth-8b93b0cc"
       },
       {
-        "title": "Blind gamer highlights lack of accessibility in new game releases",
-        "slug": "blind-gamer-highlights-lack-of-accessibility-in-new-game-releases-94123277"
+        "title": "Netflix expands accessibility features worldwide",
+        "slug": "netflix-expands-accessibility-features-worldwide-25692570"
+      },
+      {
+        "title": "Hollister deploys sidewalk robots to assess accessibility conditions",
+        "slug": "hollister-deploys-sidewalk-robots-to-assess-accessibility-conditions-d60ce041"
       }
     ]
   },
   "zh-TW": {
-    "title": "每日無障礙消息摘要 - 2026年5月27日",
-    "summary": "今日亮點包括NASA帕克太陽探測器提供帶視頻描述的太陽聲音，以協助盲人和低視力觀眾；來自阿曼的八歲視障男孩倡導包容與獨立；以及盲人玩家指出新遊戲缺乏必要的無障礙功能。",
+    "title": "無障礙每日摘要 – 2026年5月28日",
+    "summary": "今日重點包括呼籲打造包容性城市基礎設施、非洲數字發展中需要無障礙、Netflix 全球擴展無障礙功能，以及霍利斯特使用人行道機器人評估無障礙狀況。",
     "highlights": [
       {
-        "title": "NASA帕克太阳探测器太阳风音频附视频描述",
-        "slug": "nasa-parker-solar-probe-solar-wind-audio-with-video-description-zh-ac8f642d"
+        "title": "包容性基础设施让城市无障碍",
+        "slug": "inclusive-infrastructure-for-accessible-cities-zh-33eba471"
       },
       {
-        "title": "八岁视障男孩倡导包容与独立",
-        "slug": "eightyearold-visually-impaired-boy-champions-inclusion-and-independence-zh-bcd1aac3"
+        "title": "非洲数字增长需要包容性",
+        "slug": "inclusion-needed-in-africas-digital-growth-zh-8b93b0cc"
       },
       {
-        "title": "盲人玩家指出新游戏缺乏无障碍功能",
-        "slug": "blind-gamer-highlights-lack-of-accessibility-in-new-game-releases-zh-94123277"
+        "title": "Netflix 全球扩展无障碍功能",
+        "slug": "netflix-expands-accessibility-features-worldwide-zh-25692570"
+      },
+      {
+        "title": "霍利斯特部署人行道機器人評估無障礙狀況",
+        "slug": "hollister-deploys-sidewalk-robots-to-assess-accessibility-conditions-zh-d60ce041"
       }
     ]
   }
