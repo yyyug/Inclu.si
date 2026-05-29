@@ -6282,5 +6282,38 @@
     "publishedAt": "2026-04-26T07:00:00.000Z",
     "fetchedAt": "2026-05-12T04:04:10.845Z",
     "body": "A Taiwan Railway train conductor opened a door and was shocked to discover a naked man showering inside an accessible toilet; police are searching for the man.\n\nRead more from the original source: [FTNN 新聞網](https://www.ftnn.com.tw/news/540941)"
+  },
+  {
+    "title": "Chiayi City opens applications for 2026 subsidy to improve accessibility facilities in existing residential apartments",
+    "slug": "chiayi-city-opens-applications-for-2026-subsidy-to-improve-accessibility-facilit-6e77b28f",
+    "lang": "en",
+    "summary": "Starting today, Chiayi City is accepting applications for its 2026 subsidy program that assists owners of existing residential apartment buildings in installing and improving accessibility facilities.",
+    "category": "physical-design",
+    "tags": [
+      "subsidy",
+      "accessibility",
+      "residential",
+      "Chiayi"
+    ],
+    "sourceName": "chiayi.gov.tw",
+    "sourceUrl": "https://www.chiayi.gov.tw/News_Content.aspx?n=464&s=933695",
+    "relatedSources": [
+      {
+        "name": "chiayi.gov.tw",
+        "url": "https://www.chiayi.gov.tw/News_Content.aspx?n=464&s=933695"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-6e77b28f",
+    "status": "published",
+    "translationOf": "chiayi-city-opens-applications-for-2026-subsidy-to-improve-accessibility-facilit-zh-6e77b28f",
+    "publishedAt": "2026-04-01T07:00:00.000Z",
+    "fetchedAt": "2026-05-29T04:41:11.351Z",
+    "body": "Starting today, Chiayi City is accepting applications for its 2026 subsidy program that assists owners of existing residential apartment buildings in installing and improving accessibility facilities.\n\nRead more from the original source: [chiayi.gov.tw](https://www.chiayi.gov.tw/News_Content.aspx?n=464&s=933695)"
   }
 ]
