@@ -1,47 +1,47 @@
 {
-  "date": "2026-05-28",
-  "generatedAt": "2026-05-28T04:54:25.838Z",
+  "date": "2026-05-29",
+  "generatedAt": "2026-05-29T04:58:30.096Z",
   "en": {
-    "title": "Daily Accessibility Digest – May 28, 2026",
-    "summary": "Today's highlights include calls for inclusive urban infrastructure, the need for accessibility in Africa's digital growth, Netflix's global rollout of accessibility features, and Hollister's deployment of sidewalk robots to assess accessibility conditions.",
+    "title": "Daily Accessibility Digest – May 29, 2026",
+    "summary": "Jefferson County launches a new website with improved navigation and accessibility features; experts warn that the 2026 World Cup raises safety and accessibility concerns; Netflix announces global expansion of its accessibility tools; and accessibility overlays are criticized as ineffective, with thousands of lawsuits filed.",
     "highlights": [
       {
-        "title": "Inclusive Infrastructure for Accessible Cities",
-        "slug": "inclusive-infrastructure-for-accessible-cities-33eba471"
+        "title": "Jefferson County Launches New Website With Improved Navigation And Accessibility",
+        "slug": "jefferson-county-launches-new-website-with-improved-navigation-and-accessibility-2119250e"
       },
       {
-        "title": "Inclusion Needed in Africa's Digital Growth",
-        "slug": "inclusion-needed-in-africas-digital-growth-8b93b0cc"
+        "title": "2026 World Cup sparks safety and accessibility concerns, expert says",
+        "slug": "2026-world-cup-sparks-safety-and-accessibility-concerns-expert-says-9fe7115d"
       },
       {
         "title": "Netflix expands accessibility features worldwide",
         "slug": "netflix-expands-accessibility-features-worldwide-25692570"
       },
       {
-        "title": "Hollister deploys sidewalk robots to assess accessibility conditions",
-        "slug": "hollister-deploys-sidewalk-robots-to-assess-accessibility-conditions-d60ce041"
+        "title": "Accessibility overlays criticized as ineffective",
+        "slug": "accessibility-overlays-criticized-as-ineffective-5b91c34b"
       }
     ]
   },
   "zh-TW": {
-    "title": "無障礙每日摘要 – 2026年5月28日",
-    "summary": "今日重點包括呼籲打造包容性城市基礎設施、非洲數字發展中需要無障礙、Netflix 全球擴展無障礙功能，以及霍利斯特使用人行道機器人評估無障礙狀況。",
+    "title": "每日無障礙 digest – 2026年5月29日",
+    "summary": "杰斐遜縣推出全新網站，導航與無障礙功能皆獲提升；專家警告2026年世界盃引發安全與無障礙顧慮；Netflix 宣布全球擴展無障礙功能；無障礙覆蓋層被批評無效，去年已有5000起訴訟。",
     "highlights": [
       {
-        "title": "包容性基础设施让城市无障碍",
-        "slug": "inclusive-infrastructure-for-accessible-cities-zh-33eba471"
+        "title": "杰斐遜縣推出全新網站，導航與無障礙功能皆獲提升",
+        "slug": "jefferson-county-launches-new-website-with-improved-navigation-and-accessibility-zh-2119250e"
       },
       {
-        "title": "非洲数字增长需要包容性",
-        "slug": "inclusion-needed-in-africas-digital-growth-zh-8b93b0cc"
+        "title": "專家表示2026年世界盃引發安全與無障礙顧慮",
+        "slug": "2026-world-cup-sparks-safety-and-accessibility-concerns-expert-says-zh-9fe7115d"
       },
       {
         "title": "Netflix 全球扩展无障碍功能",
         "slug": "netflix-expands-accessibility-features-worldwide-zh-25692570"
       },
       {
-        "title": "霍利斯特部署人行道機器人評估無障礙狀況",
-        "slug": "hollister-deploys-sidewalk-robots-to-assess-accessibility-conditions-zh-d60ce041"
+        "title": "无障碍覆盖层被批评无效",
+        "slug": "accessibility-overlays-criticized-as-ineffective-zh-5b91c34b"
       }
     ]
   }
