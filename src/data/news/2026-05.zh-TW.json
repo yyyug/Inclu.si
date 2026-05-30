@@ -44003,5 +44003,235 @@
     "publishedAt": "2026-05-30T03:30:06.000Z",
     "fetchedAt": "2026-05-30T04:33:51.006Z",
     "body": "DocuForte 通过多设备访问、实时文档同步和受保护的信息共享，实现安全的远程无障碍访问，使无障碍功能延伸至办公室以外的环境。\n推文來源： [ESUOR® (@ESUOR10)](https://x.com/ESUOR10/status/2060564379943244237)"
+  },
+  {
+    "title": "荷蘭透過新西40街人行道擴大無障礙設施 - Yahoo",
+    "slug": "holland-expands-accessibility-efforts-with-new-west-40th-street-crosswalk-yahoo-zh-9e56e1d6",
+    "lang": "zh-TW",
+    "summary": "荷蘭透過新西40街人行道擴大無障礙設施",
+    "category": "physical-design",
+    "tags": [
+      "crosswalk",
+      "accessibility",
+      "infrastructure"
+    ],
+    "sourceName": "Yahoo",
+    "sourceUrl": "https://www.yahoo.com/news/us/articles/holland-expands-accessibility-efforts-west-191815529.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/holland-expands-accessibility-efforts-west-191815529.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-9e56e1d6",
+    "status": "published",
+    "translationOf": "holland-expands-accessibility-efforts-with-new-west-40th-street-crosswalk-yahoo-9e56e1d6",
+    "publishedAt": "2026-05-29T19:18:15.000Z",
+    "fetchedAt": "2026-05-30T14:02:56.403Z",
+    "body": "荷蘭透過新西40街人行道擴大無障礙設施\n\n原文來源： [Yahoo](https://www.yahoo.com/news/us/articles/holland-expands-accessibility-efforts-west-191815529.html)"
+  },
+  {
+    "title": "AI 不是你的無障礙專家：LLM 仍然缺失的 WCAG 內容 - SitePoint",
+    "slug": "ai-is-not-your-accessibility-expert-what-llms-still-miss-about-wcag-sitepoint-zh-0c589f18",
+    "lang": "zh-TW",
+    "summary": "AI 不是你的無障礙專家：LLM 仍然缺失的 WCAG 內容",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "LLM",
+      "WCAG",
+      "accessibility"
+    ],
+    "sourceName": "SitePoint",
+    "sourceUrl": "https://www.sitepoint.com/ai-is-not-your-accessibility-expert-what-llms-still-miss-about-wcag",
+    "relatedSources": [
+      {
+        "name": "SitePoint",
+        "url": "https://www.sitepoint.com/ai-is-not-your-accessibility-expert-what-llms-still-miss-about-wcag"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-0c589f18",
+    "status": "published",
+    "translationOf": "ai-is-not-your-accessibility-expert-what-llms-still-miss-about-wcag-sitepoint-0c589f18",
+    "publishedAt": "2026-05-30T07:00:07.000Z",
+    "fetchedAt": "2026-05-30T14:02:56.481Z",
+    "body": "AI 不是你的無障礙專家：LLM 仍然缺失的 WCAG 內容\n\n原文來源： [SitePoint](https://www.sitepoint.com/ai-is-not-your-accessibility-expert-what-llms-still-miss-about-wcag)"
+  },
+  {
+    "title": "使用地理資訊系統分析東京都醫療設施無障礙性的空間分析",
+    "slug": "spatial-analysis-of-accessibility-to-healthcare-related-facilities-in-tokyo-metr-zh-b571690a",
+    "lang": "zh-TW",
+    "summary": "日本人口老化與減少導致醫療服務需求增加，資源集中在密集都市核心，造成地理上的醫療服務取得不平等。以東京都為大型且內部異質的都市區進行研究…",
+    "category": "physical-design",
+    "tags": [
+      "healthcare",
+      "GIS",
+      "Tokyo",
+      "accessibility",
+      "spatial analysis"
+    ],
+    "sourceName": "Plos.org",
+    "sourceUrl": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0350130",
+    "relatedSources": [
+      {
+        "name": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0350130"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-b571690a",
+    "status": "published",
+    "translationOf": "spatial-analysis-of-accessibility-to-healthcare-related-facilities-in-tokyo-metr-b571690a",
+    "publishedAt": "2026-05-29T14:00:00.000Z",
+    "fetchedAt": "2026-05-30T14:02:56.533Z",
+    "body": "日本人口老化與減少導致醫療服務需求增加，資源集中在密集都市核心，造成地理上的醫療服務取得不平等。以東京都為大型且內部異質的都市區進行研究…\n\n原文來源： [Plos.org](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0350130)"
+  },
+  {
+    "title": "Creality 慶祝成立 12 年，推出 KliTek™ 與 AI 驅動的生態系統擴展",
+    "slug": "creality-marks-12-years-with-klitek-and-ai-powered-ecosystem-expansion-zh-27d1ffc1",
+    "lang": "zh-TW",
+    "summary": "Creality 強調其在可及性 3D 列印技術上的 12 年進展，使全球使用者能將點子變為實體作品。",
+    "category": "digital-a11y",
+    "tags": [
+      "3D printing",
+      "accessibility",
+      "AI ecosystem"
+    ],
+    "sourceName": "PRNewswire",
+    "sourceUrl": "https://www.prnewswire.com/news-releases/creality-marks-12-years-with-klitek-and-ai-powered-ecosystem-expansion-302785737.html",
+    "relatedSources": [
+      {
+        "name": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/creality-marks-12-years-with-klitek-and-ai-powered-ecosystem-expansion-302785737.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-27d1ffc1",
+    "status": "published",
+    "translationOf": "creality-marks-12-years-with-klitek-and-ai-powered-ecosystem-expansion-27d1ffc1",
+    "publishedAt": "2026-05-29T14:00:00.000Z",
+    "fetchedAt": "2026-05-30T14:03:11.711Z",
+    "body": "Creality 強調其在可及性 3D 列印技術上的 12 年進展，使全球使用者能將點子變為實體作品。\n\n原文來源： [PRNewswire](https://www.prnewswire.com/news-releases/creality-marks-12-years-with-klitek-and-ai-powered-ecosystem-expansion-302785737.html)"
+  },
+  {
+    "title": "Lu Dedoo 項目：在奈及利亞貝努州馬庫爾迪適應青少年及年輕成人 HIV 藥物依從性應用",
+    "slug": "adapting-a-medication-adherence-app-for-adolescents-and-young-adults-in-makurdi--zh-109e9981",
+    "lang": "zh-TW",
+    "summary": "Lu Dedoo 項目針對奈及利亞貝努州馬庫爾迪的 HIV 青少年與年輕成人，改良藥物依從性應用，以提升抗逆轉錄病毒療法依從性及健康結果。",
+    "category": "assistive-tech",
+    "tags": [
+      "medication adherence",
+      "HIV",
+      "mobile app",
+      "adolescent health"
+    ],
+    "sourceName": "Plos.org",
+    "sourceUrl": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0350279",
+    "relatedSources": [
+      {
+        "name": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0350279"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-109e9981",
+    "status": "published",
+    "translationOf": "adapting-a-medication-adherence-app-for-adolescents-and-young-adults-in-makurdi--109e9981",
+    "publishedAt": "2026-05-29T14:00:00.000Z",
+    "fetchedAt": "2026-05-30T14:03:11.768Z",
+    "body": "Lu Dedoo 項目針對奈及利亞貝努州馬庫爾迪的 HIV 青少年與年輕成人，改良藥物依從性應用，以提升抗逆轉錄病毒療法依從性及健康結果。\n\n原文來源： [Plos.org](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0350279)"
+  },
+  {
+    "title": "Creality 慶祝成立 12 年，推出 KliTek™ 與 AI 驅動的生態系統擴展",
+    "slug": "creality-marks-12-years-with-klitek-and-ai-powered-ecosystem-expansion-zh-1de48bc4",
+    "lang": "zh-TW",
+    "summary": "Creality 強調其在可及性 3D 列印技術上的 12 年進展，使全球使用者能將點子變為實體作品。",
+    "category": "digital-a11y",
+    "tags": [
+      "3D printing",
+      "accessibility",
+      "AI ecosystem"
+    ],
+    "sourceName": "PRNewswire",
+    "sourceUrl": "https://www.prnewswire.com/news-releases/creality-marks-12-years-with-klitek-and-ai-powered-ecosystem-expansion-302785696.html",
+    "relatedSources": [
+      {
+        "name": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/creality-marks-12-years-with-klitek-and-ai-powered-ecosystem-expansion-302785696.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-1de48bc4",
+    "status": "published",
+    "translationOf": "creality-marks-12-years-with-klitek-and-ai-powered-ecosystem-expansion-1de48bc4",
+    "publishedAt": "2026-05-29T14:00:00.000Z",
+    "fetchedAt": "2026-05-30T14:03:11.825Z",
+    "body": "Creality 強調其在可及性 3D 列印技術上的 12 年進展，使全球使用者能將點子變為實體作品。\n\n原文來源： [PRNewswire](https://www.prnewswire.com/news-releases/creality-marks-12-years-with-klitek-and-ai-powered-ecosystem-expansion-302785696.html)"
+  },
+  {
+    "title": "環境部發表11處特色公廁 明亮通風、性別親子友善成標配",
+    "slug": "ministry-of-environment-unveils-11-featured-public-toilets-with-bright-ventilati-zh-73fb1223",
+    "lang": "zh-TW",
+    "summary": "台灣如廁文化與先進國家尚有差距，環境部透過競爭型補助打造特色公廁，目標2030年建置30座，今（29日）先期發表11座設計，包含高雄流行音樂中心以透明泡泡型塑創意、興達漁港漁夫市集公廁採滿載歸航意象、雲林古坑鄉綠色隧道公廁是森林共生概念，並都規定須明亮通風，還標配性別、親子與無障礙廁所，達到多元友善。",
+    "category": "physical-design",
+    "tags": [
+      "public toilet",
+      "accessibility",
+      "gender-friendly",
+      "family-friendly",
+      "Taiwan"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_834a2a44-5ad3-4c0f-8869-cb1e67ece1b3",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_834a2a44-5ad3-4c0f-8869-cb1e67ece1b3"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-73fb1223",
+    "status": "published",
+    "translationOf": "ministry-of-environment-unveils-11-featured-public-toilets-with-bright-ventilati-73fb1223",
+    "publishedAt": "2026-05-29T04:33:02.000Z",
+    "fetchedAt": "2026-05-30T14:03:18.459Z",
+    "body": "台灣如廁文化與先進國家尚有差距，環境部透過競爭型補助打造特色公廁，目標2030年建置30座，今（29日）先期發表11座設計，包含高雄流行音樂中心以透明泡泡型塑創意、興達漁港漁夫市集公廁採滿載歸航意象、雲林古坑鄉綠色隧道公廁是森林共生概念，並都規定須明亮通風，還標配性別、親子與無障礙廁所，達到多元友善。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_834a2a44-5ad3-4c0f-8869-cb1e67ece1b3)"
   }
 ]
