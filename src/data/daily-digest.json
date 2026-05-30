@@ -1,47 +1,55 @@
 {
-  "date": "2026-05-29",
-  "generatedAt": "2026-05-29T04:58:30.096Z",
+  "date": "2026-05-30",
+  "generatedAt": "2026-05-30T04:38:07.362Z",
   "en": {
-    "title": "Daily Accessibility Digest – May 29, 2026",
-    "summary": "Jefferson County launches a new website with improved navigation and accessibility features; experts warn that the 2026 World Cup raises safety and accessibility concerns; Netflix announces global expansion of its accessibility tools; and accessibility overlays are criticized as ineffective, with thousands of lawsuits filed.",
+    "title": "Daily Accessibility Digest – May 30, 2026",
+    "summary": "Today's highlights include Apple's visionOS 27 preview showcasing eye-control for wheelchairs, Standard Chartered Singapore winning the World's Best Digital Bank award for CX, National AgrAbility's inclusion in Forbes Accessibility 200, Windows Terminal Canary adding screen-reader improvements, and a look at accessible bathroom design requirements.",
     "highlights": [
       {
-        "title": "Jefferson County Launches New Website With Improved Navigation And Accessibility",
-        "slug": "jefferson-county-launches-new-website-with-improved-navigation-and-accessibility-2119250e"
+        "title": "Designing Accessible Bathrooms Requires Adequate Space for Wheelchair Users",
+        "slug": "designing-accessible-bathrooms-requires-adequate-space-for-wheelchair-users-59d5078e"
       },
       {
-        "title": "2026 World Cup sparks safety and accessibility concerns, expert says",
-        "slug": "2026-world-cup-sparks-safety-and-accessibility-concerns-expert-says-9fe7115d"
+        "title": "Standard Chartered Singapore Wins World’s Best Digital Bank for CX",
+        "slug": "standard-chartered-singapore-wins-worlds-best-digital-bank-for-cx-d2bfe443"
       },
       {
-        "title": "Netflix expands accessibility features worldwide",
-        "slug": "netflix-expands-accessibility-features-worldwide-25692570"
+        "title": "National AgrAbility Named to Forbes Accessibility 200 List",
+        "slug": "national-agrability-named-to-forbes-accessibility-200-list-064f45ad"
       },
       {
-        "title": "Accessibility overlays criticized as ineffective",
-        "slug": "accessibility-overlays-criticized-as-ineffective-5b91c34b"
+        "title": "Windows Terminal Canary adds screen reader accessibility improvements",
+        "slug": "windows-terminal-canary-adds-screen-reader-accessibility-improvements-eb9a7e8d"
+      },
+      {
+        "title": "Apple visionOS 27 Preview Shows New Accessibility Features: Vision Pro Eye Control for Electric Wheelchairs, Launching September",
+        "slug": "apple-visionos-27-preview-shows-new-accessibility-features-vision-pro-eye-contro-bd65525b"
       }
     ]
   },
   "zh-TW": {
-    "title": "每日無障礙 digest – 2026年5月29日",
-    "summary": "杰斐遜縣推出全新網站，導航與無障礙功能皆獲提升；專家警告2026年世界盃引發安全與無障礙顧慮；Netflix 宣布全球擴展無障礙功能；無障礙覆蓋層被批評無效，去年已有5000起訴訟。",
+    "title": "每日無障礙消息摘要 – 2026年5月30日",
+    "summary": "今日重點包括蘋果 visionOS 27 預告展示 Vision Pro 眼控操作電動輪椅、星展銀行新加坡榮獲全球最佳數字銀行客戶體驗獎、國家農業能力項目入選福布斯無障礙200強、Windows Terminal Canary 加入螢幕閱讀器無障礙改進，以及無障礙浴室設計需提供足夠輪椅空間。",
     "highlights": [
       {
-        "title": "杰斐遜縣推出全新網站，導航與無障礙功能皆獲提升",
-        "slug": "jefferson-county-launches-new-website-with-improved-navigation-and-accessibility-zh-2119250e"
+        "title": "无障碍浴室设计需保证轮椅使用者的空间",
+        "slug": "designing-accessible-bathrooms-requires-adequate-space-for-wheelchair-users-zh-59d5078e"
       },
       {
-        "title": "專家表示2026年世界盃引發安全與無障礙顧慮",
-        "slug": "2026-world-cup-sparks-safety-and-accessibility-concerns-expert-says-zh-9fe7115d"
+        "title": "星展银行新加坡荣获全球最佳数字银行客户体验奖",
+        "slug": "standard-chartered-singapore-wins-worlds-best-digital-bank-for-cx-zh-d2bfe443"
       },
       {
-        "title": "Netflix 全球扩展无障碍功能",
-        "slug": "netflix-expands-accessibility-features-worldwide-zh-25692570"
+        "title": "国家农业能力项目入选福祉无障碍200强榜单",
+        "slug": "national-agrability-named-to-forbes-accessibility-200-list-zh-064f45ad"
       },
       {
-        "title": "无障碍覆盖层被批评无效",
-        "slug": "accessibility-overlays-criticized-as-ineffective-zh-5b91c34b"
+        "title": "Windows Terminal Canary 增加屏幕阅读器无障碍改进",
+        "slug": "windows-terminal-canary-adds-screen-reader-accessibility-improvements-zh-eb9a7e8d"
+      },
+      {
+        "title": "Apple visionOS 27 預告無障礙新功能：Vision Pro 眼控操作電動輪椅、9 月正式上線",
+        "slug": "apple-visionos-27-preview-shows-new-accessibility-features-vision-pro-eye-contro-zh-bd65525b"
       }
     ]
   }
