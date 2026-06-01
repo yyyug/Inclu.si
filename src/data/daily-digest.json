@@ -1,47 +1,39 @@
 {
-  "date": "2026-05-31",
-  "generatedAt": "2026-05-31T05:08:03.940Z",
+  "date": "2026-06-01",
+  "generatedAt": "2026-06-01T05:28:41.015Z",
   "en": {
-    "title": "Daily Accessibility Digest – May 31, 2026",
-    "summary": "Highlighting stories on inclusive design in Taipei inspired by New York, UNICEF China's inclusive poetry recital for children with and without disabilities, disability inclusion ensuring equal access to dreams, and promoting inclusion across age and ability.",
+    "title": "Daily Accessibility Digest – June 1, 2026",
+    "summary": "Advocacy tweet stresses inclusion and accessibility; digital banking accessibility boosts user confidence; youth with disabilities claim full inclusion.",
     "highlights": [
       {
-        "title": "Shen Bo-yang discusses inclusive accessibility vision, says New York design is direction for Taipei",
-        "slug": "shen-bo-yang-discusses-inclusive-accessibility-vision-says-new-york-design-is-di-a9f27cc5"
+        "title": "Advocacy for Disability Inclusion",
+        "slug": "advocacy-for-disability-inclusion-0e134301"
       },
       {
-        "title": "UNICEF China Highlights Inclusive Poetry Recital for Children With and Without Disabilities",
-        "slug": "unicef-china-highlights-inclusive-poetry-recital-for-children-with-and-without-d-a4d2c3da"
+        "title": "Digital Banking Accessibility Boosts User Confidence",
+        "slug": "digital-banking-accessibility-boosts-user-confidence-8038a793"
       },
       {
-        "title": "Disability Inclusion: Equal Access to Dreams",
-        "slug": "disability-inclusion-equal-access-to-dreams-3c236035"
-      },
-      {
-        "title": "Promoting Inclusion Across Age and Ability",
-        "slug": "promoting-inclusion-across-age-and-ability-3f0faa69"
+        "title": "Youth with Disabilities Claim Full Inclusion",
+        "slug": "youth-with-disabilities-claim-full-inclusion-162c0866"
       }
     ]
   },
   "zh-TW": {
-    "title": "每日無障礙消息摘要 – 2026年5月31日",
-    "summary": "重點報導台北參考紐約設計的無障礙願景、聯合國兒基會中國的殘障與非殘障兒童共同詩歌朗誠、殘障人士平等實現夢想的包容，以及跨年齡與能力的包容推廣。",
+    "title": "每日無障礙消化 – 2026年6月1日",
+    "summary": "倡導推文強調包容與無障礙；數字銀行無障礙提升用戶信心；殘疾青年主張完全包容。",
     "highlights": [
       {
-        "title": "沈伯洋談無障礙共融願景 拋紐約設計是台北前進方向",
-        "slug": "shen-bo-yang-discusses-inclusive-accessibility-vision-says-new-york-design-is-di-zh-a9f27cc5"
+        "title": "倡导残疾人包容",
+        "slug": "advocacy-for-disability-inclusion-zh-0e134301"
       },
       {
-        "title": "联合国儿童基金会中国强调残疾与非残疾儿童共同参与的包容性诗歌朗诵",
-        "slug": "unicef-china-highlights-inclusive-poetry-recital-for-children-with-and-without-d-zh-a4d2c3da"
+        "title": "数字银行无障碍提升用户信心",
+        "slug": "digital-banking-accessibility-boosts-user-confidence-zh-8038a793"
       },
       {
-        "title": "残障包容：平等实现梦想",
-        "slug": "disability-inclusion-equal-access-to-dreams-zh-3c236035"
-      },
-      {
-        "title": "促进跨年龄和能力的包容",
-        "slug": "promoting-inclusion-across-age-and-ability-zh-3f0faa69"
+        "title": "残疾青年主张完全包容",
+        "slug": "youth-with-disabilities-claim-full-inclusion-zh-162c0866"
       }
     ]
   }
