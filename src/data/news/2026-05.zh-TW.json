@@ -45488,5 +45488,207 @@
     "publishedAt": "2026-05-30T21:16:56.000Z",
     "fetchedAt": "2026-06-01T05:14:42.576Z",
     "body": "跨平台无障碍客户端库\n\n原文來源： [Pypi.org](https://pypi.org/project/xa11y/0.8.2)"
+  },
+  {
+    "title": "inclusio 0.0.5",
+    "slug": "inclusio-005-zh-e1e5c4f4",
+    "lang": "zh-TW",
+    "summary": "無障礙優先的出版引擎 — PDF/UA-2 + WTPDF + PDF/A-4f，C2PA + PAdES + SLSA 來源證明，多格式輸出，MCP 伺服器。",
+    "category": "digital-a11y",
+    "tags": [
+      "PDF/UA-2",
+      "accessibility",
+      "publishing",
+      "PDF/A-4f",
+      "C2PA",
+      "PAdES",
+      "SLSA"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/inclusio/0.0.5",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/inclusio/0.0.5"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-e1e5c4f4",
+    "status": "published",
+    "translationOf": "inclusio-005-e1e5c4f4",
+    "publishedAt": "2026-05-31T18:10:56.000Z",
+    "fetchedAt": "2026-06-01T18:17:51.465Z",
+    "body": "無障礙優先的出版引擎 — PDF/UA-2 + WTPDF + PDF/A-4f，C2PA + PAdES + SLSA 來源證明，多格式輸出，MCP 伺服器。\n\n原文來源： [Pypi.org](https://pypi.org/project/inclusio/0.0.5)"
+  },
+  {
+    "title": "wx-accessible-webview 已加入 PyPI",
+    "slug": "wx-accessible-webview-added-to-pypi-zh-b117c7b2",
+    "lang": "zh-TW",
+    "summary": "可無障礙的 wx.html2.WebView 介面適用於 wxPython（內容視圖、模式對話框、即時預覽、聊天），可在 NVDA 和 JAWS 中正確朗讀。",
+    "category": "assistive-tech",
+    "tags": [
+      "wxPython",
+      "accessibility",
+      "NVDA",
+      "JAWS",
+      "WebView"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/wx-accessible-webview",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/wx-accessible-webview"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-b117c7b2",
+    "status": "published",
+    "translationOf": "wx-accessible-webview-added-to-pypi-b117c7b2",
+    "publishedAt": "2026-05-31T15:43:11.000Z",
+    "fetchedAt": "2026-06-01T18:17:51.537Z",
+    "body": "可無障礙的 wx.html2.WebView 介面適用於 wxPython（內容視圖、模式對話框、即時預覽、聊天），可在 NVDA 和 JAWS 中正確朗讀。\n\n原文來源： [Pypi.org](https://pypi.org/project/wx-accessible-webview)"
+  },
+  {
+    "title": "無障礙輸入工具移除 X11 支援，不願支援 Wayland；使用者陷入困境",
+    "slug": "accessibility-input-tool-removes-x11-support-doesnt-want-to-support-wayland-user-zh-aa674f4a",
+    "lang": "zh-TW",
+    "summary": "這是一則令人悲傷、痛苦且令人憤怒的閱讀，適合這個平靜的星期天。近年來，許多關注點放在改善 Wayland 上的無障礙輸出方面——例如螢幕閱讀器——但顯然，輸入方面一直滯後。人們……",
+    "category": "digital-a11y",
+    "tags": [
+      "input",
+      "X11",
+      "Wayland",
+      "accessibility tool"
+    ],
+    "sourceName": "Osnews.com",
+    "sourceUrl": "https://www.osnews.com/story/145162/accessibility-input-tool-removes-x11-support-doesnt-want-to-support-wayland-users-caught-in-the-middle",
+    "relatedSources": [
+      {
+        "name": "Osnews.com",
+        "url": "https://www.osnews.com/story/145162/accessibility-input-tool-removes-x11-support-doesnt-want-to-support-wayland-users-caught-in-the-middle"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-aa674f4a",
+    "status": "published",
+    "translationOf": "accessibility-input-tool-removes-x11-support-doesnt-want-to-support-wayland-user-aa674f4a",
+    "publishedAt": "2026-05-31T14:04:34.000Z",
+    "fetchedAt": "2026-06-01T18:18:05.205Z",
+    "body": "這是一則令人悲傷、痛苦且令人憤怒的閱讀，適合這個平靜的星期天。近年來，許多關注點放在改善 Wayland 上的無障礙輸出方面——例如螢幕閱讀器——但顯然，輸入方面一直滯後。人們……\n\n原文來源： [Osnews.com](https://www.osnews.com/story/145162/accessibility-input-tool-removes-x11-support-doesnt-want-to-support-wayland-users-caught-in-the-middle)"
+  },
+  {
+    "title": "微軟透露更多關於 Project Helix 與 Xbox 未來的資訊",
+    "slug": "microsoft-reveals-more-about-project-helix-and-the-future-of-xbox-zh-d4afa630",
+    "lang": "zh-TW",
+    "summary": "微軟的 Project Helix 與即將推出的《使命召喚：現代戰爭 4》成為本週遊戲新聞的焦點，正如 Colt Eastwood 所強調的。Project Helix 是一種下一代主機‑PC 混合體，旨在將主機的無障礙性與……",
+    "category": "assistive-tech",
+    "tags": [
+      "Microsoft",
+      "Project Helix",
+      "Xbox",
+      "accessibility"
+    ],
+    "sourceName": "Geeky Gadgets",
+    "sourceUrl": "https://www.geeky-gadgets.com/steam-deck-price-increase",
+    "relatedSources": [
+      {
+        "name": "Geeky Gadgets",
+        "url": "https://www.geeky-gadgets.com/steam-deck-price-increase"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-d4afa630",
+    "status": "published",
+    "translationOf": "microsoft-reveals-more-about-project-helix-and-the-future-of-xbox-d4afa630",
+    "publishedAt": "2026-05-31T10:00:00.000Z",
+    "fetchedAt": "2026-06-01T18:18:05.271Z",
+    "body": "微軟的 Project Helix 與即將推出的《使命召喚：現代戰爭 4》成為本週遊戲新聞的焦點，正如 Colt Eastwood 所強調的。Project Helix 是一種下一代主機‑PC 混合體，旨在將主機的無障礙性與……\n\n原文來源： [Geeky Gadgets](https://www.geeky-gadgets.com/steam-deck-price-increase)"
+  },
+  {
+    "title": "aperta 已加入 PyPI",
+    "slug": "aperta-added-to-pypi-zh-9f62990e",
+    "lang": "zh-TW",
+    "summary": "Python 工具包，用於交通網路的跨模態無障礙分析。",
+    "category": "digital-a11y",
+    "tags": [
+      "aperta",
+      "Python",
+      "transport",
+      "accessibility analysis"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/aperta",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/aperta"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-9f62990e",
+    "status": "published",
+    "translationOf": "aperta-added-to-pypi-9f62990e",
+    "publishedAt": "2026-05-31T09:40:34.000Z",
+    "fetchedAt": "2026-06-01T18:18:05.324Z",
+    "body": "Python 工具包，用於交通網路的跨模態無障礙分析。\n\n原文來源： [Pypi.org](https://pypi.org/project/aperta)"
+  },
+  {
+    "title": "中市建設局梅川人行道第二期改善工程完工啟用",
+    "slug": "taichung-city-bureau-of-construction-completes-second-phase-of-meichuan-sidewalk-zh-4c9694b0",
+    "lang": "zh-TW",
+    "summary": "台中市建設局推動「梅川周邊人行道改善工程」累計總投入經費達3.6億元，其中第二期「梅川周邊（篤行路至五權路）人行道改善工程」投入1億1,990萬元，改善長度約1.35公里，於5月29日完工開放。工程整合交通安全、無障礙設施及景觀綠化，串聯形成超過4公里的無障礙綠色廊道，提供安全、舒適且具美感的步行環境。",
+    "category": "physical-design",
+    "tags": [
+      "sidewalk",
+      "barrier-free",
+      "urban infrastructure",
+      "Taichung"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_260ad51b-3145-4cb8-8ca8-87e68f19d398",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_260ad51b-3145-4cb8-8ca8-87e68f19d398"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-4c9694b0",
+    "status": "published",
+    "translationOf": "taichung-city-bureau-of-construction-completes-second-phase-of-meichuan-sidewalk-4c9694b0",
+    "publishedAt": "2026-05-31T07:41:27.000Z",
+    "fetchedAt": "2026-06-01T18:18:13.991Z",
+    "body": "台中市建設局推動「梅川周邊人行道改善工程」累計總投入經費達3.6億元，其中第二期「梅川周邊（篤行路至五權路）人行道改善工程」投入1億1,990萬元，改善長度約1.35公里，於5月29日完工開放。工程整合交通安全、無障礙設施及景觀綠化，串聯形成超過4公里的無障礙綠色廊道，提供安全、舒適且具美感的步行環境。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_260ad51b-3145-4cb8-8ca8-87e68f19d398)"
   }
 ]

@@ -45488,5 +45488,207 @@
     "publishedAt": "2026-05-30T21:16:56.000Z",
     "fetchedAt": "2026-06-01T05:14:42.576Z",
     "body": "Cross-platform accessibility client library\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/xa11y/0.8.2)"
+  },
+  {
+    "title": "inclusio 0.0.5",
+    "slug": "inclusio-005-e1e5c4f4",
+    "lang": "en",
+    "summary": "Accessibility-first publishing engine — PDF/UA-2 + WTPDF + PDF/A-4f, C2PA + PAdES + SLSA provenance, multi-format emission, MCP server.",
+    "category": "digital-a11y",
+    "tags": [
+      "PDF/UA-2",
+      "accessibility",
+      "publishing",
+      "PDF/A-4f",
+      "C2PA",
+      "PAdES",
+      "SLSA"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/inclusio/0.0.5",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/inclusio/0.0.5"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-e1e5c4f4",
+    "status": "published",
+    "translationOf": "inclusio-005-zh-e1e5c4f4",
+    "publishedAt": "2026-05-31T18:10:56.000Z",
+    "fetchedAt": "2026-06-01T18:17:51.465Z",
+    "body": "Accessibility-first publishing engine — PDF/UA-2 + WTPDF + PDF/A-4f, C2PA + PAdES + SLSA provenance, multi-format emission, MCP server.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/inclusio/0.0.5)"
+  },
+  {
+    "title": "wx-accessible-webview added to PyPI",
+    "slug": "wx-accessible-webview-added-to-pypi-b117c7b2",
+    "lang": "en",
+    "summary": "Accessible wx.html2.WebView surfaces for wxPython (content view, modal dialog, live preview, chat) that read correctly in NVDA and JAWS.",
+    "category": "assistive-tech",
+    "tags": [
+      "wxPython",
+      "accessibility",
+      "NVDA",
+      "JAWS",
+      "WebView"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/wx-accessible-webview",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/wx-accessible-webview"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-b117c7b2",
+    "status": "published",
+    "translationOf": "wx-accessible-webview-added-to-pypi-zh-b117c7b2",
+    "publishedAt": "2026-05-31T15:43:11.000Z",
+    "fetchedAt": "2026-06-01T18:17:51.537Z",
+    "body": "Accessible wx.html2.WebView surfaces for wxPython (content view, modal dialog, live preview, chat) that read correctly in NVDA and JAWS.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/wx-accessible-webview)"
+  },
+  {
+    "title": "Accessibility input tool removes X11 support, doesn’t want to support Wayland; users caught in the middle",
+    "slug": "accessibility-input-tool-removes-x11-support-doesnt-want-to-support-wayland-user-aa674f4a",
+    "lang": "en",
+    "summary": "A sad, painful, and infuriating read for this calm Sunday. In recent years, a lot of attention has gone into improving the output side of the accessibility story on Wayland – screen readers and the like – but apparently, the input side has languished. People …",
+    "category": "digital-a11y",
+    "tags": [
+      "input",
+      "X11",
+      "Wayland",
+      "accessibility tool"
+    ],
+    "sourceName": "Osnews.com",
+    "sourceUrl": "https://www.osnews.com/story/145162/accessibility-input-tool-removes-x11-support-doesnt-want-to-support-wayland-users-caught-in-the-middle",
+    "relatedSources": [
+      {
+        "name": "Osnews.com",
+        "url": "https://www.osnews.com/story/145162/accessibility-input-tool-removes-x11-support-doesnt-want-to-support-wayland-users-caught-in-the-middle"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-aa674f4a",
+    "status": "published",
+    "translationOf": "accessibility-input-tool-removes-x11-support-doesnt-want-to-support-wayland-user-zh-aa674f4a",
+    "publishedAt": "2026-05-31T14:04:34.000Z",
+    "fetchedAt": "2026-06-01T18:18:05.205Z",
+    "body": "A sad, painful, and infuriating read for this calm Sunday. In recent years, a lot of attention has gone into improving the output side of the accessibility story on Wayland – screen readers and the like – but apparently, the input side has languished. People …\n\nRead more from the original source: [Osnews.com](https://www.osnews.com/story/145162/accessibility-input-tool-removes-x11-support-doesnt-want-to-support-wayland-users-caught-in-the-middle)"
+  },
+  {
+    "title": "Microsoft Reveals More About Project Helix and the Future of Xbox",
+    "slug": "microsoft-reveals-more-about-project-helix-and-the-future-of-xbox-d4afa630",
+    "lang": "en",
+    "summary": "Microsoft’s Project Helix and the upcoming Call of Duty: Modern Warfare 4 are at the forefront of this week’s gaming news, as highlighted by Colt Eastwood. Project Helix, a next-generation console-PC hybrid, aims to merge the accessibility of consoles with th…",
+    "category": "assistive-tech",
+    "tags": [
+      "Microsoft",
+      "Project Helix",
+      "Xbox",
+      "accessibility"
+    ],
+    "sourceName": "Geeky Gadgets",
+    "sourceUrl": "https://www.geeky-gadgets.com/steam-deck-price-increase",
+    "relatedSources": [
+      {
+        "name": "Geeky Gadgets",
+        "url": "https://www.geeky-gadgets.com/steam-deck-price-increase"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-d4afa630",
+    "status": "published",
+    "translationOf": "microsoft-reveals-more-about-project-helix-and-the-future-of-xbox-zh-d4afa630",
+    "publishedAt": "2026-05-31T10:00:00.000Z",
+    "fetchedAt": "2026-06-01T18:18:05.271Z",
+    "body": "Microsoft’s Project Helix and the upcoming Call of Duty: Modern Warfare 4 are at the forefront of this week’s gaming news, as highlighted by Colt Eastwood. Project Helix, a next-generation console-PC hybrid, aims to merge the accessibility of consoles with th…\n\nRead more from the original source: [Geeky Gadgets](https://www.geeky-gadgets.com/steam-deck-price-increase)"
+  },
+  {
+    "title": "aperta added to PyPI",
+    "slug": "aperta-added-to-pypi-9f62990e",
+    "lang": "en",
+    "summary": "Python toolkit for cross-modal accessibility analysis on transport networks.",
+    "category": "digital-a11y",
+    "tags": [
+      "aperta",
+      "Python",
+      "transport",
+      "accessibility analysis"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/aperta",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/aperta"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-9f62990e",
+    "status": "published",
+    "translationOf": "aperta-added-to-pypi-zh-9f62990e",
+    "publishedAt": "2026-05-31T09:40:34.000Z",
+    "fetchedAt": "2026-06-01T18:18:05.324Z",
+    "body": "Python toolkit for cross-modal accessibility analysis on transport networks.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/aperta)"
+  },
+  {
+    "title": "Taichung City Bureau of Construction Completes Second Phase of Meichuan Sidewalk Improvement Project",
+    "slug": "taichung-city-bureau-of-construction-completes-second-phase-of-meichuan-sidewalk-4c9694b0",
+    "lang": "en",
+    "summary": "The Taichung City Bureau of Construction finished the second phase of the Meichuan sidewalk improvement project on May 29, investing NT$119.9 million over 1.35 km. The work integrates traffic safety, barrier-free facilities, and landscaping, creating a barrier‑free green corridor over 4 km long that provides a safe, comfortable, and aesthetically pleasing walking environment for citizens.",
+    "category": "physical-design",
+    "tags": [
+      "sidewalk",
+      "barrier-free",
+      "urban infrastructure",
+      "Taichung"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_260ad51b-3145-4cb8-8ca8-87e68f19d398",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_260ad51b-3145-4cb8-8ca8-87e68f19d398"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-4c9694b0",
+    "status": "published",
+    "translationOf": "taichung-city-bureau-of-construction-completes-second-phase-of-meichuan-sidewalk-zh-4c9694b0",
+    "publishedAt": "2026-05-31T07:41:27.000Z",
+    "fetchedAt": "2026-06-01T18:18:13.991Z",
+    "body": "The Taichung City Bureau of Construction finished the second phase of the Meichuan sidewalk improvement project on May 29, investing NT$119.9 million over 1.35 km. The work integrates traffic safety, barrier-free facilities, and landscaping, creating a barrier‑free green corridor over 4 km long that provides a safe, comfortable, and aesthetically pleasing walking environment for citizens.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_260ad51b-3145-4cb8-8ca8-87e68f19d398)"
   }
 ]
