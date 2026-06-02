@@ -128,5 +128,37 @@
     "publishedAt": "2026-02-26T08:00:00.000Z",
     "fetchedAt": "2026-05-29T04:40:46.460Z",
     "body": "The 2026 Taiwan Lantern Festival provides a single source for family-friendly, elderly-accessible, and tech navigation information.\n\nRead more from the original source: [2026taiwanlanternfestival.org](https://2026taiwanlanternfestival.org/Item/Detail/bf3a8cbe-c33b-4f18-b894-c78800505e6e)"
+  },
+  {
+    "title": "Kaohsiung's Accessible Construction Achievements Earn Top Recognition, Continues to Build a Friendly and Livable City",
+    "slug": "kaohsiungs-accessible-construction-achievements-earn-top-recognition-continues-t-e7110c0a",
+    "lang": "en",
+    "summary": "Kaohsiung's accessible infrastructure projects have received top accolades, and the city continues to advance efforts to create a more accessible and livable urban environment.",
+    "category": "physical-design",
+    "tags": [
+      "kaohsiung",
+      "accessible construction",
+      "urban accessibility"
+    ],
+    "sourceName": "kcg.gov.tw",
+    "sourceUrl": "https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=A82ED355A45A8D5E",
+    "relatedSources": [
+      {
+        "name": "kcg.gov.tw",
+        "url": "https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=A82ED355A45A8D5E"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e7110c0a",
+    "status": "published",
+    "translationOf": "kaohsiungs-accessible-construction-achievements-earn-top-recognition-continues-t-zh-e7110c0a",
+    "publishedAt": "2026-02-24T05:15:42.000Z",
+    "fetchedAt": "2026-06-02T04:59:13.621Z",
+    "body": "Kaohsiung's accessible infrastructure projects have received top accolades, and the city continues to advance efforts to create a more accessible and livable urban environment.\n\nRead more from the original source: [kcg.gov.tw](https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=A82ED355A45A8D5E)"
   }
 ]

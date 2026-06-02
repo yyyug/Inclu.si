@@ -324,5 +324,69 @@
     "publishedAt": "2026-03-29T18:23:47.000Z",
     "fetchedAt": "2026-05-09T13:51:07.206Z",
     "body": "Report on creating friendly, barrier-free rural environments.\n\nRead more from the original source: [hakkatv.org.tw](https://www.hakkatv.org.tw/video/1627982222575137)"
+  },
+  {
+    "title": "2026 Taipei Accessibility Facilities Improvement Subsidy Application Acceptance",
+    "slug": "2026-taipei-accessibility-facilities-improvement-subsidy-application-acceptance-f36c4041",
+    "lang": "en",
+    "summary": "The Taipei City government is accepting applications for subsidies to improve accessibility facilities in 2026, aiming to enhance barrier-free infrastructure.",
+    "category": "laws-rights",
+    "tags": [
+      "subsidy",
+      "Taipei",
+      "accessibility facilities"
+    ],
+    "sourceName": "中時新聞網",
+    "sourceUrl": "https://house.chinatimes.com/20260306001415-264410",
+    "relatedSources": [
+      {
+        "name": "中時新聞網",
+        "url": "https://house.chinatimes.com/20260306001415-264410"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f36c4041",
+    "status": "published",
+    "translationOf": "2026-taipei-accessibility-facilities-improvement-subsidy-application-acceptance-zh-f36c4041",
+    "publishedAt": "2026-03-06T08:00:00.000Z",
+    "fetchedAt": "2026-06-02T04:59:17.930Z",
+    "body": "The Taipei City government is accepting applications for subsidies to improve accessibility facilities in 2026, aiming to enhance barrier-free infrastructure.\n\nRead more from the original source: [中時新聞網](https://house.chinatimes.com/20260306001415-264410)"
+  },
+  {
+    "title": "Chiayi County Social Bureau Enhances Accessibility Services, Providing 100 Wheelchairs for the 2026 Taiwan Lantern Festival",
+    "slug": "chiayi-county-social-bureau-enhances-accessibility-services-providing-100-wheelc-c3f733ab",
+    "lang": "en",
+    "summary": "Chiayi County's Social Bureau will strengthen accessibility services by offering 100 wheelchairs for convenient viewing at the 2026 Taiwan Lantern Festival.",
+    "category": "assistive-tech",
+    "tags": [
+      "wheelchair",
+      "lantern festival",
+      "Chiayi"
+    ],
+    "sourceName": "2026taiwanlanternfestival.org",
+    "sourceUrl": "https://2026taiwanlanternfestival.org/Item/Detail/8389dd02-77a7-4fda-a8a7-29189ddd3bb4",
+    "relatedSources": [
+      {
+        "name": "2026taiwanlanternfestival.org",
+        "url": "https://2026taiwanlanternfestival.org/Item/Detail/8389dd02-77a7-4fda-a8a7-29189ddd3bb4"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-c3f733ab",
+    "status": "published",
+    "translationOf": "chiayi-county-social-bureau-enhances-accessibility-services-providing-100-wheelc-zh-c3f733ab",
+    "publishedAt": "2026-03-10T07:00:00.000Z",
+    "fetchedAt": "2026-06-02T04:59:17.932Z",
+    "body": "Chiayi County's Social Bureau will strengthen accessibility services by offering 100 wheelchairs for convenient viewing at the 2026 Taiwan Lantern Festival.\n\nRead more from the original source: [2026taiwanlanternfestival.org](https://2026taiwanlanternfestival.org/Item/Detail/8389dd02-77a7-4fda-a8a7-29189ddd3bb4)"
   }
 ]
