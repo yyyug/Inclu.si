@@ -1,39 +1,39 @@
 {
-  "date": "2026-06-01",
-  "generatedAt": "2026-06-01T05:28:41.015Z",
+  "date": "2026-06-02",
+  "generatedAt": "2026-06-02T05:14:15.119Z",
   "en": {
-    "title": "Daily Accessibility Digest – June 1, 2026",
-    "summary": "Advocacy tweet stresses inclusion and accessibility; digital banking accessibility boosts user confidence; youth with disabilities claim full inclusion.",
+    "title": "Accessibility Digest: Playground Upgrades, Bank Renovation Model, and Student-Led Solutions",
+    "summary": "On June 2, 2026, a Ph.D. student highlighted the importance of listening to disabled voices in developing accessibility solutions, while Taiwan's Taoyuan Bank Zhongping Branch received affirmation for its accessibility renovations, setting a model for historic building transformation. Additionally, the community in Boise celebrated a new playground with enhanced accessible features at Fairview Park.",
     "highlights": [
       {
-        "title": "Advocacy for Disability Inclusion",
-        "slug": "advocacy-for-disability-inclusion-0e134301"
+        "title": "Listening to the voices: Ph.D. student working on accessibility for those with disabilities - The Daily Times",
+        "slug": "listening-to-the-voices-phd-student-working-on-accessibility-for-those-with-disa-9faa636a"
       },
       {
-        "title": "Digital Banking Accessibility Boosts User Confidence",
-        "slug": "digital-banking-accessibility-boosts-user-confidence-8038a793"
+        "title": "Accessibility Renovation Results of Taoyuan Bank Zhongping Branch Affirmed, Setting a New Model for Historic Building Transformation",
+        "slug": "accessibility-renovation-results-of-taoyuan-bank-zhongping-branch-affirmed-setti-e1a46e76"
       },
       {
-        "title": "Youth with Disabilities Claim Full Inclusion",
-        "slug": "youth-with-disabilities-claim-full-inclusion-162c0866"
+        "title": "Community Gathers to Celebrate New Playground, More Accessible Features at Fairview Park - City of Boise",
+        "slug": "community-gathers-to-celebrate-new-playground-more-accessible-features-at-fairvi-708fed4a"
       }
     ]
   },
   "zh-TW": {
-    "title": "每日無障礙消化 – 2026年6月1日",
-    "summary": "倡導推文強調包容與無障礙；數字銀行無障礙提升用戶信心；殘疾青年主張完全包容。",
+    "title": "無障礙每日摘要：遊樂場升級、銀行改造典範與學生導向解決方案",
+    "summary": "2026年6月2日，一位博士生強調傾聽殘障人士聲音以開發無障礙解決方案；台灣銀行中屏分行的無障礙改造成果獲肯定，成為歷史建築轉型的新典範。此外，博伊斯社區在費維爾公園慶祝新啟用的遊樂場，增添更多無障礙設施。",
     "highlights": [
       {
-        "title": "倡导残疾人包容",
-        "slug": "advocacy-for-disability-inclusion-zh-0e134301"
+        "title": "傾聽聲音：博士生致力於殘障人士的無障礙工作 - The Daily Times",
+        "slug": "listening-to-the-voices-phd-student-working-on-accessibility-for-those-with-disa-zh-9faa636a"
       },
       {
-        "title": "数字银行无障碍提升用户信心",
-        "slug": "digital-banking-accessibility-boosts-user-confidence-zh-8038a793"
+        "title": "臺灣銀行中屏分行無障礙改造成果獲肯定 打造歷史建築轉型新典範",
+        "slug": "accessibility-renovation-results-of-taoyuan-bank-zhongping-branch-affirmed-setti-zh-e1a46e76"
       },
       {
-        "title": "残疾青年主张完全包容",
-        "slug": "youth-with-disabilities-claim-full-inclusion-zh-162c0866"
+        "title": "社區聚集慶祝費維爾公園新遊樂場，增添更多無障礙設施 - City of Boise",
+        "slug": "community-gathers-to-celebrate-new-playground-more-accessible-features-at-fairvi-zh-708fed4a"
       }
     ]
   }
