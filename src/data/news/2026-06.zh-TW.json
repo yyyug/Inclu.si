@@ -1016,5 +1016,739 @@
     "publishedAt": "2026-06-01T03:46:14.000Z",
     "fetchedAt": "2026-06-02T04:59:17.934Z",
     "body": "BBH Lite 是一個輕量級、響應式的 WordPress 主題，提供多層導航、小工具區域、自訂控制、完整 Gutenberg 支援以及內建的無障礙功能。\n\n原文來源： [Wordpress.org](https://wordpress.org/themes/bbh-lite)"
+  },
+  {
+    "title": "肯特區圖書館透過科技、培訓與社區夥伴擴展無障礙服務",
+    "slug": "kent-district-library-expands-accessibility-services-through-technology-training-zh-0a9dffa3",
+    "lang": "zh-TW",
+    "summary": "肯特區圖書館正透過引入新科技、提供員工培訓及建立社區合作，提升對殘障 patrons 的無障礙服務。",
+    "category": "digital-a11y",
+    "tags": [
+      "library",
+      "accessibility",
+      "technology",
+      "training",
+      "community partnerships"
+    ],
+    "sourceName": "rapidgrowthmedia.com",
+    "sourceUrl": "https://rapidgrowthmedia.com/kent-district-library-expands-accessibility-services-through-technology-training-community-partnerships",
+    "relatedSources": [
+      {
+        "name": "rapidgrowthmedia.com",
+        "url": "https://rapidgrowthmedia.com/kent-district-library-expands-accessibility-services-through-technology-training-community-partnerships"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-0a9dffa3",
+    "status": "published",
+    "translationOf": "kent-district-library-expands-accessibility-services-through-technology-training-0a9dffa3",
+    "publishedAt": "2026-06-02T15:54:17.000Z",
+    "fetchedAt": "2026-06-02T16:54:02.367Z",
+    "body": "肯特區圖書館正透過引入新科技、提供員工培訓及建立社區合作，提升對殘障 patrons 的無障礙服務。\n\n原文來源： [rapidgrowthmedia.com](https://rapidgrowthmedia.com/kent-district-library-expands-accessibility-services-through-technology-training-community-partnerships)"
+  },
+  {
+    "title": "波茨坦村計畫擴展 Sandstoner 公園的無障礙設施",
+    "slug": "village-of-potsdam-looking-to-expand-accessibility-at-sandstoner-park-zh-104670d4",
+    "lang": "zh-TW",
+    "summary": "波茨坦村擬改善 Sandstoner 公園的步道、設施與便利設施，以提供所有遊客包容性的休閒體驗。",
+    "category": "physical-design",
+    "tags": [
+      "park",
+      "accessibility",
+      "physical design",
+      "Potsdam",
+      "Sandstoner Park"
+    ],
+    "sourceName": "nny360.com",
+    "sourceUrl": "https://www.nny360.com/top_stories/village-of-potsdam-looking-to-expand-accessibility-at-sandstoner-park/article_3bee3e83-ab0c-5010-9a59-f6bab40d3b36.html",
+    "relatedSources": [
+      {
+        "name": "nny360.com",
+        "url": "https://www.nny360.com/top_stories/village-of-potsdam-looking-to-expand-accessibility-at-sandstoner-park/article_3bee3e83-ab0c-5010-9a59-f6bab40d3b36.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-104670d4",
+    "status": "published",
+    "translationOf": "village-of-potsdam-looking-to-expand-accessibility-at-sandstoner-park-104670d4",
+    "publishedAt": "2026-06-02T15:30:00.000Z",
+    "fetchedAt": "2026-06-02T16:54:02.372Z",
+    "body": "波茨坦村擬改善 Sandstoner 公園的步道、設施與便利設施，以提供所有遊客包容性的休閒體驗。\n\n原文來源： [nny360.com](https://www.nny360.com/top_stories/village-of-potsdam-looking-to-expand-accessibility-at-sandstoner-park/article_3bee3e83-ab0c-5010-9a59-f6bab40d3b36.html)"
+  },
+  {
+    "title": "大學畢業生設計貼紙提醒大家無障礙是人人皆需",
+    "slug": "college-grad-designs-new-sticker-reminding-us-accessibility-is-for-everyone-zh-d3971405",
+    "lang": "zh-TW",
+    "summary": "一位近期大學畢業生推出貼紙活動，傳達「無障礙人人適用」的訊息，以提高大眾對包容性的認識與行動。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "sticker",
+      "awareness",
+      "accessibility",
+      "college graduate",
+      "inclusion"
+    ],
+    "sourceName": "WZZM13.com",
+    "sourceUrl": "https://www.wzzm13.com/article/news/local/college-grad-designs-stickers-accessibility-is-for-everyone/69-2f89887d-02f0-4e9c-af91-99283b81df4a",
+    "relatedSources": [
+      {
+        "name": "WZZM13.com",
+        "url": "https://www.wzzm13.com/article/news/local/college-grad-designs-stickers-accessibility-is-for-everyone/69-2f89887d-02f0-4e9c-af91-99283b81df4a"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-d3971405",
+    "status": "published",
+    "translationOf": "college-grad-designs-new-sticker-reminding-us-accessibility-is-for-everyone-d3971405",
+    "publishedAt": "2026-06-02T12:47:00.000Z",
+    "fetchedAt": "2026-06-02T16:54:02.375Z",
+    "body": "一位近期大學畢業生推出貼紙活動，傳達「無障礙人人適用」的訊息，以提高大眾對包容性的認識與行動。\n\n原文來源： [WZZM13.com](https://www.wzzm13.com/article/news/local/college-grad-designs-stickers-accessibility-is-for-everyone/69-2f89887d-02f0-4e9c-af91-99283b81df4a)"
+  },
+  {
+    "title": "阿肯色州民眾分享推動真正無障礙與包容 - KNWA FOX24",
+    "slug": "arkansans-share-push-for-true-accessibility-inclusion-knwa-fox24-zh-20911044",
+    "lang": "zh-TW",
+    "summary": "阿肯色州的民眾正在倡導真正的無障礙與包容，強調他們為改善殘障人士可及性所做的努力。",
+    "category": "laws-rights",
+    "tags": [
+      "accessibility",
+      "inclusion",
+      "advocacy",
+      "Arkansas"
+    ],
+    "sourceName": "KNWA FOX24",
+    "sourceUrl": "https://www.nwahomepage.com/news/featured-stories/arkansans-share-push-for-true-accessibility-inclusion",
+    "relatedSources": [
+      {
+        "name": "KNWA FOX24",
+        "url": "https://www.nwahomepage.com/news/featured-stories/arkansans-share-push-for-true-accessibility-inclusion"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-20911044",
+    "status": "published",
+    "translationOf": "arkansans-share-push-for-true-accessibility-inclusion-knwa-fox24-20911044",
+    "publishedAt": "2026-06-02T14:52:00.000Z",
+    "fetchedAt": "2026-06-02T16:54:23.471Z",
+    "body": "阿肯色州的民眾正在倡導真正的無障礙與包容，強調他們為改善殘障人士可及性所做的努力。\n\n原文來源： [KNWA FOX24](https://www.nwahomepage.com/news/featured-stories/arkansans-share-push-for-true-accessibility-inclusion)"
+  },
+  {
+    "title": "人人維基：橋接2026年駭客松的無障礙差距 - Wikimedia.org",
+    "slug": "wikis-for-everyone-bridging-the-accessibility-gap-at-the-2026-hackathon-wikimedi-zh-f91a0de2",
+    "lang": "zh-TW",
+    "summary": "2026年維基駭客松專注於讓維基更具無障礙性，展示旨在縮小殘障用戶無障礙差距的專案與討論。",
+    "category": "digital-a11y",
+    "tags": [
+      "wiki",
+      "accessibility",
+      "hackathon",
+      "Wikimedia",
+      "digital accessibility"
+    ],
+    "sourceName": "Wikimedia.org",
+    "sourceUrl": "https://diff.wikimedia.org/2026/06/02/wikis-for-everyone-bridging-the-accessibility-gap-at-the-2026-hackathon",
+    "relatedSources": [
+      {
+        "name": "Wikimedia.org",
+        "url": "https://diff.wikimedia.org/2026/06/02/wikis-for-everyone-bridging-the-accessibility-gap-at-the-2026-hackathon"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f91a0de2",
+    "status": "published",
+    "translationOf": "wikis-for-everyone-bridging-the-accessibility-gap-at-the-2026-hackathon-wikimedi-f91a0de2",
+    "publishedAt": "2026-06-02T13:00:00.000Z",
+    "fetchedAt": "2026-06-02T16:54:23.474Z",
+    "body": "2026年維基駭客松專注於讓維基更具無障礙性，展示旨在縮小殘障用戶無障礙差距的專案與討論。\n\n原文來源： [Wikimedia.org](https://diff.wikimedia.org/2026/06/02/wikis-for-everyone-bridging-the-accessibility-gap-at-the-2026-hackathon)"
+  },
+  {
+    "title": "13款無障礙音樂製作工具 - DJ Mag",
+    "slug": "13-accessible-music-making-tools-dj-mag-zh-da6b87ae",
+    "lang": "zh-TW",
+    "summary": "DJ Mag列出十三款專為無障礙設計的音樂創作工具，使殘障音樂家能夠作曲與製作音樂。",
+    "category": "assistive-tech",
+    "tags": [
+      "music",
+      "accessible tools",
+      "assistive technology",
+      "DJ Mag"
+    ],
+    "sourceName": "DJ Mag",
+    "sourceUrl": "https://djmag.com/features/13-accessible-music-making-tools",
+    "relatedSources": [
+      {
+        "name": "DJ Mag",
+        "url": "https://djmag.com/features/13-accessible-music-making-tools"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-da6b87ae",
+    "status": "published",
+    "translationOf": "13-accessible-music-making-tools-dj-mag-da6b87ae",
+    "publishedAt": "2026-06-02T13:10:42.000Z",
+    "fetchedAt": "2026-06-02T16:54:23.476Z",
+    "body": "DJ Mag列出十三款專為無障礙設計的音樂創作工具，使殘障音樂家能夠作曲與製作音樂。\n\n原文來源： [DJ Mag](https://djmag.com/features/13-accessible-music-making-tools)"
+  },
+  {
+    "title": "牙科診所獲額外一年時間以符合數位無障礙要求",
+    "slug": "dental-practices-get-extra-year-for-digital-accessibility-zh-a525b43e",
+    "lang": "zh-TW",
+    "summary": "根據DrBicuspid.com報導，牙科診所獲准延長一年時間以滿足數位無障礙合規要求。",
+    "category": "digital-a11y",
+    "tags": [
+      "digital accessibility",
+      "dental",
+      "regulation",
+      "compliance"
+    ],
+    "sourceName": "DrBicuspid.com",
+    "sourceUrl": "https://www.drbicuspid.com/dental-business/regulatory-updates/article/15826318/dental-practices-get-extra-year-for-digital-accessibility",
+    "relatedSources": [
+      {
+        "name": "DrBicuspid.com",
+        "url": "https://www.drbicuspid.com/dental-business/regulatory-updates/article/15826318/dental-practices-get-extra-year-for-digital-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a525b43e",
+    "status": "published",
+    "translationOf": "dental-practices-get-extra-year-for-digital-accessibility-a525b43e",
+    "publishedAt": "2026-06-02T07:24:48.000Z",
+    "fetchedAt": "2026-06-02T16:54:39.262Z",
+    "body": "根據DrBicuspid.com報導，牙科診所獲准延長一年時間以滿足數位無障礙合規要求。\n\n原文來源： [DrBicuspid.com](https://www.drbicuspid.com/dental-business/regulatory-updates/article/15826318/dental-practices-get-extra-year-for-digital-accessibility)"
+  },
+  {
+    "title": "為自閉症人士提供的新社會住宅",
+    "slug": "new-social-homes-for-people-with-autism-zh-e0fe4099",
+    "lang": "zh-TW",
+    "summary": "塔朗加新落成七戶社會住宅，專為自閉症人士設計，係政府2024年預算資助的住房計畫之一。",
+    "category": "physical-design",
+    "tags": [
+      "autism",
+      "social housing",
+      "Tauranga",
+      "disability",
+      "physical design"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/06/02/misc/new-social-homes-for-people-with-autism",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/06/02/misc/new-social-homes-for-people-with-autism"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-e0fe4099",
+    "status": "published",
+    "translationOf": "new-social-homes-for-people-with-autism-e0fe4099",
+    "publishedAt": "2026-06-02T05:55:33.000Z",
+    "fetchedAt": "2026-06-02T16:54:39.265Z",
+    "body": "塔朗加新落成七戶社會住宅，專為自閉症人士設計，係政府2024年預算資助的住房計畫之一。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/06/02/misc/new-social-homes-for-people-with-autism)"
+  },
+  {
+    "title": "全國領先的電子移動法令將使昆士蘭更安全",
+    "slug": "nation-leading-e-mobility-laws-to-make-queensland-safer-zh-2fcbd54e",
+    "lang": "zh-TW",
+    "summary": "昆士蘭將實施全國領先的電子移動法令，打擊危險的電動滑板車和電動自行車行為，授予警察沒收並銷毀非法設備的權力，自8月31日起生效。",
+    "category": "laws-rights",
+    "tags": [
+      "e-mobility",
+      "Queensland",
+      "law",
+      "safety"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/06/02/law/nation-leading-e-mobility-laws-to-make-queensland-safer",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/06/02/law/nation-leading-e-mobility-laws-to-make-queensland-safer"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-2fcbd54e",
+    "status": "published",
+    "translationOf": "nation-leading-e-mobility-laws-to-make-queensland-safer-2fcbd54e",
+    "publishedAt": "2026-06-02T05:42:57.000Z",
+    "fetchedAt": "2026-06-02T16:55:00.624Z",
+    "body": "昆士蘭將實施全國領先的電子移動法令，打擊危險的電動滑板車和電動自行車行為，授予警察沒收並銷毀非法設備的權力，自8月31日起生效。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/06/02/law/nation-leading-e-mobility-laws-to-make-queensland-safer)"
+  },
+  {
+    "title": "Canada invests $22.8M to strengthen indigenous sport programs",
+    "slug": "canada-invests-228m-to-strengthen-indigenous-sport-programs-zh-0b88bc13",
+    "lang": "zh-TW",
+    "summary": "The federal government is investing in programs and initiatives that support First Nations, Inuit and Métis peoples and promote strong, healthy and thriving Indigenous communities across Canada. Access to sport and physical activity is fundamental to supporting these social outcomes. Today, the Honourable Adam van Koeverden, Secretary of State (Sport), announced the 2026–2028 funding recipients … Continue reading \"Canada invests $22.8M to strengthen indigenous sport programs\"\nThe post Canada invests $22.8M to strengthen indigenous sport programs appeared first on Disability Insider.",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/06/02/sports/canada-invests-22-8m-to-strengthen-indigenous-sport-programs",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/06/02/sports/canada-invests-22-8m-to-strengthen-indigenous-sport-programs"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-0b88bc13",
+    "status": "published",
+    "translationOf": "canada-invests-228m-to-strengthen-indigenous-sport-programs-0b88bc13",
+    "publishedAt": "2026-06-02T05:34:02.000Z",
+    "fetchedAt": "2026-06-02T16:55:00.627Z",
+    "body": "The federal government is investing in programs and initiatives that support First Nations, Inuit and Métis peoples and promote strong, healthy and thriving Indigenous communities across Canada. Access to sport and physical activity is fundamental to supporting these social outcomes. Today, the Honourable Adam van Koeverden, Secretary of State (Sport), announced the 2026–2028 funding recipients … Continue reading \"Canada invests $22.8M to strengthen indigenous sport programs\"\nThe post Canada invests $22.8M to strengthen indigenous sport programs appeared first on Disability Insider.\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/06/02/sports/canada-invests-22-8m-to-strengthen-indigenous-sport-programs)"
+  },
+  {
+    "title": "議會支持無障礙通行、規劃與現場音樂",
+    "slug": "council-backs-disability-access-planning-and-live-music-zh-4c3bbda8",
+    "lang": "zh-TW",
+    "summary": "雅拉市副市長出席維多利亞州市政協會州議會，議會重申其對無障礙通行、城市規劃及支援現場音樂活動的承諾。",
+    "category": "physical-design",
+    "tags": [
+      "disability access",
+      "planning",
+      "live music",
+      "Yarra",
+      "MAV"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/06/02/accessibility/council-backs-disability-access-planning-and-live-music",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/06/02/accessibility/council-backs-disability-access-planning-and-live-music"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-4c3bbda8",
+    "status": "published",
+    "translationOf": "council-backs-disability-access-planning-and-live-music-4c3bbda8",
+    "publishedAt": "2026-06-02T01:56:25.000Z",
+    "fetchedAt": "2026-06-02T16:55:00.630Z",
+    "body": "雅拉市副市長出席維多利亞州市政協會州議會，議會重申其對無障礙通行、城市規劃及支援現場音樂活動的承諾。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/06/02/accessibility/council-backs-disability-access-planning-and-live-music)"
+  },
+  {
+    "title": "NDIS 改革將『傷害』澳洲殘障人士，政府自身委員會警告",
+    "slug": "ndis-overhaul-will-harm-australians-with-disabilities-governments-own-committee--zh-20a06676",
+    "lang": "zh-TW",
+    "summary": "聯邦政府的改革顧問委員會警告，國家殘障保險計畫（NDIS）的提出改革將對澳洲殘障人士造成實質傷害，破壞計畫原始宗旨，並賦予衛生部長前所未有的權力。澳洲人權委員會亦呼籲暫停，以避免可能的人權負面影響。",
+    "category": "laws-rights",
+    "tags": [
+      "NDIS",
+      "disability rights",
+      "policy reform",
+      "Australia"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/australia-news/2026/jun/03/ndis-budget-cuts-overhaul-material-harm-australians-with-disabilities-government-advisory-committee-warns",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/03/ndis-budget-cuts-overhaul-material-harm-australians-with-disabilities-government-advisory-committee-warns"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-20a06676",
+    "status": "published",
+    "translationOf": "ndis-overhaul-will-harm-australians-with-disabilities-governments-own-committee--20a06676",
+    "publishedAt": "2026-06-02T15:00:27.000Z",
+    "fetchedAt": "2026-06-02T16:55:20.493Z",
+    "body": "聯邦政府的改革顧問委員會警告，國家殘障保險計畫（NDIS）的提出改革將對澳洲殘障人士造成實質傷害，破壞計畫原始宗旨，並賦予衛生部長前所未有的權力。澳洲人權委員會亦呼籲暫停，以避免可能的人權負面影響。\n\n原文來源： [Unknown source](https://www.theguardian.com/australia-news/2026/jun/03/ndis-budget-cuts-overhaul-material-harm-australians-with-disabilities-government-advisory-committee-warns)"
+  },
+  {
+    "title": "英國殘障奧運選手或成為首位軌道居住的殘障太空人",
+    "slug": "british-paralympian-could-be-first-astronaut-with-physical-disability-to-live-in-zh-96a03af5",
+    "lang": "zh-TW",
+    "summary": "英國殘障奧運選手兼外科醫師約翰·麥克法爾（John McFall）是歐洲太空總署宇航員後備成員，英國太空署與美國新創公司 Vast 簽署協議，計畫讓他參與 2027 年發射的 Haven-1 太空站任務，有望成為首位具身體殘障且長期居住軌道的太空人。",
+    "category": "assistive-tech",
+    "tags": [
+      "Paralympian",
+      "astronaut",
+      "disability inclusion",
+      "space",
+      "assistive technology"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/science/2026/jun/02/british-paralympian-john-mcfall-astronaut-disability-space-station-haven-1-vast",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/science/2026/jun/02/british-paralympian-john-mcfall-astronaut-disability-space-station-haven-1-vast"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-96a03af5",
+    "status": "published",
+    "translationOf": "british-paralympian-could-be-first-astronaut-with-physical-disability-to-live-in-96a03af5",
+    "publishedAt": "2026-06-02T05:00:39.000Z",
+    "fetchedAt": "2026-06-02T16:55:20.496Z",
+    "body": "英國殘障奧運選手兼外科醫師約翰·麥克法爾（John McFall）是歐洲太空總署宇航員後備成員，英國太空署與美國新創公司 Vast 簽署協議，計畫讓他參與 2027 年發射的 Haven-1 太空站任務，有望成為首位具身體殘障且長期居住軌道的太空人。\n\n原文來源： [Unknown source](https://www.theguardian.com/science/2026/jun/02/british-paralympian-john-mcfall-astronaut-disability-space-station-haven-1-vast)"
+  },
+  {
+    "title": "不容遲疑：EU 使用 DAC 殘障標記",
+    "slug": "no-time-to-lose-eu-use-of-the-dac-disability-marker-zh-aec844c9",
+    "lang": "zh-TW",
+    "summary": "歐洲殘障論壇發布報告，評估 2018 至 2030 年間歐洲對殘障包容的援助，說明 OECD 發展援助委員會的殘障標記如何在 EU 資金中被應用，並呼籲加強執行，以確保國際援助中殘障權利得到保障。",
+    "category": "laws-rights",
+    "tags": [
+      "EU",
+      "disability marker",
+      "development assistance",
+      "disability inclusion",
+      "policy"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.edf-feph.org/no-time-to-lose-eu-use-of-the-dac-disability-marker",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.edf-feph.org/no-time-to-lose-eu-use-of-the-dac-disability-marker"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.edf-feph.org/feed",
+    "ingestProvider": "edf-feph.org",
+    "clusterId": "cluster-aec844c9",
+    "status": "published",
+    "translationOf": "no-time-to-lose-eu-use-of-the-dac-disability-marker-aec844c9",
+    "publishedAt": "2026-06-02T14:45:14.000Z",
+    "fetchedAt": "2026-06-02T16:55:20.499Z",
+    "body": "歐洲殘障論壇發布報告，評估 2018 至 2030 年間歐洲對殘障包容的援助，說明 OECD 發展援助委員會的殘障標記如何在 EU 資金中被應用，並呼籲加強執行，以確保國際援助中殘障權利得到保障。\n\n原文來源： [Unknown source](https://www.edf-feph.org/no-time-to-lose-eu-use-of-the-dac-disability-marker)"
+  },
+  {
+    "title": "Workout Anytime 在 Homestead 開設新旗艦店，提供創新服務給社區",
+    "slug": "workout-anytime-opens-new-flagship-location-in-homestead-offers-innovative-servi-zh-74659428",
+    "lang": "zh-TW",
+    "summary": "Workout Anytime 在佛羅里達州 Homestead 開設了一座 22,000 平方呎的新旗艦設施，提供高級健康設施與 AI 驅動的訓練設備，強調為社區提供無障礙健康服務。",
+    "category": "physical-design",
+    "tags": [
+      "fitness",
+      "accessibility",
+      "facility"
+    ],
+    "sourceName": "PRNewswire",
+    "sourceUrl": "https://www.prnewswire.com/news-releases/workout-anytime-opens-new-flagship-location-in-homestead-offers-innovative-services-to-community-302787248.html",
+    "relatedSources": [
+      {
+        "name": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/workout-anytime-opens-new-flagship-location-in-homestead-offers-innovative-services-to-community-302787248.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-74659428",
+    "status": "published",
+    "translationOf": "workout-anytime-opens-new-flagship-location-in-homestead-offers-innovative-servi-74659428",
+    "publishedAt": "2026-06-01T15:27:00.000Z",
+    "fetchedAt": "2026-06-02T16:55:35.708Z",
+    "body": "Workout Anytime 在佛羅里達州 Homestead 開設了一座 22,000 平方呎的新旗艦設施，提供高級健康設施與 AI 驅動的訓練設備，強調為社區提供無障礙健康服務。\n\n原文來源： [PRNewswire](https://www.prnewswire.com/news-releases/workout-anytime-opens-new-flagship-location-in-homestead-offers-innovative-services-to-community-302787248.html)"
+  },
+  {
+    "title": "讓數位對視障人士可及：心理與網路安全的交叉議題",
+    "slug": "making-digital-accessible-for-visually-impaired-individuals-an-issue-at-the-cros-zh-017d3efb",
+    "lang": "zh-TW",
+    "summary": "對於視障人士而言，使用密碼或其他驗證方式可能成為無法克服的障礙，因為數位服務變得不可或缺。此凸顯需要結合心理與網路安全考量的無障礙數位設計。",
+    "category": "digital-a11y",
+    "tags": [
+      "visual impairment",
+      "digital accessibility",
+      "cybersecurity",
+      "psychology"
+    ],
+    "sourceName": "The Conversation Africa",
+    "sourceUrl": "https://theconversation.com/rendre-le-numerique-accessible-aux-personnes-deficientes-visuelles-un-enjeu-a-la-croisee-de-la-psychologie-et-de-la-cybersecurite-280767",
+    "relatedSources": [
+      {
+        "name": "The Conversation Africa",
+        "url": "https://theconversation.com/rendre-le-numerique-accessible-aux-personnes-deficientes-visuelles-un-enjeu-a-la-croisee-de-la-psychologie-et-de-la-cybersecurite-280767"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-017d3efb",
+    "status": "published",
+    "translationOf": "making-digital-accessible-for-visually-impaired-individuals-an-issue-at-the-cros-017d3efb",
+    "publishedAt": "2026-06-01T15:26:33.000Z",
+    "fetchedAt": "2026-06-02T16:55:35.712Z",
+    "body": "對於視障人士而言，使用密碼或其他驗證方式可能成為無法克服的障礙，因為數位服務變得不可或缺。此凸顯需要結合心理與網路安全考量的無障礙數位設計。\n\n原文來源： [The Conversation Africa](https://theconversation.com/rendre-le-numerique-accessible-aux-personnes-deficientes-visuelles-un-enjeu-a-la-croisee-de-la-psychologie-et-de-la-cybersecurite-280767)"
+  },
+  {
+    "title": "臺銀中屏分行改造 歷史建築轉型",
+    "slug": "taibank-zhongping-branch-renovation-transforms-historic-building-into-accessible-zh-05357678",
+    "lang": "zh-TW",
+    "summary": "臺灣銀行中屏分行近期榮獲『屏東縣優化輔導建物無障礙環境』優良改善案例肯定，透過加設坡道、電梯等無障礙設施，在保留歷史特色的同時提升建物無障礙度，成為既有建築友善轉型的代表。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "historic building",
+      "bank",
+      "physical design",
+      "Pingtung"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E8%87%BA%E9%8A%80%E4%B8%AD%E5%B1%8F%E5%88%86%E8%A1%8C%E6%94%B9%E9%80%A0-%E6%AD%B7%E5%8F%B2%E5%BB%BA%E7%AF%89%E8%BD%89%E5%9E%8B-153426214.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E8%87%BA%E9%8A%80%E4%B8%AD%E5%B1%8F%E5%88%86%E8%A1%8C%E6%94%B9%E9%80%A0-%E6%AD%B7%E5%8F%B2%E5%BB%BA%E7%AF%89%E8%BD%89%E5%9E%8B-153426214.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-05357678",
+    "status": "published",
+    "translationOf": "taibank-zhongping-branch-renovation-transforms-historic-building-into-accessible-05357678",
+    "publishedAt": "2026-06-01T15:34:26.000Z",
+    "fetchedAt": "2026-06-02T16:56:14.192Z",
+    "body": "臺灣銀行中屏分行近期榮獲『屏東縣優化輔導建物無障礙環境』優良改善案例肯定，透過加設坡道、電梯等無障礙設施，在保留歷史特色的同時提升建物無障礙度，成為既有建築友善轉型的代表。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E8%87%BA%E9%8A%80%E4%B8%AD%E5%B1%8F%E5%88%86%E8%A1%8C%E6%94%B9%E9%80%A0-%E6%AD%B7%E5%8F%B2%E5%BB%BA%E7%AF%89%E8%BD%89%E5%9E%8B-153426214.html)"
+  },
+  {
+    "title": "勞工局非典型就業 身障職涯新契機",
+    "slug": "tainan-city-labor-bureau-introduces-nontraditional-employment-initiative-for-per-zh-7cb9b8b1",
+    "lang": "zh-TW",
+    "summary": "臺南市政府勞工局推出『身心障礙者非典型就業多元支持輔導服務』，提供個別化訓練與創業輔導，幫助有學習或創作意願的身障者拓展職涯。以使用者『小智』為例，他因先天性肌失養症肢體漸退化，透過該服務獲得遠端工作與技能培訓，重新找回工作動機與生活希望。",
+    "category": "laws-rights",
+    "tags": [
+      "disability employment",
+      "labor bureau",
+      "non-traditional employment",
+      "assistive support",
+      "Tainan"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_de44123f-0868-4140-93fa-1de98ee2fe9b",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_de44123f-0868-4140-93fa-1de98ee2fe9b"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-7cb9b8b1",
+    "status": "published",
+    "translationOf": "tainan-city-labor-bureau-introduces-nontraditional-employment-initiative-for-per-7cb9b8b1",
+    "publishedAt": "2026-06-01T12:55:33.000Z",
+    "fetchedAt": "2026-06-02T16:56:14.196Z",
+    "body": "臺南市政府勞工局推出『身心障礙者非典型就業多元支持輔導服務』，提供個別化訓練與創業輔導，幫助有學習或創作意願的身障者拓展職涯。以使用者『小智』為例，他因先天性肌失養症肢體漸退化，透過該服務獲得遠端工作與技能培訓，重新找回工作動機與生活希望。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_de44123f-0868-4140-93fa-1de98ee2fe9b)"
+  },
+  {
+    "title": "服務逾37載 中市府斥資2000萬元升級龍井老人會館",
+    "slug": "taichung-city-allocates-nt20-million-to-upgrade-longjing-elderly-activity-center-zh-c8a52003",
+    "lang": "zh-TW",
+    "summary": "龍井區老人會館服務逾37年，因設備老舊難以符合高齡化需求，臺中市政府斥資2,000萬元進行內部整修並增設電梯，預計10月完工。工程完成後將導入銀髮健身、健康諮詢、樂齡學習及無障礙友善設施，打造更安全舒適的高齡友善場域。",
+    "category": "physical-design",
+    "tags": [
+      "elderly center",
+      "accessibility",
+      "elevator",
+      "Taichung",
+      "senior services"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%9C%8D%E5%8B%99%E9%80%BE37%E8%BC%89-%E4%B8%AD%E5%B8%82%E5%BA%9C%E6%96%A5%E8%B3%872000%E8%90%AC%E5%85%83%E5%8D%87%E7%B4%9A%E9%BE%8D%E4%BA%95%E8%80%81%E4%BA%BA%E6%9C%83%E9%A4%A8-105400673.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E6%9C%8D%E5%8B%99%E9%80%BE37%E8%BC%89-%E4%B8%AD%E5%B8%82%E5%BA%9C%E6%96%A5%E8%B3%872000%E8%90%AC%E5%85%83%E5%8D%87%E7%B4%9A%E9%BE%8D%E4%BA%95%E8%80%81%E4%BA%BA%E6%9C%83%E9%A4%A8-105400673.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-c8a52003",
+    "status": "published",
+    "translationOf": "taichung-city-allocates-nt20-million-to-upgrade-longjing-elderly-activity-center-c8a52003",
+    "publishedAt": "2026-06-01T10:54:00.000Z",
+    "fetchedAt": "2026-06-02T16:56:14.200Z",
+    "body": "龍井區老人會館服務逾37年，因設備老舊難以符合高齡化需求，臺中市政府斥資2,000萬元進行內部整修並增設電梯，預計10月完工。工程完成後將導入銀髮健身、健康諮詢、樂齡學習及無障礙友善設施，打造更安全舒適的高齡友善場域。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E6%9C%8D%E5%8B%99%E9%80%BE37%E8%BC%89-%E4%B8%AD%E5%B8%82%E5%BA%9C%E6%96%A5%E8%B3%872000%E8%90%AC%E5%85%83%E5%8D%87%E7%B4%9A%E9%BE%8D%E4%BA%95%E8%80%81%E4%BA%BA%E6%9C%83%E9%A4%A8-105400673.html)"
+  },
+  {
+    "title": "龍井老人會館斥資2000萬升級 打造高齡樂活新據點",
+    "slug": "dragon-well-elderly-center-invests-nt20-million-in-upgrades-to-create-a-new-hub--zh-efa63f65",
+    "lang": "zh-TW",
+    "summary": "台中市龍井區老人會館逾37年歷史，將斥資2000萬元進行內部整修與加裝電梯，未來將導入銀髮健身、健康諮詢、樂齡學習及無障礙友善設施，打造更安全舒適的高齡友善場域。",
+    "category": "physical-design",
+    "tags": [
+      "elderly care",
+      "accessibility",
+      "elevator",
+      "barrier-free",
+      "Taichung"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E9%BE%8D%E4%BA%95%E8%80%81%E4%BA%BA%E6%9C%83%E9%A4%A8%E6%96%A5%E8%B3%872000%E8%90%AC%E5%8D%87%E7%B4%9A-%E6%89%93%E9%80%A0%E9%AB%98%E9%BD%A1%E6%A8%82%E6%B4%BB%E6%96%B0%E6%93%9A%E9%BB%9E-090337409.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E9%BE%8D%E4%BA%95%E8%80%81%E4%BA%BA%E6%9C%83%E9%A4%A8%E6%96%A5%E8%B3%872000%E8%90%AC%E5%8D%87%E7%B4%9A-%E6%89%93%E9%80%A0%E9%AB%98%E9%BD%A1%E6%A8%82%E6%B4%BB%E6%96%B0%E6%93%9A%E9%BB%9E-090337409.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-efa63f65",
+    "status": "published",
+    "translationOf": "dragon-well-elderly-center-invests-nt20-million-in-upgrades-to-create-a-new-hub--efa63f65",
+    "publishedAt": "2026-06-01T09:03:37.000Z",
+    "fetchedAt": "2026-06-02T16:57:46.692Z",
+    "body": "台中市龍井區老人會館逾37年歷史，將斥資2000萬元進行內部整修與加裝電梯，未來將導入銀髮健身、健康諮詢、樂齡學習及無障礙友善設施，打造更安全舒適的高齡友善場域。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E9%BE%8D%E4%BA%95%E8%80%81%E4%BA%BA%E6%9C%83%E9%A4%A8%E6%96%A5%E8%B3%872000%E8%90%AC%E5%8D%87%E7%B4%9A-%E6%89%93%E9%80%A0%E9%AB%98%E9%BD%A1%E6%A8%82%E6%B4%BB%E6%96%B0%E6%93%9A%E9%BB%9E-090337409.html)"
+  },
+  {
+    "title": "「聽、說」無礙，生活更精彩 6月1日「聽力師節」暨「語言治療師節」快樂!",
+    "slug": "hearing-and-speech-without-barriers-life-more-colorful-happy-hearing-therapist-d-zh-bf6b25f1",
+    "lang": "zh-TW",
+    "summary": "每年六月一日為「語言治療師節」暨「聽力師節」，旨在讓更多人了解語言治療師及聽力師的工作，提升社會對語言及聽力健康的重視，感謝他們幫助聽力和語言障礙者克服溝通困難。",
+    "category": "assistive-tech",
+    "tags": [
+      "hearing therapy",
+      "speech therapy",
+      "disability awareness",
+      "June 1",
+      "Taiwan"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E8%81%BD-%E8%AA%AA-%E7%84%A1%E7%A4%99-%E7%94%9F%E6%B4%BB%E6%9B%B4%E7%B2%BE%E5%BD%A9-6%E6%9C%881%E6%97%A5-082456631.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E8%81%BD-%E8%AA%AA-%E7%84%A1%E7%A4%99-%E7%94%9F%E6%B4%BB%E6%9B%B4%E7%B2%BE%E5%BD%A9-6%E6%9C%881%E6%97%A5-082456631.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-bf6b25f1",
+    "status": "published",
+    "translationOf": "hearing-and-speech-without-barriers-life-more-colorful-happy-hearing-therapist-d-bf6b25f1",
+    "publishedAt": "2026-06-01T08:24:56.000Z",
+    "fetchedAt": "2026-06-02T16:57:46.696Z",
+    "body": "每年六月一日為「語言治療師節」暨「聽力師節」，旨在讓更多人了解語言治療師及聽力師的工作，提升社會對語言及聽力健康的重視，感謝他們幫助聽力和語言障礙者克服溝通困難。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E8%81%BD-%E8%AA%AA-%E7%84%A1%E7%A4%99-%E7%94%9F%E6%B4%BB%E6%9B%B4%E7%B2%BE%E5%BD%A9-6%E6%9C%881%E6%97%A5-082456631.html)"
+  },
+  {
+    "title": "實踐兒童表意權 新北特色共融公園達257座",
+    "slug": "implementing-childrens-right-to-express-opinions-new-taipei-boasts-257-inclusive-zh-3564b046",
+    "lang": "zh-TW",
+    "summary": "新北市響應六一國際兒童節，透過親子工作坊讓兒童參與遊戲場設計，已完成257座特色共融或全齡公園，其中五股體健防災公園與新莊頭前運動公園採多元遊具及全無障礙設計，成為兼具教育與休閒功能的「放電基地」。",
+    "category": "physical-design",
+    "tags": [
+      "child participation",
+      "inclusive playgrounds",
+      "New Taipei",
+      "accessible design",
+      "public spaces"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%AF%A6%E8%B8%90%E5%85%92%E7%AB%A5%E8%A1%A8%E6%84%8F%E6%AC%8A-%E6%96%B0%E5%8C%97%E7%89%B9%E8%89%B2%E5%85%B1%E8%9E%8D%E5%85%AC%E5%9C%92%E9%81%94257%E5%BA%A7-080813505.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E5%AF%A6%E8%B8%90%E5%85%92%E7%AB%A5%E8%A1%A8%E6%84%8F%E6%AC%8A-%E6%96%B0%E5%8C%97%E7%89%B9%E8%89%B2%E5%85%B1%E8%9E%8D%E5%85%AC%E5%9C%92%E9%81%94257%E5%BA%A7-080813505.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-3564b046",
+    "status": "published",
+    "translationOf": "implementing-childrens-right-to-express-opinions-new-taipei-boasts-257-inclusive-3564b046",
+    "publishedAt": "2026-06-01T08:08:13.000Z",
+    "fetchedAt": "2026-06-02T16:57:46.699Z",
+    "body": "新北市響應六一國際兒童節，透過親子工作坊讓兒童參與遊戲場設計，已完成257座特色共融或全齡公園，其中五股體健防災公園與新莊頭前運動公園採多元遊具及全無障礙設計，成為兼具教育與休閒功能的「放電基地」。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%AF%A6%E8%B8%90%E5%85%92%E7%AB%A5%E8%A1%A8%E6%84%8F%E6%AC%8A-%E6%96%B0%E5%8C%97%E7%89%B9%E8%89%B2%E5%85%B1%E8%9E%8D%E5%85%AC%E5%9C%92%E9%81%94257%E5%BA%A7-080813505.html)"
   }
 ]
