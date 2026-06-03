@@ -1,39 +1,47 @@
 {
-  "date": "2026-06-02",
-  "generatedAt": "2026-06-02T05:14:15.119Z",
+  "date": "2026-06-03",
+  "generatedAt": "2026-06-03T05:30:40.006Z",
   "en": {
-    "title": "Accessibility Digest: Playground Upgrades, Bank Renovation Model, and Student-Led Solutions",
-    "summary": "On June 2, 2026, a Ph.D. student highlighted the importance of listening to disabled voices in developing accessibility solutions, while Taiwan's Taoyuan Bank Zhongping Branch received affirmation for its accessibility renovations, setting a model for historic building transformation. Additionally, the community in Boise celebrated a new playground with enhanced accessible features at Fairview Park.",
+    "title": "Daily Accessibility Digest – June 3, 2026",
+    "summary": "Today's highlights include Cisco winning the TechMahaImpacT Award for digital inclusion, MSCI announcing its upcoming global market accessibility review, Atlassian hosting Accessibility Design Week 2026, and a neurodevelopmental awareness program promoting inclusion of neurodiverse individuals.",
     "highlights": [
       {
-        "title": "Listening to the voices: Ph.D. student working on accessibility for those with disabilities - The Daily Times",
-        "slug": "listening-to-the-voices-phd-student-working-on-accessibility-for-those-with-disa-9faa636a"
+        "title": "Cisco Team Wins TechMahaImpacT Award for Connectivity & Digital Inclusion",
+        "slug": "cisco-team-wins-techmahaimpact-award-for-connectivity-digital-inclusion-fbf6d772"
       },
       {
-        "title": "Accessibility Renovation Results of Taoyuan Bank Zhongping Branch Affirmed, Setting a New Model for Historic Building Transformation",
-        "slug": "accessibility-renovation-results-of-taoyuan-bank-zhongping-branch-affirmed-setti-e1a46e76"
+        "title": "MSCI to Release 2026 Global Market Accessibility Review Results",
+        "slug": "msci-to-release-2026-global-market-accessibility-review-results-c152bbf5"
       },
       {
-        "title": "Community Gathers to Celebrate New Playground, More Accessible Features at Fairview Park - City of Boise",
-        "slug": "community-gathers-to-celebrate-new-playground-more-accessible-features-at-fairvi-708fed4a"
+        "title": "Atlassian Hosts Accessibility Design Week 2026",
+        "slug": "atlassian-hosts-accessibility-design-week-2026-009bc424"
+      },
+      {
+        "title": "Neurodevelopmental Awareness Program Promotes Inclusion",
+        "slug": "neurodevelopmental-awareness-program-promotes-inclusion-3d1b6c6f"
       }
     ]
   },
   "zh-TW": {
-    "title": "無障礙每日摘要：遊樂場升級、銀行改造典範與學生導向解決方案",
-    "summary": "2026年6月2日，一位博士生強調傾聽殘障人士聲音以開發無障礙解決方案；台灣銀行中屏分行的無障礙改造成果獲肯定，成為歷史建築轉型的新典範。此外，博伊斯社區在費維爾公園慶祝新啟用的遊樂場，增添更多無障礙設施。",
+    "title": "每日无障碍资讯摘要 – 2026年6月3日",
+    "summary": "今日亮点：思科荣获TechMahaImpacT连通性与数字包容奖；MSCI宣布将发布2026年全球市场可及性审查结果；Atlassian举办2026年无障碍设计周；以及神经发育意识活动促进包容，提升对神经多样性人群的理解与接受。",
     "highlights": [
       {
-        "title": "傾聽聲音：博士生致力於殘障人士的無障礙工作 - The Daily Times",
-        "slug": "listening-to-the-voices-phd-student-working-on-accessibility-for-those-with-disa-zh-9faa636a"
+        "title": "思科团队获TechMahaImpacT连通性与数字包容奖",
+        "slug": "cisco-team-wins-techmahaimpact-award-for-connectivity-digital-inclusion-zh-fbf6d772"
       },
       {
-        "title": "臺灣銀行中屏分行無障礙改造成果獲肯定 打造歷史建築轉型新典範",
-        "slug": "accessibility-renovation-results-of-taoyuan-bank-zhongping-branch-affirmed-setti-zh-e1a46e76"
+        "title": "MSCI将发布2026年全球市场可及性审查结果",
+        "slug": "msci-to-release-2026-global-market-accessibility-review-results-zh-c152bbf5"
       },
       {
-        "title": "社區聚集慶祝費維爾公園新遊樂場，增添更多無障礙設施 - City of Boise",
-        "slug": "community-gathers-to-celebrate-new-playground-more-accessible-features-at-fairvi-zh-708fed4a"
+        "title": "Atlassian 举办 2026 年无障碍设计周",
+        "slug": "atlassian-hosts-accessibility-design-week-2026-zh-009bc424"
+      },
+      {
+        "title": "神经发育意识活动促进包容",
+        "slug": "neurodevelopmental-awareness-program-promotes-inclusion-zh-3d1b6c6f"
       }
     ]
   }
