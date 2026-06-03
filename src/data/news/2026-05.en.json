@@ -45892,5 +45892,37 @@
     "publishedAt": "2026-05-25T15:06:23.000Z",
     "fetchedAt": "2026-06-03T05:09:59.812Z",
     "body": "Shu-Te University's accessible seaside promotion activity offered canoeing and stand-up paddleboarding experiences for people with disabilities.\n\nRead more from the original source: [oac.gov.tw](https://www.oac.gov.tw/ch/home.jsp?id=558&parentpath=0%2C513%2C533%2C541&mcustomize=onemessages_view.jsp&dataserno=202512160001)"
+  },
+  {
+    "title": "Chiayi City Traffic Office Strengthens Intersection Yielding and Accessible Services, Urges Operators to Enhance Driver Training",
+    "slug": "chiayi-city-traffic-office-strengthens-intersection-yielding-and-accessible-serv-b4d2ef14",
+    "lang": "en",
+    "summary": "The Chiayi City Traffic Office is reinforcing rules for vehicles to stop and yield at intersections while promoting accessible services, and is supervising transport operators to improve driver education and training programs.",
+    "category": "physical-design",
+    "tags": [
+      "intersection safety",
+      "accessible services",
+      "driver training"
+    ],
+    "sourceName": "chiayi.gov.tw",
+    "sourceUrl": "https://www.chiayi.gov.tw/News_Content.aspx?n=455&s=939325",
+    "relatedSources": [
+      {
+        "name": "chiayi.gov.tw",
+        "url": "https://www.chiayi.gov.tw/News_Content.aspx?n=455&s=939325"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-b4d2ef14",
+    "status": "published",
+    "translationOf": "chiayi-city-traffic-office-strengthens-intersection-yielding-and-accessible-serv-zh-b4d2ef14",
+    "publishedAt": "2026-05-29T07:00:00.000Z",
+    "fetchedAt": "2026-06-03T17:13:47.139Z",
+    "body": "The Chiayi City Traffic Office is reinforcing rules for vehicles to stop and yield at intersections while promoting accessible services, and is supervising transport operators to improve driver education and training programs.\n\nRead more from the original source: [chiayi.gov.tw](https://www.chiayi.gov.tw/News_Content.aspx?n=455&s=939325)"
   }
 ]
