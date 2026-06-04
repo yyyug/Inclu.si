@@ -1,47 +1,55 @@
 {
-  "date": "2026-06-03",
-  "generatedAt": "2026-06-03T05:30:40.006Z",
+  "date": "2026-06-04",
+  "generatedAt": "2026-06-04T05:26:06.435Z",
   "en": {
-    "title": "Daily Accessibility Digest – June 3, 2026",
-    "summary": "Today's highlights include Cisco winning the TechMahaImpacT Award for digital inclusion, MSCI announcing its upcoming global market accessibility review, Atlassian hosting Accessibility Design Week 2026, and a neurodevelopmental awareness program promoting inclusion of neurodiverse individuals.",
+    "title": "Daily Accessibility Digest – June 4, 2026",
+    "summary": "Today's top stories cover inclusion in knowledge infrastructures, AI accessibility limits, India's accessibility initiatives, Waymo's accessible Ojai vehicle, and Bloomfield Library's upgrade.",
     "highlights": [
       {
-        "title": "Cisco Team Wins TechMahaImpacT Award for Connectivity & Digital Inclusion",
-        "slug": "cisco-team-wins-techmahaimpact-award-for-connectivity-digital-inclusion-fbf6d772"
+        "title": "Book explores inclusion in knowledge infrastructures",
+        "slug": "book-explores-inclusion-in-knowledge-infrastructures-4398a929"
       },
       {
-        "title": "MSCI to Release 2026 Global Market Accessibility Review Results",
-        "slug": "msci-to-release-2026-global-market-accessibility-review-results-c152bbf5"
+        "title": "AI's economic accessibility limits highlighted",
+        "slug": "ais-economic-accessibility-limits-highlighted-6c59e64f"
       },
       {
-        "title": "Atlassian Hosts Accessibility Design Week 2026",
-        "slug": "atlassian-hosts-accessibility-design-week-2026-009bc424"
+        "title": "Breaking Barriers for an Accessible India",
+        "slug": "breaking-barriers-for-an-accessible-india-ae6acbc6"
       },
       {
-        "title": "Neurodevelopmental Awareness Program Promotes Inclusion",
-        "slug": "neurodevelopmental-awareness-program-promotes-inclusion-3d1b6c6f"
+        "title": "Waymo expands driverless fleet with new Ojai vehicle designed for accessibility and comfort",
+        "slug": "waymo-expands-driverless-fleet-with-new-ojai-vehicle-designed-for-accessibility--0ee3dff3"
+      },
+      {
+        "title": "Bloomfield Library Completes Major Accessibility Upgrade",
+        "slug": "bloomfield-library-completes-major-accessibility-upgrade-0d8e15c0"
       }
     ]
   },
   "zh-TW": {
-    "title": "每日无障碍资讯摘要 – 2026年6月3日",
-    "summary": "今日亮点：思科荣获TechMahaImpacT连通性与数字包容奖；MSCI宣布将发布2026年全球市场可及性审查结果；Atlassian举办2026年无障碍设计周；以及神经发育意识活动促进包容，提升对神经多样性人群的理解与接受。",
+    "title": "每日無障礙消息摘要 – 2026年6月4日",
+    "summary": "今日重點報導包括知識基礎設施的包容性探討、AI 的經濟可及性限制、印度無障礙倡議、Waymo 推出無障礙 Ojai 車輛，以及 Bloomfield 圖書館完成主要無障礙升級。",
     "highlights": [
       {
-        "title": "思科团队获TechMahaImpacT连通性与数字包容奖",
-        "slug": "cisco-team-wins-techmahaimpact-award-for-connectivity-digital-inclusion-zh-fbf6d772"
+        "title": "书籍探讨知识基础设施中的包容性",
+        "slug": "book-explores-inclusion-in-knowledge-infrastructures-zh-4398a929"
       },
       {
-        "title": "MSCI将发布2026年全球市场可及性审查结果",
-        "slug": "msci-to-release-2026-global-market-accessibility-review-results-zh-c152bbf5"
+        "title": "AI的经济可及性限制被凸显",
+        "slug": "ais-economic-accessibility-limits-highlighted-zh-6c59e64f"
       },
       {
-        "title": "Atlassian 举办 2026 年无障碍设计周",
-        "slug": "atlassian-hosts-accessibility-design-week-2026-zh-009bc424"
+        "title": "打破障碍，构建无障碍印度",
+        "slug": "breaking-barriers-for-an-accessible-india-zh-ae6acbc6"
       },
       {
-        "title": "神经发育意识活动促进包容",
-        "slug": "neurodevelopmental-awareness-program-promotes-inclusion-zh-3d1b6c6f"
+        "title": "Waymo 擴大無人駕駛車隊，推出專為無障礙與舒適設計的 Ojai 新車輛",
+        "slug": "waymo-expands-driverless-fleet-with-new-ojai-vehicle-designed-for-accessibility--zh-0ee3dff3"
+      },
+      {
+        "title": "布隆菲爾德圖書館完成主要無障礙升級",
+        "slug": "bloomfield-library-completes-major-accessibility-upgrade-zh-0d8e15c0"
       }
     ]
   }
