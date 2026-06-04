@@ -45924,5 +45924,38 @@
     "publishedAt": "2026-05-29T07:00:00.000Z",
     "fetchedAt": "2026-06-03T17:13:47.139Z",
     "body": "The Chiayi City Traffic Office is reinforcing rules for vehicles to stop and yield at intersections while promoting accessible services, and is supervising transport operators to improve driver education and training programs.\n\nRead more from the original source: [chiayi.gov.tw](https://www.chiayi.gov.tw/News_Content.aspx?n=455&s=939325)"
+  },
+  {
+    "title": "Promoting Accessible Ocean Activities: Outcomes of the National Taiwan Ocean University's 'Toward the Ocean' Experience",
+    "slug": "promoting-accessible-ocean-activities-outcomes-of-the-national-taiwan-ocean-univ-aad20176",
+    "lang": "en",
+    "summary": "The National Taiwan Ocean University's initiative to promote accessible marine experiences has yielded positive results, enabling people with disabilities to enjoy the ocean through inclusive facilities and programs.",
+    "category": "physical-design",
+    "tags": [
+      "accessible ocean",
+      "marine experience",
+      "National Taiwan Ocean University",
+      "disability inclusion"
+    ],
+    "sourceName": "oac.gov.tw",
+    "sourceUrl": "https://www.oac.gov.tw/ch/home.jsp?id=558&parentpath=0%2C513%2C533%2C541&mcustomize=onemessages_view.jsp&dataserno=202512150001",
+    "relatedSources": [
+      {
+        "name": "oac.gov.tw",
+        "url": "https://www.oac.gov.tw/ch/home.jsp?id=558&parentpath=0%2C513%2C533%2C541&mcustomize=onemessages_view.jsp&dataserno=202512150001"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-aad20176",
+    "status": "published",
+    "translationOf": "promoting-accessible-ocean-activities-outcomes-of-the-national-taiwan-ocean-univ-zh-aad20176",
+    "publishedAt": "2026-05-25T15:51:43.000Z",
+    "fetchedAt": "2026-06-04T05:03:16.143Z",
+    "body": "The National Taiwan Ocean University's initiative to promote accessible marine experiences has yielded positive results, enabling people with disabilities to enjoy the ocean through inclusive facilities and programs.\n\nRead more from the original source: [oac.gov.tw](https://www.oac.gov.tw/ch/home.jsp?id=558&parentpath=0%2C513%2C533%2C541&mcustomize=onemessages_view.jsp&dataserno=202512150001)"
   }
 ]
