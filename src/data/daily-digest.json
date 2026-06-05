@@ -1,55 +1,47 @@
 {
-  "date": "2026-06-04",
-  "generatedAt": "2026-06-04T05:26:06.435Z",
+  "date": "2026-06-05",
+  "generatedAt": "2026-06-05T05:02:50.368Z",
   "en": {
-    "title": "Daily Accessibility Digest – June 4, 2026",
-    "summary": "Today's top stories cover inclusion in knowledge infrastructures, AI accessibility limits, India's accessibility initiatives, Waymo's accessible Ojai vehicle, and Bloomfield Library's upgrade.",
+    "title": "Queensland Launches New Plan to Support Students with Disabilities",
+    "summary": "The Queensland government unveiled a new plan to support students with disabilities, including a professional learning program and a commitment to train an additional 200 teachers each year from 2026 to 2028. Meanwhile, Helena will install over 50 ADA‑compliant ramps in its 6th Ward, UK astronaut John McFall is poised to become the first disabled person to orbit, and a visual essay highlights systemic accessibility barriers while only the MAID route remains open.",
     "highlights": [
       {
-        "title": "Book explores inclusion in knowledge infrastructures",
-        "slug": "book-explores-inclusion-in-knowledge-infrastructures-4398a929"
+        "title": "New plan unveiled to support students with disabilities",
+        "slug": "new-plan-unveiled-to-support-students-with-disabilities-0c40e46a"
       },
       {
-        "title": "AI's economic accessibility limits highlighted",
-        "slug": "ais-economic-accessibility-limits-highlighted-6c59e64f"
+        "title": "Helena to install 50+ ADA accessible ramps in 6th Ward neighborhood - KTVH",
+        "slug": "helena-to-install-50-ada-accessible-ramps-in-6th-ward-neighborhood-ktvh-767e70ca"
       },
       {
-        "title": "Breaking Barriers for an Accessible India",
-        "slug": "breaking-barriers-for-an-accessible-india-ae6acbc6"
+        "title": "Astronaut with disabilities set to make historic orbit entry",
+        "slug": "astronaut-with-disabilities-set-to-make-historic-orbit-entry-256290e0"
       },
       {
-        "title": "Waymo expands driverless fleet with new Ojai vehicle designed for accessibility and comfort",
-        "slug": "waymo-expands-driverless-fleet-with-new-ojai-vehicle-designed-for-accessibility--0ee3dff3"
-      },
-      {
-        "title": "Bloomfield Library Completes Major Accessibility Upgrade",
-        "slug": "bloomfield-library-completes-major-accessibility-upgrade-0d8e15c0"
+        "title": "Visual Essay Highlights Systemic Barriers to Accessibility While MAID Path Remains Open",
+        "slug": "visual-essay-highlights-systemic-barriers-to-accessibility-while-maid-path-remai-b54d24df"
       }
     ]
   },
   "zh-TW": {
-    "title": "每日無障礙消息摘要 – 2026年6月4日",
-    "summary": "今日重點報導包括知識基礎設施的包容性探討、AI 的經濟可及性限制、印度無障礙倡議、Waymo 推出無障礙 Ojai 車輛，以及 Bloomfield 圖書館完成主要無障礙升級。",
+    "title": "昆士蘭發布殘障學生支援新計畫",
+    "summary": "昆士蘭政府發布新計畫，將支援殘障學生，包括專業學習計畫以及從2026年至2028年每年額外培訓200名教師。同時，海倫娜計畫在第六區安裝超過50個符合ADA標準的坡道；英國殘障宇航員約翰·麥克法爾有望成為首位軌道上生活的殘障人士；一篇視覺作品指出無障礙系統性障礙普遍存在，僅安樂死通道仍開放。",
     "highlights": [
       {
-        "title": "书籍探讨知识基础设施中的包容性",
-        "slug": "book-explores-inclusion-in-knowledge-infrastructures-zh-4398a929"
+        "title": "新計畫發布以支援殘障學生",
+        "slug": "new-plan-unveiled-to-support-students-with-disabilities-zh-0c40e46a"
       },
       {
-        "title": "AI的经济可及性限制被凸显",
-        "slug": "ais-economic-accessibility-limits-highlighted-zh-6c59e64f"
+        "title": "海倫娜計畫在第六區社區安裝50多個符合ADA標準的坡道 - KTVH",
+        "slug": "helena-to-install-50-ada-accessible-ramps-in-6th-ward-neighborhood-ktvh-zh-767e70ca"
       },
       {
-        "title": "打破障碍，构建无障碍印度",
-        "slug": "breaking-barriers-for-an-accessible-india-zh-ae6acbc6"
+        "title": "殘障宇航員將創造歷史性軌道進入",
+        "slug": "astronaut-with-disabilities-set-to-make-historic-orbit-entry-zh-256290e0"
       },
       {
-        "title": "Waymo 擴大無人駕駛車隊，推出專為無障礙與舒適設計的 Ojai 新車輛",
-        "slug": "waymo-expands-driverless-fleet-with-new-ojai-vehicle-designed-for-accessibility--zh-0ee3dff3"
-      },
-      {
-        "title": "布隆菲爾德圖書館完成主要無障礙升級",
-        "slug": "bloomfield-library-completes-major-accessibility-upgrade-zh-0d8e15c0"
+        "title": "视觉揭示无障碍系统性障碍，仅安乐死通道保持开放",
+        "slug": "visual-essay-highlights-systemic-barriers-to-accessibility-while-maid-path-remai-zh-b54d24df"
       }
     ]
   }
