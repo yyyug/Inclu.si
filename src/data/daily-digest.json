@@ -1,47 +1,43 @@
 {
-  "date": "2026-06-05",
-  "generatedAt": "2026-06-05T05:02:50.368Z",
+  "date": "2026-06-06",
+  "generatedAt": "2026-06-06T04:41:42.839Z",
   "en": {
-    "title": "Queensland Launches New Plan to Support Students with Disabilities",
-    "summary": "The Queensland government unveiled a new plan to support students with disabilities, including a professional learning program and a commitment to train an additional 200 teachers each year from 2026 to 2028. Meanwhile, Helena will install over 50 ADA‑compliant ramps in its 6th Ward, UK astronaut John McFall is poised to become the first disabled person to orbit, and a visual essay highlights systemic accessibility barriers while only the MAID route remains open.",
+    "title": "UK Supreme Court Weakens Disability Safeguards, Sparking Global Accessibility Concerns",
+    "summary": "The UK Supreme Court ruled to weaken deprivation of liberty safeguards for severely disabled people, prompting warnings from charities about increased abuse risk. In related news, Sweden pledged to support Ukraine's digital transformation via improved e-service accessibility, Mississippi joined a federal mental health access program, and Air Canada's accessibility initiatives were highlighted in investor coverage.",
     "highlights": [
       {
-        "title": "New plan unveiled to support students with disabilities",
-        "slug": "new-plan-unveiled-to-support-students-with-disabilities-0c40e46a"
+        "title": "Mississippi joins federal program to expand sustainable access to mental health care",
+        "slug": "mississippi-joins-federal-program-to-expand-sustainable-access-to-mental-health--61baf1a2"
       },
       {
-        "title": "Helena to install 50+ ADA accessible ramps in 6th Ward neighborhood - KTVH",
-        "slug": "helena-to-install-50-ada-accessible-ramps-in-6th-ward-neighborhood-ktvh-767e70ca"
+        "title": "Air Canada Accessibility Push And Service Dogs Program Shape Investor Story - Yahoo Finance",
+        "slug": "air-canada-accessibility-push-and-service-dogs-program-shape-investor-story-yaho-c86b3d95"
       },
       {
-        "title": "Astronaut with disabilities set to make historic orbit entry",
-        "slug": "astronaut-with-disabilities-set-to-make-historic-orbit-entry-256290e0"
-      },
-      {
-        "title": "Visual Essay Highlights Systemic Barriers to Accessibility While MAID Path Remains Open",
-        "slug": "visual-essay-highlights-systemic-barriers-to-accessibility-while-maid-path-remai-b54d24df"
+        "title": "InterLink v5.0.3 Update Introduces Compassionate Mining Governance",
+        "slug": "interlink-v503-update-introduces-compassionate-mining-governance-6fea8c80"
       }
     ]
   },
   "zh-TW": {
-    "title": "昆士蘭發布殘障學生支援新計畫",
-    "summary": "昆士蘭政府發布新計畫，將支援殘障學生，包括專業學習計畫以及從2026年至2028年每年額外培訓200名教師。同時，海倫娜計畫在第六區安裝超過50個符合ADA標準的坡道；英國殘障宇航員約翰·麥克法爾有望成為首位軌道上生活的殘障人士；一篇視覺作品指出無障礙系統性障礙普遍存在，僅安樂死通道仍開放。",
+    "title": "英國最高法院削弱殘障保障",
+    "summary": "英國最高法院裁決削弱對嚴重殘障人士的剝奪自由保障，慈善機構警告此將增加護理院和醫院中的虐待風險。同時，瑞典宣布將透過提升電子服務無障礙與數位素養來支援烏克蘭的數位轉型。密西西比州加入聯邦計畫以擴大永續心理健康服務的可及性，而加拿大航空的無障礙推動與服務犬計畫則在投資者報導中受到關注。",
     "highlights": [
       {
-        "title": "新計畫發布以支援殘障學生",
-        "slug": "new-plan-unveiled-to-support-students-with-disabilities-zh-0c40e46a"
+        "title": "英國最高法院裁決移除對嚴重殘障人士的重要保障，慈善機構發出警告",
+        "slug": "ruling-removes-vital-uk-safeguards-for-severely-disabled-people-charities-warn-zh-6cb2c584"
       },
       {
-        "title": "海倫娜計畫在第六區社區安裝50多個符合ADA標準的坡道 - KTVH",
-        "slug": "helena-to-install-50-ada-accessible-ramps-in-6th-ward-neighborhood-ktvh-zh-767e70ca"
+        "title": "電子服務、無障礙與數位素養：瑞典如何支援烏克蘭的數位化 - UNDP",
+        "slug": "e-services-accessibility-and-digital-literacy-how-sweden-is-supporting-the-digit-zh-ebd78a57"
       },
       {
-        "title": "殘障宇航員將創造歷史性軌道進入",
-        "slug": "astronaut-with-disabilities-set-to-make-historic-orbit-entry-zh-256290e0"
+        "title": "密西西比州加入聯邦計畫，擴大永續心理健康服務的可及性",
+        "slug": "mississippi-joins-federal-program-to-expand-sustainable-access-to-mental-health--zh-61baf1a2"
       },
       {
-        "title": "视觉揭示无障碍系统性障碍，仅安乐死通道保持开放",
-        "slug": "visual-essay-highlights-systemic-barriers-to-accessibility-while-maid-path-remai-zh-b54d24df"
+        "title": "加拿大航空無障礙推動與服務犬計畫塑造投資者故事 - Yahoo Finance",
+        "slug": "air-canada-accessibility-push-and-service-dogs-program-shape-investor-story-yaho-zh-c86b3d95"
       }
     ]
   }
