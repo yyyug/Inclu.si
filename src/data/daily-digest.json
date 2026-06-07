@@ -1,43 +1,47 @@
 {
-  "date": "2026-06-06",
-  "generatedAt": "2026-06-06T04:41:42.839Z",
+  "date": "2026-06-07",
+  "generatedAt": "2026-06-07T05:11:27.476Z",
   "en": {
-    "title": "UK Supreme Court Weakens Disability Safeguards, Sparking Global Accessibility Concerns",
-    "summary": "The UK Supreme Court ruled to weaken deprivation of liberty safeguards for severely disabled people, prompting warnings from charities about increased abuse risk. In related news, Sweden pledged to support Ukraine's digital transformation via improved e-service accessibility, Mississippi joined a federal mental health access program, and Air Canada's accessibility initiatives were highlighted in investor coverage.",
+    "title": "Phoenix Airport Teams with ReBokeh to Boost Traveler Accessibility Features",
+    "summary": "Phoenix Airport has partnered with ReBokeh to enhance accessibility features and services for travelers with disabilities. Meanwhile, the ELCA Learning Day highlighted inclusion through workshops, and Rachel Shaw shared practical steps for workplace accessibility. A review of The 7th Guest remake praised its modern accessibility options alongside classic horror gameplay.",
     "highlights": [
       {
-        "title": "Mississippi joins federal program to expand sustainable access to mental health care",
-        "slug": "mississippi-joins-federal-program-to-expand-sustainable-access-to-mental-health--61baf1a2"
+        "title": "Phoenix Airport Accessibility Partnership with ReBokeh",
+        "slug": "phoenix-airport-accessibility-partnership-with-rebokeh-e0469362"
       },
       {
-        "title": "Air Canada Accessibility Push And Service Dogs Program Shape Investor Story - Yahoo Finance",
-        "slug": "air-canada-accessibility-push-and-service-dogs-program-shape-investor-story-yaho-c86b3d95"
+        "title": "ELCA Learning Day Highlights Inclusion and Accessibility",
+        "slug": "elca-learning-day-highlights-inclusion-and-accessibility-7b77c0d8"
       },
       {
-        "title": "InterLink v5.0.3 Update Introduces Compassionate Mining Governance",
-        "slug": "interlink-v503-update-introduces-compassionate-mining-governance-6fea8c80"
+        "title": "Rachel Shaw: Getting to Yes in Workplace Accessibility",
+        "slug": "rachel-shaw-getting-to-yes-in-workplace-accessibility-3400aa6d"
+      },
+      {
+        "title": "The 7th Guest Remake Review – Old-School Chills, Modern Accessibility - COGconnected",
+        "slug": "the-7th-guest-remake-review-old-school-chills-modern-accessibility-cogconnected-d88fc093"
       }
     ]
   },
   "zh-TW": {
-    "title": "英國最高法院削弱殘障保障",
-    "summary": "英國最高法院裁決削弱對嚴重殘障人士的剝奪自由保障，慈善機構警告此將增加護理院和醫院中的虐待風險。同時，瑞典宣布將透過提升電子服務無障礙與數位素養來支援烏克蘭的數位轉型。密西西比州加入聯邦計畫以擴大永續心理健康服務的可及性，而加拿大航空的無障礙推動與服務犬計畫則在投資者報導中受到關注。",
+    "title": "鳳凰機場ReBokeh合作無障礙",
+    "summary": "鳳凰機場已與ReBokeh合作，提升對殘障旅客的無障礙設施與服務。ELCA學習日則透過工作坊強調包容與無障礙，Rachel Shaw分享職場無障礙的實際步驟。《第七位來客》重製版獲得好評，因其兼具經典恐怖玩法與現代無障礙選項。",
     "highlights": [
       {
-        "title": "英國最高法院裁決移除對嚴重殘障人士的重要保障，慈善機構發出警告",
-        "slug": "ruling-removes-vital-uk-safeguards-for-severely-disabled-people-charities-warn-zh-6cb2c584"
+        "title": "鳳凰機場無障礙合作夥伴與ReBokeh",
+        "slug": "phoenix-airport-accessibility-partnership-with-rebokeh-zh-e0469362"
       },
       {
-        "title": "電子服務、無障礙與數位素養：瑞典如何支援烏克蘭的數位化 - UNDP",
-        "slug": "e-services-accessibility-and-digital-literacy-how-sweden-is-supporting-the-digit-zh-ebd78a57"
+        "title": "ELCA學習日突顯包容與無障礙",
+        "slug": "elca-learning-day-highlights-inclusion-and-accessibility-zh-7b77c0d8"
       },
       {
-        "title": "密西西比州加入聯邦計畫，擴大永續心理健康服務的可及性",
-        "slug": "mississippi-joins-federal-program-to-expand-sustainable-access-to-mental-health--zh-61baf1a2"
+        "title": "Rachel Shaw：職場無障礙之路",
+        "slug": "rachel-shaw-getting-to-yes-in-workplace-accessibility-zh-3400aa6d"
       },
       {
-        "title": "加拿大航空無障礙推動與服務犬計畫塑造投資者故事 - Yahoo Finance",
-        "slug": "air-canada-accessibility-push-and-service-dogs-program-shape-investor-story-yaho-zh-c86b3d95"
+        "title": "《第七位來客》重製版評論 – 老派驚悚，現代無障礙 - COGconnected",
+        "slug": "the-7th-guest-remake-review-old-school-chills-modern-accessibility-cogconnected-zh-d88fc093"
       }
     ]
   }
