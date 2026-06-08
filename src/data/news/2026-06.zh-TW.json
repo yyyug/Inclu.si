@@ -8400,5 +8400,810 @@
     "publishedAt": "2026-06-08T04:42:31.000Z",
     "fetchedAt": "2026-06-08T05:19:35.534Z",
     "body": "用户批评 YouTube 的实验性桌面主页布局令人困惑，移除了完整视频标题和频道视频选项，对可访问性产生负面影响。\n推文來源： [Caden (@CadenRSong)](https://x.com/CadenRSong/status/2063844094737277198)"
+  },
+  {
+    "title": "约克居民被邀请帮助提升公园和游乐场的无障碍设施 - BBC",
+    "slug": "york-residents-asked-to-help-boost-park-and-playground-accessibility-bbc-zh-ee7c3cf7",
+    "lang": "zh-TW",
+    "summary": "约克居民被邀请提供意见和反馈，以改善当地公园和游乐场的无障碍设施。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "park",
+      "playground",
+      "community input"
+    ],
+    "sourceName": "BBC",
+    "sourceUrl": "https://www.bbc.com/news/articles/c0ry8vwnqy8o",
+    "relatedSources": [
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/c0ry8vwnqy8o"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ee7c3cf7",
+    "status": "published",
+    "translationOf": "york-residents-asked-to-help-boost-park-and-playground-accessibility-bbc-ee7c3cf7",
+    "publishedAt": "2026-06-08T15:31:26.000Z",
+    "fetchedAt": "2026-06-08T16:18:51.699Z",
+    "body": "约克居民被邀请提供意见和反馈，以改善当地公园和游乐场的无障碍设施。\n\n原文來源： [BBC](https://www.bbc.com/news/articles/c0ry8vwnqy8o)"
+  },
+  {
+    "title": "匿名捐助帮助亚利桑那州ALS患者获得无障碍轮椅车 - ABC15亚利桑那",
+    "slug": "anonymous-donation-helps-als-patients-in-az-access-wheelchair-accessible-cars-ab-zh-04c2dd09",
+    "lang": "zh-TW",
+    "summary": "一笔匿名捐赠为亚利桑那州的ALS患者提供资金，以获取无障碍轮椅车辆，提升他们的行动能力和独立性。",
+    "category": "assistive-tech",
+    "tags": [
+      "ALS",
+      "wheelchair accessible vehicle",
+      "donation",
+      "mobility"
+    ],
+    "sourceName": "ABC15 Arizona",
+    "sourceUrl": "https://www.abc15.com/news/uplifting-arizona/anonymous-donation-helps-als-patients-in-arizona-access-wheelchair-accessible-vehicles",
+    "relatedSources": [
+      {
+        "name": "ABC15 Arizona",
+        "url": "https://www.abc15.com/news/uplifting-arizona/anonymous-donation-helps-als-patients-in-arizona-access-wheelchair-accessible-vehicles"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-04c2dd09",
+    "status": "published",
+    "translationOf": "anonymous-donation-helps-als-patients-in-az-access-wheelchair-accessible-cars-ab-04c2dd09",
+    "publishedAt": "2026-06-08T11:19:00.000Z",
+    "fetchedAt": "2026-06-08T16:18:51.713Z",
+    "body": "一笔匿名捐赠为亚利桑那州的ALS患者提供资金，以获取无障碍轮椅车辆，提升他们的行动能力和独立性。\n\n原文來源： [ABC15 Arizona](https://www.abc15.com/news/uplifting-arizona/anonymous-donation-helps-als-patients-in-arizona-access-wheelchair-accessible-vehicles)"
+  },
+  {
+    "title": "NCSA的Delta系统为高性能计算带来无障碍功能 - 超级计算应用国家中心(NCSA)",
+    "slug": "ncsas-delta-brings-accessibility-to-hpc-national-center-for-supercomputing-appli-zh-e68edf3c",
+    "lang": "zh-TW",
+    "summary": "NCSA的Delta系统在高性能计算环境中引入无障碍功能，使残障研究人员能够更广泛地参与。",
+    "category": "digital-a11y",
+    "tags": [
+      "HPC",
+      "accessibility",
+      "NCSA Delta",
+      "supercomputing"
+    ],
+    "sourceName": "National Center for Supercomputing Applications (NCSA)",
+    "sourceUrl": "https://www.ncsa.illinois.edu/2026/06/08/ncsas-delta-brings-accessibility-to-hpc",
+    "relatedSources": [
+      {
+        "name": "National Center for Supercomputing Applications (NCSA)",
+        "url": "https://www.ncsa.illinois.edu/2026/06/08/ncsas-delta-brings-accessibility-to-hpc"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e68edf3c",
+    "status": "published",
+    "translationOf": "ncsas-delta-brings-accessibility-to-hpc-national-center-for-supercomputing-appli-e68edf3c",
+    "publishedAt": "2026-06-08T14:00:00.000Z",
+    "fetchedAt": "2026-06-08T16:18:51.725Z",
+    "body": "NCSA的Delta系统在高性能计算环境中引入无障碍功能，使残障研究人员能够更广泛地参与。\n\n原文來源： [National Center for Supercomputing Applications (NCSA)](https://www.ncsa.illinois.edu/2026/06/08/ncsas-delta-brings-accessibility-to-hpc)"
+  },
+  {
+    "title": "擴大可及圖書館體驗 - Clarivate",
+    "slug": "expanding-accessible-library-experiences-at-scale-clarivate-zh-4be8cbd6",
+    "lang": "zh-TW",
+    "summary": "Clarivate 探討如何規模化擴展可及的圖書館體驗，著重於為所有使用者提供包容性的服務與環境。",
+    "category": "physical-design",
+    "tags": [
+      "library",
+      "accessibility",
+      "inclusive services",
+      "Clarivate"
+    ],
+    "sourceName": "Clarivate",
+    "sourceUrl": "https://clarivate.com/academia-government/blog/expanding-accessible-library-experiences-at-scale",
+    "relatedSources": [
+      {
+        "name": "Clarivate",
+        "url": "https://clarivate.com/academia-government/blog/expanding-accessible-library-experiences-at-scale"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-4be8cbd6",
+    "status": "published",
+    "translationOf": "expanding-accessible-library-experiences-at-scale-clarivate-4be8cbd6",
+    "publishedAt": "2026-06-08T12:02:08.000Z",
+    "fetchedAt": "2026-06-08T16:23:58.341Z",
+    "body": "Clarivate 探討如何規模化擴展可及的圖書館體驗，著重於為所有使用者提供包容性的服務與環境。\n\n原文來源： [Clarivate](https://clarivate.com/academia-government/blog/expanding-accessible-library-experiences-at-scale)"
+  },
+  {
+    "title": "包容的代價：重新定義夏令營的可及性 - Grady Newsource",
+    "slug": "the-price-of-inclusion-redefining-accessibility-at-summer-camps-grady-newsource-zh-719b7fe0",
+    "lang": "zh-TW",
+    "summary": "Grady Newsource 探討使夏令營變得包容所需的成本與努力，強調課程調整與員工培訓。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "summer camp",
+      "inclusion",
+      "accessibility",
+      "Grady Newsource"
+    ],
+    "sourceName": "Grady Newsource",
+    "sourceUrl": "https://gradynewsource.uga.edu/the-price-of-inclusion-redefining-accessibility-at-summer-camps",
+    "relatedSources": [
+      {
+        "name": "Grady Newsource",
+        "url": "https://gradynewsource.uga.edu/the-price-of-inclusion-redefining-accessibility-at-summer-camps"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-719b7fe0",
+    "status": "published",
+    "translationOf": "the-price-of-inclusion-redefining-accessibility-at-summer-camps-grady-newsource-719b7fe0",
+    "publishedAt": "2026-06-08T13:00:50.000Z",
+    "fetchedAt": "2026-06-08T16:23:58.360Z",
+    "body": "Grady Newsource 探討使夏令營變得包容所需的成本與努力，強調課程調整與員工培訓。\n\n原文來源： [Grady Newsource](https://gradynewsource.uga.edu/the-price-of-inclusion-redefining-accessibility-at-summer-camps)"
+  },
+  {
+    "title": "Riveredge 自然中心進入可及性新時代 - Radio Milwaukee",
+    "slug": "riveredge-nature-center-is-in-a-new-era-of-accessibility-radio-milwaukee-zh-8b437b21",
+    "lang": "zh-TW",
+    "summary": "Radio Milwaukee 報導 Riveredge 自然中心的新可及性舉措，包括小徑改善與設施升級，以適應各種能力的訪客。",
+    "category": "physical-design",
+    "tags": [
+      "nature center",
+      "accessibility",
+      "trails",
+      "Radio Milwaukee"
+    ],
+    "sourceName": "Radio Milwaukee",
+    "sourceUrl": "https://radiomilwaukee.org/stories/2026-06-08/riveredge-nature-center-saukville",
+    "relatedSources": [
+      {
+        "name": "Radio Milwaukee",
+        "url": "https://radiomilwaukee.org/stories/2026-06-08/riveredge-nature-center-saukville"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-8b437b21",
+    "status": "published",
+    "translationOf": "riveredge-nature-center-is-in-a-new-era-of-accessibility-radio-milwaukee-8b437b21",
+    "publishedAt": "2026-06-08T10:30:00.000Z",
+    "fetchedAt": "2026-06-08T16:23:58.372Z",
+    "body": "Radio Milwaukee 報導 Riveredge 自然中心的新可及性舉措，包括小徑改善與設施升級，以適應各種能力的訪客。\n\n原文來源： [Radio Milwaukee](https://radiomilwaukee.org/stories/2026-06-08/riveredge-nature-center-saukville)"
+  },
+  {
+    "title": "宣布支援青年發展、無障礙及其他項目的補助金",
+    "slug": "grants-supporting-youth-development-accessibility-and-more-announced-zh-4e467d1a",
+    "lang": "zh-TW",
+    "summary": "已宣布提供補助金，以支援青年發展、無障礙計畫及其他社區項目。",
+    "category": "general",
+    "tags": [
+      "grants",
+      "youth development",
+      "accessibility"
+    ],
+    "sourceName": "cbs19news.com",
+    "sourceUrl": "https://www.cbs19news.com/news/grants-supporting-youth-development-accessibility-and-more-announced/article_adf1f87a-28e2-48f5-a34a-572b56181a4e.html",
+    "relatedSources": [
+      {
+        "name": "cbs19news.com",
+        "url": "https://www.cbs19news.com/news/grants-supporting-youth-development-accessibility-and-more-announced/article_adf1f87a-28e2-48f5-a34a-572b56181a4e.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-4e467d1a",
+    "status": "published",
+    "translationOf": "grants-supporting-youth-development-accessibility-and-more-announced-4e467d1a",
+    "publishedAt": "2026-06-08T15:21:00.000Z",
+    "fetchedAt": "2026-06-08T16:25:01.254Z",
+    "body": "已宣布提供補助金，以支援青年發展、無障礙計畫及其他社區項目。\n\n原文來源： [cbs19news.com](https://www.cbs19news.com/news/grants-supporting-youth-development-accessibility-and-more-announced/article_adf1f87a-28e2-48f5-a34a-572b56181a4e.html)"
+  },
+  {
+    "title": "正確軌道：無障礙醫療的新時代",
+    "slug": "on-the-right-track-a-new-era-of-accessible-healthcare-zh-aaa12a87",
+    "lang": "zh-TW",
+    "summary": "一項新舉措旨在使醫療服務更加無障礙，標誌著包容性醫療服務的新時代。",
+    "category": "physical-design",
+    "tags": [
+      "healthcare",
+      "accessibility",
+      "facilities"
+    ],
+    "sourceName": "Crain's New York",
+    "sourceUrl": "https://www.crainsnewyork.com/crains-content-studio/thought-leader-report/cny-hackensack-new-era-accessible-healthcare",
+    "relatedSources": [
+      {
+        "name": "Crain's New York",
+        "url": "https://www.crainsnewyork.com/crains-content-studio/thought-leader-report/cny-hackensack-new-era-accessible-healthcare"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-aaa12a87",
+    "status": "published",
+    "translationOf": "on-the-right-track-a-new-era-of-accessible-healthcare-aaa12a87",
+    "publishedAt": "2026-06-08T13:36:00.000Z",
+    "fetchedAt": "2026-06-08T16:25:01.267Z",
+    "body": "一項新舉措旨在使醫療服務更加無障礙，標誌著包容性醫療服務的新時代。\n\n原文來源： [Crain's New York](https://www.crainsnewyork.com/crains-content-studio/thought-leader-report/cny-hackensack-new-era-accessible-healthcare)"
+  },
+  {
+    "title": "雪布羅克市政廳簡報：自行車道升級、無障礙進展及草坪替代方案列入議程",
+    "slug": "sherbrooke-city-hall-roundup-bike-lane-upgrades-accessibility-progress-and-lawn--zh-fb0c44f5",
+    "lang": "zh-TW",
+    "summary": "雪布羅克市政廳在最新會議中討論了自行車道改善、無障礙進展以及傳統草坪的替代方案。",
+    "category": "physical-design",
+    "tags": [
+      "bike lanes",
+      "city hall",
+      "accessibility",
+      "urban planning"
+    ],
+    "sourceName": "The Pulse of the Eastern Townships",
+    "sourceUrl": "https://publisherpt.substack.com/p/sherbrooke-city-hall-roundup-bike",
+    "relatedSources": [
+      {
+        "name": "The Pulse of the Eastern Townships",
+        "url": "https://publisherpt.substack.com/p/sherbrooke-city-hall-roundup-bike"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-fb0c44f5",
+    "status": "published",
+    "translationOf": "sherbrooke-city-hall-roundup-bike-lane-upgrades-accessibility-progress-and-lawn--fb0c44f5",
+    "publishedAt": "2026-06-08T12:12:57.000Z",
+    "fetchedAt": "2026-06-08T16:25:01.286Z",
+    "body": "雪布羅克市政廳在最新會議中討論了自行車道改善、無障礙進展以及傳統草坪的替代方案。\n\n原文來源： [The Pulse of the Eastern Townships](https://publisherpt.substack.com/p/sherbrooke-city-hall-roundup-bike)"
+  },
+  {
+    "title": "Pearson Inks $150K Deal In EEOC Vision Accessibility Suit - Law360",
+    "slug": "pearson-inks-150k-deal-in-eeoc-vision-accessibility-suit-zh-86f1e376",
+    "lang": "zh-TW",
+    "summary": "Pearson Inks $150K Deal In EEOC Vision Accessibility Suit  Law360",
+    "category": "laws-rights",
+    "tags": [],
+    "sourceName": "Law360",
+    "sourceUrl": "https://www.law360.com/articles/2486346/pearson-inks-150k-deal-in-eeoc-vision-accessibility-suit",
+    "relatedSources": [
+      {
+        "name": "Law360",
+        "url": "https://www.law360.com/articles/2486346/pearson-inks-150k-deal-in-eeoc-vision-accessibility-suit"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-86f1e376",
+    "status": "published",
+    "translationOf": "pearson-inks-150k-deal-in-eeoc-vision-accessibility-suit-86f1e376",
+    "publishedAt": "2026-06-08T15:56:00.000Z",
+    "fetchedAt": "2026-06-08T16:30:57.618Z",
+    "body": "Pearson Inks $150K Deal In EEOC Vision Accessibility Suit  Law360\n\n原文來源： [Law360](https://www.law360.com/articles/2486346/pearson-inks-150k-deal-in-eeoc-vision-accessibility-suit)"
+  },
+  {
+    "title": "拓邦股份：以自主智能助力無障礙科技建設--經濟·科技--人民網",
+    "slug": "tuobang-shares-uses-autonomous-intelligence-to-support-accessible-technology-con-zh-e1929f16",
+    "lang": "zh-TW",
+    "summary": "拓邦股份：以自主智能助力無障礙科技建設--經濟·科技--人民網  人民网财经",
+    "category": "assistive-tech",
+    "tags": [],
+    "sourceName": "人民网财经",
+    "sourceUrl": "http://finance.people.com.cn/BIG5/n1/2026/0608/c1004-40736153.html",
+    "relatedSources": [
+      {
+        "name": "人民网财经",
+        "url": "http://finance.people.com.cn/BIG5/n1/2026/0608/c1004-40736153.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e1929f16",
+    "status": "published",
+    "translationOf": "tuobang-shares-uses-autonomous-intelligence-to-support-accessible-technology-con-e1929f16",
+    "publishedAt": "2026-06-08T08:34:00.000Z",
+    "fetchedAt": "2026-06-08T16:30:57.631Z",
+    "body": "拓邦股份：以自主智能助力無障礙科技建設--經濟·科技--人民網  人民网财经\n\n原文來源： [人民网财经](http://finance.people.com.cn/BIG5/n1/2026/0608/c1004-40736153.html)"
+  },
+  {
+    "title": "臺南推手語導覽 × 深化性平教育 打造無障礙溝通與性別友善的觀光城市 - 視傳媒",
+    "slug": "tainan-launches-sign-language-tours-and-gender-equality-education-to-build-an-ac-zh-cbfe69ed",
+    "lang": "zh-TW",
+    "summary": "臺南推手語導覽 × 深化性平教育 打造無障礙溝通與性別友善的觀光城市  視傳媒",
+    "category": "lifestyle-culture",
+    "tags": [],
+    "sourceName": "視傳媒",
+    "sourceUrl": "https://nvns.net/news_view.php?new_sn=131012&new_csn=1467",
+    "relatedSources": [
+      {
+        "name": "視傳媒",
+        "url": "https://nvns.net/news_view.php?new_sn=131012&new_csn=1467"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-cbfe69ed",
+    "status": "published",
+    "translationOf": "tainan-launches-sign-language-tours-and-gender-equality-education-to-build-an-ac-cbfe69ed",
+    "publishedAt": "2026-06-08T15:30:10.000Z",
+    "fetchedAt": "2026-06-08T16:30:57.643Z",
+    "body": "臺南推手語導覽 × 深化性平教育 打造無障礙溝通與性別友善的觀光城市  視傳媒\n\n原文來源： [視傳媒](https://nvns.net/news_view.php?new_sn=131012&new_csn=1467)"
+  },
+  {
+    "title": "臺南推手語導覽服務再升級 打造無障礙與性別友善觀光城市 - 樂上新聞網",
+    "slug": "tainan-upgrades-sign-language-guide-services-to-build-an-accessible-and-gender-f-zh-e60396a9",
+    "lang": "zh-TW",
+    "summary": "臺南市正在升級手語導覽服務，致力於打造無障礙且性別友善的觀光城市，提升聽障及重聽遊客的溝通體驗。",
+    "category": "assistive-tech",
+    "tags": [
+      "sign language",
+      "tourism",
+      "accessibility",
+      "gender inclusion"
+    ],
+    "sourceName": "樂上新聞網",
+    "sourceUrl": "https://news111.com.tw/news/51/11950",
+    "relatedSources": [
+      {
+        "name": "樂上新聞網",
+        "url": "https://news111.com.tw/news/51/11950"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e60396a9",
+    "status": "published",
+    "translationOf": "tainan-upgrades-sign-language-guide-services-to-build-an-accessible-and-gender-f-e60396a9",
+    "publishedAt": "2026-06-08T09:26:36.000Z",
+    "fetchedAt": "2026-06-08T16:32:03.448Z",
+    "body": "臺南市正在升級手語導覽服務，致力於打造無障礙且性別友善的觀光城市，提升聽障及重聽遊客的溝通體驗。\n\n原文來源： [樂上新聞網](https://news111.com.tw/news/51/11950)"
+  },
+  {
+    "title": "友善旅遊再升級！台南推手語導覽　打造無障礙溝通觀光城市 - ETtoday新聞雲",
+    "slug": "friendly-tourism-upgraded-tainan-promotes-sign-language-guides-to-build-an-acces-zh-8433b569",
+    "lang": "zh-TW",
+    "summary": "台南推出升級版手語導覽服務，打造無障礙溝通的觀光城市，提升聽障遊客的旅遊體驗。",
+    "category": "assistive-tech",
+    "tags": [
+      "sign language",
+      "tourism",
+      "accessibility",
+      "communication"
+    ],
+    "sourceName": "ETtoday新聞雲",
+    "sourceUrl": "https://www.ettoday.net/news/20260608/3179864.htm",
+    "relatedSources": [
+      {
+        "name": "ETtoday新聞雲",
+        "url": "https://www.ettoday.net/news/20260608/3179864.htm"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-8433b569",
+    "status": "published",
+    "translationOf": "friendly-tourism-upgraded-tainan-promotes-sign-language-guides-to-build-an-acces-8433b569",
+    "publishedAt": "2026-06-08T08:56:00.000Z",
+    "fetchedAt": "2026-06-08T16:32:03.460Z",
+    "body": "台南推出升級版手語導覽服務，打造無障礙溝通的觀光城市，提升聽障遊客的旅遊體驗。\n\n原文來源： [ETtoday新聞雲](https://www.ettoday.net/news/20260608/3179864.htm)"
+  },
+  {
+    "title": "友善旅遊再升級！台南培訓手語導覽員　打造「無障礙觀光城」 - 三立新聞網SETN.com",
+    "slug": "friendly-tourism-upgraded-tainan-trains-sign-language-guides-to-create-an-access-zh-859bed6c",
+    "lang": "zh-TW",
+    "summary": "台南培訓手語導覽員，致力於打造無障礙觀光城，提供更友善的旅遊環境給聽障遊客。",
+    "category": "assistive-tech",
+    "tags": [
+      "sign language",
+      "tourism",
+      "accessibility",
+      "training"
+    ],
+    "sourceName": "三立新聞網SETN.com",
+    "sourceUrl": "https://www.setn.com/News.aspx?NewsID=1852172",
+    "relatedSources": [
+      {
+        "name": "三立新聞網SETN.com",
+        "url": "https://www.setn.com/News.aspx?NewsID=1852172"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-859bed6c",
+    "status": "published",
+    "translationOf": "friendly-tourism-upgraded-tainan-trains-sign-language-guides-to-create-an-access-859bed6c",
+    "publishedAt": "2026-06-08T08:40:00.000Z",
+    "fetchedAt": "2026-06-08T16:32:03.472Z",
+    "body": "台南培訓手語導覽員，致力於打造無障礙觀光城，提供更友善的旅遊環境給聽障遊客。\n\n原文來源： [三立新聞網SETN.com](https://www.setn.com/News.aspx?NewsID=1852172)"
+  },
+  {
+    "title": "考古學中的殘障故事如何忽視殘障人士",
+    "slug": "how-disability-stories-in-archaeology-ignore-the-disabled-zh-da372f4e",
+    "lang": "zh-TW",
+    "summary": "本文檢視考古學與現代媒體如何以照顧者與同情心來框架殘障，而忽視殘障人士自身的生活經驗。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "archaeology",
+      "disability",
+      "representation"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/disability/education/anthropology/archaeology-disabled.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/disability/education/anthropology/archaeology-disabled.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-da372f4e",
+    "status": "published",
+    "translationOf": "how-disability-stories-in-archaeology-ignore-the-disabled-da372f4e",
+    "publishedAt": "2026-06-07T15:29:00.000Z",
+    "fetchedAt": "2026-06-08T16:34:40.010Z",
+    "body": "本文檢視考古學與現代媒體如何以照顧者與同情心來框架殘障，而忽視殘障人士自身的生活經驗。\n\n原文來源： [Unknown source](https://www.disabled-world.com/disability/education/anthropology/archaeology-disabled.php)"
+  },
+  {
+    "title": "什麼可被衡量的暴政－殘障與優化的隱形成本",
+    "slug": "the-tyranny-of-what-can-be-measured-disability-and-the-hidden-cost-of-optimizati-zh-af93aca9",
+    "lang": "zh-TW",
+    "summary": "探討效率與以測量為基礎的系統如何塑造殘障倡導、資金決策以及誰掌握支援服務的權威。",
+    "category": "laws-rights",
+    "tags": [
+      "measurement",
+      "optimization",
+      "disability advocacy",
+      "funding"
+    ],
+    "sourceName": "Disability and the Hidden Cost of Optimization",
+    "sourceUrl": "https://www.disabled-world.com/disability/publications/tyranny.php",
+    "relatedSources": [
+      {
+        "name": "Disability and the Hidden Cost of Optimization",
+        "url": "https://www.disabled-world.com/disability/publications/tyranny.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-af93aca9",
+    "status": "published",
+    "translationOf": "the-tyranny-of-what-can-be-measured-disability-and-the-hidden-cost-of-optimizati-af93aca9",
+    "publishedAt": "2026-06-07T14:39:00.000Z",
+    "fetchedAt": "2026-06-08T16:34:40.023Z",
+    "body": "探討效率與以測量為基礎的系統如何塑造殘障倡導、資金決策以及誰掌握支援服務的權威。\n\n原文來源： [Disability and the Hidden Cost of Optimization](https://www.disabled-world.com/disability/publications/tyranny.php)"
+  },
+  {
+    "title": "世界紀錄壁畫突顯殘障視力損失",
+    "slug": "world-record-mural-highlights-disability-sight-loss-zh-9df4e3cd",
+    "lang": "zh-TW",
+    "summary": "SeeAbility 在倫敦塔橋的壁畫創下吉尼斯世界紀錄，同時引發人們對學習障礙者未治療視力損失的關注。",
+    "category": "physical-design",
+    "tags": [
+      "mural",
+      "sight loss",
+      "learning disabilities",
+      "awareness"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/communication/art/seeabilty.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/communication/art/seeabilty.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-9df4e3cd",
+    "status": "published",
+    "translationOf": "world-record-mural-highlights-disability-sight-loss-9df4e3cd",
+    "publishedAt": "2026-06-07T13:58:00.000Z",
+    "fetchedAt": "2026-06-08T16:34:40.035Z",
+    "body": "SeeAbility 在倫敦塔橋的壁畫創下吉尼斯世界紀錄，同時引發人們對學習障礙者未治療視力損失的關注。\n\n原文來源： [Unknown source](https://www.disabled-world.com/communication/art/seeabilty.php)"
+  },
+  {
+    "title": "更多殘障人士尋找就業",
+    "slug": "more-persons-with-disabilities-looking-for-employment-zh-6d0f75cf",
+    "lang": "zh-TW",
+    "summary": "2026年6月的nTIDE報告顯示，殘障人士的求職人數顯著增加，顯示在經濟壓力下，更多人進入勞動市場。",
+    "category": "laws-rights",
+    "tags": [
+      "employment",
+      "disability",
+      "job seeking",
+      "economic pressure"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/06/08/education-and-employment/more-persons-with-disabilities-looking-for-employment",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/06/08/education-and-employment/more-persons-with-disabilities-looking-for-employment"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-6d0f75cf",
+    "status": "published",
+    "translationOf": "more-persons-with-disabilities-looking-for-employment-6d0f75cf",
+    "publishedAt": "2026-06-08T07:02:42.000Z",
+    "fetchedAt": "2026-06-08T16:36:33.750Z",
+    "body": "2026年6月的nTIDE報告顯示，殘障人士的求職人數顯著增加，顯示在經濟壓力下，更多人進入勞動市場。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/06/08/education-and-employment/more-persons-with-disabilities-looking-for-employment)"
+  },
+  {
+    "title": "整合照護減少殘障成年人的醫院就診",
+    "slug": "integrated-care-cuts-hospital-visits-for-adults-with-disabilities-zh-348adcd5",
+    "lang": "zh-TW",
+    "summary": "辛辛那提大學和俄亥俄州立大學的研究人員發現，接受整合式照護的發展障礙成年人，急診室就診和住院次數較未接受該照護者為少。",
+    "category": "case-studies",
+    "tags": [
+      "integrated care",
+      "developmental disabilities",
+      "hospital visits",
+      "emergency room"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/06/08/health/integrated-care-cuts-hospital-visits-for-adults-with-disabilities",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/06/08/health/integrated-care-cuts-hospital-visits-for-adults-with-disabilities"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-348adcd5",
+    "status": "published",
+    "translationOf": "integrated-care-cuts-hospital-visits-for-adults-with-disabilities-348adcd5",
+    "publishedAt": "2026-06-08T06:56:28.000Z",
+    "fetchedAt": "2026-06-08T16:36:33.768Z",
+    "body": "辛辛那提大學和俄亥俄州立大學的研究人員發現，接受整合式照護的發展障礙成年人，急診室就診和住院次數較未接受該照護者為少。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/06/08/health/integrated-care-cuts-hospital-visits-for-adults-with-disabilities)"
+  },
+  {
+    "title": "新認證有助驗證中風專業專長",
+    "slug": "new-certification-helps-validate-expertise-in-stroke-program-zh-381703e0",
+    "lang": "zh-TW",
+    "summary": "美國心臟協會推出新認證，以驗證中風護理專業知識，旨在提升醫院與衛生系統中中風患者的協調、循證治療。",
+    "category": "general",
+    "tags": [
+      "stroke",
+      "certification",
+      "healthcare",
+      "American Heart Association"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/06/08/health/new-certification-helps-validate-expertise-in-stroke-program",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/06/08/health/new-certification-helps-validate-expertise-in-stroke-program"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-381703e0",
+    "status": "published",
+    "translationOf": "new-certification-helps-validate-expertise-in-stroke-program-381703e0",
+    "publishedAt": "2026-06-08T06:42:41.000Z",
+    "fetchedAt": "2026-06-08T16:36:33.779Z",
+    "body": "美國心臟協會推出新認證，以驗證中風護理專業知識，旨在提升醫院與衛生系統中中風患者的協調、循證治療。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/06/08/health/new-certification-helps-validate-expertise-in-stroke-program)"
+  },
+  {
+    "title": "ACT 帮助残障儿童的父母",
+    "slug": "act-helps-parents-of-children-with-disabilities-zh-42ab2345",
+    "lang": "zh-TW",
+    "summary": "根据卡罗林斯卡研究所发表在《自闭症研究》期刊的研究，参与基于接受与承诺疗法的 Navigator ACT 项目的 ADHD、自闭症及其他残障儿童的父母报告心理弹性增加、压力减少。",
+    "category": "case-studies",
+    "tags": [
+      "ACT",
+      "parenting",
+      "disability",
+      "mental health"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/06/08/misc/act-helps-parents-of-children-with-disabilities",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/06/08/misc/act-helps-parents-of-children-with-disabilities"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-42ab2345",
+    "status": "published",
+    "translationOf": "act-helps-parents-of-children-with-disabilities-42ab2345",
+    "publishedAt": "2026-06-08T06:40:34.000Z",
+    "fetchedAt": "2026-06-08T16:38:12.245Z",
+    "body": "根据卡罗林斯卡研究所发表在《自闭症研究》期刊的研究，参与基于接受与承诺疗法的 Navigator ACT 项目的 ADHD、自闭症及其他残障儿童的父母报告心理弹性增加、压力减少。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/06/08/misc/act-helps-parents-of-children-with-disabilities)"
+  },
+  {
+    "title": "构建包容性 AI：为什么残障人士必须塑造欧洲的数字未来",
+    "slug": "building-inclusive-ai-why-persons-with-disabilities-must-shape-europes-digital-f-zh-b4becbbb",
+    "lang": "zh-TW",
+    "summary": "欧洲残障论坛参加了在拉脱维亚里加举办的‘AI 时代的未来工作’论坛，主张残障人士应参与塑造欧洲的数字未来，通过发展包容性人工智能。",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "inclusive design",
+      "Europe",
+      "disability rights"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.edf-feph.org/building-inclusive-ai-why-persons-with-disabilities-must-shape-europes-digital-future",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.edf-feph.org/building-inclusive-ai-why-persons-with-disabilities-must-shape-europes-digital-future"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.edf-feph.org/feed",
+    "ingestProvider": "edf-feph.org",
+    "clusterId": "cluster-b4becbbb",
+    "status": "published",
+    "translationOf": "building-inclusive-ai-why-persons-with-disabilities-must-shape-europes-digital-f-b4becbbb",
+    "publishedAt": "2026-06-08T11:05:24.000Z",
+    "fetchedAt": "2026-06-08T16:38:12.263Z",
+    "body": "欧洲残障论坛参加了在拉脱维亚里加举办的‘AI 时代的未来工作’论坛，主张残障人士应参与塑造欧洲的数字未来，通过发展包容性人工智能。\n\n原文來源： [Unknown source](https://www.edf-feph.org/building-inclusive-ai-why-persons-with-disabilities-must-shape-europes-digital-future)"
+  },
+  {
+    "title": "基隆九大社福團體頒獎 陳建仁讚童子瑋：照顧弱勢的領導典範",
+    "slug": "keelung-nine-social-welfare-groups-award-ceremony-chen-jian-ren-praises-tung-tzu-zh-dea67bc4",
+    "lang": "zh-TW",
+    "summary": "基隆市社福博覽會舉行，前副總統陳建仁頒發感謝狀給九大社福協會與公益夥伴，並讚揚市議長童子瑋長期投入弱勢與身心障礙者服務，認為其是照顧弱勢的領導典範。",
+    "category": "case-studies",
+    "tags": [
+      "disability",
+      "social-welfare",
+      "leadership"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_68e8bad5-ef3f-4edb-9044-137efa36fcc8",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_68e8bad5-ef3f-4edb-9044-137efa36fcc8"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-dea67bc4",
+    "status": "published",
+    "translationOf": "keelung-nine-social-welfare-groups-award-ceremony-chen-jian-ren-praises-tung-tzu-dea67bc4",
+    "publishedAt": "2026-06-07T07:39:59.000Z",
+    "fetchedAt": "2026-06-08T16:55:17.981Z",
+    "body": "基隆市社福博覽會舉行，前副總統陳建仁頒發感謝狀給九大社福協會與公益夥伴，並讚揚市議長童子瑋長期投入弱勢與身心障礙者服務，認為其是照顧弱勢的領導典範。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_68e8bad5-ef3f-4edb-9044-137efa36fcc8)"
+  },
+  {
+    "title": "陳建仁盛讚童子瑋「政治典範」！盼基隆成有溫度的幸福城市",
+    "slug": "former-vp-chen-chien-jen-praises-tung-tzu-wei-as-a-political-role-model-hopes-ke-zh-ed548b36",
+    "lang": "zh-TW",
+    "summary": "在基隆社福博覽會上，前副總統陳建仁讚揚議長童子瑋長期關注身心障礙者與弱勢族群權益，引用教宗方濟各與詩篇，強調捍衛弱勢即實踐福音，公共政策應優先照顧最需要幫助的人。",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "social-welfare",
+      "politics"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E9%99%B3%E5%BB%BA%E4%BB%81%E7%9B%9B%E8%AE%9A%E7%AB%A5%E5%AD%90%E7%91%8B-%E6%94%BF%E6%B2%BB%E5%85%B8%E7%AF%84-%E7%9B%BC%E5%9F%BA%E9%9A%86%E6%88%90%E6%9C%89%E6%BA%AB%E5%BA%A6%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%9F%8E%E5%B8%82-073233269.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E9%99%B3%E5%BB%BA%E4%BB%81%E7%9B%9B%E8%AE%9A%E7%AB%A5%E5%AD%90%E7%91%8B-%E6%94%BF%E6%B2%BB%E5%85%B8%E7%AF%84-%E7%9B%BC%E5%9F%BA%E9%9A%86%E6%88%90%E6%9C%89%E6%BA%AB%E5%BA%A6%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%9F%8E%E5%B8%82-073233269.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-ed548b36",
+    "status": "published",
+    "translationOf": "former-vp-chen-chien-jen-praises-tung-tzu-wei-as-a-political-role-model-hopes-ke-ed548b36",
+    "publishedAt": "2026-06-07T07:32:33.000Z",
+    "fetchedAt": "2026-06-08T16:56:20.142Z",
+    "body": "在基隆社福博覽會上，前副總統陳建仁讚揚議長童子瑋長期關注身心障礙者與弱勢族群權益，引用教宗方濟各與詩篇，強調捍衛弱勢即實踐福音，公共政策應優先照顧最需要幫助的人。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E9%99%B3%E5%BB%BA%E4%BB%81%E7%9B%9B%E8%AE%9A%E7%AB%A5%E5%AD%90%E7%91%8B-%E6%94%BF%E6%B2%BB%E5%85%B8%E7%AF%84-%E7%9B%BC%E5%9F%BA%E9%9A%86%E6%88%90%E6%9C%89%E6%BA%AB%E5%BA%A6%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%9F%8E%E5%B8%82-073233269.html)"
   }
 ]

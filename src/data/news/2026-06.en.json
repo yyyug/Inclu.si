@@ -8400,5 +8400,810 @@
     "publishedAt": "2026-06-08T04:42:31.000Z",
     "fetchedAt": "2026-06-08T05:19:35.534Z",
     "body": "Users criticize YouTube's experimental desktop homepage for being jarring, removing video title visibility and channel video options, which negatively impacts accessibility.\nTweet source: [Caden (@CadenRSong)](https://x.com/CadenRSong/status/2063844094737277198)"
+  },
+  {
+    "title": "York residents asked to help boost park and playground accessibility - BBC",
+    "slug": "york-residents-asked-to-help-boost-park-and-playground-accessibility-bbc-ee7c3cf7",
+    "lang": "en",
+    "summary": "York residents are being invited to contribute ideas and feedback to improve accessibility in local parks and playgrounds.",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "park",
+      "playground",
+      "community input"
+    ],
+    "sourceName": "BBC",
+    "sourceUrl": "https://www.bbc.com/news/articles/c0ry8vwnqy8o",
+    "relatedSources": [
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/c0ry8vwnqy8o"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ee7c3cf7",
+    "status": "published",
+    "translationOf": "york-residents-asked-to-help-boost-park-and-playground-accessibility-bbc-zh-ee7c3cf7",
+    "publishedAt": "2026-06-08T15:31:26.000Z",
+    "fetchedAt": "2026-06-08T16:18:51.699Z",
+    "body": "York residents are being invited to contribute ideas and feedback to improve accessibility in local parks and playgrounds.\n\nRead more from the original source: [BBC](https://www.bbc.com/news/articles/c0ry8vwnqy8o)"
+  },
+  {
+    "title": "Anonymous donation helps ALS patients in AZ access wheelchair-accessible cars - ABC15 Arizona",
+    "slug": "anonymous-donation-helps-als-patients-in-az-access-wheelchair-accessible-cars-ab-04c2dd09",
+    "lang": "en",
+    "summary": "An anonymous donation has provided funding for ALS patients in Arizona to obtain wheelchair-accessible vehicles, enhancing their mobility and independence.",
+    "category": "assistive-tech",
+    "tags": [
+      "ALS",
+      "wheelchair accessible vehicle",
+      "donation",
+      "mobility"
+    ],
+    "sourceName": "ABC15 Arizona",
+    "sourceUrl": "https://www.abc15.com/news/uplifting-arizona/anonymous-donation-helps-als-patients-in-arizona-access-wheelchair-accessible-vehicles",
+    "relatedSources": [
+      {
+        "name": "ABC15 Arizona",
+        "url": "https://www.abc15.com/news/uplifting-arizona/anonymous-donation-helps-als-patients-in-arizona-access-wheelchair-accessible-vehicles"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-04c2dd09",
+    "status": "published",
+    "translationOf": "anonymous-donation-helps-als-patients-in-az-access-wheelchair-accessible-cars-ab-zh-04c2dd09",
+    "publishedAt": "2026-06-08T11:19:00.000Z",
+    "fetchedAt": "2026-06-08T16:18:51.713Z",
+    "body": "An anonymous donation has provided funding for ALS patients in Arizona to obtain wheelchair-accessible vehicles, enhancing their mobility and independence.\n\nRead more from the original source: [ABC15 Arizona](https://www.abc15.com/news/uplifting-arizona/anonymous-donation-helps-als-patients-in-arizona-access-wheelchair-accessible-vehicles)"
+  },
+  {
+    "title": "NCSA’s Delta Brings Accessibility to HPC - National Center for Supercomputing Applications (NCSA)",
+    "slug": "ncsas-delta-brings-accessibility-to-hpc-national-center-for-supercomputing-appli-e68edf3c",
+    "lang": "en",
+    "summary": "The NCSA Delta system introduces accessibility features to high-performance computing environments, enabling broader participation of researchers with disabilities.",
+    "category": "digital-a11y",
+    "tags": [
+      "HPC",
+      "accessibility",
+      "NCSA Delta",
+      "supercomputing"
+    ],
+    "sourceName": "National Center for Supercomputing Applications (NCSA)",
+    "sourceUrl": "https://www.ncsa.illinois.edu/2026/06/08/ncsas-delta-brings-accessibility-to-hpc",
+    "relatedSources": [
+      {
+        "name": "National Center for Supercomputing Applications (NCSA)",
+        "url": "https://www.ncsa.illinois.edu/2026/06/08/ncsas-delta-brings-accessibility-to-hpc"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e68edf3c",
+    "status": "published",
+    "translationOf": "ncsas-delta-brings-accessibility-to-hpc-national-center-for-supercomputing-appli-zh-e68edf3c",
+    "publishedAt": "2026-06-08T14:00:00.000Z",
+    "fetchedAt": "2026-06-08T16:18:51.725Z",
+    "body": "The NCSA Delta system introduces accessibility features to high-performance computing environments, enabling broader participation of researchers with disabilities.\n\nRead more from the original source: [National Center for Supercomputing Applications (NCSA)](https://www.ncsa.illinois.edu/2026/06/08/ncsas-delta-brings-accessibility-to-hpc)"
+  },
+  {
+    "title": "Expanding accessible library experiences at scale - Clarivate",
+    "slug": "expanding-accessible-library-experiences-at-scale-clarivate-4be8cbd6",
+    "lang": "en",
+    "summary": "Clarivate discusses strategies for scaling accessible library experiences, focusing on inclusive services and environments for all patrons.",
+    "category": "physical-design",
+    "tags": [
+      "library",
+      "accessibility",
+      "inclusive services",
+      "Clarivate"
+    ],
+    "sourceName": "Clarivate",
+    "sourceUrl": "https://clarivate.com/academia-government/blog/expanding-accessible-library-experiences-at-scale",
+    "relatedSources": [
+      {
+        "name": "Clarivate",
+        "url": "https://clarivate.com/academia-government/blog/expanding-accessible-library-experiences-at-scale"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-4be8cbd6",
+    "status": "published",
+    "translationOf": "expanding-accessible-library-experiences-at-scale-clarivate-zh-4be8cbd6",
+    "publishedAt": "2026-06-08T12:02:08.000Z",
+    "fetchedAt": "2026-06-08T16:23:58.341Z",
+    "body": "Clarivate discusses strategies for scaling accessible library experiences, focusing on inclusive services and environments for all patrons.\n\nRead more from the original source: [Clarivate](https://clarivate.com/academia-government/blog/expanding-accessible-library-experiences-at-scale)"
+  },
+  {
+    "title": "The Price of Inclusion: Redefining Accessibility at Summer Camps - Grady Newsource",
+    "slug": "the-price-of-inclusion-redefining-accessibility-at-summer-camps-grady-newsource-719b7fe0",
+    "lang": "en",
+    "summary": "Grady Newsource examines the costs and efforts involved in making summer camps inclusive, highlighting program adaptations and staff training.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "summer camp",
+      "inclusion",
+      "accessibility",
+      "Grady Newsource"
+    ],
+    "sourceName": "Grady Newsource",
+    "sourceUrl": "https://gradynewsource.uga.edu/the-price-of-inclusion-redefining-accessibility-at-summer-camps",
+    "relatedSources": [
+      {
+        "name": "Grady Newsource",
+        "url": "https://gradynewsource.uga.edu/the-price-of-inclusion-redefining-accessibility-at-summer-camps"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-719b7fe0",
+    "status": "published",
+    "translationOf": "the-price-of-inclusion-redefining-accessibility-at-summer-camps-grady-newsource-zh-719b7fe0",
+    "publishedAt": "2026-06-08T13:00:50.000Z",
+    "fetchedAt": "2026-06-08T16:23:58.360Z",
+    "body": "Grady Newsource examines the costs and efforts involved in making summer camps inclusive, highlighting program adaptations and staff training.\n\nRead more from the original source: [Grady Newsource](https://gradynewsource.uga.edu/the-price-of-inclusion-redefining-accessibility-at-summer-camps)"
+  },
+  {
+    "title": "Riveredge Nature Center is in a new era of accessibility - Radio Milwaukee",
+    "slug": "riveredge-nature-center-is-in-a-new-era-of-accessibility-radio-milwaukee-8b437b21",
+    "lang": "en",
+    "summary": "Radio Milwaukee reports on Riveredge Nature Center's new accessibility initiatives, including trail improvements and facility upgrades for visitors of all abilities.",
+    "category": "physical-design",
+    "tags": [
+      "nature center",
+      "accessibility",
+      "trails",
+      "Radio Milwaukee"
+    ],
+    "sourceName": "Radio Milwaukee",
+    "sourceUrl": "https://radiomilwaukee.org/stories/2026-06-08/riveredge-nature-center-saukville",
+    "relatedSources": [
+      {
+        "name": "Radio Milwaukee",
+        "url": "https://radiomilwaukee.org/stories/2026-06-08/riveredge-nature-center-saukville"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-8b437b21",
+    "status": "published",
+    "translationOf": "riveredge-nature-center-is-in-a-new-era-of-accessibility-radio-milwaukee-zh-8b437b21",
+    "publishedAt": "2026-06-08T10:30:00.000Z",
+    "fetchedAt": "2026-06-08T16:23:58.372Z",
+    "body": "Radio Milwaukee reports on Riveredge Nature Center's new accessibility initiatives, including trail improvements and facility upgrades for visitors of all abilities.\n\nRead more from the original source: [Radio Milwaukee](https://radiomilwaukee.org/stories/2026-06-08/riveredge-nature-center-saukville)"
+  },
+  {
+    "title": "Grants supporting youth development, accessibility and more announced",
+    "slug": "grants-supporting-youth-development-accessibility-and-more-announced-4e467d1a",
+    "lang": "en",
+    "summary": "Grants have been announced to support youth development, accessibility initiatives, and other community programs.",
+    "category": "general",
+    "tags": [
+      "grants",
+      "youth development",
+      "accessibility"
+    ],
+    "sourceName": "cbs19news.com",
+    "sourceUrl": "https://www.cbs19news.com/news/grants-supporting-youth-development-accessibility-and-more-announced/article_adf1f87a-28e2-48f5-a34a-572b56181a4e.html",
+    "relatedSources": [
+      {
+        "name": "cbs19news.com",
+        "url": "https://www.cbs19news.com/news/grants-supporting-youth-development-accessibility-and-more-announced/article_adf1f87a-28e2-48f5-a34a-572b56181a4e.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-4e467d1a",
+    "status": "published",
+    "translationOf": "grants-supporting-youth-development-accessibility-and-more-announced-zh-4e467d1a",
+    "publishedAt": "2026-06-08T15:21:00.000Z",
+    "fetchedAt": "2026-06-08T16:25:01.254Z",
+    "body": "Grants have been announced to support youth development, accessibility initiatives, and other community programs.\n\nRead more from the original source: [cbs19news.com](https://www.cbs19news.com/news/grants-supporting-youth-development-accessibility-and-more-announced/article_adf1f87a-28e2-48f5-a34a-572b56181a4e.html)"
+  },
+  {
+    "title": "On the right track: A new era of accessible healthcare",
+    "slug": "on-the-right-track-a-new-era-of-accessible-healthcare-aaa12a87",
+    "lang": "en",
+    "summary": "A new initiative aims to make healthcare more accessible, marking a new era in inclusive medical services.",
+    "category": "physical-design",
+    "tags": [
+      "healthcare",
+      "accessibility",
+      "facilities"
+    ],
+    "sourceName": "Crain's New York",
+    "sourceUrl": "https://www.crainsnewyork.com/crains-content-studio/thought-leader-report/cny-hackensack-new-era-accessible-healthcare",
+    "relatedSources": [
+      {
+        "name": "Crain's New York",
+        "url": "https://www.crainsnewyork.com/crains-content-studio/thought-leader-report/cny-hackensack-new-era-accessible-healthcare"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-aaa12a87",
+    "status": "published",
+    "translationOf": "on-the-right-track-a-new-era-of-accessible-healthcare-zh-aaa12a87",
+    "publishedAt": "2026-06-08T13:36:00.000Z",
+    "fetchedAt": "2026-06-08T16:25:01.267Z",
+    "body": "A new initiative aims to make healthcare more accessible, marking a new era in inclusive medical services.\n\nRead more from the original source: [Crain's New York](https://www.crainsnewyork.com/crains-content-studio/thought-leader-report/cny-hackensack-new-era-accessible-healthcare)"
+  },
+  {
+    "title": "Sherbrooke City Hall roundup: bike lane upgrades, accessibility progress, and lawn alternatives on the agenda",
+    "slug": "sherbrooke-city-hall-roundup-bike-lane-upgrades-accessibility-progress-and-lawn--fb0c44f5",
+    "lang": "en",
+    "summary": "Sherbrooke City Hall discusses bike lane improvements, accessibility advancements, and alternatives to traditional lawns in its latest meeting.",
+    "category": "physical-design",
+    "tags": [
+      "bike lanes",
+      "city hall",
+      "accessibility",
+      "urban planning"
+    ],
+    "sourceName": "The Pulse of the Eastern Townships",
+    "sourceUrl": "https://publisherpt.substack.com/p/sherbrooke-city-hall-roundup-bike",
+    "relatedSources": [
+      {
+        "name": "The Pulse of the Eastern Townships",
+        "url": "https://publisherpt.substack.com/p/sherbrooke-city-hall-roundup-bike"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-fb0c44f5",
+    "status": "published",
+    "translationOf": "sherbrooke-city-hall-roundup-bike-lane-upgrades-accessibility-progress-and-lawn--zh-fb0c44f5",
+    "publishedAt": "2026-06-08T12:12:57.000Z",
+    "fetchedAt": "2026-06-08T16:25:01.286Z",
+    "body": "Sherbrooke City Hall discusses bike lane improvements, accessibility advancements, and alternatives to traditional lawns in its latest meeting.\n\nRead more from the original source: [The Pulse of the Eastern Townships](https://publisherpt.substack.com/p/sherbrooke-city-hall-roundup-bike)"
+  },
+  {
+    "title": "Pearson Inks $150K Deal In EEOC Vision Accessibility Suit",
+    "slug": "pearson-inks-150k-deal-in-eeoc-vision-accessibility-suit-86f1e376",
+    "lang": "en",
+    "summary": "Pearson has reached a $150,000 settlement with the EEOC over a vision accessibility lawsuit, agreeing to improve accessibility for visually impaired individuals.",
+    "category": "laws-rights",
+    "tags": [],
+    "sourceName": "Law360",
+    "sourceUrl": "https://www.law360.com/articles/2486346/pearson-inks-150k-deal-in-eeoc-vision-accessibility-suit",
+    "relatedSources": [
+      {
+        "name": "Law360",
+        "url": "https://www.law360.com/articles/2486346/pearson-inks-150k-deal-in-eeoc-vision-accessibility-suit"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-86f1e376",
+    "status": "published",
+    "translationOf": "pearson-inks-150k-deal-in-eeoc-vision-accessibility-suit-zh-86f1e376",
+    "publishedAt": "2026-06-08T15:56:00.000Z",
+    "fetchedAt": "2026-06-08T16:30:57.618Z",
+    "body": "Pearson has reached a $150,000 settlement with the EEOC over a vision accessibility lawsuit, agreeing to improve accessibility for visually impaired individuals.\n\nRead more from the original source: [Law360](https://www.law360.com/articles/2486346/pearson-inks-150k-deal-in-eeoc-vision-accessibility-suit)"
+  },
+  {
+    "title": "Tuobang Shares Uses Autonomous Intelligence to Support Accessible Technology Construction",
+    "slug": "tuobang-shares-uses-autonomous-intelligence-to-support-accessible-technology-con-e1929f16",
+    "lang": "en",
+    "summary": "Tuobang Shares reports that its autonomous intelligence technology is being used to advance the construction of accessible technology solutions.",
+    "category": "assistive-tech",
+    "tags": [],
+    "sourceName": "人民网财经",
+    "sourceUrl": "http://finance.people.com.cn/BIG5/n1/2026/0608/c1004-40736153.html",
+    "relatedSources": [
+      {
+        "name": "人民网财经",
+        "url": "http://finance.people.com.cn/BIG5/n1/2026/0608/c1004-40736153.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e1929f16",
+    "status": "published",
+    "translationOf": "tuobang-shares-uses-autonomous-intelligence-to-support-accessible-technology-con-zh-e1929f16",
+    "publishedAt": "2026-06-08T08:34:00.000Z",
+    "fetchedAt": "2026-06-08T16:30:57.631Z",
+    "body": "Tuobang Shares reports that its autonomous intelligence technology is being used to advance the construction of accessible technology solutions.\n\nRead more from the original source: [人民网财经](http://finance.people.com.cn/BIG5/n1/2026/0608/c1004-40736153.html)"
+  },
+  {
+    "title": "Tainan Launches Sign Language Tours and Gender Equality Education to Build an Accessible, Gender-Friendly Tourism City",
+    "slug": "tainan-launches-sign-language-tours-and-gender-equality-education-to-build-an-ac-cbfe69ed",
+    "lang": "en",
+    "summary": "Tainan is promoting sign language-guided tours and deepening gender equality education to create an accessible communication environment and a gender-friendly tourism destination.",
+    "category": "lifestyle-culture",
+    "tags": [],
+    "sourceName": "視傳媒",
+    "sourceUrl": "https://nvns.net/news_view.php?new_sn=131012&new_csn=1467",
+    "relatedSources": [
+      {
+        "name": "視傳媒",
+        "url": "https://nvns.net/news_view.php?new_sn=131012&new_csn=1467"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-cbfe69ed",
+    "status": "published",
+    "translationOf": "tainan-launches-sign-language-tours-and-gender-equality-education-to-build-an-ac-zh-cbfe69ed",
+    "publishedAt": "2026-06-08T15:30:10.000Z",
+    "fetchedAt": "2026-06-08T16:30:57.643Z",
+    "body": "Tainan is promoting sign language-guided tours and deepening gender equality education to create an accessible communication environment and a gender-friendly tourism destination.\n\nRead more from the original source: [視傳媒](https://nvns.net/news_view.php?new_sn=131012&new_csn=1467)"
+  },
+  {
+    "title": "Tainan Upgrades Sign Language Guide Services to Build an Accessible and Gender-Friendly Tourism City",
+    "slug": "tainan-upgrades-sign-language-guide-services-to-build-an-accessible-and-gender-f-e60396a9",
+    "lang": "en",
+    "summary": "Tainan City is enhancing its sign language guide services for tourists, aiming to create an accessible and gender-friendly tourism environment that improves communication for deaf and hard-of-hearing visitors.",
+    "category": "assistive-tech",
+    "tags": [
+      "sign language",
+      "tourism",
+      "accessibility",
+      "gender inclusion"
+    ],
+    "sourceName": "樂上新聞網",
+    "sourceUrl": "https://news111.com.tw/news/51/11950",
+    "relatedSources": [
+      {
+        "name": "樂上新聞網",
+        "url": "https://news111.com.tw/news/51/11950"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e60396a9",
+    "status": "published",
+    "translationOf": "tainan-upgrades-sign-language-guide-services-to-build-an-accessible-and-gender-f-zh-e60396a9",
+    "publishedAt": "2026-06-08T09:26:36.000Z",
+    "fetchedAt": "2026-06-08T16:32:03.448Z",
+    "body": "Tainan City is enhancing its sign language guide services for tourists, aiming to create an accessible and gender-friendly tourism environment that improves communication for deaf and hard-of-hearing visitors.\n\nRead more from the original source: [樂上新聞網](https://news111.com.tw/news/51/11950)"
+  },
+  {
+    "title": "Friendly Tourism Upgraded! Tainan Promotes Sign Language Guides to Build an Accessible Communication Tourism City",
+    "slug": "friendly-tourism-upgraded-tainan-promotes-sign-language-guides-to-build-an-acces-8433b569",
+    "lang": "en",
+    "summary": "Tainan is launching upgraded sign language guide services to foster accessible communication in tourism, enhancing the travel experience for visitors with hearing impairments.",
+    "category": "assistive-tech",
+    "tags": [
+      "sign language",
+      "tourism",
+      "accessibility",
+      "communication"
+    ],
+    "sourceName": "ETtoday新聞雲",
+    "sourceUrl": "https://www.ettoday.net/news/20260608/3179864.htm",
+    "relatedSources": [
+      {
+        "name": "ETtoday新聞雲",
+        "url": "https://www.ettoday.net/news/20260608/3179864.htm"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-8433b569",
+    "status": "published",
+    "translationOf": "friendly-tourism-upgraded-tainan-promotes-sign-language-guides-to-build-an-acces-zh-8433b569",
+    "publishedAt": "2026-06-08T08:56:00.000Z",
+    "fetchedAt": "2026-06-08T16:32:03.460Z",
+    "body": "Tainan is launching upgraded sign language guide services to foster accessible communication in tourism, enhancing the travel experience for visitors with hearing impairments.\n\nRead more from the original source: [ETtoday新聞雲](https://www.ettoday.net/news/20260608/3179864.htm)"
+  },
+  {
+    "title": "Friendly Tourism Upgraded! Tainan Trains Sign Language Guides to Create an \"Accessible Tourism City\"",
+    "slug": "friendly-tourism-upgraded-tainan-trains-sign-language-guides-to-create-an-access-859bed6c",
+    "lang": "en",
+    "summary": "Tainan is training sign language guides to support accessible tourism, aiming to establish the city as a model for inclusive travel experiences.",
+    "category": "assistive-tech",
+    "tags": [
+      "sign language",
+      "tourism",
+      "accessibility",
+      "training"
+    ],
+    "sourceName": "三立新聞網SETN.com",
+    "sourceUrl": "https://www.setn.com/News.aspx?NewsID=1852172",
+    "relatedSources": [
+      {
+        "name": "三立新聞網SETN.com",
+        "url": "https://www.setn.com/News.aspx?NewsID=1852172"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-859bed6c",
+    "status": "published",
+    "translationOf": "friendly-tourism-upgraded-tainan-trains-sign-language-guides-to-create-an-access-zh-859bed6c",
+    "publishedAt": "2026-06-08T08:40:00.000Z",
+    "fetchedAt": "2026-06-08T16:32:03.472Z",
+    "body": "Tainan is training sign language guides to support accessible tourism, aiming to establish the city as a model for inclusive travel experiences.\n\nRead more from the original source: [三立新聞網SETN.com](https://www.setn.com/News.aspx?NewsID=1852172)"
+  },
+  {
+    "title": "How Disability Stories In Archaeology Ignore The Disabled",
+    "slug": "how-disability-stories-in-archaeology-ignore-the-disabled-da372f4e",
+    "lang": "en",
+    "summary": "Examines how archaeology and media portray disability through caretaker perspectives, neglecting disabled individuals' own experiences.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "archaeology",
+      "disability",
+      "representation"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/disability/education/anthropology/archaeology-disabled.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/disability/education/anthropology/archaeology-disabled.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-da372f4e",
+    "status": "published",
+    "translationOf": "how-disability-stories-in-archaeology-ignore-the-disabled-zh-da372f4e",
+    "publishedAt": "2026-06-07T15:29:00.000Z",
+    "fetchedAt": "2026-06-08T16:34:40.010Z",
+    "body": "Examines how archaeology and media portray disability through caretaker perspectives, neglecting disabled individuals' own experiences.\n\nRead more from the original source: [Unknown source](https://www.disabled-world.com/disability/education/anthropology/archaeology-disabled.php)"
+  },
+  {
+    "title": "The Tyranny of What Can Be Measured - Disability and the Hidden Cost of Optimization",
+    "slug": "the-tyranny-of-what-can-be-measured-disability-and-the-hidden-cost-of-optimizati-af93aca9",
+    "lang": "en",
+    "summary": "Analyzes how efficiency-driven metrics influence disability advocacy, funding, and authority over support services.",
+    "category": "laws-rights",
+    "tags": [
+      "measurement",
+      "optimization",
+      "disability advocacy",
+      "funding"
+    ],
+    "sourceName": "Disability and the Hidden Cost of Optimization",
+    "sourceUrl": "https://www.disabled-world.com/disability/publications/tyranny.php",
+    "relatedSources": [
+      {
+        "name": "Disability and the Hidden Cost of Optimization",
+        "url": "https://www.disabled-world.com/disability/publications/tyranny.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-af93aca9",
+    "status": "published",
+    "translationOf": "the-tyranny-of-what-can-be-measured-disability-and-the-hidden-cost-of-optimizati-zh-af93aca9",
+    "publishedAt": "2026-06-07T14:39:00.000Z",
+    "fetchedAt": "2026-06-08T16:34:40.023Z",
+    "body": "Analyzes how efficiency-driven metrics influence disability advocacy, funding, and authority over support services.\n\nRead more from the original source: [Disability and the Hidden Cost of Optimization](https://www.disabled-world.com/disability/publications/tyranny.php)"
+  },
+  {
+    "title": "World Record Mural Highlights Disability Sight Loss",
+    "slug": "world-record-mural-highlights-disability-sight-loss-9df4e3cd",
+    "lang": "en",
+    "summary": "Describes a SeeAbility mural at Tower Bridge that achieved a Guinness World Record, raising awareness of untreated sight loss in people with learning disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "mural",
+      "sight loss",
+      "learning disabilities",
+      "awareness"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/communication/art/seeabilty.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/communication/art/seeabilty.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-9df4e3cd",
+    "status": "published",
+    "translationOf": "world-record-mural-highlights-disability-sight-loss-zh-9df4e3cd",
+    "publishedAt": "2026-06-07T13:58:00.000Z",
+    "fetchedAt": "2026-06-08T16:34:40.035Z",
+    "body": "Describes a SeeAbility mural at Tower Bridge that achieved a Guinness World Record, raising awareness of untreated sight loss in people with learning disabilities.\n\nRead more from the original source: [Unknown source](https://www.disabled-world.com/communication/art/seeabilty.php)"
+  },
+  {
+    "title": "More persons with disabilities looking for employment",
+    "slug": "more-persons-with-disabilities-looking-for-employment-6d0f75cf",
+    "lang": "en",
+    "summary": "The June 2026 nTIDE report shows a significant rise in job seeking among people with disabilities, indicating more are entering the workforce amid economic pressures.",
+    "category": "laws-rights",
+    "tags": [
+      "employment",
+      "disability",
+      "job seeking",
+      "economic pressure"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/06/08/education-and-employment/more-persons-with-disabilities-looking-for-employment",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/06/08/education-and-employment/more-persons-with-disabilities-looking-for-employment"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-6d0f75cf",
+    "status": "published",
+    "translationOf": "more-persons-with-disabilities-looking-for-employment-zh-6d0f75cf",
+    "publishedAt": "2026-06-08T07:02:42.000Z",
+    "fetchedAt": "2026-06-08T16:36:33.750Z",
+    "body": "The June 2026 nTIDE report shows a significant rise in job seeking among people with disabilities, indicating more are entering the workforce amid economic pressures.\n\nRead more from the original source: [Unknown source](https://disabilityinsider.com/2026/06/08/education-and-employment/more-persons-with-disabilities-looking-for-employment)"
+  },
+  {
+    "title": "Integrated care cuts hospital visits for adults with disabilities",
+    "slug": "integrated-care-cuts-hospital-visits-for-adults-with-disabilities-348adcd5",
+    "lang": "en",
+    "summary": "Researchers from the University of Cincinnati and Ohio State University found that adults with developmental disabilities receiving integrated care had fewer emergency room visits and hospitalizations compared to those without such care.",
+    "category": "case-studies",
+    "tags": [
+      "integrated care",
+      "developmental disabilities",
+      "hospital visits",
+      "emergency room"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/06/08/health/integrated-care-cuts-hospital-visits-for-adults-with-disabilities",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/06/08/health/integrated-care-cuts-hospital-visits-for-adults-with-disabilities"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-348adcd5",
+    "status": "published",
+    "translationOf": "integrated-care-cuts-hospital-visits-for-adults-with-disabilities-zh-348adcd5",
+    "publishedAt": "2026-06-08T06:56:28.000Z",
+    "fetchedAt": "2026-06-08T16:36:33.768Z",
+    "body": "Researchers from the University of Cincinnati and Ohio State University found that adults with developmental disabilities receiving integrated care had fewer emergency room visits and hospitalizations compared to those without such care.\n\nRead more from the original source: [Unknown source](https://disabilityinsider.com/2026/06/08/health/integrated-care-cuts-hospital-visits-for-adults-with-disabilities)"
+  },
+  {
+    "title": "New certification helps validate expertise in stroke program",
+    "slug": "new-certification-helps-validate-expertise-in-stroke-program-381703e0",
+    "lang": "en",
+    "summary": "The American Heart Association introduced a new certification to validate expertise in stroke care, aiming to improve coordinated, evidence‑based treatment for stroke patients across hospitals and health systems.",
+    "category": "general",
+    "tags": [
+      "stroke",
+      "certification",
+      "healthcare",
+      "American Heart Association"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/06/08/health/new-certification-helps-validate-expertise-in-stroke-program",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/06/08/health/new-certification-helps-validate-expertise-in-stroke-program"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-381703e0",
+    "status": "published",
+    "translationOf": "new-certification-helps-validate-expertise-in-stroke-program-zh-381703e0",
+    "publishedAt": "2026-06-08T06:42:41.000Z",
+    "fetchedAt": "2026-06-08T16:36:33.779Z",
+    "body": "The American Heart Association introduced a new certification to validate expertise in stroke care, aiming to improve coordinated, evidence‑based treatment for stroke patients across hospitals and health systems.\n\nRead more from the original source: [Unknown source](https://disabilityinsider.com/2026/06/08/health/new-certification-helps-validate-expertise-in-stroke-program)"
+  },
+  {
+    "title": "ACT helps parents of children with disabilities",
+    "slug": "act-helps-parents-of-children-with-disabilities-42ab2345",
+    "lang": "en",
+    "summary": "Parents of children with ADHD, autism and other disabilities reported increased psychological flexibility and reduced stress after participating in the Acceptance and Commitment Therapy-based programme Navigator ACT, according to a study from Karolinska Institutet published in Autism Research.",
+    "category": "case-studies",
+    "tags": [
+      "ACT",
+      "parenting",
+      "disability",
+      "mental health"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/06/08/misc/act-helps-parents-of-children-with-disabilities",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/06/08/misc/act-helps-parents-of-children-with-disabilities"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-42ab2345",
+    "status": "published",
+    "translationOf": "act-helps-parents-of-children-with-disabilities-zh-42ab2345",
+    "publishedAt": "2026-06-08T06:40:34.000Z",
+    "fetchedAt": "2026-06-08T16:38:12.245Z",
+    "body": "Parents of children with ADHD, autism and other disabilities reported increased psychological flexibility and reduced stress after participating in the Acceptance and Commitment Therapy-based programme Navigator ACT, according to a study from Karolinska Institutet published in Autism Research.\n\nRead more from the original source: [Unknown source](https://disabilityinsider.com/2026/06/08/misc/act-helps-parents-of-children-with-disabilities)"
+  },
+  {
+    "title": "Building inclusive AI: why persons with disabilities must shape Europe’s digital future",
+    "slug": "building-inclusive-ai-why-persons-with-disabilities-must-shape-europes-digital-f-b4becbbb",
+    "lang": "en",
+    "summary": "The European Disability Forum participated in the Future of Work in the Age of AI Forum in Riga, Latvia, advocating that persons with disabilities must help shape Europe's digital future through inclusive AI development.",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "inclusive design",
+      "Europe",
+      "disability rights"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.edf-feph.org/building-inclusive-ai-why-persons-with-disabilities-must-shape-europes-digital-future",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.edf-feph.org/building-inclusive-ai-why-persons-with-disabilities-must-shape-europes-digital-future"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.edf-feph.org/feed",
+    "ingestProvider": "edf-feph.org",
+    "clusterId": "cluster-b4becbbb",
+    "status": "published",
+    "translationOf": "building-inclusive-ai-why-persons-with-disabilities-must-shape-europes-digital-f-zh-b4becbbb",
+    "publishedAt": "2026-06-08T11:05:24.000Z",
+    "fetchedAt": "2026-06-08T16:38:12.263Z",
+    "body": "The European Disability Forum participated in the Future of Work in the Age of AI Forum in Riga, Latvia, advocating that persons with disabilities must help shape Europe's digital future through inclusive AI development.\n\nRead more from the original source: [Unknown source](https://www.edf-feph.org/building-inclusive-ai-why-persons-with-disabilities-must-shape-europes-digital-future)"
+  },
+  {
+    "title": "Keelung Nine Social Welfare Groups Award Ceremony: Chen Jian-ren Praises Tung Tzu-wei as a Model Leader in Caring for the Disadvantaged",
+    "slug": "keelung-nine-social-welfare-groups-award-ceremony-chen-jian-ren-praises-tung-tzu-dea67bc4",
+    "lang": "en",
+    "summary": "At the Keelung Social Welfare Expo, former Vice President Chen Jian-ren presented awards to nine social welfare organizations and praised Keelung City Council Speaker Tung Tzu-wei for his long-term dedication to disadvantaged groups, especially persons with disabilities, citing his leadership as a exemplar.",
+    "category": "case-studies",
+    "tags": [
+      "disability",
+      "social-welfare",
+      "leadership"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_68e8bad5-ef3f-4edb-9044-137efa36fcc8",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_68e8bad5-ef3f-4edb-9044-137efa36fcc8"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-dea67bc4",
+    "status": "published",
+    "translationOf": "keelung-nine-social-welfare-groups-award-ceremony-chen-jian-ren-praises-tung-tzu-zh-dea67bc4",
+    "publishedAt": "2026-06-07T07:39:59.000Z",
+    "fetchedAt": "2026-06-08T16:55:17.981Z",
+    "body": "At the Keelung Social Welfare Expo, former Vice President Chen Jian-ren presented awards to nine social welfare organizations and praised Keelung City Council Speaker Tung Tzu-wei for his long-term dedication to disadvantaged groups, especially persons with disabilities, citing his leadership as a exemplar.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_68e8bad5-ef3f-4edb-9044-137efa36fcc8)"
+  },
+  {
+    "title": "Former VP Chen Chien-jen praises Tung Tzu-wei as a political role model, hopes Keelung becomes a warm, happy city",
+    "slug": "former-vp-chen-chien-jen-praises-tung-tzu-wei-as-a-political-role-model-hopes-ke-ed548b36",
+    "lang": "en",
+    "summary": "At the Keelung Social Welfare Expo, former Vice President Chen Chien-jen commended Keelung City Council Speaker and mayoral candidate Tung Tzu-wei for his long-term focus on disability and disadvantaged groups, quoting Pope Francis and the Psalms, and emphasizing that defending the vulnerable is practicing the gospel and that public policy should prioritize those most in need.",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "social-welfare",
+      "politics"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E9%99%B3%E5%BB%BA%E4%BB%81%E7%9B%9B%E8%AE%9A%E7%AB%A5%E5%AD%90%E7%91%8B-%E6%94%BF%E6%B2%BB%E5%85%B8%E7%AF%84-%E7%9B%BC%E5%9F%BA%E9%9A%86%E6%88%90%E6%9C%89%E6%BA%AB%E5%BA%A6%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%9F%8E%E5%B8%82-073233269.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E9%99%B3%E5%BB%BA%E4%BB%81%E7%9B%9B%E8%AE%9A%E7%AB%A5%E5%AD%90%E7%91%8B-%E6%94%BF%E6%B2%BB%E5%85%B8%E7%AF%84-%E7%9B%BC%E5%9F%BA%E9%9A%86%E6%88%90%E6%9C%89%E6%BA%AB%E5%BA%A6%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%9F%8E%E5%B8%82-073233269.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-ed548b36",
+    "status": "published",
+    "translationOf": "former-vp-chen-chien-jen-praises-tung-tzu-wei-as-a-political-role-model-hopes-ke-zh-ed548b36",
+    "publishedAt": "2026-06-07T07:32:33.000Z",
+    "fetchedAt": "2026-06-08T16:56:20.142Z",
+    "body": "At the Keelung Social Welfare Expo, former Vice President Chen Chien-jen commended Keelung City Council Speaker and mayoral candidate Tung Tzu-wei for his long-term focus on disability and disadvantaged groups, quoting Pope Francis and the Psalms, and emphasizing that defending the vulnerable is practicing the gospel and that public policy should prioritize those most in need.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E9%99%B3%E5%BB%BA%E4%BB%81%E7%9B%9B%E8%AE%9A%E7%AB%A5%E5%AD%90%E7%91%8B-%E6%94%BF%E6%B2%BB%E5%85%B8%E7%AF%84-%E7%9B%BC%E5%9F%BA%E9%9A%86%E6%88%90%E6%9C%89%E6%BA%AB%E5%BA%A6%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%9F%8E%E5%B8%82-073233269.html)"
   }
 ]
