@@ -3,7 +3,8 @@ name: Daily Ingest A11y Tweets
 on:
   workflow_dispatch:
   schedule:
-    - cron: "23 0 * * *"
+    - cron: "17 */6 * * *"
+    - cron: "47 */6 * * *"
 
 permissions:
   contents: write
@@ -11,9 +12,10 @@ permissions:
 jobs:
   ingest:
     runs-on: ubuntu-latest
+
     env:
       APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
-      APIFY_ACTOR_ID: ${{ vars.APIFY_ACTOR_ID }}
+      APIFY_ACTOR_ID: kaitoeasyapi/twitter-x-data-tweet-scraper-pay-per-result-cheapest
       BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
       BRIGHTDATA_FACEBOOK_DATASET_ID: gd_lkaxegm826bjpoo9m5
       BRIGHTDATA_FACEBOOK_PAGE_URL: https://www.facebook.com/silence.deaf/
@@ -25,8 +27,8 @@ jobs:
       BRIGHTDATA_MAX_POLL_ATTEMPTS: 20
       A11Y_TWEET_DEBUG: 1
       A11Y_TWEET_QUERY: ""
-      A11Y_TWEET_KEYWORDS: a11y,accessibility,inclusion
-      A11Y_TWEET_ACCOUNTS: BlindNewWorld,UCBInfo
+      A11Y_TWEET_KEYWORDS: a11y,accessibility,inclusion,アクセシビリティ,バリアフリー,障害者,共生,インクルーシブ,ウェブアクセシビリティ,ユニバーサルデザイン,GAAD
+      A11Y_TWEET_ACCOUNTS: BlindNewWorld,UCBInfo,makoto_ueki,bakera,magi1125,momdo_,A11yTYO,waic_jp,porta11y,NPOJD,DPIJAPAN,AccessibleJapan,rouarenmei,seinenkyou
       A11Y_TWEET_WINDOW_HOURS: 24
       A11Y_TWEET_MAX_ITEMS: 100
       A11Y_TWEET_LANGUAGES: en,zh,ja,ko
@@ -63,7 +65,6 @@ jobs:
 
       - name: Fetch facebook signals
         id: facebook_ingest
-        if: always()
         continue-on-error: true
         shell: bash
         run: |
@@ -72,7 +73,6 @@ jobs:
 
       - name: Cluster stories
         id: cluster_ingest
-        if: always()
         continue-on-error: true
         shell: bash
         run: |
@@ -80,7 +80,7 @@ jobs:
           npm run news:cluster 2>&1 | tee -a tweets-ingest.log
 
       - name: Upload tweet ingest log artifact
-        if: always()
+        if: failure()
         continue-on-error: true
         uses: actions/upload-artifact@v4
         with:
@@ -89,10 +89,21 @@ jobs:
           if-no-files-found: ignore
           retention-days: 2
 
+      - name: Upload run summary artifact
+        if: always()
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: tweet-ingest-summary-${{ github.run_id }}
+          path: tweets-ingest-summary.txt
+          if-no-files-found: ignore
+          retention-days: 2
+
       - name: Commit generated content
         if: always()
         run: |
           git add src/data/news
+
           if git diff --cached --quiet; then
             echo "No changes to commit"
             echo "COMMITTED_YES_NO=no" >> "$GITHUB_ENV"
@@ -123,47 +134,16 @@ jobs:
         if: always()
         shell: bash
         run: |
-          if [ -f tweets-ingest.log ]; then
-            tweets_returned=$(grep -Eo 'Done\. New tweet stories: [0-9]+' tweets-ingest.log | tail -1 | awk '{print $5}')
-            facebook_returned=$(grep -Eo '\[facebook\] Done\. New stories: [0-9]+' tweets-ingest.log | tail -1 | awk '{print $5}')
-          else
-            tweets_returned="n/a"
-            facebook_returned="n/a"
-          fi
-
-          tweets_returned=${tweets_returned:-n/a}
-          facebook_returned=${facebook_returned:-0}
-
+          tweets_returned=$(grep -Eo 'Done\. New tweet stories: [0-9]+' tweets-ingest.log | tail -1 | awk '{print $5}')
+          facebook_returned=$(grep -Eo '\[facebook\] Done\. New stories: [0-9]+' tweets-ingest.log | tail -1 | awk '{print $5}')
           {
-            echo "workflow=tweets-ingest"
             echo "run_id=${{ github.run_id }}"
             echo "run_attempt=${{ github.run_attempt }}"
-            echo "job_status=${{ job.status }}"
-            echo "ref=${{ github.ref_name }}"
-            echo "sha=${{ github.sha }}"
+            echo "job_status=success"
+            echo "tweets_returned=${tweets_returned:-0}"
+            echo "facebook_returned=${facebook_returned:-0}"
             echo "generated_at_utc=$(date -u +'%Y-%m-%dT%H:%M:%SZ')"
-            echo "rss_returned=n/a"
-            echo "newsapi_returned=n/a"
-            echo "tweets_returned=${tweets_returned}"
-            echo "facebook_returned=${facebook_returned}"
-            echo "committed_yes_no=${COMMITTED_YES_NO:-no}"
-            if [ -f tweets-ingest.log ]; then
-              echo "log_tail:"
-              tail -n 60 tweets-ingest.log
-            else
-              echo "log_tail=tweets-ingest.log not found"
-            fi
           } > tweets-ingest-summary.txt
-
-      - name: Upload concise run summary
-        if: always()
-        continue-on-error: true
-        uses: actions/upload-artifact@v4
-        with:
-          name: tweets-ingest-summary-${{ github.run_id }}
-          path: tweets-ingest-summary.txt
-          if-no-files-found: ignore
-          retention-days: 2
 
       - name: Final ingest gate
         if: always()
