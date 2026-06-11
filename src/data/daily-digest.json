@@ -1,47 +1,47 @@
 {
-  "date": "2026-06-07",
-  "generatedAt": "2026-06-07T05:11:27.476Z",
+  "date": "2026-06-11",
+  "generatedAt": "2026-06-11T03:08:23.023Z",
   "en": {
-    "title": "Phoenix Airport Teams with ReBokeh to Boost Traveler Accessibility Features",
-    "summary": "Phoenix Airport has partnered with ReBokeh to enhance accessibility features and services for travelers with disabilities. Meanwhile, the ELCA Learning Day highlighted inclusion through workshops, and Rachel Shaw shared practical steps for workplace accessibility. A review of The 7th Guest remake praised its modern accessibility options alongside classic horror gameplay.",
+    "title": "UN Disability Rights Convention Marks 20 Years with Global Policy Focus",
+    "summary": "The European Union and European Disability Forum highlighted the 20th anniversary of the UN Convention on the Rights of Persons with Disabilities at a COSP side event, emphasizing the role of disability organisations in shaping policy. A district court ruled in favor of the Guam Department of Education superintendent in an accessibility lawsuit concerning Southern High School, affirming compliance. Meanwhile, Myrtle Beach approved a free automated beach wheelchair program, and Texas launched an accessible standardized web design system for agency sites.",
     "highlights": [
       {
-        "title": "Phoenix Airport Accessibility Partnership with ReBokeh",
-        "slug": "phoenix-airport-accessibility-partnership-with-rebokeh-e0469362"
+        "title": "20 Years of the UN Convention on the Rights of Persons with Disabilities: COSP Side Event Highlights Role of Organisations of Persons with Disabilities",
+        "slug": "20-years-of-the-un-convention-on-the-rights-of-persons-with-disabilities-cosp-si-193ec70b"
       },
       {
-        "title": "ELCA Learning Day Highlights Inclusion and Accessibility",
-        "slug": "elca-learning-day-highlights-inclusion-and-accessibility-7b77c0d8"
+        "title": "District Court sides with GDOE superintendent in Southern High accessibility case",
+        "slug": "district-court-sides-with-gdoe-superintendent-in-southern-high-accessibility-cas-4c3a6c4f"
       },
       {
-        "title": "Rachel Shaw: Getting to Yes in Workplace Accessibility",
-        "slug": "rachel-shaw-getting-to-yes-in-workplace-accessibility-3400aa6d"
+        "title": "Myrtle Beach approves free automated beach wheelchair program - WPDE",
+        "slug": "myrtle-beach-approves-free-automated-beach-wheelchair-program-wpde-e91bfe1a"
       },
       {
-        "title": "The 7th Guest Remake Review – Old-School Chills, Modern Accessibility - COGconnected",
-        "slug": "the-7th-guest-remake-review-old-school-chills-modern-accessibility-cogconnected-d88fc093"
+        "title": "Texas launches accessible, standardized web design system to modernize agency sites - StateScoop",
+        "slug": "texas-launches-accessible-standardized-web-design-system-to-modernize-agency-sit-eabe0243"
       }
     ]
   },
   "zh-TW": {
-    "title": "鳳凰機場ReBokeh合作無障礙",
-    "summary": "鳳凰機場已與ReBokeh合作，提升對殘障旅客的無障礙設施與服務。ELCA學習日則透過工作坊強調包容與無障礙，Rachel Shaw分享職場無障礙的實際步驟。《第七位來客》重製版獲得好評，因其兼具經典恐怖玩法與現代無障礙選項。",
+    "title": "聯國殘疾人權利公約二十週年紀念",
+    "summary": "歐盟與歐洲殘疾人論壇在COSP側會中紀念《殘疾人權利公約》二十週年，討論殘疾人組織在政策制定中的角色。地方法院支持關島教育總監在南部高中無障礙訴訟中的立場，確認符合無障礙要求。米特爾海灘批准免費自動化海灘輪椅計畫，德州推出可訪問標準化網頁設計系統以現代化機構網站。",
     "highlights": [
       {
-        "title": "鳳凰機場無障礙合作夥伴與ReBokeh",
-        "slug": "phoenix-airport-accessibility-partnership-with-rebokeh-zh-e0469362"
+        "title": "《殘疾人權利公約》二十週年：COSP 側凸顯殘疾人組織的角色",
+        "slug": "20-years-of-the-un-convention-on-the-rights-of-persons-with-disabilities-cosp-si-zh-193ec70b"
       },
       {
-        "title": "ELCA學習日突顯包容與無障礙",
-        "slug": "elca-learning-day-highlights-inclusion-and-accessibility-zh-7b77c0d8"
+        "title": "地方法院支持GDOE總監在南部高中無障礙案件中的立場",
+        "slug": "district-court-sides-with-gdoe-superintendent-in-southern-high-accessibility-cas-zh-4c3a6c4f"
       },
       {
-        "title": "Rachel Shaw：職場無障礙之路",
-        "slug": "rachel-shaw-getting-to-yes-in-workplace-accessibility-zh-3400aa6d"
+        "title": "米特爾海灘批准免費自動化海灘輪椅計畫 - WPDE",
+        "slug": "myrtle-beach-approves-free-automated-beach-wheelchair-program-wpde-zh-e91bfe1a"
       },
       {
-        "title": "《第七位來客》重製版評論 – 老派驚悚，現代無障礙 - COGconnected",
-        "slug": "the-7th-guest-remake-review-old-school-chills-modern-accessibility-cogconnected-zh-d88fc093"
+        "title": "德州推出可訪問、標準化的網頁設計系統以現代化機構網站 - StateScoop",
+        "slug": "texas-launches-accessible-standardized-web-design-system-to-modernize-agency-sit-zh-eabe0243"
       }
     ]
   }
