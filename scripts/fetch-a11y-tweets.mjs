@@ -422,7 +422,7 @@ async function retryOllama(fn, batchIndex) {
       lastError = err;
       if (attempt < OLLAMA_MAX_RETRIES) {
         const delay = attempt * 2000;
-        console.warn(`[ollama] Batch ${batchIndex} attempt ${attempt} failed (${err.message}). Retrying in ${delay}ms…`);
+        console.warn(`[ollama] Batch ${batchIndex} attempt ${attempt} failed (${err.message}). Retrying in ${delay}ms...`);
         await new Promise((r) => setTimeout(r, delay));
       }
     }
@@ -586,6 +586,9 @@ async function writeStoryPair(entry, ai) {
     ? `${entry.authorName} (@${entry.authorHandle})`
     : entry.authorName;
 
+  const langToCountry = { ja: 'JP', zh: 'TW', en: 'US', ko: 'KR' };
+  const sourceCountry = langToCountry[entry.lang] || '';
+
   const tags = Array.from(new Set([
     'a11y',
     'social-signals',
@@ -610,6 +613,9 @@ async function writeStoryPair(entry, ai) {
     tags,
     sourceName,
     sourceUrl: canonicalTweetUrl,
+    sourceCountry,
+    queryRegion: sourceCountry,
+    region: sourceCountry,
     relatedSources,
     ingestType: 'x',
     ingestSource: 'x.com',
@@ -636,6 +642,9 @@ async function writeStoryPair(entry, ai) {
     tags,
     sourceName,
     sourceUrl: canonicalTweetUrl,
+    sourceCountry,
+    queryRegion: sourceCountry,
+    region: sourceCountry,
     relatedSources,
     ingestType: 'x',
     ingestSource: 'x.com',
