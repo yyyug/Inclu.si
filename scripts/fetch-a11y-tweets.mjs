@@ -28,7 +28,7 @@ const A11Y_KEYWORDS = String(process.env.A11Y_TWEET_KEYWORDS ?? 'a11y,accessibil
   .split(',')
   .map((value) => value.trim())
   .filter(Boolean);
-const A11Y_TARGET_ACCOUNTS = String(process.env.A11Y_TWEET_ACCOUNTS ?? 'BlindNewWorld,UCBInfo')
+const A11Y_TARGET_ACCOUNTS = String(process.env.A11Y_TWEET_ACCOUNTS ?? 'BlindNewWorld,UCBInfo,makoto_ueki,bakera,magi1125,momdo_,A11yTYO,waic_jp,porta11y,NPOJD,DPIJAPAN,AccessibleJapan,rouarenmei,seinenkyou')
   .split(',')
   .map((value) => value.trim().replace(/^@+/, ''))
   .filter(Boolean);
@@ -268,9 +268,9 @@ function formatActorUtc(value) {
   return `${year}-${month}-${day}_${hours}:${minutes}:${seconds}_UTC`;
 }
 
-function buildSearchExpression() {
+function buildSearchExpressions() {
   if (A11Y_QUERY) {
-    return A11Y_QUERY;
+    return [A11Y_QUERY];
   }
 
   const keywordParts = A11Y_KEYWORDS.map((keyword) => keyword.includes(' ') ? `"${keyword}"` : keyword);
@@ -278,26 +278,27 @@ function buildSearchExpression() {
   const allParts = [...keywordParts, ...accountParts];
 
   if (allParts.length === 0) {
-    return 'a11y';
+    return ['a11y'];
   }
 
-  if (allParts.length === 1) {
-    return allParts[0];
+  // Split into batches of max 5 OR terms to avoid X anti-scraping
+  const MAX_TERMS_PER_QUERY = 5;
+  const expressions = [];
+  for (let i = 0; i < allParts.length; i += MAX_TERMS_PER_QUERY) {
+    const batch = allParts.slice(i, i + MAX_TERMS_PER_QUERY);
+    expressions.push(batch.length === 1 ? batch[0] : `(${batch.join(' OR ')})`);
   }
-
-  return `(${allParts.join(' OR ')})`;
+  return expressions;
 }
 
-function buildActorInput() {
+function buildActorInputs() {
   const now = new Date();
   const since = new Date(now.getTime() - (A11Y_WINDOW_HOURS * 60 * 60 * 1000));
-  const searchExpression = buildSearchExpression();
-  const searchQuery = `${searchExpression} since:${formatActorUtc(since)} until:${formatActorUtc(now)}`;
+  const timeClause = `since:${formatActorUtc(since)} until:${formatActorUtc(now)}`;
 
-  return {
+  const baseInput = {
     tweetIDs: [],
     twitterContent: '',
-    searchTerms: [searchQuery],
     maxItems: A11Y_MAX_ITEMS,
     queryType: 'Latest',
     'filter:blue_verified': false,
@@ -326,6 +327,11 @@ function buildActorInput() {
     'filter:safe': false,
     'filter:hashtags': false,
   };
+
+  return buildSearchExpressions().map((expr) => ({
+    ...baseInput,
+    searchTerms: [`${expr} ${timeClause}`],
+  }));
 }
 
 async function readExistingTweetKeys() {
@@ -653,39 +659,63 @@ async function writeStoryPair(entry, ai) {
   return { canonicalTweetUrl, enFile, zhFile };
 }
 
+async function fetchTweetItemsForInput(client, input) {
+  const run = await client.actor(APIFY_ACTOR_ID).call(input);
+
+  if (run.status !== 'SUCCEEDED') {
+    console.warn(`[tweets] Apify run status=${run.status} for query: ${input.searchTerms[0]?.slice(0, 80)}...`);
+    return [];
+  }
+
+  if (!run.defaultDatasetId) {
+    console.warn('[tweets] Apify run missing defaultDatasetId');
+    return [];
+  }
+
+  const { items } = await client.dataset(run.defaultDatasetId).listItems({ clean: true, limit: A11Y_MAX_ITEMS });
+  return Array.isArray(items) ? items : [];
+}
+
 async function fetchTweetItems() {
   if (!APIFY_TOKEN) {
     throw new Error('Missing APIFY_TOKEN.');
   }
 
   const client = new ApifyClient({ token: APIFY_TOKEN });
-  const input = buildActorInput();
-  if (A11Y_DEBUG) {
-    console.log(`Using Apify actor: ${APIFY_ACTOR_ID}`);
-    console.log(`Apify input: ${JSON.stringify(input)}`);
-  }
-  const run = await client.actor(APIFY_ACTOR_ID).call(input);
+  const inputs = buildActorInputs();
 
-  if (run.status !== 'SUCCEEDED') {
-    throw new Error(`Apify actor run failed with status: ${run.status}`);
+  console.log(`[tweets] Splitting into ${inputs.length} queries (max 5 OR terms each)`);
+
+  const allItems = [];
+  for (let i = 0; i < inputs.length; i++) {
+    const input = inputs[i];
+    const queryPreview = input.searchTerms[0]?.slice(0, 100);
+
+    if (A11Y_DEBUG) {
+      console.log(`[tweets] Query ${i + 1}/${inputs.length}: ${queryPreview}...`);
+    }
+
+    try {
+      const items = await fetchTweetItemsForInput(client, input);
+      console.log(`[tweets] Query ${i + 1}/${inputs.length}: ${items.length} items — ${queryPreview}...`);
+      allItems.push(...items);
+    } catch (error) {
+      console.warn(`[tweets] Query ${i + 1}/${inputs.length} failed: ${error.message}`);
+    }
+
+    // Small delay between Apify calls to avoid rate limits
+    if (i < inputs.length - 1) {
+      await new Promise((r) => setTimeout(r, 2000));
+    }
   }
 
-  if (!run.defaultDatasetId) {
-    throw new Error('Apify actor did not provide defaultDatasetId.');
+  console.log(`[tweets] Total raw items across ${inputs.length} queries: ${allItems.length}`);
+
+  if (allItems.length === 0) {
+    throw new Error('All Apify queries returned empty. Apify may be blocking these searches.');
   }
 
-  const { items } = await client.dataset(run.defaultDatasetId).listItems({ clean: true, limit: A11Y_MAX_ITEMS });
-  if (!Array.isArray(items) || items.length === 0) {
-    throw new Error('Apify dataset is empty.');
-  }
-
-  if (A11Y_DEBUG) {
-    const sampleKeys = Object.keys(items[0] ?? {}).sort();
-    console.log(`Apify dataset items: ${items.length}`);
-    console.log(`Apify sample keys: ${sampleKeys.join(', ')}`);
-  }
-
-  return items;
+  return allItems;
 }
 
 function filterCandidates(rawItems, existingTweetUrls) {
