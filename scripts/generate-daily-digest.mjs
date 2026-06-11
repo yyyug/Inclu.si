@@ -100,11 +100,7 @@ function normalizeHighlightSlugs(candidates, requestedSlugs) {
   return selected.slice(0, DIGEST_MAX_HIGHLIGHTS);
 }
 
-async function askOllama(enCandidates, zhCandidates) {
-  if (!OLLAMA_API_KEY) {
-    throw new Error('Missing OLLAMA_API_KEY.');
-  }
-
+function buildDigestPrompt(enCandidates, zhCandidates) {
   const enPayload = enCandidates.map((item) => ({
     slug: item.slug,
     title: item.title,
@@ -121,7 +117,7 @@ async function askOllama(enCandidates, zhCandidates) {
     publishedAt: item.publishedAt,
   }));
 
-  const prompt = [
+  return [
     'You are an accessibility news editor.',
     'Create one daily digest in English and Traditional Chinese from the provided stories.',
     `Select ${DIGEST_MIN_HIGHLIGHTS} to ${DIGEST_MAX_HIGHLIGHTS} stories per language.`,
@@ -152,42 +148,9 @@ async function askOllama(enCandidates, zhCandidates) {
     'Traditional Chinese candidate stories:',
     JSON.stringify(zhPayload),
   ].join('\n');
+}
 
-  let response;
-  try {
-    response = await fetch(`${OLLAMA_BASE_URL}/chat/completions`, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        Authorization: `Bearer ${OLLAMA_API_KEY}`,
-      },
-      body: JSON.stringify({
-        model: OLLAMA_MODEL,
-        temperature: 0.2,
-        max_tokens: OLLAMA_MAX_TOKENS,
-        messages: [
-          { role: 'system', content: 'Always output valid minified JSON and nothing else.' },
-          { role: 'user', content: prompt },
-        ],
-      }),
-      signal: AbortSignal.timeout(OLLAMA_TIMEOUT_MS),
-    });
-  } catch (error) {
-    const code = error?.cause?.code ?? error?.code ?? 'UNKNOWN';
-    throw new Error(`Daily digest LLM request failed (${code}). ${error?.message ?? ''}`.trim());
-  }
-
-  if (!response.ok) {
-    const text = await response.text();
-    throw new Error(`Daily digest LLM failed: ${response.status} ${text}`);
-  }
-
-  const data = await response.json();
-  const content = data.choices?.[0]?.message?.content;
-  if (!content) {
-    throw new Error('Daily digest LLM returned empty content.');
-  }
-
+function parseDigestResponse(enCandidates, zhCandidates, content) {
   let cleanedContent = content.trim();
   if (cleanedContent.startsWith('```json')) {
     cleanedContent = cleanedContent.replace(/^```json\s*/, '').replace(/\s*```$/, '');
@@ -226,6 +189,113 @@ async function askOllama(enCandidates, zhCandidates) {
   };
 }
 
+async function callOllamaAPI(prompt) {
+  if (!OLLAMA_API_KEY) {
+    throw new Error('Missing OLLAMA_API_KEY.');
+  }
+
+  let response;
+  try {
+    response = await fetch(`${OLLAMA_BASE_URL}/chat/completions`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${OLLAMA_API_KEY}`,
+      },
+      body: JSON.stringify({
+        model: OLLAMA_MODEL,
+        temperature: 0.2,
+        max_tokens: OLLAMA_MAX_TOKENS,
+        messages: [
+          { role: 'system', content: 'Always output valid minified JSON and nothing else.' },
+          { role: 'user', content: prompt },
+        ],
+      }),
+      signal: AbortSignal.timeout(OLLAMA_TIMEOUT_MS),
+    });
+  } catch (error) {
+    const code = error?.cause?.code ?? error?.code ?? 'UNKNOWN';
+    throw new Error(`Ollama request failed (${code}). ${error?.message ?? ''}`.trim());
+  }
+
+  if (!response.ok) {
+    const text = await response.text();
+    throw new Error(`Ollama request failed: ${response.status} ${text}`);
+  }
+
+  const data = await response.json();
+  const content = data.choices?.[0]?.message?.content;
+  if (!content) {
+    throw new Error('Ollama returned empty content.');
+  }
+
+  return content;
+}
+
+async function callGroqAPI(prompt) {
+  const GROQ_API_KEY = process.env.GROQ_API_KEY;
+  if (!GROQ_API_KEY) {
+    throw new Error('GROQ_API_KEY not configured for fallback.');
+  }
+  const GROQ_MODEL = process.env.GROQ_MODEL || 'openai/gpt-oss-120b';
+  const GROQ_TIMEOUT_MS = Number(process.env.GROQ_TIMEOUT_MS ?? OLLAMA_TIMEOUT_MS);
+
+  console.log(`[digest] Ollama unavailable, falling back to Groq model=${GROQ_MODEL}`);
+
+  let response;
+  try {
+    response = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${GROQ_API_KEY}`,
+      },
+      body: JSON.stringify({
+        model: GROQ_MODEL,
+        temperature: 0.2,
+        max_tokens: OLLAMA_MAX_TOKENS,
+        messages: [
+          { role: 'system', content: 'Always output valid minified JSON and nothing else.' },
+          { role: 'user', content: prompt },
+        ],
+      }),
+      signal: AbortSignal.timeout(GROQ_TIMEOUT_MS),
+    });
+  } catch (error) {
+    const code = error?.cause?.code ?? error?.code ?? 'UNKNOWN';
+    throw new Error(`Groq fallback request failed (${code}). ${error?.message ?? ''}`.trim());
+  }
+
+  if (!response.ok) {
+    const text = await response.text();
+    throw new Error(`Groq fallback failed: ${response.status} ${text}`);
+  }
+
+  const data = await response.json();
+  const content = data.choices?.[0]?.message?.content;
+  if (!content) {
+    throw new Error('Groq fallback returned empty content.');
+  }
+
+  return content;
+}
+
+async function askLLM(enCandidates, zhCandidates) {
+  const prompt = buildDigestPrompt(enCandidates, zhCandidates);
+
+  try {
+    const content = await callOllamaAPI(prompt);
+    console.log('[digest] Ollama succeeded');
+    return parseDigestResponse(enCandidates, zhCandidates, content);
+  } catch (ollamaError) {
+    console.warn(`[digest] Ollama failed: ${ollamaError.message}`);
+  }
+
+  const content = await callGroqAPI(prompt);
+  console.log('[digest] Groq fallback succeeded');
+  return parseDigestResponse(enCandidates, zhCandidates, content);
+}
+
 async function main() {
   const rows = await loadRecentPublishedArticles();
   const enRows = rows.filter((item) => item.lang === 'en');
@@ -241,7 +311,7 @@ async function main() {
     console.warn('[digest] Warning: one locale has zero candidates; highlights may be sparse for that locale.');
   }
 
-  const digest = await askOllama(enRows, zhRows);
+  const digest = await askLLM(enRows, zhRows);
   const output = {
     date: DIGEST_DATE,
     generatedAt: new Date().toISOString(),
