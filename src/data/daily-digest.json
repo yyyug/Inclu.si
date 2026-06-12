@@ -1,47 +1,47 @@
 {
-  "date": "2026-06-11",
-  "generatedAt": "2026-06-11T03:08:23.023Z",
+  "date": "2026-06-12",
+  "generatedAt": "2026-06-12T05:21:18.756Z",
   "en": {
-    "title": "UN Disability Rights Convention Marks 20 Years with Global Policy Focus",
-    "summary": "The European Union and European Disability Forum highlighted the 20th anniversary of the UN Convention on the Rights of Persons with Disabilities at a COSP side event, emphasizing the role of disability organisations in shaping policy. A district court ruled in favor of the Guam Department of Education superintendent in an accessibility lawsuit concerning Southern High School, affirming compliance. Meanwhile, Myrtle Beach approved a free automated beach wheelchair program, and Texas launched an accessible standardized web design system for agency sites.",
+    "title": "Livonia Residents Raise Accessibility Concerns Ahead of Early Voting",
+    "summary": "Livonia residents raised accessibility concerns at city hall ahead of early voting, citing inadequate wheelchair access, unclear signage, and insufficient voting booth accommodations. Meanwhile, Ontario marked 2026 as a reporting year under the Accessibility for Ontarians with Disabilities Act, and community donations funded ADA‑compliant upgrades at Camp Rainbow. A separate commentary emphasized that news should be accessible to all readers without being mistaken for effortlessness.",
     "highlights": [
       {
-        "title": "20 Years of the UN Convention on the Rights of Persons with Disabilities: COSP Side Event Highlights Role of Organisations of Persons with Disabilities",
-        "slug": "20-years-of-the-un-convention-on-the-rights-of-persons-with-disabilities-cosp-si-193ec70b"
+        "title": "Livonia residents raise accessibility concerns at city hall ahead of early voting",
+        "slug": "livonia-residents-raise-accessibility-concerns-at-city-hall-ahead-of-early-votin-821cccdd"
       },
       {
-        "title": "District Court sides with GDOE superintendent in Southern High accessibility case",
-        "slug": "district-court-sides-with-gdoe-superintendent-in-southern-high-accessibility-cas-4c3a6c4f"
+        "title": "2026 Is a Reporting Year Under the Accessibility for Ontarians with Disabilities Act (AODA)",
+        "slug": "2026-is-a-reporting-year-under-the-accessibility-for-ontarians-with-disabilities-245067df"
       },
       {
-        "title": "Myrtle Beach approves free automated beach wheelchair program - WPDE",
-        "slug": "myrtle-beach-approves-free-automated-beach-wheelchair-program-wpde-e91bfe1a"
+        "title": "Community generosity creates ADA-accessible improvements at Camp Rainbow",
+        "slug": "community-generosity-creates-ada-accessible-improvements-at-camp-rainbow-d00038d0"
       },
       {
-        "title": "Texas launches accessible, standardized web design system to modernize agency sites - StateScoop",
-        "slug": "texas-launches-accessible-standardized-web-design-system-to-modernize-agency-sit-eabe0243"
+        "title": "Behind the Bylines: News should be accessible. It should not be effortless",
+        "slug": "behind-the-bylines-news-should-be-accessible-it-should-not-be-effortless-0f6f6e07"
       }
     ]
   },
   "zh-TW": {
-    "title": "聯國殘疾人權利公約二十週年紀念",
-    "summary": "歐盟與歐洲殘疾人論壇在COSP側會中紀念《殘疾人權利公約》二十週年，討論殘疾人組織在政策制定中的角色。地方法院支持關島教育總監在南部高中無障礙訴訟中的立場，確認符合無障礙要求。米特爾海灘批准免費自動化海灘輪椅計畫，德州推出可訪問標準化網頁設計系統以現代化機構網站。",
+    "title": "利沃尼亞居民在早期投票前對市政廳無障礙問題提出關注",
+    "summary": "利沃尼亞居民在早期投票前對市政廳無障礙問題提出關注，指出輪椅通行不足、標識不明及投票亭缺乏適應性設施。同時，安大略省將2026年指定為殘疾人無障礙法（AODA）報告年，社區捐助為彩虹營創建符合ADA的設施。另一則評論強調新聞應該對所有讀者可及，但不應等同於輕鬆獲得。",
     "highlights": [
       {
-        "title": "《殘疾人權利公約》二十週年：COSP 側凸顯殘疾人組織的角色",
-        "slug": "20-years-of-the-un-convention-on-the-rights-of-persons-with-disabilities-cosp-si-zh-193ec70b"
+        "title": "利沃尼亞居民在早期投票前對市政廳無障礙問題提出關注",
+        "slug": "livonia-residents-raise-accessibility-concerns-at-city-hall-ahead-of-early-votin-zh-821cccdd"
       },
       {
-        "title": "地方法院支持GDOE總監在南部高中無障礙案件中的立場",
-        "slug": "district-court-sides-with-gdoe-superintendent-in-southern-high-accessibility-cas-zh-4c3a6c4f"
+        "title": "2026 年為安大略省殘疾人無障礙法 (AODA) 報告年",
+        "slug": "2026-is-a-reporting-year-under-the-accessibility-for-ontarians-with-disabilities-zh-245067df"
       },
       {
-        "title": "米特爾海灘批准免費自動化海灘輪椅計畫 - WPDE",
-        "slug": "myrtle-beach-approves-free-automated-beach-wheelchair-program-wpde-zh-e91bfe1a"
+        "title": "社區熱心捐助為彩虹營創建無障礙設施",
+        "slug": "community-generosity-creates-ada-accessible-improvements-at-camp-rainbow-zh-d00038d0"
       },
       {
-        "title": "德州推出可訪問、標準化的網頁設計系統以現代化機構網站 - StateScoop",
-        "slug": "texas-launches-accessible-standardized-web-design-system-to-modernize-agency-sit-zh-eabe0243"
+        "title": "Behind the Bylines：新聞應該可及。它不應該是輕鬆的",
+        "slug": "behind-the-bylines-news-should-be-accessible-it-should-not-be-effortless-zh-0f6f6e07"
       }
     ]
   }
