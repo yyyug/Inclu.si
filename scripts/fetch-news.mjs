@@ -758,6 +758,11 @@ async function main() {
 
     for (let j = 0; j < batch.length; j += 1) {
       const entry = batch[j];
+      const titleKey = `title:${entry.title}`;
+      if (existing.has(titleKey)) {
+        skipped += 1;
+        continue;
+      }
       let output = outputMap.get(j);
 
       if (!output) {
