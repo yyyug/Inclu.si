@@ -1,17 +1,17 @@
 {
   "date": "2026-06-12",
-  "generatedAt": "2026-06-12T05:21:18.756Z",
+  "generatedAt": "2026-06-12T07:52:36.863Z",
   "en": {
-    "title": "Livonia Residents Raise Accessibility Concerns Ahead of Early Voting",
-    "summary": "Livonia residents raised accessibility concerns at city hall ahead of early voting, citing inadequate wheelchair access, unclear signage, and insufficient voting booth accommodations. Meanwhile, Ontario marked 2026 as a reporting year under the Accessibility for Ontarians with Disabilities Act, and community donations funded ADA‑compliant upgrades at Camp Rainbow. A separate commentary emphasized that news should be accessible to all readers without being mistaken for effortlessness.",
+    "title": "SUZURI Accessibility Walkthrough Leads Disability Tech Updates Highlights",
+    "summary": "The SUZURI accessibility walkthrough conducted with Mogumo Planning and GMO Pepabo highlighted web accessibility improvements. Jamie Maguire's bulk alt‑text generator using Azure AI was released to streamline image descriptions. Community donations funded ADA‑compliant upgrades at Camp Rainbow, and an article stressed that news accessibility should not be mistaken for effortlessness.",
     "highlights": [
       {
-        "title": "Livonia residents raise accessibility concerns at city hall ahead of early voting",
-        "slug": "livonia-residents-raise-accessibility-concerns-at-city-hall-ahead-of-early-votin-821cccdd"
+        "title": "SUZURI Accessibility Walkthrough Conducted",
+        "slug": "suzuri-accessibility-walkthrough-conducted-c6bbd93c"
       },
       {
-        "title": "2026 Is a Reporting Year Under the Accessibility for Ontarians with Disabilities Act (AODA)",
-        "slug": "2026-is-a-reporting-year-under-the-accessibility-for-ontarians-with-disabilities-245067df"
+        "title": "Bulk Alt-Text Generator Web App Released",
+        "slug": "bulk-alt-text-generator-web-app-released-0f8a25a8"
       },
       {
         "title": "Community generosity creates ADA-accessible improvements at Camp Rainbow",
@@ -24,16 +24,16 @@
     ]
   },
   "zh-TW": {
-    "title": "利沃尼亞居民在早期投票前對市政廳無障礙問題提出關注",
-    "summary": "利沃尼亞居民在早期投票前對市政廳無障礙問題提出關注，指出輪椅通行不足、標識不明及投票亭缺乏適應性設施。同時，安大略省將2026年指定為殘疾人無障礙法（AODA）報告年，社區捐助為彩虹營創建符合ADA的設施。另一則評論強調新聞應該對所有讀者可及，但不應等同於輕鬆獲得。",
+    "title": "SUZURI 無障礙走查帶領殘障科技更新亮點",
+    "summary": "SUZURI 無障礙走查由 Mogumo Planning 與 GMO Pepabo 進行，凸顯網頁無障礙改進。Jamie Maguire 利用 Azure AI 發布批量替代文字生成器，方便圖片描述。社區捐助為 Camp Rainbow 建設符合 ADA 的設施，另有文章強調新聞無障礙不等於輕鬆取得。",
     "highlights": [
       {
-        "title": "利沃尼亞居民在早期投票前對市政廳無障礙問題提出關注",
-        "slug": "livonia-residents-raise-accessibility-concerns-at-city-hall-ahead-of-early-votin-zh-821cccdd"
+        "title": "SUZURI 无障碍走查已完成",
+        "slug": "suzuri-accessibility-walkthrough-conducted-zh-c6bbd93c"
       },
       {
-        "title": "2026 年為安大略省殘疾人無障礙法 (AODA) 報告年",
-        "slug": "2026-is-a-reporting-year-under-the-accessibility-for-ontarians-with-disabilities-zh-245067df"
+        "title": "批量替代文本生成器网页应用发布",
+        "slug": "bulk-alt-text-generator-web-app-released-zh-0f8a25a8"
       },
       {
         "title": "社區熱心捐助為彩虹營創建無障礙設施",
