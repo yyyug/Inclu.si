@@ -34,6 +34,7 @@ const A11Y_TARGET_ACCOUNTS = String(process.env.A11Y_TWEET_ACCOUNTS ?? 'BlindNew
   .filter(Boolean);
 const A11Y_WINDOW_HOURS = Number(process.env.A11Y_TWEET_WINDOW_HOURS ?? 24);
 const A11Y_MAX_ITEMS = Number(process.env.A11Y_TWEET_MAX_ITEMS ?? 100);
+const A11Y_MAX_PROCESS = Number(process.env.A11Y_TWEET_MAX_PROCESS ?? A11Y_MAX_ITEMS);
 const A11Y_LANGUAGES = String(process.env.A11Y_TWEET_LANGUAGES ?? 'en,zh,ja,ko')
   .split(',')
   .map((value) => value.trim().toLowerCase())
@@ -245,6 +246,9 @@ function inferTweet(record) {
     authorName,
     authorHandle,
     externalUrl: externalUrl && externalUrl !== tweetUrl ? externalUrl : '',
+    likeCount: Number(raw.likeCount ?? raw.favorite_count ?? raw.faves ?? raw.legacy?.favorite_count ?? 0),
+    retweetCount: Number(raw.retweetCount ?? raw.retweet_count ?? raw.legacy?.retweet_count ?? 0),
+    replyCount: Number(raw.replyCount ?? raw.reply_count ?? raw.legacy?.reply_count ?? 0),
   };
 }
 
@@ -846,6 +850,17 @@ async function main() {
   if (candidates.length === 0) {
     const sampleKeys = Object.keys(rawItems[0] ?? {}).sort();
     throw new Error(`No eligible tweets found after filtering and dedupe. Raw items: ${rawItems.length}. Sample keys: ${sampleKeys.join(', ')}`);
+  }
+
+  candidates.sort((a, b) => {
+    const scoreA = (a.likeCount || 0) + (a.retweetCount || 0) * 2 + (a.replyCount || 0) * 3;
+    const scoreB = (b.likeCount || 0) + (b.retweetCount || 0) * 2 + (b.replyCount || 0) * 3;
+    return scoreB - scoreA;
+  });
+
+  if (candidates.length > A11Y_MAX_PROCESS) {
+    console.log(`[tweets] limiting from ${candidates.length} to ${A11Y_MAX_PROCESS} by engagement`);
+    candidates.length = A11Y_MAX_PROCESS;
   }
 
   let created = 0;

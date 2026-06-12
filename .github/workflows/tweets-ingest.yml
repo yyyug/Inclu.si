@@ -31,6 +31,7 @@ jobs:
       A11Y_TWEET_ACCOUNTS: BlindNewWorld,UCBInfo,makoto_ueki,bakera,magi1125,momdo_,A11yTYO,waic_jp,porta11y,NPOJD,DPIJAPAN,AccessibleJapan,rouarenmei,seinenkyou
       A11Y_TWEET_WINDOW_HOURS: 24
       A11Y_TWEET_MAX_ITEMS: 100
+      A11Y_TWEET_MAX_PROCESS: 50
       A11Y_TWEET_LANGUAGES: en,zh,ja,ko
       OLLAMA_API_KEY: ${{ secrets.OLLAMA_API_KEY }}
       OLLAMA_BASE_URL: ${{ secrets.OLLAMA_BASE_URL }}
