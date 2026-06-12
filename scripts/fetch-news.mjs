@@ -557,13 +557,15 @@ async function askOllamaForBatch(batchItems) {
   }));
 
   const userPrompt = [
-    'You are an accessibility news editor.',
-    'For each input item, first decide if it is accessibility-related.',
+    'You are a disability accessibility news editor.',
+    'For each input item, first decide if it is about DISABILITY accessibility.',
     'If related, classify and summarize in English and Traditional Chinese.',
     'Return a strict JSON array and nothing else.',
     'Allowed category values: digital-a11y, assistive-tech, laws-rights, physical-design, lifestyle-culture, case-studies, general.',
     'Each array item must include keys: itemId, isRelevant, englishTitle, englishSummary, zhTitle, zhSummary, category, tags.',
     'If not relevant, return: {"itemId": <id>, "isRelevant": false}',
+    '',
+    'IMPORTANT: "Accessible" has two meanings. Mark as NOT relevant if it means "easy to understand", "easy to read", or "available to the general public" rather than accommodations for people with disabilities.',
     '',
     JSON.stringify(payload),
   ].join('\n');

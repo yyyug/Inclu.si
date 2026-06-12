@@ -22,7 +22,7 @@ const DIGEST_LOOKBACK_HOURS = Number(
   ?? (Number(process.env.DIGEST_LOOKBACK_DAYS ?? 0) > 0 ? Number(process.env.DIGEST_LOOKBACK_DAYS) * 24 : 25),
 );
 const DIGEST_MIN_HIGHLIGHTS = 3;
-const DIGEST_MAX_HIGHLIGHTS = 5;
+const DIGEST_MAX_HIGHLIGHTS = 8;
 
 async function loadRecentPublishedArticles() {
   const rows = [];
@@ -118,9 +118,10 @@ function buildDigestPrompt(enCandidates, zhCandidates) {
   }));
 
   return [
-    'You are an accessibility news editor.',
+    'You are a disability accessibility news editor.',
     'Create one daily digest in English and Traditional Chinese from the provided stories.',
     `Select ${DIGEST_MIN_HIGHLIGHTS} to ${DIGEST_MAX_HIGHLIGHTS} stories per language.`,
+    'Verify each story is genuinely about disability accessibility before selecting. Exclude stories where "accessible" means "easy to understand" or "available to the public" rather than accommodations for people with disabilities.',
     '',
     'Rank stories by importance (highest first):',
     '1. Breaking news, major policy/law changes, or significant rulings',
@@ -133,6 +134,8 @@ function buildDigestPrompt(enCandidates, zhCandidates) {
     'Diversity rules:',
     '- Do NOT select more than 2 stories from the same category.',
     '- If possible, cover at least 3 different categories.',
+    '- For the zh-TW digest, include at least 1 story from x.com (Twitter) if available, especially posts from Japanese accounts about disability topics.',
+    '- Balance between traditional news articles and social media posts (x.com).',
     '',
     'Summary requirements:',
     "- Title: 8-15 words, captures the day's theme or lead story.",
