@@ -865,6 +865,9 @@ async function main() {
       console.error(error);
     }
 
+    const enItems = [];
+    const enIndexMap = new Map();
+
     for (let j = 0; j < batch.length; j += 1) {
       const entry = batch[j];
       let output = outputMap.get(j);
@@ -892,30 +895,42 @@ async function main() {
         continue;
       }
 
-      const enItems = [{
-        itemId: j,
+      const itemIdx = enItems.length;
+      enIndexMap.set(j, itemIdx);
+      enItems.push({
+        itemId: itemIdx,
         englishTitle: output.englishTitle || `A11y social signal ${entry.tweetId}`,
         englishSummary: output.englishSummary || entry.text,
-      }];
+        tags: output.tags,
+      });
+    }
 
-      let zhMap = new Map();
+    let zhMap = new Map();
+    if (enItems.length > 0) {
       try {
-        const translations = await retryOllama(() => translateBatchToZh(enItems), `${i + j}/zh`);
+        const translations = await retryOllama(() => translateBatchToZh(enItems), `${i}/zh`);
         for (const t of translations) {
           zhMap.set(t.itemId, t);
         }
       } catch (zhError) {
-        console.warn(`Translation failed for ${entry.tweetId}, using English fallback`);
+        console.warn(`Translation batch failed, using English fallback`);
       }
+    }
 
-      const zh = zhMap.get(j) || { zhTitle: enItems[0].englishTitle, zhSummary: enItems[0].englishSummary };
+    for (let j = 0; j < batch.length; j += 1) {
+      const entry = batch[j];
+      const itemIdx = enIndexMap.get(j);
+      if (itemIdx === undefined) continue;
+
+      const en = enItems[itemIdx];
+      const zh = zhMap.get(itemIdx) || { zhTitle: en.englishTitle, zhSummary: en.englishSummary };
 
       const ai = {
-        englishTitle: enItems[0].englishTitle,
-        englishSummary: enItems[0].englishSummary,
+        englishTitle: en.englishTitle,
+        englishSummary: en.englishSummary,
         zhTitle: zh.zhTitle || `無障礙社群訊號 ${entry.tweetId}`,
-        zhSummary: zh.zhSummary || enItems[0].englishSummary,
-        tags: output.tags,
+        zhSummary: zh.zhSummary || en.englishSummary,
+        tags: en.tags,
       };
 
       try {
