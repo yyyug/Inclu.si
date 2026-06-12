@@ -453,12 +453,14 @@ async function askOllamaForBatch(batchItems) {
     'You are an accessibility social media editor.',
     'For each tweet item, first decide if it is related to accessibility, disability, assistive technology, inclusive design, or related advocacy.',
     'If not related, return: {"itemId": <id>, "isRelevant": false}',
-    'If related, produce bilingual metadata for an accessibility news website.',
+    'If related, produce English metadata for an accessibility news website.',
     'Return strict JSON array only. No markdown, no extra text.',
     'Each relevant output item must include keys:',
-    'itemId, isRelevant, englishTitle, englishSummary, zhTitle, zhSummary, tags.',
+    'itemId, isRelevant, englishTitle, englishSummary, tags.',
     'Keep title concise. Keep summary to 1-2 sentences with factual wording only.',
     'The category is fixed and NOT returned: social-signals.',
+    '',
+    'IMPORTANT: "Accessible" has two meanings. Mark as NOT relevant if it means "easy to understand" or "available to the general public" rather than accommodations for people with disabilities.',
     '',
     JSON.stringify(payload),
   ].join('\n');
@@ -530,9 +532,77 @@ async function askOllamaForBatch(batchItems) {
     isRelevant: row?.isRelevant !== false,
     englishTitle: String(row?.englishTitle || '').trim(),
     englishSummary: String(row?.englishSummary || '').trim(),
+    tags: safeStringArray(row?.tags),
+  }));
+}
+
+async function translateBatchToZh(items) {
+  if (!items.length) return [];
+
+  const userPrompt = [
+    'Translate the following English titles and summaries to Traditional Chinese (zh-TW).',
+    'Return a strict JSON array with keys: itemId, zhTitle, zhSummary.',
+    'Keep translations concise and natural. No markdown, no extra text.',
+    '',
+    JSON.stringify(items),
+  ].join('\n');
+
+  let response;
+  try {
+    response = await fetch(`${OLLAMA_BASE_URL}/chat/completions`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${OLLAMA_API_KEY}`,
+      },
+      body: JSON.stringify({
+        model: OLLAMA_MODEL,
+        temperature: 0.2,
+        max_tokens: OLLAMA_MAX_TOKENS,
+        messages: [
+          { role: 'system', content: 'Always output valid minified JSON and nothing else.' },
+          { role: 'user', content: userPrompt },
+        ],
+      }),
+      signal: AbortSignal.timeout(OLLAMA_TIMEOUT_MS),
+    });
+  } catch (error) {
+    console.warn(`[translate] Ollama request failed: ${error.message}`);
+    return items.map((item) => ({ itemId: item.itemId, zhTitle: item.englishTitle, zhSummary: item.englishSummary }));
+  }
+
+  if (!response.ok) {
+    const text = await response.text();
+    console.warn(`[translate] Ollama failed: ${response.status} ${text}`);
+    return items.map((item) => ({ itemId: item.itemId, zhTitle: item.englishTitle, zhSummary: item.englishSummary }));
+  }
+
+  const data = await response.json();
+  const content = data.choices?.[0]?.message?.content;
+  if (typeof content !== 'string' || !content.trim()) {
+    return items.map((item) => ({ itemId: item.itemId, zhTitle: item.englishTitle, zhSummary: item.englishSummary }));
+  }
+
+  let cleaned = content.trim();
+  if (cleaned.startsWith('```json')) cleaned = cleaned.replace(/^```json\s*/, '').replace(/\s*```$/, '');
+  else if (cleaned.startsWith('```')) cleaned = cleaned.replace(/^```\s*/, '').replace(/\s*```$/, '');
+
+  let parsed;
+  try {
+    parsed = JSON.parse(cleaned);
+  } catch {
+    console.warn(`[translate] Invalid JSON response`);
+    return items.map((item) => ({ itemId: item.itemId, zhTitle: item.englishTitle, zhSummary: item.englishSummary }));
+  }
+
+  if (!Array.isArray(parsed)) {
+    return items.map((item) => ({ itemId: item.itemId, zhTitle: item.englishTitle, zhSummary: item.englishSummary }));
+  }
+
+  return parsed.map((row) => ({
+    itemId: Number(row?.itemId),
     zhTitle: String(row?.zhTitle || '').trim(),
     zhSummary: String(row?.zhSummary || '').trim(),
-    tags: safeStringArray(row?.tags),
   }));
 }
 
@@ -822,11 +892,29 @@ async function main() {
         continue;
       }
 
-      const ai = {
+      const enItems = [{
+        itemId: j,
         englishTitle: output.englishTitle || `A11y social signal ${entry.tweetId}`,
         englishSummary: output.englishSummary || entry.text,
-        zhTitle: output.zhTitle || `無障礙社群訊號 ${entry.tweetId}`,
-        zhSummary: output.zhSummary || entry.text,
+      }];
+
+      let zhMap = new Map();
+      try {
+        const translations = await retryOllama(() => translateBatchToZh(enItems), `${i + j}/zh`);
+        for (const t of translations) {
+          zhMap.set(t.itemId, t);
+        }
+      } catch (zhError) {
+        console.warn(`Translation failed for ${entry.tweetId}, using English fallback`);
+      }
+
+      const zh = zhMap.get(j) || { zhTitle: enItems[0].englishTitle, zhSummary: enItems[0].englishSummary };
+
+      const ai = {
+        englishTitle: enItems[0].englishTitle,
+        englishSummary: enItems[0].englishSummary,
+        zhTitle: zh.zhTitle || `無障礙社群訊號 ${entry.tweetId}`,
+        zhSummary: zh.zhSummary || enItems[0].englishSummary,
         tags: output.tags,
       };
 
