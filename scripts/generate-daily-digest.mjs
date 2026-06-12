@@ -301,22 +301,11 @@ async function askLLM(enCandidates, zhCandidates) {
 
 async function main() {
   const rows = await loadRecentPublishedArticles();
-
-  const seenUrls = new Set();
-  const uniqueRows = [];
-  for (const row of rows) {
-    const url = String(row.sourceUrl ?? '').trim();
-    if (url && seenUrls.has(url)) continue;
-    if (url) seenUrls.add(url);
-    uniqueRows.push(row);
-  }
-
-  const enRows = uniqueRows.filter((item) => item.lang === 'en');
-  const zhRows = uniqueRows.filter((item) => item.lang === 'zh-TW');
+  const enRows = rows.filter((item) => item.lang === 'en');
+  const zhRows = rows.filter((item) => item.lang === 'zh-TW');
 
   console.log(`[digest] candidate_en=${enRows.length}`);
   console.log(`[digest] candidate_zh_tw=${zhRows.length}`);
-  console.log(`[digest] unique_source_urls=${seenUrls.size}`);
 
   if (rows.length === 0) {
     throw new Error('No published stories found in the digest lookback window.');
