@@ -34,7 +34,6 @@ const A11Y_TARGET_ACCOUNTS = String(process.env.A11Y_TWEET_ACCOUNTS ?? 'BlindNew
   .filter(Boolean);
 const A11Y_WINDOW_HOURS = Number(process.env.A11Y_TWEET_WINDOW_HOURS ?? 24);
 const A11Y_MAX_ITEMS = Number(process.env.A11Y_TWEET_MAX_ITEMS ?? 100);
-const A11Y_MAX_PROCESS = Number(process.env.A11Y_TWEET_MAX_PROCESS ?? A11Y_MAX_ITEMS);
 const A11Y_LANGUAGES = String(process.env.A11Y_TWEET_LANGUAGES ?? 'en,zh,ja,ko')
   .split(',')
   .map((value) => value.trim().toLowerCase())
@@ -857,11 +856,6 @@ async function main() {
     const scoreB = (b.likeCount || 0) + (b.retweetCount || 0) * 2 + (b.replyCount || 0) * 3;
     return scoreB - scoreA;
   });
-
-  if (candidates.length > A11Y_MAX_PROCESS) {
-    console.log(`[tweets] limiting from ${candidates.length} to ${A11Y_MAX_PROCESS} by engagement`);
-    candidates.length = A11Y_MAX_PROCESS;
-  }
 
   let created = 0;
   let failed = 0;
