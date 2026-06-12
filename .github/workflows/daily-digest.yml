@@ -41,7 +41,7 @@ jobs:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           GROQ_MODEL: openai/gpt-oss-120b
           GROQ_TIMEOUT_MS: 180000
-          DIGEST_LOOKBACK_HOURS: 36
+          DIGEST_LOOKBACK_HOURS: 24
 
       - name: Upload digest log artifact
         if: failure()
