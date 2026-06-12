@@ -311,7 +311,7 @@ function buildActorInputs() {
     'filter:replies': true,
     'filter:has_engagement': false,
     min_retweets: 0,
-    min_faves: 0,
+    min_faves: 3,
     min_replies: 0,
     '-min_retweets': 0,
     '-min_faves': 0,
