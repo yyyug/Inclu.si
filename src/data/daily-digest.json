@@ -1,47 +1,39 @@
 {
   "date": "2026-06-12",
-  "generatedAt": "2026-06-12T07:52:36.863Z",
+  "generatedAt": "2026-06-12T09:05:56.666Z",
   "en": {
-    "title": "SUZURI Accessibility Walkthrough Leads Disability Tech Updates Highlights",
-    "summary": "The SUZURI accessibility walkthrough conducted with Mogumo Planning and GMO Pepabo highlighted web accessibility improvements. Jamie Maguire's bulk alt‑text generator using Azure AI was released to streamline image descriptions. Community donations funded ADA‑compliant upgrades at Camp Rainbow, and an article stressed that news accessibility should not be mistaken for effortlessness.",
+    "title": "New Accessibility Initiatives Launch: Barrier-Free App and Inclusive Tourism Model",
+    "summary": "Ryokan Ginraku has unveiled a fully barrier‑free inn and inclusive tourism model developed with Ritsumeikan University, aiming to serve medical‑care children, persons with disabilities, and seniors. Meanwhile, a new app helps users check eligibility for barrier‑free home renovation subsidies, simplifying access to funding for accessibility improvements. Together, these launches highlight growing efforts to improve accessibility in hospitality and housing.",
     "highlights": [
       {
-        "title": "SUZURI Accessibility Walkthrough Conducted",
-        "slug": "suzuri-accessibility-walkthrough-conducted-c6bbd93c"
+        "title": "Ryokan Ginraku launches fully barrier‑free inn and inclusive tourism model",
+        "slug": "ryokan-ginraku-launches-fully-barrierfree-inn-and-inclusive-tourism-model-6c42439d"
       },
       {
-        "title": "Bulk Alt-Text Generator Web App Released",
-        "slug": "bulk-alt-text-generator-web-app-released-0f8a25a8"
+        "title": "Barrier-Free Renovation Subsidy Check App Launched",
+        "slug": "barrier-free-renovation-subsidy-check-app-launched-e593f851"
       },
       {
-        "title": "Community generosity creates ADA-accessible improvements at Camp Rainbow",
-        "slug": "community-generosity-creates-ada-accessible-improvements-at-camp-rainbow-d00038d0"
-      },
-      {
-        "title": "Behind the Bylines: News should be accessible. It should not be effortless",
-        "slug": "behind-the-bylines-news-should-be-accessible-it-should-not-be-effortless-0f6f6e07"
+        "title": "OpenAI urged to keep choice and accessibility in model 4o",
+        "slug": "openai-urged-to-keep-choice-and-accessibility-in-model-4o-e41fc91c"
       }
     ]
   },
   "zh-TW": {
-    "title": "SUZURI 無障礙走查帶領殘障科技更新亮點",
-    "summary": "SUZURI 無障礙走查由 Mogumo Planning 與 GMO Pepabo 進行，凸顯網頁無障礙改進。Jamie Maguire 利用 Azure AI 發布批量替代文字生成器，方便圖片描述。社區捐助為 Camp Rainbow 建設符合 ADA 的設施，另有文章強調新聞無障礙不等於輕鬆取得。",
+    "title": "無障礙旅館與補助App雙雙上市",
+    "summary": "Ryokan Ginraku 與 立命館 大學 合作 推出 全面 無障礙 旅館 與 共融 觀光 模式，目標 服務 醫療 照護 兒童、殘障 人士 與 長者。另一項 新 App 協助 使用者 查詢 無障礙 住宅 翻修 補助 資格，簡化 取得 資金 流程。這兩項 推出 顯示 無障礙 在 住宿 與 住宅 領域 的 持續 發展。",
     "highlights": [
       {
-        "title": "SUZURI 无障碍走查已完成",
-        "slug": "suzuri-accessibility-walkthrough-conducted-zh-c6bbd93c"
+        "title": "Ryokan Ginraku 推出全面無障礙旅館與共融觀光模式",
+        "slug": "ryokan-ginraku-launches-fully-barrierfree-inn-and-inclusive-tourism-model-zh-6c42439d"
       },
       {
-        "title": "批量替代文本生成器网页应用发布",
-        "slug": "bulk-alt-text-generator-web-app-released-zh-0f8a25a8"
+        "title": "無障礙翻修補助查詢App上線",
+        "slug": "barrier-free-renovation-subsidy-check-app-launched-zh-e593f851"
       },
       {
-        "title": "社區熱心捐助為彩虹營創建無障礙設施",
-        "slug": "community-generosity-creates-ada-accessible-improvements-at-camp-rainbow-zh-d00038d0"
-      },
-      {
-        "title": "Behind the Bylines：新聞應該可及。它不應該是輕鬆的",
-        "slug": "behind-the-bylines-news-should-be-accessible-it-should-not-be-effortless-zh-0f6f6e07"
+        "title": "呼籲 OpenAI 在 4o 模型中保留選擇與可及性",
+        "slug": "openai-urged-to-keep-choice-and-accessibility-in-model-4o-zh-e41fc91c"
       }
     ]
   }
