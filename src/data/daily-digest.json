@@ -1,39 +1,55 @@
 {
-  "date": "2026-06-12",
-  "generatedAt": "2026-06-12T09:05:56.666Z",
+  "date": "2026-06-13",
+  "generatedAt": "2026-06-13T06:19:39.604Z",
   "en": {
-    "title": "New Accessibility Initiatives Launch: Barrier-Free App and Inclusive Tourism Model",
-    "summary": "Ryokan Ginraku has unveiled a fully barrier‑free inn and inclusive tourism model developed with Ritsumeikan University, aiming to serve medical‑care children, persons with disabilities, and seniors. Meanwhile, a new app helps users check eligibility for barrier‑free home renovation subsidies, simplifying access to funding for accessibility improvements. Together, these launches highlight growing efforts to improve accessibility in hospitality and housing.",
+    "title": "Japan Updates Disability Group Home Rules; Accessibility Products and Advocacy Highlighted",
+    "summary": "Japan's Ministry of Health proposes new qualifications for disability group home managers to improve service quality. Also highlighted: an affordable retrofit switch for barrier-free upgrades, advocacy for fragrance-free environments, a finance guide for developmental disabilities, and personal insights on masking schizophrenia.",
     "highlights": [
       {
-        "title": "Ryokan Ginraku launches fully barrier‑free inn and inclusive tourism model",
-        "slug": "ryokan-ginraku-launches-fully-barrierfree-inn-and-inclusive-tourism-model-6c42439d"
+        "title": "Japan's Ministry of Health proposes new qualifications for disability group home managers",
+        "slug": "japans-ministry-of-health-proposes-new-qualifications-for-disability-group-home--daab73cc"
       },
       {
-        "title": "Barrier-Free Renovation Subsidy Check App Launched",
-        "slug": "barrier-free-renovation-subsidy-check-app-launched-e593f851"
+        "title": "Retrofit Switch Provides Affordable Barrier-Free Upgrade",
+        "slug": "retrofit-switch-provides-affordable-barrier-free-upgrade-0de9b0bf"
       },
       {
-        "title": "OpenAI urged to keep choice and accessibility in model 4o",
-        "slug": "openai-urged-to-keep-choice-and-accessibility-in-model-4o-e41fc91c"
+        "title": "Advocating for fragrance-free environments as air barrier-free accessibility",
+        "slug": "advocating-for-fragrance-free-environments-as-air-barrier-free-accessibility-eca58109"
+      },
+      {
+        "title": "Consider reading a finance guide for people with developmental disabilities",
+        "slug": "consider-reading-a-finance-guide-for-people-with-developmental-disabilities-8bdba4a0"
+      },
+      {
+        "title": "Individual discusses masking schizophrenia to appear neurotypical",
+        "slug": "individual-discusses-masking-schizophrenia-to-appear-neurotypical-626b8b76"
       }
     ]
   },
   "zh-TW": {
-    "title": "無障礙旅館與補助App雙雙上市",
-    "summary": "Ryokan Ginraku 與 立命館 大學 合作 推出 全面 無障礙 旅館 與 共融 觀光 模式，目標 服務 醫療 照護 兒童、殘障 人士 與 長者。另一項 新 App 協助 使用者 查詢 無障礙 住宅 翻修 補助 資格，簡化 取得 資金 流程。這兩項 推出 顯示 無障礙 在 住宿 與 住宅 領域 的 持續 發展。",
+    "title": "日本更新殘障團體之家規範；無障礙產品與倡議受關注",
+    "summary": "日本衛生福利部提出殘障團體之家管理者新資格要求，旨在提升服務品質。同時報導經濟實惠的改裝開關無障礙升級、倡導無香環境、發展障礙理財指南及個人掩飾精神分裂經驗。",
     "highlights": [
       {
-        "title": "Ryokan Ginraku 推出全面無障礙旅館與共融觀光模式",
-        "slug": "ryokan-ginraku-launches-fully-barrierfree-inn-and-inclusive-tourism-model-zh-6c42439d"
+        "title": "日本衛生福利部提出殘障團體之家管理者的新資格要求",
+        "slug": "japans-ministry-of-health-proposes-new-qualifications-for-disability-group-home--zh-daab73cc"
       },
       {
-        "title": "無障礙翻修補助查詢App上線",
-        "slug": "barrier-free-renovation-subsidy-check-app-launched-zh-e593f851"
+        "title": "改裝開關提供經濟實惠的無障礙升級",
+        "slug": "retrofit-switch-provides-affordable-barrier-free-upgrade-zh-0de9b0bf"
       },
       {
-        "title": "呼籲 OpenAI 在 4o 模型中保留選擇與可及性",
-        "slug": "openai-urged-to-keep-choice-and-accessibility-in-model-4o-zh-e41fc91c"
+        "title": "倡導無香環境作為無障礙空氣",
+        "slug": "advocating-for-fragrance-free-environments-as-air-barrier-free-accessibility-zh-eca58109"
+      },
+      {
+        "title": "考慮閱讀適合發展障礙人士的理財指南",
+        "slug": "consider-reading-a-finance-guide-for-people-with-developmental-disabilities-zh-8bdba4a0"
+      },
+      {
+        "title": "個人談論如何掩飾精神分裂以顯得神經正常",
+        "slug": "individual-discusses-masking-schizophrenia-to-appear-neurotypical-zh-626b8b76"
       }
     ]
   }
