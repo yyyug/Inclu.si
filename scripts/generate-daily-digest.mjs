@@ -23,6 +23,7 @@ const DIGEST_LOOKBACK_HOURS = Number(
 );
 const DIGEST_MIN_HIGHLIGHTS = 3;
 const DIGEST_MAX_HIGHLIGHTS = 8;
+const DIGEST_MAX_CANDIDATES_PER_LOCALE = 50;
 
 async function loadRecentPublishedArticles() {
   const rows = [];
@@ -301,8 +302,8 @@ async function askLLM(enCandidates, zhCandidates) {
 
 async function main() {
   const rows = await loadRecentPublishedArticles();
-  const enRows = rows.filter((item) => item.lang === 'en');
-  const zhRows = rows.filter((item) => item.lang === 'zh-TW');
+  const enRows = rows.filter((item) => item.lang === 'en').slice(0, DIGEST_MAX_CANDIDATES_PER_LOCALE);
+  const zhRows = rows.filter((item) => item.lang === 'zh-TW').slice(0, DIGEST_MAX_CANDIDATES_PER_LOCALE);
 
   console.log(`[digest] candidate_en=${enRows.length}`);
   console.log(`[digest] candidate_zh_tw=${zhRows.length}`);
