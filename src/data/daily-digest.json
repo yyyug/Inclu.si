@@ -1,55 +1,47 @@
 {
-  "date": "2026-06-13",
-  "generatedAt": "2026-06-13T06:19:39.604Z",
+  "date": "2026-06-14",
+  "generatedAt": "2026-06-14T05:22:28.245Z",
   "en": {
-    "title": "Japan Updates Disability Group Home Rules; Accessibility Products and Advocacy Highlighted",
-    "summary": "Japan's Ministry of Health proposes new qualifications for disability group home managers to improve service quality. Also highlighted: an affordable retrofit switch for barrier-free upgrades, advocacy for fragrance-free environments, a finance guide for developmental disabilities, and personal insights on masking schizophrenia.",
+    "title": "Japan Updates Disability Group Home Manager Qualifications to Improve Accessibility Standards",
+    "summary": "Japan's Ministry of Health, Labour and Welfare announced new qualification requirements for disability group home managers, mandating specific standards and staff training. Simultaneously, Saga Prefecture updated its disability welfare service guidelines, revising supervision, subsidies, and treatment improvement directives for providers. In other news, Disabled World marked its two‑decade history, and an accessibility app was highlighted for transforming Android phone usability for users with disabilities.",
     "highlights": [
       {
-        "title": "Japan's Ministry of Health proposes new qualifications for disability group home managers",
-        "slug": "japans-ministry-of-health-proposes-new-qualifications-for-disability-group-home--daab73cc"
+        "title": "Japan introduces new qualification requirements for disability group home managers",
+        "slug": "japan-introduces-new-qualification-requirements-for-disability-group-home-manage-cf803570"
       },
       {
-        "title": "Retrofit Switch Provides Affordable Barrier-Free Upgrade",
-        "slug": "retrofit-switch-provides-affordable-barrier-free-upgrade-0de9b0bf"
+        "title": "Saga Prefecture updates disability welfare service guidelines",
+        "slug": "saga-prefecture-updates-disability-welfare-service-guidelines-82a23f9c"
       },
       {
-        "title": "Advocating for fragrance-free environments as air barrier-free accessibility",
-        "slug": "advocating-for-fragrance-free-environments-as-air-barrier-free-accessibility-eca58109"
+        "title": "Disabled World History 2004-2026",
+        "slug": "disabled-world-history-2004-2026-20769978"
       },
       {
-        "title": "Consider reading a finance guide for people with developmental disabilities",
-        "slug": "consider-reading-a-finance-guide-for-people-with-developmental-disabilities-8bdba4a0"
-      },
-      {
-        "title": "Individual discusses masking schizophrenia to appear neurotypical",
-        "slug": "individual-discusses-masking-schizophrenia-to-appear-neurotypical-626b8b76"
+        "title": "This accessibility app changed how I approach any Android phone - Android Police",
+        "slug": "this-accessibility-app-changed-how-i-approach-any-android-phone-android-police-f0fa8fee"
       }
     ]
   },
   "zh-TW": {
-    "title": "日本更新殘障團體之家規範；無障礙產品與倡議受關注",
-    "summary": "日本衛生福利部提出殘障團體之家管理者新資格要求，旨在提升服務品質。同時報導經濟實惠的改裝開關無障礙升級、倡導無香環境、發展障礙理財指南及個人掩飾精神分裂經驗。",
+    "title": "日本新增殘障團體之家管理者資格標準，提升無障礙服務品質",
+    "summary": "日本厚生勞動省宣布殘障團體之家管理者需符合新資格標準並接受強制員工培訓。同時，佐賀縣更新殘障福利服務指南，修訂營運監督、補助與治療改進方向。此外，Disabled World 紀念成立二十年，一則無障礙應用報導指出該應用顯著改善 Android 手機使用體驗，且社交媒體用戶讚賞江之島水族館的無障礙設施。",
     "highlights": [
       {
-        "title": "日本衛生福利部提出殘障團體之家管理者的新資格要求",
-        "slug": "japans-ministry-of-health-proposes-new-qualifications-for-disability-group-home--zh-daab73cc"
+        "title": "日本新增殘障團體之家管理者資格要求",
+        "slug": "japan-introduces-new-qualification-requirements-for-disability-group-home-manage-zh-cf803570"
       },
       {
-        "title": "改裝開關提供經濟實惠的無障礙升級",
-        "slug": "retrofit-switch-provides-affordable-barrier-free-upgrade-zh-0de9b0bf"
+        "title": "Disabled World 歷史 2004-2026",
+        "slug": "disabled-world-history-2004-2026-zh-20769978"
       },
       {
-        "title": "倡導無香環境作為無障礙空氣",
-        "slug": "advocating-for-fragrance-free-environments-as-air-barrier-free-accessibility-zh-eca58109"
+        "title": "這款無障礙應用改變了我使用任何Android手機的方式 - Android Police",
+        "slug": "this-accessibility-app-changed-how-i-approach-any-android-phone-android-police-zh-f0fa8fee"
       },
       {
-        "title": "考慮閱讀適合發展障礙人士的理財指南",
-        "slug": "consider-reading-a-finance-guide-for-people-with-developmental-disabilities-zh-8bdba4a0"
-      },
-      {
-        "title": "個人談論如何掩飾精神分裂以顯得神經正常",
-        "slug": "individual-discusses-masking-schizophrenia-to-appear-neurotypical-zh-626b8b76"
+        "title": "用戶讚賞江之島水族館的無障礙設施",
+        "slug": "user-praises-barrier-free-access-at-enoshima-aquarium-zh-62c0fd0e"
       }
     ]
   }
