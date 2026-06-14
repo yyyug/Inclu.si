@@ -44550,5 +44550,210 @@
     "publishedAt": "2026-06-13T12:55:08.000Z",
     "fetchedAt": "2026-06-14T10:31:29.748Z",
     "body": "猶他州失明協會每月為居住在猶他州的失明或視障人士提供最高 100 美元的計程車優惠券，折扣 50%。優惠券售價 50 美元，另加 5 美元優先運費。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2065780005951726035)\n外部連結： [https://utahblind.org/cabcoupon.html](https://utahblind.org/cabcoupon.html)"
+  },
+  {
+    "title": "2026 年是安大略省残疾人无障碍法案（AODA）的报告年",
+    "slug": "2026-is-a-reporting-year-under-the-accessibility-for-ontarians-with-disabilities-zh-03a5136a",
+    "lang": "zh-TW",
+    "summary": "文章说明，2026 年是安大略省《残疾人无障碍法案》（AODA）下组织必须提交无障碍合规报告的报告年。",
+    "category": "laws-rights",
+    "tags": [
+      "AODA",
+      "reporting",
+      "Ontario",
+      "accessibility law"
+    ],
+    "sourceName": "Ogletree",
+    "sourceUrl": "https://ogletree.com/insights-resources/blog-posts/2026-is-a-reporting-year-under-the-accessibility-for-ontarians-with-disabilities-act-aoda",
+    "relatedSources": [
+      {
+        "name": "Ogletree",
+        "url": "https://ogletree.com/insights-resources/blog-posts/2026-is-a-reporting-year-under-the-accessibility-for-ontarians-with-disabilities-act-aoda"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-03a5136a",
+    "status": "published",
+    "translationOf": "2026-is-a-reporting-year-under-the-accessibility-for-ontarians-with-disabilities-03a5136a",
+    "publishedAt": "2026-06-11T21:39:15.000Z",
+    "fetchedAt": "2026-06-14T14:26:25.624Z",
+    "body": "文章说明，2026 年是安大略省《残疾人无障碍法案》（AODA）下组织必须提交无障碍合规报告的报告年。\n\n原文來源： [Ogletree](https://ogletree.com/insights-resources/blog-posts/2026-is-a-reporting-year-under-the-accessibility-for-ontarians-with-disabilities-act-aoda)"
+  },
+  {
+    "title": "accessibility-ai-mcp 1.0.13",
+    "slug": "accessibility-ai-mcp-1013-zh-b7e0a521",
+    "lang": "zh-TW",
+    "summary": "Accessibility Ai MCP 服务器提供检查颜色对比度、建议替代文本和验证标题层次结构的工具，以提升数字无障碍性。",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility AI",
+      "color contrast",
+      "alt text",
+      "heading hierarchy",
+      "digital accessibility"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/accessibility-ai-mcp/1.0.13",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/accessibility-ai-mcp/1.0.13"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-b7e0a521",
+    "status": "published",
+    "translationOf": "accessibility-ai-mcp-1013-b7e0a521",
+    "publishedAt": "2026-06-13T08:44:03.000Z",
+    "fetchedAt": "2026-06-14T14:26:25.704Z",
+    "body": "Accessibility Ai MCP 服务器提供检查颜色对比度、建议替代文本和验证标题层次结构的工具，以提升数字无障碍性。\n\n原文來源： [Pypi.org](https://pypi.org/project/accessibility-ai-mcp/1.0.13)"
+  },
+  {
+    "title": "accessibility-ai-mcp 1.0.12",
+    "slug": "accessibility-ai-mcp-1012-zh-0d21543f",
+    "lang": "zh-TW",
+    "summary": "一個 MCP 伺服器，提供檢查色彩對比、建議替代文字及驗證標題階層的工具，以提升數位無障礙。",
+    "category": "digital-a11y",
+    "tags": [
+      "color contrast",
+      "alt text",
+      "heading hierarchy",
+      "AI",
+      "MCP"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/accessibility-ai-mcp/1.0.12",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/accessibility-ai-mcp/1.0.12"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-0d21543f",
+    "status": "published",
+    "translationOf": "accessibility-ai-mcp-1012-0d21543f",
+    "publishedAt": "2026-06-13T08:34:50.000Z",
+    "fetchedAt": "2026-06-14T14:26:43.412Z",
+    "body": "一個 MCP 伺服器，提供檢查色彩對比、建議替代文字及驗證標題階層的工具，以提升數位無障礙。\n\n原文來源： [Pypi.org](https://pypi.org/project/accessibility-ai-mcp/1.0.12)"
+  },
+  {
+    "title": "accessibility-ai-mcp 1.0.11",
+    "slug": "accessibility-ai-mcp-1011-zh-3e0b5db7",
+    "lang": "zh-TW",
+    "summary": "一個 MCP 伺服器，提供檢查色彩對比、建議替代文字及驗證標題階層的工具，以提升數位無障礙。",
+    "category": "digital-a11y",
+    "tags": [
+      "color contrast",
+      "alt text",
+      "heading hierarchy",
+      "AI",
+      "MCP"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/accessibility-ai-mcp/1.0.11",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/accessibility-ai-mcp/1.0.11"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-3e0b5db7",
+    "status": "published",
+    "translationOf": "accessibility-ai-mcp-1011-3e0b5db7",
+    "publishedAt": "2026-06-13T08:34:20.000Z",
+    "fetchedAt": "2026-06-14T14:26:43.479Z",
+    "body": "一個 MCP 伺服器，提供檢查色彩對比、建議替代文字及驗證標題階層的工具，以提升數位無障礙。\n\n原文來源： [Pypi.org](https://pypi.org/project/accessibility-ai-mcp/1.0.11)"
+  },
+  {
+    "title": "牌照稅免稅新制上路！財政部放寬資格 最多省1.1萬",
+    "slug": "new-license-tax-exemption-policy-takes-effect-ministry-of-finance-relaxes-eligib-zh-aea0875f",
+    "lang": "zh-TW",
+    "summary": "財政部已放寬身心障礙者使用牌照稅免稅的適用條件，未持駕照的障礙者其二親等以內親屬名下車輛若符合規定，即可申請免徵使用牌照稅，最高每年可節省1萬1230元。",
+    "category": "laws-rights",
+    "tags": [
+      "tax exemption",
+      "disability",
+      "vehicle",
+      "license tax",
+      "Ministry of Finance"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E7%89%8C%E7%85%A7%E7%A8%85%E5%85%8D%E7%A8%85%E6%96%B0%E5%88%B6%E4%B8%8A%E8%B7%AF-%E8%B2%A1%E6%94%BF%E9%83%A8%E6%94%BE%E5%AF%AC%E8%B3%87%E6%A0%BC-%E6%9C%80%E5%A4%9A%E7%9C%811-1%E8%90%AC-135700479.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E7%89%8C%E7%85%A7%E7%A8%85%E5%85%8D%E7%A8%85%E6%96%B0%E5%88%B6%E4%B8%8A%E8%B7%AF-%E8%B2%A1%E6%94%BF%E9%83%A8%E6%94%BE%E5%AF%AC%E8%B3%87%E6%A0%BC-%E6%9C%80%E5%A4%9A%E7%9C%811-1%E8%90%AC-135700479.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-aea0875f",
+    "status": "published",
+    "translationOf": "new-license-tax-exemption-policy-takes-effect-ministry-of-finance-relaxes-eligib-aea0875f",
+    "publishedAt": "2026-06-13T13:57:00.000Z",
+    "fetchedAt": "2026-06-14T14:27:02.568Z",
+    "body": "財政部已放寬身心障礙者使用牌照稅免稅的適用條件，未持駕照的障礙者其二親等以內親屬名下車輛若符合規定，即可申請免徵使用牌照稅，最高每年可節省1萬1230元。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E7%89%8C%E7%85%A7%E7%A8%85%E5%85%8D%E7%A8%85%E6%96%B0%E5%88%B6%E4%B8%8A%E8%B7%AF-%E8%B2%A1%E6%94%BF%E9%83%A8%E6%94%BE%E5%AF%AC%E8%B3%87%E6%A0%BC-%E6%9C%80%E5%A4%9A%E7%9C%811-1%E8%90%AC-135700479.html)"
+  },
+  {
+    "title": "思考使用標準HTML <search> 元素的無障礙(a11y)",
+    "slug": "considering-accessibility-a11y-using-the-standard-html-search-element-zh-b17ed8fe",
+    "lang": "zh-TW",
+    "summary": "該文章探討了HTML <search> 元素在2026年4月達到Baseline Widely Available後，如何透過螢幕閱讀器的ランドマーク導航和ARIA角色來提升搜尋的無障礙性，協助殘障使用者更好地操作網頁。",
+    "category": "digital-a11y",
+    "tags": [
+      "HTML",
+      "search element",
+      "a11y",
+      "screen reader",
+      "ARIA",
+      "web standards",
+      "Baseline Widely Available"
+    ],
+    "sourceName": "Inorinrinrin.com",
+    "sourceUrl": "https://blog.inorinrinrin.com/entry/2026/06/13/161113",
+    "relatedSources": [
+      {
+        "name": "Inorinrinrin.com",
+        "url": "https://blog.inorinrinrin.com/entry/2026/06/13/161113"
+      }
+    ],
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-b17ed8fe",
+    "status": "published",
+    "translationOf": "considering-accessibility-a11y-using-the-standard-html-search-element-b17ed8fe",
+    "publishedAt": "2026-06-13T08:39:26.000Z",
+    "fetchedAt": "2026-06-14T14:27:02.644Z",
+    "body": "該文章探討了HTML <search> 元素在2026年4月達到Baseline Widely Available後，如何透過螢幕閱讀器的ランドマーク導航和ARIA角色來提升搜尋的無障礙性，協助殘障使用者更好地操作網頁。\n\n原文來源： [Inorinrinrin.com](https://blog.inorinrinrin.com/entry/2026/06/13/161113)"
   }
 ]
