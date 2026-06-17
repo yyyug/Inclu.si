@@ -1,47 +1,55 @@
 {
-  "date": "2026-06-14",
-  "generatedAt": "2026-06-14T05:22:28.245Z",
+  "date": "2026-06-17",
+  "generatedAt": "2026-06-17T01:42:38.668Z",
   "en": {
-    "title": "Japan Updates Disability Group Home Manager Qualifications to Improve Accessibility Standards",
-    "summary": "Japan's Ministry of Health, Labour and Welfare announced new qualification requirements for disability group home managers, mandating specific standards and staff training. Simultaneously, Saga Prefecture updated its disability welfare service guidelines, revising supervision, subsidies, and treatment improvement directives for providers. In other news, Disabled World marked its two‑decade history, and an accessibility app was highlighted for transforming Android phone usability for users with disabilities.",
+    "title": "UK Learning-Disability Nursing Crisis Highlights Global Accessibility Workforce Gaps",
+    "summary": "The UK’s learning-disability nursing workforce has dropped one‑third since 2009, prompting a union warning of an absolute crisis affecting 1.5 million people. Meanwhile, openSUSE’s Agama 22 installer brings usability and accessibility upgrades, and a research video explains transit accessibility in practice. Los Angeles Metro adds World Cup‑focused accessibility features, while Fort Collins debates historic organ removal alongside venue accessibility improvements.",
     "highlights": [
       {
-        "title": "Japan introduces new qualification requirements for disability group home managers",
-        "slug": "japan-introduces-new-qualification-requirements-for-disability-group-home-manage-cf803570"
+        "title": "UK Faces Absolute Crisis in Learning-Disability Nursing Workforce, Union Warns",
+        "slug": "uk-faces-absolute-crisis-in-learning-disability-nursing-workforce-union-warns-455da950"
       },
       {
-        "title": "Saga Prefecture updates disability welfare service guidelines",
-        "slug": "saga-prefecture-updates-disability-welfare-service-guidelines-82a23f9c"
+        "title": "openSUSE’s Agama 22 Installer Brings Usability and Accessibility Improvements",
+        "slug": "opensuses-agama-22-installer-brings-usability-and-accessibility-improvements-1f52979b"
       },
       {
-        "title": "Disabled World History 2004-2026",
-        "slug": "disabled-world-history-2004-2026-20769978"
+        "title": "Research video explains transit accessibility in practice",
+        "slug": "research-video-explains-transit-accessibility-in-practice-ba1f9c1c"
       },
       {
-        "title": "This accessibility app changed how I approach any Android phone - Android Police",
-        "slug": "this-accessibility-app-changed-how-i-approach-any-android-phone-android-police-f0fa8fee"
+        "title": "Metro Adds Accessibility Features for World Cup Riders",
+        "slug": "metro-adds-accessibility-features-for-world-cup-riders-35c3ce2f"
+      },
+      {
+        "title": "GFC Discusses Casavant Organ Removal, Accessibility and SHAPE Goals",
+        "slug": "gfc-discusses-casavant-organ-removal-accessibility-and-shape-goals-516702e0"
       }
     ]
   },
   "zh-TW": {
-    "title": "日本新增殘障團體之家管理者資格標準，提升無障礙服務品質",
-    "summary": "日本厚生勞動省宣布殘障團體之家管理者需符合新資格標準並接受強制員工培訓。同時，佐賀縣更新殘障福利服務指南，修訂營運監督、補助與治療改進方向。此外，Disabled World 紀念成立二十年，一則無障礙應用報導指出該應用顯著改善 Android 手機使用體驗，且社交媒體用戶讚賞江之島水族館的無障礙設施。",
+    "title": "英國學習障礙護理危機凸顯全球無障礙人力缺口",
+    "summary": "英國皇家護理學院指出，自2009年以來學習障礙專科護士減少三分之一，導致150萬學習障礙者無法獲得公平照護，工會警告為絕對危機。同時，openSUSE 的 Agama 22 安裝程式提升可用性與無障礙支援，洛杉磯都會為世界盃增設觸覺鋪裝、聲音廣播等無障礙設施。此外，研究影片解說交通無障礙實際應用，而堡壘委員會討論移除 Casavant 管風琴時亦考慮場地無障礙改善。",
     "highlights": [
       {
-        "title": "日本新增殘障團體之家管理者資格要求",
-        "slug": "japan-introduces-new-qualification-requirements-for-disability-group-home-manage-zh-cf803570"
+        "title": "英國學習障礙護理人力嚴重不足，工會警告為絕對危機",
+        "slug": "uk-faces-absolute-crisis-in-learning-disability-nursing-workforce-union-warns-zh-455da950"
       },
       {
-        "title": "Disabled World 歷史 2004-2026",
-        "slug": "disabled-world-history-2004-2026-zh-20769978"
+        "title": "openSUSE 的 Agama 22 安裝程式帶來可用性與無障礙改進",
+        "slug": "opensuses-agama-22-installer-brings-usability-and-accessibility-improvements-zh-1f52979b"
       },
       {
-        "title": "這款無障礙應用改變了我使用任何Android手機的方式 - Android Police",
-        "slug": "this-accessibility-app-changed-how-i-approach-any-android-phone-android-police-zh-f0fa8fee"
+        "title": "都會加無障礙功能供世界盃乘客使用",
+        "slug": "metro-adds-accessibility-features-for-world-cup-riders-zh-35c3ce2f"
       },
       {
-        "title": "用戶讚賞江之島水族館的無障礙設施",
-        "slug": "user-praises-barrier-free-access-at-enoshima-aquarium-zh-62c0fd0e"
+        "title": "研究影片解說交通無障礙的實際應用",
+        "slug": "research-video-explains-transit-accessibility-in-practice-zh-ba1f9c1c"
+      },
+      {
+        "title": "GFC 討論 Casavant 管風琴移除、無障礙及 SHAPE 目標",
+        "slug": "gfc-discusses-casavant-organ-removal-accessibility-and-shape-goals-zh-516702e0"
       }
     ]
   }
