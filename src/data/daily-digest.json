@@ -1,55 +1,55 @@
 {
-  "date": "2026-06-17",
-  "generatedAt": "2026-06-17T01:42:38.668Z",
+  "date": "2026-06-18",
+  "generatedAt": "2026-06-18T01:36:37.935Z",
   "en": {
-    "title": "UK Learning-Disability Nursing Crisis Highlights Global Accessibility Workforce Gaps",
-    "summary": "The UK’s learning-disability nursing workforce has dropped one‑third since 2009, prompting a union warning of an absolute crisis affecting 1.5 million people. Meanwhile, openSUSE’s Agama 22 installer brings usability and accessibility upgrades, and a research video explains transit accessibility in practice. Los Angeles Metro adds World Cup‑focused accessibility features, while Fort Collins debates historic organ removal alongside venue accessibility improvements.",
+    "title": "MTA Zoning Boosts Subway Accessibility; Veterans Bus Launches",
+    "summary": "The New York MTA is using a zoning program to fund elevator and ramp upgrades at subway stations, aiming to improve accessibility for disabled riders. Simultaneously, a new wheelchair-accessible bus is enhancing transit for veterans with mobility challenges, and the HHS has released a Q&A guide ahead of its July 8 medical equipment accessibility deadline. Additionally, the Canadian Human Rights Commission urged inclusive AI development, while new Dutch apartments integrate accessibility features.",
     "highlights": [
       {
-        "title": "UK Faces Absolute Crisis in Learning-Disability Nursing Workforce, Union Warns",
-        "slug": "uk-faces-absolute-crisis-in-learning-disability-nursing-workforce-union-warns-455da950"
+        "title": "New York MTA Leverages Zoning Program to Advance Station Accessibility - Metro Magazine",
+        "slug": "new-york-mta-leverages-zoning-program-to-advance-station-accessibility-metro-mag-d770afcf"
       },
       {
-        "title": "openSUSE’s Agama 22 Installer Brings Usability and Accessibility Improvements",
-        "slug": "opensuses-agama-22-installer-brings-usability-and-accessibility-improvements-1f52979b"
+        "title": "HHS Deadline Nears: Medical Equipment Accessibility Q&A Released",
+        "slug": "hhs-deadline-nears-medical-equipment-accessibility-qa-released-93ed2a69"
       },
       {
-        "title": "Research video explains transit accessibility in practice",
-        "slug": "research-video-explains-transit-accessibility-in-practice-ba1f9c1c"
+        "title": "New wheelchair-accessible bus enhances services for veterans",
+        "slug": "new-wheelchair-accessible-bus-enhances-services-for-veterans-379383e1"
       },
       {
-        "title": "Metro Adds Accessibility Features for World Cup Riders",
-        "slug": "metro-adds-accessibility-features-for-world-cup-riders-35c3ce2f"
+        "title": "Apartments under construction in Holland focus on accessibility",
+        "slug": "apartments-under-construction-in-holland-focus-on-accessibility-c1019916"
       },
       {
-        "title": "GFC Discusses Casavant Organ Removal, Accessibility and SHAPE Goals",
-        "slug": "gfc-discusses-casavant-organ-removal-accessibility-and-shape-goals-516702e0"
+        "title": "Canadian Human Rights Commission calls for inclusive AI development",
+        "slug": "canadian-human-rights-commission-calls-for-inclusive-ai-development-454f7018"
       }
     ]
   },
   "zh-TW": {
-    "title": "英國學習障礙護理危機凸顯全球無障礙人力缺口",
-    "summary": "英國皇家護理學院指出，自2009年以來學習障礙專科護士減少三分之一，導致150萬學習障礙者無法獲得公平照護，工會警告為絕對危機。同時，openSUSE 的 Agama 22 安裝程式提升可用性與無障礙支援，洛杉磯都會為世界盃增設觸覺鋪裝、聲音廣播等無障礙設施。此外，研究影片解說交通無障礙實際應用，而堡壘委員會討論移除 Casavant 管風琴時亦考慮場地無障礙改善。",
+    "title": "紐約MTA運用zoning提升車站無障礙；退役軍人巴士上線",
+    "summary": "紐約MTA透過zoning計畫撥款，改善車站電梯、坡道等無障礙設施，以提升殘障乘客出行便利。同時，新輪椅無障礙巴士提升退役軍人交通服務，且HHS於7月8日截止前發布醫療設備無障礙問答。荷蘭在建公寓聚焦無障礙設計，而日本推文顯示智能障礙學生挺身對抗欺凌，獲得同學讚賞。",
     "highlights": [
       {
-        "title": "英國學習障礙護理人力嚴重不足，工會警告為絕對危機",
-        "slug": "uk-faces-absolute-crisis-in-learning-disability-nursing-workforce-union-warns-zh-455da950"
+        "title": "紐約MTA運用zoning計畫推進車站無障礙 - Metro Magazine",
+        "slug": "new-york-mta-leverages-zoning-program-to-advance-station-accessibility-metro-mag-zh-d770afcf"
       },
       {
-        "title": "openSUSE 的 Agama 22 安裝程式帶來可用性與無障礙改進",
-        "slug": "opensuses-agama-22-installer-brings-usability-and-accessibility-improvements-zh-1f52979b"
+        "title": "HHS 截止日期將至：醫療設備無障礙問答發布",
+        "slug": "hhs-deadline-nears-medical-equipment-accessibility-qa-released-zh-93ed2a69"
       },
       {
-        "title": "都會加無障礙功能供世界盃乘客使用",
-        "slug": "metro-adds-accessibility-features-for-world-cup-riders-zh-35c3ce2f"
+        "title": "新輪椅無障礙巴士提升退役軍人服務",
+        "slug": "new-wheelchair-accessible-bus-enhances-services-for-veterans-zh-379383e1"
       },
       {
-        "title": "研究影片解說交通無障礙的實際應用",
-        "slug": "research-video-explains-transit-accessibility-in-practice-zh-ba1f9c1c"
+        "title": "荷蘭在建公寓聚焦無障礙設計",
+        "slug": "apartments-under-construction-in-holland-focus-on-accessibility-zh-c1019916"
       },
       {
-        "title": "GFC 討論 Casavant 管風琴移除、無障礙及 SHAPE 目標",
-        "slug": "gfc-discusses-casavant-organ-removal-accessibility-and-shape-goals-zh-516702e0"
+        "title": "智能障礙學生在教室對抗欺凌",
+        "slug": "student-with-intellectual-disability-stands-up-against-bullying-in-classroom-zh-c174a727"
       }
     ]
   }
