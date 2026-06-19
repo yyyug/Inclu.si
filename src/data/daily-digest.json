@@ -1,55 +1,47 @@
 {
-  "date": "2026-06-18",
-  "generatedAt": "2026-06-18T01:36:37.935Z",
+  "date": "2026-06-19",
+  "generatedAt": "2026-06-19T01:42:09.141Z",
   "en": {
-    "title": "MTA Zoning Boosts Subway Accessibility; Veterans Bus Launches",
-    "summary": "The New York MTA is using a zoning program to fund elevator and ramp upgrades at subway stations, aiming to improve accessibility for disabled riders. Simultaneously, a new wheelchair-accessible bus is enhancing transit for veterans with mobility challenges, and the HHS has released a Q&A guide ahead of its July 8 medical equipment accessibility deadline. Additionally, the Canadian Human Rights Commission urged inclusive AI development, while new Dutch apartments integrate accessibility features.",
+    "title": "Metro Boosts Accessibility for FIFA World Cup Fans Amid Global Disability Inclusion Push",
+    "summary": "The Metro transit authority announced expanded accessibility services, including improved station access and assistance, to accommodate fans with disabilities during the FIFA World Cup. Additionally, Black Moshannon State Park introduced new accessible trails and facilities, while advocates highlighted ongoing barriers such as blind banking customers being forced to reveal PINs and criticized government inaction on railway accessibility demands.",
     "highlights": [
       {
-        "title": "New York MTA Leverages Zoning Program to Advance Station Accessibility - Metro Magazine",
-        "slug": "new-york-mta-leverages-zoning-program-to-advance-station-accessibility-metro-mag-d770afcf"
+        "title": "Metro expands accessibility services for FIFA World Cup fans",
+        "slug": "metro-expands-accessibility-services-for-fifa-world-cup-fans-a3924ef0"
       },
       {
-        "title": "HHS Deadline Nears: Medical Equipment Accessibility Q&A Released",
-        "slug": "hhs-deadline-nears-medical-equipment-accessibility-qa-released-93ed2a69"
+        "title": "Black Moshannon State Park adds new accessibility options for visitors - WTAJ",
+        "slug": "black-moshannon-state-park-adds-new-accessibility-options-for-visitors-wtaj-07b65c63"
       },
       {
-        "title": "New wheelchair-accessible bus enhances services for veterans",
-        "slug": "new-wheelchair-accessible-bus-enhances-services-for-veterans-379383e1"
+        "title": "Blind banking customers forced to reveal PINs due to inaccessible infrastructure",
+        "slug": "blind-banking-customers-forced-to-reveal-pins-due-to-inaccessible-infrastructure-4950e3cb"
       },
       {
-        "title": "Apartments under construction in Holland focus on accessibility",
-        "slug": "apartments-under-construction-in-holland-focus-on-accessibility-c1019916"
-      },
-      {
-        "title": "Canadian Human Rights Commission calls for inclusive AI development",
-        "slug": "canadian-human-rights-commission-calls-for-inclusive-ai-development-454f7018"
+        "title": "Ministers criticized for ignoring accessibility demands in railways bill",
+        "slug": "ministers-criticized-for-ignoring-accessibility-demands-in-railways-bill-271c77db"
       }
     ]
   },
   "zh-TW": {
-    "title": "紐約MTA運用zoning提升車站無障礙；退役軍人巴士上線",
-    "summary": "紐約MTA透過zoning計畫撥款，改善車站電梯、坡道等無障礙設施，以提升殘障乘客出行便利。同時，新輪椅無障礙巴士提升退役軍人交通服務，且HHS於7月8日截止前發布醫療設備無障礙問答。荷蘭在建公寓聚焦無障礙設計，而日本推文顯示智能障礙學生挺身對抗欺凌，獲得同學讚賞。",
+    "title": "地鐵擴大世界盃無障礙服務 確保殘障球迷便利出行",
+    "summary": "地鐵宣布擴大無障礙服務，包括改善車站進入及提供協助，以方便殘障球迷在世界盃期間出行。此外，黑莫沙嫩州立公園新增無障礙步道與設施，同時倡議者指出盲人銀行客戶因設施無障礙被迫透露PIN，並批評政府忽視鐵路無障礙需求。",
     "highlights": [
       {
-        "title": "紐約MTA運用zoning計畫推進車站無障礙 - Metro Magazine",
-        "slug": "new-york-mta-leverages-zoning-program-to-advance-station-accessibility-metro-mag-zh-d770afcf"
+        "title": "地鐵擴大為世界盃球迷提供的無障礙服務",
+        "slug": "metro-expands-accessibility-services-for-fifa-world-cup-fans-zh-a3924ef0"
       },
       {
-        "title": "HHS 截止日期將至：醫療設備無障礙問答發布",
-        "slug": "hhs-deadline-nears-medical-equipment-accessibility-qa-released-zh-93ed2a69"
+        "title": "黑莫沙嫩州立公園新增無障礙設施以方便訪客 - WTAJ",
+        "slug": "black-moshannon-state-park-adds-new-accessibility-options-for-visitors-wtaj-zh-07b65c63"
       },
       {
-        "title": "新輪椅無障礙巴士提升退役軍人服務",
-        "slug": "new-wheelchair-accessible-bus-enhances-services-for-veterans-zh-379383e1"
+        "title": "盲人銀行客戶因設施無障礙被迫透露PIN",
+        "slug": "blind-banking-customers-forced-to-reveal-pins-due-to-inaccessible-infrastructure-zh-4950e3cb"
       },
       {
-        "title": "荷蘭在建公寓聚焦無障礙設計",
-        "slug": "apartments-under-construction-in-holland-focus-on-accessibility-zh-c1019916"
-      },
-      {
-        "title": "智能障礙學生在教室對抗欺凌",
-        "slug": "student-with-intellectual-disability-stands-up-against-bullying-in-classroom-zh-c174a727"
+        "title": "部長因忽視鐵路法案無障礙需求而遭批評",
+        "slug": "ministers-criticized-for-ignoring-accessibility-demands-in-railways-bill-zh-271c77db"
       }
     ]
   }
