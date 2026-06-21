@@ -1,47 +1,39 @@
 {
-  "date": "2026-06-19",
-  "generatedAt": "2026-06-19T01:42:09.141Z",
+  "date": "2026-06-21",
+  "generatedAt": "2026-06-21T01:39:39.592Z",
   "en": {
-    "title": "Metro Boosts Accessibility for FIFA World Cup Fans Amid Global Disability Inclusion Push",
-    "summary": "The Metro transit authority announced expanded accessibility services, including improved station access and assistance, to accommodate fans with disabilities during the FIFA World Cup. Additionally, Black Moshannon State Park introduced new accessible trails and facilities, while advocates highlighted ongoing barriers such as blind banking customers being forced to reveal PINs and criticized government inaction on railway accessibility demands.",
+    "title": "NDIS Funding Cuts Spark Fight as Accessible Playground and Train Launch",
+    "summary": "Dane Waites’ NDIS funding was slashed after a historical abuse payout, prompting him and his mother to challenge the decision. Meanwhile, Chicago opened its first universally accessible playground on Midway Plaisance, offering inclusive play for children of all abilities. In Finland, the new FLIRT train debuted with full low-floor design, ensuring wheelchair access and flexible spaces for bikes and work.",
     "highlights": [
       {
-        "title": "Metro expands accessibility services for FIFA World Cup fans",
-        "slug": "metro-expands-accessibility-services-for-fifa-world-cup-fans-a3924ef0"
+        "title": "Dane’s payout for historical sexual abuse meant the NDIS slashed his funding. He and his mum are fighting back",
+        "slug": "danes-payout-for-historical-sexual-abuse-meant-the-ndis-slashed-his-funding-he-a-be9675c7"
       },
       {
-        "title": "Black Moshannon State Park adds new accessibility options for visitors - WTAJ",
-        "slug": "black-moshannon-state-park-adds-new-accessibility-options-for-visitors-wtaj-07b65c63"
+        "title": "Chicago opens first universally accessible playground on Midway Plaisance",
+        "slug": "chicago-opens-first-universally-accessible-playground-on-midway-plaisance-ab5feb9b"
       },
       {
-        "title": "Blind banking customers forced to reveal PINs due to inaccessible infrastructure",
-        "slug": "blind-banking-customers-forced-to-reveal-pins-due-to-inaccessible-infrastructure-4950e3cb"
-      },
-      {
-        "title": "Ministers criticized for ignoring accessibility demands in railways bill",
-        "slug": "ministers-criticized-for-ignoring-accessibility-demands-in-railways-bill-271c77db"
+        "title": "New FLIRT Train in Finland Features Full Low-Floor Accessibility",
+        "slug": "new-flirt-train-in-finland-features-full-low-floor-accessibility-5d122f98"
       }
     ]
   },
   "zh-TW": {
-    "title": "地鐵擴大世界盃無障礙服務 確保殘障球迷便利出行",
-    "summary": "地鐵宣布擴大無障礙服務，包括改善車站進入及提供協助，以方便殘障球迷在世界盃期間出行。此外，黑莫沙嫩州立公園新增無障礙步道與設施，同時倡議者指出盲人銀行客戶因設施無障礙被迫透露PIN，並批評政府忽視鐵路無障礙需求。",
+    "title": "NDIS 資金削減引發爭議 芝加哥無障礙遊樂場及芬蘭低地板列車啟用",
+    "summary": "丹恩·懷特斯因歷史性性虐待賠償導致NDIS削減其資金，他與母親正在反擊。芝加哥於 Midway Plaisance 開設首個全民可及遊樂場，提供適合各能力兒童的共融遊戲設施。芬蘭新FLIRT列車採全低地板設計，方便輪椅使用並提供彈性單車與工作空間。",
     "highlights": [
       {
-        "title": "地鐵擴大為世界盃球迷提供的無障礙服務",
-        "slug": "metro-expands-accessibility-services-for-fifa-world-cup-fans-zh-a3924ef0"
+        "title": "丹恩因歷史性性虐待獲得賠償導致NDIS削減其資金，他與母親正在反擊",
+        "slug": "danes-payout-for-historical-sexual-abuse-meant-the-ndis-slashed-his-funding-he-a-zh-be9675c7"
       },
       {
-        "title": "黑莫沙嫩州立公園新增無障礙設施以方便訪客 - WTAJ",
-        "slug": "black-moshannon-state-park-adds-new-accessibility-options-for-visitors-wtaj-zh-07b65c63"
+        "title": "芝加哥於 Midway Plaisance 開設首個全民可及遊樂場",
+        "slug": "chicago-opens-first-universally-accessible-playground-on-midway-plaisance-zh-ab5feb9b"
       },
       {
-        "title": "盲人銀行客戶因設施無障礙被迫透露PIN",
-        "slug": "blind-banking-customers-forced-to-reveal-pins-due-to-inaccessible-infrastructure-zh-4950e3cb"
-      },
-      {
-        "title": "部長因忽視鐵路法案無障礙需求而遭批評",
-        "slug": "ministers-criticized-for-ignoring-accessibility-demands-in-railways-bill-zh-271c77db"
+        "title": "芬蘭新FLIRT列車提供全低地板無障礙設施",
+        "slug": "new-flirt-train-in-finland-features-full-low-floor-accessibility-zh-5d122f98"
       }
     ]
   }
