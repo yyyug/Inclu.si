@@ -1,39 +1,39 @@
 {
-  "date": "2026-06-21",
-  "generatedAt": "2026-06-21T01:39:39.592Z",
+  "date": "2026-06-22",
+  "generatedAt": "2026-06-22T01:40:37.102Z",
   "en": {
-    "title": "NDIS Funding Cuts Spark Fight as Accessible Playground and Train Launch",
-    "summary": "Dane Waites’ NDIS funding was slashed after a historical abuse payout, prompting him and his mother to challenge the decision. Meanwhile, Chicago opened its first universally accessible playground on Midway Plaisance, offering inclusive play for children of all abilities. In Finland, the new FLIRT train debuted with full low-floor design, ensuring wheelchair access and flexible spaces for bikes and work.",
+    "title": "New Vehicle Accessibility Grant Launched; CSS Guide and Park Board Improve Disability Access",
+    "summary": "A provincial government has launched a grant program to fund vehicle accessibility modifications for people with disabilities, addressing mobility barriers. Meanwhile, a practical guide on CSS Grid and Flexbox now includes accessibility strategies for inclusive web design, and a communication board installed at Hasbrouck Park in New Paltz enhances access for individuals with communication disabilities. Together, these efforts highlight advancing accessibility across transportation, digital, and public spaces.",
     "highlights": [
       {
-        "title": "Dane’s payout for historical sexual abuse meant the NDIS slashed his funding. He and his mum are fighting back",
-        "slug": "danes-payout-for-historical-sexual-abuse-meant-the-ndis-slashed-his-funding-he-a-be9675c7"
+        "title": "Province Launches Vehicle Accessibility Grant Program",
+        "slug": "province-launches-vehicle-accessibility-grant-program-d7837808"
       },
       {
-        "title": "Chicago opens first universally accessible playground on Midway Plaisance",
-        "slug": "chicago-opens-first-universally-accessible-playground-on-midway-plaisance-ab5feb9b"
+        "title": "Guide to CSS Grid and Flexbox Includes Accessibility Strategies",
+        "slug": "guide-to-css-grid-and-flexbox-includes-accessibility-strategies-e63370e2"
       },
       {
-        "title": "New FLIRT Train in Finland Features Full Low-Floor Accessibility",
-        "slug": "new-flirt-train-in-finland-features-full-low-floor-accessibility-5d122f98"
+        "title": "Communication board at Hasbrouck Park in New Paltz improves accessibility",
+        "slug": "communication-board-at-hasbrouck-park-in-new-paltz-improves-accessibility-03c404d7"
       }
     ]
   },
   "zh-TW": {
-    "title": "NDIS 資金削減引發爭議 芝加哥無障礙遊樂場及芬蘭低地板列車啟用",
-    "summary": "丹恩·懷特斯因歷史性性虐待賠償導致NDIS削減其資金，他與母親正在反擊。芝加哥於 Midway Plaisance 開設首個全民可及遊樂場，提供適合各能力兒童的共融遊戲設施。芬蘭新FLIRT列車採全低地板設計，方便輪椅使用並提供彈性單車與工作空間。",
+    "title": "省政府推出車輛無障礙補助；CSS指南及公園溝通板提升無障礙",
+    "summary": "省政府近日推出車輛無障礙補助計畫，旨在為殘障人士資助車輛改造，減少移動障礙。同時，CSS Grid 與 Flexbox 實用指南新增無障礙策略，以支援包容性網頁設計；紐帕爾茨 Hasbrouck 公園的溝通板則提升溝通障礙人士的無障礙程度。這些措施共同推進交通、數位與公共空間的無障礙環境。",
     "highlights": [
       {
-        "title": "丹恩因歷史性性虐待獲得賠償導致NDIS削減其資金，他與母親正在反擊",
-        "slug": "danes-payout-for-historical-sexual-abuse-meant-the-ndis-slashed-his-funding-he-a-zh-be9675c7"
+        "title": "省政府推出車輛無障礙補助計畫",
+        "slug": "province-launches-vehicle-accessibility-grant-program-zh-d7837808"
       },
       {
-        "title": "芝加哥於 Midway Plaisance 開設首個全民可及遊樂場",
-        "slug": "chicago-opens-first-universally-accessible-playground-on-midway-plaisance-zh-ab5feb9b"
+        "title": "CSS Grid 與 Flexbox 指南包含無障礙策略",
+        "slug": "guide-to-css-grid-and-flexbox-includes-accessibility-strategies-zh-e63370e2"
       },
       {
-        "title": "芬蘭新FLIRT列車提供全低地板無障礙設施",
-        "slug": "new-flirt-train-in-finland-features-full-low-floor-accessibility-zh-5d122f98"
+        "title": "紐帕爾茨 Hasbrouck 公園的溝通板提升無障礙程度",
+        "slug": "communication-board-at-hasbrouck-park-in-new-paltz-improves-accessibility-zh-03c404d7"
       }
     ]
   }
