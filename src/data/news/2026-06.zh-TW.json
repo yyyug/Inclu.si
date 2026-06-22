@@ -81418,5 +81418,136 @@
     "publishedAt": "2026-06-21T17:13:12.000Z",
     "fetchedAt": "2026-06-21T19:30:36.863Z",
     "body": "推文稱該設計簡單且普遍，讚揚其清晰。\n推文來源： [Salute！ロマーノ🍅低浮上 (@SaluteRomano)](https://x.com/SaluteRomano/status/2068744055484256306)"
+  },
+  {
+    "title": "EMBARK 推動無障礙，協助奧克拉荷馬城公共交通",
+    "slug": "embark-driving-accessibility-assistance-for-public-transit-in-okc-zh-7e2eb880",
+    "lang": "zh-TW",
+    "summary": "EMBARK 倡議提供奧克拉荷馬城公共交通的無障礙協助。",
+    "category": "physical-design",
+    "tags": [
+      "public transit",
+      "accessibility",
+      "transportation"
+    ],
+    "sourceName": "Oklahoma City Free Press",
+    "sourceUrl": "https://freepressokc.com/embark-driving-accessibility-assistance-for-public-transit-in-okc",
+    "relatedSources": [
+      {
+        "name": "Oklahoma City Free Press",
+        "url": "https://freepressokc.com/embark-driving-accessibility-assistance-for-public-transit-in-okc"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-7e2eb880",
+    "status": "published",
+    "translationOf": "embark-driving-accessibility-assistance-for-public-transit-in-okc-7e2eb880",
+    "publishedAt": "2026-06-21T15:15:00.000Z",
+    "fetchedAt": "2026-06-22T01:29:43.011Z",
+    "body": "EMBARK 倡議提供奧克拉荷馬城公共交通的無障礙協助。\n\n原文來源： [Oklahoma City Free Press](https://freepressokc.com/embark-driving-accessibility-assistance-for-public-transit-in-okc)"
+  },
+  {
+    "title": "紐帕爾茨 Hasbrouck 公園的溝通板提升無障礙程度",
+    "slug": "communication-board-at-hasbrouck-park-in-new-paltz-improves-accessibility-zh-03c404d7",
+    "lang": "zh-TW",
+    "summary": "在紐帕爾茨 Hasbrouck 公園設置的溝通板提升了對溝通障礙人士的無障礙程度。",
+    "category": "assistive-tech",
+    "tags": [
+      "communication board",
+      "AAC",
+      "park",
+      "accessibility"
+    ],
+    "sourceName": "Daily Freeman",
+    "sourceUrl": "https://www.dailyfreeman.com/2026/06/21/communication-board-at-hasbrouck-park-in-new-paltz-improves-accessibility",
+    "relatedSources": [
+      {
+        "name": "Daily Freeman",
+        "url": "https://www.dailyfreeman.com/2026/06/21/communication-board-at-hasbrouck-park-in-new-paltz-improves-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-03c404d7",
+    "status": "published",
+    "translationOf": "communication-board-at-hasbrouck-park-in-new-paltz-improves-accessibility-03c404d7",
+    "publishedAt": "2026-06-21T18:28:13.000Z",
+    "fetchedAt": "2026-06-22T01:29:43.124Z",
+    "body": "在紐帕爾茨 Hasbrouck 公園設置的溝通板提升了對溝通障礙人士的無障礙程度。\n\n原文來源： [Daily Freeman](https://www.dailyfreeman.com/2026/06/21/communication-board-at-hasbrouck-park-in-new-paltz-improves-accessibility)"
+  },
+  {
+    "title": "評論家抨擊加州大學柏克萊分校法學院殘疾學生人數短短幾年內激增",
+    "slug": "critics-slam-uc-berkeley-school-of-law-as-number-of-students-with-disability-sky-zh-5406df1e",
+    "lang": "zh-TW",
+    "summary": "批評者認為，加州大學柏克萊分校法學院殘疾學生人數在短短幾年內從極少數激增至約三分之一，顯示可能有人利用系統獲取便利措施。",
+    "category": "laws-rights",
+    "tags": [
+      "disability claims",
+      "higher education",
+      "accommodations",
+      "criticism"
+    ],
+    "sourceName": "The Daily Caller",
+    "sourceUrl": "https://dailycaller.com/2026/06/20/berkeley-law-students-disability-claims-skyrocket",
+    "relatedSources": [
+      {
+        "name": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/06/20/berkeley-law-students-disability-claims-skyrocket"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-5406df1e",
+    "status": "published",
+    "translationOf": "critics-slam-uc-berkeley-school-of-law-as-number-of-students-with-disability-sky-5406df1e",
+    "publishedAt": "2026-06-20T21:16:59.000Z",
+    "fetchedAt": "2026-06-22T01:29:56.558Z",
+    "body": "批評者認為，加州大學柏克萊分校法學院殘疾學生人數在短短幾年內從極少數激增至約三分之一，顯示可能有人利用系統獲取便利措施。\n\n原文來源： [The Daily Caller](https://dailycaller.com/2026/06/20/berkeley-law-students-disability-claims-skyrocket)"
+  },
+  {
+    "title": "Ember，一個我以無障礙為核心開發的原生 iOS Hacker News 閱讀器",
+    "slug": "ember-a-native-ios-hacker-news-reader-i-built-around-accessibility-zh-25073fdf",
+    "lang": "zh-TW",
+    "summary": "Ember 是一個使用 SwiftUI 開發的原生 iOS Hacker News 閱讀器，以無障礙為設計重點，且不依賴任何第三方庫。",
+    "category": "digital-a11y",
+    "tags": [
+      "iOS",
+      "accessibility",
+      "SwiftUI",
+      "Hacker News"
+    ],
+    "sourceName": "Github.com",
+    "sourceUrl": "https://github.com/DatanoiseTV/ember-hackernews",
+    "relatedSources": [
+      {
+        "name": "Github.com",
+        "url": "https://github.com/DatanoiseTV/ember-hackernews"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-25073fdf",
+    "status": "published",
+    "translationOf": "ember-a-native-ios-hacker-news-reader-i-built-around-accessibility-25073fdf",
+    "publishedAt": "2026-06-20T17:00:38.000Z",
+    "fetchedAt": "2026-06-22T01:29:56.648Z",
+    "body": "Ember 是一個使用 SwiftUI 開發的原生 iOS Hacker News 閱讀器，以無障礙為設計重點，且不依賴任何第三方庫。\n\n原文來源： [Github.com](https://github.com/DatanoiseTV/ember-hackernews)"
   }
 ]

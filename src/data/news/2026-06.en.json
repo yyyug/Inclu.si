@@ -81418,5 +81418,136 @@
     "publishedAt": "2026-06-21T17:13:12.000Z",
     "fetchedAt": "2026-06-21T19:30:36.863Z",
     "body": "The tweet remarks that a design looks simple and universal, complimenting its clarity.\nTweet source: [Salute！ロマーノ🍅低浮上 (@SaluteRomano)](https://x.com/SaluteRomano/status/2068744055484256306)"
+  },
+  {
+    "title": "EMBARK driving accessibility, assistance for public transit in OKC",
+    "slug": "embark-driving-accessibility-assistance-for-public-transit-in-okc-7e2eb880",
+    "lang": "en",
+    "summary": "EMBARK initiative provides accessibility assistance for public transit in Oklahoma City.",
+    "category": "physical-design",
+    "tags": [
+      "public transit",
+      "accessibility",
+      "transportation"
+    ],
+    "sourceName": "Oklahoma City Free Press",
+    "sourceUrl": "https://freepressokc.com/embark-driving-accessibility-assistance-for-public-transit-in-okc",
+    "relatedSources": [
+      {
+        "name": "Oklahoma City Free Press",
+        "url": "https://freepressokc.com/embark-driving-accessibility-assistance-for-public-transit-in-okc"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-7e2eb880",
+    "status": "published",
+    "translationOf": "embark-driving-accessibility-assistance-for-public-transit-in-okc-zh-7e2eb880",
+    "publishedAt": "2026-06-21T15:15:00.000Z",
+    "fetchedAt": "2026-06-22T01:29:43.011Z",
+    "body": "EMBARK initiative provides accessibility assistance for public transit in Oklahoma City.\n\nRead more from the original source: [Oklahoma City Free Press](https://freepressokc.com/embark-driving-accessibility-assistance-for-public-transit-in-okc)"
+  },
+  {
+    "title": "Communication board at Hasbrouck Park in New Paltz improves accessibility",
+    "slug": "communication-board-at-hasbrouck-park-in-new-paltz-improves-accessibility-03c404d7",
+    "lang": "en",
+    "summary": "A communication board installed at Hasbrouck Park in New Paltz enhances accessibility for individuals with communication disabilities.",
+    "category": "assistive-tech",
+    "tags": [
+      "communication board",
+      "AAC",
+      "park",
+      "accessibility"
+    ],
+    "sourceName": "Daily Freeman",
+    "sourceUrl": "https://www.dailyfreeman.com/2026/06/21/communication-board-at-hasbrouck-park-in-new-paltz-improves-accessibility",
+    "relatedSources": [
+      {
+        "name": "Daily Freeman",
+        "url": "https://www.dailyfreeman.com/2026/06/21/communication-board-at-hasbrouck-park-in-new-paltz-improves-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-03c404d7",
+    "status": "published",
+    "translationOf": "communication-board-at-hasbrouck-park-in-new-paltz-improves-accessibility-zh-03c404d7",
+    "publishedAt": "2026-06-21T18:28:13.000Z",
+    "fetchedAt": "2026-06-22T01:29:43.124Z",
+    "body": "A communication board installed at Hasbrouck Park in New Paltz enhances accessibility for individuals with communication disabilities.\n\nRead more from the original source: [Daily Freeman](https://www.dailyfreeman.com/2026/06/21/communication-board-at-hasbrouck-park-in-new-paltz-improves-accessibility)"
+  },
+  {
+    "title": "Critics Slam UC Berkeley School of Law As Number Of Students With ‘Disability’ Skyrockets In Just A Few Years",
+    "slug": "critics-slam-uc-berkeley-school-of-law-as-number-of-students-with-disability-sky-5406df1e",
+    "lang": "en",
+    "summary": "Critics argue that the rapid increase in disability claims among UC Berkeley Law students—from a small fraction to roughly one‑third in a few years—suggests some may be exploiting the system for accommodations.",
+    "category": "laws-rights",
+    "tags": [
+      "disability claims",
+      "higher education",
+      "accommodations",
+      "criticism"
+    ],
+    "sourceName": "The Daily Caller",
+    "sourceUrl": "https://dailycaller.com/2026/06/20/berkeley-law-students-disability-claims-skyrocket",
+    "relatedSources": [
+      {
+        "name": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/06/20/berkeley-law-students-disability-claims-skyrocket"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-5406df1e",
+    "status": "published",
+    "translationOf": "critics-slam-uc-berkeley-school-of-law-as-number-of-students-with-disability-sky-zh-5406df1e",
+    "publishedAt": "2026-06-20T21:16:59.000Z",
+    "fetchedAt": "2026-06-22T01:29:56.558Z",
+    "body": "Critics argue that the rapid increase in disability claims among UC Berkeley Law students—from a small fraction to roughly one‑third in a few years—suggests some may be exploiting the system for accommodations.\n\nRead more from the original source: [The Daily Caller](https://dailycaller.com/2026/06/20/berkeley-law-students-disability-claims-skyrocket)"
+  },
+  {
+    "title": "Ember, a native iOS Hacker News reader I built around accessibility",
+    "slug": "ember-a-native-ios-hacker-news-reader-i-built-around-accessibility-25073fdf",
+    "lang": "en",
+    "summary": "Ember is a native iOS Hacker News reader built with SwiftUI that prioritizes accessibility and has no third‑party dependencies.",
+    "category": "digital-a11y",
+    "tags": [
+      "iOS",
+      "accessibility",
+      "SwiftUI",
+      "Hacker News"
+    ],
+    "sourceName": "Github.com",
+    "sourceUrl": "https://github.com/DatanoiseTV/ember-hackernews",
+    "relatedSources": [
+      {
+        "name": "Github.com",
+        "url": "https://github.com/DatanoiseTV/ember-hackernews"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-25073fdf",
+    "status": "published",
+    "translationOf": "ember-a-native-ios-hacker-news-reader-i-built-around-accessibility-zh-25073fdf",
+    "publishedAt": "2026-06-20T17:00:38.000Z",
+    "fetchedAt": "2026-06-22T01:29:56.648Z",
+    "body": "Ember is a native iOS Hacker News reader built with SwiftUI that prioritizes accessibility and has no third‑party dependencies.\n\nRead more from the original source: [Github.com](https://github.com/DatanoiseTV/ember-hackernews)"
   }
 ]
