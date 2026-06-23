@@ -91174,5 +91174,779 @@
     "publishedAt": "2026-06-23T07:03:31.000Z",
     "fetchedAt": "2026-06-23T08:03:06.212Z",
     "body": "一則推文稱殘障人士是完全不同的存在，反映偏見觀點。\n推文來源： [にゃにゃ (@lio_olo_oil)](https://x.com/lio_olo_oil/status/2069315397854408743)"
+  },
+  {
+    "title": "波特蘭殘障人士難以同時找到負擔得起且無障礙的住房",
+    "slug": "portlanders-with-disabilities-struggle-to-find-housing-thats-both-affordable-and-zh-e434ae2a",
+    "lang": "zh-TW",
+    "summary": "波特蘭的殘障居民表示，難以找到既經濟實惠又具備無障礙設施的住房，凸顯市場上的缺口。",
+    "category": "physical-design",
+    "tags": [
+      "housing",
+      "disability",
+      "affordability",
+      "accessibility"
+    ],
+    "sourceName": "KGW",
+    "sourceUrl": "https://www.kgw.com/article/news/local/homeless/portland-affordable-housing-accessible-disabilities-blind-accomodations/283-2e6cc6af-9ea9-4532-80df-295a97f1c1b6",
+    "relatedSources": [
+      {
+        "name": "KGW",
+        "url": "https://www.kgw.com/article/news/local/homeless/portland-affordable-housing-accessible-disabilities-blind-accomodations/283-2e6cc6af-9ea9-4532-80df-295a97f1c1b6"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e434ae2a",
+    "status": "published",
+    "translationOf": "portlanders-with-disabilities-struggle-to-find-housing-thats-both-affordable-and-e434ae2a",
+    "publishedAt": "2026-06-23T01:55:00.000Z",
+    "fetchedAt": "2026-06-23T13:16:33.031Z",
+    "body": "波特蘭的殘障居民表示，難以找到既經濟實惠又具備無障礙設施的住房，凸顯市場上的缺口。\n\n原文來源： [KGW](https://www.kgw.com/article/news/local/homeless/portland-affordable-housing-accessible-disabilities-blind-accomodations/283-2e6cc6af-9ea9-4532-80df-295a97f1c1b6)"
+  },
+  {
+    "title": "育碧無障礙專題",
+    "slug": "accessibility-spotlight-ubisoft-zh-e046c37f",
+    "lang": "zh-TW",
+    "summary": "育碧展示其遊戲中的無障礙功能，包括可自訂控制器和字幕等選項，以幫助殘障玩家。",
+    "category": "digital-a11y",
+    "tags": [
+      "Ubisoft",
+      "game accessibility",
+      "assistive technology",
+      "digital accessibility"
+    ],
+    "sourceName": "Ubisoft",
+    "sourceUrl": "https://www.ubisoft.com/en-us/news/ignt.61344/accessibility-spotlight",
+    "relatedSources": [
+      {
+        "name": "Ubisoft",
+        "url": "https://www.ubisoft.com/en-us/news/ignt.61344/accessibility-spotlight"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e046c37f",
+    "status": "published",
+    "translationOf": "accessibility-spotlight-ubisoft-e046c37f",
+    "publishedAt": "2026-06-23T09:15:59.000Z",
+    "fetchedAt": "2026-06-23T13:16:33.157Z",
+    "body": "育碧展示其遊戲中的無障礙功能，包括可自訂控制器和字幕等選項，以幫助殘障玩家。\n\n原文來源： [Ubisoft](https://www.ubisoft.com/en-us/news/ignt.61344/accessibility-spotlight)"
+  },
+  {
+    "title": "賓州州立大學無障礙重點：描述視覺內容",
+    "slug": "accessibility-highlight-describing-visuals-the-pennsylvania-state-university-zh-600f5e21",
+    "lang": "zh-TW",
+    "summary": "賓州州立大學強調描述視覺內容對無障礙的重要性，提供替代文字和音頻描述的指南，以支援視障使用者。",
+    "category": "digital-a11y",
+    "tags": [
+      "Penn State",
+      "visual description",
+      "alt text",
+      "audio description",
+      "digital accessibility"
+    ],
+    "sourceName": "The Pennsylvania State University",
+    "sourceUrl": "https://www.psu.edu/news/information-technology/story/accessibility-highlight-describing-visuals",
+    "relatedSources": [
+      {
+        "name": "The Pennsylvania State University",
+        "url": "https://www.psu.edu/news/information-technology/story/accessibility-highlight-describing-visuals"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-600f5e21",
+    "status": "published",
+    "translationOf": "accessibility-highlight-describing-visuals-the-pennsylvania-state-university-600f5e21",
+    "publishedAt": "2026-06-22T15:55:40.000Z",
+    "fetchedAt": "2026-06-23T13:16:33.255Z",
+    "body": "賓州州立大學強調描述視覺內容對無障礙的重要性，提供替代文字和音頻描述的指南，以支援視障使用者。\n\n原文來源： [The Pennsylvania State University](https://www.psu.edu/news/information-technology/story/accessibility-highlight-describing-visuals)"
+  },
+  {
+    "title": "Ivy Green 提供無障礙設施 - CBS 42",
+    "slug": "ivy-green-offers-accessibility-aids-cbs-42-zh-176b497c",
+    "lang": "zh-TW",
+    "summary": "Ivy Green 提供多種無障礙設施，以支援殘障訪客，包括坡道、觸覺引導及助聽設備。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "assistive aids",
+      "Ivy Green"
+    ],
+    "sourceName": "CBS 42",
+    "sourceUrl": "https://www.cbs42.com/video/ivy-green-offers-accessibility-aids/11906339",
+    "relatedSources": [
+      {
+        "name": "CBS 42",
+        "url": "https://www.cbs42.com/video/ivy-green-offers-accessibility-aids/11906339"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-176b497c",
+    "status": "published",
+    "translationOf": "ivy-green-offers-accessibility-aids-cbs-42-176b497c",
+    "publishedAt": "2026-06-22T23:20:52.000Z",
+    "fetchedAt": "2026-06-23T13:17:19.674Z",
+    "body": "Ivy Green 提供多種無障礙設施，以支援殘障訪客，包括坡道、觸覺引導及助聽設備。\n\n原文來源： [CBS 42](https://www.cbs42.com/video/ivy-green-offers-accessibility-aids/11906339)"
+  },
+  {
+    "title": "Orange Tree 劇院移除入口階梯以提升無障礙 - BroadwayWorld",
+    "slug": "orange-tree-theatre-removes-entrance-steps-to-boost-accessibility-broadwayworld-zh-290c578e",
+    "lang": "zh-TW",
+    "summary": "Orange Tree 劇院移除了入口的階梯，以提升輪椅通達性，為所有觀眾創造更包容的環境。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "theatre",
+      "physical design"
+    ],
+    "sourceName": "BroadwayWorld",
+    "sourceUrl": "https://www.broadwayworld.com/westend/article/Orange-Tree-Theatre-Removes-Entrance-Steps-to-Boost-Accessibility-20260623",
+    "relatedSources": [
+      {
+        "name": "BroadwayWorld",
+        "url": "https://www.broadwayworld.com/westend/article/Orange-Tree-Theatre-Removes-Entrance-Steps-to-Boost-Accessibility-20260623"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-290c578e",
+    "status": "published",
+    "translationOf": "orange-tree-theatre-removes-entrance-steps-to-boost-accessibility-broadwayworld-290c578e",
+    "publishedAt": "2026-06-23T10:05:56.000Z",
+    "fetchedAt": "2026-06-23T13:17:19.792Z",
+    "body": "Orange Tree 劇院移除了入口的階梯，以提升輪椅通達性，為所有觀眾創造更包容的環境。\n\n原文來源： [BroadwayWorld](https://www.broadwayworld.com/westend/article/Orange-Tree-Theatre-Removes-Entrance-Steps-to-Boost-Accessibility-20260623)"
+  },
+  {
+    "title": "日落大道無障礙升級工程隨 LA28 奧運啟動 - CityWatch LA",
+    "slug": "sunset-blvd-accessibility-upgrades-begin-ahead-of-la28-olympics-citywatch-la-zh-586d115c",
+    "lang": "zh-TW",
+    "summary": "為迎接 LA28 奧運，日落大道正進行無障礙升級工程，包括路邊坡道和無障礙行人訊號。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "urban infrastructure",
+      "LA28 Olympics"
+    ],
+    "sourceName": "CityWatch LA",
+    "sourceUrl": "https://www.citywatchla.com/los-angeles/32909-sunset-blvd-accessibility-upgrades-begin-ahead-of-la28-olympics",
+    "relatedSources": [
+      {
+        "name": "CityWatch LA",
+        "url": "https://www.citywatchla.com/los-angeles/32909-sunset-blvd-accessibility-upgrades-begin-ahead-of-la28-olympics"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-586d115c",
+    "status": "published",
+    "translationOf": "sunset-blvd-accessibility-upgrades-begin-ahead-of-la28-olympics-citywatch-la-586d115c",
+    "publishedAt": "2026-06-23T01:17:46.000Z",
+    "fetchedAt": "2026-06-23T13:17:19.888Z",
+    "body": "為迎接 LA28 奧運，日落大道正進行無障礙升級工程，包括路邊坡道和無障礙行人訊號。\n\n原文來源： [CityWatch LA](https://www.citywatchla.com/los-angeles/32909-sunset-blvd-accessibility-upgrades-begin-ahead-of-la28-olympics)"
+  },
+  {
+    "title": "倡導者稱黃奈夫需要做更多以提升行人無障礙設施",
+    "slug": "advocates-say-yellowknife-needs-to-do-more-for-pedestrian-accessibility-zh-31150205",
+    "lang": "zh-TW",
+    "summary": "倡導者指出，黃奈夫必須改善行人無障礙設施，特別是為視力障礙者提供可聽訊號等設施，以提升可及性。",
+    "category": "physical-design",
+    "tags": [
+      "pedestrian accessibility",
+      "vision loss",
+      "audible signals",
+      "Yellowknife",
+      "Canada"
+    ],
+    "sourceName": "CBC",
+    "sourceUrl": "https://www.cbc.ca/news/canada/north/vision-loss-accessibility-yellowknife-audible-signals-9.7241083",
+    "relatedSources": [
+      {
+        "name": "CBC",
+        "url": "https://www.cbc.ca/news/canada/north/vision-loss-accessibility-yellowknife-audible-signals-9.7241083"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-31150205",
+    "status": "published",
+    "translationOf": "advocates-say-yellowknife-needs-to-do-more-for-pedestrian-accessibility-31150205",
+    "publishedAt": "2026-06-23T10:00:00.000Z",
+    "fetchedAt": "2026-06-23T13:17:36.989Z",
+    "body": "倡導者指出，黃奈夫必須改善行人無障礙設施，特別是為視力障礙者提供可聽訊號等設施，以提升可及性。\n\n原文來源： [CBC](https://www.cbc.ca/news/canada/north/vision-loss-accessibility-yellowknife-audible-signals-9.7241083)"
+  },
+  {
+    "title": "板橋車站廁所挨批「北部最噁」 地下道如無障礙地獄旅客怒",
+    "slug": "banqiao-station-toilets-slammed-as-the-dirtiest-in-the-north-underground-passage-zh-a5f08082",
+    "lang": "zh-TW",
+    "summary": "板橋車站的廁所被指為北部最糟，地下通道被形容為對殘障人士而言的無障礙地獄，引發旅客憤怒。",
+    "category": "physical-design",
+    "tags": [
+      "Banqiao Station",
+      "toilets",
+      "underground passage",
+      "accessibility",
+      "Taiwan"
+    ],
+    "sourceName": "自由時報",
+    "sourceUrl": "https://news.ltn.com.tw/news/NewTaipei/breakingnews/5481029",
+    "relatedSources": [
+      {
+        "name": "自由時報",
+        "url": "https://news.ltn.com.tw/news/NewTaipei/breakingnews/5481029"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a5f08082",
+    "status": "published",
+    "translationOf": "banqiao-station-toilets-slammed-as-the-dirtiest-in-the-north-underground-passage-a5f08082",
+    "publishedAt": "2026-06-23T04:59:45.000Z",
+    "fetchedAt": "2026-06-23T13:17:37.104Z",
+    "body": "板橋車站的廁所被指為北部最糟，地下通道被形容為對殘障人士而言的無障礙地獄，引發旅客憤怒。\n\n原文來源： [自由時報](https://news.ltn.com.tw/news/NewTaipei/breakingnews/5481029)"
+  },
+  {
+    "title": "AI Omnibus 削弱對殘障人士保護的六種方式",
+    "slug": "6-ways-the-ai-omnibus-weakens-protections-for-persons-with-disabilities-zh-bca15462",
+    "lang": "zh-TW",
+    "summary": "新提出的『人工智慧（AI）綜合法案』在 2026 年 5 月達成協議，將撤銷許多由 AI 法案建立的基本權利保障，特別影響殘障人士在敏感資料使用及應對 AI 系統造成的歧視方面的保護。",
+    "category": "laws-rights",
+    "tags": [
+      "AI Omnibus",
+      "disability rights",
+      "AI Act",
+      "data protection",
+      "discrimination",
+      "European Disability Forum"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.edf-feph.org/6-ways-the-ai-omnibus-weakens-protections-for-persons-with-disabilities",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.edf-feph.org/6-ways-the-ai-omnibus-weakens-protections-for-persons-with-disabilities"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.edf-feph.org/feed",
+    "ingestProvider": "edf-feph.org",
+    "clusterId": "cluster-bca15462",
+    "status": "published",
+    "translationOf": "6-ways-the-ai-omnibus-weakens-protections-for-persons-with-disabilities-bca15462",
+    "publishedAt": "2026-06-23T13:05:30.000Z",
+    "fetchedAt": "2026-06-23T13:17:37.211Z",
+    "body": "新提出的『人工智慧（AI）綜合法案』在 2026 年 5 月達成協議，將撤銷許多由 AI 法案建立的基本權利保障，特別影響殘障人士在敏感資料使用及應對 AI 系統造成的歧視方面的保護。\n\n原文來源： [Unknown source](https://www.edf-feph.org/6-ways-the-ai-omnibus-weakens-protections-for-persons-with-disabilities)"
+  },
+  {
+    "title": "accessibility-intelligence 1.0.2",
+    "slug": "accessibility-intelligence-102-zh-a65f9cc7",
+    "lang": "zh-TW",
+    "summary": "一个能够扫描源代码和截图以检测 iOS、Android 和网页应用中无障碍问题的 AI 代理。",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "accessibility",
+      "digital-a11y",
+      "iOS",
+      "Android",
+      "Web"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/accessibility-intelligence/1.0.2",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/accessibility-intelligence/1.0.2"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-a65f9cc7",
+    "status": "published",
+    "translationOf": "accessibility-intelligence-102-a65f9cc7",
+    "publishedAt": "2026-06-22T12:43:18.000Z",
+    "fetchedAt": "2026-06-23T13:17:50.311Z",
+    "body": "一个能够扫描源代码和截图以检测 iOS、Android 和网页应用中无障碍问题的 AI 代理。\n\n原文來源： [Pypi.org](https://pypi.org/project/accessibility-intelligence/1.0.2)"
+  },
+  {
+    "title": "無障礙智能 1.0.0",
+    "slug": "accessibility-intelligence-100-zh-809cbfdf",
+    "lang": "zh-TW",
+    "summary": "一種 AI 代理，可掃描原始碼和螢幕截圖，以偵測 iOS、Android 和 Web 平台的無障礙問題。",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "accessibility scanning",
+      "digital",
+      "iOS",
+      "Android",
+      "Web"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/accessibility-intelligence/1.0.0",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/accessibility-intelligence/1.0.0"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-809cbfdf",
+    "status": "published",
+    "translationOf": "accessibility-intelligence-100-809cbfdf",
+    "publishedAt": "2026-06-22T12:10:49.000Z",
+    "fetchedAt": "2026-06-23T13:18:18.831Z",
+    "body": "一種 AI 代理，可掃描原始碼和螢幕截圖，以偵測 iOS、Android 和 Web 平台的無障礙問題。\n\n原文來源： [Pypi.org](https://pypi.org/project/accessibility-intelligence/1.0.0)"
+  },
+  {
+    "title": "無障礙智能加入 PyPI",
+    "slug": "accessibility-intelligence-added-to-pypi-zh-5b1000b9",
+    "lang": "zh-TW",
+    "summary": "用於掃描原始碼和螢幕截圖以偵測無障礙問題的 AI 代理已發布在 PyPI 上。",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "accessibility scanning",
+      "digital",
+      "PyPI"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/accessibility-intelligence",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/accessibility-intelligence"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-5b1000b9",
+    "status": "published",
+    "translationOf": "accessibility-intelligence-added-to-pypi-5b1000b9",
+    "publishedAt": "2026-06-22T12:10:49.000Z",
+    "fetchedAt": "2026-06-23T13:18:18.951Z",
+    "body": "用於掃描原始碼和螢幕截圖以偵測無障礙問題的 AI 代理已發布在 PyPI 上。\n\n原文來源： [Pypi.org](https://pypi.org/project/accessibility-intelligence)"
+  },
+  {
+    "title": "勝新科技捐贈苗醫福祉車",
+    "slug": "shengxin-technology-donates-accessible-welfare-vehicle-to-miaoli-hospital-zh-ea679698",
+    "lang": "zh-TW",
+    "summary": "勝新科技工業有限公司董事長黃國華捐贈一輛配備輪椅升降設備及友善乘車空間的福祉車予衛福部苗栗醫院，提供行動不便長者、身心障礙者及弱勢民眾安全舒適的就醫接送服務。",
+    "category": "physical-design",
+    "tags": [
+      "福祉車",
+      "無障礙交通",
+      "捐贈",
+      "苗栗醫院",
+      "弱勢族群"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_65ee2e6a-d94c-4a65-9566-530fab6dbd53",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_65ee2e6a-d94c-4a65-9566-530fab6dbd53"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-ea679698",
+    "status": "published",
+    "translationOf": "shengxin-technology-donates-accessible-welfare-vehicle-to-miaoli-hospital-ea679698",
+    "publishedAt": "2026-06-22T12:51:51.000Z",
+    "fetchedAt": "2026-06-23T13:18:19.050Z",
+    "body": "勝新科技工業有限公司董事長黃國華捐贈一輛配備輪椅升降設備及友善乘車空間的福祉車予衛福部苗栗醫院，提供行動不便長者、身心障礙者及弱勢民眾安全舒適的就醫接送服務。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_65ee2e6a-d94c-4a65-9566-530fab6dbd53)"
+  },
+  {
+    "title": "早療兒高鐵初體驗 充滿歡樂驚喜",
+    "slug": "early-intervention-children-experience-high-speed-rail-for-the-first-time-full-o-zh-c09569aa",
+    "lang": "zh-TW",
+    "summary": "高鐵台南站關懷弱勢，協助蘆葦啟智中心學員家庭搭乘高鐵進行戶外學習，透過友善無障礙設施與服務，讓早療兒童與家人體驗難忘的高鐵初旅程。",
+    "category": "physical-design",
+    "tags": [
+      "high-speed rail",
+      "barrier-free",
+      "disability access",
+      "outdoor learning",
+      "early intervention"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8a4c4814-b177-417b-82d5-2cbea8388b94",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8a4c4814-b177-417b-82d5-2cbea8388b94"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-c09569aa",
+    "status": "published",
+    "translationOf": "early-intervention-children-experience-high-speed-rail-for-the-first-time-full-o-c09569aa",
+    "publishedAt": "2026-06-22T12:37:46.000Z",
+    "fetchedAt": "2026-06-23T13:20:05.414Z",
+    "body": "高鐵台南站關懷弱勢，協助蘆葦啟智中心學員家庭搭乘高鐵進行戶外學習，透過友善無障礙設施與服務，讓早療兒童與家人體驗難忘的高鐵初旅程。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8a4c4814-b177-417b-82d5-2cbea8388b94)"
+  },
+  {
+    "title": "班鐵翔西門町騎樓重摔 骨折住院19天 重返事故現場 「不要再有人受害」",
+    "slug": "artist-ban-tie-xiang-falls-in-west-gate-district-arcade-suffers-fracture-hospita-zh-5e2812f5",
+    "lang": "zh-TW",
+    "summary": "班鐵翔於5月27日在台北市萬華區成都路27巷騎樓因無障礙斜坡與階梯高低落差而重摔，導致右腳脛骨及腓骨骨折，住院19天，醫藥費約三十萬，他出面控訴並提告，希望避免再有人受傷。",
+    "category": "physical-design",
+    "tags": [
+      "sidewalk",
+      "ramp",
+      "accessibility",
+      "fall injury",
+      "Ximending",
+      "advocacy"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bd4ae611-f4b1-4b6f-a83e-ef64651b90c4",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bd4ae611-f4b1-4b6f-a83e-ef64651b90c4"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-5e2812f5",
+    "status": "published",
+    "translationOf": "artist-ban-tie-xiang-falls-in-west-gate-district-arcade-suffers-fracture-hospita-5e2812f5",
+    "publishedAt": "2026-06-22T10:49:03.000Z",
+    "fetchedAt": "2026-06-23T13:20:05.533Z",
+    "body": "班鐵翔於5月27日在台北市萬華區成都路27巷騎樓因無障礙斜坡與階梯高低落差而重摔，導致右腳脛骨及腓骨骨折，住院19天，醫藥費約三十萬，他出面控訴並提告，希望避免再有人受傷。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bd4ae611-f4b1-4b6f-a83e-ef64651b90c4)"
+  },
+  {
+    "title": "班鐵翔帶傷現身控訴 西門町騎樓高低差害骨折",
+    "slug": "artist-ban-tie-xiang-speaks-out-after-injury-calls-attention-to-hazardous-height-zh-8d26e1f6",
+    "lang": "zh-TW",
+    "summary": "班鐵翔表示，5月27日因西門町騎樓無障礙斜坡與階梯間的高低落差而重摔，導致脛骨、腓骨骨折，需手術植入鈦合金支架及多根鋼釘，住院19天，醫藥費三十萬，他出面控訴並提告，要求改善無障礙設施。",
+    "category": "physical-design",
+    "tags": [
+      "sidewalk",
+      "ramp",
+      "accessibility",
+      "fall injury",
+      "Ximending",
+      "public advocacy"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8cbbb3b5-d686-43ac-95eb-7d4cede51856",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8cbbb3b5-d686-43ac-95eb-7d4cede51856"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-8d26e1f6",
+    "status": "published",
+    "translationOf": "artist-ban-tie-xiang-speaks-out-after-injury-calls-attention-to-hazardous-height-8d26e1f6",
+    "publishedAt": "2026-06-22T10:22:00.000Z",
+    "fetchedAt": "2026-06-23T13:20:05.627Z",
+    "body": "班鐵翔表示，5月27日因西門町騎樓無障礙斜坡與階梯間的高低落差而重摔，導致脛骨、腓骨骨折，需手術植入鈦合金支架及多根鋼釘，住院19天，醫藥費三十萬，他出面控訴並提告，要求改善無障礙設施。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8cbbb3b5-d686-43ac-95eb-7d4cede51856)"
+  },
+  {
+    "title": "高鐵台南站助力蘆葦中心學員戶外教學快樂遊 增進與社會互動信心及能力",
+    "slug": "tainan-hsr-station-assists-luhuang-center-participants-in-outdoor-learning-trip--zh-95ce56a4",
+    "lang": "zh-TW",
+    "summary": "高鐵台南站配合蘆葦啟智中心，於22日協助學員家庭搭乘高鐵進行戶外學習，利用友善無障礙設施與服務，讓早療兒童與家人體驗首次高鐵旅程。站務人員提供耐心解說與鼓勵，協助學員完成驗票、入座等流程，旨在提升學員與社會互動的信心與能力。",
+    "category": "physical-design",
+    "tags": [
+      "high-speed rail",
+      "accessible transport",
+      "disability outreach"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b3ab7f6c-db0d-450f-a9e4-c887bf55813e",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b3ab7f6c-db0d-450f-a9e4-c887bf55813e"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-95ce56a4",
+    "status": "published",
+    "translationOf": "tainan-hsr-station-assists-luhuang-center-participants-in-outdoor-learning-trip--95ce56a4",
+    "publishedAt": "2026-06-22T09:32:20.000Z",
+    "fetchedAt": "2026-06-23T13:21:46.885Z",
+    "body": "高鐵台南站配合蘆葦啟智中心，於22日協助學員家庭搭乘高鐵進行戶外學習，利用友善無障礙設施與服務，讓早療兒童與家人體驗首次高鐵旅程。站務人員提供耐心解說與鼓勵，協助學員完成驗票、入座等流程，旨在提升學員與社會互動的信心與能力。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b3ab7f6c-db0d-450f-a9e4-c887bf55813e)"
+  },
+  {
+    "title": "68歲班鐵翔萬華重摔「脛腓骨全折斷」 提告並喊話蔣萬安：徹底清查",
+    "slug": "senior-artist-falls-due-to-inaccessible-ramp-calls-for-thorough-inspection-of-ac-zh-3b967fb6",
+    "lang": "zh-TW",
+    "summary": "班鐵翔在萬華區成都路27巷騎樓因無障礙斜坡高低落差而重摔，導致脛骨與腓骨全斷，需植入兩根鈦合金支架及多根鋼釘，住院19天。他在台北市議員徐立信陪同下返回事故現場，並向萬華分局提出告訴，要求徹底清查無障礙設施。",
+    "category": "laws-rights",
+    "tags": [
+      "accessibility ramp",
+      "injury",
+      "public safety",
+      "advocacy"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_00a02455-be5d-4926-883c-bb0823d6b2c8",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_00a02455-be5d-4926-883c-bb0823d6b2c8"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-3b967fb6",
+    "status": "published",
+    "translationOf": "senior-artist-falls-due-to-inaccessible-ramp-calls-for-thorough-inspection-of-ac-3b967fb6",
+    "publishedAt": "2026-06-22T08:55:45.000Z",
+    "fetchedAt": "2026-06-23T13:21:47.013Z",
+    "body": "班鐵翔在萬華區成都路27巷騎樓因無障礙斜坡高低落差而重摔，導致脛骨與腓骨全斷，需植入兩根鈦合金支架及多根鋼釘，住院19天。他在台北市議員徐立信陪同下返回事故現場，並向萬華分局提出告訴，要求徹底清查無障礙設施。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_00a02455-be5d-4926-883c-bb0823d6b2c8)"
+  },
+  {
+    "title": "勝新科技捐贈福祉車 點亮便利就醫之路苗栗子弟回饋鄉里傳遞愛與希望",
+    "slug": "shinwon-technology-donates-accessible-welfare-vehicle-to-improve-medical-access--zh-2168e4df",
+    "lang": "zh-TW",
+    "summary": "勝新科技工業有限公司董事長黃國華捐贈一輛福祉車（無障礙輪椅接送車）予衛福部苗栗醫院，車輛配備輪椅升降設備及友善乘車空間，提供行動不便者安全舒適的接送服務。捐贈儀式於苗栗醫院舉辦，期望提升交通弱勢族群的就醫可及性。",
+    "category": "assistive-tech",
+    "tags": [
+      "welfare vehicle",
+      "wheelchair lift",
+      "medical transport",
+      "donation"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%8B%9D%E6%96%B0%E7%A7%91%E6%8A%80%E6%8D%90%E8%B4%88%E7%A6%8F%E7%A5%89%E8%BB%8A-%E9%BB%9E%E4%BA%AE%E4%BE%BF%E5%88%A9%E5%B0%B1%E9%86%AB%E4%B9%8B%E8%B7%AF%E8%8B%97%E6%A0%97%E5%AD%90%E5%BC%9F%E5%9B%9E%E9%A5%8B%E9%84%89%E9%87%8C%E5%82%B3%E9%81%9E%E6%84%9B%E8%88%87%E5%B8%8C%E6%9C%9B-082727447.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E5%8B%9D%E6%96%B0%E7%A7%91%E6%8A%80%E6%8D%90%E8%B4%88%E7%A6%8F%E7%A5%89%E8%BB%8A-%E9%BB%9E%E4%BA%AE%E4%BE%BF%E5%88%A9%E5%B0%B1%E9%86%AB%E4%B9%8B%E8%B7%AF%E8%8B%97%E6%A0%97%E5%AD%90%E5%BC%9F%E5%9B%9E%E9%A5%8B%E9%84%89%E9%87%8C%E5%82%B3%E9%81%9E%E6%84%9B%E8%88%87%E5%B8%8C%E6%9C%9B-082727447.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-2168e4df",
+    "status": "published",
+    "translationOf": "shinwon-technology-donates-accessible-welfare-vehicle-to-improve-medical-access--2168e4df",
+    "publishedAt": "2026-06-22T08:27:27.000Z",
+    "fetchedAt": "2026-06-23T13:21:47.108Z",
+    "body": "勝新科技工業有限公司董事長黃國華捐贈一輛福祉車（無障礙輪椅接送車）予衛福部苗栗醫院，車輛配備輪椅升降設備及友善乘車空間，提供行動不便者安全舒適的接送服務。捐贈儀式於苗栗醫院舉辦，期望提升交通弱勢族群的就醫可及性。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%8B%9D%E6%96%B0%E7%A7%91%E6%8A%80%E6%8D%90%E8%B4%88%E7%A6%8F%E7%A5%89%E8%BB%8A-%E9%BB%9E%E4%BA%AE%E4%BE%BF%E5%88%A9%E5%B0%B1%E9%86%AB%E4%B9%8B%E8%B7%AF%E8%8B%97%E6%A0%97%E5%AD%90%E5%BC%9F%E5%9B%9E%E9%A5%8B%E9%84%89%E9%87%8C%E5%82%B3%E9%81%9E%E6%84%9B%E8%88%87%E5%B8%8C%E6%9C%9B-082727447.html)"
+  },
+  {
+    "title": "高鐵台南站助「蘆葦啟智中心」早療兒童與家人 搭高鐵戶外教學快樂遊",
+    "slug": "tainan-hsr-station-assists-early-intervention-center-children-and-families-in-ac-zh-4f834048",
+    "lang": "zh-TW",
+    "summary": "高鐵台南站協助蘆葦啟智中心早療兒童與家人搭乘高鐵進行戶外教學，利用無障礙設施與站務人員支援，讓孩子體驗首次高鐵旅程。",
+    "category": "physical-design",
+    "tags": [
+      "高鐵",
+      "無障礙",
+      "早療",
+      "戶外教學",
+      "殘障友善"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E9%AB%98%E9%90%B5%E5%8F%B0%E5%8D%97%E7%AB%99%E5%8A%A9-%E8%98%86%E8%91%A6%E5%95%9F%E6%99%BA%E4%B8%AD%E5%BF%83-%E6%97%A9%E7%99%82%E5%85%92%E7%AB%A5%E8%88%87%E5%AE%B6%E4%BA%BA-%E6%90%AD%E9%AB%98%E9%90%B5%E6%88%B6%E5%A4%96%E6%95%99%E5%AD%B8%E5%BF%AB%E6%A8%82%E9%81%8A-074730499.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%90%B5%E5%8F%B0%E5%8D%97%E7%AB%99%E5%8A%A9-%E8%98%86%E8%91%A6%E5%95%9F%E6%99%BA%E4%B8%AD%E5%BF%83-%E6%97%A9%E7%99%82%E5%85%92%E7%AB%A5%E8%88%87%E5%AE%B6%E4%BA%BA-%E6%90%AD%E9%AB%98%E9%90%B5%E6%88%B6%E5%A4%96%E6%95%99%E5%AD%B8%E5%BF%AB%E6%A8%82%E9%81%8A-074730499.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-4f834048",
+    "status": "published",
+    "translationOf": "tainan-hsr-station-assists-early-intervention-center-children-and-families-in-ac-4f834048",
+    "publishedAt": "2026-06-22T07:47:30.000Z",
+    "fetchedAt": "2026-06-23T13:22:26.700Z",
+    "body": "高鐵台南站協助蘆葦啟智中心早療兒童與家人搭乘高鐵進行戶外教學，利用無障礙設施與站務人員支援，讓孩子體驗首次高鐵旅程。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E9%AB%98%E9%90%B5%E5%8F%B0%E5%8D%97%E7%AB%99%E5%8A%A9-%E8%98%86%E8%91%A6%E5%95%9F%E6%99%BA%E4%B8%AD%E5%BF%83-%E6%97%A9%E7%99%82%E5%85%92%E7%AB%A5%E8%88%87%E5%AE%B6%E4%BA%BA-%E6%90%AD%E9%AB%98%E9%90%B5%E6%88%B6%E5%A4%96%E6%95%99%E5%AD%B8%E5%BF%AB%E6%A8%82%E9%81%8A-074730499.html)"
+  },
+  {
+    "title": "中央總預算尚未完成法定程序 南市逾6萬弱勢市民權益恐受影響",
+    "slug": "central-budget-delay-threatens-welfare-subsidies-for-over-60000-disadvantaged-re-zh-8a3b98c5",
+    "lang": "zh-TW",
+    "summary": "中央總預算尚未完成法定程序，導致六大社福津貼調整經費可能無法如期撥付，影響南市逾6萬弱勢市民的權益。",
+    "category": "laws-rights",
+    "tags": [
+      "預算",
+      "社福津貼",
+      "身心障礙者",
+      "弱勢",
+      "權益"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e0fbad76-4a34-4107-8093-122157e13b74",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e0fbad76-4a34-4107-8093-122157e13b74"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-8a3b98c5",
+    "status": "published",
+    "translationOf": "central-budget-delay-threatens-welfare-subsidies-for-over-60000-disadvantaged-re-8a3b98c5",
+    "publishedAt": "2026-06-22T07:31:37.000Z",
+    "fetchedAt": "2026-06-23T13:22:26.823Z",
+    "body": "中央總預算尚未完成法定程序，導致六大社福津貼調整經費可能無法如期撥付，影響南市逾6萬弱勢市民的權益。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e0fbad76-4a34-4107-8093-122157e13b74)"
+  },
+  {
+    "title": "68歲班鐵翔西門町慘摔住院19天 坐輪椅控訴「損失上千萬」",
+    "slug": "man-injured-due-to-inaccessible-slope-sues-landlord-claims-millions-in-losses-zh-64d214a1",
+    "lang": "zh-TW",
+    "summary": "68歲班鐵翔在西門町因無障礙斜坡階梯高低落差而重摔，導致腿骨折住院19天，現坐輪椅控訴地主並稱損失上千萬。",
+    "category": "physical-design",
+    "tags": [
+      "無障礙斜坡",
+      "跌倒",
+      "輪椅",
+      "土地責任",
+      "損失賠償"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/68%E6%AD%B2%E7%8F%AD%E9%90%B5%E7%BF%94%E8%A5%BF%E9%96%80%E7%94%BA%E6%85%98%E6%91%94%E4%BD%8F%E9%99%A219%E5%A4%A9-%E5%9D%90%E8%BC%AA%E6%A4%85%E6%8E%A7%E8%A8%B4-%E6%90%8D%E5%A4%B1%E4%B8%8A%E5%8D%83%E8%90%AC-065000592.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/68%E6%AD%B2%E7%8F%AD%E9%90%B5%E7%BF%94%E8%A5%BF%E9%96%80%E7%94%BA%E6%85%98%E6%91%94%E4%BD%8F%E9%99%A219%E5%A4%A9-%E5%9D%90%E8%BC%AA%E6%A4%85%E6%8E%A7%E8%A8%B4-%E6%90%8D%E5%A4%B1%E4%B8%8A%E5%8D%83%E8%90%AC-065000592.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-64d214a1",
+    "status": "published",
+    "translationOf": "man-injured-due-to-inaccessible-slope-sues-landlord-claims-millions-in-losses-64d214a1",
+    "publishedAt": "2026-06-22T06:50:00.000Z",
+    "fetchedAt": "2026-06-23T13:22:26.917Z",
+    "body": "68歲班鐵翔在西門町因無障礙斜坡階梯高低落差而重摔，導致腿骨折住院19天，現坐輪椅控訴地主並稱損失上千萬。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/68%E6%AD%B2%E7%8F%AD%E9%90%B5%E7%BF%94%E8%A5%BF%E9%96%80%E7%94%BA%E6%85%98%E6%91%94%E4%BD%8F%E9%99%A219%E5%A4%A9-%E5%9D%90%E8%BC%AA%E6%A4%85%E6%8E%A7%E8%A8%B4-%E6%90%8D%E5%A4%B1%E4%B8%8A%E5%8D%83%E8%90%AC-065000592.html)"
+  },
+  {
+    "title": "社福津貼調漲卡關！總預算未審 台南逾6萬人受衝擊",
+    "slug": "social-welfare-subsidy-increase-stalled-due-to-unapproved-budget-over-60000-disa-zh-24c8ecc9",
+    "lang": "zh-TW",
+    "summary": "行政院今年3月風光核定「六大社福津貼調整規畫」，原訂今年7月起大動作調升身心障礙、中低收老人及弱勢兒少等6項社福補助，調幅高達23.5％，原盼能為弱勢基層打下一劑抗通膨的強心針。不料，因中央政府總預算案迄今仍未完成法定審查程序，導致調增經費恐面臨無法如期撥付的窘境。其中，台南市更有超過6萬名弱勢市民的權益恐遭波及，讓滿心期待補助加碼的弱勢家庭大嘆「看得到、吃不到」。",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "social welfare",
+      "budget",
+      "subsidy",
+      "Tainan"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_be8cbf04-1f39-4630-bd61-fe809e7bdcde",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_be8cbf04-1f39-4630-bd61-fe809e7bdcde"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-24c8ecc9",
+    "status": "published",
+    "translationOf": "social-welfare-subsidy-increase-stalled-due-to-unapproved-budget-over-60000-disa-24c8ecc9",
+    "publishedAt": "2026-06-22T04:49:55.000Z",
+    "fetchedAt": "2026-06-23T13:22:35.068Z",
+    "body": "行政院今年3月風光核定「六大社福津貼調整規畫」，原訂今年7月起大動作調升身心障礙、中低收老人及弱勢兒少等6項社福補助，調幅高達23.5％，原盼能為弱勢基層打下一劑抗通膨的強心針。不料，因中央政府總預算案迄今仍未完成法定審查程序，導致調增經費恐面臨無法如期撥付的窘境。其中，台南市更有超過6萬名弱勢市民的權益恐遭波及，讓滿心期待補助加碼的弱勢家庭大嘆「看得到、吃不到」。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_be8cbf04-1f39-4630-bd61-fe809e7bdcde)"
   }
 ]

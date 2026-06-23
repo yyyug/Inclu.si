@@ -91174,5 +91174,779 @@
     "publishedAt": "2026-06-23T07:03:31.000Z",
     "fetchedAt": "2026-06-23T08:03:06.212Z",
     "body": "A tweet claims that people with disabilities are entirely different beings, reflecting a prejudiced view.\nTweet source: [にゃにゃ (@lio_olo_oil)](https://x.com/lio_olo_oil/status/2069315397854408743)"
+  },
+  {
+    "title": "Portlanders with disabilities struggle to find housing that's both affordable and accessible",
+    "slug": "portlanders-with-disabilities-struggle-to-find-housing-thats-both-affordable-and-e434ae2a",
+    "lang": "en",
+    "summary": "Residents with disabilities in Portland report difficulty finding housing that is both affordable and physically accessible, highlighting gaps in the market.",
+    "category": "physical-design",
+    "tags": [
+      "housing",
+      "disability",
+      "affordability",
+      "accessibility"
+    ],
+    "sourceName": "KGW",
+    "sourceUrl": "https://www.kgw.com/article/news/local/homeless/portland-affordable-housing-accessible-disabilities-blind-accomodations/283-2e6cc6af-9ea9-4532-80df-295a97f1c1b6",
+    "relatedSources": [
+      {
+        "name": "KGW",
+        "url": "https://www.kgw.com/article/news/local/homeless/portland-affordable-housing-accessible-disabilities-blind-accomodations/283-2e6cc6af-9ea9-4532-80df-295a97f1c1b6"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e434ae2a",
+    "status": "published",
+    "translationOf": "portlanders-with-disabilities-struggle-to-find-housing-thats-both-affordable-and-zh-e434ae2a",
+    "publishedAt": "2026-06-23T01:55:00.000Z",
+    "fetchedAt": "2026-06-23T13:16:33.031Z",
+    "body": "Residents with disabilities in Portland report difficulty finding housing that is both affordable and physically accessible, highlighting gaps in the market.\n\nRead more from the original source: [KGW](https://www.kgw.com/article/news/local/homeless/portland-affordable-housing-accessible-disabilities-blind-accomodations/283-2e6cc6af-9ea9-4532-80df-295a97f1c1b6)"
+  },
+  {
+    "title": "Accessibility Spotlight - Ubisoft",
+    "slug": "accessibility-spotlight-ubisoft-e046c37f",
+    "lang": "en",
+    "summary": "Ubisoft highlights its accessibility features in games, showcasing options for players with disabilities such as customizable controls and subtitles.",
+    "category": "digital-a11y",
+    "tags": [
+      "Ubisoft",
+      "game accessibility",
+      "assistive technology",
+      "digital accessibility"
+    ],
+    "sourceName": "Ubisoft",
+    "sourceUrl": "https://www.ubisoft.com/en-us/news/ignt.61344/accessibility-spotlight",
+    "relatedSources": [
+      {
+        "name": "Ubisoft",
+        "url": "https://www.ubisoft.com/en-us/news/ignt.61344/accessibility-spotlight"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e046c37f",
+    "status": "published",
+    "translationOf": "accessibility-spotlight-ubisoft-zh-e046c37f",
+    "publishedAt": "2026-06-23T09:15:59.000Z",
+    "fetchedAt": "2026-06-23T13:16:33.157Z",
+    "body": "Ubisoft highlights its accessibility features in games, showcasing options for players with disabilities such as customizable controls and subtitles.\n\nRead more from the original source: [Ubisoft](https://www.ubisoft.com/en-us/news/ignt.61344/accessibility-spotlight)"
+  },
+  {
+    "title": "Accessibility highlight: Describing visuals - The Pennsylvania State University",
+    "slug": "accessibility-highlight-describing-visuals-the-pennsylvania-state-university-600f5e21",
+    "lang": "en",
+    "summary": "Penn State emphasizes the importance of describing visual content for accessibility, providing guidelines for alt text and audio description to support users with visual impairments.",
+    "category": "digital-a11y",
+    "tags": [
+      "Penn State",
+      "visual description",
+      "alt text",
+      "audio description",
+      "digital accessibility"
+    ],
+    "sourceName": "The Pennsylvania State University",
+    "sourceUrl": "https://www.psu.edu/news/information-technology/story/accessibility-highlight-describing-visuals",
+    "relatedSources": [
+      {
+        "name": "The Pennsylvania State University",
+        "url": "https://www.psu.edu/news/information-technology/story/accessibility-highlight-describing-visuals"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-600f5e21",
+    "status": "published",
+    "translationOf": "accessibility-highlight-describing-visuals-the-pennsylvania-state-university-zh-600f5e21",
+    "publishedAt": "2026-06-22T15:55:40.000Z",
+    "fetchedAt": "2026-06-23T13:16:33.255Z",
+    "body": "Penn State emphasizes the importance of describing visual content for accessibility, providing guidelines for alt text and audio description to support users with visual impairments.\n\nRead more from the original source: [The Pennsylvania State University](https://www.psu.edu/news/information-technology/story/accessibility-highlight-describing-visuals)"
+  },
+  {
+    "title": "Ivy Green offers accessibility aids - CBS 42",
+    "slug": "ivy-green-offers-accessibility-aids-cbs-42-176b497c",
+    "lang": "en",
+    "summary": "Ivy Green provides various accessibility aids to support visitors with disabilities, including ramps, tactile guides, and assistive listening devices.",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "assistive aids",
+      "Ivy Green"
+    ],
+    "sourceName": "CBS 42",
+    "sourceUrl": "https://www.cbs42.com/video/ivy-green-offers-accessibility-aids/11906339",
+    "relatedSources": [
+      {
+        "name": "CBS 42",
+        "url": "https://www.cbs42.com/video/ivy-green-offers-accessibility-aids/11906339"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-176b497c",
+    "status": "published",
+    "translationOf": "ivy-green-offers-accessibility-aids-cbs-42-zh-176b497c",
+    "publishedAt": "2026-06-22T23:20:52.000Z",
+    "fetchedAt": "2026-06-23T13:17:19.674Z",
+    "body": "Ivy Green provides various accessibility aids to support visitors with disabilities, including ramps, tactile guides, and assistive listening devices.\n\nRead more from the original source: [CBS 42](https://www.cbs42.com/video/ivy-green-offers-accessibility-aids/11906339)"
+  },
+  {
+    "title": "Orange Tree Theatre Removes Entrance Steps to Boost Accessibility - BroadwayWorld",
+    "slug": "orange-tree-theatre-removes-entrance-steps-to-boost-accessibility-broadwayworld-290c578e",
+    "lang": "en",
+    "summary": "The Orange Tree Theatre has removed the steps at its entrance to improve wheelchair access and create a more inclusive environment for all patrons.",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "theatre",
+      "physical design"
+    ],
+    "sourceName": "BroadwayWorld",
+    "sourceUrl": "https://www.broadwayworld.com/westend/article/Orange-Tree-Theatre-Removes-Entrance-Steps-to-Boost-Accessibility-20260623",
+    "relatedSources": [
+      {
+        "name": "BroadwayWorld",
+        "url": "https://www.broadwayworld.com/westend/article/Orange-Tree-Theatre-Removes-Entrance-Steps-to-Boost-Accessibility-20260623"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-290c578e",
+    "status": "published",
+    "translationOf": "orange-tree-theatre-removes-entrance-steps-to-boost-accessibility-broadwayworld-zh-290c578e",
+    "publishedAt": "2026-06-23T10:05:56.000Z",
+    "fetchedAt": "2026-06-23T13:17:19.792Z",
+    "body": "The Orange Tree Theatre has removed the steps at its entrance to improve wheelchair access and create a more inclusive environment for all patrons.\n\nRead more from the original source: [BroadwayWorld](https://www.broadwayworld.com/westend/article/Orange-Tree-Theatre-Removes-Entrance-Steps-to-Boost-Accessibility-20260623)"
+  },
+  {
+    "title": "Sunset Blvd. Accessibility Upgrades Begin Ahead of LA28 Olympics - CityWatch LA",
+    "slug": "sunset-blvd-accessibility-upgrades-begin-ahead-of-la28-olympics-citywatch-la-586d115c",
+    "lang": "en",
+    "summary": "Accessibility upgrades on Sunset Boulevard, including curb ramps and accessible pedestrian signals, are underway in preparation for the LA28 Olympic Games.",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "urban infrastructure",
+      "LA28 Olympics"
+    ],
+    "sourceName": "CityWatch LA",
+    "sourceUrl": "https://www.citywatchla.com/los-angeles/32909-sunset-blvd-accessibility-upgrades-begin-ahead-of-la28-olympics",
+    "relatedSources": [
+      {
+        "name": "CityWatch LA",
+        "url": "https://www.citywatchla.com/los-angeles/32909-sunset-blvd-accessibility-upgrades-begin-ahead-of-la28-olympics"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-586d115c",
+    "status": "published",
+    "translationOf": "sunset-blvd-accessibility-upgrades-begin-ahead-of-la28-olympics-citywatch-la-zh-586d115c",
+    "publishedAt": "2026-06-23T01:17:46.000Z",
+    "fetchedAt": "2026-06-23T13:17:19.888Z",
+    "body": "Accessibility upgrades on Sunset Boulevard, including curb ramps and accessible pedestrian signals, are underway in preparation for the LA28 Olympic Games.\n\nRead more from the original source: [CityWatch LA](https://www.citywatchla.com/los-angeles/32909-sunset-blvd-accessibility-upgrades-begin-ahead-of-la28-olympics)"
+  },
+  {
+    "title": "Advocates say Yellowknife needs to do more for pedestrian accessibility",
+    "slug": "advocates-say-yellowknife-needs-to-do-more-for-pedestrian-accessibility-31150205",
+    "lang": "en",
+    "summary": "Advocates argue that Yellowknife must improve pedestrian accessibility, especially for people with vision loss, by installing audible signals and other accommodations.",
+    "category": "physical-design",
+    "tags": [
+      "pedestrian accessibility",
+      "vision loss",
+      "audible signals",
+      "Yellowknife",
+      "Canada"
+    ],
+    "sourceName": "CBC",
+    "sourceUrl": "https://www.cbc.ca/news/canada/north/vision-loss-accessibility-yellowknife-audible-signals-9.7241083",
+    "relatedSources": [
+      {
+        "name": "CBC",
+        "url": "https://www.cbc.ca/news/canada/north/vision-loss-accessibility-yellowknife-audible-signals-9.7241083"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-31150205",
+    "status": "published",
+    "translationOf": "advocates-say-yellowknife-needs-to-do-more-for-pedestrian-accessibility-zh-31150205",
+    "publishedAt": "2026-06-23T10:00:00.000Z",
+    "fetchedAt": "2026-06-23T13:17:36.989Z",
+    "body": "Advocates argue that Yellowknife must improve pedestrian accessibility, especially for people with vision loss, by installing audible signals and other accommodations.\n\nRead more from the original source: [CBC](https://www.cbc.ca/news/canada/north/vision-loss-accessibility-yellowknife-audible-signals-9.7241083)"
+  },
+  {
+    "title": "Banqiao Station toilets slammed as 'the dirtiest in the north'; underground passage described as inaccessible hell, angering passengers",
+    "slug": "banqiao-station-toilets-slammed-as-the-dirtiest-in-the-north-underground-passage-a5f08082",
+    "lang": "en",
+    "summary": "Critics say the toilets at Banqiao Station are the worst in northern Taiwan, and the underground passage is described as an inaccessible hell for people with disabilities, sparking public outrage.",
+    "category": "physical-design",
+    "tags": [
+      "Banqiao Station",
+      "toilets",
+      "underground passage",
+      "accessibility",
+      "Taiwan"
+    ],
+    "sourceName": "自由時報",
+    "sourceUrl": "https://news.ltn.com.tw/news/NewTaipei/breakingnews/5481029",
+    "relatedSources": [
+      {
+        "name": "自由時報",
+        "url": "https://news.ltn.com.tw/news/NewTaipei/breakingnews/5481029"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a5f08082",
+    "status": "published",
+    "translationOf": "banqiao-station-toilets-slammed-as-the-dirtiest-in-the-north-underground-passage-zh-a5f08082",
+    "publishedAt": "2026-06-23T04:59:45.000Z",
+    "fetchedAt": "2026-06-23T13:17:37.104Z",
+    "body": "Critics say the toilets at Banqiao Station are the worst in northern Taiwan, and the underground passage is described as an inaccessible hell for people with disabilities, sparking public outrage.\n\nRead more from the original source: [自由時報](https://news.ltn.com.tw/news/NewTaipei/breakingnews/5481029)"
+  },
+  {
+    "title": "6 ways the AI Omnibus weakens protections for persons with disabilities",
+    "slug": "6-ways-the-ai-omnibus-weakens-protections-for-persons-with-disabilities-bca15462",
+    "lang": "en",
+    "summary": "The proposed AI Omnibus agreement rolls back many rights safeguards from the AI Act, particularly affecting persons with disabilities regarding sensitive data use and discrimination countermeasures.",
+    "category": "laws-rights",
+    "tags": [
+      "AI Omnibus",
+      "disability rights",
+      "AI Act",
+      "data protection",
+      "discrimination",
+      "European Disability Forum"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.edf-feph.org/6-ways-the-ai-omnibus-weakens-protections-for-persons-with-disabilities",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.edf-feph.org/6-ways-the-ai-omnibus-weakens-protections-for-persons-with-disabilities"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.edf-feph.org/feed",
+    "ingestProvider": "edf-feph.org",
+    "clusterId": "cluster-bca15462",
+    "status": "published",
+    "translationOf": "6-ways-the-ai-omnibus-weakens-protections-for-persons-with-disabilities-zh-bca15462",
+    "publishedAt": "2026-06-23T13:05:30.000Z",
+    "fetchedAt": "2026-06-23T13:17:37.211Z",
+    "body": "The proposed AI Omnibus agreement rolls back many rights safeguards from the AI Act, particularly affecting persons with disabilities regarding sensitive data use and discrimination countermeasures.\n\nRead more from the original source: [Unknown source](https://www.edf-feph.org/6-ways-the-ai-omnibus-weakens-protections-for-persons-with-disabilities)"
+  },
+  {
+    "title": "accessibility-intelligence 1.0.2",
+    "slug": "accessibility-intelligence-102-a65f9cc7",
+    "lang": "en",
+    "summary": "An AI agent that scans source code and screenshots to detect accessibility issues in iOS, Android, and web applications.",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "accessibility",
+      "digital-a11y",
+      "iOS",
+      "Android",
+      "Web"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/accessibility-intelligence/1.0.2",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/accessibility-intelligence/1.0.2"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-a65f9cc7",
+    "status": "published",
+    "translationOf": "accessibility-intelligence-102-zh-a65f9cc7",
+    "publishedAt": "2026-06-22T12:43:18.000Z",
+    "fetchedAt": "2026-06-23T13:17:50.311Z",
+    "body": "An AI agent that scans source code and screenshots to detect accessibility issues in iOS, Android, and web applications.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/accessibility-intelligence/1.0.2)"
+  },
+  {
+    "title": "accessibility-intelligence 1.0.0",
+    "slug": "accessibility-intelligence-100-809cbfdf",
+    "lang": "en",
+    "summary": "AI agent that scans source code and screenshots for accessibility issues across iOS, Android, and Web platforms.",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "accessibility scanning",
+      "digital",
+      "iOS",
+      "Android",
+      "Web"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/accessibility-intelligence/1.0.0",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/accessibility-intelligence/1.0.0"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-809cbfdf",
+    "status": "published",
+    "translationOf": "accessibility-intelligence-100-zh-809cbfdf",
+    "publishedAt": "2026-06-22T12:10:49.000Z",
+    "fetchedAt": "2026-06-23T13:18:18.831Z",
+    "body": "AI agent that scans source code and screenshots for accessibility issues across iOS, Android, and Web platforms.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/accessibility-intelligence/1.0.0)"
+  },
+  {
+    "title": "accessibility-intelligence added to PyPI",
+    "slug": "accessibility-intelligence-added-to-pypi-5b1000b9",
+    "lang": "en",
+    "summary": "The accessibility-intelligence AI agent for scanning source code and screenshots for accessibility issues has been published on PyPI.",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "accessibility scanning",
+      "digital",
+      "PyPI"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/accessibility-intelligence",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/accessibility-intelligence"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-5b1000b9",
+    "status": "published",
+    "translationOf": "accessibility-intelligence-added-to-pypi-zh-5b1000b9",
+    "publishedAt": "2026-06-22T12:10:49.000Z",
+    "fetchedAt": "2026-06-23T13:18:18.951Z",
+    "body": "The accessibility-intelligence AI agent for scanning source code and screenshots for accessibility issues has been published on PyPI.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/accessibility-intelligence)"
+  },
+  {
+    "title": "Shengxin Technology Donates Accessible Welfare Vehicle to Miaoli Hospital",
+    "slug": "shengxin-technology-donates-accessible-welfare-vehicle-to-miaoli-hospital-ea679698",
+    "lang": "en",
+    "summary": "Shengxin Technology donated a wheelchair-accessible welfare vehicle equipped with lift equipment and friendly boarding space to Miaoli Hospital, aiming to improve medical access for elderly and disabled individuals with mobility challenges.",
+    "category": "physical-design",
+    "tags": [
+      "福祉車",
+      "無障礙交通",
+      "捐贈",
+      "苗栗醫院",
+      "弱勢族群"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_65ee2e6a-d94c-4a65-9566-530fab6dbd53",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_65ee2e6a-d94c-4a65-9566-530fab6dbd53"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-ea679698",
+    "status": "published",
+    "translationOf": "shengxin-technology-donates-accessible-welfare-vehicle-to-miaoli-hospital-zh-ea679698",
+    "publishedAt": "2026-06-22T12:51:51.000Z",
+    "fetchedAt": "2026-06-23T13:18:19.050Z",
+    "body": "Shengxin Technology donated a wheelchair-accessible welfare vehicle equipped with lift equipment and friendly boarding space to Miaoli Hospital, aiming to improve medical access for elderly and disabled individuals with mobility challenges.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_65ee2e6a-d94c-4a65-9566-530fab6dbd53)"
+  },
+  {
+    "title": "Early Intervention Children Experience High-Speed Rail for the First Time, Full of Joy and Surprise",
+    "slug": "early-intervention-children-experience-high-speed-rail-for-the-first-time-full-o-c09569aa",
+    "lang": "en",
+    "summary": "The Taiwan High Speed Rail's Tainan station provided assistance to families from the Luwei Intelligence Development Center, allowing children with early intervention needs to ride the high-speed rail using its barrier-free facilities and services for an outdoor learning activity, creating a memorable first ride.",
+    "category": "physical-design",
+    "tags": [
+      "high-speed rail",
+      "barrier-free",
+      "disability access",
+      "outdoor learning",
+      "early intervention"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8a4c4814-b177-417b-82d5-2cbea8388b94",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8a4c4814-b177-417b-82d5-2cbea8388b94"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-c09569aa",
+    "status": "published",
+    "translationOf": "early-intervention-children-experience-high-speed-rail-for-the-first-time-full-o-zh-c09569aa",
+    "publishedAt": "2026-06-22T12:37:46.000Z",
+    "fetchedAt": "2026-06-23T13:20:05.414Z",
+    "body": "The Taiwan High Speed Rail's Tainan station provided assistance to families from the Luwei Intelligence Development Center, allowing children with early intervention needs to ride the high-speed rail using its barrier-free facilities and services for an outdoor learning activity, creating a memorable first ride.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8a4c4814-b177-417b-82d5-2cbea8388b94)"
+  },
+  {
+    "title": "Artist Ban Tie-xiang Falls in West Gate District Arcade, Suffers Fracture, Hospitalized 19 Days, Returns to Scene to Advocate Against Further Victims",
+    "slug": "artist-ban-tie-xiang-falls-in-west-gate-district-arcade-suffers-fracture-hospita-5e2812f5",
+    "lang": "en",
+    "summary": "On May 27, veteran artist Ban Tie-xiang fell while navigating a sidewalk arcade in Taipei's Ximending due to a height mismatch between an inaccessible ramp and steps, resulting in fractures of the right tibia and fibula, requiring surgery, titanium implants, and 19 days of hospitalization. He returned to the accident site with a council member to call for improved accessibility and prevent further injuries.",
+    "category": "physical-design",
+    "tags": [
+      "sidewalk",
+      "ramp",
+      "accessibility",
+      "fall injury",
+      "Ximending",
+      "advocacy"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bd4ae611-f4b1-4b6f-a83e-ef64651b90c4",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bd4ae611-f4b1-4b6f-a83e-ef64651b90c4"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-5e2812f5",
+    "status": "published",
+    "translationOf": "artist-ban-tie-xiang-falls-in-west-gate-district-arcade-suffers-fracture-hospita-zh-5e2812f5",
+    "publishedAt": "2026-06-22T10:49:03.000Z",
+    "fetchedAt": "2026-06-23T13:20:05.533Z",
+    "body": "On May 27, veteran artist Ban Tie-xiang fell while navigating a sidewalk arcade in Taipei's Ximending due to a height mismatch between an inaccessible ramp and steps, resulting in fractures of the right tibia and fibula, requiring surgery, titanium implants, and 19 days of hospitalization. He returned to the accident site with a council member to call for improved accessibility and prevent further injuries.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bd4ae611-f4b1-4b6f-a83e-ef64651b90c4)"
+  },
+  {
+    "title": "Artist Ban Tie-xiang Speaks Out After Injury, Calls Attention to Hazardous Height Difference in West Gate District Arcade",
+    "slug": "artist-ban-tie-xiang-speaks-out-after-injury-calls-attention-to-hazardous-height-8d26e1f6",
+    "lang": "en",
+    "summary": "Ban Tie-xiang detailed his May 27 fall in the Ximending arcade, where a poorly designed ramp-step transition caused his tibia and fibula fractures, surgery with titanium plates and numerous pins, 19-day hospital stay, and NT$300,000 medical costs. He publicly urges authorities to fix the hazardous condition to protect pedestrians.",
+    "category": "physical-design",
+    "tags": [
+      "sidewalk",
+      "ramp",
+      "accessibility",
+      "fall injury",
+      "Ximending",
+      "public advocacy"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8cbbb3b5-d686-43ac-95eb-7d4cede51856",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8cbbb3b5-d686-43ac-95eb-7d4cede51856"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-8d26e1f6",
+    "status": "published",
+    "translationOf": "artist-ban-tie-xiang-speaks-out-after-injury-calls-attention-to-hazardous-height-zh-8d26e1f6",
+    "publishedAt": "2026-06-22T10:22:00.000Z",
+    "fetchedAt": "2026-06-23T13:20:05.627Z",
+    "body": "Ban Tie-xiang detailed his May 27 fall in the Ximending arcade, where a poorly designed ramp-step transition caused his tibia and fibula fractures, surgery with titanium plates and numerous pins, 19-day hospital stay, and NT$300,000 medical costs. He publicly urges authorities to fix the hazardous condition to protect pedestrians.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8cbbb3b5-d686-43ac-95eb-7d4cede51856)"
+  },
+  {
+    "title": "Tainan HSR Station Assists Luhuang Center Participants in Outdoor Learning Trip, Boosting Social Interaction Confidence and Ability",
+    "slug": "tainan-hsr-station-assists-luhuang-center-participants-in-outdoor-learning-trip--95ce56a4",
+    "lang": "en",
+    "summary": "Tainan High Speed Rail station partnered with the Luhuang Intellectual Development Center to organize an outdoor learning trip for participants with disabilities. Using the station's accessible facilities and services, early intervention children and their families experienced their first HSR ride, with staff providing guidance and encouragement to ensure smooth boarding and seating. The activity aimed to increase social interaction confidence and abilities for the participants.",
+    "category": "physical-design",
+    "tags": [
+      "high-speed rail",
+      "accessible transport",
+      "disability outreach"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b3ab7f6c-db0d-450f-a9e4-c887bf55813e",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b3ab7f6c-db0d-450f-a9e4-c887bf55813e"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-95ce56a4",
+    "status": "published",
+    "translationOf": "tainan-hsr-station-assists-luhuang-center-participants-in-outdoor-learning-trip--zh-95ce56a4",
+    "publishedAt": "2026-06-22T09:32:20.000Z",
+    "fetchedAt": "2026-06-23T13:21:46.885Z",
+    "body": "Tainan High Speed Rail station partnered with the Luhuang Intellectual Development Center to organize an outdoor learning trip for participants with disabilities. Using the station's accessible facilities and services, early intervention children and their families experienced their first HSR ride, with staff providing guidance and encouragement to ensure smooth boarding and seating. The activity aimed to increase social interaction confidence and abilities for the participants.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b3ab7f6c-db0d-450f-a9e4-c887bf55813e)"
+  },
+  {
+    "title": "Senior Artist Falls Due to Inaccessible Ramp, Calls for Thorough Inspection of Accessibility",
+    "slug": "senior-artist-falls-due-to-inaccessible-ramp-calls-for-thorough-inspection-of-ac-3b967fb6",
+    "lang": "en",
+    "summary": "Veteran performer Ban Tie-xiang suffered a complete fracture of his tibia and fibula after tripping on an inaccessible ramp slope in Taipei's Wanhuá district while promoting a new play. He underwent surgery with titanium implants and steel nails, hospitalized for 19 days. Ban returned to the accident site with a city councilor and filed a complaint, urging authorities to thoroughly inspect and rectify accessibility hazards.",
+    "category": "laws-rights",
+    "tags": [
+      "accessibility ramp",
+      "injury",
+      "public safety",
+      "advocacy"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_00a02455-be5d-4926-883c-bb0823d6b2c8",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_00a02455-be5d-4926-883c-bb0823d6b2c8"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-3b967fb6",
+    "status": "published",
+    "translationOf": "senior-artist-falls-due-to-inaccessible-ramp-calls-for-thorough-inspection-of-ac-zh-3b967fb6",
+    "publishedAt": "2026-06-22T08:55:45.000Z",
+    "fetchedAt": "2026-06-23T13:21:47.013Z",
+    "body": "Veteran performer Ban Tie-xiang suffered a complete fracture of his tibia and fibula after tripping on an inaccessible ramp slope in Taipei's Wanhuá district while promoting a new play. He underwent surgery with titanium implants and steel nails, hospitalized for 19 days. Ban returned to the accident site with a city councilor and filed a complaint, urging authorities to thoroughly inspect and rectify accessibility hazards.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_00a02455-be5d-4926-883c-bb0823d6b2c8)"
+  },
+  {
+    "title": "Shinwon Technology Donates Accessible Welfare Vehicle to Improve Medical Access for Miaoli Residents",
+    "slug": "shinwon-technology-donates-accessible-welfare-vehicle-to-improve-medical-access--2168e4df",
+    "lang": "en",
+    "summary": "Shinwon Technology Chairman Huang Guohua donated a welfare vehicle equipped with wheelchair lift and friendly boarding space to Miaoli Hospital, aiming to provide convenient transportation for elderly and disabled individuals seeking medical care. The donation ceremony highlighted the vehicle's role in enhancing healthcare accessibility for mobility-impaired residents.",
+    "category": "assistive-tech",
+    "tags": [
+      "welfare vehicle",
+      "wheelchair lift",
+      "medical transport",
+      "donation"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%8B%9D%E6%96%B0%E7%A7%91%E6%8A%80%E6%8D%90%E8%B4%88%E7%A6%8F%E7%A5%89%E8%BB%8A-%E9%BB%9E%E4%BA%AE%E4%BE%BF%E5%88%A9%E5%B0%B1%E9%86%AB%E4%B9%8B%E8%B7%AF%E8%8B%97%E6%A0%97%E5%AD%90%E5%BC%9F%E5%9B%9E%E9%A5%8B%E9%84%89%E9%87%8C%E5%82%B3%E9%81%9E%E6%84%9B%E8%88%87%E5%B8%8C%E6%9C%9B-082727447.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E5%8B%9D%E6%96%B0%E7%A7%91%E6%8A%80%E6%8D%90%E8%B4%88%E7%A6%8F%E7%A5%89%E8%BB%8A-%E9%BB%9E%E4%BA%AE%E4%BE%BF%E5%88%A9%E5%B0%B1%E9%86%AB%E4%B9%8B%E8%B7%AF%E8%8B%97%E6%A0%97%E5%AD%90%E5%BC%9F%E5%9B%9E%E9%A5%8B%E9%84%89%E9%87%8C%E5%82%B3%E9%81%9E%E6%84%9B%E8%88%87%E5%B8%8C%E6%9C%9B-082727447.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-2168e4df",
+    "status": "published",
+    "translationOf": "shinwon-technology-donates-accessible-welfare-vehicle-to-improve-medical-access--zh-2168e4df",
+    "publishedAt": "2026-06-22T08:27:27.000Z",
+    "fetchedAt": "2026-06-23T13:21:47.108Z",
+    "body": "Shinwon Technology Chairman Huang Guohua donated a welfare vehicle equipped with wheelchair lift and friendly boarding space to Miaoli Hospital, aiming to provide convenient transportation for elderly and disabled individuals seeking medical care. The donation ceremony highlighted the vehicle's role in enhancing healthcare accessibility for mobility-impaired residents.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%8B%9D%E6%96%B0%E7%A7%91%E6%8A%80%E6%8D%90%E8%B4%88%E7%A6%8F%E7%A5%89%E8%BB%8A-%E9%BB%9E%E4%BA%AE%E4%BE%BF%E5%88%A9%E5%B0%B1%E9%86%AB%E4%B9%8B%E8%B7%AF%E8%8B%97%E6%A0%97%E5%AD%90%E5%BC%9F%E5%9B%9E%E9%A5%8B%E9%84%89%E9%87%8C%E5%82%B3%E9%81%9E%E6%84%9B%E8%88%87%E5%B8%8C%E6%9C%9B-082727447.html)"
+  },
+  {
+    "title": "Tainan HSR Station Assists Early Intervention Center Children and Families in Accessible Outdoor Learning Trip",
+    "slug": "tainan-hsr-station-assists-early-intervention-center-children-and-families-in-ac-4f834048",
+    "lang": "en",
+    "summary": "Tainan High Speed Rail station provided assistance to families from the Luwei Early Intervention Center, enabling children with developmental disabilities to experience an accessible HSR ride and outdoor learning activity, utilizing the station's barrier-free facilities and staff support.",
+    "category": "physical-design",
+    "tags": [
+      "高鐵",
+      "無障礙",
+      "早療",
+      "戶外教學",
+      "殘障友善"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E9%AB%98%E9%90%B5%E5%8F%B0%E5%8D%97%E7%AB%99%E5%8A%A9-%E8%98%86%E8%91%A6%E5%95%9F%E6%99%BA%E4%B8%AD%E5%BF%83-%E6%97%A9%E7%99%82%E5%85%92%E7%AB%A5%E8%88%87%E5%AE%B6%E4%BA%BA-%E6%90%AD%E9%AB%98%E9%90%B5%E6%88%B6%E5%A4%96%E6%95%99%E5%AD%B8%E5%BF%AB%E6%A8%82%E9%81%8A-074730499.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%90%B5%E5%8F%B0%E5%8D%97%E7%AB%99%E5%8A%A9-%E8%98%86%E8%91%A6%E5%95%9F%E6%99%BA%E4%B8%AD%E5%BF%83-%E6%97%A9%E7%99%82%E5%85%92%E7%AB%A5%E8%88%87%E5%AE%B6%E4%BA%BA-%E6%90%AD%E9%AB%98%E9%90%B5%E6%88%B6%E5%A4%96%E6%95%99%E5%AD%B8%E5%BF%AB%E6%A8%82%E9%81%8A-074730499.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-4f834048",
+    "status": "published",
+    "translationOf": "tainan-hsr-station-assists-early-intervention-center-children-and-families-in-ac-zh-4f834048",
+    "publishedAt": "2026-06-22T07:47:30.000Z",
+    "fetchedAt": "2026-06-23T13:22:26.700Z",
+    "body": "Tainan High Speed Rail station provided assistance to families from the Luwei Early Intervention Center, enabling children with developmental disabilities to experience an accessible HSR ride and outdoor learning activity, utilizing the station's barrier-free facilities and staff support.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E9%AB%98%E9%90%B5%E5%8F%B0%E5%8D%97%E7%AB%99%E5%8A%A9-%E8%98%86%E8%91%A6%E5%95%9F%E6%99%BA%E4%B8%AD%E5%BF%83-%E6%97%A9%E7%99%82%E5%85%92%E7%AB%A5%E8%88%87%E5%AE%B6%E4%BA%BA-%E6%90%AD%E9%AB%98%E9%90%B5%E6%88%B6%E5%A4%96%E6%95%99%E5%AD%B8%E5%BF%AB%E6%A8%82%E9%81%8A-074730499.html)"
+  },
+  {
+    "title": "Central Budget Delay Threatens Welfare Subsidies for Over 60,000 Disadvantaged Residents in Tainan",
+    "slug": "central-budget-delay-threatens-welfare-subsidies-for-over-60000-disadvantaged-re-8a3b98c5",
+    "lang": "en",
+    "summary": "The central government's budget has not completed legal procedures, putting at risk the scheduled increase of six social welfare subsidies, including disability living allowances, which could affect more than 60,000 disadvantaged citizens in Tainan.",
+    "category": "laws-rights",
+    "tags": [
+      "預算",
+      "社福津貼",
+      "身心障礙者",
+      "弱勢",
+      "權益"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e0fbad76-4a34-4107-8093-122157e13b74",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e0fbad76-4a34-4107-8093-122157e13b74"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-8a3b98c5",
+    "status": "published",
+    "translationOf": "central-budget-delay-threatens-welfare-subsidies-for-over-60000-disadvantaged-re-zh-8a3b98c5",
+    "publishedAt": "2026-06-22T07:31:37.000Z",
+    "fetchedAt": "2026-06-23T13:22:26.823Z",
+    "body": "The central government's budget has not completed legal procedures, putting at risk the scheduled increase of six social welfare subsidies, including disability living allowances, which could affect more than 60,000 disadvantaged citizens in Tainan.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e0fbad76-4a34-4107-8093-122157e13b74)"
+  },
+  {
+    "title": "Man Injured Due to Inaccessible Slope Sues Landlord, Claims Millions in Losses",
+    "slug": "man-injured-due-to-inaccessible-slope-sues-landlord-claims-millions-in-losses-64d214a1",
+    "lang": "en",
+    "summary": "A 68-year-old man fell while walking on a non‑accessible slope stairway in Taipei’s Ximen district, sustaining leg fractures requiring surgery and hospitalization; he now uses a wheelchair to protest the landlord, alleging losses of over NT$10 million.",
+    "category": "physical-design",
+    "tags": [
+      "無障礙斜坡",
+      "跌倒",
+      "輪椅",
+      "土地責任",
+      "損失賠償"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/68%E6%AD%B2%E7%8F%AD%E9%90%B5%E7%BF%94%E8%A5%BF%E9%96%80%E7%94%BA%E6%85%98%E6%91%94%E4%BD%8F%E9%99%A219%E5%A4%A9-%E5%9D%90%E8%BC%AA%E6%A4%85%E6%8E%A7%E8%A8%B4-%E6%90%8D%E5%A4%B1%E4%B8%8A%E5%8D%83%E8%90%AC-065000592.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/68%E6%AD%B2%E7%8F%AD%E9%90%B5%E7%BF%94%E8%A5%BF%E9%96%80%E7%94%BA%E6%85%98%E6%91%94%E4%BD%8F%E9%99%A219%E5%A4%A9-%E5%9D%90%E8%BC%AA%E6%A4%85%E6%8E%A7%E8%A8%B4-%E6%90%8D%E5%A4%B1%E4%B8%8A%E5%8D%83%E8%90%AC-065000592.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-64d214a1",
+    "status": "published",
+    "translationOf": "man-injured-due-to-inaccessible-slope-sues-landlord-claims-millions-in-losses-zh-64d214a1",
+    "publishedAt": "2026-06-22T06:50:00.000Z",
+    "fetchedAt": "2026-06-23T13:22:26.917Z",
+    "body": "A 68-year-old man fell while walking on a non‑accessible slope stairway in Taipei’s Ximen district, sustaining leg fractures requiring surgery and hospitalization; he now uses a wheelchair to protest the landlord, alleging losses of over NT$10 million.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/68%E6%AD%B2%E7%8F%AD%E9%90%B5%E7%BF%94%E8%A5%BF%E9%96%80%E7%94%BA%E6%85%98%E6%91%94%E4%BD%8F%E9%99%A219%E5%A4%A9-%E5%9D%90%E8%BC%AA%E6%A4%85%E6%8E%A7%E8%A8%B4-%E6%90%8D%E5%A4%B1%E4%B8%8A%E5%8D%83%E8%90%AC-065000592.html)"
+  },
+  {
+    "title": "Social Welfare Subsidy Increase Stalled Due to Unapproved Budget, Over 60,000 Disadvantaged Residents in Tainan Affected",
+    "slug": "social-welfare-subsidy-increase-stalled-due-to-unapproved-budget-over-60000-disa-24c8ecc9",
+    "lang": "en",
+    "summary": "The Executive Yuan approved in March a plan to increase six social welfare subsidies, including disability, low-income elderly and disadvantaged children, by up to 23.5% starting July. However, the central government's budget has not yet passed legal review, risking delayed disbursement. In Tainan, over 60,000 disadvantaged citizens may be impacted, leaving families frustrated that they can see the increase but not receive it.",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "social welfare",
+      "budget",
+      "subsidy",
+      "Tainan"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_be8cbf04-1f39-4630-bd61-fe809e7bdcde",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_be8cbf04-1f39-4630-bd61-fe809e7bdcde"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-24c8ecc9",
+    "status": "published",
+    "translationOf": "social-welfare-subsidy-increase-stalled-due-to-unapproved-budget-over-60000-disa-zh-24c8ecc9",
+    "publishedAt": "2026-06-22T04:49:55.000Z",
+    "fetchedAt": "2026-06-23T13:22:35.068Z",
+    "body": "The Executive Yuan approved in March a plan to increase six social welfare subsidies, including disability, low-income elderly and disadvantaged children, by up to 23.5% starting July. However, the central government's budget has not yet passed legal review, risking delayed disbursement. In Tainan, over 60,000 disadvantaged citizens may be impacted, leaving families frustrated that they can see the increase but not receive it.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_be8cbf04-1f39-4630-bd61-fe809e7bdcde)"
   }
 ]
