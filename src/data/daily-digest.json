@@ -1,39 +1,47 @@
 {
-  "date": "2026-06-22",
-  "generatedAt": "2026-06-22T01:40:37.102Z",
+  "date": "2026-06-24",
+  "generatedAt": "2026-06-24T01:21:17.086Z",
   "en": {
-    "title": "New Vehicle Accessibility Grant Launched; CSS Guide and Park Board Improve Disability Access",
-    "summary": "A provincial government has launched a grant program to fund vehicle accessibility modifications for people with disabilities, addressing mobility barriers. Meanwhile, a practical guide on CSS Grid and Flexbox now includes accessibility strategies for inclusive web design, and a communication board installed at Hasbrouck Park in New Paltz enhances access for individuals with communication disabilities. Together, these efforts highlight advancing accessibility across transportation, digital, and public spaces.",
+    "title": "Disney Denies Veteran DAS Access; Microsoft Updates SharePoint; Major Accessibility Projects Advance",
+    "summary": "Disney denied a PTSD veteran's Disability Access Service accommodation despite prior approval, sparking criticism. Microsoft announced a SharePoint visual refresh to improve accessibility across Microsoft 365, while St. George’s completed a $3M renovation and Boone County Fair added accessible pathways and services. Experts note accessibility 2.0 is becoming a leadership conversation across sectors.",
     "highlights": [
       {
-        "title": "Province Launches Vehicle Accessibility Grant Program",
-        "slug": "province-launches-vehicle-accessibility-grant-program-d7837808"
+        "title": "Disney Denies DAS Accommodations to PTSD Veteran Despite Prior Approval",
+        "slug": "disney-denies-das-accommodations-to-ptsd-veteran-despite-prior-approval-f9cce4dd"
       },
       {
-        "title": "Guide to CSS Grid and Flexbox Includes Accessibility Strategies",
-        "slug": "guide-to-css-grid-and-flexbox-includes-accessibility-strategies-e63370e2"
+        "title": "Microsoft Refreshes SharePoint Design to Improve Accessibility",
+        "slug": "microsoft-refreshes-sharepoint-design-to-improve-accessibility-7100858c"
       },
       {
-        "title": "Communication board at Hasbrouck Park in New Paltz improves accessibility",
-        "slug": "communication-board-at-hasbrouck-park-in-new-paltz-improves-accessibility-03c404d7"
+        "title": "St. George’s undergoes $3M accessibility makeover",
+        "slug": "st-georges-undergoes-3m-accessibility-makeover-d43bd1ca"
+      },
+      {
+        "title": "Accessibility 2.0 Is Becoming A Leadership Conversation",
+        "slug": "accessibility-20-is-becoming-a-leadership-conversation-17a0295b"
       }
     ]
   },
   "zh-TW": {
-    "title": "省政府推出車輛無障礙補助；CSS指南及公園溝通板提升無障礙",
-    "summary": "省政府近日推出車輛無障礙補助計畫，旨在為殘障人士資助車輛改造，減少移動障礙。同時，CSS Grid 與 Flexbox 實用指南新增無障礙策略，以支援包容性網頁設計；紐帕爾茨 Hasbrouck 公園的溝通板則提升溝通障礙人士的無障礙程度。這些措施共同推進交通、數位與公共空間的無障礙環境。",
+    "title": "Disney 拒絕 PTSD 退伍軍人 DAS；微軟更新 SharePoint；多項無障礙項目進展",
+    "summary": "Disney 拒絕一名患有 PTSD 的退伍軍人使用 DAS 便利設施，儘管事先已獲批准，引發爭議。微軟宣布對 SharePoint 進行視覺更新以提升無障礙性，同時 St. George’s 完成 300 萬美元無障礙翻修，Boone County 博覽會增設無障礙通道與服務。業界指出無障礙 2.0 正成為各領導層討論的重點。",
     "highlights": [
       {
-        "title": "省政府推出車輛無障礙補助計畫",
-        "slug": "province-launches-vehicle-accessibility-grant-program-zh-d7837808"
+        "title": "Disney 拒絕為 PTSD 退伍軍人提供 DAS 便利設施，儘管事先已獲批准",
+        "slug": "disney-denies-das-accommodations-to-ptsd-veteran-despite-prior-approval-zh-f9cce4dd"
       },
       {
-        "title": "CSS Grid 與 Flexbox 指南包含無障礙策略",
-        "slug": "guide-to-css-grid-and-flexbox-includes-accessibility-strategies-zh-e63370e2"
+        "title": "Microsoft 更新 SharePoint 設計以提升無障礙性",
+        "slug": "microsoft-refreshes-sharepoint-design-to-improve-accessibility-zh-7100858c"
       },
       {
-        "title": "紐帕爾茨 Hasbrouck 公園的溝通板提升無障礙程度",
-        "slug": "communication-board-at-hasbrouck-park-in-new-paltz-improves-accessibility-zh-03c404d7"
+        "title": "St. George’s 進行300萬美元無障礙改造",
+        "slug": "st-georges-undergoes-3m-accessibility-makeover-zh-d43bd1ca"
+      },
+      {
+        "title": "可及性 2.0 正成為領導層的討論話題",
+        "slug": "accessibility-20-is-becoming-a-leadership-conversation-zh-17a0295b"
       }
     ]
   }
