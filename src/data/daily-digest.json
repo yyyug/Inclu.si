@@ -1,47 +1,55 @@
 {
-  "date": "2026-06-24",
-  "generatedAt": "2026-06-24T01:21:17.086Z",
+  "date": "2026-06-26",
+  "generatedAt": "2026-06-26T01:29:08.521Z",
   "en": {
-    "title": "Disney Denies Veteran DAS Access; Microsoft Updates SharePoint; Major Accessibility Projects Advance",
-    "summary": "Disney denied a PTSD veteran's Disability Access Service accommodation despite prior approval, sparking criticism. Microsoft announced a SharePoint visual refresh to improve accessibility across Microsoft 365, while St. George’s completed a $3M renovation and Boone County Fair added accessible pathways and services. Experts note accessibility 2.0 is becoming a leadership conversation across sectors.",
+    "title": "ShareFile Gains Accessible Collaboration Tools Amid Disability Tech Advances",
+    "summary": "Applause and Progress Software have launched accessibility features for ShareFile, enabling accessible collaboration for users with disabilities worldwide. Meanwhile, Rockaway Beach, Oregon became the first U.S. community to finish a destination-wide accessibility audit for short-term rentals, and Penn researchers secured a Google grant to enhance medical imaging accessibility. Additional coverage includes an autism hub turning research into real‑world support and a wheelchair dancer’s experience with the Royal Ballet.",
     "highlights": [
       {
-        "title": "Disney Denies DAS Accommodations to PTSD Veteran Despite Prior Approval",
-        "slug": "disney-denies-das-accommodations-to-ptsd-veteran-despite-prior-approval-f9cce4dd"
+        "title": "Applause and Progress Software Enable Accessible Collaboration for ShareFile Users Worldwide",
+        "slug": "applause-and-progress-software-enable-accessible-collaboration-for-sharefile-use-2d2e206a"
       },
       {
-        "title": "Microsoft Refreshes SharePoint Design to Improve Accessibility",
-        "slug": "microsoft-refreshes-sharepoint-design-to-improve-accessibility-7100858c"
+        "title": "Rockaway Beach, Oregon becomes first U.S. community to complete destination-wide accessibility audit for short-term rentals",
+        "slug": "rockaway-beach-oregon-becomes-first-us-community-to-complete-destination-wide-ac-dc4276b0"
       },
       {
-        "title": "St. George’s undergoes $3M accessibility makeover",
-        "slug": "st-georges-undergoes-3m-accessibility-makeover-d43bd1ca"
+        "title": "Penn researchers awarded Google grant to improve medical imaging accessibility",
+        "slug": "penn-researchers-awarded-google-grant-to-improve-medical-imaging-accessibility-c2b20d72"
       },
       {
-        "title": "Accessibility 2.0 Is Becoming A Leadership Conversation",
-        "slug": "accessibility-20-is-becoming-a-leadership-conversation-17a0295b"
+        "title": "Autism hub turns research into real-world support",
+        "slug": "autism-hub-turns-research-into-real-world-support-5cb39bbc"
+      },
+      {
+        "title": "'Like swimming through the air': my thrilling role in Giselle with the Royal Ballet School’s wheelchair dancers",
+        "slug": "like-swimming-through-the-air-my-thrilling-role-in-giselle-with-the-royal-ballet-38051b23"
       }
     ]
   },
   "zh-TW": {
-    "title": "Disney 拒絕 PTSD 退伍軍人 DAS；微軟更新 SharePoint；多項無障礙項目進展",
-    "summary": "Disney 拒絕一名患有 PTSD 的退伍軍人使用 DAS 便利設施，儘管事先已獲批准，引發爭議。微軟宣布對 SharePoint 進行視覺更新以提升無障礙性，同時 St. George’s 完成 300 萬美元無障礙翻修，Boone County 博覽會增設無障礙通道與服務。業界指出無障礙 2.0 正成為各領導層討論的重點。",
+    "title": "ShareFile 加入無障礙協作功能，殘障科技進展多元",
+    "summary": "Applause 與 Progress Software 為 ShareFile 推出無障礙協作功能，讓全球殘障使用者能夠無障礙協作。岩瓦海灘完成美國首個短租目的地全域無障礙審計，賓夕法尼亞大學獲 Google 贊助金改善醫學影像無障礙。此外，自閉症知識中心將研究轉化為實際支援，以及一位輪椅舞者分享在皇家芭蕾學校的體驗。",
     "highlights": [
       {
-        "title": "Disney 拒絕為 PTSD 退伍軍人提供 DAS 便利設施，儘管事先已獲批准",
-        "slug": "disney-denies-das-accommodations-to-ptsd-veteran-despite-prior-approval-zh-f9cce4dd"
+        "title": "Applause 和 Progress Software 使 ShareFile 用户全球实现无障碍协作",
+        "slug": "applause-and-progress-software-enable-accessible-collaboration-for-sharefile-use-zh-2d2e206a"
       },
       {
-        "title": "Microsoft 更新 SharePoint 設計以提升無障礙性",
-        "slug": "microsoft-refreshes-sharepoint-design-to-improve-accessibility-zh-7100858c"
+        "title": "俄勒冈州岩瓦海滩成为美国首个完成短租目的地范围无障碍审计的社区",
+        "slug": "rockaway-beach-oregon-becomes-first-us-community-to-complete-destination-wide-ac-zh-dc4276b0"
       },
       {
-        "title": "St. George’s 進行300萬美元無障礙改造",
-        "slug": "st-georges-undergoes-3m-accessibility-makeover-zh-d43bd1ca"
+        "title": "賓夕法尼亞大學研究員獲得 Google 贊助金以改善醫學影像無障礙",
+        "slug": "penn-researchers-awarded-google-grant-to-improve-medical-imaging-accessibility-zh-c2b20d72"
       },
       {
-        "title": "可及性 2.0 正成為領導層的討論話題",
-        "slug": "accessibility-20-is-becoming-a-leadership-conversation-zh-17a0295b"
+        "title": "自閉症知識中心將研究轉化為實際支援",
+        "slug": "autism-hub-turns-research-into-real-world-support-zh-5cb39bbc"
+      },
+      {
+        "title": "「如在空中游泳」：我在皇家芭蕾學校輪椅舞者中的吉賽爾體驗",
+        "slug": "like-swimming-through-the-air-my-thrilling-role-in-giselle-with-the-royal-ballet-zh-38051b23"
       }
     ]
   }
