@@ -1,55 +1,39 @@
 {
-  "date": "2026-06-26",
-  "generatedAt": "2026-06-26T01:29:08.521Z",
+  "date": "2026-06-27",
+  "generatedAt": "2026-06-27T01:25:23.727Z",
   "en": {
-    "title": "ShareFile Gains Accessible Collaboration Tools Amid Disability Tech Advances",
-    "summary": "Applause and Progress Software have launched accessibility features for ShareFile, enabling accessible collaboration for users with disabilities worldwide. Meanwhile, Rockaway Beach, Oregon became the first U.S. community to finish a destination-wide accessibility audit for short-term rentals, and Penn researchers secured a Google grant to enhance medical imaging accessibility. Additional coverage includes an autism hub turning research into real‑world support and a wheelchair dancer’s experience with the Royal Ballet.",
+    "title": "DOJ Extends Accessibility Deadline, Hearing Tech Installed, Seattle Agent Honored",
+    "summary": "The U.S. Department of Justice has extended the deadline for compliance with accessibility regulations, outlining what changes and what remains unchanged. In Ontario, a new hearing accessibility technology was installed at a veterans unit with a $192,100 grant. Meanwhile, a Seattle real estate agent received a fair housing honor for a decade‑long effort to improve accessibility in housing.",
     "highlights": [
       {
-        "title": "Applause and Progress Software Enable Accessible Collaboration for ShareFile Users Worldwide",
-        "slug": "applause-and-progress-software-enable-accessible-collaboration-for-sharefile-use-2d2e206a"
+        "title": "The DOJ Extended the Accessibility Deadline. What That Means and What Hasn’t Changed.",
+        "slug": "the-doj-extended-the-accessibility-deadline-what-that-means-and-what-hasnt-chang-8335f6ed"
       },
       {
-        "title": "Rockaway Beach, Oregon becomes first U.S. community to complete destination-wide accessibility audit for short-term rentals",
-        "slug": "rockaway-beach-oregon-becomes-first-us-community-to-complete-destination-wide-ac-dc4276b0"
+        "title": "Hearing Accessibility Technology Installed at ANAF Unit 261",
+        "slug": "hearing-accessibility-technology-installed-at-anaf-unit-261-63500d4b"
       },
       {
-        "title": "Penn researchers awarded Google grant to improve medical imaging accessibility",
-        "slug": "penn-researchers-awarded-google-grant-to-improve-medical-imaging-accessibility-c2b20d72"
-      },
-      {
-        "title": "Autism hub turns research into real-world support",
-        "slug": "autism-hub-turns-research-into-real-world-support-5cb39bbc"
-      },
-      {
-        "title": "'Like swimming through the air': my thrilling role in Giselle with the Royal Ballet School’s wheelchair dancers",
-        "slug": "like-swimming-through-the-air-my-thrilling-role-in-giselle-with-the-royal-ballet-38051b23"
+        "title": "Decade-long accessibility push earns Seattle agent fair housing honor",
+        "slug": "decade-long-accessibility-push-earns-seattle-agent-fair-housing-honor-60ae3a76"
       }
     ]
   },
   "zh-TW": {
-    "title": "ShareFile 加入無障礙協作功能，殘障科技進展多元",
-    "summary": "Applause 與 Progress Software 為 ShareFile 推出無障礙協作功能，讓全球殘障使用者能夠無障礙協作。岩瓦海灘完成美國首個短租目的地全域無障礙審計，賓夕法尼亞大學獲 Google 贊助金改善醫學影像無障礙。此外，自閉症知識中心將研究轉化為實際支援，以及一位輪椅舞者分享在皇家芭蕾學校的體驗。",
+    "title": "司法部延長無障礙期限，西雅圖榮譽及日本推文譴責嘲諷",
+    "summary": "司法部已延長無障礙合規期限，說明哪些內容變動與哪些保持不變。西雅圖房地產經紀人因十年推動無障礙住房獲得公平住房榮譽。此外，一則日本推文譴責對殘障人士與女性的嘲諷，呼籲停止此類行為。",
     "highlights": [
       {
-        "title": "Applause 和 Progress Software 使 ShareFile 用户全球实现无障碍协作",
-        "slug": "applause-and-progress-software-enable-accessible-collaboration-for-sharefile-use-zh-2d2e206a"
+        "title": "司法部延長無障礙期限。這意味著什麼以及什麼沒有改變。",
+        "slug": "the-doj-extended-the-accessibility-deadline-what-that-means-and-what-hasnt-chang-zh-8335f6ed"
       },
       {
-        "title": "俄勒冈州岩瓦海滩成为美国首个完成短租目的地范围无障碍审计的社区",
-        "slug": "rockaway-beach-oregon-becomes-first-us-community-to-complete-destination-wide-ac-zh-dc4276b0"
+        "title": "西雅圖經紀人因十年無障礙推動獲得公平住房榮譽",
+        "slug": "decade-long-accessibility-push-earns-seattle-agent-fair-housing-honor-zh-60ae3a76"
       },
       {
-        "title": "賓夕法尼亞大學研究員獲得 Google 贊助金以改善醫學影像無障礙",
-        "slug": "penn-researchers-awarded-google-grant-to-improve-medical-imaging-accessibility-zh-c2b20d72"
-      },
-      {
-        "title": "自閉症知識中心將研究轉化為實際支援",
-        "slug": "autism-hub-turns-research-into-real-world-support-zh-5cb39bbc"
-      },
-      {
-        "title": "「如在空中游泳」：我在皇家芭蕾學校輪椅舞者中的吉賽爾體驗",
-        "slug": "like-swimming-through-the-air-my-thrilling-role-in-giselle-with-the-royal-ballet-zh-38051b23"
+        "title": "日本推文譴責嘲諷殘障人士與女性",
+        "slug": "japanese-tweet-condemns-mocking-of-disabled-people-and-women-zh-df018cad"
       }
     ]
   }
