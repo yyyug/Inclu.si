@@ -388,5 +388,38 @@
     "publishedAt": "2026-03-10T07:00:00.000Z",
     "fetchedAt": "2026-06-02T04:59:17.932Z",
     "body": "Chiayi County's Social Bureau will strengthen accessibility services by offering 100 wheelchairs for convenient viewing at the 2026 Taiwan Lantern Festival.\n\nRead more from the original source: [2026taiwanlanternfestival.org](https://2026taiwanlanternfestival.org/Item/Detail/8389dd02-77a7-4fda-a8a7-29189ddd3bb4)"
+  },
+  {
+    "title": "2026 Taipei Accessibility Facility Improvement Subsidy Accepting Applications",
+    "slug": "2026-taipei-accessibility-facility-improvement-subsidy-accepting-applications-b2732c63",
+    "lang": "en",
+    "summary": "Taipei announces a 2026 subsidy program to improve accessibility facilities, inviting applications from property owners and developers to enhance physical access for people with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "Taipei",
+      "accessibility subsidy",
+      "facility improvement",
+      "disability access"
+    ],
+    "sourceName": "AN不動產新聞網",
+    "sourceUrl": "https://annewsmedia.com/2026/03/05/regional-focus/16647",
+    "relatedSources": [
+      {
+        "name": "AN不動產新聞網",
+        "url": "https://annewsmedia.com/2026/03/05/regional-focus/16647"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-b2732c63",
+    "status": "published",
+    "translationOf": "2026-taipei-accessibility-facility-improvement-subsidy-accepting-applications-zh-b2732c63",
+    "publishedAt": "2026-03-05T08:00:00.000Z",
+    "fetchedAt": "2026-06-27T12:44:29.576Z",
+    "body": "Taipei announces a 2026 subsidy program to improve accessibility facilities, inviting applications from property owners and developers to enhance physical access for people with disabilities.\n\nRead more from the original source: [AN不動產新聞網](https://annewsmedia.com/2026/03/05/regional-focus/16647)"
   }
 ]
