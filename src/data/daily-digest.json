@@ -1,39 +1,39 @@
 {
-  "date": "2026-06-27",
-  "generatedAt": "2026-06-27T01:25:23.727Z",
+  "date": "2026-06-28",
+  "generatedAt": "2026-06-28T01:30:16.130Z",
   "en": {
-    "title": "DOJ Extends Accessibility Deadline, Hearing Tech Installed, Seattle Agent Honored",
-    "summary": "The U.S. Department of Justice has extended the deadline for compliance with accessibility regulations, outlining what changes and what remains unchanged. In Ontario, a new hearing accessibility technology was installed at a veterans unit with a $192,100 grant. Meanwhile, a Seattle real estate agent received a fair housing honor for a decade‑long effort to improve accessibility in housing.",
+    "title": "Tokyo adopts ME/CFS disability certification; Microsoft and Google advance accessibility features",
+    "summary": "Tokyo has begun using the FUNCAP evaluation method for issuing disability handbooks related to ME/CFS, incorporating post‑exertional malaise criteria. Meanwhile, Microsoft is testing a new Screen Tint feature in Windows 11 that provides customizable color overlays to reduce eye strain, and Google Photos is preparing a fix for its accessibility problem that hinders users with disabilities.",
     "highlights": [
       {
-        "title": "The DOJ Extended the Accessibility Deadline. What That Means and What Hasn’t Changed.",
-        "slug": "the-doj-extended-the-accessibility-deadline-what-that-means-and-what-hasnt-chang-8335f6ed"
+        "title": "Tokyo adopts FUNCAP for ME/CFS disability certification",
+        "slug": "tokyo-adopts-funcap-for-mecfs-disability-certification-37dd521f"
       },
       {
-        "title": "Hearing Accessibility Technology Installed at ANAF Unit 261",
-        "slug": "hearing-accessibility-technology-installed-at-anaf-unit-261-63500d4b"
+        "title": "Microsoft tests Screen Tint accessibility feature in Windows 11",
+        "slug": "microsoft-tests-screen-tint-accessibility-feature-in-windows-11-72e1e4ec"
       },
       {
-        "title": "Decade-long accessibility push earns Seattle agent fair housing honor",
-        "slug": "decade-long-accessibility-push-earns-seattle-agent-fair-housing-honor-60ae3a76"
+        "title": "Google Photos has an accessibility problem, but a fix is finally on the way",
+        "slug": "google-photos-has-an-accessibility-problem-but-a-fix-is-finally-on-the-way-aa14bfa2"
       }
     ]
   },
   "zh-TW": {
-    "title": "司法部延長無障礙期限，西雅圖榮譽及日本推文譴責嘲諷",
-    "summary": "司法部已延長無障礙合規期限，說明哪些內容變動與哪些保持不變。西雅圖房地產經紀人因十年推動無障礙住房獲得公平住房榮譽。此外，一則日本推文譴責對殘障人士與女性的嘲諷，呼籲停止此類行為。",
+    "title": "東京採用ME/CFS殘障認證；微軟與Google推進無障礙功能",
+    "summary": "東京已開始使用FUNCAP評估方法，針對ME/CFS發放身心障礙手冊，並納入運動後不適症狀標準。同時，微軟正在Windows 11測試新的Screen Tint功能，提供可自訂的顏色覆蓋層以減輕眼睛疲勞；Google Photos則正在修復影響殘障使用者的無障礙問題。",
     "highlights": [
       {
-        "title": "司法部延長無障礙期限。這意味著什麼以及什麼沒有改變。",
-        "slug": "the-doj-extended-the-accessibility-deadline-what-that-means-and-what-hasnt-chang-zh-8335f6ed"
+        "title": "東京採用 FUNCAP 進行 ME/CFS 殘障認證",
+        "slug": "tokyo-adopts-funcap-for-mecfs-disability-certification-zh-37dd521f"
       },
       {
-        "title": "西雅圖經紀人因十年無障礙推動獲得公平住房榮譽",
-        "slug": "decade-long-accessibility-push-earns-seattle-agent-fair-housing-honor-zh-60ae3a76"
+        "title": "Microsoft 在 Windows 11 測試 Screen Tint 無障礙功能",
+        "slug": "microsoft-tests-screen-tint-accessibility-feature-in-windows-11-zh-72e1e4ec"
       },
       {
-        "title": "日本推文譴責嘲諷殘障人士與女性",
-        "slug": "japanese-tweet-condemns-mocking-of-disabled-people-and-women-zh-df018cad"
+        "title": "Google Photos 存在無障礙問題，但修復即將推出",
+        "slug": "google-photos-has-an-accessibility-problem-but-a-fix-is-finally-on-the-way-zh-aa14bfa2"
       }
     ]
   }
