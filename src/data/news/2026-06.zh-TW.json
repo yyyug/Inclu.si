@@ -115800,5 +115800,206 @@
     "publishedAt": "2026-06-27T14:25:01.000Z",
     "fetchedAt": "2026-06-28T07:54:56.343Z",
     "body": "猶他州盲人協會宣布與 Soul Taxi 合作，為南猶他州的盲人或視障人士提供無障礙交通選項，並接受 UCB 計程車優惠券。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2070876057755078852)\n外部連結： [https://utahblind.org/cabcoupon.html](https://utahblind.org/cabcoupon.html)"
+  },
+  {
+    "title": "哈德遜谷公園如何變得更適合所有人",
+    "slug": "how-hudson-valley-parks-are-becoming-more-accessible-to-all-zh-83ebb4da",
+    "lang": "zh-TW",
+    "summary": "哈德遜谷的公園正在提升無障礙設施，包括步道、設施和節目，以容納殘障人士，使戶外休閒更具包容性。",
+    "category": "physical-design",
+    "tags": [
+      "Hudson Valley",
+      "parks",
+      "accessibility",
+      "outdoor recreation",
+      "disability inclusion"
+    ],
+    "sourceName": "Chronogram Magazine",
+    "sourceUrl": "https://www.chronogram.com/lifestyle/outdoors/hudson-valley-parks-accessibility-disability-access",
+    "relatedSources": [
+      {
+        "name": "Chronogram Magazine",
+        "url": "https://www.chronogram.com/lifestyle/outdoors/hudson-valley-parks-accessibility-disability-access"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-83ebb4da",
+    "status": "published",
+    "translationOf": "how-hudson-valley-parks-are-becoming-more-accessible-to-all-83ebb4da",
+    "publishedAt": "2026-06-28T08:16:00.000Z",
+    "fetchedAt": "2026-06-28T12:44:06.788Z",
+    "body": "哈德遜谷的公園正在提升無障礙設施，包括步道、設施和節目，以容納殘障人士，使戶外休閒更具包容性。\n\n原文來源： [Chronogram Magazine](https://www.chronogram.com/lifestyle/outdoors/hudson-valley-parks-accessibility-disability-access)"
+  },
+  {
+    "title": "[提供無障礙旅遊的園區|全台18處國家森林遊樂區「無障礙步道路線」，暢遊山林推嬰兒車、坐輪椅享受森林浴無礙！",
+    "slug": "providing-accessible-tourism-18-national-forest-recreation-areas-in-taiwan-offer-zh-50b242c6",
+    "lang": "zh-TW",
+    "summary": "全台18處國家森林遊樂區設置無障礙步道路線，適合推嬰兒車或坐輪椅的遊客，可無障礙地享受森林浴，推動無障礙自然旅遊。",
+    "category": "physical-design",
+    "tags": [
+      "Taiwan",
+      "national forest",
+      "accessible trails",
+      "wheelchair",
+      "stroller",
+      "forest bathing",
+      "inclusive tourism"
+    ],
+    "sourceName": "LINE TODAY",
+    "sourceUrl": "https://today.line.me/tw/v3/article/2DB3Y2j?referral=TOPIC-flowering",
+    "relatedSources": [
+      {
+        "name": "LINE TODAY",
+        "url": "https://today.line.me/tw/v3/article/2DB3Y2j?referral=TOPIC-flowering"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-50b242c6",
+    "status": "published",
+    "translationOf": "providing-accessible-tourism-18-national-forest-recreation-areas-in-taiwan-offer-50b242c6",
+    "publishedAt": "2026-06-28T11:18:19.000Z",
+    "fetchedAt": "2026-06-28T12:44:06.936Z",
+    "body": "全台18處國家森林遊樂區設置無障礙步道路線，適合推嬰兒車或坐輪椅的遊客，可無障礙地享受森林浴，推動無障礙自然旅遊。\n\n原文來源： [LINE TODAY](https://today.line.me/tw/v3/article/2DB3Y2j?referral=TOPIC-flowering)"
+  },
+  {
+    "title": "可訪問 AI MCP 伺服器 1.0.14",
+    "slug": "accessibility-ai-mcp-1014-zh-40c26a4e",
+    "lang": "zh-TW",
+    "summary": "Accessibility AI MCP 伺服器，提供工具：檢查色彩對比、建議替代文字、檢查標題階層。",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "color contrast",
+      "alt text",
+      "heading hierarchy"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/accessibility-ai-mcp/1.0.14",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/accessibility-ai-mcp/1.0.14"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-40c26a4e",
+    "status": "published",
+    "translationOf": "accessibility-ai-mcp-1014-40c26a4e",
+    "publishedAt": "2026-06-27T05:36:01.000Z",
+    "fetchedAt": "2026-06-28T12:45:00.426Z",
+    "body": "Accessibility AI MCP 伺服器，提供工具：檢查色彩對比、建議替代文字、檢查標題階層。\n\n原文來源： [Pypi.org](https://pypi.org/project/accessibility-ai-mcp/1.0.14)"
+  },
+  {
+    "title": "替代文字 LLM 1.6.3",
+    "slug": "alt-text-llm-163-zh-ef1f7d1f",
+    "lang": "zh-TW",
+    "summary": "以 AI 為驅動的可訪問文字生成與標註工具，適用於 Markdown 內容。",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "alt text",
+      "markdown"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/alt-text-llm/1.6.3",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/alt-text-llm/1.6.3"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-ef1f7d1f",
+    "status": "published",
+    "translationOf": "alt-text-llm-163-ef1f7d1f",
+    "publishedAt": "2026-06-27T04:44:10.000Z",
+    "fetchedAt": "2026-06-28T12:45:00.565Z",
+    "body": "以 AI 為驅動的可訪問文字生成與標註工具，適用於 Markdown 內容。\n\n原文來源： [Pypi.org](https://pypi.org/project/alt-text-llm/1.6.3)"
+  },
+  {
+    "title": "桃市身障代表隊奪22金創3項全國紀錄 持續打造友善運動環境",
+    "slug": "taoyuan-city-disability-sports-team-wins-22-gold-medals-sets-three-national-reco-zh-de6aaf06",
+    "lang": "zh-TW",
+    "summary": "桃園市副市長王明鉅出席115年全國身心障礙國民運動會慶功頒獎典禮，代表隊奪得22金、20銀、21銅，創下三項全國紀錄、五項大會紀錄。市府將持續推動身心障礙者平權，整合交通、教育、醫療、社福資源，打造更完善支持系統，讓每位市民享有運動及社會生活機會。王明鉅亦恭賀獲獎選手，感謝體育局、教練團隊及後勤人員，並將優化運動場館、完善無障礙設施。",
+    "category": "physical-design",
+    "tags": [
+      "disability sports",
+      "Taoyuan",
+      "accessible sports facilities",
+      "inclusion"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cd639f86-d8d6-43c5-b932-ac7b80a3e2cd",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cd639f86-d8d6-43c5-b932-ac7b80a3e2cd"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-de6aaf06",
+    "status": "published",
+    "translationOf": "taoyuan-city-disability-sports-team-wins-22-gold-medals-sets-three-national-reco-de6aaf06",
+    "publishedAt": "2026-06-27T10:01:05.000Z",
+    "fetchedAt": "2026-06-28T12:45:00.679Z",
+    "body": "桃園市副市長王明鉅出席115年全國身心障礙國民運動會慶功頒獎典禮，代表隊奪得22金、20銀、21銅，創下三項全國紀錄、五項大會紀錄。市府將持續推動身心障礙者平權，整合交通、教育、醫療、社福資源，打造更完善支持系統，讓每位市民享有運動及社會生活機會。王明鉅亦恭賀獲獎選手，感謝體育局、教練團隊及後勤人員，並將優化運動場館、完善無障礙設施。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cd639f86-d8d6-43c5-b932-ac7b80a3e2cd)"
+  },
+  {
+    "title": "桃市身障代表隊奪22金創3項全國紀錄 打造友善運動環境",
+    "slug": "taoyuan-city-disabled-sports-team-wins-22-gold-medals-sets-three-national-record-zh-e6605fc8",
+    "lang": "zh-TW",
+    "summary": "桃園市副市長王明鉅表示，桃園市代表隊在115年全國身心障礙國民運動會中奪得22金、20銀、21銅，創下3項全國紀錄、5項大會紀錄。市府將持續推動身心障礙者平權，整合交通、教育、醫療、社福資源，打造更完善的支持系統，優化運動場館、完善無障礙設施及友善使用環境，讓每位市民都能享有運動及社會生活的機會。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability sports",
+      "accessible facilities",
+      "Taoyuan City",
+      "National Disabled Sports Games"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_842c84da-e399-4ea5-9171-ede9a057a482",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_842c84da-e399-4ea5-9171-ede9a057a482"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-e6605fc8",
+    "status": "published",
+    "translationOf": "taoyuan-city-disabled-sports-team-wins-22-gold-medals-sets-three-national-record-e6605fc8",
+    "publishedAt": "2026-06-27T08:48:33.000Z",
+    "fetchedAt": "2026-06-28T12:45:12.530Z",
+    "body": "桃園市副市長王明鉅表示，桃園市代表隊在115年全國身心障礙國民運動會中奪得22金、20銀、21銅，創下3項全國紀錄、5項大會紀錄。市府將持續推動身心障礙者平權，整合交通、教育、醫療、社福資源，打造更完善的支持系統，優化運動場館、完善無障礙設施及友善使用環境，讓每位市民都能享有運動及社會生活的機會。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_842c84da-e399-4ea5-9171-ede9a057a482)"
   }
 ]
