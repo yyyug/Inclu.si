@@ -111451,5 +111451,143 @@
     "publishedAt": "2026-06-27T14:20:13.000Z",
     "fetchedAt": "2026-06-27T19:02:49.010Z",
     "body": "猶他州盲人協會提供 UCB Buzz 新聞簡報，內含活動、資源與倡導工作的最新資訊。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2070874847866134772)\n外部連結： [https://utahblind.org/chimp.html](https://utahblind.org/chimp.html)"
+  },
+  {
+    "title": "Google Photos 存在無障礙問題，但修復即將推出",
+    "slug": "google-photos-has-an-accessibility-problem-but-a-fix-is-finally-on-the-way-zh-aa14bfa2",
+    "lang": "zh-TW",
+    "summary": "Google Photos 目前存在影響殘障使用者的無障礙問題，預計將推出修復方案以解決此問題。",
+    "category": "digital-a11y",
+    "tags": [
+      "Google Photos",
+      "accessibility",
+      "mobile app",
+      "fix"
+    ],
+    "sourceName": "PhoneArena",
+    "sourceUrl": "https://www.phonearena.com/news/google-photos-has-an-accessibility-problem-but-a-fix-is-finally-on-the-way_id181452",
+    "relatedSources": [
+      {
+        "name": "PhoneArena",
+        "url": "https://www.phonearena.com/news/google-photos-has-an-accessibility-problem-but-a-fix-is-finally-on-the-way_id181452"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-aa14bfa2",
+    "status": "published",
+    "translationOf": "google-photos-has-an-accessibility-problem-but-a-fix-is-finally-on-the-way-aa14bfa2",
+    "publishedAt": "2026-06-27T18:23:50.000Z",
+    "fetchedAt": "2026-06-28T01:22:10.065Z",
+    "body": "Google Photos 目前存在影響殘障使用者的無障礙問題，預計將推出修復方案以解決此問題。\n\n原文來源： [PhoneArena](https://www.phonearena.com/news/google-photos-has-an-accessibility-problem-but-a-fix-is-finally-on-the-way_id181452)"
+  },
+  {
+    "title": "alt-text-llm 1.6.1",
+    "slug": "alt-text-llm-161-zh-5c815a04",
+    "lang": "zh-TW",
+    "summary": "一款基於 AI 的工具，能為 Markdown 內容自動生成替代文字與標籤，提升無障礙可讀性。",
+    "category": "assistive-tech",
+    "tags": [
+      "alt-text",
+      "LLM",
+      "AI",
+      "accessibility",
+      "markdown"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/alt-text-llm/1.6.1",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/alt-text-llm/1.6.1"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-5c815a04",
+    "status": "published",
+    "translationOf": "alt-text-llm-161-5c815a04",
+    "publishedAt": "2026-06-26T21:11:33.000Z",
+    "fetchedAt": "2026-06-28T01:22:10.213Z",
+    "body": "一款基於 AI 的工具，能為 Markdown 內容自動生成替代文字與標籤，提升無障礙可讀性。\n\n原文來源： [Pypi.org](https://pypi.org/project/alt-text-llm/1.6.1)"
+  },
+  {
+    "title": "GitHub Copilot CLI 加入分頁佈局、工作階段內 MCP/外掛設定及無障礙改進",
+    "slug": "github-copilot-cli-gains-tabbed-layout-insession-mcpplugin-configuration-and-acc-zh-becc4930",
+    "lang": "zh-TW",
+    "summary": "GitHub 推出重新設計的 Copilot CLI 終端機介面，具備分頁佈局、可在工作階段內設定 MCP 伺服器與外掛，並加入螢幕閱讀器支援等無障礙功能。",
+    "category": "digital-a11y",
+    "tags": [
+      "GitHub Copilot",
+      "CLI",
+      "accessibility",
+      "screen reader",
+      "tabbed layout",
+      "MCP",
+      "plugin"
+    ],
+    "sourceName": "4sysops.com",
+    "sourceUrl": "https://4sysops.com/archives/github-copilot-cli-tabbed-layout-in-session-mcp-and-plugin-configuration-and-accessibility-improvements",
+    "relatedSources": [
+      {
+        "name": "4sysops.com",
+        "url": "https://4sysops.com/archives/github-copilot-cli-tabbed-layout-in-session-mcp-and-plugin-configuration-and-accessibility-improvements"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-becc4930",
+    "status": "published",
+    "translationOf": "github-copilot-cli-gains-tabbed-layout-insession-mcpplugin-configuration-and-acc-becc4930",
+    "publishedAt": "2026-06-26T20:37:52.000Z",
+    "fetchedAt": "2026-06-28T01:22:23.124Z",
+    "body": "GitHub 推出重新設計的 Copilot CLI 終端機介面，具備分頁佈局、可在工作階段內設定 MCP 伺服器與外掛，並加入螢幕閱讀器支援等無障礙功能。\n\n原文來源： [4sysops.com](https://4sysops.com/archives/github-copilot-cli-tabbed-layout-in-session-mcp-and-plugin-configuration-and-accessibility-improvements)"
+  },
+  {
+    "title": "alt-text-llm 1.5.3 發布 – AI 驅動的 Markdown 替代文字生成工具",
+    "slug": "alt-text-llm-153-released-aipowered-alttext-generation-for-markdown-zh-e2a9c9a0",
+    "lang": "zh-TW",
+    "summary": "alt-text-llm 套件（版本 1.5.3）利用人工智慧自動為 Markdown 文件中的圖像產生並標註替代文字，提升視障使用者的無障礙閱讀體驗。",
+    "category": "assistive-tech",
+    "tags": [
+      "alt-text-llm",
+      "AI",
+      "alt text",
+      "Markdown",
+      "accessibility",
+      "screen reader"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/alt-text-llm/1.5.3",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/alt-text-llm/1.5.3"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-e2a9c9a0",
+    "status": "published",
+    "translationOf": "alt-text-llm-153-released-aipowered-alttext-generation-for-markdown-e2a9c9a0",
+    "publishedAt": "2026-06-26T17:43:02.000Z",
+    "fetchedAt": "2026-06-28T01:22:23.286Z",
+    "body": "alt-text-llm 套件（版本 1.5.3）利用人工智慧自動為 Markdown 文件中的圖像產生並標註替代文字，提升視障使用者的無障礙閱讀體驗。\n\n原文來源： [Pypi.org](https://pypi.org/project/alt-text-llm/1.5.3)"
   }
 ]
