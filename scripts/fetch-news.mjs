@@ -45,6 +45,9 @@ const OLLAMA_TIMEOUT_MS = Number(process.env.OLLAMA_TIMEOUT_MS ?? 60000);
 const OLLAMA_MAX_TOKENS = Math.max(1, Math.min(20000, Number(process.env.OLLAMA_MAX_TOKENS ?? 20000)));
 const OLLAMA_MAX_RETRIES = Number(process.env.OLLAMA_MAX_RETRIES ?? 3);
 const BATCH_SIZE = Math.min(5, Math.max(3, Number(process.env.BATCH_SIZE ?? 3)));
+const GROQ_API_KEY = process.env.GROQ_API_KEY ?? '';
+const GROQ_MODEL = process.env.GROQ_MODEL || 'openai/gpt-oss-120b';
+const GROQ_TIMEOUT_MS = Number(process.env.GROQ_TIMEOUT_MS ?? OLLAMA_TIMEOUT_MS);
 
 const CATEGORY_KEYS = [
   'digital-a11y',
@@ -524,7 +527,7 @@ async function readExistingKeys() {
   return keys;
 }
 
-async function retryOllama(fn, batchIndex) {
+async function retryOllama(fn, groqFn, batchIndex) {
   let lastError;
   for (let attempt = 1; attempt <= OLLAMA_MAX_RETRIES; attempt += 1) {
     try {
@@ -539,15 +542,16 @@ async function retryOllama(fn, batchIndex) {
     }
   }
 
-  console.error(`[ollama] Batch ${batchIndex} exhausted retries=${OLLAMA_MAX_RETRIES} timeout_ms=${OLLAMA_TIMEOUT_MS} model=${OLLAMA_MODEL}`);
-  throw lastError;
+  console.warn(`[ollama] Batch ${batchIndex} exhausted retries=${OLLAMA_MAX_RETRIES}. Trying Groq fallback…`);
+  try {
+    return await groqFn();
+  } catch (groqError) {
+    console.error(`[groq] Batch ${batchIndex} fallback also failed: ${groqError.message}`);
+    throw lastError;
+  }
 }
 
-async function askOllamaForBatch(batchItems) {
-  if (!OLLAMA_API_KEY) {
-    throw new Error('Missing OLLAMA_API_KEY.');
-  }
-
+function buildBatchPrompt(batchItems) {
   const payload = batchItems.map((entry, index) => ({
     itemId: index,
     title: entry.item.title ?? '',
@@ -556,7 +560,7 @@ async function askOllamaForBatch(batchItems) {
     sourceUrl: entry.sourceUrl,
   }));
 
-  const userPrompt = [
+  return [
     'You are a disability accessibility news editor.',
     'For each input item, first decide if it is about DISABILITY accessibility.',
     'If related, classify and summarize in English and Traditional Chinese.',
@@ -569,6 +573,38 @@ async function askOllamaForBatch(batchItems) {
     '',
     JSON.stringify(payload),
   ].join('\n');
+}
+
+function parseBatchResponse(content) {
+  let parsed;
+  try {
+    parsed = JSON.parse(stripCodeFenceJson(content));
+  } catch {
+    throw new Error(`LLM returned invalid JSON: ${content.slice(0, 200)}`);
+  }
+
+  if (!Array.isArray(parsed)) {
+    throw new Error('LLM batch response is not an array.');
+  }
+
+  return parsed.map((row) => ({
+    itemId: Number(row?.itemId),
+    isRelevant: row?.isRelevant !== false,
+    englishTitle: String(row?.englishTitle || '').trim(),
+    englishSummary: String(row?.englishSummary || '').trim(),
+    zhTitle: String(row?.zhTitle || '').trim(),
+    zhSummary: String(row?.zhSummary || '').trim(),
+    category: normalizeCategory(String(row?.category || 'general').trim()),
+    tags: safeStringArray(row?.tags),
+  }));
+}
+
+async function askOllamaForBatch(batchItems) {
+  if (!OLLAMA_API_KEY) {
+    throw new Error('Missing OLLAMA_API_KEY.');
+  }
+
+  const userPrompt = buildBatchPrompt(batchItems);
 
   let response;
   try {
@@ -621,27 +657,54 @@ async function askOllamaForBatch(batchItems) {
     throw new Error('Ollama API returned empty content.');
   }
 
-  let parsed;
+  return parseBatchResponse(content);
+}
+
+async function askGroqForBatch(batchItems) {
+  if (!GROQ_API_KEY) {
+    throw new Error('Missing GROQ_API_KEY.');
+  }
+
+  console.log(`[groq] Falling back to Groq model=${GROQ_MODEL}`);
+  const userPrompt = buildBatchPrompt(batchItems);
+
+  let response;
   try {
-    parsed = JSON.parse(stripCodeFenceJson(content));
-  } catch {
-    throw new Error(`Ollama returned invalid JSON: ${content.slice(0, 200)}`);
+    response = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${GROQ_API_KEY}`,
+      },
+      body: JSON.stringify({
+        model: GROQ_MODEL,
+        temperature: 0.2,
+        max_tokens: OLLAMA_MAX_TOKENS,
+        messages: [
+          { role: 'system', content: 'Always output valid minified JSON and nothing else.' },
+          { role: 'user', content: userPrompt },
+        ],
+      }),
+      signal: AbortSignal.timeout(GROQ_TIMEOUT_MS),
+    });
+  } catch (error) {
+    const code = error?.cause?.code ?? error?.code ?? 'UNKNOWN';
+    throw new Error(`Groq fallback request failed (${code}). ${error?.message ?? ''}`.trim());
   }
 
-  if (!Array.isArray(parsed)) {
-    throw new Error('Ollama batch response is not an array.');
+  if (!response.ok) {
+    const text = await response.text();
+    throw new Error(`Groq fallback failed: ${response.status} ${text}`);
   }
 
-  return parsed.map((row) => ({
-    itemId: Number(row?.itemId),
-    isRelevant: row?.isRelevant !== false,
-    englishTitle: String(row?.englishTitle || '').trim(),
-    englishSummary: String(row?.englishSummary || '').trim(),
-    zhTitle: String(row?.zhTitle || '').trim(),
-    zhSummary: String(row?.zhSummary || '').trim(),
-    category: normalizeCategory(String(row?.category || 'general').trim()),
-    tags: safeStringArray(row?.tags),
-  }));
+  const data = await response.json();
+  const content = data.choices?.[0]?.message?.content;
+
+  if (typeof content !== 'string' || !content.trim()) {
+    throw new Error('Groq fallback returned empty content.');
+  }
+
+  return parseBatchResponse(content);
 }
 
 async function writeStoryPair(item, ai, sourceName, sourceUrl, sourceCountry, queryRegion, ingestMeta = {}) {
@@ -747,7 +810,7 @@ async function main() {
     const outputMap = new Map();
 
     try {
-      const outputs = await retryOllama(() => askOllamaForBatch(batch), i);
+      const outputs = await retryOllama(() => askOllamaForBatch(batch), () => askGroqForBatch(batch), i);
       for (const item of outputs) {
         outputMap.set(item.itemId, item);
       }
@@ -767,7 +830,7 @@ async function main() {
 
       if (!output) {
         try {
-          const single = await retryOllama(() => askOllamaForBatch([entry]), `${i + j}/single`);
+          const single = await retryOllama(() => askOllamaForBatch([entry]), () => askGroqForBatch([entry]), `${i + j}/single`);
           output = single.find((row) => row.itemId === 0);
         } catch (singleError) {
           failed += 1;

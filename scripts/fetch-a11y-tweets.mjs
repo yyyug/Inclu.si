@@ -310,7 +310,7 @@ function buildActorInputs() {
     'filter:replies': true,
     'filter:has_engagement': false,
     min_retweets: 0,
-    min_faves: 3,
+    min_faves: 5,
     min_replies: 0,
     '-min_retweets': 0,
     '-min_faves': 0,
@@ -876,6 +876,7 @@ async function main() {
 
     const enItems = [];
     const enIndexMap = new Map();
+    const entryByBatchIdx = new Map();
 
     for (let j = 0; j < batch.length; j += 1) {
       const entry = batch[j];
@@ -904,25 +905,32 @@ async function main() {
         continue;
       }
 
+      const score = (entry.likeCount || 0) + (entry.retweetCount || 0) * 2 + (entry.replyCount || 0) * 3;
       const itemIdx = enItems.length;
       enIndexMap.set(j, itemIdx);
+      entryByBatchIdx.set(j, entry);
       enItems.push({
         itemId: itemIdx,
         englishTitle: output.englishTitle || `A11y social signal ${entry.tweetId}`,
         englishSummary: output.englishSummary || entry.text,
         tags: output.tags,
+        _score: score,
       });
     }
 
+    const TRANSLATE_SCORE_THRESHOLD = 10;
     let zhMap = new Map();
     if (enItems.length > 0) {
-      try {
-        const translations = await retryOllama(() => translateBatchToZh(enItems), `${i}/zh`);
-        for (const t of translations) {
-          zhMap.set(t.itemId, t);
+      const toTranslate = enItems.filter((item) => item._score >= TRANSLATE_SCORE_THRESHOLD);
+      if (toTranslate.length > 0) {
+        try {
+          const translations = await retryOllama(() => translateBatchToZh(toTranslate), `${i}/zh`);
+          for (const t of translations) {
+            zhMap.set(t.itemId, t);
+          }
+        } catch (zhError) {
+          console.warn(`Translation batch failed, using English fallback`);
         }
-      } catch (zhError) {
-        console.warn(`Translation batch failed, using English fallback`);
       }
     }
 
