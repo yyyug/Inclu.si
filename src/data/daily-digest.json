@@ -1,39 +1,55 @@
 {
-  "date": "2026-06-28",
-  "generatedAt": "2026-06-28T01:30:16.130Z",
+  "date": "2026-06-29",
+  "generatedAt": "2026-06-29T01:31:47.831Z",
   "en": {
-    "title": "Tokyo adopts ME/CFS disability certification; Microsoft and Google advance accessibility features",
-    "summary": "Tokyo has begun using the FUNCAP evaluation method for issuing disability handbooks related to ME/CFS, incorporating post‑exertional malaise criteria. Meanwhile, Microsoft is testing a new Screen Tint feature in Windows 11 that provides customizable color overlays to reduce eye strain, and Google Photos is preparing a fix for its accessibility problem that hinders users with disabilities.",
+    "title": "JR Tokai Boosts Wheelchair Access; Advocacy, Reports, and Accessibility Guides Highlight Daily Disability News",
+    "summary": "JR Tokai announced wheelchair boarding assistance for visually impaired passengers on Shinkansen, improving rail access. Meanwhile, advocates pushed for barrier‑free upgrades at Tarumi Station, a new report revealed 30% of abusers of disabled people are facility staff, and an ADHD‑focused color system highlighted over 17,000 Spotify accessibility issues. A commuter’s love for a station lacking barrier‑free access underscores ongoing gaps.",
     "highlights": [
       {
-        "title": "Tokyo adopts FUNCAP for ME/CFS disability certification",
-        "slug": "tokyo-adopts-funcap-for-mecfs-disability-certification-37dd521f"
+        "title": "JR Tokai provides wheelchair boarding assistance for visually impaired passengers",
+        "slug": "jr-tokai-provides-wheelchair-boarding-assistance-for-visually-impaired-passenger-287db669"
       },
       {
-        "title": "Microsoft tests Screen Tint accessibility feature in Windows 11",
-        "slug": "microsoft-tests-screen-tint-accessibility-feature-in-windows-11-72e1e4ec"
+        "title": "Advocacy for Barrier-Free Improvements at Tarumi Station",
+        "slug": "advocacy-for-barrier-free-improvements-at-tarumi-station-cdbc73f0"
       },
       {
-        "title": "Google Photos has an accessibility problem, but a fix is finally on the way",
-        "slug": "google-photos-has-an-accessibility-problem-but-a-fix-is-finally-on-the-way-aa14bfa2"
+        "title": "Report Shows 30% of Abusers of Disabled People Are Facility Staff",
+        "slug": "report-shows-30-of-abusers-of-disabled-people-are-facility-staff-e0ad89a6"
+      },
+      {
+        "title": "ADHD‑focused color system design highlights Spotify accessibility issues",
+        "slug": "adhdfocused-color-system-design-highlights-spotify-accessibility-issues-34b1cb90"
+      },
+      {
+        "title": "Fan expresses love for station lacking barrier‑free access",
+        "slug": "fan-expresses-love-for-station-lacking-barrierfree-access-2313fb21"
       }
     ]
   },
   "zh-TW": {
-    "title": "東京採用ME/CFS殘障認證；微軟與Google推進無障礙功能",
-    "summary": "東京已開始使用FUNCAP評估方法，針對ME/CFS發放身心障礙手冊，並納入運動後不適症狀標準。同時，微軟正在Windows 11測試新的Screen Tint功能，提供可自訂的顏色覆蓋層以減輕眼睛疲勞；Google Photos則正在修復影響殘障使用者的無障礙問題。",
+    "title": "JR東海增設輪椅登車協助；倡議、報告與無障礙指南聚焦殘障議題",
+    "summary": "JR東海宣布為視障乘客提供輪椅登車協助，提升新幹線無障礙服務。同時，多摩利站的無障礙改善倡議獲得推進，日本犯罪白皮書報告顯示30%殘障人士施虐者為設施人員，且ADHD專注色彩系統揭示Spotify超過17,000項無障礙問題。一位通勤者對缺乏無障礙設施車站的喜愛凸顯持續的無障礙缺口。",
     "highlights": [
       {
-        "title": "東京採用 FUNCAP 進行 ME/CFS 殘障認證",
-        "slug": "tokyo-adopts-funcap-for-mecfs-disability-certification-zh-37dd521f"
+        "title": "JR東海提供視障乘客輪椅登車協助",
+        "slug": "jr-tokai-provides-wheelchair-boarding-assistance-for-visually-impaired-passenger-zh-287db669"
       },
       {
-        "title": "Microsoft 在 Windows 11 測試 Screen Tint 無障礙功能",
-        "slug": "microsoft-tests-screen-tint-accessibility-feature-in-windows-11-zh-72e1e4ec"
+        "title": "多摩利站無障礙改善倡議",
+        "slug": "advocacy-for-barrier-free-improvements-at-tarumi-station-zh-cdbc73f0"
       },
       {
-        "title": "Google Photos 存在無障礙問題，但修復即將推出",
-        "slug": "google-photos-has-an-accessibility-problem-but-a-fix-is-finally-on-the-way-zh-aa14bfa2"
+        "title": "報告顯示30%的殘障人士施虐者為設施人員",
+        "slug": "report-shows-30-of-abusers-of-disabled-people-are-facility-staff-zh-e0ad89a6"
+      },
+      {
+        "title": "ADHD 專注色彩系統設計凸顯 Spotify 無障礙問題",
+        "slug": "adhdfocused-color-system-design-highlights-spotify-accessibility-issues-zh-34b1cb90"
+      },
+      {
+        "title": "粉絲表達對缺乏無障礙設施車站的喜愛",
+        "slug": "fan-expresses-love-for-station-lacking-barrierfree-access-zh-2313fb21"
       }
     ]
   }
