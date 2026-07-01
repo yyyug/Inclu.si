@@ -96,6 +96,7 @@ jobs:
 
       - name: Build concise run summary
         if: always()
+        continue-on-error: true
         shell: bash
         env:
           OLLAMA_TIMEOUT_MS: 180000

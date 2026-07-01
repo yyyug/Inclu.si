@@ -133,6 +133,7 @@ jobs:
 
       - name: Build concise run summary
         if: always()
+        continue-on-error: true
         shell: bash
         run: |
           tweets_returned=$(grep -Eo 'Done\. New tweet stories: [0-9]+' tweets-ingest.log | tail -1 | awk '{print $5}')
