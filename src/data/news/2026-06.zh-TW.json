@@ -126557,5 +126557,73 @@
     "publishedAt": "2026-06-29T07:15:49.000Z",
     "fetchedAt": "2026-07-01T00:53:49.697Z",
     "body": "新北市表揚30位在學習、才藝、服務及品格表現優異的身心障礙學生。例如有人因腦膜炎失明後重新學點字重返校園，有人克服自閉症成為演說朗讀三冠王，也有人在病痛中仍挑戰跨域競賽。獲表揚的鶯歌國小黃律穎原為女排主力，因腦膜炎導致全身癱瘓及雙眼失明，經復健後學會國語、英語及數學點字，重返校園。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_177c9614-b483-4f86-8c69-7ab4b6e09c00)"
+  },
+  {
+    "title": "NCRTD 升級韋拉德和阿爾卡德巴士站，完成聖克拉拉普韋布洛的無障礙改善",
+    "slug": "ncrtd-opens-upgraded-bus-stops-in-velarde-and-alcalde-completes-accessibility-im-zh-434b8412",
+    "lang": "zh-TW",
+    "summary": "NCRTD 已在韋拉德和阿爾卡德升級巴士站，完成聖克拉拉普韋布洛的無障礙改善，提升殘障人士的出行便利。",
+    "category": "physical-design",
+    "tags": [
+      "bus stops",
+      "accessibility improvements",
+      "ADA",
+      "public transit",
+      "Santa Clara Pueblo"
+    ],
+    "sourceName": "ladailypost.com",
+    "sourceUrl": "https://ladailypost.com/ncrtd-opens-upgraded-bus-stops-in-velarde-and-alcalde-completes-accessibility-improvements-in-santa-clara-pueblo",
+    "relatedSources": [
+      {
+        "name": "ladailypost.com",
+        "url": "https://ladailypost.com/ncrtd-opens-upgraded-bus-stops-in-velarde-and-alcalde-completes-accessibility-improvements-in-santa-clara-pueblo"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-434b8412",
+    "status": "published",
+    "translationOf": "ncrtd-opens-upgraded-bus-stops-in-velarde-and-alcalde-completes-accessibility-im-434b8412",
+    "publishedAt": "2026-06-30T15:00:46.000Z",
+    "fetchedAt": "2026-07-01T03:41:24.931Z",
+    "body": "NCRTD 已在韋拉德和阿爾卡德升級巴士站，完成聖克拉拉普韋布洛的無障礙改善，提升殘障人士的出行便利。\n\n原文來源： [ladailypost.com](https://ladailypost.com/ncrtd-opens-upgraded-bus-stops-in-velarde-and-alcalde-completes-accessibility-improvements-in-santa-clara-pueblo)"
+  },
+  {
+    "title": "航港局 iMarine 獲無障礙 AA、53資料集摘白金標章 數位治理再升級",
+    "slug": "port-and-harbor-bureaus-imarine-receives-aa-accessibility-and-platinum-label-for-zh-10b98e32",
+    "lang": "zh-TW",
+    "summary": "航港局 iMarine 平台取得無障礙 AA 認證，並為 53 個資料集獲得白金標章，顯示數位治理再度提升。",
+    "category": "digital-a11y",
+    "tags": [
+      "無障礙",
+      "AA",
+      "白金標章",
+      "數位治理",
+      "iMarine"
+    ],
+    "sourceName": "UDN",
+    "sourceUrl": "https://udn.com/news/story/7241/9596879",
+    "relatedSources": [
+      {
+        "name": "UDN",
+        "url": "https://udn.com/news/story/7241/9596879"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-10b98e32",
+    "status": "published",
+    "translationOf": "port-and-harbor-bureaus-imarine-receives-aa-accessibility-and-platinum-label-for-10b98e32",
+    "publishedAt": "2026-06-30T01:47:04.000Z",
+    "fetchedAt": "2026-07-01T03:44:41.109Z",
+    "body": "航港局 iMarine 平台取得無障礙 AA 認證，並為 53 個資料集獲得白金標章，顯示數位治理再度提升。\n\n原文來源： [UDN](https://udn.com/news/story/7241/9596879)"
   }
 ]

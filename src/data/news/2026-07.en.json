@@ -2705,5 +2705,39 @@
     "publishedAt": "2026-07-01T01:14:26.000Z",
     "fetchedAt": "2026-07-01T01:37:33.156Z",
     "body": "Microsoft Outlook now offers enhanced accessibility features that allow Narrator to surface key email and meeting information on demand via simple shortcuts, reducing friction for users who rely on screen readers.\nTweet source: [Andrew Balzer (@AlphaBalzer)](https://x.com/AlphaBalzer/status/2072126651886891248)\nExternal link: [https://techcommunity.microsoft.com/blog/microsoft365insiderblog/a-more-efficient-way-to-access-email-and-meeting-information-with-narrator/4507665](https://techcommunity.microsoft.com/blog/microsoft365insiderblog/a-more-efficient-way-to-access-email-and-meeting-information-with-narrator/4507665)"
+  },
+  {
+    "title": "Grant will make rail trail more accessible in Northampton",
+    "slug": "grant-will-make-rail-trail-more-accessible-in-northampton-c23903bc",
+    "lang": "en",
+    "summary": "A grant will fund improvements to make the rail trail in Northampton more accessible, including surface upgrades and signage for people with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "rail trail",
+      "accessibility",
+      "grant",
+      "Northampton",
+      "wheelchair access"
+    ],
+    "sourceName": "Western Mass News",
+    "sourceUrl": "https://www.westernmassnews.com/2026/07/01/grant-will-make-rail-trail-more-accessible-northampton",
+    "relatedSources": [
+      {
+        "name": "Western Mass News",
+        "url": "https://www.westernmassnews.com/2026/07/01/grant-will-make-rail-trail-more-accessible-northampton"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-c23903bc",
+    "status": "published",
+    "translationOf": "grant-will-make-rail-trail-more-accessible-in-northampton-zh-c23903bc",
+    "publishedAt": "2026-07-01T00:46:00.000Z",
+    "fetchedAt": "2026-07-01T03:41:25.097Z",
+    "body": "A grant will fund improvements to make the rail trail in Northampton more accessible, including surface upgrades and signage for people with disabilities.\n\nRead more from the original source: [Western Mass News](https://www.westernmassnews.com/2026/07/01/grant-will-make-rail-trail-more-accessible-northampton)"
   }
 ]
