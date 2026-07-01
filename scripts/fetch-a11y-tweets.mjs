@@ -963,8 +963,8 @@ async function main() {
   }
 
   console.log(`Done. New tweet stories: ${created}, Failed: ${failed}`);
-  if (failed > 0) {
-    throw new Error(`Failed processing ${failed} tweet item(s). See logs above for details.`);
+  if (failed > 0 && created === 0) {
+    throw new Error(`Failed processing ${failed} tweet item(s) with no new stories created.`);
   }
 }
 

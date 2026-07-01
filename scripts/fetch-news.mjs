@@ -888,8 +888,8 @@ async function main() {
   }
 
   console.log(`Done. New stories: ${created}, Skipped: ${skipped}, Failed: ${failed}`);
-  if (failed > 0) {
-    throw new Error(`Failed processing ${failed} item(s). See logs above for details.`);
+  if (failed > 0 && created === 0) {
+    throw new Error(`Failed processing ${failed} item(s) with no new stories created.`);
   }
 }
 
