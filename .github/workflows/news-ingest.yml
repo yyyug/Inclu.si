@@ -66,16 +66,19 @@ jobs:
       - name: Commit generated content
         if: always()
         run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add src/data/news
           if git diff --cached --quiet; then
             echo "No changes to commit"
             echo "COMMITTED_YES_NO=no" >> "$GITHUB_ENV"
           else
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git commit -m "chore: ingest accessibility news"
             for attempt in 1 2 3; do
-              if git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              git reset HEAD~1 --soft 2>/dev/null || true
+              git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+              git add src/data/news
+              git commit -m "chore: ingest accessibility news"
+              if git push origin "HEAD:${GITHUB_REF_NAME}"; then
                 echo "COMMITTED_YES_NO=yes" >> "$GITHUB_ENV"
                 exit 0
               fi
