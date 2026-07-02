@@ -23,7 +23,8 @@ const DIGEST_LOOKBACK_HOURS = Number(
 );
 const DIGEST_MIN_HIGHLIGHTS = 3;
 const DIGEST_MAX_HIGHLIGHTS = 8;
-const DIGEST_MAX_CANDIDATES_PER_LOCALE = Number(process.env.DIGEST_MAX_CANDIDATES_PER_LOCALE ?? 15);
+const DIGEST_MAX_CANDIDATES_PER_LOCALE = 50;
+const GROQ_MAX_CANDIDATES_PER_LOCALE = 15;
 
 async function loadRecentPublishedArticles() {
   const rows = [];
@@ -295,9 +296,13 @@ async function askLLM(enCandidates, zhCandidates) {
     console.warn(`[digest] Ollama failed: ${ollamaError.message}`);
   }
 
-  const content = await callGroqAPI(prompt);
+  const groqEn = enCandidates.slice(0, GROQ_MAX_CANDIDATES_PER_LOCALE);
+  const groqZh = zhCandidates.slice(0, GROQ_MAX_CANDIDATES_PER_LOCALE);
+  const groqPrompt = buildDigestPrompt(groqEn, groqZh);
+  console.log(`[digest] Groq fallback with ${groqEn.length} en + ${groqZh.length} zh candidates`);
+  const content = await callGroqAPI(groqPrompt);
   console.log('[digest] Groq fallback succeeded');
-  return parseDigestResponse(enCandidates, zhCandidates, content);
+  return parseDigestResponse(groqEn, groqZh, content);
 }
 
 async function main() {
