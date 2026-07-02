@@ -23,7 +23,7 @@ const DIGEST_LOOKBACK_HOURS = Number(
 );
 const DIGEST_MIN_HIGHLIGHTS = 3;
 const DIGEST_MAX_HIGHLIGHTS = 8;
-const DIGEST_MAX_CANDIDATES_PER_LOCALE = 50;
+const DIGEST_MAX_CANDIDATES_PER_LOCALE = Number(process.env.DIGEST_MAX_CANDIDATES_PER_LOCALE ?? 15);
 
 async function loadRecentPublishedArticles() {
   const rows = [];
