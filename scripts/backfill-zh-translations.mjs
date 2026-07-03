@@ -12,7 +12,7 @@ const OLLAMA_MAX_RETRIES = Number(process.env.OLLAMA_MAX_RETRIES ?? 3);
 const GROQ_API_KEY = process.env.GROQ_API_KEY || '';
 const GROQ_MODEL = process.env.GROQ_MODEL || 'openai/gpt-oss-120b';
 const GROQ_TIMEOUT_MS = Number(process.env.GROQ_TIMEOUT_MS ?? 300000);
-const BATCH_SIZE = Math.min(5, Math.max(3, Number(process.env.BATCH_SIZE ?? 3)));
+const BATCH_SIZE = Math.min(10, Math.max(3, Number(process.env.BATCH_SIZE ?? 5)));
 const LOOKBACK_HOURS = Number(process.env.LOOKBACK_HOURS ?? 24);
 
 function hasChinese(text) {
@@ -208,14 +208,6 @@ async function main() {
       continue;
     }
 
-    // Check if this month file has any recent entries
-    const hasRecent = zhStories.some((s) => isWithinLookback(s.publishedAt));
-    if (!hasRecent) {
-      console.log(`[backfill-zh] ${zhFile}: no entries within lookback, skipping`);
-      skippedCount += zhStories.length;
-      continue;
-    }
-
     const enStories = await readMonthlyFile(path.join(NEWS_DATA_DIR, enFile));
     const enBySlug = new Map(enStories.map((s) => [s.slug, s]));
 
@@ -225,7 +217,6 @@ async function main() {
 
     for (let i = 0; i < zhStories.length; i++) {
       const zh = zhStories[i];
-      if (!isWithinLookback(zh.publishedAt)) continue;
       if (!zh.translationOf) continue;
 
       const en = enBySlug.get(zh.translationOf);
