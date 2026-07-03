@@ -40,6 +40,10 @@ const A11Y_LANGUAGES = String(process.env.A11Y_TWEET_LANGUAGES ?? 'en,zh,ja,ko')
   .filter(Boolean);
 const A11Y_DEBUG = process.env.A11Y_TWEET_DEBUG === '1';
 
+const GROQ_API_KEY = process.env.GROQ_API_KEY ?? '';
+const GROQ_MODEL = process.env.GROQ_MODEL || 'openai/gpt-oss-120b';
+const GROQ_TIMEOUT_MS = Number(process.env.GROQ_TIMEOUT_MS ?? OLLAMA_TIMEOUT_MS);
+
 function safeStringArray(input) {
   if (!Array.isArray(input)) {
     return [];
@@ -570,20 +574,28 @@ async function translateBatchToZh(items) {
       signal: AbortSignal.timeout(OLLAMA_TIMEOUT_MS),
     });
   } catch (error) {
-    console.warn(`[translate] Ollama request failed: ${error.message}`);
-    return items.map((item) => ({ itemId: item.itemId, zhTitle: item.englishTitle, zhSummary: item.englishSummary }));
+    const code = error?.cause?.code ?? error?.code ?? 'UNKNOWN';
+    const name = error?.name ?? error?.cause?.name ?? 'UnknownError';
+    const details = [
+      `Ollama translation request failed (${code}).`,
+      `name=${name}`,
+      `timeout_ms=${OLLAMA_TIMEOUT_MS}`,
+      `model=${OLLAMA_MODEL}`,
+      `base_url=${OLLAMA_BASE_URL}`,
+      `${error?.message ?? ''}`,
+    ].filter(Boolean).join(' ');
+    throw new Error(details.trim());
   }
 
   if (!response.ok) {
     const text = await response.text();
-    console.warn(`[translate] Ollama failed: ${response.status} ${text}`);
-    return items.map((item) => ({ itemId: item.itemId, zhTitle: item.englishTitle, zhSummary: item.englishSummary }));
+    throw new Error(`Ollama translation API failed: ${response.status} ${text}`);
   }
 
   const data = await response.json();
   const content = data.choices?.[0]?.message?.content;
   if (typeof content !== 'string' || !content.trim()) {
-    return items.map((item) => ({ itemId: item.itemId, zhTitle: item.englishTitle, zhSummary: item.englishSummary }));
+    throw new Error('Ollama translation API returned empty content.');
   }
 
   let cleaned = content.trim();
@@ -594,12 +606,11 @@ async function translateBatchToZh(items) {
   try {
     parsed = JSON.parse(cleaned);
   } catch {
-    console.warn(`[translate] Invalid JSON response`);
-    return items.map((item) => ({ itemId: item.itemId, zhTitle: item.englishTitle, zhSummary: item.englishSummary }));
+    throw new Error(`Ollama translation returned invalid JSON: ${cleaned.slice(0, 200)}`);
   }
 
   if (!Array.isArray(parsed)) {
-    return items.map((item) => ({ itemId: item.itemId, zhTitle: item.englishTitle, zhSummary: item.englishSummary }));
+    throw new Error('Ollama translation response is not an array.');
   }
 
   return parsed.map((row) => ({
@@ -607,6 +618,102 @@ async function translateBatchToZh(items) {
     zhTitle: String(row?.zhTitle || '').trim(),
     zhSummary: String(row?.zhSummary || '').trim(),
   }));
+}
+
+async function translateBatchToZhGroq(items) {
+  if (!GROQ_API_KEY) {
+    throw new Error('Missing GROQ_API_KEY.');
+  }
+
+  console.log(`[groq] Falling back to Groq for translation model=${GROQ_MODEL}`);
+  const userPrompt = [
+    'Translate the following English titles and summaries to Traditional Chinese (zh-TW).',
+    'Return a strict JSON array with keys: itemId, zhTitle, zhSummary.',
+    'Keep translations concise and natural. No markdown, no extra text.',
+    '',
+    JSON.stringify(items),
+  ].join('\n');
+
+  let response;
+  try {
+    response = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${GROQ_API_KEY}`,
+      },
+      body: JSON.stringify({
+        model: GROQ_MODEL,
+        temperature: 0.2,
+        max_tokens: OLLAMA_MAX_TOKENS,
+        messages: [
+          { role: 'system', content: 'Always output valid minified JSON and nothing else.' },
+          { role: 'user', content: userPrompt },
+        ],
+      }),
+      signal: AbortSignal.timeout(GROQ_TIMEOUT_MS),
+    });
+  } catch (error) {
+    const code = error?.cause?.code ?? error?.code ?? 'UNKNOWN';
+    throw new Error(`Groq translation fallback request failed (${code}). ${error?.message ?? ''}`.trim());
+  }
+
+  if (!response.ok) {
+    const text = await response.text();
+    throw new Error(`Groq translation fallback failed: ${response.status} ${text}`);
+  }
+
+  const data = await response.json();
+  const content = data.choices?.[0]?.message?.content;
+
+  if (typeof content !== 'string' || !content.trim()) {
+    throw new Error('Groq translation fallback returned empty content.');
+  }
+
+  let cleaned = content.trim();
+  if (cleaned.startsWith('```json')) cleaned = cleaned.replace(/^```json\s*/, '').replace(/\s*```$/, '');
+  else if (cleaned.startsWith('```')) cleaned = cleaned.replace(/^```\s*/, '').replace(/\s*```$/, '');
+
+  let parsed;
+  try {
+    parsed = JSON.parse(cleaned);
+  } catch {
+    throw new Error(`Groq translation fallback returned invalid JSON: ${cleaned.slice(0, 200)}`);
+  }
+
+  if (!Array.isArray(parsed)) {
+    throw new Error('Groq translation fallback response is not an array.');
+  }
+
+  return parsed.map((row) => ({
+    itemId: Number(row?.itemId),
+    zhTitle: String(row?.zhTitle || '').trim(),
+    zhSummary: String(row?.zhSummary || '').trim(),
+  }));
+}
+
+async function retryTranslateOllamaThenGroq(items, batchIndex) {
+  let lastError;
+  for (let attempt = 1; attempt <= OLLAMA_MAX_RETRIES; attempt += 1) {
+    try {
+      return await translateBatchToZh(items);
+    } catch (err) {
+      lastError = err;
+      if (attempt < OLLAMA_MAX_RETRIES) {
+        const delay = attempt * 2000;
+        console.warn(`[ollama] Translation batch ${batchIndex} attempt ${attempt} failed (${err.message}). Retrying in ${delay}ms...`);
+        await new Promise((r) => setTimeout(r, delay));
+      }
+    }
+  }
+
+  console.warn(`[ollama] Translation batch ${batchIndex} exhausted retries=${OLLAMA_MAX_RETRIES}. Trying Groq fallback...`);
+  try {
+    return await translateBatchToZhGroq(items);
+  } catch (groqError) {
+    console.error(`[groq] Translation batch ${batchIndex} fallback also failed: ${groqError.message}`);
+    throw lastError;
+  }
 }
 
 function monthlyNewsFilePath(lang, publishedAt) {
@@ -924,7 +1031,7 @@ async function main() {
       const toTranslate = enItems.filter((item) => item._score >= TRANSLATE_SCORE_THRESHOLD);
       if (toTranslate.length > 0) {
         try {
-          const translations = await retryOllama(() => translateBatchToZh(toTranslate), `${i}/zh`);
+          const translations = await retryTranslateOllamaThenGroq(toTranslate, `${i}/zh`);
           for (const t of translations) {
             zhMap.set(t.itemId, t);
           }
