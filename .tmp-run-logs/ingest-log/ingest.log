@@ -1,0 +1,36 @@
+
+> inclu.si@0.0.1 news:ingest
+> node --env-file-if-exists=.env ./scripts/fetch-news.mjs
+
+.env not found. Continuing without it.
+Fetching RSS: https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US:en
+Fetching RSS: https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW:zh-Hant
+Fetching RSS: https://news.google.com/rss/search?q=%EC%9E%A5%EC%95%A0%EC%9D%B8+%EC%A0%91%EA%B7%BC%EC%84%B1&hl=ko&gl=KR&ceid=KR:ko
+Fetching RSS: https://news.google.com/rss/search?q=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3&hl=ja&gl=JP&ceid=JP:ja
+Fetching RSS: https://news.google.com/rss/search?q=%E3%83%90%E3%83%AA%E3%82%A2%E3%83%95%E3%83%AA%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja
+Fetching RSS: https://news.google.com/rss/search?q=%E9%9A%9C%E5%AE%B3%E8%80%85+%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3&hl=ja&gl=JP&ceid=JP:ja
+Fetching RSS: https://news.google.com/rss/search?q=%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA:ar
+Fetching RSS: https://news.google.com/rss/search?q=%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=AE&ceid=AE:ar
+Failed to fetch RSS feed: https://www.disabled-world.com/news.xml
+Error: Unable to fetch RSS XML (415).
+    at readSourceMapFromRssXml (file:///home/runner/work/Inclu.si/Inclu.si/scripts/fetch-news.mjs:238:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async collectCandidatesFromRss (file:///home/runner/work/Inclu.si/Inclu.si/scripts/fetch-news.mjs:282:19)
+    at async main (file:///home/runner/work/Inclu.si/Inclu.si/scripts/fetch-news.mjs:709:21)
+Fetching RSS: https://disabilityinsider.com/feed/
+Fetching RSS: https://www.theguardian.com/world/disability/rss
+Fetching RSS: https://www.edf-feph.org/feed/
+Fetching NewsAPI: accessibility
+Fetching NewsAPI: 無障礙
+Fetching NewsAPI: 접근성
+Fetching NewsAPI: アクセシビリティ
+Fetching NewsAPI: الإعاقة
+[news] rss_candidates=1
+[news] newsapi_candidates=2
+Candidates queued: 3
+Created: 2026-05.en.json + 2026-05.zh-TW.json
+Created: 2026-05.en.json + 2026-05.zh-TW.json
+Created: 2026-05.en.json + 2026-05.zh-TW.json
+Done. New stories: 3, Skipped: 273, Failed: 1
+Error: Failed processing 1 item(s). See logs above for details.
+    at main (file:///home/runner/work/Inclu.si/Inclu.si/scripts/fetch-news.mjs:794:11)

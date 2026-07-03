@@ -1,0 +1,13 @@
+{
+  "routes": [
+    {
+      "routePath": "/api/contact",
+      "mountPath": "/api",
+      "method": "POST",
+      "module": [
+        "api/contact.js:onRequestPost"
+      ]
+    }
+  ],
+  "baseURL": "/"
+}

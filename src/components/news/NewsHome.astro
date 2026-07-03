@@ -53,7 +53,8 @@ const entryBySlug = new Map(entries.map((entry) => [entry.data.slug, entry]));
           <p class="mt-4 font-['Merriweather'] text-lg leading-relaxed text-slate-700">{localeDigest.summary}</p>
           <ul class="mt-5 grid gap-3 sm:grid-cols-2">
             {localeDigest.highlights.map((item) => {
-              const sourceHref = entryBySlug.get(item.slug)?.data.sourceUrl ?? `${localeBasePath(locale)}/news/${item.slug}`;
+              const entry = entryBySlug.get(item.slug);
+              const sourceHref = entry?.data.sourceUrl ?? `${localeBasePath(locale)}/news/${item.slug}`;
               const isExternal = sourceHref.startsWith('http://') || sourceHref.startsWith('https://');
 
               return (
@@ -64,7 +65,7 @@ const entryBySlug = new Map(entries.map((entry) => [entry.data.slug, entry]));
                     rel={isExternal ? 'noopener noreferrer' : undefined}
                     class="font-semibold text-slate-800 transition-all duration-300 hover:text-indigo-700"
                   >
-                    {item.title}
+                    {entry?.data.title ?? item.title}
                   </a>
                 </li>
               );
