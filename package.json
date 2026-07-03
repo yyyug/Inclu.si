@@ -16,7 +16,8 @@
     "news:digest": "node --env-file-if-exists=.env ./scripts/generate-daily-digest.mjs",
     "news:cluster": "node --env-file-if-exists=.env ./scripts/dedupe-and-cluster.mjs",
     "news:pipeline": "npm run news:ingest && npm run news:cluster",
-    "tweets:pipeline": "npm run tweets:ingest && npm run news:cluster"
+    "tweets:pipeline": "npm run tweets:ingest && npm run news:cluster",
+    "news:backfill-zh": "node --env-file-if-exists=.env ./scripts/backfill-zh-translations.mjs"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.2.4",

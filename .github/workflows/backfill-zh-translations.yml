@@ -1,0 +1,88 @@
+name: Backfill zh-TW Translations
+
+on:
+  workflow_dispatch:
+    inputs:
+      lookback_hours:
+        description: "Translate entries published within this many hours"
+        required: false
+        default: "24"
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Backfill zh-TW translations
+        id: backfill
+        shell: bash
+        run: |
+          set -o pipefail
+          node --env-file-if-exists=.env ./scripts/backfill-zh-translations.mjs 2>&1 | tee backfill.log
+        env:
+          LOOKBACK_HOURS: ${{ inputs.lookback_hours }}
+          OLLAMA_API_KEY: ${{ secrets.OLLAMA_API_KEY }}
+          OLLAMA_BASE_URL: ${{ secrets.OLLAMA_BASE_URL }}
+          OLLAMA_MODEL: nemotron-3-super:cloud
+          OLLAMA_TIMEOUT_MS: 180000
+          OLLAMA_MAX_TOKENS: 4096
+          OLLAMA_MAX_RETRIES: 3
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL: openai/gpt-oss-120b
+          GROQ_TIMEOUT_MS: 300000
+          BATCH_SIZE: 3
+
+      - name: Upload log artifact
+        if: failure()
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: backfill-log-${{ github.run_id }}
+          path: backfill.log
+          if-no-files-found: ignore
+          retention-days: 2
+
+      - name: Commit fixed translations
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/news/*.zh-TW.json
+          if git diff --cached --quiet; then
+            echo "No translation changes to commit"
+            exit 0
+          fi
+          for attempt in 1 2 3; do
+            git reset HEAD~1 --soft 2>/dev/null || true
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            git add src/data/news/*.zh-TW.json
+            git commit -m "chore: backfill zh-TW translations"
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              exit 0
+            fi
+            echo "Push attempt ${attempt} failed; retrying..."
+          done
+          echo "Failed to push changes after retries"
+          exit 1
+
+      - name: Report outcome
+        if: always()
+        shell: bash
+        run: |
+          echo "backfill=${{ steps.backfill.outcome }}"

@@ -1,63 +1,39 @@
 {
-  "date": "2026-07-03",
-  "generatedAt": "2026-07-03T01:12:57.797Z",
+  "date": "2026-07-02",
+  "generatedAt": "2026-07-02T04:09:53.149Z",
   "en": {
-    "title": "UN Experts Urge Europe to Reject Coercive Psychiatry in Disability Rights Push",
-    "summary": "UN disability organisations and UN experts have urged the Council of Europe to reject a draft mental health protocol that would legitimize coercion and forced treatment. Meanwhile, Cloud of Goods called for destination readiness ahead of the ADA anniversary, Yellow Teng‑hui was named a public welfare ambassador promoting inclusion, and ISTELive 26 focused on new digital accessibility guidelines for K‑12. Additional updates include a Phoenix Sky Harbor accessibility guide and a social‑media report of a worker being instructed to stop requesting workplace accommodations.",
+    "title": "Japan Boosts Disability Employment Rate; New Eye‑Input App Launches; Shrine Access Guide Published",
+    "summary": "Japan raised the statutory disability employment rate from 2.3% to 2.7% effective July 1 to promote inclusive hiring. An eye‑tracking app 'AiMotto' was launched for severe disabilities, and a guide details accessible routes to Izumo Taisha Shrine for wheelchair users.",
     "highlights": [
       {
-        "title": "Disability organisations and UN experts call on Council of Europe: do not not legitimise coercion in psychiatry",
-        "slug": "disability-organisations-and-un-experts-call-on-council-of-europe-do-not-not-leg-831b42d1"
+        "title": "Japan raises statutory disability employment rate to 2.7%",
+        "slug": "japan-raises-statutory-disability-employment-rate-to-27-222efaff"
       },
       {
-        "title": "Cloud of Goods Calls for Destination Readiness Ahead of ADA Anniversary, Helping Travelers Plan Mobility, Accessibility, and Medical Gear Before Arrival",
-        "slug": "cloud-of-goods-calls-for-destination-readiness-ahead-of-ada-anniversary-helping--e441a7cf"
+        "title": "Eye‑input app developed for people with severe disabilities",
+        "slug": "eyeinput-app-developed-for-people-with-severe-disabilities-20659676"
       },
       {
-        "title": "Yellow Teng-hui appointed public welfare ambassador to partner with Eden in building an accessible inclusive society",
-        "slug": "yellow-teng-hui-appointed-public-welfare-ambassador-to-partner-with-eden-in-buil-29fe2c4a"
-      },
-      {
-        "title": "ISTELive 26: Meeting New Digital Accessibility Guidelines",
-        "slug": "istelive-26-meeting-new-digital-accessibility-guidelines-258906ec"
-      },
-      {
-        "title": "Guide to Phoenix Sky Harbor accessibility services",
-        "slug": "guide-to-phoenix-sky-harbor-accessibility-services-98b2fc46"
-      },
-      {
-        "title": "Worker Told to Stop Requesting Workplace Accommodations",
-        "slug": "worker-told-to-stop-requesting-workplace-accommodations-f7e31145"
+        "title": "Wheelchair User's Accessible Visit to Izumo Taisha Shrine",
+        "slug": "wheelchair-users-accessible-visit-to-izumo-taisha-shrine-88516afa"
       }
     ]
   },
   "zh-TW": {
-    "title": "聯合國專家呼籲歐洲拒絕強制精神治療 推動殘障權利",
-    "summary": "聯合國殘障組織與專家呼籲歐洲理事會拒絕將精神科強制與強制治療合法化的草案附加議定書。同時，Cloud of Goods 呼籲各目的地在ADA紀念日前做好準備，黃鐙輝獲委任為公益大使推動共融，ISTELive 26 會議聚焦新數位無障礙指南。鳳凰天港機場發布無障礙服務指南，此外社群媒體上有推文指出殘障員工被要求停止申請工作場所便利措施。",
+    "title": "日本提高殘障就業率至2.7%；眼動App AiMotto上市；出雲大社無障礙指南發布",
+    "summary": "日本自7月1日起將殘障法定就業率從2.3%提升至2.7%，以促進包容性僱用。岩手縣大學講師開發的眼動追蹤應用『AiMotto』已針對重度障礙者全面推出。此外，出雲大社提供輪椅使用者的坡道、停車場及無障礙廁所詳細資訊，方便參觀。",
     "highlights": [
       {
-        "title": "殘障組織與UN專家呼籲歐洲理事會：請勿正當化精神科的強制與強制治療",
-        "slug": "disability-organisations-and-un-experts-call-on-council-of-europe-do-not-not-leg-zh-831b42d1"
+        "title": "Japan raises statutory disability employment rate to 2.7%",
+        "slug": "japan-raises-statutory-disability-employment-rate-to-27-zh-222efaff"
       },
       {
-        "title": "Cloud of Goods 呼籲在ADA紀念日前提升目的地準備，協助旅客規劃移動、無障礙及醫療設備",
-        "slug": "cloud-of-goods-calls-for-destination-readiness-ahead-of-ada-anniversary-helping--zh-e441a7cf"
+        "title": "Eye‑input app developed for people with severe disabilities",
+        "slug": "eyeinput-app-developed-for-people-with-severe-disabilities-zh-20659676"
       },
       {
-        "title": "Yes！We Are Ready！黃鐙輝擔任公益大使 攜手伊甸共建無障礙共融社會",
-        "slug": "yellow-teng-hui-appointed-public-welfare-ambassador-to-partner-with-eden-in-buil-zh-29fe2c4a"
-      },
-      {
-        "title": "ISTELive 26：符合新數位無障礙指南",
-        "slug": "istelive-26-meeting-new-digital-accessibility-guidelines-zh-258906ec"
-      },
-      {
-        "title": "鳳凰天港機場無障礙服務指南",
-        "slug": "guide-to-phoenix-sky-harbor-accessibility-services-zh-98b2fc46"
-      },
-      {
-        "title": "Discussion on OCD Statement and Disability Discrimination Risks",
-        "slug": "discussion-on-ocd-statement-and-disability-discrimination-risks-zh-98659d6d"
+        "title": "Wheelchair User's Accessible Visit to Izumo Taisha Shrine",
+        "slug": "wheelchair-users-accessible-visit-to-izumo-taisha-shrine-zh-88516afa"
       }
     ]
   }
