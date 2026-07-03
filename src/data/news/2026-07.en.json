@@ -8359,5 +8359,931 @@
     "publishedAt": "2026-07-03T00:51:19.000Z",
     "fetchedAt": "2026-07-03T01:21:12.289Z",
     "body": "From August 1–14 2026, Chennai plans to clear encroachments, repair infrastructure and ensure barrier‑free footpaths for pedestrians, especially persons with disabilities and senior citizens.\nTweet source: [TVK Thalapathi - The Future (@XVision1652)](https://x.com/XVision1652/status/2072845609921396763)"
+  },
+  {
+    "title": "City Highlights Digital Accessibility Efforts",
+    "slug": "city-highlights-digital-accessibility-efforts-93f81acd",
+    "lang": "en",
+    "summary": "The City of Champaign announces initiatives to improve digital accessibility on its websites and online services, ensuring people with disabilities can access information and resources.",
+    "category": "digital-a11y",
+    "tags": [
+      "digital accessibility",
+      "Champaign",
+      "city government"
+    ],
+    "sourceName": "City of Champaign (.gov)",
+    "sourceUrl": "https://champaignil.gov/news/2026/07/city-highlights-digital-accessibility-efforts",
+    "relatedSources": [
+      {
+        "name": "City of Champaign (.gov)",
+        "url": "https://champaignil.gov/news/2026/07/city-highlights-digital-accessibility-efforts"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-93f81acd",
+    "status": "published",
+    "translationOf": "city-highlights-digital-accessibility-efforts-zh-93f81acd",
+    "publishedAt": "2026-07-03T03:10:41.000Z",
+    "fetchedAt": "2026-07-03T12:51:36.291Z",
+    "body": "The City of Champaign announces initiatives to improve digital accessibility on its websites and online services, ensuring people with disabilities can access information and resources.\n\nRead more from the original source: [City of Champaign (.gov)](https://champaignil.gov/news/2026/07/city-highlights-digital-accessibility-efforts)"
+  },
+  {
+    "title": "New Jersey Launches State House Accessibility Guides for America's 250th Celebration",
+    "slug": "new-jersey-launches-state-house-accessibility-guides-for-americas-250th-celebrat-a96b9620",
+    "lang": "en",
+    "summary": "New Jersey releases accessibility guides for the State House to accommodate visitors with disabilities ahead of the nation's 250th anniversary celebrations.",
+    "category": "physical-design",
+    "tags": [
+      "New Jersey",
+      "State House",
+      "accessibility guides",
+      "250th celebration"
+    ],
+    "sourceName": "WRNJ Radio",
+    "sourceUrl": "https://wrnjradio.com/new-jersey-launches-state-house-accessibility-guides-ahead-of-americas-250th-celebration",
+    "relatedSources": [
+      {
+        "name": "WRNJ Radio",
+        "url": "https://wrnjradio.com/new-jersey-launches-state-house-accessibility-guides-ahead-of-americas-250th-celebration"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a96b9620",
+    "status": "published",
+    "translationOf": "new-jersey-launches-state-house-accessibility-guides-for-americas-250th-celebrat-zh-a96b9620",
+    "publishedAt": "2026-07-03T08:09:07.000Z",
+    "fetchedAt": "2026-07-03T12:51:36.305Z",
+    "body": "New Jersey releases accessibility guides for the State House to accommodate visitors with disabilities ahead of the nation's 250th anniversary celebrations.\n\nRead more from the original source: [WRNJ Radio](https://wrnjradio.com/new-jersey-launches-state-house-accessibility-guides-ahead-of-americas-250th-celebration)"
+  },
+  {
+    "title": "Rokid Partners with Louis Braille Campus to Advance Accessibility Through Smart Glasses Innovations",
+    "slug": "rokid-partners-with-louis-braille-campus-to-advance-accessibility-through-smart--3f87ee73",
+    "lang": "en",
+    "summary": "Rokid collaborates with Louis Braille Campus to develop smart glasses that improve accessibility for visually impaired users.",
+    "category": "assistive-tech",
+    "tags": [
+      "smart glasses",
+      "visual impairment",
+      "Rokid",
+      "Louis Braille"
+    ],
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/rokid-partners-louis-braille-campus-100000128.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/rokid-partners-louis-braille-campus-100000128.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3f87ee73",
+    "status": "published",
+    "translationOf": "rokid-partners-with-louis-braille-campus-to-advance-accessibility-through-smart--zh-3f87ee73",
+    "publishedAt": "2026-07-03T10:00:00.000Z",
+    "fetchedAt": "2026-07-03T12:52:27.025Z",
+    "body": "Rokid collaborates with Louis Braille Campus to develop smart glasses that improve accessibility for visually impaired users.\n\nRead more from the original source: [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/rokid-partners-louis-braille-campus-100000128.html)"
+  },
+  {
+    "title": "Sports Complex recognized as accessibility leader - The Eastern Door",
+    "slug": "sports-complex-recognized-as-accessibility-leader-the-eastern-door-5d4afe02",
+    "lang": "en",
+    "summary": "A sports complex has been recognized as a leader in accessibility for its inclusive facilities and programs.",
+    "category": "physical-design",
+    "tags": [
+      "sports complex",
+      "accessibility",
+      "facility"
+    ],
+    "sourceName": "The Eastern Door",
+    "sourceUrl": "https://easterndoor.com/article/sports-complex-recognized-as-accessibility-leader",
+    "relatedSources": [
+      {
+        "name": "The Eastern Door",
+        "url": "https://easterndoor.com/article/sports-complex-recognized-as-accessibility-leader"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5d4afe02",
+    "status": "published",
+    "translationOf": "sports-complex-recognized-as-accessibility-leader-the-eastern-door-zh-5d4afe02",
+    "publishedAt": "2026-07-03T08:23:30.000Z",
+    "fetchedAt": "2026-07-03T12:52:27.041Z",
+    "body": "A sports complex has been recognized as a leader in accessibility for its inclusive facilities and programs.\n\nRead more from the original source: [The Eastern Door](https://easterndoor.com/article/sports-complex-recognized-as-accessibility-leader)"
+  },
+  {
+    "title": "Liangpin Catering Donates Accessible Minibus to Help Disabled Residents of Happy Nursery",
+    "slug": "liangpin-catering-donates-accessible-minibus-to-help-disabled-residents-of-happy-256607ec",
+    "lang": "en",
+    "summary": "Liangpin Catering donated an accessible minibus to Happy Nursery, enabling safer and smoother travel for people with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "accessible minibus",
+      "donation",
+      "disability",
+      "Taiwan"
+    ],
+    "sourceName": "Yahoo新聞",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%BD%B1-%E8%89%AF%E5%93%81%E9%A4%90%E9%A3%B2%E6%8D%90%E7%84%A1%E9%9A%9C%E7%A4%99%E4%B8%AD%E5%B7%B4-%E5%8A%A9%E5%96%9C%E6%A8%82%E4%BF%9D%E8%82%B2%E9%99%A2%E8%BA%AB%E9%9A%9C%E8%80%85%E5%AE%89%E5%85%A8%E6%9A%A2%E8%A1%8C-105447534.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo新聞",
+        "url": "https://tw.news.yahoo.com/%E5%BD%B1-%E8%89%AF%E5%93%81%E9%A4%90%E9%A3%B2%E6%8D%90%E7%84%A1%E9%9A%9C%E7%A4%99%E4%B8%AD%E5%B7%B4-%E5%8A%A9%E5%96%9C%E6%A8%82%E4%BF%9D%E8%82%B2%E9%99%A2%E8%BA%AB%E9%9A%9C%E8%80%85%E5%AE%89%E5%85%A8%E6%9A%A2%E8%A1%8C-105447534.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-256607ec",
+    "status": "published",
+    "translationOf": "liangpin-catering-donates-accessible-minibus-to-help-disabled-residents-of-happy-zh-256607ec",
+    "publishedAt": "2026-07-03T10:54:47.000Z",
+    "fetchedAt": "2026-07-03T12:52:27.055Z",
+    "body": "Liangpin Catering donated an accessible minibus to Happy Nursery, enabling safer and smoother travel for people with disabilities.\n\nRead more from the original source: [Yahoo新聞](https://tw.news.yahoo.com/%E5%BD%B1-%E8%89%AF%E5%93%81%E9%A4%90%E9%A3%B2%E6%8D%90%E7%84%A1%E9%9A%9C%E7%A4%99%E4%B8%AD%E5%B7%B4-%E5%8A%A9%E5%96%9C%E6%A8%82%E4%BF%9D%E8%82%B2%E9%99%A2%E8%BA%AB%E9%9A%9C%E8%80%85%E5%AE%89%E5%85%A8%E6%9A%A2%E8%A1%8C-105447534.html)"
+  },
+  {
+    "title": "Yes! We Are Ready! Ambassador Huang Teng-hui Partners with Eden to Build an Accessible Inclusive Society",
+    "slug": "yes-we-are-ready-ambassador-huang-teng-hui-partners-with-eden-to-build-an-access-f2786ede",
+    "lang": "en",
+    "summary": "Ambassador Huang Teng-hui has been appointed as a public welfare ambassador and is collaborating with Eden to promote the creation of an accessible and inclusive society for people with disabilities.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "accessibility",
+      "inclusion",
+      "public welfare",
+      "disability"
+    ],
+    "sourceName": "PChome Online 新聞",
+    "sourceUrl": "https://news.pchome.com.tw/society/newstaiwandigi/20260702/index-78300109419035279002.html",
+    "relatedSources": [
+      {
+        "name": "PChome Online 新聞",
+        "url": "https://news.pchome.com.tw/society/newstaiwandigi/20260702/index-78300109419035279002.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f2786ede",
+    "status": "published",
+    "translationOf": "yes-we-are-ready-ambassador-huang-teng-hui-partners-with-eden-to-build-an-access-zh-f2786ede",
+    "publishedAt": "2026-07-02T14:04:54.000Z",
+    "fetchedAt": "2026-07-03T12:53:09.804Z",
+    "body": "Ambassador Huang Teng-hui has been appointed as a public welfare ambassador and is collaborating with Eden to promote the creation of an accessible and inclusive society for people with disabilities.\n\nRead more from the original source: [PChome Online 新聞](https://news.pchome.com.tw/society/newstaiwandigi/20260702/index-78300109419035279002.html)"
+  },
+  {
+    "title": "300 Disabled Students Have Only One Old Minibus; Changhua's Hile Preschool Receives Donation of Accessible Minibus from Liangpin Catering",
+    "slug": "300-disabled-students-have-only-one-old-minibus-changhuas-hile-preschool-receive-5730fc02",
+    "lang": "en",
+    "summary": "Changhua County's Hile Preschool, serving 300 students with disabilities, previously relied on a single outdated minibus. The school now received a donated accessible minibus from Liangpin Catering to improve transportation accessibility.",
+    "category": "assistive-tech",
+    "tags": [
+      "transportation",
+      "accessible vehicle",
+      "disability",
+      "donation",
+      "mobility"
+    ],
+    "sourceName": "UDN",
+    "sourceUrl": "https://udn.com/news/story/7325/9605758",
+    "relatedSources": [
+      {
+        "name": "UDN",
+        "url": "https://udn.com/news/story/7325/9605758"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5730fc02",
+    "status": "published",
+    "translationOf": "300-disabled-students-have-only-one-old-minibus-changhuas-hile-preschool-receive-zh-5730fc02",
+    "publishedAt": "2026-07-03T12:24:46.000Z",
+    "fetchedAt": "2026-07-03T12:53:09.816Z",
+    "body": "Changhua County's Hile Preschool, serving 300 students with disabilities, previously relied on a single outdated minibus. The school now received a donated accessible minibus from Liangpin Catering to improve transportation accessibility.\n\nRead more from the original source: [UDN](https://udn.com/news/story/7325/9605758)"
+  },
+  {
+    "title": "Green Councilor Questions 'Cutting Trees to Put Umbrellas'; Taipei City Government Says It Is for Accessible Space Adjustment",
+    "slug": "green-councilor-questions-cutting-trees-to-put-umbrellas-taipei-city-government--fde5e23e",
+    "lang": "en",
+    "summary": "A Taipei city councilor from the Green Party criticized the practice of cutting trees to install umbrellas, but the Taipei City Government responded that the tree removal is intended to adjust public spaces to meet accessibility requirements.",
+    "category": "physical-design",
+    "tags": [
+      "urban planning",
+      "accessibility",
+      "tree removal",
+      "public space",
+      "disability"
+    ],
+    "sourceName": "Yahoo新聞",
+    "sourceUrl": "https://tw.news.yahoo.com/%E7%B6%A0%E8%AD%B0%E5%93%A1%E8%B3%AA%E7%96%91-%E7%A0%8D%E6%A8%B9%E8%93%8B%E5%82%98-%E5%8C%97%E5%B8%82%E5%BA%9C%E9%A7%81%E6%96%A5-%E6%98%AF%E9%85%8D%E5%90%88%E7%84%A1%E9%9A%9C%E7%A4%99%E7%A9%BA%E9%96%93%E8%AA%BF%E6%95%B4-085835666.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo新聞",
+        "url": "https://tw.news.yahoo.com/%E7%B6%A0%E8%AD%B0%E5%93%A1%E8%B3%AA%E7%96%91-%E7%A0%8D%E6%A8%B9%E8%93%8B%E5%82%98-%E5%8C%97%E5%B8%82%E5%BA%9C%E9%A7%81%E6%96%A5-%E6%98%AF%E9%85%8D%E5%90%88%E7%84%A1%E9%9A%9C%E7%A4%99%E7%A9%BA%E9%96%93%E8%AA%BF%E6%95%B4-085835666.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-fde5e23e",
+    "status": "published",
+    "translationOf": "green-councilor-questions-cutting-trees-to-put-umbrellas-taipei-city-government--zh-fde5e23e",
+    "publishedAt": "2026-07-03T08:58:35.000Z",
+    "fetchedAt": "2026-07-03T12:53:09.833Z",
+    "body": "A Taipei city councilor from the Green Party criticized the practice of cutting trees to install umbrellas, but the Taipei City Government responded that the tree removal is intended to adjust public spaces to meet accessibility requirements.\n\nRead more from the original source: [Yahoo新聞](https://tw.news.yahoo.com/%E7%B6%A0%E8%AD%B0%E5%93%A1%E8%B3%AA%E7%96%91-%E7%A0%8D%E6%A8%B9%E8%93%8B%E5%82%98-%E5%8C%97%E5%B8%82%E5%BA%9C%E9%A7%81%E6%96%A5-%E6%98%AF%E9%85%8D%E5%90%88%E7%84%A1%E9%9A%9C%E7%A4%99%E7%A9%BA%E9%96%93%E8%AA%BF%E6%95%B4-085835666.html)"
+  },
+  {
+    "title": "Criticized for installing umbrellas by removing tree pits, Chiang Wan-an says building barrier-free space by moving trees is completely different",
+    "slug": "criticized-for-installing-umbrellas-by-removing-tree-pits-chiang-wan-an-says-bui-8f9b3fb7",
+    "lang": "en",
+    "summary": "Criticized for setting up umbrellas by removing tree pits, Chiang Wan-an states that creating barrier-free space by relocating trees is entirely separate.",
+    "category": "physical-design",
+    "tags": [
+      "tree removal",
+      "umbrella installation",
+      "barrier-free",
+      "Taipei mayor"
+    ],
+    "sourceName": "Yahoo新聞",
+    "sourceUrl": "https://tw.news.yahoo.com/%E9%81%AD%E6%89%B9%E8%93%8B%E9%81%AE%E9%99%BD%E5%82%98%E7%A7%BB%E9%99%A4%E6%A8%B9%E7%A9%B4-%E8%94%A3%E8%90%AC%E5%AE%89%EF%BC%9A%E5%BB%BA%E7%84%A1%E9%9A%9C%E7%A4%99%E7%A9%BA%E9%96%93%E7%A7%BB%E6%A8%B9-%E5%AE%8C%E5%85%A8%E6%98%AF%E5%85%A9%E4%BB%B6%E4%BA%8B%E6%83%85-090144019.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo新聞",
+        "url": "https://tw.news.yahoo.com/%E9%81%AD%E6%89%B9%E8%93%8B%E9%81%AE%E9%99%BD%E5%82%98%E7%A7%BB%E9%99%A4%E6%A8%B9%E7%A9%B4-%E8%94%A3%E8%90%AC%E5%AE%89%EF%BC%9A%E5%BB%BA%E7%84%A1%E9%9A%9C%E7%A4%99%E7%A9%BA%E9%96%93%E7%A7%BB%E6%A8%B9-%E5%AE%8C%E5%85%A8%E6%98%AF%E5%85%A9%E4%BB%B6%E4%BA%8B%E6%83%85-090144019.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-8f9b3fb7",
+    "status": "published",
+    "translationOf": "criticized-for-installing-umbrellas-by-removing-tree-pits-chiang-wan-an-says-bui-zh-8f9b3fb7",
+    "publishedAt": "2026-07-03T09:01:44.000Z",
+    "fetchedAt": "2026-07-03T12:55:14.030Z",
+    "body": "Criticized for setting up umbrellas by removing tree pits, Chiang Wan-an states that creating barrier-free space by relocating trees is entirely separate.\n\nRead more from the original source: [Yahoo新聞](https://tw.news.yahoo.com/%E9%81%AD%E6%89%B9%E8%93%8B%E9%81%AE%E9%99%BD%E5%82%98%E7%A7%BB%E9%99%A4%E6%A8%B9%E7%A9%B4-%E8%94%A3%E8%90%AC%E5%AE%89%EF%BC%9A%E5%BB%BA%E7%84%A1%E9%9A%9C%E7%A4%99%E7%A9%BA%E9%96%93%E7%A7%BB%E6%A8%B9-%E5%AE%8C%E5%85%A8%E6%98%AF%E5%85%A9%E4%BB%B6%E4%BA%8B%E6%83%85-090144019.html)"
+  },
+  {
+    "title": "Criticized for sacrificing trees to install umbrellas, Taipei City says adjustments made for barrier-free space (1) (photo)",
+    "slug": "criticized-for-sacrificing-trees-to-install-umbrellas-taipei-city-says-adjustmen-071a6104",
+    "lang": "en",
+    "summary": "Criticized for removing trees to set up umbrellas, Taipei City states it is adjusting for barrier-free space (1) (photo).",
+    "category": "physical-design",
+    "tags": [
+      "tree sacrifice",
+      "umbrella",
+      "barrier-free",
+      "Taipei City"
+    ],
+    "sourceName": "Yahoo新聞",
+    "sourceUrl": "https://tw.news.yahoo.com/%E9%81%AD%E6%89%B9%E6%8D%A8%E6%A8%B9%E8%93%8B%E5%82%98-%E5%8C%97%E5%B8%82-%E9%85%8D%E5%90%88%E7%84%A1%E9%9A%9C%E7%A4%99%E7%A9%BA%E9%96%93%E8%AA%BF%E6%95%B4-1-%E5%9C%96-081734782.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo新聞",
+        "url": "https://tw.news.yahoo.com/%E9%81%AD%E6%89%B9%E6%8D%A8%E6%A8%B9%E8%93%8B%E5%82%98-%E5%8C%97%E5%B8%82-%E9%85%8D%E5%90%88%E7%84%A1%E9%9A%9C%E7%A4%99%E7%A9%BA%E9%96%93%E8%AA%BF%E6%95%B4-1-%E5%9C%96-081734782.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-071a6104",
+    "status": "published",
+    "translationOf": "criticized-for-sacrificing-trees-to-install-umbrellas-taipei-city-says-adjustmen-zh-071a6104",
+    "publishedAt": "2026-07-03T08:17:34.000Z",
+    "fetchedAt": "2026-07-03T12:55:14.042Z",
+    "body": "Criticized for removing trees to set up umbrellas, Taipei City states it is adjusting for barrier-free space (1) (photo).\n\nRead more from the original source: [Yahoo新聞](https://tw.news.yahoo.com/%E9%81%AD%E6%89%B9%E6%8D%A8%E6%A8%B9%E8%93%8B%E5%82%98-%E5%8C%97%E5%B8%82-%E9%85%8D%E5%90%88%E7%84%A1%E9%9A%9C%E7%A4%99%E7%A9%BA%E9%96%93%E8%AA%BF%E6%95%B4-1-%E5%9C%96-081734782.html)"
+  },
+  {
+    "title": "Mushroom-shaped umbrellas in Xinyi District spark debate; Taipei City says tree removal aims to create barrier-free passage",
+    "slug": "mushroom-shaped-umbrellas-in-xinyi-district-spark-debate-taipei-city-says-tree-r-a7516a95",
+    "lang": "en",
+    "summary": "Mushroom-shaped umbrellas in Xinyi District draw criticism; Taipei City says moving trees is to build barrier-free passage space.",
+    "category": "physical-design",
+    "tags": [
+      "mushroom umbrella",
+      "Xinyi District",
+      "tree removal",
+      "barrier-free passage"
+    ],
+    "sourceName": "中央社 CNA",
+    "sourceUrl": "https://www.cna.com.tw/news/aloc/202607030182.aspx",
+    "relatedSources": [
+      {
+        "name": "中央社 CNA",
+        "url": "https://www.cna.com.tw/news/aloc/202607030182.aspx"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a7516a95",
+    "status": "published",
+    "translationOf": "mushroom-shaped-umbrellas-in-xinyi-district-spark-debate-taipei-city-says-tree-r-zh-a7516a95",
+    "publishedAt": "2026-07-03T08:05:00.000Z",
+    "fetchedAt": "2026-07-03T12:55:14.053Z",
+    "body": "Mushroom-shaped umbrellas in Xinyi District draw criticism; Taipei City says moving trees is to build barrier-free passage space.\n\nRead more from the original source: [中央社 CNA](https://www.cna.com.tw/news/aloc/202607030182.aspx)"
+  },
+  {
+    "title": "Capital Securities Creates Financial Friendly Environment Accessible Website Receives Highest Certification",
+    "slug": "capital-securities-creates-financial-friendly-environment-accessible-website-rec-8ac6c520",
+    "lang": "en",
+    "summary": "Capital Securities has built an accessible website for a financial-friendly environment, earning the highest accessibility certification.",
+    "category": "digital-a11y",
+    "tags": [
+      "website accessibility",
+      "financial services",
+      "certification",
+      "digital inclusion"
+    ],
+    "sourceName": "工商時報",
+    "sourceUrl": "https://www.ctee.com.tw/news/20260703700948-430201",
+    "relatedSources": [
+      {
+        "name": "工商時報",
+        "url": "https://www.ctee.com.tw/news/20260703700948-430201"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-8ac6c520",
+    "status": "published",
+    "translationOf": "capital-securities-creates-financial-friendly-environment-accessible-website-rec-zh-8ac6c520",
+    "publishedAt": "2026-07-03T03:31:00.000Z",
+    "fetchedAt": "2026-07-03T12:55:43.879Z",
+    "body": "Capital Securities has built an accessible website for a financial-friendly environment, earning the highest accessibility certification.\n\nRead more from the original source: [工商時報](https://www.ctee.com.tw/news/20260703700948-430201)"
+  },
+  {
+    "title": "Good Food & Drink Donates Accessible Mid-Sized Bus While Offering Warm Drinks to Combat Inflation",
+    "slug": "good-food-drink-donates-accessible-mid-sized-bus-while-offering-warm-drinks-to-c-67af12fc",
+    "lang": "en",
+    "summary": "Good Food & Drink has donated an accessible mid-sized bus to Hsing Le Welfare Institute while providing warm beverages to counter inflation.",
+    "category": "assistive-tech",
+    "tags": [
+      "accessible bus",
+      "transportation",
+      "donation",
+      "disability support"
+    ],
+    "sourceName": "勢傳媒",
+    "sourceUrl": "https://chinatrends.news/archives/88049",
+    "relatedSources": [
+      {
+        "name": "勢傳媒",
+        "url": "https://chinatrends.news/archives/88049"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-67af12fc",
+    "status": "published",
+    "translationOf": "good-food-drink-donates-accessible-mid-sized-bus-while-offering-warm-drinks-to-c-zh-67af12fc",
+    "publishedAt": "2026-07-03T11:35:27.000Z",
+    "fetchedAt": "2026-07-03T12:55:43.891Z",
+    "body": "Good Food & Drink has donated an accessible mid-sized bus to Hsing Le Welfare Institute while providing warm beverages to counter inflation.\n\nRead more from the original source: [勢傳媒](https://chinatrends.news/archives/88049)"
+  },
+  {
+    "title": "Good Food & Drink Donates Accessible Mid-Sized Bus to Help Hsing Le Welfare Institute's Disabled Persons Travel Safely",
+    "slug": "good-food-drink-donates-accessible-mid-sized-bus-to-help-hsing-le-welfare-instit-18c5dc3e",
+    "lang": "en",
+    "summary": "Good Food & Drink donated an accessible mid-sized bus to assist the disabled residents of Hsing Le Welfare Institute in traveling safely and smoothly.",
+    "category": "assistive-tech",
+    "tags": [
+      "accessible bus",
+      "donation",
+      "disability welfare",
+      "transportation"
+    ],
+    "sourceName": "蕃新聞",
+    "sourceUrl": "https://n.yam.com/Article/20260703764551",
+    "relatedSources": [
+      {
+        "name": "蕃新聞",
+        "url": "https://n.yam.com/Article/20260703764551"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-18c5dc3e",
+    "status": "published",
+    "translationOf": "good-food-drink-donates-accessible-mid-sized-bus-to-help-hsing-le-welfare-instit-zh-18c5dc3e",
+    "publishedAt": "2026-07-03T11:02:00.000Z",
+    "fetchedAt": "2026-07-03T12:55:43.902Z",
+    "body": "Good Food & Drink donated an accessible mid-sized bus to assist the disabled residents of Hsing Le Welfare Institute in traveling safely and smoothly.\n\nRead more from the original source: [蕃新聞](https://n.yam.com/Article/20260703764551)"
+  },
+  {
+    "title": "Sunshade Controversy Continues; Chiang Wan-an Clarifies Tree Transplant Due to Accessibility Project, Unrelated to Sunshade Installation",
+    "slug": "sunshade-controversy-continues-chiang-wan-an-clarifies-tree-transplant-due-to-ac-bdb87045",
+    "lang": "en",
+    "summary": "Chiang Wan-an clarified that the tree transplant was carried out for accessibility engineering and not related to the installation of sunshades, amid ongoing controversy over the sunshade debate.",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "tree transplant",
+      "sunshade controversy"
+    ],
+    "sourceName": "鉅聞天下",
+    "sourceUrl": "https://www.bigmedia.com.tw/article/1783063519528",
+    "relatedSources": [
+      {
+        "name": "鉅聞天下",
+        "url": "https://www.bigmedia.com.tw/article/1783063519528"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-bdb87045",
+    "status": "published",
+    "translationOf": "sunshade-controversy-continues-chiang-wan-an-clarifies-tree-transplant-due-to-ac-zh-bdb87045",
+    "publishedAt": "2026-07-03T07:25:00.000Z",
+    "fetchedAt": "2026-07-03T12:56:18.209Z",
+    "body": "Chiang Wan-an clarified that the tree transplant was carried out for accessibility engineering and not related to the installation of sunshades, amid ongoing controversy over the sunshade debate.\n\nRead more from the original source: [鉅聞天下](https://www.bigmedia.com.tw/article/1783063519528)"
+  },
+  {
+    "title": "Lawmakers Criticize 'Sacrifice Trees for Mushrooms'; Chiang Wan-an Counters: 'Not for Sunshades' but for Accessible Space",
+    "slug": "lawmakers-criticize-sacrifice-trees-for-mushrooms-chiang-wan-an-counters-not-for-24acdf5c",
+    "lang": "en",
+    "summary": "Chiang Wan-an responded to lawmakers' criticism that tree removal was for mushroom cultivation, stating the action was to create accessible space, not for sunshade installation.",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "tree removal",
+      "public space"
+    ],
+    "sourceName": "ETtoday新聞雲",
+    "sourceUrl": "https://www.ettoday.net/news/20260703/3194718.htm",
+    "relatedSources": [
+      {
+        "name": "ETtoday新聞雲",
+        "url": "https://www.ettoday.net/news/20260703/3194718.htm"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-24acdf5c",
+    "status": "published",
+    "translationOf": "lawmakers-criticize-sacrifice-trees-for-mushrooms-chiang-wan-an-counters-not-for-zh-24acdf5c",
+    "publishedAt": "2026-07-03T07:09:00.000Z",
+    "fetchedAt": "2026-07-03T12:56:18.221Z",
+    "body": "Chiang Wan-an responded to lawmakers' criticism that tree removal was for mushroom cultivation, stating the action was to create accessible space, not for sunshade installation.\n\nRead more from the original source: [ETtoday新聞雲](https://www.ettoday.net/news/20260703/3194718.htm)"
+  },
+  {
+    "title": "Lawmakers Expose 'Cut Trees for Mushrooms' to Install Sunshades; Taipei Public Works Bureau Says Tree Relocation Aligns with Road Accessibility Improvements",
+    "slug": "lawmakers-expose-cut-trees-for-mushrooms-to-install-sunshades-taipei-public-work-cd3398bc",
+    "lang": "en",
+    "summary": "The Taipei Public Works Bureau stated that relocating trees was to accommodate road accessibility improvements, countering claims that the tree removal was for mushroom cultivation to install sunshades.",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "road improvement",
+      "tree relocation"
+    ],
+    "sourceName": "知新聞",
+    "sourceUrl": "https://www.knews.com.tw/news/8409677E55508B5AA11D3A249932E288",
+    "relatedSources": [
+      {
+        "name": "知新聞",
+        "url": "https://www.knews.com.tw/news/8409677E55508B5AA11D3A249932E288"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-cd3398bc",
+    "status": "published",
+    "translationOf": "lawmakers-expose-cut-trees-for-mushrooms-to-install-sunshades-taipei-public-work-zh-cd3398bc",
+    "publishedAt": "2026-07-03T07:15:00.000Z",
+    "fetchedAt": "2026-07-03T12:56:18.232Z",
+    "body": "The Taipei Public Works Bureau stated that relocating trees was to accommodate road accessibility improvements, countering claims that the tree removal was for mushroom cultivation to install sunshades.\n\nRead more from the original source: [知新聞](https://www.knews.com.tw/news/8409677E55508B5AA11D3A249932E288)"
+  },
+  {
+    "title": "Good Food & Beverage Donates Warm Drinks and Accessible Mid-size Bus to Combat Inflation",
+    "slug": "good-food-beverage-donates-warm-drinks-and-accessible-mid-size-bus-to-combat-inf-855f79b0",
+    "lang": "en",
+    "summary": "Good Food and Beverage donated warm drinks and an accessible mid-size bus to help fight inflation.",
+    "category": "physical-design",
+    "tags": [
+      "accessible bus",
+      "donation",
+      "transportation"
+    ],
+    "sourceName": "蕃新聞",
+    "sourceUrl": "https://n.yam.com/Article/20260703834065",
+    "relatedSources": [
+      {
+        "name": "蕃新聞",
+        "url": "https://n.yam.com/Article/20260703834065"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-855f79b0",
+    "status": "published",
+    "translationOf": "good-food-beverage-donates-warm-drinks-and-accessible-mid-size-bus-to-combat-inf-zh-855f79b0",
+    "publishedAt": "2026-07-03T10:17:00.000Z",
+    "fetchedAt": "2026-07-03T12:58:18.381Z",
+    "body": "Good Food and Beverage donated warm drinks and an accessible mid-size bus to help fight inflation.\n\nRead more from the original source: [蕃新聞](https://n.yam.com/Article/20260703834065)"
+  },
+  {
+    "title": "Yuanta Securities Receives Highest AAA Certification for Accessible Webpage",
+    "slug": "yuanta-securities-receives-highest-aaa-certification-for-accessible-webpage-b1bc996c",
+    "lang": "en",
+    "summary": "Yuanta Securities has been awarded the highest AAA certification for its accessible website, ensuring compliance with web accessibility standards.",
+    "category": "digital-a11y",
+    "tags": [
+      "web accessibility",
+      "AAA certification",
+      "Yuanta Securities"
+    ],
+    "sourceName": "Yahoo新聞",
+    "sourceUrl": "https://tw.news.yahoo.com/%E7%BE%A4%E7%9B%8A%E8%AD%89%E5%88%B8%E7%8D%B2%E7%84%A1%E9%9A%9C%E7%A4%99%E7%B6%B2%E9%A0%81aaa%E6%9C%80%E9%AB%98%E8%AA%8D%E8%AD%89%E6%A8%99%E7%AB%A0-105356885.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo新聞",
+        "url": "https://tw.news.yahoo.com/%E7%BE%A4%E7%9B%8A%E8%AD%89%E5%88%B8%E7%8D%B2%E7%84%A1%E9%9A%9C%E7%A4%99%E7%B6%B2%E9%A0%81aaa%E6%9C%80%E9%AB%98%E8%AA%8D%E8%AD%89%E6%A8%99%E7%AB%A0-105356885.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-b1bc996c",
+    "status": "published",
+    "translationOf": "yuanta-securities-receives-highest-aaa-certification-for-accessible-webpage-zh-b1bc996c",
+    "publishedAt": "2026-07-03T10:53:56.000Z",
+    "fetchedAt": "2026-07-03T12:58:18.393Z",
+    "body": "Yuanta Securities has been awarded the highest AAA certification for its accessible website, ensuring compliance with web accessibility standards.\n\nRead more from the original source: [Yahoo新聞](https://tw.news.yahoo.com/%E7%BE%A4%E7%9B%8A%E8%AD%89%E5%88%B8%E7%8D%B2%E7%84%A1%E9%9A%9C%E7%A4%99%E7%B6%B2%E9%A0%81aaa%E6%9C%80%E9%AB%98%E8%AA%8D%E8%AD%89%E6%A8%99%E7%AB%A0-105356885.html)"
+  },
+  {
+    "title": "Savaria Establishes Elevator Manufacturing in Europe by Acquiring Vipal S.p.A.",
+    "slug": "savaria-establishes-elevator-manufacturing-in-europe-by-acquiring-vipal-spa-105b4484",
+    "lang": "en",
+    "summary": "Savaria Corporation, a global leader in the accessibility industry, announced the acquisition of Vipal S.p.A. to establish elevator manufacturing in Europe, enhancing physical design accessibility for people with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "elevator",
+      "accessibility",
+      "manufacturing",
+      "Europe"
+    ],
+    "sourceName": "Financial Post",
+    "sourceUrl": "https://financialpost.com/globe-newswire/savaria-establishes-elevator-manufacturing-in-europe-by-acquiring-vipal-s-p-a",
+    "relatedSources": [
+      {
+        "name": "Financial Post",
+        "url": "https://financialpost.com/globe-newswire/savaria-establishes-elevator-manufacturing-in-europe-by-acquiring-vipal-s-p-a"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-105b4484",
+    "status": "published",
+    "translationOf": "savaria-establishes-elevator-manufacturing-in-europe-by-acquiring-vipal-spa-zh-105b4484",
+    "publishedAt": "2026-07-02T11:33:25.000Z",
+    "fetchedAt": "2026-07-03T12:59:54.156Z",
+    "body": "Savaria Corporation, a global leader in the accessibility industry, announced the acquisition of Vipal S.p.A. to establish elevator manufacturing in Europe, enhancing physical design accessibility for people with disabilities.\n\nRead more from the original source: [Financial Post](https://financialpost.com/globe-newswire/savaria-establishes-elevator-manufacturing-in-europe-by-acquiring-vipal-s-p-a)"
+  },
+  {
+    "title": "Disability Services Plan Launched; Eden Foundation Calls for Respect and Empathy to Support Persons with Disabilities",
+    "slug": "disability-services-plan-launched-eden-foundation-calls-for-respect-and-empathy--0d3cd2d8",
+    "lang": "en",
+    "summary": "The Eden Foundation's Disability Services Plan has started, advocating for a barrier-free society. It urges government, society, and professional services to work together, calling for legal reforms, improved services, and public attitude changes to prevent overprotective or stereotypical behavior that harms persons with disabilities.",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "advocacy",
+      "social attitudes",
+      "barrier-free",
+      "rights"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ca46dab2-a5ba-420c-909e-5288143ffc34",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ca46dab2-a5ba-420c-909e-5288143ffc34"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-0d3cd2d8",
+    "status": "published",
+    "translationOf": "disability-services-plan-launched-eden-foundation-calls-for-respect-and-empathy--zh-0d3cd2d8",
+    "publishedAt": "2026-07-02T10:56:42.000Z",
+    "fetchedAt": "2026-07-03T13:03:56.174Z",
+    "body": "The Eden Foundation's Disability Services Plan has started, advocating for a barrier-free society. It urges government, society, and professional services to work together, calling for legal reforms, improved services, and public attitude changes to prevent overprotective or stereotypical behavior that harms persons with disabilities.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ca46dab2-a5ba-420c-909e-5288143ffc34)"
+  },
+  {
+    "title": "Premier Approves Seventh Phase Offshore Island Comprehensive Construction Plan to Accelerate Low-Carbon Livable Islands",
+    "slug": "premier-approves-seventh-phase-offshore-island-comprehensive-construction-plan-t-5708cfde",
+    "lang": "en",
+    "summary": "The Executive Yuan approved the seventh phase offshore island comprehensive construction plan, allocating resources to improve transportation, utilities, healthcare, and cultural development on islands. Premier noted inspection of accessible facilities in the Nan'gang North Sea Tunnel recreational system, emphasizing barrier-free design as part of the low-carbon livable island initiative.",
+    "category": "physical-design",
+    "tags": [
+      "disability",
+      "accessibility",
+      "infrastructure",
+      "physical design",
+      "offshore islands"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%8D%93%E6%8F%86%E6%8B%8D%E6%9D%BF-%E7%AC%AC%E4%B8%83%E6%9C%9F%E9%9B%A2%E5%B3%B6%E7%B6%9C%E5%90%88%E5%BB%BA%E8%A8%AD%E5%AF%A6%E6%96%BD%E6%96%B9%E6%A1%88-%E5%8A%A0%E9%80%9F%E5%BB%BA%E8%A8%AD-%E4%BD%8E%E7%A2%B3%E6%A8%82%E6%B4%BB%E9%9B%A2%E5%B3%B6-093600648.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E5%8D%93%E6%8F%86%E6%8B%8D%E6%9D%BF-%E7%AC%AC%E4%B8%83%E6%9C%9F%E9%9B%A2%E5%B3%B6%E7%B6%9C%E5%90%88%E5%BB%BA%E8%A8%AD%E5%AF%A6%E6%96%BD%E6%96%B9%E6%A1%88-%E5%8A%A0%E9%80%9F%E5%BB%BA%E8%A8%AD-%E4%BD%8E%E7%A2%B3%E6%A8%82%E6%B4%BB%E9%9B%A2%E5%B3%B6-093600648.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-5708cfde",
+    "status": "published",
+    "translationOf": "premier-approves-seventh-phase-offshore-island-comprehensive-construction-plan-t-zh-5708cfde",
+    "publishedAt": "2026-07-02T09:36:00.000Z",
+    "fetchedAt": "2026-07-03T13:03:56.187Z",
+    "body": "The Executive Yuan approved the seventh phase offshore island comprehensive construction plan, allocating resources to improve transportation, utilities, healthcare, and cultural development on islands. Premier noted inspection of accessible facilities in the Nan'gang North Sea Tunnel recreational system, emphasizing barrier-free design as part of the low-carbon livable island initiative.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%8D%93%E6%8F%86%E6%8B%8D%E6%9D%BF-%E7%AC%AC%E4%B8%83%E6%9C%9F%E9%9B%A2%E5%B3%B6%E7%B6%9C%E5%90%88%E5%BB%BA%E8%A8%AD%E5%AF%A6%E6%96%BD%E6%96%B9%E6%A1%88-%E5%8A%A0%E9%80%9F%E5%BB%BA%E8%A8%AD-%E4%BD%8E%E7%A2%B3%E6%A8%82%E6%B4%BB%E9%9B%A2%E5%B3%B6-093600648.html)"
+  },
+  {
+    "title": "Unconsented Physical Contact Common; Eden Foundation Warns Persons with Disabilities Vulnerable to Invisible Harm",
+    "slug": "unconsented-physical-contact-common-eden-foundation-warns-persons-with-disabilit-71cc2273",
+    "lang": "en",
+    "summary": "A survey by the Eden Foundation found that unconsented physical contact is a frequent issue, with experts noting that such overprotective actions, though seemingly well-intentioned, can cause unseen harm to persons with disabilities, especially visually impaired individuals who may be grabbed without consent while crossing streets.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "harassment",
+      "social attitudes",
+      "awareness",
+      "invisible harm"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_95363e90-bb6f-47a4-b8ea-a8b49d7881f7",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_95363e90-bb6f-47a4-b8ea-a8b49d7881f7"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-71cc2273",
+    "status": "published",
+    "translationOf": "unconsented-physical-contact-common-eden-foundation-warns-persons-with-disabilit-zh-71cc2273",
+    "publishedAt": "2026-07-02T08:14:11.000Z",
+    "fetchedAt": "2026-07-03T13:03:56.205Z",
+    "body": "A survey by the Eden Foundation found that unconsented physical contact is a frequent issue, with experts noting that such overprotective actions, though seemingly well-intentioned, can cause unseen harm to persons with disabilities, especially visually impaired individuals who may be grabbed without consent while crossing streets.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_95363e90-bb6f-47a4-b8ea-a8b49d7881f7)"
+  },
+  {
+    "title": "Ancheng Park Cherry Blossom Playground Opens, Adding a New Leisure Spot in Xindian",
+    "slug": "ancheng-park-cherry-blossom-playground-opens-adding-a-new-leisure-spot-in-xindia-9d742d96",
+    "lang": "en",
+    "summary": "The Xindian District Office completed the Ancheng Park playground improvement project on May 14, adding cherry blossom-themed accessible facilities, inclusive play equipment, and improved pathways, creating an all‑age friendly park.",
+    "category": "physical-design",
+    "tags": [
+      "park",
+      "accessibility",
+      "cherry blossom",
+      "playground",
+      "Xindian"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%AE%89%E6%88%90%E5%85%AC%E5%9C%92%E6%AB%BB%E8%8A%B1%E9%81%8A%E6%88%B2%E5%A0%B4%E5%95%9F%E7%94%A8-%E6%96%B0%E5%BA%97%E5%86%8D%E6%B7%BB%E4%BC%91%E6%86%A9%E4%BA%AE%E9%BB%9E-063949570.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E5%AE%89%E6%88%90%E5%85%AC%E5%9C%92%E6%AB%BB%E8%8A%B1%E9%81%8A%E6%88%B2%E5%A0%B4%E5%95%9F%E7%94%A8-%E6%96%B0%E5%BA%97%E5%86%8D%E6%B7%BB%E4%BC%91%E6%86%A9%E4%BA%AE%E9%BB%9E-063949570.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-9d742d96",
+    "status": "published",
+    "translationOf": "ancheng-park-cherry-blossom-playground-opens-adding-a-new-leisure-spot-in-xindia-zh-9d742d96",
+    "publishedAt": "2026-07-02T06:39:49.000Z",
+    "fetchedAt": "2026-07-03T13:07:55.706Z",
+    "body": "The Xindian District Office completed the Ancheng Park playground improvement project on May 14, adding cherry blossom-themed accessible facilities, inclusive play equipment, and improved pathways, creating an all‑age friendly park.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%AE%89%E6%88%90%E5%85%AC%E5%9C%92%E6%AB%BB%E8%8A%B1%E9%81%8A%E6%88%B2%E5%A0%B4%E5%95%9F%E7%94%A8-%E6%96%B0%E5%BA%97%E5%86%8D%E6%B7%BB%E4%BC%91%E6%86%A9%E4%BA%AE%E9%BB%9E-063949570.html)"
+  },
+  {
+    "title": "Xindian's Ancheng Park Opens, Creating a New Cherry Blossom Viewing and Relaxation Spot",
+    "slug": "xindians-ancheng-park-opens-creating-a-new-cherry-blossom-viewing-and-relaxation-3d7fc72f",
+    "lang": "en",
+    "summary": "The Ancheng Park playground improvement project finished on May 14, featuring cherry blossom landscaping, accessible design, and inclusive play facilities, offering a multi‑generational space for flower viewing, recreation, and relaxation.",
+    "category": "physical-design",
+    "tags": [
+      "park",
+      "accessibility",
+      "cherry blossom",
+      "playground",
+      "Xindian"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%96%B0%E5%BA%97-%E5%AE%89%E6%88%90%E5%85%AC%E5%9C%92-%E5%95%9F%E7%94%A8-%E6%89%93%E9%80%A0%E8%B3%9E%E6%AB%BB%E4%BC%91%E6%86%A9%E6%96%B0%E4%BA%AE%E9%BB%9E-061953932.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%BA%97-%E5%AE%89%E6%88%90%E5%85%AC%E5%9C%92-%E5%95%9F%E7%94%A8-%E6%89%93%E9%80%A0%E8%B3%9E%E6%AB%BB%E4%BC%91%E6%86%A9%E6%96%B0%E4%BA%AE%E9%BB%9E-061953932.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-3d7fc72f",
+    "status": "published",
+    "translationOf": "xindians-ancheng-park-opens-creating-a-new-cherry-blossom-viewing-and-relaxation-zh-3d7fc72f",
+    "publishedAt": "2026-07-02T06:19:53.000Z",
+    "fetchedAt": "2026-07-03T13:07:55.718Z",
+    "body": "The Ancheng Park playground improvement project finished on May 14, featuring cherry blossom landscaping, accessible design, and inclusive play facilities, offering a multi‑generational space for flower viewing, recreation, and relaxation.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E6%96%B0%E5%BA%97-%E5%AE%89%E6%88%90%E5%85%AC%E5%9C%92-%E5%95%9F%E7%94%A8-%E6%89%93%E9%80%A0%E8%B3%9E%E6%AB%BB%E4%BC%91%E6%86%A9%E6%96%B0%E4%BA%AE%E9%BB%9E-061953932.html)"
+  },
+  {
+    "title": "Taichung Promotes Temporary Short-Term Care Services for Foreign Caregiver Holidays to Ease Disabled Family Burden",
+    "slug": "taichung-promotes-temporary-short-term-care-services-for-foreign-caregiver-holid-c6cb7b79",
+    "lang": "en",
+    "summary": "In Taichung, a program allows families with disabled members to use temporary short-term care services when foreign caregivers are on leave, providing in-home support from trained staff and reducing caregiving pressure.",
+    "category": "case-studies",
+    "tags": [
+      "disability care",
+      "foreign caregiver",
+      "respite service",
+      "Taichung"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_05b6b6e6-10b9-43c9-80f1-94d983e0c017",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_05b6b6e6-10b9-43c9-80f1-94d983e0c017"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-c6cb7b79",
+    "status": "published",
+    "translationOf": "taichung-promotes-temporary-short-term-care-services-for-foreign-caregiver-holid-zh-c6cb7b79",
+    "publishedAt": "2026-07-02T03:29:01.000Z",
+    "fetchedAt": "2026-07-03T13:12:20.398Z",
+    "body": "In Taichung, a program allows families with disabled members to use temporary short-term care services when foreign caregivers are on leave, providing in-home support from trained staff and reducing caregiving pressure.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_05b6b6e6-10b9-43c9-80f1-94d983e0c017)"
+  },
+  {
+    "title": "Never Missing Critical Moments! Taichung City Government Social Bureau's 7 Services Protect the Vulnerable for a Lifetime",
+    "slug": "never-missing-critical-moments-taichung-city-government-social-bureaus-7-service-eab25229",
+    "lang": "en",
+    "summary": "The Taichung City Government Social Bureau intervened to provide legal guardianship for a person with moderate intellectual disability after his parents passed away and for an elderly woman with severe dementia whose assets were threatened, invoking the Disabled Persons Rights Protection Act, Elderly Welfare Act, and Civil Code to appoint legal guardians and engage professional social workers to safeguard their finances and arrange medical and arrange medical and institutional care.",
+    "category": "laws-rights",
+    "tags": [
+      "disability rights",
+      "guardianship",
+      "intellectual disability",
+      "dementia",
+      "social services"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc93087c-7af6-4468-a006-70cc7645f31c",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc93087c-7af6-4468-a006-70cc7645f31c"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-eab25229",
+    "status": "published",
+    "translationOf": "never-missing-critical-moments-taichung-city-government-social-bureaus-7-service-zh-eab25229",
+    "publishedAt": "2026-07-02T01:53:04.000Z",
+    "fetchedAt": "2026-07-03T13:13:05.117Z",
+    "body": "The Taichung City Government Social Bureau intervened to provide legal guardianship for a person with moderate intellectual disability after his parents passed away and for an elderly woman with severe dementia whose assets were threatened, invoking the Disabled Persons Rights Protection Act, Elderly Welfare Act, and Civil Code to appoint legal guardians and engage professional social workers to safeguard their finances and arrange medical and arrange medical and institutional care.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc93087c-7af6-4468-a006-70cc7645f31c)"
+  },
+  {
+    "title": "Safari Adds MCP Server to Enable AI Agents to Check Actual Webpage State",
+    "slug": "safari-adds-mcp-server-to-enable-ai-agents-to-check-actual-webpage-state-e309e2f0",
+    "lang": "en",
+    "summary": "Apple added MCP server in Safari Technology Preview 247, allowing MCP-supported developer agents or clients to connect to Safari windows to obtain the actual rendering and execution state of webpages, facilitating frontend debugging, Safari compatibility checks, performance analysis, and accessibility testing, so agents can see actual display and execution results beyond code.",
+    "category": "digital-a11y",
+    "tags": [
+      "Safari",
+      "MCP",
+      "accessibility testing",
+      "AI agents",
+      "frontend debugging"
+    ],
+    "sourceName": "Ithome.com.tw",
+    "sourceUrl": "https://www.ithome.com.tw/news/177039",
+    "relatedSources": [
+      {
+        "name": "Ithome.com.tw",
+        "url": "https://www.ithome.com.tw/news/177039"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-e309e2f0",
+    "status": "published",
+    "translationOf": "safari-adds-mcp-server-to-enable-ai-agents-to-check-actual-webpage-state-zh-e309e2f0",
+    "publishedAt": "2026-07-02T01:07:58.000Z",
+    "fetchedAt": "2026-07-03T13:13:21.338Z",
+    "body": "Apple added MCP server in Safari Technology Preview 247, allowing MCP-supported developer agents or clients to connect to Safari windows to obtain the actual rendering and execution state of webpages, facilitating frontend debugging, Safari compatibility checks, performance analysis, and accessibility testing, so agents can see actual display and execution results beyond code.\n\nRead more from the original source: [Ithome.com.tw](https://www.ithome.com.tw/news/177039)"
   }
 ]
