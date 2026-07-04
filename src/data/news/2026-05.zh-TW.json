@@ -22289,7 +22289,7 @@
     "title": "a11yviz 0.1.4",
     "slug": "a11yviz-014-zh-4b11435f",
     "lang": "zh-TW",
-    "summary": "使圖表與文件在 Python 的 plotnine、plotly 和 Quarto 中無障礙，符合 WCAG 2.1。",
+    "summary": "使圖表與文件在 plotnine、plotly、Quarto 的 Python 環境中無障礙，符合 WCAG 2.1。",
     "category": "digital-a11y",
     "tags": [
       "accessibility",
@@ -24135,7 +24135,7 @@
     "title": "a11yviz 0.1.5",
     "slug": "a11yviz-015-zh-d54f7ded",
     "lang": "zh-TW",
-    "summary": "使圖表與文件在 Python 的 plotnine、plotly 和 Quarto 中無障礙，符合網頁內容無障礙指南（WCAG 2.1）。",
+    "summary": "使圖表和文件在 plotnine、plotly 和 Quarto 中的 Python 環境下可存取，符合網頁內容無障礙指南（WCAG 2.1）。",
     "category": "digital-a11y",
     "tags": [
       "accessibility",
@@ -35636,7 +35636,7 @@
     "title": "a11yviz 0.1.8",
     "slug": "a11yviz-018-zh-689b4a5c",
     "lang": "zh-TW",
-    "summary": "讓 plotnine、plotly 與 Quarto 在 Python 中的圖表與文件符合無障礙需求，並依循 WCAG 2.1 指引。",
+    "summary": "使圖表和文件在 plotnine、plotly 和 Quarto 中的 Python 環境下可存取，符合網頁內容無障礙指南（WCAG 2.1）。",
     "category": "digital-a11y",
     "tags": [
       "accessibility",
@@ -40306,7 +40306,7 @@
     "title": "sentinel-agent 0.1.6",
     "slug": "sentinel-agent-016-zh-bf38d1e5",
     "lang": "zh-TW",
-    "summary": "由 AI 驅動的功能測試代理，會探索指定 URL、產生測試計畫、執行並回報結果。包含透過 Playwright 進行網頁測試、視覺回歸、使用 axe-core 進行無障礙檢查，以及 REST API 契約測試，全部由可選擇的 LLM 編排。",
+    "summary": "AI 驅動的功能測試代理，探索給定 URL，生成測試計畫，執行並回報結果。包含 Playwright 網頁測試、視覺回歸、axe-core 無障礙檢查及 REST API 合約測試，皆由可選 LLM 編排。",
     "category": "digital-a11y",
     "tags": [
       "AI",
@@ -40342,7 +40342,7 @@
     "title": "sentinel-agent 0.1.5",
     "slug": "sentinel-agent-015-zh-2e99a448",
     "lang": "zh-TW",
-    "summary": "AI驅動的功能測試代理，會探索給定的 URL，生成測試計畫，執行並回報結果。包含透過 Playwright 進行的網頁測試、視覺回歸、使用 axe-core 的無障礙檢查，以及 REST API 合約測試，全部由可選擇的 LLM 編排。",
+    "summary": "AI 驅動的功能測試代理，探索給定 URL，生成測試計畫，執行並回報結果。包含 Playwright 網頁測試、視覺回歸、axe-core 無障礙檢查及 REST API 合約測試，皆由可選 LLM 編排。",
     "category": "digital-a11y",
     "tags": [
       "AI",
@@ -40378,7 +40378,7 @@
     "title": "sentinel-agent 0.1.4",
     "slug": "sentinel-agent-014-zh-4d851f67",
     "lang": "zh-TW",
-    "summary": "AI驅動的功能測試代理，會探索給定的 URL，生成測試計畫，執行並回報結果。包含透過 Playwright 進行的網頁測試、視覺回歸、使用 axe-core 的無障礙檢查，以及 REST API 合約測試，全部由可選擇的 LLM 編排。",
+    "summary": "AI 驅動的功能測試代理，探索給定 URL，生成測試計畫，執行並回報結果。包含 Playwright 網頁測試、視覺回歸、axe-core 無障礙檢查及 REST API 合約測試，皆由可選 LLM 編排。",
     "category": "digital-a11y",
     "tags": [
       "AI",
@@ -40414,7 +40414,7 @@
     "title": "sentinel-agent 0.1.3",
     "slug": "sentinel-agent-013-zh-c16b487a",
     "lang": "zh-TW",
-    "summary": "AI 驅動的功能測試代理，會探索給定的 URL，產生測試計畫，執行並回報發現。包含透過 Playwright 進行的網頁測試、視覺回歸、使用 axe-core 的無障礙檢查，以及 REST API 合約測試，全部由可選擇的 LLM 引導。",
+    "summary": "一個由 AI 驅動的功能測試代理，會探索給定的 URL，生成測試計畫，執行它們並報告發現，結合使用 Playwright 進行網頁測試、視覺回歸、使用 axe-core 進行無障礙檢查，以及 REST API 合約測試，全部由可選擇的 LLM 引導。",
     "category": "digital-a11y",
     "tags": [
       "accessibility",
@@ -40448,7 +40448,7 @@
     "title": "sentinel-agent 0.1.2",
     "slug": "sentinel-agent-012-zh-7182d800",
     "lang": "zh-TW",
-    "summary": "一個由 AI 驅動的功能測試代理，會探索給定的 URL，產生測試計畫，執行並回報發現，結合使用 Playwright 進行網頁測試、視覺回歸、使用 axe-core 進行無障礙檢查，以及 REST API 合約測試，全部由可選擇的 LLM 引導。",
+    "summary": "一個由 AI 驅動的功能測試代理，會探索給定的 URL，生成測試計畫，執行它們並報告發現，結合使用 Playwright 進行網頁測試、視覺回歸、使用 axe-core 進行無障礙檢查，以及 REST API 合約測試，全部由可選擇的 LLM 引導。",
     "category": "digital-a11y",
     "tags": [
       "accessibility",
@@ -40482,7 +40482,7 @@
     "title": "sentinel-agent 0.1.1",
     "slug": "sentinel-agent-011-zh-9753ca50",
     "lang": "zh-TW",
-    "summary": "一個由 AI 驅動的功能測試代理，會探索給定的 URL，產生測試計畫，執行並回報發現，結合使用 Playwright 進行網頁測試、視覺回歸、使用 axe-core 進行無障礙檢查，以及 REST API 合約測試，全部由可選擇的 LLM 引導。",
+    "summary": "一個由 AI 驅動的功能測試代理，會探索給定的 URL，生成測試計畫，執行它們並報告發現，結合使用 Playwright 進行網頁測試、視覺回歸、使用 axe-core 進行無障礙檢查，以及 REST API 合約測試，全部由可選擇的 LLM 引導。",
     "category": "digital-a11y",
     "tags": [
       "accessibility",
@@ -40513,10 +40513,10 @@
     "body": "一個由 AI 驅動的功能測試代理，能針對指定 URL 進行探索、生成測試計畫、執行測試並回報結果，包含使用 Playwright 進行網頁測試、視覺回歸、以 axe-core 進行無障礙檢查以及 REST API 合約測試，全部可由選擇的 LLM 驅動。\n\n原文來源： [Pypi.org](https://pypi.org/project/sentinel-agent/0.1.1)"
   },
   {
-    "title": "sentinel-agent 0.1.0",
+    "title": "哨兵代理 0.1.0",
     "slug": "sentinel-agent-010-zh-3d19e4a7",
     "lang": "zh-TW",
-    "summary": "一個由 AI 驅動的功能測試代理，會探索網頁應用，產生測試計畫，執行並回報發現，結合視覺回歸、使用 axe-core 進行無障礙測試，以及 REST API 合約測試，全部由可選擇的 LLM 編排。",
+    "summary": "一個由 AI 驅動的功能測試代理，可探索網頁應用、生成測試計畫、執行並回報發現，整合視覺回歸、透過 axe-core 進行無障礙測試以及 REST API 合約測試，全部由可選擇的 LLM 編排。",
     "category": "digital-a11y",
     "tags": [
       "AI",
@@ -44469,7 +44469,7 @@
     "title": "inclusio 0.0.4",
     "slug": "inclusio-004-zh-72acde72",
     "lang": "zh-TW",
-    "summary": "以無障礙為首要的出版引擎 — 支援 PDF/UA-2、WTPDF、PDF/A-4f、C2PA、PAdES、SLSA 來源證明、多格式輸出及 MCP 伺服器。",
+    "summary": "以無障礙為優先的出版引擎 — PDF/UA-2 + WTPDF + PDF/A-4f，C2PA + PAdES + SLSA 來源，多格式輸出，MCP 伺服器。",
     "category": "digital-a11y",
     "tags": [
       "inclusio",
@@ -44502,7 +44502,7 @@
     "title": "inclusio 0.0.3",
     "slug": "inclusio-003-zh-60822125",
     "lang": "zh-TW",
-    "summary": "以無障礙為首要的出版引擎，支援 PDF/UA-2、WTPDF、PDF/A-4f、C2PA、PAdES、SLSA 來源證明、多格式輸出及 MCP 伺服器。",
+    "summary": "以無障礙為優先的出版引擎，支援 PDF/UA-2、WTPDF、PDF/A-4f、C2PA、PAdES、SLSA 來源、多格式輸出及 MCP 伺服器。",
     "category": "digital-a11y",
     "tags": [
       "accessibility",
@@ -44538,7 +44538,7 @@
     "title": "inclusio 0.0.2",
     "slug": "inclusio-002-zh-74331e08",
     "lang": "zh-TW",
-    "summary": "以無障礙為先的發布引擎，支援 PDF/UA-2、WTPDF、PDF/A-4f、C2PA、PAdES、SLSA 來源追蹤、多格式輸出及 MCP 伺服器。",
+    "summary": "以無障礙為優先的出版引擎，支援 PDF/UA-2、WTPDF、PDF/A-4f、C2PA、PAdES、SLSA 來源證明、多格式輸出及 MCP 伺服器。",
     "category": "digital-a11y",
     "tags": [
       "accessibility",
@@ -45361,7 +45361,7 @@
     "title": "pdf-docmodel 0.1.2",
     "slug": "pdf-docmodel-012-zh-6aa9b1c7",
     "lang": "zh-TW",
-    "summary": "PDF 標記生產者與無障礙審核員（TagWise、pdf-auto-tagger）之間的共享資料契約。純資料類別，零執行階段依賴。",
+    "summary": "PDF 標記製作者與無障礙審核員（TagWise、pdf-auto-tagger）之間的共享資料契約。純資料類別，零執行階段依賴。",
     "category": "digital-a11y",
     "tags": [
       "pdf",
@@ -45394,7 +45394,7 @@
     "title": "pdf-docmodel 0.1.1",
     "slug": "pdf-docmodel-011-zh-241bc969",
     "lang": "zh-TW",
-    "summary": "PDF 標記生產者與無障礙審核員（TagWise、pdf-auto-tagger）之間的共享資料契約。純資料類別，零執行階段依賴。",
+    "summary": "PDF 標記製作者與無障礙審核員（TagWise、pdf-auto-tagger）之間的共享資料契約。純資料類別，零執行階段依賴。",
     "category": "digital-a11y",
     "tags": [
       "pdf",
@@ -45461,7 +45461,7 @@
     "title": "xa11y 0.8.2",
     "slug": "xa11y-082-zh-5e5c1299",
     "lang": "zh-TW",
-    "summary": "跨平台無障礙用戶端程式庫",
+    "summary": "跨平台無障礙用戶端函式庫",
     "category": "digital-a11y",
     "tags": [
       "accessibility",
@@ -45493,7 +45493,7 @@
     "title": "inclusio 0.0.5",
     "slug": "inclusio-005-zh-e1e5c4f4",
     "lang": "zh-TW",
-    "summary": "以無障礙為先的發布引擎 — PDF/UA-2 + WTPDF + PDF/A-4f，C2PA + PAdES + SLSA 來源，多格式輸出，MCP 伺服器。",
+    "summary": "以無障礙為優先的出版引擎 — PDF/UA-2 + WTPDF + PDF/A-4f，C2PA + PAdES + SLSA 來源追蹤，多格式輸出，MCP 伺服器。",
     "category": "digital-a11y",
     "tags": [
       "PDF/UA-2",
@@ -45795,7 +45795,7 @@
     "title": "pathlight-mcp 0.3.7",
     "slug": "pathlight-mcp-037-zh-ac61aebb",
     "lang": "zh-TW",
-    "summary": "桌面無障礙 MCP — 類似 Playwright 的 MCP，適用於由 OS 無障礙 API 驅動的非瀏覽器桌面應用。",
+    "summary": "桌面無障礙 MCP — 一種類似 Playwright 的 MCP，適用於由 OS 無障礙 API 驅動的非瀏覽器桌面應用程式。",
     "category": "digital-a11y",
     "tags": [
       "desktop",

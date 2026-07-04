@@ -2047,7 +2047,7 @@
     "title": "fast-a11y-py 0.2.0",
     "slug": "fast-a11y-py-020-zh-3002c9f5",
     "lang": "zh-TW",
-    "summary": "快速、零DOM的無障礙檢查工具，輸出與axe-core相容",
+    "summary": "快速、零 DOM 的無障礙檢查工具，輸出與 axe-core 相容",
     "category": "digital-a11y",
     "tags": [
       "accessibility testing",
@@ -44588,7 +44588,7 @@
     "title": "accessibility-ai-mcp 1.0.13",
     "slug": "accessibility-ai-mcp-1013-zh-b7e0a521",
     "lang": "zh-TW",
-    "summary": "Accessibility Ai MCP 伺服器提供檢查色彩對比、建議替代文字及驗證標題階層的工具，以提升數位無障礙。",
+    "summary": "Accessibility Ai MCP 伺服器提供工具，可檢查色彩對比、建議替代文字，並驗證標題階層，以提升數位無障礙性。",
     "category": "digital-a11y",
     "tags": [
       "accessibility AI",
@@ -44622,7 +44622,7 @@
     "title": "accessibility-ai-mcp 1.0.12",
     "slug": "accessibility-ai-mcp-1012-zh-0d21543f",
     "lang": "zh-TW",
-    "summary": "提供工具以檢查色彩對比、建議替代文字、驗證標題階層的 MCP 伺服器，以提升數位無障礙。",
+    "summary": "一個 MCP 伺服器，提供工具以檢查色彩對比、建議替代文字，並驗證標題階層，以提升數位無障礙性。",
     "category": "digital-a11y",
     "tags": [
       "color contrast",
@@ -67568,7 +67568,7 @@
     "title": "a11y-moda 0.5.0",
     "slug": "a11y-moda-050-zh-fddd53ac",
     "lang": "zh-TW",
-    "summary": "台灣 MODA 無障礙 CLI 工具，支援 WCAG A/AA/AAA 標準，提供繁體中文介面並搭配 Freego 補充。",
+    "summary": "支援 WCAG A/AA/AAA 標準的台灣 MODA 無障礙 CLI 工具，具備繁體中文介面及 Freego 補充。",
     "category": "digital-a11y",
     "tags": [
       "accessibility CLI",
@@ -76222,7 +76222,7 @@
     "title": "xa11y 0.9.1",
     "slug": "xa11y-091-zh-37dc6a07",
     "lang": "zh-TW",
-    "summary": "跨平台無障礙用戶端庫",
+    "summary": "跨平台無障礙用戶端程式庫",
     "category": "digital-a11y",
     "tags": [
       "accessibility library",
@@ -91475,10 +91475,10 @@
     "body": "新提出的『人工智慧（AI）綜合法案』在 2026 年 5 月達成協議，將撤銷許多由 AI 法案建立的基本權利保障，特別影響殘障人士在敏感資料使用及應對 AI 系統造成的歧視方面的保護。\n\n原文來源： [Unknown source](https://www.edf-feph.org/6-ways-the-ai-omnibus-weakens-protections-for-persons-with-disabilities)"
   },
   {
-    "title": "accessibility-intelligence 1.0.2",
+    "title": "無障礙智能 1.0.2",
     "slug": "accessibility-intelligence-102-zh-a65f9cc7",
     "lang": "zh-TW",
-    "summary": "一個掃描原始碼與螢幕截圖的 AI 代理，用於偵測 iOS、Android 與網頁應用的無障礙問題。",
+    "summary": "AI 代理掃描原始碼與螢幕截圖，偵測 iOS、Android、網頁應用的無障礙問題。",
     "category": "digital-a11y",
     "tags": [
       "AI",
@@ -111486,10 +111486,10 @@
     "body": "Google Photos 目前存在影響殘障使用者的無障礙問題，預計將推出修復方案以解決此問題。\n\n原文來源： [PhoneArena](https://www.phonearena.com/news/google-photos-has-an-accessibility-problem-but-a-fix-is-finally-on-the-way_id181452)"
   },
   {
-    "title": "alt-text-llm 1.6.1",
+    "title": "替代文字 LLM 1.6.1",
     "slug": "alt-text-llm-161-zh-5c815a04",
     "lang": "zh-TW",
-    "summary": "由 AI 驅動的工具，可為 Markdown 內容生成替代文字與標籤，以提升無障礙性。",
+    "summary": "AI 工具為 Markdown 生成替代文字與標籤，提升無障礙性。",
     "category": "assistive-tech",
     "tags": [
       "alt-text",
@@ -123783,10 +123783,10 @@
     "body": "美國參議員Tim Kaine（D‑VA），參議院衛生、教育、勞工與退休金委員會成員，於2026年6月24日提出《支援直接照護勞動力和家庭照護者法案》。該立法將為州政府及其他符合資格的實體提供資金，以支援直接照護工作者和家庭照護者，他們提供基本的日常……\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/06/26/law/senator-kaine-introduces-legislation-to-support-care-workforce-family-caregivers)"
   },
   {
-    "title": "frontend-dev-mcp 0.1.7",
+    "title": "前端開發 MCP 0.1.7",
     "slug": "frontend-dev-mcp-017-zh-c0eeb628",
     "lang": "zh-TW",
-    "summary": "MCP伺服器，支援前端設計系統、工程模式、無障礙及UX工作流程",
+    "summary": "MCP 伺服器，支援前端設計系統、工程模式、無障礙與 UX 工作流程。",
     "category": "digital-a11y",
     "tags": [
       "frontend",
@@ -123816,10 +123816,10 @@
     "body": "MCP 伺服器，用於前端設計系統、工程模式、無障礙及 UX 工作流程\n\n原文來源： [Pypi.org](https://pypi.org/project/frontend-dev-mcp/0.1.7)"
   },
   {
-    "title": "frontend-dev-mcp 0.1.6",
+    "title": "前端開發 MCP 0.1.6",
     "slug": "frontend-dev-mcp-016-zh-2ad44d5b",
     "lang": "zh-TW",
-    "summary": "MCP伺服器，支援前端設計系統、工程模式、無障礙及UX工作流程",
+    "summary": "用於前端設計系統、工程模式、無障礙及 UX 工作流程的 MCP 伺服器",
     "category": "digital-a11y",
     "tags": [
       "frontend",
