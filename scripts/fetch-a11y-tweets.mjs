@@ -1025,7 +1025,7 @@ async function main() {
       });
     }
 
-    const TRANSLATE_SCORE_THRESHOLD = 10;
+    const TRANSLATE_SCORE_THRESHOLD = 1;
     let zhMap = new Map();
     if (enItems.length > 0) {
       const toTranslate = enItems.filter((item) => item._score >= TRANSLATE_SCORE_THRESHOLD);

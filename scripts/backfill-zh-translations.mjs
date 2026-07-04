@@ -1,6 +1,5 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import crypto from 'node:crypto';
 
 const NEWS_DATA_DIR = path.resolve('src/data/news');
 const OLLAMA_BASE_URL = (process.env.OLLAMA_BASE_URL || '').replace(/\/$/, '');
@@ -222,8 +221,10 @@ async function main() {
       const en = enBySlug.get(zh.translationOf);
       if (!en) continue;
 
-      // Check if zh title is untranslated (no Chinese chars) and matches en title
-      if (!hasChinese(zh.title) && !hasChinese(zh.summary)) {
+      if (!isWithinLookback(zh.publishedAt)) continue;
+
+      // Check if zh title is untranslated (no Chinese chars in title)
+      if (!hasChinese(zh.title)) {
         toTranslate.push({
           itemId: i,
           englishTitle: en.title,

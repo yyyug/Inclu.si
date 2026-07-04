@@ -6,7 +6,7 @@ on:
       lookback_hours:
         description: "Translate entries published within this many hours"
         required: false
-        default: "24"
+        default: "87600"
         type: string
 
 permissions:
