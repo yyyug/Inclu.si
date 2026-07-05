@@ -1,55 +1,51 @@
 {
-  "date": "2026-07-04",
-  "generatedAt": "2026-07-04T05:50:23.810Z",
+  "date": "2026-07-05",
+  "generatedAt": "2026-07-05T01:14:48.479Z",
   "en": {
-    "title": "State Funds Boost Wheelchair Accessibility in Kern County Facilities",
-    "summary": "A state commission will allocate thousands of dollars to improve wheelchair accessibility across Kern County facilities. Advances in hearing aid and cochlear implant technology expand options for people with hearing loss. Additionally, a new smart toilet robot moves autonomously to assist users with disabilities.",
+    "title": "Tainan City Implements Visual Impairment Support; Accessible Transport Donations Boost Mobility",
+    "summary": "Tainan City Education Bureau has implemented reasonable adjustments and provided assistive devices to support visually impaired students in regular classrooms. Meanwhile, Good Food Restaurant donated an accessible midibus benefiting 300 disabled individuals, and similar donations of accessible buses continue to improve transportation access. Advocacy groups also clarified that disability pensions do not prohibit employment, encouraging inclusive workforce participation.",
     "highlights": [
       {
-        "title": "State commission to allocate thousands to boost Kern County’s wheelchair accessibility",
-        "slug": "state-commission-to-allocate-thousands-to-boost-kern-countys-wheelchair-accessib-8ec545cd"
+        "title": "Tainan City Education Bureau Implements Reasonable Adjustments to Support Visually Impaired Students in Classroom, Providing Assistive Devices for Barrier-Free Learning",
+        "slug": "tainan-city-education-bureau-implements-reasonable-adjustments-to-support-visual-c2cf46eb"
       },
       {
-        "title": "Hearing aids and cochlear implants evolve accessibility",
-        "slug": "hearing-aids-and-cochlear-implants-evolve-accessibility-dc71982a"
+        "title": "Good Food Restaurant Donates Accessible Midibus, Benefiting 300 Disabled Individuals",
+        "slug": "good-food-restaurant-donates-accessible-midibus-benefiting-300-disabled-individu-e069aee4"
       },
       {
-        "title": "Accessible Toilet Robot - Xiao Ban: Smart Toilet That Moves When Called",
-        "slug": "accessible-toilet-robot-xiao-ban-smart-toilet-that-moves-when-called-18eaadbc"
+        "title": "Taipei City Cuts Trees to Install Umbrellas for Accessible Space",
+        "slug": "taipei-city-cuts-trees-to-install-umbrellas-for-accessible-space-5ba1636d"
       },
       {
-        "title": "Advocating for an Inclusive Society with Disability Support",
-        "slug": "advocating-for-an-inclusive-society-with-disability-support-c86c852e"
-      },
-      {
-        "title": "Traverse Tall Ship Company Reaffirms Commitment to Accessibility with Certified Autism Center™ Renewal",
-        "slug": "traverse-tall-ship-company-reaffirms-commitment-to-accessibility-with-certified--141db795"
+        "title": "Disability pension does not prohibit work, advocacy clarifies",
+        "slug": "disability-pension-does-not-prohibit-work-advocacy-clarifies-d760b025"
       }
     ]
   },
   "zh-TW": {
-    "title": "州委員會撥款改善肯恩縣輪椅無障礙設施",
-    "summary": "州委員會將撥出數千美元，改善肯恩縣的輪椅無障礙設施。助聽器與人工耳蝸技術進步，為聽力障礙者提供更多選擇。此外，一款智能馬桶機器人能自行移動至使用者身旁，協助殘障人士。",
+    "title": "南市 教局 落實 視障 輔助 良品 捐贈 無障礙 中巴 惠及 300 身障者",
+    "summary": "南市教局已落實合理調整，提供視障學生所需輔具，使課堂學習無障礙。同時，良品餐飲捐贈無障礙中巴，惠及300位身障者提升行動便利。日本的殘障就業支援服務也受到批判，指出其以營利為主，未真正考慮殘障者需求。",
     "highlights": [
       {
-        "title": "州委員會將撥款提升肯恩縣輪椅無障礙設施",
-        "slug": "state-commission-to-allocate-thousands-to-boost-kern-countys-wheelchair-accessib-zh-8ec545cd"
+        "title": "南市教局落實合理調整 支持視障學生融入課堂 輔具到位讓學習無障礙",
+        "slug": "tainan-city-education-bureau-implements-reasonable-adjustments-to-support-visual-zh-c2cf46eb"
       },
       {
-        "title": "助聽器與人工耳蝸演進提升無障礙",
-        "slug": "hearing-aids-and-cochlear-implants-evolve-accessibility-zh-dc71982a"
+        "title": "（有影片）／愛心上路！良品餐飲捐無障礙中巴 300身障者受惠 | 觀傳媒",
+        "slug": "good-food-restaurant-donates-accessible-midibus-benefiting-300-disabled-individu-zh-e069aee4"
       },
       {
-        "title": "《無障礙如廁機器人-小伴》一款只要你呼叫就會自己移動過來的智能馬桶 - 宅宅新聞",
-        "slug": "accessible-toilet-robot-xiao-ban-smart-toilet-that-moves-when-called-zh-18eaadbc"
+        "title": "北市府砍樹蓋遮陽傘？簡舒培曝兩樹新家 市府：配合無障礙空間才移除",
+        "slug": "taipei-city-cuts-trees-to-install-umbrellas-for-accessible-space-zh-5ba1636d"
       },
       {
-        "title": "倡議建構殘障支援的共融社會",
-        "slug": "advocating-for-an-inclusive-society-with-disability-support-zh-c86c852e"
+        "title": "影音/抗通膨送暖 良品餐飲捐中型無障礙巴士",
+        "slug": "good-food-beverage-donates-medium-sized-accessible-bus-to-fight-inflation-zh-565d6bbb"
       },
       {
-        "title": "Traverse Tall Ship Company 更新自閉症友善中心認證，重申無障礙承諾",
-        "slug": "traverse-tall-ship-company-reaffirms-commitment-to-accessibility-with-certified--zh-141db795"
+        "title": "Critique of Japan's disability employment support services",
+        "slug": "critique-of-japans-disability-employment-support-services-zh-023f0d5a"
       }
     ]
   }
