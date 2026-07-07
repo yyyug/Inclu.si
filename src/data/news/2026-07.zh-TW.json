@@ -10312,5 +10312,457 @@
     "publishedAt": "2026-07-07T00:54:45.000Z",
     "fetchedAt": "2026-07-07T01:21:29.990Z",
     "body": "The article recommends conducting initial manual tests on some pages before applying automated tools to improve the usefulness of accessibility scanning results.\n推文來源： [Kaz Tsuchiya (@caztcha)](https://x.com/caztcha/status/2074296023556534610)\n外部連結： [https://convergeaccessibility.com/2026/06/08/automated-scanning-accessibility](https://convergeaccessibility.com/2026/06/08/automated-scanning-accessibility)"
+  },
+  {
+    "title": "無障礙是 AI 代理的首要介面 - InfoWorld",
+    "slug": "accessibility-is-the-first-class-interface-for-ai-agents-infoworld-zh-00ca11a7",
+    "lang": "zh-TW",
+    "summary": "無障礙是 AI 代理的首要介面",
+    "category": "digital-a11y",
+    "tags": [],
+    "sourceName": "InfoWorld",
+    "sourceUrl": "https://www.infoworld.com/article/4193332/accessibility-is-the-first-class-interface-for-ai-agents.html",
+    "relatedSources": [
+      {
+        "name": "InfoWorld",
+        "url": "https://www.infoworld.com/article/4193332/accessibility-is-the-first-class-interface-for-ai-agents.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-00ca11a7",
+    "status": "published",
+    "translationOf": "accessibility-is-the-first-class-interface-for-ai-agents-infoworld-00ca11a7",
+    "publishedAt": "2026-07-07T09:03:48.000Z",
+    "fetchedAt": "2026-07-07T13:03:00.201Z",
+    "body": "無障礙是 AI 代理的首要介面\n\n原文來源： [InfoWorld](https://www.infoworld.com/article/4193332/accessibility-is-the-first-class-interface-for-ai-agents.html)"
+  },
+  {
+    "title": "無障礙聯盟致力讓蒂佩卡諾縣對殘障人士更友善 - WLFI",
+    "slug": "accessibility-coalition-working-to-make-tippecanoe-county-disability-friendly-wl-zh-a4568d48",
+    "lang": "zh-TW",
+    "summary": "無障礙聯盟致力讓蒂佩卡諾縣對殘障人士更友善",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "WLFI",
+    "sourceUrl": "https://www.wlfi.com/2026/07/06/accessibility-coalition-working-make-tippecanoe-county-disability-friendly",
+    "relatedSources": [
+      {
+        "name": "WLFI",
+        "url": "https://www.wlfi.com/2026/07/06/accessibility-coalition-working-make-tippecanoe-county-disability-friendly"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a4568d48",
+    "status": "published",
+    "translationOf": "accessibility-coalition-working-to-make-tippecanoe-county-disability-friendly-wl-a4568d48",
+    "publishedAt": "2026-07-06T22:47:00.000Z",
+    "fetchedAt": "2026-07-07T13:03:00.219Z",
+    "body": "無障礙聯盟致力讓蒂佩卡諾縣對殘障人士更友善\n\n原文來源： [WLFI](https://www.wlfi.com/2026/07/06/accessibility-coalition-working-make-tippecanoe-county-disability-friendly)"
+  },
+  {
+    "title": "TK’s 冰淇淋與甜點為弗雷德里克鎮帶來社區與無障礙 - Knox Pages",
+    "slug": "tks-ice-cream-sweets-brings-community-accessibility-to-fredericktown-knox-pages-zh-6e87218e",
+    "lang": "zh-TW",
+    "summary": "TK’s 冰淇淋與甜點為弗雷德里克鎮帶來社區與無障礙",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "Knox Pages",
+    "sourceUrl": "https://www.knoxpages.com/2026/07/07/tks-ice-cream-sweets-brings-community-accessibility-to-fredericktown",
+    "relatedSources": [
+      {
+        "name": "Knox Pages",
+        "url": "https://www.knoxpages.com/2026/07/07/tks-ice-cream-sweets-brings-community-accessibility-to-fredericktown"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-6e87218e",
+    "status": "published",
+    "translationOf": "tks-ice-cream-sweets-brings-community-accessibility-to-fredericktown-knox-pages-6e87218e",
+    "publishedAt": "2026-07-07T09:00:00.000Z",
+    "fetchedAt": "2026-07-07T13:03:00.240Z",
+    "body": "TK’s 冰淇淋與甜點為弗雷德里克鎮帶來社區與無障礙\n\n原文來源： [Knox Pages](https://www.knoxpages.com/2026/07/07/tks-ice-cream-sweets-brings-community-accessibility-to-fredericktown)"
+  },
+  {
+    "title": "紐約地鐵無障礙升級覆蓋五個車站",
+    "slug": "nyc-subway-accessibility-upgrades-cover-five-stations-railway-supply-zh-41a30527",
+    "lang": "zh-TW",
+    "summary": "紐約地鐵正在五個車站進行無障礙改善工程，新設電梯、坡道、盲人磚和聲音提示，以方便殘障乘客使用。",
+    "category": "physical-design",
+    "tags": [
+      "subway",
+      "accessibility",
+      "NYC",
+      "upgrades"
+    ],
+    "sourceName": "Railway Supply",
+    "sourceUrl": "https://www.railway.supply/nyc-subway-accessibility-upgrades-cover-five-stations",
+    "relatedSources": [
+      {
+        "name": "Railway Supply",
+        "url": "https://www.railway.supply/nyc-subway-accessibility-upgrades-cover-five-stations"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-41a30527",
+    "status": "published",
+    "translationOf": "nyc-subway-accessibility-upgrades-cover-five-stations-railway-supply-41a30527",
+    "publishedAt": "2026-07-07T08:43:42.000Z",
+    "fetchedAt": "2026-07-07T13:04:22.000Z",
+    "body": "紐約地鐵正在五個車站進行無障礙改善工程，新設電梯、坡道、盲人磚和聲音提示，以方便殘障乘客使用。\n\n原文來源： [Railway Supply](https://www.railway.supply/nyc-subway-accessibility-upgrades-cover-five-stations)"
+  },
+  {
+    "title": "稅務局服務中心設置「友善高齡無障礙服務櫃台」服務高齡及行動不便的鄉親",
+    "slug": "tax-bureau-service-center-installs-friendly-elderly-barrier-free-service-counter-zh-5099c373",
+    "lang": "zh-TW",
+    "summary": "澎湖稅務局在服務中心設置友善高齡無障礙服務櫃台，專門為長者和行動不便的民眾提供無障礙稅務服務。",
+    "category": "physical-design",
+    "tags": [
+      "tax bureau",
+      "service counter",
+      "elderly",
+      "mobility impairment",
+      "accessibility"
+    ],
+    "sourceName": "澎湖e傳媒",
+    "sourceUrl": "https://www.phnes.net/%E7%A8%85%E5%8B%99%E5%B1%80%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83%E8%A8%AD%E7%BD%AE%E3%80%8C%E5%8F%8B%E5%96%84%E9%AB%98%E9%BD%A1%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E6%AB%83%E5%8F%B0-17",
+    "relatedSources": [
+      {
+        "name": "澎湖e傳媒",
+        "url": "https://www.phnes.net/%E7%A8%85%E5%8B%99%E5%B1%80%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83%E8%A8%AD%E7%BD%AE%E3%80%8C%E5%8F%8B%E5%96%84%E9%AB%98%E9%BD%A1%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E6%AB%83%E5%8F%B0-17"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5099c373",
+    "status": "published",
+    "translationOf": "tax-bureau-service-center-installs-friendly-elderly-barrier-free-service-counter-5099c373",
+    "publishedAt": "2026-07-07T01:33:11.000Z",
+    "fetchedAt": "2026-07-07T13:04:22.016Z",
+    "body": "澎湖稅務局在服務中心設置友善高齡無障礙服務櫃台，專門為長者和行動不便的民眾提供無障礙稅務服務。\n\n原文來源： [澎湖e傳媒](https://www.phnes.net/%E7%A8%85%E5%8B%99%E5%B1%80%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83%E8%A8%AD%E7%BD%AE%E3%80%8C%E5%8F%8B%E5%96%84%E9%AB%98%E9%BD%A1%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E6%AB%83%E5%8F%B0-17)"
+  },
+  {
+    "title": "超過半數英國家長難為殘障兒童尋找可及的假期俱樂部",
+    "slug": "more-than-half-of-english-parents-struggle-to-find-accessible-holiday-clubs-for--zh-98b42735",
+    "lang": "zh-TW",
+    "summary": "Sense 的研究顯示，超過半數英國家長難為殘障兒童找到合適的假期俱樂部，約有 6 萬名殘障兒童居住於缺乏此類服務的地區，導致家庭財政壓力，許多父母被迫離職。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "holiday clubs",
+      "disabled children",
+      "accessibility",
+      "survey"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/world/2026/jul/07/more-than-half-of-english-parents-struggle-to-find-accessible-holiday-clubs-for-disabled-children",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/world/2026/jul/07/more-than-half-of-english-parents-struggle-to-find-accessible-holiday-clubs-for-disabled-children"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-98b42735",
+    "status": "published",
+    "translationOf": "more-than-half-of-english-parents-struggle-to-find-accessible-holiday-clubs-for--98b42735",
+    "publishedAt": "2026-07-07T07:00:32.000Z",
+    "fetchedAt": "2026-07-07T13:04:36.672Z",
+    "body": "Sense 的研究顯示，超過半數英國家長難為殘障兒童找到合適的假期俱樂部，約有 6 萬名殘障兒童居住於缺乏此類服務的地區，導致家庭財政壓力，許多父母被迫離職。\n\n原文來源： [Unknown source](https://www.theguardian.com/world/2026/jul/07/more-than-half-of-english-parents-struggle-to-find-accessible-holiday-clubs-for-disabled-children)"
+  },
+  {
+    "title": "盲女因威瑟斯朋酒吧要求導盲犬身份證明而憤怒離開",
+    "slug": "blind-woman-livid-after-wetherspoons-pub-asks-for-guide-dogs-id-zh-82993cd5",
+    "lang": "zh-TW",
+    "summary": "盲女 Joanne Hewitson 在哈特爾浦的一家 Wetherspoons 酒吧被員工要求證明其導盲犬 Rosie 的合法身份，她感到憤怒並離開；酒吧連鎖已道歉，承認員工犯錯。",
+    "category": "laws-rights",
+    "tags": [
+      "guide dog",
+      "blind",
+      "pub",
+      "discrimination",
+      "assistance animal"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/society/2026/jul/07/blind-woman-wetherspoons-pub-guide-dogs-hartlepool",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/society/2026/jul/07/blind-woman-wetherspoons-pub-guide-dogs-hartlepool"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-82993cd5",
+    "status": "published",
+    "translationOf": "blind-woman-livid-after-wetherspoons-pub-asks-for-guide-dogs-id-82993cd5",
+    "publishedAt": "2026-07-07T12:58:23.000Z",
+    "fetchedAt": "2026-07-07T13:04:36.689Z",
+    "body": "盲女 Joanne Hewitson 在哈特爾浦的一家 Wetherspoons 酒吧被員工要求證明其導盲犬 Rosie 的合法身份，她感到憤怒並離開；酒吧連鎖已道歉，承認員工犯錯。\n\n原文來源： [Unknown source](https://www.theguardian.com/society/2026/jul/07/blind-woman-wetherspoons-pub-guide-dogs-hartlepool)"
+  },
+  {
+    "title": "全國法院無障礙服務台啟用 謝銘洋盼落實司法平權",
+    "slug": "national-court-accessibility-service-desks-launched-acting-president-xie-ming-ya-zh-e9304d55",
+    "lang": "zh-TW",
+    "summary": "司法院在台灣高等法院舉行全國一、二審法院「無障礙服務台」啟用儀式，旨在落實身心障礙者權利公約精神，提供身障朋友有效且平等的司法近用權。",
+    "category": "laws-rights",
+    "tags": [
+      "accessibility",
+      "judicial",
+      "UNCRPD",
+      "court service"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a5198fe0-fa9d-40c2-87d3-932602dd7cc9",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a5198fe0-fa9d-40c2-87d3-932602dd7cc9"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-e9304d55",
+    "status": "published",
+    "translationOf": "national-court-accessibility-service-desks-launched-acting-president-xie-ming-ya-e9304d55",
+    "publishedAt": "2026-07-06T08:42:40.000Z",
+    "fetchedAt": "2026-07-07T13:05:15.310Z",
+    "body": "司法院在台灣高等法院舉行全國一、二審法院「無障礙服務台」啟用儀式，旨在落實身心障礙者權利公約精神，提供身障朋友有效且平等的司法近用權。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a5198fe0-fa9d-40c2-87d3-932602dd7cc9)"
+  },
+  {
+    "title": "失能長輩輔具重擔得紓困 長照推每三年六萬元租賃給付",
+    "slug": "long-term-care-30-eases-burden-of-assistive-devices-for-disabled-elders-with-nt6-zh-bb136219",
+    "lang": "zh-TW",
+    "summary": "衛生福利部七月一日起推動長照3.0智慧科技輔具全租賃新制，失能長輩可每三年獲得六萬元租賃給付，包含居家無障礙環境改善最高兩萬元，藉由租賃提供彈性照顧支持，減輕照顧壓力，逐步建立給付機制。",
+    "category": "assistive-tech",
+    "tags": [
+      "assistive technology",
+      "long-term care",
+      "subsidy",
+      "disability",
+      "elderly care"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_919eb2f3-2bef-4d1d-a480-ef7b15cbe3e5",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_919eb2f3-2bef-4d1d-a480-ef7b15cbe3e5"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-bb136219",
+    "status": "published",
+    "translationOf": "long-term-care-30-eases-burden-of-assistive-devices-for-disabled-elders-with-nt6-bb136219",
+    "publishedAt": "2026-07-06T07:00:00.000Z",
+    "fetchedAt": "2026-07-07T13:05:15.327Z",
+    "body": "衛生福利部七月一日起推動長照3.0智慧科技輔具全租賃新制，失能長輩可每三年獲得六萬元租賃給付，包含居家無障礙環境改善最高兩萬元，藉由租賃提供彈性照顧支持，減輕照顧壓力，逐步建立給付機制。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_919eb2f3-2bef-4d1d-a480-ef7b15cbe3e5)"
+  },
+  {
+    "title": "秀水高工無障礙電梯 (圖)",
+    "slug": "accessible-elevator-installed-at-xiushui-senior-high-school-zh-04141d8d",
+    "lang": "zh-TW",
+    "summary": "位於彰化縣的秀水高工近年獲教育部國教署補助，增設無障礙電梯，可提供行動不便或臨時受傷的學生使用，減少移動限制對學習參與的影響。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "elevator",
+      "school",
+      "mobility"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E7%A7%80%E6%B0%B4%E9%AB%98%E5%B7%A5%E7%84%A1%E9%9A%9C%E7%A4%99%E9%9B%BB%E6%A2%AF-%E5%9C%96-030716756.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E7%A7%80%E6%B0%B4%E9%AB%98%E5%B7%A5%E7%84%A1%E9%9A%9C%E7%A4%99%E9%9B%BB%E6%A2%AF-%E5%9C%96-030716756.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-04141d8d",
+    "status": "published",
+    "translationOf": "accessible-elevator-installed-at-xiushui-senior-high-school-04141d8d",
+    "publishedAt": "2026-07-06T03:07:16.000Z",
+    "fetchedAt": "2026-07-07T13:05:42.919Z",
+    "body": "位於彰化縣的秀水高工近年獲教育部國教署補助，增設無障礙電梯，可提供行動不便或臨時受傷的學生使用，減少移動限制對學習參與的影響。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E7%A7%80%E6%B0%B4%E9%AB%98%E5%B7%A5%E7%84%A1%E9%9A%9C%E7%A4%99%E9%9B%BB%E6%A2%AF-%E5%9C%96-030716756.html)"
+  },
+  {
+    "title": "教部補助37校1.6億 改善電梯廁所推無障礙校園",
+    "slug": "ministry-of-education-subsidizes-37-schools-with-nt160-million-to-improve-elevat-zh-40d69e79",
+    "lang": "zh-TW",
+    "summary": "（中央社記者許秩維台北6日電）教育部國教署推動無障礙校園環境改善計畫，115年核定補助37校、將投入逾新台幣1.6億元經費，盤點與改善校園通行動線、電梯及無障礙廁所等設施，打造安全平等的學習空間。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "elevator",
+      "toilet",
+      "school",
+      "funding"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%95%99%E9%83%A8%E8%A3%9C%E5%8A%A937%E6%A0%A11-6%E5%84%84-%E6%94%B9%E5%96%84%E9%9B%BB%E6%A2%AF%E5%BB%81%E6%89%80%E6%8E%A8%E7%84%A1%E9%9A%9C%E7%A4%99%E6%A0%A1%E5%9C%92-030651028.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E6%95%99%E9%83%A8%E8%A3%9C%E5%8A%A937%E6%A0%A11-6%E5%84%84-%E6%94%B9%E5%96%84%E9%9B%BB%E6%A2%AF%E5%BB%81%E6%89%80%E6%8E%A8%E7%84%A1%E9%9A%9C%E7%A4%99%E6%A0%A1%E5%9C%92-030651028.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-40d69e79",
+    "status": "published",
+    "translationOf": "ministry-of-education-subsidizes-37-schools-with-nt160-million-to-improve-elevat-40d69e79",
+    "publishedAt": "2026-07-06T03:06:51.000Z",
+    "fetchedAt": "2026-07-07T13:05:42.937Z",
+    "body": "（中央社記者許秩維台北6日電）教育部國教署推動無障礙校園環境改善計畫，115年核定補助37校、將投入逾新台幣1.6億元經費，盤點與改善校園通行動線、電梯及無障礙廁所等設施，打造安全平等的學習空間。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E6%95%99%E9%83%A8%E8%A3%9C%E5%8A%A937%E6%A0%A11-6%E5%84%84-%E6%94%B9%E5%96%84%E9%9B%BB%E6%A2%AF%E5%BB%81%E6%89%80%E6%8E%A8%E7%84%A1%E9%9A%9C%E7%A4%99%E6%A0%A1%E5%9C%92-030651028.html)"
+  },
+  {
+    "title": "法院「無障礙服務台」同步啟用　開啟司法平權新里程",
+    "slug": "court-launches-nationwide-first-accessible-service-desk-to-advance-judicial-equa-zh-69ba267e",
+    "lang": "zh-TW",
+    "summary": "CNEWS匯流新聞網記者張孝義／台北報導 為落實身心障礙者平等近用司法權益，司法院於今（6）日上午，在台灣高等法院刑事庭聯合服務中心舉行全國第一、二審法院「無障礙服務台」啟用儀式，由司法院代理院長謝銘洋、台灣高等法院院長王梅英及中華民國身心障礙聯盟理事長張朝翔共同主持。 謝銘洋致詞時表示，《身心障礙者權利公約》的核心精神不是只提供司法近用，而是要提供「有效」...",
+    "category": "laws-rights",
+    "tags": [
+      "accessibility",
+      "court",
+      "judicial",
+      "disability rights",
+      "service desk"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%B3%95%E9%99%A2-%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E5%8F%B0-%E5%90%8C%E6%AD%A5%E5%95%9F%E7%94%A8-%E9%96%8B%E5%95%9F%E5%8F%B8%E6%B3%95%E5%B9%B3%E6%AC%8A%E6%96%B0%E9%87%8C%E7%A8%8B-095807714.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E6%B3%95%E9%99%A2-%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E5%8F%B0-%E5%90%8C%E6%AD%A5%E5%95%9F%E7%94%A8-%E9%96%8B%E5%95%9F%E5%8F%B8%E6%B3%95%E5%B9%B3%E6%AC%8A%E6%96%B0%E9%87%8C%E7%A8%8B-095807714.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-69ba267e",
+    "status": "published",
+    "translationOf": "court-launches-nationwide-first-accessible-service-desk-to-advance-judicial-equa-69ba267e",
+    "publishedAt": "2026-07-06T01:58:07.000Z",
+    "fetchedAt": "2026-07-07T13:05:42.959Z",
+    "body": "CNEWS匯流新聞網記者張孝義／台北報導 為落實身心障礙者平等近用司法權益，司法院於今（6）日上午，在台灣高等法院刑事庭聯合服務中心舉行全國第一、二審法院「無障礙服務台」啟用儀式，由司法院代理院長謝銘洋、台灣高等法院院長王梅英及中華民國身心障礙聯盟理事長張朝翔共同主持。 謝銘洋致詞時表示，《身心障礙者權利公約》的核心精神不是只提供司法近用，而是要提供「有效」...\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E6%B3%95%E9%99%A2-%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E5%8F%B0-%E5%90%8C%E6%AD%A5%E5%95%9F%E7%94%A8-%E9%96%8B%E5%95%9F%E5%8F%B8%E6%B3%95%E5%B9%B3%E6%AC%8A%E6%96%B0%E9%87%8C%E7%A8%8B-095807714.html)"
+  },
+  {
+    "title": "司法院啟用全台一、二審法院「無障礙服務台」落實身心障礙者平權",
+    "slug": "judicial-institute-launches-nationwide-accessible-service-desks-in-first-and-sec-zh-6a9adc78",
+    "lang": "zh-TW",
+    "summary": "司法院於高等法院舉行全國第一、二審法院無障礙服務台啟用儀式，旨在提供身心障礙者平等近用司法的權益，落實《身心障礙者權利公約》精神。",
+    "category": "laws-rights",
+    "tags": [
+      "disability rights",
+      "judicial accessibility",
+      "CRPD",
+      "service desk"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E8%90%BD%E5%AF%A6%E8%BA%AB%E5%BF%83%E9%9A%9C%E7%A4%99%E8%80%85%E5%B9%B3%E6%AC%8A%E7%B2%BE%E7%A5%9E-%E5%8F%B8%E6%B3%95%E9%99%A2%E5%95%9F%E7%94%A8%E5%85%A8%E5%8F%B0-%E4%BA%8C%E5%AF%A9%E6%B3%95%E9%99%A2-%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E5%8F%B0-094420772.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E8%90%BD%E5%AF%A6%E8%BA%AB%E5%BF%83%E9%9A%9C%E7%A4%99%E8%80%85%E5%B9%B3%E6%AC%8A%E7%B2%BE%E7%A5%9E-%E5%8F%B8%E6%B3%95%E9%99%A2%E5%95%9F%E7%94%A8%E5%85%A8%E5%8F%B0-%E4%BA%8C%E5%AF%A9%E6%B3%95%E9%99%A2-%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E5%8F%B0-094420772.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-6a9adc78",
+    "status": "published",
+    "translationOf": "judicial-institute-launches-nationwide-accessible-service-desks-in-first-and-sec-6a9adc78",
+    "publishedAt": "2026-07-06T01:44:20.000Z",
+    "fetchedAt": "2026-07-07T13:06:13.131Z",
+    "body": "司法院於高等法院舉行全國第一、二審法院無障礙服務台啟用儀式，旨在提供身心障礙者平等近用司法的權益，落實《身心障礙者權利公約》精神。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E8%90%BD%E5%AF%A6%E8%BA%AB%E5%BF%83%E9%9A%9C%E7%A4%99%E8%80%85%E5%B9%B3%E6%AC%8A%E7%B2%BE%E7%A5%9E-%E5%8F%B8%E6%B3%95%E9%99%A2%E5%95%9F%E7%94%A8%E5%85%A8%E5%8F%B0-%E4%BA%8C%E5%AF%A9%E6%B3%95%E9%99%A2-%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E5%8F%B0-094420772.html)"
+  },
+  {
+    "title": "全國法院無障礙服務台啟用　盼落實司法平權",
+    "slug": "national-court-accessible-service-desks-launched-to-advance-judicial-equality-zh-5b92a4b2",
+    "lang": "zh-TW",
+    "summary": "司法院在台灣高等法院舉行全國一、二審法院無障礙服務台啟用儀式，代理院長謝銘洋表示，近年大力改善無障礙環境，盼落實身心障礙者權利公約精神，提供身障朋友有效且平等的司法近用權。",
+    "category": "laws-rights",
+    "tags": [
+      "disability rights",
+      "judicial accessibility",
+      "CRPD",
+      "service desk"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%85%A8%E5%9C%8B%E6%B3%95%E9%99%A2%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E5%8F%B0%E5%95%9F%E7%94%A8-%E7%9B%BC%E8%90%BD%E5%AF%A6%E5%8F%B8%E6%B3%95%E5%B9%B3%E6%AC%8A-%E5%9C%96-090952808.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E5%85%A8%E5%9C%8B%E6%B3%95%E9%99%A2%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E5%8F%B0%E5%95%9F%E7%94%A8-%E7%9B%BC%E8%90%BD%E5%AF%A6%E5%8F%B8%E6%B3%95%E5%B9%B3%E6%AC%8A-%E5%9C%96-090952808.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-5b92a4b2",
+    "status": "published",
+    "translationOf": "national-court-accessible-service-desks-launched-to-advance-judicial-equality-5b92a4b2",
+    "publishedAt": "2026-07-06T01:09:52.000Z",
+    "fetchedAt": "2026-07-07T13:06:13.147Z",
+    "body": "司法院在台灣高等法院舉行全國一、二審法院無障礙服務台啟用儀式，代理院長謝銘洋表示，近年大力改善無障礙環境，盼落實身心障礙者權利公約精神，提供身障朋友有效且平等的司法近用權。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%85%A8%E5%9C%8B%E6%B3%95%E9%99%A2%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E5%8F%B0%E5%95%9F%E7%94%A8-%E7%9B%BC%E8%90%BD%E5%AF%A6%E5%8F%B8%E6%B3%95%E5%B9%B3%E6%AC%8A-%E5%9C%96-090952808.html)"
   }
 ]

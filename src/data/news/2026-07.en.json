@@ -10312,5 +10312,457 @@
     "publishedAt": "2026-07-07T00:54:45.000Z",
     "fetchedAt": "2026-07-07T01:21:29.990Z",
     "body": "The article recommends conducting initial manual tests on some pages before applying automated tools to improve the usefulness of accessibility scanning results.\nTweet source: [Kaz Tsuchiya (@caztcha)](https://x.com/caztcha/status/2074296023556534610)\nExternal link: [https://convergeaccessibility.com/2026/06/08/automated-scanning-accessibility](https://convergeaccessibility.com/2026/06/08/automated-scanning-accessibility)"
+  },
+  {
+    "title": "Accessibility is the first-class interface for AI agents - InfoWorld",
+    "slug": "accessibility-is-the-first-class-interface-for-ai-agents-infoworld-00ca11a7",
+    "lang": "en",
+    "summary": "Accessibility is the first-class interface for AI agents",
+    "category": "digital-a11y",
+    "tags": [],
+    "sourceName": "InfoWorld",
+    "sourceUrl": "https://www.infoworld.com/article/4193332/accessibility-is-the-first-class-interface-for-ai-agents.html",
+    "relatedSources": [
+      {
+        "name": "InfoWorld",
+        "url": "https://www.infoworld.com/article/4193332/accessibility-is-the-first-class-interface-for-ai-agents.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-00ca11a7",
+    "status": "published",
+    "translationOf": "accessibility-is-the-first-class-interface-for-ai-agents-infoworld-zh-00ca11a7",
+    "publishedAt": "2026-07-07T09:03:48.000Z",
+    "fetchedAt": "2026-07-07T13:03:00.201Z",
+    "body": "Accessibility is the first-class interface for AI agents\n\nRead more from the original source: [InfoWorld](https://www.infoworld.com/article/4193332/accessibility-is-the-first-class-interface-for-ai-agents.html)"
+  },
+  {
+    "title": "Accessibility Coalition working to make Tippecanoe County disability-friendly - WLFI",
+    "slug": "accessibility-coalition-working-to-make-tippecanoe-county-disability-friendly-wl-a4568d48",
+    "lang": "en",
+    "summary": "Accessibility Coalition working to make Tippecanoe County disability-friendly",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "WLFI",
+    "sourceUrl": "https://www.wlfi.com/2026/07/06/accessibility-coalition-working-make-tippecanoe-county-disability-friendly",
+    "relatedSources": [
+      {
+        "name": "WLFI",
+        "url": "https://www.wlfi.com/2026/07/06/accessibility-coalition-working-make-tippecanoe-county-disability-friendly"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a4568d48",
+    "status": "published",
+    "translationOf": "accessibility-coalition-working-to-make-tippecanoe-county-disability-friendly-wl-zh-a4568d48",
+    "publishedAt": "2026-07-06T22:47:00.000Z",
+    "fetchedAt": "2026-07-07T13:03:00.219Z",
+    "body": "Accessibility Coalition working to make Tippecanoe County disability-friendly\n\nRead more from the original source: [WLFI](https://www.wlfi.com/2026/07/06/accessibility-coalition-working-make-tippecanoe-county-disability-friendly)"
+  },
+  {
+    "title": "TK’s Ice Cream & Sweets brings community, accessibility to Fredericktown - Knox Pages",
+    "slug": "tks-ice-cream-sweets-brings-community-accessibility-to-fredericktown-knox-pages-6e87218e",
+    "lang": "en",
+    "summary": "TK’s Ice Cream & Sweets brings community, accessibility to Fredericktown",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "Knox Pages",
+    "sourceUrl": "https://www.knoxpages.com/2026/07/07/tks-ice-cream-sweets-brings-community-accessibility-to-fredericktown",
+    "relatedSources": [
+      {
+        "name": "Knox Pages",
+        "url": "https://www.knoxpages.com/2026/07/07/tks-ice-cream-sweets-brings-community-accessibility-to-fredericktown"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-6e87218e",
+    "status": "published",
+    "translationOf": "tks-ice-cream-sweets-brings-community-accessibility-to-fredericktown-knox-pages-zh-6e87218e",
+    "publishedAt": "2026-07-07T09:00:00.000Z",
+    "fetchedAt": "2026-07-07T13:03:00.240Z",
+    "body": "TK’s Ice Cream & Sweets brings community, accessibility to Fredericktown\n\nRead more from the original source: [Knox Pages](https://www.knoxpages.com/2026/07/07/tks-ice-cream-sweets-brings-community-accessibility-to-fredericktown)"
+  },
+  {
+    "title": "NYC subway accessibility upgrades cover five stations - Railway Supply",
+    "slug": "nyc-subway-accessibility-upgrades-cover-five-stations-railway-supply-41a30527",
+    "lang": "en",
+    "summary": "NYC Transit is implementing accessibility improvements at five subway stations, including installing elevators, ramps, tactile paving and audible announcements to better serve passengers with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "subway",
+      "accessibility",
+      "NYC",
+      "upgrades"
+    ],
+    "sourceName": "Railway Supply",
+    "sourceUrl": "https://www.railway.supply/nyc-subway-accessibility-upgrades-cover-five-stations",
+    "relatedSources": [
+      {
+        "name": "Railway Supply",
+        "url": "https://www.railway.supply/nyc-subway-accessibility-upgrades-cover-five-stations"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-41a30527",
+    "status": "published",
+    "translationOf": "nyc-subway-accessibility-upgrades-cover-five-stations-railway-supply-zh-41a30527",
+    "publishedAt": "2026-07-07T08:43:42.000Z",
+    "fetchedAt": "2026-07-07T13:04:22.000Z",
+    "body": "NYC Transit is implementing accessibility improvements at five subway stations, including installing elevators, ramps, tactile paving and audible announcements to better serve passengers with disabilities.\n\nRead more from the original source: [Railway Supply](https://www.railway.supply/nyc-subway-accessibility-upgrades-cover-five-stations)"
+  },
+  {
+    "title": "Tax Bureau Service Center Installs Friendly Elderly Barrier-Free Service Counters to Serve Elderly and Mobility-Impaired Residents",
+    "slug": "tax-bureau-service-center-installs-friendly-elderly-barrier-free-service-counter-5099c373",
+    "lang": "en",
+    "summary": "The Penghu Tax Bureau has set up barrier‑friendly service counters designed for elderly and mobility‑impaired residents, offering accessible tax services and assistance.",
+    "category": "physical-design",
+    "tags": [
+      "tax bureau",
+      "service counter",
+      "elderly",
+      "mobility impairment",
+      "accessibility"
+    ],
+    "sourceName": "澎湖e傳媒",
+    "sourceUrl": "https://www.phnes.net/%E7%A8%85%E5%8B%99%E5%B1%80%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83%E8%A8%AD%E7%BD%AE%E3%80%8C%E5%8F%8B%E5%96%84%E9%AB%98%E9%BD%A1%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E6%AB%83%E5%8F%B0-17",
+    "relatedSources": [
+      {
+        "name": "澎湖e傳媒",
+        "url": "https://www.phnes.net/%E7%A8%85%E5%8B%99%E5%B1%80%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83%E8%A8%AD%E7%BD%AE%E3%80%8C%E5%8F%8B%E5%96%84%E9%AB%98%E9%BD%A1%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E6%AB%83%E5%8F%B0-17"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5099c373",
+    "status": "published",
+    "translationOf": "tax-bureau-service-center-installs-friendly-elderly-barrier-free-service-counter-zh-5099c373",
+    "publishedAt": "2026-07-07T01:33:11.000Z",
+    "fetchedAt": "2026-07-07T13:04:22.016Z",
+    "body": "The Penghu Tax Bureau has set up barrier‑friendly service counters designed for elderly and mobility‑impaired residents, offering accessible tax services and assistance.\n\nRead more from the original source: [澎湖e傳媒](https://www.phnes.net/%E7%A8%85%E5%8B%99%E5%B1%80%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83%E8%A8%AD%E7%BD%AE%E3%80%8C%E5%8F%8B%E5%96%84%E9%AB%98%E9%BD%A1%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E6%AB%83%E5%8F%B0-17)"
+  },
+  {
+    "title": "More than half of English parents struggle to find accessible holiday clubs for disabled children",
+    "slug": "more-than-half-of-english-parents-struggle-to-find-accessible-holiday-clubs-for--98b42735",
+    "lang": "en",
+    "summary": "Research by Sense finds over half of English parents struggle to find accessible holiday clubs for disabled children, with an estimated 60,000 lacking provision, causing financial strain and forcing many parents to quit work.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "holiday clubs",
+      "disabled children",
+      "accessibility",
+      "survey"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/world/2026/jul/07/more-than-half-of-english-parents-struggle-to-find-accessible-holiday-clubs-for-disabled-children",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/world/2026/jul/07/more-than-half-of-english-parents-struggle-to-find-accessible-holiday-clubs-for-disabled-children"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-98b42735",
+    "status": "published",
+    "translationOf": "more-than-half-of-english-parents-struggle-to-find-accessible-holiday-clubs-for--zh-98b42735",
+    "publishedAt": "2026-07-07T07:00:32.000Z",
+    "fetchedAt": "2026-07-07T13:04:36.672Z",
+    "body": "Research by Sense finds over half of English parents struggle to find accessible holiday clubs for disabled children, with an estimated 60,000 lacking provision, causing financial strain and forcing many parents to quit work.\n\nRead more from the original source: [Unknown source](https://www.theguardian.com/world/2026/jul/07/more-than-half-of-english-parents-struggle-to-find-accessible-holiday-clubs-for-disabled-children)"
+  },
+  {
+    "title": "Blind woman ‘livid’ after Wetherspoons pub asks for guide dog’s ID",
+    "slug": "blind-woman-livid-after-wetherspoons-pub-asks-for-guide-dogs-id-82993cd5",
+    "lang": "en",
+    "summary": "A blind woman was asked by Wetherspoons staff in Hartlepool to provide identification for her guide dog, Rosie, causing her to feel livid and leave; the pub chain apologised, acknowledging an error.",
+    "category": "laws-rights",
+    "tags": [
+      "guide dog",
+      "blind",
+      "pub",
+      "discrimination",
+      "assistance animal"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/society/2026/jul/07/blind-woman-wetherspoons-pub-guide-dogs-hartlepool",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/society/2026/jul/07/blind-woman-wetherspoons-pub-guide-dogs-hartlepool"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-82993cd5",
+    "status": "published",
+    "translationOf": "blind-woman-livid-after-wetherspoons-pub-asks-for-guide-dogs-id-zh-82993cd5",
+    "publishedAt": "2026-07-07T12:58:23.000Z",
+    "fetchedAt": "2026-07-07T13:04:36.689Z",
+    "body": "A blind woman was asked by Wetherspoons staff in Hartlepool to provide identification for her guide dog, Rosie, causing her to feel livid and leave; the pub chain apologised, acknowledging an error.\n\nRead more from the original source: [Unknown source](https://www.theguardian.com/society/2026/jul/07/blind-woman-wetherspoons-pub-guide-dogs-hartlepool)"
+  },
+  {
+    "title": "National Court Accessibility Service Desks Launched, Acting President Xie Ming-yang Hopes to Realize Judicial Equality",
+    "slug": "national-court-accessibility-service-desks-launched-acting-president-xie-ming-ya-e9304d55",
+    "lang": "en",
+    "summary": "The Judicial Yuan launched nationwide accessibility service desks at district and high courts to implement the UN Convention on the Rights of Persons with Disabilities, providing effective and equal judicial access for people with disabilities.",
+    "category": "laws-rights",
+    "tags": [
+      "accessibility",
+      "judicial",
+      "UNCRPD",
+      "court service"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a5198fe0-fa9d-40c2-87d3-932602dd7cc9",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a5198fe0-fa9d-40c2-87d3-932602dd7cc9"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-e9304d55",
+    "status": "published",
+    "translationOf": "national-court-accessibility-service-desks-launched-acting-president-xie-ming-ya-zh-e9304d55",
+    "publishedAt": "2026-07-06T08:42:40.000Z",
+    "fetchedAt": "2026-07-07T13:05:15.310Z",
+    "body": "The Judicial Yuan launched nationwide accessibility service desks at district and high courts to implement the UN Convention on the Rights of Persons with Disabilities, providing effective and equal judicial access for people with disabilities.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a5198fe0-fa9d-40c2-87d3-932602dd7cc9)"
+  },
+  {
+    "title": "Long-term Care 3.0 Eases Burden of Assistive Devices for Disabled Elders with NT$60,000 Rental Subsidy Every Three Years",
+    "slug": "long-term-care-30-eases-burden-of-assistive-devices-for-disabled-elders-with-nt6-bb136219",
+    "lang": "en",
+    "summary": "The Ministry of Health and Welfare launched Long-term Care 3.0, offering a NT$60,000 subsidy every three years for renting assistive devices for disabled elderly, including home accessibility improvements up to NT$20,000, to reduce caregiving burden and provide flexible support.",
+    "category": "assistive-tech",
+    "tags": [
+      "assistive technology",
+      "long-term care",
+      "subsidy",
+      "disability",
+      "elderly care"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_919eb2f3-2bef-4d1d-a480-ef7b15cbe3e5",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_919eb2f3-2bef-4d1d-a480-ef7b15cbe3e5"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-bb136219",
+    "status": "published",
+    "translationOf": "long-term-care-30-eases-burden-of-assistive-devices-for-disabled-elders-with-nt6-zh-bb136219",
+    "publishedAt": "2026-07-06T07:00:00.000Z",
+    "fetchedAt": "2026-07-07T13:05:15.327Z",
+    "body": "The Ministry of Health and Welfare launched Long-term Care 3.0, offering a NT$60,000 subsidy every three years for renting assistive devices for disabled elderly, including home accessibility improvements up to NT$20,000, to reduce caregiving burden and provide flexible support.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_919eb2f3-2bef-4d1d-a480-ef7b15cbe3e5)"
+  },
+  {
+    "title": "Accessible Elevator Installed at Xiushui Senior High School",
+    "slug": "accessible-elevator-installed-at-xiushui-senior-high-school-04141d8d",
+    "lang": "en",
+    "summary": "Xiushui Senior High School in Changhua County received a subsidy from the Ministry of Education's K-12 Education Administration to install an accessible elevator, providing convenience for students with mobility impairments or temporary injuries and reducing barriers to learning participation.",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "elevator",
+      "school",
+      "mobility"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E7%A7%80%E6%B0%B4%E9%AB%98%E5%B7%A5%E7%84%A1%E9%9A%9C%E7%A4%99%E9%9B%BB%E6%A2%AF-%E5%9C%96-030716756.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E7%A7%80%E6%B0%B4%E9%AB%98%E5%B7%A5%E7%84%A1%E9%9A%9C%E7%A4%99%E9%9B%BB%E6%A2%AF-%E5%9C%96-030716756.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-04141d8d",
+    "status": "published",
+    "translationOf": "accessible-elevator-installed-at-xiushui-senior-high-school-zh-04141d8d",
+    "publishedAt": "2026-07-06T03:07:16.000Z",
+    "fetchedAt": "2026-07-07T13:05:42.919Z",
+    "body": "Xiushui Senior High School in Changhua County received a subsidy from the Ministry of Education's K-12 Education Administration to install an accessible elevator, providing convenience for students with mobility impairments or temporary injuries and reducing barriers to learning participation.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E7%A7%80%E6%B0%B4%E9%AB%98%E5%B7%A5%E7%84%A1%E9%9A%9C%E7%A4%99%E9%9B%BB%E6%A2%AF-%E5%9C%96-030716756.html)"
+  },
+  {
+    "title": "Ministry of Education Subsidizes 37 Schools with NT$160 Million to Improve Elevators and Toilets for Accessible Campuses",
+    "slug": "ministry-of-education-subsidizes-37-schools-with-nt160-million-to-improve-elevat-40d69e79",
+    "lang": "en",
+    "summary": "The Ministry of Education's K-12 Education Administration has approved subsidies for 37 schools, allocating over NT$160 million to improve campus accessibility, including elevators and accessible toilets, to create safe and equal learning environments.",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "elevator",
+      "toilet",
+      "school",
+      "funding"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%95%99%E9%83%A8%E8%A3%9C%E5%8A%A937%E6%A0%A11-6%E5%84%84-%E6%94%B9%E5%96%84%E9%9B%BB%E6%A2%AF%E5%BB%81%E6%89%80%E6%8E%A8%E7%84%A1%E9%9A%9C%E7%A4%99%E6%A0%A1%E5%9C%92-030651028.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E6%95%99%E9%83%A8%E8%A3%9C%E5%8A%A937%E6%A0%A11-6%E5%84%84-%E6%94%B9%E5%96%84%E9%9B%BB%E6%A2%AF%E5%BB%81%E6%89%80%E6%8E%A8%E7%84%A1%E9%9A%9C%E7%A4%99%E6%A0%A1%E5%9C%92-030651028.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-40d69e79",
+    "status": "published",
+    "translationOf": "ministry-of-education-subsidizes-37-schools-with-nt160-million-to-improve-elevat-zh-40d69e79",
+    "publishedAt": "2026-07-06T03:06:51.000Z",
+    "fetchedAt": "2026-07-07T13:05:42.937Z",
+    "body": "The Ministry of Education's K-12 Education Administration has approved subsidies for 37 schools, allocating over NT$160 million to improve campus accessibility, including elevators and accessible toilets, to create safe and equal learning environments.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E6%95%99%E9%83%A8%E8%A3%9C%E5%8A%A937%E6%A0%A11-6%E5%84%84-%E6%94%B9%E5%96%84%E9%9B%BB%E6%A2%AF%E5%BB%81%E6%89%80%E6%8E%A8%E7%84%A1%E9%9A%9C%E7%A4%99%E6%A0%A1%E5%9C%92-030651028.html)"
+  },
+  {
+    "title": "Court Launches Nationwide First Accessible Service Desk to Advance Judicial Equality",
+    "slug": "court-launches-nationwide-first-accessible-service-desk-to-advance-judicial-equa-69ba267e",
+    "lang": "en",
+    "summary": "To implement equal judicial rights for persons with disabilities, the Judicial Yuan inaugurated the nation's first and second instance court accessible service desk at the Taiwan High Criminal Court Joint Service Center, aiming to provide effective access to justice as emphasized by the UN Convention on the Rights of Persons with Disabilities.",
+    "category": "laws-rights",
+    "tags": [
+      "accessibility",
+      "court",
+      "judicial",
+      "disability rights",
+      "service desk"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%B3%95%E9%99%A2-%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E5%8F%B0-%E5%90%8C%E6%AD%A5%E5%95%9F%E7%94%A8-%E9%96%8B%E5%95%9F%E5%8F%B8%E6%B3%95%E5%B9%B3%E6%AC%8A%E6%96%B0%E9%87%8C%E7%A8%8B-095807714.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E6%B3%95%E9%99%A2-%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E5%8F%B0-%E5%90%8C%E6%AD%A5%E5%95%9F%E7%94%A8-%E9%96%8B%E5%95%9F%E5%8F%B8%E6%B3%95%E5%B9%B3%E6%AC%8A%E6%96%B0%E9%87%8C%E7%A8%8B-095807714.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-69ba267e",
+    "status": "published",
+    "translationOf": "court-launches-nationwide-first-accessible-service-desk-to-advance-judicial-equa-zh-69ba267e",
+    "publishedAt": "2026-07-06T01:58:07.000Z",
+    "fetchedAt": "2026-07-07T13:05:42.959Z",
+    "body": "To implement equal judicial rights for persons with disabilities, the Judicial Yuan inaugurated the nation's first and second instance court accessible service desk at the Taiwan High Criminal Court Joint Service Center, aiming to provide effective access to justice as emphasized by the UN Convention on the Rights of Persons with Disabilities.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E6%B3%95%E9%99%A2-%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E5%8F%B0-%E5%90%8C%E6%AD%A5%E5%95%9F%E7%94%A8-%E9%96%8B%E5%95%9F%E5%8F%B8%E6%B3%95%E5%B9%B3%E6%AC%8A%E6%96%B0%E9%87%8C%E7%A8%8B-095807714.html)"
+  },
+  {
+    "title": "Judicial Institute Launches Nationwide Accessible Service Desks in First and Second Instance Courts",
+    "slug": "judicial-institute-launches-nationwide-accessible-service-desks-in-first-and-sec-6a9adc78",
+    "lang": "en",
+    "summary": "The Judicial Institute inaugurated accessible service desks at all first and second instance courts nationwide to improve judicial access for persons with disabilities, aligning with the UN Convention on the Rights of Persons with Disabilities.",
+    "category": "laws-rights",
+    "tags": [
+      "disability rights",
+      "judicial accessibility",
+      "CRPD",
+      "service desk"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E8%90%BD%E5%AF%A6%E8%BA%AB%E5%BF%83%E9%9A%9C%E7%A4%99%E8%80%85%E5%B9%B3%E6%AC%8A%E7%B2%BE%E7%A5%9E-%E5%8F%B8%E6%B3%95%E9%99%A2%E5%95%9F%E7%94%A8%E5%85%A8%E5%8F%B0-%E4%BA%8C%E5%AF%A9%E6%B3%95%E9%99%A2-%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E5%8F%B0-094420772.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E8%90%BD%E5%AF%A6%E8%BA%AB%E5%BF%83%E9%9A%9C%E7%A4%99%E8%80%85%E5%B9%B3%E6%AC%8A%E7%B2%BE%E7%A5%9E-%E5%8F%B8%E6%B3%95%E9%99%A2%E5%95%9F%E7%94%A8%E5%85%A8%E5%8F%B0-%E4%BA%8C%E5%AF%A9%E6%B3%95%E9%99%A2-%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E5%8F%B0-094420772.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-6a9adc78",
+    "status": "published",
+    "translationOf": "judicial-institute-launches-nationwide-accessible-service-desks-in-first-and-sec-zh-6a9adc78",
+    "publishedAt": "2026-07-06T01:44:20.000Z",
+    "fetchedAt": "2026-07-07T13:06:13.131Z",
+    "body": "The Judicial Institute inaugurated accessible service desks at all first and second instance courts nationwide to improve judicial access for persons with disabilities, aligning with the UN Convention on the Rights of Persons with Disabilities.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E8%90%BD%E5%AF%A6%E8%BA%AB%E5%BF%83%E9%9A%9C%E7%A4%99%E8%80%85%E5%B9%B3%E6%AC%8A%E7%B2%BE%E7%A5%9E-%E5%8F%B8%E6%B3%95%E9%99%A2%E5%95%9F%E7%94%A8%E5%85%A8%E5%8F%B0-%E4%BA%8C%E5%AF%A9%E6%B3%95%E9%99%A2-%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E5%8F%B0-094420772.html)"
+  },
+  {
+    "title": "National Court Accessible Service Desks Launched to Advance Judicial Equality",
+    "slug": "national-court-accessible-service-desks-launched-to-advance-judicial-equality-5b92a4b2",
+    "lang": "en",
+    "summary": "The Judicial Institute held a ceremony at the Taiwan High Court to launch accessible service desks in all first and second instance courts, aiming to provide effective and equal judicial access for persons with disabilities.",
+    "category": "laws-rights",
+    "tags": [
+      "disability rights",
+      "judicial accessibility",
+      "CRPD",
+      "service desk"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%85%A8%E5%9C%8B%E6%B3%95%E9%99%A2%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E5%8F%B0%E5%95%9F%E7%94%A8-%E7%9B%BC%E8%90%BD%E5%AF%A6%E5%8F%B8%E6%B3%95%E5%B9%B3%E6%AC%8A-%E5%9C%96-090952808.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E5%85%A8%E5%9C%8B%E6%B3%95%E9%99%A2%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E5%8F%B0%E5%95%9F%E7%94%A8-%E7%9B%BC%E8%90%BD%E5%AF%A6%E5%8F%B8%E6%B3%95%E5%B9%B3%E6%AC%8A-%E5%9C%96-090952808.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-5b92a4b2",
+    "status": "published",
+    "translationOf": "national-court-accessible-service-desks-launched-to-advance-judicial-equality-zh-5b92a4b2",
+    "publishedAt": "2026-07-06T01:09:52.000Z",
+    "fetchedAt": "2026-07-07T13:06:13.147Z",
+    "body": "The Judicial Institute held a ceremony at the Taiwan High Court to launch accessible service desks in all first and second instance courts, aiming to provide effective and equal judicial access for persons with disabilities.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%85%A8%E5%9C%8B%E6%B3%95%E9%99%A2%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9C%8D%E5%8B%99%E5%8F%B0%E5%95%9F%E7%94%A8-%E7%9B%BC%E8%90%BD%E5%AF%A6%E5%8F%B8%E6%B3%95%E5%B9%B3%E6%AC%8A-%E5%9C%96-090952808.html)"
   }
 ]
