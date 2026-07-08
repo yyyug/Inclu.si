@@ -1,55 +1,55 @@
 {
-  "date": "2026-07-07",
-  "generatedAt": "2026-07-07T01:16:30.844Z",
+  "date": "2026-07-08",
+  "generatedAt": "2026-07-08T01:12:18.481Z",
   "en": {
-    "title": "Nationwide Court Accessibility Service Desks Launch to Boost Disability Rights",
-    "summary": "All district and high courts across the country have launched Accessible Service Desks, allowing disabled individuals to skip queue numbers and receive priority assistance. The initiative aims to improve judicial equality and access to justice for people with disabilities. Additional updates include new AI-powered alt-text generation tools and accessible golf car services at the World Cup.",
+    "title": "Virginia Law Boosts Movie Theater Accessibility for Disabled Patrons",
+    "summary": "Virginia has enacted a new law requiring wheelchair-accessible seating, assistive listening devices, and closed captioning in movie theaters to improve access for patrons with disabilities. Meanwhile, New York City is rolling out accessibility upgrades at five subway stations, and Microsoft Edge released developer tools to enhance keyboard accessibility and fix layout gaps. A Sense report shows over half of English parents struggle to find accessible holiday clubs for disabled children, while a Werth family donation funds expanded accessible testing environments at Virginia Tech.",
     "highlights": [
       {
-        "title": "Realizing judicial equality: Nationwide district and high courts simultaneously launch Accessible Service Desks",
-        "slug": "realizing-judicial-equality-nationwide-district-and-high-courts-simultaneously-l-084836ff"
+        "title": "Law aims to improve accessibility at Va. movie theaters",
+        "slug": "law-aims-to-improve-accessibility-at-va-movie-theaters-850cf63f"
       },
       {
-        "title": "What customer service loses when it fails on accessibility for deaf customers",
-        "slug": "what-customer-service-loses-when-it-fails-on-accessibility-for-deaf-customers-2db45aba"
+        "title": "NYC subway accessibility upgrades cover five stations - Railway Supply",
+        "slug": "nyc-subway-accessibility-upgrades-cover-five-stations-railway-supply-41a30527"
       },
       {
-        "title": "Xbox Layoffs \"Heavily Impact\" The Accessibility Team, Too",
-        "slug": "xbox-layoffs-heavily-impact-the-accessibility-team-too-9772a48b"
+        "title": "New in Edge for developers – Style layout gaps, improve keyboard accessibility and migrate your PWA to a new origin",
+        "slug": "new-in-edge-for-developers-style-layout-gaps-improve-keyboard-accessibility-and--41408670"
       },
       {
-        "title": "Golf car service bridges accessibility gap at World Cup",
-        "slug": "golf-car-service-bridges-accessibility-gap-at-world-cup-3c628a6f"
+        "title": "More than half of English parents struggle to find accessible holiday clubs for disabled children",
+        "slug": "more-than-half-of-english-parents-struggle-to-find-accessible-holiday-clubs-for--98b42735"
       },
       {
-        "title": "New Release Includes Barrier-Free Subtitles and Audio Guide",
-        "slug": "new-release-includes-barrier-free-subtitles-and-audio-guide-80aafcf7"
+        "title": "New Werth gift expands accessible testing environments",
+        "slug": "new-werth-gift-expands-accessible-testing-environments-0b82eafa"
       }
     ]
   },
   "zh-TW": {
-    "title": "全國法院同步啟用無障礙服務台 提升司法平權",
-    "summary": "全國一、二審法院今日同步啟用無障礙服務台，讓身心障礙者可免抽號碼牌優先辦理。此舉旨在落實司法平權，改善殘障人士司法服務的可及性。同時，微軟Xbox無障礙團隊遭裁員衝擊，以及全州最多無障礙租賃住宅的榮譽亦成為今日焦點。",
+    "title": "維吉尼亞州新法提升電影院無障礙，惠及殘障觀眾",
+    "summary": "維吉尼亞州已實施新法，要求電影院提供輪椅座位、助聽設備及閉路字幕，以改善殘障人士的觀影體驗。同時，紐約地鐵正在五個車站進行無障礙升級，微軟Edge釋出開發者功能以改善鍵盤無障礙與版面間距。英國 Sense 報告顯示超過半數家長難以尋找殘障兒童的可及假期俱樂部，而日本用戶在推特指出JR高速巴士殘障折扣使用時未檢查手冊，引發驗證疑慮。",
     "highlights": [
       {
-        "title": "落實司法平權！全國一二審法院「無障礙服務台」今同步啟用",
-        "slug": "realizing-judicial-equality-nationwide-district-and-high-courts-simultaneously-l-zh-084836ff"
+        "title": "法律旨在改善維吉尼亞州電影院的無障礙設施",
+        "slug": "law-aims-to-improve-accessibility-at-va-movie-theaters-zh-850cf63f"
       },
       {
-        "title": "當客戶服務對聾人顧客的無障礙需求失敗時會損失什麼",
-        "slug": "what-customer-service-loses-when-it-fails-on-accessibility-for-deaf-customers-zh-2db45aba"
+        "title": "紐約地鐵無障礙升級覆蓋五個車站",
+        "slug": "nyc-subway-accessibility-upgrades-cover-five-stations-railway-supply-zh-41a30527"
       },
       {
-        "title": "Xbox 裁員「嚴重衝擊」無障礙團隊，亦受影響",
-        "slug": "xbox-layoffs-heavily-impact-the-accessibility-team-too-zh-9772a48b"
+        "title": "Edge開發者新功能 – 樣式佈局間距、改進鍵盤無障礙及將PWA遷移至新來源",
+        "slug": "new-in-edge-for-developers-style-layout-gaps-improve-keyboard-accessibility-and--zh-41408670"
       },
       {
-        "title": "俄勒岡州北海岸城鎮獲榮譽：Rockaway Beach 擁有全州最多無障礙租賃住宅 - Oregon Coast Beach Connection",
-        "slug": "n-oregon-coast-town-gets-honors-rockaway-beach-has-most-accessible-rentals-in-th-zh-483ed5ac"
+        "title": "超過半數英國家長難為殘障兒童尋找可及的假期俱樂部",
+        "slug": "more-than-half-of-english-parents-struggle-to-find-accessible-holiday-clubs-for--zh-98b42735"
       },
       {
-        "title": "Screen Reader Timing Concerns in SPA Websites",
-        "slug": "screen-reader-timing-concerns-in-spa-websites-zh-ea38a830"
+        "title": "JR high-speed bus disability discount usage reported without handbook verification",
+        "slug": "jr-high-speed-bus-disability-discount-usage-reported-without-handbook-verificati-zh-611da65c"
       }
     ]
   }
