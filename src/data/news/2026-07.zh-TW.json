@@ -11842,5 +11842,503 @@
     "publishedAt": "2026-07-07T13:16:03.000Z",
     "fetchedAt": "2026-07-07T13:33:43.450Z",
     "body": "The lesson pack teaches HTML page structure, forms, and accessibility practices, showing how HTML integrates with CSS and JavaScript.\n推文來源： [roadmap.sh (@roadmapsh)](https://x.com/roadmapsh/status/2074482577151324244)\n外部連結： [https://roadmap.sh/packs/html](https://roadmap.sh/packs/html)"
+  },
+  {
+    "title": "缺乏無障礙設施；婦女與女兒在汽車修理店被困",
+    "slug": "lack-of-accessibility-woman-and-daughter-stranded-at-auto-repair-shop-zh-f6a77b21",
+    "lang": "zh-TW",
+    "summary": "一名婦女及其女兒因汽車修理店缺乏無障礙設施而被困，凸顯殘障人士面臨的障礙。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "auto repair shop",
+      "disability",
+      "physical barriers"
+    ],
+    "sourceName": "KGUN 9",
+    "sourceUrl": "https://www.kgun9.com/news/local-news/woman-and-daughter-stranded-at-auto-repair-shop",
+    "relatedSources": [
+      {
+        "name": "KGUN 9",
+        "url": "https://www.kgun9.com/news/local-news/woman-and-daughter-stranded-at-auto-repair-shop"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f6a77b21",
+    "status": "published",
+    "translationOf": "lack-of-accessibility-woman-and-daughter-stranded-at-auto-repair-shop-f6a77b21",
+    "publishedAt": "2026-07-07T09:00:00.000Z",
+    "fetchedAt": "2026-07-08T00:53:37.621Z",
+    "body": "一名婦女及其女兒因汽車修理店缺乏無障礙設施而被困，凸顯殘障人士面臨的障礙。\n\n原文來源： [KGUN 9](https://www.kgun9.com/news/local-news/woman-and-daughter-stranded-at-auto-repair-shop)"
+  },
+  {
+    "title": "合作夥伴推廣並擴大博茲曼的無障礙設施",
+    "slug": "partnership-promotes-expands-accessibility-in-bozeman-zh-930b72bf",
+    "lang": "zh-TW",
+    "summary": "博茲曼的一項新夥伴關係致力於推廣和擴大無障礙改進，使城市對殘障人士更具包容性。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "Bozeman",
+      "partnership",
+      "inclusive city"
+    ],
+    "sourceName": "NBC Montana",
+    "sourceUrl": "https://nbcmontana.com/news/local/partnership-promotes-expands-accessibility-in-bozeman",
+    "relatedSources": [
+      {
+        "name": "NBC Montana",
+        "url": "https://nbcmontana.com/news/local/partnership-promotes-expands-accessibility-in-bozeman"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-930b72bf",
+    "status": "published",
+    "translationOf": "partnership-promotes-expands-accessibility-in-bozeman-930b72bf",
+    "publishedAt": "2026-07-07T23:04:28.000Z",
+    "fetchedAt": "2026-07-08T00:53:37.643Z",
+    "body": "博茲曼的一項新夥伴關係致力於推廣和擴大無障礙改進，使城市對殘障人士更具包容性。\n\n原文來源： [NBC Montana](https://nbcmontana.com/news/local/partnership-promotes-expands-accessibility-in-bozeman)"
+  },
+  {
+    "title": "維吉尼亞州新法旨在改善電影院無障礙設施",
+    "slug": "new-law-aims-to-improve-accessibility-at-movie-theaters-in-virginia-zh-3d70048e",
+    "lang": "zh-TW",
+    "summary": "維吉尼亞州推出新法律，旨在改善電影院的無障礙設施，包括字幕、聲音描述和輪椅通道等條款。",
+    "category": "laws-rights",
+    "tags": [
+      "accessibility",
+      "movie theaters",
+      "Virginia law",
+      "captioning",
+      "wheelchair access"
+    ],
+    "sourceName": "WRIC ABC 8News",
+    "sourceUrl": "https://www.wric.com/news/politics/capitol-connection/new-law-aims-to-improve-accessibility-at-movie-theaters-in-virginia",
+    "relatedSources": [
+      {
+        "name": "WRIC ABC 8News",
+        "url": "https://www.wric.com/news/politics/capitol-connection/new-law-aims-to-improve-accessibility-at-movie-theaters-in-virginia"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3d70048e",
+    "status": "published",
+    "translationOf": "new-law-aims-to-improve-accessibility-at-movie-theaters-in-virginia-3d70048e",
+    "publishedAt": "2026-07-07T21:33:45.000Z",
+    "fetchedAt": "2026-07-08T00:53:37.667Z",
+    "body": "維吉尼亞州推出新法律，旨在改善電影院的無障礙設施，包括字幕、聲音描述和輪椅通道等條款。\n\n原文來源： [WRIC ABC 8News](https://www.wric.com/news/politics/capitol-connection/new-law-aims-to-improve-accessibility-at-movie-theaters-in-virginia)"
+  },
+  {
+    "title": "Xbox裁員影響無障礙領導層，質疑微軟對無障礙計畫的持續承諾",
+    "slug": "xbox-layoffs-hit-accessibility-leadership-calling-into-question-microsofts-conti-zh-5fc31768",
+    "lang": "zh-TW",
+    "summary": "Xbox裁員影響無障礙領導層，質疑微軟對無障礙計畫的持續承諾",
+    "category": "digital-a11y",
+    "tags": [],
+    "sourceName": "PC Gamer",
+    "sourceUrl": "https://www.pcgamer.com/gaming-industry/xbox-layoffs-hit-accessibility-leadership-calling-into-question-microsofts-continued-commitment-to-accessibility-initiatives",
+    "relatedSources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/xbox-layoffs-hit-accessibility-leadership-calling-into-question-microsofts-continued-commitment-to-accessibility-initiatives"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5fc31768",
+    "status": "published",
+    "translationOf": "xbox-layoffs-hit-accessibility-leadership-calling-into-question-microsofts-conti-5fc31768",
+    "publishedAt": "2026-07-07T21:39:43.000Z",
+    "fetchedAt": "2026-07-08T00:53:49.661Z",
+    "body": "Xbox裁員影響無障礙領導層，質疑微軟對無障礙計畫的持續承諾\n\n原文來源： [PC Gamer](https://www.pcgamer.com/gaming-industry/xbox-layoffs-hit-accessibility-leadership-calling-into-question-microsofts-continued-commitment-to-accessibility-initiatives)"
+  },
+  {
+    "title": "Traverse City認識到無障礙如何促進旅遊業",
+    "slug": "traverse-city-recognizes-how-accessibility-can-build-tourism-zh-e545f23c",
+    "lang": "zh-TW",
+    "summary": "Traverse City認識到無障礙如何促進旅遊業",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "rapidgrowthmedia.com",
+    "sourceUrl": "https://rapidgrowthmedia.com/traverse-city-recognizes-how-accessibility-can-build-tourism",
+    "relatedSources": [
+      {
+        "name": "rapidgrowthmedia.com",
+        "url": "https://rapidgrowthmedia.com/traverse-city-recognizes-how-accessibility-can-build-tourism"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e545f23c",
+    "status": "published",
+    "translationOf": "traverse-city-recognizes-how-accessibility-can-build-tourism-e545f23c",
+    "publishedAt": "2026-07-07T16:07:39.000Z",
+    "fetchedAt": "2026-07-08T00:53:49.686Z",
+    "body": "Traverse City認識到無障礙如何促進旅遊業\n\n原文來源： [rapidgrowthmedia.com](https://rapidgrowthmedia.com/traverse-city-recognizes-how-accessibility-can-build-tourism)"
+  },
+  {
+    "title": "Edge開發者新功能 – 樣式佈局間距、改進鍵盤無障礙及將PWA遷移至新來源",
+    "slug": "new-in-edge-for-developers-style-layout-gaps-improve-keyboard-accessibility-and--zh-41408670",
+    "lang": "zh-TW",
+    "summary": "Edge開發者新功能 – 樣式佈局間距、改進鍵盤無障礙及將PWA遷移至新來源",
+    "category": "digital-a11y",
+    "tags": [],
+    "sourceName": "Windows Blog",
+    "sourceUrl": "https://blogs.windows.com/msedgedev/2026/07/07/new-in-edge-for-developers-style-layout-gaps-improve-keyboard-accessibility-and-migrate-your-pwa-to-a-new-origin",
+    "relatedSources": [
+      {
+        "name": "Windows Blog",
+        "url": "https://blogs.windows.com/msedgedev/2026/07/07/new-in-edge-for-developers-style-layout-gaps-improve-keyboard-accessibility-and-migrate-your-pwa-to-a-new-origin"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-41408670",
+    "status": "published",
+    "translationOf": "new-in-edge-for-developers-style-layout-gaps-improve-keyboard-accessibility-and--41408670",
+    "publishedAt": "2026-07-07T22:01:53.000Z",
+    "fetchedAt": "2026-07-08T00:53:49.702Z",
+    "body": "Edge開發者新功能 – 樣式佈局間距、改進鍵盤無障礙及將PWA遷移至新來源\n\n原文來源： [Windows Blog](https://blogs.windows.com/msedgedev/2026/07/07/new-in-edge-for-developers-style-layout-gaps-improve-keyboard-accessibility-and-migrate-your-pwa-to-a-new-origin)"
+  },
+  {
+    "title": "法律旨在改善維吉尼亞州電影院的無障礙設施",
+    "slug": "law-aims-to-improve-accessibility-at-va-movie-theaters-zh-850cf63f",
+    "lang": "zh-TW",
+    "summary": "維吉尼亞州新法規旨在提升電影院的無障礙設施，要求提供輪椅可及座位、助聽設備及閉路字幕，以方便殘障人士觀影。",
+    "category": "laws-rights",
+    "tags": [
+      "Virginia",
+      "movie theaters",
+      "accessibility law",
+      "disability accommodations"
+    ],
+    "sourceName": "WAVY.com",
+    "sourceUrl": "https://www.wavy.com/video/law-aims-to-improve-accessibility-at-va-movie-theaters/11949638",
+    "relatedSources": [
+      {
+        "name": "WAVY.com",
+        "url": "https://www.wavy.com/video/law-aims-to-improve-accessibility-at-va-movie-theaters/11949638"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-850cf63f",
+    "status": "published",
+    "translationOf": "law-aims-to-improve-accessibility-at-va-movie-theaters-850cf63f",
+    "publishedAt": "2026-07-07T21:42:39.000Z",
+    "fetchedAt": "2026-07-08T00:54:37.370Z",
+    "body": "維吉尼亞州新法規旨在提升電影院的無障礙設施，要求提供輪椅可及座位、助聽設備及閉路字幕，以方便殘障人士觀影。\n\n原文來源： [WAVY.com](https://www.wavy.com/video/law-aims-to-improve-accessibility-at-va-movie-theaters/11949638)"
+  },
+  {
+    "title": "Werth 家族捐贈擴大無障礙測試環境",
+    "slug": "new-werth-gift-expands-accessible-testing-environments-zh-0b82eafa",
+    "lang": "zh-TW",
+    "summary": "Werth 家族的捐贈資助維吉尼亞州理工大學增建無障礙測試場所，提供可調整家具、輔助技術及安靜房間，以支援殘障學生的考試需求。",
+    "category": "assistive-tech",
+    "tags": [
+      "Virginia Tech",
+      "Werth gift",
+      "testing accommodations",
+      "assistive technology"
+    ],
+    "sourceName": "Virginia Tech News",
+    "sourceUrl": "https://news.vt.edu/articles/2026/06/sa-ssd-werth-gift-expands-accessibility.html",
+    "relatedSources": [
+      {
+        "name": "Virginia Tech News",
+        "url": "https://news.vt.edu/articles/2026/06/sa-ssd-werth-gift-expands-accessibility.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-0b82eafa",
+    "status": "published",
+    "translationOf": "new-werth-gift-expands-accessible-testing-environments-0b82eafa",
+    "publishedAt": "2026-07-07T20:28:09.000Z",
+    "fetchedAt": "2026-07-08T00:54:37.395Z",
+    "body": "Werth 家族的捐贈資助維吉尼亞州理工大學增建無障礙測試場所，提供可調整家具、輔助技術及安靜房間，以支援殘障學生的考試需求。\n\n原文來源： [Virginia Tech News](https://news.vt.edu/articles/2026/06/sa-ssd-werth-gift-expands-accessibility.html)"
+  },
+  {
+    "title": "巴黎登陸州立公園開放觸覺步道以提升無障礙",
+    "slug": "paris-landing-state-park-opens-tactile-trail-for-accessibility-zh-7a259e05",
+    "lang": "zh-TW",
+    "summary": "田納西州巴黎登陸州立公園啟用一條專為視障設計的觸覺步道，設有點字標誌、紋理路徑及互動感官站，方便視障訪客使用。",
+    "category": "physical-design",
+    "tags": [
+      "Paris Landing State Park",
+      "tactile trail",
+      "visual impairment",
+      "Tennessee"
+    ],
+    "sourceName": "Main Street Media of Tennessee",
+    "sourceUrl": "https://mainstreetmediatn.com/articles/houstoncountyherald/paris-landing-state-park-opens-tactile-trail-for-accessibility",
+    "relatedSources": [
+      {
+        "name": "Main Street Media of Tennessee",
+        "url": "https://mainstreetmediatn.com/articles/houstoncountyherald/paris-landing-state-park-opens-tactile-trail-for-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-7a259e05",
+    "status": "published",
+    "translationOf": "paris-landing-state-park-opens-tactile-trail-for-accessibility-7a259e05",
+    "publishedAt": "2026-07-07T17:25:34.000Z",
+    "fetchedAt": "2026-07-08T00:54:37.419Z",
+    "body": "田納西州巴黎登陸州立公園啟用一條專為視障設計的觸覺步道，設有點字標誌、紋理路徑及互動感官站，方便視障訪客使用。\n\n原文來源： [Main Street Media of Tennessee](https://mainstreetmediatn.com/articles/houstoncountyherald/paris-landing-state-park-opens-tactile-trail-for-accessibility)"
+  },
+  {
+    "title": "帕克城獲得Wheel the World無障礙驗證稱號",
+    "slug": "park-city-earns-accessibility-verified-designation-from-wheel-the-world-zh-88618dcb",
+    "lang": "zh-TW",
+    "summary": "帕克城獲得Wheel the World頒發的無障礙驗證稱號，肯定其在公共空間和服務中提升殘障人士可及性的努力。",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "PR Newswire",
+    "sourceUrl": "https://www.prnewswire.com/news-releases/park-city-earns-accessibility-verified-designation-from-wheel-the-world-302817348.html",
+    "relatedSources": [
+      {
+        "name": "PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/park-city-earns-accessibility-verified-designation-from-wheel-the-world-302817348.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-88618dcb",
+    "status": "published",
+    "translationOf": "park-city-earns-accessibility-verified-designation-from-wheel-the-world-88618dcb",
+    "publishedAt": "2026-07-07T13:00:00.000Z",
+    "fetchedAt": "2026-07-08T00:54:52.138Z",
+    "body": "帕克城獲得Wheel the World頒發的無障礙驗證稱號，肯定其在公共空間和服務中提升殘障人士可及性的努力。\n\n原文來源： [PR Newswire](https://www.prnewswire.com/news-releases/park-city-earns-accessibility-verified-designation-from-wheel-the-world-302817348.html)"
+  },
+  {
+    "title": "奧verture中心獲肯尼迪中心頒發無障礙工作獎項",
+    "slug": "overture-center-earns-award-from-kennedy-center-for-accessibility-work-zh-093a5d59",
+    "lang": "zh-TW",
+    "summary": "奧verture中心因其在設施和節目上為殘障人士提供無障礙的卓越工作，獲肯尼迪中心頒發獎項。",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "Channel 3000",
+    "sourceUrl": "https://www.channel3000.com/entertainment/overture-center-earns-award-from-kennedy-center-for-accessibility-work/article_02958169-e66c-4991-95a6-1fdbdf7deec8.html",
+    "relatedSources": [
+      {
+        "name": "Channel 3000",
+        "url": "https://www.channel3000.com/entertainment/overture-center-earns-award-from-kennedy-center-for-accessibility-work/article_02958169-e66c-4991-95a6-1fdbdf7deec8.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-093a5d59",
+    "status": "published",
+    "translationOf": "overture-center-earns-award-from-kennedy-center-for-accessibility-work-093a5d59",
+    "publishedAt": "2026-07-07T14:25:00.000Z",
+    "fetchedAt": "2026-07-08T00:54:52.156Z",
+    "body": "奧verture中心因其在設施和節目上為殘障人士提供無障礙的卓越工作，獲肯尼迪中心頒發獎項。\n\n原文來源： [Channel 3000](https://www.channel3000.com/entertainment/overture-center-earns-award-from-kennedy-center-for-accessibility-work/article_02958169-e66c-4991-95a6-1fdbdf7deec8.html)"
+  },
+  {
+    "title": "殘障驕傲月慶祝包容、平等權利與無障礙",
+    "slug": "disability-pride-month-celebrates-inclusion-equal-rights-and-accessibility-zh-2bd395e7",
+    "lang": "zh-TW",
+    "summary": "殘障驕傲月強調包容、平等權利和無障礙，提倡人們關注並慶祝殘障人士的貢獻。",
+    "category": "lifestyle-culture",
+    "tags": [],
+    "sourceName": "WTRF",
+    "sourceUrl": "https://www.wtrf.com/top-stories/disability-pride-month-celebrates-inclusion-equal-rights-and-accessibility-learn-more-here",
+    "relatedSources": [
+      {
+        "name": "WTRF",
+        "url": "https://www.wtrf.com/top-stories/disability-pride-month-celebrates-inclusion-equal-rights-and-accessibility-learn-more-here"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-2bd395e7",
+    "status": "published",
+    "translationOf": "disability-pride-month-celebrates-inclusion-equal-rights-and-accessibility-2bd395e7",
+    "publishedAt": "2026-07-07T17:16:43.000Z",
+    "fetchedAt": "2026-07-08T00:54:52.180Z",
+    "body": "殘障驕傲月強調包容、平等權利和無障礙，提倡人們關注並慶祝殘障人士的貢獻。\n\n原文來源： [WTRF](https://www.wtrf.com/top-stories/disability-pride-month-celebrates-inclusion-equal-rights-and-accessibility-learn-more-here)"
+  },
+  {
+    "title": "落實司法平權！全國一二審法院「無障礙服務台」今同步啟用",
+    "slug": "national-district-courts-launch-unified-accessibility-service-desks-to-advance-j-zh-880fb816",
+    "lang": "zh-TW",
+    "summary": "司法部今日在全國一二審法院同步啟用無障礙服務台，提供身心障礙者所需的無障礙服務，以落實司法平等與便利。",
+    "category": "laws-rights",
+    "tags": [
+      "judicial",
+      "accessibility",
+      "court",
+      "disability"
+    ],
+    "sourceName": "自由時報",
+    "sourceUrl": "https://news.ltn.com.tw/amp/news/society/breakingnews/5495835",
+    "relatedSources": [
+      {
+        "name": "自由時報",
+        "url": "https://news.ltn.com.tw/amp/news/society/breakingnews/5495835"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-880fb816",
+    "status": "published",
+    "translationOf": "national-district-courts-launch-unified-accessibility-service-desks-to-advance-j-880fb816",
+    "publishedAt": "2026-07-06T13:00:10.000Z",
+    "fetchedAt": "2026-07-08T00:55:12.461Z",
+    "body": "司法部今日在全國一二審法院同步啟用無障礙服務台，提供身心障礙者所需的無障礙服務，以落實司法平等與便利。\n\n原文來源： [自由時報](https://news.ltn.com.tw/amp/news/society/breakingnews/5495835)"
+  },
+  {
+    "title": "如何透過 iPhone 無障礙設定關閉閃光通知燈",
+    "slug": "how-to-disable-the-iphone-flash-notification-light-via-accessibility-settings-zh-a4f72f52",
+    "lang": "zh-TW",
+    "summary": "使用者可透過進入 設定 > 無障礙 > 音訊與視覺，關閉「閃光提醒」選項，以關閉 iPhone 的閃光通知燈，此功能旨在協助對光敏感或有聽覺需求的使用者。",
+    "category": "digital-a11y",
+    "tags": [
+      "iPhone",
+      "accessibility",
+      "flash notifications",
+      "assistive feature"
+    ],
+    "sourceName": "BGR",
+    "sourceUrl": "https://www.bgr.com/2206555/how-to-turn-off-flashing-notification-light-on-iphone",
+    "relatedSources": [
+      {
+        "name": "BGR",
+        "url": "https://www.bgr.com/2206555/how-to-turn-off-flashing-notification-light-on-iphone"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-a4f72f52",
+    "status": "published",
+    "translationOf": "how-to-disable-the-iphone-flash-notification-light-via-accessibility-settings-a4f72f52",
+    "publishedAt": "2026-07-06T23:17:00.000Z",
+    "fetchedAt": "2026-07-08T00:55:12.479Z",
+    "body": "使用者可透過進入 設定 > 無障礙 > 音訊與視覺，關閉「閃光提醒」選項，以關閉 iPhone 的閃光通知燈，此功能旨在協助對光敏感或有聽覺需求的使用者。\n\n原文來源： [BGR](https://www.bgr.com/2206555/how-to-turn-off-flashing-notification-light-on-iphone)"
+  },
+  {
+    "title": "WCAG 檢查器 0.2.1",
+    "slug": "wcag-checker-021-zh-db4ffaf9",
+    "lang": "zh-TW",
+    "summary": "一個全面的 Python 函式庫，用於檢查 HTML 內容是否符合 WCAG 2.2 無障礙指南",
+    "category": "digital-a11y",
+    "tags": [
+      "WCAG",
+      "Python",
+      "accessibility testing"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/wcag-checker/0.2.1",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/wcag-checker/0.2.1"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-db4ffaf9",
+    "status": "published",
+    "translationOf": "wcag-checker-021-db4ffaf9",
+    "publishedAt": "2026-07-06T21:10:40.000Z",
+    "fetchedAt": "2026-07-08T00:55:24.856Z",
+    "body": "一個全面的 Python 函式庫，用於檢查 HTML 內容是否符合 WCAG 2.2 無障礙指南\n\n原文來源： [Pypi.org](https://pypi.org/project/wcag-checker/0.2.1)"
+  },
+  {
+    "title": "加碼！Google 地圖 7 個超實用功能！收藏景點、AR 導航、無障礙路線一次學會",
+    "slug": "extra-7-super-useful-google-maps-features-learn-to-bookmark-spots-ar-navigation--zh-0d6bae66",
+    "lang": "zh-TW",
+    "summary": "文章介紹 Google 地圖的七項實用功能，包括收藏景點、AR 導航和無障礙路線，幫助使用者記住地點並發現附近的好去處。",
+    "category": "assistive-tech",
+    "tags": [
+      "Google Maps",
+      "accessible routes",
+      "AR navigation",
+      "bookmark"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%8A%A0%E7%A2%BC-google-%E5%9C%B0%E5%9C%96-7-%E5%80%8B%E8%B6%85%E5%AF%A6%E7%94%A8%E5%8A%9F%E8%83%BD-082252642.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E5%8A%A0%E7%A2%BC-google-%E5%9C%B0%E5%9C%96-7-%E5%80%8B%E8%B6%85%E5%AF%A6%E7%94%A8%E5%8A%9F%E8%83%BD-082252642.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-0d6bae66",
+    "status": "published",
+    "translationOf": "extra-7-super-useful-google-maps-features-learn-to-bookmark-spots-ar-navigation--0d6bae66",
+    "publishedAt": "2026-07-06T08:22:52.000Z",
+    "fetchedAt": "2026-07-08T00:55:24.881Z",
+    "body": "文章介紹 Google 地圖的七項實用功能，包括收藏景點、AR 導航和無障礙路線，幫助使用者記住地點並發現附近的好去處。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%8A%A0%E7%A2%BC-google-%E5%9C%B0%E5%9C%96-7-%E5%80%8B%E8%B6%85%E5%AF%A6%E7%94%A8%E5%8A%9F%E8%83%BD-082252642.html)"
   }
 ]

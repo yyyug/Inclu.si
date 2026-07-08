@@ -11842,5 +11842,503 @@
     "publishedAt": "2026-07-07T13:16:03.000Z",
     "fetchedAt": "2026-07-07T13:33:43.450Z",
     "body": "The lesson pack teaches HTML page structure, forms, and accessibility practices, showing how HTML integrates with CSS and JavaScript.\nTweet source: [roadmap.sh (@roadmapsh)](https://x.com/roadmapsh/status/2074482577151324244)\nExternal link: [https://roadmap.sh/packs/html](https://roadmap.sh/packs/html)"
+  },
+  {
+    "title": "Lack of accessibility; Woman and daughter stranded at auto repair shop",
+    "slug": "lack-of-accessibility-woman-and-daughter-stranded-at-auto-repair-shop-f6a77b21",
+    "lang": "en",
+    "summary": "A woman and her daughter were left stranded at an auto repair shop due to lack of accessibility features, highlighting barriers faced by people with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "auto repair shop",
+      "disability",
+      "physical barriers"
+    ],
+    "sourceName": "KGUN 9",
+    "sourceUrl": "https://www.kgun9.com/news/local-news/woman-and-daughter-stranded-at-auto-repair-shop",
+    "relatedSources": [
+      {
+        "name": "KGUN 9",
+        "url": "https://www.kgun9.com/news/local-news/woman-and-daughter-stranded-at-auto-repair-shop"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f6a77b21",
+    "status": "published",
+    "translationOf": "lack-of-accessibility-woman-and-daughter-stranded-at-auto-repair-shop-zh-f6a77b21",
+    "publishedAt": "2026-07-07T09:00:00.000Z",
+    "fetchedAt": "2026-07-08T00:53:37.621Z",
+    "body": "A woman and her daughter were left stranded at an auto repair shop due to lack of accessibility features, highlighting barriers faced by people with disabilities.\n\nRead more from the original source: [KGUN 9](https://www.kgun9.com/news/local-news/woman-and-daughter-stranded-at-auto-repair-shop)"
+  },
+  {
+    "title": "Partnership promotes, expands accessibility in Bozeman",
+    "slug": "partnership-promotes-expands-accessibility-in-bozeman-930b72bf",
+    "lang": "en",
+    "summary": "A new partnership in Bozeman is working to promote and expand accessibility improvements, aiming to make the city more inclusive for people with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "Bozeman",
+      "partnership",
+      "inclusive city"
+    ],
+    "sourceName": "NBC Montana",
+    "sourceUrl": "https://nbcmontana.com/news/local/partnership-promotes-expands-accessibility-in-bozeman",
+    "relatedSources": [
+      {
+        "name": "NBC Montana",
+        "url": "https://nbcmontana.com/news/local/partnership-promotes-expands-accessibility-in-bozeman"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-930b72bf",
+    "status": "published",
+    "translationOf": "partnership-promotes-expands-accessibility-in-bozeman-zh-930b72bf",
+    "publishedAt": "2026-07-07T23:04:28.000Z",
+    "fetchedAt": "2026-07-08T00:53:37.643Z",
+    "body": "A new partnership in Bozeman is working to promote and expand accessibility improvements, aiming to make the city more inclusive for people with disabilities.\n\nRead more from the original source: [NBC Montana](https://nbcmontana.com/news/local/partnership-promotes-expands-accessibility-in-bozeman)"
+  },
+  {
+    "title": "New law aims to improve accessibility at movie theaters in Virginia",
+    "slug": "new-law-aims-to-improve-accessibility-at-movie-theaters-in-virginia-3d70048e",
+    "lang": "en",
+    "summary": "Virginia has introduced a new law designed to improve accessibility at movie theaters, including provisions for captioning, audio description, and wheelchair access.",
+    "category": "laws-rights",
+    "tags": [
+      "accessibility",
+      "movie theaters",
+      "Virginia law",
+      "captioning",
+      "wheelchair access"
+    ],
+    "sourceName": "WRIC ABC 8News",
+    "sourceUrl": "https://www.wric.com/news/politics/capitol-connection/new-law-aims-to-improve-accessibility-at-movie-theaters-in-virginia",
+    "relatedSources": [
+      {
+        "name": "WRIC ABC 8News",
+        "url": "https://www.wric.com/news/politics/capitol-connection/new-law-aims-to-improve-accessibility-at-movie-theaters-in-virginia"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3d70048e",
+    "status": "published",
+    "translationOf": "new-law-aims-to-improve-accessibility-at-movie-theaters-in-virginia-zh-3d70048e",
+    "publishedAt": "2026-07-07T21:33:45.000Z",
+    "fetchedAt": "2026-07-08T00:53:37.667Z",
+    "body": "Virginia has introduced a new law designed to improve accessibility at movie theaters, including provisions for captioning, audio description, and wheelchair access.\n\nRead more from the original source: [WRIC ABC 8News](https://www.wric.com/news/politics/capitol-connection/new-law-aims-to-improve-accessibility-at-movie-theaters-in-virginia)"
+  },
+  {
+    "title": "Xbox layoffs hit accessibility leadership, calling into question Microsoft's continued commitment to accessibility initiatives",
+    "slug": "xbox-layoffs-hit-accessibility-leadership-calling-into-question-microsofts-conti-5fc31768",
+    "lang": "en",
+    "summary": "Xbox layoffs hit accessibility leadership, calling into question Microsoft's continued commitment to accessibility initiatives",
+    "category": "digital-a11y",
+    "tags": [],
+    "sourceName": "PC Gamer",
+    "sourceUrl": "https://www.pcgamer.com/gaming-industry/xbox-layoffs-hit-accessibility-leadership-calling-into-question-microsofts-continued-commitment-to-accessibility-initiatives",
+    "relatedSources": [
+      {
+        "name": "PC Gamer",
+        "url": "https://www.pcgamer.com/gaming-industry/xbox-layoffs-hit-accessibility-leadership-calling-into-question-microsofts-continued-commitment-to-accessibility-initiatives"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5fc31768",
+    "status": "published",
+    "translationOf": "xbox-layoffs-hit-accessibility-leadership-calling-into-question-microsofts-conti-zh-5fc31768",
+    "publishedAt": "2026-07-07T21:39:43.000Z",
+    "fetchedAt": "2026-07-08T00:53:49.661Z",
+    "body": "Xbox layoffs hit accessibility leadership, calling into question Microsoft's continued commitment to accessibility initiatives\n\nRead more from the original source: [PC Gamer](https://www.pcgamer.com/gaming-industry/xbox-layoffs-hit-accessibility-leadership-calling-into-question-microsofts-continued-commitment-to-accessibility-initiatives)"
+  },
+  {
+    "title": "Traverse City recognizes how accessibility can build tourism",
+    "slug": "traverse-city-recognizes-how-accessibility-can-build-tourism-e545f23c",
+    "lang": "en",
+    "summary": "Traverse City recognizes how accessibility can build tourism",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "rapidgrowthmedia.com",
+    "sourceUrl": "https://rapidgrowthmedia.com/traverse-city-recognizes-how-accessibility-can-build-tourism",
+    "relatedSources": [
+      {
+        "name": "rapidgrowthmedia.com",
+        "url": "https://rapidgrowthmedia.com/traverse-city-recognizes-how-accessibility-can-build-tourism"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e545f23c",
+    "status": "published",
+    "translationOf": "traverse-city-recognizes-how-accessibility-can-build-tourism-zh-e545f23c",
+    "publishedAt": "2026-07-07T16:07:39.000Z",
+    "fetchedAt": "2026-07-08T00:53:49.686Z",
+    "body": "Traverse City recognizes how accessibility can build tourism\n\nRead more from the original source: [rapidgrowthmedia.com](https://rapidgrowthmedia.com/traverse-city-recognizes-how-accessibility-can-build-tourism)"
+  },
+  {
+    "title": "New in Edge for developers – Style layout gaps, improve keyboard accessibility and migrate your PWA to a new origin",
+    "slug": "new-in-edge-for-developers-style-layout-gaps-improve-keyboard-accessibility-and--41408670",
+    "lang": "en",
+    "summary": "New in Edge for developers – Style layout gaps, improve keyboard accessibility and migrate your PWA to a new origin",
+    "category": "digital-a11y",
+    "tags": [],
+    "sourceName": "Windows Blog",
+    "sourceUrl": "https://blogs.windows.com/msedgedev/2026/07/07/new-in-edge-for-developers-style-layout-gaps-improve-keyboard-accessibility-and-migrate-your-pwa-to-a-new-origin",
+    "relatedSources": [
+      {
+        "name": "Windows Blog",
+        "url": "https://blogs.windows.com/msedgedev/2026/07/07/new-in-edge-for-developers-style-layout-gaps-improve-keyboard-accessibility-and-migrate-your-pwa-to-a-new-origin"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-41408670",
+    "status": "published",
+    "translationOf": "new-in-edge-for-developers-style-layout-gaps-improve-keyboard-accessibility-and--zh-41408670",
+    "publishedAt": "2026-07-07T22:01:53.000Z",
+    "fetchedAt": "2026-07-08T00:53:49.702Z",
+    "body": "New in Edge for developers – Style layout gaps, improve keyboard accessibility and migrate your PWA to a new origin\n\nRead more from the original source: [Windows Blog](https://blogs.windows.com/msedgedev/2026/07/07/new-in-edge-for-developers-style-layout-gaps-improve-keyboard-accessibility-and-migrate-your-pwa-to-a-new-origin)"
+  },
+  {
+    "title": "Law aims to improve accessibility at Va. movie theaters",
+    "slug": "law-aims-to-improve-accessibility-at-va-movie-theaters-850cf63f",
+    "lang": "en",
+    "summary": "A new Virginia law seeks to enhance accessibility in movie theaters by requiring features such as wheelchair-accessible seating, assistive listening devices, and closed captioning for patrons with disabilities.",
+    "category": "laws-rights",
+    "tags": [
+      "Virginia",
+      "movie theaters",
+      "accessibility law",
+      "disability accommodations"
+    ],
+    "sourceName": "WAVY.com",
+    "sourceUrl": "https://www.wavy.com/video/law-aims-to-improve-accessibility-at-va-movie-theaters/11949638",
+    "relatedSources": [
+      {
+        "name": "WAVY.com",
+        "url": "https://www.wavy.com/video/law-aims-to-improve-accessibility-at-va-movie-theaters/11949638"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-850cf63f",
+    "status": "published",
+    "translationOf": "law-aims-to-improve-accessibility-at-va-movie-theaters-zh-850cf63f",
+    "publishedAt": "2026-07-07T21:42:39.000Z",
+    "fetchedAt": "2026-07-08T00:54:37.370Z",
+    "body": "A new Virginia law seeks to enhance accessibility in movie theaters by requiring features such as wheelchair-accessible seating, assistive listening devices, and closed captioning for patrons with disabilities.\n\nRead more from the original source: [WAVY.com](https://www.wavy.com/video/law-aims-to-improve-accessibility-at-va-movie-theaters/11949638)"
+  },
+  {
+    "title": "New Werth gift expands accessible testing environments",
+    "slug": "new-werth-gift-expands-accessible-testing-environments-0b82eafa",
+    "lang": "en",
+    "summary": "A donation from the Werth family funds the creation of more accessible testing spaces at Virginia Tech, providing accommodations such as adjustable furniture, assistive technology, and quiet rooms for students with disabilities.",
+    "category": "assistive-tech",
+    "tags": [
+      "Virginia Tech",
+      "Werth gift",
+      "testing accommodations",
+      "assistive technology"
+    ],
+    "sourceName": "Virginia Tech News",
+    "sourceUrl": "https://news.vt.edu/articles/2026/06/sa-ssd-werth-gift-expands-accessibility.html",
+    "relatedSources": [
+      {
+        "name": "Virginia Tech News",
+        "url": "https://news.vt.edu/articles/2026/06/sa-ssd-werth-gift-expands-accessibility.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-0b82eafa",
+    "status": "published",
+    "translationOf": "new-werth-gift-expands-accessible-testing-environments-zh-0b82eafa",
+    "publishedAt": "2026-07-07T20:28:09.000Z",
+    "fetchedAt": "2026-07-08T00:54:37.395Z",
+    "body": "A donation from the Werth family funds the creation of more accessible testing spaces at Virginia Tech, providing accommodations such as adjustable furniture, assistive technology, and quiet rooms for students with disabilities.\n\nRead more from the original source: [Virginia Tech News](https://news.vt.edu/articles/2026/06/sa-ssd-werth-gift-expands-accessibility.html)"
+  },
+  {
+    "title": "Paris Landing State Park opens tactile trail for accessibility",
+    "slug": "paris-landing-state-park-opens-tactile-trail-for-accessibility-7a259e05",
+    "lang": "en",
+    "summary": "Paris Landing State Park in Tennessee has inaugurated a tactile trail designed for visitors with visual impairments, featuring braille signage, textured pathways, and interactive sensory stations.",
+    "category": "physical-design",
+    "tags": [
+      "Paris Landing State Park",
+      "tactile trail",
+      "visual impairment",
+      "Tennessee"
+    ],
+    "sourceName": "Main Street Media of Tennessee",
+    "sourceUrl": "https://mainstreetmediatn.com/articles/houstoncountyherald/paris-landing-state-park-opens-tactile-trail-for-accessibility",
+    "relatedSources": [
+      {
+        "name": "Main Street Media of Tennessee",
+        "url": "https://mainstreetmediatn.com/articles/houstoncountyherald/paris-landing-state-park-opens-tactile-trail-for-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-7a259e05",
+    "status": "published",
+    "translationOf": "paris-landing-state-park-opens-tactile-trail-for-accessibility-zh-7a259e05",
+    "publishedAt": "2026-07-07T17:25:34.000Z",
+    "fetchedAt": "2026-07-08T00:54:37.419Z",
+    "body": "Paris Landing State Park in Tennessee has inaugurated a tactile trail designed for visitors with visual impairments, featuring braille signage, textured pathways, and interactive sensory stations.\n\nRead more from the original source: [Main Street Media of Tennessee](https://mainstreetmediatn.com/articles/houstoncountyherald/paris-landing-state-park-opens-tactile-trail-for-accessibility)"
+  },
+  {
+    "title": "Park City Earns Accessibility Verified Designation from Wheel the World",
+    "slug": "park-city-earns-accessibility-verified-designation-from-wheel-the-world-88618dcb",
+    "lang": "en",
+    "summary": "Park City has received an accessibility verified designation from Wheel the World, recognizing its efforts to improve accessibility for people with disabilities in public spaces and services.",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "PR Newswire",
+    "sourceUrl": "https://www.prnewswire.com/news-releases/park-city-earns-accessibility-verified-designation-from-wheel-the-world-302817348.html",
+    "relatedSources": [
+      {
+        "name": "PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/park-city-earns-accessibility-verified-designation-from-wheel-the-world-302817348.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-88618dcb",
+    "status": "published",
+    "translationOf": "park-city-earns-accessibility-verified-designation-from-wheel-the-world-zh-88618dcb",
+    "publishedAt": "2026-07-07T13:00:00.000Z",
+    "fetchedAt": "2026-07-08T00:54:52.138Z",
+    "body": "Park City has received an accessibility verified designation from Wheel the World, recognizing its efforts to improve accessibility for people with disabilities in public spaces and services.\n\nRead more from the original source: [PR Newswire](https://www.prnewswire.com/news-releases/park-city-earns-accessibility-verified-designation-from-wheel-the-world-302817348.html)"
+  },
+  {
+    "title": "Overture Center Earns Award from Kennedy Center for Accessibility Work",
+    "slug": "overture-center-earns-award-from-kennedy-center-for-accessibility-work-093a5d59",
+    "lang": "en",
+    "summary": "The Overture Center has been honored with an award from the Kennedy Center for its outstanding work in making its facilities and programs accessible to people with disabilities.",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "Channel 3000",
+    "sourceUrl": "https://www.channel3000.com/entertainment/overture-center-earns-award-from-kennedy-center-for-accessibility-work/article_02958169-e66c-4991-95a6-1fdbdf7deec8.html",
+    "relatedSources": [
+      {
+        "name": "Channel 3000",
+        "url": "https://www.channel3000.com/entertainment/overture-center-earns-award-from-kennedy-center-for-accessibility-work/article_02958169-e66c-4991-95a6-1fdbdf7deec8.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-093a5d59",
+    "status": "published",
+    "translationOf": "overture-center-earns-award-from-kennedy-center-for-accessibility-work-zh-093a5d59",
+    "publishedAt": "2026-07-07T14:25:00.000Z",
+    "fetchedAt": "2026-07-08T00:54:52.156Z",
+    "body": "The Overture Center has been honored with an award from the Kennedy Center for its outstanding work in making its facilities and programs accessible to people with disabilities.\n\nRead more from the original source: [Channel 3000](https://www.channel3000.com/entertainment/overture-center-earns-award-from-kennedy-center-for-accessibility-work/article_02958169-e66c-4991-95a6-1fdbdf7deec8.html)"
+  },
+  {
+    "title": "Disability Pride Month Celebrates Inclusion, Equal Rights and Accessibility",
+    "slug": "disability-pride-month-celebrates-inclusion-equal-rights-and-accessibility-2bd395e7",
+    "lang": "en",
+    "summary": "Disability Pride Month highlights inclusion, equal rights, and accessibility, encouraging awareness and celebration of the contributions of people with disabilities.",
+    "category": "lifestyle-culture",
+    "tags": [],
+    "sourceName": "WTRF",
+    "sourceUrl": "https://www.wtrf.com/top-stories/disability-pride-month-celebrates-inclusion-equal-rights-and-accessibility-learn-more-here",
+    "relatedSources": [
+      {
+        "name": "WTRF",
+        "url": "https://www.wtrf.com/top-stories/disability-pride-month-celebrates-inclusion-equal-rights-and-accessibility-learn-more-here"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-2bd395e7",
+    "status": "published",
+    "translationOf": "disability-pride-month-celebrates-inclusion-equal-rights-and-accessibility-zh-2bd395e7",
+    "publishedAt": "2026-07-07T17:16:43.000Z",
+    "fetchedAt": "2026-07-08T00:54:52.180Z",
+    "body": "Disability Pride Month highlights inclusion, equal rights, and accessibility, encouraging awareness and celebration of the contributions of people with disabilities.\n\nRead more from the original source: [WTRF](https://www.wtrf.com/top-stories/disability-pride-month-celebrates-inclusion-equal-rights-and-accessibility-learn-more-here)"
+  },
+  {
+    "title": "National District Courts Launch Unified Accessibility Service Desks to Advance Judicial Equality",
+    "slug": "national-district-courts-launch-unified-accessibility-service-desks-to-advance-j-880fb816",
+    "lang": "en",
+    "summary": "The Ministry of Justice has simultaneously activated accessibility service desks in all first- and second-instance courts nationwide, aiming to provide accommodations for people with disabilities and ensure equal access to judicial services.",
+    "category": "laws-rights",
+    "tags": [
+      "judicial",
+      "accessibility",
+      "court",
+      "disability"
+    ],
+    "sourceName": "自由時報",
+    "sourceUrl": "https://news.ltn.com.tw/amp/news/society/breakingnews/5495835",
+    "relatedSources": [
+      {
+        "name": "自由時報",
+        "url": "https://news.ltn.com.tw/amp/news/society/breakingnews/5495835"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-880fb816",
+    "status": "published",
+    "translationOf": "national-district-courts-launch-unified-accessibility-service-desks-to-advance-j-zh-880fb816",
+    "publishedAt": "2026-07-06T13:00:10.000Z",
+    "fetchedAt": "2026-07-08T00:55:12.461Z",
+    "body": "The Ministry of Justice has simultaneously activated accessibility service desks in all first- and second-instance courts nationwide, aiming to provide accommodations for people with disabilities and ensure equal access to judicial services.\n\nRead more from the original source: [自由時報](https://news.ltn.com.tw/amp/news/society/breakingnews/5495835)"
+  },
+  {
+    "title": "How to Disable the iPhone Flash Notification Light via Accessibility Settings",
+    "slug": "how-to-disable-the-iphone-flash-notification-light-via-accessibility-settings-a4f72f52",
+    "lang": "en",
+    "summary": "Users can turn off the iPhone's LED flash for alerts by navigating to Settings > Accessibility > Audio & Visual and toggling off the Flash for Alerts option, a feature designed to accommodate individuals with photosensitivity or hearing-related needs.",
+    "category": "digital-a11y",
+    "tags": [
+      "iPhone",
+      "accessibility",
+      "flash notifications",
+      "assistive feature"
+    ],
+    "sourceName": "BGR",
+    "sourceUrl": "https://www.bgr.com/2206555/how-to-turn-off-flashing-notification-light-on-iphone",
+    "relatedSources": [
+      {
+        "name": "BGR",
+        "url": "https://www.bgr.com/2206555/how-to-turn-off-flashing-notification-light-on-iphone"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-a4f72f52",
+    "status": "published",
+    "translationOf": "how-to-disable-the-iphone-flash-notification-light-via-accessibility-settings-zh-a4f72f52",
+    "publishedAt": "2026-07-06T23:17:00.000Z",
+    "fetchedAt": "2026-07-08T00:55:12.479Z",
+    "body": "Users can turn off the iPhone's LED flash for alerts by navigating to Settings > Accessibility > Audio & Visual and toggling off the Flash for Alerts option, a feature designed to accommodate individuals with photosensitivity or hearing-related needs.\n\nRead more from the original source: [BGR](https://www.bgr.com/2206555/how-to-turn-off-flashing-notification-light-on-iphone)"
+  },
+  {
+    "title": "wcag-checker 0.2.1",
+    "slug": "wcag-checker-021-db4ffaf9",
+    "lang": "en",
+    "summary": "A comprehensive Python library for checking HTML content against WCAG 2.2 accessibility guidelines",
+    "category": "digital-a11y",
+    "tags": [
+      "WCAG",
+      "Python",
+      "accessibility testing"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/wcag-checker/0.2.1",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/wcag-checker/0.2.1"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-db4ffaf9",
+    "status": "published",
+    "translationOf": "wcag-checker-021-zh-db4ffaf9",
+    "publishedAt": "2026-07-06T21:10:40.000Z",
+    "fetchedAt": "2026-07-08T00:55:24.856Z",
+    "body": "A comprehensive Python library for checking HTML content against WCAG 2.2 accessibility guidelines\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/wcag-checker/0.2.1)"
+  },
+  {
+    "title": "Extra! 7 Super Useful Google Maps Features! Learn to Bookmark Spots, AR Navigation, and Accessible Routes All at Once",
+    "slug": "extra-7-super-useful-google-maps-features-learn-to-bookmark-spots-ar-navigation--0d6bae66",
+    "lang": "en",
+    "summary": "The article highlights seven practical Google Maps features such as saving locations, AR navigation, and accessible routes, helping users remember places and discover nearby spots.",
+    "category": "assistive-tech",
+    "tags": [
+      "Google Maps",
+      "accessible routes",
+      "AR navigation",
+      "bookmark"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%8A%A0%E7%A2%BC-google-%E5%9C%B0%E5%9C%96-7-%E5%80%8B%E8%B6%85%E5%AF%A6%E7%94%A8%E5%8A%9F%E8%83%BD-082252642.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E5%8A%A0%E7%A2%BC-google-%E5%9C%B0%E5%9C%96-7-%E5%80%8B%E8%B6%85%E5%AF%A6%E7%94%A8%E5%8A%9F%E8%83%BD-082252642.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-0d6bae66",
+    "status": "published",
+    "translationOf": "extra-7-super-useful-google-maps-features-learn-to-bookmark-spots-ar-navigation--zh-0d6bae66",
+    "publishedAt": "2026-07-06T08:22:52.000Z",
+    "fetchedAt": "2026-07-08T00:55:24.881Z",
+    "body": "The article highlights seven practical Google Maps features such as saving locations, AR navigation, and accessible routes, helping users remember places and discover nearby spots.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%8A%A0%E7%A2%BC-google-%E5%9C%B0%E5%9C%96-7-%E5%80%8B%E8%B6%85%E5%AF%A6%E7%94%A8%E5%8A%9F%E8%83%BD-082252642.html)"
   }
 ]
