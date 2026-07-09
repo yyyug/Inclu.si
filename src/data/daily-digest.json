@@ -1,55 +1,59 @@
 {
-  "date": "2026-07-08",
-  "generatedAt": "2026-07-08T01:12:18.481Z",
+  "date": "2026-07-09",
+  "generatedAt": "2026-07-09T01:55:29.483Z",
   "en": {
-    "title": "Virginia Law Boosts Movie Theater Accessibility for Disabled Patrons",
-    "summary": "Virginia has enacted a new law requiring wheelchair-accessible seating, assistive listening devices, and closed captioning in movie theaters to improve access for patrons with disabilities. Meanwhile, New York City is rolling out accessibility upgrades at five subway stations, and Microsoft Edge released developer tools to enhance keyboard accessibility and fix layout gaps. A Sense report shows over half of English parents struggle to find accessible holiday clubs for disabled children, while a Werth family donation funds expanded accessible testing environments at Virginia Tech.",
+    "title": "Virginia passes movie theater accessibility law; NYC funds subway elevators",
+    "summary": "Virginia has enacted legislation requiring movie theaters to provide captioning, audio description, and wheelchair-accessible seating for patrons with disabilities. New York City will use congestion pricing revenue to install elevators at five Brooklyn subway stations, improving wheelchair access. Additionally, Cowans Gap State Park now offers tactile maps, audio guides, and wheelchair‑friendly trails for visitors with disabilities.",
     "highlights": [
       {
-        "title": "Law aims to improve accessibility at Va. movie theaters",
-        "slug": "law-aims-to-improve-accessibility-at-va-movie-theaters-850cf63f"
+        "title": "New law aims to improve accessibility at movie theaters in Virginia - WFXRtv",
+        "slug": "new-law-aims-to-improve-accessibility-at-movie-theaters-in-virginia-wfxrtv-7dafbb64"
       },
       {
-        "title": "NYC subway accessibility upgrades cover five stations - Railway Supply",
-        "slug": "nyc-subway-accessibility-upgrades-cover-five-stations-railway-supply-41a30527"
+        "title": "Congestion fee funding to install elevators at five Brooklyn subway stations for barrier‑free access",
+        "slug": "congestion-fee-funding-to-install-elevators-at-five-brooklyn-subway-stations-for-26686bc6"
       },
       {
-        "title": "New in Edge for developers – Style layout gaps, improve keyboard accessibility and migrate your PWA to a new origin",
-        "slug": "new-in-edge-for-developers-style-layout-gaps-improve-keyboard-accessibility-and--41408670"
+        "title": "New Accessibility Tools Available At Cowans Gap - Fulton County News",
+        "slug": "new-accessibility-tools-available-at-cowans-gap-fulton-county-news-c23a98a0"
       },
       {
-        "title": "More than half of English parents struggle to find accessible holiday clubs for disabled children",
-        "slug": "more-than-half-of-english-parents-struggle-to-find-accessible-holiday-clubs-for--98b42735"
+        "title": "Park City Receives Accessibility Verified Designation from Wheel the World",
+        "slug": "park-city-receives-accessibility-verified-designation-from-wheel-the-world-389592bf"
       },
       {
-        "title": "New Werth gift expands accessible testing environments",
-        "slug": "new-werth-gift-expands-accessible-testing-environments-0b82eafa"
+        "title": "PIP review seen as both opportunity and headache for Andy Burnham",
+        "slug": "pip-review-seen-as-both-opportunity-and-headache-for-andy-burnham-5217a51c"
       }
     ]
   },
   "zh-TW": {
-    "title": "維吉尼亞州新法提升電影院無障礙，惠及殘障觀眾",
-    "summary": "維吉尼亞州已實施新法，要求電影院提供輪椅座位、助聽設備及閉路字幕，以改善殘障人士的觀影體驗。同時，紐約地鐵正在五個車站進行無障礙升級，微軟Edge釋出開發者功能以改善鍵盤無障礙與版面間距。英國 Sense 報告顯示超過半數家長難以尋找殘障兒童的可及假期俱樂部，而日本用戶在推特指出JR高速巴士殘障折扣使用時未檢查手冊，引發驗證疑慮。",
+    "title": "弗吉尼亞通過電影院無障礙法；紐約市擬裝電梯提升地鐵無障礙",
+    "summary": "弗吉尼亞州已通過立法，要求電影院提供字幕、聲音描述及輪椅可及座位，以改善殘障觀眾的觀影體驗。紐約市將利用擁擠費收入，在布碌崙五個地鐵站安裝電梯，提升輪椅使用者的可及性。此外，Cowans Gap 州立公園推出觸覺地圖、語音導覽及輪椅友善步道等無障礙工具；帕克城獲 Wheel the World 無障礙驗證；同時，一則來自日本的推文示範影片描述如何協助盲人或低視力觀眾。",
     "highlights": [
       {
-        "title": "法律旨在改善維吉尼亞州電影院的無障礙設施",
-        "slug": "law-aims-to-improve-accessibility-at-va-movie-theaters-zh-850cf63f"
+        "title": "弗吉尼亞州新法旨在提升電影院無障礙 - WFXRtv",
+        "slug": "new-law-aims-to-improve-accessibility-at-movie-theaters-in-virginia-wfxrtv-zh-7dafbb64"
       },
       {
-        "title": "紐約地鐵無障礙升級覆蓋五個車站",
-        "slug": "nyc-subway-accessibility-upgrades-cover-five-stations-railway-supply-zh-41a30527"
+        "title": "PIP檢視被視為對Andy Burnham而言既是機會也是頭痛的事",
+        "slug": "pip-review-seen-as-both-opportunity-and-headache-for-andy-burnham-zh-5217a51c"
       },
       {
-        "title": "Edge開發者新功能 – 樣式佈局間距、改進鍵盤無障礙及將PWA遷移至新來源",
-        "slug": "new-in-edge-for-developers-style-layout-gaps-improve-keyboard-accessibility-and--zh-41408670"
+        "title": "Cowans Gap 新增無障礙工具 - Fulton County News",
+        "slug": "new-accessibility-tools-available-at-cowans-gap-fulton-county-news-zh-c23a98a0"
       },
       {
-        "title": "超過半數英國家長難為殘障兒童尋找可及的假期俱樂部",
-        "slug": "more-than-half-of-english-parents-struggle-to-find-accessible-holiday-clubs-for--zh-98b42735"
+        "title": "堵車費挹注 布碌崙5地鐵站將裝電梯邁向無障礙",
+        "slug": "congestion-fee-funding-to-install-elevators-at-five-brooklyn-subway-stations-for-zh-26686bc6"
       },
       {
-        "title": "JR high-speed bus disability discount usage reported without handbook verification",
-        "slug": "jr-high-speed-bus-disability-discount-usage-reported-without-handbook-verificati-zh-611da65c"
+        "title": "帕克城獲Wheel the World無障礙驗證稱號",
+        "slug": "park-city-receives-accessibility-verified-designation-from-wheel-the-world-zh-389592bf"
+      },
+      {
+        "title": "Video Description Highlights Visual Details for Accessibility",
+        "slug": "video-description-highlights-visual-details-for-accessibility-zh-548986e9"
       }
     ]
   }
