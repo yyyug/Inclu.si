@@ -6,36 +6,27 @@ const OLLAMA_BASE_URL = (process.env.OLLAMA_BASE_URL || '').replace(/\/$/, '');
 const OLLAMA_API_KEY = process.env.OLLAMA_API_KEY || '';
 const OLLAMA_MODEL = process.env.OLLAMA_MODEL || 'gemma4:31b-cloud';
 const OLLAMA_TIMEOUT_MS = Number(process.env.OLLAMA_TIMEOUT_MS ?? 120000);
-const BATCH_SIZE = 3;
 
 function hasZhChars(s) { return /[\u4e00-\u9fff\u3400-\u4dbf]/.test(s); }
 
-async function translateBatch(items) {
-  const payload = items.map((item, i) => ({ id: i, enTitle: item.title, enSummary: item.summary || '' }));
+async function translateOne(item) {
   const response = await fetch(`${OLLAMA_BASE_URL}/chat/completions`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${OLLAMA_API_KEY}` },
     body: JSON.stringify({
-      model: OLLAMA_MODEL, temperature: 0.2, max_tokens: 4096,
+      model: OLLAMA_MODEL, temperature: 0.2, max_tokens: 512,
       messages: [
-        { role: 'system', content: 'You are a professional English-to-Traditional-Chinese translator. Output only valid JSON. All text values MUST be in Traditional Chinese (zh-TW), never in English.' },
-        { role: 'user', content: [
-          'Translate the following English titles and summaries to Traditional Chinese (zh-TW).',
-          'Return a strict JSON array with keys: itemId, zhTitle, zhSummary.',
-          'IMPORTANT: zhTitle and zhSummary MUST be written in Traditional Chinese characters. Do NOT return English text.',
-          '',
-          JSON.stringify(payload),
-        ].join('\n') },
+        { role: 'system', content: '你是專業翻譯。將英文翻譯成繁體中文。只輸出中文，不要英文。' },
+        { role: 'user', content: `翻譯成繁體中文（只輸出中文翻譯，不要其他文字）：\n${item.title}` },
       ],
     }),
     signal: AbortSignal.timeout(OLLAMA_TIMEOUT_MS),
   });
-  if (!response.ok) throw new Error(`Ollama API failed: ${response.status}`);
+  if (!response.ok) throw new Error(`API failed: ${response.status}`);
   const data = await response.json();
-  const content = data.choices?.[0]?.message?.content;
-  if (!content) throw new Error('Empty content');
-  const cleaned = content.replace(/^```json\s*/, '').replace(/\s*```$/, '');
-  return JSON.parse(cleaned);
+  const content = data.choices?.[0]?.message?.content?.trim();
+  if (!content) throw new Error('Empty');
+  return content;
 }
 
 async function main() {
@@ -48,26 +39,23 @@ async function main() {
     const needTranslation = items.filter(i => i.title.startsWith('無障礙社群訊號'));
 
     if (needTranslation.length === 0) continue;
-    console.log(`${file}: ${needTranslation.length} entries to retranslate with ${OLLAMA_MODEL}`);
+    console.log(`${file}: ${needTranslation.length} entries to retranslate one-by-one`);
 
-    for (let i = 0; i < needTranslation.length; i += BATCH_SIZE) {
-      const batch = needTranslation.slice(i, i + BATCH_SIZE);
+    for (let i = 0; i < needTranslation.length; i++) {
+      const entry = needTranslation[i];
       try {
-        const results = await translateBatch(batch);
-        for (const result of results) {
-          const entry = batch[result.id];
-          if (!entry) continue;
-          if (result.zhTitle && hasZhChars(result.zhTitle) && !result.zhTitle.startsWith('無障礙社群訊號')) {
-            entry.title = result.zhTitle;
-            totalFixed++;
-            console.log(`  Fixed: ${result.zhTitle}`);
-          }
-          if (result.zhSummary && hasZhChars(result.zhSummary)) entry.summary = result.zhSummary;
+        const zhTitle = await translateOne(entry);
+        if (hasZhChars(zhTitle) && !zhTitle.startsWith('無障礙社群訊號')) {
+          entry.title = zhTitle;
+          totalFixed++;
+          console.log(`  [${i+1}/${needTranslation.length}] Fixed: ${zhTitle}`);
+        } else {
+          console.log(`  [${i+1}/${needTranslation.length}] Still English: ${zhTitle}`);
         }
       } catch (error) {
-        console.error(`  Batch ${Math.floor(i/BATCH_SIZE)+1} failed: ${error.message}`);
+        console.error(`  [${i+1}/${needTranslation.length}] Failed: ${error.message}`);
       }
-      if (i + BATCH_SIZE < needTranslation.length) await new Promise(r => setTimeout(r, 1000));
+      await new Promise(r => setTimeout(r, 500));
     }
     await fs.writeFile(filePath, JSON.stringify(items, null, 2) + '\n', 'utf8');
   }
