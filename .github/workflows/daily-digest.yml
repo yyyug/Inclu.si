@@ -43,6 +43,16 @@ jobs:
           GROQ_TIMEOUT_MS: 300000
           DIGEST_LOOKBACK_HOURS: 24
 
+      - name: Deploy to Cloudflare Pages
+        if: always()
+        continue-on-error: true
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: f12f219ab9cf823c47c1e01a463d67a6
+        run: |
+          node scripts/gen-homepages.mjs
+          npx wrangler pages deploy dist --project-name inclu-si --branch main
+
       - name: Upload digest log artifact
         if: failure()
         continue-on-error: true
