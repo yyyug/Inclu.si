@@ -22308,5 +22308,72 @@
     "publishedAt": "2026-07-11T02:16:30.000Z",
     "fetchedAt": "2026-07-11T02:45:02.565Z",
     "body": "The user notes that previously passengers could transfer between JR and Keihan lines without passing through ticket gates, but now must exit and re‑enter each time, suggesting a regression in barrier‑free station design that may be contributing to increased fare evasion.\n推文來源： [ゆうき (@youkis_soccer)](https://x.com/youkis_soccer/status/2075766150059933772)"
+  },
+  {
+    "title": "邁向十載共融里程碑！ 新竹市無障礙微旅行開放報名 首發團7月底出遊",
+    "slug": "hsinchu-city-launches-accessible-micro-travel-program-celebrating-ten-years-of-i-zh-6367a0ef",
+    "lang": "zh-TW",
+    "summary": "新竹市推出無障礙微旅行，慶祝共融十年里程碑，首發團將於七月底出遊，提供無障礙旅遊體驗。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "accessible travel",
+      "tourism",
+      "disability",
+      "inclusion"
+    ],
+    "sourceName": "蕃新聞",
+    "sourceUrl": "https://n.yam.com/Article/20260711946680",
+    "relatedSources": [
+      {
+        "name": "蕃新聞",
+        "url": "https://n.yam.com/Article/20260711946680"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-6367a0ef",
+    "status": "published",
+    "translationOf": "hsinchu-city-launches-accessible-micro-travel-program-celebrating-ten-years-of-i-6367a0ef",
+    "publishedAt": "2026-07-11T05:14:00.000Z",
+    "fetchedAt": "2026-07-11T09:23:22.333Z",
+    "body": "新竹市推出無障礙微旅行，慶祝共融十年里程碑，首發團將於七月底出遊，提供無障礙旅遊體驗。\n\n原文來源： [蕃新聞](https://n.yam.com/Article/20260711946680)"
+  },
+  {
+    "title": "復健完成卻無法回歸運動？醫療與社區合作，陪伴身障者走出運動斷鏈",
+    "slug": "after-rehab-unable-to-return-to-sports-medical-and-community-collaboration-helps-zh-020f7b19",
+    "lang": "zh-TW",
+    "summary": "許多病人完成復健後，因害怕受傷或缺乏無障礙環境而活動量驟降，導致功能退步。衛福部臺北醫院復健科透過醫師、物理治療師及運動防護員評估，將個案能力與興趣媒合適合運動場館，使運動成為復健延伸，協助病人重返日常活動。",
+    "category": "physical-design",
+    "tags": [
+      "disability",
+      "sports",
+      "accessibility",
+      "rehabilitation",
+      "community"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8951b4c9-ca76-4f35-8cb5-668211409741",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8951b4c9-ca76-4f35-8cb5-668211409741"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-020f7b19",
+    "status": "published",
+    "translationOf": "after-rehab-unable-to-return-to-sports-medical-and-community-collaboration-helps-020f7b19",
+    "publishedAt": "2026-07-10T09:00:00.000Z",
+    "fetchedAt": "2026-07-11T09:23:40.092Z",
+    "body": "許多病人完成復健後，因害怕受傷或缺乏無障礙環境而活動量驟降，導致功能退步。衛福部臺北醫院復健科透過醫師、物理治療師及運動防護員評估，將個案能力與興趣媒合適合運動場館，使運動成為復健延伸，協助病人重返日常活動。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8951b4c9-ca76-4f35-8cb5-668211409741)"
   }
 ]

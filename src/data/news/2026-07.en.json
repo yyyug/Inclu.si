@@ -22308,5 +22308,72 @@
     "publishedAt": "2026-07-11T02:16:30.000Z",
     "fetchedAt": "2026-07-11T02:45:02.565Z",
     "body": "The user notes that previously passengers could transfer between JR and Keihan lines without passing through ticket gates, but now must exit and re‑enter each time, suggesting a regression in barrier‑free station design that may be contributing to increased fare evasion.\nTweet source: [ゆうき (@youkis_soccer)](https://x.com/youkis_soccer/status/2075766150059933772)"
+  },
+  {
+    "title": "Hsinchu City Launches Accessible Micro-Travel Program Celebrating Ten Years of Inclusion",
+    "slug": "hsinchu-city-launches-accessible-micro-travel-program-celebrating-ten-years-of-i-6367a0ef",
+    "lang": "en",
+    "summary": "Hsinchu City has opened registration for its accessible micro-travel initiative, marking a decade of inclusion efforts. The inaugural tour departs at the end of July, offering barrier-free travel experiences designed for people with disabilities.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "accessible travel",
+      "tourism",
+      "disability",
+      "inclusion"
+    ],
+    "sourceName": "蕃新聞",
+    "sourceUrl": "https://n.yam.com/Article/20260711946680",
+    "relatedSources": [
+      {
+        "name": "蕃新聞",
+        "url": "https://n.yam.com/Article/20260711946680"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-6367a0ef",
+    "status": "published",
+    "translationOf": "hsinchu-city-launches-accessible-micro-travel-program-celebrating-ten-years-of-i-zh-6367a0ef",
+    "publishedAt": "2026-07-11T05:14:00.000Z",
+    "fetchedAt": "2026-07-11T09:23:22.333Z",
+    "body": "Hsinchu City has opened registration for its accessible micro-travel initiative, marking a decade of inclusion efforts. The inaugural tour departs at the end of July, offering barrier-free travel experiences designed for people with disabilities.\n\nRead more from the original source: [蕃新聞](https://n.yam.com/Article/20260711946680)"
+  },
+  {
+    "title": "After Rehab, Unable to Return to Sports? Medical and Community Collaboration Helps Persons with Disabilities Overcome the Exercise Gap",
+    "slug": "after-rehab-unable-to-return-to-sports-medical-and-community-collaboration-helps-020f7b19",
+    "lang": "en",
+    "summary": "Many patients who finish rehabilitation struggle to resume exercise due to fear of injury or lack of accessible facilities, causing a decline in function. A program at Taipei Hospital’s Rehabilitation Department pairs medical assessments with suitable sports venues, helping persons with disabilities continue physical activity as part of their recovery.",
+    "category": "physical-design",
+    "tags": [
+      "disability",
+      "sports",
+      "accessibility",
+      "rehabilitation",
+      "community"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8951b4c9-ca76-4f35-8cb5-668211409741",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8951b4c9-ca76-4f35-8cb5-668211409741"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-020f7b19",
+    "status": "published",
+    "translationOf": "after-rehab-unable-to-return-to-sports-medical-and-community-collaboration-helps-zh-020f7b19",
+    "publishedAt": "2026-07-10T09:00:00.000Z",
+    "fetchedAt": "2026-07-11T09:23:40.092Z",
+    "body": "Many patients who finish rehabilitation struggle to resume exercise due to fear of injury or lack of accessible facilities, causing a decline in function. A program at Taipei Hospital’s Rehabilitation Department pairs medical assessments with suitable sports venues, helping persons with disabilities continue physical activity as part of their recovery.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8951b4c9-ca76-4f35-8cb5-668211409741)"
   }
 ]
