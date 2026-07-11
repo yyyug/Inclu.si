@@ -23675,5 +23675,69 @@
     "publishedAt": "2026-07-11T11:09:21.000Z",
     "fetchedAt": "2026-07-11T11:23:53.819Z",
     "body": "A person with a disability reports being fired after their condition worsened and they could no longer meet work expectations.\n推文來源： [翠琳＊suirin＊ (@suirin34407542)](https://x.com/suirin34407542/status/2075900244991381685)"
+  },
+  {
+    "title": "iOS 27 Beta 3：主要新功能预览",
+    "slug": "ios-27-beta-3-here-are-the-major-new-features-to-look-for-zh-325eff85",
+    "lang": "zh-TW",
+    "summary": "此版本带来了一系列可用性、辅助功能和个性化的改进，包括增强的 VoiceOver、新的触控辅助选项等，旨在提升残障用户的使用体验。",
+    "category": "digital-a11y",
+    "tags": [
+      "iOS",
+      "accessibility",
+      "beta"
+    ],
+    "sourceName": "Geeky Gadgets",
+    "sourceUrl": "https://www.geeky-gadgets.com/ios-27-beta-3-released",
+    "relatedSources": [
+      {
+        "name": "Geeky Gadgets",
+        "url": "https://www.geeky-gadgets.com/ios-27-beta-3-released"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-325eff85",
+    "status": "published",
+    "translationOf": "ios-27-beta-3-here-are-the-major-new-features-to-look-for-325eff85",
+    "publishedAt": "2026-07-10T11:00:42.000Z",
+    "fetchedAt": "2026-07-11T11:55:23.917Z",
+    "body": "此版本带来了一系列可用性、辅助功能和个性化的改进，包括增强的 VoiceOver、新的触控辅助选项等，旨在提升残障用户的使用体验。\n\n原文來源： [Geeky Gadgets](https://www.geeky-gadgets.com/ios-27-beta-3-released)"
+  },
+  {
+    "title": "流动屋顶与流动混凝土墙体构成新西西里圣巴巴拉教区建筑",
+    "slug": "a-flowing-roof-and-fluid-concrete-walls-frame-the-new-santa-barbara-parish-compl-zh-b904f256",
+    "lang": "zh-TW",
+    "summary": "该建筑设计在保持流动美感的同时，融入了无障碍设计元素，如坡道和平坦通道，以确保所有人都能便捷进入。",
+    "category": "physical-design",
+    "tags": [
+      "architecture",
+      "accessibility",
+      "santa barbara"
+    ],
+    "sourceName": "Designboom",
+    "sourceUrl": "https://www.designboom.com/architecture/flowing-roof-fluid-concrete-walls-new-santa-barbara-parish-complex-sicily-francesco-lipari-lillo-giglia-giuseppe-conti",
+    "relatedSources": [
+      {
+        "name": "Designboom",
+        "url": "https://www.designboom.com/architecture/flowing-roof-fluid-concrete-walls-new-santa-barbara-parish-complex-sicily-francesco-lipari-lillo-giglia-giuseppe-conti"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-b904f256",
+    "status": "published",
+    "translationOf": "a-flowing-roof-and-fluid-concrete-walls-frame-the-new-santa-barbara-parish-compl-b904f256",
+    "publishedAt": "2026-07-10T10:30:16.000Z",
+    "fetchedAt": "2026-07-11T11:55:23.958Z",
+    "body": "该建筑设计在保持流动美感的同时，融入了无障碍设计元素，如坡道和平坦通道，以确保所有人都能便捷进入。\n\n原文來源： [Designboom](https://www.designboom.com/architecture/flowing-roof-fluid-concrete-walls-new-santa-barbara-parish-complex-sicily-francesco-lipari-lillo-giglia-giuseppe-conti)"
   }
 ]
