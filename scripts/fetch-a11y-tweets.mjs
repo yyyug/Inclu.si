@@ -549,7 +549,7 @@ async function translateBatchToZh(items) {
   const userPrompt = [
     'Translate the following English titles and summaries to Traditional Chinese (zh-TW).',
     'Return a strict JSON array with keys: itemId, zhTitle, zhSummary.',
-    'Keep translations concise and natural. No markdown, no extra text.',
+    'IMPORTANT: zhTitle and zhSummary MUST be written in Traditional Chinese characters. Do NOT return English text.',
     '',
     JSON.stringify(items),
   ].join('\n');
@@ -567,7 +567,7 @@ async function translateBatchToZh(items) {
         temperature: 0.2,
         max_tokens: OLLAMA_MAX_TOKENS,
         messages: [
-          { role: 'system', content: 'Always output valid minified JSON and nothing else.' },
+          { role: 'system', content: 'You are a professional English-to-Traditional-Chinese translator. Output only valid JSON. All text values MUST be in Traditional Chinese (zh-TW), never in English.' },
           { role: 'user', content: userPrompt },
         ],
       }),
@@ -629,7 +629,7 @@ async function translateBatchToZhGroq(items) {
   const userPrompt = [
     'Translate the following English titles and summaries to Traditional Chinese (zh-TW).',
     'Return a strict JSON array with keys: itemId, zhTitle, zhSummary.',
-    'Keep translations concise and natural. No markdown, no extra text.',
+    'IMPORTANT: zhTitle and zhSummary MUST be written in Traditional Chinese characters. Do NOT return English text.',
     '',
     JSON.stringify(items),
   ].join('\n');
@@ -647,7 +647,7 @@ async function translateBatchToZhGroq(items) {
         temperature: 0.2,
         max_tokens: OLLAMA_MAX_TOKENS,
         messages: [
-          { role: 'system', content: 'Always output valid minified JSON and nothing else.' },
+          { role: 'system', content: 'You are a professional English-to-Traditional-Chinese translator. Output only valid JSON. All text values MUST be in Traditional Chinese (zh-TW), never in English.' },
           { role: 'user', content: userPrompt },
         ],
       }),
