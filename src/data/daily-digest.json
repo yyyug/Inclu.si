@@ -1,59 +1,71 @@
 {
-  "date": "2026-07-09",
-  "generatedAt": "2026-07-09T01:55:29.483Z",
+  "date": "2026-07-11",
+  "generatedAt": "2026-07-11T01:07:58.421Z",
   "en": {
-    "title": "Virginia passes movie theater accessibility law; NYC funds subway elevators",
-    "summary": "Virginia has enacted legislation requiring movie theaters to provide captioning, audio description, and wheelchair-accessible seating for patrons with disabilities. New York City will use congestion pricing revenue to install elevators at five Brooklyn subway stations, improving wheelchair access. Additionally, Cowans Gap State Park now offers tactile maps, audio guides, and wheelchair‑friendly trails for visitors with disabilities.",
+    "title": "Disability Accessibility Advances: Policy Updates, Tech Deployments, and Community Awareness Highlight Week",
+    "summary": "The Public Utilities Commission addressed accessibility concerns, pledging improvements to service access for people with disabilities. Simultaneously, advocates pressed the EU to embed disability rights in its Human Rights and Democracy Action Plan, while a city launched robot‑assisted sidewalk assessments to boost ADA compliance. Other highlights include Dakota County’s accessible website launch, an elevator failure underscoring barrier‑free gaps, new natural bridge accessibility plans, and a local Accessible Parking Awareness Day.",
     "highlights": [
       {
-        "title": "New law aims to improve accessibility at movie theaters in Virginia - WFXRtv",
-        "slug": "new-law-aims-to-improve-accessibility-at-movie-theaters-in-virginia-wfxrtv-7dafbb64"
+        "title": "Public Utilities Commission responds to accessibility concerns",
+        "slug": "public-utilities-commission-responds-to-accessibility-concerns-3abcaf84"
       },
       {
-        "title": "Congestion fee funding to install elevators at five Brooklyn subway stations for barrier‑free access",
-        "slug": "congestion-fee-funding-to-install-elevators-at-five-brooklyn-subway-stations-for-26686bc6"
+        "title": "EU Human Rights and Democracy Action Plan must deliver on disability rights",
+        "slug": "eu-human-rights-and-democracy-action-plan-must-deliver-on-disability-rights-c80976f7"
       },
       {
-        "title": "New Accessibility Tools Available At Cowans Gap - Fulton County News",
-        "slug": "new-accessibility-tools-available-at-cowans-gap-fulton-county-news-c23a98a0"
+        "title": "City launches robot-assisted sidewalk assessment to advance Vision Zero and ADA accessibility planning",
+        "slug": "city-launches-robot-assisted-sidewalk-assessment-to-advance-vision-zero-and-ada--0e2e7618"
       },
       {
-        "title": "Park City Receives Accessibility Verified Designation from Wheel the World",
-        "slug": "park-city-receives-accessibility-verified-designation-from-wheel-the-world-389592bf"
+        "title": "Dakota County launches redesigned website with improved accessibility",
+        "slug": "dakota-county-launches-redesigned-website-with-improved-accessibility-f0e937aa"
       },
       {
-        "title": "PIP review seen as both opportunity and headache for Andy Burnham",
-        "slug": "pip-review-seen-as-both-opportunity-and-headache-for-andy-burnham-5217a51c"
+        "title": "Elevator Failure Highlights Barrier-Free Access Issues",
+        "slug": "elevator-failure-highlights-barrier-free-access-issues-b85c8076"
+      },
+      {
+        "title": "Natural Bridge Plans Focus on Accessibility, Safety and Viewing",
+        "slug": "natural-bridge-plans-focus-on-accessibility-safety-and-viewing-1de251c7"
+      },
+      {
+        "title": "MONDAY: Accessible Parking Awareness Day to be Recognized at Guilford Police Department",
+        "slug": "monday-accessible-parking-awareness-day-to-be-recognized-at-guilford-police-depa-a7b66b5d"
       }
     ]
   },
   "zh-TW": {
-    "title": "弗吉尼亞通過電影院無障礙法；紐約市擬裝電梯提升地鐵無障礙",
-    "summary": "弗吉尼亞州已通過立法，要求電影院提供字幕、聲音描述及輪椅可及座位，以改善殘障觀眾的觀影體驗。紐約市將利用擁擠費收入，在布碌崙五個地鐵站安裝電梯，提升輪椅使用者的可及性。此外，Cowans Gap 州立公園推出觸覺地圖、語音導覽及輪椅友善步道等無障礙工具；帕克城獲 Wheel the World 無障礙驗證；同時，一則來自日本的推文示範影片描述如何協助盲人或低視力觀眾。",
+    "title": "無障礙政策與技術進展 公用事業委員會回應 EU人權行動計畫 倡議殘障權益 城市機器人評估 人行道無障礙 達科塔縣網站無障礙升級 電梯故障凸顯問題 自然橋可及性規劃 無障礙停車宣導日",
+    "summary": "公共事業委員會回應無障礙服務關切，概述改善殘疾人士可及性的具體措施。同時，倡議者促請歐盟在人權與民主行動計畫中落實殘障權益，而多個城市推出機器人人行道評估與網站無障礙升級。此外，電梯故障凸顯無障礙缺口，自然橋規劃聚焦可及性與安全，並有地方舉辦無障礙停車宣導日提升民眾認識。",
     "highlights": [
       {
-        "title": "弗吉尼亞州新法旨在提升電影院無障礙 - WFXRtv",
-        "slug": "new-law-aims-to-improve-accessibility-at-movie-theaters-in-virginia-wfxrtv-zh-7dafbb64"
+        "title": "公共事業委員會回應無障礙問題",
+        "slug": "public-utilities-commission-responds-to-accessibility-concerns-zh-3abcaf84"
       },
       {
-        "title": "PIP檢視被視為對Andy Burnham而言既是機會也是頭痛的事",
-        "slug": "pip-review-seen-as-both-opportunity-and-headache-for-andy-burnham-zh-5217a51c"
+        "title": "歐盟人權與民主行動計畫必須落實殘障權益",
+        "slug": "eu-human-rights-and-democracy-action-plan-must-deliver-on-disability-rights-zh-c80976f7"
       },
       {
-        "title": "Cowans Gap 新增無障礙工具 - Fulton County News",
-        "slug": "new-accessibility-tools-available-at-cowans-gap-fulton-county-news-zh-c23a98a0"
+        "title": "城市啟動機器人輔助人行道評估，以推進 Vision Zero 和 ADA 無障礙規劃",
+        "slug": "city-launches-robot-assisted-sidewalk-assessment-to-advance-vision-zero-and-ada--zh-0e2e7618"
       },
       {
-        "title": "堵車費挹注 布碌崙5地鐵站將裝電梯邁向無障礙",
-        "slug": "congestion-fee-funding-to-install-elevators-at-five-brooklyn-subway-stations-for-zh-26686bc6"
+        "title": "達科塔縣推出改善無障礙的重新設計網站",
+        "slug": "dakota-county-launches-redesigned-website-with-improved-accessibility-zh-f0e937aa"
       },
       {
-        "title": "帕克城獲Wheel the World無障礙驗證稱號",
-        "slug": "park-city-receives-accessibility-verified-designation-from-wheel-the-world-zh-389592bf"
+        "title": "電梯故障凸顯無障礙通行問題",
+        "slug": "elevator-failure-highlights-barrier-free-access-issues-zh-b85c8076"
       },
       {
-        "title": "Video Description Highlights Visual Details for Accessibility",
-        "slug": "video-description-highlights-visual-details-for-accessibility-zh-548986e9"
+        "title": "自然橋計畫聚焦於可及性、安全與觀賞",
+        "slug": "natural-bridge-plans-focus-on-accessibility-safety-and-viewing-zh-1de251c7"
+      },
+      {
+        "title": "吉爾福德警察局將紀念無障礙停車日",
+        "slug": "monday-accessible-parking-awareness-day-to-be-recognized-at-guilford-police-depa-zh-a7b66b5d"
       }
     ]
   }
