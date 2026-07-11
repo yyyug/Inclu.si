@@ -1,55 +1,39 @@
 {
   "date": "2026-07-11",
-  "generatedAt": "2026-07-11T02:05:51.884Z",
+  "generatedAt": "2026-07-11T12:56:54.585Z",
   "en": {
-    "title": "US PUC Addresses Disability Accessibility Concerns Amid Funding and Tech Updates",
-    "summary": "The Public Utilities Commission responded to accessibility concerns for people with disabilities, outlining steps to improve service access. Meanwhile, the Beckley region secured $637K for sidewalk, pedestrian bridge, and park accessibility projects, and a city launched robot-assisted sidewalk assessments to advance ADA compliance. Additionally, Luxury Bath Technologies promoted accessible walk-in bathtubs with secure seating and grab bars.",
+    "title": "Accessible Gaming Launch Highlights Disability Inclusion in Tech and Travel",
+    "summary": "PEKALAR announced an accessible slot game and MMO designed for players with disabilities, marking a notable product launch in inclusive gaming. Meanwhile, a meetup hosted by NPO Smart Accessibility will discuss real‑world accessibility challenges faced by VoiceOver users beyond standard guidelines. In Hsinchu City, registration opened for an accessible micro‑travel program celebrating ten years of inclusion, offering barrier‑free tours for people with disabilities.",
     "highlights": [
       {
-        "title": "Public Utilities Commission responds to accessibility concerns",
-        "slug": "public-utilities-commission-responds-to-accessibility-concerns-3abcaf84"
+        "title": "Accessible Slot Game PEKALAR and MMO Pirapira Announced",
+        "slug": "accessible-slot-game-pekalar-and-mmo-pirapira-announced-a854b394"
       },
       {
-        "title": "Beckley region receives $637K for sidewalks, pedestrian bridge and park accessibility projects",
-        "slug": "beckley-region-receives-637k-for-sidewalks-pedestrian-bridge-and-park-accessibil-f1ca00b8"
+        "title": "Event Explores Accessibility Challenges Beyond Guidelines",
+        "slug": "event-explores-accessibility-challenges-beyond-guidelines-bec05058"
       },
       {
-        "title": "City launches robot-assisted sidewalk assessment to advance Vision Zero and ADA accessibility planning",
-        "slug": "city-launches-robot-assisted-sidewalk-assessment-to-advance-vision-zero-and-ada--0e2e7618"
-      },
-      {
-        "title": "The Guardian view on disability benefits: Pip must not become another route for cuts",
-        "slug": "the-guardian-view-on-disability-benefits-pip-must-not-become-another-route-for-c-3d79678a"
-      },
-      {
-        "title": "Luxury Bath Technologies Promotes Accessible Walk-In Bathtubs",
-        "slug": "luxury-bath-technologies-promotes-accessible-walk-in-bathtubs-f31f8a08"
+        "title": "Hsinchu City Launches Accessible Micro-Travel Program Celebrating Ten Years of Inclusion",
+        "slug": "hsinchu-city-launches-accessible-micro-travel-program-celebrating-ten-years-of-i-6367a0ef"
       }
     ]
   },
   "zh-TW": {
-    "title": "美國PUC回應無障礙關切，貝克利獲資金改善人行道及機器人評估",
-    "summary": "美國公共事業委員會回應殘疾人士無障礙服務的關切，並概述改善措施。貝克利地區獲得637,000美元用於人行道、行人橋及公園無障礙工程，同時城市啟動機器人輔助人行道評估以推進ADA合規。此外，社群討論強調無香氛環境對殘障人士的重要性。",
+    "title": "無障礙遊戲上市帶動科技與旅遊共融新潮流",
+    "summary": "PEKALAR 公布無障礙老虎機與 MMO 遊戲，專為殘障玩家設計，標誌著無障礙遊戲的重要產品發布。同時，智能無障礙 NPO 主辦的聚會將探討 VoiceOver 使用者面臨的實際無障礙挑戰，超越現行指引。新竹市則開放無障礙微旅行報名，慶祝共融十年，提供無障礙旅遊體驗。",
     "highlights": [
       {
-        "title": "公共事業委員會回應無障礙問題",
-        "slug": "public-utilities-commission-responds-to-accessibility-concerns-zh-3abcaf84"
+        "title": "無障礙社群訊號 2075896342178865195",
+        "slug": "accessible-slot-game-pekalar-and-mmo-pirapira-announced-zh-a854b394"
       },
       {
-        "title": "衛報評論：殘障福利不應成為削減的另一條途徑",
-        "slug": "the-guardian-view-on-disability-benefits-pip-must-not-become-another-route-for-c-zh-3d79678a"
+        "title": "活動探討超越指引的無障礙挑戰",
+        "slug": "event-explores-accessibility-challenges-beyond-guidelines-zh-bec05058"
       },
       {
-        "title": "貝克利地區獲得637,000美元用於人行道、行人橋及公園無障礙工程",
-        "slug": "beckley-region-receives-637k-for-sidewalks-pedestrian-bridge-and-park-accessibil-zh-f1ca00b8"
-      },
-      {
-        "title": "城市啟動機器人輔助人行道評估，以推進 Vision Zero 和 ADA 無障礙規劃",
-        "slug": "city-launches-robot-assisted-sidewalk-assessment-to-advance-vision-zero-and-ada--zh-0e2e7618"
-      },
-      {
-        "title": "Fragrance Harm and the Need for Fragrance-Free Environments",
-        "slug": "fragrance-harm-and-the-need-for-fragrance-free-environments-zh-4ff7fb7e"
+        "title": "邁向十載共融里程碑！ 新竹市無障礙微旅行開放報名 首發團7月底出遊",
+        "slug": "hsinchu-city-launches-accessible-micro-travel-program-celebrating-ten-years-of-i-zh-6367a0ef"
       }
     ]
   }
