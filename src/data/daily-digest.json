@@ -1,71 +1,55 @@
 {
   "date": "2026-07-11",
-  "generatedAt": "2026-07-11T01:07:58.421Z",
+  "generatedAt": "2026-07-11T02:05:51.884Z",
   "en": {
-    "title": "Disability Accessibility Advances: Policy Updates, Tech Deployments, and Community Awareness Highlight Week",
-    "summary": "The Public Utilities Commission addressed accessibility concerns, pledging improvements to service access for people with disabilities. Simultaneously, advocates pressed the EU to embed disability rights in its Human Rights and Democracy Action Plan, while a city launched robot‑assisted sidewalk assessments to boost ADA compliance. Other highlights include Dakota County’s accessible website launch, an elevator failure underscoring barrier‑free gaps, new natural bridge accessibility plans, and a local Accessible Parking Awareness Day.",
+    "title": "US PUC Addresses Disability Accessibility Concerns Amid Funding and Tech Updates",
+    "summary": "The Public Utilities Commission responded to accessibility concerns for people with disabilities, outlining steps to improve service access. Meanwhile, the Beckley region secured $637K for sidewalk, pedestrian bridge, and park accessibility projects, and a city launched robot-assisted sidewalk assessments to advance ADA compliance. Additionally, Luxury Bath Technologies promoted accessible walk-in bathtubs with secure seating and grab bars.",
     "highlights": [
       {
         "title": "Public Utilities Commission responds to accessibility concerns",
         "slug": "public-utilities-commission-responds-to-accessibility-concerns-3abcaf84"
       },
       {
-        "title": "EU Human Rights and Democracy Action Plan must deliver on disability rights",
-        "slug": "eu-human-rights-and-democracy-action-plan-must-deliver-on-disability-rights-c80976f7"
+        "title": "Beckley region receives $637K for sidewalks, pedestrian bridge and park accessibility projects",
+        "slug": "beckley-region-receives-637k-for-sidewalks-pedestrian-bridge-and-park-accessibil-f1ca00b8"
       },
       {
         "title": "City launches robot-assisted sidewalk assessment to advance Vision Zero and ADA accessibility planning",
         "slug": "city-launches-robot-assisted-sidewalk-assessment-to-advance-vision-zero-and-ada--0e2e7618"
       },
       {
-        "title": "Dakota County launches redesigned website with improved accessibility",
-        "slug": "dakota-county-launches-redesigned-website-with-improved-accessibility-f0e937aa"
+        "title": "The Guardian view on disability benefits: Pip must not become another route for cuts",
+        "slug": "the-guardian-view-on-disability-benefits-pip-must-not-become-another-route-for-c-3d79678a"
       },
       {
-        "title": "Elevator Failure Highlights Barrier-Free Access Issues",
-        "slug": "elevator-failure-highlights-barrier-free-access-issues-b85c8076"
-      },
-      {
-        "title": "Natural Bridge Plans Focus on Accessibility, Safety and Viewing",
-        "slug": "natural-bridge-plans-focus-on-accessibility-safety-and-viewing-1de251c7"
-      },
-      {
-        "title": "MONDAY: Accessible Parking Awareness Day to be Recognized at Guilford Police Department",
-        "slug": "monday-accessible-parking-awareness-day-to-be-recognized-at-guilford-police-depa-a7b66b5d"
+        "title": "Luxury Bath Technologies Promotes Accessible Walk-In Bathtubs",
+        "slug": "luxury-bath-technologies-promotes-accessible-walk-in-bathtubs-f31f8a08"
       }
     ]
   },
   "zh-TW": {
-    "title": "無障礙政策與技術進展 公用事業委員會回應 EU人權行動計畫 倡議殘障權益 城市機器人評估 人行道無障礙 達科塔縣網站無障礙升級 電梯故障凸顯問題 自然橋可及性規劃 無障礙停車宣導日",
-    "summary": "公共事業委員會回應無障礙服務關切，概述改善殘疾人士可及性的具體措施。同時，倡議者促請歐盟在人權與民主行動計畫中落實殘障權益，而多個城市推出機器人人行道評估與網站無障礙升級。此外，電梯故障凸顯無障礙缺口，自然橋規劃聚焦可及性與安全，並有地方舉辦無障礙停車宣導日提升民眾認識。",
+    "title": "美國PUC回應無障礙關切，貝克利獲資金改善人行道及機器人評估",
+    "summary": "美國公共事業委員會回應殘疾人士無障礙服務的關切，並概述改善措施。貝克利地區獲得637,000美元用於人行道、行人橋及公園無障礙工程，同時城市啟動機器人輔助人行道評估以推進ADA合規。此外，社群討論強調無香氛環境對殘障人士的重要性。",
     "highlights": [
       {
         "title": "公共事業委員會回應無障礙問題",
         "slug": "public-utilities-commission-responds-to-accessibility-concerns-zh-3abcaf84"
       },
       {
-        "title": "歐盟人權與民主行動計畫必須落實殘障權益",
-        "slug": "eu-human-rights-and-democracy-action-plan-must-deliver-on-disability-rights-zh-c80976f7"
+        "title": "衛報評論：殘障福利不應成為削減的另一條途徑",
+        "slug": "the-guardian-view-on-disability-benefits-pip-must-not-become-another-route-for-c-zh-3d79678a"
+      },
+      {
+        "title": "貝克利地區獲得637,000美元用於人行道、行人橋及公園無障礙工程",
+        "slug": "beckley-region-receives-637k-for-sidewalks-pedestrian-bridge-and-park-accessibil-zh-f1ca00b8"
       },
       {
         "title": "城市啟動機器人輔助人行道評估，以推進 Vision Zero 和 ADA 無障礙規劃",
         "slug": "city-launches-robot-assisted-sidewalk-assessment-to-advance-vision-zero-and-ada--zh-0e2e7618"
       },
       {
-        "title": "達科塔縣推出改善無障礙的重新設計網站",
-        "slug": "dakota-county-launches-redesigned-website-with-improved-accessibility-zh-f0e937aa"
-      },
-      {
-        "title": "電梯故障凸顯無障礙通行問題",
-        "slug": "elevator-failure-highlights-barrier-free-access-issues-zh-b85c8076"
-      },
-      {
-        "title": "自然橋計畫聚焦於可及性、安全與觀賞",
-        "slug": "natural-bridge-plans-focus-on-accessibility-safety-and-viewing-zh-1de251c7"
-      },
-      {
-        "title": "吉爾福德警察局將紀念無障礙停車日",
-        "slug": "monday-accessible-parking-awareness-day-to-be-recognized-at-guilford-police-depa-zh-a7b66b5d"
+        "title": "Fragrance Harm and the Need for Fragrance-Free Environments",
+        "slug": "fragrance-harm-and-the-need-for-fragrance-free-environments-zh-4ff7fb7e"
       }
     ]
   }
