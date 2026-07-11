@@ -1036,7 +1036,15 @@ async function main() {
             zhMap.set(t.itemId, t);
           }
         } catch (zhError) {
-          console.warn(`Translation batch failed, using English fallback`);
+          console.warn(`Translation batch failed, trying individual items`);
+          for (const item of toTranslate) {
+            try {
+              const single = await retryTranslateOllamaThenGroq([item], `${i}/zh/${item.itemId}`);
+              if (single.length > 0) zhMap.set(item.itemId, single[0]);
+            } catch {
+              // skip individual failure
+            }
+          }
         }
       }
     }
@@ -1049,11 +1057,15 @@ async function main() {
       const en = enItems[itemIdx];
       const zh = zhMap.get(itemIdx) || { zhTitle: en.englishTitle, zhSummary: en.englishSummary };
 
+      const hasZhChars = (s) => /[\u4e00-\u9fff\u3400-\u4dbf]/.test(s);
+      const zhTitle = hasZhChars(zh.zhTitle) ? zh.zhTitle : `無障礙社群訊號 ${entry.tweetId}`;
+      const zhSummary = hasZhChars(zh.zhSummary) ? zh.zhSummary : en.englishSummary;
+
       const ai = {
         englishTitle: en.englishTitle,
         englishSummary: en.englishSummary,
-        zhTitle: zh.zhTitle || `無障礙社群訊號 ${entry.tweetId}`,
-        zhSummary: zh.zhSummary || en.englishSummary,
+        zhTitle,
+        zhSummary,
         tags: en.tags,
       };
 

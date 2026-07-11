@@ -852,11 +852,15 @@ async function main() {
         continue;
       }
 
+      const hasZhChars = (s) => /[\u4e00-\u9fff\u3400-\u4dbf]/.test(s);
+      const zhTitleRaw = output.zhTitle || entry.item.title || '無障礙新聞';
+      const zhSummaryRaw = output.zhSummary || entry.item.contentSnippet || '';
+
       const ai = {
         englishTitle: output.englishTitle || entry.item.title || 'Accessibility update',
         englishSummary: output.englishSummary || entry.item.contentSnippet || '',
-        zhTitle: output.zhTitle || entry.item.title || '無障礙新聞',
-        zhSummary: output.zhSummary || entry.item.contentSnippet || '',
+        zhTitle: hasZhChars(zhTitleRaw) ? zhTitleRaw : '無障礙新聞',
+        zhSummary: hasZhChars(zhSummaryRaw) ? zhSummaryRaw : (output.englishSummary || entry.item.contentSnippet || ''),
         category: output.category,
         tags: output.tags,
       };
