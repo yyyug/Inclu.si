@@ -24925,5 +24925,141 @@
     "publishedAt": "2026-07-11T12:20:19.000Z",
     "fetchedAt": "2026-07-11T13:12:27.839Z",
     "body": "The organization promotes its newsletter, The UCB Buzz, to keep subscribers informed about blindness-related news and events.\nTweet source: [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2075918103712817524)\nExternal link: [https://utahblind.org/chimp.html](https://utahblind.org/chimp.html)"
+  },
+  {
+    "title": "Accessible Innovation Showcase at the Schoolhouse Hotel",
+    "slug": "accessible-innovation-showcase-at-the-schoolhouse-hotel-21927949",
+    "lang": "en",
+    "summary": "An event showcasing accessible innovations held at the Schoolhouse Hotel.",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "innovation",
+      "hotel",
+      "showcase"
+    ],
+    "sourceName": "The Real WV",
+    "sourceUrl": "https://therealwv.com/2026/07/11/accessible-innovation-showcase-at-the-schoolhouse-hotel",
+    "relatedSources": [
+      {
+        "name": "The Real WV",
+        "url": "https://therealwv.com/2026/07/11/accessible-innovation-showcase-at-the-schoolhouse-hotel"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-21927949",
+    "status": "published",
+    "translationOf": "accessible-innovation-showcase-at-the-schoolhouse-hotel-zh-21927949",
+    "publishedAt": "2026-07-11T09:13:14.000Z",
+    "fetchedAt": "2026-07-11T14:06:11.748Z",
+    "body": "An event showcasing accessible innovations held at the Schoolhouse Hotel.\n\nRead more from the original source: [The Real WV](https://therealwv.com/2026/07/11/accessible-innovation-showcase-at-the-schoolhouse-hotel)"
+  },
+  {
+    "title": "Hsinchu City Barrier-Free Micro-Travel Free Registration",
+    "slug": "hsinchu-city-barrier-free-micro-travel-free-registration-72c4bcc7",
+    "lang": "en",
+    "summary": "Free registration for a barrier-free micro-travel program in Hsinchu City.",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "travel",
+      "tourism",
+      "hsinchu"
+    ],
+    "sourceName": "中華新聞雲／中華日報",
+    "sourceUrl": "https://www.cdns.com.tw/articles/1428375",
+    "relatedSources": [
+      {
+        "name": "中華新聞雲／中華日報",
+        "url": "https://www.cdns.com.tw/articles/1428375"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-72c4bcc7",
+    "status": "published",
+    "translationOf": "hsinchu-city-barrier-free-micro-travel-free-registration-zh-72c4bcc7",
+    "publishedAt": "2026-07-11T12:30:17.000Z",
+    "fetchedAt": "2026-07-11T14:06:11.799Z",
+    "body": "Free registration for a barrier-free micro-travel program in Hsinchu City.\n\nRead more from the original source: [中華新聞雲／中華日報](https://www.cdns.com.tw/articles/1428375)"
+  },
+  {
+    "title": "Doctor Noize creates impactful new single highlighting Disability Awareness Month with \"Some People See, But I Don’t\" [Video]",
+    "slug": "doctor-noize-creates-impactful-new-single-highlighting-disability-awareness-mont-7b16686c",
+    "lang": "en",
+    "summary": "Doctor Noize releases a new single during Disability Awareness Month to raise awareness about disability experiences.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability awareness",
+      "music",
+      "advocacy",
+      "video"
+    ],
+    "sourceName": "Earmilk.com",
+    "sourceUrl": "https://earmilk.com/2026/07/10/doctor-noize-creates-impactful-new-single-highlighting-disability-awareness-month-with-some-people-see-but-i-dont-video",
+    "relatedSources": [
+      {
+        "name": "Earmilk.com",
+        "url": "https://earmilk.com/2026/07/10/doctor-noize-creates-impactful-new-single-highlighting-disability-awareness-month-with-some-people-see-but-i-dont-video"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-7b16686c",
+    "status": "published",
+    "translationOf": "doctor-noize-creates-impactful-new-single-highlighting-disability-awareness-mont-zh-7b16686c",
+    "publishedAt": "2026-07-10T13:29:34.000Z",
+    "fetchedAt": "2026-07-11T14:06:11.838Z",
+    "body": "Doctor Noize releases a new single during Disability Awareness Month to raise awareness about disability experiences.\n\nRead more from the original source: [Earmilk.com](https://earmilk.com/2026/07/10/doctor-noize-creates-impactful-new-single-highlighting-disability-awareness-month-with-some-people-see-but-i-dont-video)"
+  },
+  {
+    "title": "shopyo-skynetaccessibility-scanner added to PyPI",
+    "slug": "shopyo-skynetaccessibility-scanner-added-to-pypi-ba5e25ad",
+    "lang": "en",
+    "summary": "A new PyPI package, shopyo-skynetaccessibility-scanner, scans websites for accessibility issues against WCAG 2.0-2.2, ADA, Section 508, EN 301 549, UK Equality Act, Australian DDA, and Canada ACA, providing issue highlights and recommended fixes.",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility scanner",
+      "WCAG",
+      "ADA",
+      "Section 508",
+      "EN 301 549",
+      "UK Equality Act",
+      "Australian DDA",
+      "Canada ACA"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/shopyo-skynetaccessibility-scanner",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/shopyo-skynetaccessibility-scanner"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-ba5e25ad",
+    "status": "published",
+    "translationOf": "shopyo-skynetaccessibility-scanner-added-to-pypi-zh-ba5e25ad",
+    "publishedAt": "2026-07-10T13:13:38.000Z",
+    "fetchedAt": "2026-07-11T14:06:21.331Z",
+    "body": "A new PyPI package, shopyo-skynetaccessibility-scanner, scans websites for accessibility issues against WCAG 2.0-2.2, ADA, Section 508, EN 301 549, UK Equality Act, Australian DDA, and Canada ACA, providing issue highlights and recommended fixes.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/shopyo-skynetaccessibility-scanner)"
   }
 ]
