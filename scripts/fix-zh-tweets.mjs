@@ -9,7 +9,7 @@ const OLLAMA_TIMEOUT_MS = Number(process.env.OLLAMA_TIMEOUT_MS ?? 120000);
 
 function hasZhChars(s) { return /[\u4e00-\u9fff\u3400-\u4dbf]/.test(s); }
 
-async function translateOne(item) {
+async function translateOne(enEntry) {
   const response = await fetch(`${OLLAMA_BASE_URL}/chat/completions`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${OLLAMA_API_KEY}` },
@@ -17,7 +17,7 @@ async function translateOne(item) {
       model: OLLAMA_MODEL, temperature: 0.2, max_tokens: 512,
       messages: [
         { role: 'system', content: '你是專業翻譯。將英文翻譯成繁體中文。只輸出中文，不要英文。' },
-        { role: 'user', content: `翻譯成繁體中文（只輸出中文翻譯，不要其他文字）：\n${item.title}` },
+        { role: 'user', content: `翻譯成繁體中文（只輸出中文翻譯，不要其他文字）：\n${enEntry.title}` },
       ],
     }),
     signal: AbortSignal.timeout(OLLAMA_TIMEOUT_MS),
@@ -36,6 +36,10 @@ async function main() {
   for (const file of files) {
     const filePath = path.join(NEWS_DATA_DIR, file);
     const items = JSON.parse(await fs.readFile(filePath, 'utf8'));
+    const enFile = path.join(NEWS_DATA_DIR, file.replace('.zh-TW.json', '.en.json'));
+    const enItems = JSON.parse(await fs.readFile(enFile, 'utf8'));
+    const enBySlug = new Map(enItems.map(e => [e.slug, e]));
+
     const needTranslation = items.filter(i => i.title.startsWith('無障礙社群訊號'));
 
     if (needTranslation.length === 0) continue;
@@ -43,14 +47,17 @@ async function main() {
 
     for (let i = 0; i < needTranslation.length; i++) {
       const entry = needTranslation[i];
+      const enEntry = enBySlug.get(entry.translationOf);
+      if (!enEntry) { console.log(`  [${i+1}] No EN entry for ${entry.translationOf}`); continue; }
+
       try {
-        const zhTitle = await translateOne(entry);
+        const zhTitle = await translateOne(enEntry);
         if (hasZhChars(zhTitle) && !zhTitle.startsWith('無障礙社群訊號')) {
           entry.title = zhTitle;
           totalFixed++;
           console.log(`  [${i+1}/${needTranslation.length}] Fixed: ${zhTitle}`);
         } else {
-          console.log(`  [${i+1}/${needTranslation.length}] Still English: ${zhTitle}`);
+          console.log(`  [${i+1}/${needTranslation.length}] Not Chinese: ${zhTitle}`);
         }
       } catch (error) {
         console.error(`  [${i+1}/${needTranslation.length}] Failed: ${error.message}`);
