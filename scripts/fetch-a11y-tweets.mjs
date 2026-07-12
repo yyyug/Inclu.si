@@ -1059,7 +1059,7 @@ async function main() {
 
       const hasZhChars = (s) => /[\u4e00-\u9fff\u3400-\u4dbf]/.test(s);
       const zhTitle = hasZhChars(zh.zhTitle) ? zh.zhTitle : `無障礙社群訊號 ${entry.tweetId}`;
-      const zhSummary = hasZhChars(zh.zhSummary) ? zh.zhSummary : en.englishSummary;
+      const zhSummary = hasZhChars(zh.zhSummary) ? zh.zhSummary : '此推文的中文摘要尚待翻譯。';
 
       const ai = {
         englishTitle: en.englishTitle,

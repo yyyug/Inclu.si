@@ -860,7 +860,7 @@ async function main() {
         englishTitle: output.englishTitle || entry.item.title || 'Accessibility update',
         englishSummary: output.englishSummary || entry.item.contentSnippet || '',
         zhTitle: hasZhChars(zhTitleRaw) ? zhTitleRaw : '無障礙新聞',
-        zhSummary: hasZhChars(zhSummaryRaw) ? zhSummaryRaw : (output.englishSummary || entry.item.contentSnippet || ''),
+        zhSummary: hasZhChars(zhSummaryRaw) ? zhSummaryRaw : '此新聞的中文摘要尚待翻譯。',
         category: output.category,
         tags: output.tags,
       };
