@@ -27501,5 +27501,202 @@
     "publishedAt": "2026-07-12T12:58:40.000Z",
     "fetchedAt": "2026-07-12T13:08:59.501Z",
     "body": "The tweet highlights three HTML attributes—alt, aria-label, and tabindex—that are crucial for web accessibility and user experience.\nTweet source: [HMA WebCode (@HmaWebdesign)](https://x.com/HmaWebdesign/status/2076290144030916736)"
+  },
+  {
+    "title": "SF enhances park accessibility, playability - Yahoo",
+    "slug": "sf-enhances-park-accessibility-playability-yahoo-c4bb3a84",
+    "lang": "en",
+    "summary": "San Francisco is upgrading its parks to improve accessibility and playability for people with disabilities, adding features like wheelchair-accessible paths, inclusive playground equipment, and sensory-friendly areas.",
+    "category": "physical-design",
+    "tags": [
+      "park",
+      "accessibility",
+      "inclusive design",
+      "San Francisco"
+    ],
+    "sourceName": "Yahoo",
+    "sourceUrl": "https://www.yahoo.com/news/us/articles/sf-enhances-park-accessibility-playability-225038646.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/sf-enhances-park-accessibility-playability-225038646.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-c4bb3a84",
+    "status": "published",
+    "translationOf": "sf-enhances-park-accessibility-playability-yahoo-zh-c4bb3a84",
+    "publishedAt": "2026-07-12T22:50:38.000Z",
+    "fetchedAt": "2026-07-13T00:56:06.653Z",
+    "body": "San Francisco is upgrading its parks to improve accessibility and playability for people with disabilities, adding features like wheelchair-accessible paths, inclusive playground equipment, and sensory-friendly areas.\n\nRead more from the original source: [Yahoo](https://www.yahoo.com/news/us/articles/sf-enhances-park-accessibility-playability-225038646.html)"
+  },
+  {
+    "title": "MINNEAPOLIMEDIA NEWS | Anoka Opens SAFE Homes Grant Program Offering Up to $30,000 for Critical Repairs and Accessibility Improvements - MinneapoliMedia",
+    "slug": "minneapolimedia-news-anoka-opens-safe-homes-grant-program-offering-up-to-30000-f-1244c793",
+    "lang": "en",
+    "summary": "Anoka launches the SAFE Homes grant program, providing up to $30,000 to homeowners for critical repairs and accessibility improvements such as ramps, widened doorways, and bathroom modifications to support residents with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "grant",
+      "home modifications",
+      "accessibility",
+      "Anoka",
+      "SAFE Homes"
+    ],
+    "sourceName": "MinneapoliMedia",
+    "sourceUrl": "https://minneapolimedia.town.news/g/coon-rapids-mn/n/381416/minneapolimedia-news-anoka-opens-safe-homes-grant-program-offering-30000",
+    "relatedSources": [
+      {
+        "name": "MinneapoliMedia",
+        "url": "https://minneapolimedia.town.news/g/coon-rapids-mn/n/381416/minneapolimedia-news-anoka-opens-safe-homes-grant-program-offering-30000"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-1244c793",
+    "status": "published",
+    "translationOf": "minneapolimedia-news-anoka-opens-safe-homes-grant-program-offering-up-to-30000-f-zh-1244c793",
+    "publishedAt": "2026-07-12T06:36:37.000Z",
+    "fetchedAt": "2026-07-13T00:56:06.705Z",
+    "body": "Anoka launches the SAFE Homes grant program, providing up to $30,000 to homeowners for critical repairs and accessibility improvements such as ramps, widened doorways, and bathroom modifications to support residents with disabilities.\n\nRead more from the original source: [MinneapoliMedia](https://minneapolimedia.town.news/g/coon-rapids-mn/n/381416/minneapolimedia-news-anoka-opens-safe-homes-grant-program-offering-30000)"
+  },
+  {
+    "title": "Hsinchu City Accessible Micro-Travel Free Registration",
+    "slug": "hsinchu-city-accessible-micro-travel-free-registration-a16734aa",
+    "lang": "en",
+    "summary": "Free registration for Hsinchu City's accessible micro-travel program.",
+    "category": "physical-design",
+    "tags": [
+      "accessible travel",
+      "tourism"
+    ],
+    "sourceName": "Yahoo新聞",
+    "sourceUrl": "https://tw.news.yahoo.com/%E7%AB%B9%E5%B8%82%E7%84%A1%E9%9A%9C%E7%A4%99%E5%BE%AE%E6%97%85%E8%A1%8C-%E5%85%8D%E8%B2%BB%E5%A0%B1%E5%90%8D-121135874.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo新聞",
+        "url": "https://tw.news.yahoo.com/%E7%AB%B9%E5%B8%82%E7%84%A1%E9%9A%9C%E7%A4%99%E5%BE%AE%E6%97%85%E8%A1%8C-%E5%85%8D%E8%B2%BB%E5%A0%B1%E5%90%8D-121135874.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a16734aa",
+    "status": "published",
+    "translationOf": "hsinchu-city-accessible-micro-travel-free-registration-zh-a16734aa",
+    "publishedAt": "2026-07-11T12:11:35.000Z",
+    "fetchedAt": "2026-07-13T00:56:19.085Z",
+    "body": "Free registration for Hsinchu City's accessible micro-travel program.\n\nRead more from the original source: [Yahoo新聞](https://tw.news.yahoo.com/%E7%AB%B9%E5%B8%82%E7%84%A1%E9%9A%9C%E7%A4%99%E5%BE%AE%E6%97%85%E8%A1%8C-%E5%85%8D%E8%B2%BB%E5%A0%B1%E5%90%8D-121135874.html)"
+  },
+  {
+    "title": "Hua Nan Yong Chang Securities Obtains Digital Development Department's AA-Level Accessibility Certification",
+    "slug": "hua-nan-yong-chang-securities-obtains-digital-development-departments-aa-level-a-ac3714a2",
+    "lang": "en",
+    "summary": "Hua Nan Yong Chang Securities has deepened financial equality and received AA-level accessibility certification from the Digital Development Department.",
+    "category": "digital-a11y",
+    "tags": [
+      "digital accessibility",
+      "AA certification",
+      "financial services"
+    ],
+    "sourceName": "聯合新聞網",
+    "sourceUrl": "https://udn.com/news/story/7239/9616048",
+    "relatedSources": [
+      {
+        "name": "聯合新聞網",
+        "url": "https://udn.com/news/story/7239/9616048"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ac3714a2",
+    "status": "published",
+    "translationOf": "hua-nan-yong-chang-securities-obtains-digital-development-departments-aa-level-a-zh-ac3714a2",
+    "publishedAt": "2026-07-08T14:22:51.000Z",
+    "fetchedAt": "2026-07-13T00:56:19.128Z",
+    "body": "Hua Nan Yong Chang Securities has deepened financial equality and received AA-level accessibility certification from the Digital Development Department.\n\nRead more from the original source: [聯合新聞網](https://udn.com/news/story/7239/9616048)"
+  },
+  {
+    "title": "Why Karaoke-Style Captions Can Exclude Disabled Users",
+    "slug": "why-karaoke-style-captions-can-exclude-disabled-users-3b42ca61",
+    "lang": "en",
+    "summary": "Explains how karaoke-style captions can exclude people with cognitive, vision, and reading disabilities, and offers guidance on more accessible captioning.",
+    "category": "digital-a11y",
+    "tags": [
+      "captions",
+      "accessibility",
+      "cognitive disability",
+      "vision disability"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/disability/accessibility/karaoke-captions.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/disability/accessibility/karaoke-captions.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-3b42ca61",
+    "status": "published",
+    "translationOf": "why-karaoke-style-captions-can-exclude-disabled-users-zh-3b42ca61",
+    "publishedAt": "2026-07-12T23:04:00.000Z",
+    "fetchedAt": "2026-07-13T00:56:19.171Z",
+    "body": "Explains how karaoke-style captions can exclude people with cognitive, vision, and reading disabilities, and offers guidance on more accessible captioning.\n\nRead more from the original source: [Unknown source](https://www.disabled-world.com/disability/accessibility/karaoke-captions.php)"
+  },
+  {
+    "title": "Guide dog owners face everyday ignorance | Letter",
+    "slug": "guide-dog-owners-face-everyday-ignorance-letter-5ca667ba",
+    "lang": "en",
+    "summary": "Guide dog owners in the UK frequently encounter denial of access to businesses and services despite policies welcoming assistance dogs, leading to feelings of exclusion and the need to leave establishments.",
+    "category": "laws-rights",
+    "tags": [
+      "guide dog",
+      "assistance dog",
+      "access denial",
+      "UK",
+      "disability rights"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/world/2026/jul/12/guide-dog-owners-face-everyday-ignorance",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/world/2026/jul/12/guide-dog-owners-face-everyday-ignorance"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-5ca667ba",
+    "status": "published",
+    "translationOf": "guide-dog-owners-face-everyday-ignorance-letter-zh-5ca667ba",
+    "publishedAt": "2026-07-12T16:50:29.000Z",
+    "fetchedAt": "2026-07-13T00:56:27.244Z",
+    "body": "Guide dog owners in the UK frequently encounter denial of access to businesses and services despite policies welcoming assistance dogs, leading to feelings of exclusion and the need to leave establishments.\n\nRead more from the original source: [Unknown source](https://www.theguardian.com/world/2026/jul/12/guide-dog-owners-face-everyday-ignorance)"
   }
 ]
