@@ -1,39 +1,55 @@
 {
-  "date": "2026-07-11",
-  "generatedAt": "2026-07-11T12:56:54.585Z",
+  "date": "2026-07-13",
+  "generatedAt": "2026-07-13T13:25:48.551Z",
   "en": {
-    "title": "Accessible Gaming Launch Highlights Disability Inclusion in Tech and Travel",
-    "summary": "PEKALAR announced an accessible slot game and MMO designed for players with disabilities, marking a notable product launch in inclusive gaming. Meanwhile, a meetup hosted by NPO Smart Accessibility will discuss real‑world accessibility challenges faced by VoiceOver users beyond standard guidelines. In Hsinchu City, registration opened for an accessible micro‑travel program celebrating ten years of inclusion, offering barrier‑free tours for people with disabilities.",
+    "title": "CorsixTH Update Boosts Game Accessibility; Disability Advocacy Gains Worldwide",
+    "summary": "The CorsixTH 0.70 release introduces UI scaling and accessibility improvements, enhancing gameplay for people with disabilities. Meanwhile, Japanese lawmaker Eiko Kimura pushes for barrier-free reforms, and AbleVu partners with Pal Experiences to centralize family accessibility resources. Additionally, bus station accessibility upgrades are completed and early hearing treatment research highlights communication access.",
     "highlights": [
       {
-        "title": "Accessible Slot Game PEKALAR and MMO Pirapira Announced",
-        "slug": "accessible-slot-game-pekalar-and-mmo-pirapira-announced-a854b394"
+        "title": "Theme Hospital game engine CorsixTH 0.70 released with UI scaling, accessibility improvements and more",
+        "slug": "theme-hospital-game-engine-corsixth-070-released-with-ui-scaling-accessibility-i-ecb353f7"
       },
       {
-        "title": "Event Explores Accessibility Challenges Beyond Guidelines",
-        "slug": "event-explores-accessibility-challenges-beyond-guidelines-bec05058"
+        "title": "Japanese lawmaker with severe disability advocates for barrier-free reforms",
+        "slug": "japanese-lawmaker-with-severe-disability-advocates-for-barrier-free-reforms-3c7cdd25"
       },
       {
-        "title": "Hsinchu City Launches Accessible Micro-Travel Program Celebrating Ten Years of Inclusion",
-        "slug": "hsinchu-city-launches-accessible-micro-travel-program-celebrating-ten-years-of-i-6367a0ef"
+        "title": "AbleVu Partners with Pal Experiences to Bring Family Accessibility Resources into One Place",
+        "slug": "ablevu-partners-with-pal-experiences-to-bring-family-accessibility-resources-int-52ccc5d9"
+      },
+      {
+        "title": "Work to make bus station more accessible completed",
+        "slug": "work-to-make-bus-station-more-accessible-completed-71a516af"
+      },
+      {
+        "title": "Early Treatment for Communication Accessibility Enables People to Hear the World's Beauty",
+        "slug": "early-treatment-for-communication-accessibility-enables-people-to-hear-the-world-dbb3a931"
       }
     ]
   },
   "zh-TW": {
-    "title": "無障礙遊戲上市帶動科技與旅遊共融新潮流",
-    "summary": "PEKALAR 公布無障礙老虎機與 MMO 遊戲，專為殘障玩家設計，標誌著無障礙遊戲的重要產品發布。同時，智能無障礙 NPO 主辦的聚會將探討 VoiceOver 使用者面臨的實際無障礙挑戰，超越現行指引。新竹市則開放無障礙微旅行報名，慶祝共融十年，提供無障礙旅遊體驗。",
+    "title": "CorsixTH 更新提升遊戲無障礙；殘障倡議與社會進步同步",
+    "summary": "CorsixTH 0.70 版加入 UI 縮放及無障礙功能，提升殘障玩家的遊戲體驗。同時，日本議員木村英子推動無障礙改革，AbleVu 與 Pal Experiences 合作整合家庭無障礙資源。此外，佳里彩虹橋無障礙改造引發爭議，及早治療聽力障礙研究強調溝通無障礙的重要性。",
     "highlights": [
       {
-        "title": "無障礙社群訊號 2075896342178865195",
-        "slug": "accessible-slot-game-pekalar-and-mmo-pirapira-announced-zh-a854b394"
+        "title": "Theme Hospital 遊戲引擎 CorsixTH 0.70 發布，包含 UI 縮放與無障礙改進",
+        "slug": "theme-hospital-game-engine-corsixth-070-released-with-ui-scaling-accessibility-i-zh-ecb353f7"
       },
       {
-        "title": "活動探討超越指引的無障礙挑戰",
-        "slug": "event-explores-accessibility-challenges-beyond-guidelines-zh-bec05058"
+        "title": "無障礙社群訊號 2076467994558116060",
+        "slug": "japanese-lawmaker-with-severe-disability-advocates-for-barrier-free-reforms-zh-3c7cdd25"
       },
       {
-        "title": "邁向十載共融里程碑！ 新竹市無障礙微旅行開放報名 首發團7月底出遊",
-        "slug": "hsinchu-city-launches-accessible-micro-travel-program-celebrating-ten-years-of-i-zh-6367a0ef"
+        "title": "AbleVu 與 Pal Experiences 合作將家庭無障礙資源整合於一處",
+        "slug": "ablevu-partners-with-pal-experiences-to-bring-family-accessibility-resources-int-zh-52ccc5d9"
+      },
+      {
+        "title": "佳里人的回憶要沒了！「彩虹橋」無障礙改造 掀兩派論戰",
+        "slug": "controversy-over-accessibility-renovation-of-rainbow-bridge-in-jiali-zh-d71813d5"
+      },
+      {
+        "title": "聽見世界的美好 及早治療溝通無障礙",
+        "slug": "early-treatment-for-communication-accessibility-enables-people-to-hear-the-world-zh-dbb3a931"
       }
     ]
   }
