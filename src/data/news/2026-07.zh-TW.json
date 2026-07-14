@@ -29785,5 +29785,730 @@
     "publishedAt": "2026-07-13T13:20:42.000Z",
     "fetchedAt": "2026-07-13T13:36:52.125Z",
     "body": "此推文的中文摘要尚待翻譯。\n推文來源： [ﾐｹﾈｺﾅﾝﾀﾞﾛ (@areyou_mikecat)](https://x.com/areyou_mikecat/status/2076658075050946914)"
+  },
+  {
+    "title": "特斯拉表示正在研發輪椅可及的機器人計程車",
+    "slug": "tesla-says-its-building-a-wheelchair-accessible-robotaxi-zh-aa9dd126",
+    "lang": "zh-TW",
+    "summary": "特斯拉宣布正在開發可容納輪椅使用者的機器人計程車，以提升交通無障礙。",
+    "category": "physical-design",
+    "tags": [
+      "wheelchair",
+      "robotaxi",
+      "transportation"
+    ],
+    "sourceName": "WIRED",
+    "sourceUrl": "https://www.wired.com/story/tesla-says-its-building-a-wheelchair-accessible-robotaxi",
+    "relatedSources": [
+      {
+        "name": "WIRED",
+        "url": "https://www.wired.com/story/tesla-says-its-building-a-wheelchair-accessible-robotaxi"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-aa9dd126",
+    "status": "published",
+    "translationOf": "tesla-says-its-building-a-wheelchair-accessible-robotaxi-aa9dd126",
+    "publishedAt": "2026-07-13T17:15:00.000Z",
+    "fetchedAt": "2026-07-14T00:49:04.652Z",
+    "body": "特斯拉宣布正在開發可容納輪椅使用者的機器人計程車，以提升交通無障礙。\n\n原文來源： [WIRED](https://www.wired.com/story/tesla-says-its-building-a-wheelchair-accessible-robotaxi)"
+  },
+  {
+    "title": "舊金山提升公園無障礙與遊樂性",
+    "slug": "sf-enhances-park-accessibility-playability-zh-e6d4ebee",
+    "lang": "zh-TW",
+    "summary": "舊金山正在改造公園，加入無障礙設施和包容性遊樂設備，以更好地服務殘障人士。",
+    "category": "physical-design",
+    "tags": [
+      "park",
+      "accessibility",
+      "playground"
+    ],
+    "sourceName": "KELOLAND.com",
+    "sourceUrl": "https://www.keloland.com/news/local-news/sf-enhances-park-accessibility-playability",
+    "relatedSources": [
+      {
+        "name": "KELOLAND.com",
+        "url": "https://www.keloland.com/news/local-news/sf-enhances-park-accessibility-playability"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e6d4ebee",
+    "status": "published",
+    "translationOf": "sf-enhances-park-accessibility-playability-e6d4ebee",
+    "publishedAt": "2026-07-12T22:50:38.000Z",
+    "fetchedAt": "2026-07-14T00:49:04.710Z",
+    "body": "舊金山正在改造公園，加入無障礙設施和包容性遊樂設備，以更好地服務殘障人士。\n\n原文來源： [KELOLAND.com](https://www.keloland.com/news/local-news/sf-enhances-park-accessibility-playability)"
+  },
+  {
+    "title": "霍博肯將部署機器人人行道掃描器以推進視覺零與ADA無障礙規劃",
+    "slug": "coming-to-a-hoboken-street-near-you-robotic-sidewalk-scanners-to-be-deployed-to--zh-56610a18",
+    "lang": "zh-TW",
+    "summary": "霍博肯將使用機器人人行道掃描器收集數據，以改善ADA無障礙符合度並支援視覺零安全目標。",
+    "category": "assistive-tech",
+    "tags": [
+      "sidewalk",
+      "scanners",
+      "ADA",
+      "Vision Zero"
+    ],
+    "sourceName": "TAPinto",
+    "sourceUrl": "https://www.tapinto.net/towns/hoboken/sections/community-announcements/articles/coming-to-a-hoboken-street-near-you-robotic-sidewalk-scanners-to-be-deployed-to-advance-vision-zero-ada-accessibility-planning",
+    "relatedSources": [
+      {
+        "name": "TAPinto",
+        "url": "https://www.tapinto.net/towns/hoboken/sections/community-announcements/articles/coming-to-a-hoboken-street-near-you-robotic-sidewalk-scanners-to-be-deployed-to-advance-vision-zero-ada-accessibility-planning"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-56610a18",
+    "status": "published",
+    "translationOf": "coming-to-a-hoboken-street-near-you-robotic-sidewalk-scanners-to-be-deployed-to--56610a18",
+    "publishedAt": "2026-07-11T17:56:14.000Z",
+    "fetchedAt": "2026-07-14T00:49:04.743Z",
+    "body": "霍博肯將使用機器人人行道掃描器收集數據，以改善ADA無障礙符合度並支援視覺零安全目標。\n\n原文來源： [TAPinto](https://www.tapinto.net/towns/hoboken/sections/community-announcements/articles/coming-to-a-hoboken-street-near-you-robotic-sidewalk-scanners-to-be-deployed-to-advance-vision-zero-ada-accessibility-planning)"
+  },
+  {
+    "title": "特斯拉正在建造輪椅可用的Robotaxi - Teslarati",
+    "slug": "tesla-is-building-a-wheelchair-accessible-robotaxi-teslarati-zh-559a89c6",
+    "lang": "zh-TW",
+    "summary": "特斯拉正在研發一輛可供輪椅使用者使用的無人駕駛Robotaxi，以提升殘障人士的出行便利。",
+    "category": "physical-design",
+    "tags": [
+      "wheelchair",
+      "autonomous vehicle",
+      "Tesla"
+    ],
+    "sourceName": "Teslarati",
+    "sourceUrl": "https://www.teslarati.com/tesla-reveals-development-wheelchair-accessible-autonomous-vehicle",
+    "relatedSources": [
+      {
+        "name": "Teslarati",
+        "url": "https://www.teslarati.com/tesla-reveals-development-wheelchair-accessible-autonomous-vehicle"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-559a89c6",
+    "status": "published",
+    "translationOf": "tesla-is-building-a-wheelchair-accessible-robotaxi-teslarati-559a89c6",
+    "publishedAt": "2026-07-13T22:12:26.000Z",
+    "fetchedAt": "2026-07-14T00:49:17.156Z",
+    "body": "特斯拉正在研發一輛可供輪椅使用者使用的無人駕駛Robotaxi，以提升殘障人士的出行便利。\n\n原文來源： [Teslarati](https://www.teslarati.com/tesla-reveals-development-wheelchair-accessible-autonomous-vehicle)"
+  },
+  {
+    "title": "Waymo對華盛頓特區的就業、安全與無障礙意味着什麼？ - NBC4 Washington",
+    "slug": "what-would-waymo-mean-for-jobs-safety-and-accessibility-in-dc-nbc4-washington-zh-9d36ca7d",
+    "lang": "zh-TW",
+    "summary": "文章探討Waymo的自動駕駛車服務對華盛頓特區的就業、安全以及殘障人士無障礙出行的潛在影響。",
+    "category": "assistive-tech",
+    "tags": [
+      "Waymo",
+      "autonomous vehicles",
+      "DC"
+    ],
+    "sourceName": "NBC4 Washington",
+    "sourceUrl": "https://www.nbcwashington.com/video/news/local/what-would-waymo-mean-for-jobs-safety-and-accessibility-in-dc/4129498",
+    "relatedSources": [
+      {
+        "name": "NBC4 Washington",
+        "url": "https://www.nbcwashington.com/video/news/local/what-would-waymo-mean-for-jobs-safety-and-accessibility-in-dc/4129498"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-9d36ca7d",
+    "status": "published",
+    "translationOf": "what-would-waymo-mean-for-jobs-safety-and-accessibility-in-dc-nbc4-washington-9d36ca7d",
+    "publishedAt": "2026-07-13T20:19:12.000Z",
+    "fetchedAt": "2026-07-14T00:49:17.194Z",
+    "body": "文章探討Waymo的自動駕駛車服務對華盛頓特區的就業、安全以及殘障人士無障礙出行的潛在影響。\n\n原文來源： [NBC4 Washington](https://www.nbcwashington.com/video/news/local/what-would-waymo-mean-for-jobs-safety-and-accessibility-in-dc/4129498)"
+  },
+  {
+    "title": "康乃狄克州立法者與官員認可無障礙停車宣傳日 - WTNH.com",
+    "slug": "connecticut-lawmakers-officials-recognize-accessible-parking-awareness-day-wtnhc-zh-d70d17d6",
+    "lang": "zh-TW",
+    "summary": "康乃狄克州立法者和官員宣布無障礙停車日，以強調為殘障人士設置專用停車位的重要性。",
+    "category": "physical-design",
+    "tags": [
+      "accessible parking",
+      "Connecticut",
+      "awareness day"
+    ],
+    "sourceName": "WTNH.com",
+    "sourceUrl": "https://www.wtnh.com/news/connecticut/new-haven/connecticut-lawmakers-officials-recognize-accessible-parking-awareness-day",
+    "relatedSources": [
+      {
+        "name": "WTNH.com",
+        "url": "https://www.wtnh.com/news/connecticut/new-haven/connecticut-lawmakers-officials-recognize-accessible-parking-awareness-day"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-d70d17d6",
+    "status": "published",
+    "translationOf": "connecticut-lawmakers-officials-recognize-accessible-parking-awareness-day-wtnhc-d70d17d6",
+    "publishedAt": "2026-07-13T21:38:14.000Z",
+    "fetchedAt": "2026-07-14T00:49:17.235Z",
+    "body": "康乃狄克州立法者和官員宣布無障礙停車日，以強調為殘障人士設置專用停車位的重要性。\n\n原文來源： [WTNH.com](https://www.wtnh.com/news/connecticut/new-haven/connecticut-lawmakers-officials-recognize-accessible-parking-awareness-day)"
+  },
+  {
+    "title": "特斯拉表示正在德州建造輪椅可及的機器人計程車",
+    "slug": "tesla-says-its-building-a-wheelchair-accessible-robotaxi-in-texas-zh-1c24055b",
+    "lang": "zh-TW",
+    "summary": "特斯拉宣布正在德州開發一輛輪椅可及的機器人計程車，以提升輪椅使用者的交通無障礙。",
+    "category": "physical-design",
+    "tags": [
+      "wheelchair",
+      "robotaxi",
+      "transportation"
+    ],
+    "sourceName": "Electrek",
+    "sourceUrl": "https://electrek.co/2026/07/13/tesla-wheelchair-accessible-robotaxi",
+    "relatedSources": [
+      {
+        "name": "Electrek",
+        "url": "https://electrek.co/2026/07/13/tesla-wheelchair-accessible-robotaxi"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-1c24055b",
+    "status": "published",
+    "translationOf": "tesla-says-its-building-a-wheelchair-accessible-robotaxi-in-texas-1c24055b",
+    "publishedAt": "2026-07-13T17:57:00.000Z",
+    "fetchedAt": "2026-07-14T00:49:38.954Z",
+    "body": "特斯拉宣布正在德州開發一輛輪椅可及的機器人計程車，以提升輪椅使用者的交通無障礙。\n\n原文來源： [Electrek](https://electrek.co/2026/07/13/tesla-wheelchair-accessible-robotaxi)"
+  },
+  {
+    "title": "JPJ 場館擴展感官需求的無障礙選項",
+    "slug": "jpj-arena-expands-accessibility-options-for-sensory-needs-zh-79d89f5c",
+    "lang": "zh-TW",
+    "summary": "JPJ 場館宣布擴展感官需求的無障礙設施，為有感官敏感性的訪客提供更具包容性的環境。",
+    "category": "physical-design",
+    "tags": [
+      "sensory",
+      "arena",
+      "accessibility"
+    ],
+    "sourceName": "WVIR",
+    "sourceUrl": "https://www.29news.com/2026/07/13/jpj-arena-expands-accessibility-options-sensory-needs",
+    "relatedSources": [
+      {
+        "name": "WVIR",
+        "url": "https://www.29news.com/2026/07/13/jpj-arena-expands-accessibility-options-sensory-needs"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-79d89f5c",
+    "status": "published",
+    "translationOf": "jpj-arena-expands-accessibility-options-for-sensory-needs-79d89f5c",
+    "publishedAt": "2026-07-13T22:03:00.000Z",
+    "fetchedAt": "2026-07-14T00:49:38.992Z",
+    "body": "JPJ 場館宣布擴展感官需求的無障礙設施，為有感官敏感性的訪客提供更具包容性的環境。\n\n原文來源： [WVIR](https://www.29news.com/2026/07/13/jpj-arena-expands-accessibility-options-sensory-needs)"
+  },
+  {
+    "title": "探討德州藝術：博物館、參觀者與無障礙",
+    "slug": "accessing-texas-art-on-museums-visitors-and-accessibility-zh-8ae35965",
+    "lang": "zh-TW",
+    "summary": "本文探討德州博物館如何提升對殘障訪客的無障礙設施，包括物理無障礙、節目安排及參觀體驗。",
+    "category": "physical-design",
+    "tags": [
+      "museum",
+      "disability access",
+      "Texas",
+      "visitor experience"
+    ],
+    "sourceName": "Glasstire",
+    "sourceUrl": "https://glasstire.com/2026/07/13/accessing-texas-art-on-museums-visitors-and-accessibility",
+    "relatedSources": [
+      {
+        "name": "Glasstire",
+        "url": "https://glasstire.com/2026/07/13/accessing-texas-art-on-museums-visitors-and-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-8ae35965",
+    "status": "published",
+    "translationOf": "accessing-texas-art-on-museums-visitors-and-accessibility-8ae35965",
+    "publishedAt": "2026-07-13T19:18:29.000Z",
+    "fetchedAt": "2026-07-14T00:49:56.939Z",
+    "body": "本文探討德州博物館如何提升對殘障訪客的無障礙設施，包括物理無障礙、節目安排及參觀體驗。\n\n原文來源： [Glasstire](https://glasstire.com/2026/07/13/accessing-texas-art-on-museums-visitors-and-accessibility)"
+  },
+  {
+    "title": "華盛頓特區考慮自動駕駛車輛時，安全、工作流失與無障礙成為主要關注點",
+    "slug": "safety-job-loss-accessibility-among-the-concerns-as-dc-considers-autonomous-vehi-zh-fdf4c9e1",
+    "lang": "zh-TW",
+    "summary": "華盛頓特區在評估自動駕駛車輛推廣時，利益相關者提出安全、就業影響以及對殘障人士的無障礙問題為主要關注。",
+    "category": "laws-rights",
+    "tags": [
+      "autonomous vehicles",
+      "DC",
+      "disability accessibility",
+      "policy"
+    ],
+    "sourceName": "WUSA9",
+    "sourceUrl": "https://www.wusa9.com/article/news/community/transportation/safety-job-losses-and-accessibility-among-the-concerns-dc-considers-autonomous-vehicles-avs/65-6dba4102-1067-4c4f-b59a-4d9872f3f6eb",
+    "relatedSources": [
+      {
+        "name": "WUSA9",
+        "url": "https://www.wusa9.com/article/news/community/transportation/safety-job-losses-and-accessibility-among-the-concerns-dc-considers-autonomous-vehicles-avs/65-6dba4102-1067-4c4f-b59a-4d9872f3f6eb"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-fdf4c9e1",
+    "status": "published",
+    "translationOf": "safety-job-loss-accessibility-among-the-concerns-as-dc-considers-autonomous-vehi-fdf4c9e1",
+    "publishedAt": "2026-07-13T22:39:00.000Z",
+    "fetchedAt": "2026-07-14T00:49:56.989Z",
+    "body": "華盛頓特區在評估自動駕駛車輛推廣時，利益相關者提出安全、就業影響以及對殘障人士的無障礙問題為主要關注。\n\n原文來源： [WUSA9](https://www.wusa9.com/article/news/community/transportation/safety-job-losses-and-accessibility-among-the-concerns-dc-considers-autonomous-vehicles-avs/65-6dba4102-1067-4c4f-b59a-4d9872f3f6eb)"
+  },
+  {
+    "title": "當你的大腦運作方式不同，AI不是奢侈品——而是無障礙",
+    "slug": "when-your-brain-works-differently-ai-isnt-a-luxuryits-accessibility-zh-a175fbce",
+    "lang": "zh-TW",
+    "summary": "AWS 部落格文章解釋人工智慧技術如何成為神經多樣性人士的基本無障礙工具，提升溝通與生產力。",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "neurodiversity",
+      "accessibility",
+      "AWS"
+    ],
+    "sourceName": "Amazon Web Services (AWS)",
+    "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/when-your-brain-works-differently-ai-isnt-a-luxury-its-accessibility",
+    "relatedSources": [
+      {
+        "name": "Amazon Web Services (AWS)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/when-your-brain-works-differently-ai-isnt-a-luxury-its-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a175fbce",
+    "status": "published",
+    "translationOf": "when-your-brain-works-differently-ai-isnt-a-luxuryits-accessibility-a175fbce",
+    "publishedAt": "2026-07-13T17:50:16.000Z",
+    "fetchedAt": "2026-07-14T00:49:57.022Z",
+    "body": "AWS 部落格文章解釋人工智慧技術如何成為神經多樣性人士的基本無障礙工具，提升溝通與生產力。\n\n原文來源： [Amazon Web Services (AWS)](https://aws.amazon.com/blogs/machine-learning/when-your-brain-works-differently-ai-isnt-a-luxury-its-accessibility)"
+  },
+  {
+    "title": "帕克城獲得 Wheel the World 無障礙驗證稱號",
+    "slug": "park-city-earns-accessibility-verified-designation-from-wheel-the-world-zh-072534c9",
+    "lang": "zh-TW",
+    "summary": "帕克城獲得 Wheel the World 頒發的無障礙驗證稱號，肯定其在提升殘障人士旅遊便利性方面的努力。",
+    "category": "physical-design",
+    "tags": [
+      "Park City",
+      "Wheel the World",
+      "accessibility verification",
+      "tourism",
+      "disability access"
+    ],
+    "sourceName": "Park Record",
+    "sourceUrl": "https://www.parkrecord.com/2026/07/13/park-city-earns-accessibility-verified-designation-from-wheel-the-world",
+    "relatedSources": [
+      {
+        "name": "Park Record",
+        "url": "https://www.parkrecord.com/2026/07/13/park-city-earns-accessibility-verified-designation-from-wheel-the-world"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-072534c9",
+    "status": "published",
+    "translationOf": "park-city-earns-accessibility-verified-designation-from-wheel-the-world-072534c9",
+    "publishedAt": "2026-07-13T17:26:32.000Z",
+    "fetchedAt": "2026-07-14T00:50:12.378Z",
+    "body": "帕克城獲得 Wheel the World 頒發的無障礙驗證稱號，肯定其在提升殘障人士旅遊便利性方面的努力。\n\n原文來源： [Park Record](https://www.parkrecord.com/2026/07/13/park-city-earns-accessibility-verified-designation-from-wheel-the-world)"
+  },
+  {
+    "title": "FC 巴塞羅那官方頻道：冰上溜冰場的無障礙設施",
+    "slug": "accessibility-at-the-ice-rink-fc-barcelona-official-channel-zh-24d10ecb",
+    "lang": "zh-TW",
+    "summary": "FC 巴塞羅那透過官方頻道展示其冰上溜冰場的無障礙設施，確保殘障人士也能使用。",
+    "category": "physical-design",
+    "tags": [
+      "FC Barcelona",
+      "ice rink",
+      "accessibility",
+      "sports facilities",
+      "disability"
+    ],
+    "sourceName": "FC Barcelona",
+    "sourceUrl": "https://www.fcbarcelona.com/en/club/accessibility-facilities/ice-rink",
+    "relatedSources": [
+      {
+        "name": "FC Barcelona",
+        "url": "https://www.fcbarcelona.com/en/club/accessibility-facilities/ice-rink"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-24d10ecb",
+    "status": "published",
+    "translationOf": "accessibility-at-the-ice-rink-fc-barcelona-official-channel-24d10ecb",
+    "publishedAt": "2026-07-13T21:25:26.000Z",
+    "fetchedAt": "2026-07-14T00:50:12.414Z",
+    "body": "FC 巴塞羅那透過官方頻道展示其冰上溜冰場的無障礙設施，確保殘障人士也能使用。\n\n原文來源： [FC Barcelona](https://www.fcbarcelona.com/en/club/accessibility-facilities/ice-rink)"
+  },
+  {
+    "title": "基利恩市議會將投票通過 ADA 過渡計畫，以提升全社區無障礙環境",
+    "slug": "killeen-city-council-to-vote-on-ada-transition-plan-aimed-at-improving-accessibi-zh-64d2de5f",
+    "lang": "zh-TW",
+    "summary": "基利恩市議會準備投票通過一項 ADA 過渡計畫，旨在改善全社區對殘障人士的無障礙設施與服務。",
+    "category": "laws-rights",
+    "tags": [
+      "Killeen",
+      "ADA",
+      "transition plan",
+      "city council",
+      "disability rights",
+      "accessibility"
+    ],
+    "sourceName": "KXXV",
+    "sourceUrl": "https://www.kxxv.com/news/local-news/in-your-neighborhood/bell-county/killeen/killeen-city-council-to-vote-on-ada-transition-plan-aimed-at-improving-accessibility-across-the-community",
+    "relatedSources": [
+      {
+        "name": "KXXV",
+        "url": "https://www.kxxv.com/news/local-news/in-your-neighborhood/bell-county/killeen/killeen-city-council-to-vote-on-ada-transition-plan-aimed-at-improving-accessibility-across-the-community"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-64d2de5f",
+    "status": "published",
+    "translationOf": "killeen-city-council-to-vote-on-ada-transition-plan-aimed-at-improving-accessibi-64d2de5f",
+    "publishedAt": "2026-07-13T22:34:33.000Z",
+    "fetchedAt": "2026-07-14T00:50:12.455Z",
+    "body": "基利恩市議會準備投票通過一項 ADA 過渡計畫，旨在改善全社區對殘障人士的無障礙設施與服務。\n\n原文來源： [KXXV](https://www.kxxv.com/news/local-news/in-your-neighborhood/bell-county/killeen/killeen-city-council-to-vote-on-ada-transition-plan-aimed-at-improving-accessibility-across-the-community)"
+  },
+  {
+    "title": "機器人軍隊評估霍博肯街道的可及性與流動性",
+    "slug": "robot-army-assesses-accessibility-and-mobility-on-hobokens-streets-zh-8ead44a9",
+    "lang": "zh-TW",
+    "summary": "一支機器人艦隊正在霍博肯評估街道的可及性與流動性，以改善殘障人士的基礎設施。",
+    "category": "physical-design",
+    "tags": [
+      "robotics",
+      "street accessibility",
+      "mobility",
+      "Hoboken",
+      "disability infrastructure"
+    ],
+    "sourceName": "Planetizen",
+    "sourceUrl": "https://www.planetizen.com/news/2026/07/137982-robot-army-assessing-accessibility-and-mobility-hobokens-streets",
+    "relatedSources": [
+      {
+        "name": "Planetizen",
+        "url": "https://www.planetizen.com/news/2026/07/137982-robot-army-assessing-accessibility-and-mobility-hobokens-streets"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-8ead44a9",
+    "status": "published",
+    "translationOf": "robot-army-assesses-accessibility-and-mobility-on-hobokens-streets-8ead44a9",
+    "publishedAt": "2026-07-13T12:00:00.000Z",
+    "fetchedAt": "2026-07-14T00:50:47.783Z",
+    "body": "一支機器人艦隊正在霍博肯評估街道的可及性與流動性，以改善殘障人士的基礎設施。\n\n原文來源： [Planetizen](https://www.planetizen.com/news/2026/07/137982-robot-army-assessing-accessibility-and-mobility-hobokens-streets)"
+  },
+  {
+    "title": "殘障未完：田納西州的康復建設",
+    "slug": "disabled-not-done-building-recovery-in-tennessee-zh-9793d34a",
+    "lang": "zh-TW",
+    "summary": "Adam Watson 描述他的 brachial plexus 受傷如何啟發他創建 The Sanctuary，這是位於東田納西的一個能力與康復平台。",
+    "category": "assistive-tech",
+    "tags": [
+      "brachial plexus injury",
+      "recovery platform",
+      "The Sanctuary",
+      "Adam Watson",
+      "disability support"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/disability/blogs/not-done.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/disability/blogs/not-done.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-9793d34a",
+    "status": "published",
+    "translationOf": "disabled-not-done-building-recovery-in-tennessee-9793d34a",
+    "publishedAt": "2026-07-13T16:08:00.000Z",
+    "fetchedAt": "2026-07-14T00:50:47.819Z",
+    "body": "Adam Watson 描述他的 brachial plexus 受傷如何啟發他創建 The Sanctuary，這是位於東田納西的一個能力與康復平台。\n\n原文來源： [Unknown source](https://www.disabled-world.com/disability/blogs/not-done.php)"
+  },
+  {
+    "title": "輪椅使用者六日征服科莫多國家公園划皮艇",
+    "slug": "wheelchair-users-kayak-komodo-in-six-day-expedition-zh-9e4bde96",
+    "lang": "zh-TW",
+    "summary": "五位輪椅使用者將在印尼科莫多國家公園進行六日、超過100公里的皮艇遠征，為脊髓癌症慈善機構籌款。",
+    "category": "case-studies",
+    "tags": [
+      "wheelchair users",
+      "kayaking",
+      "Komodo National Park",
+      "disability adventure",
+      "fundraising"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/travel/komodo-national-park.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/travel/komodo-national-park.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-9e4bde96",
+    "status": "published",
+    "translationOf": "wheelchair-users-kayak-komodo-in-six-day-expedition-9e4bde96",
+    "publishedAt": "2026-07-13T15:34:00.000Z",
+    "fetchedAt": "2026-07-14T00:50:47.867Z",
+    "body": "五位輪椅使用者將在印尼科莫多國家公園進行六日、超過100公里的皮艇遠征，為脊髓癌症慈善機構籌款。\n\n原文來源： [Unknown source](https://www.disabled-world.com/travel/komodo-national-park.php)"
+  },
+  {
+    "title": "無障礙反思：放射科技師的個人視角",
+    "slug": "reflections-on-accessibility-a-personal-perspective-from-a-radiology-technician-zh-9df69d50",
+    "lang": "zh-TW",
+    "summary": "一位放射科技師兼童年中風倖存者分享她在癱瘓、欺凌與偏見中前行，如何建立具包容性的醫學影像職涯。",
+    "category": "case-studies",
+    "tags": [
+      "accessibility",
+      "disability",
+      "radiology",
+      "inclusive career"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/disability/blogs/accessibility-radiology.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/disability/blogs/accessibility-radiology.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-9df69d50",
+    "status": "published",
+    "translationOf": "reflections-on-accessibility-a-personal-perspective-from-a-radiology-technician-9df69d50",
+    "publishedAt": "2026-07-13T14:56:00.000Z",
+    "fetchedAt": "2026-07-14T00:51:13.212Z",
+    "body": "一位放射科技師兼童年中風倖存者分享她在癱瘓、欺凌與偏見中前行，如何建立具包容性的醫學影像職涯。\n\n原文來源： [Unknown source](https://www.disabled-world.com/disability/blogs/accessibility-radiology.php)"
+  },
+  {
+    "title": "殘障福利：為什麼不應該稱之為『福利』 | 來信",
+    "slug": "disability-benefits-why-we-shouldnt-call-it-welfare-letters-zh-7800ae4c",
+    "lang": "zh-TW",
+    "summary": "討論殘障福利、個人獨立付款（PIP）評估對長期精神疾病者的挑戰，以及反對將社會保障支出標榜為福利的論點。",
+    "category": "laws-rights",
+    "tags": [
+      "disability benefits",
+      "PIP",
+      "welfare",
+      "mental health"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/world/2026/jul/13/disability-benefits-why-we-shouldnt-call-it-welfare",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/world/2026/jul/13/disability-benefits-why-we-shouldnt-call-it-welfare"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-7800ae4c",
+    "status": "published",
+    "translationOf": "disability-benefits-why-we-shouldnt-call-it-welfare-letters-7800ae4c",
+    "publishedAt": "2026-07-13T15:11:48.000Z",
+    "fetchedAt": "2026-07-14T00:51:13.263Z",
+    "body": "討論殘障福利、個人獨立付款（PIP）評估對長期精神疾病者的挑戰，以及反對將社會保障支出標榜為福利的論點。\n\n原文來源： [Unknown source](https://www.theguardian.com/world/2026/jul/13/disability-benefits-why-we-shouldnt-call-it-welfare)"
+  },
+  {
+    "title": "設定新 Google Pixel 手機的 5 個技巧",
+    "slug": "5-tips-for-setting-up-your-new-google-pixel-phone-zh-1537424c",
+    "lang": "zh-TW",
+    "summary": "設定新 Google Pixel 手機的技巧，包括啟用緊急 SOS、轉移資料、使用小工具，以及配置無障礙選單。",
+    "category": "digital-a11y",
+    "tags": [
+      "Google Pixel",
+      "accessibility menu",
+      "Emergency SOS",
+      "setup tips"
+    ],
+    "sourceName": "BGR",
+    "sourceUrl": "https://www.bgr.com/2210643/how-to-setup-new-google-pixel-phone-tips",
+    "relatedSources": [
+      {
+        "name": "BGR",
+        "url": "https://www.bgr.com/2210643/how-to-setup-new-google-pixel-phone-tips"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-1537424c",
+    "status": "published",
+    "translationOf": "5-tips-for-setting-up-your-new-google-pixel-phone-1537424c",
+    "publishedAt": "2026-07-12T21:17:00.000Z",
+    "fetchedAt": "2026-07-14T00:51:13.298Z",
+    "body": "設定新 Google Pixel 手機的技巧，包括啟用緊急 SOS、轉移資料、使用小工具，以及配置無障礙選單。\n\n原文來源： [BGR](https://www.bgr.com/2210643/how-to-setup-new-google-pixel-phone-tips)"
+  },
+  {
+    "title": "荒唐中年男「酒喝到重殘」想啃老：討每月1萬扶養費！兩度提告年邁父母",
+    "slug": "middle-aged-man-with-severe-disability-seeks-monthly-nt10000-support-from-elderl-zh-c13035a0",
+    "lang": "zh-TW",
+    "summary": "南投39歲男子大壯（化名）離婚且無子女，因罹患肝病領有極重度身心障礙證明，自稱失去工作能力，向法院訴請要求年邁父母每月支付共1萬元的扶養費；但父母出庭痛訴，兒子長年酗酒、惹是生非，從未盡過孝道。法院綜合相關證據，認定他未達無謀生能力門檻，駁回告訴，但他又提起抗告，依舊遭法院駁回。",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "legal",
+      "family support"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E8%8D%92%E5%94%90%E4%B8%AD%E5%B9%B4%E7%94%B7-%E9%85%92%E5%96%9D%E5%88%B0%E9%87%8D%E6%AE%98-%E6%83%B3%E5%95%83%E8%80%81-%E8%A8%8E%E6%AF%8F%E6%9C%881%E8%90%AC%E6%89%B6%E9%A4%8A%E8%B2%BB-%E5%85%A9%E5%BA%A6%E6%8F%90%E5%91%8A%E5%B9%B4%E9%82%81%E7%88%B6%E6%AF%8D-235000072.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E8%8D%92%E5%94%90%E4%B8%AD%E5%B9%B4%E7%94%B7-%E9%85%92%E5%96%9D%E5%88%B0%E9%87%8D%E6%AE%98-%E6%83%B3%E5%95%83%E8%80%81-%E8%A8%8E%E6%AF%8F%E6%9C%881%E8%90%AC%E6%89%B6%E9%A4%8A%E8%B2%BB-%E5%85%A9%E5%BA%A6%E6%8F%90%E5%91%8A%E5%B9%B4%E9%82%81%E7%88%B6%E6%AF%8D-235000072.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-c13035a0",
+    "status": "published",
+    "translationOf": "middle-aged-man-with-severe-disability-seeks-monthly-nt10000-support-from-elderl-c13035a0",
+    "publishedAt": "2026-07-12T23:50:00.000Z",
+    "fetchedAt": "2026-07-14T00:51:28.477Z",
+    "body": "南投39歲男子大壯（化名）離婚且無子女，因罹患肝病領有極重度身心障礙證明，自稱失去工作能力，向法院訴請要求年邁父母每月支付共1萬元的扶養費；但父母出庭痛訴，兒子長年酗酒、惹是生非，從未盡過孝道。法院綜合相關證據，認定他未達無謀生能力門檻，駁回告訴，但他又提起抗告，依舊遭法院駁回。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E8%8D%92%E5%94%90%E4%B8%AD%E5%B9%B4%E7%94%B7-%E9%85%92%E5%96%9D%E5%88%B0%E9%87%8D%E6%AE%98-%E6%83%B3%E5%95%83%E8%80%81-%E8%A8%8E%E6%AF%8F%E6%9C%881%E8%90%AC%E6%89%B6%E9%A4%8A%E8%B2%BB-%E5%85%A9%E5%BA%A6%E6%8F%90%E5%91%8A%E5%B9%B4%E9%82%81%E7%88%B6%E6%AF%8D-235000072.html)"
+  },
+  {
+    "title": "服務藍支線 再添3輛電動公車",
+    "slug": "three-new-electric-buses-added-to-blue-branch-line-boosting-accessible-bus-ratio-zh-9c52f12c",
+    "lang": "zh-TW",
+    "summary": "交通局攜手興南客運將老舊柴油車汰舊換新，再添三輛由創奕能源打造的全新電動公車，正式投入營運並全面配置在藍支線，無障礙公車比例突破八成二，目前尚有超過六十輛電動公車正在打造中，預計年底前交車。",
+    "category": "physical-design",
+    "tags": [
+      "accessible buses",
+      "electric buses",
+      "public transport",
+      "Tainan"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%9C%8D%E5%8B%99%E8%97%8D%E6%94%AF%E7%B7%9A-%E5%86%8D%E6%B7%BB3%E8%BC%9B%E9%9B%BB%E5%8B%95%E5%85%AC%E8%BB%8A-131217094.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E6%9C%8D%E5%8B%99%E8%97%8D%E6%94%AF%E7%B7%9A-%E5%86%8D%E6%B7%BB3%E8%BC%9B%E9%9B%BB%E5%8B%95%E5%85%AC%E8%BB%8A-131217094.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-9c52f12c",
+    "status": "published",
+    "translationOf": "three-new-electric-buses-added-to-blue-branch-line-boosting-accessible-bus-ratio-9c52f12c",
+    "publishedAt": "2026-07-12T13:12:17.000Z",
+    "fetchedAt": "2026-07-14T00:52:22.283Z",
+    "body": "交通局攜手興南客運將老舊柴油車汰舊換新，再添三輛由創奕能源打造的全新電動公車，正式投入營運並全面配置在藍支線，無障礙公車比例突破八成二，目前尚有超過六十輛電動公車正在打造中，預計年底前交車。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E6%9C%8D%E5%8B%99%E8%97%8D%E6%94%AF%E7%B7%9A-%E5%86%8D%E6%B7%BB3%E8%BC%9B%E9%9B%BB%E5%8B%95%E5%85%AC%E8%BB%8A-131217094.html)"
   }
 ]
