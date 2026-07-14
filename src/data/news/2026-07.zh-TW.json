@@ -31383,5 +31383,425 @@
     "publishedAt": "2026-07-14T00:45:54.000Z",
     "fetchedAt": "2026-07-14T01:10:37.116Z",
     "body": "此推文的中文摘要尚待翻譯。\n推文來源： [Richard Cabile (@richard_alona)](https://x.com/richard_alona/status/2076830511629312128)"
+  },
+  {
+    "title": "包容且無障礙的城市始於維護良好的人行道",
+    "slug": "inclusive-and-accessible-cities-start-with-well-maintained-sidewalks-zh-8ee01f8b",
+    "lang": "zh-TW",
+    "summary": "該文章探討維護良好的人行道如何對構建包容且無障礙的城市至關重要，並以麻薩諸塞州劍橋市的人行道維修項目為例，說明該工程如何提升所有行人（包括殘障人士）的安全。",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "WBUR",
+    "sourceUrl": "https://www.wbur.org/cognoscenti/2026/07/14/cambridge-ma-sidewalk-repair-bus-lanes-bike-lanes-main-street-safety-project-barbara-thimm",
+    "relatedSources": [
+      {
+        "name": "WBUR",
+        "url": "https://www.wbur.org/cognoscenti/2026/07/14/cambridge-ma-sidewalk-repair-bus-lanes-bike-lanes-main-street-safety-project-barbara-thimm"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-8ee01f8b",
+    "status": "published",
+    "translationOf": "inclusive-and-accessible-cities-start-with-well-maintained-sidewalks-8ee01f8b",
+    "publishedAt": "2026-07-14T09:55:28.000Z",
+    "fetchedAt": "2026-07-14T12:41:14.926Z",
+    "body": "該文章探討維護良好的人行道如何對構建包容且無障礙的城市至關重要，並以麻薩諸塞州劍橋市的人行道維修項目為例，說明該工程如何提升所有行人（包括殘障人士）的安全。\n\n原文來源： [WBUR](https://www.wbur.org/cognoscenti/2026/07/14/cambridge-ma-sidewalk-repair-bus-lanes-bike-lanes-main-street-safety-project-barbara-thimm)"
+  },
+  {
+    "title": "肯德爾媽媽爭取制止『悄悄』的殘障歧視",
+    "slug": "kendal-mums-bid-to-halt-quiet-disability-discrimination-zh-4d98f2c3",
+    "lang": "zh-TW",
+    "summary": "肯德爾的一位母親正在發起運動，制止微妙的殘障歧視形式，並呼籲提高公眾認識與加強法律保護。",
+    "category": "laws-rights",
+    "tags": [],
+    "sourceName": "BBC",
+    "sourceUrl": "https://www.bbc.com/news/articles/c4gyn7ldv37o",
+    "relatedSources": [
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/c4gyn7ldv37o"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-4d98f2c3",
+    "status": "published",
+    "translationOf": "kendal-mums-bid-to-halt-quiet-disability-discrimination-4d98f2c3",
+    "publishedAt": "2026-07-14T05:09:38.000Z",
+    "fetchedAt": "2026-07-14T12:41:14.985Z",
+    "body": "肯德爾的一位母親正在發起運動，制止微妙的殘障歧視形式，並呼籲提高公眾認識與加強法律保護。\n\n原文來源： [BBC](https://www.bbc.com/news/articles/c4gyn7ldv37o)"
+  },
+  {
+    "title": "機器人進駐新澤西州霍博肯街頭，以提升行人無障礙環境",
+    "slug": "robots-are-hitting-the-streets-of-hoboken-nj-to-improve-accessibility-for-pedest-zh-415a8f08",
+    "lang": "zh-TW",
+    "summary": "在美國新澤西州霍博肯，機器人被派遣到街道上收集人行道狀況數據，以協助改善行人無障礙環境，特別是對殘障人士友善的設施。",
+    "category": "assistive-tech",
+    "tags": [],
+    "sourceName": "CBS News",
+    "sourceUrl": "https://www.cbsnews.com/newyork/news/hoboken-nj-robots-pedestrian-accessibility-data-daxbots",
+    "relatedSources": [
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/newyork/news/hoboken-nj-robots-pedestrian-accessibility-data-daxbots"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-415a8f08",
+    "status": "published",
+    "translationOf": "robots-are-hitting-the-streets-of-hoboken-nj-to-improve-accessibility-for-pedest-415a8f08",
+    "publishedAt": "2026-07-13T15:45:00.000Z",
+    "fetchedAt": "2026-07-14T12:41:15.030Z",
+    "body": "在美國新澤西州霍博肯，機器人被派遣到街道上收集人行道狀況數據，以協助改善行人無障礙環境，特別是對殘障人士友善的設施。\n\n原文來源： [CBS News](https://www.cbsnews.com/newyork/news/hoboken-nj-robots-pedestrian-accessibility-data-daxbots)"
+  },
+  {
+    "title": "德州穆斯坦島州立公園提供免費海灘輪椅以提升無障礙",
+    "slug": "mustang-island-state-park-offers-free-beach-wheelchairs-to-improve-accessibility-zh-8f2b3405",
+    "lang": "zh-TW",
+    "summary": "德州穆斯坦島州立公園提供免費海灘輪椅，以提升行動不便訪客的無障礙環境。",
+    "category": "assistive-tech",
+    "tags": [
+      "beach wheelchair",
+      "mobility aid",
+      "state park",
+      "Texas",
+      "free rental"
+    ],
+    "sourceName": "kiiitv.com",
+    "sourceUrl": "https://www.kiiitv.com/article/news/local/mustang-island-state-park-free-beach-wheelchairs-accessibility/503-1102c7f6-a3e3-4f87-bf3e-bc7f60ec455a",
+    "relatedSources": [
+      {
+        "name": "kiiitv.com",
+        "url": "https://www.kiiitv.com/article/news/local/mustang-island-state-park-free-beach-wheelchairs-accessibility/503-1102c7f6-a3e3-4f87-bf3e-bc7f60ec455a"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-8f2b3405",
+    "status": "published",
+    "translationOf": "mustang-island-state-park-offers-free-beach-wheelchairs-to-improve-accessibility-8f2b3405",
+    "publishedAt": "2026-07-14T12:12:00.000Z",
+    "fetchedAt": "2026-07-14T12:42:05.621Z",
+    "body": "德州穆斯坦島州立公園提供免費海灘輪椅，以提升行動不便訪客的無障礙環境。\n\n原文來源： [kiiitv.com](https://www.kiiitv.com/article/news/local/mustang-island-state-park-free-beach-wheelchairs-accessibility/503-1102c7f6-a3e3-4f87-bf3e-bc7f60ec455a)"
+  },
+  {
+    "title": "胡托領袖認為無障礙是城市未來的一部分",
+    "slug": "hutto-leaders-see-accessibility-as-part-of-the-citys-future-zh-32393b94",
+    "lang": "zh-TW",
+    "summary": "胡托官員討論將無障礙納入城市規劃，著重於自閉症友善措施與包容性城市發展。",
+    "category": "laws-rights",
+    "tags": [
+      "city planning",
+      "autism",
+      "accessibility policy",
+      "Hutto",
+      "Texas"
+    ],
+    "sourceName": "Austin American-Statesman",
+    "sourceUrl": "https://www.statesman.com/business/article/hutto-growth-autism-planning-22320287.php",
+    "relatedSources": [
+      {
+        "name": "Austin American-Statesman",
+        "url": "https://www.statesman.com/business/article/hutto-growth-autism-planning-22320287.php"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-32393b94",
+    "status": "published",
+    "translationOf": "hutto-leaders-see-accessibility-as-part-of-the-citys-future-32393b94",
+    "publishedAt": "2026-07-14T09:31:01.000Z",
+    "fetchedAt": "2026-07-14T12:42:05.662Z",
+    "body": "胡托官員討論將無障礙納入城市規劃，著重於自閉症友善措施與包容性城市發展。\n\n原文來源： [Austin American-Statesman](https://www.statesman.com/business/article/hutto-growth-autism-planning-22320287.php)"
+  },
+  {
+    "title": "機器人進駐霍博肯 協助提升全城無障礙",
+    "slug": "robots-roll-into-hoboken-to-help-improve-accessibility-across-the-city-zh-72192e0c",
+    "lang": "zh-TW",
+    "summary": "霍博肯部署機器人以協助改善殘障人士的無障礙環境，透過創新科技提升城市可及性。",
+    "category": "assistive-tech",
+    "tags": [
+      "robots",
+      "Hoboken",
+      "urban accessibility",
+      "assistive robotics",
+      "New Jersey"
+    ],
+    "sourceName": "News12 | New Jersey",
+    "sourceUrl": "https://newjersey.news12.com/robots-roll-into-hoboken-to-help-improve-accessibility-across-the-city",
+    "relatedSources": [
+      {
+        "name": "News12 | New Jersey",
+        "url": "https://newjersey.news12.com/robots-roll-into-hoboken-to-help-improve-accessibility-across-the-city"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-72192e0c",
+    "status": "published",
+    "translationOf": "robots-roll-into-hoboken-to-help-improve-accessibility-across-the-city-72192e0c",
+    "publishedAt": "2026-07-14T02:33:10.000Z",
+    "fetchedAt": "2026-07-14T12:42:05.722Z",
+    "body": "霍博肯部署機器人以協助改善殘障人士的無障礙環境，透過創新科技提升城市可及性。\n\n原文來源： [News12 | New Jersey](https://newjersey.news12.com/robots-roll-into-hoboken-to-help-improve-accessibility-across-the-city)"
+  },
+  {
+    "title": "華南永昌證深化金融平權 獲數位發展部無障礙 AA 級認證",
+    "slug": "hua-nan-yong-chang-securities-achieves-aa-level-digital-accessibility-certificat-zh-97e8f51f",
+    "lang": "zh-TW",
+    "summary": "華南永昌證券深化金融平等，獲得數位發展部無障礙 AA 級認證，確保其數位服務對殘障人士友善。",
+    "category": "digital-a11y",
+    "tags": [
+      "digital-a11y",
+      "financial-inclusion",
+      "aa-certification"
+    ],
+    "sourceName": "經濟日報",
+    "sourceUrl": "https://money.udn.com/money/story/5613/9616048",
+    "relatedSources": [
+      {
+        "name": "經濟日報",
+        "url": "https://money.udn.com/money/story/5613/9616048"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-97e8f51f",
+    "status": "published",
+    "translationOf": "hua-nan-yong-chang-securities-achieves-aa-level-digital-accessibility-certificat-97e8f51f",
+    "publishedAt": "2026-07-14T07:21:18.000Z",
+    "fetchedAt": "2026-07-14T12:42:21.386Z",
+    "body": "華南永昌證券深化金融平等，獲得數位發展部無障礙 AA 級認證，確保其數位服務對殘障人士友善。\n\n原文來源： [經濟日報](https://money.udn.com/money/story/5613/9616048)"
+  },
+  {
+    "title": "高鐵桃園站攜手協會送暖助身心障礙家庭出遊圓夢",
+    "slug": "taoyuan-hsr-station-teams-with-association-to-help-disabled-families-travel-zh-0dd8d8f6",
+    "lang": "zh-TW",
+    "summary": "高鐵桃園站與協會合作，提供暖心協助，幫助身心障礙家庭順利出遊，實現旅遊夢想。",
+    "category": "case-studies",
+    "tags": [
+      "assistive-travel",
+      "disability-support",
+      "hsr-station"
+    ],
+    "sourceName": "LINE TODAY",
+    "sourceUrl": "https://today.line.me/tw/v3/article/0M7x21p",
+    "relatedSources": [
+      {
+        "name": "LINE TODAY",
+        "url": "https://today.line.me/tw/v3/article/0M7x21p"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-0dd8d8f6",
+    "status": "published",
+    "translationOf": "taoyuan-hsr-station-teams-with-association-to-help-disabled-families-travel-0dd8d8f6",
+    "publishedAt": "2026-07-14T09:31:01.000Z",
+    "fetchedAt": "2026-07-14T12:42:21.429Z",
+    "body": "高鐵桃園站與協會合作，提供暖心協助，幫助身心障礙家庭順利出遊，實現旅遊夢想。\n\n原文來源： [LINE TODAY](https://today.line.me/tw/v3/article/0M7x21p)"
+  },
+  {
+    "title": "邁向十載共融里程碑！新竹市無障礙微旅行開放報名",
+    "slug": "hsinchu-city-opens-registration-for-accessible-micro-travel-marking-ten-year-inc-zh-bb7fa16c",
+    "lang": "zh-TW",
+    "summary": "新竹市邁向十載共融里程碑，開放無障礙微旅行報名，讓身心障礙者可參與無障礙短途旅行。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "accessible-tourism",
+      "micro-travel",
+      "inclusion"
+    ],
+    "sourceName": "中央社 CNA",
+    "sourceUrl": "https://www.cna.com.tw/postwrite/chi/438721",
+    "relatedSources": [
+      {
+        "name": "中央社 CNA",
+        "url": "https://www.cna.com.tw/postwrite/chi/438721"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-bb7fa16c",
+    "status": "published",
+    "translationOf": "hsinchu-city-opens-registration-for-accessible-micro-travel-marking-ten-year-inc-bb7fa16c",
+    "publishedAt": "2026-07-13T02:58:04.000Z",
+    "fetchedAt": "2026-07-14T12:42:21.479Z",
+    "body": "新竹市邁向十載共融里程碑，開放無障礙微旅行報名，讓身心障礙者可參與無障礙短途旅行。\n\n原文來源： [中央社 CNA](https://www.cna.com.tw/postwrite/chi/438721)"
+  },
+  {
+    "title": "伯恩漢有機會改革個人獨立付款（PIP）。這是一個真正進步系統的樣貌 | 法蘭西斯·瑞安",
+    "slug": "burnham-has-a-chance-to-overhaul-pip-heres-what-a-truly-progressive-system-could-zh-f3fa13a2",
+    "lang": "zh-TW",
+    "summary": "蒂姆斯報告指出英格蘭和威爾斯的個人獨立付款制度不適合目的且具非人性化，呼籲進行實質性改革，以改善殘障福利並支持申請人與經濟。",
+    "category": "laws-rights",
+    "tags": [
+      "disability benefits",
+      "PIP",
+      "UK",
+      "reform"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/commentisfree/2026/jul/14/andy-burnham-overhaul-pip-progressive-disability-timms-report",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/14/andy-burnham-overhaul-pip-progressive-disability-timms-report"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-f3fa13a2",
+    "status": "published",
+    "translationOf": "burnham-has-a-chance-to-overhaul-pip-heres-what-a-truly-progressive-system-could-f3fa13a2",
+    "publishedAt": "2026-07-14T05:00:21.000Z",
+    "fetchedAt": "2026-07-14T12:43:26.783Z",
+    "body": "蒂姆斯報告指出英格蘭和威爾斯的個人獨立付款制度不適合目的且具非人性化，呼籲進行實質性改革，以改善殘障福利並支持申請人與經濟。\n\n原文來源： [Unknown source](https://www.theguardian.com/commentisfree/2026/jul/14/andy-burnham-overhaul-pip-progressive-disability-timms-report)"
+  },
+  {
+    "title": "桃園蘆竹遊八公園改造 更名啟用",
+    "slug": "taoyuan-luzhu-youba-park-renovation-renamed-and-opened-zh-79af7159",
+    "lang": "zh-TW",
+    "summary": "桃園市蘆竹遊八公園完成改造，更新遊具、整修步道、優化無障礙動線並綠美化，打造適合親子同樂、長者休閒的全齡共融公園。",
+    "category": "physical-design",
+    "tags": [
+      "barrier-free",
+      "park renovation",
+      "inclusive design",
+      "Taoyuan"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5efc910a-f7dc-4339-8d2e-2f534dd07140",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5efc910a-f7dc-4339-8d2e-2f534dd07140"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-79af7159",
+    "status": "published",
+    "translationOf": "taoyuan-luzhu-youba-park-renovation-renamed-and-opened-79af7159",
+    "publishedAt": "2026-07-13T12:34:30.000Z",
+    "fetchedAt": "2026-07-14T12:43:26.823Z",
+    "body": "桃園市蘆竹遊八公園完成改造，更新遊具、整修步道、優化無障礙動線並綠美化，打造適合親子同樂、長者休閒的全齡共融公園。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5efc910a-f7dc-4339-8d2e-2f534dd07140)"
+  },
+  {
+    "title": "佳里公共參與 居民關心行的問題",
+    "slug": "bestri-public-participation-residents-concerned-about-walking-issues-zh-e108825a",
+    "lang": "zh-TW",
+    "summary": "居民在佳里區水綠心川廊計畫的公共參與沙龍中，反映水圳道路面不平、夜間照明不足、雜草與犬隻排泄物影響通行，以及公園道與人行空間高低差、斷點及路口危險，導致長輩、孩童與推嬰兒車家長難以安心通行。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "walkability",
+      "uneven pavement",
+      "lighting",
+      "obstacles",
+      "elderly",
+      "mobility"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ffdb8c3a-237a-482d-acdf-a37a33293086",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ffdb8c3a-237a-482d-acdf-a37a33293086"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-e108825a",
+    "status": "published",
+    "translationOf": "bestri-public-participation-residents-concerned-about-walking-issues-e108825a",
+    "publishedAt": "2026-07-13T12:15:23.000Z",
+    "fetchedAt": "2026-07-14T12:44:40.976Z",
+    "body": "居民在佳里區水綠心川廊計畫的公共參與沙龍中，反映水圳道路面不平、夜間照明不足、雜草與犬隻排泄物影響通行，以及公園道與人行空間高低差、斷點及路口危險，導致長輩、孩童與推嬰兒車家長難以安心通行。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ffdb8c3a-237a-482d-acdf-a37a33293086)"
+  },
+  {
+    "title": "「好行！佳里」 南市府將續辦六場沙龍對話",
+    "slug": "good-walk-bestri-city-to-hold-six-more-accessibility-dialogues-zh-af1b40fe",
+    "lang": "zh-TW",
+    "summary": "南市府都市發展局將繼續舉辦「好行！佳里」沙龍對話，聚焦水圳道及周邊空間日常使用，討論如何改善路面不平、夜間照明不足、雜草與犬隻排泄物及高低差、斷點及路口危險，以提升長輩、孩童與推嬰兒車族群的通行安全。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "walkability",
+      "uneven pavement",
+      "lighting",
+      "obstacles",
+      "elderly",
+      "mobility"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%A5%BD%E8%A1%8C-%E4%BD%B3%E9%87%8C-%E5%8D%97%E5%B8%82%E5%BA%9C%E5%B0%87%E7%BA%8C%E8%BE%A6%E5%85%AD%E5%A0%B4%E6%B2%99%E9%BE%8D%E5%B0%8D%E8%A9%B1-063733143.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E5%A5%BD%E8%A1%8C-%E4%BD%B3%E9%87%8C-%E5%8D%97%E5%B8%82%E5%BA%9C%E5%B0%87%E7%BA%8C%E8%BE%A6%E5%85%AD%E5%A0%B4%E6%B2%99%E9%BE%8D%E5%B0%8D%E8%A9%B1-063733143.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-af1b40fe",
+    "status": "published",
+    "translationOf": "good-walk-bestri-city-to-hold-six-more-accessibility-dialogues-af1b40fe",
+    "publishedAt": "2026-07-13T06:37:33.000Z",
+    "fetchedAt": "2026-07-14T12:44:41.013Z",
+    "body": "南市府都市發展局將繼續舉辦「好行！佳里」沙龍對話，聚焦水圳道及周邊空間日常使用，討論如何改善路面不平、夜間照明不足、雜草與犬隻排泄物及高低差、斷點及路口危險，以提升長輩、孩童與推嬰兒車族群的通行安全。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%A5%BD%E8%A1%8C-%E4%BD%B3%E9%87%8C-%E5%8D%97%E5%B8%82%E5%BA%9C%E5%B0%87%E7%BA%8C%E8%BE%A6%E5%85%AD%E5%A0%B4%E6%B2%99%E9%BE%8D%E5%B0%8D%E8%A9%B1-063733143.html)"
   }
 ]
