@@ -34785,5 +34785,37 @@
     "publishedAt": "2026-07-15T01:12:25.000Z",
     "fetchedAt": "2026-07-15T01:26:20.356Z",
     "body": "A user notes that keyword search now allows reaching desired content, enhancing accessibility.\nTweet source: [すー (@yumechika)](https://x.com/yumechika/status/2077199575207776762)"
+  },
+  {
+    "title": "Becky Jackson Curran Advocates for Accessibility and Understanding - BioMarin Pharmaceutical",
+    "slug": "becky-jackson-curran-advocates-for-accessibility-and-understanding-biomarin-phar-460ccf47",
+    "lang": "en",
+    "summary": "Becky Jackson Curran, an advocate at BioMarin Pharmaceutical, promotes accessibility and understanding for people with disabilities, particularly those with rare diseases.",
+    "category": "laws-rights",
+    "tags": [
+      "advocacy",
+      "rare disease",
+      "accessibility"
+    ],
+    "sourceName": "BioMarin Pharmaceutical",
+    "sourceUrl": "https://www.biomarin.com/news/stories/making-space-becky-curran",
+    "relatedSources": [
+      {
+        "name": "BioMarin Pharmaceutical",
+        "url": "https://www.biomarin.com/news/stories/making-space-becky-curran"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-460ccf47",
+    "status": "published",
+    "translationOf": "becky-jackson-curran-advocates-for-accessibility-and-understanding-biomarin-phar-zh-460ccf47",
+    "publishedAt": "2026-07-14T20:58:31.000Z",
+    "fetchedAt": "2026-07-15T01:55:54.447Z",
+    "body": "Becky Jackson Curran, an advocate at BioMarin Pharmaceutical, promotes accessibility and understanding for people with disabilities, particularly those with rare diseases.\n\nRead more from the original source: [BioMarin Pharmaceutical](https://www.biomarin.com/news/stories/making-space-becky-curran)"
   }
 ]
