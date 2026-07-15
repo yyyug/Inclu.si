@@ -1032,17 +1032,24 @@ async function main() {
       if (toTranslate.length > 0) {
         try {
           const translations = await retryTranslateOllamaThenGroq(toTranslate, `${i}/zh`);
+          let translated = 0;
           for (const t of translations) {
-            zhMap.set(t.itemId, t);
+            if (t.zhTitle && /[\u4e00-\u9fff\u3400-\u4dbf]/.test(t.zhTitle)) {
+              zhMap.set(t.itemId, t);
+              translated++;
+            }
           }
+          console.log(`[translate] Batch ${i}: ${translated}/${toTranslate.length} translated`);
         } catch (zhError) {
-          console.warn(`Translation batch failed, trying individual items`);
+          console.warn(`[translate] Batch ${i} failed: ${zhError.message}. Trying individual items`);
           for (const item of toTranslate) {
             try {
               const single = await retryTranslateOllamaThenGroq([item], `${i}/zh/${item.itemId}`);
-              if (single.length > 0) zhMap.set(item.itemId, single[0]);
-            } catch {
-              // skip individual failure
+              if (single.length > 0 && single[0].zhTitle && /[\u4e00-\u9fff\u3400-\u4dbf]/.test(single[0].zhTitle)) {
+                zhMap.set(item.itemId, single[0]);
+              }
+            } catch (e) {
+              console.warn(`[translate] Individual ${item.itemId} failed: ${e.message}`);
             }
           }
         }
