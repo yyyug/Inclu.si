@@ -1,55 +1,67 @@
 {
-  "date": "2026-07-13",
-  "generatedAt": "2026-07-13T13:25:48.551Z",
+  "date": "2026-07-15",
+  "generatedAt": "2026-07-15T01:03:31.088Z",
   "en": {
-    "title": "CorsixTH Update Boosts Game Accessibility; Disability Advocacy Gains Worldwide",
-    "summary": "The CorsixTH 0.70 release introduces UI scaling and accessibility improvements, enhancing gameplay for people with disabilities. Meanwhile, Japanese lawmaker Eiko Kimura pushes for barrier-free reforms, and AbleVu partners with Pal Experiences to centralize family accessibility resources. Additionally, bus station accessibility upgrades are completed and early hearing treatment research highlights communication access.",
+    "title": "Tesla Advances Wheelchair-Accessible Cybercabs Amid Global Accessibility Push",
+    "summary": "Tesla is developing wheelchair-accessible cybercabs to expand transportation options for people with disabilities. Meanwhile, Mustang Island State Park launched free beach wheelchairs, and advocacy efforts continue with a Kendal mother's campaign against subtle discrimination and a new AA-level digital accessibility certification for a Taiwanese securities firm. Additional notes include user-reported X accessibility regressions and a report on the costs of delayed accessibility improvements.",
     "highlights": [
       {
-        "title": "Theme Hospital game engine CorsixTH 0.70 released with UI scaling, accessibility improvements and more",
-        "slug": "theme-hospital-game-engine-corsixth-070-released-with-ui-scaling-accessibility-i-ecb353f7"
+        "title": "Tesla is developing wheelchair-accessible cybercabs - Mashable",
+        "slug": "tesla-is-developing-wheelchair-accessible-cybercabs-mashable-f717bceb"
       },
       {
-        "title": "Japanese lawmaker with severe disability advocates for barrier-free reforms",
-        "slug": "japanese-lawmaker-with-severe-disability-advocates-for-barrier-free-reforms-3c7cdd25"
+        "title": "Mustang Island State Park offers free beach wheelchairs to improve accessibility",
+        "slug": "mustang-island-state-park-offers-free-beach-wheelchairs-to-improve-accessibility-8f2b3405"
       },
       {
-        "title": "AbleVu Partners with Pal Experiences to Bring Family Accessibility Resources into One Place",
-        "slug": "ablevu-partners-with-pal-experiences-to-bring-family-accessibility-resources-int-52ccc5d9"
+        "title": "Kendal mum's bid to halt 'quiet' disability discrimination",
+        "slug": "kendal-mums-bid-to-halt-quiet-disability-discrimination-4d98f2c3"
       },
       {
-        "title": "Work to make bus station more accessible completed",
-        "slug": "work-to-make-bus-station-more-accessible-completed-71a516af"
+        "title": "Hua Nan Yong Chang Securities Achieves AA-Level Digital Accessibility Certification for Financial Inclusion",
+        "slug": "hua-nan-yong-chang-securities-achieves-aa-level-digital-accessibility-certificat-97e8f51f"
       },
       {
-        "title": "Early Treatment for Communication Accessibility Enables People to Hear the World's Beauty",
-        "slug": "early-treatment-for-communication-accessibility-enables-people-to-hear-the-world-dbb3a931"
+        "title": "Blind user reports critical accessibility regressions in X update",
+        "slug": "blind-user-reports-critical-accessibility-regressions-in-x-update-37c4417a"
+      },
+      {
+        "title": "The High Price of Waiting on Accessibility",
+        "slug": "the-high-price-of-waiting-on-accessibility-86d95eff"
       }
     ]
   },
   "zh-TW": {
-    "title": "CorsixTH 更新提升遊戲無障礙；殘障倡議與社會進步同步",
-    "summary": "CorsixTH 0.70 版加入 UI 縮放及無障礙功能，提升殘障玩家的遊戲體驗。同時，日本議員木村英子推動無障礙改革，AbleVu 與 Pal Experiences 合作整合家庭無障礙資源。此外，佳里彩虹橋無障礙改造引發爭議，及早治療聽力障礙研究強調溝通無障礙的重要性。",
+    "title": "Japan's Service Dog Access Law Strengthens Rights Amid Global Accessibility Advances",
+    "summary": "日本的服務犬法律現在規定必須允許導盲犬進入公共場所，強化對殘障人士的法律保護。同時，特斯拉推進輪椅可及的 Cybercab，穆斯坦島州立公園提供免費海灘輪椅，台灣華南永昌證券獲得 AA 級數位無障礙認證。此外，肯德爾母親反對微妙歧視的倡議持續，桃園高鐵站與殘障家庭協會合作協助出遊，以及一份報告指出延遲無障礙改善的高昂成本。",
     "highlights": [
       {
-        "title": "Theme Hospital 遊戲引擎 CorsixTH 0.70 發布，包含 UI 縮放與無障礙改進",
-        "slug": "theme-hospital-game-engine-corsixth-070-released-with-ui-scaling-accessibility-i-zh-ecb353f7"
+        "title": "無障礙社群訊號 2077015888054861836",
+        "slug": "japans-assistance-dog-law-mandates-access-for-service-dogs-zh-b7d313d5"
       },
       {
-        "title": "無障礙社群訊號 2076467994558116060",
-        "slug": "japanese-lawmaker-with-severe-disability-advocates-for-barrier-free-reforms-zh-3c7cdd25"
+        "title": "Tesla 正在開發輪椅可及的 Cybercab - Mashable",
+        "slug": "tesla-is-developing-wheelchair-accessible-cybercabs-mashable-zh-f717bceb"
       },
       {
-        "title": "AbleVu 與 Pal Experiences 合作將家庭無障礙資源整合於一處",
-        "slug": "ablevu-partners-with-pal-experiences-to-bring-family-accessibility-resources-int-zh-52ccc5d9"
+        "title": "德州穆斯坦島州立公園提供免費海灘輪椅以提升無障礙",
+        "slug": "mustang-island-state-park-offers-free-beach-wheelchairs-to-improve-accessibility-zh-8f2b3405"
       },
       {
-        "title": "佳里人的回憶要沒了！「彩虹橋」無障礙改造 掀兩派論戰",
-        "slug": "controversy-over-accessibility-renovation-of-rainbow-bridge-in-jiali-zh-d71813d5"
+        "title": "華南永昌證深化金融平權 獲數位發展部無障礙 AA 級認證",
+        "slug": "hua-nan-yong-chang-securities-achieves-aa-level-digital-accessibility-certificat-zh-97e8f51f"
       },
       {
-        "title": "聽見世界的美好 及早治療溝通無障礙",
-        "slug": "early-treatment-for-communication-accessibility-enables-people-to-hear-the-world-zh-dbb3a931"
+        "title": "肯德爾媽媽爭取制止『悄悄』的殘障歧視",
+        "slug": "kendal-mums-bid-to-halt-quiet-disability-discrimination-zh-4d98f2c3"
+      },
+      {
+        "title": "高鐵桃園站攜手協會送暖助身心障礙家庭出遊圓夢",
+        "slug": "taoyuan-hsr-station-teams-with-association-to-help-disabled-families-travel-zh-0dd8d8f6"
+      },
+      {
+        "title": "等待無障礙的高昂代價",
+        "slug": "the-high-price-of-waiting-on-accessibility-zh-86d95eff"
       }
     ]
   }
