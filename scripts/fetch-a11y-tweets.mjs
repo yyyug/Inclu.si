@@ -613,11 +613,19 @@ async function translateBatchToZh(items) {
     throw new Error('Ollama translation response is not an array.');
   }
 
-  return parsed.map((row) => ({
+  const result = parsed.map((row) => ({
     itemId: Number(row?.itemId),
     zhTitle: String(row?.zhTitle || '').trim(),
     zhSummary: String(row?.zhSummary || '').trim(),
   }));
+
+  const hasZh = (s) => /[\u4e00-\u9fff\u3400-\u4dbf]/.test(s);
+  const allChinese = result.every((r) => hasZh(r.zhTitle) || hasZh(r.zhSummary));
+  if (!allChinese && result.length > 1) {
+    throw new Error('Ollama returned non-Chinese text for some items.');
+  }
+
+  return result;
 }
 
 async function translateBatchToZhGroq(items) {
@@ -685,11 +693,19 @@ async function translateBatchToZhGroq(items) {
     throw new Error('Groq translation fallback response is not an array.');
   }
 
-  return parsed.map((row) => ({
+  const result = parsed.map((row) => ({
     itemId: Number(row?.itemId),
     zhTitle: String(row?.zhTitle || '').trim(),
     zhSummary: String(row?.zhSummary || '').trim(),
   }));
+
+  const hasZh = (s) => /[\u4e00-\u9fff\u3400-\u4dbf]/.test(s);
+  const allChinese = result.every((r) => hasZh(r.zhTitle) || hasZh(r.zhSummary));
+  if (!allChinese && result.length > 1) {
+    throw new Error('Groq returned non-Chinese text for some items.');
+  }
+
+  return result;
 }
 
 async function retryTranslateOllamaThenGroq(items, batchIndex) {
