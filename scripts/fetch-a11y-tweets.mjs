@@ -620,12 +620,7 @@ async function translateBatchToZh(items) {
   }));
 
   const hasZh = (s) => /[\u4e00-\u9fff\u3400-\u4dbf]/.test(s);
-  const allChinese = result.every((r) => hasZh(r.zhTitle) || hasZh(r.zhSummary));
-  if (!allChinese && result.length > 1) {
-    throw new Error('Ollama returned non-Chinese text for some items.');
-  }
-
-  return result;
+  return result.filter((r) => hasZh(r.zhTitle) || hasZh(r.zhSummary));
 }
 
 async function translateBatchToZhGroq(items) {
@@ -700,12 +695,7 @@ async function translateBatchToZhGroq(items) {
   }));
 
   const hasZh = (s) => /[\u4e00-\u9fff\u3400-\u4dbf]/.test(s);
-  const allChinese = result.every((r) => hasZh(r.zhTitle) || hasZh(r.zhSummary));
-  if (!allChinese && result.length > 1) {
-    throw new Error('Groq returned non-Chinese text for some items.');
-  }
-
-  return result;
+  return result.filter((r) => hasZh(r.zhTitle) || hasZh(r.zhSummary));
 }
 
 async function retryTranslateOllamaThenGroq(items, batchIndex) {
