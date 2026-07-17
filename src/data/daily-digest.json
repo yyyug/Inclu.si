@@ -1,67 +1,63 @@
 {
-  "date": "2026-07-16",
-  "generatedAt": "2026-07-16T01:05:45.047Z",
+  "date": "2026-07-17",
+  "generatedAt": "2026-07-17T01:08:02.667Z",
   "en": {
-    "title": "US Senate Moves to Codify Language Accessibility Standards Amid Trump Opposition",
-    "summary": "The US Senate introduced a bill to codify language accessibility standards, countering efforts by the Trump administration to roll them back. Meanwhile, NDIS reforms in Australia threaten to remove autism support for nearly 145,000 people by 2030. Japan also enacted a new support law for higher brain dysfunction, emphasizing rehabilitation and acceptance.",
+    "title": "DOJ Settlement Spurs Accessibility Upgrades at Durham Park; Global Tech and Sports Boost Inclusion",
+    "summary": "Two decades after a DOJ settlement, Durham’s West Point on the Eno park has completed accessibility upgrades including paved trails and accessible restrooms. Meanwhile, Google rebranded NotebookLM as Gemini Notebook with accessibility focus, and the Bundesliga expanded U.S. broadcast access with closed captioning and audio description. Additional highlights include an accessible Shakespeare production, research on heat‑related cognitive decline in seniors, and an iOS tip for reducing white point.",
     "highlights": [
       {
-        "title": "Senate bill would codify language accessibility standards targeted by Trump",
-        "slug": "senate-bill-would-codify-language-accessibility-standards-targeted-by-trump-e79d9de8"
+        "title": "Twenty Years After DOJ Settlement, Durham’s West Point on the Eno Gets Accessibility Improvements",
+        "slug": "twenty-years-after-doj-settlement-durhams-west-point-on-the-eno-gets-accessibili-84bb81ff"
       },
       {
-        "title": "Almost 145,000 Australians will lose support for autism under NDIS reforms, documents reveal",
-        "slug": "almost-145000-australians-will-lose-support-for-autism-under-ndis-reforms-docume-045f79d1"
+        "title": "Google rebrands NotebookLM as Gemini Notebook, focusing on ecosystem and accessibility",
+        "slug": "google-rebrands-notebooklm-as-gemini-notebook-focusing-on-ecosystem-and-accessib-088b7e2c"
       },
       {
-        "title": "Japan Enacts Support Law for Higher Brain Dysfunction, Highlights Rehabilitation and Acceptance",
-        "slug": "japan-enacts-support-law-for-higher-brain-dysfunction-highlights-rehabilitation--d53d61d3"
+        "title": "Bundesliga Broadens Broadcast Accessibility for Fans in U.S. with New Deals with Versant’s USA Sports and NBCUniversal’s Telemundo",
+        "slug": "bundesliga-broadens-broadcast-accessibility-for-fans-in-us-with-new-deals-with-v-60bf1823"
       },
       {
-        "title": "All-terrain wheelchair improves Roan Mountain accessibility",
-        "slug": "all-terrain-wheelchair-improves-roan-mountain-accessibility-ebe7fedd"
+        "title": "‘As You Like It’ brings Shakespeare, music and accessibility to Playhouse stage - WTIP",
+        "slug": "as-you-like-it-brings-shakespeare-music-and-accessibility-to-playhouse-stage-wti-4e0d675f"
       },
       {
-        "title": "ansrsource Unveils Pilot Program to Make Accessibility Seamless for Institutions",
-        "slug": "ansrsource-unveils-pilot-program-to-make-accessibility-seamless-for-institutions-61fa7ca7"
+        "title": "Heat Exposure and Cognitive Decline in Elderly Populations",
+        "slug": "heat-exposure-and-cognitive-decline-in-elderly-populations-ae744524"
       },
       {
-        "title": "Photos: Oregon Coast accessibility film takes flight",
-        "slug": "photos-oregon-coast-accessibility-film-takes-flight-9284fe20"
+        "title": "iOS Reduce White Point Tip",
+        "slug": "ios-reduce-white-point-tip-86f12d30"
       }
     ]
   },
   "zh-TW": {
-    "title": "參議院推語言無障礙標準法案 對抗特朗普",
-    "summary": "美國參議院提出法案，將語言無障礙標準編纂為法律，以抵銷特朗普政府試圖廢除的舉措。同時，澳洲殘障保險計畫改革可能導致近14.5萬名自閉症者失去支援。日本亦實施高次腦功能障礙支援法，強調復健與接納。",
+    "title": "DOJ和解後達勒姆公園無障礙升級；Google、德甲及劇場提升無障礙",
+    "summary": "司法部和解二十年後，達勒姆西點恩諾公園完成無障礙改善，包括鋪設小徑與無障礙廁所。同時，Google 將 NotebookLM 重新品牌為 Gemini Notebook 強調無障礙，德甲聯賽透過新合作擴大美國廣播的閉合字幕與聲音描述。此外，《如你所願》劇場加入字幕與感官友善演出，北里大學研究指出高溫影響老年認知，以及 iOS 降低白點值技巧有助閱讀。",
     "highlights": [
       {
-        "title": "參議院法案將編纂語言無障礙標準，以應對特朗普的針對",
-        "slug": "senate-bill-would-codify-language-accessibility-standards-targeted-by-trump-zh-e79d9de8"
+        "title": "DOJ和解二十年後，達勒姆西點恩諾公園進行無障礙改善",
+        "slug": "twenty-years-after-doj-settlement-durhams-west-point-on-the-eno-gets-accessibili-zh-84bb81ff"
       },
       {
-        "title": "近145,000名澳大利亞自閉症患者將因NDIS改革失去支援，文件揭露",
-        "slug": "almost-145000-australians-will-lose-support-for-autism-under-ndis-reforms-docume-zh-045f79d1"
+        "title": "Google 將 NotebookLM 重新品牌為 Gemini Notebook，聚焦生態系統與無障礙",
+        "slug": "google-rebrands-notebooklm-as-gemini-notebook-focusing-on-ecosystem-and-accessib-zh-088b7e2c"
       },
       {
-        "title": "日本實施高次腦功能障礙支援法，強調復健與接納",
-        "slug": "japan-enacts-support-law-for-higher-brain-dysfunction-highlights-rehabilitation--zh-d53d61d3"
+        "title": "德甲聯賽透過與 Versant USA Sports 與 NBCUniversal Telemundo 的新合作，擴大美國球迷的廣播無障礙服務",
+        "slug": "bundesliga-broadens-broadcast-accessibility-for-fans-in-us-with-new-deals-with-v-zh-60bf1823"
       },
       {
-        "title": "無障礙社群訊號 2077378346800017883",
-        "slug": "user-discusses-misconceptions-about-autism-and-intellectual-disabilities-zh-300e39e2"
+        "title": "《如你所願》帶來莎士比亞、音樂與無障礙至戲院舞台 - WTIP",
+        "slug": "as-you-like-it-brings-shakespeare-music-and-accessibility-to-playhouse-stage-wti-zh-4e0d675f"
       },
       {
-        "title": "全地形輪椅提升羅安山無障礙度",
-        "slug": "all-terrain-wheelchair-improves-roan-mountain-accessibility-zh-ebe7fedd"
+        "title": "高溫暴露與老年人口的認知能力下降",
+        "slug": "heat-exposure-and-cognitive-decline-in-elderly-populations-zh-ae744524"
       },
       {
-        "title": "ansrsource 推出试点计划，助力机构实现无障碍无缝对接",
-        "slug": "ansrsource-unveils-pilot-program-to-make-accessibility-seamless-for-institutions-zh-61fa7ca7"
-      },
-      {
-        "title": "照片：俄勒冈海岸无障碍电影腾飞",
-        "slug": "photos-oregon-coast-accessibility-film-takes-flight-zh-9284fe20"
+        "title": "iOS 降低白點值技巧",
+        "slug": "ios-reduce-white-point-tip-zh-86f12d30"
       }
     ]
   }
