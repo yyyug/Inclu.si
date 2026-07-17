@@ -40581,5 +40581,399 @@
     "publishedAt": "2026-07-16T12:59:45.000Z",
     "fetchedAt": "2026-07-16T13:10:55.921Z",
     "body": "A social media post discussing the challenges and difficulties associated with romantic relationships between individuals with disabilities.\nTweet source: [なのちゃ (@nanonoaka7)](https://x.com/nanonoaka7/status/2077739968559296831)"
+  },
+  {
+    "title": "Inclusive Cuts creates accessible barber shop, salon experience for people of all abilities",
+    "slug": "inclusive-cuts-creates-accessible-barber-shop-salon-experience-for-people-of-all-0a182d8f",
+    "lang": "en",
+    "summary": "Inclusive Cuts has launched an accessible barber shop and salon designed to serve people of all abilities, providing accommodations for customers with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "barber shop",
+      "salon",
+      "inclusive",
+      "disability access"
+    ],
+    "sourceName": "The Owensboro Times",
+    "sourceUrl": "https://www.owensborotimes.com/features/2026/07/inclusive-cuts-creates-accessible-barber-shop-salon-experience-for-people-of-all-abilities",
+    "relatedSources": [
+      {
+        "name": "The Owensboro Times",
+        "url": "https://www.owensborotimes.com/features/2026/07/inclusive-cuts-creates-accessible-barber-shop-salon-experience-for-people-of-all-abilities"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-0a182d8f",
+    "status": "published",
+    "translationOf": "inclusive-cuts-creates-accessible-barber-shop-salon-experience-for-people-of-all-zh-0a182d8f",
+    "publishedAt": "2026-07-16T05:18:27.000Z",
+    "fetchedAt": "2026-07-17T00:52:51.170Z",
+    "body": "Inclusive Cuts has launched an accessible barber shop and salon designed to serve people of all abilities, providing accommodations for customers with disabilities.\n\nRead more from the original source: [The Owensboro Times](https://www.owensborotimes.com/features/2026/07/inclusive-cuts-creates-accessible-barber-shop-salon-experience-for-people-of-all-abilities)"
+  },
+  {
+    "title": "Doctoral student bridges accessibility gap in dissertation coding",
+    "slug": "doctoral-student-bridges-accessibility-gap-in-dissertation-coding-d83c5804",
+    "lang": "en",
+    "summary": "A doctoral student has developed solutions to close the accessibility gap in dissertation coding, ensuring that academic writing tools are usable by people with disabilities.",
+    "category": "digital-a11y",
+    "tags": [
+      "dissertation",
+      "coding",
+      "accessibility",
+      "digital accessibility"
+    ],
+    "sourceName": "Auburn University",
+    "sourceUrl": "https://wire.auburn.edu/content/ocm/2026/07/161306-franklin-wang-accessibility.php",
+    "relatedSources": [
+      {
+        "name": "Auburn University",
+        "url": "https://wire.auburn.edu/content/ocm/2026/07/161306-franklin-wang-accessibility.php"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-d83c5804",
+    "status": "published",
+    "translationOf": "doctoral-student-bridges-accessibility-gap-in-dissertation-coding-zh-d83c5804",
+    "publishedAt": "2026-07-16T19:33:15.000Z",
+    "fetchedAt": "2026-07-17T00:52:51.225Z",
+    "body": "A doctoral student has developed solutions to close the accessibility gap in dissertation coding, ensuring that academic writing tools are usable by people with disabilities.\n\nRead more from the original source: [Auburn University](https://wire.auburn.edu/content/ocm/2026/07/161306-franklin-wang-accessibility.php)"
+  },
+  {
+    "title": "‘As You Like It’ brings Shakespeare, music and accessibility to Playhouse stage - WTIP",
+    "slug": "as-you-like-it-brings-shakespeare-music-and-accessibility-to-playhouse-stage-wti-4e0d675f",
+    "lang": "en",
+    "summary": "The production of Shakespeare’s “As You Like It” at the Playhouse incorporates accessibility features such as captioning, audio description, and sensory-friendly performances to ensure audiences with disabilities can enjoy the show.",
+    "category": "case-studies",
+    "tags": [
+      "theater",
+      "accessibility",
+      "performing arts",
+      "captioning",
+      "audio description"
+    ],
+    "sourceName": "WTIP",
+    "sourceUrl": "https://wtip.org/as-you-like-it-brings-shakespeare-music-and-accessibility-to-playhouse-stage",
+    "relatedSources": [
+      {
+        "name": "WTIP",
+        "url": "https://wtip.org/as-you-like-it-brings-shakespeare-music-and-accessibility-to-playhouse-stage"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-4e0d675f",
+    "status": "published",
+    "translationOf": "as-you-like-it-brings-shakespeare-music-and-accessibility-to-playhouse-stage-wti-zh-4e0d675f",
+    "publishedAt": "2026-07-16T19:59:49.000Z",
+    "fetchedAt": "2026-07-17T00:52:58.450Z",
+    "body": "The production of Shakespeare’s “As You Like It” at the Playhouse incorporates accessibility features such as captioning, audio description, and sensory-friendly performances to ensure audiences with disabilities can enjoy the show.\n\nRead more from the original source: [WTIP](https://wtip.org/as-you-like-it-brings-shakespeare-music-and-accessibility-to-playhouse-stage)"
+  },
+  {
+    "title": "Boosting accessibility at Microsoft with help from neurodivergent employees - Microsoft",
+    "slug": "boosting-accessibility-at-microsoft-with-help-from-neurodivergent-employees-micr-374865f5",
+    "lang": "en",
+    "summary": "Microsoft highlights how neurodivergent employees contribute to improving accessibility across its products and workplace, sharing insights on inclusive design and employee-driven initiatives.",
+    "category": "digital-a11y",
+    "tags": [
+      "neurodiversity",
+      "workplace accessibility",
+      "inclusive design",
+      "Microsoft"
+    ],
+    "sourceName": "Microsoft",
+    "sourceUrl": "https://www.microsoft.com/insidetrack/blog/boosting-accessibility-at-microsoft-with-help-from-neurodivergent-employees",
+    "relatedSources": [
+      {
+        "name": "Microsoft",
+        "url": "https://www.microsoft.com/insidetrack/blog/boosting-accessibility-at-microsoft-with-help-from-neurodivergent-employees"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-374865f5",
+    "status": "published",
+    "translationOf": "boosting-accessibility-at-microsoft-with-help-from-neurodivergent-employees-micr-zh-374865f5",
+    "publishedAt": "2026-07-16T15:45:00.000Z",
+    "fetchedAt": "2026-07-17T00:52:58.501Z",
+    "body": "Microsoft highlights how neurodivergent employees contribute to improving accessibility across its products and workplace, sharing insights on inclusive design and employee-driven initiatives.\n\nRead more from the original source: [Microsoft](https://www.microsoft.com/insidetrack/blog/boosting-accessibility-at-microsoft-with-help-from-neurodivergent-employees)"
+  },
+  {
+    "title": "From California to Scotland, These 8 Beaches Are Raising the Bar for Accessibility",
+    "slug": "from-california-to-scotland-these-8-beaches-are-raising-the-bar-for-accessibilit-cf90a35a",
+    "lang": "en",
+    "summary": "The article highlights eight beaches worldwide that have improved accessibility features for disabled travelers, including accessible pathways, beach wheelchairs, and facilities.",
+    "category": "physical-design",
+    "tags": [
+      "beach",
+      "accessible tourism",
+      "physical-design"
+    ],
+    "sourceName": "AFAR",
+    "sourceUrl": "https://www.afar.com/magazine/accessible-beaches-for-disabled-travelers",
+    "relatedSources": [
+      {
+        "name": "AFAR",
+        "url": "https://www.afar.com/magazine/accessible-beaches-for-disabled-travelers"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-cf90a35a",
+    "status": "published",
+    "translationOf": "from-california-to-scotland-these-8-beaches-are-raising-the-bar-for-accessibilit-zh-cf90a35a",
+    "publishedAt": "2026-07-16T18:34:50.000Z",
+    "fetchedAt": "2026-07-17T00:53:08.372Z",
+    "body": "The article highlights eight beaches worldwide that have improved accessibility features for disabled travelers, including accessible pathways, beach wheelchairs, and facilities.\n\nRead more from the original source: [AFAR](https://www.afar.com/magazine/accessible-beaches-for-disabled-travelers)"
+  },
+  {
+    "title": "Twenty Years After DOJ Settlement, Durham’s West Point on the Eno Gets Accessibility Improvements",
+    "slug": "twenty-years-after-doj-settlement-durhams-west-point-on-the-eno-gets-accessibili-84bb81ff",
+    "lang": "en",
+    "summary": "Two decades after a Department of Justice settlement, Durham’s West Point on the Eno park has implemented accessibility upgrades such as paved trails, accessible restrooms, and signage to accommodate visitors with disabilities.",
+    "category": "laws-rights",
+    "tags": [
+      "DOJ settlement",
+      "park accessibility",
+      "laws"
+    ],
+    "sourceName": "INDY Week",
+    "sourceUrl": "https://indyweek.com/news/twenty-years-after-doj-settlement-durhams-west-point-on-the-eno-gets-accessibility-improvements",
+    "relatedSources": [
+      {
+        "name": "INDY Week",
+        "url": "https://indyweek.com/news/twenty-years-after-doj-settlement-durhams-west-point-on-the-eno-gets-accessibility-improvements"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-84bb81ff",
+    "status": "published",
+    "translationOf": "twenty-years-after-doj-settlement-durhams-west-point-on-the-eno-gets-accessibili-zh-84bb81ff",
+    "publishedAt": "2026-07-16T15:45:00.000Z",
+    "fetchedAt": "2026-07-17T00:53:08.423Z",
+    "body": "Two decades after a Department of Justice settlement, Durham’s West Point on the Eno park has implemented accessibility upgrades such as paved trails, accessible restrooms, and signage to accommodate visitors with disabilities.\n\nRead more from the original source: [INDY Week](https://indyweek.com/news/twenty-years-after-doj-settlement-durhams-west-point-on-the-eno-gets-accessibility-improvements)"
+  },
+  {
+    "title": "Oregon Coast Accessibility Film Takes Flight on United Airlines After National First-Place Win TravelAbility Film Festival",
+    "slug": "oregon-coast-accessibility-film-takes-flight-on-united-airlines-after-national-f-4f93735b",
+    "lang": "en",
+    "summary": "A documentary about Oregon Coast accessibility, which won first place at the TravelAbility Film Festival, is now being shown on United Airlines flights, raising awareness about inclusive travel for people with disabilities.",
+    "category": "case-studies",
+    "tags": [
+      "film",
+      "disability awareness",
+      "airline"
+    ],
+    "sourceName": "Tillamook County Pioneer",
+    "sourceUrl": "https://www.tillamookcountypioneer.net/oregon-coast-accessibility-film-takes-flight-on-united-airlines-after-national-first-place-win-travelability-film-festival",
+    "relatedSources": [
+      {
+        "name": "Tillamook County Pioneer",
+        "url": "https://www.tillamookcountypioneer.net/oregon-coast-accessibility-film-takes-flight-on-united-airlines-after-national-first-place-win-travelability-film-festival"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-4f93735b",
+    "status": "published",
+    "translationOf": "oregon-coast-accessibility-film-takes-flight-on-united-airlines-after-national-f-zh-4f93735b",
+    "publishedAt": "2026-07-16T18:51:00.000Z",
+    "fetchedAt": "2026-07-17T00:53:08.464Z",
+    "body": "A documentary about Oregon Coast accessibility, which won first place at the TravelAbility Film Festival, is now being shown on United Airlines flights, raising awareness about inclusive travel for people with disabilities.\n\nRead more from the original source: [Tillamook County Pioneer](https://www.tillamookcountypioneer.net/oregon-coast-accessibility-film-takes-flight-on-united-airlines-after-national-first-place-win-travelability-film-festival)"
+  },
+  {
+    "title": "Google rebrands NotebookLM as Gemini Notebook, focusing on ecosystem and accessibility",
+    "slug": "google-rebrands-notebooklm-as-gemini-notebook-focusing-on-ecosystem-and-accessib-088b7e2c",
+    "lang": "en",
+    "summary": "Google has rebranded its NotebookLM product as Gemini Notebook, emphasizing ecosystem integration and accessibility improvements.",
+    "category": "digital-a11y",
+    "tags": [
+      "google",
+      "notebooklm",
+      "accessibility"
+    ],
+    "sourceName": "SiliconANGLE",
+    "sourceUrl": "https://siliconangle.com/2026/07/16/google-rebrands-notebooklm-gemini-notebook-focusing-ecosystem-accessibility",
+    "relatedSources": [
+      {
+        "name": "SiliconANGLE",
+        "url": "https://siliconangle.com/2026/07/16/google-rebrands-notebooklm-gemini-notebook-focusing-ecosystem-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-088b7e2c",
+    "status": "published",
+    "translationOf": "google-rebrands-notebooklm-as-gemini-notebook-focusing-on-ecosystem-and-accessib-zh-088b7e2c",
+    "publishedAt": "2026-07-16T16:00:28.000Z",
+    "fetchedAt": "2026-07-17T00:53:25.231Z",
+    "body": "Google has rebranded its NotebookLM product as Gemini Notebook, emphasizing ecosystem integration and accessibility improvements.\n\nRead more from the original source: [SiliconANGLE](https://siliconangle.com/2026/07/16/google-rebrands-notebooklm-gemini-notebook-focusing-ecosystem-accessibility)"
+  },
+  {
+    "title": "Allowing people with mobility difficulties to travel with peace of mind: Pingtung enhances barrier-free service capabilities of public transport staff",
+    "slug": "allowing-people-with-mobility-difficulties-to-travel-with-peace-of-mind-pingtung-5a63b736",
+    "lang": "en",
+    "summary": "Pingtung strengthens the barrier-free service capabilities of public transport personnel to ensure safe travel for people with mobility challenges.",
+    "category": "physical-design",
+    "tags": [
+      "public transport",
+      "barrier-free",
+      "mobility",
+      "pingtung"
+    ],
+    "sourceName": "peopo.org",
+    "sourceUrl": "https://www.peopo.org/news/851725",
+    "relatedSources": [
+      {
+        "name": "peopo.org",
+        "url": "https://www.peopo.org/news/851725"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5a63b736",
+    "status": "published",
+    "translationOf": "allowing-people-with-mobility-difficulties-to-travel-with-peace-of-mind-pingtung-zh-5a63b736",
+    "publishedAt": "2026-07-14T10:29:00.000Z",
+    "fetchedAt": "2026-07-17T00:53:25.274Z",
+    "body": "Pingtung strengthens the barrier-free service capabilities of public transport personnel to ensure safe travel for people with mobility challenges.\n\nRead more from the original source: [peopo.org](https://www.peopo.org/news/851725)"
+  },
+  {
+    "title": "a11yfy 0.1.0",
+    "slug": "a11yfy-010-f976b7d0",
+    "lang": "en",
+    "summary": "Official Python SDK for the a11yfy PDF accessibility remediation API.",
+    "category": "assistive-tech",
+    "tags": [
+      "python",
+      "sdk",
+      "pdf accessibility",
+      "a11y"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/a11yfy/0.1.0",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/a11yfy/0.1.0"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-f976b7d0",
+    "status": "published",
+    "translationOf": "a11yfy-010-zh-f976b7d0",
+    "publishedAt": "2026-07-15T23:16:00.000Z",
+    "fetchedAt": "2026-07-17T00:53:25.323Z",
+    "body": "Official Python SDK for the a11yfy PDF accessibility remediation API.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/a11yfy/0.1.0)"
+  },
+  {
+    "title": "Image to text",
+    "slug": "image-to-text-4c41c756",
+    "lang": "en",
+    "summary": "Léonie’s talk at The Web You Want event highlighted accessibility as resistance and argued that generative AI tools are a necessary recourse for accessibility when human support is unavailable.",
+    "category": "assistive-tech",
+    "tags": [
+      "image-to-text",
+      "generative AI",
+      "visual impairment",
+      "accessibility"
+    ],
+    "sourceName": "Adactio.com",
+    "sourceUrl": "https://adactio.com/journal/22657",
+    "relatedSources": [
+      {
+        "name": "Adactio.com",
+        "url": "https://adactio.com/journal/22657"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-4c41c756",
+    "status": "published",
+    "translationOf": "image-to-text-zh-4c41c756",
+    "publishedAt": "2026-07-15T20:08:34.000Z",
+    "fetchedAt": "2026-07-17T00:54:13.876Z",
+    "body": "Léonie’s talk at The Web You Want event highlighted accessibility as resistance and argued that generative AI tools are a necessary recourse for accessibility when human support is unavailable.\n\nRead more from the original source: [Adactio.com](https://adactio.com/journal/22657)"
+  },
+  {
+    "title": "Exclusive: Exposing the 'NT$100 Borrowing Brother' on the MRT – Footprint Across Taipei and New Taipei, Hospitals Affected",
+    "slug": "exclusive-exposing-the-nt100-borrowing-brother-on-the-mrt-footprint-across-taipe-ca97428c",
+    "lang": "en",
+    "summary": "Reports detail a man repeatedly asking strangers for NT$100 on MRT trains, shouting and harassing passengers, and even using accessible toilets in Taiwan Railway stations to shower, causing water leakage onto train floors. His activity has spread from Taipei to New Taipei and into hospitals, with Taiwan Railways stating they can refuse service to violators.",
+    "category": "physical-design",
+    "tags": [
+      "no-barrier toilet",
+      "MRT",
+      "harassment",
+      "public facility misuse",
+      "Taiwan Railways"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E8%B5%B7%E5%BA%95%E6%8D%B7%E9%81%8B-100%E5%A1%8A%E5%80%9F%E9%8C%A2%E5%93%A5-%E8%B6%B3%E8%B7%A1%E9%81%8D%E5%B8%83%E9%9B%99%E5%8C%97-%E8%BB%8A%E7%AB%99-135100403.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E8%B5%B7%E5%BA%95%E6%8D%B7%E9%81%8B-100%E5%A1%8A%E5%80%9F%E9%8C%A2%E5%93%A5-%E8%B6%B3%E8%B7%A1%E9%81%8D%E5%B8%83%E9%9B%99%E5%8C%97-%E8%BB%8A%E7%AB%99-135100403.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-ca97428c",
+    "status": "published",
+    "translationOf": "exclusive-exposing-the-nt100-borrowing-brother-on-the-mrt-footprint-across-taipe-zh-ca97428c",
+    "publishedAt": "2026-07-14T13:51:00.000Z",
+    "fetchedAt": "2026-07-17T00:54:13.924Z",
+    "body": "Reports detail a man repeatedly asking strangers for NT$100 on MRT trains, shouting and harassing passengers, and even using accessible toilets in Taiwan Railway stations to shower, causing water leakage onto train floors. His activity has spread from Taipei to New Taipei and into hospitals, with Taiwan Railways stating they can refuse service to violators.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E8%B5%B7%E5%BA%95%E6%8D%B7%E9%81%8B-100%E5%A1%8A%E5%80%9F%E9%8C%A2%E5%93%A5-%E8%B6%B3%E8%B7%A1%E9%81%8D%E5%B8%83%E9%9B%99%E5%8C%97-%E8%BB%8A%E7%AB%99-135100403.html)"
   }
 ]
