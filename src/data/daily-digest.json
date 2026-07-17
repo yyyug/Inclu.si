@@ -1,10 +1,14 @@
 {
   "date": "2026-07-17",
-  "generatedAt": "2026-07-17T01:08:02.667Z",
+  "generatedAt": "2026-07-17T12:58:26.963Z",
   "en": {
-    "title": "DOJ Settlement Spurs Accessibility Upgrades at Durham Park; Global Tech and Sports Boost Inclusion",
-    "summary": "Two decades after a DOJ settlement, Durham’s West Point on the Eno park has completed accessibility upgrades including paved trails and accessible restrooms. Meanwhile, Google rebranded NotebookLM as Gemini Notebook with accessibility focus, and the Bundesliga expanded U.S. broadcast access with closed captioning and audio description. Additional highlights include an accessible Shakespeare production, research on heat‑related cognitive decline in seniors, and an iOS tip for reducing white point.",
+    "title": "Peru Accessibility Law Creates New Barriers Despite Good Intentions",
+    "summary": "A new accessibility law in Peru has unintentionally created obstacles, highlighting implementation challenges. Meanwhile, a two‑year‑old DOJ settlement led to accessibility upgrades at Durham’s West Point park, and tech firms Google and Microsoft announced accessibility‑focused updates. Finally, a Shakespeare production incorporated captioning and sensory‑friendly performances to welcome disabled audiences.",
     "highlights": [
+      {
+        "title": "Peru: When an Accessibility Law Ends Up Creating New Barriers",
+        "slug": "peru-when-an-accessibility-law-ends-up-creating-new-barriers-a34810a8"
+      },
       {
         "title": "Twenty Years After DOJ Settlement, Durham’s West Point on the Eno Gets Accessibility Improvements",
         "slug": "twenty-years-after-doj-settlement-durhams-west-point-on-the-eno-gets-accessibili-84bb81ff"
@@ -14,50 +18,38 @@
         "slug": "google-rebrands-notebooklm-as-gemini-notebook-focusing-on-ecosystem-and-accessib-088b7e2c"
       },
       {
-        "title": "Bundesliga Broadens Broadcast Accessibility for Fans in U.S. with New Deals with Versant’s USA Sports and NBCUniversal’s Telemundo",
-        "slug": "bundesliga-broadens-broadcast-accessibility-for-fans-in-us-with-new-deals-with-v-60bf1823"
+        "title": "Boosting accessibility at Microsoft with help from neurodivergent employees - Microsoft",
+        "slug": "boosting-accessibility-at-microsoft-with-help-from-neurodivergent-employees-micr-374865f5"
       },
       {
         "title": "‘As You Like It’ brings Shakespeare, music and accessibility to Playhouse stage - WTIP",
         "slug": "as-you-like-it-brings-shakespeare-music-and-accessibility-to-playhouse-stage-wti-4e0d675f"
-      },
-      {
-        "title": "Heat Exposure and Cognitive Decline in Elderly Populations",
-        "slug": "heat-exposure-and-cognitive-decline-in-elderly-populations-ae744524"
-      },
-      {
-        "title": "iOS Reduce White Point Tip",
-        "slug": "ios-reduce-white-point-tip-86f12d30"
       }
     ]
   },
   "zh-TW": {
-    "title": "DOJ和解後達勒姆公園無障礙升級；Google、德甲及劇場提升無障礙",
-    "summary": "司法部和解二十年後，達勒姆西點恩諾公園完成無障礙改善，包括鋪設小徑與無障礙廁所。同時，Google 將 NotebookLM 重新品牌為 Gemini Notebook 強調無障礙，德甲聯賽透過新合作擴大美國廣播的閉合字幕與聲音描述。此外，《如你所願》劇場加入字幕與感官友善演出，北里大學研究指出高溫影響老年認知，以及 iOS 降低白點值技巧有助閱讀。",
+    "title": "秘魯無障礙法反生新障礙，凸顯實施挑戰",
+    "summary": "秘魯一部新無障礙法雖善意卻意外製造新障礙，凸顯法律實施的困難。同時，美國達勒姆西點恩諾公園在司法部和解二十年後完成無障礙改善，而莎士比亞劇《如你所願》加入字幕與感官友善演出，提升殘障觀眾體驗。最後，LG 永續報告顯示其提前達標減碳目標並強化無障礙體驗，日本網友則討論學歷制度對身心障礙者的就業障礙。",
     "highlights": [
+      {
+        "title": "秘魯：無障礙法律如何反而製造新障礙",
+        "slug": "peru-when-an-accessibility-law-ends-up-creating-new-barriers-zh-a34810a8"
+      },
       {
         "title": "DOJ和解二十年後，達勒姆西點恩諾公園進行無障礙改善",
         "slug": "twenty-years-after-doj-settlement-durhams-west-point-on-the-eno-gets-accessibili-zh-84bb81ff"
-      },
-      {
-        "title": "Google 將 NotebookLM 重新品牌為 Gemini Notebook，聚焦生態系統與無障礙",
-        "slug": "google-rebrands-notebooklm-as-gemini-notebook-focusing-on-ecosystem-and-accessib-zh-088b7e2c"
-      },
-      {
-        "title": "德甲聯賽透過與 Versant USA Sports 與 NBCUniversal Telemundo 的新合作，擴大美國球迷的廣播無障礙服務",
-        "slug": "bundesliga-broadens-broadcast-accessibility-for-fans-in-us-with-new-deals-with-v-zh-60bf1823"
       },
       {
         "title": "《如你所願》帶來莎士比亞、音樂與無障礙至戲院舞台 - WTIP",
         "slug": "as-you-like-it-brings-shakespeare-music-and-accessibility-to-playhouse-stage-wti-zh-4e0d675f"
       },
       {
-        "title": "高溫暴露與老年人口的認知能力下降",
-        "slug": "heat-exposure-and-cognitive-decline-in-elderly-populations-zh-ae744524"
+        "title": "LG 永續報告書公布：提前達成2030 減碳目標，強化 ESG 與無障礙體驗- SayDigi - SayDigi | 點子生活",
+        "slug": "lg-sustainability-report-released-early-achievement-of-2030-carbon-reduction-goa-zh-c3dad9ef"
       },
       {
-        "title": "iOS 降低白點值技巧",
-        "slug": "ios-reduce-white-point-tip-zh-86f12d30"
+        "title": "身心障礙者的教育障礙",
+        "slug": "educational-barriers-for-people-with-disabilities-zh-57de913a"
       }
     ]
   }
