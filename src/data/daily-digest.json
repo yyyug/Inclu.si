@@ -1,55 +1,55 @@
 {
-  "date": "2026-07-17",
-  "generatedAt": "2026-07-17T12:58:26.963Z",
+  "date": "2026-07-19",
+  "generatedAt": "2026-07-19T01:07:15.288Z",
   "en": {
-    "title": "Peru Accessibility Law Creates New Barriers Despite Good Intentions",
-    "summary": "A new accessibility law in Peru has unintentionally created obstacles, highlighting implementation challenges. Meanwhile, a two‑year‑old DOJ settlement led to accessibility upgrades at Durham’s West Point park, and tech firms Google and Microsoft announced accessibility‑focused updates. Finally, a Shakespeare production incorporated captioning and sensory‑friendly performances to welcome disabled audiences.",
+    "title": "Accesstive Launches Web Accessibility Platform; Disability Access Updates Worldwide",
+    "summary": "Accesstive announced an end-to-end accessibility platform designed to help web teams meet accessibility standards. ForgeMesh introduced AI-driven web development tools with accessibility focus. NYU Langone Health emphasized accessibility in healthcare innovation, McDowell advanced Wyoming accessibility initiatives, and Clawfish released a game accessibility report.",
     "highlights": [
       {
-        "title": "Peru: When an Accessibility Law Ends Up Creating New Barriers",
-        "slug": "peru-when-an-accessibility-law-ends-up-creating-new-barriers-a34810a8"
+        "title": "Accesstive Introduces an End-to-End Accessibility Platform for Modern Web Teams",
+        "slug": "accesstive-introduces-an-end-to-end-accessibility-platform-for-modern-web-teams-f375fd16"
       },
       {
-        "title": "Twenty Years After DOJ Settlement, Durham’s West Point on the Eno Gets Accessibility Improvements",
-        "slug": "twenty-years-after-doj-settlement-durhams-west-point-on-the-eno-gets-accessibili-84bb81ff"
+        "title": "ForgeMesh AI Web Development",
+        "slug": "forgemesh-ai-web-development-cc93b803"
       },
       {
-        "title": "Google rebrands NotebookLM as Gemini Notebook, focusing on ecosystem and accessibility",
-        "slug": "google-rebrands-notebooklm-as-gemini-notebook-focusing-on-ecosystem-and-accessib-088b7e2c"
+        "title": "Making Accessibility the Starting Point for Healthcare Innovation – NYU Langone Health",
+        "slug": "making-accessibility-the-starting-point-for-healthcare-innovation-nyu-langone-he-dab8fd40"
       },
       {
-        "title": "Boosting accessibility at Microsoft with help from neurodivergent employees - Microsoft",
-        "slug": "boosting-accessibility-at-microsoft-with-help-from-neurodivergent-employees-micr-374865f5"
+        "title": "McDowell opens doors for a more accessible Wyoming",
+        "slug": "mcdowell-opens-doors-for-a-more-accessible-wyoming-7be9174d"
       },
       {
-        "title": "‘As You Like It’ brings Shakespeare, music and accessibility to Playhouse stage - WTIP",
-        "slug": "as-you-like-it-brings-shakespeare-music-and-accessibility-to-playhouse-stage-wti-4e0d675f"
+        "title": "Clawfish Accessibility Report",
+        "slug": "clawfish-accessibility-report-c202fa3a"
       }
     ]
   },
   "zh-TW": {
-    "title": "秘魯無障礙法反生新障礙，凸顯實施挑戰",
-    "summary": "秘魯一部新無障礙法雖善意卻意外製造新障礙，凸顯法律實施的困難。同時，美國達勒姆西點恩諾公園在司法部和解二十年後完成無障礙改善，而莎士比亞劇《如你所願》加入字幕與感官友善演出，提升殘障觀眾體驗。最後，LG 永續報告顯示其提前達標減碳目標並強化無障礙體驗，日本網友則討論學歷制度對身心障礙者的就業障礙。",
+    "title": "Accesstive 推出網頁無障礙平台；多項無障礙動態同日發布",
+    "summary": "Accesstive 宣布推出端到端無障礙平台，協助網頁團隊符合無障礙標準。ForgeMesh 同時發布 AI 驅動的網頁開發工具，強調無障礙重點。NYU Langone Health 強調將無障礙置於醫療創新起點，Etihad Rail 闡明無障礙服務規則，McDowell 推動懷俄州無障礙基礎設施提升。",
     "highlights": [
       {
-        "title": "秘魯：無障礙法律如何反而製造新障礙",
-        "slug": "peru-when-an-accessibility-law-ends-up-creating-new-barriers-zh-a34810a8"
+        "title": "Accesstive 推出端到端無障礙平台，服務現代網頁團隊",
+        "slug": "accesstive-introduces-an-end-to-end-accessibility-platform-for-modern-web-teams-zh-f375fd16"
       },
       {
-        "title": "DOJ和解二十年後，達勒姆西點恩諾公園進行無障礙改善",
-        "slug": "twenty-years-after-doj-settlement-durhams-west-point-on-the-eno-gets-accessibili-zh-84bb81ff"
+        "title": "無障礙社群訊號 2078464371391603192",
+        "slug": "forgemesh-ai-web-development-zh-cc93b803"
       },
       {
-        "title": "《如你所願》帶來莎士比亞、音樂與無障礙至戲院舞台 - WTIP",
-        "slug": "as-you-like-it-brings-shakespeare-music-and-accessibility-to-playhouse-stage-wti-zh-4e0d675f"
+        "title": "NYU Langone Health 強調將無障礙置於醫療創新的起點",
+        "slug": "making-accessibility-the-starting-point-for-healthcare-innovation-nyu-langone-he-zh-dab8fd40"
       },
       {
-        "title": "LG 永續報告書公布：提前達成2030 減碳目標，強化 ESG 與無障礙體驗- SayDigi - SayDigi | 點子生活",
-        "slug": "lg-sustainability-report-released-early-achievement-of-2030-carbon-reduction-goa-zh-c3dad9ef"
+        "title": "無障礙社群訊號 2078465426871185746",
+        "slug": "etihad-rail-accessibility-services-zh-12394a64"
       },
       {
-        "title": "身心障礙者的教育障礙",
-        "slug": "educational-barriers-for-people-with-disabilities-zh-57de913a"
+        "title": "McDowell 為無障礙懷俄州開啟大門",
+        "slug": "mcdowell-opens-doors-for-a-more-accessible-wyoming-zh-7be9174d"
       }
     ]
   }
