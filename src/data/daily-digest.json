@@ -1,55 +1,47 @@
 {
   "date": "2026-07-19",
-  "generatedAt": "2026-07-19T01:07:15.288Z",
+  "generatedAt": "2026-07-19T12:57:24.235Z",
   "en": {
-    "title": "Accesstive Launches Web Accessibility Platform; Disability Access Updates Worldwide",
-    "summary": "Accesstive announced an end-to-end accessibility platform designed to help web teams meet accessibility standards. ForgeMesh introduced AI-driven web development tools with accessibility focus. NYU Langone Health emphasized accessibility in healthcare innovation, McDowell advanced Wyoming accessibility initiatives, and Clawfish released a game accessibility report.",
+    "title": "Accesstive Launches End-to-End Accessibility Platform for Modern Web Teams",
+    "summary": "Accesstive has launched an end-to-end accessibility platform designed to help modern web teams ensure digital content meets accessibility standards. In related news, Yale Summer Cabaret has been renovated to provide wheelchair-accessible seating and ramps for the production of Hedwig and the Angry Inch. Meanwhile, 26 disabled athletes in Keelung are attempting a canoe crossing to promote inclusive marine recreation, and a new guide outlines steps for installing home lifts to improve residential accessibility.",
     "highlights": [
       {
         "title": "Accesstive Introduces an End-to-End Accessibility Platform for Modern Web Teams",
         "slug": "accesstive-introduces-an-end-to-end-accessibility-platform-for-modern-web-teams-f375fd16"
       },
       {
-        "title": "ForgeMesh AI Web Development",
-        "slug": "forgemesh-ai-web-development-cc93b803"
+        "title": "Yale Summer Cabaret transforms into an accessible nightclub for ‘Hedwig and the Angry Inch’",
+        "slug": "yale-summer-cabaret-transforms-into-an-accessible-nightclub-for-hedwig-and-the-a-0225f132"
       },
       {
-        "title": "Making Accessibility the Starting Point for Healthcare Innovation – NYU Langone Health",
-        "slug": "making-accessibility-the-starting-point-for-healthcare-innovation-nyu-langone-he-dab8fd40"
+        "title": "26 Disabled Athletes Challenge Canoe Crossing to Keelung Islet! Keelung Builds Accessible Ocean City to Showcase Inclusive Spirit - Bao News",
+        "slug": "26-disabled-athletes-challenge-canoe-crossing-to-keelung-islet-keelung-builds-ac-e0d427f4"
       },
       {
-        "title": "McDowell opens doors for a more accessible Wyoming",
-        "slug": "mcdowell-opens-doors-for-a-more-accessible-wyoming-7be9174d"
-      },
-      {
-        "title": "Clawfish Accessibility Report",
-        "slug": "clawfish-accessibility-report-c202fa3a"
+        "title": "Guide to Installing Home Lifts",
+        "slug": "guide-to-installing-home-lifts-7b4f96ea"
       }
     ]
   },
   "zh-TW": {
-    "title": "Accesstive 推出網頁無障礙平台；多項無障礙動態同日發布",
-    "summary": "Accesstive 宣布推出端到端無障礙平台，協助網頁團隊符合無障礙標準。ForgeMesh 同時發布 AI 驅動的網頁開發工具，強調無障礙重點。NYU Langone Health 強調將無障礙置於醫療創新起點，Etihad Rail 闡明無障礙服務規則，McDowell 推動懷俄州無障礙基礎設施提升。",
+    "title": "Accesstive 推出端到端無障礙平台，助網頁團隊達標",
+    "summary": "Accesstive 推出端到端無障礙平台，協助現代網頁團隊確保數位內容符合無障礙標準。耶魯夏季歌劇院改造成無障礙夜店，提供輪椅坡道和座位，以上演《Hedwig and the Angry Inch》。基隆二十六位身障勇士挑戰獨木舟勇渡基隆嶼，推動海洋休閒無障礙。另外，一則來自日本帳號的 Twitter 討論探討遺傳疾病與殘障史，提供最新的研究觀察。",
     "highlights": [
       {
         "title": "Accesstive 推出端到端無障礙平台，服務現代網頁團隊",
         "slug": "accesstive-introduces-an-end-to-end-accessibility-platform-for-modern-web-teams-zh-f375fd16"
       },
       {
-        "title": "無障礙社群訊號 2078464371391603192",
-        "slug": "forgemesh-ai-web-development-zh-cc93b803"
+        "title": "耶魯夏季歌劇院改造成無障礙夜店，上演《Hedwig and the Angry Inch》",
+        "slug": "yale-summer-cabaret-transforms-into-an-accessible-nightclub-for-hedwig-and-the-a-zh-0225f132"
       },
       {
-        "title": "NYU Langone Health 強調將無障礙置於醫療創新的起點",
-        "slug": "making-accessibility-the-starting-point-for-healthcare-innovation-nyu-langone-he-zh-dab8fd40"
+        "title": "26位身障勇士挑戰勇渡基隆嶼！基隆打造無障礙海洋城市展現共融精神 - 報新聞",
+        "slug": "26-disabled-athletes-challenge-canoe-crossing-to-keelung-islet-keelung-builds-ac-zh-e0d427f4"
       },
       {
-        "title": "無障礙社群訊號 2078465426871185746",
-        "slug": "etihad-rail-accessibility-services-zh-12394a64"
-      },
-      {
-        "title": "McDowell 為無障礙懷俄州開啟大門",
-        "slug": "mcdowell-opens-doors-for-a-more-accessible-wyoming-zh-7be9174d"
+        "title": "無障礙社群訊號 2078648522480697512",
+        "slug": "history-of-genetic-diseases-and-disability-in-japan-zh-83966d14"
       }
     ]
   }
