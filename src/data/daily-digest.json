@@ -1,47 +1,55 @@
 {
-  "date": "2026-07-19",
-  "generatedAt": "2026-07-19T12:57:24.235Z",
+  "date": "2026-07-20",
+  "generatedAt": "2026-07-20T01:08:27.281Z",
   "en": {
-    "title": "Accesstive Launches End-to-End Accessibility Platform for Modern Web Teams",
-    "summary": "Accesstive has launched an end-to-end accessibility platform designed to help modern web teams ensure digital content meets accessibility standards. In related news, Yale Summer Cabaret has been renovated to provide wheelchair-accessible seating and ramps for the production of Hedwig and the Angry Inch. Meanwhile, 26 disabled athletes in Keelung are attempting a canoe crossing to promote inclusive marine recreation, and a new guide outlines steps for installing home lifts to improve residential accessibility.",
+    "title": "DC Robotaxi Bill Overlooks Accessibility; MRT Damages Ramps; Disability Pride Honored",
+    "summary": "The proposed robotaxi legislation in Washington, D.C. fails to include accessibility requirements for people with disabilities. Concurrently, construction on the MRT Yellow Line has damaged accessible ramps, undermining wheelchair access in the transit system. In Illinois, Disability Pride Month is being honored, highlighting advocacy for greater inclusion and accessibility.",
     "highlights": [
       {
-        "title": "Accesstive Introduces an End-to-End Accessibility Platform for Modern Web Teams",
-        "slug": "accesstive-introduces-an-end-to-end-accessibility-platform-for-modern-web-teams-f375fd16"
+        "title": "DC's robotaxi bill stays silent on accessibility - Planetizen",
+        "slug": "dcs-robotaxi-bill-stays-silent-on-accessibility-planetizen-4f19fd36"
       },
       {
-        "title": "Yale Summer Cabaret transforms into an accessible nightclub for ‘Hedwig and the Angry Inch’",
-        "slug": "yale-summer-cabaret-transforms-into-an-accessible-nightclub-for-hedwig-and-the-a-0225f132"
+        "title": "MRT Yellow Line Construction Damages Accessible Ramps",
+        "slug": "mrt-yellow-line-construction-damages-accessible-ramps-4dcf95e6"
       },
       {
-        "title": "26 Disabled Athletes Challenge Canoe Crossing to Keelung Islet! Keelung Builds Accessible Ocean City to Showcase Inclusive Spirit - Bao News",
-        "slug": "26-disabled-athletes-challenge-canoe-crossing-to-keelung-islet-keelung-builds-ac-e0d427f4"
+        "title": "Illinois Honors Disability Pride Month",
+        "slug": "illinois-honors-disability-pride-month-0ca0a275"
       },
       {
-        "title": "Guide to Installing Home Lifts",
-        "slug": "guide-to-installing-home-lifts-7b4f96ea"
+        "title": "WebPerformance Report Week #29 Released",
+        "slug": "webperformance-report-week-29-released-87e7eaf0"
+      },
+      {
+        "title": "Accessible Canoe Crossing Keelung Islet Event Kicks Off (Part 1) (Photo) - Yahoo News",
+        "slug": "accessible-canoe-crossing-keelung-islet-event-kicks-off-part-1-photo-yahoo-news-1f308a8a"
       }
     ]
   },
   "zh-TW": {
-    "title": "Accesstive 推出端到端無障礙平台，助網頁團隊達標",
-    "summary": "Accesstive 推出端到端無障礙平台，協助現代網頁團隊確保數位內容符合無障礙標準。耶魯夏季歌劇院改造成無障礙夜店，提供輪椅坡道和座位，以上演《Hedwig and the Angry Inch》。基隆二十六位身障勇士挑戰獨木舟勇渡基隆嶼，推動海洋休閒無障礙。另外，一則來自日本帳號的 Twitter 討論探討遺傳疾病與殘障史，提供最新的研究觀察。",
+    "title": "華盛頓機器人計程車法案忽視無障礙；高捷黃線毀坡道；伊利諾伊紀念殘障驕傲月",
+    "summary": "華盛頓特區提出的機器人計程車立法未將殘障人士的無障礙需求納入規定。同時，高捷黃線施工破壞了無障礙坡道，影響輪椅使用者的通行。伊利諾伊州紀念殘障驕傲月，肯定殘障人士的貢獻並呼籲擴大無障礙設施。",
     "highlights": [
       {
-        "title": "Accesstive 推出端到端無障礙平台，服務現代網頁團隊",
-        "slug": "accesstive-introduces-an-end-to-end-accessibility-platform-for-modern-web-teams-zh-f375fd16"
+        "title": "DC 的機器人計程車法案在無障礙方面保持沉默 - Planetizen",
+        "slug": "dcs-robotaxi-bill-stays-silent-on-accessibility-planetizen-zh-4f19fd36"
       },
       {
-        "title": "耶魯夏季歌劇院改造成無障礙夜店，上演《Hedwig and the Angry Inch》",
-        "slug": "yale-summer-cabaret-transforms-into-an-accessible-nightclub-for-hedwig-and-the-a-zh-0225f132"
+        "title": "高捷黃線工程 毀無障礙坡道",
+        "slug": "mrt-yellow-line-construction-damages-accessible-ramps-zh-4dcf95e6"
       },
       {
-        "title": "26位身障勇士挑戰勇渡基隆嶼！基隆打造無障礙海洋城市展現共融精神 - 報新聞",
-        "slug": "26-disabled-athletes-challenge-canoe-crossing-to-keelung-islet-keelung-builds-ac-zh-e0d427f4"
+        "title": "無障礙社群訊號 2078827398674461162",
+        "slug": "illinois-honors-disability-pride-month-zh-0ca0a275"
       },
       {
-        "title": "無障礙社群訊號 2078648522480697512",
-        "slug": "history-of-genetic-diseases-and-disability-in-japan-zh-83966d14"
+        "title": "無障礙社群訊號 2078827641243574548",
+        "slug": "webperformance-report-week-29-released-zh-87e7eaf0"
+      },
+      {
+        "title": "無障礙獨木舟勇渡基隆嶼活動登場（1） (圖) - Yahoo新聞",
+        "slug": "accessible-canoe-crossing-keelung-islet-event-kicks-off-part-1-photo-yahoo-news-zh-1f308a8a"
       }
     ]
   }
