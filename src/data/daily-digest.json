@@ -1,55 +1,59 @@
 {
   "date": "2026-07-21",
-  "generatedAt": "2026-07-21T01:06:38.993Z",
+  "generatedAt": "2026-07-21T13:05:32.888Z",
   "en": {
-    "title": "Advocacy Group Condemns Metrolinx's Inaccessible Finch West LRT Ramp and Missing Elevator",
-    "summary": "An accessibility advocacy group condemned Metrolinx for a poorly designed ramp and missing elevator at the Finch West LRT station, calling it inadequate for wheelchair users. In other news, a volunteer-led Joomla CMS project secured Sovereign Tech Fund funding to expand its accessibility initiatives, and Washington County donated an accessible school bus with wheelchair lifts to Marietta City Schools. Additionally, the 2026 Boat Show is seeking experiences and solutions for accessibility improvements via a new survey, while a guide outlines best practices for writing meaningful image alt text.",
+    "title": "Eswatini Launches First Funded National Disability Plan, Boosting Global Accessibility Efforts",
+    "summary": "Eswatini, with UNESCO, launched its first Costed National Disability Action Plan (2024-2028), turning disability rights into funded action. Canada also announced increased funding for skills training for youth and persons with disabilities. Meanwhile, Amazon released an adaptive display feature for Fire TV to improve living-room accessibility.",
     "highlights": [
       {
-        "title": "Accessibility group slams Metrolinx for 'stupidest ramp,' lack of elevator at Finch West LRT - CBC",
-        "slug": "accessibility-group-slams-metrolinx-for-stupidest-ramp-lack-of-elevator-at-finch-03c567c6"
+        "title": "Eswatini launches first Costed National Disability Plan",
+        "slug": "eswatini-launches-first-costed-national-disability-plan-0463dd2e"
       },
       {
-        "title": "Volunteer-driven Joomla CMS Secures Sovereign Tech Fund Investment to Boost Accessibility Program - BusinessMole",
-        "slug": "volunteer-driven-joomla-cms-secures-sovereign-tech-fund-investment-to-boost-acce-be388ca1"
+        "title": "Canada boosts skills training for youth and persons with disabilities",
+        "slug": "canada-boosts-skills-training-for-youth-and-persons-with-disabilities-65dfa181"
       },
       {
-        "title": "Washington County Developmental Disabilities board donates accessible bus to Marietta City Schools - WTAP",
-        "slug": "washington-county-developmental-disabilities-board-donates-accessible-bus-to-mar-9936db17"
+        "title": "Amazon Launches Adaptive Display Feature for Fire TV to Create Accessible Living Room Experience",
+        "slug": "amazon-launches-adaptive-display-feature-for-fire-tv-to-create-accessible-living-243d1897"
       },
       {
-        "title": "2026 Boat Show Accessibility Survey Seeks Experiences—and Solutions",
-        "slug": "2026-boat-show-accessibility-survey-seeks-experiencesand-solutions-b2130718"
+        "title": "Accessibility group criticizes Metrolinx for 'stupidest ramp in the world'",
+        "slug": "accessibility-group-criticizes-metrolinx-for-stupidest-ramp-in-the-world-0d78258e"
       },
       {
-        "title": "Expanding Mental Health Care Accessibility",
-        "slug": "expanding-mental-health-care-accessibility-605f09f9"
+        "title": "Avoidable deaths fall but remain double for people with learning disabilities",
+        "slug": "avoidable-deaths-fall-but-remain-double-for-people-with-learning-disabilities-19933105"
       }
     ]
   },
   "zh-TW": {
-    "title": "無障礙團體譴責Metrolinx Finch West LRT斜坡設計缺電梯",
-    "summary": "無障礙倡導團體譴責Metrolinx在Finch West LRT站的斜坡設計不佳且缺少電梯，對輪椅使用者構成障礙。同時，志願者領導的Joomla CMS項目獲得主權科技基金資助以擴展無障礙功能，華盛頓縣發展障礙委員會捐贈無障礙校車給瑪麗埃塔市學校。此外，2026年船展正徵求經驗與解決方案以改善無障礙設施，而一則推文指出Amida Care與NAMI合作提升心理健康服務的可及性。",
+    "title": "埃斯瓦蒂尼推出首個成本計算國家殘障計畫，推動全球無障礙進展",
+    "summary": "埃斯瓦蒂尼在聯合國教科文組織支持下，發布首個2024-2028年成本計算的國家殘首個2024-2028年成本計算的國家殘障行動計畫，將殘障權利轉為有資金支持的具體行動。加拿大同時宣布增加青年和殘障人士的技能培訓經費，亞馬遜則為Fire TV推出適應性顯示功能以改善客廳無障礙。此外，無障礙團體批評Metrolinx的坡道設計缺失電梯，而報告顯示學習障礙者可避免死亡率仍是一般人口的兩倍。",
     "highlights": [
       {
-        "title": "無障礙團體批評Metrolinx在Finch West LRT的『最愚蠢斜坡』及缺乏電梯 - CBC",
-        "slug": "accessibility-group-slams-metrolinx-for-stupidest-ramp-lack-of-elevator-at-finch-zh-03c567c6"
+        "title": "埃斯瓦蒂尼推出首個成本計算的國家殘障計畫",
+        "slug": "eswatini-launches-first-costed-national-disability-plan-zh-0463dd2e"
       },
       {
-        "title": "志願者驅動的Joomla CMS獲得主權科技基金投資以提升無障礙計畫 - BusinessMole",
-        "slug": "volunteer-driven-joomla-cms-secures-sovereign-tech-fund-investment-to-boost-acce-zh-be388ca1"
+        "title": "加拿大提升青年和殘障人士的技能培訓",
+        "slug": "canada-boosts-skills-training-for-youth-and-persons-with-disabilities-zh-65dfa181"
       },
       {
-        "title": "華盛頓縣發展障礙委員會向瑪麗埃塔市學校捐贈無障礙巴士 - WTAP",
-        "slug": "washington-county-developmental-disabilities-board-donates-accessible-bus-to-mar-zh-9936db17"
+        "title": "打造無障礙客廳體驗：亞馬遜正式為Fire TV釋出「適應性顯示」功能",
+        "slug": "amazon-launches-adaptive-display-feature-for-fire-tv-to-create-accessible-living-zh-243d1897"
       },
       {
-        "title": "2026 年船展可及性調查徵求經驗與解決方案",
-        "slug": "2026-boat-show-accessibility-survey-seeks-experiencesand-solutions-zh-b2130718"
+        "title": "無障礙團體批評Metrolinx建造『世界上最愚蠢的坡道』",
+        "slug": "accessibility-group-criticizes-metrolinx-for-stupidest-ramp-in-the-world-zh-0d78258e"
       },
       {
-        "title": "無障礙社群訊號 2079194387435696621",
-        "slug": "expanding-mental-health-care-accessibility-zh-605f09f9"
+        "title": "可避免死亡率下降，但學習障礙者仍為一般人口的兩倍",
+        "slug": "avoidable-deaths-fall-but-remain-double-for-people-with-learning-disabilities-zh-19933105"
+      },
+      {
+        "title": "對長期照護保險成本的擔憂",
+        "slug": "concerns-over-long-term-care-insurance-costs-zh-68fb6925"
       }
     ]
   }
