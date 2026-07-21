@@ -1,55 +1,55 @@
 {
-  "date": "2026-07-20",
-  "generatedAt": "2026-07-20T13:18:23.123Z",
+  "date": "2026-07-21",
+  "generatedAt": "2026-07-21T01:06:38.993Z",
   "en": {
-    "title": "UAE Launches National Disability Policy; Global Accessibility Updates Follow",
-    "summary": "UAE Ministry of Prevention and Community Support introduced a national policy to improve healthcare, mental health, and rehabilitation for people with disabilities, emphasizing participation in policy-making and a national disability data registry. In other news, Washington D.C.'s robotaxi legislation overlooks accessibility requirements, while the Royal Botanical Gardens received a $300k grant to enhance accessibility. Additionally, a volunteer-led Joomla CMS project secured funding to expand accessibility initiatives, and a Wichita camp adapted soccer for children with disabilities.",
+    "title": "Advocacy Group Condemns Metrolinx's Inaccessible Finch West LRT Ramp and Missing Elevator",
+    "summary": "An accessibility advocacy group condemned Metrolinx for a poorly designed ramp and missing elevator at the Finch West LRT station, calling it inadequate for wheelchair users. In other news, a volunteer-led Joomla CMS project secured Sovereign Tech Fund funding to expand its accessibility initiatives, and Washington County donated an accessible school bus with wheelchair lifts to Marietta City Schools. Additionally, the 2026 Boat Show is seeking experiences and solutions for accessibility improvements via a new survey, while a guide outlines best practices for writing meaningful image alt text.",
     "highlights": [
       {
-        "title": "UAE Launches National Policy for People of Determination",
-        "slug": "uae-launches-national-policy-for-people-of-determination-37325e97"
-      },
-      {
-        "title": "DC's robotaxi bill stays silent on accessibility - Planetizen",
-        "slug": "dcs-robotaxi-bill-stays-silent-on-accessibility-planetizen-4f19fd36"
-      },
-      {
-        "title": "MUST READ: Royal Botanical Gardens celebrates grants worth $300,000 to boost accessibility - BurlingtonToday.com",
-        "slug": "must-read-royal-botanical-gardens-celebrates-grants-worth-300000-to-boost-access-cc29b47a"
+        "title": "Accessibility group slams Metrolinx for 'stupidest ramp,' lack of elevator at Finch West LRT - CBC",
+        "slug": "accessibility-group-slams-metrolinx-for-stupidest-ramp-lack-of-elevator-at-finch-03c567c6"
       },
       {
         "title": "Volunteer-driven Joomla CMS Secures Sovereign Tech Fund Investment to Boost Accessibility Program - BusinessMole",
         "slug": "volunteer-driven-joomla-cms-secures-sovereign-tech-fund-investment-to-boost-acce-be388ca1"
       },
       {
-        "title": "Wichita camp works to make soccer accessible for children with disabilities - KWCH",
-        "slug": "wichita-camp-works-to-make-soccer-accessible-for-children-with-disabilities-kwch-94feee13"
+        "title": "Washington County Developmental Disabilities board donates accessible bus to Marietta City Schools - WTAP",
+        "slug": "washington-county-developmental-disabilities-board-donates-accessible-bus-to-mar-9936db17"
+      },
+      {
+        "title": "2026 Boat Show Accessibility Survey Seeks Experiences—and Solutions",
+        "slug": "2026-boat-show-accessibility-survey-seeks-experiencesand-solutions-b2130718"
+      },
+      {
+        "title": "Expanding Mental Health Care Accessibility",
+        "slug": "expanding-mental-health-care-accessibility-605f09f9"
       }
     ]
   },
   "zh-TW": {
-    "title": "阿聯酋 推出 殘障 國家 政策 全球 無障礙 更新",
-    "summary": "阿聯酋預防與社會支援部發布國家殘障政策，旨在改善醫療、心理健康與復健服務，並強調殘障人士參與政策制定及建立國家殘障資料庫。同時，華盛頓特區的機器人計程車法案未提及無障礙需求，皇家植物園則獲得30萬美元補助金提升無障礙設施。此外，志願者領導的Joomla CMS項目獲基金資助擴展無障礙功能，威奇托營隊調整足球讓殘障兒童參與。",
+    "title": "無障礙團體譴責Metrolinx Finch West LRT斜坡設計缺電梯",
+    "summary": "無障礙倡導團體譴責Metrolinx在Finch West LRT站的斜坡設計不佳且缺少電梯，對輪椅使用者構成障礙。同時，志願者領導的Joomla CMS項目獲得主權科技基金資助以擴展無障礙功能，華盛頓縣發展障礙委員會捐贈無障礙校車給瑪麗埃塔市學校。此外，2026年船展正徵求經驗與解決方案以改善無障礙設施，而一則推文指出Amida Care與NAMI合作提升心理健康服務的可及性。",
     "highlights": [
       {
-        "title": "無障礙社群訊號 2079008390840561956",
-        "slug": "uae-launches-national-policy-for-people-of-determination-zh-37325e97"
-      },
-      {
-        "title": "DC 的機器人計程車法案在無障礙方面保持沉默 - Planetizen",
-        "slug": "dcs-robotaxi-bill-stays-silent-on-accessibility-planetizen-zh-4f19fd36"
-      },
-      {
-        "title": "必讀：皇家植物園慶祝獲得 30 萬美元補助金以提升無障礙設施 - BurlingtonToday.com",
-        "slug": "must-read-royal-botanical-gardens-celebrates-grants-worth-300000-to-boost-access-zh-cc29b47a"
+        "title": "無障礙團體批評Metrolinx在Finch West LRT的『最愚蠢斜坡』及缺乏電梯 - CBC",
+        "slug": "accessibility-group-slams-metrolinx-for-stupidest-ramp-lack-of-elevator-at-finch-zh-03c567c6"
       },
       {
         "title": "志願者驅動的Joomla CMS獲得主權科技基金投資以提升無障礙計畫 - BusinessMole",
         "slug": "volunteer-driven-joomla-cms-secures-sovereign-tech-fund-investment-to-boost-acce-zh-be388ca1"
       },
       {
-        "title": "Wichita 營隊致力於讓殘障兒童參與足球 - KWCH",
-        "slug": "wichita-camp-works-to-make-soccer-accessible-for-children-with-disabilities-kwch-zh-94feee13"
+        "title": "華盛頓縣發展障礙委員會向瑪麗埃塔市學校捐贈無障礙巴士 - WTAP",
+        "slug": "washington-county-developmental-disabilities-board-donates-accessible-bus-to-mar-zh-9936db17"
+      },
+      {
+        "title": "2026 年船展可及性調查徵求經驗與解決方案",
+        "slug": "2026-boat-show-accessibility-survey-seeks-experiencesand-solutions-zh-b2130718"
+      },
+      {
+        "title": "無障礙社群訊號 2079194387435696621",
+        "slug": "expanding-mental-health-care-accessibility-zh-605f09f9"
       }
     ]
   }
