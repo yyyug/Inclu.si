@@ -54592,5 +54592,204 @@
     "publishedAt": "2026-07-22T00:59:03.000Z",
     "fetchedAt": "2026-07-22T01:12:01.771Z",
     "body": "此推文的中文摘要尚待翻譯。\n推文來源： [さくら (@grandma45830)](https://x.com/grandma45830/status/2079732925986144438)"
+  },
+  {
+    "title": "利用 AI 提升無障礙 - Cisco 新聞室",
+    "slug": "empowering-accessibility-with-ai-cisco-newsroom-zh-f405c047",
+    "lang": "zh-TW",
+    "summary": "Cisco 說明如何運用 AI 技術改善殘障人士的無障礙環境，包括語音辨識、圖像描述及工作場所便利措施。",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "accessibility",
+      "Cisco"
+    ],
+    "sourceName": "Cisco Newsroom",
+    "sourceUrl": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m07/empowering-accessibility-with-ai.html",
+    "relatedSources": [
+      {
+        "name": "Cisco Newsroom",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m07/empowering-accessibility-with-ai.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f405c047",
+    "status": "published",
+    "translationOf": "empowering-accessibility-with-ai-cisco-newsroom-f405c047",
+    "publishedAt": "2026-07-21T18:44:35.000Z",
+    "fetchedAt": "2026-07-22T05:59:41.560Z",
+    "body": "Cisco 說明如何運用 AI 技術改善殘障人士的無障礙環境，包括語音辨識、圖像描述及工作場所便利措施。\n\n原文來源： [Cisco Newsroom](https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m07/empowering-accessibility-with-ai.html)"
+  },
+  {
+    "title": "Netflix 讓兒童節目更無障礙 - Disability Scoop",
+    "slug": "netflix-making-kids-shows-more-accessible-disability-scoop-zh-1aafcd80",
+    "lang": "zh-TW",
+    "summary": "Netflix 正在為其兒童節目增加閉合字幕、音頻描述及手語選項，以支援有殘障的觀眾。",
+    "category": "digital-a11y",
+    "tags": [
+      "Netflix",
+      "kids shows",
+      "accessibility",
+      "captions",
+      "audio description"
+    ],
+    "sourceName": "Disability Scoop",
+    "sourceUrl": "https://www.disabilityscoop.com/2026/07/22/netflix-making-kids-shows-more-accessible/32098",
+    "relatedSources": [
+      {
+        "name": "Disability Scoop",
+        "url": "https://www.disabilityscoop.com/2026/07/22/netflix-making-kids-shows-more-accessible/32098"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-1aafcd80",
+    "status": "published",
+    "translationOf": "netflix-making-kids-shows-more-accessible-disability-scoop-1aafcd80",
+    "publishedAt": "2026-07-22T02:55:59.000Z",
+    "fetchedAt": "2026-07-22T05:59:41.643Z",
+    "body": "Netflix 正在為其兒童節目增加閉合字幕、音頻描述及手語選項，以支援有殘障的觀眾。\n\n原文來源： [Disability Scoop](https://www.disabilityscoop.com/2026/07/22/netflix-making-kids-shows-more-accessible/32098)"
+  },
+  {
+    "title": "鐵路無障礙工具包 - ITF Global",
+    "slug": "toolkit-for-rail-accessibility-itf-global-zh-4cc0929b",
+    "lang": "zh-TW",
+    "summary": "提供指引與資源的工具包，旨在改善鐵路系統對殘障人士的無障礙程度。",
+    "category": "physical-design",
+    "tags": [
+      "rail",
+      "accessibility",
+      "toolkit",
+      "disability"
+    ],
+    "sourceName": "ITF Global",
+    "sourceUrl": "https://www.itfglobal.org/en/resources/toolkit-rail-accessibility",
+    "relatedSources": [
+      {
+        "name": "ITF Global",
+        "url": "https://www.itfglobal.org/en/resources/toolkit-rail-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-4cc0929b",
+    "status": "published",
+    "translationOf": "toolkit-for-rail-accessibility-itf-global-4cc0929b",
+    "publishedAt": "2026-07-21T16:37:05.000Z",
+    "fetchedAt": "2026-07-22T05:59:56.210Z",
+    "body": "提供指引與資源的工具包，旨在改善鐵路系統對殘障人士的無障礙程度。\n\n原文來源： [ITF Global](https://www.itfglobal.org/en/resources/toolkit-rail-accessibility)"
+  },
+  {
+    "title": "與 Excellus BlueCross BlueShield 的醫療無障礙 - WSYR",
+    "slug": "healthcare-accessibility-with-excellus-bluecross-blueshield-wsyr-zh-781c0d70",
+    "lang": "zh-TW",
+    "summary": "討論 Excellus BlueCross BlueShield 如何提升殘障人士的醫療無障礙服務。",
+    "category": "laws-rights",
+    "tags": [
+      "healthcare",
+      "accessibility",
+      "disability",
+      "insurance"
+    ],
+    "sourceName": "WSYR",
+    "sourceUrl": "https://www.localsyr.com/bridge-street/healthcare-accessibility-with-excellus-bluecross-blueshield",
+    "relatedSources": [
+      {
+        "name": "WSYR",
+        "url": "https://www.localsyr.com/bridge-street/healthcare-accessibility-with-excellus-bluecross-blueshield"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-781c0d70",
+    "status": "published",
+    "translationOf": "healthcare-accessibility-with-excellus-bluecross-blueshield-wsyr-781c0d70",
+    "publishedAt": "2026-07-21T15:27:02.000Z",
+    "fetchedAt": "2026-07-22T05:59:56.292Z",
+    "body": "討論 Excellus BlueCross BlueShield 如何提升殘障人士的醫療無障礙服務。\n\n原文來源： [WSYR](https://www.localsyr.com/bridge-street/healthcare-accessibility-with-excellus-bluecross-blueshield)"
+  },
+  {
+    "title": "無障礙團隊會議紀要：2026年7月16日",
+    "slug": "accessibility-team-meeting-notes-july-16-2026-zh-577df924",
+    "lang": "zh-TW",
+    "summary": "2026年7月16日 WordPress 無障礙團隊雙週會議紀要，內容包括公告、團隊重組討論及無障礙相關計畫。",
+    "category": "digital-a11y",
+    "tags": [
+      "WordPress",
+      "accessibility",
+      "team-meeting",
+      "digital-a11y"
+    ],
+    "sourceName": "Wordpress.org",
+    "sourceUrl": "https://make.wordpress.org/accessibility/2026/07/21/accessibility-team-meeting-notes-july-16-2026",
+    "relatedSources": [
+      {
+        "name": "Wordpress.org",
+        "url": "https://make.wordpress.org/accessibility/2026/07/21/accessibility-team-meeting-notes-july-16-2026"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-577df924",
+    "status": "published",
+    "translationOf": "accessibility-team-meeting-notes-july-16-2026-577df924",
+    "publishedAt": "2026-07-21T05:57:11.000Z",
+    "fetchedAt": "2026-07-22T05:59:56.366Z",
+    "body": "2026年7月16日 WordPress 無障礙團隊雙週會議紀要，內容包括公告、團隊重組討論及無障礙相關計畫。\n\n原文來源： [Wordpress.org](https://make.wordpress.org/accessibility/2026/07/21/accessibility-team-meeting-notes-july-16-2026)"
+  },
+  {
+    "title": "做工行善團 完成第331戶修繕",
+    "slug": "volunteer-repair-team-completes-331st-house-repair-zh-9cb05832",
+    "lang": "zh-TW",
+    "summary": "台南市勞工局「做工行善團」志工於七月十九日分赴柳營、鹽水、安南區，幫助弱勢戶修繕房屋，其中柳營區呂姓案主是第三百三十一戶完成的「希望家園」。呂小姐雖身患疾病，仍努力工作並照顧家中身心障礙家屬，長期承受經濟與照顧壓力，無力負擔房屋修繕費用。經柳營奇美醫院居家照顧服務員通報後，勞工局安排會勘並啟動修繕作業。志工結合電氣、泥水、電子機械加工、鋁製品、木工及油漆等工種，完成屋內外拆除、屋頂修繕、鋁門窗安裝、室內裝潢等工作。",
+    "category": "physical-design",
+    "tags": [
+      "home-repair",
+      "disability-support",
+      "volunteer",
+      "physical-accessibility",
+      "volunteer"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%81%9A%E5%B7%A5%E8%A1%8C%E5%96%84%E5%9C%98-%E5%AE%8C%E6%88%90%E7%AC%AC331%E6%88%B6%E4%BF%AE%E7%B9%95-112619626.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E5%81%9A%E5%B7%A5%E8%A1%8C%E5%96%84%E5%9C%98-%E5%AE%8C%E6%88%90%E7%AC%AC331%E6%88%B6%E4%BF%AE%E7%B9%95-112619626.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-9cb05832",
+    "status": "published",
+    "translationOf": "volunteer-repair-team-completes-331st-house-repair-9cb05832",
+    "publishedAt": "2026-07-19T11:26:19.000Z",
+    "fetchedAt": "2026-07-22T06:00:28.977Z",
+    "body": "台南市勞工局「做工行善團」志工於七月十九日分赴柳營、鹽水、安南區，幫助弱勢戶修繕房屋，其中柳營區呂姓案主是第三百三十一戶完成的「希望家園」。呂小姐雖身患疾病，仍努力工作並照顧家中身心障礙家屬，長期承受經濟與照顧壓力，無力負擔房屋修繕費用。經柳營奇美醫院居家照顧服務員通報後，勞工局安排會勘並啟動修繕作業。志工結合電氣、泥水、電子機械加工、鋁製品、木工及油漆等工種，完成屋內外拆除、屋頂修繕、鋁門窗安裝、室內裝潢等工作。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%81%9A%E5%B7%A5%E8%A1%8C%E5%96%84%E5%9C%98-%E5%AE%8C%E6%88%90%E7%AC%AC331%E6%88%B6%E4%BF%AE%E7%B9%95-112619626.html)"
   }
 ]
