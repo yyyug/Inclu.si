@@ -1,0 +1,57 @@
+name: Fix zh-TW Tweet Titles
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Retranslate fallback tweet titles
+        env:
+          OLLAMA_API_KEY: ${{ secrets.OLLAMA_API_KEY }}
+          OLLAMA_BASE_URL: ${{ secrets.OLLAMA_BASE_URL }}
+          OLLAMA_MODEL: gemma4:31b-cloud
+          OLLAMA_TIMEOUT_MS: 120000
+        run: node scripts/fix-zh-tweets.mjs
+
+      - name: Commit and push
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/news
+          if git diff --cached --quiet; then echo "No changes"
+          else
+            git commit -m "fix: retranslate fallback zh-TW tweet titles"
+            for a in 1 2 3; do
+              if git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then exit 0; fi
+              echo "Push attempt $a failed; retrying..."
+            done
+            echo "Failed to push"; exit 1
+          fi
+
+      - name: Deploy
+        if: always()
+        continue-on-error: true
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: f12f219ab9cf823c47c1e01a463d67a6
+        run: |
+          node scripts/gen-homepages.mjs
+          npx wrangler pages deploy dist --project-name inclu-si --branch main
