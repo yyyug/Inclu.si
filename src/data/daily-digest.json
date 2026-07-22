@@ -1,21 +1,21 @@
 {
-  "date": "2026-07-21",
-  "generatedAt": "2026-07-21T13:05:32.888Z",
+  "date": "2026-07-22",
+  "generatedAt": "2026-07-22T01:05:44.027Z",
   "en": {
-    "title": "Eswatini Launches First Funded National Disability Plan, Boosting Global Accessibility Efforts",
-    "summary": "Eswatini, with UNESCO, launched its first Costed National Disability Action Plan (2024-2028), turning disability rights into funded action. Canada also announced increased funding for skills training for youth and persons with disabilities. Meanwhile, Amazon released an adaptive display feature for Fire TV to improve living-room accessibility.",
+    "title": "Eswatini Launches First Costed National Disability Plan; Global Accessibility Updates Follow",
+    "summary": "Eswatini, with UNESCO, unveiled its first costed national disability plan for 2024‑2028, turning rights into funded action. Amazon released an adaptive display feature for Fire TV to improve living‑room accessibility, while the Organization of Asian Journalists introduced measures to make newsrooms more accessible. Meanwhile, an accessibility group criticized Metrolinx for what it calls the ‘world’s stupidest ramp,’ and a report shows avoidable deaths among people with learning disabilities remain double the general population.",
     "highlights": [
       {
         "title": "Eswatini launches first Costed National Disability Plan",
         "slug": "eswatini-launches-first-costed-national-disability-plan-0463dd2e"
       },
       {
-        "title": "Canada boosts skills training for youth and persons with disabilities",
-        "slug": "canada-boosts-skills-training-for-youth-and-persons-with-disabilities-65dfa181"
-      },
-      {
         "title": "Amazon Launches Adaptive Display Feature for Fire TV to Create Accessible Living Room Experience",
         "slug": "amazon-launches-adaptive-display-feature-for-fire-tv-to-create-accessible-living-243d1897"
+      },
+      {
+        "title": "OAJ is making news and newsrooms more accessible",
+        "slug": "oaj-is-making-news-and-newsrooms-more-accessible-3ba98831"
       },
       {
         "title": "Accessibility group criticizes Metrolinx for 'stupidest ramp in the world'",
@@ -28,32 +28,28 @@
     ]
   },
   "zh-TW": {
-    "title": "埃斯瓦蒂尼推出首個成本計算國家殘障計畫，推動全球無障礙進展",
-    "summary": "埃斯瓦蒂尼在聯合國教科文組織支持下，發布首個2024-2028年成本計算的國家殘首個2024-2028年成本計算的國家殘障行動計畫，將殘障權利轉為有資金支持的具體行動。加拿大同時宣布增加青年和殘障人士的技能培訓經費，亞馬遜則為Fire TV推出適應性顯示功能以改善客廳無障礙。此外，無障礙團體批評Metrolinx的坡道設計缺失電梯，而報告顯示學習障礙者可避免死亡率仍是一般人口的兩倍。",
+    "title": "埃斯瓦蒂尼發布首個成本計算國家殘障計畫；多國無障礙動向更新",
+    "summary": "埃斯瓦蒂尼在聯合國教科文組織支持下，推出首個2024－2028年成本計算的國家殘障行動計畫，將殘障權利轉為有資金支持的具體行動。亞馬遜為Fire TV釋出適應性顯示功能，以提升客廳無障礙體驗；亞洲記者協會則推動新聞與新聞室更無障礙。此外，無障礙團體批評Metrolinx坡道設計不合理，而一篇討論ADHD與身心障礙意識的社群貼文引發關注。",
     "highlights": [
       {
         "title": "埃斯瓦蒂尼推出首個成本計算的國家殘障計畫",
         "slug": "eswatini-launches-first-costed-national-disability-plan-zh-0463dd2e"
       },
       {
-        "title": "加拿大提升青年和殘障人士的技能培訓",
-        "slug": "canada-boosts-skills-training-for-youth-and-persons-with-disabilities-zh-65dfa181"
-      },
-      {
         "title": "打造無障礙客廳體驗：亞馬遜正式為Fire TV釋出「適應性顯示」功能",
         "slug": "amazon-launches-adaptive-display-feature-for-fire-tv-to-create-accessible-living-zh-243d1897"
+      },
+      {
+        "title": "亞洲記者協會讓新聞與新聞室更無障礙",
+        "slug": "oaj-is-making-news-and-newsrooms-more-accessible-zh-3ba98831"
       },
       {
         "title": "無障礙團體批評Metrolinx建造『世界上最愚蠢的坡道』",
         "slug": "accessibility-group-criticizes-metrolinx-for-stupidest-ramp-in-the-world-zh-0d78258e"
       },
       {
-        "title": "可避免死亡率下降，但學習障礙者仍為一般人口的兩倍",
-        "slug": "avoidable-deaths-fall-but-remain-double-for-people-with-learning-disabilities-zh-19933105"
-      },
-      {
-        "title": "對長期照護保險成本的擔憂",
-        "slug": "concerns-over-long-term-care-insurance-costs-zh-68fb6925"
+        "title": "關於 ADHD 與身心障礙意識的討論",
+        "slug": "discussion-on-adhd-and-disability-awareness-zh-0359351d"
       }
     ]
   }
