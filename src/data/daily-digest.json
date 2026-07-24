@@ -1,55 +1,59 @@
 {
-  "date": "2026-07-23",
-  "generatedAt": "2026-07-23T01:07:47.847Z",
+  "date": "2026-07-24",
+  "generatedAt": "2026-07-24T01:06:02.595Z",
   "en": {
-    "title": "Xbox Accessibility Team Faces Uncertainty After Major Layoffs Raise Concerns",
-    "summary": "Recent layoffs at Xbox have jeopardized its award‑winning accessibility initiatives, sparking concern among disability advocates. In parallel, New Mexico officials are urged to adopt universal design and staff training to improve government accessibility, while the Library of Congress recognized accessible libraries in Georgia and Massachusetts. Additionally, ITRI’s inclusive cycling event and a report linking accessibility bugs to architectural flaws highlight ongoing progress and challenges.",
+    "title": "Canada Premiers Sign Accessibility MOU as Subway Upgrades and Grants Boost Disability Access",
+    "summary": "Canada's premiers signed an MOU with Rick Hansen's Wheels in Motion to improve nationwide accessibility. Meanwhile, a historic Brooklyn subway station completed its accessibility upgrade with three new elevators, and ArtsWestchester received a $5M state grant for expansion and accessibility improvements. Also, Zoom announced AI enhancements to boost accessibility, while an interview highlighted digital advocacy and a report warned of growing AI-related accessibility debt.",
     "highlights": [
       {
-        "title": "Layoffs Leave Future of Xbox’s Award-Winning Accessibility Efforts in Doubt",
-        "slug": "layoffs-leave-future-of-xboxs-award-winning-accessibility-efforts-in-doubt-c908dcfc"
+        "title": "Canada's Premiers Sign Accessibility MOU",
+        "slug": "canadas-premiers-sign-accessibility-mou-8a3fba16"
       },
       {
-        "title": "Op-Ed: Making New Mexico Government More Accessible for Persons with Disabilities",
-        "slug": "op-ed-making-new-mexico-government-more-accessible-for-persons-with-disabilities-ae6b287f"
+        "title": "Century-Old Brooklyn Subway Station Completes Full Accessibility Upgrade with Three New Elevators",
+        "slug": "century-old-brooklyn-subway-station-completes-full-accessibility-upgrade-with-th-9192d3dd"
       },
       {
-        "title": "Library of Congress Program Honors Accessible Libraries in Georgia and Massachusetts",
-        "slug": "library-of-congress-program-honors-accessible-libraries-in-georgia-and-massachus-6a2b7fc1"
+        "title": "ArtsWestchester receives $5M state investment for expansion and accessibility improvements",
+        "slug": "artswestchester-receives-5m-state-investment-for-expansion-and-accessibility-imp-59a5c6a4"
       },
       {
-        "title": "ITRI's public welfare initiative brings together 115 participants with disabilities for a group cycling event, promoting inclusion and showcasing adaptive cycling as a dream-fulfilling activity",
-        "slug": "itris-public-welfare-initiative-brings-together-115-participants-with-disabiliti-87d64d06"
+        "title": "Zoom Prioritizes AI Quality to Enhance Accessibility and Collaboration",
+        "slug": "zoom-prioritizes-ai-quality-to-enhance-accessibility-and-collaboration-fdc4d5da"
       },
       {
-        "title": "Accessibility Bugs Are Often Architecture Bugs",
-        "slug": "accessibility-bugs-are-often-architecture-bugs-d86dc8cd"
+        "title": "Advocating for Digital Accessibility: An Interview with Junior Fellow Mia Giancola",
+        "slug": "advocating-for-digital-accessibility-an-interview-with-junior-fellow-mia-giancol-5d74ceb6"
+      },
+      {
+        "title": "Deque Report on AI and Accessibility Debt",
+        "slug": "deque-report-on-ai-and-accessibility-debt-93fde749"
       }
     ]
   },
   "zh-TW": {
-    "title": "Xbox 無障礙團隊面臨裁員衝擊，未來存疑引發關注",
-    "summary": "Xbox 近期裁員影響其獲獎無障礙計畫，引發外界對其未來發展的擔憂。同時，新墨西哥政府被呼籲採用普遍設計與員工培訓提升無障礙服務，而國會圖書館表彰喬治亞州與麻薩諸塞州的無障礙圖書館。此外，工研院的共融騎乘活動以及社群討論創傷知識照護的缺失，共同凸顯無障礙領域的進步與挑戰。",
+    "title": "加拿大省長簽署無障礙備忘錄 市鐵站升級 藝術中心獲資助",
+    "summary": "加拿大省長與Rick Hansen的Wheels in Motion簽署無障礙備忘錄，旨在提升全國無障礙環境。布碌崙百年地鐵站完成無障礙升級，新增三部電梯；ArtsWestchester獲得500萬美元州補助用於擴建與無障礙改善。Zoom宣布將提升AI品質以強化無障礙功能，同時一篇訪談探討數位無障礙倡導，報告警示AI將增加無障礙債務。",
     "highlights": [
       {
-        "title": "Xbox 得獎無障礙工作面臨裁員影響，未來存疑",
-        "slug": "layoffs-leave-future-of-xboxs-award-winning-accessibility-efforts-in-doubt-zh-c908dcfc"
+        "title": "無障礙社群訊號 2080098062278762535",
+        "slug": "canadas-premiers-sign-accessibility-mou-zh-8a3fba16"
       },
       {
-        "title": "社論：讓新墨西哥政府對殘障人士更具無障礙性",
-        "slug": "op-ed-making-new-mexico-government-more-accessible-for-persons-with-disabilities-zh-ae6b287f"
+        "title": "布碌崙百年地鐵站無障礙全面完工 耗資逾億、增3部電梯 - 世界新聞網",
+        "slug": "century-old-brooklyn-subway-station-completes-full-accessibility-upgrade-with-th-zh-9192d3dd"
       },
       {
-        "title": "國會圖書館表彰喬治亞州和麻薩諸塞州的無障礙圖書館",
-        "slug": "library-of-congress-program-honors-accessible-libraries-in-georgia-and-massachus-zh-6a2b7fc1"
+        "title": "將 AI 品質放在第一位，以增強無障礙存取和協作能力 - Zoom",
+        "slug": "zoom-prioritizes-ai-quality-to-enhance-accessibility-and-collaboration-zh-fdc4d5da"
       },
       {
-        "title": "輪動未來、共融前行 工研院公益攜手115位身心障礙夥伴共同騎乘圓夢",
-        "slug": "itris-public-welfare-initiative-brings-together-115-participants-with-disabiliti-zh-87d64d06"
+        "title": "倡導數位無障礙：與初級研究員米亞·詹科拉的訪談",
+        "slug": "advocating-for-digital-accessibility-an-interview-with-junior-fellow-mia-giancol-zh-5d74ceb6"
       },
       {
-        "title": "質疑身心障礙福利中缺乏創傷知情照護",
-        "slug": "questioning-lack-of-trauma-informed-care-in-disability-welfare-zh-cb8302ff"
+        "title": "無障礙社群訊號 2080279689705497023",
+        "slug": "reflections-on-inclusive-education-and-human-rights-zh-c1ba4f2c"
       }
     ]
   }
