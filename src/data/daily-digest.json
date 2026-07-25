@@ -1,59 +1,63 @@
 {
-  "date": "2026-07-24",
-  "generatedAt": "2026-07-24T01:06:02.595Z",
+  "date": "2026-07-25",
+  "generatedAt": "2026-07-25T12:57:49.739Z",
   "en": {
-    "title": "Canada Premiers Sign Accessibility MOU as Subway Upgrades and Grants Boost Disability Access",
-    "summary": "Canada's premiers signed an MOU with Rick Hansen's Wheels in Motion to improve nationwide accessibility. Meanwhile, a historic Brooklyn subway station completed its accessibility upgrade with three new elevators, and ArtsWestchester received a $5M state grant for expansion and accessibility improvements. Also, Zoom announced AI enhancements to boost accessibility, while an interview highlighted digital advocacy and a report warned of growing AI-related accessibility debt.",
+    "title": "US Lawmakers Introduce Bill to Expand Accessible Housing for Veterans and Disabled",
+    "summary": "US Representatives Schakowsky and Duckworth have introduced legislation to increase accessible housing options for veterans, people with disabilities, and older adults. The bill proposes funding for retrofits and new construction meeting universal design standards. Other highlights include Amtrak accessibility upgrades, RAMPD's music inclusion efforts, and a University of Phoenix survey on AI's accessibility potential.",
     "highlights": [
       {
-        "title": "Canada's Premiers Sign Accessibility MOU",
-        "slug": "canadas-premiers-sign-accessibility-mou-8a3fba16"
+        "title": "Schakowsky, Duckworth Lead Bill to Provide Accessible Housing for Veterans, Individuals with Disabilities and Aging Americans",
+        "slug": "schakowsky-duckworth-lead-bill-to-provide-accessible-housing-for-veterans-indivi-226915d7"
       },
       {
-        "title": "Century-Old Brooklyn Subway Station Completes Full Accessibility Upgrade with Three New Elevators",
-        "slug": "century-old-brooklyn-subway-station-completes-full-accessibility-upgrade-with-th-9192d3dd"
+        "title": "Amtrak Advances Accessibility Across Its National Network",
+        "slug": "amtrak-advances-accessibility-across-its-national-network-afe27fa4"
       },
       {
-        "title": "ArtsWestchester receives $5M state investment for expansion and accessibility improvements",
-        "slug": "artswestchester-receives-5m-state-investment-for-expansion-and-accessibility-imp-59a5c6a4"
+        "title": "RAMPD Advancing Disability Representation in Music",
+        "slug": "rampd-advancing-disability-representation-in-music-f3644a05"
       },
       {
-        "title": "Zoom Prioritizes AI Quality to Enhance Accessibility and Collaboration",
-        "slug": "zoom-prioritizes-ai-quality-to-enhance-accessibility-and-collaboration-fdc4d5da"
+        "title": "As ADA Anniversary Approaches, University of Phoenix Survey Highlights AI's Potential to Advance Accessibility in Work and Learning",
+        "slug": "as-ada-anniversary-approaches-university-of-phoenix-survey-highlights-ais-potent-dcbe0e2e"
       },
       {
-        "title": "Advocating for Digital Accessibility: An Interview with Junior Fellow Mia Giancola",
-        "slug": "advocating-for-digital-accessibility-an-interview-with-junior-fellow-mia-giancol-5d74ceb6"
+        "title": "Kolb Park announces project to improve playground accessibility, safety, and experience",
+        "slug": "kolb-park-announces-project-to-improve-playground-accessibility-safety-and-exper-3150ac90"
       },
       {
-        "title": "Deque Report on AI and Accessibility Debt",
-        "slug": "deque-report-on-ai-and-accessibility-debt-93fde749"
+        "title": "A11yTYO Event Recap",
+        "slug": "a11ytyo-event-recap-2b6d2ee1"
       }
     ]
   },
   "zh-TW": {
-    "title": "加拿大省長簽署無障礙備忘錄 市鐵站升級 藝術中心獲資助",
-    "summary": "加拿大省長與Rick Hansen的Wheels in Motion簽署無障礙備忘錄，旨在提升全國無障礙環境。布碌崙百年地鐵站完成無障礙升級，新增三部電梯；ArtsWestchester獲得500萬美元州補助用於擴建與無障礙改善。Zoom宣布將提升AI品質以強化無障礙功能，同時一篇訪談探討數位無障礙倡導，報告警示AI將增加無障礙債務。",
+    "title": "美國國會議員提出法案 擴大退伍軍人及殘障者無障礙住房",
+    "summary": "美國眾議員舒克奧斯基與達克沃斯提出法案，旨在增加為退伍軍人、殘障人士與老年美國人提供的無障礙住房選項。法案將提供資金用於改建及新建符合普遍設計標準的住房。其他重點包括Amtrak無障礙升級、RAMPD推進音樂界代表性以及鳳凰城大學調查顯示AI提升工作與學習無障礙的潛力。",
     "highlights": [
       {
-        "title": "無障礙社群訊號 2080098062278762535",
-        "slug": "canadas-premiers-sign-accessibility-mou-zh-8a3fba16"
+        "title": "舒克奧斯基、達克沃斯領導法案 提供給退伍軍人、殘障人士與老年美國人的無障礙住房",
+        "slug": "schakowsky-duckworth-lead-bill-to-provide-accessible-housing-for-veterans-indivi-zh-226915d7"
       },
       {
-        "title": "布碌崙百年地鐵站無障礙全面完工 耗資逾億、增3部電梯 - 世界新聞網",
-        "slug": "century-old-brooklyn-subway-station-completes-full-accessibility-upgrade-with-th-zh-9192d3dd"
+        "title": "Amtrak 全國網絡推進無障礙設施",
+        "slug": "amtrak-advances-accessibility-across-its-national-network-zh-afe27fa4"
       },
       {
-        "title": "將 AI 品質放在第一位，以增強無障礙存取和協作能力 - Zoom",
-        "slug": "zoom-prioritizes-ai-quality-to-enhance-accessibility-and-collaboration-zh-fdc4d5da"
+        "title": "RAMPD 推進音樂界身心障礙者的代表性",
+        "slug": "rampd-advancing-disability-representation-in-music-zh-f3644a05"
       },
       {
-        "title": "倡導數位無障礙：與初級研究員米亞·詹科拉的訪談",
-        "slug": "advocating-for-digital-accessibility-an-interview-with-junior-fellow-mia-giancol-zh-5d74ceb6"
+        "title": "ADA週年將至，鳳凰城大學調查顯示AI有潜力提升工作與學習的無障礙",
+        "slug": "as-ada-anniversary-approaches-university-of-phoenix-survey-highlights-ais-potent-zh-dcbe0e2e"
       },
       {
-        "title": "無障礙社群訊號 2080279689705497023",
-        "slug": "reflections-on-inclusive-education-and-human-rights-zh-c1ba4f2c"
+        "title": "Kolb 公園宣布改善遊樂場無障礙、安全及體驗的計畫",
+        "slug": "kolb-park-announces-project-to-improve-playground-accessibility-safety-and-exper-zh-3150ac90"
+      },
+      {
+        "title": "無障礙社群訊號 2080822694409609478",
+        "slug": "promoting-barrier-free-cities-and-inclusive-communication-zh-58e80f73"
       }
     ]
   }
