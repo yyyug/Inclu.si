@@ -1,63 +1,63 @@
 {
-  "date": "2026-07-25",
-  "generatedAt": "2026-07-25T12:57:49.739Z",
+  "date": "2026-07-26",
+  "generatedAt": "2026-07-26T01:09:31.974Z",
   "en": {
-    "title": "US Lawmakers Introduce Bill to Expand Accessible Housing for Veterans and Disabled",
-    "summary": "US Representatives Schakowsky and Duckworth have introduced legislation to increase accessible housing options for veterans, people with disabilities, and older adults. The bill proposes funding for retrofits and new construction meeting universal design standards. Other highlights include Amtrak accessibility upgrades, RAMPD's music inclusion efforts, and a University of Phoenix survey on AI's accessibility potential.",
+    "title": "European Accessibility Act Enforced; US Firms Gain Compliance Framework",
+    "summary": "The European Accessibility Act has begun enforcement, prompting accessiBe to offer a compliance framework for US businesses. Meanwhile, New Mexico advocates call for an Office of Accessibility, and Kingston residents raise concerns about sidewalk accessibility improvements. Additional updates include a new accessibility report for the game Teardown and a guide on using Lighthouse to enhance web performance and accessibility.",
     "highlights": [
       {
-        "title": "Schakowsky, Duckworth Lead Bill to Provide Accessible Housing for Veterans, Individuals with Disabilities and Aging Americans",
-        "slug": "schakowsky-duckworth-lead-bill-to-provide-accessible-housing-for-veterans-indivi-226915d7"
+        "title": "The European Accessibility Act Is Now Being Enforced and accessiBe Has a Framework for US Businesses",
+        "slug": "the-european-accessibility-act-is-now-being-enforced-and-accessibe-has-a-framewo-d168917a"
       },
       {
-        "title": "Amtrak Advances Accessibility Across Its National Network",
-        "slug": "amtrak-advances-accessibility-across-its-national-network-afe27fa4"
+        "title": "Why New Mexico needs an Office of Accessibility now",
+        "slug": "why-new-mexico-needs-an-office-of-accessibility-now-0c0061e4"
       },
       {
-        "title": "RAMPD Advancing Disability Representation in Music",
-        "slug": "rampd-advancing-disability-representation-in-music-f3644a05"
+        "title": "Kingston sidewalk improvement meeting draws concerns about accessibility - Daily Freeman",
+        "slug": "kingston-sidewalk-improvement-meeting-draws-concerns-about-accessibility-daily-f-6c80b3ae"
       },
       {
-        "title": "As ADA Anniversary Approaches, University of Phoenix Survey Highlights AI's Potential to Advance Accessibility in Work and Learning",
-        "slug": "as-ada-anniversary-approaches-university-of-phoenix-survey-highlights-ais-potent-dcbe0e2e"
+        "title": "Yangmei Accessible Baseball/Softball Field Set to Break Ground in October",
+        "slug": "yangmei-accessible-baseballsoftball-field-set-to-break-ground-in-october-17dfe8a5"
       },
       {
-        "title": "Kolb Park announces project to improve playground accessibility, safety, and experience",
-        "slug": "kolb-park-announces-project-to-improve-playground-accessibility-safety-and-exper-3150ac90"
+        "title": "Promoting Inclusive Aquatic Recreation",
+        "slug": "promoting-inclusive-aquatic-recreation-d708936e"
       },
       {
-        "title": "A11yTYO Event Recap",
-        "slug": "a11ytyo-event-recap-2b6d2ee1"
+        "title": "Accessibility Report for Teardown",
+        "slug": "accessibility-report-for-teardown-dbff6c5d"
       }
     ]
   },
   "zh-TW": {
-    "title": "美國國會議員提出法案 擴大退伍軍人及殘障者無障礙住房",
-    "summary": "美國眾議員舒克奧斯基與達克沃斯提出法案，旨在增加為退伍軍人、殘障人士與老年美國人提供的無障礙住房選項。法案將提供資金用於改建及新建符合普遍設計標準的住房。其他重點包括Amtrak無障礙升級、RAMPD推進音樂界代表性以及鳳凰城大學調查顯示AI提升工作與學習無障礙的潛力。",
+    "title": "歐洲無障礙法案開始執行，accessiBe 提供美國企業合規框架",
+    "summary": "歐洲無障礙法案已開始實施，accessiBe 提供一個框架幫助美國企業符合數位無障礙需求。同時，新墨西哥州倡議成立無障礙辦公室，金斯頓居民在人行道改善會議上表達無障礙關注。其他更新包括促進包容性水上活動的社群訊號，以及《Teardown》遊戲的無障礙報告。",
     "highlights": [
       {
-        "title": "舒克奧斯基、達克沃斯領導法案 提供給退伍軍人、殘障人士與老年美國人的無障礙住房",
-        "slug": "schakowsky-duckworth-lead-bill-to-provide-accessible-housing-for-veterans-indivi-zh-226915d7"
+        "title": "歐洲無障礙法案現在開始執行，且 accessiBe 為美國企業提供合規框架",
+        "slug": "the-european-accessibility-act-is-now-being-enforced-and-accessibe-has-a-framewo-zh-d168917a"
       },
       {
-        "title": "Amtrak 全國網絡推進無障礙設施",
-        "slug": "amtrak-advances-accessibility-across-its-national-network-zh-afe27fa4"
+        "title": "新墨西哥州為何現在需要成立無障礙辦公室",
+        "slug": "why-new-mexico-needs-an-office-of-accessibility-now-zh-0c0061e4"
       },
       {
-        "title": "RAMPD 推進音樂界身心障礙者的代表性",
-        "slug": "rampd-advancing-disability-representation-in-music-zh-f3644a05"
+        "title": "金斯頓人行道改善會議引發無障礙關注 - Daily Freeman",
+        "slug": "kingston-sidewalk-improvement-meeting-draws-concerns-about-accessibility-daily-f-zh-6c80b3ae"
       },
       {
-        "title": "ADA週年將至，鳳凰城大學調查顯示AI有潜力提升工作與學習的無障礙",
-        "slug": "as-ada-anniversary-approaches-university-of-phoenix-survey-highlights-ais-potent-zh-dcbe0e2e"
+        "title": "楊梅無障礙棒壘場 拚10月開工",
+        "slug": "yangmei-accessible-baseballsoftball-field-set-to-break-ground-in-october-zh-17dfe8a5"
       },
       {
-        "title": "Kolb 公園宣布改善遊樂場無障礙、安全及體驗的計畫",
-        "slug": "kolb-park-announces-project-to-improve-playground-accessibility-safety-and-exper-zh-3150ac90"
+        "title": "無障礙社群訊號 2081001968194015676",
+        "slug": "promoting-inclusive-aquatic-recreation-zh-d708936e"
       },
       {
-        "title": "無障礙社群訊號 2080822694409609478",
-        "slug": "promoting-barrier-free-cities-and-inclusive-communication-zh-58e80f73"
+        "title": "無障礙社群訊號 2081001871892762869",
+        "slug": "accessibility-report-for-teardown-zh-dbff6c5d"
       }
     ]
   }
