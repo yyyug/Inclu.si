@@ -63658,5 +63658,1393 @@
     "publishedAt": "2026-07-24T20:11:05.000Z",
     "fetchedAt": "2026-07-26T00:59:10.658Z",
     "body": "使用 axe-core 引擎和 Playwright 進行自動化網頁無障礙測試。\n\n原文來源： [Pypi.org](https://pypi.org/project/axe-playwright-python/0.1.8)"
+  },
+  {
+    "title": "關於《勇者鬥惡龍 X》語音導航的討論",
+    "slug": "discussion-on-audio-navigation-for-dragon-quest-x-zh-582e277d",
+    "lang": "zh-TW",
+    "summary": "一名使用者討論將類似於 AI 行李箱和視障者導航應用程式的語音引導功能，整合至遊戲《勇者鬥惡龍 X》中的可能性。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "gaming accessibility",
+      "visual impairment",
+      "assistive technology"
+    ],
+    "sourceName": "ヴィクトリカ＠ドラクエ10 (@Victorique_DQX)",
+    "sourceUrl": "https://x.com/Victorique_DQX/status/2081185546605637871",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081185546605637871",
+    "status": "published",
+    "translationOf": "discussion-on-audio-navigation-for-dragon-quest-x-582e277d",
+    "publishedAt": "2026-07-26T01:11:15.000Z",
+    "fetchedAt": "2026-07-26T01:14:02.444Z",
+    "body": "一名使用者討論將類似於 AI 行李箱和視障者導航應用程式的語音引導功能，整合至遊戲《勇者鬥惡龍 X》中的可能性。\n推文來源： [ヴィクトリカ＠ドラクエ10 (@Victorique_DQX)](https://x.com/Victorique_DQX/status/2081185546605637871)"
+  },
+  {
+    "title": "產前檢測與身心障礙之觀點",
+    "slug": "perspectives-on-prenatal-testing-and-disability-zh-7cef0107",
+    "lang": "zh-TW",
+    "summary": "探討關於身心障礙產前檢測中，優生學考量與女性生育權利之間的衝突。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "disability rights",
+      "prenatal testing",
+      "ethics"
+    ],
+    "sourceName": "スーパー猛毒ちんどんコンポーザー佐藤 (@SMChingDongSATO)",
+    "sourceUrl": "https://x.com/SMChingDongSATO/status/2081184465041444873",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://news.yahoo.co.jp/articles/b5f4f29c1b1c93637fbe39ab9c8b2e3360d3a9a3?source=sns&dv=sp&mid=other&date=20260726&ctg=bus&bt=tw_up"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081184465041444873",
+    "status": "published",
+    "translationOf": "perspectives-on-prenatal-testing-and-disability-7cef0107",
+    "publishedAt": "2026-07-26T01:06:57.000Z",
+    "fetchedAt": "2026-07-26T01:14:05.541Z",
+    "body": "探討關於身心障礙產前檢測中，優生學考量與女性生育權利之間的衝突。\n推文來源： [スーパー猛毒ちんどんコンポーザー佐藤 (@SMChingDongSATO)](https://x.com/SMChingDongSATO/status/2081184465041444873)\n外部連結： [https://news.yahoo.co.jp/articles/b5f4f29c1b1c93637fbe39ab9c8b2e3360d3a9a3?source=sns&dv=sp&mid=other&date=20260726&ctg=bus&bt=tw_up](https://news.yahoo.co.jp/articles/b5f4f29c1b1c93637fbe39ab9c8b2e3360d3a9a3?source=sns&dv=sp&mid=other&date=20260726&ctg=bus&bt=tw_up)"
+  },
+  {
+    "title": "增加聾盲口譯員人數之資金撥款",
+    "slug": "funding-to-increase-deafblind-interpreter-numbers-zh-ec0a157e",
+    "lang": "zh-TW",
+    "summary": "政府已撥款以增加聾盲口譯員的人數，此舉受到了謹慎的樂觀看待。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "Deafblind",
+      "interpreters",
+      "government funding",
+      "accessibility"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2081054971290845412",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://limpingchicken.com/2026/07/14/government-funding-aims-to-increase-deafblind-interpreter-numbers-a-welcome-step-with-cautious-optimism"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081054971290845412",
+    "status": "published",
+    "translationOf": "funding-to-increase-deafblind-interpreter-numbers-ec0a157e",
+    "publishedAt": "2026-07-25T16:32:23.000Z",
+    "fetchedAt": "2026-07-26T01:14:05.604Z",
+    "body": "政府已撥款以增加聾盲口譯員的人數，此舉受到了謹慎的樂觀看待。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2081054971290845412)\n外部連結： [https://limpingchicken.com/2026/07/14/government-funding-aims-to-increase-deafblind-interpreter-numbers-a-welcome-step-with-cautious-optimism](https://limpingchicken.com/2026/07/14/government-funding-aims-to-increase-deafblind-interpreter-numbers-a-welcome-step-with-cautious-optimism)"
+  },
+  {
+    "title": "川普被指控歧視身心障礙者",
+    "slug": "trump-accused-of-disability-discrimination-zh-bc7dff86",
+    "lang": "zh-TW",
+    "summary": "根據一名合作者的證詞，有報告指出唐納德·川普涉嫌歧視身心障礙者。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "disability discrimination",
+      "advocacy"
+    ],
+    "sourceName": "紅のMTB@インボイス制度・マイナ義務化絶対反対 (@fair_s0ciety2)",
+    "sourceUrl": "https://x.com/fair_s0ciety2/status/2081184095116341287",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.sankei.com/article/20240731-FNDNTWYEEBM37E5L5S7ZDOWXGQ"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081184095116341287",
+    "status": "published",
+    "translationOf": "trump-accused-of-disability-discrimination-bc7dff86",
+    "publishedAt": "2026-07-26T01:05:29.000Z",
+    "fetchedAt": "2026-07-26T01:14:09.634Z",
+    "body": "根據一名合作者的證詞，有報告指出唐納德·川普涉嫌歧視身心障礙者。\n推文來源： [紅のMTB@インボイス制度・マイナ義務化絶対反対 (@fair_s0ciety2)](https://x.com/fair_s0ciety2/status/2081184095116341287)\n外部連結： [https://www.sankei.com/article/20240731-FNDNTWYEEBM37E5L5S7ZDOWXGQ](https://www.sankei.com/article/20240731-FNDNTWYEEBM37E5L5S7ZDOWXGQ)"
+  },
+  {
+    "title": "關於遊戲無障礙功能的討論",
+    "slug": "discussion-on-gaming-accessibility-features-zh-27d77ec0",
+    "lang": "zh-TW",
+    "summary": "一名使用者針對某項特定遊戲機制的無障礙或身心障礙相關目的提出疑問。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "gaming accessibility",
+      "inclusive design"
+    ],
+    "sourceName": "jamie | dracthyr arc (@clockwork_ghoul)",
+    "sourceUrl": "https://x.com/clockwork_ghoul/status/2081181362602844259",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081181362602844259",
+    "status": "published",
+    "translationOf": "discussion-on-gaming-accessibility-features-27d77ec0",
+    "publishedAt": "2026-07-26T00:54:37.000Z",
+    "fetchedAt": "2026-07-26T01:14:09.697Z",
+    "body": "一名使用者針對某項特定遊戲機制的無障礙或身心障礙相關目的提出疑問。\n推文來源： [jamie | dracthyr arc (@clockwork_ghoul)](https://x.com/clockwork_ghoul/status/2081181362602844259)"
+  },
+  {
+    "title": "視障退伍軍人獲贈 Ray-Ban Meta AI 眼鏡",
+    "slug": "blind-veterans-receive-ray-ban-meta-ai-glasses-zh-b03b1969",
+    "lang": "zh-TW",
+    "summary": "在二戰博物館中，法律定義的視障退伍軍人獲贈 Ray-Ban Meta AI 眼鏡，以協助其視覺需求。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "assistive technology",
+      "blindness",
+      "AI glasses"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2081071573881262347",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.fox8live.com/2026/07/13/legally-blind-veterans-receive-ray-ban-meta-ai-glasses-wwii-museum"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081071573881262347",
+    "status": "published",
+    "translationOf": "blind-veterans-receive-ray-ban-meta-ai-glasses-b03b1969",
+    "publishedAt": "2026-07-25T17:38:22.000Z",
+    "fetchedAt": "2026-07-26T01:14:09.758Z",
+    "body": "在二戰博物館中，法律定義的視障退伍軍人獲贈 Ray-Ban Meta AI 眼鏡，以協助其視覺需求。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2081071573881262347)\n外部連結： [https://www.fox8live.com/2026/07/13/legally-blind-veterans-receive-ray-ban-meta-ai-glasses-wwii-museum](https://www.fox8live.com/2026/07/13/legally-blind-veterans-receive-ray-ban-meta-ai-glasses-wwii-museum)"
+  },
+  {
+    "title": "無障礙社群訊號 2081185634409197752",
+    "slug": "challenges-for-families-of-people-with-severe-disabilities-zh-c1bd619e",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "disability",
+      "social-services",
+      "Japan"
+    ],
+    "sourceName": "両手首サポーターマン（規制） (@0o_wtf_o0)",
+    "sourceUrl": "https://x.com/0o_wtf_o0/status/2081185634409197752",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081185634409197752",
+    "status": "published",
+    "translationOf": "challenges-for-families-of-people-with-severe-disabilities-c1bd619e",
+    "publishedAt": "2026-07-26T01:11:36.000Z",
+    "fetchedAt": "2026-07-26T01:14:11.747Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [両手首サポーターマン（規制） (@0o_wtf_o0)](https://x.com/0o_wtf_o0/status/2081185634409197752)"
+  },
+  {
+    "title": "無障礙社群訊號 2081185617166438744",
+    "slug": "rising-social-exclusion-and-hate-toward-people-with-disabilities-zh-8134c29d",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "disability",
+      "discrimination",
+      "advocacy"
+    ],
+    "sourceName": "やまちゃん (@dORe_me3qxU1ltb)",
+    "sourceUrl": "https://x.com/dORe_me3qxU1ltb/status/2081185617166438744",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081185617166438744",
+    "status": "published",
+    "translationOf": "rising-social-exclusion-and-hate-toward-people-with-disabilities-8134c29d",
+    "publishedAt": "2026-07-26T01:11:32.000Z",
+    "fetchedAt": "2026-07-26T01:14:11.824Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [やまちゃん (@dORe_me3qxU1ltb)](https://x.com/dORe_me3qxU1ltb/status/2081185617166438744)"
+  },
+  {
+    "title": "無障礙社群訊號 2081185241054785618",
+    "slug": "10-years-since-sagamihara-stabbing-progress-in-disability-understanding-zh-7aae842a",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "disability awareness",
+      "human rights",
+      "Japan"
+    ],
+    "sourceName": "kamiya難病・特定疾患(間脳下垂体) (@kamiya70035505)",
+    "sourceUrl": "https://x.com/kamiya70035505/status/2081185241054785618",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.jiji.com/jc/article?k=2026072500351&g=soc"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081185241054785618",
+    "status": "published",
+    "translationOf": "10-years-since-sagamihara-stabbing-progress-in-disability-understanding-7aae842a",
+    "publishedAt": "2026-07-26T01:10:02.000Z",
+    "fetchedAt": "2026-07-26T01:14:13.843Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [kamiya難病・特定疾患(間脳下垂体) (@kamiya70035505)](https://x.com/kamiya70035505/status/2081185241054785618)\n外部連結： [https://www.jiji.com/jc/article?k=2026072500351&g=soc](https://www.jiji.com/jc/article?k=2026072500351&g=soc)"
+  },
+  {
+    "title": "無障礙社群訊號 2081185223967162834",
+    "slug": "discussion-on-disability-representation-in-manga-zh-f08f9a10",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "disability representation",
+      "media",
+      "social commentary"
+    ],
+    "sourceName": "ひまわり学級主席 (@hmwrgakkyuno31)",
+    "sourceUrl": "https://x.com/hmwrgakkyuno31/status/2081185223967162834",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081185223967162834",
+    "status": "published",
+    "translationOf": "discussion-on-disability-representation-in-manga-f08f9a10",
+    "publishedAt": "2026-07-26T01:09:58.000Z",
+    "fetchedAt": "2026-07-26T01:14:13.906Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [ひまわり学級主席 (@hmwrgakkyuno31)](https://x.com/hmwrgakkyuno31/status/2081185223967162834)"
+  },
+  {
+    "title": "無障礙社群訊號 2081185195626238390",
+    "slug": "perspective-on-social-integration-for-people-with-disabilities-zh-c3ead356",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "disability",
+      "social-integration",
+      "advocacy"
+    ],
+    "sourceName": "Nev@幸せの最中 (@NevEngi)",
+    "sourceUrl": "https://x.com/NevEngi/status/2081185195626238390",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081185195626238390",
+    "status": "published",
+    "translationOf": "perspective-on-social-integration-for-people-with-disabilities-c3ead356",
+    "publishedAt": "2026-07-26T01:09:51.000Z",
+    "fetchedAt": "2026-07-26T01:14:15.355Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [Nev@幸せの最中 (@NevEngi)](https://x.com/NevEngi/status/2081185195626238390)"
+  },
+  {
+    "title": "無障礙社群訊號 2081185148612104270",
+    "slug": "mouthpad-tongue-based-hands-free-touchpad-zh-6caa0d58",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "assistive-technology",
+      "accessibility",
+      "UI",
+      "wearables"
+    ],
+    "sourceName": "Axiopistis Holdings LC (@axiopistis)",
+    "sourceUrl": "https://x.com/axiopistis/status/2081185148612104270",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081185148612104270",
+    "status": "published",
+    "translationOf": "mouthpad-tongue-based-hands-free-touchpad-6caa0d58",
+    "publishedAt": "2026-07-26T01:09:40.000Z",
+    "fetchedAt": "2026-07-26T01:14:15.427Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [Axiopistis Holdings LC (@axiopistis)](https://x.com/axiopistis/status/2081185148612104270)"
+  },
+  {
+    "title": "無障礙社群訊號 2081185059881779526",
+    "slug": "sagamihara-stabbing-and-disability-understanding-zh-112d6e86",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "disability awareness",
+      "human rights"
+    ],
+    "sourceName": "酒池肉林⁉️な社会人 (@8fQy11sPhKnjc2Y)",
+    "sourceUrl": "https://x.com/8fQy11sPhKnjc2Y/status/2081185059881779526",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://news.yahoo.co.jp/pickup/6589333"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081185059881779526",
+    "status": "published",
+    "translationOf": "sagamihara-stabbing-and-disability-understanding-112d6e86",
+    "publishedAt": "2026-07-26T01:09:19.000Z",
+    "fetchedAt": "2026-07-26T01:14:17.670Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [酒池肉林⁉️な社会人 (@8fQy11sPhKnjc2Y)](https://x.com/8fQy11sPhKnjc2Y/status/2081185059881779526)\n外部連結： [https://news.yahoo.co.jp/pickup/6589333](https://news.yahoo.co.jp/pickup/6589333)"
+  },
+  {
+    "title": "無障礙社群訊號 2081184918475014420",
+    "slug": "efforts-to-increase-wages-for-people-with-disabilities-zh-e2a8abc5",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "disability employment",
+      "economic advocacy"
+    ],
+    "sourceName": "Ariyan2030 (@alialialisan)",
+    "sourceUrl": "https://x.com/alialialisan/status/2081184918475014420",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://youtube.com/shorts/LX_ddCagvM4?si=F6FqX9SZ8OKVtyvx"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081184918475014420",
+    "status": "published",
+    "translationOf": "efforts-to-increase-wages-for-people-with-disabilities-e2a8abc5",
+    "publishedAt": "2026-07-26T01:08:45.000Z",
+    "fetchedAt": "2026-07-26T01:14:17.736Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [Ariyan2030 (@alialialisan)](https://x.com/alialialisan/status/2081184918475014420)\n外部連結： [https://youtube.com/shorts/LX_ddCagvM4?si=F6FqX9SZ8OKVtyvx](https://youtube.com/shorts/LX_ddCagvM4?si=F6FqX9SZ8OKVtyvx)"
+  },
+  {
+    "title": "無障礙社群訊號 2081184834920251469",
+    "slug": "sagamihara-stabbing-10th-anniversary-zh-bf60323d",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "disability awareness",
+      "advocacy",
+      "Japan"
+    ],
+    "sourceName": "okisatosab (@okisatosab73366)",
+    "sourceUrl": "https://x.com/okisatosab73366/status/2081184834920251469",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://news.yahoo.co.jp/articles/48169e13222af6eacc6fb8c161a974631fe3f613"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081184834920251469",
+    "status": "published",
+    "translationOf": "sagamihara-stabbing-10th-anniversary-bf60323d",
+    "publishedAt": "2026-07-26T01:08:25.000Z",
+    "fetchedAt": "2026-07-26T01:14:19.438Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [okisatosab (@okisatosab73366)](https://x.com/okisatosab73366/status/2081184834920251469)\n外部連結： [https://news.yahoo.co.jp/articles/48169e13222af6eacc6fb8c161a974631fe3f613](https://news.yahoo.co.jp/articles/48169e13222af6eacc6fb8c161a974631fe3f613)"
+  },
+  {
+    "title": "無障礙社群訊號 2081184700270518372",
+    "slug": "criticism-of-eugenics-and-disability-discrimination-zh-5ba0aeb4",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "disability rights",
+      "eugenics",
+      "advocacy"
+    ],
+    "sourceName": "Boonaちゃんファン (@I_love_Boona)",
+    "sourceUrl": "https://x.com/I_love_Boona/status/2081184700270518372",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081184700270518372",
+    "status": "published",
+    "translationOf": "criticism-of-eugenics-and-disability-discrimination-5ba0aeb4",
+    "publishedAt": "2026-07-26T01:07:53.000Z",
+    "fetchedAt": "2026-07-26T01:14:19.505Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [Boonaちゃんファン (@I_love_Boona)](https://x.com/I_love_Boona/status/2081184700270518372)"
+  },
+  {
+    "title": "無障礙社群訊號 2081184676740526351",
+    "slug": "personal-struggle-with-disability-zh-4a39b869",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "disability experience",
+      "mental health"
+    ],
+    "sourceName": "らばる (@raibaru04)",
+    "sourceUrl": "https://x.com/raibaru04/status/2081184676740526351",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081184676740526351",
+    "status": "published",
+    "translationOf": "personal-struggle-with-disability-4a39b869",
+    "publishedAt": "2026-07-26T01:07:48.000Z",
+    "fetchedAt": "2026-07-26T01:14:19.570Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [らばる (@raibaru04)](https://x.com/raibaru04/status/2081184676740526351)"
+  },
+  {
+    "title": "無障礙社群訊號 2081184215727514023",
+    "slug": "disability-inclusion-quiz-zh-0e53ea2a",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "disability inclusion",
+      "advocacy"
+    ],
+    "sourceName": "Take the Disability Inclusion Quiz in my bio (@misty_abisola)",
+    "sourceUrl": "https://x.com/misty_abisola/status/2081184215727514023",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081184215727514023",
+    "status": "published",
+    "translationOf": "disability-inclusion-quiz-0e53ea2a",
+    "publishedAt": "2026-07-26T01:05:58.000Z",
+    "fetchedAt": "2026-07-26T01:14:22.359Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [Take the Disability Inclusion Quiz in my bio (@misty_abisola)](https://x.com/misty_abisola/status/2081184215727514023)"
+  },
+  {
+    "title": "無障礙社群訊號 2081184212154237270",
+    "slug": "concerns-over-disability-representation-in-anime-zh-71995bd6",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "disability representation",
+      "media",
+      "discrimination"
+    ],
+    "sourceName": "レイヴン (@karasu_kemono)",
+    "sourceUrl": "https://x.com/karasu_kemono/status/2081184212154237270",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081184212154237270",
+    "status": "published",
+    "translationOf": "concerns-over-disability-representation-in-anime-71995bd6",
+    "publishedAt": "2026-07-26T01:05:57.000Z",
+    "fetchedAt": "2026-07-26T01:14:22.436Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [レイヴン (@karasu_kemono)](https://x.com/karasu_kemono/status/2081184212154237270)"
+  },
+  {
+    "title": "無障礙社群訊號 2081184131309010945",
+    "slug": "10th-anniversary-of-tsukui-yamayuri-garden-incident-zh-73ce37a3",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "disability rights",
+      "advocacy",
+      "Tsukui Yamayuri Garden"
+    ],
+    "sourceName": "満 太 郎 (@mantarou3254)",
+    "sourceUrl": "https://x.com/mantarou3254/status/2081184131309010945",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.city.sapporo.jp/shogaifukushi/syurou/rolemodel/ootani_tetsuya_salon.html"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081184131309010945",
+    "status": "published",
+    "translationOf": "10th-anniversary-of-tsukui-yamayuri-garden-incident-73ce37a3",
+    "publishedAt": "2026-07-26T01:05:38.000Z",
+    "fetchedAt": "2026-07-26T01:14:23.832Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [満 太 郎 (@mantarou3254)](https://x.com/mantarou3254/status/2081184131309010945)\n外部連結： [https://www.city.sapporo.jp/shogaifukushi/syurou/rolemodel/ootani_tetsuya_salon.html](https://www.city.sapporo.jp/shogaifukushi/syurou/rolemodel/ootani_tetsuya_salon.html)"
+  },
+  {
+    "title": "無障礙社群訊號 2081184040296833329",
+    "slug": "hate-mail-sent-to-biologist-regarding-daughters-disability-zh-a55184c8",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "disability",
+      "hate crime",
+      "human rights"
+    ],
+    "sourceName": "大羽弘史 (@jshsq771)",
+    "sourceUrl": "https://x.com/jshsq771/status/2081184040296833329",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.nikkei.com/article/DGKKZO97777450W6A720C2MM8000"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081184040296833329",
+    "status": "published",
+    "translationOf": "hate-mail-sent-to-biologist-regarding-daughters-disability-a55184c8",
+    "publishedAt": "2026-07-26T01:05:16.000Z",
+    "fetchedAt": "2026-07-26T01:14:25.328Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [大羽弘史 (@jshsq771)](https://x.com/jshsq771/status/2081184040296833329)\n外部連結： [https://www.nikkei.com/article/DGKKZO97777450W6A720C2MM8000](https://www.nikkei.com/article/DGKKZO97777450W6A720C2MM8000)"
+  },
+  {
+    "title": "無障礙社群訊號 2081184003369922959",
+    "slug": "disability-inclusion-progress-reflection-zh-4dcc0ba0",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "disability inclusion",
+      "advocacy"
+    ],
+    "sourceName": "Take the Disability Inclusion Quiz in my bio (@misty_abisola)",
+    "sourceUrl": "https://x.com/misty_abisola/status/2081184003369922959",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081184003369922959",
+    "status": "published",
+    "translationOf": "disability-inclusion-progress-reflection-4dcc0ba0",
+    "publishedAt": "2026-07-26T01:05:07.000Z",
+    "fetchedAt": "2026-07-26T01:14:25.396Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [Take the Disability Inclusion Quiz in my bio (@misty_abisola)](https://x.com/misty_abisola/status/2081184003369922959)"
+  },
+  {
+    "title": "無障礙社群訊號 2081183909396775236",
+    "slug": "challenges-with-venue-accessibility-in-japan-zh-1779af2b",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "barrier-free",
+      "physical accessibility",
+      "stadiums"
+    ],
+    "sourceName": "ykl_schnee (@ylala_dyk)",
+    "sourceUrl": "https://x.com/ylala_dyk/status/2081183909396775236",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081183909396775236",
+    "status": "published",
+    "translationOf": "challenges-with-venue-accessibility-in-japan-1779af2b",
+    "publishedAt": "2026-07-26T01:04:45.000Z",
+    "fetchedAt": "2026-07-26T01:14:27.580Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [ykl_schnee (@ylala_dyk)](https://x.com/ylala_dyk/status/2081183909396775236)"
+  },
+  {
+    "title": "無障礙社群訊號 2081182779920769168",
+    "slug": "filipino-citizens-call-for-accessibility-in-sona-2026-zh-f921028a",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "Philippines",
+      "public policy",
+      "accessibility advocacy"
+    ],
+    "sourceName": "DZRH NEWS (@dzrhnews)",
+    "sourceUrl": "https://x.com/dzrhnews/status/2081182779920769168",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.dzrh.com.ph/post/the-peoples-agenda-voices-from-various-sectors-ahead-of-pbbms-5th-sona"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081182779920769168",
+    "status": "published",
+    "translationOf": "filipino-citizens-call-for-accessibility-in-sona-2026-f921028a",
+    "publishedAt": "2026-07-26T01:00:15.000Z",
+    "fetchedAt": "2026-07-26T01:14:30.372Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [DZRH NEWS (@dzrhnews)](https://x.com/dzrhnews/status/2081182779920769168)\n外部連結： [https://www.dzrh.com.ph/post/the-peoples-agenda-voices-from-various-sectors-ahead-of-pbbms-5th-sona](https://www.dzrh.com.ph/post/the-peoples-agenda-voices-from-various-sectors-ahead-of-pbbms-5th-sona)"
+  },
+  {
+    "title": "無障礙社群訊號 2081182272267649386",
+    "slug": "importance-of-auto-move-features-for-motor-accessibility-zh-7a0c057e",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "assistive technology",
+      "motor impairment",
+      "inclusive design"
+    ],
+    "sourceName": "Zesty (@ZestyXIV)",
+    "sourceUrl": "https://x.com/ZestyXIV/status/2081182272267649386",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081182272267649386",
+    "status": "published",
+    "translationOf": "importance-of-auto-move-features-for-motor-accessibility-7a0c057e",
+    "publishedAt": "2026-07-26T00:58:14.000Z",
+    "fetchedAt": "2026-07-26T01:14:30.439Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [Zesty (@ZestyXIV)](https://x.com/ZestyXIV/status/2081182272267649386)"
+  },
+  {
+    "title": "無障礙社群訊號 2081181557096940018",
+    "slug": "ai-agent-integration-for-semantic-structure-and-accessibility-zh-f2591ce3",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "AI",
+      "inclusive design",
+      "web accessibility",
+      "semantic HTML"
+    ],
+    "sourceName": "komori, masaaki (@cipher)",
+    "sourceUrl": "https://x.com/cipher/status/2081181557096940018",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://kmrvid-claude-skills.gaspanik.workers.dev/skills"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081181557096940018",
+    "status": "published",
+    "translationOf": "ai-agent-integration-for-semantic-structure-and-accessibility-f2591ce3",
+    "publishedAt": "2026-07-26T00:55:24.000Z",
+    "fetchedAt": "2026-07-26T01:14:31.904Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [komori, masaaki (@cipher)](https://x.com/cipher/status/2081181557096940018)\n外部連結： [https://kmrvid-claude-skills.gaspanik.workers.dev/skills](https://kmrvid-claude-skills.gaspanik.workers.dev/skills)"
+  },
+  {
+    "title": "無障礙社群訊號 2081180704818544922",
+    "slug": "use-after-free-vulnerability-in-axplatformnodewin-zh-c3f11881",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "security",
+      "accessibility",
+      "bug"
+    ],
+    "sourceName": "Security Bug Aggregator (@BugsAggregator)",
+    "sourceUrl": "https://x.com/BugsAggregator/status/2081180704818544922",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "http://crbug.com/503419515"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081180704818544922",
+    "status": "published",
+    "translationOf": "use-after-free-vulnerability-in-axplatformnodewin-c3f11881",
+    "publishedAt": "2026-07-26T00:52:01.000Z",
+    "fetchedAt": "2026-07-26T01:14:35.639Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [Security Bug Aggregator (@BugsAggregator)](https://x.com/BugsAggregator/status/2081180704818544922)\n外部連結： [http://crbug.com/503419515](http://crbug.com/503419515)"
+  },
+  {
+    "title": "無障礙社群訊號 2081070038581399836",
+    "slug": "avatar-the-last-airbender-star-and-blindness-consultant-visit-wayfinder-family-s-zh-702e1fc0",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "blindness",
+      "inclusive design",
+      "consultancy"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2081070038581399836",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://prn.to/3RwCDSA"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081070038581399836",
+    "status": "published",
+    "translationOf": "avatar-the-last-airbender-star-and-blindness-consultant-visit-wayfinder-family-s-702e1fc0",
+    "publishedAt": "2026-07-25T17:32:16.000Z",
+    "fetchedAt": "2026-07-26T01:14:36.939Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2081070038581399836)\n外部連結： [https://prn.to/3RwCDSA](https://prn.to/3RwCDSA)"
+  },
+  {
+    "title": "無障礙社群訊號 2081068559166476300",
+    "slug": "special-screening-of-blind-logic-the-ralph-r-teetor-story-zh-c0aa0091",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "blindness",
+      "biography",
+      "film"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2081068559166476300",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/%22blind-logic-the-ralph-r.-teetor-story%22-special-screening-at-the-1191085"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081068559166476300",
+    "status": "published",
+    "translationOf": "special-screening-of-blind-logic-the-ralph-r-teetor-story-c0aa0091",
+    "publishedAt": "2026-07-25T17:26:23.000Z",
+    "fetchedAt": "2026-07-26T01:15:01.434Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2081068559166476300)\n外部連結： [https://www.accessnewswire.com/newsroom/en/business-and-professional-services/%22blind-logic-the-ralph-r.-teetor-story%22-special-screening-at-the-1191085](https://www.accessnewswire.com/newsroom/en/business-and-professional-services/%22blind-logic-the-ralph-r.-teetor-story%22-special-screening-at-the-1191085)"
+  },
+  {
+    "title": "無障礙社群訊號 2081067225667277196",
+    "slug": "matthew-whitaker-performs-at-dakotabilities-zh-821ea45d",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "blindness",
+      "music",
+      "performance"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2081067225667277196",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.dakotanewsnow.com/2026/07/10/blind-musician-matthew-whitaker-performs-dakotabilities"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081067225667277196",
+    "status": "published",
+    "translationOf": "matthew-whitaker-performs-at-dakotabilities-821ea45d",
+    "publishedAt": "2026-07-25T17:21:05.000Z",
+    "fetchedAt": "2026-07-26T01:15:01.527Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2081067225667277196)\n外部連結： [https://www.dakotanewsnow.com/2026/07/10/blind-musician-matthew-whitaker-performs-dakotabilities](https://www.dakotanewsnow.com/2026/07/10/blind-musician-matthew-whitaker-performs-dakotabilities)"
+  },
+  {
+    "title": "無障礙社群訊號 2081064913682981229",
+    "slug": "birding-for-the-vision-impaired-zh-c7d2a2e4",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "visual impairment",
+      "nature",
+      "inclusive activities"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2081064913682981229",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://shepherdexpress.com/news/hero-of-the-month/michael-diaz-birding-for-vision-impaired-folks"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081064913682981229",
+    "status": "published",
+    "translationOf": "birding-for-the-vision-impaired-c7d2a2e4",
+    "publishedAt": "2026-07-25T17:11:54.000Z",
+    "fetchedAt": "2026-07-26T01:15:01.594Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2081064913682981229)\n外部連結： [https://shepherdexpress.com/news/hero-of-the-month/michael-diaz-birding-for-vision-impaired-folks](https://shepherdexpress.com/news/hero-of-the-month/michael-diaz-birding-for-vision-impaired-folks)"
+  },
+  {
+    "title": "無障礙社群訊號 2081061337430667300",
+    "slug": "blind-soccer-expo-in-matthews-zh-953912ce",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "blind soccer",
+      "adaptive sports"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2081061337430667300",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "http://2fwww.wfae.org/"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081061337430667300",
+    "status": "published",
+    "translationOf": "blind-soccer-expo-in-matthews-953912ce",
+    "publishedAt": "2026-07-25T16:57:41.000Z",
+    "fetchedAt": "2026-07-26T01:15:03.320Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2081061337430667300)\n外部連結： [http://2fwww.wfae.org/](http://2fwww.wfae.org/)"
+  },
+  {
+    "title": "無障礙社群訊號 2081056818294575380",
+    "slug": "netflix-improves-accessibility-for-kids-content-zh-b8e2e3fa",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "Netflix",
+      "inclusive design",
+      "media accessibility"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2081056818294575380",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.disabilityscoop.com/2026/07/22/netflix-making-kids-shows-more-accessible/32098"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081056818294575380",
+    "status": "published",
+    "translationOf": "netflix-improves-accessibility-for-kids-content-b8e2e3fa",
+    "publishedAt": "2026-07-25T16:39:44.000Z",
+    "fetchedAt": "2026-07-26T01:15:03.399Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2081056818294575380)\n外部連結： [https://www.disabilityscoop.com/2026/07/22/netflix-making-kids-shows-more-accessible/32098](https://www.disabilityscoop.com/2026/07/22/netflix-making-kids-shows-more-accessible/32098)"
+  },
+  {
+    "title": "無障礙社群訊號 2081053617155666087",
+    "slug": "google-smart-speaker-accessibility-for-blind-users-zh-380f4869",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "Google",
+      "assistive technology",
+      "blindness"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2081053617155666087",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://doubletaponair.com/is-googles-new-smart-speaker-a-game-changer"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081053617155666087",
+    "status": "published",
+    "translationOf": "google-smart-speaker-accessibility-for-blind-users-380f4869",
+    "publishedAt": "2026-07-25T16:27:01.000Z",
+    "fetchedAt": "2026-07-26T01:15:03.465Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2081053617155666087)\n外部連結： [https://doubletaponair.com/is-googles-new-smart-speaker-a-game-changer](https://doubletaponair.com/is-googles-new-smart-speaker-a-game-changer)"
+  },
+  {
+    "title": "無障礙社群訊號 2081029865441308846",
+    "slug": "windows-magnifier-and-xr-accessibility-updates-zh-2e424cf3",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "Windows Magnifier",
+      "XR",
+      "accessibility guidelines"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2081029865441308846",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://youtu.be/Lwf9UglKsTw?si=gsSoAIYSJSRPlN9C"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081029865441308846",
+    "status": "published",
+    "translationOf": "windows-magnifier-and-xr-accessibility-updates-2e424cf3",
+    "publishedAt": "2026-07-25T14:52:38.000Z",
+    "fetchedAt": "2026-07-26T01:15:05.008Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2081029865441308846)\n外部連結： [https://youtu.be/Lwf9UglKsTw?si=gsSoAIYSJSRPlN9C](https://youtu.be/Lwf9UglKsTw?si=gsSoAIYSJSRPlN9C)"
+  },
+  {
+    "title": "無障礙社群訊號 2081028657670406380",
+    "slug": "tesla-robotaxi-vs-waymo-accessibility-review-zh-5edd5bdd",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "autonomous vehicles",
+      "blindness",
+      "accessibility review"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2081028657670406380",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://youtu.be/WCV5_8_aF98?si=L52JCV0oCPNTHVEB"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081028657670406380",
+    "status": "published",
+    "translationOf": "tesla-robotaxi-vs-waymo-accessibility-review-5edd5bdd",
+    "publishedAt": "2026-07-25T14:47:50.000Z",
+    "fetchedAt": "2026-07-26T01:15:05.075Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2081028657670406380)\n外部連結： [https://youtu.be/WCV5_8_aF98?si=L52JCV0oCPNTHVEB](https://youtu.be/WCV5_8_aF98?si=L52JCV0oCPNTHVEB)"
+  },
+  {
+    "title": "無障礙社群訊號 2081026349100347639",
+    "slug": "lumivision-smartphone-video-magnifier-overview-zh-864f8813",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "assistive technology",
+      "video magnifier",
+      "visual impairment"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2081026349100347639",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://youtu.be/3Szh2YoY2i4?si=cLHHSz-4qvw22859"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081026349100347639",
+    "status": "published",
+    "translationOf": "lumivision-smartphone-video-magnifier-overview-864f8813",
+    "publishedAt": "2026-07-25T14:38:39.000Z",
+    "fetchedAt": "2026-07-26T01:15:05.151Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2081026349100347639)\n外部連結： [https://youtu.be/3Szh2YoY2i4?si=cLHHSz-4qvw22859](https://youtu.be/3Szh2YoY2i4?si=cLHHSz-4qvw22859)"
+  },
+  {
+    "title": "無障礙社群訊號 2081022979304194194",
+    "slug": "iphone-and-airpods-for-low-vision-zh-508cfc54",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "low vision",
+      "assistive technology",
+      "Apple"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2081022979304194194",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://youtu.be/bbzVOBVoZeA?si=EgcEFPzAul63ZcEY"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081022979304194194",
+    "status": "published",
+    "translationOf": "iphone-and-airpods-for-low-vision-508cfc54",
+    "publishedAt": "2026-07-25T14:25:16.000Z",
+    "fetchedAt": "2026-07-26T01:15:06.704Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2081022979304194194)\n外部連結： [https://youtu.be/bbzVOBVoZeA?si=EgcEFPzAul63ZcEY](https://youtu.be/bbzVOBVoZeA?si=EgcEFPzAul63ZcEY)"
+  },
+  {
+    "title": "無障礙社群訊號 2081021082283422070",
+    "slug": "accessible-versions-of-popular-games-zh-b3abe7a2",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "gaming accessibility",
+      "inclusive design"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2081021082283422070",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://youtu.be/pLPzLuvQqW8?si=ZyYmkZWoawztqZ0a"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081021082283422070",
+    "status": "published",
+    "translationOf": "accessible-versions-of-popular-games-b3abe7a2",
+    "publishedAt": "2026-07-25T14:17:44.000Z",
+    "fetchedAt": "2026-07-26T01:15:06.767Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2081021082283422070)\n外部連結： [https://youtu.be/pLPzLuvQqW8?si=ZyYmkZWoawztqZ0a](https://youtu.be/pLPzLuvQqW8?si=ZyYmkZWoawztqZ0a)"
+  },
+  {
+    "title": "無障礙社群訊號 2081016069788234152",
+    "slug": "perspectives-on-blindness-zh-7674c35f",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "blindness",
+      "disability perspective"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2081016069788234152",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081016069788234152",
+    "status": "published",
+    "translationOf": "perspectives-on-blindness-7674c35f",
+    "publishedAt": "2026-07-25T13:57:49.000Z",
+    "fetchedAt": "2026-07-26T01:15:06.832Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2081016069788234152)"
+  },
+  {
+    "title": "無障礙社群訊號 2081015387890852166",
+    "slug": "ucb-scholarships-for-students-zh-fc825417",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "scholarships",
+      "education",
+      "blindness"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2081015387890852166",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://utahblind.org/scholarships.html"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081015387890852166",
+    "status": "published",
+    "translationOf": "ucb-scholarships-for-students-fc825417",
+    "publishedAt": "2026-07-25T13:55:06.000Z",
+    "fetchedAt": "2026-07-26T01:15:10.661Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2081015387890852166)\n外部連結： [https://utahblind.org/scholarships.html](https://utahblind.org/scholarships.html)"
+  },
+  {
+    "title": "無障礙社群訊號 2081015042141716811",
+    "slug": "ucb-personal-braille-program-zh-ac596cb8",
+    "lang": "zh-TW",
+    "summary": "此推文的中文摘要尚待翻譯。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "Braille",
+      "transcription",
+      "assistive technology"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2081015042141716811",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://utahblind.org/brailletranscription.html"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2081015042141716811",
+    "status": "published",
+    "translationOf": "ucb-personal-braille-program-ac596cb8",
+    "publishedAt": "2026-07-25T13:53:44.000Z",
+    "fetchedAt": "2026-07-26T01:15:10.730Z",
+    "body": "此推文的中文摘要尚待翻譯。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2081015042141716811)\n外部連結： [https://utahblind.org/brailletranscription.html](https://utahblind.org/brailletranscription.html)"
   }
 ]
