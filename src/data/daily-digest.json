@@ -1,51 +1,43 @@
 {
-  "date": "2026-07-26",
-  "generatedAt": "2026-07-26T12:58:22.784Z",
+  "date": "2026-07-27",
+  "generatedAt": "2026-07-27T01:10:20.523Z",
   "en": {
-    "title": "1978 Disability Rights Protest Sparks Ongoing Accessibility Advances Across Nations",
-    "summary": "The 1978 protest demanding accessible public transit ignited the modern disability rights movement in the United States. Today, accessibility efforts continue with new assistive devices like the MouthPad tongue-controlled touchpad and Ray-Ban Meta AI glasses for blind veterans. Meanwhile, infrastructure projects in Wyoming and community initiatives in Rapid City highlight ongoing progress in physical and social inclusion.",
+    "title": "Amtrak Modernizes Fleet with Accessibility Upgrades, Boosting Disabled Travel",
+    "summary": "Amtrak announced fleet modernization incorporating wheelchair ramps, priority seating, tactile signage, and audio description services to improve accessibility for disabled passengers. Meanwhile, McDowell launched initiatives to improve accessibility across Wyoming, and a disability rights campaign in Kobe marked the 10th anniversary of the Sagamihara stabbing with anti-discrimination outreach. Research shows that 85% of students using accessibility tools do not have documented disabilities, highlighting universal design benefits, while AI innovations are boosting independence for people with developmental disabilities.",
     "highlights": [
       {
-        "title": "‘We want to ride’: the 1978 protest that sparked the disability rights movement : The Sunday Story - NPR",
-        "slug": "we-want-to-ride-the-1978-protest-that-sparked-the-disability-rights-movement-the-ee1beb37"
+        "title": "Accessibility by Design: Inside Amtrak’s Fleet Modernization",
+        "slug": "accessibility-by-design-inside-amtraks-fleet-modernization-00eef6ac"
       },
       {
-        "title": "MouthPad: Tongue-Based Hands-Free Touchpad",
-        "slug": "mouthpad-tongue-based-hands-free-touchpad-6caa0d58"
+        "title": "Accessibility by Design: Inside Amtrak’s Fleet Modernization (Audio Descriptions)",
+        "slug": "accessibility-by-design-inside-amtraks-fleet-modernization-audio-descriptions-f4579205"
       },
       {
-        "title": "Blind Veterans Receive Ray-Ban Meta AI Glasses",
-        "slug": "blind-veterans-receive-ray-ban-meta-ai-glasses-b03b1969"
+        "title": "Anti-Discrimination Campaign in Kobe",
+        "slug": "anti-discrimination-campaign-in-kobe-1a47c12b"
       },
       {
-        "title": "McDowell opens doors for a more accessible Wyoming",
-        "slug": "mcdowell-opens-doors-for-a-more-accessible-wyoming-edeb0baa"
-      },
-      {
-        "title": "Rapid City's Disability Awareness and Accessibility Committee holds annual disability resource fair - NewsCenter1",
-        "slug": "rapid-citys-disability-awareness-and-accessibility-committee-holds-annual-disabi-2b351049"
-      },
-      {
-        "title": "CanadianSME and Enabled Talent Launch Enable Accessibility Canada Inc.",
-        "slug": "canadiansme-and-enabled-talent-launch-enable-accessibility-canada-inc-dd37c60e"
+        "title": "Impact of Accessibility Tools on Students",
+        "slug": "impact-of-accessibility-tools-on-students-5234ac74"
       }
     ]
   },
   "zh-TW": {
-    "title": "1978 年無障礙交通抗議點營殘障權利運動，全球無障礙進展持續",
-    "summary": "1978 年的無障礙公共交通抗議激發了美國現代殘障權利運動。近期，視障退伍軍人獲得 Ray-Ban Meta AI 眼鏡，並有討論將語音導航整合至《勇者鬥惡龍 X》遊戲。同時，懷俄明州的基礎建設改善與快速城市的殘障資源博覽會顯示持續的無障礙進展。",
+    "title": "Amtrak升級無障礙車隊，提升殘障旅客體驗",
+    "summary": "Amtrak 宣布艦隊現代化計畫，加裝輪椅坡道、優先座位、觸覺標誌及音訊描述服務，以提升殘障乘客的無障礙旅行體驗。同時，McDowell 推動懷俄明州無障礙設施改善，神戶反歧視運動紀念相模原事件十週年，喚起社會關注。研究顯示 85% 使用無障礙工具的學生並無殘障證明，凸顯普惠設計的價值；AI 則協助發展障礙者提升獨立生活能力。",
     "highlights": [
       {
-        "title": "“我們想騎”：點營殘障權利運動的1978年抗議 —  — NPR 星期日故事",
-        "slug": "we-want-to-ride-the-1978-protest-that-sparked-the-disability-rights-movement-the-zh-ee1beb37"
+        "title": "無障礙設計：深入Amtrak艦隊現代化",
+        "slug": "accessibility-by-design-inside-amtraks-fleet-modernization-zh-00eef6ac"
       },
       {
-        "title": "視障退伍軍人獲贈 Ray-Ban Meta AI 眼鏡",
-        "slug": "blind-veterans-receive-ray-ban-meta-ai-glasses-zh-b03b1969"
+        "title": "AI 提升發展障礙者的獨立能力",
+        "slug": "ai-enhancing-independence-for-people-with-developmental-disabilities-zh-11648530"
       },
       {
-        "title": "關於《勇者鬥惡龍 X》語音導航的討論",
-        "slug": "discussion-on-audio-navigation-for-dragon-quest-x-zh-582e277d"
+        "title": "無障礙社群訊號 2081364834063712668",
+        "slug": "anti-discrimination-campaign-in-kobe-zh-1a47c12b"
       },
       {
         "title": "McDowell 為懷俄明州打造更無障礙的環境",
@@ -54,10 +46,6 @@
       {
         "title": "快速城市殘障意識與無障礙委員會舉辦年度殘障資源博覽會 - NewsCenter1",
         "slug": "rapid-citys-disability-awareness-and-accessibility-committee-holds-annual-disabi-zh-2b351049"
-      },
-      {
-        "title": "CanadianSME 和 Enabled Talent 推出 Enable Accessibility Canada Inc.",
-        "slug": "canadiansme-and-enabled-talent-launch-enable-accessibility-canada-inc-zh-dd37c60e"
       }
     ]
   }
