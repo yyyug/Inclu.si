@@ -66372,5 +66372,404 @@
     "publishedAt": "2026-07-26T12:57:14.000Z",
     "fetchedAt": "2026-07-26T13:06:42.784Z",
     "body": "此推文的中文摘要尚待翻譯。\n推文來源： [TOKI【toki】 (@iydk1205)](https://x.com/iydk1205/status/2081363212436754896)"
+  },
+  {
+    "title": "無障礙設計：深入Amtrak艦隊現代化",
+    "slug": "accessibility-by-design-inside-amtraks-fleet-modernization-zh-00eef6ac",
+    "lang": "zh-TW",
+    "summary": "Amtrak 說明其艦隊現代化如何融入無障礙設施，如輪椅坡道、優先座位和觸覺標誌，以改善殘障乘客的旅行體驗。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "rail",
+      "transportation",
+      "wheelchair access",
+      "tactile signage"
+    ],
+    "sourceName": "Amtrak Media",
+    "sourceUrl": "https://media.amtrak.com/2026/07/accessibility-by-design-inside-amtraks-fleet-modernization",
+    "relatedSources": [
+      {
+        "name": "Amtrak Media",
+        "url": "https://media.amtrak.com/2026/07/accessibility-by-design-inside-amtraks-fleet-modernization"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-00eef6ac",
+    "status": "published",
+    "translationOf": "accessibility-by-design-inside-amtraks-fleet-modernization-00eef6ac",
+    "publishedAt": "2026-07-26T15:01:57.000Z",
+    "fetchedAt": "2026-07-27T00:57:46.003Z",
+    "body": "Amtrak 說明其艦隊現代化如何融入無障礙設施，如輪椅坡道、優先座位和觸覺標誌，以改善殘障乘客的旅行體驗。\n\n原文來源： [Amtrak Media](https://media.amtrak.com/2026/07/accessibility-by-design-inside-amtraks-fleet-modernization)"
+  },
+  {
+    "title": "無障礙設計：深入Amtrak艦隊現代化（音訊描述）",
+    "slug": "accessibility-by-design-inside-amtraks-fleet-modernization-audio-descriptions-zh-f4579205",
+    "lang": "zh-TW",
+    "summary": "Amtrak 的艦隊現代化包含音訊描述服務，為盲人和低視力乘客提供旁白的視覺資訊，適用於火車和車站。",
+    "category": "assistive-tech",
+    "tags": [
+      "accessibility",
+      "audio description",
+      "rail",
+      "assistive technology",
+      "blind passengers"
+    ],
+    "sourceName": "Amtrak Media",
+    "sourceUrl": "https://media.amtrak.com/2026/07/accessibility-by-design-inside-amtraks-fleet-modernization-audio-descriptions",
+    "relatedSources": [
+      {
+        "name": "Amtrak Media",
+        "url": "https://media.amtrak.com/2026/07/accessibility-by-design-inside-amtraks-fleet-modernization-audio-descriptions"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f4579205",
+    "status": "published",
+    "translationOf": "accessibility-by-design-inside-amtraks-fleet-modernization-audio-descriptions-f4579205",
+    "publishedAt": "2026-07-26T15:01:57.000Z",
+    "fetchedAt": "2026-07-27T00:57:46.104Z",
+    "body": "Amtrak 的艦隊現代化包含音訊描述服務，為盲人和低視力乘客提供旁白的視覺資訊，適用於火車和車站。\n\n原文來源： [Amtrak Media](https://media.amtrak.com/2026/07/accessibility-by-design-inside-amtraks-fleet-modernization-audio-descriptions)"
+  },
+  {
+    "title": "娛樂園區無障礙地圖",
+    "slug": "entertainment-park-accessibility-maps-zh-af531370",
+    "lang": "zh-TW",
+    "summary": "Trend Hunter 強調互動式地圖，顯示娛樂園區內的無障礙路線、設施與服務，協助殘障遊客規劃行程。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "theme park",
+      "maps",
+      "universal design",
+      "visitor experience"
+    ],
+    "sourceName": "Trend Hunter",
+    "sourceUrl": "https://www.trendhunter.com/trends/visit-fort-wayne",
+    "relatedSources": [
+      {
+        "name": "Trend Hunter",
+        "url": "https://www.trendhunter.com/trends/visit-fort-wayne"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-af531370",
+    "status": "published",
+    "translationOf": "entertainment-park-accessibility-maps-af531370",
+    "publishedAt": "2026-07-26T08:55:59.000Z",
+    "fetchedAt": "2026-07-27T00:57:46.171Z",
+    "body": "Trend Hunter 強調互動式地圖，顯示娛樂園區內的無障礙路線、設施與服務，協助殘障遊客規劃行程。\n\n原文來源： [Trend Hunter](https://www.trendhunter.com/trends/visit-fort-wayne)"
+  },
+  {
+    "title": "住宅與社區的無障礙環境",
+    "slug": "accessibility-in-homes-the-community-zh-187f20eb",
+    "lang": "zh-TW",
+    "summary": "該文章探討如何讓住宅與社區對殘障人士更具無障礙性，包括改造與包容性設計。",
+    "category": "physical-design",
+    "tags": [
+      "home accessibility",
+      "community accessibility",
+      "physical design"
+    ],
+    "sourceName": "KELOLAND.com",
+    "sourceUrl": "https://www.keloland.com/news/eye-on-keloland/accessibility-in-homes-the-community",
+    "relatedSources": [
+      {
+        "name": "KELOLAND.com",
+        "url": "https://www.keloland.com/news/eye-on-keloland/accessibility-in-homes-the-community"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-187f20eb",
+    "status": "published",
+    "translationOf": "accessibility-in-homes-the-community-187f20eb",
+    "publishedAt": "2026-07-25T03:31:21.000Z",
+    "fetchedAt": "2026-07-27T00:57:59.940Z",
+    "body": "該文章探討如何讓住宅與社區對殘障人士更具無障礙性，包括改造與包容性設計。\n\n原文來源： [KELOLAND.com](https://www.keloland.com/news/eye-on-keloland/accessibility-in-homes-the-community)"
+  },
+  {
+    "title": "語音無障礙專案教我們關於語音 AI 未來的啟示",
+    "slug": "what-the-speech-accessibility-project-teaches-us-about-the-future-of-speech-ai-zh-6ceeeeab",
+    "lang": "zh-TW",
+    "summary": "語音無障礙專案揭示了語音 AI 如何改進以更好地服務殘障使用者，例如聾人或語言障礙者。",
+    "category": "digital-a11y",
+    "tags": [
+      "speech AI",
+      "accessibility project",
+      "digital accessibility"
+    ],
+    "sourceName": "Zoom",
+    "sourceUrl": "https://www.zoom.com/en/blog/zoom-scribe-speech-accessibility",
+    "relatedSources": [
+      {
+        "name": "Zoom",
+        "url": "https://www.zoom.com/en/blog/zoom-scribe-speech-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-6ceeeeab",
+    "status": "published",
+    "translationOf": "what-the-speech-accessibility-project-teaches-us-about-the-future-of-speech-ai-6ceeeeab",
+    "publishedAt": "2026-07-24T19:47:43.000Z",
+    "fetchedAt": "2026-07-27T00:58:00.032Z",
+    "body": "語音無障礙專案揭示了語音 AI 如何改進以更好地服務殘障使用者，例如聾人或語言障礙者。\n\n原文來源： [Zoom](https://www.zoom.com/en/blog/zoom-scribe-speech-accessibility)"
+  },
+  {
+    "title": "小企業與無障礙：如何確保政策正確到位",
+    "slug": "small-businesses-and-accessibility-how-to-make-sure-your-policies-are-correctly--zh-856b9162",
+    "lang": "zh-TW",
+    "summary": "該文章指導小企業如何實施符合殘障權利法規的無障礙政策，以確保客戶與員工享有平等存取。",
+    "category": "laws-rights",
+    "tags": [
+      "small business",
+      "accessibility policy",
+      "ADA",
+      "laws"
+    ],
+    "sourceName": "News Channel 3-12",
+    "sourceUrl": "https://keyt.com/stacker-small-business/2026/07/24/small-businesses-and-accessibility-how-to-make-sure-your-policies-are-correctly-in-place",
+    "relatedSources": [
+      {
+        "name": "News Channel 3-12",
+        "url": "https://keyt.com/stacker-small-business/2026/07/24/small-businesses-and-accessibility-how-to-make-sure-your-policies-are-correctly-in-place"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-856b9162",
+    "status": "published",
+    "translationOf": "small-businesses-and-accessibility-how-to-make-sure-your-policies-are-correctly--856b9162",
+    "publishedAt": "2026-07-24T21:48:56.000Z",
+    "fetchedAt": "2026-07-27T00:58:00.097Z",
+    "body": "該文章指導小企業如何實施符合殘障權利法規的無障礙政策，以確保客戶與員工享有平等存取。\n\n原文來源： [News Channel 3-12](https://keyt.com/stacker-small-business/2026/07/24/small-businesses-and-accessibility-how-to-make-sure-your-policies-are-correctly-in-place)"
+  },
+  {
+    "title": "公寓市場低迷　發展商搶攻銀髮族市場　轉向長者及無障礙出租住宅",
+    "slug": "apartment-market-slump-developers-target-silver-haired-market-shift-to-elderly-a-zh-bf6d5b24",
+    "lang": "zh-TW",
+    "summary": "公寓市場低迷　發展商搶攻銀髮族市場　轉向長者及無障礙出租住宅  singtao.ca",
+    "category": "physical-design",
+    "tags": [
+      "elderly",
+      "housing",
+      "accessibility",
+      "real-estate"
+    ],
+    "sourceName": "singtao.ca",
+    "sourceUrl": "https://www.singtao.ca/7578375/2026-07-26/news-%E5%85%AC%E5%AF%93%E5%B8%82%E5%A0%B4%E4%BD%8E%E8%BF%B7%E3%80%80%E7%99%BC%E5%B1%95%E5%95%86%E6%90%B6%E6%94%BB%E9%8A%80%E9%AB%AE%E6%97%8F%E5%B8%82%E5%A0%B4%E3%80%80%E8%BD%89%E5%90%91%E9%95%B7%E8%80%85%E5%8F%8A%E7%84%A1%E9%9A%9C%E7%A4%99%E5%87%BA%E7%A7%9F%E4%BD%8F%E5%AE%85",
+    "relatedSources": [
+      {
+        "name": "singtao.ca",
+        "url": "https://www.singtao.ca/7578375/2026-07-26/news-%E5%85%AC%E5%AF%93%E5%B8%82%E5%A0%B4%E4%BD%8E%E8%BF%B7%E3%80%80%E7%99%BC%E5%B1%95%E5%95%86%E6%90%B6%E6%94%BB%E9%8A%80%E9%AB%AE%E6%97%8F%E5%B8%82%E5%A0%B4%E3%80%80%E8%BD%89%E5%90%91%E9%95%B7%E8%80%85%E5%8F%8A%E7%84%A1%E9%9A%9C%E7%A4%99%E5%87%BA%E7%A7%9F%E4%BD%8F%E5%AE%85"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-bf6d5b24",
+    "status": "published",
+    "translationOf": "apartment-market-slump-developers-target-silver-haired-market-shift-to-elderly-a-bf6d5b24",
+    "publishedAt": "2026-07-26T23:49:02.000Z",
+    "fetchedAt": "2026-07-27T00:58:16.231Z",
+    "body": "公寓市場低迷　發展商搶攻銀髮族市場　轉向長者及無障礙出租住宅  singtao.ca\n\n原文來源： [singtao.ca](https://www.singtao.ca/7578375/2026-07-26/news-%E5%85%AC%E5%AF%93%E5%B8%82%E5%A0%B4%E4%BD%8E%E8%BF%B7%E3%80%80%E7%99%BC%E5%B1%95%E5%95%86%E6%90%B6%E6%94%BB%E9%8A%80%E9%AB%AE%E6%97%8F%E5%B8%82%E5%A0%B4%E3%80%80%E8%BD%89%E5%90%91%E9%95%B7%E8%80%85%E5%8F%8A%E7%84%A1%E9%9A%9C%E7%A4%99%E5%87%BA%E7%A7%9F%E4%BD%8F%E5%AE%85)"
+  },
+  {
+    "title": "台南改善校園無障礙環境 3年投入逾1.1億元",
+    "slug": "tainan-improves-campus-accessibility-environment-invests-over-nt110-million-in-t-zh-64d630c7",
+    "lang": "zh-TW",
+    "summary": "台南改善校園無障礙環境 3年投入逾1.1億元  自由時報",
+    "category": "physical-design",
+    "tags": [
+      "education",
+      "campus",
+      "accessibility",
+      "funding"
+    ],
+    "sourceName": "自由時報",
+    "sourceUrl": "https://news.ltn.com.tw/news/Tainan/breakingnews/5516213",
+    "relatedSources": [
+      {
+        "name": "自由時報",
+        "url": "https://news.ltn.com.tw/news/Tainan/breakingnews/5516213"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-64d630c7",
+    "status": "published",
+    "translationOf": "tainan-improves-campus-accessibility-environment-invests-over-nt110-million-in-t-64d630c7",
+    "publishedAt": "2026-07-24T05:54:50.000Z",
+    "fetchedAt": "2026-07-27T00:58:16.324Z",
+    "body": "台南改善校園無障礙環境 3年投入逾1.1億元  自由時報\n\n原文來源： [自由時報](https://news.ltn.com.tw/news/Tainan/breakingnews/5516213)"
+  },
+  {
+    "title": "布碌崙百年地鐵站 無障礙設施完工",
+    "slug": "brooklyn-century-old-subway-station-completes-accessibility-facilities-zh-71b006a2",
+    "lang": "zh-TW",
+    "summary": "布碌崙百年地鐵站 無障礙設施完工  世界新聞網",
+    "category": "physical-design",
+    "tags": [
+      "transit",
+      "subway",
+      "accessibility",
+      "infrastructure"
+    ],
+    "sourceName": "世界新聞網",
+    "sourceUrl": "https://www.worldjournal.com/wj/story/121390/9648021",
+    "relatedSources": [
+      {
+        "name": "世界新聞網",
+        "url": "https://www.worldjournal.com/wj/story/121390/9648021"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-71b006a2",
+    "status": "published",
+    "translationOf": "brooklyn-century-old-subway-station-completes-accessibility-facilities-71b006a2",
+    "publishedAt": "2026-07-24T06:25:00.000Z",
+    "fetchedAt": "2026-07-27T00:58:16.387Z",
+    "body": "布碌崙百年地鐵站 無障礙設施完工  世界新聞網\n\n原文來源： [世界新聞網](https://www.worldjournal.com/wj/story/121390/9648021)"
+  },
+  {
+    "title": "2015 年 Toyota Sienna LE 輪椅無障礙改裝車（VMI）",
+    "slug": "2015-toyota-sienna-le-wheelchair-van-by-vmi-zh-9f3ff87d",
+    "lang": "zh-TW",
+    "summary": "此 2015 年 Toyota Sienna LE 小型廂車已裝設 VMI Northstar 輪椅無障礙改裝，搭載 3.5 升 V6 引擎與六速自動變速箱，外觀為 Predawn Gray Mica，內裡為 Ash 布料座椅。",
+    "category": "physical-design",
+    "tags": [
+      "wheelchair van",
+      "VMI conversion",
+      "accessible vehicle",
+      "Toyota Sienna"
+    ],
+    "sourceName": "Bringatrailer.com",
+    "sourceUrl": "https://bringatrailer.com/listing/2015-toyota-sienna-3",
+    "relatedSources": [
+      {
+        "name": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/2015-toyota-sienna-3"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-9f3ff87d",
+    "status": "published",
+    "translationOf": "2015-toyota-sienna-le-wheelchair-van-by-vmi-9f3ff87d",
+    "publishedAt": "2026-07-25T17:45:08.000Z",
+    "fetchedAt": "2026-07-27T00:58:36.625Z",
+    "body": "此 2015 年 Toyota Sienna LE 小型廂車已裝設 VMI Northstar 輪椅無障礙改裝，搭載 3.5 升 V6 引擎與六速自動變速箱，外觀為 Predawn Gray Mica，內裡為 Ash 布料座椅。\n\n原文來源： [Bringatrailer.com](https://bringatrailer.com/listing/2015-toyota-sienna-3)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "fantoma-090-zh-02c0ab94",
+    "lang": "zh-TW",
+    "summary": "一個以無障礙為優先的瀏覽器自動化庫，專為 AI 代理設計，內含 MCP 伺服器，可在小型本地 LLMs 上運行。",
+    "category": "digital-a11y",
+    "tags": [
+      "browser automation",
+      "AI agents",
+      "accessibility-first",
+      "MCP server",
+      "LLM"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/fantoma/0.9.0",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/fantoma/0.9.0"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-02c0ab94",
+    "status": "published",
+    "translationOf": "fantoma-090-02c0ab94",
+    "publishedAt": "2026-07-25T15:52:20.000Z",
+    "fetchedAt": "2026-07-27T00:58:36.719Z",
+    "body": "一個以無障礙為優先的瀏覽器自動化庫，專為 AI 代理設計，內含 MCP 伺服器，可在小型本地 LLMs 上運行。\n\n原文來源： [Pypi.org](https://pypi.org/project/fantoma/0.9.0)"
+  },
+  {
+    "title": "白石灘免費提供輪椅出租",
+    "slug": "beach-wheelchairs-available-to-rent-for-free-at-white-rock-beach-zh-4f170c17",
+    "lang": "zh-TW",
+    "summary": "白石市將再增購一輛配備浮具的海灘輪椅，供輪椅使用者免費租用進入水中。",
+    "category": "assistive-tech",
+    "tags": [
+      "beach wheelchair",
+      "free rental",
+      "White Rock",
+      "flotation devices",
+      "water access"
+    ],
+    "sourceName": "CBC News",
+    "sourceUrl": "https://www.cbc.ca/news/canada/british-columbia/free-beach-wheelchairs-white-rock-9.7278890",
+    "relatedSources": [
+      {
+        "name": "CBC News",
+        "url": "https://www.cbc.ca/news/canada/british-columbia/free-beach-wheelchairs-white-rock-9.7278890"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-4f170c17",
+    "status": "published",
+    "translationOf": "beach-wheelchairs-available-to-rent-for-free-at-white-rock-beach-4f170c17",
+    "publishedAt": "2026-07-25T13:00:00.000Z",
+    "fetchedAt": "2026-07-27T00:58:36.785Z",
+    "body": "白石市將再增購一輛配備浮具的海灘輪椅，供輪椅使用者免費租用進入水中。\n\n原文來源： [CBC News](https://www.cbc.ca/news/canada/british-columbia/free-beach-wheelchairs-white-rock-9.7278890)"
   }
 ]
