@@ -1,51 +1,63 @@
 {
   "date": "2026-07-27",
-  "generatedAt": "2026-07-27T01:10:20.523Z",
+  "generatedAt": "2026-07-27T13:32:29.834Z",
   "en": {
-    "title": "Amtrak Modernizes Fleet with Accessibility Upgrades, Boosting Disabled Travel",
-    "summary": "Amtrak announced fleet modernization incorporating wheelchair ramps, priority seating, tactile signage, and audio description services to improve accessibility for disabled passengers. Meanwhile, McDowell launched initiatives to improve accessibility across Wyoming, and a disability rights campaign in Kobe marked the 10th anniversary of the Sagamihara stabbing with anti-discrimination outreach. Research shows that 85% of students using accessibility tools do not have documented disabilities, highlighting universal design benefits, while AI innovations are boosting independence for people with developmental disabilities.",
+    "title": "Mainland China Considers New Disability Education and Accessibility Laws",
+    "summary": "Mainland China is researching improvements to disability education law and plans to promulgate an accessible environment construction law. Meta may place accessibility features behind a paywall on its Glasses, potentially benefiting Apple if it offers them free, while major OTTs are urged to prioritize captions and audio description. Research shows youth disability inequity unchanged, transport adds hearing‑impaired driver signs, and social media discusses ableism in anime.",
     "highlights": [
       {
-        "title": "Accessibility by Design: Inside Amtrak’s Fleet Modernization",
-        "slug": "accessibility-by-design-inside-amtraks-fleet-modernization-00eef6ac"
+        "title": "Mainland China studies improving disability education law, to issue accessible environment construction law",
+        "slug": "mainland-china-studies-improving-disability-education-law-to-issue-accessible-en-73ea7574"
       },
       {
-        "title": "Accessibility by Design: Inside Amtrak’s Fleet Modernization (Audio Descriptions)",
-        "slug": "accessibility-by-design-inside-amtraks-fleet-modernization-audio-descriptions-f4579205"
+        "title": "An accessibility paywall on Meta Glasses could be good news for Apple Glasses - 9to5Mac",
+        "slug": "an-accessibility-paywall-on-meta-glasses-could-be-good-news-for-apple-glasses-9t-f350c521"
       },
       {
-        "title": "Anti-Discrimination Campaign in Kobe",
-        "slug": "anti-discrimination-campaign-in-kobe-1a47c12b"
+        "title": "The big three OTTs should lead the march on accessibility",
+        "slug": "the-big-three-otts-should-lead-the-march-on-accessibility-6b631389"
       },
       {
-        "title": "Impact of Accessibility Tools on Students",
-        "slug": "impact-of-accessibility-tools-on-students-5234ac74"
+        "title": "Youth with disabilities say inequity unchanged this century",
+        "slug": "youth-with-disabilities-say-inequity-unchanged-this-century-73cddf62"
+      },
+      {
+        "title": "Ministry of Transportation promotes hearing-impaired driver identification signs to create friendly barrier-free traffic environment",
+        "slug": "ministry-of-transportation-promotes-hearing-impaired-driver-identification-signs-2aac7ee3"
+      },
+      {
+        "title": "Concerns Over Ableism in Anime",
+        "slug": "concerns-over-ableism-in-anime-037d595e"
       }
     ]
   },
   "zh-TW": {
-    "title": "Amtrak升級無障礙車隊，提升殘障旅客體驗",
-    "summary": "Amtrak 宣布艦隊現代化計畫，加裝輪椅坡道、優先座位、觸覺標誌及音訊描述服務，以提升殘障乘客的無障礙旅行體驗。同時，McDowell 推動懷俄明州無障礙設施改善，神戶反歧視運動紀念相模原事件十週年，喚起社會關注。研究顯示 85% 使用無障礙工具的學生並無殘障證明，凸顯普惠設計的價值；AI 則協助發展障礙者提升獨立生活能力。",
+    "title": "內地研究完善殘疾人教育法 規劃無障礙環境建設法",
+    "summary": "內地正研究完善殘疾人教育等法制，計劃出台無障礙環境建設法。Meta 可能將其眼鏡的某些無障礙功能設置為付費牆，這可能讓 Apple 在免費提供類似功能時獲得優勢。主要 OTT 平台被呼籲優先提供字幕、聲音描述及使用者介面改進，研究顯示殘疾青年不平等程度未改變，交通部推出聽障駕駛識別標識，社群討論則關注動畫中的能力主義。",
     "highlights": [
       {
-        "title": "無障礙設計：深入Amtrak艦隊現代化",
-        "slug": "accessibility-by-design-inside-amtraks-fleet-modernization-zh-00eef6ac"
+        "title": "內地研完善殘疾人教育等法制 出台無障礙環境建設法 - on.cc東網",
+        "slug": "mainland-china-studies-improving-disability-education-law-to-issue-accessible-en-zh-73ea7574"
       },
       {
-        "title": "AI 提升發展障礙者的獨立能力",
-        "slug": "ai-enhancing-independence-for-people-with-developmental-disabilities-zh-11648530"
+        "title": "Meta 眼鏡的無障礙付費牆可能對 Apple 眼鏡有利 - 9to5Mac",
+        "slug": "an-accessibility-paywall-on-meta-glasses-could-be-good-news-for-apple-glasses-9t-zh-f350c521"
       },
       {
-        "title": "無障礙社群訊號 2081364834063712668",
-        "slug": "anti-discrimination-campaign-in-kobe-zh-1a47c12b"
+        "title": "三大OTT應帶頭推動無障礙",
+        "slug": "the-big-three-otts-should-lead-the-march-on-accessibility-zh-6b631389"
       },
       {
-        "title": "McDowell 為懷俄明州打造更無障礙的環境",
-        "slug": "mcdowell-opens-doors-for-a-more-accessible-wyoming-zh-edeb0baa"
+        "title": "殘疾青年表示本世紀不平等現象未改變",
+        "slug": "youth-with-disabilities-say-inequity-unchanged-this-century-zh-73cddf62"
       },
       {
-        "title": "快速城市殘障意識與無障礙委員會舉辦年度殘障資源博覽會 - NewsCenter1",
-        "slug": "rapid-citys-disability-awareness-and-accessibility-committee-holds-annual-disabi-zh-2b351049"
+        "title": "交通部推「聽障駕駛識別標識」 營造友善無障礙交通環境",
+        "slug": "ministry-of-transportation-promotes-hearing-impaired-driver-identification-signs-zh-2aac7ee3"
+      },
+      {
+        "title": "對動畫中能力主義的擔憂",
+        "slug": "concerns-over-ableism-in-anime-zh-037d595e"
       }
     ]
   }
