@@ -1,63 +1,55 @@
 {
-  "date": "2026-07-27",
-  "generatedAt": "2026-07-27T13:32:29.834Z",
+  "date": "2026-07-28",
+  "generatedAt": "2026-07-28T13:11:40.983Z",
   "en": {
-    "title": "Mainland China Considers New Disability Education and Accessibility Laws",
-    "summary": "Mainland China is researching improvements to disability education law and plans to promulgate an accessible environment construction law. Meta may place accessibility features behind a paywall on its Glasses, potentially benefiting Apple if it offers them free, while major OTTs are urged to prioritize captions and audio description. Research shows youth disability inequity unchanged, transport adds hearing‑impaired driver signs, and social media discusses ableism in anime.",
+    "title": "Global hearing accessibility standards advance as IAHA launches international working group",
+    "summary": "The International Association of Hearing Aid Professionals (IAHA) has formed a global working group to develop and promote hearing accessibility standards. This initiative aims to improve access for people with hearing disabilities worldwide. Additionally, Amtrak announced nationwide station and train upgrades, while accessiBe reported that 78% of ecommerce content is AI-generated and largely unchecked for accessibility.",
     "highlights": [
       {
-        "title": "Mainland China studies improving disability education law, to issue accessible environment construction law",
-        "slug": "mainland-china-studies-improving-disability-education-law-to-issue-accessible-en-73ea7574"
+        "title": "IAHA Forms Global Working Group to Advance Hearing Accessibility Standards",
+        "slug": "iaha-forms-global-working-group-to-advance-hearing-accessibility-standards-01c8df47"
       },
       {
-        "title": "An accessibility paywall on Meta Glasses could be good news for Apple Glasses - 9to5Mac",
-        "slug": "an-accessibility-paywall-on-meta-glasses-could-be-good-news-for-apple-glasses-9t-f350c521"
+        "title": "Levitt AMP Harrisonburg Music Series Adds New Accessibility Equipment",
+        "slug": "levitt-amp-harrisonburg-music-series-adds-new-accessibility-equipment-d3b0d505"
       },
       {
-        "title": "The big three OTTs should lead the march on accessibility",
-        "slug": "the-big-three-otts-should-lead-the-march-on-accessibility-6b631389"
+        "title": "ISF Net Joy Receives Monis Certification",
+        "slug": "isf-net-joy-receives-monis-certification-054a8668"
       },
       {
-        "title": "Youth with disabilities say inequity unchanged this century",
-        "slug": "youth-with-disabilities-say-inequity-unchanged-this-century-73cddf62"
+        "title": "accessiBe finds 78% of ecommerce content is AI-generated; almost none checked for accessibility",
+        "slug": "accessibe-finds-78-of-ecommerce-content-is-ai-generated-almost-none-checked-for--9ff6f5a7"
       },
       {
-        "title": "Ministry of Transportation promotes hearing-impaired driver identification signs to create friendly barrier-free traffic environment",
-        "slug": "ministry-of-transportation-promotes-hearing-impaired-driver-identification-signs-2aac7ee3"
-      },
-      {
-        "title": "Concerns Over Ableism in Anime",
-        "slug": "concerns-over-ableism-in-anime-037d595e"
+        "title": "Amtrak Advances Accessibility Across Its National Network",
+        "slug": "amtrak-advances-accessibility-across-its-national-network-55cc02c0"
       }
     ]
   },
   "zh-TW": {
-    "title": "內地研究完善殘疾人教育法 規劃無障礙環境建設法",
-    "summary": "內地正研究完善殘疾人教育等法制，計劃出台無障礙環境建設法。Meta 可能將其眼鏡的某些無障礙功能設置為付費牆，這可能讓 Apple 在免費提供類似功能時獲得優勢。主要 OTT 平台被呼籲優先提供字幕、聲音描述及使用者介面改進，研究顯示殘疾青年不平等程度未改變，交通部推出聽障駕駛識別標識，社群討論則關注動畫中的能力主義。",
+    "title": "IAHA成立全球工作小組推進聽力無障礙標準",
+    "summary": "國際助聽器專業協會（IAHA）成立全球工作小組，致力於推進聽力無障礙標準的制定與推廣。此外，Levitt AMP 哈里森堡音樂系列新增無障礙設備，以提升殘障觀眾體驗。accessiBe 研究顯示 78% 電子商務內容為 AI 生成，幾乎未經無障礙檢查。",
     "highlights": [
       {
-        "title": "內地研完善殘疾人教育等法制 出台無障礙環境建設法 - on.cc東網",
-        "slug": "mainland-china-studies-improving-disability-education-law-to-issue-accessible-en-zh-73ea7574"
+        "title": "IAHA 成立全球工作小組推進聽力無障礙標準",
+        "slug": "iaha-forms-global-working-group-to-advance-hearing-accessibility-standards-zh-01c8df47"
       },
       {
-        "title": "Meta 眼鏡的無障礙付費牆可能對 Apple 眼鏡有利 - 9to5Mac",
-        "slug": "an-accessibility-paywall-on-meta-glasses-could-be-good-news-for-apple-glasses-9t-zh-f350c521"
+        "title": "Levitt AMP 哈里森堡音樂系列新增無障礙設備",
+        "slug": "levitt-amp-harrisonburg-music-series-adds-new-accessibility-equipment-zh-d3b0d505"
       },
       {
-        "title": "三大OTT應帶頭推動無障礙",
-        "slug": "the-big-three-otts-should-lead-the-march-on-accessibility-zh-6b631389"
+        "title": "無障礙社群訊號 2081909303917916452",
+        "slug": "isf-net-joy-receives-monis-certification-zh-054a8668"
       },
       {
-        "title": "殘疾青年表示本世紀不平等現象未改變",
-        "slug": "youth-with-disabilities-say-inequity-unchanged-this-century-zh-73cddf62"
+        "title": "accessiBe 發現 78% 的電子商務內容為 AI 生成；幾乎未經無障礙檢查",
+        "slug": "accessibe-finds-78-of-ecommerce-content-is-ai-generated-almost-none-checked-for--zh-9ff6f5a7"
       },
       {
-        "title": "交通部推「聽障駕駛識別標識」 營造友善無障礙交通環境",
-        "slug": "ministry-of-transportation-promotes-hearing-impaired-driver-identification-signs-zh-2aac7ee3"
-      },
-      {
-        "title": "對動畫中能力主義的擔憂",
-        "slug": "concerns-over-ableism-in-anime-zh-037d595e"
+        "title": "Amtrak 提升全國鐵路網無障礙設施",
+        "slug": "amtrak-advances-accessibility-across-its-national-network-zh-55cc02c0"
       }
     ]
   }
