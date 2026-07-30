@@ -76339,5 +76339,428 @@
     "publishedAt": "2026-07-30T00:58:51.000Z",
     "fetchedAt": "2026-07-30T01:10:09.790Z",
     "body": "A social media post detailing personal experiences with systemic discrimination against individuals with visual, physical, and mental disabilities.\nTweet source: [June🥤しはる日中通訳・鍼師の卵 (@tiffy_june_)](https://x.com/tiffy_june_/status/2082631975639343200)"
+  },
+  {
+    "title": "U’s homepage ranks in WebAIM’s top 5% for accessibility",
+    "slug": "us-homepage-ranks-in-webaims-top-5-for-accessibility-3fd3692e",
+    "lang": "en",
+    "summary": "The University of Utah's homepage achieved a top 5% ranking in WebAIM's accessibility evaluation.",
+    "category": "digital-a11y",
+    "tags": [
+      "web accessibility",
+      "WebAIM",
+      "university",
+      "homepage"
+    ],
+    "sourceName": "The University of Utah",
+    "sourceUrl": "https://attheu.utah.edu/home-page/university-of-utah-homepage-ranks-in-webaims-top-5-for-accessibility",
+    "relatedSources": [
+      {
+        "name": "The University of Utah",
+        "url": "https://attheu.utah.edu/home-page/university-of-utah-homepage-ranks-in-webaims-top-5-for-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3fd3692e",
+    "status": "published",
+    "translationOf": "us-homepage-ranks-in-webaims-top-5-for-accessibility-zh-3fd3692e",
+    "publishedAt": "2026-07-29T22:45:07.000Z",
+    "fetchedAt": "2026-07-30T12:48:35.327Z",
+    "body": "The University of Utah's homepage achieved a top 5% ranking in WebAIM's accessibility evaluation.\n\nRead more from the original source: [The University of Utah](https://attheu.utah.edu/home-page/university-of-utah-homepage-ranks-in-webaims-top-5-for-accessibility)"
+  },
+  {
+    "title": "DEC celebrates anniversary of Americans with Disabilities Act and expanded accessible outdoor recreation",
+    "slug": "dec-celebrates-anniversary-of-americans-with-disabilities-act-and-expanded-acces-7ed5c07e",
+    "lang": "en",
+    "summary": "The New York State Department of Environmental Conservation marks the ADA anniversary with expanded accessible outdoor recreation opportunities.",
+    "category": "physical-design",
+    "tags": [
+      "ADA",
+      "outdoor recreation",
+      "accessibility",
+      "New York",
+      "DEC"
+    ],
+    "sourceName": "Adirondack Explorer",
+    "sourceUrl": "https://www.adirondackexplorer.org/communities/dec-celebrates-anniversary-of-americans-with-disabilities-act-and-expanded-accessible-outdoor-recreation",
+    "relatedSources": [
+      {
+        "name": "Adirondack Explorer",
+        "url": "https://www.adirondackexplorer.org/communities/dec-celebrates-anniversary-of-americans-with-disabilities-act-and-expanded-accessible-outdoor-recreation"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-7ed5c07e",
+    "status": "published",
+    "translationOf": "dec-celebrates-anniversary-of-americans-with-disabilities-act-and-expanded-acces-zh-7ed5c07e",
+    "publishedAt": "2026-07-30T12:00:00.000Z",
+    "fetchedAt": "2026-07-30T12:48:35.429Z",
+    "body": "The New York State Department of Environmental Conservation marks the ADA anniversary with expanded accessible outdoor recreation opportunities.\n\nRead more from the original source: [Adirondack Explorer](https://www.adirondackexplorer.org/communities/dec-celebrates-anniversary-of-americans-with-disabilities-act-and-expanded-accessible-outdoor-recreation)"
+  },
+  {
+    "title": "Digital euro app to incorporate highest accessibility standards",
+    "slug": "digital-euro-app-to-incorporate-highest-accessibility-standards-1afd5af9",
+    "lang": "en",
+    "summary": "The European Central Bank plans to build the digital euro application following the highest accessibility standards.",
+    "category": "digital-a11y",
+    "tags": [
+      "digital euro",
+      "accessibility standards",
+      "ECB",
+      "fintech"
+    ],
+    "sourceName": "European Central Bank",
+    "sourceUrl": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260730~3b3bfbb565.en.html",
+    "relatedSources": [
+      {
+        "name": "European Central Bank",
+        "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260730~3b3bfbb565.en.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-1afd5af9",
+    "status": "published",
+    "translationOf": "digital-euro-app-to-incorporate-highest-accessibility-standards-zh-1afd5af9",
+    "publishedAt": "2026-07-30T08:00:42.000Z",
+    "fetchedAt": "2026-07-30T12:48:35.503Z",
+    "body": "The European Central Bank plans to build the digital euro application following the highest accessibility standards.\n\nRead more from the original source: [European Central Bank](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260730~3b3bfbb565.en.html)"
+  },
+  {
+    "title": "World's Only Event Accessibility Conference Heads to the U.S.",
+    "slug": "worlds-only-event-accessibility-conference-heads-to-the-us-5adff41b",
+    "lang": "en",
+    "summary": "The conference focusing on making events accessible for people with disabilities is coming to the United States.",
+    "category": "physical-design",
+    "tags": [
+      "event",
+      "accessibility",
+      "conference",
+      "disability"
+    ],
+    "sourceName": "24-7 Press Release Newswire",
+    "sourceUrl": "https://www.24-7pressrelease.com/press-release/537275/worlds-only-event-accessibility-conference-heads-to-the-us",
+    "relatedSources": [
+      {
+        "name": "24-7 Press Release Newswire",
+        "url": "https://www.24-7pressrelease.com/press-release/537275/worlds-only-event-accessibility-conference-heads-to-the-us"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5adff41b",
+    "status": "published",
+    "translationOf": "worlds-only-event-accessibility-conference-heads-to-the-us-zh-5adff41b",
+    "publishedAt": "2026-07-30T07:02:59.000Z",
+    "fetchedAt": "2026-07-30T12:49:14.879Z",
+    "body": "The conference focusing on making events accessible for people with disabilities is coming to the United States.\n\nRead more from the original source: [24-7 Press Release Newswire](https://www.24-7pressrelease.com/press-release/537275/worlds-only-event-accessibility-conference-heads-to-the-us)"
+  },
+  {
+    "title": "School complex to get accessibility upgrades",
+    "slug": "school-complex-to-get-accessibility-upgrades-b2509e55",
+    "lang": "en",
+    "summary": "The school complex will receive upgrades such as ramps and elevators to improve accessibility for students and staff with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "school",
+      "accessibility",
+      "upgrades",
+      "disability"
+    ],
+    "sourceName": "andovertownsman.com",
+    "sourceUrl": "https://www.andovertownsman.com/news/education/school-complex-to-get-accessibility-upgrades/article_ce9d04e0-8efa-5982-98d4-6dc8efc744a9.html",
+    "relatedSources": [
+      {
+        "name": "andovertownsman.com",
+        "url": "https://www.andovertownsman.com/news/education/school-complex-to-get-accessibility-upgrades/article_ce9d04e0-8efa-5982-98d4-6dc8efc744a9.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-b2509e55",
+    "status": "published",
+    "translationOf": "school-complex-to-get-accessibility-upgrades-zh-b2509e55",
+    "publishedAt": "2026-07-30T09:00:00.000Z",
+    "fetchedAt": "2026-07-30T12:49:14.978Z",
+    "body": "The school complex will receive upgrades such as ramps and elevators to improve accessibility for students and staff with disabilities.\n\nRead more from the original source: [andovertownsman.com](https://www.andovertownsman.com/news/education/school-complex-to-get-accessibility-upgrades/article_ce9d04e0-8efa-5982-98d4-6dc8efc744a9.html)"
+  },
+  {
+    "title": "Florence Park Playground Getting Accessibility Upgrades",
+    "slug": "florence-park-playground-getting-accessibility-upgrades-379f01fa",
+    "lang": "en",
+    "summary": "Florence Park's playground will be upgraded with sensory play equipment and wheelchair-accessible paths to ensure inclusive play for all children.",
+    "category": "physical-design",
+    "tags": [
+      "playground",
+      "accessibility",
+      "upgrades",
+      "disability"
+    ],
+    "sourceName": "WHNT.com",
+    "sourceUrl": "https://whnt.com/video/florence-park-playground-getting-accessibility-upgrades-july-29-2026-news-19-at-500/12018319",
+    "relatedSources": [
+      {
+        "name": "WHNT.com",
+        "url": "https://whnt.com/video/florence-park-playground-getting-accessibility-upgrades-july-29-2026-news-19-at-500/12018319"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-379f01fa",
+    "status": "published",
+    "translationOf": "florence-park-playground-getting-accessibility-upgrades-zh-379f01fa",
+    "publishedAt": "2026-07-29T22:18:38.000Z",
+    "fetchedAt": "2026-07-30T12:49:15.048Z",
+    "body": "Florence Park's playground will be upgraded with sensory play equipment and wheelchair-accessible paths to ensure inclusive play for all children.\n\nRead more from the original source: [WHNT.com](https://whnt.com/video/florence-park-playground-getting-accessibility-upgrades-july-29-2026-news-19-at-500/12018319)"
+  },
+  {
+    "title": "Palm Springs Airport Launches Redesigned, More Accessible Website",
+    "slug": "palm-springs-airport-launches-redesigned-more-accessible-website-20294b5d",
+    "lang": "en",
+    "summary": "Palm Springs Airport launched a redesigned website with improved accessibility features for users with disabilities.",
+    "category": "digital-a11y",
+    "tags": [
+      "website",
+      "accessibility",
+      "airport",
+      "digital"
+    ],
+    "sourceName": "NBC Palm Springs",
+    "sourceUrl": "https://www.nbcpalmsprings.com/2026/07/29/palm-springs-airport-launches-redesigned-more-accessible-website",
+    "relatedSources": [
+      {
+        "name": "NBC Palm Springs",
+        "url": "https://www.nbcpalmsprings.com/2026/07/29/palm-springs-airport-launches-redesigned-more-accessible-website"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-20294b5d",
+    "status": "published",
+    "translationOf": "palm-springs-airport-launches-redesigned-more-accessible-website-zh-20294b5d",
+    "publishedAt": "2026-07-30T02:05:00.000Z",
+    "fetchedAt": "2026-07-30T12:49:29.329Z",
+    "body": "Palm Springs Airport launched a redesigned website with improved accessibility features for users with disabilities.\n\nRead more from the original source: [NBC Palm Springs](https://www.nbcpalmsprings.com/2026/07/29/palm-springs-airport-launches-redesigned-more-accessible-website)"
+  },
+  {
+    "title": "Hong Kong Internet Registration Corporation Limited promotes tech for good through the 'Digital Accessibility Commendation Scheme', helping enterprises practice digital accessibility and social responsibility.",
+    "slug": "hong-kong-internet-registration-corporation-limited-promotes-tech-for-good-throu-b4bd7e6f",
+    "lang": "en",
+    "summary": "The Hong Kong Internet Registration Corporation Limited launched the Digital Accessibility Commendation Scheme to encourage enterprises to adopt digital accessibility practices and fulfill social responsibility.",
+    "category": "digital-a11y",
+    "tags": [
+      "香港",
+      "數碼無障礙",
+      "嘉許計劃",
+      "科技向善",
+      "社會責任"
+    ],
+    "sourceName": "money.udn.com",
+    "sourceUrl": "https://money.udn.com/money/story/123828/9660881",
+    "relatedSources": [
+      {
+        "name": "money.udn.com",
+        "url": "https://money.udn.com/money/story/123828/9660881"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-b4bd7e6f",
+    "status": "published",
+    "translationOf": "hong-kong-internet-registration-corporation-limited-promotes-tech-for-good-throu-zh-b4bd7e6f",
+    "publishedAt": "2026-07-30T08:03:49.000Z",
+    "fetchedAt": "2026-07-30T12:49:29.438Z",
+    "body": "The Hong Kong Internet Registration Corporation Limited launched the Digital Accessibility Commendation Scheme to encourage enterprises to adopt digital accessibility practices and fulfill social responsibility.\n\nRead more from the original source: [money.udn.com](https://money.udn.com/money/story/123828/9660881)"
+  },
+  {
+    "title": "North Sea Tunnel Entrance Wall Sealed Off, Accessible via Barrier-Free Path",
+    "slug": "north-sea-tunnel-entrance-wall-sealed-off-accessible-via-barrier-free-path-3584fa01",
+    "lang": "en",
+    "summary": "The entrance wall of the North Sea Tunnel has been sealed off, but visitors can still enter and exit through the barrier-free (無障礙) pathway, ensuring access for people with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "無障礙步道",
+      "北海坑道",
+      "照壁",
+      "封圍"
+    ],
+    "sourceName": "Yahoo新聞",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%8C%97%E6%B5%B7%E5%9D%91%E9%81%93%E6%AD%A3%E9%96%80%E7%85%A7%E5%A3%81%E8%A2%AB%E5%B0%81%E5%9C%8D-%E5%8F%AF%E5%BE%9E%E7%84%A1%E9%9A%9C%E7%A4%99%E6%AD%A5%E9%81%93%E9%80%B2%E5%87%BA-%E5%9C%96-101012917.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo新聞",
+        "url": "https://tw.news.yahoo.com/%E5%8C%97%E6%B5%B7%E5%9D%91%E9%81%93%E6%AD%A3%E9%96%80%E7%85%A7%E5%A3%81%E8%A2%AB%E5%B0%81%E5%9C%8D-%E5%8F%AF%E5%BE%9E%E7%84%A1%E9%9A%9C%E7%A4%99%E6%AD%A5%E9%81%93%E9%80%B2%E5%87%BA-%E5%9C%96-101012917.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3584fa01",
+    "status": "published",
+    "translationOf": "north-sea-tunnel-entrance-wall-sealed-off-accessible-via-barrier-free-path-zh-3584fa01",
+    "publishedAt": "2026-07-30T10:10:12.000Z",
+    "fetchedAt": "2026-07-30T12:49:45.744Z",
+    "body": "The entrance wall of the North Sea Tunnel has been sealed off, but visitors can still enter and exit through the barrier-free (無障礙) pathway, ensuring access for people with disabilities.\n\nRead more from the original source: [Yahoo新聞](https://tw.news.yahoo.com/%E5%8C%97%E6%B5%B7%E5%9D%91%E9%81%93%E6%AD%A3%E9%96%80%E7%85%A7%E5%A3%81%E8%A2%AB%E5%B0%81%E5%9C%8D-%E5%8F%AF%E5%BE%9E%E7%84%A1%E9%9A%9C%E7%A4%99%E6%AD%A5%E9%81%93%E9%80%B2%E5%87%BA-%E5%9C%96-101012917.html)"
+  },
+  {
+    "title": "Civil society calls for stronger domestic health funding",
+    "slug": "civil-society-calls-for-stronger-domestic-health-funding-d36a620b",
+    "lang": "en",
+    "summary": "Four collective priorities developed through a year-long consultation process were presented to WHO leadership and Member States during a World Health Assembly side event attended by more than 120 participants from governments, civil society, academia and WHO. Nearly 300 civil society voices have called on WHO leadership and Member States to strengthen domestic health financing, … Continue reading \"Civil society calls for stronger domestic health funding\"\nThe post Civil society calls for stronger domestic health funding appeared first on Disability Insider.",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/07/30/health/civil-society-calls-for-stronger-domestic-health-funding",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/07/30/health/civil-society-calls-for-stronger-domestic-health-funding"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-d36a620b",
+    "status": "published",
+    "translationOf": "civil-society-calls-for-stronger-domestic-health-funding-zh-d36a620b",
+    "publishedAt": "2026-07-30T05:05:49.000Z",
+    "fetchedAt": "2026-07-30T12:49:45.845Z",
+    "body": "Four collective priorities developed through a year-long consultation process were presented to WHO leadership and Member States during a World Health Assembly side event attended by more than 120 participants from governments, civil society, academia and WHO. Nearly 300 civil society voices have called on WHO leadership and Member States to strengthen domestic health financing, … Continue reading \"Civil society calls for stronger domestic health funding\"\nThe post Civil society calls for stronger domestic health funding appeared first on Disability Insider.\n\nRead more from the original source: [Unknown source](https://disabilityinsider.com/2026/07/30/health/civil-society-calls-for-stronger-domestic-health-funding)"
+  },
+  {
+    "title": "Darwin woman charged over alleged abuse of public office, NDIS fruad",
+    "slug": "darwin-woman-charged-over-alleged-abuse-of-public-office-ndis-fruad-93a76808",
+    "lang": "en",
+    "summary": "A Darwin woman is the second person to be charged for allegedly using her position as a public servant to facilitate corrupt conduct involving millions of dollars from the National Disability Insurance Scheme (NDIS). Investigators from the Australian Government Fraud Fusion Taskforce (FFT), with the assistance of the Northern Territory Police Force (NT Police), arrested … Continue reading \"Darwin woman charged over alleged abuse of public office, NDIS fruad\"\nThe post Darwin woman charged over alleged abuse of public office, NDIS fruad appeared first on Disability Insider.",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/07/30/law/darwin-woman-charged-over-alleged-abuse-of-public-office-ndis-fruad",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/07/30/law/darwin-woman-charged-over-alleged-abuse-of-public-office-ndis-fruad"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-93a76808",
+    "status": "published",
+    "translationOf": "darwin-woman-charged-over-alleged-abuse-of-public-office-ndis-fruad-zh-93a76808",
+    "publishedAt": "2026-07-30T04:49:57.000Z",
+    "fetchedAt": "2026-07-30T12:49:45.917Z",
+    "body": "A Darwin woman is the second person to be charged for allegedly using her position as a public servant to facilitate corrupt conduct involving millions of dollars from the National Disability Insurance Scheme (NDIS). Investigators from the Australian Government Fraud Fusion Taskforce (FFT), with the assistance of the Northern Territory Police Force (NT Police), arrested … Continue reading \"Darwin woman charged over alleged abuse of public office, NDIS fruad\"\nThe post Darwin woman charged over alleged abuse of public office, NDIS fruad appeared first on Disability Insider.\n\nRead more from the original source: [Unknown source](https://disabilityinsider.com/2026/07/30/law/darwin-woman-charged-over-alleged-abuse-of-public-office-ndis-fruad)"
+  },
+  {
+    "title": "Lagos to introduce special vehicle number plates for PWDs",
+    "slug": "lagos-to-introduce-special-vehicle-number-plates-for-pwds-2dc8a443",
+    "lang": "en",
+    "summary": "Lagos State plans to introduce special vehicle number plates for Persons with Disabilities (PWDs) to enhance inclusion and accessibility.",
+    "category": "physical-design",
+    "tags": [
+      "Lagos",
+      "Nigeria",
+      "vehicle plates",
+      "PWDs",
+      "inclusion"
+    ],
+    "sourceName": "The Punch",
+    "sourceUrl": "https://punchng.com/lagos-to-introduce-special-vehicle-number-plates-for-pwds",
+    "relatedSources": [
+      {
+        "name": "The Punch",
+        "url": "https://punchng.com/lagos-to-introduce-special-vehicle-number-plates-for-pwds"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-2dc8a443",
+    "status": "published",
+    "translationOf": "lagos-to-introduce-special-vehicle-number-plates-for-pwds-zh-2dc8a443",
+    "publishedAt": "2026-07-29T10:21:54.000Z",
+    "fetchedAt": "2026-07-30T12:52:38.639Z",
+    "body": "Lagos State plans to introduce special vehicle number plates for Persons with Disabilities (PWDs) to enhance inclusion and accessibility.\n\nRead more from the original source: [The Punch](https://punchng.com/lagos-to-introduce-special-vehicle-number-plates-for-pwds)"
+  },
+  {
+    "title": "tk-uia 0.8.0",
+    "slug": "tk-uia-080-73c8679f",
+    "lang": "en",
+    "summary": "Make Tkinter widgets visible to Windows accessibility clients: screen readers and UI Automation see named, correctly-roled controls instead of anonymous panes.",
+    "category": "digital-a11y",
+    "tags": [
+      "Tkinter",
+      "UI Automation",
+      "screen readers",
+      "accessibility",
+      "Python"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/tk-uia/0.8.0",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/tk-uia/0.8.0"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-73c8679f",
+    "status": "published",
+    "translationOf": "tk-uia-080-zh-73c8679f",
+    "publishedAt": "2026-07-29T10:16:49.000Z",
+    "fetchedAt": "2026-07-30T12:52:38.740Z",
+    "body": "Make Tkinter widgets visible to Windows accessibility clients: screen readers and UI Automation see named, correctly-roled controls instead of anonymous panes.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/tk-uia/0.8.0)"
   }
 ]
