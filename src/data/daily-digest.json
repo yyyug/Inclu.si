@@ -1,55 +1,63 @@
 {
-  "date": "2026-07-28",
-  "generatedAt": "2026-07-28T13:11:40.983Z",
+  "date": "2026-07-30",
+  "generatedAt": "2026-07-30T01:03:11.631Z",
   "en": {
-    "title": "Global hearing accessibility standards advance as IAHA launches international working group",
-    "summary": "The International Association of Hearing Aid Professionals (IAHA) has formed a global working group to develop and promote hearing accessibility standards. This initiative aims to improve access for people with hearing disabilities worldwide. Additionally, Amtrak announced nationwide station and train upgrades, while accessiBe reported that 78% of ecommerce content is AI-generated and largely unchecked for accessibility.",
+    "title": "Pasadena Promotes CASp Inspections to Improve Business Accessibility Standards",
+    "summary": "Pasadena is encouraging businesses to undergo Certified Access Specialist (CASp) inspections to meet accessibility laws and remove barriers for people with disabilities. Meanwhile, a US startup launched a tongue-operated orthodontic device for computer control, and Japanese advocates requested sign language announcements at high school baseball games. Additional highlights include an AI accessibility survey, a library conversation on reducing barriers, and a personal account of accessibility challenges at a Dracula performance.",
     "highlights": [
       {
-        "title": "IAHA Forms Global Working Group to Advance Hearing Accessibility Standards",
-        "slug": "iaha-forms-global-working-group-to-advance-hearing-accessibility-standards-01c8df47"
+        "title": "Pasadena Promotes CASp Inspections to Help Businesses Meet Accessibility Standards",
+        "slug": "pasadena-promotes-casp-inspections-to-help-businesses-meet-accessibility-standar-5e74e40e"
       },
       {
-        "title": "Levitt AMP Harrisonburg Music Series Adds New Accessibility Equipment",
-        "slug": "levitt-amp-harrisonburg-music-series-adds-new-accessibility-equipment-d3b0d505"
+        "title": "US startup creates accessible orthodontic device operable by tongue to control computers",
+        "slug": "us-startup-creates-accessible-orthodontic-device-operable-by-tongue-to-control-c-b672e9f8"
       },
       {
-        "title": "ISF Net Joy Receives Monis Certification",
-        "slug": "isf-net-joy-receives-monis-certification-054a8668"
+        "title": "Request for Sign Language Announcements at High School Baseball Championship",
+        "slug": "request-for-sign-language-announcements-at-high-school-baseball-championship-4b64f7c4"
       },
       {
-        "title": "accessiBe finds 78% of ecommerce content is AI-generated; almost none checked for accessibility",
-        "slug": "accessibe-finds-78-of-ecommerce-content-is-ai-generated-almost-none-checked-for--9ff6f5a7"
+        "title": "Survey: AI Poised to Boost Accessibility in Work, Learning",
+        "slug": "survey-ai-poised-to-boost-accessibility-in-work-learning-6b477e5d"
       },
       {
-        "title": "Amtrak Advances Accessibility Across Its National Network",
-        "slug": "amtrak-advances-accessibility-across-its-national-network-55cc02c0"
+        "title": "Library Conversation Seeks To Reduce Accessibility Barriers",
+        "slug": "library-conversation-seeks-to-reduce-accessibility-barriers-21d0212e"
+      },
+      {
+        "title": "A lack of accessibility nearly caused me to miss my date with ‘Dracula’ - SMA News Today",
+        "slug": "a-lack-of-accessibility-nearly-caused-me-to-miss-my-date-with-dracula-sma-news-t-29db2ec7"
       }
     ]
   },
   "zh-TW": {
-    "title": "IAHA成立全球工作小組推進聽力無障礙標準",
-    "summary": "國際助聽器專業協會（IAHA）成立全球工作小組，致力於推進聽力無障礙標準的制定與推廣。此外，Levitt AMP 哈里森堡音樂系列新增無障礙設備，以提升殘障觀眾體驗。accessiBe 研究顯示 78% 電子商務內容為 AI 生成，幾乎未經無障礙檢查。",
+    "title": "帕薩迪納推廣CASp檢查以提升企業無障礙合規",
+    "summary": "帕薩迪納正鼓勵企業接受認證無障礙專家（CASp）檢查，以符合無障礙法律並消除殘障人士的障礙。同時，美國新創公司推出可用舌頭操作的牙套式輔助裝置，日本聾人聯合會請求在高中棒球錦標賽提供手語播報。其他亮點包括AI無障礙調查、圖書館對話減少障礙，以及一則關於德古拉演出無障礙不足的個人經歷。",
     "highlights": [
       {
-        "title": "IAHA 成立全球工作小組推進聽力無障礙標準",
-        "slug": "iaha-forms-global-working-group-to-advance-hearing-accessibility-standards-zh-01c8df47"
+        "title": "帕萨迪纳推广CASp检查以帮助企业满足无障碍标准",
+        "slug": "pasadena-promotes-casp-inspections-to-help-businesses-meet-accessibility-standar-zh-5e74e40e"
       },
       {
-        "title": "Levitt AMP 哈里森堡音樂系列新增無障礙設備",
-        "slug": "levitt-amp-harrisonburg-music-series-adds-new-accessibility-equipment-zh-d3b0d505"
+        "title": "美國新創公司打造無障礙牙套裝置！使用舌頭即可操作電腦與主機",
+        "slug": "us-startup-creates-accessible-orthodontic-device-operable-by-tongue-to-control-c-zh-b672e9f8"
       },
       {
-        "title": "無障礙社群訊號 2081909303917916452",
-        "slug": "isf-net-joy-receives-monis-certification-zh-054a8668"
+        "title": "要求在高中棒球錦標賽中提供手語播報",
+        "slug": "request-for-sign-language-announcements-at-high-school-baseball-championship-zh-4b64f7c4"
       },
       {
-        "title": "accessiBe 發現 78% 的電子商務內容為 AI 生成；幾乎未經無障礙檢查",
-        "slug": "accessibe-finds-78-of-ecommerce-content-is-ai-generated-almost-none-checked-for--zh-9ff6f5a7"
+        "title": "調查：AI 有望提升工作與學習的無障礙環境",
+        "slug": "survey-ai-poised-to-boost-accessibility-in-work-learning-zh-6b477e5d"
       },
       {
-        "title": "Amtrak 提升全國鐵路網無障礙設施",
-        "slug": "amtrak-advances-accessibility-across-its-national-network-zh-55cc02c0"
+        "title": "圖書館對話尋求減少無障礙障礙",
+        "slug": "library-conversation-seeks-to-reduce-accessibility-barriers-zh-21d0212e"
+      },
+      {
+        "title": "無障礙不足幾乎讓我錯過與『德古拉』的約會 - SMA News Today",
+        "slug": "a-lack-of-accessibility-nearly-caused-me-to-miss-my-date-with-dracula-sma-news-t-zh-29db2ec7"
       }
     ]
   }
