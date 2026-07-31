@@ -1,59 +1,59 @@
 {
   "date": "2026-07-31",
-  "generatedAt": "2026-07-31T07:51:45.701Z",
+  "generatedAt": "2026-07-31T13:13:43.412Z",
   "en": {
-    "title": "MTA Settles Elevator Lawsuit, Boosting NYC Transit Accessibility for Disabled Riders",
-    "summary": "MTA and disability advocates have settled a long-running lawsuit concerning elevator accessibility in New York City transit. The settlement includes commitments to improve elevator maintenance and accessibility features across the subway system. Other highlights include the launch of Yomupochi search service for visually impaired users, GAAD recognition, an AI accessibility survey, and advice on coping with neurodivergent social challenges.",
+    "title": "Mississippi Midterm Accessibility Rule Takes Effect as Disability Advocacy Grows",
+    "summary": "Mississippi’s midterm election accessibility requirements are now being enforced, marking a key policy shift for disability rights. AbleVu launched a contributor program linking education and workforce development, the MTA settled a long-running elevator accessibility lawsuit, and a survey highlights AI's potential to improve workplace and learning accessibility. Additionally, X introduced video autoplay settings to help users with sensory sensitivities.",
     "highlights": [
+      {
+        "title": "Accessibility Cannot Be an Afterthought in Mississippi’s Midterm",
+        "slug": "accessibility-cannot-be-an-afterthought-in-mississippis-midterm-6239e93d"
+      },
+      {
+        "title": "AbleVu Bridges Education, Workforce Development, and Accessibility Through Growing Contributor Program",
+        "slug": "ablevu-bridges-education-workforce-development-and-accessibility-through-growing-1c670a94"
+      },
       {
         "title": "MTA and disability advocates settle long-running elevator accessibility suit",
         "slug": "mta-and-disability-advocates-settle-long-running-elevator-accessibility-suit-186e758d"
-      },
-      {
-        "title": "Launch of Yomupochi Search Service",
-        "slug": "launch-of-yomupochi-search-service-33ca236c"
-      },
-      {
-        "title": "Global Accessibility Awareness Day Recognition",
-        "slug": "global-accessibility-awareness-day-recognition-87f50b7c"
       },
       {
         "title": "Survey highlights AI's potential to advance accessibility in work and learning",
         "slug": "survey-highlights-ais-potential-to-advance-accessibility-in-work-and-learning-f246ee41"
       },
       {
-        "title": "Advice on Coping with Social Challenges for Neurodivergent Individuals",
-        "slug": "advice-on-coping-with-social-challenges-for-neurodivergent-individuals-6d795656"
+        "title": "X Video Autoplay Settings",
+        "slug": "x-video-autoplay-settings-ebff4778"
       }
     ]
   },
   "zh-TW": {
-    "title": "MTA 電梯訴訟和解，提升紐約市交通無障礙設施",
-    "summary": "MTA 與殘障倡議者解決長期電梯無障礙訴訟，同意改善紐約市地鐵電梯的維護與可及性。其他重點包括三一擴建無障礙設施、漢堡王更新視障菜單、家庭捐贈登山輪椅、AI 無障礙潛力調查，以及神經多樣性社交挑戰建議。",
+    "title": "密西西比州無障礙選舉措施生效",
+    "summary": "密西西比州中期選舉的無障礙要求現在開始執行，標誌著殘障權益政策的重要進展。AbleVu 推出連結教育與勞動力發展的貢獻計畫，MTA 與殘障倡議者達成電梯無障礙訴訟和解，且最新調查顯示人工智慧在工作與學習中的無障礙潛力。此外，X 平台推出影片自動播放設定以協助感官敏感使用者，並有日本帳號討論社會對殘疾的看法。",
     "highlights": [
+      {
+        "title": "無障礙不得成為密西西比州中期選舉的事後補救",
+        "slug": "accessibility-cannot-be-an-afterthought-in-mississippis-midterm-zh-6239e93d"
+      },
+      {
+        "title": "AbleVu 透過成長中的貢獻計畫連結教育、勞動力發展與無障礙",
+        "slug": "ablevu-bridges-education-workforce-development-and-accessibility-through-growing-zh-1c670a94"
+      },
       {
         "title": "MTA 與殘障倡議者解決長期電梯無障礙訴訟",
         "slug": "mta-and-disability-advocates-settle-long-running-elevator-accessibility-suit-zh-186e758d"
-      },
-      {
-        "title": "三一建設工程進行中，以擴大無障礙設施惠及所有人",
-        "slug": "construction-underway-on-trinity-to-expand-accessibility-for-all-zh-b5b088fe"
-      },
-      {
-        "title": "漢堡王為視障人士更新菜單",
-        "slug": "burger-king-menu-update-for-visually-impaired-zh-083bbc85"
-      },
-      {
-        "title": "家庭捐贈適應性登山輪椅給州立公園以提升無障礙性",
-        "slug": "family-donates-adaptive-hiking-wheelchair-to-local-state-park-for-better-accessi-zh-eabc0ac0"
       },
       {
         "title": "調查顯示人工智慧有潛力提升工作與學習中的無障礙性",
         "slug": "survey-highlights-ais-potential-to-advance-accessibility-in-work-and-learning-zh-f246ee41"
       },
       {
-        "title": "給神經多樣性個體應對社交挑戰的建議",
-        "slug": "advice-on-coping-with-social-challenges-for-neurodivergent-individuals-zh-6d795656"
+        "title": "X 影片自動播放設定",
+        "slug": "x-video-autoplay-settings-zh-ebff4778"
+      },
+      {
+        "title": "日本社會對殘疾的看法討論",
+        "slug": "discussion-on-social-perceptions-of-disability-in-japan-zh-3dcdf99c"
       }
     ]
   }
