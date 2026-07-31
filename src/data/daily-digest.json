@@ -1,47 +1,47 @@
 {
   "date": "2026-07-31",
-  "generatedAt": "2026-07-31T06:12:23.766Z",
+  "generatedAt": "2026-07-31T07:51:45.701Z",
   "en": {
-    "title": "Mississippi Midterm Accessibility Focus Highlights Policy Gaps and Advocacy Calls",
-    "summary": "Accessibility cannot be an afterthought in Mississippi’s midterm elections, highlighting policy gaps. Meanwhile, Trinity campus construction expands accessibility features, a family donated an adaptive hiking wheelchair to a state park, and a survey shows AI’s potential to improve workplace and learning accessibility. Additionally, X platform offers a guide to disable video autoplay, and advocates raise concerns over limited disaster relief for people with developmental disabilities.",
+    "title": "MTA Settles Elevator Lawsuit, Boosting NYC Transit Accessibility for Disabled Riders",
+    "summary": "MTA and disability advocates have settled a long-running lawsuit concerning elevator accessibility in New York City transit. The settlement includes commitments to improve elevator maintenance and accessibility features across the subway system. Other highlights include the launch of Yomupochi search service for visually impaired users, GAAD recognition, an AI accessibility survey, and advice on coping with neurodivergent social challenges.",
     "highlights": [
       {
-        "title": "Accessibility Cannot Be an Afterthought in Mississippi’s Midterm",
-        "slug": "accessibility-cannot-be-an-afterthought-in-mississippis-midterm-6239e93d"
+        "title": "MTA and disability advocates settle long-running elevator accessibility suit",
+        "slug": "mta-and-disability-advocates-settle-long-running-elevator-accessibility-suit-186e758d"
       },
       {
-        "title": "Construction Underway On Trinity To Expand Accessibility For All",
-        "slug": "construction-underway-on-trinity-to-expand-accessibility-for-all-b5b088fe"
+        "title": "Launch of Yomupochi Search Service",
+        "slug": "launch-of-yomupochi-search-service-33ca236c"
       },
       {
-        "title": "Family donates adaptive hiking wheelchair to local state park for better accessibility",
-        "slug": "family-donates-adaptive-hiking-wheelchair-to-local-state-park-for-better-accessi-eabc0ac0"
+        "title": "Global Accessibility Awareness Day Recognition",
+        "slug": "global-accessibility-awareness-day-recognition-87f50b7c"
       },
       {
         "title": "Survey highlights AI's potential to advance accessibility in work and learning",
         "slug": "survey-highlights-ais-potential-to-advance-accessibility-in-work-and-learning-f246ee41"
       },
       {
-        "title": "X Video Autoplay Settings",
-        "slug": "x-video-autoplay-settings-ebff4778"
-      },
-      {
-        "title": "Concerns Over Support for People with Developmental Disabilities",
-        "slug": "concerns-over-support-for-people-with-developmental-disabilities-eaa3afcf"
+        "title": "Advice on Coping with Social Challenges for Neurodivergent Individuals",
+        "slug": "advice-on-coping-with-social-challenges-for-neurodivergent-individuals-6d795656"
       }
     ]
   },
   "zh-TW": {
-    "title": "密西西比州中期選舉凸顯無障礙政策缺口與社會關注",
-    "summary": "密西西比州中期選舉凸顯無障礙政策缺點，強調無障礙不得成為事後補救。三一校園正進行擴建無障礙設施工程，一家人捐贈適應性登山輪椅給州立公園，且最新調查顯示人工智慧在工作與學習中的無障礙潛力。此外，X平台提供關閉影片自動播放的實用指南，同時有使用者對發展障礙者災害救助僅限特定組織表示擔憂。",
+    "title": "MTA 電梯訴訟和解，提升紐約市交通無障礙設施",
+    "summary": "MTA 與殘障倡議者解決長期電梯無障礙訴訟，同意改善紐約市地鐵電梯的維護與可及性。其他重點包括三一擴建無障礙設施、漢堡王更新視障菜單、家庭捐贈登山輪椅、AI 無障礙潛力調查，以及神經多樣性社交挑戰建議。",
     "highlights": [
       {
-        "title": "無障礙不得成為密西西比州中期選舉的事後補救",
-        "slug": "accessibility-cannot-be-an-afterthought-in-mississippis-midterm-zh-6239e93d"
+        "title": "MTA 與殘障倡議者解決長期電梯無障礙訴訟",
+        "slug": "mta-and-disability-advocates-settle-long-running-elevator-accessibility-suit-zh-186e758d"
       },
       {
         "title": "三一建設工程進行中，以擴大無障礙設施惠及所有人",
         "slug": "construction-underway-on-trinity-to-expand-accessibility-for-all-zh-b5b088fe"
+      },
+      {
+        "title": "漢堡王為視障人士更新菜單",
+        "slug": "burger-king-menu-update-for-visually-impaired-zh-083bbc85"
       },
       {
         "title": "家庭捐贈適應性登山輪椅給州立公園以提升無障礙性",
@@ -52,12 +52,8 @@
         "slug": "survey-highlights-ais-potential-to-advance-accessibility-in-work-and-learning-zh-f246ee41"
       },
       {
-        "title": "無障礙社群訊號 2082995546860683604",
-        "slug": "x-video-autoplay-settings-zh-ebff4778"
-      },
-      {
-        "title": "對發展障礙者支援措施之疑慮",
-        "slug": "concerns-over-support-for-people-with-developmental-disabilities-zh-eaa3afcf"
+        "title": "給神經多樣性個體應對社交挑戰的建議",
+        "slug": "advice-on-coping-with-social-challenges-for-neurodivergent-individuals-zh-6d795656"
       }
     ]
   }
