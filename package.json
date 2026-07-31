@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && npx pagefind --site dist",
+    "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
     "news:ingest": "node --env-file-if-exists=.env ./scripts/fetch-news.mjs",
@@ -26,8 +26,5 @@
     "google-news-url-decoder": "^1.2.1",
     "rss-parser": "^3.13.0",
     "tailwindcss": "^4.2.4"
-  },
-  "devDependencies": {
-    "pagefind": "^1.3.0"
   }
 }

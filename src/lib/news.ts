@@ -220,7 +220,11 @@ async function loadLegacyMarkdownRecords(): Promise<NewsEntry[]> {
   return entries;
 }
 
+let allNewsEntriesCache: NewsEntry[] | null = null;
+
 async function loadAllNewsEntries(): Promise<NewsEntry[]> {
+  if (allNewsEntriesCache) return allNewsEntriesCache;
+
   const [jsonEntries, legacyEntries] = await Promise.all([
     loadJsonNewsRecords(),
     loadLegacyMarkdownRecords(),
@@ -234,7 +238,8 @@ async function loadAllNewsEntries(): Promise<NewsEntry[]> {
     }
   }
 
-  return Array.from(bySlug.values());
+  allNewsEntriesCache = Array.from(bySlug.values());
+  return allNewsEntriesCache;
 }
 
 export async function getPublishedNewsByLocale(locale: Locale): Promise<NewsEntry[]> {

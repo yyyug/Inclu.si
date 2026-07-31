@@ -10,14 +10,23 @@ import digestData from '../../data/daily-digest.json';
 interface Props {
   locale: Locale;
   currentPage?: number;
+  activeCategory?: string;
 }
 
-const { locale, currentPage = 1 } = Astro.props;
+const { locale, currentPage = 1, activeCategory = '' } = Astro.props;
 const copy = siteCopy[locale];
 const entries = await getPublishedNewsByLocale(locale);
 const categoryCounts = collectCategoryCounts(entries);
 const localeDigest = digestData[locale] ?? null;
 const entryBySlug = new Map(entries.map((entry) => [entry.data.slug, entry]));
+
+const perPage = 20;
+const filteredEntries = activeCategory
+  ? entries.filter((entry) => entry.data.category === activeCategory)
+  : entries;
+const totalPages = Math.max(1, Math.ceil(filteredEntries.length / perPage));
+const page = Math.min(Math.max(1, currentPage), totalPages);
+const pageEntries = filteredEntries.slice((page - 1) * perPage, page * perPage);
 ---
 
 <Layout locale={locale} title={copy.siteTitle}>
@@ -83,6 +92,14 @@ const entryBySlug = new Map(entries.map((entry) => [entry.data.slug, entry]));
       </div>
     </section>
 
-    <NewsPaginated locale={locale} entries={entries} categoryCounts={categoryCounts} currentPage={currentPage} perPage={20} />
+    <NewsPaginated
+      locale={locale}
+      entries={pageEntries}
+      categoryCounts={categoryCounts}
+      currentPage={page}
+      totalPages={totalPages}
+      perPage={perPage}
+      activeCategory={activeCategory}
+    />
   </main>
 </Layout>

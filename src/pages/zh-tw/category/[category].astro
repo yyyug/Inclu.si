@@ -1,0 +1,19 @@
+---
+import NewsHome from '../../../components/news/NewsHome.astro';
+import { getPublishedNewsByLocale } from '../../../lib/news';
+import { categoryKeys } from '../../../lib/categories';
+
+export async function getStaticPaths() {
+  const entries = await getPublishedNewsByLocale('zh-TW');
+  const present = new Set(entries.map((entry) => entry.data.category));
+  const keys = categoryKeys.filter((key) => present.has(key));
+  return keys.map((category) => ({
+    params: { category },
+    props: { activeCategory: category },
+  }));
+}
+
+const { activeCategory } = Astro.props;
+---
+
+<NewsHome locale="zh-TW" activeCategory={activeCategory} />

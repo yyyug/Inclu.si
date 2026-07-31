@@ -1,0 +1,30 @@
+---
+import NewsHome from '../../../../components/news/NewsHome.astro';
+import { getPublishedNewsByLocale } from '../../../../lib/news';
+import { categoryKeys } from '../../../../lib/categories';
+
+export async function getStaticPaths() {
+  const perPage = 20;
+  const entries = await getPublishedNewsByLocale('en');
+  const present = new Set(entries.map((entry) => entry.data.category));
+  const keys = categoryKeys.filter((key) => present.has(key));
+  const paths = [];
+
+  for (const category of keys) {
+    const catEntries = entries.filter((entry) => entry.data.category === category);
+    const totalPages = Math.max(1, Math.ceil(catEntries.length / perPage));
+    for (let p = 2; p <= totalPages; p += 1) {
+      paths.push({
+        params: { category, page: String(p) },
+        props: { activeCategory: category, currentPage: p },
+      });
+    }
+  }
+
+  return paths;
+}
+
+const { activeCategory, currentPage } = Astro.props;
+---
+
+<NewsHome locale="en" activeCategory={activeCategory} currentPage={currentPage} />
