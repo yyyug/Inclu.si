@@ -4,6 +4,7 @@ import crypto from 'node:crypto';
 import Parser from 'rss-parser';
 import { GoogleDecoder } from 'google-news-url-decoder';
 import { extractQueryRegionFromFeedUrl, pickSourceCountry } from './news-ingest/geo.mjs';
+import { hasZhChars, zhIsTranslated } from './news-ingest/zh-quality.mjs';
 
 function requireEnv(name) {
   const value = process.env[name];
@@ -759,7 +760,7 @@ async function writeStoryPair(item, ai, sourceName, sourceUrl, sourceCountry, qu
     ingestSource: String(ingestMeta.ingestSource ?? ''),
     ingestProvider: String(ingestMeta.ingestProvider ?? ''),
     clusterId,
-    status: 'published',
+    status: zhIsTranslated(ai.zhTitle, ai.zhSummary) ? 'published' : 'draft',
     translationOf: enSlug,
     publishedAt,
     fetchedAt,
@@ -852,7 +853,6 @@ async function main() {
         continue;
       }
 
-      const hasZhChars = (s) => /[\u4e00-\u9fff\u3400-\u4dbf]/.test(s);
       const zhTitleRaw = output.zhTitle || entry.item.title || '無障礙新聞';
       const zhSummaryRaw = output.zhSummary || entry.item.contentSnippet || '';
 

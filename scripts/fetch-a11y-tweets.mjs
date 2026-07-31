@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import crypto from 'node:crypto';
 import { ApifyClient } from 'apify-client';
+import { hasZhChars, zhIsTranslated } from './news-ingest/zh-quality.mjs';
 
 function requireEnv(name) {
   const value = process.env[name];
@@ -16,6 +17,7 @@ const NEWS_DATA_DIR = path.resolve('src/data/news');
 const OLLAMA_BASE_URL = requireEnv('OLLAMA_BASE_URL').replace(/\/$/, '');
 const OLLAMA_API_KEY = requireEnv('OLLAMA_API_KEY');
 const OLLAMA_MODEL = requireEnv('OLLAMA_MODEL');
+const TRANSLATION_MODEL = process.env.TRANSLATION_MODEL || OLLAMA_MODEL;
 const OLLAMA_TIMEOUT_MS = Number(process.env.OLLAMA_TIMEOUT_MS ?? 60000);
 const OLLAMA_MAX_TOKENS = Math.max(1, Math.min(20000, Number(process.env.OLLAMA_MAX_TOKENS ?? 20000)));
 const OLLAMA_MAX_RETRIES = Number(process.env.OLLAMA_MAX_RETRIES ?? 3);
@@ -563,7 +565,7 @@ async function translateBatchToZh(items) {
         Authorization: `Bearer ${OLLAMA_API_KEY}`,
       },
       body: JSON.stringify({
-        model: OLLAMA_MODEL,
+        model: TRANSLATION_MODEL,
         temperature: 0.2,
         max_tokens: OLLAMA_MAX_TOKENS,
         messages: [
@@ -836,7 +838,7 @@ async function writeStoryPair(entry, ai) {
     ingestSource: 'x.com',
     ingestProvider: 'x.com',
     clusterId,
-    status: 'published',
+    status: zhIsTranslated(ai.zhTitle, ai.zhSummary) ? 'published' : 'draft',
     translationOf: enSlug,
     publishedAt,
     fetchedAt,
@@ -1018,7 +1020,6 @@ async function main() {
         continue;
       }
 
-      const score = (entry.likeCount || 0) + (entry.retweetCount || 0) * 2 + (entry.replyCount || 0) * 3;
       const itemIdx = enItems.length;
       enIndexMap.set(j, itemIdx);
       entryByBatchIdx.set(j, entry);
@@ -1027,39 +1028,47 @@ async function main() {
         englishTitle: output.englishTitle || `A11y social signal ${entry.tweetId}`,
         englishSummary: output.englishSummary || entry.text,
         tags: output.tags,
-        _score: score,
       });
     }
 
-    const TRANSLATE_SCORE_THRESHOLD = 1;
     let zhMap = new Map();
     if (enItems.length > 0) {
-      const toTranslate = enItems.filter((item) => item._score >= TRANSLATE_SCORE_THRESHOLD);
-      if (toTranslate.length > 0) {
+      try {
+        const translations = await retryTranslateOllamaThenGroq(enItems, `${i}/zh`);
+        for (const t of translations) {
+          const row = zhMap.get(t.itemId) || {};
+          if (hasZhChars(t.zhTitle)) row.zhTitle = t.zhTitle;
+          if (hasZhChars(t.zhSummary)) row.zhSummary = t.zhSummary;
+          zhMap.set(t.itemId, row);
+        }
+      } catch (zhError) {
+        console.warn(`[translate] Batch ${i} failed: ${zhError.message}. Trying individual items`);
+      }
+
+      const missing = enItems.filter((item) => {
+        const row = zhMap.get(item.itemId);
+        return !row || !hasZhChars(row.zhTitle) || !hasZhChars(row.zhSummary);
+      });
+
+      for (const item of missing) {
         try {
-          const translations = await retryTranslateOllamaThenGroq(toTranslate, `${i}/zh`);
-          let translated = 0;
-          for (const t of translations) {
-            if (t.zhTitle && /[\u4e00-\u9fff\u3400-\u4dbf]/.test(t.zhTitle)) {
-              zhMap.set(t.itemId, t);
-              translated++;
-            }
-          }
-          console.log(`[translate] Batch ${i}: ${translated}/${toTranslate.length} translated`);
-        } catch (zhError) {
-          console.warn(`[translate] Batch ${i} failed: ${zhError.message}. Trying individual items`);
-          for (const item of toTranslate) {
-            try {
-              const single = await retryTranslateOllamaThenGroq([item], `${i}/zh/${item.itemId}`);
-              if (single.length > 0 && single[0].zhTitle && /[\u4e00-\u9fff\u3400-\u4dbf]/.test(single[0].zhTitle)) {
-                zhMap.set(item.itemId, single[0]);
-              }
-            } catch (e) {
-              console.warn(`[translate] Individual ${item.itemId} failed: ${e.message}`);
-            }
-          }
+          const single = await retryTranslateOllamaThenGroq([item], `${i}/zh/${item.itemId}`);
+          if (single.length === 0) continue;
+          const t = single[0];
+          const row = zhMap.get(item.itemId) || {};
+          if (hasZhChars(t.zhTitle)) row.zhTitle = t.zhTitle;
+          if (hasZhChars(t.zhSummary)) row.zhSummary = t.zhSummary;
+          zhMap.set(item.itemId, row);
+        } catch (e) {
+          console.warn(`[translate] Individual ${item.itemId} failed: ${e.message}`);
         }
       }
+
+      const fullyTranslated = enItems.filter((item) => {
+        const row = zhMap.get(item.itemId);
+        return row && hasZhChars(row.zhTitle) && hasZhChars(row.zhSummary);
+      }).length;
+      console.log(`[translate] Batch ${i}: ${fullyTranslated}/${enItems.length} fully translated`);
     }
 
     for (let j = 0; j < batch.length; j += 1) {
@@ -1068,11 +1077,10 @@ async function main() {
       if (itemIdx === undefined) continue;
 
       const en = enItems[itemIdx];
-      const zh = zhMap.get(itemIdx) || { zhTitle: en.englishTitle, zhSummary: en.englishSummary };
+      const zh = zhMap.get(itemIdx);
 
-      const hasZhChars = (s) => /[\u4e00-\u9fff\u3400-\u4dbf]/.test(s);
-      const zhTitle = hasZhChars(zh.zhTitle) ? zh.zhTitle : `無障礙社群訊號 ${entry.tweetId}`;
-      const zhSummary = hasZhChars(zh.zhSummary) ? zh.zhSummary : '此推文的中文摘要尚待翻譯。';
+      const zhTitle = zh && hasZhChars(zh.zhTitle) ? zh.zhTitle : `無障礙社群訊號 ${entry.tweetId}`;
+      const zhSummary = zh && hasZhChars(zh.zhSummary) ? zh.zhSummary : '此推文的中文摘要尚待翻譯。';
 
       const ai = {
         englishTitle: en.englishTitle,
@@ -1084,6 +1092,9 @@ async function main() {
 
       try {
         const result = await writeStoryPair(entry, ai);
+        if (!zhIsTranslated(zhTitle, zhSummary)) {
+          console.warn(`[translate] ${entry.tweetId} lacks zh translation; stored as draft`);
+        }
         created += 1;
         console.log(`Created: ${result.enFile} + ${result.zhFile}`);
       } catch (error) {

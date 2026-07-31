@@ -1,22 +1,20 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import { hasZhChars, zhIsTranslated } from './news-ingest/zh-quality.mjs';
 
 const NEWS_DATA_DIR = path.resolve('src/data/news');
 const OLLAMA_BASE_URL = (process.env.OLLAMA_BASE_URL || '').replace(/\/$/, '');
 const OLLAMA_API_KEY = process.env.OLLAMA_API_KEY || '';
 const OLLAMA_MODEL = process.env.OLLAMA_MODEL || 'nemotron-3-super:cloud';
+const TRANSLATION_MODEL = process.env.TRANSLATION_MODEL || OLLAMA_MODEL;
 const OLLAMA_TIMEOUT_MS = Number(process.env.OLLAMA_TIMEOUT_MS ?? 180000);
-const OLLAMA_MAX_TOKENS = Number(process.env.OLLAMA_MAX_TOKENS ?? 4096);
+const OLLAMA_MAX_TOKENS = Number(process.env.OLLAMA_MAX_TOKENS ?? 8192);
 const OLLAMA_MAX_RETRIES = Number(process.env.OLLAMA_MAX_RETRIES ?? 3);
 const GROQ_API_KEY = process.env.GROQ_API_KEY || '';
 const GROQ_MODEL = process.env.GROQ_MODEL || 'openai/gpt-oss-120b';
 const GROQ_TIMEOUT_MS = Number(process.env.GROQ_TIMEOUT_MS ?? 300000);
 const BATCH_SIZE = Math.min(10, Math.max(3, Number(process.env.BATCH_SIZE ?? 5)));
 const LOOKBACK_HOURS = Number(process.env.LOOKBACK_HOURS ?? 24);
-
-function hasChinese(text) {
-  return /[\u4e00-\u9fff]/.test(text);
-}
 
 function stripCodeFenceJson(content) {
   let cleaned = String(content ?? '').trim();
@@ -44,7 +42,7 @@ async function translateBatchOllama(items) {
       Authorization: `Bearer ${OLLAMA_API_KEY}`,
     },
     body: JSON.stringify({
-      model: OLLAMA_MODEL,
+      model: TRANSLATION_MODEL,
       temperature: 0.2,
       max_tokens: OLLAMA_MAX_TOKENS,
       messages: [
@@ -212,7 +210,6 @@ async function main() {
 
     // Find zh-TW entries that need translation
     const toTranslate = [];
-    const idxBySlug = new Map();
 
     for (let i = 0; i < zhStories.length; i++) {
       const zh = zhStories[i];
@@ -223,14 +220,12 @@ async function main() {
 
       if (!isWithinLookback(zh.publishedAt)) continue;
 
-      // Check if zh title is untranslated (no Chinese chars in title)
-      if (!hasChinese(zh.title)) {
+      if (!zhIsTranslated(zh.title, zh.summary)) {
         toTranslate.push({
           itemId: i,
           englishTitle: en.title,
           englishSummary: en.summary,
         });
-        idxBySlug.set(zh.slug, i);
       }
     }
 
@@ -249,11 +244,20 @@ async function main() {
           const zhIdx = batch.find((item) => item.itemId === t.itemId)?.itemId;
           if (zhIdx === undefined) continue;
           const zh = zhStories[zhIdx];
-          if (t.zhTitle) {
+          let changed = false;
+          if (hasZhChars(t.zhTitle)) {
             zh.title = t.zhTitle;
+            changed = true;
           }
-          if (t.zhSummary) {
+          if (hasZhChars(t.zhSummary)) {
             zh.summary = t.zhSummary;
+            zh.body = String(zh.body ?? '')
+              .replace('此推文的中文摘要尚待翻譯。', zh.summary)
+              .replace('此新聞的中文摘要尚待翻譯。', zh.summary);
+            changed = true;
+          }
+          if (changed) {
+            zh.status = zhIsTranslated(zh.title, zh.summary) ? 'published' : 'draft';
           }
           fixedCount += 1;
         }

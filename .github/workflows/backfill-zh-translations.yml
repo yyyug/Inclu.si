@@ -8,6 +8,8 @@ on:
         required: false
         default: "87600"
         type: string
+  schedule:
+    - cron: "17 2 * * *"
 
 permissions:
   contents: write
@@ -40,13 +42,14 @@ jobs:
           OLLAMA_API_KEY: ${{ secrets.OLLAMA_API_KEY }}
           OLLAMA_BASE_URL: ${{ secrets.OLLAMA_BASE_URL }}
           OLLAMA_MODEL: nemotron-3-super:cloud
+          TRANSLATION_MODEL: nemotron-3-super:cloud
           OLLAMA_TIMEOUT_MS: 180000
-          OLLAMA_MAX_TOKENS: 4096
+          OLLAMA_MAX_TOKENS: 8192
           OLLAMA_MAX_RETRIES: 3
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           GROQ_MODEL: openai/gpt-oss-120b
           GROQ_TIMEOUT_MS: 300000
-          BATCH_SIZE: 3
+          BATCH_SIZE: 5
 
       - name: Upload log artifact
         if: failure()
@@ -80,6 +83,16 @@ jobs:
           done
           echo "Failed to push changes after retries"
           exit 1
+
+      - name: Deploy to Cloudflare Pages
+        if: always()
+        continue-on-error: true
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: f12f219ab9cf823c47c1e01a463d67a6
+        run: |
+          npm run build
+          npx wrangler pages deploy dist --project-name inclu-si --branch main
 
       - name: Report outcome
         if: always()

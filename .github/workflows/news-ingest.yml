@@ -36,7 +36,7 @@ jobs:
           OLLAMA_API_KEY: ${{ secrets.OLLAMA_API_KEY }}
           OLLAMA_BASE_URL: ${{ secrets.OLLAMA_BASE_URL }}
           OLLAMA_MODEL: nemotron-3-super:cloud
-          OLLAMA_MAX_TOKENS: 4096
+          OLLAMA_MAX_TOKENS: 8192
           OLLAMA_TIMEOUT_MS: 180000
           OLLAMA_MAX_RETRIES: 3
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}

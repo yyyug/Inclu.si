@@ -1,5 +1,6 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import { zhIsTranslated } from './news-ingest/zh-quality.mjs';
 
 function requireEnv(name) {
   const value = process.env[name];
@@ -56,6 +57,10 @@ async function loadRecentPublishedArticles() {
       const publishedTs = Date.parse(String(row?.publishedAt ?? ''));
       if (Number.isNaN(publishedTs)) continue;
       if (publishedTs < cutoffTime || publishedTs > digestBaseTime) continue;
+
+      if (row?.lang === 'zh-TW' && !zhIsTranslated(String(row?.title ?? ''), String(row?.summary ?? ''))) {
+        continue;
+      }
 
       rows.push({
         title: String(row?.title ?? ''),

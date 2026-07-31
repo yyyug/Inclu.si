@@ -1,6 +1,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import crypto from 'node:crypto';
+import { zhIsTranslated } from './news-ingest/zh-quality.mjs';
 
 function requireEnv(name) {
   const value = process.env[name];
@@ -479,7 +480,7 @@ async function writeStoryPair(entry, ai) {
     ingestSource: normalizeUrl(BRIGHTDATA_FACEBOOK_PAGE_URL),
     ingestProvider: 'facebook.com',
     clusterId,
-    status: 'published',
+    status: zhIsTranslated(ai.zhTitle, ai.zhSummary) ? 'published' : 'draft',
     translationOf: enSlug,
     publishedAt,
     fetchedAt,
