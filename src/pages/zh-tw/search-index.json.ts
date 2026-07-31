@@ -4,7 +4,7 @@ import { getPublishedNewsByLocale } from '../../lib/news';
 export const GET: APIRoute = async () => {
   const entries = await getPublishedNewsByLocale('zh-TW');
   const index = entries.map((entry) => ({
-    url: `/zh-tw/news/${entry.data.slug}`,
+    url: entry.data.sourceUrl || '/zh-tw/',
     title: entry.data.title,
     summary: entry.data.summary,
     category: entry.data.category,
