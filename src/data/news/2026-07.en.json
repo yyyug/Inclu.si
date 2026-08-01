@@ -81677,5 +81677,68 @@
     "publishedAt": "2026-07-30T20:24:32.000Z",
     "fetchedAt": "2026-08-01T00:58:31.287Z",
     "body": "Loupe is a Chrome extension that highlights and explains WCAG accessibility issues in plain language, helping developers understand and fix accessibility problems.\n\nRead more from the original source: [Getloupe.dev](https://getloupe.dev/)"
+  },
+  {
+    "title": "Donation Appeal for Kumamoto Earthquake Support",
+    "slug": "donation-appeal-for-kumamoto-earthquake-support-d3b62834",
+    "lang": "en",
+    "summary": "DPI-Japan encourages donations to the Yumekaze Fund to support those affected by the Kumamoto earthquake.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "disaster relief",
+      "advocacy"
+    ],
+    "sourceName": "DPI日本会議 (@DPIJAPAN)",
+    "sourceUrl": "https://x.com/DPIJAPAN/status/2083006390130667711",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://yumekazek.com/"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2083006390130667711",
+    "status": "published",
+    "translationOf": "donation-appeal-for-kumamoto-earthquake-support-zh-d3b62834",
+    "publishedAt": "2026-07-31T01:46:38.000Z",
+    "fetchedAt": "2026-08-01T01:13:35.128Z",
+    "body": "DPI-Japan encourages donations to the Yumekaze Fund to support those affected by the Kumamoto earthquake.\nTweet source: [DPI日本会議 (@DPIJAPAN)](https://x.com/DPIJAPAN/status/2083006390130667711)\nExternal link: [https://yumekazek.com/](https://yumekazek.com/)"
+  },
+  {
+    "title": "Discussion on Web Accessibility Textbook",
+    "slug": "discussion-on-web-accessibility-textbook-22fd607b",
+    "lang": "en",
+    "summary": "A user mentions the tendency to abbreviate 'Business Architects' as 'BA' in the context of the Web Accessibility Textbook.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "web accessibility",
+      "inclusive design"
+    ],
+    "sourceName": "Rikiya Ihara / magi (@magi1125)",
+    "sourceUrl": "https://x.com/magi1125/status/2083135269482692771",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2083135269482692771",
+    "status": "published",
+    "translationOf": "discussion-on-web-accessibility-textbook-zh-22fd607b",
+    "publishedAt": "2026-07-31T10:18:45.000Z",
+    "fetchedAt": "2026-08-01T01:13:35.243Z",
+    "body": "A user mentions the tendency to abbreviate 'Business Architects' as 'BA' in the context of the Web Accessibility Textbook.\nTweet source: [Rikiya Ihara / magi (@magi1125)](https://x.com/magi1125/status/2083135269482692771)"
   }
 ]

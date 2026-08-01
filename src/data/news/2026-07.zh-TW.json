@@ -81677,5 +81677,68 @@
     "publishedAt": "2026-07-30T20:24:32.000Z",
     "fetchedAt": "2026-08-01T00:58:31.287Z",
     "body": "Loupe 是一個 Chrome 擴充功能，能以純英語標註並解釋 WCAG 無障礙問題，協助開發者理解並修復無障礙缺失。\n\n原文來源： [Getloupe.dev](https://getloupe.dev/)"
+  },
+  {
+    "title": "熊本地震支援捐款呼籲",
+    "slug": "donation-appeal-for-kumamoto-earthquake-support-zh-d3b62834",
+    "lang": "zh-TW",
+    "summary": "DPI-Japan 鼓勵捐款給 Yumekaze 基金，以支援受熊本地震影響的人們。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "disaster relief",
+      "advocacy"
+    ],
+    "sourceName": "DPI日本会議 (@DPIJAPAN)",
+    "sourceUrl": "https://x.com/DPIJAPAN/status/2083006390130667711",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://yumekazek.com/"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2083006390130667711",
+    "status": "published",
+    "translationOf": "donation-appeal-for-kumamoto-earthquake-support-d3b62834",
+    "publishedAt": "2026-07-31T01:46:38.000Z",
+    "fetchedAt": "2026-08-01T01:13:35.128Z",
+    "body": "DPI-Japan 鼓勵捐款給 Yumekaze 基金，以支援受熊本地震影響的人們。\n推文來源： [DPI日本会議 (@DPIJAPAN)](https://x.com/DPIJAPAN/status/2083006390130667711)\n外部連結： [https://yumekazek.com/](https://yumekazek.com/)"
+  },
+  {
+    "title": "網頁無障礙教科書討論",
+    "slug": "discussion-on-web-accessibility-textbook-zh-22fd607b",
+    "lang": "zh-TW",
+    "summary": "一位使用者提到，在網頁無障礙教科書的情境下，人們傾向將 'Business Architects' 縮寫為 'BA'。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "web accessibility",
+      "inclusive design"
+    ],
+    "sourceName": "Rikiya Ihara / magi (@magi1125)",
+    "sourceUrl": "https://x.com/magi1125/status/2083135269482692771",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2083135269482692771",
+    "status": "published",
+    "translationOf": "discussion-on-web-accessibility-textbook-22fd607b",
+    "publishedAt": "2026-07-31T10:18:45.000Z",
+    "fetchedAt": "2026-08-01T01:13:35.243Z",
+    "body": "一位使用者提到，在網頁無障礙教科書的情境下，人們傾向將 'Business Architects' 縮寫為 'BA'。\n推文來源： [Rikiya Ihara / magi (@magi1125)](https://x.com/magi1125/status/2083135269482692771)"
   }
 ]
