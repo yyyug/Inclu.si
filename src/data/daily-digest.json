@@ -1,17 +1,13 @@
 {
   "date": "2026-08-01",
-  "generatedAt": "2026-08-01T01:09:33.753Z",
+  "generatedAt": "2026-08-01T12:57:20.224Z",
   "en": {
-    "title": "EU Accessibility Act Implementation Lagging; MTA Settles Subway Elevator Access Lawsuit",
-    "summary": "One year after the European Accessibility Act took effect, many businesses remain non‑compliant, highlighting ongoing challenges in implementing accessibility standards. In New York, a class‑action settlement with the MTA requires better signage and alerts for subway elevator outages to improve access for disabled riders. Additionally, new all‑terrain wheelchairs, a mobile accessibility center in Missouri, an accessible dock in Tennessee, and a guide on accessible documentation were announced.",
+    "title": "DHHS Updates Accessibility Rules, Impacting Healthcare Compliance Nationwide",
+    "summary": "The Department of Health and Human Services revised its accessibility regulations, potentially altering compliance risks for hospitals and providers nationwide. Additionally, an all-terrain wheelchair expanded access to Sammamish State Park, Missouri launched its first mobile accessibility center, and a University of Phoenix survey highlighted AI's role in improving work and learning accessibility. Finally, reports detailed ongoing human rights violations against people with disabilities in Miyagi Prefecture, Japan.",
     "highlights": [
       {
-        "title": "One year after the European Accessibility Act, most businesses are still catching up",
-        "slug": "one-year-after-the-european-accessibility-act-most-businesses-are-still-catching-0e6638fb"
-      },
-      {
-        "title": "MTA Settlement Improves NY Subway Elevator Outage Access",
-        "slug": "mta-settlement-improves-ny-subway-elevator-outage-access-af5d6654"
+        "title": "Updated DHHS Accessibility Rules May Reduce or Increase Risk",
+        "slug": "updated-dhhs-accessibility-rules-may-reduce-or-increase-risk-c2cf7a0a"
       },
       {
         "title": "WWGR: All-terrain wheelchair makes Sammamish State Park accessible - KIRO 7 News Seattle",
@@ -22,22 +18,22 @@
         "slug": "center-for-human-services-launch-missouris-first-mobile-accessibility-center-han-d12ec7e0"
       },
       {
-        "title": "Accessibility in Writing: How to Create Accessible Documentation That Works for Everyone - HackerNoon",
-        "slug": "accessibility-in-writing-how-to-create-accessible-documentation-that-works-for-e-7bfa4d03"
+        "title": "University of Phoenix Survey Highlights AI’s Potential to Advance Accessibility in Work and Learning",
+        "slug": "university-of-phoenix-survey-highlights-ais-potential-to-advance-accessibility-i-5dd9a110"
+      },
+      {
+        "title": "Human Rights Violations Against People with Disabilities in Miyagi Prefecture",
+        "slug": "human-rights-violations-against-people-with-disabilities-in-miyagi-prefecture-b519665d"
       }
     ]
   },
   "zh-TW": {
-    "title": "歐洲無障礙法一年後企業仍未達標",
-    "summary": "歐洲無障礙法實施已滿一年，但許多企業仍未符合無障礙標準，顯示落實挑戰依然嚴峻。紐約地鐵與殘障倡導者達成和解，將改善電梯故障時的標誌、廣播與警報，提升殘障乘客可及性。此外，全地形輪椅讓州立公園更易進入，密蘇里州首輛流動無障礙中心上路，以及一則來自日本的推文討論國會無障礙進展。",
+    "title": "衛生部更新無障礙規則，影響醫療合規與多項無障礙進展",
+    "summary": "衛生及公共服務部更新無障礙規則，可能降低或增加醫療機構的合規風險。全地形輪椅擴大了薩ammamish州立公園的無障礙使用，密蘇里州首輛流動無障礙中心啟動，鳳凰大學調查指出AI有潛力提升工作與學習無障礙。此外，令和新選組在推動國會無障礙方面的立法努力受到關注。",
     "highlights": [
       {
-        "title": "歐洲無障礙法實施一年後，多數企業仍在趕進度",
-        "slug": "one-year-after-the-european-accessibility-act-most-businesses-are-still-catching-zh-0e6638fb"
-      },
-      {
-        "title": "MTA 和解改善紐約地鐵電梯故障訊息可及性",
-        "slug": "mta-settlement-improves-ny-subway-elevator-outage-access-zh-af5d6654"
+        "title": "衛生及公共服務部更新無障礙規則，可能降低或增加風險",
+        "slug": "updated-dhhs-accessibility-rules-may-reduce-or-increase-risk-zh-c2cf7a0a"
       },
       {
         "title": "WWGR：全地形輪椅讓薩ammamish州立公園無障礙 - KIRO 7 News Seattle",
@@ -48,8 +44,8 @@
         "slug": "center-for-human-services-launch-missouris-first-mobile-accessibility-center-han-zh-d12ec7e0"
       },
       {
-        "title": "寫作中的無障礙：如何創建適合所有人的無障礙文檔 - HackerNoon",
-        "slug": "accessibility-in-writing-how-to-create-accessible-documentation-that-works-for-e-zh-7bfa4d03"
+        "title": "鳳凰大學調查顯示人工智慧有潛力提升工作與學習中的無障礙",
+        "slug": "university-of-phoenix-survey-highlights-ais-potential-to-advance-accessibility-i-zh-5dd9a110"
       },
       {
         "title": "令和新選組的國會無障礙努力",
