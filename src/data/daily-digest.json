@@ -1,55 +1,63 @@
 {
-  "date": "2026-08-01",
-  "generatedAt": "2026-08-01T12:57:20.224Z",
+  "date": "2026-08-02",
+  "generatedAt": "2026-08-02T01:09:21.984Z",
   "en": {
     "title": "DHHS Updates Accessibility Rules, Impacting Healthcare Compliance Nationwide",
-    "summary": "The Department of Health and Human Services revised its accessibility regulations, potentially altering compliance risks for hospitals and providers nationwide. Additionally, an all-terrain wheelchair expanded access to Sammamish State Park, Missouri launched its first mobile accessibility center, and a University of Phoenix survey highlighted AI's role in improving work and learning accessibility. Finally, reports detailed ongoing human rights violations against people with disabilities in Miyagi Prefecture, Japan.",
+    "summary": "The Department of Health and Human Services revised its accessibility regulations, potentially altering compliance risks for hospitals and providers. Additionally, Kazakh youth are leveraging technology to improve accessibility, while a University of Phoenix survey highlights AI’s role in work and learning access. Other updates include campus accessibility funding and ADA anniversary outdoor expansions.",
     "highlights": [
       {
         "title": "Updated DHHS Accessibility Rules May Reduce or Increase Risk",
         "slug": "updated-dhhs-accessibility-rules-may-reduce-or-increase-risk-c2cf7a0a"
       },
       {
-        "title": "WWGR: All-terrain wheelchair makes Sammamish State Park accessible - KIRO 7 News Seattle",
-        "slug": "wwgr-all-terrain-wheelchair-makes-sammamish-state-park-accessible-kiro-7-news-se-1df10d54"
+        "title": "How Kazakh Youth Transforms Accessibility Through Technology",
+        "slug": "how-kazakh-youth-transforms-accessibility-through-technology-1383cdaf"
       },
       {
-        "title": "Center for Human Services launch Missouri’s first mobile accessibility center - hannibal.net",
-        "slug": "center-for-human-services-launch-missouris-first-mobile-accessibility-center-han-d12ec7e0"
+        "title": "Accessibility Is an Operations Deadline, Not an IT Project",
+        "slug": "accessibility-is-an-operations-deadline-not-an-it-project-c044f18f"
       },
       {
         "title": "University of Phoenix Survey Highlights AI’s Potential to Advance Accessibility in Work and Learning",
         "slug": "university-of-phoenix-survey-highlights-ais-potential-to-advance-accessibility-i-5dd9a110"
       },
       {
-        "title": "Human Rights Violations Against People with Disabilities in Miyagi Prefecture",
-        "slug": "human-rights-violations-against-people-with-disabilities-in-miyagi-prefecture-b519665d"
+        "title": "National University receives NT$2.4 million subsidy to improve barrier-free environment for special education students",
+        "slug": "national-university-receives-nt24-million-subsidy-to-improve-barrier-free-enviro-8b1873c5"
+      },
+      {
+        "title": "DEC celebrates ADA anniversary, expanded outdoor accessibility",
+        "slug": "dec-celebrates-ada-anniversary-expanded-outdoor-accessibility-b6630412"
       }
     ]
   },
   "zh-TW": {
-    "title": "衛生部更新無障礙規則，影響醫療合規與多項無障礙進展",
-    "summary": "衛生及公共服務部更新無障礙規則，可能降低或增加醫療機構的合規風險。全地形輪椅擴大了薩ammamish州立公園的無障礙使用，密蘇里州首輛流動無障礙中心啟動，鳳凰大學調查指出AI有潛力提升工作與學習無障礙。此外，令和新選組在推動國會無障礙方面的立法努力受到關注。",
+    "title": "衛生部更新無障礙規則，影響醫療合規與風險",
+    "summary": "衛生及公共服務部已更新無障礙規則，可能提升或降低醫療機構的合規風險。哈薩克青年利用科技開發無障礙應用與設備，鳳凰大學調查則顯示人工智慧在工作與學習中的潛力。此外，國立大學獲補助改善無障礙環境，環保部亦宣布ADA週年戶外設施擴展。",
     "highlights": [
       {
         "title": "衛生及公共服務部更新無障礙規則，可能降低或增加風險",
         "slug": "updated-dhhs-accessibility-rules-may-reduce-or-increase-risk-zh-c2cf7a0a"
       },
       {
-        "title": "WWGR：全地形輪椅讓薩ammamish州立公園無障礙 - KIRO 7 News Seattle",
-        "slug": "wwgr-all-terrain-wheelchair-makes-sammamish-state-park-accessible-kiro-7-news-se-zh-1df10d54"
+        "title": "哈薩克青年如何透過科技改善無障礙",
+        "slug": "how-kazakh-youth-transforms-accessibility-through-technology-zh-1383cdaf"
       },
       {
-        "title": "人類服務中心啟動密蘇里州首輛流動無障礙中心 - hannibal.net",
-        "slug": "center-for-human-services-launch-missouris-first-mobile-accessibility-center-han-zh-d12ec7e0"
+        "title": "可及性是運營期限，而非僅是IT專案",
+        "slug": "accessibility-is-an-operations-deadline-not-an-it-project-zh-c044f18f"
       },
       {
         "title": "鳳凰大學調查顯示人工智慧有潛力提升工作與學習中的無障礙",
         "slug": "university-of-phoenix-survey-highlights-ais-potential-to-advance-accessibility-i-zh-5dd9a110"
       },
       {
-        "title": "令和新選組的國會無障礙努力",
-        "slug": "reiwa-shinsengumis-diet-barrier-free-efforts-zh-d10cf3f0"
+        "title": "金大獲教育部補助240萬改善無障礙環境 守護特教生學習權益",
+        "slug": "national-university-receives-nt24-million-subsidy-to-improve-barrier-free-enviro-zh-8b1873c5"
+      },
+      {
+        "title": "環境保護部慶祝ADA週年，宣布戶外無障礙設施擴展",
+        "slug": "dec-celebrates-ada-anniversary-expanded-outdoor-accessibility-zh-b6630412"
       }
     ]
   }
