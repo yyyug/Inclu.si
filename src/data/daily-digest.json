@@ -1,63 +1,39 @@
 {
   "date": "2026-08-02",
-  "generatedAt": "2026-08-02T01:09:21.984Z",
+  "generatedAt": "2026-08-02T12:57:53.649Z",
   "en": {
-    "title": "DHHS Updates Accessibility Rules, Impacting Healthcare Compliance Nationwide",
-    "summary": "The Department of Health and Human Services revised its accessibility regulations, potentially altering compliance risks for hospitals and providers. Additionally, Kazakh youth are leveraging technology to improve accessibility, while a University of Phoenix survey highlights AI’s role in work and learning access. Other updates include campus accessibility funding and ADA anniversary outdoor expansions.",
+    "title": "European Accessibility Act One Year On: Companies Lag Behind Compliance",
+    "summary": "One year after the European Accessibility Act took effect, many companies still lag in meeting compliance requirements. Meanwhile, Europe approved a bionic eye to restore vision, and Le Chene received Stevie Awards for inclusive workplace practices. In Taiwan, National Kaohsiung University received NT$2.4 million to improve barrier‑free facilities, while experts stress accessibility as an operational deadline rather than an IT project.",
     "highlights": [
       {
-        "title": "Updated DHHS Accessibility Rules May Reduce or Increase Risk",
-        "slug": "updated-dhhs-accessibility-rules-may-reduce-or-increase-risk-c2cf7a0a"
+        "title": "First Asian Deaf Female Pilot Sheila Xu Visits Taiwan, Encourages Deaf Students to Pursue Dreams Boldly",
+        "slug": "first-asian-deaf-female-pilot-sheila-xu-visits-taiwan-encourages-deaf-students-t-5ad00698"
       },
       {
-        "title": "How Kazakh Youth Transforms Accessibility Through Technology",
-        "slug": "how-kazakh-youth-transforms-accessibility-through-technology-1383cdaf"
+        "title": "Asian Deaf Pilot Xu Zhi-min's Lecture Inspires Students to Break Through Themselves",
+        "slug": "asian-deaf-pilot-xu-zhi-mins-lecture-inspires-students-to-break-through-themselv-401b27ac"
       },
       {
-        "title": "Accessibility Is an Operations Deadline, Not an IT Project",
-        "slug": "accessibility-is-an-operations-deadline-not-an-it-project-c044f18f"
-      },
-      {
-        "title": "University of Phoenix Survey Highlights AI’s Potential to Advance Accessibility in Work and Learning",
-        "slug": "university-of-phoenix-survey-highlights-ais-potential-to-advance-accessibility-i-5dd9a110"
-      },
-      {
-        "title": "National University receives NT$2.4 million subsidy to improve barrier-free environment for special education students",
-        "slug": "national-university-receives-nt24-million-subsidy-to-improve-barrier-free-enviro-8b1873c5"
-      },
-      {
-        "title": "DEC celebrates ADA anniversary, expanded outdoor accessibility",
-        "slug": "dec-celebrates-ada-anniversary-expanded-outdoor-accessibility-b6630412"
+        "title": "One Year After European Accessibility Act Takes Effect, Companies Lag in Compliance",
+        "slug": "one-year-after-european-accessibility-act-takes-effect-companies-lag-in-complian-2f75bdd2"
       }
     ]
   },
   "zh-TW": {
-    "title": "衛生部更新無障礙規則，影響醫療合規與風險",
-    "summary": "衛生及公共服務部已更新無障礙規則，可能提升或降低醫療機構的合規風險。哈薩克青年利用科技開發無障礙應用與設備，鳳凰大學調查則顯示人工智慧在工作與學習中的潛力。此外，國立大學獲補助改善無障礙環境，環保部亦宣布ADA週年戶外設施擴展。",
+    "title": "歐洲無障礙法案一年 企業合規落後 無障礙進展多元",
+    "summary": "歐洲無障礙法案實施一年後，許多企業仍未達標。同時，歐洲批准義眼技術以恢復視力，Le Chene 榮獲 Stevie 獎肯定其包容職場。台灣國立高雄大學獲教育部 240 萬補助改善無障礙環境，並強調無障礙應為營運期限而非僅是 IT 專案。",
     "highlights": [
       {
-        "title": "衛生及公共服務部更新無障礙規則，可能降低或增加風險",
-        "slug": "updated-dhhs-accessibility-rules-may-reduce-or-increase-risk-zh-c2cf7a0a"
+        "title": "首位亞裔聾人女飛行員Sheila Xu來台 鼓勵聽障學子勇敢追夢",
+        "slug": "first-asian-deaf-female-pilot-sheila-xu-visits-taiwan-encourages-deaf-students-t-zh-5ad00698"
       },
       {
-        "title": "哈薩克青年如何透過科技改善無障礙",
-        "slug": "how-kazakh-youth-transforms-accessibility-through-technology-zh-1383cdaf"
+        "title": "亞裔聽障飛行員徐志敏講座 激勵學生突破自我",
+        "slug": "asian-deaf-pilot-xu-zhi-mins-lecture-inspires-students-to-break-through-themselv-zh-401b27ac"
       },
       {
-        "title": "可及性是運營期限，而非僅是IT專案",
-        "slug": "accessibility-is-an-operations-deadline-not-an-it-project-zh-c044f18f"
-      },
-      {
-        "title": "鳳凰大學調查顯示人工智慧有潛力提升工作與學習中的無障礙",
-        "slug": "university-of-phoenix-survey-highlights-ais-potential-to-advance-accessibility-i-zh-5dd9a110"
-      },
-      {
-        "title": "金大獲教育部補助240萬改善無障礙環境 守護特教生學習權益",
-        "slug": "national-university-receives-nt24-million-subsidy-to-improve-barrier-free-enviro-zh-8b1873c5"
-      },
-      {
-        "title": "環境保護部慶祝ADA週年，宣布戶外無障礙設施擴展",
-        "slug": "dec-celebrates-ada-anniversary-expanded-outdoor-accessibility-zh-b6630412"
+        "title": "歐洲無障礙法案上路一年 企業追趕進度仍落後 - 商傳媒",
+        "slug": "one-year-after-european-accessibility-act-takes-effect-companies-lag-in-complian-zh-2f75bdd2"
       }
     ]
   }
