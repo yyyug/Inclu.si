@@ -327,5 +327,70 @@
     "publishedAt": "2026-08-01T09:56:58.000Z",
     "fetchedAt": "2026-08-01T12:35:43.847Z",
     "body": "立法會議員視察新皇崗口岸港方區，重點關注無障礙通關設施。\n\n原文來源： [Singtaousa](https://www.singtaousa.com/2026/08/01/news/china/legco-members-inspect-hong-kong-port-area-wheelchair-accessibility)"
+  },
+  {
+    "title": "可及性是運營期限，而非僅是IT專案",
+    "slug": "accessibility-is-an-operations-deadline-not-an-it-project-zh-c044f18f",
+    "lang": "zh-TW",
+    "summary": "文章指出，可及性應被視為運營期限，而不僅是一個IT專案，強調組織責任與及時合規。",
+    "category": "general",
+    "tags": [
+      "accessibility",
+      "operations",
+      "compliance"
+    ],
+    "sourceName": "PA TIMES Online",
+    "sourceUrl": "https://patimes.org/accessibility-is-an-operations-deadline-not-an-it-project",
+    "relatedSources": [
+      {
+        "name": "PA TIMES Online",
+        "url": "https://patimes.org/accessibility-is-an-operations-deadline-not-an-it-project"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-c044f18f",
+    "status": "published",
+    "translationOf": "accessibility-is-an-operations-deadline-not-an-it-project-c044f18f",
+    "publishedAt": "2026-08-02T00:00:10.000Z",
+    "fetchedAt": "2026-08-02T00:57:00.960Z",
+    "body": "文章指出，可及性應被視為運營期限，而不僅是一個IT專案，強調組織責任與及時合規。\n\n原文來源： [PA TIMES Online](https://patimes.org/accessibility-is-an-operations-deadline-not-an-it-project)"
+  },
+  {
+    "title": "金大獲教育部補助240萬改善無障礙環境 守護特教生學習權益",
+    "slug": "national-university-receives-nt24-million-subsidy-to-improve-barrier-free-enviro-zh-8b1873c5",
+    "lang": "zh-TW",
+    "summary": "金大獲教育部補助240萬元改善無障礙環境，以保障特殊教育學生的學習權益。",
+    "category": "physical-design",
+    "tags": [
+      "barrier-free",
+      "special education",
+      "campus accessibility",
+      "Taiwan"
+    ],
+    "sourceName": "蕃新聞",
+    "sourceUrl": "https://n.yam.com/Article/20260802554405",
+    "relatedSources": [
+      {
+        "name": "蕃新聞",
+        "url": "https://n.yam.com/Article/20260802554405"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-8b1873c5",
+    "status": "published",
+    "translationOf": "national-university-receives-nt24-million-subsidy-to-improve-barrier-free-enviro-8b1873c5",
+    "publishedAt": "2026-08-01T23:40:00.000Z",
+    "fetchedAt": "2026-08-02T00:57:01.073Z",
+    "body": "金大獲教育部補助240萬元改善無障礙環境，以保障特殊教育學生的學習權益。\n\n原文來源： [蕃新聞](https://n.yam.com/Article/20260802554405)"
   }
 ]

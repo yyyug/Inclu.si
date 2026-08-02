@@ -327,5 +327,70 @@
     "publishedAt": "2026-08-01T09:56:58.000Z",
     "fetchedAt": "2026-08-01T12:35:43.847Z",
     "body": "Legislative Council members inspect the Hong Kong side of the new Lok Ma Chau port area, focusing on barrier-free customs clearance facilities.\n\nRead more from the original source: [Singtaousa](https://www.singtaousa.com/2026/08/01/news/china/legco-members-inspect-hong-kong-port-area-wheelchair-accessibility)"
+  },
+  {
+    "title": "Accessibility Is an Operations Deadline, Not an IT Project",
+    "slug": "accessibility-is-an-operations-deadline-not-an-it-project-c044f18f",
+    "lang": "en",
+    "summary": "The article argues that accessibility should be treated as an operational deadline rather than a mere IT project, emphasizing organizational responsibility and timely compliance.",
+    "category": "general",
+    "tags": [
+      "accessibility",
+      "operations",
+      "compliance"
+    ],
+    "sourceName": "PA TIMES Online",
+    "sourceUrl": "https://patimes.org/accessibility-is-an-operations-deadline-not-an-it-project",
+    "relatedSources": [
+      {
+        "name": "PA TIMES Online",
+        "url": "https://patimes.org/accessibility-is-an-operations-deadline-not-an-it-project"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-c044f18f",
+    "status": "published",
+    "translationOf": "accessibility-is-an-operations-deadline-not-an-it-project-zh-c044f18f",
+    "publishedAt": "2026-08-02T00:00:10.000Z",
+    "fetchedAt": "2026-08-02T00:57:00.960Z",
+    "body": "The article argues that accessibility should be treated as an operational deadline rather than a mere IT project, emphasizing organizational responsibility and timely compliance.\n\nRead more from the original source: [PA TIMES Online](https://patimes.org/accessibility-is-an-operations-deadline-not-an-it-project)"
+  },
+  {
+    "title": "National University receives NT$2.4 million subsidy to improve barrier-free environment for special education students",
+    "slug": "national-university-receives-nt24-million-subsidy-to-improve-barrier-free-enviro-8b1873c5",
+    "lang": "en",
+    "summary": "National University received a NT$2.4 million subsidy from the Ministry of Education to improve barrier-free facilities, aiming to protect the learning rights of special education students.",
+    "category": "physical-design",
+    "tags": [
+      "barrier-free",
+      "special education",
+      "campus accessibility",
+      "Taiwan"
+    ],
+    "sourceName": "蕃新聞",
+    "sourceUrl": "https://n.yam.com/Article/20260802554405",
+    "relatedSources": [
+      {
+        "name": "蕃新聞",
+        "url": "https://n.yam.com/Article/20260802554405"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-8b1873c5",
+    "status": "published",
+    "translationOf": "national-university-receives-nt24-million-subsidy-to-improve-barrier-free-enviro-zh-8b1873c5",
+    "publishedAt": "2026-08-01T23:40:00.000Z",
+    "fetchedAt": "2026-08-02T00:57:01.073Z",
+    "body": "National University received a NT$2.4 million subsidy from the Ministry of Education to improve barrier-free facilities, aiming to protect the learning rights of special education students.\n\nRead more from the original source: [蕃新聞](https://n.yam.com/Article/20260802554405)"
   }
 ]
