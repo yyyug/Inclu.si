@@ -2474,5 +2474,102 @@
     "publishedAt": "2026-08-02T12:48:57.000Z",
     "fetchedAt": "2026-08-02T13:07:58.648Z",
     "body": "Jackpotter 平台正在開發中，著重於可及性、使用者參與度以及提升使用者體驗。\n推文來源： [mizeria999🚢 (@mizeria999)](https://x.com/mizeria999/status/2083897842964353178)"
+  },
+  {
+    "title": "無障礙坡道應該留給有需要的人！",
+    "slug": "accessible-ramps-should-be-reserved-for-those-who-need-them-zh-62b2ff93",
+    "lang": "zh-TW",
+    "summary": "無障礙坡道應該留給有需要的人！",
+    "category": "physical-design",
+    "tags": [
+      "ramps",
+      "accessibility",
+      "public facilities"
+    ],
+    "sourceName": "ccpb.gov.tw",
+    "sourceUrl": "https://www.ccpb.gov.tw/news?mode=data&id=60366&parent_id=10321&type_id=10327",
+    "relatedSources": [
+      {
+        "name": "ccpb.gov.tw",
+        "url": "https://www.ccpb.gov.tw/news?mode=data&id=60366&parent_id=10321&type_id=10327"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-62b2ff93",
+    "status": "published",
+    "translationOf": "accessible-ramps-should-be-reserved-for-those-who-need-them-62b2ff93",
+    "publishedAt": "2026-08-02T16:02:03.000Z",
+    "fetchedAt": "2026-08-03T00:55:44.453Z",
+    "body": "無障礙坡道應該留給有需要的人！\n\n原文來源： [ccpb.gov.tw](https://www.ccpb.gov.tw/news?mode=data&id=60366&parent_id=10321&type_id=10327)"
+  },
+  {
+    "title": "亞裔聽障女飛行員 分享太空逐夢",
+    "slug": "asian-deaf-female-pilot-shares-space-dream-zh-3b5a8977",
+    "lang": "zh-TW",
+    "summary": "亞裔聽障女飛行員 分享太空逐夢",
+    "category": "case-studies",
+    "tags": [
+      "deaf pilot",
+      "aviation",
+      "disability achievement",
+      "space aspiration"
+    ],
+    "sourceName": "today.line.me",
+    "sourceUrl": "https://today.line.me/tw/v3/article/mWR0Kee",
+    "relatedSources": [
+      {
+        "name": "today.line.me",
+        "url": "https://today.line.me/tw/v3/article/mWR0Kee"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3b5a8977",
+    "status": "published",
+    "translationOf": "asian-deaf-female-pilot-shares-space-dream-3b5a8977",
+    "publishedAt": "2026-08-02T13:36:48.000Z",
+    "fetchedAt": "2026-08-03T00:55:44.457Z",
+    "body": "亞裔聽障女飛行員 分享太空逐夢\n\n原文來源： [today.line.me](https://today.line.me/tw/v3/article/mWR0Kee)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "hunch-sdk-055-zh-8339e61f",
+    "lang": "zh-TW",
+    "summary": "hunch-sdk 0.5.5 版本讓開發者能透過 OS API、AppleScript、CDP 與無障礙功能，實現 Mac 的免焦點操作，以支援輔助技術的整合。",
+    "category": "assistive-tech",
+    "tags": [
+      "macOS",
+      "accessibility API",
+      "assistive technology"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/hunch-sdk/0.5.5",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/hunch-sdk/0.5.5"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-8339e61f",
+    "status": "draft",
+    "translationOf": "hunch-sdk-055-8339e61f",
+    "publishedAt": "2026-08-01T14:37:35.000Z",
+    "fetchedAt": "2026-08-03T00:55:53.417Z",
+    "body": "hunch-sdk 0.5.5 版本讓開發者能透過 OS API、AppleScript、CDP 與無障礙功能，實現 Mac 的免焦點操作，以支援輔助技術的整合。\n\n原文來源： [Pypi.org](https://pypi.org/project/hunch-sdk/0.5.5)"
   }
 ]
