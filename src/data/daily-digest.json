@@ -1,39 +1,47 @@
 {
-  "date": "2026-08-02",
-  "generatedAt": "2026-08-02T12:57:53.649Z",
+  "date": "2026-08-03",
+  "generatedAt": "2026-08-03T01:09:24.258Z",
   "en": {
-    "title": "European Accessibility Act One Year On: Companies Lag Behind Compliance",
-    "summary": "One year after the European Accessibility Act took effect, many companies still lag in meeting compliance requirements. Meanwhile, Europe approved a bionic eye to restore vision, and Le Chene received Stevie Awards for inclusive workplace practices. In Taiwan, National Kaohsiung University received NT$2.4 million to improve barrier‑free facilities, while experts stress accessibility as an operational deadline rather than an IT project.",
+    "title": "Europe's Accessibility Act One Year On: Companies Lag Behind Compliance",
+    "summary": "One year after the European Accessibility Act took effect, many businesses still lag in compliance, according to recent reports. Meanwhile, new accessibility-focused product launches include a Figma plugin for geometric wireframes and the Jackpotter platform’s accessibility emphasis. Additionally, discussion continues on reserving accessible ramps for those who need them.",
     "highlights": [
-      {
-        "title": "First Asian Deaf Female Pilot Sheila Xu Visits Taiwan, Encourages Deaf Students to Pursue Dreams Boldly",
-        "slug": "first-asian-deaf-female-pilot-sheila-xu-visits-taiwan-encourages-deaf-students-t-5ad00698"
-      },
-      {
-        "title": "Asian Deaf Pilot Xu Zhi-min's Lecture Inspires Students to Break Through Themselves",
-        "slug": "asian-deaf-pilot-xu-zhi-mins-lecture-inspires-students-to-break-through-themselv-401b27ac"
-      },
       {
         "title": "One Year After European Accessibility Act Takes Effect, Companies Lag in Compliance",
         "slug": "one-year-after-european-accessibility-act-takes-effect-companies-lag-in-complian-2f75bdd2"
+      },
+      {
+        "title": "NodeShape Studio Figma Plugin Release",
+        "slug": "nodeshape-studio-figma-plugin-release-0dc8ad99"
+      },
+      {
+        "title": "Jackpotter Platform Focuses on Accessibility",
+        "slug": "jackpotter-platform-focuses-on-accessibility-0c474d97"
+      },
+      {
+        "title": "Accessible ramps should be reserved for those who need them!",
+        "slug": "accessible-ramps-should-be-reserved-for-those-who-need-them-62b2ff93"
       }
     ]
   },
   "zh-TW": {
-    "title": "歐洲無障礙法案一年 企業合規落後 無障礙進展多元",
-    "summary": "歐洲無障礙法案實施一年後，許多企業仍未達標。同時，歐洲批准義眼技術以恢復視力，Le Chene 榮獲 Stevie 獎肯定其包容職場。台灣國立高雄大學獲教育部 240 萬補助改善無障礙環境，並強調無障礙應為營運期限而非僅是 IT 專案。",
+    "title": "歐洲無障礙法案一年 合規落後",
+    "summary": "歐洲無障礙法案上路已滿一年，但許多企業仍未達標。同時，新推出的無障礙產品包括NodeShape Studio Figma外掛與Jackpotter平台，皆著重可及性設計。此外，討論強調應將無障礙坡道保留給真正需要的人使用。",
     "highlights": [
       {
-        "title": "首位亞裔聾人女飛行員Sheila Xu來台 鼓勵聽障學子勇敢追夢",
-        "slug": "first-asian-deaf-female-pilot-sheila-xu-visits-taiwan-encourages-deaf-students-t-zh-5ad00698"
-      },
-      {
-        "title": "亞裔聽障飛行員徐志敏講座 激勵學生突破自我",
-        "slug": "asian-deaf-pilot-xu-zhi-mins-lecture-inspires-students-to-break-through-themselv-zh-401b27ac"
+        "title": "無障礙坡道應該留給有需要的人！",
+        "slug": "accessible-ramps-should-be-reserved-for-those-who-need-them-zh-62b2ff93"
       },
       {
         "title": "歐洲無障礙法案上路一年 企業追趕進度仍落後 - 商傳媒",
         "slug": "one-year-after-european-accessibility-act-takes-effect-companies-lag-in-complian-zh-2f75bdd2"
+      },
+      {
+        "title": "NodeShape Studio Figma 外掛程式發布",
+        "slug": "nodeshape-studio-figma-plugin-release-zh-0dc8ad99"
+      },
+      {
+        "title": "Jackpotter 平台專注於可及性",
+        "slug": "jackpotter-platform-focuses-on-accessibility-zh-0c474d97"
       }
     ]
   }
