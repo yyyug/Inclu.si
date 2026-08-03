@@ -1,47 +1,47 @@
 {
   "date": "2026-08-03",
-  "generatedAt": "2026-08-03T01:09:24.258Z",
+  "generatedAt": "2026-08-03T13:31:15.033Z",
   "en": {
-    "title": "Europe's Accessibility Act One Year On: Companies Lag Behind Compliance",
-    "summary": "One year after the European Accessibility Act took effect, many businesses still lag in compliance, according to recent reports. Meanwhile, new accessibility-focused product launches include a Figma plugin for geometric wireframes and the Jackpotter platform’s accessibility emphasis. Additionally, discussion continues on reserving accessible ramps for those who need them.",
+    "title": "Australia Launches $200M Inclusive Communities Fund Consultation for Disability Access",
+    "summary": "Australian Government opened consultation for a $200 million Inclusive Communities Fund to boost disability participation in social, recreational, arts, sports, and cultural activities over three years. Also highlighted were a barrier‑free beach event in Japan and reports of a shortage of group homes for people with severe disabilities across 30 prefectures. Developers can test web accessibility using 20 browser‑based exercises covering keyboard navigation, ARIA labels, contrast, and focus management.",
     "highlights": [
       {
-        "title": "One Year After European Accessibility Act Takes Effect, Companies Lag in Compliance",
-        "slug": "one-year-after-european-accessibility-act-takes-effect-companies-lag-in-complian-2f75bdd2"
+        "title": "Consultation opens for Inclusive Communities Fund",
+        "slug": "consultation-opens-for-inclusive-communities-fund-0e6c2453"
       },
       {
-        "title": "NodeShape Studio Figma Plugin Release",
-        "slug": "nodeshape-studio-figma-plugin-release-0dc8ad99"
+        "title": "Barrier-Free Beach Event 'Everyone's MIYUKI BEACH'",
+        "slug": "barrier-free-beach-event-everyones-miyuki-beach-e9bd7827"
       },
       {
-        "title": "Jackpotter Platform Focuses on Accessibility",
-        "slug": "jackpotter-platform-focuses-on-accessibility-0c474d97"
+        "title": "Shortage of Group Homes for People with Severe Disabilities in Japan",
+        "slug": "shortage-of-group-homes-for-people-with-severe-disabilities-in-japan-16444587"
       },
       {
-        "title": "Accessible ramps should be reserved for those who need them!",
-        "slug": "accessible-ramps-should-be-reserved-for-those-who-need-them-62b2ff93"
+        "title": "Web Accessibility: 20 Exercises You Can Check Right in the Browser",
+        "slug": "web-accessibility-20-exercises-you-can-check-right-in-the-browser-699e0095"
       }
     ]
   },
   "zh-TW": {
-    "title": "歐洲無障礙法案一年 合規落後",
-    "summary": "歐洲無障礙法案上路已滿一年，但許多企業仍未達標。同時，新推出的無障礙產品包括NodeShape Studio Figma外掛與Jackpotter平台，皆著重可及性設計。此外，討論強調應將無障礙坡道保留給真正需要的人使用。",
+    "title": "澳洲啟動2億美元包容性社區基金諮詢",
+    "summary": "澳大利亞政府已啟動總額2億美元的包容性社區基金諮詢，計畫於未來三年內提升殘障人士在社會、休閒、藝術、體育及文化活動中的參與度。同時，日本舉辦無障礙海灘活動「大家的美雪海灘」，並有報告指出全國30個縣府約有20,000名殘障人士等待團體住宅安置。開發者可透過20項瀏覽器網頁無障礙練習，檢查鍵盤導航、ARIA標籤、顏色對比與焦點管理。",
     "highlights": [
       {
-        "title": "無障礙坡道應該留給有需要的人！",
-        "slug": "accessible-ramps-should-be-reserved-for-those-who-need-them-zh-62b2ff93"
+        "title": "包容性社區基金諮詢啟動",
+        "slug": "consultation-opens-for-inclusive-communities-fund-zh-0e6c2453"
       },
       {
-        "title": "歐洲無障礙法案上路一年 企業追趕進度仍落後 - 商傳媒",
-        "slug": "one-year-after-european-accessibility-act-takes-effect-companies-lag-in-complian-zh-2f75bdd2"
+        "title": "無障礙海灘活動『大家的美雪海灘』",
+        "slug": "barrier-free-beach-event-everyones-miyuki-beach-zh-e9bd7827"
       },
       {
-        "title": "NodeShape Studio Figma 外掛程式發布",
-        "slug": "nodeshape-studio-figma-plugin-release-zh-0dc8ad99"
+        "title": "日本嚴重殘障人士團體住宅短缺",
+        "slug": "shortage-of-group-homes-for-people-with-severe-disabilities-in-japan-zh-16444587"
       },
       {
-        "title": "Jackpotter 平台專注於可及性",
-        "slug": "jackpotter-platform-focuses-on-accessibility-zh-0c474d97"
+        "title": "網頁無障礙：可直接在瀏覽器中檢查的20項練習",
+        "slug": "web-accessibility-20-exercises-you-can-check-right-in-the-browser-zh-699e0095"
       }
     ]
   }
