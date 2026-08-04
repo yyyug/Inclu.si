@@ -5387,5 +5387,564 @@
     "publishedAt": "2026-08-04T00:45:10.000Z",
     "fetchedAt": "2026-08-04T01:15:37.494Z",
     "body": "討論自動化無障礙工具的限制，指出雖然對比度可由機器檢查，但顏色依賴性及整體溝通仍需人工判斷。\n推文來源： [kosei | Figma Plugin Dev (@yama_plugins)](https://x.com/yama_plugins/status/2084440471712219246)"
+  },
+  {
+    "title": "弗洛伦斯公园获得300万美元无障碍升级 - WAFF",
+    "slug": "florence-park-gets-3-million-accessibility-upgrade-waff-zh-99a6194c",
+    "lang": "zh-TW",
+    "summary": "弗洛伦斯市拨款300万美元用于升级公园设施，新增轮椅可通行的步道、无障碍厕所和游乐设施，以改善残障人士的可及性。",
+    "category": "physical-design",
+    "tags": [
+      "Florence",
+      "park",
+      "accessibility upgrade",
+      "physical design",
+      "disability"
+    ],
+    "sourceName": "WAFF",
+    "sourceUrl": "https://www.waff.com/2026/08/03/florence-park-gets-3-million-accessibility-upgrade",
+    "relatedSources": [
+      {
+        "name": "WAFF",
+        "url": "https://www.waff.com/2026/08/03/florence-park-gets-3-million-accessibility-upgrade"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-99a6194c",
+    "status": "published",
+    "translationOf": "florence-park-gets-3-million-accessibility-upgrade-waff-99a6194c",
+    "publishedAt": "2026-08-03T21:43:00.000Z",
+    "fetchedAt": "2026-08-04T12:52:03.015Z",
+    "body": "弗洛伦斯市拨款300万美元用于升级公园设施，新增轮椅可通行的步道、无障碍厕所和游乐设施，以改善残障人士的可及性。\n\n原文來源： [WAFF](https://www.waff.com/2026/08/03/florence-park-gets-3-million-accessibility-upgrade)"
+  },
+  {
+    "title": "10项对所有人都有用的iPhone无障碍功能 - Macworld",
+    "slug": "10-iphone-accessibility-features-that-are-useful-for-everyone-macworld-zh-2a25649f",
+    "lang": "zh-TW",
+    "summary": "文章介绍了十项iPhone无障碍功能，如VoiceOver、放大镜和声音识别，说明它们如何帮助残障用户，同时也为普通用户带来便利。",
+    "category": "digital-a11y",
+    "tags": [
+      "iPhone",
+      "accessibility features",
+      "VoiceOver",
+      "Magnifier",
+      "Sound Recognition",
+      "digital accessibility"
+    ],
+    "sourceName": "Macworld",
+    "sourceUrl": "https://www.macworld.com/article/3193178/these-10-user-guides-are-useful-for-all-users.html",
+    "relatedSources": [
+      {
+        "name": "Macworld",
+        "url": "https://www.macworld.com/article/3193178/these-10-user-guides-are-useful-for-all-users.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-2a25649f",
+    "status": "published",
+    "translationOf": "10-iphone-accessibility-features-that-are-useful-for-everyone-macworld-2a25649f",
+    "publishedAt": "2026-08-04T10:30:00.000Z",
+    "fetchedAt": "2026-08-04T12:52:03.023Z",
+    "body": "文章介绍了十项iPhone无障碍功能，如VoiceOver、放大镜和声音识别，说明它们如何帮助残障用户，同时也为普通用户带来便利。\n\n原文來源： [Macworld](https://www.macworld.com/article/3193178/these-10-user-guides-are-useful-for-all-users.html)"
+  },
+  {
+    "title": "诉讼推动无障碍进程 - China Daily",
+    "slug": "litigation-brings-down-barriers-to-accessibility-china-daily-zh-98e9df4f",
+    "lang": "zh-TW",
+    "summary": "中国近期的诉讼案件迫使企业和公共机构消除物理和数字障碍，通过法律手段提升残障人士的可及性。",
+    "category": "laws-rights",
+    "tags": [
+      "litigation",
+      "accessibility barriers",
+      "China",
+      "disability rights",
+      "legal action"
+    ],
+    "sourceName": "China Daily",
+    "sourceUrl": "https://www.chinadaily.com.cn/a/202608/04/WS6a713d81a310986e2b468d22.html",
+    "relatedSources": [
+      {
+        "name": "China Daily",
+        "url": "https://www.chinadaily.com.cn/a/202608/04/WS6a713d81a310986e2b468d22.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-98e9df4f",
+    "status": "published",
+    "translationOf": "litigation-brings-down-barriers-to-accessibility-china-daily-98e9df4f",
+    "publishedAt": "2026-08-04T01:16:43.000Z",
+    "fetchedAt": "2026-08-04T12:52:03.066Z",
+    "body": "中国近期的诉讼案件迫使企业和公共机构消除物理和数字障碍，通过法律手段提升残障人士的可及性。\n\n原文來源： [China Daily](https://www.chinadaily.com.cn/a/202608/04/WS6a713d81a310986e2b468d22.html)"
+  },
+  {
+    "title": "慕尼黑機場獲得無障礙提升認證 - Airport World",
+    "slug": "accessibility-enhancement-accreditation-for-munich-airport-airport-world-zh-ef6bb273",
+    "lang": "zh-TW",
+    "summary": "慕尼黑機場獲得無障礙提升認證，肯定其在設施與服務方面為殘障乘客所做的改進。",
+    "category": "physical-design",
+    "tags": [
+      "airport",
+      "accessibility",
+      "assistance"
+    ],
+    "sourceName": "Airport World",
+    "sourceUrl": "https://airport-world.com/accessibility-enhancement-accreditation-for-munich-airport",
+    "relatedSources": [
+      {
+        "name": "Airport World",
+        "url": "https://airport-world.com/accessibility-enhancement-accreditation-for-munich-airport"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ef6bb273",
+    "status": "published",
+    "translationOf": "accessibility-enhancement-accreditation-for-munich-airport-airport-world-ef6bb273",
+    "publishedAt": "2026-08-04T08:51:47.000Z",
+    "fetchedAt": "2026-08-04T12:52:20.675Z",
+    "body": "慕尼黑機場獲得無障礙提升認證，肯定其在設施與服務方面為殘障乘客所做的改進。\n\n原文來源： [Airport World](https://airport-world.com/accessibility-enhancement-accreditation-for-munich-airport)"
+  },
+  {
+    "title": "英國機場在乘客援助需求創紀錄時達到最高無障礙評級 - International Airport Review",
+    "slug": "uk-airports-achieve-highest-accessibility-ratings-as-passenger-assistance-demand-zh-524f49ac",
+    "lang": "zh-TW",
+    "summary": "英國機場在乘客援助需求達到紀錄高點時，獲得最高無障礙評級，顯示其對殘障旅客的支援力度。",
+    "category": "physical-design",
+    "tags": [
+      "airport",
+      "accessibility",
+      "assistance"
+    ],
+    "sourceName": "International Airport Review",
+    "sourceUrl": "https://www.internationalairportreview.com/uk-airports-achieve-highest-accessibility-ratings-as-passenger-assistance-demand-reaches-record-levels/2136148.article",
+    "relatedSources": [
+      {
+        "name": "International Airport Review",
+        "url": "https://www.internationalairportreview.com/uk-airports-achieve-highest-accessibility-ratings-as-passenger-assistance-demand-reaches-record-levels/2136148.article"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-524f49ac",
+    "status": "published",
+    "translationOf": "uk-airports-achieve-highest-accessibility-ratings-as-passenger-assistance-demand-524f49ac",
+    "publishedAt": "2026-08-04T09:23:56.000Z",
+    "fetchedAt": "2026-08-04T12:52:20.682Z",
+    "body": "英國機場在乘客援助需求達到紀錄高點時，獲得最高無障礙評級，顯示其對殘障旅客的支援力度。\n\n原文來源： [International Airport Review](https://www.internationalairportreview.com/uk-airports-achieve-highest-accessibility-ratings-as-passenger-assistance-demand-reaches-record-levels/2136148.article)"
+  },
+  {
+    "title": "英國機場因乘客援助需求創紀錄而改善無障礙設施 - Airport Suppliers",
+    "slug": "uk-airports-improve-accessibility-as-demand-for-assistance-reaches-record-levels-zh-3bb0d977",
+    "lang": "zh-TW",
+    "summary": "隨著乘客援助需求創紀錄，英國機場提升無障礙設施與服務，以更好地殘障旅客。",
+    "category": "physical-design",
+    "tags": [
+      "airport",
+      "accessibility",
+      "assistance"
+    ],
+    "sourceName": "Airport Suppliers",
+    "sourceUrl": "https://www.airport-suppliers.com/uk-airports-improve-accessibility-as-demand-for-assistance-reaches-record-levels",
+    "relatedSources": [
+      {
+        "name": "Airport Suppliers",
+        "url": "https://www.airport-suppliers.com/uk-airports-improve-accessibility-as-demand-for-assistance-reaches-record-levels"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3bb0d977",
+    "status": "published",
+    "translationOf": "uk-airports-improve-accessibility-as-demand-for-assistance-reaches-record-levels-3bb0d977",
+    "publishedAt": "2026-08-04T10:34:16.000Z",
+    "fetchedAt": "2026-08-04T12:52:20.688Z",
+    "body": "隨著乘客援助需求創紀錄，英國機場提升無障礙設施與服務，以更好地殘障旅客。\n\n原文來源： [Airport Suppliers](https://www.airport-suppliers.com/uk-airports-improve-accessibility-as-demand-for-assistance-reaches-record-levels)"
+  },
+  {
+    "title": "解說比賽：溫布頓的數據、圖形與無障礙推動",
+    "slug": "explaining-the-game-wimbledons-data-graphics-and-accessibility-push-zh-e7d3401c",
+    "lang": "zh-TW",
+    "summary": "溫布頓正在提升其數據呈現和圖形，以改善殘障球迷的無障礙體驗，包括更好的字幕和音頻描述。",
+    "category": "digital-a11y",
+    "tags": [
+      "Wimbledon",
+      "accessibility",
+      "sports",
+      "digital"
+    ],
+    "sourceName": "SVG Europe",
+    "sourceUrl": "https://www.svgeurope.org/blog/headlines/explaining-the-game-wimbledons-data-graphics-and-accessibility-push",
+    "relatedSources": [
+      {
+        "name": "SVG Europe",
+        "url": "https://www.svgeurope.org/blog/headlines/explaining-the-game-wimbledons-data-graphics-and-accessibility-push"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e7d3401c",
+    "status": "published",
+    "translationOf": "explaining-the-game-wimbledons-data-graphics-and-accessibility-push-e7d3401c",
+    "publishedAt": "2026-08-04T08:38:45.000Z",
+    "fetchedAt": "2026-08-04T12:52:40.895Z",
+    "body": "溫布頓正在提升其數據呈現和圖形，以改善殘障球迷的無障礙體驗，包括更好的字幕和音頻描述。\n\n原文來源： [SVG Europe](https://www.svgeurope.org/blog/headlines/explaining-the-game-wimbledons-data-graphics-and-accessibility-push)"
+  },
+  {
+    "title": "奧克蘭縣推出移動優化陪審系統，提升陪審員的便利性與無障礙",
+    "slug": "oakland-county-launches-mobile-optimized-jury-system-enhancing-convenience-and-a-zh-9b675b8c",
+    "lang": "zh-TW",
+    "summary": "奧克蘭縣推出了一個移動優化的陪審管理系統，以提高陪審服務的無障礙性，特別是對殘障人士，通過遠程參與和更易訪問的資訊。",
+    "category": "digital-a11y",
+    "tags": [
+      "Oakland County",
+      "jury system",
+      "mobile",
+      "accessibility"
+    ],
+    "sourceName": "94.7 WCSX",
+    "sourceUrl": "https://wcsx.com/2026/08/03/oakland-county-launches-mobile-optimized-jury-system-enhancing-convenience-and-accessibility-for-jurors",
+    "relatedSources": [
+      {
+        "name": "94.7 WCSX",
+        "url": "https://wcsx.com/2026/08/03/oakland-county-launches-mobile-optimized-jury-system-enhancing-convenience-and-accessibility-for-jurors"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-9b675b8c",
+    "status": "published",
+    "translationOf": "oakland-county-launches-mobile-optimized-jury-system-enhancing-convenience-and-a-9b675b8c",
+    "publishedAt": "2026-08-03T14:54:53.000Z",
+    "fetchedAt": "2026-08-04T12:52:40.902Z",
+    "body": "奧克蘭縣推出了一個移動優化的陪審管理系統，以提高陪審服務的無障礙性，特別是對殘障人士，通過遠程參與和更易訪問的資訊。\n\n原文來源： [94.7 WCSX](https://wcsx.com/2026/08/03/oakland-county-launches-mobile-optimized-jury-system-enhancing-convenience-and-accessibility-for-jurors)"
+  },
+  {
+    "title": "首位亞裔聾人女飛行員Sheila Xu來台 鼓勵聽障學子勇敢追夢",
+    "slug": "first-asian-deaf-female-pilot-sheila-xu-visits-taiwan-encourages-hearing-impaire-zh-e8da41a3",
+    "lang": "zh-TW",
+    "summary": "首位亞裔聾人女飛行員Sheila Xu來台，鼓勵聽障學子勇敢追夢航空事業。",
+    "category": "case-studies",
+    "tags": [
+      "deaf",
+      "aviation",
+      "role model"
+    ],
+    "sourceName": "news.pchome.com.tw",
+    "sourceUrl": "https://news.pchome.com.tw/society/morenews/20260802/index-78566012978690350002.html",
+    "relatedSources": [
+      {
+        "name": "news.pchome.com.tw",
+        "url": "https://news.pchome.com.tw/society/morenews/20260802/index-78566012978690350002.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e8da41a3",
+    "status": "published",
+    "translationOf": "first-asian-deaf-female-pilot-sheila-xu-visits-taiwan-encourages-hearing-impaire-e8da41a3",
+    "publishedAt": "2026-08-02T08:42:09.000Z",
+    "fetchedAt": "2026-08-04T12:53:28.806Z",
+    "body": "首位亞裔聾人女飛行員Sheila Xu來台，鼓勵聽障學子勇敢追夢航空事業。\n\n原文來源： [news.pchome.com.tw](https://news.pchome.com.tw/society/morenews/20260802/index-78566012978690350002.html)"
+  },
+  {
+    "title": "合作共濟發表認知症無障礙宣言",
+    "slug": "co-op-kyosai-publishes-dementia-barrier-free-declaration-zh-5258738e",
+    "lang": "zh-TW",
+    "summary": "合作共濟發表認知症無障礙宣言，承諾改善環境與服務，以支援痴呆症患者。",
+    "category": "physical-design",
+    "tags": [
+      "dementia",
+      "barrier-free",
+      "Japan"
+    ],
+    "sourceName": "時事ドットコム",
+    "sourceUrl": "https://www.jiji.com/jc/article?k=000000023.000171854&g=prt",
+    "relatedSources": [
+      {
+        "name": "時事ドットコム",
+        "url": "https://www.jiji.com/jc/article?k=000000023.000171854&g=prt"
+      }
+    ],
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E3%83%90%E3%83%AA%E3%82%A2%E3%83%95%E3%83%AA%E3%83%BC&hl=ja&gl=JP&ceid=JP%3Aja",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5258738e",
+    "status": "published",
+    "translationOf": "co-op-kyosai-publishes-dementia-barrier-free-declaration-5258738e",
+    "publishedAt": "2026-08-04T03:45:00.000Z",
+    "fetchedAt": "2026-08-04T12:53:28.814Z",
+    "body": "合作共濟發表認知症無障礙宣言，承諾改善環境與服務，以支援痴呆症患者。\n\n原文來源： [時事ドットコム](https://www.jiji.com/jc/article?k=000000023.000171854&g=prt)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "stroke-week-highlights-womens-unique-stroke-risks-zh-c8b9b2c7",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/08/04/health/stroke-week-highlights-womens-unique-stroke-risks",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/08/04/health/stroke-week-highlights-womens-unique-stroke-risks"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-c8b9b2c7",
+    "status": "draft",
+    "translationOf": "stroke-week-highlights-womens-unique-stroke-risks-c8b9b2c7",
+    "publishedAt": "2026-08-04T02:37:07.000Z",
+    "fetchedAt": "2026-08-04T12:53:40.314Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/08/04/health/stroke-week-highlights-womens-unique-stroke-risks)"
+  },
+  {
+    "title": "OSCE 支持塔吉克斯坦的残障人士防灾韧性",
+    "slug": "osce-supports-disability-disaster-resilience-in-tajikistan-zh-3df56b53",
+    "lang": "zh-TW",
+    "summary": "OSCE 与当地组织合作，在伊斯法拉、巴尔朱冯和达尔沃兹等地开展信息宣讲，提升残障人士的防灾韧性。",
+    "category": "laws-rights",
+    "tags": [
+      "disaster resilience",
+      "disability inclusion",
+      "OSCE",
+      "Tajikistan"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/08/04/disaster/osce-supports-disability-disaster-resilience-in-tajikistan",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/08/04/disaster/osce-supports-disability-disaster-resilience-in-tajikistan"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-3df56b53",
+    "status": "published",
+    "translationOf": "osce-supports-disability-disaster-resilience-in-tajikistan-3df56b53",
+    "publishedAt": "2026-08-04T02:31:08.000Z",
+    "fetchedAt": "2026-08-04T12:53:40.321Z",
+    "body": "OSCE 与当地组织合作，在伊斯法拉、巴尔朱冯和达尔沃兹等地开展信息宣讲，提升残障人士的防灾韧性。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/08/04/disaster/osce-supports-disability-disaster-resilience-in-tajikistan)"
+  },
+  {
+    "title": "機器人輪椅市場規模預計將達到 4.2572 億美元之 2035 年 | SNS Insider 研究",
+    "slug": "robotic-wheelchair-market-size-to-hit-usd-42572-million-by-2035-research-by-sns--zh-4a431e78",
+    "lang": "zh-TW",
+    "summary": "根據 SNS Insider 的研究，全球機器人輪椅市場預計將在 2035 年達到 4.2572 億美元，受技術進步、控制模式及各端用戶應用需求推動。",
+    "category": "assistive-tech",
+    "tags": [
+      "robotic wheelchair",
+      "assistive technology",
+      "market forecast",
+      "SNS Insider",
+      "accessibility"
+    ],
+    "sourceName": "GlobeNewswire",
+    "sourceUrl": "https://www.globenewswire.com/news-release/2026/08/03/3337398/0/en/Robotic-Wheelchair-Market-Size-to-Hit-USD-425-72-Million-by-2035-Research-by-SNS-Insider.html",
+    "relatedSources": [
+      {
+        "name": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/08/03/3337398/0/en/Robotic-Wheelchair-Market-Size-to-Hit-USD-425-72-Million-by-2035-Research-by-SNS-Insider.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-4a431e78",
+    "status": "published",
+    "translationOf": "robotic-wheelchair-market-size-to-hit-usd-42572-million-by-2035-research-by-sns--4a431e78",
+    "publishedAt": "2026-08-03T11:30:00.000Z",
+    "fetchedAt": "2026-08-04T12:54:02.687Z",
+    "body": "根據 SNS Insider 的研究，全球機器人輪椅市場預計將在 2035 年達到 4.2572 億美元，受技術進步、控制模式及各端用戶應用需求推動。\n\n原文來源： [GlobeNewswire](https://www.globenewswire.com/news-release/2026/08/03/3337398/0/en/Robotic-Wheelchair-Market-Size-to-Hit-USD-425-72-Million-by-2035-Research-by-SNS-Insider.html)"
+  },
+  {
+    "title": "沉默中的呼喚：信仰、聾人身份與司鐸",
+    "slug": "called-in-silence-faith-deaf-identity-and-priesthood-zh-2d979893",
+    "lang": "zh-TW",
+    "summary": "文章介紹了印度首位聾人天主教司鐸、全球僅第 26 位的熱羅瑟夫·瑟馬多姆神父（Father Joseph Thermadom CSC），探討他的信仰、聾人身份以及成為司鐸的過程。",
+    "category": "case-studies",
+    "tags": [
+      "deaf",
+      "Catholic priest",
+      "disability identity",
+      "faith",
+      "case study"
+    ],
+    "sourceName": "Indiancatholicmatters.org",
+    "sourceUrl": "https://www.indiancatholicmatters.org/called-in-silence-faith-deaf-identity-and-priesthood",
+    "relatedSources": [
+      {
+        "name": "Indiancatholicmatters.org",
+        "url": "https://www.indiancatholicmatters.org/called-in-silence-faith-deaf-identity-and-priesthood"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-2d979893",
+    "status": "published",
+    "translationOf": "called-in-silence-faith-deaf-identity-and-priesthood-2d979893",
+    "publishedAt": "2026-08-03T11:02:03.000Z",
+    "fetchedAt": "2026-08-04T12:54:02.694Z",
+    "body": "文章介紹了印度首位聾人天主教司鐸、全球僅第 26 位的熱羅瑟夫·瑟馬多姆神父（Father Joseph Thermadom CSC），探討他的信仰、聾人身份以及成為司鐸的過程。\n\n原文來源： [Indiancatholicmatters.org](https://www.indiancatholicmatters.org/called-in-silence-faith-deaf-identity-and-priesthood)"
+  },
+  {
+    "title": "持續完善人本交通建設　桃園捷運沿線首條人行示範道路完工",
+    "slug": "continuous-improvement-of-humancentred-transportation-infrastructure-first-acces-zh-f7d0afe9",
+    "lang": "zh-TW",
+    "summary": "桃園市長張善政指出，該改善路段全長約 2.8 公里，配合捷運綠線 G13、G14 車站周邊發展，改善人行道鋪面、無障礙通行空間、景觀及交通設施，工程總經費約 7,800 萬元，中央補助 82%、市府自籌 18%，打造桃園捷運沿線首條市民友善無礙人行示範道路。",
+    "category": "physical-design",
+    "tags": [
+      "barrier-free",
+      "pedestrian road",
+      "Taoyuan MRT",
+      "universal design",
+      "physical design"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%8C%81%E7%BA%8C%E5%AE%8C%E5%96%84%E4%BA%BA%E6%9C%AC%E4%BA%A4%E9%80%9A%E5%BB%BA%E8%A8%AD-%E6%A1%83%E5%9C%92%E6%8D%B7%E9%81%8B%E6%B2%BF%E7%B7%9A%E9%A6%96%E6%A2%9D%E4%BA%BA%E8%A1%8C%E7%A4%BA%E7%AF%84%E9%81%93%E8%B7%AF%E5%AE%8C%E5%B7%A5-124814358.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E6%8C%81%E7%BA%8C%E5%AE%8C%E5%96%84%E4%BA%BA%E6%9C%AC%E4%BA%A4%E9%80%9A%E5%BB%BA%E8%A8%AD-%E6%A1%83%E5%9C%92%E6%8D%B7%E9%81%8B%E6%B2%BF%E7%B7%9A%E9%A6%96%E6%A2%9D%E4%BA%BA%E8%A1%8C%E7%A4%BA%E7%AF%84%E9%81%93%E8%B7%AF%E5%AE%8C%E5%B7%A5-124814358.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-f7d0afe9",
+    "status": "published",
+    "translationOf": "continuous-improvement-of-humancentred-transportation-infrastructure-first-acces-f7d0afe9",
+    "publishedAt": "2026-08-03T12:48:14.000Z",
+    "fetchedAt": "2026-08-04T12:54:02.701Z",
+    "body": "桃園市長張善政指出，該改善路段全長約 2.8 公里，配合捷運綠線 G13、G14 車站周邊發展，改善人行道鋪面、無障礙通行空間、景觀及交通設施，工程總經費約 7,800 萬元，中央補助 82%、市府自籌 18%，打造桃園捷運沿線首條市民友善無礙人行示範道路。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E6%8C%81%E7%BA%8C%E5%AE%8C%E5%96%84%E4%BA%BA%E6%9C%AC%E4%BA%A4%E9%80%9A%E5%BB%BA%E8%A8%AD-%E6%A1%83%E5%9C%92%E6%8D%B7%E9%81%8B%E6%B2%BF%E7%B7%9A%E9%A6%96%E6%A2%9D%E4%BA%BA%E8%A1%8C%E7%A4%BA%E7%AF%84%E9%81%93%E8%B7%AF%E5%AE%8C%E5%B7%A5-124814358.html)"
+  },
+  {
+    "title": "桃捷綠線年底通車 蘆竹中正北路打造人本示範道路",
+    "slug": "taoyuan-mrt-green-line-to-open-at-year-end-luzhong-zhongzheng-north-road-built-a-zh-9b1f7b66",
+    "lang": "zh-TW",
+    "summary": "配合桃園捷運綠線預計年底通車，內政部國土管理署補助82%、市府自籌18%，共斥資7800萬元推動「友善無礙」蘆竹區中正北路人行示範道路工程，改善路段長度約2.8公里，同步升級人行道鋪面、無障礙通路、景觀與交通設施，提前為捷運通車做好準備。桃園市長張善政下午視察工程並主持揭牌典禮時表示，配合捷運G13",
+    "category": "physical-design",
+    "tags": [
+      "barrier-free",
+      "road",
+      "Taoyuan MRT",
+      "pedestrian",
+      "accessibility"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1d4c6050-df17-4f4d-a162-2fd9084395dd",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1d4c6050-df17-4f4d-a162-2fd9084395dd"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-9b1f7b66",
+    "status": "published",
+    "translationOf": "taoyuan-mrt-green-line-to-open-at-year-end-luzhong-zhongzheng-north-road-built-a-9b1f7b66",
+    "publishedAt": "2026-08-03T10:18:35.000Z",
+    "fetchedAt": "2026-08-04T12:54:34.291Z",
+    "body": "配合桃園捷運綠線預計年底通車，內政部國土管理署補助82%、市府自籌18%，共斥資7800萬元推動「友善無礙」蘆竹區中正北路人行示範道路工程，改善路段長度約2.8公里，同步升級人行道鋪面、無障礙通路、景觀與交通設施，提前為捷運通車做好準備。桃園市長張善政下午視察工程並主持揭牌典禮時表示，配合捷運G13\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1d4c6050-df17-4f4d-a162-2fd9084395dd)"
+  },
+  {
+    "title": "輔導申請免稅服務 身障權益不漏接",
+    "slug": "guidance-on-tax-exemption-applications-ensures-disability-rights-are-not-missed-zh-fc55c306",
+    "lang": "zh-TW",
+    "summary": "為保障身心障礙者權益，新北市政府稅捐稽徵處近期針對兩類特定案件，主動寄發申請免徵使用牌照稅的專屬輔導通知書。符合資格的民眾請儘早提出申請，經審核通過後，即可自申請日起享有限額免稅優惠。稅捐處三日指出，本次主動輔導對象主要包含兩大類：第一類為無駕照且無車輛的身心障礙者，其配偶、同一戶籍二親等以內親屬，或二親等以內親屬所有且車籍地與該身心障礙者戶籍地相同的車輛案件；第二類則為有駕照但無車輛的身心障礙者，其配偶或同一戶籍二親等以內親屬持有的車輛案件。該處進一步說明，專屬輔導通知書內均附有申辦案號及專屬QR-CODE。民…",
+    "category": "laws-rights",
+    "tags": [
+      "tax exemption",
+      "disability rights",
+      "New Taipei City",
+      "vehicle license tax"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0ce96ad6-7ca3-48ca-93f5-a30ab5617baf",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0ce96ad6-7ca3-48ca-93f5-a30ab5617baf"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-fc55c306",
+    "status": "published",
+    "translationOf": "guidance-on-tax-exemption-applications-ensures-disability-rights-are-not-missed-fc55c306",
+    "publishedAt": "2026-08-03T06:09:02.000Z",
+    "fetchedAt": "2026-08-04T12:54:34.298Z",
+    "body": "為保障身心障礙者權益，新北市政府稅捐稽徵處近期針對兩類特定案件，主動寄發申請免徵使用牌照稅的專屬輔導通知書。符合資格的民眾請儘早提出申請，經審核通過後，即可自申請日起享有限額免稅優惠。稅捐處三日指出，本次主動輔導對象主要包含兩大類：第一類為無駕照且無車輛的身心障礙者，其配偶、同一戶籍二親等以內親屬，或二親等以內親屬所有且車籍地與該身心障礙者戶籍地相同的車輛案件；第二類則為有駕照但無車輛的身心障礙者，其配偶或同一戶籍二親等以內親屬持有的車輛案件。該處進一步說明，專屬輔導通知書內均附有申辦案號及專屬QR-CODE。民…\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0ce96ad6-7ca3-48ca-93f5-a30ab5617baf)"
   }
 ]

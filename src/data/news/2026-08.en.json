@@ -5387,5 +5387,564 @@
     "publishedAt": "2026-08-04T00:45:10.000Z",
     "fetchedAt": "2026-08-04T01:15:37.494Z",
     "body": "A discussion on the limitations of automated accessibility tools, noting that while contrast ratios can be checked by machines, human judgment is required for color-dependency and overall communication.\nTweet source: [kosei | Figma Plugin Dev (@yama_plugins)](https://x.com/yama_plugins/status/2084440471712219246)"
+  },
+  {
+    "title": "Florence park gets $3 million accessibility upgrade - WAFF",
+    "slug": "florence-park-gets-3-million-accessibility-upgrade-waff-99a6194c",
+    "lang": "en",
+    "summary": "Florence city allocates $3 million to upgrade park facilities, adding wheelchair-accessible paths, restrooms, and playground equipment to improve access for people with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "Florence",
+      "park",
+      "accessibility upgrade",
+      "physical design",
+      "disability"
+    ],
+    "sourceName": "WAFF",
+    "sourceUrl": "https://www.waff.com/2026/08/03/florence-park-gets-3-million-accessibility-upgrade",
+    "relatedSources": [
+      {
+        "name": "WAFF",
+        "url": "https://www.waff.com/2026/08/03/florence-park-gets-3-million-accessibility-upgrade"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-99a6194c",
+    "status": "published",
+    "translationOf": "florence-park-gets-3-million-accessibility-upgrade-waff-zh-99a6194c",
+    "publishedAt": "2026-08-03T21:43:00.000Z",
+    "fetchedAt": "2026-08-04T12:52:03.015Z",
+    "body": "Florence city allocates $3 million to upgrade park facilities, adding wheelchair-accessible paths, restrooms, and playground equipment to improve access for people with disabilities.\n\nRead more from the original source: [WAFF](https://www.waff.com/2026/08/03/florence-park-gets-3-million-accessibility-upgrade)"
+  },
+  {
+    "title": "10 iPhone Accessibility features that are useful for everyone - Macworld",
+    "slug": "10-iphone-accessibility-features-that-are-useful-for-everyone-macworld-2a25649f",
+    "lang": "en",
+    "summary": "Article highlights ten iPhone accessibility features such as VoiceOver, Magnifier, and Sound Recognition, explaining how they assist users with disabilities while also benefiting the general public.",
+    "category": "digital-a11y",
+    "tags": [
+      "iPhone",
+      "accessibility features",
+      "VoiceOver",
+      "Magnifier",
+      "Sound Recognition",
+      "digital accessibility"
+    ],
+    "sourceName": "Macworld",
+    "sourceUrl": "https://www.macworld.com/article/3193178/these-10-user-guides-are-useful-for-all-users.html",
+    "relatedSources": [
+      {
+        "name": "Macworld",
+        "url": "https://www.macworld.com/article/3193178/these-10-user-guides-are-useful-for-all-users.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-2a25649f",
+    "status": "published",
+    "translationOf": "10-iphone-accessibility-features-that-are-useful-for-everyone-macworld-zh-2a25649f",
+    "publishedAt": "2026-08-04T10:30:00.000Z",
+    "fetchedAt": "2026-08-04T12:52:03.023Z",
+    "body": "Article highlights ten iPhone accessibility features such as VoiceOver, Magnifier, and Sound Recognition, explaining how they assist users with disabilities while also benefiting the general public.\n\nRead more from the original source: [Macworld](https://www.macworld.com/article/3193178/these-10-user-guides-are-useful-for-all-users.html)"
+  },
+  {
+    "title": "Litigation brings down barriers to accessibility - China Daily",
+    "slug": "litigation-brings-down-barriers-to-accessibility-china-daily-98e9df4f",
+    "lang": "en",
+    "summary": "Recent lawsuits in China have compelled businesses and public institutions to remove physical and digital barriers, improving accessibility for people with disabilities through legal enforcement.",
+    "category": "laws-rights",
+    "tags": [
+      "litigation",
+      "accessibility barriers",
+      "China",
+      "disability rights",
+      "legal action"
+    ],
+    "sourceName": "China Daily",
+    "sourceUrl": "https://www.chinadaily.com.cn/a/202608/04/WS6a713d81a310986e2b468d22.html",
+    "relatedSources": [
+      {
+        "name": "China Daily",
+        "url": "https://www.chinadaily.com.cn/a/202608/04/WS6a713d81a310986e2b468d22.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-98e9df4f",
+    "status": "published",
+    "translationOf": "litigation-brings-down-barriers-to-accessibility-china-daily-zh-98e9df4f",
+    "publishedAt": "2026-08-04T01:16:43.000Z",
+    "fetchedAt": "2026-08-04T12:52:03.066Z",
+    "body": "Recent lawsuits in China have compelled businesses and public institutions to remove physical and digital barriers, improving accessibility for people with disabilities through legal enforcement.\n\nRead more from the original source: [China Daily](https://www.chinadaily.com.cn/a/202608/04/WS6a713d81a310986e2b468d22.html)"
+  },
+  {
+    "title": "Accessibility Enhancement Accreditation for Munich Airport - Airport World",
+    "slug": "accessibility-enhancement-accreditation-for-munich-airport-airport-world-ef6bb273",
+    "lang": "en",
+    "summary": "Munich Airport received accessibility enhancement accreditation, recognizing improvements in facilities and services for passengers with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "airport",
+      "accessibility",
+      "assistance"
+    ],
+    "sourceName": "Airport World",
+    "sourceUrl": "https://airport-world.com/accessibility-enhancement-accreditation-for-munich-airport",
+    "relatedSources": [
+      {
+        "name": "Airport World",
+        "url": "https://airport-world.com/accessibility-enhancement-accreditation-for-munich-airport"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ef6bb273",
+    "status": "published",
+    "translationOf": "accessibility-enhancement-accreditation-for-munich-airport-airport-world-zh-ef6bb273",
+    "publishedAt": "2026-08-04T08:51:47.000Z",
+    "fetchedAt": "2026-08-04T12:52:20.675Z",
+    "body": "Munich Airport received accessibility enhancement accreditation, recognizing improvements in facilities and services for passengers with disabilities.\n\nRead more from the original source: [Airport World](https://airport-world.com/accessibility-enhancement-accreditation-for-munich-airport)"
+  },
+  {
+    "title": "UK airports achieve highest accessibility ratings as passenger assistance demand reaches record levels - International Airport Review",
+    "slug": "uk-airports-achieve-highest-accessibility-ratings-as-passenger-assistance-demand-524f49ac",
+    "lang": "en",
+    "summary": "UK airports have attained the highest accessibility ratings amid record demand for passenger assistance services.",
+    "category": "physical-design",
+    "tags": [
+      "airport",
+      "accessibility",
+      "assistance"
+    ],
+    "sourceName": "International Airport Review",
+    "sourceUrl": "https://www.internationalairportreview.com/uk-airports-achieve-highest-accessibility-ratings-as-passenger-assistance-demand-reaches-record-levels/2136148.article",
+    "relatedSources": [
+      {
+        "name": "International Airport Review",
+        "url": "https://www.internationalairportreview.com/uk-airports-achieve-highest-accessibility-ratings-as-passenger-assistance-demand-reaches-record-levels/2136148.article"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-524f49ac",
+    "status": "published",
+    "translationOf": "uk-airports-achieve-highest-accessibility-ratings-as-passenger-assistance-demand-zh-524f49ac",
+    "publishedAt": "2026-08-04T09:23:56.000Z",
+    "fetchedAt": "2026-08-04T12:52:20.682Z",
+    "body": "UK airports have attained the highest accessibility ratings amid record demand for passenger assistance services.\n\nRead more from the original source: [International Airport Review](https://www.internationalairportreview.com/uk-airports-achieve-highest-accessibility-ratings-as-passenger-assistance-demand-reaches-record-levels/2136148.article)"
+  },
+  {
+    "title": "UK airports improve accessibility as demand for assistance reaches record levels - Airport Suppliers",
+    "slug": "uk-airports-improve-accessibility-as-demand-for-assistance-reaches-record-levels-3bb0d977",
+    "lang": "en",
+    "summary": "UK airports have improved accessibility in response to record levels of demand for passenger assistance.",
+    "category": "physical-design",
+    "tags": [
+      "airport",
+      "accessibility",
+      "assistance"
+    ],
+    "sourceName": "Airport Suppliers",
+    "sourceUrl": "https://www.airport-suppliers.com/uk-airports-improve-accessibility-as-demand-for-assistance-reaches-record-levels",
+    "relatedSources": [
+      {
+        "name": "Airport Suppliers",
+        "url": "https://www.airport-suppliers.com/uk-airports-improve-accessibility-as-demand-for-assistance-reaches-record-levels"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3bb0d977",
+    "status": "published",
+    "translationOf": "uk-airports-improve-accessibility-as-demand-for-assistance-reaches-record-levels-zh-3bb0d977",
+    "publishedAt": "2026-08-04T10:34:16.000Z",
+    "fetchedAt": "2026-08-04T12:52:20.688Z",
+    "body": "UK airports have improved accessibility in response to record levels of demand for passenger assistance.\n\nRead more from the original source: [Airport Suppliers](https://www.airport-suppliers.com/uk-airports-improve-accessibility-as-demand-for-assistance-reaches-record-levels)"
+  },
+  {
+    "title": "Explaining the game: Wimbledon’s data, graphics and accessibility push",
+    "slug": "explaining-the-game-wimbledons-data-graphics-and-accessibility-push-e7d3401c",
+    "lang": "en",
+    "summary": "Wimbledon is enhancing its data presentation and graphics to improve accessibility for fans with disabilities, including better captions and audio descriptions.",
+    "category": "digital-a11y",
+    "tags": [
+      "Wimbledon",
+      "accessibility",
+      "sports",
+      "digital"
+    ],
+    "sourceName": "SVG Europe",
+    "sourceUrl": "https://www.svgeurope.org/blog/headlines/explaining-the-game-wimbledons-data-graphics-and-accessibility-push",
+    "relatedSources": [
+      {
+        "name": "SVG Europe",
+        "url": "https://www.svgeurope.org/blog/headlines/explaining-the-game-wimbledons-data-graphics-and-accessibility-push"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e7d3401c",
+    "status": "published",
+    "translationOf": "explaining-the-game-wimbledons-data-graphics-and-accessibility-push-zh-e7d3401c",
+    "publishedAt": "2026-08-04T08:38:45.000Z",
+    "fetchedAt": "2026-08-04T12:52:40.895Z",
+    "body": "Wimbledon is enhancing its data presentation and graphics to improve accessibility for fans with disabilities, including better captions and audio descriptions.\n\nRead more from the original source: [SVG Europe](https://www.svgeurope.org/blog/headlines/explaining-the-game-wimbledons-data-graphics-and-accessibility-push)"
+  },
+  {
+    "title": "Oakland County Launches Mobile-Optimized Jury System, Enhancing Convenience and Accessibility for Jurors",
+    "slug": "oakland-county-launches-mobile-optimized-jury-system-enhancing-convenience-and-a-9b675b8c",
+    "lang": "en",
+    "summary": "Oakland County has introduced a mobile-optimized jury management system to make jury service more accessible, particularly for individuals with disabilities, by allowing remote participation and easier access to information.",
+    "category": "digital-a11y",
+    "tags": [
+      "Oakland County",
+      "jury system",
+      "mobile",
+      "accessibility"
+    ],
+    "sourceName": "94.7 WCSX",
+    "sourceUrl": "https://wcsx.com/2026/08/03/oakland-county-launches-mobile-optimized-jury-system-enhancing-convenience-and-accessibility-for-jurors",
+    "relatedSources": [
+      {
+        "name": "94.7 WCSX",
+        "url": "https://wcsx.com/2026/08/03/oakland-county-launches-mobile-optimized-jury-system-enhancing-convenience-and-accessibility-for-jurors"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-9b675b8c",
+    "status": "published",
+    "translationOf": "oakland-county-launches-mobile-optimized-jury-system-enhancing-convenience-and-a-zh-9b675b8c",
+    "publishedAt": "2026-08-03T14:54:53.000Z",
+    "fetchedAt": "2026-08-04T12:52:40.902Z",
+    "body": "Oakland County has introduced a mobile-optimized jury management system to make jury service more accessible, particularly for individuals with disabilities, by allowing remote participation and easier access to information.\n\nRead more from the original source: [94.7 WCSX](https://wcsx.com/2026/08/03/oakland-county-launches-mobile-optimized-jury-system-enhancing-convenience-and-accessibility-for-jurors)"
+  },
+  {
+    "title": "First Asian Deaf Female Pilot Sheila Xu Visits Taiwan, Encourages Hearing-Impaired Students to Pursue Dreams",
+    "slug": "first-asian-deaf-female-pilot-sheila-xu-visits-taiwan-encourages-hearing-impaire-e8da41a3",
+    "lang": "en",
+    "summary": "Sheila Xu, the first Asian deaf female pilot, visits Taiwan to inspire hearing-impaired students to chase their aviation dreams.",
+    "category": "case-studies",
+    "tags": [
+      "deaf",
+      "aviation",
+      "role model"
+    ],
+    "sourceName": "news.pchome.com.tw",
+    "sourceUrl": "https://news.pchome.com.tw/society/morenews/20260802/index-78566012978690350002.html",
+    "relatedSources": [
+      {
+        "name": "news.pchome.com.tw",
+        "url": "https://news.pchome.com.tw/society/morenews/20260802/index-78566012978690350002.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e8da41a3",
+    "status": "published",
+    "translationOf": "first-asian-deaf-female-pilot-sheila-xu-visits-taiwan-encourages-hearing-impaire-zh-e8da41a3",
+    "publishedAt": "2026-08-02T08:42:09.000Z",
+    "fetchedAt": "2026-08-04T12:53:28.806Z",
+    "body": "Sheila Xu, the first Asian deaf female pilot, visits Taiwan to inspire hearing-impaired students to chase their aviation dreams.\n\nRead more from the original source: [news.pchome.com.tw](https://news.pchome.com.tw/society/morenews/20260802/index-78566012978690350002.html)"
+  },
+  {
+    "title": "Co-op Kyosai Publishes Dementia Barrier-Free Declaration",
+    "slug": "co-op-kyosai-publishes-dementia-barrier-free-declaration-5258738e",
+    "lang": "en",
+    "summary": "Co-op Kyosai has announced a dementia barrier‑free declaration, pledging to improve accessibility and support for individuals living with dementia.",
+    "category": "physical-design",
+    "tags": [
+      "dementia",
+      "barrier-free",
+      "Japan"
+    ],
+    "sourceName": "時事ドットコム",
+    "sourceUrl": "https://www.jiji.com/jc/article?k=000000023.000171854&g=prt",
+    "relatedSources": [
+      {
+        "name": "時事ドットコム",
+        "url": "https://www.jiji.com/jc/article?k=000000023.000171854&g=prt"
+      }
+    ],
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E3%83%90%E3%83%AA%E3%82%A2%E3%83%95%E3%83%AA%E3%83%BC&hl=ja&gl=JP&ceid=JP%3Aja",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5258738e",
+    "status": "published",
+    "translationOf": "co-op-kyosai-publishes-dementia-barrier-free-declaration-zh-5258738e",
+    "publishedAt": "2026-08-04T03:45:00.000Z",
+    "fetchedAt": "2026-08-04T12:53:28.814Z",
+    "body": "Co-op Kyosai has announced a dementia barrier‑free declaration, pledging to improve accessibility and support for individuals living with dementia.\n\nRead more from the original source: [時事ドットコム](https://www.jiji.com/jc/article?k=000000023.000171854&g=prt)"
+  },
+  {
+    "title": "Stroke Week highlights women’s unique stroke risks",
+    "slug": "stroke-week-highlights-womens-unique-stroke-risks-c8b9b2c7",
+    "lang": "en",
+    "summary": "Western Australian women are being encouraged to learn the signs of stroke and seek emergency medical care without delay as National Stroke Week (3-9 August) shines a spotlight on the significant impact stroke has on women. Stroke claims the lives of more women than breast cancer, yet many women remain unaware of the unique factors … Continue reading \"Stroke Week highlights women’s unique stroke risks\"\nThe post Stroke Week highlights women’s unique stroke risks appeared first on Disability Insider.",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/08/04/health/stroke-week-highlights-womens-unique-stroke-risks",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/08/04/health/stroke-week-highlights-womens-unique-stroke-risks"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-c8b9b2c7",
+    "status": "published",
+    "translationOf": "stroke-week-highlights-womens-unique-stroke-risks-zh-c8b9b2c7",
+    "publishedAt": "2026-08-04T02:37:07.000Z",
+    "fetchedAt": "2026-08-04T12:53:40.314Z",
+    "body": "Western Australian women are being encouraged to learn the signs of stroke and seek emergency medical care without delay as National Stroke Week (3-9 August) shines a spotlight on the significant impact stroke has on women. Stroke claims the lives of more women than breast cancer, yet many women remain unaware of the unique factors … Continue reading \"Stroke Week highlights women’s unique stroke risks\"\nThe post Stroke Week highlights women’s unique stroke risks appeared first on Disability Insider.\n\nRead more from the original source: [Unknown source](https://disabilityinsider.com/2026/08/04/health/stroke-week-highlights-womens-unique-stroke-risks)"
+  },
+  {
+    "title": "OSCE supports disability disaster resilience in Tajikistan",
+    "slug": "osce-supports-disability-disaster-resilience-in-tajikistan-3df56b53",
+    "lang": "en",
+    "summary": "OSCE partnered with local organizations to conduct information sessions that strengthen disaster resilience for persons with disabilities in the Isfara, Baljuvon and Darvoz regions of Tajikistan.",
+    "category": "laws-rights",
+    "tags": [
+      "disaster resilience",
+      "disability inclusion",
+      "OSCE",
+      "Tajikistan"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/08/04/disaster/osce-supports-disability-disaster-resilience-in-tajikistan",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/08/04/disaster/osce-supports-disability-disaster-resilience-in-tajikistan"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-3df56b53",
+    "status": "published",
+    "translationOf": "osce-supports-disability-disaster-resilience-in-tajikistan-zh-3df56b53",
+    "publishedAt": "2026-08-04T02:31:08.000Z",
+    "fetchedAt": "2026-08-04T12:53:40.321Z",
+    "body": "OSCE partnered with local organizations to conduct information sessions that strengthen disaster resilience for persons with disabilities in the Isfara, Baljuvon and Darvoz regions of Tajikistan.\n\nRead more from the original source: [Unknown source](https://disabilityinsider.com/2026/08/04/disaster/osce-supports-disability-disaster-resilience-in-tajikistan)"
+  },
+  {
+    "title": "Robotic Wheelchair Market Size to Hit USD 425.72 Million by 2035 | Research by SNS Insider",
+    "slug": "robotic-wheelchair-market-size-to-hit-usd-42572-million-by-2035-research-by-sns--4a431e78",
+    "lang": "en",
+    "summary": "The global robotic wheelchair market is projected to reach USD 425.72 million by 2035, driven by advancements in technology, control modes, and applications across various end‑user sectors, according to SNS Insider research.",
+    "category": "assistive-tech",
+    "tags": [
+      "robotic wheelchair",
+      "assistive technology",
+      "market forecast",
+      "SNS Insider",
+      "accessibility"
+    ],
+    "sourceName": "GlobeNewswire",
+    "sourceUrl": "https://www.globenewswire.com/news-release/2026/08/03/3337398/0/en/Robotic-Wheelchair-Market-Size-to-Hit-USD-425-72-Million-by-2035-Research-by-SNS-Insider.html",
+    "relatedSources": [
+      {
+        "name": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/08/03/3337398/0/en/Robotic-Wheelchair-Market-Size-to-Hit-USD-425-72-Million-by-2035-Research-by-SNS-Insider.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-4a431e78",
+    "status": "published",
+    "translationOf": "robotic-wheelchair-market-size-to-hit-usd-42572-million-by-2035-research-by-sns--zh-4a431e78",
+    "publishedAt": "2026-08-03T11:30:00.000Z",
+    "fetchedAt": "2026-08-04T12:54:02.687Z",
+    "body": "The global robotic wheelchair market is projected to reach USD 425.72 million by 2035, driven by advancements in technology, control modes, and applications across various end‑user sectors, according to SNS Insider research.\n\nRead more from the original source: [GlobeNewswire](https://www.globenewswire.com/news-release/2026/08/03/3337398/0/en/Robotic-Wheelchair-Market-Size-to-Hit-USD-425-72-Million-by-2035-Research-by-SNS-Insider.html)"
+  },
+  {
+    "title": "Called in Silence: Faith, Deaf Identity, and Priesthood",
+    "slug": "called-in-silence-faith-deaf-identity-and-priesthood-2d979893",
+    "lang": "en",
+    "summary": "The article profiles Father Joseph Thermadom CSC, India’s first deaf Catholic priest and only the 26th in the world, exploring his faith, deaf identity, and journey to priesthood.",
+    "category": "case-studies",
+    "tags": [
+      "deaf",
+      "Catholic priest",
+      "disability identity",
+      "faith",
+      "case study"
+    ],
+    "sourceName": "Indiancatholicmatters.org",
+    "sourceUrl": "https://www.indiancatholicmatters.org/called-in-silence-faith-deaf-identity-and-priesthood",
+    "relatedSources": [
+      {
+        "name": "Indiancatholicmatters.org",
+        "url": "https://www.indiancatholicmatters.org/called-in-silence-faith-deaf-identity-and-priesthood"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-2d979893",
+    "status": "published",
+    "translationOf": "called-in-silence-faith-deaf-identity-and-priesthood-zh-2d979893",
+    "publishedAt": "2026-08-03T11:02:03.000Z",
+    "fetchedAt": "2026-08-04T12:54:02.694Z",
+    "body": "The article profiles Father Joseph Thermadom CSC, India’s first deaf Catholic priest and only the 26th in the world, exploring his faith, deaf identity, and journey to priesthood.\n\nRead more from the original source: [Indiancatholicmatters.org](https://www.indiancatholicmatters.org/called-in-silence-faith-deaf-identity-and-priesthood)"
+  },
+  {
+    "title": "Continuous Improvement of Human‑Centred Transportation Infrastructure: First Accessible Pedestrian Demonstration Road Completed Along Taoyuan MRT Line",
+    "slug": "continuous-improvement-of-humancentred-transportation-infrastructure-first-acces-f7d0afe9",
+    "lang": "en",
+    "summary": "Taoyuan Mayor Chang Shan‑cheng unveiled the first barrier‑free pedestrian demonstration road along the Taoyuan MRT Green Line, covering about 2.8 km, improving pavement, accessible space, landscape and traffic facilities; the project cost roughly NT$78 million, funded 82% by central subsidies and 18% by the city.",
+    "category": "physical-design",
+    "tags": [
+      "barrier-free",
+      "pedestrian road",
+      "Taoyuan MRT",
+      "universal design",
+      "physical design"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%8C%81%E7%BA%8C%E5%AE%8C%E5%96%84%E4%BA%BA%E6%9C%AC%E4%BA%A4%E9%80%9A%E5%BB%BA%E8%A8%AD-%E6%A1%83%E5%9C%92%E6%8D%B7%E9%81%8B%E6%B2%BF%E7%B7%9A%E9%A6%96%E6%A2%9D%E4%BA%BA%E8%A1%8C%E7%A4%BA%E7%AF%84%E9%81%93%E8%B7%AF%E5%AE%8C%E5%B7%A5-124814358.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E6%8C%81%E7%BA%8C%E5%AE%8C%E5%96%84%E4%BA%BA%E6%9C%AC%E4%BA%A4%E9%80%9A%E5%BB%BA%E8%A8%AD-%E6%A1%83%E5%9C%92%E6%8D%B7%E9%81%8B%E6%B2%BF%E7%B7%9A%E9%A6%96%E6%A2%9D%E4%BA%BA%E8%A1%8C%E7%A4%BA%E7%AF%84%E9%81%93%E8%B7%AF%E5%AE%8C%E5%B7%A5-124814358.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-f7d0afe9",
+    "status": "published",
+    "translationOf": "continuous-improvement-of-humancentred-transportation-infrastructure-first-acces-zh-f7d0afe9",
+    "publishedAt": "2026-08-03T12:48:14.000Z",
+    "fetchedAt": "2026-08-04T12:54:02.701Z",
+    "body": "Taoyuan Mayor Chang Shan‑cheng unveiled the first barrier‑free pedestrian demonstration road along the Taoyuan MRT Green Line, covering about 2.8 km, improving pavement, accessible space, landscape and traffic facilities; the project cost roughly NT$78 million, funded 82% by central subsidies and 18% by the city.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E6%8C%81%E7%BA%8C%E5%AE%8C%E5%96%84%E4%BA%BA%E6%9C%AC%E4%BA%A4%E9%80%9A%E5%BB%BA%E8%A8%AD-%E6%A1%83%E5%9C%92%E6%8D%B7%E9%81%8B%E6%B2%BF%E7%B7%9A%E9%A6%96%E6%A2%9D%E4%BA%BA%E8%A1%8C%E7%A4%BA%E7%AF%84%E9%81%93%E8%B7%AF%E5%AE%8C%E5%B7%A5-124814358.html)"
+  },
+  {
+    "title": "Taoyuan MRT Green Line to Open at Year-End, Luzhong Zhongzheng North Road Built as Human-Centric Model Road",
+    "slug": "taoyuan-mrt-green-line-to-open-at-year-end-luzhong-zhongzheng-north-road-built-a-9b1f7b66",
+    "lang": "en",
+    "summary": "In conjunction with the Taoyuan MRT Green Line scheduled to open at year-end, the Ministry of the Interior's Land Management Agency subsidized 82% and the city self-funded 18%, together investing NT$78 million to promote the friendly barrier-free Luzhong Zhongzheng North Road pedestrian model road project, improving the road segment length of about 2.8 kilometers, simultaneously upgrading sidewalk paving, barrier-free routes, landscape and traffic facilities, preparing in advance for the MRT opening. Taoyuan Mayor Chang Shan-cheng inspected the project in the afternoon and presided over the unveiling ceremony.",
+    "category": "physical-design",
+    "tags": [
+      "barrier-free",
+      "road",
+      "Taoyuan MRT",
+      "pedestrian",
+      "accessibility"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1d4c6050-df17-4f4d-a162-2fd9084395dd",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1d4c6050-df17-4f4d-a162-2fd9084395dd"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-9b1f7b66",
+    "status": "published",
+    "translationOf": "taoyuan-mrt-green-line-to-open-at-year-end-luzhong-zhongzheng-north-road-built-a-zh-9b1f7b66",
+    "publishedAt": "2026-08-03T10:18:35.000Z",
+    "fetchedAt": "2026-08-04T12:54:34.291Z",
+    "body": "In conjunction with the Taoyuan MRT Green Line scheduled to open at year-end, the Ministry of the Interior's Land Management Agency subsidized 82% and the city self-funded 18%, together investing NT$78 million to promote the friendly barrier-free Luzhong Zhongzheng North Road pedestrian model road project, improving the road segment length of about 2.8 kilometers, simultaneously upgrading sidewalk paving, barrier-free routes, landscape and traffic facilities, preparing in advance for the MRT opening. Taoyuan Mayor Chang Shan-cheng inspected the project in the afternoon and presided over the unveiling ceremony.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1d4c6050-df17-4f4d-a162-2fd9084395dd)"
+  },
+  {
+    "title": "Guidance on Tax Exemption Applications Ensures Disability Rights Are Not Missed",
+    "slug": "guidance-on-tax-exemption-applications-ensures-disability-rights-are-not-missed-fc55c306",
+    "lang": "en",
+    "summary": "To safeguard the rights of persons with disabilities, New Taipei City Tax Bureau recently sent exclusive guidance notices for applying for exemption from vehicle license tax to two specific categories. Eligible individuals should apply early; after approval, they can enjoy limited tax exemptions from the application date. The bureau stated that the targets mainly include: first category, persons with disabilities without a driver's license or vehicle, their spouse or relatives within second degree of kinship sharing the same household, or vehicles owned by such relatives with registration address matching the person's household; second category, persons with disabilities who have a driver's license but no vehicle, their spouse or relatives within second degree of kinship sharing the same household who own a vehicle. The notice includes application case number and exclusive QR code.",
+    "category": "laws-rights",
+    "tags": [
+      "tax exemption",
+      "disability rights",
+      "New Taipei City",
+      "vehicle license tax"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0ce96ad6-7ca3-48ca-93f5-a30ab5617baf",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0ce96ad6-7ca3-48ca-93f5-a30ab5617baf"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-fc55c306",
+    "status": "published",
+    "translationOf": "guidance-on-tax-exemption-applications-ensures-disability-rights-are-not-missed-zh-fc55c306",
+    "publishedAt": "2026-08-03T06:09:02.000Z",
+    "fetchedAt": "2026-08-04T12:54:34.298Z",
+    "body": "To safeguard the rights of persons with disabilities, New Taipei City Tax Bureau recently sent exclusive guidance notices for applying for exemption from vehicle license tax to two specific categories. Eligible individuals should apply early; after approval, they can enjoy limited tax exemptions from the application date. The bureau stated that the targets mainly include: first category, persons with disabilities without a driver's license or vehicle, their spouse or relatives within second degree of kinship sharing the same household, or vehicles owned by such relatives with registration address matching the person's household; second category, persons with disabilities who have a driver's license but no vehicle, their spouse or relatives within second degree of kinship sharing the same household who own a vehicle. The notice includes application case number and exclusive QR code.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0ce96ad6-7ca3-48ca-93f5-a30ab5617baf)"
   }
 ]
