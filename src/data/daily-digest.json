@@ -1,47 +1,55 @@
 {
-  "date": "2026-08-03",
-  "generatedAt": "2026-08-03T13:31:15.033Z",
+  "date": "2026-08-04",
+  "generatedAt": "2026-08-04T01:05:19.352Z",
   "en": {
-    "title": "Australia Launches $200M Inclusive Communities Fund Consultation for Disability Access",
-    "summary": "Australian Government opened consultation for a $200 million Inclusive Communities Fund to boost disability participation in social, recreational, arts, sports, and cultural activities over three years. Also highlighted were a barrier‑free beach event in Japan and reports of a shortage of group homes for people with severe disabilities across 30 prefectures. Developers can test web accessibility using 20 browser‑based exercises covering keyboard navigation, ARIA labels, contrast, and focus management.",
+    "title": "Governments Urged to Meet Accessibility Deadlines Amid New Funding and Upgrades",
+    "summary": "State and local governments are being urged to meet upcoming accessibility compliance deadlines, as outlined in a GovTech guide detailing legal requirements and practical steps. Simultaneously, the Australian government opened consultation on a $200 million Inclusive Communities Fund, while U.S. authorities announced a new grant program to improve bus safety and accessibility. Infrastructure upgrades are also underway at Floral Park and Bellerose LIRR stations, and developers explore AI agents to enhance mobile game accessibility for players with disabilities.",
     "highlights": [
+      {
+        "title": "How State, Local Governments Can Make the Accessibility Deadline - GovTech",
+        "slug": "how-state-local-governments-can-make-the-accessibility-deadline-govtech-4e932d8c"
+      },
       {
         "title": "Consultation opens for Inclusive Communities Fund",
         "slug": "consultation-opens-for-inclusive-communities-fund-0e6c2453"
       },
       {
-        "title": "Barrier-Free Beach Event 'Everyone's MIYUKI BEACH'",
-        "slug": "barrier-free-beach-event-everyones-miyuki-beach-e9bd7827"
+        "title": "Floral Park, Bellerose LIRR stations to receive accessibility upgrades",
+        "slug": "floral-park-bellerose-lirr-stations-to-receive-accessibility-upgrades-c0a41d55"
       },
       {
-        "title": "Shortage of Group Homes for People with Severe Disabilities in Japan",
-        "slug": "shortage-of-group-homes-for-people-with-severe-disabilities-in-japan-16444587"
+        "title": "NOFO: Bus Safety, Accessibility and Innovation Grant Program (US)",
+        "slug": "nofo-bus-safety-accessibility-and-innovation-grant-program-us-dc6612dc"
       },
       {
-        "title": "Web Accessibility: 20 Exercises You Can Check Right in the Browser",
-        "slug": "web-accessibility-20-exercises-you-can-check-right-in-the-browser-699e0095"
+        "title": "AI Agents for Mobile Game Accessibility",
+        "slug": "ai-agents-for-mobile-game-accessibility-033859f5"
       }
     ]
   },
   "zh-TW": {
-    "title": "澳洲啟動2億美元包容性社區基金諮詢",
-    "summary": "澳大利亞政府已啟動總額2億美元的包容性社區基金諮詢，計畫於未來三年內提升殘障人士在社會、休閒、藝術、體育及文化活動中的參與度。同時，日本舉辦無障礙海灘活動「大家的美雪海灘」，並有報告指出全國30個縣府約有20,000名殘障人士等待團體住宅安置。開發者可透過20項瀏覽器網頁無障礙練習，檢查鍵盤導航、ARIA標籤、顏色對比與焦點管理。",
+    "title": "各國政府推動無障礙期限，結合新資金與車站升級",
+    "summary": "各國政府正被促請落實即將到來的無障礙合規期限，GovTech 提供法律要求與實務步驟的指引。澳洲政府啟動2億美元包容性社區基金諮詢，美國則推出巴士安全與無障礙補助金計畫。花園公園與貝勒羅斯 LIRR 車站將進行無障礙升級，同時一位日本使用者分享申請精神障礙證明的經驗。",
     "highlights": [
+      {
+        "title": "州和地方政府如何達到無障礙期限 - GovTech",
+        "slug": "how-state-local-governments-can-make-the-accessibility-deadline-govtech-zh-4e932d8c"
+      },
       {
         "title": "包容性社區基金諮詢啟動",
         "slug": "consultation-opens-for-inclusive-communities-fund-zh-0e6c2453"
       },
       {
-        "title": "無障礙海灘活動『大家的美雪海灘』",
-        "slug": "barrier-free-beach-event-everyones-miyuki-beach-zh-e9bd7827"
+        "title": "美國巴士安全、無障礙與創新補助金計畫 (NOFO)",
+        "slug": "nofo-bus-safety-accessibility-and-innovation-grant-program-us-zh-dc6612dc"
       },
       {
-        "title": "日本嚴重殘障人士團體住宅短缺",
-        "slug": "shortage-of-group-homes-for-people-with-severe-disabilities-in-japan-zh-16444587"
+        "title": "花園公園、貝勒羅斯 LIRR 車站將進行無障礙升級",
+        "slug": "floral-park-bellerose-lirr-stations-to-receive-accessibility-upgrades-zh-c0a41d55"
       },
       {
-        "title": "網頁無障礙：可直接在瀏覽器中檢查的20項練習",
-        "slug": "web-accessibility-20-exercises-you-can-check-right-in-the-browser-zh-699e0095"
+        "title": "日本申請精神障礙證明",
+        "slug": "application-for-mental-disability-certificate-in-japan-zh-8ee4988d"
       }
     ]
   }
