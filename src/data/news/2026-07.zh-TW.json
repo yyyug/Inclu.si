@@ -81971,5 +81971,38 @@
     "publishedAt": "2026-07-29T07:00:00.000Z",
     "fetchedAt": "2026-08-03T00:55:44.343Z",
     "body": "學生參與博覽會將設有新的無障礙與休息站，並有925個組織參與\n\n原文來源： [The Lantern](https://www.thelantern.com/2026/07/student-involvement-fair-will-feature-new-accessibility-and-break-stations-and-have-925-organizations-in-attendance)"
+  },
+  {
+    "title": "報告會：參與世界最大級無障礙國際會議 CSUN Assistive Technology Conference 2026",
+    "slug": "report-meeting-held-for-participation-in-csun-assistive-technology-conference-20-zh-258e82c7",
+    "lang": "zh-TW",
+    "summary": "舉辦了參加 CSUN Assistive Technology Conference 2026（世界最大級無障礙國際會議）的報告會，與會者分享參會心得與見聞。",
+    "category": "assistive-tech",
+    "tags": [
+      "CSUN",
+      "Assistive Technology",
+      "Conference",
+      "Accessibility"
+    ],
+    "sourceName": "CLASSY.[クラッシィ]",
+    "sourceUrl": "https://classy-online.jp/prtimes/item-39027",
+    "relatedSources": [
+      {
+        "name": "CLASSY.[クラッシィ]",
+        "url": "https://classy-online.jp/prtimes/item-39027"
+      }
+    ],
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3&hl=ja&gl=JP&ceid=JP%3Aja",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-258e82c7",
+    "status": "published",
+    "translationOf": "report-meeting-held-for-participation-in-csun-assistive-technology-conference-20-258e82c7",
+    "publishedAt": "2026-07-22T07:01:43.000Z",
+    "fetchedAt": "2026-08-04T00:55:00.860Z",
+    "body": "舉辦了參加 CSUN Assistive Technology Conference 2026（世界最大級無障礙國際會議）的報告會，與會者分享參會心得與見聞。\n\n原文來源： [CLASSY.[クラッシィ]](https://classy-online.jp/prtimes/item-39027)"
   }
 ]
