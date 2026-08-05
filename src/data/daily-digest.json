@@ -1,55 +1,55 @@
 {
-  "date": "2026-08-04",
-  "generatedAt": "2026-08-04T01:05:19.352Z",
+  "date": "2026-08-05",
+  "generatedAt": "2026-08-05T14:58:57.561Z",
   "en": {
-    "title": "Governments Urged to Meet Accessibility Deadlines Amid New Funding and Upgrades",
-    "summary": "State and local governments are being urged to meet upcoming accessibility compliance deadlines, as outlined in a GovTech guide detailing legal requirements and practical steps. Simultaneously, the Australian government opened consultation on a $200 million Inclusive Communities Fund, while U.S. authorities announced a new grant program to improve bus safety and accessibility. Infrastructure upgrades are also underway at Floral Park and Bellerose LIRR stations, and developers explore AI agents to enhance mobile game accessibility for players with disabilities.",
+    "title": "US Senators Seek Extension of Transit Accessibility Funding Program",
+    "summary": "US senators are advocating to extend the All Stations Accessibility Program, which funds upgrades to make transit stations fully accessible for people with disabilities. Meanwhile, Illinois is deploying Meta smart glasses and AI-powered glasses to assist users with disabilities, while advocates call for greater understanding of disabilities in Japan. Additionally, new guidance outlines how organizations can conduct accessibility audits to comply with the European Accessibility Act.",
     "highlights": [
       {
-        "title": "How State, Local Governments Can Make the Accessibility Deadline - GovTech",
-        "slug": "how-state-local-governments-can-make-the-accessibility-deadline-govtech-4e932d8c"
+        "title": "U.S. Senators push to extend the All Stations Accessibility Program",
+        "slug": "us-senators-push-to-extend-the-all-stations-accessibility-program-f83e513c"
       },
       {
-        "title": "Consultation opens for Inclusive Communities Fund",
-        "slug": "consultation-opens-for-inclusive-communities-fund-0e6c2453"
+        "title": "Illinois Assistive Technology Program uses Meta glasses to improve accessibility",
+        "slug": "illinois-assistive-technology-program-uses-meta-glasses-to-improve-accessibility-d76e980d"
       },
       {
-        "title": "Floral Park, Bellerose LIRR stations to receive accessibility upgrades",
-        "slug": "floral-park-bellerose-lirr-stations-to-receive-accessibility-upgrades-c0a41d55"
+        "title": "AI smart glasses connect perception, memory, and accessibility to support low-vision users - Designboom",
+        "slug": "ai-smart-glasses-connect-perception-memory-and-accessibility-to-support-low-visi-8150b130"
       },
       {
-        "title": "NOFO: Bus Safety, Accessibility and Innovation Grant Program (US)",
-        "slug": "nofo-bus-safety-accessibility-and-innovation-grant-program-us-dc6612dc"
+        "title": "Call for Greater Understanding of Disabilities in Japan",
+        "slug": "call-for-greater-understanding-of-disabilities-in-japan-f71560ee"
       },
       {
-        "title": "AI Agents for Mobile Game Accessibility",
-        "slug": "ai-agents-for-mobile-game-accessibility-033859f5"
+        "title": "Accessibility Audit: How to Ensure EAA Compliance",
+        "slug": "accessibility-audit-how-to-ensure-eaa-compliance-6974215e"
       }
     ]
   },
   "zh-TW": {
-    "title": "各國政府推動無障礙期限，結合新資金與車站升級",
-    "summary": "各國政府正被促請落實即將到來的無障礙合規期限，GovTech 提供法律要求與實務步驟的指引。澳洲政府啟動2億美元包容性社區基金諮詢，美國則推出巴士安全與無障礙補助金計畫。花園公園與貝勒羅斯 LIRR 車站將進行無障礙升級，同時一位日本使用者分享申請精神障礙證明的經驗。",
+    "title": "美國參議員推動延長所有車站無障礙計畫",
+    "summary": "美國參議員倡議延長所有車站無障礙計畫，以資助交通車站的無障礙改造，使其對殘障人士完全可用。同時，伊利諾伊州正部署Meta智慧眼鏡與AI眼鏡，協助殘障使用者；慕尼黑機場成為德國首家獲得ACI無障礙認證的機場。此外，日本的殘障理解呼籲在社群媒體上引起關注，強調需要提升大眾對殘障的認識。",
     "highlights": [
       {
-        "title": "州和地方政府如何達到無障礙期限 - GovTech",
-        "slug": "how-state-local-governments-can-make-the-accessibility-deadline-govtech-zh-4e932d8c"
+        "title": "美國參議員推動延長所有車站無障礙計畫",
+        "slug": "us-senators-push-to-extend-the-all-stations-accessibility-program-zh-f83e513c"
       },
       {
-        "title": "包容性社區基金諮詢啟動",
-        "slug": "consultation-opens-for-inclusive-communities-fund-zh-0e6c2453"
+        "title": "伊利諾伊州輔助技術計畫使用 Meta 眼鏡提升無障礙",
+        "slug": "illinois-assistive-technology-program-uses-meta-glasses-to-improve-accessibility-zh-d76e980d"
       },
       {
-        "title": "美國巴士安全、無障礙與創新補助金計畫 (NOFO)",
-        "slug": "nofo-bus-safety-accessibility-and-innovation-grant-program-us-zh-dc6612dc"
+        "title": "AI智能眼镜连接感知、记忆与无障碍功能，以支持低视力用户 - Designboom",
+        "slug": "ai-smart-glasses-connect-perception-memory-and-accessibility-to-support-low-visi-zh-8150b130"
       },
       {
-        "title": "花園公園、貝勒羅斯 LIRR 車站將進行無障礙升級",
-        "slug": "floral-park-bellerose-lirr-stations-to-receive-accessibility-upgrades-zh-c0a41d55"
+        "title": "慕尼黑機場成為德國首家獲得 ACI 無障礙認證的機場",
+        "slug": "munich-airport-becomes-first-in-germany-to-earn-aci-accessibility-accreditation--zh-1ee503b1"
       },
       {
-        "title": "日本申請精神障礙證明",
-        "slug": "application-for-mental-disability-certificate-in-japan-zh-8ee4988d"
+        "title": "呼籲加深對日本殘障人士的理解",
+        "slug": "call-for-greater-understanding-of-disabilities-in-japan-zh-f71560ee"
       }
     ]
   }
