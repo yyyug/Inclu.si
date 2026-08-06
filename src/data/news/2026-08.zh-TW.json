@@ -9336,5 +9336,506 @@
     "publishedAt": "2026-08-05T14:15:00.000Z",
     "fetchedAt": "2026-08-05T15:17:33.923Z",
     "body": "斯泰西·塞爾文卡所著的《洛西彩色》提供了關於養育盲童的觀點，並透過佩爾金斯圖書館向視障讀者免費提供。\n推文來源： [BlindNewWorld (@BlindNewWorld)](https://x.com/BlindNewWorld/status/2085006661606117616)\n外部連結： [https://blindnewworld.org/roxie-in-color-authentic-blindness-representation-in-middle-grade-fiction](https://blindnewworld.org/roxie-in-color-authentic-blindness-representation-in-middle-grade-fiction)"
+  },
+  {
+    "title": "可及性規則存在，但��行不力",
+    "slug": "the-accessibility-rules-were-there-the-enforcement-wasnt-zh-990fecfc",
+    "lang": "zh-TW",
+    "summary": "文章指出，��然已有無����規定，但������行，導致����人士在住房和公共場所的可及性仍受限。",
+    "category": "laws-rights",
+    "tags": [
+      "disability rights",
+      "enforcement",
+      "housing accessibility"
+    ],
+    "sourceName": "Shelterforce",
+    "sourceUrl": "https://shelterforce.org/2026/08/05/the-accessibility-rules-were-there-the-enforcement-wasnt",
+    "relatedSources": [
+      {
+        "name": "Shelterforce",
+        "url": "https://shelterforce.org/2026/08/05/the-accessibility-rules-were-there-the-enforcement-wasnt"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-990fecfc",
+    "status": "published",
+    "translationOf": "the-accessibility-rules-were-there-the-enforcement-wasnt-990fecfc",
+    "publishedAt": "2026-08-05T16:06:43.000Z",
+    "fetchedAt": "2026-08-06T03:32:48.643Z",
+    "body": "文章指出，��然已有無����規定，但������行，導致����人士在住房和公共場所的可及性仍受限。\n\n原文來源： [Shelterforce](https://shelterforce.org/2026/08/05/the-accessibility-rules-were-there-the-enforcement-wasnt)"
+  },
+  {
+    "title": "華盛頓公園新增旅遊規��網站，��波特蘭熱門景點更易於無������問",
+    "slug": "washington-parks-new-trip-planning-website-makes-visiting-portlands-most-popular-zh-ea03c310",
+    "lang": "zh-TW",
+    "summary": "華盛頓公園推出新的旅遊規��網站，提供無����路線和資��，協助����遊客更����地遊��波特蘭最受��迎的目的地。",
+    "category": "digital-a11y",
+    "tags": [
+      "trip planning",
+      "website accessibility",
+      "tourism",
+      "disability access"
+    ],
+    "sourceName": "oregonbusiness.com",
+    "sourceUrl": "https://oregonbusiness.com/washington-parks-new-trip-planning-website-makes-visiting-portlands-most-popular-destinations-easier-and-more-accessible",
+    "relatedSources": [
+      {
+        "name": "oregonbusiness.com",
+        "url": "https://oregonbusiness.com/washington-parks-new-trip-planning-website-makes-visiting-portlands-most-popular-destinations-easier-and-more-accessible"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ea03c310",
+    "status": "published",
+    "translationOf": "washington-parks-new-trip-planning-website-makes-visiting-portlands-most-popular-ea03c310",
+    "publishedAt": "2026-08-05T23:53:14.000Z",
+    "fetchedAt": "2026-08-06T03:32:48.658Z",
+    "body": "華盛頓公園推出新的旅遊規��網站，提供無����路線和資��，協助����遊客更����地遊��波特蘭最受��迎的目的地。\n\n原文來源： [oregonbusiness.com](https://oregonbusiness.com/washington-parks-new-trip-planning-website-makes-visiting-portlands-most-popular-destinations-easier-and-more-accessible)"
+  },
+  {
+    "title": "十個審��可及性樹以提升 AI ����� SEO 的用例",
+    "slug": "10-seo-use-cases-for-auditing-your-accessibility-tree-for-ai-search-zh-babd05e4",
+    "lang": "zh-TW",
+    "summary": "文章列出十種審��網站可及性樹的方法，以提升 SEO 和 AI �����表現，同時強調其對���助技術相容性的重要性。",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility tree",
+      "SEO",
+      "AI search",
+      "web accessibility"
+    ],
+    "sourceName": "Search Engine Land",
+    "sourceUrl": "https://searchengineland.com/accessibility-tree-seo-use-cases-484338",
+    "relatedSources": [
+      {
+        "name": "Search Engine Land",
+        "url": "https://searchengineland.com/accessibility-tree-seo-use-cases-484338"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-babd05e4",
+    "status": "published",
+    "translationOf": "10-seo-use-cases-for-auditing-your-accessibility-tree-for-ai-search-babd05e4",
+    "publishedAt": "2026-08-05T15:00:00.000Z",
+    "fetchedAt": "2026-08-06T03:32:48.671Z",
+    "body": "文章列出十種審��網站可及性樹的方法，以提升 SEO 和 AI �����表現，同時強調其對���助技術相容性的重要性。\n\n原文來源： [Search Engine Land](https://searchengineland.com/accessibility-tree-seo-use-cases-484338)"
+  },
+  {
+    "title": "住友人��投資於 Ashirase 以推進室內導��與無����技術 - International Business Times",
+    "slug": "sumitomo-life-invests-in-ashirase-to-advance-indoor-navigation-and-accessibility-zh-26679870",
+    "lang": "zh-TW",
+    "summary": "住友人��已投資於 Ashirase，以開發室內導��技術，提升����人士的無����環境。",
+    "category": "assistive-tech",
+    "tags": [
+      "indoor navigation",
+      "accessibility tech",
+      "investment",
+      "Ashirase",
+      "Sumitomo Life"
+    ],
+    "sourceName": "International Business Times",
+    "sourceUrl": "https://jp.ibtimes.com/sumitomo-life-invests-ashirase-advance-indoor-navigation-accessibility-tech-103380",
+    "relatedSources": [
+      {
+        "name": "International Business Times",
+        "url": "https://jp.ibtimes.com/sumitomo-life-invests-ashirase-advance-indoor-navigation-accessibility-tech-103380"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-26679870",
+    "status": "published",
+    "translationOf": "sumitomo-life-invests-in-ashirase-to-advance-indoor-navigation-and-accessibility-26679870",
+    "publishedAt": "2026-08-05T19:52:50.000Z",
+    "fetchedAt": "2026-08-06T03:33:35.293Z",
+    "body": "住友人��已投資於 Ashirase，以開發室內導��技術，提升����人士的無����環境。\n\n原文來源： [International Business Times](https://jp.ibtimes.com/sumitomo-life-invests-ashirase-advance-indoor-navigation-accessibility-tech-103380)"
+  },
+  {
+    "title": "LEO - MRS 協助客��取得無������車 - 密��根州政府 (.gov)",
+    "slug": "leo-mrs-helps-customer-secure-accessible-van-state-of-michigan-gov-zh-4dd85427",
+    "lang": "zh-TW",
+    "summary": "密��根州 LEO 的 MRS 分部��助客��取得無������車，以提升����人士的出行能力。",
+    "category": "physical-design",
+    "tags": [
+      "accessible van",
+      "mobility",
+      "MRS",
+      "LEO",
+      "Michigan"
+    ],
+    "sourceName": "State of Michigan (.gov)",
+    "sourceUrl": "https://www.michigan.gov/leo/bureaus-agencies/mrs/mrs-spotlight/2026/08/05/mrs-helps-customer-secure-accessible-van",
+    "relatedSources": [
+      {
+        "name": "State of Michigan (.gov)",
+        "url": "https://www.michigan.gov/leo/bureaus-agencies/mrs/mrs-spotlight/2026/08/05/mrs-helps-customer-secure-accessible-van"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-4dd85427",
+    "status": "published",
+    "translationOf": "leo-mrs-helps-customer-secure-accessible-van-state-of-michigan-gov-4dd85427",
+    "publishedAt": "2026-08-05T20:43:51.000Z",
+    "fetchedAt": "2026-08-06T03:33:35.312Z",
+    "body": "密��根州 LEO 的 MRS 分部��助客��取得無������車，以提升����人士的出行能力。\n\n原文來源： [State of Michigan (.gov)](https://www.michigan.gov/leo/bureaus-agencies/mrs/mrs-spotlight/2026/08/05/mrs-helps-customer-secure-accessible-van)"
+  },
+  {
+    "title": "居民在公園工作��中指出維護、安全及無����問題 - St. Thomas Source",
+    "slug": "residents-highlight-concerns-about-maintenance-safety-accessibility-at-parks-wor-zh-f3610794",
+    "lang": "zh-TW",
+    "summary": "居民在公園工作��中指出維護、安全及無����問題，強調需要改善公共公園對����人士的無����設施。",
+    "category": "physical-design",
+    "tags": [
+      "park accessibility",
+      "maintenance",
+      "safety",
+      "public workshop",
+      "St. Thomas"
+    ],
+    "sourceName": "St. Thomas Source",
+    "sourceUrl": "https://stthomassource.com/content/2026/08/05/residents-highlight-concerns-about-maintenance-safety-accessibility-at-parks-workshop",
+    "relatedSources": [
+      {
+        "name": "St. Thomas Source",
+        "url": "https://stthomassource.com/content/2026/08/05/residents-highlight-concerns-about-maintenance-safety-accessibility-at-parks-workshop"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f3610794",
+    "status": "published",
+    "translationOf": "residents-highlight-concerns-about-maintenance-safety-accessibility-at-parks-wor-f3610794",
+    "publishedAt": "2026-08-05T15:51:20.000Z",
+    "fetchedAt": "2026-08-06T03:33:35.325Z",
+    "body": "居民在公園工作��中指出維護、安全及無����問題，強調需要改善公共公園對����人士的無����設施。\n\n原文來源： [St. Thomas Source](https://stthomassource.com/content/2026/08/05/residents-highlight-concerns-about-maintenance-safety-accessibility-at-parks-workshop)"
+  },
+  {
+    "title": "改善無����環境 金大獲教育部補助240萬 守護特教生學��權益",
+    "slug": "improving-accessible-environment-national-kaohsiung-university-of-science-and-te-zh-0c78ffd0",
+    "lang": "zh-TW",
+    "summary": "改善無����環境 金大獲教育部補助240萬 守護特教生學��權益",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "education",
+      "funding",
+      "special education"
+    ],
+    "sourceName": "天天上新聞",
+    "sourceUrl": "https://mknews.com.tw/2026/08/976859",
+    "relatedSources": [
+      {
+        "name": "天天上新聞",
+        "url": "https://mknews.com.tw/2026/08/976859"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-0c78ffd0",
+    "status": "published",
+    "translationOf": "improving-accessible-environment-national-kaohsiung-university-of-science-and-te-0c78ffd0",
+    "publishedAt": "2026-08-03T22:24:55.000Z",
+    "fetchedAt": "2026-08-06T03:34:23.473Z",
+    "body": "改善無����環境 金大獲教育部補助240萬 守護特教生學��權益\n\n原文來源： [天天上新聞](https://mknews.com.tw/2026/08/976859)"
+  },
+  {
+    "title": "民青會��以新城A區為試點 ���建智��無����城市",
+    "slug": "youth-league-proposes-new-city-area-a-as-pilot-to-build-smart-accessible-city-zh-548ef2b7",
+    "lang": "zh-TW",
+    "summary": "民青會��以新城A區為試點 ���建智��無����城市",
+    "category": "digital-a11y",
+    "tags": [
+      "smart city",
+      "accessibility",
+      "pilot project",
+      "youth league"
+    ],
+    "sourceName": "澳門力報",
+    "sourceUrl": "https://www.exmoo.com/article/263825.html",
+    "relatedSources": [
+      {
+        "name": "澳門力報",
+        "url": "https://www.exmoo.com/article/263825.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-548ef2b7",
+    "status": "published",
+    "translationOf": "youth-league-proposes-new-city-area-a-as-pilot-to-build-smart-accessible-city-548ef2b7",
+    "publishedAt": "2026-08-05T23:02:26.000Z",
+    "fetchedAt": "2026-08-06T03:34:23.489Z",
+    "body": "民青會��以新城A區為試點 ���建智��無����城市\n\n原文來源： [澳門力報](https://www.exmoo.com/article/263825.html)"
+  },
+  {
+    "title": "合作共濟公開認知��無����宣言",
+    "slug": "co-op-kyosai-publishes-dementia-barrier-free-declaration-zh-da4d0ac4",
+    "lang": "zh-TW",
+    "summary": "合作共濟發表認知��無����宣言，��在推動為��������者提供無����環境。",
+    "category": "physical-design",
+    "tags": [
+      "dementia",
+      "barrier-free",
+      "Japan",
+      "Co-op Kyosai",
+      "accessibility"
+    ],
+    "sourceName": "PR TIMES",
+    "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000023.000171854.html",
+    "relatedSources": [
+      {
+        "name": "PR TIMES",
+        "url": "https://prtimes.jp/main/html/rd/p/000000023.000171854.html"
+      }
+    ],
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E3%83%90%E3%83%AA%E3%82%A2%E3%83%95%E3%83%AA%E3%83%BC&hl=ja&gl=JP&ceid=JP%3Aja",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-da4d0ac4",
+    "status": "published",
+    "translationOf": "co-op-kyosai-publishes-dementia-barrier-free-declaration-da4d0ac4",
+    "publishedAt": "2026-08-04T02:00:02.000Z",
+    "fetchedAt": "2026-08-06T03:35:09.659Z",
+    "body": "合作共濟發表認知��無����宣言，��在推動為��������者提供無����環境。\n\n原文來源： [PR TIMES](https://prtimes.jp/main/html/rd/p/000000023.000171854.html)"
+  },
+  {
+    "title": "澳洲人權委員會呼����停NDIS改革法案",
+    "slug": "australian-human-rights-commission-urges-pause-on-ndis-reform-bill-zh-ff0d81a9",
+    "lang": "zh-TW",
+    "summary": "澳洲人權委員會要求政府��停國家����保��計畫（NDIS）修正案，直至解決程序、問��及影響等重大人權問題。",
+    "category": "laws-rights",
+    "tags": [
+      "NDIS",
+      "disability rights",
+      "Australia",
+      "Human Rights Commission",
+      "legislation"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/08/06/law/rights-commission-urges-australia-to-pause-on-ndis-reform-bill",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/08/06/law/rights-commission-urges-australia-to-pause-on-ndis-reform-bill"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-ff0d81a9",
+    "status": "published",
+    "translationOf": "australian-human-rights-commission-urges-pause-on-ndis-reform-bill-ff0d81a9",
+    "publishedAt": "2026-08-06T02:08:37.000Z",
+    "fetchedAt": "2026-08-06T03:35:09.672Z",
+    "body": "澳洲人權委員會要求政府��停國家����保��計畫（NDIS）修正案，直至解決程序、問��及影響等重大人權問題。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/08/06/law/rights-commission-urges-australia-to-pause-on-ndis-reform-bill)"
+  },
+  {
+    "title": "服務��身份��卡以提升����人士便利性",
+    "slug": "service-dog-id-cards-to-enhance-disability-access-zh-e8ccc22f",
+    "lang": "zh-TW",
+    "summary": "新推出的全國性服務��身份��卡將使持��服務��的����人士更易進入公共場所、商店和公共交通。",
+    "category": "assistive-tech",
+    "tags": [
+      "service dog",
+      "assistive technology",
+      "disability access",
+      "ID card"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/08/06/accessibility/service-dog-ids-to-improve-disability-access",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/08/06/accessibility/service-dog-ids-to-improve-disability-access"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-e8ccc22f",
+    "status": "published",
+    "translationOf": "service-dog-id-cards-to-enhance-disability-access-e8ccc22f",
+    "publishedAt": "2026-08-06T02:03:11.000Z",
+    "fetchedAt": "2026-08-06T03:35:09.684Z",
+    "body": "新推出的全國性服務��身份��卡將使持��服務��的����人士更易進入公共場所、商店和公共交通。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/08/06/accessibility/service-dog-ids-to-improve-disability-access)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "opticquiz-cvd-111-zh-cfaf440e",
+    "lang": "zh-TW",
+    "summary": "一個��色無����引��，提供色��安全的調色板（protanope、deuteranope、tritanop，使用 Machado 2009 + CIEDE2000）、調色板修復及 WCAG 對比度��查，零依��，可直接用於 matplotlib/plotly ��作流。",
+    "category": "digital-a11y",
+    "tags": [
+      "colorblind",
+      "WCAG",
+      "contrast",
+      "color accessibility"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/opticquiz-cvd/1.1.1",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/opticquiz-cvd/1.1.1"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-cfaf440e",
+    "status": "draft",
+    "translationOf": "opticquiz-cvd-111-cfaf440e",
+    "publishedAt": "2026-08-05T01:09:19.000Z",
+    "fetchedAt": "2026-08-06T03:35:35.687Z",
+    "body": "一個��色無����引��，提供色��安全的調色板（protanope、deuteranope、tritanop，使用 Machado 2009 + CIEDE2000）、調色板修復及 WCAG 對比度��查，零依��，可直接用於 matplotlib/plotly ��作流。\n\n原文來源： [Pypi.org](https://pypi.org/project/opticquiz-cvd/1.1.1)"
+  },
+  {
+    "title": "認知無����社群會議提���：2026年8月6日 15:00 UTC",
+    "slug": "meeting-reminder-cognitive-accessibility-community-group-august-6th-2026-1500-ut-zh-bdcebeb2",
+    "lang": "zh-TW",
+    "summary": "提���認知無����社群於2026年8月6日15:00 UTC舉行會議，並指出因參與人數不足，原定的3:00 UTC會議時間將被取消。",
+    "category": "digital-a11y",
+    "tags": [
+      "cognitive",
+      "accessibility",
+      "W3C",
+      "community group"
+    ],
+    "sourceName": "W3.org",
+    "sourceUrl": "https://www.w3.org/community/coga-community/2026/08/04/meeting-reminder-cognitive-accessibility-community-group-august-6th-2026-1500-utc",
+    "relatedSources": [
+      {
+        "name": "W3.org",
+        "url": "https://www.w3.org/community/coga-community/2026/08/04/meeting-reminder-cognitive-accessibility-community-group-august-6th-2026-1500-utc"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-bdcebeb2",
+    "status": "published",
+    "translationOf": "meeting-reminder-cognitive-accessibility-community-group-august-6th-2026-1500-ut-bdcebeb2",
+    "publishedAt": "2026-08-04T20:38:26.000Z",
+    "fetchedAt": "2026-08-06T03:36:39.498Z",
+    "body": "提���認知無����社群於2026年8月6日15:00 UTC舉行會議，並指出因參與人數不足，原定的3:00 UTC會議時間將被取消。\n\n原文來源： [W3.org](https://www.w3.org/community/coga-community/2026/08/04/meeting-reminder-cognitive-accessibility-community-group-august-6th-2026-1500-utc)"
+  },
+  {
+    "title": "老��延��9/11截止申��　南市府加強宣導與��點���導",
+    "slug": "old-house-extension-subsidy-application-deadline-september-11-tainan-city-streng-zh-367b340a",
+    "lang": "zh-TW",
+    "summary": "臺南市政府持續推動內政部「老��延��機能復新計畫」，申��截止至115年9月11日。市府已辦理11場說明會，並自7月15日起��動���導團��點服務，提供申������。補助對象為屋��30年以上4至6樓公��及6樓以下合法透天住��，��先完成建��物結構安全性能評估，再申��修��補助，最高可達工程經費65%，項目包括立面修��、屋��防水、管線更新、無����設施及高��友善設施設備，以延長建��物使用年限、提升居住安全與品質。",
+    "category": "physical-design",
+    "tags": [
+      "老��延��",
+      "無����設施",
+      "高��友善",
+      "台南市",
+      "結構安全評估"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E8%80%81%E5%AE%85%E5%BB%B6%E5%A3%BD9-11%E6%88%AA%E6%AD%A2%E7%94%B3%E8%AB%8B-%E5%8D%97%E5%B8%82%E5%BA%9C%E5%8A%A0%E5%BC%B7%E5%AE%A3%E5%B0%8E%E8%88%87%E9%A7%90%E9%BB%9E%E8%BC%94%E5%B0%8E-032740014.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E8%80%81%E5%AE%85%E5%BB%B6%E5%A3%BD9-11%E6%88%AA%E6%AD%A2%E7%94%B3%E8%AB%8B-%E5%8D%97%E5%B8%82%E5%BA%9C%E5%8A%A0%E5%BC%B7%E5%AE%A3%E5%B0%8E%E8%88%87%E9%A7%90%E9%BB%9E%E8%BC%94%E5%B0%8E-032740014.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-367b340a",
+    "status": "published",
+    "translationOf": "old-house-extension-subsidy-application-deadline-september-11-tainan-city-streng-367b340a",
+    "publishedAt": "2026-08-05T03:27:40.000Z",
+    "fetchedAt": "2026-08-06T03:36:39.510Z",
+    "body": "臺南市政府持續推動內政部「老��延��機能復新計畫」，申��截止至115年9月11日。市府已辦理11場說明會，並自7月15日起��動���導團��點服務，提供申������。補助對象為屋��30年以上4至6樓公��及6樓以下合法透天住��，��先完成建��物結構安全性能評估，再申��修��補助，最高可達工程經費65%，項目包括立面修��、屋��防水、管線更新、無����設施及高��友善設施設備，以延長建��物使用年限、提升居住安全與品質。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E8%80%81%E5%AE%85%E5%BB%B6%E5%A3%BD9-11%E6%88%AA%E6%AD%A2%E7%94%B3%E8%AB%8B-%E5%8D%97%E5%B8%82%E5%BA%9C%E5%8A%A0%E5%BC%B7%E5%AE%A3%E5%B0%8E%E8%88%87%E9%A7%90%E9%BB%9E%E8%BC%94%E5%B0%8E-032740014.html)"
+  },
+  {
+    "title": "台中爸���必收藏！��日親子館免費��到���整理包",
+    "slug": "taichung-parents-must-collect-wuri-parent-child-pavilion-free-play-all-day-guide-zh-8f2ac853",
+    "lang": "zh-TW",
+    "summary": "臺中市��日親子館��用�����木質設計，空間������光佳，提供木造益智教具、無����遊��區、2~6歲大��肉運動區及��本��書，全部免費開放，是親子假日首選去處。",
+    "category": "physical-design",
+    "tags": [
+      "親子館",
+      "無����遊��區",
+      "免費",
+      "台中市",
+      "��日"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E7%88%B8%E5%AA%BD%E5%BF%85%E6%94%B6%E8%97%8F%EF%BC%81%E7%83%8F%E6%97%A5%E8%A6%AA%E5%AD%90%E9%A4%A8%E5%85%8D%E8%B2%BB%E7%8E%A9%E5%88%B0%E9%A3%BD%E6%95%B4%E7%90%86%E5%8C%85-022000104.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E7%88%B8%E5%AA%BD%E5%BF%85%E6%94%B6%E8%97%8F%EF%BC%81%E7%83%8F%E6%97%A5%E8%A6%AA%E5%AD%90%E9%A4%A8%E5%85%8D%E8%B2%BB%E7%8E%A9%E5%88%B0%E9%A3%BD%E6%95%B4%E7%90%86%E5%8C%85-022000104.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-8f2ac853",
+    "status": "published",
+    "translationOf": "taichung-parents-must-collect-wuri-parent-child-pavilion-free-play-all-day-guide-8f2ac853",
+    "publishedAt": "2026-08-02T02:20:00.000Z",
+    "fetchedAt": "2026-08-06T03:36:39.522Z",
+    "body": "臺中市��日親子館��用�����木質設計，空間������光佳，提供木造益智教具、無����遊��區、2~6歲大��肉運動區及��本��書，全部免費開放，是親子假日首選去處。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E7%88%B8%E5%AA%BD%E5%BF%85%E6%94%B6%E8%97%8F%EF%BC%81%E7%83%8F%E6%97%A5%E8%A6%AA%E5%AD%90%E9%A4%A8%E5%85%8D%E8%B2%BB%E7%8E%A9%E5%88%B0%E9%A3%BD%E6%95%B4%E7%90%86%E5%8C%85-022000104.html)"
   }
 ]
