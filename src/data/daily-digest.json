@@ -1,55 +1,67 @@
 {
-  "date": "2026-08-05",
-  "generatedAt": "2026-08-05T14:58:57.561Z",
+  "date": "2026-08-06",
+  "generatedAt": "2026-08-06T03:53:44.564Z",
   "en": {
-    "title": "US Senators Seek Extension of Transit Accessibility Funding Program",
-    "summary": "US senators are advocating to extend the All Stations Accessibility Program, which funds upgrades to make transit stations fully accessible for people with disabilities. Meanwhile, Illinois is deploying Meta smart glasses and AI-powered glasses to assist users with disabilities, while advocates call for greater understanding of disabilities in Japan. Additionally, new guidance outlines how organizations can conduct accessibility audits to comply with the European Accessibility Act.",
+    "title": "Disability Rights Group Urges Pause on NDIS Reform Over Human Rights Concerns",
+    "summary": "The Australian Human Rights Commission has urged the government to pause the NDIS Amendment Bill until human rights concerns over process, accountability, and impact are resolved. Meanwhile, service dog ID cards are launching nationwide, Illinois is deploying Meta glasses for accessibility support, and Munich Airport has become Germany's first airport to earn ACI accessibility accreditation.",
     "highlights": [
       {
-        "title": "U.S. Senators push to extend the All Stations Accessibility Program",
-        "slug": "us-senators-push-to-extend-the-all-stations-accessibility-program-f83e513c"
+        "title": "Australian Human Rights Commission Urges Pause on NDIS Reform Bill",
+        "slug": "australian-human-rights-commission-urges-pause-on-ndis-reform-bill-ff0d81a9"
+      },
+      {
+        "title": "Service Dog ID Cards to Enhance Disability Access",
+        "slug": "service-dog-id-cards-to-enhance-disability-access-e8ccc22f"
       },
       {
         "title": "Illinois Assistive Technology Program uses Meta glasses to improve accessibility",
         "slug": "illinois-assistive-technology-program-uses-meta-glasses-to-improve-accessibility-d76e980d"
       },
       {
-        "title": "AI smart glasses connect perception, memory, and accessibility to support low-vision users - Designboom",
-        "slug": "ai-smart-glasses-connect-perception-memory-and-accessibility-to-support-low-visi-8150b130"
+        "title": "Washington Park’s New Trip-planning Website Makes Visiting Portland’s Most Popular Destinations Easier and More Accessible",
+        "slug": "washington-parks-new-trip-planning-website-makes-visiting-portlands-most-popular-ea03c310"
       },
       {
-        "title": "Call for Greater Understanding of Disabilities in Japan",
-        "slug": "call-for-greater-understanding-of-disabilities-in-japan-f71560ee"
+        "title": "Munich Airport becomes first in Germany to earn ACI accessibility accreditation - Passenger Terminal Today",
+        "slug": "munich-airport-becomes-first-in-germany-to-earn-aci-accessibility-accreditation--1ee503b1"
       },
       {
-        "title": "Accessibility Audit: How to Ensure EAA Compliance",
-        "slug": "accessibility-audit-how-to-ensure-eaa-compliance-6974215e"
+        "title": "Call for Increased Representation of Legislators with Disabilities",
+        "slug": "call-for-increased-representation-of-legislators-with-disabilities-33d23d5b"
+      },
+      {
+        "title": "The Accessibility Rules Were There. The Enforcement Wasn’t.",
+        "slug": "the-accessibility-rules-were-there-the-enforcement-wasnt-990fecfc"
       }
     ]
   },
   "zh-TW": {
-    "title": "美國參議員推動延長所有車站無障礙計畫",
-    "summary": "美國參議員倡議延長所有車站無障礙計畫，以資助交通車站的無障礙改造，使其對殘障人士完全可用。同時，伊利諾伊州正部署Meta智慧眼鏡與AI眼鏡，協助殘障使用者；慕尼黑機場成為德國首家獲得ACI無障礙認證的機場。此外，日本的殘障理解呼籲在社群媒體上引起關注，強調需要提升大眾對殘障的認識。",
+    "title": "澳洲人權委員會呼����停NDIS改革法案 以解決人權問題",
+    "summary": "澳洲人權委員會呼��政府��停NDIS修正案，直至解決程序、問��及影響等重大人權問題。同時，全國推出服務��身份��卡以提升無����通行，住友人��投資Ashirase開發室內導��技術，��尼黑機場成為德國首家獲ACI無����認��的機場，並有呼��增加日本����立法者代表性的��論。",
     "highlights": [
       {
-        "title": "美國參議員推動延長所有車站無障礙計畫",
-        "slug": "us-senators-push-to-extend-the-all-stations-accessibility-program-zh-f83e513c"
+        "title": "澳洲人權委員會呼����停NDIS改革法案",
+        "slug": "australian-human-rights-commission-urges-pause-on-ndis-reform-bill-zh-ff0d81a9"
       },
       {
-        "title": "伊利諾伊州輔助技術計畫使用 Meta 眼鏡提升無障礙",
-        "slug": "illinois-assistive-technology-program-uses-meta-glasses-to-improve-accessibility-zh-d76e980d"
+        "title": "服務��身份��卡以提升����人士便利性",
+        "slug": "service-dog-id-cards-to-enhance-disability-access-zh-e8ccc22f"
       },
       {
-        "title": "AI智能眼镜连接感知、记忆与无障碍功能，以支持低视力用户 - Designboom",
-        "slug": "ai-smart-glasses-connect-perception-memory-and-accessibility-to-support-low-visi-zh-8150b130"
+        "title": "住友人��投資於 Ashirase 以推進室內導��與無����技術 - International Business Times",
+        "slug": "sumitomo-life-invests-in-ashirase-to-advance-indoor-navigation-and-accessibility-zh-26679870"
+      },
+      {
+        "title": "華盛頓公園新增旅遊規��網站，��波特蘭熱門景點更易於無������問",
+        "slug": "washington-parks-new-trip-planning-website-makes-visiting-portlands-most-popular-zh-ea03c310"
       },
       {
         "title": "慕尼黑機場成為德國首家獲得 ACI 無障礙認證的機場",
         "slug": "munich-airport-becomes-first-in-germany-to-earn-aci-accessibility-accreditation--zh-1ee503b1"
       },
       {
-        "title": "呼籲加深對日本殘障人士的理解",
-        "slug": "call-for-greater-understanding-of-disabilities-in-japan-zh-f71560ee"
+        "title": "呼籲增加殘障立法者的代表性",
+        "slug": "call-for-increased-representation-of-legislators-with-disabilities-zh-33d23d5b"
       }
     ]
   }
