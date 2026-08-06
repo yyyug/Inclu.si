@@ -1,67 +1,55 @@
 {
   "date": "2026-08-06",
-  "generatedAt": "2026-08-06T03:53:44.564Z",
+  "generatedAt": "2026-08-06T15:00:28.423Z",
   "en": {
-    "title": "Disability Rights Group Urges Pause on NDIS Reform Over Human Rights Concerns",
-    "summary": "The Australian Human Rights Commission has urged the government to pause the NDIS Amendment Bill until human rights concerns over process, accountability, and impact are resolved. Meanwhile, service dog ID cards are launching nationwide, Illinois is deploying Meta glasses for accessibility support, and Munich Airport has become Germany's first airport to earn ACI accessibility accreditation.",
+    "title": "Australian Human Rights Commission Calls for Pause on NDIS Reform Bill Over Rights Concerns",
+    "summary": "The Australian Human Rights Commission has urged the government to halt the NDIS Amendment Bill until significant human rights issues regarding process, accountability, and impact are addressed. Meanwhile, WordPress 7.1's upcoming accessibility changes may break plugins, prompting developers to test extensions. Other developments include a Taiwanese legislator's proposal for accessible beaches, new service dog ID cards, and SM Prime's recognition for inclusion efforts.",
     "highlights": [
       {
         "title": "Australian Human Rights Commission Urges Pause on NDIS Reform Bill",
         "slug": "australian-human-rights-commission-urges-pause-on-ndis-reform-bill-ff0d81a9"
       },
       {
+        "title": "WordPress 7.1 Accessibility Change May Break Some Plugins - searchenginejournal.com",
+        "slug": "wordpress-71-accessibility-change-may-break-some-plugins-searchenginejournalcom-3801bf7d"
+      },
+      {
+        "title": "Li Si-chuan proposes 'Sports Equality 2.0' to create accessible beach environment",
+        "slug": "li-si-chuan-proposes-sports-equality-20-to-create-accessible-beach-environment-feec80db"
+      },
+      {
         "title": "Service Dog ID Cards to Enhance Disability Access",
         "slug": "service-dog-id-cards-to-enhance-disability-access-e8ccc22f"
       },
       {
-        "title": "Illinois Assistive Technology Program uses Meta glasses to improve accessibility",
-        "slug": "illinois-assistive-technology-program-uses-meta-glasses-to-improve-accessibility-d76e980d"
-      },
-      {
-        "title": "Washington Park’s New Trip-planning Website Makes Visiting Portland’s Most Popular Destinations Easier and More Accessible",
-        "slug": "washington-parks-new-trip-planning-website-makes-visiting-portlands-most-popular-ea03c310"
-      },
-      {
-        "title": "Munich Airport becomes first in Germany to earn ACI accessibility accreditation - Passenger Terminal Today",
-        "slug": "munich-airport-becomes-first-in-germany-to-earn-aci-accessibility-accreditation--1ee503b1"
-      },
-      {
-        "title": "Call for Increased Representation of Legislators with Disabilities",
-        "slug": "call-for-increased-representation-of-legislators-with-disabilities-33d23d5b"
-      },
-      {
-        "title": "The Accessibility Rules Were There. The Enforcement Wasn’t.",
-        "slug": "the-accessibility-rules-were-there-the-enforcement-wasnt-990fecfc"
+        "title": "SM Prime wins 14 Apolinario Mabini Awards for accessibility, inclusion - ABS-CBN",
+        "slug": "sm-prime-wins-14-apolinario-mabini-awards-for-accessibility-inclusion-abs-cbn-2cf25714"
       }
     ]
   },
   "zh-TW": {
     "title": "澳洲人權委員會呼����停NDIS改革法案 以解決人權問題",
-    "summary": "澳洲人權委員會呼��政府��停NDIS修正案，直至解決程序、問��及影響等重大人權問題。同時，全國推出服務��身份��卡以提升無����通行，住友人��投資Ashirase開發室內導��技術，��尼黑機場成為德國首家獲ACI無����認��的機場，並有呼��增加日本����立法者代表性的��論。",
+    "summary": "澳洲人權委員會呼��政府��停NDIS修正案，直至解決程序、問��及影響等重大人權問題。同時，WordPress 7.1 的無����更新可能導致外��不相容，提���開發者進行��試。其他發展包括李四川提出運動平權2.0打造無����海岸、服務��身份��卡推出，以及日本����福利與��明的��論。",
     "highlights": [
       {
         "title": "澳洲人權委員會呼����停NDIS改革法案",
         "slug": "australian-human-rights-commission-urges-pause-on-ndis-reform-bill-zh-ff0d81a9"
       },
       {
+        "title": "�����引��期刊：WordPress 7.1 無������更可能導致部分外��失效",
+        "slug": "wordpress-71-accessibility-change-may-break-some-plugins-searchenginejournalcom-zh-3801bf7d"
+      },
+      {
+        "title": "李四川��「運動平權2.0」三大政見 打造無����親海環境",
+        "slug": "li-si-chuan-proposes-sports-equality-20-to-create-accessible-beach-environment-zh-feec80db"
+      },
+      {
         "title": "服務��身份��卡以提升����人士便利性",
         "slug": "service-dog-id-cards-to-enhance-disability-access-zh-e8ccc22f"
       },
       {
-        "title": "住友人��投資於 Ashirase 以推進室內導��與無����技術 - International Business Times",
-        "slug": "sumitomo-life-invests-in-ashirase-to-advance-indoor-navigation-and-accessibility-zh-26679870"
-      },
-      {
-        "title": "華盛頓公園新增旅遊規��網站，��波特蘭熱門景點更易於無������問",
-        "slug": "washington-parks-new-trip-planning-website-makes-visiting-portlands-most-popular-zh-ea03c310"
-      },
-      {
-        "title": "慕尼黑機場成為德國首家獲得 ACI 無障礙認證的機場",
-        "slug": "munich-airport-becomes-first-in-germany-to-earn-aci-accessibility-accreditation--zh-1ee503b1"
-      },
-      {
-        "title": "呼籲增加殘障立法者的代表性",
-        "slug": "call-for-increased-representation-of-legislators-with-disabilities-zh-33d23d5b"
+        "title": "日本殘障福利與證明討論",
+        "slug": "discussion-on-disability-benefits-and-certification-in-japan-zh-bfcd7395"
       }
     ]
   }
