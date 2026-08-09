@@ -1,47 +1,55 @@
 {
-  "date": "2026-08-08",
-  "generatedAt": "2026-08-08T02:30:22.341Z",
+  "date": "2026-08-09",
+  "generatedAt": "2026-08-09T02:37:35.359Z",
   "en": {
-    "title": "Major Transit Accessibility Upgrade Highlights Inclusive Sports and Travel Guides",
-    "summary": "The Chicago Transit Authority reopened a $25.6 million renovated Green Line station, adding elevators, ramps, and tactile guidance for passengers with disabilities. Meanwhile, the Fubon Angels baseball team upgraded barrier‑free facilities at Xinzhuang Stadium in collaboration with disabled players to promote equality. New accessibility‑focused travel guidebooks and Roland’s V‑STAGE proof of concept for blind musicians also showcase ongoing inclusive design efforts.",
+    "title": "Senator Gillibrand Introduces Bills to Boost Accessible Housing Nationwide",
+    "summary": "Senator Kirsten Gillibrand introduced two bills to increase accessible housing options for people with disabilities. In related news, the Ministry of Education funded campus accessibility upgrades in 22 regions, the MTA was urged to prioritize accessibility, a former central bank employee discussed neurodiversity workplace adaptations, and digital disability certificate data was updated in the Myna Portal.",
     "highlights": [
       {
-        "title": "CTA reopens $25.6M renovated Green Line station with more accessibility",
-        "slug": "cta-reopens-256m-renovated-green-line-station-with-more-accessibility-ad50b2f1"
+        "title": "Gillibrand introduces two bills supporting accessible housing - Sun Community News",
+        "slug": "gillibrand-introduces-two-bills-supporting-accessible-housing-sun-community-news-1dcf3f99"
       },
       {
-        "title": "Roland Future Design Lab Launches V-STAGE Accessibility Proof of Concept - Music Connection Magazine",
-        "slug": "roland-future-design-lab-launches-v-stage-accessibility-proof-of-concept-music-c-ec04692f"
+        "title": "Ministry of Education Subsidizes 22 Cities and Counties to Actively Promote the 'Improving Barrier-Free Campus Environment Plan' to Create Friendly, Safe, and Accessible Learning Spaces",
+        "slug": "ministry-of-education-subsidizes-22-cities-and-counties-to-actively-promote-the--732a72df"
       },
       {
-        "title": "Fubon Angels upgrade Xinzhuang Baseball Stadium's barrier-free facilities, advocate equality with disabled baseball players",
-        "slug": "fubon-angels-upgrade-xinzhuang-baseball-stadiums-barrier-free-facilities-advocat-b3454a56"
+        "title": "Op-Ed | Accessibility takes priority for the MTA - amNewYork",
+        "slug": "op-ed-accessibility-takes-priority-for-the-mta-amnewyork-b63d190d"
       },
       {
-        "title": "Guidebooks for Accessible Travel",
-        "slug": "guidebooks-for-accessible-travel-aff15c42"
+        "title": "Former Central Bank Employee Discusses Neurodiversity",
+        "slug": "former-central-bank-employee-discusses-neurodiversity-05bb8a4d"
+      },
+      {
+        "title": "Digital Disability Certificates in Myna Portal",
+        "slug": "digital-disability-certificates-in-myna-portal-bc6f230b"
       }
     ]
   },
   "zh-TW": {
-    "title": "主要��運站完成無����升級 ��育場館與����球員合作 旅遊指南出版 音樂科技創新",
-    "summary": "��加哥交通局重新開放��資 2560 ���美元翻新的��線車站，新增電��、坡道及����引導，以提升������客的可及性。富邦��將棒球隊則與����球員合作，升級新��棒球場的無����設施，推動體育平權。此外，新出版的無����旅遊指南以及 Roland V‑STAGE ��人音樂家概念����，同����示持續的無����設計��力。",
+    "title": "吉利布蘭德推無����住房法案",
+    "summary": "參議員吉利布蘭德提出兩項法案，��在增加����人士的無����住房選��。同時，教育部補助22縣市改善校園無����環境，大都會交通局被呼��優先無����升級，前央行員工分享神經多��性職場適應經��，且Myna入口網站確認更新數位������明資料。",
     "highlights": [
       {
-        "title": "CTA 重新開放��資 2560 ���美元翻新的��線車站，增��更多無����設施",
-        "slug": "cta-reopens-256m-renovated-green-line-station-with-more-accessibility-zh-ad50b2f1"
+        "title": "吉利布兰德提出两项支持无����住房的法案 - Sun Community News",
+        "slug": "gillibrand-introduces-two-bills-supporting-accessible-housing-sun-community-news-zh-1dcf3f99"
       },
       {
-        "title": "Roland 未来设计实验室推出 V-STAGE 无����概念验证 - Music Connection Magazine",
-        "slug": "roland-future-design-lab-launches-v-stage-accessibility-proof-of-concept-music-c-zh-ec04692f"
+        "title": "國教署補助22縣市積��推動「改善無����校園環境計畫」 打造友善、安全、無��學��空間",
+        "slug": "ministry-of-education-subsidizes-22-cities-and-counties-to-actively-promote-the--zh-732a72df"
       },
       {
-        "title": "��將再升級新��棒球場無����設施！Fubon Angels與身��棒球員��平權",
-        "slug": "fubon-angels-upgrade-xinzhuang-baseball-stadiums-barrier-free-facilities-advocat-zh-b3454a56"
+        "title": "社論 | 無����成為大都會交通局的首要任務 - amNewYork",
+        "slug": "op-ed-accessibility-takes-priority-for-the-mta-amnewyork-zh-b63d190d"
       },
       {
-        "title": "無����旅遊指南書",
-        "slug": "guidebooks-for-accessible-travel-zh-aff15c42"
+        "title": "前央行員工��論神經多��性",
+        "slug": "former-central-bank-employee-discusses-neurodiversity-zh-05bb8a4d"
+      },
+      {
+        "title": "Myna 入口網站的數位������明",
+        "slug": "digital-disability-certificates-in-myna-portal-zh-bc6f230b"
       }
     ]
   }
