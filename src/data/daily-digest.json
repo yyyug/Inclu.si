@@ -1,55 +1,47 @@
 {
   "date": "2026-08-09",
-  "generatedAt": "2026-08-09T02:37:35.359Z",
+  "generatedAt": "2026-08-09T13:36:12.357Z",
   "en": {
-    "title": "Senator Gillibrand Introduces Bills to Boost Accessible Housing Nationwide",
-    "summary": "Senator Kirsten Gillibrand introduced two bills to increase accessible housing options for people with disabilities. In related news, the Ministry of Education funded campus accessibility upgrades in 22 regions, the MTA was urged to prioritize accessibility, a former central bank employee discussed neurodiversity workplace adaptations, and digital disability certificate data was updated in the Myna Portal.",
+    "title": "US Senator Proposes Accessible Housing Bills; Amtrak Upgrades Stations; Greek Theatre Hosts First Accessible Performance",
+    "summary": "Senator Kirsten Gillibrand introduced two bills aimed at increasing accessible housing options for people with disabilities. Amtrak completed accessibility upgrades at three stations, while Greek disabled actors staged the first accessible performance of *The Trojan Women* at Epidaurus Theatre. Developers received new accessibility guides for programming tutorials, and healthcare providers were reminded to use communication aids in medical consultations.",
     "highlights": [
       {
-        "title": "Gillibrand introduces two bills supporting accessible housing - Sun Community News",
-        "slug": "gillibrand-introduces-two-bills-supporting-accessible-housing-sun-community-news-1dcf3f99"
+        "title": "Debate Over Demolishing or Keeping Overpasses: Zheng Meng-ru Urges Kaohsiung to Inventory and Improve Accessibility",
+        "slug": "debate-over-demolishing-or-keeping-overpasses-zheng-meng-ru-urges-kaohsiung-to-i-5e73e306"
       },
       {
-        "title": "Ministry of Education Subsidizes 22 Cities and Counties to Actively Promote the 'Improving Barrier-Free Campus Environment Plan' to Create Friendly, Safe, and Accessible Learning Spaces",
-        "slug": "ministry-of-education-subsidizes-22-cities-and-counties-to-actively-promote-the--732a72df"
+        "title": "Guangming Road Accessibility Improvement Project Wins Excellence Award",
+        "slug": "guangming-road-accessibility-improvement-project-wins-excellence-award-405b8b32"
       },
       {
-        "title": "Op-Ed | Accessibility takes priority for the MTA - amNewYork",
-        "slug": "op-ed-accessibility-takes-priority-for-the-mta-amnewyork-b63d190d"
-      },
-      {
-        "title": "Former Central Bank Employee Discusses Neurodiversity",
-        "slug": "former-central-bank-employee-discusses-neurodiversity-05bb8a4d"
-      },
-      {
-        "title": "Digital Disability Certificates in Myna Portal",
-        "slug": "digital-disability-certificates-in-myna-portal-bc6f230b"
+        "title": "Accessible facilities convenience: Guangming Road improvement project wins the Excellent Award in the 'Road Good Walk' initiative",
+        "slug": "accessible-facilities-convenience-guangming-road-improvement-project-wins-the-ex-b3d3441f"
       }
     ]
   },
   "zh-TW": {
-    "title": "吉利布蘭德推無����住房法案",
-    "summary": "參議員吉利布蘭德提出兩項法案，��在增加����人士的無����住房選��。同時，教育部補助22縣市改善校園無����環境，大都會交通局被呼��優先無����升級，前央行員工分享神經多��性職場適應經��，且Myna入口網站確認更新數位������明資料。",
+    "title": "Gillibrand提出無����住房法案；Amtrak改善三站；希������演員首演無������劇",
+    "summary": "美國參議員吉利布蘭德提出兩項法案，��在增加����人士的無����住房選��。Amtrak完成三個車站的無����升級，而希������演員在埃皮達羅斯劇院首次上演無����版《特洛伊��人》。����場合提���使用��通���助工具，並有報告指出日本����手��持有人在使用優��時遭受言語����。",
     "highlights": [
       {
         "title": "吉利布兰德提出两项支持无����住房的法案 - Sun Community News",
         "slug": "gillibrand-introduces-two-bills-supporting-accessible-housing-sun-community-news-zh-1dcf3f99"
       },
       {
-        "title": "國教署補助22縣市積��推動「改善無����校園環境計畫」 打造友善、安全、無��學��空間",
-        "slug": "ministry-of-education-subsidizes-22-cities-and-counties-to-actively-promote-the--zh-732a72df"
+        "title": "Amtrak 完成三個車站的無����升級 - Railway Supply",
+        "slug": "amtrak-completes-accessibility-upgrades-at-three-stations-railway-supply-zh-d867e702"
       },
       {
-        "title": "社論 | 無����成為大都會交通局的首要任務 - amNewYork",
-        "slug": "op-ed-accessibility-takes-priority-for-the-mta-amnewyork-zh-b63d190d"
+        "title": "希������演員演��《特洛伊��女》 ��皮達��斯劇院首辦無����演出",
+        "slug": "greek-disabled-actors-perform-the-trojan-women-in-first-accessible-performance-a-zh-5438d391"
       },
       {
-        "title": "前央行員工��論神經多��性",
-        "slug": "former-central-bank-employee-discusses-neurodiversity-zh-05bb8a4d"
+        "title": "在��������中使用��通���助工具",
+        "slug": "using-communication-aids-in-medical-consultations-zh-a2376ec0"
       },
       {
-        "title": "Myna 入口網站的數位������明",
-        "slug": "digital-disability-certificates-in-myna-portal-zh-bc6f230b"
+        "title": "日本����手��持有人受到��視",
+        "slug": "discrimination-against-disability-handbook-holder-in-japan-zh-274f7e4e"
       }
     ]
   }
