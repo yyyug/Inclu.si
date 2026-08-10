@@ -1,47 +1,59 @@
 {
-  "date": "2026-08-09",
-  "generatedAt": "2026-08-09T13:36:12.357Z",
+  "date": "2026-08-10",
+  "generatedAt": "2026-08-10T02:56:30.560Z",
   "en": {
-    "title": "US Senator Proposes Accessible Housing Bills; Amtrak Upgrades Stations; Greek Theatre Hosts First Accessible Performance",
-    "summary": "Senator Kirsten Gillibrand introduced two bills aimed at increasing accessible housing options for people with disabilities. Amtrak completed accessibility upgrades at three stations, while Greek disabled actors staged the first accessible performance of *The Trojan Women* at Epidaurus Theatre. Developers received new accessibility guides for programming tutorials, and healthcare providers were reminded to use communication aids in medical consultations.",
+    "title": "Taiwan's Education Ministry Funds Barrier-Free Campuses Amid Nationwide Accessibility Push",
+    "summary": "Taiwan's Ministry of Education announced subsidies for barrier-free campuses to improve safety and inclusivity for students with disabilities. Meanwhile, the Transportation Bureau launched a driver training course integrating accessible services, and Trend Hunter highlighted accessible financial services trends. Additionally, Camp Inspire Ability offered accessible activities for children with disabilities, and Greek disabled actors staged the first accessible performance of *The Trojan Women* at Epidaurus Theatre.",
     "highlights": [
       {
-        "title": "Debate Over Demolishing or Keeping Overpasses: Zheng Meng-ru Urges Kaohsiung to Inventory and Improve Accessibility",
-        "slug": "debate-over-demolishing-or-keeping-overpasses-zheng-meng-ru-urges-kaohsiung-to-i-5e73e306"
+        "title": "Ministry of Education Subsidizes Creation of Barrier-Free Campuses to Enhance Safe and Friendly Learning Environment - Life - Liberty Times",
+        "slug": "ministry-of-education-subsidizes-creation-of-barrier-free-campuses-to-enhance-sa-ca0c6a86"
       },
       {
-        "title": "Guangming Road Accessibility Improvement Project Wins Excellence Award",
-        "slug": "guangming-road-accessibility-improvement-project-wins-excellence-award-405b8b32"
+        "title": "Transportation Bureau Launches Bus Service Quality Improvement Course Combining Top Driver Experience Sharing and Accessible Services",
+        "slug": "transportation-bureau-launches-bus-service-quality-improvement-course-combining--77ab6bf5"
       },
       {
-        "title": "Accessible facilities convenience: Guangming Road improvement project wins the Excellent Award in the 'Road Good Walk' initiative",
-        "slug": "accessible-facilities-convenience-guangming-road-improvement-project-wins-the-ex-b3d3441f"
+        "title": "Accessibility-Focused Financial Services - Trend Hunter",
+        "slug": "accessibility-focused-financial-services-trend-hunter-a37a08b8"
+      },
+      {
+        "title": "Camp ‘Inspire Ability’ Delivers Confidence, Accessibility, and Friendship",
+        "slug": "camp-inspire-ability-delivers-confidence-accessibility-and-friendship-3537d591"
+      },
+      {
+        "title": "Greek Disabled Actors Perform *The Trojan Women* in First Accessible Performance at Epidaurus Theatre",
+        "slug": "greek-disabled-actors-perform-the-trojan-women-in-first-accessible-performance-a-5438d391"
       }
     ]
   },
   "zh-TW": {
-    "title": "Gillibrand提出無����住房法案；Amtrak改善三站；希������演員首演無������劇",
-    "summary": "美國參議員吉利布蘭德提出兩項法案，��在增加����人士的無����住房選��。Amtrak完成三個車站的無����升級，而希������演員在埃皮達羅斯劇院首次上演無����版《特洛伊��人》。����場合提���使用��通���助工具，並有報告指出日本����手��持有人在使用優��時遭受言語����。",
+    "title": "教育部 ���助 無���� 校園 台南 公車 服務 升級 無���� 金融 ���勢 全球 無���� 進展",
+    "summary": "教育部宣布補助打造無����校園，以提升學生安全與學��環境。同時，交通局推出結合優良����經��的公車服務品質課程，Trend Hunter 報告無����金融服務��勢。此外，「Inspire Ability」��隊提供無����活動，希������演員在埃皮達羅斯劇場首演《特洛伊��女》，而推特上��對����人士的����言論亦引起關注。",
     "highlights": [
       {
-        "title": "吉利布兰德提出两项支持无����住房的法案 - Sun Community News",
-        "slug": "gillibrand-introduces-two-bills-supporting-accessible-housing-sun-community-news-zh-1dcf3f99"
+        "title": "提升更安全友善學��環境教部補助打造無����校園- 生活 - 自由時報",
+        "slug": "ministry-of-education-subsidizes-creation-of-barrier-free-campuses-to-enhance-sa-zh-ca0c6a86"
       },
       {
-        "title": "Amtrak 完成三個車站的無����升級 - Railway Supply",
-        "slug": "amtrak-completes-accessibility-upgrades-at-three-stations-railway-supply-zh-d867e702"
+        "title": "交通局辦理公車服務品質提升課程 ��度結合績優����經��分享與無����服務",
+        "slug": "transportation-bureau-launches-bus-service-quality-improvement-course-combining--zh-77ab6bf5"
+      },
+      {
+        "title": "無������點金融服務 - Trend Hunter",
+        "slug": "accessibility-focused-financial-services-trend-hunter-zh-a37a08b8"
+      },
+      {
+        "title": "「Inspire Ability」��隊帶來信心、無����與友��",
+        "slug": "camp-inspire-ability-delivers-confidence-accessibility-and-friendship-zh-3537d591"
       },
       {
         "title": "希������演員演��《特洛伊��女》 ��皮達��斯劇院首辦無����演出",
         "slug": "greek-disabled-actors-perform-the-trojan-women-in-first-accessible-performance-a-zh-5438d391"
       },
       {
-        "title": "在��������中使用��通���助工具",
-        "slug": "using-communication-aids-in-medical-consultations-zh-a2376ec0"
-      },
-      {
-        "title": "日本����手��持有人受到��視",
-        "slug": "discrimination-against-disability-handbook-holder-in-japan-zh-274f7e4e"
+        "title": "推特上��對����人士的����言論報告",
+        "slug": "reports-of-hate-speech-against-people-with-disabilities-on-twitter-zh-a8ce28b4"
       }
     ]
   }
