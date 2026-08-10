@@ -1,59 +1,55 @@
 {
   "date": "2026-08-10",
-  "generatedAt": "2026-08-10T02:56:30.560Z",
+  "generatedAt": "2026-08-10T14:02:54.241Z",
   "en": {
-    "title": "Taiwan's Education Ministry Funds Barrier-Free Campuses Amid Nationwide Accessibility Push",
-    "summary": "Taiwan's Ministry of Education announced subsidies for barrier-free campuses to improve safety and inclusivity for students with disabilities. Meanwhile, the Transportation Bureau launched a driver training course integrating accessible services, and Trend Hunter highlighted accessible financial services trends. Additionally, Camp Inspire Ability offered accessible activities for children with disabilities, and Greek disabled actors staged the first accessible performance of *The Trojan Women* at Epidaurus Theatre.",
+    "title": "Australia Launches Consultation on New Aviation Disability Standards Amid Global Accessibility Push",
+    "summary": "The Australian Government has opened a public consultation on new aviation disability standards to address barriers in air travel. Zappar’s AR app now offers accessible QR scanning, Inclusion Australia released Easy Read Centrelink guides, and a study highlights accessibility costs for disabled Africans. Additionally, an iOS tutorial demonstrates font size adjustments for users with visual impairments.",
     "highlights": [
       {
-        "title": "Ministry of Education Subsidizes Creation of Barrier-Free Campuses to Enhance Safe and Friendly Learning Environment - Life - Liberty Times",
-        "slug": "ministry-of-education-subsidizes-creation-of-barrier-free-campuses-to-enhance-sa-ca0c6a86"
+        "title": "Australia Opens Consultation on New Aviation Disability Standards",
+        "slug": "australia-opens-consultation-on-new-aviation-disability-standards-0fe9c0d0"
       },
       {
-        "title": "Transportation Bureau Launches Bus Service Quality Improvement Course Combining Top Driver Experience Sharing and Accessible Services",
-        "slug": "transportation-bureau-launches-bus-service-quality-improvement-course-combining--77ab6bf5"
+        "title": "Accessible QR Scanning Comes to Zappar’s Spaces AR App",
+        "slug": "accessible-qr-scanning-comes-to-zappars-spaces-ar-app-19adc7c2"
       },
       {
-        "title": "Accessibility-Focused Financial Services - Trend Hunter",
-        "slug": "accessibility-focused-financial-services-trend-hunter-a37a08b8"
+        "title": "Inclusion Australia Releases Easy Read Centrelink Information",
+        "slug": "inclusion-australia-releases-easy-read-centrelink-information-511a4ef1"
       },
       {
-        "title": "Camp ‘Inspire Ability’ Delivers Confidence, Accessibility, and Friendship",
-        "slug": "camp-inspire-ability-delivers-confidence-accessibility-and-friendship-3537d591"
+        "title": "The Cost of Accessibility: How Sick and Disabled Africans Navigate a Failing System (I) - HumAngle",
+        "slug": "the-cost-of-accessibility-how-sick-and-disabled-africans-navigate-a-failing-syst-74883185"
       },
       {
-        "title": "Greek Disabled Actors Perform *The Trojan Women* in First Accessible Performance at Epidaurus Theatre",
-        "slug": "greek-disabled-actors-perform-the-trojan-women-in-first-accessible-performance-a-5438d391"
+        "title": "iOS 26 iPhone Font Size Tutorial",
+        "slug": "ios-26-iphone-font-size-tutorial-daa6359d"
       }
     ]
   },
   "zh-TW": {
-    "title": "教育部 ���助 無���� 校園 台南 公車 服務 升級 無���� 金融 ���勢 全球 無���� 進展",
-    "summary": "教育部宣布補助打造無����校園，以提升學生安全與學��環境。同時，交通局推出結合優良����經��的公車服務品質課程，Trend Hunter 報告無����金融服務��勢。此外，「Inspire Ability」��隊提供無����活動，希������演員在埃皮達羅斯劇場首演《特洛伊��女》，而推特上��對����人士的����言論亦引起關注。",
+    "title": "澳洲��動新航空無����標準����，����全球無����進展",
+    "summary": "澳大利亞政府公開����新航空無����標準，以解決����人士在航空旅行中的����。同時，Zappar 的 AR ���用程式加入無���� QR ����，東京 métropolit 政府舉辦����業包容性就業研��會，非洲����者取得服務的成本研究發表，以及 iOS 字體大小教學協助視��使用者。",
     "highlights": [
       {
-        "title": "提升更安全友善學��環境教部補助打造無����校園- 生活 - 自由時報",
-        "slug": "ministry-of-education-subsidizes-creation-of-barrier-free-campuses-to-enhance-sa-zh-ca0c6a86"
+        "title": "澳大利亞開放新航空無����標準����",
+        "slug": "australia-opens-consultation-on-new-aviation-disability-standards-zh-0fe9c0d0"
       },
       {
-        "title": "交通局辦理公車服務品質提升課程 ��度結合績優����經��分享與無����服務",
-        "slug": "transportation-bureau-launches-bus-service-quality-improvement-course-combining--zh-77ab6bf5"
+        "title": "無���� QR ����進入 Zappar 的 Spaces AR ���用",
+        "slug": "accessible-qr-scanning-comes-to-zappars-spaces-ar-app-zh-19adc7c2"
       },
       {
-        "title": "無������點金融服務 - Trend Hunter",
-        "slug": "accessibility-focused-financial-services-trend-hunter-zh-a37a08b8"
+        "title": "����業包容性就業研��會",
+        "slug": "seminar-on-inclusive-employment-in-restaurants-zh-054ee692"
       },
       {
-        "title": "「Inspire Ability」��隊帶來信心、無����與友��",
-        "slug": "camp-inspire-ability-delivers-confidence-accessibility-and-friendship-zh-3537d591"
+        "title": "可及性的成本：非洲病��與����者如何在失效系統中求生存（I） - HumAngle",
+        "slug": "the-cost-of-accessibility-how-sick-and-disabled-africans-navigate-a-failing-syst-zh-74883185"
       },
       {
-        "title": "希������演員演��《特洛伊��女》 ��皮達��斯劇院首辦無����演出",
-        "slug": "greek-disabled-actors-perform-the-trojan-women-in-first-accessible-performance-a-zh-5438d391"
-      },
-      {
-        "title": "推特上��對����人士的����言論報告",
-        "slug": "reports-of-hate-speech-against-people-with-disabilities-on-twitter-zh-a8ce28b4"
+        "title": "iOS 26 iPhone 字體大小教學",
+        "slug": "ios-26-iphone-font-size-tutorial-zh-daa6359d"
       }
     ]
   }
