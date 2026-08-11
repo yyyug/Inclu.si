@@ -1,55 +1,67 @@
 {
-  "date": "2026-08-10",
-  "generatedAt": "2026-08-10T14:02:54.241Z",
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-11T14:01:12.769Z",
   "en": {
-    "title": "Australia Launches Consultation on New Aviation Disability Standards Amid Global Accessibility Push",
-    "summary": "The Australian Government has opened a public consultation on new aviation disability standards to address barriers in air travel. Zappar’s AR app now offers accessible QR scanning, Inclusion Australia released Easy Read Centrelink guides, and a study highlights accessibility costs for disabled Africans. Additionally, an iOS tutorial demonstrates font size adjustments for users with visual impairments.",
+    "title": "ACA Section 1557 Tightens Accessibility Rules for Patient Kiosks Nationwide",
+    "summary": "The Affordable Care Act’s Section 1557 now requires healthcare providers to ensure patient kiosks are fully accessible to people with disabilities. Additionally, a senator proposed tax deductions for barrier‑free home renovations, while GeneDx launched an online service to broaden exome testing access. Community projects in Los Alamos built wheelchair ramps, Huntingdon Station secured funding for upgrades, and Veo introduced accessible electric trikes in Denver.",
     "highlights": [
       {
-        "title": "Australia Opens Consultation on New Aviation Disability Standards",
-        "slug": "australia-opens-consultation-on-new-aviation-disability-standards-0fe9c0d0"
+        "title": "ACA Section 1557 raises accessibility stakes for patient kiosks",
+        "slug": "aca-section-1557-raises-accessibility-stakes-for-patient-kiosks-3dc58f99"
       },
       {
-        "title": "Accessible QR Scanning Comes to Zappar’s Spaces AR App",
-        "slug": "accessible-qr-scanning-comes-to-zappars-spaces-ar-app-19adc7c2"
+        "title": "Senator Proposes Tax Deduction for Barrier-Free Home Renovations for Taxpayers Over 60 to Support Aging in Place",
+        "slug": "senator-proposes-tax-deduction-for-barrier-free-home-renovations-for-taxpayers-o-f7d1cfad"
       },
       {
-        "title": "Inclusion Australia Releases Easy Read Centrelink Information",
-        "slug": "inclusion-australia-releases-easy-read-centrelink-information-511a4ef1"
+        "title": "GeneDx Launches New Online Offering to Improve Accessibility of Exome Testing for Children with Global Developmental Delay, Intellectual Disability and Epilepsy",
+        "slug": "genedx-launches-new-online-offering-to-improve-accessibility-of-exome-testing-fo-ab131dff"
       },
       {
-        "title": "The Cost of Accessibility: How Sick and Disabled Africans Navigate a Failing System (I) - HumAngle",
-        "slug": "the-cost-of-accessibility-how-sick-and-disabled-africans-navigate-a-failing-syst-74883185"
+        "title": "Los Alamos Middle School Students Build 16 Accessibility Ramps For Nonprofit Mesa-To-Mesa",
+        "slug": "los-alamos-middle-school-students-build-16-accessibility-ramps-for-nonprofit-mes-5de0b7f8"
       },
       {
-        "title": "iOS 26 iPhone Font Size Tutorial",
-        "slug": "ios-26-iphone-font-size-tutorial-daa6359d"
+        "title": "Huntingdon Station Receives $3.5 Million Accessibility Upgrade",
+        "slug": "huntingdon-station-receives-35-million-accessibility-upgrade-df22b576"
+      },
+      {
+        "title": "Micromobility - Veo debuts accessibility-focused electric trikes in Denver",
+        "slug": "micromobility-veo-debuts-accessibility-focused-electric-trikes-in-denver-7ebb1a87"
       }
     ]
   },
   "zh-TW": {
-    "title": "澳洲��動新航空無����標準����，����全球無����進展",
-    "summary": "澳大利亞政府公開����新航空無����標準，以解決����人士在航空旅行中的����。同時，Zappar 的 AR ���用程式加入無���� QR ����，東京 métropolit 政府舉辦����業包容性就業研��會，非洲����者取得服務的成本研究發表，以及 iOS 字體大小教學協助視��使用者。",
+    "title": "平等����法第1557條強化��者自助機無����要求",
+    "summary": "根據平等����法第1557條，����提供者必��確保��者自助機對����人士完全無����。同時，參議員提出������除以支持無����住��改造，GeneDx ��出線上服務��大外����可及性。洛斯阿拉莫斯中學學生建造十六條坡道，亨廷頓車站獲得350萬美元升級資金，Veo 在丹佛推出無����電動三輪車，此外尚有關於 Suica �����折��的社群��論。",
     "highlights": [
       {
-        "title": "澳大利亞開放新航空無����標準����",
-        "slug": "australia-opens-consultation-on-new-aviation-disability-standards-zh-0fe9c0d0"
+        "title": "平������法第 1557 ���提升��者自助機無����要求",
+        "slug": "aca-section-1557-raises-accessibility-stakes-for-patient-kiosks-zh-3dc58f99"
       },
       {
-        "title": "無���� QR ����進入 Zappar 的 Spaces AR ���用",
-        "slug": "accessible-qr-scanning-comes-to-zappars-spaces-ar-app-zh-19adc7c2"
+        "title": "參議員提案落實原地��老 ��60歲納��人無������修����1萬",
+        "slug": "senator-proposes-tax-deduction-for-barrier-free-home-renovations-for-taxpayers-o-zh-f7d1cfad"
       },
       {
-        "title": "����業包容性就業研��會",
-        "slug": "seminar-on-inclusive-employment-in-restaurants-zh-054ee692"
+        "title": "GeneDx ��出新線上服務 提升全球發展����、智能����與��������的外������可及性",
+        "slug": "genedx-launches-new-online-offering-to-improve-accessibility-of-exome-testing-fo-zh-ab131dff"
       },
       {
-        "title": "可及性的成本：非洲病��與����者如何在失效系統中求生存（I） - HumAngle",
-        "slug": "the-cost-of-accessibility-how-sick-and-disabled-africans-navigate-a-failing-syst-zh-74883185"
+        "title": "洛斯阿拉莫斯中學學生為非��利組織 Mesa-To-Mesa ��造 16 ��無����坡道",
+        "slug": "los-alamos-middle-school-students-build-16-accessibility-ramps-for-nonprofit-mes-zh-5de0b7f8"
       },
       {
-        "title": "iOS 26 iPhone 字體大小教學",
-        "slug": "ios-26-iphone-font-size-tutorial-zh-daa6359d"
+        "title": "Huntingdon ��站獲 350 ���美元無����升級",
+        "slug": "huntingdon-station-receives-35-million-accessibility-upgrade-zh-df22b576"
+      },
+      {
+        "title": "Veo 在丹佛推出專注無����的電動三輪車",
+        "slug": "micromobility-veo-debuts-accessibility-focused-electric-trikes-in-denver-zh-7ebb1a87"
+      },
+      {
+        "title": "關於交通運������折��的查��",
+        "slug": "inquiry-regarding-disability-discounts-for-transit-zh-02ecf06e"
       }
     ]
   }
