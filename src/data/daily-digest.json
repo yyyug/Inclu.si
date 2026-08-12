@@ -1,67 +1,47 @@
 {
-  "date": "2026-08-11",
-  "generatedAt": "2026-08-11T14:01:12.769Z",
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T03:09:46.738Z",
   "en": {
-    "title": "ACA Section 1557 Tightens Accessibility Rules for Patient Kiosks Nationwide",
-    "summary": "The Affordable Care Act’s Section 1557 now requires healthcare providers to ensure patient kiosks are fully accessible to people with disabilities. Additionally, a senator proposed tax deductions for barrier‑free home renovations, while GeneDx launched an online service to broaden exome testing access. Community projects in Los Alamos built wheelchair ramps, Huntingdon Station secured funding for upgrades, and Veo introduced accessible electric trikes in Denver.",
+    "title": "US Social Security Expands Compassionate Allowances, Speeds Disability Benefits",
+    "summary": "The U.S. Social Security Administration added 14 new conditions to its Compassionate Allowances list, accelerating disability benefit approvals for severe illnesses. Meanwhile, Austin’s CTA Green Line station reopened after accessibility renovations, and advocates highlighted Judy Heumann’s legacy in disability rights. Additional updates include a rehabilitation bus service expansion and new digital accessibility committee goals.",
     "highlights": [
       {
-        "title": "ACA Section 1557 raises accessibility stakes for patient kiosks",
-        "slug": "aca-section-1557-raises-accessibility-stakes-for-patient-kiosks-3dc58f99"
-      },
-      {
-        "title": "Senator Proposes Tax Deduction for Barrier-Free Home Renovations for Taxpayers Over 60 to Support Aging in Place",
-        "slug": "senator-proposes-tax-deduction-for-barrier-free-home-renovations-for-taxpayers-o-f7d1cfad"
+        "title": "Social Security adds 14 new Compassionate Allowances to speed disability benefits",
+        "slug": "social-security-adds-14-new-compassionate-allowances-to-speed-disability-benefit-87a71892"
       },
       {
         "title": "GeneDx Launches New Online Offering to Improve Accessibility of Exome Testing for Children with Global Developmental Delay, Intellectual Disability and Epilepsy",
         "slug": "genedx-launches-new-online-offering-to-improve-accessibility-of-exome-testing-fo-ab131dff"
       },
       {
-        "title": "Los Alamos Middle School Students Build 16 Accessibility Ramps For Nonprofit Mesa-To-Mesa",
-        "slug": "los-alamos-middle-school-students-build-16-accessibility-ramps-for-nonprofit-mes-5de0b7f8"
+        "title": "2026 Town Resilience (Air Defense) Exercise - Rehabilitation Bus and Keelung Accessible Transport Reservation Platform Service Announcement",
+        "slug": "2026-town-resilience-air-defense-exercise-rehabilitation-bus-and-keelung-accessi-5420a4a5"
       },
       {
-        "title": "Huntingdon Station Receives $3.5 Million Accessibility Upgrade",
-        "slug": "huntingdon-station-receives-35-million-accessibility-upgrade-df22b576"
-      },
-      {
-        "title": "Micromobility - Veo debuts accessibility-focused electric trikes in Denver",
-        "slug": "micromobility-veo-debuts-accessibility-focused-electric-trikes-in-denver-7ebb1a87"
+        "title": "Legacy of Judy Heumann",
+        "slug": "legacy-of-judy-heumann-b2c8644a"
       }
     ]
   },
   "zh-TW": {
-    "title": "平等����法第1557條強化��者自助機無����要求",
-    "summary": "根據平等����法第1557條，����提供者必��確保��者自助機對����人士完全無����。同時，參議員提出������除以支持無����住��改造，GeneDx ��出線上服務��大外����可及性。洛斯阿拉莫斯中學學生建造十六條坡道，亨廷頓車站獲得350萬美元升級資金，Veo 在丹佛推出無����電動三輪車，此外尚有關於 Suica �����折��的社群��論。",
+    "title": "美國社會安全署增加14項同情津�� 加速����福利審批",
+    "summary": "美國社會安全署將14種���重��病納入同情津��清單，使����福利審批更快速。同時，GeneDx推出線上服務提升外����可及性，復康巴士服務亦��大無����交通預約平台。此外，��迪·休曼的����權利����受到紀念。",
     "highlights": [
       {
-        "title": "平������法第 1557 ���提升��者自助機無����要求",
-        "slug": "aca-section-1557-raises-accessibility-stakes-for-patient-kiosks-zh-3dc58f99"
-      },
-      {
-        "title": "參議員提案落實原地��老 ��60歲納��人無������修����1萬",
-        "slug": "senator-proposes-tax-deduction-for-barrier-free-home-renovations-for-taxpayers-o-zh-f7d1cfad"
+        "title": "社會安全署增加14項同情津��條件 以加速����福利審批",
+        "slug": "social-security-adds-14-new-compassionate-allowances-to-speed-disability-benefit-zh-87a71892"
       },
       {
         "title": "GeneDx ��出新線上服務 提升全球發展����、智能����與��������的外������可及性",
         "slug": "genedx-launches-new-online-offering-to-improve-accessibility-of-exome-testing-fo-zh-ab131dff"
       },
       {
-        "title": "洛斯阿拉莫斯中學學生為非��利組織 Mesa-To-Mesa ��造 16 ��無����坡道",
-        "slug": "los-alamos-middle-school-students-build-16-accessibility-ramps-for-nonprofit-mes-zh-5de0b7f8"
+        "title": "2026城����性(防空)演��-復康巴士及基隆無����交通預約平臺服務公告",
+        "slug": "2026-town-resilience-air-defense-exercise-rehabilitation-bus-and-keelung-accessi-zh-5420a4a5"
       },
       {
-        "title": "Huntingdon ��站獲 350 ���美元無����升級",
-        "slug": "huntingdon-station-receives-35-million-accessibility-upgrade-zh-df22b576"
-      },
-      {
-        "title": "Veo 在丹佛推出專注無����的電動三輪車",
-        "slug": "micromobility-veo-debuts-accessibility-focused-electric-trikes-in-denver-zh-7ebb1a87"
-      },
-      {
-        "title": "關於交通運������折��的查��",
-        "slug": "inquiry-regarding-disability-discounts-for-transit-zh-02ecf06e"
+        "title": "朱迪·休曼的����",
+        "slug": "legacy-of-judy-heumann-zh-b2c8644a"
       }
     ]
   }
