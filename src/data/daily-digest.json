@@ -1,47 +1,55 @@
 {
-  "date": "2026-08-12",
-  "generatedAt": "2026-08-12T03:09:46.738Z",
+  "date": "2026-08-13",
+  "generatedAt": "2026-08-13T03:13:21.195Z",
   "en": {
-    "title": "US Social Security Expands Compassionate Allowances, Speeds Disability Benefits",
-    "summary": "The U.S. Social Security Administration added 14 new conditions to its Compassionate Allowances list, accelerating disability benefit approvals for severe illnesses. Meanwhile, Austin’s CTA Green Line station reopened after accessibility renovations, and advocates highlighted Judy Heumann’s legacy in disability rights. Additional updates include a rehabilitation bus service expansion and new digital accessibility committee goals.",
+    "title": "EDF Launches Youth Disability Rights Manifesto; Global Accessibility Updates Follow",
+    "summary": "EDF launched a manifesto on International Youth Day 2026 calling for rights of young persons with disabilities. Meanwhile, Google Pixel 11 introduced AI sign-language translation, Nationwide launched an industry initiative for communication accessibility, and CTA/SacRT completed station upgrades. A report highlighted top U.S. vacation towns offering accessible stays for travelers with disabilities.",
     "highlights": [
       {
-        "title": "Social Security adds 14 new Compassionate Allowances to speed disability benefits",
-        "slug": "social-security-adds-14-new-compassionate-allowances-to-speed-disability-benefit-87a71892"
+        "title": "Launch of EDF Manifesto on the Rights of Young Persons with Disabilities",
+        "slug": "launch-of-edf-manifesto-on-the-rights-of-young-persons-with-disabilities-d915d403"
       },
       {
-        "title": "GeneDx Launches New Online Offering to Improve Accessibility of Exome Testing for Children with Global Developmental Delay, Intellectual Disability and Epilepsy",
-        "slug": "genedx-launches-new-online-offering-to-improve-accessibility-of-exome-testing-fo-ab131dff"
+        "title": "Google Pixel 11 Introduces AI Sign Language Translation",
+        "slug": "google-pixel-11-introduces-ai-sign-language-translation-5aa42d2f"
       },
       {
-        "title": "2026 Town Resilience (Air Defense) Exercise - Rehabilitation Bus and Keelung Accessible Transport Reservation Platform Service Announcement",
-        "slug": "2026-town-resilience-air-defense-exercise-rehabilitation-bus-and-keelung-accessi-5420a4a5"
+        "title": "Nationwide Leads Industry Initiative to Boost Accessibility for Communication Difficulties",
+        "slug": "nationwide-leads-industry-initiative-to-boost-accessibility-for-communication-di-23d4105a"
       },
       {
-        "title": "Legacy of Judy Heumann",
-        "slug": "legacy-of-judy-heumann-b2c8644a"
+        "title": "CTA, SacRT complete station upgrades to improve accessibility, rider experience - Mass Transit",
+        "slug": "cta-sacrt-complete-station-upgrades-to-improve-accessibility-rider-experience-ma-951bb9f9"
+      },
+      {
+        "title": "Report: the Best U.S. Vacation Towns for an Accessible Stay - Travel Agent Central",
+        "slug": "report-the-best-us-vacation-towns-for-an-accessible-stay-travel-agent-central-12c0296f"
       }
     ]
   },
   "zh-TW": {
-    "title": "美國社會安全署增加14項同情津�� 加速����福利審批",
-    "summary": "美國社會安全署將14種���重��病納入同情津��清單，使����福利審批更快速。同時，GeneDx推出線上服務提升外����可及性，復康巴士服務亦��大無����交通預約平台。此外，��迪·休曼的����權利����受到紀念。",
+    "title": "歐洲 �����人 ����� 發布 青年 �����人 ��利 宣言 全球",
+    "summary": "歐洲����人論��於國際青年日發布《青年����人權利宣言》，呼��建構公平可及的社會並保��青年����人士的權利。同時，Google Pixel 11 加入 AI 手語翻��功能，Nationwide ��動��通無������業��議，CTA �� SacRT 完成車站無����升級。一份報告指出美國多個適合����旅客的度假城��，提供無����住宿與交通資��。",
     "highlights": [
       {
-        "title": "社會安全署增加14項同情津��條件 以加速����福利審批",
-        "slug": "social-security-adds-14-new-compassionate-allowances-to-speed-disability-benefit-zh-87a71892"
+        "title": "歐洲����論��發布《青年����人士權利宣言》",
+        "slug": "launch-of-edf-manifesto-on-the-rights-of-young-persons-with-disabilities-zh-d915d403"
       },
       {
-        "title": "GeneDx ��出新線上服務 提升全球發展����、智能����與��������的外������可及性",
-        "slug": "genedx-launches-new-online-offering-to-improve-accessibility-of-exome-testing-fo-zh-ab131dff"
+        "title": "Google Pixel 11 ��出人工智��手語翻��功能",
+        "slug": "google-pixel-11-introduces-ai-sign-language-translation-zh-5aa42d2f"
       },
       {
-        "title": "2026城����性(防空)演��-復康巴士及基隆無����交通預約平臺服務公告",
-        "slug": "2026-town-resilience-air-defense-exercise-rehabilitation-bus-and-keelung-accessi-zh-5420a4a5"
+        "title": "全国领导行业��议以提升��通困难人士的可及性",
+        "slug": "nationwide-leads-industry-initiative-to-boost-accessibility-for-communication-di-zh-23d4105a"
       },
       {
-        "title": "朱迪·休曼的����",
-        "slug": "legacy-of-judy-heumann-zh-b2c8644a"
+        "title": "CTA、SacRT完成車站升級以提升無����與��客體�� - Mass Transit",
+        "slug": "cta-sacrt-complete-station-upgrades-to-improve-accessibility-rider-experience-ma-zh-951bb9f9"
+      },
+      {
+        "title": "報告：美國最適合無����住宿的度假城��",
+        "slug": "report-the-best-us-vacation-towns-for-an-accessible-stay-travel-agent-central-zh-12c0296f"
       }
     ]
   }
