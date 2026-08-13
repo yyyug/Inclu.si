@@ -25249,5 +25249,590 @@
     "publishedAt": "2026-08-12T13:55:28.000Z",
     "fetchedAt": "2026-08-12T14:20:18.260Z",
     "body": "A teacher expresses outrage that a school serving a predominantly Black community must remove mentions of inclusion to maintain funding.\nTweet source: [Dre (@CoachDre_QB)](https://x.com/CoachDre_QB/status/2087538462836588585)"
+  },
+  {
+    "title": "Waterbury improves 4 city parks to enhance accessibility",
+    "slug": "waterbury-improves-4-city-parks-to-enhance-accessibility-34675dcc",
+    "lang": "en",
+    "summary": "Waterbury is upgrading four municipal parks with features such as accessible pathways, ramps, and inclusive playground equipment to improve access for people with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "park",
+      "accessibility",
+      "inclusive design"
+    ],
+    "sourceName": "Yahoo",
+    "sourceUrl": "https://www.yahoo.com/news/us/articles/waterbury-improving-4-city-parks-211741994.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/waterbury-improving-4-city-parks-211741994.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-34675dcc",
+    "status": "published",
+    "translationOf": "waterbury-improves-4-city-parks-to-enhance-accessibility-zh-34675dcc",
+    "publishedAt": "2026-08-12T21:17:41.000Z",
+    "fetchedAt": "2026-08-13T02:43:55.148Z",
+    "body": "Waterbury is upgrading four municipal parks with features such as accessible pathways, ramps, and inclusive playground equipment to improve access for people with disabilities.\n\nRead more from the original source: [Yahoo](https://www.yahoo.com/news/us/articles/waterbury-improving-4-city-parks-211741994.html)"
+  },
+  {
+    "title": "Birmingham approves nearly $400,000 in accessibility improvements for CrossPlex",
+    "slug": "birmingham-approves-nearly-400000-in-accessibility-improvements-for-crossplex-54caba7b",
+    "lang": "en",
+    "summary": "Birmingham has allocated close to $400,000 to upgrade the CrossPlex facility with accessibility features like wheelchair‑friendly entrances, elevators, and adapted restrooms for persons with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "sports facility",
+      "accessibility funding",
+      "universal design"
+    ],
+    "sourceName": "Yahoo",
+    "sourceUrl": "https://www.yahoo.com/news/us/articles/birmingham-approves-nearly-400-000-174944305.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/birmingham-approves-nearly-400-000-174944305.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-54caba7b",
+    "status": "published",
+    "translationOf": "birmingham-approves-nearly-400000-in-accessibility-improvements-for-crossplex-zh-54caba7b",
+    "publishedAt": "2026-08-12T17:49:44.000Z",
+    "fetchedAt": "2026-08-13T02:43:55.193Z",
+    "body": "Birmingham has allocated close to $400,000 to upgrade the CrossPlex facility with accessibility features like wheelchair‑friendly entrances, elevators, and adapted restrooms for persons with disabilities.\n\nRead more from the original source: [Yahoo](https://www.yahoo.com/news/us/articles/birmingham-approves-nearly-400-000-174944305.html)"
+  },
+  {
+    "title": "EquiCenter receives state funding for accessibility and facility improvements",
+    "slug": "equicenter-receives-state-funding-for-accessibility-and-facility-improvements-47e8ea4e",
+    "lang": "en",
+    "summary": "EquiCenter has been granted state money to improve accessibility at its therapeutic riding center, including accessible mounting ramps, widened trails, and adaptive equipment for riders with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "therapeutic riding",
+      "accessibility grants",
+      "adaptive equipment"
+    ],
+    "sourceName": "WXXI News",
+    "sourceUrl": "https://www.wxxinews.org/local-news/2026-08-12/equicenter-gets-state-money-for-accessibility-and-facility-improvements",
+    "relatedSources": [
+      {
+        "name": "WXXI News",
+        "url": "https://www.wxxinews.org/local-news/2026-08-12/equicenter-gets-state-money-for-accessibility-and-facility-improvements"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-47e8ea4e",
+    "status": "published",
+    "translationOf": "equicenter-receives-state-funding-for-accessibility-and-facility-improvements-zh-47e8ea4e",
+    "publishedAt": "2026-08-12T19:33:00.000Z",
+    "fetchedAt": "2026-08-13T02:43:55.234Z",
+    "body": "EquiCenter has been granted state money to improve accessibility at its therapeutic riding center, including accessible mounting ramps, widened trails, and adaptive equipment for riders with disabilities.\n\nRead more from the original source: [WXXI News](https://www.wxxinews.org/local-news/2026-08-12/equicenter-gets-state-money-for-accessibility-and-facility-improvements)"
+  },
+  {
+    "title": "Conway assesses accessibility of town properties with new report - Greenfield Recorder",
+    "slug": "conway-assesses-accessibility-of-town-properties-with-new-report-greenfield-reco-2342ece8",
+    "lang": "en",
+    "summary": "Conway conducted a report assessing ADA compliance of town properties, identifying barriers and recommending improvements for people with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "ADA",
+      "town properties",
+      "accessibility assessment"
+    ],
+    "sourceName": "Greenfield Recorder",
+    "sourceUrl": "https://recorder.com/2026/08/12/conway-ada-compliance-report",
+    "relatedSources": [
+      {
+        "name": "Greenfield Recorder",
+        "url": "https://recorder.com/2026/08/12/conway-ada-compliance-report"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-2342ece8",
+    "status": "published",
+    "translationOf": "conway-assesses-accessibility-of-town-properties-with-new-report-greenfield-reco-zh-2342ece8",
+    "publishedAt": "2026-08-12T15:34:03.000Z",
+    "fetchedAt": "2026-08-13T02:45:54.846Z",
+    "body": "Conway conducted a report assessing ADA compliance of town properties, identifying barriers and recommending improvements for people with disabilities.\n\nRead more from the original source: [Greenfield Recorder](https://recorder.com/2026/08/12/conway-ada-compliance-report)"
+  },
+  {
+    "title": "Waterbury is improving 4 city parks to enhance quality and accessibility - fox61.com",
+    "slug": "waterbury-is-improving-4-city-parks-to-enhance-quality-and-accessibility-fox61co-89e49d34",
+    "lang": "en",
+    "summary": "Waterbury plans upgrades to four city parks, adding accessible pathways, playground equipment, and facilities to ensure people with disabilities can enjoy the parks.",
+    "category": "physical-design",
+    "tags": [
+      "city parks",
+      "accessible design",
+      "disability inclusion"
+    ],
+    "sourceName": "fox61.com",
+    "sourceUrl": "https://www.fox61.com/article/news/local/new-haven-county/waterbury/waterbury-is-improving-4-city-parks-to-enhance-quality-accessibility/520-b579619b-229f-4849-8ad2-a74fb8a121c1",
+    "relatedSources": [
+      {
+        "name": "fox61.com",
+        "url": "https://www.fox61.com/article/news/local/new-haven-county/waterbury/waterbury-is-improving-4-city-parks-to-enhance-quality-accessibility/520-b579619b-229f-4849-8ad2-a74fb8a121c1"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-89e49d34",
+    "status": "published",
+    "translationOf": "waterbury-is-improving-4-city-parks-to-enhance-quality-and-accessibility-fox61co-zh-89e49d34",
+    "publishedAt": "2026-08-12T21:23:00.000Z",
+    "fetchedAt": "2026-08-13T02:45:54.879Z",
+    "body": "Waterbury plans upgrades to four city parks, adding accessible pathways, playground equipment, and facilities to ensure people with disabilities can enjoy the parks.\n\nRead more from the original source: [fox61.com](https://www.fox61.com/article/news/local/new-haven-county/waterbury/waterbury-is-improving-4-city-parks-to-enhance-quality-accessibility/520-b579619b-229f-4849-8ad2-a74fb8a121c1)"
+  },
+  {
+    "title": "CTA, SacRT complete station upgrades to improve accessibility, rider experience - Mass Transit",
+    "slug": "cta-sacrt-complete-station-upgrades-to-improve-accessibility-rider-experience-ma-951bb9f9",
+    "lang": "en",
+    "summary": "Chicago Transit Authority and Sacramento Regional Transit finished station upgrades, installing elevators, tactile paving, and audible announcements to improve access for passengers with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "transit stations",
+      "elevators",
+      "tactile paving"
+    ],
+    "sourceName": "Mass Transit",
+    "sourceUrl": "https://www.masstransitmag.com/rail/infrastructure/news/55397487/cta-sacrt-complete-station-upgrades-to-improve-accessibility-and-ridder-experience",
+    "relatedSources": [
+      {
+        "name": "Mass Transit",
+        "url": "https://www.masstransitmag.com/rail/infrastructure/news/55397487/cta-sacrt-complete-station-upgrades-to-improve-accessibility-and-ridder-experience"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-951bb9f9",
+    "status": "published",
+    "translationOf": "cta-sacrt-complete-station-upgrades-to-improve-accessibility-rider-experience-ma-zh-951bb9f9",
+    "publishedAt": "2026-08-12T14:30:35.000Z",
+    "fetchedAt": "2026-08-13T02:45:54.917Z",
+    "body": "Chicago Transit Authority and Sacramento Regional Transit finished station upgrades, installing elevators, tactile paving, and audible announcements to improve access for passengers with disabilities.\n\nRead more from the original source: [Mass Transit](https://www.masstransitmag.com/rail/infrastructure/news/55397487/cta-sacrt-complete-station-upgrades-to-improve-accessibility-and-ridder-experience)"
+  },
+  {
+    "title": "Birmingham approves nearly $400,000 in accessibility improvements for CrossPlex and Bill Harris Arena - AL.com",
+    "slug": "birmingham-approves-nearly-400000-in-accessibility-improvements-for-crossplex-an-9be47ca2",
+    "lang": "en",
+    "summary": "Birmingham city council approved nearly $400,000 for accessibility upgrades at CrossPlex and Bill Harris Arena, including ramps, seating, and restroom improvements to better serve people with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "funding",
+      "arena",
+      "ramps",
+      "ADA"
+    ],
+    "sourceName": "AL.com",
+    "sourceUrl": "https://www.al.com/news/birmingham/2026/08/birmingham-approves-nearly-400000-in-accessibility-improvements-for-crossplex.html",
+    "relatedSources": [
+      {
+        "name": "AL.com",
+        "url": "https://www.al.com/news/birmingham/2026/08/birmingham-approves-nearly-400000-in-accessibility-improvements-for-crossplex.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-9be47ca2",
+    "status": "published",
+    "translationOf": "birmingham-approves-nearly-400000-in-accessibility-improvements-for-crossplex-an-zh-9be47ca2",
+    "publishedAt": "2026-08-12T17:48:00.000Z",
+    "fetchedAt": "2026-08-13T02:47:00.027Z",
+    "body": "Birmingham city council approved nearly $400,000 for accessibility upgrades at CrossPlex and Bill Harris Arena, including ramps, seating, and restroom improvements to better serve people with disabilities.\n\nRead more from the original source: [AL.com](https://www.al.com/news/birmingham/2026/08/birmingham-approves-nearly-400000-in-accessibility-improvements-for-crossplex.html)"
+  },
+  {
+    "title": "Report: the Best U.S. Vacation Towns for an Accessible Stay - Travel Agent Central",
+    "slug": "report-the-best-us-vacation-towns-for-an-accessible-stay-travel-agent-central-12c0296f",
+    "lang": "en",
+    "summary": "A report highlights U.S. vacation towns that offer accessible accommodations, attractions, and transportation for travelers with disabilities, ranking the top destinations for inclusive travel.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "accessible travel",
+      "vacation towns",
+      "tourism",
+      "disability friendly"
+    ],
+    "sourceName": "Travel Agent Central",
+    "sourceUrl": "https://www.travelagentcentral.com/your-business/new-upgraded-points-study-reveals-best-us-vacation-towns-accessible-stay",
+    "relatedSources": [
+      {
+        "name": "Travel Agent Central",
+        "url": "https://www.travelagentcentral.com/your-business/new-upgraded-points-study-reveals-best-us-vacation-towns-accessible-stay"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-12c0296f",
+    "status": "published",
+    "translationOf": "report-the-best-us-vacation-towns-for-an-accessible-stay-travel-agent-central-zh-12c0296f",
+    "publishedAt": "2026-08-12T15:30:00.000Z",
+    "fetchedAt": "2026-08-13T02:47:00.074Z",
+    "body": "A report highlights U.S. vacation towns that offer accessible accommodations, attractions, and transportation for travelers with disabilities, ranking the top destinations for inclusive travel.\n\nRead more from the original source: [Travel Agent Central](https://www.travelagentcentral.com/your-business/new-upgraded-points-study-reveals-best-us-vacation-towns-accessible-stay)"
+  },
+  {
+    "title": "KISD unveils ADA accessible playground at French Elementary | Spring - Klein - Community Impact",
+    "slug": "kisd-unveils-ada-accessible-playground-at-french-elementary-spring-klein-communi-832142a8",
+    "lang": "en",
+    "summary": "The Klein Independent School District opened a new ADA-compliant playground at French Elementary, featuring wheelchair-accessible equipment, sensory play areas, and safety surfacing to support children with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "ADA",
+      "playground",
+      "school",
+      "inclusive design"
+    ],
+    "sourceName": "Community Impact",
+    "sourceUrl": "https://communityimpact.com/spring-klein/education/kisd-unveils-ada-accessible-playground-at-french-elementary",
+    "relatedSources": [
+      {
+        "name": "Community Impact",
+        "url": "https://communityimpact.com/spring-klein/education/kisd-unveils-ada-accessible-playground-at-french-elementary"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-832142a8",
+    "status": "published",
+    "translationOf": "kisd-unveils-ada-accessible-playground-at-french-elementary-spring-klein-communi-zh-832142a8",
+    "publishedAt": "2026-08-12T21:48:38.000Z",
+    "fetchedAt": "2026-08-13T02:47:00.111Z",
+    "body": "The Klein Independent School District opened a new ADA-compliant playground at French Elementary, featuring wheelchair-accessible equipment, sensory play areas, and safety surfacing to support children with disabilities.\n\nRead more from the original source: [Community Impact](https://communityimpact.com/spring-klein/education/kisd-unveils-ada-accessible-playground-at-french-elementary)"
+  },
+  {
+    "title": "Nationwide Leads Industry Initiative to Boost Accessibility for Communication Difficulties",
+    "slug": "nationwide-leads-industry-initiative-to-boost-accessibility-for-communication-di-23d4105a",
+    "lang": "en",
+    "summary": "Nationwide is leading an industry initiative aimed at improving accessibility for individuals with communication difficulties.",
+    "category": "assistive-tech",
+    "tags": [
+      "communication",
+      "accessibility",
+      "industry initiative"
+    ],
+    "sourceName": "FF News",
+    "sourceUrl": "https://ffnews.com/news/nationwide-leads-industry-wide-effort-to-improve-accessibility-for-people-with-c-cc2c823f",
+    "relatedSources": [
+      {
+        "name": "FF News",
+        "url": "https://ffnews.com/news/nationwide-leads-industry-wide-effort-to-improve-accessibility-for-people-with-c-cc2c823f"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-23d4105a",
+    "status": "published",
+    "translationOf": "nationwide-leads-industry-initiative-to-boost-accessibility-for-communication-di-zh-23d4105a",
+    "publishedAt": "2026-08-12T20:11:06.000Z",
+    "fetchedAt": "2026-08-13T02:48:10.218Z",
+    "body": "Nationwide is leading an industry initiative aimed at improving accessibility for individuals with communication difficulties.\n\nRead more from the original source: [FF News](https://ffnews.com/news/nationwide-leads-industry-wide-effort-to-improve-accessibility-for-people-with-c-cc2c823f)"
+  },
+  {
+    "title": "Webbers Falls approves accessibility improvements, more streetlights",
+    "slug": "webbers-falls-approves-accessibility-improvements-more-streetlights-835cc36f",
+    "lang": "en",
+    "summary": "Webbers Falls has approved accessibility improvements, including the installation of additional streetlights.",
+    "category": "physical-design",
+    "tags": [
+      "streetlights",
+      "accessibility improvements",
+      "municipal"
+    ],
+    "sourceName": "Sequoyah County Times",
+    "sourceUrl": "https://www.sequoyahcountytimes.com/article/6777,webbers-falls-approves-accessibility-improvements-more-streetlights",
+    "relatedSources": [
+      {
+        "name": "Sequoyah County Times",
+        "url": "https://www.sequoyahcountytimes.com/article/6777,webbers-falls-approves-accessibility-improvements-more-streetlights"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-835cc36f",
+    "status": "published",
+    "translationOf": "webbers-falls-approves-accessibility-improvements-more-streetlights-zh-835cc36f",
+    "publishedAt": "2026-08-12T11:00:00.000Z",
+    "fetchedAt": "2026-08-13T02:48:10.256Z",
+    "body": "Webbers Falls has approved accessibility improvements, including the installation of additional streetlights.\n\nRead more from the original source: [Sequoyah County Times](https://www.sequoyahcountytimes.com/article/6777,webbers-falls-approves-accessibility-improvements-more-streetlights)"
+  },
+  {
+    "title": "You and Me (and Whoever Comes Next) review – theatre crafted with love and care",
+    "slug": "you-and-me-and-whoever-comes-next-review-theatre-crafted-with-love-and-care-4b51c3f6",
+    "lang": "en",
+    "summary": "The review highlights a theatre piece inspired by disabled actor Keron Day, exploring his experiences with personal assistants and themes of disability, care, and relationships.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "theatre",
+      "disability",
+      "personal assistants",
+      "review"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/stage/2026/aug/12/you-and-me-and-whoever-comes-next-review-summerhall-edinburgh",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/stage/2026/aug/12/you-and-me-and-whoever-comes-next-review-summerhall-edinburgh"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-4b51c3f6",
+    "status": "published",
+    "translationOf": "you-and-me-and-whoever-comes-next-review-theatre-crafted-with-love-and-care-zh-4b51c3f6",
+    "publishedAt": "2026-08-12T15:08:14.000Z",
+    "fetchedAt": "2026-08-13T02:48:10.294Z",
+    "body": "The review highlights a theatre piece inspired by disabled actor Keron Day, exploring his experiences with personal assistants and themes of disability, care, and relationships.\n\nRead more from the original source: [Unknown source](https://www.theguardian.com/stage/2026/aug/12/you-and-me-and-whoever-comes-next-review-summerhall-edinburgh)"
+  },
+  {
+    "title": "JVNDB-2026-027771: Eclipse Foundation等の複数ベンダの製品におけるXML 外部エンティティの��弱性",
+    "slug": "jvndb-2026-027771-eclipse-foundationxml-8284c771",
+    "lang": "en",
+    "summary": "A XML External Entity (XXE) vulnerability was found in the Eclipse Accessibility Tools Framework (ACTF) up to version 1.6.0, including source code version v20260630 and ACTF-based application miChecker up to version 3.1.0. Exploitation could allow attackers to access local files or perform SSRF attacks.",
+    "category": "assistive-tech",
+    "tags": [
+      "XXE",
+      "Eclipse",
+      "ACTF",
+      "vulnerability"
+    ],
+    "sourceName": "Jpcert.or.jp",
+    "sourceUrl": "http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2026-027771_AD_1.html",
+    "relatedSources": [
+      {
+        "name": "Jpcert.or.jp",
+        "url": "http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2026-027771_AD_1.html"
+      }
+    ],
+    "sourceCountry": "JP",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-8284c771",
+    "status": "published",
+    "translationOf": "jvndb-2026-027771-eclipse-foundationxml-zh-8284c771",
+    "publishedAt": "2026-08-12T02:07:09.000Z",
+    "fetchedAt": "2026-08-13T02:49:45.118Z",
+    "body": "A XML External Entity (XXE) vulnerability was found in the Eclipse Accessibility Tools Framework (ACTF) up to version 1.6.0, including source code version v20260630 and ACTF-based application miChecker up to version 3.1.0. Exploitation could allow attackers to access local files or perform SSRF attacks.\n\nRead more from the original source: [Jpcert.or.jp](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2026-027771_AD_1.html)"
+  },
+  {
+    "title": "Ebonyi Central needs inclusive governance, not politics of exclusion — Senatorial aspirant",
+    "slug": "ebonyi-central-needs-inclusive-governance-not-politics-of-exclusion-senatorial-a-6086a9eb",
+    "lang": "en",
+    "summary": "Senatorial aspirant Prof. Benard Odoh calls for Ebonyi Central to adopt inclusive governance that ensures accessibility for persons with disabilities, rejecting politics of exclusion ahead of the 2027 National Assembly elections.",
+    "category": "laws-rights",
+    "tags": [
+      "inclusive governance",
+      "Nigeria",
+      "disability rights"
+    ],
+    "sourceName": "The Punch",
+    "sourceUrl": "https://punchng.com/ebonyi-central-needs-inclusive-governance-not-politics-of-exclusion-senatorial-aspirant",
+    "relatedSources": [
+      {
+        "name": "The Punch",
+        "url": "https://punchng.com/ebonyi-central-needs-inclusive-governance-not-politics-of-exclusion-senatorial-aspirant"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-6086a9eb",
+    "status": "published",
+    "translationOf": "ebonyi-central-needs-inclusive-governance-not-politics-of-exclusion-senatorial-a-zh-6086a9eb",
+    "publishedAt": "2026-08-12T00:24:34.000Z",
+    "fetchedAt": "2026-08-13T02:49:45.160Z",
+    "body": "Senatorial aspirant Prof. Benard Odoh calls for Ebonyi Central to adopt inclusive governance that ensures accessibility for persons with disabilities, rejecting politics of exclusion ahead of the 2027 National Assembly elections.\n\nRead more from the original source: [The Punch](https://punchng.com/ebonyi-central-needs-inclusive-governance-not-politics-of-exclusion-senatorial-aspirant)"
+  },
+  {
+    "title": "Cold Symmetry Previews Unique Mortal Shell 2 Difficulty Settings",
+    "slug": "cold-symmetry-previews-unique-mortal-shell-2-difficulty-settings-a0e6e67b",
+    "lang": "en",
+    "summary": "Cold Symmetry reveals upcoming difficulty and accessibility settings for Mortal Shell 2, offering customizable options to accommodate players with diverse abilities, bucking the trend of Souls-like games that often neglect accessibility.",
+    "category": "digital-a11y",
+    "tags": [
+      "game accessibility",
+      "difficulty settings",
+      "Mortal Shell 2"
+    ],
+    "sourceName": "Techpowerup.com",
+    "sourceUrl": "https://www.techpowerup.com/351531/cold-symmetry-previews-unique-mortal-shell-2-difficulty-settings",
+    "relatedSources": [
+      {
+        "name": "Techpowerup.com",
+        "url": "https://www.techpowerup.com/351531/cold-symmetry-previews-unique-mortal-shell-2-difficulty-settings"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-a0e6e67b",
+    "status": "published",
+    "translationOf": "cold-symmetry-previews-unique-mortal-shell-2-difficulty-settings-zh-a0e6e67b",
+    "publishedAt": "2026-08-11T21:58:58.000Z",
+    "fetchedAt": "2026-08-13T02:49:45.198Z",
+    "body": "Cold Symmetry reveals upcoming difficulty and accessibility settings for Mortal Shell 2, offering customizable options to accommodate players with diverse abilities, bucking the trend of Souls-like games that often neglect accessibility.\n\nRead more from the original source: [Techpowerup.com](https://www.techpowerup.com/351531/cold-symmetry-previews-unique-mortal-shell-2-difficulty-settings)"
+  },
+  {
+    "title": "Yunlin County Opens New All-Age Inclusive Playground Under Highway 78 Bridge",
+    "slug": "yunlin-county-opens-new-all-age-inclusive-playground-under-highway-78-bridge-192f39d1",
+    "lang": "en",
+    "summary": "The Yunlin County government, in collaboration with Dounan Township Office, invested NT$86 million to transform the space beneath the east-west elevated highway of Route 78 into an all-age inclusive playground themed around local railway culture. Features include large sugar-cane train play equipment, sand pits, swings, a balance-bike practice area, traffic-training zone, and accessible play and fitness facilities suitable for ages 0 to 100.",
+    "category": "physical-design",
+    "tags": [
+      "playground",
+      "inclusive design",
+      "physical accessibility",
+      "universal design"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E9%9B%B2%E6%9E%97%E5%8F%88%E6%9C%89%E6%96%B0%E9%81%8A%E6%A8%82%E5%A0%B4-%E5%8F%B078%E6%A9%8B%E4%B8%8B%E8%AE%8A%E8%BA%AB-%E7%B3%96%E9%90%B5%E6%A8%82%E5%9C%92-0%E6%AD%B2%E5%88%B0%E7%99%BE%E6%AD%B2%E9%83%BD%E8%83%BD%E7%8E%A9-005943038.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E9%9B%B2%E6%9E%97%E5%8F%88%E6%9C%89%E6%96%B0%E9%81%8A%E6%A8%82%E5%A0%B4-%E5%8F%B078%E6%A9%8B%E4%B8%8B%E8%AE%8A%E8%BA%AB-%E7%B3%96%E9%90%B5%E6%A8%82%E5%9C%92-0%E6%AD%B2%E5%88%B0%E7%99%BE%E6%AD%B2%E9%83%BD%E8%83%BD%E7%8E%A9-005943038.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-192f39d1",
+    "status": "published",
+    "translationOf": "yunlin-county-opens-new-all-age-inclusive-playground-under-highway-78-bridge-zh-192f39d1",
+    "publishedAt": "2026-08-12T00:59:43.000Z",
+    "fetchedAt": "2026-08-13T02:51:44.523Z",
+    "body": "The Yunlin County government, in collaboration with Dounan Township Office, invested NT$86 million to transform the space beneath the east-west elevated highway of Route 78 into an all-age inclusive playground themed around local railway culture. Features include large sugar-cane train play equipment, sand pits, swings, a balance-bike practice area, traffic-training zone, and accessible play and fitness facilities suitable for ages 0 to 100.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E9%9B%B2%E6%9E%97%E5%8F%88%E6%9C%89%E6%96%B0%E9%81%8A%E6%A8%82%E5%A0%B4-%E5%8F%B078%E6%A9%8B%E4%B8%8B%E8%AE%8A%E8%BA%AB-%E7%B3%96%E9%90%B5%E6%A8%82%E5%9C%92-0%E6%AD%B2%E5%88%B0%E7%99%BE%E6%AD%B2%E9%83%BD%E8%83%BD%E7%8E%A9-005943038.html)"
+  },
+  {
+    "title": "Yilan County Launches Subsidy Program to Renovate Old Homes with Accessibility Upgrades",
+    "slug": "yilan-county-launches-subsidy-program-to-renovate-old-homes-with-accessibility-u-362e0ed3",
+    "lang": "en",
+    "summary": "Yilan County government is implementing the central 'Old House Longevity Functional Renewal' plan, offering subsidies up to 65% for residential buildings over 30 years old. The program funds improvements such as pipeline updates, facade repairs, roof waterproofing and insulation, and the installation of accessible facilities, aiming to enhance safety, comfort, and overall living quality.",
+    "category": "physical-design",
+    "tags": [
+      "housing renovation",
+      "accessibility subsidies",
+      "barrier-free facilities",
+      "elderly-friendly"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6f288930-0ef4-4cca-b6fe-eafed297d28c",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6f288930-0ef4-4cca-b6fe-eafed297d28c"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-362e0ed3",
+    "status": "published",
+    "translationOf": "yilan-county-launches-subsidy-program-to-renovate-old-homes-with-accessibility-u-zh-362e0ed3",
+    "publishedAt": "2026-08-11T22:00:00.000Z",
+    "fetchedAt": "2026-08-13T02:51:44.563Z",
+    "body": "Yilan County government is implementing the central 'Old House Longevity Functional Renewal' plan, offering subsidies up to 65% for residential buildings over 30 years old. The program funds improvements such as pipeline updates, facade repairs, roof waterproofing and insulation, and the installation of accessible facilities, aiming to enhance safety, comfort, and overall living quality.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6f288930-0ef4-4cca-b6fe-eafed297d28c)"
+  },
+  {
+    "title": "Taoyuan City Councilor Urges Addition of Medium-Large Accessible Vehicles to Rehab Bus Fleet",
+    "slug": "taoyuan-city-councilor-urges-addition-of-medium-large-accessible-vehicles-to-reh-64b42aea",
+    "lang": "en",
+    "summary": "As Taoyuan City's rehabilitation bus fleet approaches 200 vehicles, councilor Chen Wei-ye calls for the inclusion of medium-sized and large accessible buses to alleviate the 'one-vehicle-hard-to-find' situation and improve diversified, accessible transport for people with disabilities.",
+    "category": "assistive-tech",
+    "tags": [
+      "rehabilitation bus",
+      "accessible transportation",
+      "assistive technology",
+      "public transit"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%BE%A9%E5%BA%B7%E5%B7%B4%E5%A3%AB%E5%A2%9E%E8%BB%8A%E6%9B%B4%E8%A6%81%E5%A4%9A%E5%85%83-%E5%B8%82%E8%AD%B0%E5%93%A1%E9%99%B3%E9%9F%8B%E7%9E%B1%E4%BF%83%E7%B4%8D%E4%B8%AD%E5%A4%A7%E5%9E%8B%E7%84%A1%E9%9A%9C%E7%A4%99%E8%BB%8A-163913527.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E5%BE%A9%E5%BA%B7%E5%B7%B4%E5%A3%AB%E5%A2%9E%E8%BB%8A%E6%9B%B4%E8%A6%81%E5%A4%9A%E5%85%83-%E5%B8%82%E8%AD%B0%E5%93%A1%E9%99%B3%E9%9F%8B%E7%9E%B1%E4%BF%83%E7%B4%8D%E4%B8%AD%E5%A4%A7%E5%9E%8B%E7%84%A1%E9%9A%9C%E7%A4%99%E8%BB%8A-163913527.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-64b42aea",
+    "status": "published",
+    "translationOf": "taoyuan-city-councilor-urges-addition-of-medium-large-accessible-vehicles-to-reh-zh-64b42aea",
+    "publishedAt": "2026-08-11T16:39:13.000Z",
+    "fetchedAt": "2026-08-13T02:51:44.601Z",
+    "body": "As Taoyuan City's rehabilitation bus fleet approaches 200 vehicles, councilor Chen Wei-ye calls for the inclusion of medium-sized and large accessible buses to alleviate the 'one-vehicle-hard-to-find' situation and improve diversified, accessible transport for people with disabilities.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%BE%A9%E5%BA%B7%E5%B7%B4%E5%A3%AB%E5%A2%9E%E8%BB%8A%E6%9B%B4%E8%A6%81%E5%A4%9A%E5%85%83-%E5%B8%82%E8%AD%B0%E5%93%A1%E9%99%B3%E9%9F%8B%E7%9E%B1%E4%BF%83%E7%B4%8D%E4%B8%AD%E5%A4%A7%E5%9E%8B%E7%84%A1%E9%9A%9C%E7%A4%99%E8%BB%8A-163913527.html)"
   }
 ]
