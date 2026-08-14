@@ -1,55 +1,59 @@
 {
-  "date": "2026-08-13",
-  "generatedAt": "2026-08-13T03:13:21.195Z",
+  "date": "2026-08-14",
+  "generatedAt": "2026-08-14T03:11:08.643Z",
   "en": {
-    "title": "EDF Launches Youth Disability Rights Manifesto; Global Accessibility Updates Follow",
-    "summary": "EDF launched a manifesto on International Youth Day 2026 calling for rights of young persons with disabilities. Meanwhile, Google Pixel 11 introduced AI sign-language translation, Nationwide launched an industry initiative for communication accessibility, and CTA/SacRT completed station upgrades. A report highlighted top U.S. vacation towns offering accessible stays for travelers with disabilities.",
+    "title": "New Zealand Updates Disability Support Bill; Global Accessibility Advances Highlighted",
+    "summary": "New Zealand's Social Services and Community Select Committee approved amendments to the Disability Support Services Bill, incorporating feedback from disabled persons and advocacy groups. Concurrently, the U.S. ADA expansion introduced new accessibility requirements for federal government websites, while RightHear launched assistive tech in Hamilton County parks. Ileana Rodriguez advised LA28 on accessibility redesign, and an accessibility report for Call of the Sea detailed 24 features.",
     "highlights": [
       {
-        "title": "Launch of EDF Manifesto on the Rights of Young Persons with Disabilities",
-        "slug": "launch-of-edf-manifesto-on-the-rights-of-young-persons-with-disabilities-d915d403"
+        "title": "New Zealand Select Committee modifies Disability Support Services Bill",
+        "slug": "new-zealand-select-committee-modifies-disability-support-services-bill-ff317e40"
       },
       {
-        "title": "Google Pixel 11 Introduces AI Sign Language Translation",
-        "slug": "google-pixel-11-introduces-ai-sign-language-translation-5aa42d2f"
+        "title": "ADA expansion brings new accessibility requirements to government websites - Idaho News 6",
+        "slug": "ada-expansion-brings-new-accessibility-requirements-to-government-websites-idaho-049ecbef"
       },
       {
-        "title": "Nationwide Leads Industry Initiative to Boost Accessibility for Communication Difficulties",
-        "slug": "nationwide-leads-industry-initiative-to-boost-accessibility-for-communication-di-23d4105a"
+        "title": "RightHear Technology expands outdoor accessibility at Hamilton County parks",
+        "slug": "righthear-technology-expands-outdoor-accessibility-at-hamilton-county-parks-b1ee74e9"
       },
       {
-        "title": "CTA, SacRT complete station upgrades to improve accessibility, rider experience - Mass Transit",
-        "slug": "cta-sacrt-complete-station-upgrades-to-improve-accessibility-rider-experience-ma-951bb9f9"
+        "title": "Ileana Rodriguez Is Helping LA28 Rethink Accessibility - Forbes",
+        "slug": "ileana-rodriguez-is-helping-la28-rethink-accessibility-forbes-b1f48c5c"
       },
       {
-        "title": "Report: the Best U.S. Vacation Towns for an Accessible Stay - Travel Agent Central",
-        "slug": "report-the-best-us-vacation-towns-for-an-accessible-stay-travel-agent-central-12c0296f"
+        "title": "Accessibility Report for Call of the Sea",
+        "slug": "accessibility-report-for-call-of-the-sea-5f4d4caa"
       }
     ]
   },
   "zh-TW": {
-    "title": "歐洲 �����人 ����� 發布 青年 �����人 ��利 宣言 全球",
-    "summary": "歐洲����人論��於國際青年日發布《青年����人權利宣言》，呼��建構公平可及的社會並保��青年����人士的權利。同時，Google Pixel 11 加入 AI 手語翻��功能，Nationwide ��動��通無������業��議，CTA �� SacRT 完成車站無����升級。一份報告指出美國多個適合����旅客的度假城��，提供無����住宿與交通資��。",
+    "title": "新西蘭 ����� ��援 法案 修�� 全球 無���� ��態",
+    "summary": "新西蘭社會服務與社區選修委員會通過����支援服務法案修��，納入����人士與��議團體的意見。同時，美國ADA��張為聯邦政府網站帶來新無����要求，RightHear技術在��密爾頓縣公園部署以協助視��導��。Ileana Rodriguez協助LA28重新思考無����設計，《Call of the Sea》無����報告列出24項功能，此外尚有關於日本越南����人士的Twitter��論。",
     "highlights": [
       {
-        "title": "歐洲����論��發布《青年����人士權利宣言》",
-        "slug": "launch-of-edf-manifesto-on-the-rights-of-young-persons-with-disabilities-zh-d915d403"
+        "title": "新西蘭社會服務與社區選��委員會修������支援服務法案",
+        "slug": "new-zealand-select-committee-modifies-disability-support-services-bill-zh-ff317e40"
       },
       {
-        "title": "Google Pixel 11 ��出人工智��手語翻��功能",
-        "slug": "google-pixel-11-introduces-ai-sign-language-translation-zh-5aa42d2f"
+        "title": "ADA ���展為政府網站帶來新的無����要求 - Idaho News 6",
+        "slug": "ada-expansion-brings-new-accessibility-requirements-to-government-websites-idaho-zh-049ecbef"
       },
       {
-        "title": "全国领导行业��议以提升��通困难人士的可及性",
-        "slug": "nationwide-leads-industry-initiative-to-boost-accessibility-for-communication-di-zh-23d4105a"
+        "title": "RightHear ��術��展 Hamilton County 公園的��外無����設施",
+        "slug": "righthear-technology-expands-outdoor-accessibility-at-hamilton-county-parks-zh-b1ee74e9"
       },
       {
-        "title": "CTA、SacRT完成車站升級以提升無����與��客體�� - Mass Transit",
-        "slug": "cta-sacrt-complete-station-upgrades-to-improve-accessibility-rider-experience-ma-zh-951bb9f9"
+        "title": "Ileana Rodriguez 正協助 LA28 重新思考無���� - Forbes",
+        "slug": "ileana-rodriguez-is-helping-la28-rethink-accessibility-forbes-zh-b1f48c5c"
       },
       {
-        "title": "報告：美國最適合無����住宿的度假城��",
-        "slug": "report-the-best-us-vacation-towns-for-an-accessible-stay-travel-agent-central-zh-12c0296f"
+        "title": "《Call of the Sea》可存取性報告",
+        "slug": "accessibility-report-for-call-of-the-sea-zh-5f4d4caa"
+      },
+      {
+        "title": "關於在日本生活的越南����人士的��論",
+        "slug": "discussion-on-vietnamese-people-with-disabilities-in-japan-zh-7baee924"
       }
     ]
   }
