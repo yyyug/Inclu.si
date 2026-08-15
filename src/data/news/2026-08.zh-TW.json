@@ -30742,5 +30742,502 @@
     "publishedAt": "2026-08-13T21:03:21.000Z",
     "fetchedAt": "2026-08-15T01:51:07.651Z",
     "body": "PDFix SDK 命令列工具 9.2.0 版提供 PDF 無障礙、修復、擷取、轉換、渲染與自動化功能，協助數位無障礙工作流程。\n\n原文來源： [Pypi.org](https://pypi.org/project/pdfix-cli/9.2.0)"
+  },
+  {
+    "title": "普渡大學推出新無障礙應用程式，可將手寫文字轉換為符合規範的HTML",
+    "slug": "purdue-launches-new-accessibility-app-that-converts-handwritten-text-to-complian-zh-fed2280c",
+    "lang": "zh-TW",
+    "summary": "普渡大學推出新無障礙應用程式，可將手寫文字轉換為符合規範的HTML",
+    "category": "digital-a11y",
+    "tags": [
+      "handwriting recognition",
+      "HTML compliance",
+      "accessibility app"
+    ],
+    "sourceName": "Purdue University",
+    "sourceUrl": "https://www.purdue.edu/online/purdue-launches-new-accessibility-app-that-converts-handwritten-text-to-compliant-html",
+    "relatedSources": [
+      {
+        "name": "Purdue University",
+        "url": "https://www.purdue.edu/online/purdue-launches-new-accessibility-app-that-converts-handwritten-text-to-compliant-html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-fed2280c",
+    "status": "published",
+    "translationOf": "purdue-launches-new-accessibility-app-that-converts-handwritten-text-to-complian-fed2280c",
+    "publishedAt": "2026-08-14T16:29:49.000Z",
+    "fetchedAt": "2026-08-15T12:56:49.066Z",
+    "body": "普渡大學推出新無障礙應用程式，可將手寫文字轉換為符合規範的HTML\n\n原文來源： [Purdue University](https://www.purdue.edu/online/purdue-launches-new-accessibility-app-that-converts-handwritten-text-to-compliant-html)"
+  },
+  {
+    "title": "「他們只是忽視我」：為人行道坡道的15年鬥爭凸顯El Centro的無障礙差距",
+    "slug": "they-just-ignore-me-15-year-fight-for-sidewalk-ramps-highlights-accessibility-di-zh-0fcb79be",
+    "lang": "zh-TW",
+    "summary": "「他們只是忽視我」：為人行道坡道的15年鬥爭凸顯El Centro的無障礙差距",
+    "category": "physical-design",
+    "tags": [
+      "sidewalk ramps",
+      "mobility accessibility",
+      "El Centro",
+      "advocacy"
+    ],
+    "sourceName": "Imperial Valley Press Online",
+    "sourceUrl": "https://www.ivpressonline.com/news/they-just-ignore-me-15-year-fight-for-sidewalk-ramps-highlights-accessibility-divide-in-el/article_3a612fed-c163-4132-8bdd-5d364c7d116a.html",
+    "relatedSources": [
+      {
+        "name": "Imperial Valley Press Online",
+        "url": "https://www.ivpressonline.com/news/they-just-ignore-me-15-year-fight-for-sidewalk-ramps-highlights-accessibility-divide-in-el/article_3a612fed-c163-4132-8bdd-5d364c7d116a.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-0fcb79be",
+    "status": "published",
+    "translationOf": "they-just-ignore-me-15-year-fight-for-sidewalk-ramps-highlights-accessibility-di-0fcb79be",
+    "publishedAt": "2026-08-15T07:00:00.000Z",
+    "fetchedAt": "2026-08-15T12:56:49.124Z",
+    "body": "「他們只是忽視我」：為人行道坡道的15年鬥爭凸顯El Centro的無障礙差距\n\n原文來源： [Imperial Valley Press Online](https://www.ivpressonline.com/news/they-just-ignore-me-15-year-fight-for-sidewalk-ramps-highlights-accessibility-divide-in-el/article_3a612fed-c163-4132-8bdd-5d364c7d116a.html)"
+  },
+  {
+    "title": "網頁無障礙的投資回報率：數據顯示什麼",
+    "slug": "the-roi-of-web-accessibility-what-the-data-shows-zh-3ae10ca0",
+    "lang": "zh-TW",
+    "summary": "網頁無障礙的投資回報率：數據顯示什麼",
+    "category": "digital-a11y",
+    "tags": [
+      "web accessibility",
+      "ROI",
+      "data analysis"
+    ],
+    "sourceName": "InsideNoVa.com",
+    "sourceUrl": "https://www.insidenova.com/the-roi-of-web-accessibility-what-the-data-shows/article_a56ede8a-ed8c-5378-be61-fde067a2fd10.html",
+    "relatedSources": [
+      {
+        "name": "InsideNoVa.com",
+        "url": "https://www.insidenova.com/the-roi-of-web-accessibility-what-the-data-shows/article_a56ede8a-ed8c-5378-be61-fde067a2fd10.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3ae10ca0",
+    "status": "published",
+    "translationOf": "the-roi-of-web-accessibility-what-the-data-shows-3ae10ca0",
+    "publishedAt": "2026-08-14T16:45:05.000Z",
+    "fetchedAt": "2026-08-15T12:56:49.161Z",
+    "body": "網頁無障礙的投資回報率：數據顯示什麼\n\n原文來源： [InsideNoVa.com](https://www.insidenova.com/the-roi-of-web-accessibility-what-the-data-shows/article_a56ede8a-ed8c-5378-be61-fde067a2fd10.html)"
+  },
+  {
+    "title": "一張40加元的停車票如何引發魁北克的無障礙爭取戰",
+    "slug": "how-a-40-parking-ticket-became-a-fight-for-accessibility-in-quebec-zh-d65f3107",
+    "lang": "zh-TW",
+    "summary": "一位魁北克居民因一張40加元的停車票提出異議，此事件引發了對殘障人士在公共停車和交通設施無障礙改善的更廣泛倡導。",
+    "category": "laws-rights",
+    "tags": [
+      "parking",
+      "Quebec",
+      "disability rights",
+      "advocacy"
+    ],
+    "sourceName": "CBC",
+    "sourceUrl": "https://www.cbc.ca/news/canada/montreal/rouyn-noranda-accessibility-parking-ticket-9.7305407",
+    "relatedSources": [
+      {
+        "name": "CBC",
+        "url": "https://www.cbc.ca/news/canada/montreal/rouyn-noranda-accessibility-parking-ticket-9.7305407"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-d65f3107",
+    "status": "published",
+    "translationOf": "how-a-40-parking-ticket-became-a-fight-for-accessibility-in-quebec-d65f3107",
+    "publishedAt": "2026-08-15T08:00:00.000Z",
+    "fetchedAt": "2026-08-15T12:57:28.907Z",
+    "body": "一位魁北克居民因一張40加元的停車票提出異議，此事件引發了對殘障人士在公共停車和交通設施無障礙改善的更廣泛倡導。\n\n原文來源： [CBC](https://www.cbc.ca/news/canada/montreal/rouyn-noranda-accessibility-parking-ticket-9.7305407)"
+  },
+  {
+    "title": "無障礙不是恩惠",
+    "slug": "accessibility-is-not-a-favour-zh-58787ff5",
+    "lang": "zh-TW",
+    "summary": "此觀點文章主張，無障礙應該被視為一項權利而非慈善的恩惠，強調在百慕大實施包容性設計和政策的必要性。",
+    "category": "laws-rights",
+    "tags": [
+      "opinion",
+      "accessibility",
+      "Bermuda",
+      "disability rights"
+    ],
+    "sourceName": "Royal Gazette | Bermuda",
+    "sourceUrl": "https://www.royalgazette.com/letters-to-the-editor/opinion/article/20260815/accessibility-is-not-a-favour",
+    "relatedSources": [
+      {
+        "name": "Royal Gazette | Bermuda",
+        "url": "https://www.royalgazette.com/letters-to-the-editor/opinion/article/20260815/accessibility-is-not-a-favour"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-58787ff5",
+    "status": "published",
+    "translationOf": "accessibility-is-not-a-favour-58787ff5",
+    "publishedAt": "2026-08-15T10:47:00.000Z",
+    "fetchedAt": "2026-08-15T12:57:28.955Z",
+    "body": "此觀點文章主張，無障礙應該被視為一項權利而非慈善的恩惠，強調在百慕大實施包容性設計和政策的必要性。\n\n原文來源： [Royal Gazette | Bermuda](https://www.royalgazette.com/letters-to-the-editor/opinion/article/20260815/accessibility-is-not-a-favour)"
+  },
+  {
+    "title": "腦麻大專生搭遊艇看海、進航空館 中華腦麻夏令營把無障礙寫進南台灣行程",
+    "slug": "cerebral-palsy-college-students-enjoy-yacht-trip-and-aviation-museum-as-cerebral-zh-67e7f14b",
+    "lang": "zh-TW",
+    "summary": "腦麻大專生搭遊艇看海、進航空館 中華腦麻夏令營把無障礙寫進南台灣行程",
+    "category": "lifestyle-culture",
+    "tags": [
+      "cerebral palsy",
+      "accessibility",
+      "summer camp",
+      "yacht",
+      "aviation museum",
+      "southern Taiwan"
+    ],
+    "sourceName": "蕃新聞",
+    "sourceUrl": "https://n.yam.com/Article/20260815125374",
+    "relatedSources": [
+      {
+        "name": "蕃新聞",
+        "url": "https://n.yam.com/Article/20260815125374"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-67e7f14b",
+    "status": "published",
+    "translationOf": "cerebral-palsy-college-students-enjoy-yacht-trip-and-aviation-museum-as-cerebral-67e7f14b",
+    "publishedAt": "2026-08-15T11:44:00.000Z",
+    "fetchedAt": "2026-08-15T12:57:55.450Z",
+    "body": "腦麻大專生搭遊艇看海、進航空館 中華腦麻夏令營把無障礙寫進南台灣行程\n\n原文來源： [蕃新聞](https://n.yam.com/Article/20260815125374)"
+  },
+  {
+    "title": "勞工局推展職業重建結合徵才活動 力挺身心障礙者發揮潛能看見未來",
+    "slug": "labor-bureau-promotes-vocational-rehabilitation-combined-with-job-fair-to-suppor-zh-b3fd4d12",
+    "lang": "zh-TW",
+    "summary": "勞工局推展職業重建結合徵才活動 力挺身心障礙者發揮潛能看見未來",
+    "category": "laws-rights",
+    "tags": [
+      "labor bureau",
+      "vocational rehabilitation",
+      "job fair",
+      "disability employment",
+      "rights"
+    ],
+    "sourceName": "蕃新聞",
+    "sourceUrl": "https://n.yam.com/Article/20260815728169",
+    "relatedSources": [
+      {
+        "name": "蕃新聞",
+        "url": "https://n.yam.com/Article/20260815728169"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-b3fd4d12",
+    "status": "published",
+    "translationOf": "labor-bureau-promotes-vocational-rehabilitation-combined-with-job-fair-to-suppor-b3fd4d12",
+    "publishedAt": "2026-08-15T11:19:00.000Z",
+    "fetchedAt": "2026-08-15T12:57:55.505Z",
+    "body": "勞工局推展職業重建結合徵才活動 力挺身心障礙者發揮潛能看見未來\n\n原文來源： [蕃新聞](https://n.yam.com/Article/20260815728169)"
+  },
+  {
+    "title": "告別陡階梯汐止區基隆河步道無障礙斜坡完工| 2026九合一選舉",
+    "slug": "steep-stairs-eliminated-accessible-slope-completed-on-keelung-river-trail-in-xiz-zh-39666868",
+    "lang": "zh-TW",
+    "summary": "告別陡階梯汐止區基隆河步道無障礙斜坡完工| 2026九合一選舉",
+    "category": "physical-design",
+    "tags": [
+      "accessible slope",
+      "Keelung River trail",
+      "Xizhi",
+      "barrier‑free",
+      "urban infrastructure"
+    ],
+    "sourceName": "UDN",
+    "sourceUrl": "https://udn.com/vote2026/story/7323/9692147",
+    "relatedSources": [
+      {
+        "name": "UDN",
+        "url": "https://udn.com/vote2026/story/7323/9692147"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-39666868",
+    "status": "published",
+    "translationOf": "steep-stairs-eliminated-accessible-slope-completed-on-keelung-river-trail-in-xiz-39666868",
+    "publishedAt": "2026-08-14T10:24:07.000Z",
+    "fetchedAt": "2026-08-15T12:57:55.550Z",
+    "body": "告別陡階梯汐止區基隆河步道無障礙斜坡完工| 2026九合一選舉\n\n原文來源： [UDN](https://udn.com/vote2026/story/7323/9692147)"
+  },
+  {
+    "title": "腦麻大專生搭遊艇看海、進航空館 中華腦麻夏令營把無障礙寫進南台灣行程",
+    "slug": "cerebral-palsy-college-students-enjoy-yacht-trip-and-aviation-museum-as-summer-c-zh-e4ef1ea2",
+    "lang": "zh-TW",
+    "summary": "中華腦麻夏令營為大專腦麻學生規劃無障礙行程，安排遊艇出海觀賞海景及參觀航空館，展現如何將無障礙概念融入南台灣旅遊行程。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "cerebral palsy",
+      "accessible travel",
+      "summer camp",
+      "Taiwan"
+    ],
+    "sourceName": "Yahoo新聞",
+    "sourceUrl": "https://tw.news.yahoo.com/%E8%85%A6%E9%BA%BB%E5%A4%A7%E5%B0%88%E7%94%9F%E6%90%AD%E9%81%8A%E8%89%87%E7%9C%8B%E6%B5%B7-%E9%80%B2%E8%88%AA%E7%A9%BA%E9%A4%A8-%E4%B8%AD%E8%8F%AF%E8%85%A6%E9%BA%BB%E5%A4%8F%E4%BB%A4%E7%87%9F%E6%8A%8A%E7%84%A1%E9%9A%9C%E7%A4%99%E5%AF%AB%E9%80%B2%E5%8D%97%E5%8F%B0%E7%81%A3%E8%A1%8C%E7%A8%8B-114444223.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo新聞",
+        "url": "https://tw.news.yahoo.com/%E8%85%A6%E9%BA%BB%E5%A4%A7%E5%B0%88%E7%94%9F%E6%90%AD%E9%81%8A%E8%89%87%E7%9C%8B%E6%B5%B7-%E9%80%B2%E8%88%AA%E7%A9%BA%E9%A4%A8-%E4%B8%AD%E8%8F%AF%E8%85%A6%E9%BA%BB%E5%A4%8F%E4%BB%A4%E7%87%9F%E6%8A%8A%E7%84%A1%E9%9A%9C%E7%A4%99%E5%AF%AB%E9%80%B2%E5%8D%97%E5%8F%B0%E7%81%A3%E8%A1%8C%E7%A8%8B-114444223.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e4ef1ea2",
+    "status": "published",
+    "translationOf": "cerebral-palsy-college-students-enjoy-yacht-trip-and-aviation-museum-as-summer-c-e4ef1ea2",
+    "publishedAt": "2026-08-15T11:44:44.000Z",
+    "fetchedAt": "2026-08-15T12:58:22.720Z",
+    "body": "中華腦麻夏令營為大專腦麻學生規劃無障礙行程，安排遊艇出海觀賞海景及參觀航空館，展現如何將無障礙概念融入南台灣旅遊行程。\n\n原文來源： [Yahoo新聞](https://tw.news.yahoo.com/%E8%85%A6%E9%BA%BB%E5%A4%A7%E5%B0%88%E7%94%9F%E6%90%AD%E9%81%8A%E8%89%87%E7%9C%8B%E6%B5%B7-%E9%80%B2%E8%88%AA%E7%A9%BA%E9%A4%A8-%E4%B8%AD%E8%8F%AF%E8%85%A6%E9%BA%BB%E5%A4%8F%E4%BB%A4%E7%87%9F%E6%8A%8A%E7%84%A1%E9%9A%9C%E7%A4%99%E5%AF%AB%E9%80%B2%E5%8D%97%E5%8F%B0%E7%81%A3%E8%A1%8C%E7%A8%8B-114444223.html)"
+  },
+  {
+    "title": "客人預訂無障礙三樓客房後，以手杖攻擊前台職員",
+    "slug": "hotel-guest-books-inaccessible-thirdfloor-room-then-attacks-front-desk-clerk-wit-zh-b66cbf66",
+    "lang": "zh-TW",
+    "summary": "一位客人在酒店預訂了不符合無障礙標準的三樓客房，情緒失控以手杖襲擊前台職員，凸顯酒店在無障礙設施方面仍存在的問題。",
+    "category": "laws-rights",
+    "tags": [
+      "hotel accessibility",
+      "ADA",
+      "disability rights",
+      "incident"
+    ],
+    "sourceName": "Twistedsifter.com",
+    "sourceUrl": "http://twistedsifter.com/2026/08/a-hotel-guest-booked-an-inaccessible-3rd-floor-room-then-attacked-the-front-desk-clerk-with-a-cane",
+    "relatedSources": [
+      {
+        "name": "Twistedsifter.com",
+        "url": "http://twistedsifter.com/2026/08/a-hotel-guest-booked-an-inaccessible-3rd-floor-room-then-attacked-the-front-desk-clerk-with-a-cane"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-b66cbf66",
+    "status": "published",
+    "translationOf": "hotel-guest-books-inaccessible-thirdfloor-room-then-attacks-front-desk-clerk-wit-b66cbf66",
+    "publishedAt": "2026-08-14T12:55:23.000Z",
+    "fetchedAt": "2026-08-15T12:58:22.759Z",
+    "body": "一位客人在酒店預訂了不符合無障礙標準的三樓客房，情緒失控以手杖襲擊前台職員，凸顯酒店在無障礙設施方面仍存在的問題。\n\n原文來源： [Twistedsifter.com](http://twistedsifter.com/2026/08/a-hotel-guest-booked-an-inaccessible-3rd-floor-room-then-attacked-the-front-desk-clerk-with-a-cane)"
+  },
+  {
+    "title": "8 個具有啟發性的無邊淋浴間新設計浴室",
+    "slug": "8-new-bathrooms-featuring-inspiring-curbless-showers-zh-706dd4b5",
+    "lang": "zh-TW",
+    "summary": "這八個浴室設計展示了無邊淋浴間，消除了門檻，提升了輪椅和助行器的通行性，並創造出開放流暢的空間，儘管安裝需要更多規劃與精確度。",
+    "category": "physical-design",
+    "tags": [
+      "curbless shower",
+      "bathroom design",
+      "wheelchair access",
+      "universal design"
+    ],
+    "sourceName": "Houzz.com",
+    "sourceUrl": "https://www.houzz.com/magazine/8-new-bathrooms-with-inspiring-curbless-showers-stsetivw-vs~185603174",
+    "relatedSources": [
+      {
+        "name": "Houzz.com",
+        "url": "https://www.houzz.com/magazine/8-new-bathrooms-with-inspiring-curbless-showers-stsetivw-vs~185603174"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-706dd4b5",
+    "status": "published",
+    "translationOf": "8-new-bathrooms-featuring-inspiring-curbless-showers-706dd4b5",
+    "publishedAt": "2026-08-14T10:01:56.000Z",
+    "fetchedAt": "2026-08-15T12:58:22.813Z",
+    "body": "這八個浴室設計展示了無邊淋浴間，消除了門檻，提升了輪椅和助行器的通行性，並創造出開放流暢的空間，儘管安裝需要更多規劃與精確度。\n\n原文來源： [Houzz.com](https://www.houzz.com/magazine/8-new-bathrooms-with-inspiring-curbless-showers-stsetivw-vs~185603174)"
+  },
+  {
+    "title": "營造友善環境！台鐵集集支線車站大整修 沿線7站明年底改裝亮相",
+    "slug": "taiwan-railway-renovates-jiji-line-stations-for-accessibility-zh-90e67f75",
+    "lang": "zh-TW",
+    "summary": "台鐵將對集集支線沿線七個車站進行站體整修，加強無障礙設施，總經費1億2495萬元，預計明年11月底完工。",
+    "category": "physical-design",
+    "tags": [
+      "railway",
+      "accessibility",
+      "station renovation",
+      "physical-design"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3b0e6cea-536b-4b4c-a953-de4f39bc2424",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3b0e6cea-536b-4b4c-a953-de4f39bc2424"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-90e67f75",
+    "status": "published",
+    "translationOf": "taiwan-railway-renovates-jiji-line-stations-for-accessibility-90e67f75",
+    "publishedAt": "2026-08-14T08:23:58.000Z",
+    "fetchedAt": "2026-08-15T12:59:01.503Z",
+    "body": "台鐵將對集集支線沿線七個車站進行站體整修，加強無障礙設施，總經費1億2495萬元，預計明年11月底完工。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3b0e6cea-536b-4b4c-a953-de4f39bc2424)"
+  },
+  {
+    "title": "社區要求撤趙建銘診所旁身障車位 交通局打回票",
+    "slug": "community-seeks-to-remove-disabled-parking-near-clinic-transportation-bureau-rej-zh-b4213185",
+    "lang": "zh-TW",
+    "summary": "社區要求撤除診所旁的身障車位，台南市交通局駁回該請求，以維護身障者的停車權益。",
+    "category": "laws-rights",
+    "tags": [
+      "disabled parking",
+      "traffic bureau",
+      "community dispute",
+      "laws-rights"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E7%A4%BE%E5%8D%80%E8%A6%81%E6%B1%82%E6%92%A4%E8%B6%99%E5%BB%BA%E9%8A%98%E8%A8%BA%E6%89%80%E6%97%81%E8%BA%AB%E9%9A%9C%E8%BB%8A%E4%BD%8D-%E4%BA%A4%E9%80%9A%E5%B1%80%E6%89%93%E5%9B%9E%E7%A5%A8-074315342.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E7%A4%BE%E5%8D%80%E8%A6%81%E6%B1%82%E6%92%A4%E8%B6%99%E5%BB%BA%E9%8A%98%E8%A8%BA%E6%89%80%E6%97%81%E8%BA%AB%E9%9A%9C%E8%BB%8A%E4%BD%8D-%E4%BA%A4%E9%80%9A%E5%B1%80%E6%89%93%E5%9B%9E%E7%A5%A8-074315342.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-b4213185",
+    "status": "published",
+    "translationOf": "community-seeks-to-remove-disabled-parking-near-clinic-transportation-bureau-rej-b4213185",
+    "publishedAt": "2026-08-14T07:43:15.000Z",
+    "fetchedAt": "2026-08-15T12:59:01.542Z",
+    "body": "社區要求撤除診所旁的身障車位，台南市交通局駁回該請求，以維護身障者的停車權益。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E7%A4%BE%E5%8D%80%E8%A6%81%E6%B1%82%E6%92%A4%E8%B6%99%E5%BB%BA%E9%8A%98%E8%A8%BA%E6%89%80%E6%97%81%E8%BA%AB%E9%9A%9C%E8%BB%8A%E4%BD%8D-%E4%BA%A4%E9%80%9A%E5%B1%80%E6%89%93%E5%9B%9E%E7%A5%A8-074315342.html)"
+  },
+  {
+    "title": "身障者車輛免稅再放寬　不同戶籍也可申請",
+    "slug": "tax-exemption-for-disabled-persons-vehicles-extended-to-relatives-with-different-zh-bd782cb5",
+    "lang": "zh-TW",
+    "summary": "身障者車輛免稅規定放寬，二親等以內親屬所有並供身障者使用的車輛，即使戶籍不同也可申請免徵使用牌照稅。",
+    "category": "laws-rights",
+    "tags": [
+      "tax exemption",
+      "disability",
+      "vehicle",
+      "laws-rights"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2ecf225d-2a7f-4dcf-b6bd-68b3e01543d6",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2ecf225d-2a7f-4dcf-b6bd-68b3e01543d6"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-bd782cb5",
+    "status": "published",
+    "translationOf": "tax-exemption-for-disabled-persons-vehicles-extended-to-relatives-with-different-bd782cb5",
+    "publishedAt": "2026-08-14T05:02:57.000Z",
+    "fetchedAt": "2026-08-15T12:59:01.607Z",
+    "body": "身障者車輛免稅規定放寬，二親等以內親屬所有並供身障者使用的車輛，即使戶籍不同也可申請免徵使用牌照稅。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2ecf225d-2a7f-4dcf-b6bd-68b3e01543d6)"
+  },
+  {
+    "title": "澎湖縣社會處舉辦澎愛無礙活動 帶身心障礙者探索家鄉",
+    "slug": "penghu-county-social-affairs-bureau-hosts-penghu-love-accessible-activity-to-gui-zh-53d89999",
+    "lang": "zh-TW",
+    "summary": "為促進身心障礙者社會參與及提升自主旅行能力，澎湖縣身心障礙者服務中心辦理「澎愛無礙，Fun心旅行」團體方案，共邀集10位身心障礙者參與，以「由身心障礙者共同規劃小旅行」為主軸，共辦理三場團體活動，帶領活動參與者完成各項探索任務。活動首先透過分享旅遊經驗、討論外出需求、認識無障礙旅遊及公共運輸資源，並共同規劃旅遊路線、交通方式及行程安排，讓每位參與者都能充分表達想法、參與決策，成為旅行的規劃者，而非只是活動的參與者。之後再依照團體共同規劃的行程前往虎井嶼，參與者搭乘交通船展開一日小旅行，實地體驗離島家鄉風光，走訪…",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "accessible travel",
+      "community participation",
+      "Penghu"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%BE%8E%E6%B9%96%E7%B8%A3%E7%A4%BE%E6%9C%83%E8%99%95%E8%88%89%E8%BE%A6%E6%BE%8E%E6%84%9B%E7%84%A1%E7%A4%99%E6%B4%BB%E5%8B%95-%E5%B8%B6%E8%BA%AB%E5%BF%83%E9%9A%9C%E7%A4%99%E8%80%85%E6%8E%A2%E7%B4%A2%E5%AE%B6%E9%84%89-040849146.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E6%BE%8E%E6%B9%96%E7%B8%A3%E7%A4%BE%E6%9C%83%E8%99%95%E8%88%89%E8%BE%A6%E6%BE%8E%E6%84%9B%E7%84%A1%E7%A4%99%E6%B4%BB%E5%8B%95-%E5%B8%B6%E8%BA%AB%E5%BF%83%E9%9A%9C%E7%A4%99%E8%80%85%E6%8E%A2%E7%B4%A2%E5%AE%B6%E9%84%89-040849146.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-53d89999",
+    "status": "published",
+    "translationOf": "penghu-county-social-affairs-bureau-hosts-penghu-love-accessible-activity-to-gui-53d89999",
+    "publishedAt": "2026-08-14T04:08:49.000Z",
+    "fetchedAt": "2026-08-15T13:00:01.565Z",
+    "body": "為促進身心障礙者社會參與及提升自主旅行能力，澎湖縣身心障礙者服務中心辦理「澎愛無礙，Fun心旅行」團體方案，共邀集10位身心障礙者參與，以「由身心障礙者共同規劃小旅行」為主軸，共辦理三場團體活動，帶領活動參與者完成各項探索任務。活動首先透過分享旅遊經驗、討論外出需求、認識無障礙旅遊及公共運輸資源，並共同規劃旅遊路線、交通方式及行程安排，讓每位參與者都能充分表達想法、參與決策，成為旅行的規劃者，而非只是活動的參與者。之後再依照團體共同規劃的行程前往虎井嶼，參與者搭乘交通船展開一日小旅行，實地體驗離島家鄉風光，走訪…\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E6%BE%8E%E6%B9%96%E7%B8%A3%E7%A4%BE%E6%9C%83%E8%99%95%E8%88%89%E8%BE%A6%E6%BE%8E%E6%84%9B%E7%84%A1%E7%A4%99%E6%B4%BB%E5%8B%95-%E5%B8%B6%E8%BA%AB%E5%BF%83%E9%9A%9C%E7%A4%99%E8%80%85%E6%8E%A2%E7%B4%A2%E5%AE%B6%E9%84%89-040849146.html)"
   }
 ]
