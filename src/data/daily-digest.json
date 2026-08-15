@@ -1,55 +1,47 @@
 {
-  "date": "2026-08-14",
-  "generatedAt": "2026-08-14T14:00:40.311Z",
+  "date": "2026-08-15",
+  "generatedAt": "2026-08-15T01:59:18.678Z",
   "en": {
-    "title": "World's First Wheelchair-Accessible Yacht Launches, Marking Marine Accessibility Milestone",
-    "summary": "The first wheelchair-accessible yacht in the Dionysos 35 series has been launched, setting a new standard for marine accessibility. Meanwhile, the Labor Department upgraded its legal inquiry system with accessibility features, and Taitung County introduced accessible services for a hot air balloon event. A report shows growth in the digital accessibility SaaS market, while opinion pieces highlight ongoing housing challenges for disabled people.",
+    "title": "Missouri Enacts ADA Website Law; Tech Updates Boost Disability Access",
+    "summary": "Missouri’s new ADA website accessibility law requires business compliance for online content. Neodata Group’s AI-driven updates add automated captions, audio description and searchable transcripts to its video archive, aiding users with hearing or visual impairments. President Murmu highlighted disability empowerment as a national priority, while Bermuda’s Aquatic Centre installed a new lift to improve physical access.",
     "highlights": [
       {
-        "title": "First unit in \"wheelchair accessible\" Dionysos 35 series launched",
-        "slug": "first-unit-in-wheelchair-accessible-dionysos-35-series-launched-b6d2deec"
+        "title": "Missouri’s new ADA website accessibility law: What businesses need to know",
+        "slug": "missouris-new-ada-website-accessibility-law-what-businesses-need-to-know-d37cde8d"
       },
       {
-        "title": "Labor Department's Legal Inquiry System Upgraded with New Accessibility Features for Greater Convenience",
-        "slug": "labor-departments-legal-inquiry-system-upgraded-with-new-accessibility-features--3e07dc1a"
+        "title": "Neodata Group’s video archive AI updates accessibility capabilities",
+        "slug": "neodata-groups-video-archive-ai-updates-accessibility-capabilities-aca7d776"
       },
       {
-        "title": "Taitung County Government Provides Accessible Services for Disabled Friends to Enjoy Hot Air Balloon Light Show Night",
-        "slug": "taitung-county-government-provides-accessible-services-for-disabled-friends-to-e-4735c18d"
+        "title": "President Murmu Highlights Disability Empowerment",
+        "slug": "president-murmu-highlights-disability-empowerment-d39694d9"
       },
       {
-        "title": "Digital Accessibility SaaS Market Growth",
-        "slug": "digital-accessibility-saas-market-growth-45e8b0c2"
-      },
-      {
-        "title": "Opinion: When disabled people are priced out, we lose more than a home",
-        "slug": "opinion-when-disabled-people-are-priced-out-we-lose-more-than-a-home-3cdc0ab1"
+        "title": "New lift improves accessibility at Aquatic Centre",
+        "slug": "new-lift-improves-accessibility-at-aquatic-centre-38a6dd1b"
       }
     ]
   },
   "zh-TW": {
-    "title": "全球 ��艘 ����� 可及 遊�� Dionysos 35 ���� 開創 ��洋 無���� 新里程",
-    "summary": "全球首艘輪��可及遊��在 Dionysos 35 系列中首��，標誌著海運無����設計的重要里程��。 ��動部升級法律查��系統加入無����功能，臺東縣亦提供熱氣球活動的無����服務。 ��位無���� SaaS ��場成長報告��示��業勢頭強��，而觀點文章指出住房可負��性仍是����人士面��的��戰。",
+    "title": "密蘇里 ADA 網站 法 實施 Neodata AI 提升 無障礙",
+    "summary": "密蘇里州新頒布 ADA 網站無障礙法，要求企業網站符合無障礙標準。Neodata Group 透過 AI 為其視訊檔案庫加入自動字幕、聲音描述與可搜尋逐字稿，提升聽力或視力障礙者的可及性。總統穆爾穆強調殘障人士權能提升，百慕達水中中心亦新設升降機改善物理無障礙。",
     "highlights": [
       {
-        "title": "「輪��可及」Dionysos 35 系列首艘單位下水",
-        "slug": "first-unit-in-wheelchair-accessible-dionysos-35-series-launched-zh-b6d2deec"
+        "title": "密蘇里州新ADA網站無障礙法：企業需要知道的事項",
+        "slug": "missouris-new-ada-website-accessibility-law-what-businesses-need-to-know-zh-d37cde8d"
       },
       {
-        "title": "��動部法令查��系統再升級！新增無����功能更便民 - Yahoo新聞",
-        "slug": "labor-departments-legal-inquiry-system-upgraded-with-new-accessibility-features--zh-3e07dc1a"
+        "title": "Neodata Group 利用 AI 更新視訊檔案庫的無障礙功能",
+        "slug": "neodata-groups-video-archive-ai-updates-accessibility-capabilities-zh-aca7d776"
       },
       {
-        "title": "臺東縣政府無����服務 ��身��朋友共度熱氣球光��之夜 - cna.com.tw",
-        "slug": "taitung-county-government-provides-accessible-services-for-disabled-friends-to-e-zh-4735c18d"
+        "title": "總統穆爾穆強調����人士權能提升",
+        "slug": "president-murmu-highlights-disability-empowerment-zh-d39694d9"
       },
       {
-        "title": "數位無���� SaaS ��場成長",
-        "slug": "digital-accessibility-saas-market-growth-zh-45e8b0c2"
-      },
-      {
-        "title": "觀點：當����人士被排除在住房市場外，我們��失的遠不止是住��",
-        "slug": "opinion-when-disabled-people-are-priced-out-we-lose-more-than-a-home-zh-3cdc0ab1"
+        "title": "新升降機提升水中中心無障礙設施",
+        "slug": "new-lift-improves-accessibility-at-aquatic-centre-zh-38a6dd1b"
       }
     ]
   }
