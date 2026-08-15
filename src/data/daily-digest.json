@@ -1,47 +1,63 @@
 {
   "date": "2026-08-15",
-  "generatedAt": "2026-08-15T01:59:18.678Z",
+  "generatedAt": "2026-08-15T13:11:27.034Z",
   "en": {
-    "title": "Missouri Enacts ADA Website Law; Tech Updates Boost Disability Access",
-    "summary": "Missouri’s new ADA website accessibility law requires business compliance for online content. Neodata Group’s AI-driven updates add automated captions, audio description and searchable transcripts to its video archive, aiding users with hearing or visual impairments. President Murmu highlighted disability empowerment as a national priority, while Bermuda’s Aquatic Centre installed a new lift to improve physical access.",
+    "title": "Taiwan Labor Bureau Launches Vocational Rehab-Job Fair Initiative for Disabled Persons",
+    "summary": "The Taiwan Labor Bureau announced a vocational rehabilitation program paired with a job fair to support persons with disabilities. Meanwhile, Missouri enacted a new ADA website accessibility law, and Purdue released an app converting handwritten text to compliant HTML. Additional highlights include Tainan’s bus service accessibility upgrades, a long‑running sidewalk ramp campaign in El Centro, and research showing the financial returns of web accessibility investments.",
     "highlights": [
+      {
+        "title": "Labor Bureau Promotes Vocational Rehabilitation Combined with Job Fair to Support Persons with Disabilities in Realizing Potential",
+        "slug": "labor-bureau-promotes-vocational-rehabilitation-combined-with-job-fair-to-suppor-b3fd4d12"
+      },
       {
         "title": "Missouri’s new ADA website accessibility law: What businesses need to know",
         "slug": "missouris-new-ada-website-accessibility-law-what-businesses-need-to-know-d37cde8d"
       },
       {
-        "title": "Neodata Group’s video archive AI updates accessibility capabilities",
-        "slug": "neodata-groups-video-archive-ai-updates-accessibility-capabilities-aca7d776"
+        "title": "Purdue launches new accessibility app that converts handwritten text to compliant HTML",
+        "slug": "purdue-launches-new-accessibility-app-that-converts-handwritten-text-to-complian-fed2280c"
       },
       {
-        "title": "President Murmu Highlights Disability Empowerment",
-        "slug": "president-murmu-highlights-disability-empowerment-d39694d9"
+        "title": "Tainan bus service upgraded to strengthen accessible services",
+        "slug": "tainan-bus-service-upgraded-to-strengthen-accessible-services-281d828d"
       },
       {
-        "title": "New lift improves accessibility at Aquatic Centre",
-        "slug": "new-lift-improves-accessibility-at-aquatic-centre-38a6dd1b"
+        "title": "‘They just ignore me’: 15-year fight for sidewalk ramps highlights accessibility divide in El Centro",
+        "slug": "they-just-ignore-me-15-year-fight-for-sidewalk-ramps-highlights-accessibility-di-0fcb79be"
+      },
+      {
+        "title": "The ROI of web accessibility: What the data shows",
+        "slug": "the-roi-of-web-accessibility-what-the-data-shows-7fc41abd"
       }
     ]
   },
   "zh-TW": {
-    "title": "密蘇里 ADA 網站 法 實施 Neodata AI 提升 無障礙",
-    "summary": "密蘇里州新頒布 ADA 網站無障礙法，要求企業網站符合無障礙標準。Neodata Group 透過 AI 為其視訊檔案庫加入自動字幕、聲音描述與可搜尋逐字稿，提升聽力或視力障礙者的可及性。總統穆爾穆強調殘障人士權能提升，百慕達水中中心亦新設升降機改善物理無障礙。",
+    "title": "勞工局 推動 職業復原 與 徵才 結合 支援 障礙者 就業",
+    "summary": "勞工局宣布職業重建計畫結合徵才活動，以支持身心障礙者發揮潛能。同時，密蘇里州實施新ADA網站無障礙法，普渡大學推出手寫文字轉HTML的無障礙應用程式。其他重點包括臺南公車無障礙升級、El Centro 長期爭取人行道坡道的倡議，以及研究顯示網站無障礙帶來的投資回報。",
     "highlights": [
+      {
+        "title": "勞工局推展職業重建結合徵才活動 力挺身心障礙者發揮潛能看見未來",
+        "slug": "labor-bureau-promotes-vocational-rehabilitation-combined-with-job-fair-to-suppor-zh-b3fd4d12"
+      },
       {
         "title": "密蘇里州新ADA網站無障礙法：企業需要知道的事項",
         "slug": "missouris-new-ada-website-accessibility-law-what-businesses-need-to-know-zh-d37cde8d"
       },
       {
-        "title": "Neodata Group 利用 AI 更新視訊檔案庫的無障礙功能",
-        "slug": "neodata-groups-video-archive-ai-updates-accessibility-capabilities-zh-aca7d776"
+        "title": "普渡大學推出新無障礙應用程式，可將手寫文字轉換為符合規範的HTML",
+        "slug": "purdue-launches-new-accessibility-app-that-converts-handwritten-text-to-complian-zh-fed2280c"
       },
       {
-        "title": "總統穆爾穆強調����人士權能提升",
-        "slug": "president-murmu-highlights-disability-empowerment-zh-d39694d9"
+        "title": "臺南公車服務再升級 強化無障礙服務",
+        "slug": "tainan-bus-service-upgraded-to-strengthen-accessible-services-zh-281d828d"
       },
       {
-        "title": "新升降機提升水中中心無障礙設施",
-        "slug": "new-lift-improves-accessibility-at-aquatic-centre-zh-38a6dd1b"
+        "title": "「他們只是忽視我」：為人行道坡道的15年鬥爭凸顯El Centro的無障礙差距",
+        "slug": "they-just-ignore-me-15-year-fight-for-sidewalk-ramps-highlights-accessibility-di-zh-0fcb79be"
+      },
+      {
+        "title": "網站無障礙的投資回報：數據顯示什麼",
+        "slug": "the-roi-of-web-accessibility-what-the-data-shows-zh-7fc41abd"
       }
     ]
   }
