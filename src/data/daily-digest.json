@@ -1,63 +1,55 @@
 {
-  "date": "2026-08-15",
-  "generatedAt": "2026-08-15T13:11:27.034Z",
+  "date": "2026-08-16",
+  "generatedAt": "2026-08-16T13:13:24.629Z",
   "en": {
-    "title": "Taiwan Labor Bureau Launches Vocational Rehab-Job Fair Initiative for Disabled Persons",
-    "summary": "The Taiwan Labor Bureau announced a vocational rehabilitation program paired with a job fair to support persons with disabilities. Meanwhile, Missouri enacted a new ADA website accessibility law, and Purdue released an app converting handwritten text to compliant HTML. Additional highlights include Tainan’s bus service accessibility upgrades, a long‑running sidewalk ramp campaign in El Centro, and research showing the financial returns of web accessibility investments.",
+    "title": "New Track Chair Enhances Park Accessibility; Surveys and Services Drive Disability Inclusion",
+    "summary": "A new track chair has been introduced at Lake Guntersville State Park, improving mobility access for visitors with disabilities. In Fukuchiyama, a new support window offers visually impaired individuals information on assistive technology, while residents in Missoula surveyed West Broadway for accessibility barriers. Meanwhile, the Youth Symphony Center seeks community help to add ramps and assistive listening devices, and a theatre review highlights how a deaf musician experiences music through vibration in an accessible show.",
     "highlights": [
       {
-        "title": "Labor Bureau Promotes Vocational Rehabilitation Combined with Job Fair to Support Persons with Disabilities in Realizing Potential",
-        "slug": "labor-bureau-promotes-vocational-rehabilitation-combined-with-job-fair-to-suppor-b3fd4d12"
+        "title": "New track chair improves accessibility at Lake Guntersville State Park",
+        "slug": "new-track-chair-improves-accessibility-at-lake-guntersville-state-park-dc71f7ec"
       },
       {
-        "title": "Missouri’s new ADA website accessibility law: What businesses need to know",
-        "slug": "missouris-new-ada-website-accessibility-law-what-businesses-need-to-know-d37cde8d"
+        "title": "New Support Window for Visually Impaired in Fukuchiyama",
+        "slug": "new-support-window-for-visually-impaired-in-fukuchiyama-e0a8dd4c"
       },
       {
-        "title": "Purdue launches new accessibility app that converts handwritten text to compliant HTML",
-        "slug": "purdue-launches-new-accessibility-app-that-converts-handwritten-text-to-complian-fed2280c"
+        "title": "Eagle Watch Estate residents survey accessibility on Missoula's West Broadway",
+        "slug": "eagle-watch-estate-residents-survey-accessibility-on-missoulas-west-broadway-0bdb0278"
       },
       {
-        "title": "Tainan bus service upgraded to strengthen accessible services",
-        "slug": "tainan-bus-service-upgraded-to-strengthen-accessible-services-281d828d"
+        "title": "Youth Symphony Center seeks community help to improve accessibility",
+        "slug": "youth-symphony-center-seeks-community-help-to-improve-accessibility-5718f00e"
       },
       {
-        "title": "‘They just ignore me’: 15-year fight for sidewalk ramps highlights accessibility divide in El Centro",
-        "slug": "they-just-ignore-me-15-year-fight-for-sidewalk-ramps-highlights-accessibility-di-0fcb79be"
-      },
-      {
-        "title": "The ROI of web accessibility: What the data shows",
-        "slug": "the-roi-of-web-accessibility-what-the-data-shows-7fc41abd"
+        "title": "The Singer review – deaf musician experiences music through vibration in accessible theatre show",
+        "slug": "the-singer-review-deaf-musician-experiences-music-through-vibration-in-accessibl-a80df630"
       }
     ]
   },
   "zh-TW": {
-    "title": "勞工局 推動 職業復原 與 徵才 結合 支援 障礙者 就業",
-    "summary": "勞工局宣布職業重建計畫結合徵才活動，以支持身心障礙者發揮潛能。同時，密蘇里州實施新ADA網站無障礙法，普渡大學推出手寫文字轉HTML的無障礙應用程式。其他重點包括臺南公車無障礙升級、El Centro 長期爭取人行道坡道的倡議，以及研究顯示網站無障礙帶來的投資回報。",
+    "title": "新型越野輪椅改善公園無障礙",
+    "summary": "湖岡特維爾州立公園新增一台越野輪椅，提升殘障訪客的行動便利。福知山為視障者新設支援窗口，提供輔助科技與日常生活工具資訊；密蘇拉西百老匯居民進行調查，評估人行道與坡道縫的無障礙情況。青少年交響樂中心尋求社區協助安裝輪椅坡道與助聽裝置，而劇場評論指出聾人音樂家透過Subpac設備感受音樂，展現藝術無障礙。",
     "highlights": [
       {
-        "title": "勞工局推展職業重建結合徵才活動 力挺身心障礙者發揮潛能看見未來",
-        "slug": "labor-bureau-promotes-vocational-rehabilitation-combined-with-job-fair-to-suppor-zh-b3fd4d12"
+        "title": "新型越野輪椅提升湖岡特維爾州立公園的無障礙設施",
+        "slug": "new-track-chair-improves-accessibility-at-lake-guntersville-state-park-zh-dc71f7ec"
       },
       {
-        "title": "密蘇里州新ADA網站無障礙法：企業需要知道的事項",
-        "slug": "missouris-new-ada-website-accessibility-law-what-businesses-need-to-know-zh-d37cde8d"
+        "title": "福知山為視障者新設的支援窗口",
+        "slug": "new-support-window-for-visually-impaired-in-fukuchiyama-zh-e0a8dd4c"
       },
       {
-        "title": "普渡大學推出新無障礙應用程式，可將手寫文字轉換為符合規範的HTML",
-        "slug": "purdue-launches-new-accessibility-app-that-converts-handwritten-text-to-complian-zh-fed2280c"
+        "title": "鷹觀莊園居民調查密蘇拉西百老匯的無障礙情況",
+        "slug": "eagle-watch-estate-residents-survey-accessibility-on-missoulas-west-broadway-zh-0bdb0278"
       },
       {
-        "title": "臺南公車服務再升級 強化無障礙服務",
-        "slug": "tainan-bus-service-upgraded-to-strengthen-accessible-services-zh-281d828d"
+        "title": "青少年交響樂中心尋求社區協助改善無障礙設施",
+        "slug": "youth-symphony-center-seeks-community-help-to-improve-accessibility-zh-5718f00e"
       },
       {
-        "title": "「他們只是忽視我」：為人行道坡道的15年鬥爭凸顯El Centro的無障礙差距",
-        "slug": "they-just-ignore-me-15-year-fight-for-sidewalk-ramps-highlights-accessibility-di-zh-0fcb79be"
-      },
-      {
-        "title": "網站無障礙的投資回報：數據顯示什麼",
-        "slug": "the-roi-of-web-accessibility-what-the-data-shows-zh-7fc41abd"
+        "title": "《歌手》評論：聾人音樂家透過振動在無障礙劇場體驗音樂",
+        "slug": "the-singer-review-deaf-musician-experiences-music-through-vibration-in-accessibl-zh-a80df630"
       }
     ]
   }
