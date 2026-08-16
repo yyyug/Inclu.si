@@ -32944,5 +32944,208 @@
     "publishedAt": "2026-08-16T01:59:54.000Z",
     "fetchedAt": "2026-08-16T02:13:11.066Z",
     "body": "評論強調在虛構作品中描繪殘障人士的真實掙扎，而非理想化陰刻印象的重要性。\n推文來源： [cesilliaの肉体改造日記 (@cesillia1115)](https://x.com/cesillia1115/status/2088807936881746365)"
+  },
+  {
+    "title": "鷹觀莊園居民調查密蘇拉西百老匯的無障礙情況",
+    "slug": "eagle-watch-estate-residents-survey-accessibility-on-missoulas-west-broadway-zh-0bdb0278",
+    "lang": "zh-TW",
+    "summary": "鷹觀莊園的居民進行了一項調查，以評估密蘇拉西百老匯的無障礙情況，重點關注殘障人士所面臨的障礙，如不平的人行道、缺少坡道縫以及標誌不足。",
+    "category": "physical-design",
+    "tags": [
+      "sidewalk accessibility",
+      "curb cuts",
+      "disability survey",
+      "Missoula"
+    ],
+    "sourceName": "The Missoulian",
+    "sourceUrl": "https://missoulian.com/news/local/government-politics/article_49017423-2738-4a46-b1ca-5d52e2831910.html",
+    "relatedSources": [
+      {
+        "name": "The Missoulian",
+        "url": "https://missoulian.com/news/local/government-politics/article_49017423-2738-4a46-b1ca-5d52e2831910.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-0bdb0278",
+    "status": "published",
+    "translationOf": "eagle-watch-estate-residents-survey-accessibility-on-missoulas-west-broadway-0bdb0278",
+    "publishedAt": "2026-08-16T11:30:00.000Z",
+    "fetchedAt": "2026-08-16T12:58:17.258Z",
+    "body": "鷹觀莊園的居民進行了一項調查，以評估密蘇拉西百老匯的無障礙情況，重點關注殘障人士所面臨的障礙，如不平的人行道、缺少坡道縫以及標誌不足。\n\n原文來源： [The Missoulian](https://missoulian.com/news/local/government-politics/article_49017423-2738-4a46-b1ca-5d52e2831910.html)"
+  },
+  {
+    "title": "《歌手》評論：聾人音樂家透過振動在無障礙劇場體驗音樂",
+    "slug": "the-singer-review-deaf-musician-experiences-music-through-vibration-in-accessibl-zh-a80df630",
+    "lang": "zh-TW",
+    "summary": "對Cora Bissett劇場製作的評論指出，聾人表演者如何使用Subpac設備和觸覺回饋來感受音樂，展示了為聾人觀眾和表演者提供的藝術無障礙設施。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "deaf accessibility",
+      "Subpac",
+      "theatre",
+      "BSL",
+      "inclusive arts"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/stage/2026/aug/16/the-singer-review-traverse-theatre-edinburgh",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/stage/2026/aug/16/the-singer-review-traverse-theatre-edinburgh"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-a80df630",
+    "status": "published",
+    "translationOf": "the-singer-review-deaf-musician-experiences-music-through-vibration-in-accessibl-a80df630",
+    "publishedAt": "2026-08-16T04:00:15.000Z",
+    "fetchedAt": "2026-08-16T12:58:17.316Z",
+    "body": "對Cora Bissett劇場製作的評論指出，聾人表演者如何使用Subpac設備和觸覺回饋來感受音樂，展示了為聾人觀眾和表演者提供的藝術無障礙設施。\n\n原文來源： [Unknown source](https://www.theguardian.com/stage/2026/aug/16/the-singer-review-traverse-theatre-edinburgh)"
+  },
+  {
+    "title": "奧сун選舉：殘障人士爭取無障礙投票與更大機會",
+    "slug": "osun-election-pwds-seek-accessible-voting-greater-opportunities-zh-46880346",
+    "lang": "zh-TW",
+    "summary": "尼日利亞奧сун州的殘障人士呼籲獨立國家選舉委員會改善投票站的無障礙設施，使選舉過程對全國殘障人士更便利、更具包容性。",
+    "category": "laws-rights",
+    "tags": [
+      "voting accessibility",
+      "PWDs",
+      "INEC",
+      "election",
+      "disability rights"
+    ],
+    "sourceName": "Vanguard",
+    "sourceUrl": "https://www.vanguardngr.com/2026/08/osun-election-pwds-seek-accessible-voting-greater-opportunities",
+    "relatedSources": [
+      {
+        "name": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/08/osun-election-pwds-seek-accessible-voting-greater-opportunities"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-46880346",
+    "status": "published",
+    "translationOf": "osun-election-pwds-seek-accessible-voting-greater-opportunities-46880346",
+    "publishedAt": "2026-08-15T10:32:16.000Z",
+    "fetchedAt": "2026-08-16T12:59:56.480Z",
+    "body": "尼日利亞奧сун州的殘障人士呼籲獨立國家選舉委員會改善投票站的無障礙設施，使選舉過程對全國殘障人士更便利、更具包容性。\n\n原文來源： [Vanguard](https://www.vanguardngr.com/2026/08/osun-election-pwds-seek-accessible-voting-greater-opportunities)"
+  },
+  {
+    "title": "不只是輔具！Google DeepMind 突破手語空間語法難題，Gboard 鍵盤迎來「手語輸入」新時代",
+    "slug": "not-just-assistive-devices-google-deepmind-breakthrough-in-sign-language-spatial-zh-fc32be77",
+    "lang": "zh-TW",
+    "summary": "Google DeepMind 推出多語言手語轉文字模型，突破過往手語辨識僅限於實驗室或專用輔具的限制，首次將強大的視覺翻譯能力下放至行動終端，Pixel 11 系列智慧型手機的 Gboard 鍵盤與 Live Transcribe 應用程式即可支援即時手語輸入。",
+    "category": "assistive-tech",
+    "tags": [
+      "sign language",
+      "AI",
+      "DeepMind",
+      "Gboard",
+      "Pixel 11",
+      "assistive technology"
+    ],
+    "sourceName": "Techbang.com",
+    "sourceUrl": "https://www.techbang.com/posts/132380-google-sign-language-ai-pixel-11-gboard",
+    "relatedSources": [
+      {
+        "name": "Techbang.com",
+        "url": "https://www.techbang.com/posts/132380-google-sign-language-ai-pixel-11-gboard"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-fc32be77",
+    "status": "published",
+    "translationOf": "not-just-assistive-devices-google-deepmind-breakthrough-in-sign-language-spatial-fc32be77",
+    "publishedAt": "2026-08-15T08:00:00.000Z",
+    "fetchedAt": "2026-08-16T12:59:56.537Z",
+    "body": "Google DeepMind 推出多語言手語轉文字模型，突破過往手語辨識僅限於實驗室或專用輔具的限制，首次將強大的視覺翻譯能力下放至行動終端，Pixel 11 系列智慧型手機的 Gboard 鍵盤與 Live Transcribe 應用程式即可支援即時手語輸入。\n\n原文來源： [Techbang.com](https://www.techbang.com/posts/132380-google-sign-language-ai-pixel-11-gboard)"
+  },
+  {
+    "title": "竹市打造輔具一站式服務 高虹安市長：讓市民活得更有尊嚴、更便利",
+    "slug": "hsinchu-city-builds-onestop-assistivedevice-service-mayor-gao-hongan-says-it-let-zh-585458fe",
+    "lang": "zh-TW",
+    "summary": "為打造友善幸福城市，新竹市政府持續委託財團法人伊甸社會福利基金會新竹分事務所辦理「新竹市輔具資源中心」，提供專業輔具評估、維修、展示、回收再借用、訓練，以及補助申請諮詢與送件等一站式服務。有輔具需求的市民朋友，只要透過電話或網路申請，即可獲得便利、快速且完善的服務，自一一四年至一一五年七月止，累計服務達四萬四千三百四十八人次。新竹市長高虹安十五日表示，輔具不只是器材設備，更是協助民眾重拾尊嚴、實踐自立生活及參與社會的重要支持。",
+    "category": "assistive-tech",
+    "tags": [
+      "assistive device",
+      "one-stop service",
+      "Hsinchu",
+      "disability support",
+      "social welfare"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E7%AB%B9%E5%B8%82%E6%89%93%E9%80%A0%E8%BC%94%E5%85%B7-%E7%AB%99%E5%BC%8F%E6%9C%8D%E5%8B%99-%E9%AB%98%E8%99%B9%E5%AE%89%E5%B8%82%E9%95%B7-%E8%AE%93%E5%B8%82%E6%B0%91%E6%B4%BB%E5%BE%97%E6%9B%B4%E6%9C%89%E5%B0%8A%E5%9A%B4-%E6%9B%B4%E4%BE%BF%E5%88%A9-075849924.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E7%AB%B9%E5%B8%82%E6%89%93%E9%80%A0%E8%BC%94%E5%85%B7-%E7%AB%99%E5%BC%8F%E6%9C%8D%E5%8B%99-%E9%AB%98%E8%99%B9%E5%AE%89%E5%B8%82%E9%95%B7-%E8%AE%93%E5%B8%82%E6%B0%91%E6%B4%BB%E5%BE%97%E6%9B%B4%E6%9C%89%E5%B0%8A%E5%9A%B4-%E6%9B%B4%E4%BE%BF%E5%88%A9-075849924.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-585458fe",
+    "status": "published",
+    "translationOf": "hsinchu-city-builds-onestop-assistivedevice-service-mayor-gao-hongan-says-it-let-585458fe",
+    "publishedAt": "2026-08-15T07:58:49.000Z",
+    "fetchedAt": "2026-08-16T12:59:56.579Z",
+    "body": "為打造友善幸福城市，新竹市政府持續委託財團法人伊甸社會福利基金會新竹分事務所辦理「新竹市輔具資源中心」，提供專業輔具評估、維修、展示、回收再借用、訓練，以及補助申請諮詢與送件等一站式服務。有輔具需求的市民朋友，只要透過電話或網路申請，即可獲得便利、快速且完善的服務，自一一四年至一一五年七月止，累計服務達四萬四千三百四十八人次。新竹市長高虹安十五日表示，輔具不只是器材設備，更是協助民眾重拾尊嚴、實踐自立生活及參與社會的重要支持。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E7%AB%B9%E5%B8%82%E6%89%93%E9%80%A0%E8%BC%94%E5%85%B7-%E7%AB%99%E5%BC%8F%E6%9C%8D%E5%8B%99-%E9%AB%98%E8%99%B9%E5%AE%89%E5%B8%82%E9%95%B7-%E8%AE%93%E5%B8%82%E6%B0%91%E6%B4%BB%E5%BE%97%E6%9B%B4%E6%9C%89%E5%B0%8A%E5%9A%B4-%E6%9B%B4%E4%BE%BF%E5%88%A9-075849924.html)"
+  },
+  {
+    "title": "「新北美樂地2.0」活化三重閒置公地　57格免費機車位上路",
+    "slug": "new-taipei-bliss-land-20-revitalizes-idle-public-land-in-sanchong-adds-57-free-m-zh-4b8f2bfb",
+    "lang": "zh-TW",
+    "summary": "新北市政府持續推動「新北美樂地2.0」，將三重區閒置公有土地整理後，新增57格免費機車停車位，其中包含1格無障礙機車停車格，讓原本低度使用的土地轉化為居民可使用的公共空間。",
+    "category": "physical-design",
+    "tags": [
+      "accessible parking",
+      "motorcycle",
+      "public space",
+      "disability inclusion"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7493f167-3ea9-4bfc-82c8-d328e5e8c7e9",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7493f167-3ea9-4bfc-82c8-d328e5e8c7e9"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-4b8f2bfb",
+    "status": "published",
+    "translationOf": "new-taipei-bliss-land-20-revitalizes-idle-public-land-in-sanchong-adds-57-free-m-4b8f2bfb",
+    "publishedAt": "2026-08-15T05:50:43.000Z",
+    "fetchedAt": "2026-08-16T13:00:17.224Z",
+    "body": "新北市政府持續推動「新北美樂地2.0」，將三重區閒置公有土地整理後，新增57格免費機車停車位，其中包含1格無障礙機車停車格，讓原本低度使用的土地轉化為居民可使用的公共空間。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7493f167-3ea9-4bfc-82c8-d328e5e8c7e9)"
   }
 ]
