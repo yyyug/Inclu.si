@@ -1,55 +1,55 @@
 {
   "date": "2026-08-17",
-  "generatedAt": "2026-08-17T02:08:46.793Z",
+  "generatedAt": "2026-08-17T13:24:27.313Z",
   "en": {
-    "title": "Taiwan Railway Upgrades Stations for Accessibility; Community Surveys Improve Access",
-    "summary": "Taiwan Railway is investing NT$1.25 billion to upgrade seven stations on the Jiji Line, with Shuili Station's barrier-free facilities set to finish by year‑end. In Missoula, Eagle Watch Estate residents surveyed West Broadway’s accessibility, citing uneven sidewalks and missing curb cuts. Meanwhile, a deaf musician’s theatre performance using vibration technology highlights inclusive arts, while advocacy pushes for inclusion and barrier‑free restroom improvements.",
+    "title": "UK Disability Work Support Cuts Threaten Creative Industry Accessibility",
+    "summary": "The UK government’s cuts to the Access to Work scheme threaten workplace accommodations for disabled creatives, while new US federal rules mandate healthcare providers improve accessibility for patients with disabilities. Taiwan’s railway is upgrading seven stations with barrier‑free facilities, Kawasaki City launched a sign‑language link service for deaf users, and a study shows 95.9% of websites still fail accessibility tests.",
     "highlights": [
+      {
+        "title": "Healthcare Providers Hit With New Accessibility Requirements - Disability Scoop",
+        "slug": "healthcare-providers-hit-with-new-accessibility-requirements-disability-scoop-718a3e63"
+      },
+      {
+        "title": "Disabled creatives like me are behind many of your favourite shows – so why has our work support been withdrawn? | Annalisa Dinnella",
+        "slug": "disabled-creatives-like-me-are-behind-many-of-your-favourite-shows-so-why-has-ou-b986f943"
+      },
       {
         "title": "Taiwan Railway's Jiji Line upgrades 7 stations with NT$1.25 billion, Shuili Station's barrier-free facilities expected to finish by year-end",
         "slug": "taiwan-railways-jiji-line-upgrades-7-stations-with-nt125-billion-shuili-stations-ad87eb96"
       },
       {
-        "title": "Eagle Watch Estate residents survey accessibility on Missoula's West Broadway",
-        "slug": "eagle-watch-estate-residents-survey-accessibility-on-missoulas-west-broadway-0bdb0278"
+        "title": "Kawasaki City Launches 'Sign Language Link' Service",
+        "slug": "kawasaki-city-launches-sign-language-link-service-4ec8f7f0"
       },
       {
-        "title": "The Singer review – deaf musician experiences music through vibration in accessible theatre show",
-        "slug": "the-singer-review-deaf-musician-experiences-music-through-vibration-in-accessibl-a80df630"
-      },
-      {
-        "title": "Advocating for Inclusion",
-        "slug": "advocating-for-inclusion-591c2cf4"
-      },
-      {
-        "title": "Support for Barrier-Free Restrooms",
-        "slug": "support-for-barrier-free-restrooms-babaa0f7"
+        "title": "95.9% of Websites Still Fail Accessibility Tests. Here's How to Fix It - DesignRush",
+        "slug": "959-of-websites-still-fail-accessibility-tests-heres-how-to-fix-it-designrush-e338efa7"
       }
     ]
   },
   "zh-TW": {
-    "title": "台鐵集集支線站無障礙升級；社區調查改善西百老匯可及性",
-    "summary": "台鐵將投資約12.5億元升級集集支線七車站，水里站的無障礙設施預計年底前完工。鷹觀莊園居民對密蘇拉西百老匯進行無障礙調查，指出人行道不平和缺少坡道縫為主要障礙。此外，業餘無線電倫理指南新增視障使用者的無障礙功能，聾人劇場表演運用振動技術，以及倡導改善女廁無障礙設施，共同推進無障礙環境。",
+    "title": "美國新規要求醫療提供者提升無障礙，影響殘障就醫",
+    "summary": "美國聯邦新規將對醫療提供者施加無障礙要求，同時英國削減Access to Work計畫威脅殘障創作者的職場支援。台灣台鐵將升級七站無障礙設施，川崎市推出手語連結服務，且一項研究顯示95.9%網站仍無法通過無障礙測試。",
     "highlights": [
+      {
+        "title": "醫療保健提供者面臨新無障礙要求 - Disability Scoop",
+        "slug": "healthcare-providers-hit-with-new-accessibility-requirements-disability-scoop-zh-718a3e63"
+      },
+      {
+        "title": "像我這樣的殘障創作者背後有許多你喜歡的節目——為什麼我們的工作支援被撤銷？ | Annalisa Dinnella",
+        "slug": "disabled-creatives-like-me-are-behind-many-of-your-favourite-shows-so-why-has-ou-zh-b986f943"
+      },
       {
         "title": "台鐵集集支線7站投近1.25億全面優化　水里站無障礙設施盼年底完工",
         "slug": "taiwan-railways-jiji-line-upgrades-7-stations-with-nt125-billion-shuili-stations-zh-ad87eb96"
       },
       {
-        "title": "鷹觀莊園居民調查密蘇拉西百老匯的無障礙情況",
-        "slug": "eagle-watch-estate-residents-survey-accessibility-on-missoulas-west-broadway-zh-0bdb0278"
+        "title": "AI輔助無障礙增強",
+        "slug": "ai-assisted-accessibility-enhancement-zh-326505e2"
       },
       {
-        "title": "IARU-R1 更新業餘無線電倫理指南",
-        "slug": "iaru-r1-updates-radio-amateur-ethics-guide-zh-6ea05fc0"
-      },
-      {
-        "title": "《歌手》評論：聾人音樂家透過振動在無障礙劇場體驗音樂",
-        "slug": "the-singer-review-deaf-musician-experiences-music-through-vibration-in-accessibl-zh-a80df630"
-      },
-      {
-        "title": "支持無障礙廁所",
-        "slug": "support-for-barrier-free-restrooms-zh-babaa0f7"
+        "title": "95.9% 的網站仍無法通過無障礙測試。以下是修復方法 - DesignRush",
+        "slug": "959-of-websites-still-fail-accessibility-tests-heres-how-to-fix-it-designrush-zh-e338efa7"
       }
     ]
   }
