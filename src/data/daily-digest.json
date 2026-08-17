@@ -1,55 +1,55 @@
 {
-  "date": "2026-08-16",
-  "generatedAt": "2026-08-16T13:13:24.629Z",
+  "date": "2026-08-17",
+  "generatedAt": "2026-08-17T02:08:46.793Z",
   "en": {
-    "title": "New Track Chair Enhances Park Accessibility; Surveys and Services Drive Disability Inclusion",
-    "summary": "A new track chair has been introduced at Lake Guntersville State Park, improving mobility access for visitors with disabilities. In Fukuchiyama, a new support window offers visually impaired individuals information on assistive technology, while residents in Missoula surveyed West Broadway for accessibility barriers. Meanwhile, the Youth Symphony Center seeks community help to add ramps and assistive listening devices, and a theatre review highlights how a deaf musician experiences music through vibration in an accessible show.",
+    "title": "Taiwan Railway Upgrades Stations for Accessibility; Community Surveys Improve Access",
+    "summary": "Taiwan Railway is investing NT$1.25 billion to upgrade seven stations on the Jiji Line, with Shuili Station's barrier-free facilities set to finish by year‑end. In Missoula, Eagle Watch Estate residents surveyed West Broadway’s accessibility, citing uneven sidewalks and missing curb cuts. Meanwhile, a deaf musician’s theatre performance using vibration technology highlights inclusive arts, while advocacy pushes for inclusion and barrier‑free restroom improvements.",
     "highlights": [
       {
-        "title": "New track chair improves accessibility at Lake Guntersville State Park",
-        "slug": "new-track-chair-improves-accessibility-at-lake-guntersville-state-park-dc71f7ec"
-      },
-      {
-        "title": "New Support Window for Visually Impaired in Fukuchiyama",
-        "slug": "new-support-window-for-visually-impaired-in-fukuchiyama-e0a8dd4c"
+        "title": "Taiwan Railway's Jiji Line upgrades 7 stations with NT$1.25 billion, Shuili Station's barrier-free facilities expected to finish by year-end",
+        "slug": "taiwan-railways-jiji-line-upgrades-7-stations-with-nt125-billion-shuili-stations-ad87eb96"
       },
       {
         "title": "Eagle Watch Estate residents survey accessibility on Missoula's West Broadway",
         "slug": "eagle-watch-estate-residents-survey-accessibility-on-missoulas-west-broadway-0bdb0278"
       },
       {
-        "title": "Youth Symphony Center seeks community help to improve accessibility",
-        "slug": "youth-symphony-center-seeks-community-help-to-improve-accessibility-5718f00e"
-      },
-      {
         "title": "The Singer review – deaf musician experiences music through vibration in accessible theatre show",
         "slug": "the-singer-review-deaf-musician-experiences-music-through-vibration-in-accessibl-a80df630"
+      },
+      {
+        "title": "Advocating for Inclusion",
+        "slug": "advocating-for-inclusion-591c2cf4"
+      },
+      {
+        "title": "Support for Barrier-Free Restrooms",
+        "slug": "support-for-barrier-free-restrooms-babaa0f7"
       }
     ]
   },
   "zh-TW": {
-    "title": "新型越野輪椅改善公園無障礙",
-    "summary": "湖岡特維爾州立公園新增一台越野輪椅，提升殘障訪客的行動便利。福知山為視障者新設支援窗口，提供輔助科技與日常生活工具資訊；密蘇拉西百老匯居民進行調查，評估人行道與坡道縫的無障礙情況。青少年交響樂中心尋求社區協助安裝輪椅坡道與助聽裝置，而劇場評論指出聾人音樂家透過Subpac設備感受音樂，展現藝術無障礙。",
+    "title": "台鐵集集支線站無障礙升級；社區調查改善西百老匯可及性",
+    "summary": "台鐵將投資約12.5億元升級集集支線七車站，水里站的無障礙設施預計年底前完工。鷹觀莊園居民對密蘇拉西百老匯進行無障礙調查，指出人行道不平和缺少坡道縫為主要障礙。此外，業餘無線電倫理指南新增視障使用者的無障礙功能，聾人劇場表演運用振動技術，以及倡導改善女廁無障礙設施，共同推進無障礙環境。",
     "highlights": [
       {
-        "title": "新型越野輪椅提升湖岡特維爾州立公園的無障礙設施",
-        "slug": "new-track-chair-improves-accessibility-at-lake-guntersville-state-park-zh-dc71f7ec"
-      },
-      {
-        "title": "福知山為視障者新設的支援窗口",
-        "slug": "new-support-window-for-visually-impaired-in-fukuchiyama-zh-e0a8dd4c"
+        "title": "台鐵集集支線7站投近1.25億全面優化　水里站無障礙設施盼年底完工",
+        "slug": "taiwan-railways-jiji-line-upgrades-7-stations-with-nt125-billion-shuili-stations-zh-ad87eb96"
       },
       {
         "title": "鷹觀莊園居民調查密蘇拉西百老匯的無障礙情況",
         "slug": "eagle-watch-estate-residents-survey-accessibility-on-missoulas-west-broadway-zh-0bdb0278"
       },
       {
-        "title": "青少年交響樂中心尋求社區協助改善無障礙設施",
-        "slug": "youth-symphony-center-seeks-community-help-to-improve-accessibility-zh-5718f00e"
+        "title": "IARU-R1 更新業餘無線電倫理指南",
+        "slug": "iaru-r1-updates-radio-amateur-ethics-guide-zh-6ea05fc0"
       },
       {
         "title": "《歌手》評論：聾人音樂家透過振動在無障礙劇場體驗音樂",
         "slug": "the-singer-review-deaf-musician-experiences-music-through-vibration-in-accessibl-zh-a80df630"
+      },
+      {
+        "title": "支持無障礙廁所",
+        "slug": "support-for-barrier-free-restrooms-zh-babaa0f7"
       }
     ]
   }
