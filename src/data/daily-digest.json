@@ -1,55 +1,55 @@
 {
   "date": "2026-08-19",
-  "generatedAt": "2026-08-19T02:04:22.776Z",
+  "generatedAt": "2026-08-19T13:27:03.644Z",
   "en": {
-    "title": "UK Charities Warn Against Benefit Cuts for Disabled Youth",
-    "summary": "More than 40 UK charities have urged ministers not to cut benefits for disabled young people, warning that stricter eligibility could remove support. Meanwhile, Tyler is deploying robots to assess ADA compliance in city infrastructure, and NYU Langone researchers have unveiled AI-powered tools to assist blind individuals. These developments highlight ongoing efforts to protect rights and improve accessibility through technology and policy.",
+    "title": "European Disability Card Directive Advances as Delegated Act Adopted",
+    "summary": "The European Commission adopted the Delegated Act on the European Disability Card Directive, adding technical details to the legislation. In related news, Allyable secured TX-RAMP certification to expand secure digital accessibility solutions in Texas, and NYU Langone researchers unveiled AI-powered tools to improve accessibility for blind individuals. Additionally, cities are rolling out accessibility upgrades and reports highlight ongoing shortages of accessible rooms for travelers with disabilities in Japan.",
     "highlights": [
       {
-        "title": "Do Not Cut Benefits for Disabled Young People, Dozens of UK Charities Urge Ministers",
-        "slug": "do-not-cut-benefits-for-disabled-young-people-dozens-of-uk-charities-urge-minist-aefe286e"
+        "title": "Delegated Act on the European Disability Card Directive adopted",
+        "slug": "delegated-act-on-the-european-disability-card-directive-adopted-475257b1"
       },
       {
-        "title": "Tyler uses robots to improve ADA compliance for accessible city infrastructure - cbs19.tv",
-        "slug": "tyler-uses-robots-to-improve-ada-compliance-for-accessible-city-infrastructure-c-11c8d7ac"
+        "title": "Allyable Achieves TX-RAMP Certification, Expanding Secure Digital Accessibility Solutions for Texas Organizations",
+        "slug": "allyable-achieves-tx-ramp-certification-expanding-secure-digital-accessibility-s-73c02d07"
       },
       {
         "title": "NYU Langone researchers build AI-powered tools to improve accessibility for blind people - CBS News",
         "slug": "nyu-langone-researchers-build-ai-powered-tools-to-improve-accessibility-for-blin-6953a12f"
       },
       {
-        "title": "Kiosk industry leaders to discuss accessibility with U.S. Access Board - Kiosk Marketplace",
-        "slug": "kiosk-industry-leaders-to-discuss-accessibility-with-us-access-board-kiosk-marke-f9f16977"
+        "title": "City responds to neighborhood safety concerns, outlines accessibility upgrades",
+        "slug": "city-responds-to-neighborhood-safety-concerns-outlines-accessibility-upgrades-54a3a21d"
       },
       {
-        "title": "‘Rampathon’ builds a more accessible island - Vashon-Maury Island Beachcomber",
-        "slug": "rampathon-builds-a-more-accessible-island-vashon-maury-island-beachcomber-1f027167"
+        "title": "Shortage of Accessible Rooms for Inbound Travelers in Japan",
+        "slug": "shortage-of-accessible-rooms-for-inbound-travelers-in-japan-9b8607f8"
       }
     ]
   },
   "zh-TW": {
-    "title": "英國慈善反對削減殘障青年福利",
-    "summary": "超過40家英國慈善機構呼籲部長不要削減殘障青年福利，擔心更嚴格的資格審查會導致福利流失。同時，泰勒市使用機器人評估ADA合規性，紐約大學朗格尼團隊開發AI工具協助盲人無障礙。這些舉措顯示政策保護與技術創新並重的趨勢。",
+    "title": "歐洲殘疾人卡指令授權法案通關，德州及全球無障礙進展",
+    "summary": "歐洲委員會於7月1日發布歐洲殘疾人卡指令的授權法案最終文本，為立法添加技術細節。同時，Allyable 取得 TX-RAMP 認證，擴展德州組織的安全數位無障礙解決方案；紐約大學朗格尼醫學中心開發 AI 工具協助盲人改善無障礙體驗。各地亦推出無障礙升級，並有報告指出日本入境殘障旅客仍面臨無障礙客房不足的問題。",
     "highlights": [
       {
-        "title": "不要削減殘障青年福利，數十家英國慈善機構敦促部長",
-        "slug": "do-not-cut-benefits-for-disabled-young-people-dozens-of-uk-charities-urge-minist-zh-aefe286e"
+        "title": "歐洲殘疾人卡指令的授權法案已被採納",
+        "slug": "delegated-act-on-the-european-disability-card-directive-adopted-zh-475257b1"
       },
       {
-        "title": "泰勒市使用機器人提升ADA合規性以改善無障礙城市基礎設施 - cbs19.tv",
-        "slug": "tyler-uses-robots-to-improve-ada-compliance-for-accessible-city-infrastructure-c-zh-11c8d7ac"
+        "title": "Allyable 獲得 TX-RAMP 認證，擴展德州組織的安全數位無障礙解決方案",
+        "slug": "allyable-achieves-tx-ramp-certification-expanding-secure-digital-accessibility-s-zh-73c02d07"
       },
       {
         "title": "紐約大學朗格尼醫學中心研究人員開發AI工具以提升盲人無障礙 - CBS News",
         "slug": "nyu-langone-researchers-build-ai-powered-tools-to-improve-accessibility-for-blin-zh-6953a12f"
       },
       {
-        "title": "自助終端機行業領袖將與美國無障礙委員會討論無障礙 - Kiosk Marketplace",
-        "slug": "kiosk-industry-leaders-to-discuss-accessibility-with-us-access-board-kiosk-marke-zh-f9f16977"
+        "title": "市政府回應社區安全顧慮，規劃無障礙升級措施",
+        "slug": "city-responds-to-neighborhood-safety-concerns-outlines-accessibility-upgrades-zh-54a3a21d"
       },
       {
-        "title": "能力網 科技分享專業版 2026 票券現已開放購買",
-        "slug": "abilitynet-techshare-pro-2026-tickets-now-available-zh-62566f93"
+        "title": "日本入境旅客無障礙客房不足",
+        "slug": "shortage-of-accessible-rooms-for-inbound-travelers-in-japan-zh-9b8607f8"
       }
     ]
   }
