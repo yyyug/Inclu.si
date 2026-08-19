@@ -1,79 +1,55 @@
 {
-  "date": "2026-08-18",
-  "generatedAt": "2026-08-18T13:26:13.012Z",
+  "date": "2026-08-19",
+  "generatedAt": "2026-08-19T02:04:22.776Z",
   "en": {
-    "title": "US Airlines Face October Deadline for New DOT Wheelchair Accessibility Rules",
-    "summary": "The US Department of Transportation has set an October deadline for airlines to comply with new wheelchair accessibility rules, affecting carriers nationwide. Simultaneously, advocates warn that proposed UK benefit cuts could push hundreds of thousands of children into poverty. In other news, Newton City partners with Hear2There to deploy audio guidance tech for visually impaired pedestrians.",
+    "title": "UK Charities Warn Against Benefit Cuts for Disabled Youth",
+    "summary": "More than 40 UK charities have urged ministers not to cut benefits for disabled young people, warning that stricter eligibility could remove support. Meanwhile, Tyler is deploying robots to assess ADA compliance in city infrastructure, and NYU Langone researchers have unveiled AI-powered tools to assist blind individuals. These developments highlight ongoing efforts to protect rights and improve accessibility through technology and policy.",
     "highlights": [
       {
-        "title": "Airlines face October deadline for new DOT wheelchair rules",
-        "slug": "airlines-face-october-deadline-for-new-dot-wheelchair-rules-bd503333"
+        "title": "Do Not Cut Benefits for Disabled Young People, Dozens of UK Charities Urge Ministers",
+        "slug": "do-not-cut-benefits-for-disabled-young-people-dozens-of-uk-charities-urge-minist-aefe286e"
       },
       {
-        "title": "Huge number of children would fall into poverty under Reform’s benefits plans, say campaigners",
-        "slug": "huge-number-of-children-would-fall-into-poverty-under-reforms-benefits-plans-say-58227401"
+        "title": "Tyler uses robots to improve ADA compliance for accessible city infrastructure - cbs19.tv",
+        "slug": "tyler-uses-robots-to-improve-ada-compliance-for-accessible-city-infrastructure-c-11c8d7ac"
       },
       {
-        "title": "Newton City Partners with Hear2There to Deploy Audio Guidance Technology for Improved Accessibility",
-        "slug": "newton-city-partners-with-hear2there-to-deploy-audio-guidance-technology-for-imp-64171d08"
+        "title": "NYU Langone researchers build AI-powered tools to improve accessibility for blind people - CBS News",
+        "slug": "nyu-langone-researchers-build-ai-powered-tools-to-improve-accessibility-for-blin-6953a12f"
       },
       {
-        "title": "Wawsome launches ‘Know your rights’ campaign to inform consumers about their right to digital accessibility",
-        "slug": "wawsome-launches-know-your-rights-campaign-to-inform-consumers-about-their-right-9faf1ab3"
+        "title": "Kiosk industry leaders to discuss accessibility with U.S. Access Board - Kiosk Marketplace",
+        "slug": "kiosk-industry-leaders-to-discuss-accessibility-with-us-access-board-kiosk-marke-f9f16977"
       },
       {
-        "title": "Advocating for Socioeconomic Inclusion",
-        "slug": "advocating-for-socioeconomic-inclusion-36e36b8f"
-      },
-      {
-        "title": "UCLA researcher awarded $250,000 grant to increase AI accessibility",
-        "slug": "ucla-researcher-awarded-250000-grant-to-increase-ai-accessibility-fa76881c"
-      },
-      {
-        "title": "From storytelling to inclusive design: how Liam O’Kane is shaping digital accessibility at Macquarie - Macquarie",
-        "slug": "from-storytelling-to-inclusive-design-how-liam-okane-is-shaping-digital-accessib-144fdc38"
-      },
-      {
-        "title": "Reflections on Working with People with Disabilities",
-        "slug": "reflections-on-working-with-people-with-disabilities-2428e7eb"
+        "title": "‘Rampathon’ builds a more accessible island - Vashon-Maury Island Beachcomber",
+        "slug": "rampathon-builds-a-more-accessible-island-vashon-maury-island-beachcomber-1f027167"
       }
     ]
   },
   "zh-TW": {
-    "title": "美國航空公司面臨十月截止日期以符合新輪椅無障礙規定",
-    "summary": "美國交通部設定十月截止日期，要求航空公司遵守新輪椅無障礙規定。同時，英國福利削減方案可能導致大量兒童陷入貧困。此外，牛頓市與Hear2There合作部署音頻導引技術，協助視障行人。",
+    "title": "英國慈善反對削減殘障青年福利",
+    "summary": "超過40家英國慈善機構呼籲部長不要削減殘障青年福利，擔心更嚴格的資格審查會導致福利流失。同時，泰勒市使用機器人評估ADA合規性，紐約大學朗格尼團隊開發AI工具協助盲人無障礙。這些舉措顯示政策保護與技術創新並重的趨勢。",
     "highlights": [
       {
-        "title": "航空公司面临十月截止日期以符合新DOT轮椅规定",
-        "slug": "airlines-face-october-deadline-for-new-dot-wheelchair-rules-zh-bd503333"
+        "title": "不要削減殘障青年福利，數十家英國慈善機構敦促部長",
+        "slug": "do-not-cut-benefits-for-disabled-young-people-dozens-of-uk-charities-urge-minist-zh-aefe286e"
       },
       {
-        "title": "改革黨福利削減方案將導致大量兒童陷入貧困，運動人士警告",
-        "slug": "huge-number-of-children-would-fall-into-poverty-under-reforms-benefits-plans-say-zh-58227401"
+        "title": "泰勒市使用機器人提升ADA合規性以改善無障礙城市基礎設施 - cbs19.tv",
+        "slug": "tyler-uses-robots-to-improve-ada-compliance-for-accessible-city-infrastructure-c-zh-11c8d7ac"
       },
       {
-        "title": "牛頓市與Hear2There合作部署音頻導引技術以提升無障礙",
-        "slug": "newton-city-partners-with-hear2there-to-deploy-audio-guidance-technology-for-imp-zh-64171d08"
+        "title": "紐約大學朗格尼醫學中心研究人員開發AI工具以提升盲人無障礙 - CBS News",
+        "slug": "nyu-langone-researchers-build-ai-powered-tools-to-improve-accessibility-for-blin-zh-6953a12f"
       },
       {
-        "title": "Wawsome 启动‘了解你的权利’运动，向消费者宣传其数字无障碍权利",
-        "slug": "wawsome-launches-know-your-rights-campaign-to-inform-consumers-about-their-right-zh-9faf1ab3"
+        "title": "自助終端機行業領袖將與美國無障礙委員會討論無障礙 - Kiosk Marketplace",
+        "slug": "kiosk-industry-leaders-to-discuss-accessibility-with-us-access-board-kiosk-marke-zh-f9f16977"
       },
       {
-        "title": "倡導社會經濟包容",
-        "slug": "advocating-for-socioeconomic-inclusion-zh-36e36b8f"
-      },
-      {
-        "title": "UCLA 研究者獲得 25 萬美元補助金以提升 AI 無障礙性",
-        "slug": "ucla-researcher-awarded-250000-grant-to-increase-ai-accessibility-zh-fa76881c"
-      },
-      {
-        "title": "從敘事到包容性設計：Liam O’Kane 如何在 Macquarie 推動數位無障礙 - Macquarie",
-        "slug": "from-storytelling-to-inclusive-design-how-liam-okane-is-shaping-digital-accessib-zh-144fdc38"
-      },
-      {
-        "title": "與殘障人士共事的反思",
-        "slug": "reflections-on-working-with-people-with-disabilities-zh-2428e7eb"
+        "title": "能力網 科技分享專業版 2026 票券現已開放購買",
+        "slug": "abilitynet-techshare-pro-2026-tickets-now-available-zh-62566f93"
       }
     ]
   }
