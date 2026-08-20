@@ -1,55 +1,55 @@
 {
   "date": "2026-08-20",
-  "generatedAt": "2026-08-20T02:03:07.579Z",
+  "generatedAt": "2026-08-20T13:30:00.347Z",
   "en": {
-    "title": "Australia Passes NDIS Amendment Bill 2026 to Strengthen Disability Support",
-    "summary": "The Australian Parliament passed the NDIS Amendment Bill 2026, aiming to make the National Disability Insurance Scheme stronger, fairer and more sustainable. In related news, U.S. Senator Jeanne Shaheen announced federal funding for affordable housing in Salem and healthcare accessibility in Nashua. Additionally, Miami University launched GrackleScan, a new accessibility tool, while UNESCO Japan promoted social inclusion programs and San Francisco reopened its small business accessibility grant.",
+    "title": "NDIS Amendment Bill 2026 Passes Australian Parliament, Boosting Disability Support",
+    "summary": "The Australian Parliament passed the NDIS Amendment Bill 2026, aiming to make the National Disability Insurance Scheme stronger, fairer and more sustainable. In other news, a European accessible tech accelerator introduced a mandatory co-creation standard with disabled users, while Miami University launched the GrackleScan accessibility tool. Darwin joined the Hidden Disabilities Sunflower program, and the Clallam County Fair opened with a new accessibility focus.",
     "highlights": [
       {
         "title": "NDIS Amendment Bill 2026 passes parliament",
         "slug": "ndis-amendment-bill-2026-passes-parliament-4e0d3f4d"
       },
       {
-        "title": "Shaheen Highlights Federal Funding Secured for Affordable Housing in Salem and Health Care Accessibility in Nashua",
-        "slug": "shaheen-highlights-federal-funding-secured-for-affordable-housing-in-salem-and-h-f7ebaa1c"
+        "title": "European Accessible Tech Accelerator Sets New Standard: Mandatory Co-creation with Disabled Users Improves Product Usability",
+        "slug": "european-accessible-tech-accelerator-sets-new-standard-mandatory-co-creation-wit-0533cc37"
+      },
+      {
+        "title": "Darwin Strengthens Inclusion with Hidden Disabilities Sunflower Program",
+        "slug": "darwin-strengthens-inclusion-with-hidden-disabilities-sunflower-program-ecdfc404"
       },
       {
         "title": "New accessibility tool: GrackleScan - Miami University",
         "slug": "new-accessibility-tool-gracklescan-miami-university-06536ad7"
       },
       {
-        "title": "UNESCO Japan Supports Social Inclusion and Disability Welfare",
-        "slug": "unesco-japan-supports-social-inclusion-and-disability-welfare-997df125"
-      },
-      {
-        "title": "San Francisco Restarts Small Business Accessibility Facilities Grant, Up to $10,000 per Business",
-        "slug": "san-francisco-restarts-small-business-accessibility-facilities-grant-up-to-10000-cbe36e37"
+        "title": "Clallam County Fair Opens With New Focus on Accessibility",
+        "slug": "clallam-county-fair-opens-with-new-focus-on-accessibility-a8538132"
       }
     ]
   },
   "zh-TW": {
-    "title": "澳洲通過NDIS修正案2026 年，旨在加強殘障支援與永續發展",
-    "summary": "澳洲議會通過了NDIS修正案2026，旨在使國家殘障保險計畫更強大、公平且永續。美國參議員謝恩宣佈為薩勒姆的可負擔住房和納舒亞的醫療可及性爭取聯邦資金。此外，邁阿密大學推出新無障礙工具GrackleScan，聯合國教科文組織日本推動社會包容計畫，舊金山重啟小商業無障礙設施補助金。",
+    "title": "澳洲 通過 NDIS 修正案 2026 加強 殘障 支援 與 永續 發展",
+    "summary": "澳洲議會通過了NDIS修正案2026，旨在使國家殘障保險計畫更強大、公平且可持續。同時，歐洲無礙科技加速器推出強制殘障共創的新標準，邁阿密大學則發佈GrackleScan無障礙工具。達爾文加入隱形殘障向日葵計畫，克拉拉姆縣博覽會亦以新焦點開放，關注無障礙設施。",
     "highlights": [
       {
         "title": "NDIS修正案2026年通过议会",
         "slug": "ndis-amendment-bill-2026-passes-parliament-zh-4e0d3f4d"
       },
       {
-        "title": "謝恩參議員宣佈為薩勒姆的可負擔住房和納舒亞的醫療可及性爭取聯邦資金",
-        "slug": "shaheen-highlights-federal-funding-secured-for-affordable-housing-in-salem-and-h-zh-f7ebaa1c"
+        "title": "歐洲無礙科技加速器立新標準：強制殘障共創提升產品實用性",
+        "slug": "european-accessible-tech-accelerator-sets-new-standard-mandatory-co-creation-wit-zh-0533cc37"
+      },
+      {
+        "title": "達爾文加入隱形殘障向日葵計畫，強化包容性",
+        "slug": "darwin-strengthens-inclusion-with-hidden-disabilities-sunflower-program-zh-ecdfc404"
       },
       {
         "title": "迈阿密大学推出新无障碍工具 GrackleScan",
         "slug": "new-accessibility-tool-gracklescan-miami-university-zh-06536ad7"
       },
       {
-        "title": "聯合國教科文組織 日本 支持 社會 包容 與 殘障 福利",
-        "slug": "unesco-japan-supports-social-inclusion-and-disability-welfare-zh-997df125"
-      },
-      {
-        "title": "【灣區新聞】舊金山重啟小商業無障礙設施撥款 每家最高可獲一萬元補助（視頻）",
-        "slug": "san-francisco-restarts-small-business-accessibility-facilities-grant-up-to-10000-zh-cbe36e37"
+        "title": "克拉拉姆縣博覽會以新焦點開放，關注無障礙設施",
+        "slug": "clallam-county-fair-opens-with-new-focus-on-accessibility-zh-a8538132"
       }
     ]
   }
