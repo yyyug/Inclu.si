@@ -1,55 +1,55 @@
 {
-  "date": "2026-08-19",
-  "generatedAt": "2026-08-19T13:27:03.644Z",
+  "date": "2026-08-20",
+  "generatedAt": "2026-08-20T02:03:07.579Z",
   "en": {
-    "title": "European Disability Card Directive Advances as Delegated Act Adopted",
-    "summary": "The European Commission adopted the Delegated Act on the European Disability Card Directive, adding technical details to the legislation. In related news, Allyable secured TX-RAMP certification to expand secure digital accessibility solutions in Texas, and NYU Langone researchers unveiled AI-powered tools to improve accessibility for blind individuals. Additionally, cities are rolling out accessibility upgrades and reports highlight ongoing shortages of accessible rooms for travelers with disabilities in Japan.",
+    "title": "Australia Passes NDIS Amendment Bill 2026 to Strengthen Disability Support",
+    "summary": "The Australian Parliament passed the NDIS Amendment Bill 2026, aiming to make the National Disability Insurance Scheme stronger, fairer and more sustainable. In related news, U.S. Senator Jeanne Shaheen announced federal funding for affordable housing in Salem and healthcare accessibility in Nashua. Additionally, Miami University launched GrackleScan, a new accessibility tool, while UNESCO Japan promoted social inclusion programs and San Francisco reopened its small business accessibility grant.",
     "highlights": [
       {
-        "title": "Delegated Act on the European Disability Card Directive adopted",
-        "slug": "delegated-act-on-the-european-disability-card-directive-adopted-475257b1"
+        "title": "NDIS Amendment Bill 2026 passes parliament",
+        "slug": "ndis-amendment-bill-2026-passes-parliament-4e0d3f4d"
       },
       {
-        "title": "Allyable Achieves TX-RAMP Certification, Expanding Secure Digital Accessibility Solutions for Texas Organizations",
-        "slug": "allyable-achieves-tx-ramp-certification-expanding-secure-digital-accessibility-s-73c02d07"
+        "title": "Shaheen Highlights Federal Funding Secured for Affordable Housing in Salem and Health Care Accessibility in Nashua",
+        "slug": "shaheen-highlights-federal-funding-secured-for-affordable-housing-in-salem-and-h-f7ebaa1c"
       },
       {
-        "title": "NYU Langone researchers build AI-powered tools to improve accessibility for blind people - CBS News",
-        "slug": "nyu-langone-researchers-build-ai-powered-tools-to-improve-accessibility-for-blin-6953a12f"
+        "title": "New accessibility tool: GrackleScan - Miami University",
+        "slug": "new-accessibility-tool-gracklescan-miami-university-06536ad7"
       },
       {
-        "title": "City responds to neighborhood safety concerns, outlines accessibility upgrades",
-        "slug": "city-responds-to-neighborhood-safety-concerns-outlines-accessibility-upgrades-54a3a21d"
+        "title": "UNESCO Japan Supports Social Inclusion and Disability Welfare",
+        "slug": "unesco-japan-supports-social-inclusion-and-disability-welfare-997df125"
       },
       {
-        "title": "Shortage of Accessible Rooms for Inbound Travelers in Japan",
-        "slug": "shortage-of-accessible-rooms-for-inbound-travelers-in-japan-9b8607f8"
+        "title": "San Francisco Restarts Small Business Accessibility Facilities Grant, Up to $10,000 per Business",
+        "slug": "san-francisco-restarts-small-business-accessibility-facilities-grant-up-to-10000-cbe36e37"
       }
     ]
   },
   "zh-TW": {
-    "title": "歐洲殘疾人卡指令授權法案通關，德州及全球無障礙進展",
-    "summary": "歐洲委員會於7月1日發布歐洲殘疾人卡指令的授權法案最終文本，為立法添加技術細節。同時，Allyable 取得 TX-RAMP 認證，擴展德州組織的安全數位無障礙解決方案；紐約大學朗格尼醫學中心開發 AI 工具協助盲人改善無障礙體驗。各地亦推出無障礙升級，並有報告指出日本入境殘障旅客仍面臨無障礙客房不足的問題。",
+    "title": "澳洲通過NDIS修正案2026 年，旨在加強殘障支援與永續發展",
+    "summary": "澳洲議會通過了NDIS修正案2026，旨在使國家殘障保險計畫更強大、公平且永續。美國參議員謝恩宣佈為薩勒姆的可負擔住房和納舒亞的醫療可及性爭取聯邦資金。此外，邁阿密大學推出新無障礙工具GrackleScan，聯合國教科文組織日本推動社會包容計畫，舊金山重啟小商業無障礙設施補助金。",
     "highlights": [
       {
-        "title": "歐洲殘疾人卡指令的授權法案已被採納",
-        "slug": "delegated-act-on-the-european-disability-card-directive-adopted-zh-475257b1"
+        "title": "NDIS修正案2026年通过议会",
+        "slug": "ndis-amendment-bill-2026-passes-parliament-zh-4e0d3f4d"
       },
       {
-        "title": "Allyable 獲得 TX-RAMP 認證，擴展德州組織的安全數位無障礙解決方案",
-        "slug": "allyable-achieves-tx-ramp-certification-expanding-secure-digital-accessibility-s-zh-73c02d07"
+        "title": "謝恩參議員宣佈為薩勒姆的可負擔住房和納舒亞的醫療可及性爭取聯邦資金",
+        "slug": "shaheen-highlights-federal-funding-secured-for-affordable-housing-in-salem-and-h-zh-f7ebaa1c"
       },
       {
-        "title": "紐約大學朗格尼醫學中心研究人員開發AI工具以提升盲人無障礙 - CBS News",
-        "slug": "nyu-langone-researchers-build-ai-powered-tools-to-improve-accessibility-for-blin-zh-6953a12f"
+        "title": "迈阿密大学推出新无障碍工具 GrackleScan",
+        "slug": "new-accessibility-tool-gracklescan-miami-university-zh-06536ad7"
       },
       {
-        "title": "市政府回應社區安全顧慮，規劃無障礙升級措施",
-        "slug": "city-responds-to-neighborhood-safety-concerns-outlines-accessibility-upgrades-zh-54a3a21d"
+        "title": "聯合國教科文組織 日本 支持 社會 包容 與 殘障 福利",
+        "slug": "unesco-japan-supports-social-inclusion-and-disability-welfare-zh-997df125"
       },
       {
-        "title": "日本入境旅客無障礙客房不足",
-        "slug": "shortage-of-accessible-rooms-for-inbound-travelers-in-japan-zh-9b8607f8"
+        "title": "【灣區新聞】舊金山重啟小商業無障礙設施撥款 每家最高可獲一萬元補助（視頻）",
+        "slug": "san-francisco-restarts-small-business-accessibility-facilities-grant-up-to-10000-zh-cbe36e37"
       }
     ]
   }
