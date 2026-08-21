@@ -1,59 +1,67 @@
 {
   "date": "2026-08-21",
-  "generatedAt": "2026-08-21T02:10:08.304Z",
+  "generatedAt": "2026-08-21T13:28:49.848Z",
   "en": {
-    "title": "New Bill Aims to Boost Accessible Low-Income Housing Units Nationwide",
-    "summary": "A proposed federal bill seeks to increase the number of Low-Income Housing Tax Credit developments that include accessible units for people with disabilities. Meanwhile, San Francisco has relaunched a grant program offering up to $10,000 for small businesses to improve physical accessibility. Other highlights include Ashok Leyland's new wide bus, Eden Hualien's accessible outdoor program, and NASCIO's review of state digital accessibility officers.",
+    "title": "US Lawmakers Push Bill to Expand Accessible Affordable Housing for Disabled",
+    "summary": "A proposed bill aims to increase the number of Low-Income Housing Tax Credit projects that include accessible units for people with disabilities. Meanwhile, a teenager with severe gastrointestinal disability faces possible NDIS funding cuts that could threaten his life, and state digital accessibility officers report progress but ongoing challenges. Additional highlights include Louisiana's tourism accessibility campaign, a barrier‑free tour with sign language interpreters in Chungli, and a guide to elderly‑friendly marine museums in Taiwan.",
     "highlights": [
       {
         "title": "Bill Seeks to Increase Accessible LIHTC Developments - Affordable Housing Finance",
         "slug": "bill-seeks-to-increase-accessible-lihtc-developments-affordable-housing-finance-401bf88d"
       },
       {
-        "title": "San Francisco relaunches accessibility renovation subsidy for small businesses, offering up to $10,000",
-        "slug": "san-francisco-relaunches-accessibility-renovation-subsidy-for-small-businesses-o-dba96daa"
-      },
-      {
-        "title": "Ashok Leyland Introduces Oyster Wide Bus",
-        "slug": "ashok-leyland-introduces-oyster-wide-bus-2268aae5"
-      },
-      {
-        "title": "Eden Hualien launches first accessible outdoor experience 'Outdoors For All'",
-        "slug": "eden-hualien-launches-first-accessible-outdoor-experience-outdoors-for-all-6571d92d"
+        "title": "16-year-old Bryn, who has never eaten food, faces possible NDIS funding cuts that his mother fears could threaten his life",
+        "slug": "16-year-old-bryn-who-has-never-eaten-food-faces-possible-ndis-funding-cuts-that--616faf88"
       },
       {
         "title": "NASCIO Looks in on State Digital Accessibility Officers - GovTech",
         "slug": "nascio-looks-in-on-state-digital-accessibility-officers-govtech-17fadb60"
+      },
+      {
+        "title": "Beyond the Deadline: Counties Make Digital Accessibility an Everyday Practice",
+        "slug": "beyond-the-deadline-counties-make-digital-accessibility-an-everyday-practice-4e603d57"
+      },
+      {
+        "title": "Louisiana launches new campaign to attract more tourists, looks to improve accessibility",
+        "slug": "louisiana-launches-new-campaign-to-attract-more-tourists-looks-to-improve-access-35f2ce5e"
+      },
+      {
+        "title": "Chungli Disability Service Center Leads Barrier-Free Tour with Sign Language Interpreter Assistance",
+        "slug": "chungli-disability-service-center-leads-barrier-free-tour-with-sign-language-int-795543d0"
+      },
+      {
+        "title": "Senior-Exclusive: Choose Top 5 Elderly-Friendly Accessible Marine Museums Across Taiwan for Summer Cooling",
+        "slug": "senior-exclusive-choose-top-5-elderly-friendly-accessible-marine-museums-across--9ada058c"
       }
     ]
   },
   "zh-TW": {
-    "title": "新法案推動可及低收入住房，舊金山推出無障礙改造補助",
-    "summary": "一項美國聯邦法案提出提升低收入住房稅抵項目中的無障礙單位數量。舊金山同時重新推出無障礙改造補助計畫，最高補助一萬元協助小商戶改善實體無障礙。其他亮點包括Ashok Leyland寬體巴士、伊甸花蓮無障礙戶外體驗、NASCIO對州級數位無障礙官員的檢視，以及討論白色手杖作為訊號的實用性。",
+    "title": "美國推擴無障礙親民住宅法案",
+    "summary": "美國提出法案，旨在提升低收入住房稅抵項目中無障礙單位的數量，以惠殘障人士。同時，澳洲一名依賴管道進食的十六歲少年面臨NDIS資金可能大幅削減，生存受威脅。此外，州級數位無障礙官員報告進展但仍有挑戰，路易斯安那州推出觀光無障礙改善計畫，並有討論殘障與問責的社群討論。",
     "highlights": [
       {
         "title": "法案尋求增加可及的 LIHTC 住宅開發 - Affordable Housing Finance",
         "slug": "bill-seeks-to-increase-accessible-lihtc-developments-affordable-housing-finance-zh-401bf88d"
       },
       {
-        "title": "三藩市重推無障礙改造補助 小商戶申請最高獲1萬元",
-        "slug": "san-francisco-relaunches-accessibility-renovation-subsidy-for-small-businesses-o-zh-dba96daa"
-      },
-      {
-        "title": "Ashok Leyland 推出 Oyster Wide 巴士",
-        "slug": "ashok-leyland-introduces-oyster-wide-bus-zh-2268aae5"
-      },
-      {
-        "title": "伊甸花蓮首辦無障礙戶外體驗 Outdoors For All - 蕃新聞",
-        "slug": "eden-hualien-launches-first-accessible-outdoor-experience-outdoors-for-all-zh-6571d92d"
+        "title": "16歲 Bryn 從未進食，母親擔心新削減 NDIS 資金將威脅其生存",
+        "slug": "16-year-old-bryn-who-has-never-eaten-food-faces-possible-ndis-funding-cuts-that--zh-616faf88"
       },
       {
         "title": "NASCIO關注州級數位無障礙官員的情況",
         "slug": "nascio-looks-in-on-state-digital-accessibility-officers-govtech-zh-17fadb60"
       },
       {
-        "title": "白色手杖 SOS 訊號的討論",
-        "slug": "discussion-on-white-cane-sos-signal-zh-393130ce"
+        "title": "超越期限：縣府將數位無障礙納入日常實務",
+        "slug": "beyond-the-deadline-counties-make-digital-accessibility-an-everyday-practice-zh-4e603d57"
+      },
+      {
+        "title": "路易斯安那州推出新運動吸引更多遊客，並著重改善無障礙設施",
+        "slug": "louisiana-launches-new-campaign-to-attract-more-tourists-looks-to-improve-access-zh-35f2ce5e"
+      },
+      {
+        "title": "關於殘障與問責的討論",
+        "slug": "discussion-on-disability-and-accountability-zh-43c6ecce"
       }
     ]
   }
