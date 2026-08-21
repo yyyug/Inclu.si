@@ -42249,5 +42249,400 @@
     "publishedAt": "2026-08-20T13:22:27.000Z",
     "fetchedAt": "2026-08-20T13:36:20.158Z",
     "body": "YouSports 與 SALTO 包容與多樣性 提供免費線上課程，探討運動作為促進包容、福祉與社區影響的工具。\n推文來源： [Erasmus+ UK (@ErasmusPlusUK)](https://x.com/ErasmusPlusUK/status/2090429255804969192)\n外部連結： [https://www.salto-youth.net/rc/inclusion/inclusiontraining/idtalks](https://www.salto-youth.net/rc/inclusion/inclusiontraining/idtalks)"
+  },
+  {
+    "title": "蒙特普萊森特母親請求Costco提供無障礙購物車給殘疾女兒",
+    "slug": "mount-pleasant-mother-requests-costco-provide-accessible-shopping-cart-for-her-d-zh-a01f85f1",
+    "lang": "zh-TW",
+    "summary": "蒙特普萊森特的一位母親呼籲Costco提供無障礙購物車，讓她的殘疾女兒能夠獨立購物，凸顯零售環境需要更具包容性。",
+    "category": "physical-design",
+    "tags": [
+      "disability",
+      "retail",
+      "shopping cart",
+      "accessibility"
+    ],
+    "sourceName": "WCIV",
+    "sourceUrl": "https://abcnews4.com/news/local/gallery/mount-pleasant-mom-asks-costco-for-accessible-shopping-cart-for-daughter-with-disabilities-charleston-south-carolina-family-complaint-worry-request-community-store-news-loca-challenge-solution-help-child-daughter-mother",
+    "relatedSources": [
+      {
+        "name": "WCIV",
+        "url": "https://abcnews4.com/news/local/gallery/mount-pleasant-mom-asks-costco-for-accessible-shopping-cart-for-daughter-with-disabilities-charleston-south-carolina-family-complaint-worry-request-community-store-news-loca-challenge-solution-help-child-daughter-mother"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a01f85f1",
+    "status": "published",
+    "translationOf": "mount-pleasant-mother-requests-costco-provide-accessible-shopping-cart-for-her-d-a01f85f1",
+    "publishedAt": "2026-08-20T23:43:49.000Z",
+    "fetchedAt": "2026-08-21T01:55:11.841Z",
+    "body": "蒙特普萊森特的一位母親呼籲Costco提供無障礙購物車，讓她的殘疾女兒能夠獨立購物，凸顯零售環境需要更具包容性。\n\n原文來源： [WCIV](https://abcnews4.com/news/local/gallery/mount-pleasant-mom-asks-costco-for-accessible-shopping-cart-for-daughter-with-disabilities-charleston-south-carolina-family-complaint-worry-request-community-store-news-loca-challenge-solution-help-child-daughter-mother)"
+  },
+  {
+    "title": "Triple-A 老手與無障礙專家合作成立遊戲開發合作社 Raze and Rebuild Studio",
+    "slug": "triple-a-veterans-and-accessibility-experts-launch-game-development-coop-raze-an-zh-e3801f50",
+    "lang": "zh-TW",
+    "summary": "來自 Triple-A 遊戲公司的資深開發者與無障礙專家聯手成立 Raze and Rebuild Studio 合作社，專注於開發無障礙遊戲並分享最佳實踐。",
+    "category": "digital-a11y",
+    "tags": [
+      "game development",
+      "accessibility",
+      "co‑op",
+      "industry"
+    ],
+    "sourceName": "Game Developer",
+    "sourceUrl": "https://www.gamedeveloper.com/business/triple-a-vets-and-accessibility-experts-launch-new-game-dev-co-op-raze-and-rebuild-studio",
+    "relatedSources": [
+      {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/triple-a-vets-and-accessibility-experts-launch-new-game-dev-co-op-raze-and-rebuild-studio"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e3801f50",
+    "status": "published",
+    "translationOf": "triple-a-veterans-and-accessibility-experts-launch-game-development-coop-raze-an-e3801f50",
+    "publishedAt": "2026-08-19T15:09:41.000Z",
+    "fetchedAt": "2026-08-21T01:55:11.904Z",
+    "body": "來自 Triple-A 遊戲公司的資深開發者與無障礙專家聯手成立 Raze and Rebuild Studio 合作社，專注於開發無障礙遊戲並分享最佳實踐。\n\n原文來源： [Game Developer](https://www.gamedeveloper.com/business/triple-a-vets-and-accessibility-experts-launch-new-game-dev-co-op-raze-and-rebuild-studio)"
+  },
+  {
+    "title": "各州在推進無障礙方面取得進展但仍面臨困難，數位官員表示",
+    "slug": "states-are-moving-on-accessibility-but-struggling-say-digital-officers-statescoo-zh-fb18a68d",
+    "lang": "zh-TW",
+    "summary": "州級數位無障礙官員指出，雖然各州在無障礙建設上有所進展，但仍然遇到許多挑戰。",
+    "category": "digital-a11y",
+    "tags": [
+      "state",
+      "digital accessibility",
+      "officers"
+    ],
+    "sourceName": "StateScoop",
+    "sourceUrl": "https://statescoop.com/states-accessibility-struggles-nascio-survey",
+    "relatedSources": [
+      {
+        "name": "StateScoop",
+        "url": "https://statescoop.com/states-accessibility-struggles-nascio-survey"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-fb18a68d",
+    "status": "published",
+    "translationOf": "states-are-moving-on-accessibility-but-struggling-say-digital-officers-statescoo-fb18a68d",
+    "publishedAt": "2026-08-20T21:03:15.000Z",
+    "fetchedAt": "2026-08-21T01:55:22.595Z",
+    "body": "州級數位無障礙官員指出，雖然各州在無障礙建設上有所進展，但仍然遇到許多挑戰。\n\n原文來源： [StateScoop](https://statescoop.com/states-accessibility-struggles-nascio-survey)"
+  },
+  {
+    "title": "NASCIO關注州級數位無障礙官員的情況",
+    "slug": "nascio-looks-in-on-state-digital-accessibility-officers-govtech-zh-17fadb60",
+    "lang": "zh-TW",
+    "summary": "NASCIO檢視了州級數位無障礙官員的角色與表現。",
+    "category": "digital-a11y",
+    "tags": [
+      "NASCIO",
+      "state",
+      "digital accessibility officers"
+    ],
+    "sourceName": "GovTech",
+    "sourceUrl": "https://www.govtech.com/gov-experience/nascio-looks-in-on-state-digital-accessibility-officers",
+    "relatedSources": [
+      {
+        "name": "GovTech",
+        "url": "https://www.govtech.com/gov-experience/nascio-looks-in-on-state-digital-accessibility-officers"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-17fadb60",
+    "status": "published",
+    "translationOf": "nascio-looks-in-on-state-digital-accessibility-officers-govtech-17fadb60",
+    "publishedAt": "2026-08-20T22:29:58.000Z",
+    "fetchedAt": "2026-08-21T01:55:22.668Z",
+    "body": "NASCIO檢視了州級數位無障礙官員的角色與表現。\n\n原文來源： [GovTech](https://www.govtech.com/gov-experience/nascio-looks-in-on-state-digital-accessibility-officers)"
+  },
+  {
+    "title": "超越期限：縣府將數位無障礙納入日常實務",
+    "slug": "beyond-the-deadline-counties-make-digital-accessibility-an-everyday-practice-zh-4e603d57",
+    "lang": "zh-TW",
+    "summary": "各縣府正把數位無障礙融入日常工作，確保網站和線上服務對殘障人士可用。",
+    "category": "digital-a11y",
+    "tags": [
+      "digital accessibility",
+      "county government",
+      "website accessibility"
+    ],
+    "sourceName": "Conduit Street Blog",
+    "sourceUrl": "https://conduitstreet.mdcounties.org/2026/08/20/beyond-the-deadline-counties-make-digital-accessibility-an-everyday-practice",
+    "relatedSources": [
+      {
+        "name": "Conduit Street Blog",
+        "url": "https://conduitstreet.mdcounties.org/2026/08/20/beyond-the-deadline-counties-make-digital-accessibility-an-everyday-practice"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-4e603d57",
+    "status": "published",
+    "translationOf": "beyond-the-deadline-counties-make-digital-accessibility-an-everyday-practice-4e603d57",
+    "publishedAt": "2026-08-20T20:54:57.000Z",
+    "fetchedAt": "2026-08-21T01:55:39.149Z",
+    "body": "各縣府正把數位無障礙融入日常工作，確保網站和線上服務對殘障人士可用。\n\n原文來源： [Conduit Street Blog](https://conduitstreet.mdcounties.org/2026/08/20/beyond-the-deadline-counties-make-digital-accessibility-an-everyday-practice)"
+  },
+  {
+    "title": "無障礙航空旅行日 - KRXI",
+    "slug": "accessible-air-travel-day-krxi-zh-f0d344cd",
+    "lang": "zh-TW",
+    "summary": "KRXI 報導無障礙航空旅行日，提升對殘障旅客的航空服務認識與改善。",
+    "category": "assistive-tech",
+    "tags": [
+      "air travel",
+      "disability awareness",
+      "accessibility"
+    ],
+    "sourceName": "KRXI",
+    "sourceUrl": "https://foxreno.com/news/mornings-on-fox-11-and-arc-reno/accessible-air-travel-day",
+    "relatedSources": [
+      {
+        "name": "KRXI",
+        "url": "https://foxreno.com/news/mornings-on-fox-11-and-arc-reno/accessible-air-travel-day"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f0d344cd",
+    "status": "published",
+    "translationOf": "accessible-air-travel-day-krxi-f0d344cd",
+    "publishedAt": "2026-08-20T17:30:52.000Z",
+    "fetchedAt": "2026-08-21T01:55:39.212Z",
+    "body": "KRXI 報導無障礙航空旅行日，提升對殘障旅客的航空服務認識與改善。\n\n原文來源： [KRXI](https://foxreno.com/news/mornings-on-fox-11-and-arc-reno/accessible-air-travel-day)"
+  },
+  {
+    "title": "法案尋求增加可及的 LIHTC 住宅開發 - Affordable Housing Finance",
+    "slug": "bill-seeks-to-increase-accessible-lihtc-developments-affordable-housing-finance-zh-401bf88d",
+    "lang": "zh-TW",
+    "summary": "一項提案法案旨在提升包含殘障人士可及單位的低收入住房稅抵項目數量。",
+    "category": "laws-rights",
+    "tags": [
+      "housing",
+      "LIHTC",
+      "disability rights",
+      "accessible units"
+    ],
+    "sourceName": "Affordable Housing Finance",
+    "sourceUrl": "https://www.housingfinance.com/policy-legislation/bill-seeks-increase-accessible-lihtc-developments",
+    "relatedSources": [
+      {
+        "name": "Affordable Housing Finance",
+        "url": "https://www.housingfinance.com/policy-legislation/bill-seeks-increase-accessible-lihtc-developments"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-401bf88d",
+    "status": "published",
+    "translationOf": "bill-seeks-to-increase-accessible-lihtc-developments-affordable-housing-finance-401bf88d",
+    "publishedAt": "2026-08-20T21:57:11.000Z",
+    "fetchedAt": "2026-08-21T01:55:39.269Z",
+    "body": "一項提案法案旨在提升包含殘障人士可及單位的低收入住房稅抵項目數量。\n\n原文來源： [Affordable Housing Finance](https://www.housingfinance.com/policy-legislation/bill-seeks-increase-accessible-lihtc-developments)"
+  },
+  {
+    "title": "三藩市重推無障礙改造補助 小商戶申請最高獲1萬元",
+    "slug": "san-francisco-relaunches-accessibility-renovation-subsidy-for-small-businesses-o-zh-dba96daa",
+    "lang": "zh-TW",
+    "summary": "三藩市重新推出無障礙改造補助計畫，協助小商戶進行坡道、門口擴寬、無障礙廁所等設施改造，最高補助金額為一萬元。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility grant",
+      "small business",
+      "San Francisco",
+      "physical design"
+    ],
+    "sourceName": "Singtaousa",
+    "sourceUrl": "https://www.singtaousa.com/2026/08/20/news/usa/san-francisco-accessibility-grant",
+    "relatedSources": [
+      {
+        "name": "Singtaousa",
+        "url": "https://www.singtaousa.com/2026/08/20/news/usa/san-francisco-accessibility-grant"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-dba96daa",
+    "status": "published",
+    "translationOf": "san-francisco-relaunches-accessibility-renovation-subsidy-for-small-businesses-o-dba96daa",
+    "publishedAt": "2026-08-20T13:00:00.000Z",
+    "fetchedAt": "2026-08-21T01:55:53.447Z",
+    "body": "三藩市重新推出無障礙改造補助計畫，協助小商戶進行坡道、門口擴寬、無障礙廁所等設施改造，最高補助金額為一萬元。\n\n原文來源： [Singtaousa](https://www.singtaousa.com/2026/08/20/news/usa/san-francisco-accessibility-grant)"
+  },
+  {
+    "title": "16歲 Bryn 從未進食，母親擔心新削減 NDIS 資金將威脅其生存",
+    "slug": "16-year-old-bryn-who-has-never-eaten-food-faces-possible-ndis-funding-cuts-that--zh-616faf88",
+    "lang": "zh-TW",
+    "summary": "Bryn Skyes 是一名自嬰兒期就依賴管道進食的十六歲少年，因澳洲殘險保險計畫（NDIS）近期改革可能導致其資金減少高達 99%，母親擔心這將威脅到他的生命。",
+    "category": "laws-rights",
+    "tags": [
+      "NDIS",
+      "disability funding",
+      "Australia",
+      "tube-fed",
+      "rights"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/21/bryn-is-16-and-has-never-eaten-a-meal-his-mothers-terrified-the-newly-cut-ndis-wont-step-up-to-keep-him-alive",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/australia-news/2026/aug/21/bryn-is-16-and-has-never-eaten-a-meal-his-mothers-terrified-the-newly-cut-ndis-wont-step-up-to-keep-him-alive"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-616faf88",
+    "status": "published",
+    "translationOf": "16-year-old-bryn-who-has-never-eaten-food-faces-possible-ndis-funding-cuts-that--616faf88",
+    "publishedAt": "2026-08-20T15:00:54.000Z",
+    "fetchedAt": "2026-08-21T01:55:53.504Z",
+    "body": "Bryn Skyes 是一名自嬰兒期就依賴管道進食的十六歲少年，因澳洲殘險保險計畫（NDIS）近期改革可能導致其資金減少高達 99%，母親擔心這將威脅到他的生命。\n\n原文來源： [Unknown source](https://www.theguardian.com/australia-news/2026/aug/21/bryn-is-16-and-has-never-eaten-a-meal-his-mothers-terrified-the-newly-cut-ndis-wont-step-up-to-keep-him-alive)"
+  },
+  {
+    "title": "roycolor 已加入 PyPI",
+    "slug": "roycolor-added-to-pypi-zh-49442b2f",
+    "lang": "zh-TW",
+    "summary": "具有獨特性且經過無障礙測試的顏色和色彩映射，適用於科學圖表。",
+    "category": "digital-a11y",
+    "tags": [
+      "color accessibility",
+      "digital",
+      "visual impairment",
+      "colormap"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/roycolor",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/roycolor"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-49442b2f",
+    "status": "published",
+    "translationOf": "roycolor-added-to-pypi-49442b2f",
+    "publishedAt": "2026-08-19T19:15:46.000Z",
+    "fetchedAt": "2026-08-21T01:56:04.679Z",
+    "body": "具有獨特性且經過無障礙測試的顏色和色彩映射，適用於科學圖表。\n\n原文來源： [Pypi.org](https://pypi.org/project/roycolor)"
+  },
+  {
+    "title": "停車、休閒一站搞定！大雅雅楓停車場增建啟用",
+    "slug": "one-stop-parking-and-recreation-daya-yafeng-parking-facility-expansion-opens-zh-d6353225",
+    "lang": "zh-TW",
+    "summary": "大雅雅楓停車場增建為三層，汽車停車位由32格增至50格，並增設電梯、無障礙設施及室內多功能空間，提升停車量能並補足地方活動空間。",
+    "category": "physical-design",
+    "tags": [
+      "parking",
+      "barrier-free",
+      "elevator",
+      "physical design",
+      "Taichung"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%81%9C%E8%BB%8A-%E4%BC%91%E9%96%92-%E7%AB%99%E6%90%9E%E5%AE%9A-%E5%A4%A7%E9%9B%85%E9%9B%85%E6%A5%93%E5%81%9C%E8%BB%8A%E5%A0%B4%E5%A2%9E%E5%BB%BA%E5%95%9F%E7%94%A8-013005619.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E5%81%9C%E8%BB%8A-%E4%BC%91%E9%96%92-%E7%AB%99%E6%90%9E%E5%AE%9A-%E5%A4%A7%E9%9B%85%E9%9B%85%E6%A5%93%E5%81%9C%E8%BB%8A%E5%A0%B4%E5%A2%9E%E5%BB%BA%E5%95%9F%E7%94%A8-013005619.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-d6353225",
+    "status": "published",
+    "translationOf": "one-stop-parking-and-recreation-daya-yafeng-parking-facility-expansion-opens-d6353225",
+    "publishedAt": "2026-08-20T01:30:05.000Z",
+    "fetchedAt": "2026-08-21T01:56:04.734Z",
+    "body": "大雅雅楓停車場增建為三層，汽車停車位由32格增至50格，並增設電梯、無障礙設施及室內多功能空間，提升停車量能並補足地方活動空間。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%81%9C%E8%BB%8A-%E4%BC%91%E9%96%92-%E7%AB%99%E6%90%9E%E5%AE%9A-%E5%A4%A7%E9%9B%85%E9%9B%85%E6%A5%93%E5%81%9C%E8%BB%8A%E5%A0%B4%E5%A2%9E%E5%BB%BA%E5%95%9F%E7%94%A8-013005619.html)"
+  },
+  {
+    "title": "簡化申請程序 露營場合法化 苗縣加速推動",
+    "slug": "simplifying-application-process-for-legalizing-camping-sites-miaoli-county-accel-zh-0e6770e0",
+    "lang": "zh-TW",
+    "summary": "苗栗縣政府持續整合文化觀光局、工商發展處等單位，協助業者釐清土地容許使用、建築執照及無障礙設施設置等問題；目前經文觀局核准露營場容許使用者有23件，其中18件已取得建築執照，跨局處輔導及審查機制已逐步展現成效。",
+    "category": "physical-design",
+    "tags": [
+      "camping",
+      "barrier-free facilities",
+      "legalization",
+      "Miaoli",
+      "physical design"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d4ab3eb3-736c-4341-8596-5b4de7f5b3bd",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d4ab3eb3-736c-4341-8596-5b4de7f5b3bd"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-0e6770e0",
+    "status": "published",
+    "translationOf": "simplifying-application-process-for-legalizing-camping-sites-miaoli-county-accel-0e6770e0",
+    "publishedAt": "2026-08-19T20:10:00.000Z",
+    "fetchedAt": "2026-08-21T01:56:04.788Z",
+    "body": "苗栗縣政府持續整合文化觀光局、工商發展處等單位，協助業者釐清土地容許使用、建築執照及無障礙設施設置等問題；目前經文觀局核准露營場容許使用者有23件，其中18件已取得建築執照，跨局處輔導及審查機制已逐步展現成效。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d4ab3eb3-736c-4341-8596-5b4de7f5b3bd)"
   }
 ]
