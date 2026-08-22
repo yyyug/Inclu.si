@@ -1,67 +1,63 @@
 {
-  "date": "2026-08-21",
-  "generatedAt": "2026-08-21T13:28:49.848Z",
+  "date": "2026-08-22",
+  "generatedAt": "2026-08-22T13:12:59.975Z",
   "en": {
-    "title": "US Lawmakers Push Bill to Expand Accessible Affordable Housing for Disabled",
-    "summary": "A proposed bill aims to increase the number of Low-Income Housing Tax Credit projects that include accessible units for people with disabilities. Meanwhile, a teenager with severe gastrointestinal disability faces possible NDIS funding cuts that could threaten his life, and state digital accessibility officers report progress but ongoing challenges. Additional highlights include Louisiana's tourism accessibility campaign, a barrier‑free tour with sign language interpreters in Chungli, and a guide to elderly‑friendly marine museums in Taiwan.",
+    "title": "Kentucky Launches Accessible Housing Tool Amid Nationwide Disability Access Push",
+    "summary": "Kentucky has launched a new online tool enabling people with disabilities to locate accessible housing and public places, boosting independence and community inclusion. Meanwhile, Toyota is deploying mobile barrier‑free toilets for the Asian Games, and advocates warn that recent wildfires exposed critical gaps in disaster‑response accessibility for disabled individuals. A Chennai transit survey revealed persistent accessibility gaps, while a mother reported that accessible Noah Kahan tickets failed to accommodate her daughter's wheelchair, and an ASL practice video with descriptions highlights ongoing efforts to improve digital accessibility.",
     "highlights": [
       {
-        "title": "Bill Seeks to Increase Accessible LIHTC Developments - Affordable Housing Finance",
-        "slug": "bill-seeks-to-increase-accessible-lihtc-developments-affordable-housing-finance-401bf88d"
+        "title": "New tool helps Kentuckians find accessible places and housing",
+        "slug": "new-tool-helps-kentuckians-find-accessible-places-and-housing-4e86b706"
       },
       {
-        "title": "16-year-old Bryn, who has never eaten food, faces possible NDIS funding cuts that his mother fears could threaten his life",
-        "slug": "16-year-old-bryn-who-has-never-eaten-food-faces-possible-ndis-funding-cuts-that--616faf88"
+        "title": "Toyota Provides Mobile Barrier-Free Toilets for Asian Games",
+        "slug": "toyota-provides-mobile-barrier-free-toilets-for-asian-games-1686ac23"
       },
       {
-        "title": "NASCIO Looks in on State Digital Accessibility Officers - GovTech",
-        "slug": "nascio-looks-in-on-state-digital-accessibility-officers-govtech-17fadb60"
+        "title": "Wildfires expose accessibility failures: advocates",
+        "slug": "wildfires-expose-accessibility-failures-advocates-c50d5e81"
       },
       {
-        "title": "Beyond the Deadline: Counties Make Digital Accessibility an Everyday Practice",
-        "slug": "beyond-the-deadline-counties-make-digital-accessibility-an-everyday-practice-4e603d57"
+        "title": "Survey shows accessibility gaps in public transportation across Chennai",
+        "slug": "survey-shows-accessibility-gaps-in-public-transportation-across-chennai-bd74c971"
       },
       {
-        "title": "Louisiana launches new campaign to attract more tourists, looks to improve accessibility",
-        "slug": "louisiana-launches-new-campaign-to-attract-more-tourists-looks-to-improve-access-35f2ce5e"
+        "title": "Mother says accessible Noah Kahan tickets for Coors Field didn't accommodate daughter's wheelchair",
+        "slug": "mother-says-accessible-noah-kahan-tickets-for-coors-field-didnt-accommodate-daug-d5c92d2b"
       },
       {
-        "title": "Chungli Disability Service Center Leads Barrier-Free Tour with Sign Language Interpreter Assistance",
-        "slug": "chungli-disability-service-center-leads-barrier-free-tour-with-sign-language-int-795543d0"
-      },
-      {
-        "title": "Senior-Exclusive: Choose Top 5 Elderly-Friendly Accessible Marine Museums Across Taiwan for Summer Cooling",
-        "slug": "senior-exclusive-choose-top-5-elderly-friendly-accessible-marine-museums-across--9ada058c"
+        "title": "ASL Practice Video with Descriptions",
+        "slug": "asl-practice-video-with-descriptions-beaa9b18"
       }
     ]
   },
   "zh-TW": {
-    "title": "美國推擴無障礙親民住宅法案",
-    "summary": "美國提出法案，旨在提升低收入住房稅抵項目中無障礙單位的數量，以惠殘障人士。同時，澳洲一名依賴管道進食的十六歲少年面臨NDIS資金可能大幅削減，生存受威脅。此外，州級數位無障礙官員報告進展但仍有挑戰，路易斯安那州推出觀光無障礙改善計畫，並有討論殘障與問責的社群討論。",
+    "title": "肯塔基州推出無障礙住房搜尋工具，殘障權益獲關注",
+    "summary": "肯塔基州推出一款線上工具，讓殘障人士能夠搜尋無障礙住房與公共場所，提升自主生活與社區參與。同時，豐田為亞洲運動會部署可移動無障礙廁所，而近期野火凸顯災害應變中對殘障人士的無障礙缺口。金奈公共交通調查顯示無障礙差距持續存在，一位母親指出可供輪椅使用的諾亞·卡漢門票未能滿足女兒需求，且美國手語練習影片附描述強調數位無障礙的改進。",
     "highlights": [
       {
-        "title": "法案尋求增加可及的 LIHTC 住宅開發 - Affordable Housing Finance",
-        "slug": "bill-seeks-to-increase-accessible-lihtc-developments-affordable-housing-finance-zh-401bf88d"
+        "title": "新工具助肯塔基州民眾尋找無障礙場所與住房",
+        "slug": "new-tool-helps-kentuckians-find-accessible-places-and-housing-zh-4e86b706"
       },
       {
-        "title": "16歲 Bryn 從未進食，母親擔心新削減 NDIS 資金將威脅其生存",
-        "slug": "16-year-old-bryn-who-has-never-eaten-food-faces-possible-ndis-funding-cuts-that--zh-616faf88"
+        "title": "豐田為亞洲運動會提供可移動無障礙廁所",
+        "slug": "toyota-provides-mobile-barrier-free-toilets-for-asian-games-zh-1686ac23"
       },
       {
-        "title": "NASCIO關注州級數位無障礙官員的情況",
-        "slug": "nascio-looks-in-on-state-digital-accessibility-officers-govtech-zh-17fadb60"
+        "title": "野火揭露無障礙失誤：倡議者",
+        "slug": "wildfires-expose-accessibility-failures-advocates-zh-c50d5e81"
       },
       {
-        "title": "超越期限：縣府將數位無障礙納入日常實務",
-        "slug": "beyond-the-deadline-counties-make-digital-accessibility-an-everyday-practice-zh-4e603d57"
+        "title": "調查顯示金奈公共交通無障礙存在差距",
+        "slug": "survey-shows-accessibility-gaps-in-public-transportation-across-chennai-zh-bd74c971"
       },
       {
-        "title": "路易斯安那州推出新運動吸引更多遊客，並著重改善無障礙設施",
-        "slug": "louisiana-launches-new-campaign-to-attract-more-tourists-looks-to-improve-access-zh-35f2ce5e"
+        "title": "母親表示可供輪椅使用的諾亞·卡漢Coors Field門票未能滿足女兒的需求",
+        "slug": "mother-says-accessible-noah-kahan-tickets-for-coors-field-didnt-accommodate-daug-zh-d5c92d2b"
       },
       {
-        "title": "關於殘障與問責的討論",
-        "slug": "discussion-on-disability-and-accountability-zh-43c6ecce"
+        "title": "美國手語練習影片，含描述",
+        "slug": "asl-practice-video-with-descriptions-zh-beaa9b18"
       }
     ]
   }
