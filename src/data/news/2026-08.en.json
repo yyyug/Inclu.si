@@ -49073,5 +49073,106 @@
     "publishedAt": "2026-08-22T13:48:12.000Z",
     "fetchedAt": "2026-08-23T02:18:26.424Z",
     "body": "The Utah Council of the Blind shares information regarding UTA On Demand, an on-demand transportation service available in select Greater Salt Lake areas.\nTweet source: [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2091160510540738693)"
+  },
+  {
+    "title": "Salina hosts third annual accessibility seminar with OCCK",
+    "slug": "salina-hosts-third-annual-accessibility-seminar-with-occk-41fff2e7",
+    "lang": "en",
+    "summary": "Salina held its third annual accessibility seminar in partnership with OCCK, focusing on disability inclusion and accessibility practices.",
+    "category": "general",
+    "tags": [
+      "seminar",
+      "accessibility",
+      "OCCK",
+      "disability"
+    ],
+    "sourceName": "Salina Journal",
+    "sourceUrl": "https://www.salina.com/story/news/local/2026/08/23/salina-hosts-third-annual-accessibility-seminar-with-occk/91408285007",
+    "relatedSources": [
+      {
+        "name": "Salina Journal",
+        "url": "https://www.salina.com/story/news/local/2026/08/23/salina-hosts-third-annual-accessibility-seminar-with-occk/91408285007"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-41fff2e7",
+    "status": "published",
+    "translationOf": "salina-hosts-third-annual-accessibility-seminar-with-occk-zh-41fff2e7",
+    "publishedAt": "2026-08-23T09:06:00.000Z",
+    "fetchedAt": "2026-08-23T12:59:27.745Z",
+    "body": "Salina held its third annual accessibility seminar in partnership with OCCK, focusing on disability inclusion and accessibility practices.\n\nRead more from the original source: [Salina Journal](https://www.salina.com/story/news/local/2026/08/23/salina-hosts-third-annual-accessibility-seminar-with-occk/91408285007)"
+  },
+  {
+    "title": "Bronx Intersection Gets Accessibility Repairs Following Years Of Complaints",
+    "slug": "bronx-intersection-gets-accessibility-repairs-following-years-of-complaints-9466606e",
+    "lang": "en",
+    "summary": "After years of complaints, a Bronx intersection received accessibility repairs, including curb cuts and audible signals, to improve safety for pedestrians with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "intersection",
+      "repairs",
+      "accessibility",
+      "Bronx",
+      "curb cuts",
+      "audible signals"
+    ],
+    "sourceName": "News12 | Long Island",
+    "sourceUrl": "https://longisland.news12.com/bronx-intersection-gets-accessibility-repairs-following-years-of-complaints",
+    "relatedSources": [
+      {
+        "name": "News12 | Long Island",
+        "url": "https://longisland.news12.com/bronx-intersection-gets-accessibility-repairs-following-years-of-complaints"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-9466606e",
+    "status": "published",
+    "translationOf": "bronx-intersection-gets-accessibility-repairs-following-years-of-complaints-zh-9466606e",
+    "publishedAt": "2026-08-23T02:39:50.000Z",
+    "fetchedAt": "2026-08-23T12:59:27.832Z",
+    "body": "After years of complaints, a Bronx intersection received accessibility repairs, including curb cuts and audible signals, to improve safety for pedestrians with disabilities.\n\nRead more from the original source: [News12 | Long Island](https://longisland.news12.com/bronx-intersection-gets-accessibility-repairs-following-years-of-complaints)"
+  },
+  {
+    "title": "Intopia/intopia-a11y-guideline: Accessibility skill developed for Figma Make",
+    "slug": "intopiaintopia-a11y-guideline-accessibility-skill-developed-for-figma-make-38cf2d97",
+    "lang": "en",
+    "summary": "An accessibility skill has been created for Figma Make, hosted in the Intopia/intopia-a11y-guideline GitHub repository, inviting contributors to improve accessibility practices in design.",
+    "category": "digital-a11y",
+    "tags": [
+      "Figma",
+      "accessibility",
+      "design",
+      "GitHub"
+    ],
+    "sourceName": "Github.com",
+    "sourceUrl": "https://github.com/Intopia/intopia-a11y-guideline",
+    "relatedSources": [
+      {
+        "name": "Github.com",
+        "url": "https://github.com/Intopia/intopia-a11y-guideline"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-38cf2d97",
+    "status": "published",
+    "translationOf": "intopiaintopia-a11y-guideline-accessibility-skill-developed-for-figma-make-zh-38cf2d97",
+    "publishedAt": "2026-08-22T05:47:02.000Z",
+    "fetchedAt": "2026-08-23T12:59:36.550Z",
+    "body": "An accessibility skill has been created for Figma Make, hosted in the Intopia/intopia-a11y-guideline GitHub repository, inviting contributors to improve accessibility practices in design.\n\nRead more from the original source: [Github.com](https://github.com/Intopia/intopia-a11y-guideline)"
   }
 ]

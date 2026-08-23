@@ -49073,5 +49073,106 @@
     "publishedAt": "2026-08-22T13:48:12.000Z",
     "fetchedAt": "2026-08-23T02:18:26.424Z",
     "body": "猶他州盲人協會分享有關 UTA 按需 的資訊，這是一項在大鹽湖地區特定區域提供的按需交通服務。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2091160510540738693)"
+  },
+  {
+    "title": "薩利納舉辦第三屆年度無障礙研討會，與OCCK合作",
+    "slug": "salina-hosts-third-annual-accessibility-seminar-with-occk-zh-41fff2e7",
+    "lang": "zh-TW",
+    "summary": "薩利納舉辦第三屆年度無障礙研討會，與OCCK合作，聚焦殘障人士包容與無障礙實踐。",
+    "category": "general",
+    "tags": [
+      "seminar",
+      "accessibility",
+      "OCCK",
+      "disability"
+    ],
+    "sourceName": "Salina Journal",
+    "sourceUrl": "https://www.salina.com/story/news/local/2026/08/23/salina-hosts-third-annual-accessibility-seminar-with-occk/91408285007",
+    "relatedSources": [
+      {
+        "name": "Salina Journal",
+        "url": "https://www.salina.com/story/news/local/2026/08/23/salina-hosts-third-annual-accessibility-seminar-with-occk/91408285007"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-41fff2e7",
+    "status": "published",
+    "translationOf": "salina-hosts-third-annual-accessibility-seminar-with-occk-41fff2e7",
+    "publishedAt": "2026-08-23T09:06:00.000Z",
+    "fetchedAt": "2026-08-23T12:59:27.745Z",
+    "body": "薩利納舉辦第三屆年度無障礙研討會，與OCCK合作，聚焦殘障人士包容與無障礙實踐。\n\n原文來源： [Salina Journal](https://www.salina.com/story/news/local/2026/08/23/salina-hosts-third-annual-accessibility-seminar-with-occk/91408285007)"
+  },
+  {
+    "title": "布朗克斯交叉口進行無障礙維修",
+    "slug": "bronx-intersection-gets-accessibility-repairs-following-years-of-complaints-zh-9466606e",
+    "lang": "zh-TW",
+    "summary": "布朗克斯交叉口在多年投訴後進行了無障礙維修，包括坡道切割和聲音訊號，以提升殘障行人安全。",
+    "category": "physical-design",
+    "tags": [
+      "intersection",
+      "repairs",
+      "accessibility",
+      "Bronx",
+      "curb cuts",
+      "audible signals"
+    ],
+    "sourceName": "News12 | Long Island",
+    "sourceUrl": "https://longisland.news12.com/bronx-intersection-gets-accessibility-repairs-following-years-of-complaints",
+    "relatedSources": [
+      {
+        "name": "News12 | Long Island",
+        "url": "https://longisland.news12.com/bronx-intersection-gets-accessibility-repairs-following-years-of-complaints"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-9466606e",
+    "status": "published",
+    "translationOf": "bronx-intersection-gets-accessibility-repairs-following-years-of-complaints-9466606e",
+    "publishedAt": "2026-08-23T02:39:50.000Z",
+    "fetchedAt": "2026-08-23T12:59:27.832Z",
+    "body": "布朗克斯交叉口在多年投訴後進行了無障礙維修，包括坡道切割和聲音訊號，以提升殘障行人安全。\n\n原文來源： [News12 | Long Island](https://longisland.news12.com/bronx-intersection-gets-accessibility-repairs-following-years-of-complaints)"
+  },
+  {
+    "title": "Intopia/intopia-a11y-guideline：為 Figma Make 開發的無障礙技能",
+    "slug": "intopiaintopia-a11y-guideline-accessibility-skill-developed-for-figma-make-zh-38cf2d97",
+    "lang": "zh-TW",
+    "summary": "一項無障礙技能已為 Figma Make 建立，存放於 Intopia/intopia-a11y-guideline GitHub 儲存庫，邀請貢獻者改進設計中的無障礙實踐。",
+    "category": "digital-a11y",
+    "tags": [
+      "Figma",
+      "accessibility",
+      "design",
+      "GitHub"
+    ],
+    "sourceName": "Github.com",
+    "sourceUrl": "https://github.com/Intopia/intopia-a11y-guideline",
+    "relatedSources": [
+      {
+        "name": "Github.com",
+        "url": "https://github.com/Intopia/intopia-a11y-guideline"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-38cf2d97",
+    "status": "published",
+    "translationOf": "intopiaintopia-a11y-guideline-accessibility-skill-developed-for-figma-make-38cf2d97",
+    "publishedAt": "2026-08-22T05:47:02.000Z",
+    "fetchedAt": "2026-08-23T12:59:36.550Z",
+    "body": "一項無障礙技能已為 Figma Make 建立，存放於 Intopia/intopia-a11y-guideline GitHub 儲存庫，邀請貢獻者改進設計中的無障礙實踐。\n\n原文來源： [Github.com](https://github.com/Intopia/intopia-a11y-guideline)"
   }
 ]
