@@ -1,55 +1,55 @@
 {
-  "date": "2026-08-23",
-  "generatedAt": "2026-08-23T02:14:59.555Z",
+  "date": "2026-08-24",
+  "generatedAt": "2026-08-24T02:09:27.016Z",
   "en": {
-    "title": "Wildfires Reveal Disability Accessibility Gaps, Prompting Calls for Inclusive Emergency Planning",
-    "summary": "Advocates say recent wildfires exposed serious gaps in emergency planning for people with disabilities, calling for improved accessibility in disaster response. Meanwhile, Windows 11 adds a new accessibility setting that automatically maximizes apps upon launch, and FreeScan Pro announces a feature update to identify and remediate site-wide accessibility issues. The Adaptive Gaming Expo showcases accessible gaming technologies, while a survey reveals accessibility gaps in Chennai's public transportation system.",
+    "title": "Lexington Parks Face Thousands of Accessibility Fixes Amid City Backlog",
+    "summary": "Lexington officials report thousands of accessibility improvements needed in city parks and facilities to meet disability standards, sparking debate over prioritization and funding. The Bronx intersection received curb cuts and audible signals after years of complaints, Auracast enhances classroom audio for deaf students, and a website accessibility study reveals 95.9% non-compliance. Salina's third annual accessibility seminar wraps up, highlighting inclusive practices.",
     "highlights": [
       {
-        "title": "Wildfires expose accessibility failures: advocates",
-        "slug": "wildfires-expose-accessibility-failures-advocates-c50d5e81"
+        "title": "Lexington parks, facilities need thousands of accessibility fixes. How should city address the backlog?",
+        "slug": "lexington-parks-facilities-need-thousands-of-accessibility-fixes-how-should-city-2affae60"
       },
       {
-        "title": "Windows 11 Adds 'Open Apps Maximized' Setting",
-        "slug": "windows-11-adds-open-apps-maximized-setting-83825845"
+        "title": "Bronx Intersection Gets Accessibility Repairs Following Years Of Complaints",
+        "slug": "bronx-intersection-gets-accessibility-repairs-following-years-of-complaints-9466606e"
       },
       {
-        "title": "FreeScan Pro Feature Update",
-        "slug": "freescan-pro-feature-update-43cfdaf2"
+        "title": "Auracast and Classroom Audio Accessibility",
+        "slug": "auracast-and-classroom-audio-accessibility-6795b804"
       },
       {
-        "title": "Adaptive Gaming Expo highlights accessible gaming for people with disabilities",
-        "slug": "adaptive-gaming-expo-highlights-accessible-gaming-for-people-with-disabilities-1f3e75bc"
+        "title": "Website Accessibility Compliance and Barriers",
+        "slug": "website-accessibility-compliance-and-barriers-8e3ab3cb"
       },
       {
-        "title": "Survey shows accessibility gaps in public transportation across Chennai",
-        "slug": "survey-shows-accessibility-gaps-in-public-transportation-across-chennai-bd74c971"
+        "title": "Salina hosts third annual accessibility seminar with OCCK",
+        "slug": "salina-hosts-third-annual-accessibility-seminar-with-occk-41fff2e7"
       }
     ]
   },
   "zh-TW": {
-    "title": "野火揭無障礙問題，倡議改善應對",
-    "summary": "近期野火暴露災害應變中的無障礙缺口，倡議者呼籲改善緊急計畫以更好地保護殘障人士。同時，Windows 11 新增開啟應用程式時最大化設定，FreeScan Pro 也推出功能更新以提升網站無障礙檢測。適應性遊戲博覽會展示無障礙遊戲技術，而金奈公共交通調查則顯示仍存在顯著無障礙差距。",
+    "title": "列克星敦公園千項無障礙待修",
+    "summary": "列克星敦官員指出，城市公園與設施需要數千項無障礙改進以符合殘障人士標準，引發優先處理與資金分配的討論。布朗克斯交叉口在多年投訴後完成坡道切割與聲音訊號改善，Auracast 技術提升課堂音訊無障礙，而網站無障礙合規報告顯示 95.9% 網站未通過基本測試。薩利納舉辦第三屆年度無障礙研討會，聚焦殘障包容實踐。",
     "highlights": [
       {
-        "title": "野火揭露無障礙失誤：倡議者",
-        "slug": "wildfires-expose-accessibility-failures-advocates-zh-c50d5e81"
+        "title": "列克星敦公園與設施需要數千項無障礙修復，市府應如何應對積壓？",
+        "slug": "lexington-parks-facilities-need-thousands-of-accessibility-fixes-how-should-city-zh-2affae60"
       },
       {
-        "title": "Windows 11 新增「開啟應用程式時最大化」設定",
-        "slug": "windows-11-adds-open-apps-maximized-setting-zh-83825845"
+        "title": "布朗克斯交叉口進行無障礙維修",
+        "slug": "bronx-intersection-gets-accessibility-repairs-following-years-of-complaints-zh-9466606e"
       },
       {
-        "title": "FreeScan Pro 功能更新",
-        "slug": "freescan-pro-feature-update-zh-43cfdaf2"
+        "title": "Auracast 與課堂音訊無障礙",
+        "slug": "auracast-and-classroom-audio-accessibility-zh-6795b804"
       },
       {
-        "title": "適應性遊戲博覽會突顯適合殘障人士的無障礙遊戲",
-        "slug": "adaptive-gaming-expo-highlights-accessible-gaming-for-people-with-disabilities-zh-1f3e75bc"
+        "title": "網站無障礙合規與障礙",
+        "slug": "website-accessibility-compliance-and-barriers-zh-8e3ab3cb"
       },
       {
-        "title": "調查顯示金奈公共交通無障礙存在差距",
-        "slug": "survey-shows-accessibility-gaps-in-public-transportation-across-chennai-zh-bd74c971"
+        "title": "薩利納舉辦第三屆年度無障礙研討會，與OCCK合作",
+        "slug": "salina-hosts-third-annual-accessibility-seminar-with-occk-zh-41fff2e7"
       }
     ]
   }
