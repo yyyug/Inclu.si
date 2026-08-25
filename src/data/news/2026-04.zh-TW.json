@@ -6315,5 +6315,38 @@
     "publishedAt": "2026-04-01T07:00:00.000Z",
     "fetchedAt": "2026-05-29T04:41:11.351Z",
     "body": "嘉義市115年度原有住宅公寓大廈改善無障礙設施補助，即日起開放申請。  chiayi.gov.tw\n\n原文來源： [chiayi.gov.tw](https://www.chiayi.gov.tw/News_Content.aspx?n=464&s=933695)"
+  },
+  {
+    "title": "無障礙交通再升級！中市推「聽見綠燈聲音2.0」結合手機APP與藍牙自動感應",
+    "slug": "accessible-traffic-upgrade-taichung-launches-hear-green-light-sound-20-combining-zh-fb2a59a0",
+    "lang": "zh-TW",
+    "summary": "台中市升級無障礙交通，推出聽見綠燈聲音2.0，結合手機APP與藍牙自動感應，協助視障人士過馬路。",
+    "category": "assistive-tech",
+    "tags": [
+      "accessible traffic",
+      "visual impairment",
+      "mobile app",
+      "Bluetooth"
+    ],
+    "sourceName": "taichung.gov.tw",
+    "sourceUrl": "https://www.taichung.gov.tw/8868/8872/9962/3245282",
+    "relatedSources": [
+      {
+        "name": "taichung.gov.tw",
+        "url": "https://www.taichung.gov.tw/8868/8872/9962/3245282"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-fb2a59a0",
+    "status": "published",
+    "translationOf": "accessible-traffic-upgrade-taichung-launches-hear-green-light-sound-20-combining-fb2a59a0",
+    "publishedAt": "2026-04-01T07:00:00.000Z",
+    "fetchedAt": "2026-08-25T01:52:28.485Z",
+    "body": "台中市升級無障礙交通，推出聽見綠燈聲音2.0，結合手機APP與藍牙自動感應，協助視障人士過馬路。\n\n原文來源： [taichung.gov.tw](https://www.taichung.gov.tw/8868/8872/9962/3245282)"
   }
 ]

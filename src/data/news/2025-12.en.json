@@ -98,5 +98,33 @@
     "publishedAt": "2025-12-04T08:00:00.000Z",
     "fetchedAt": "2026-05-10T04:15:02.034Z",
     "body": "In observance of International Day of Persons with Disabilities, Taiwan's Ocean Affairs Council is launching initiatives to make beaches accessible, enabling everyone to enjoy the ocean.\n\nRead more from the original source: [僑務電子報](https://ocacnews.net/article/414556)"
+  },
+  {
+    "title": "Land Bank's Minquan and Xiaogang branch ATMs upgraded with new accessible auxiliary screens",
+    "slug": "land-banks-minquan-and-xiaogang-branch-atms-upgraded-with-new-accessible-auxilia-dcc785c4",
+    "lang": "en",
+    "summary": "The Minquan and Xiaogang branches of Land Bank have updated their ATMs, adding accessible auxiliary screens to assist users with visual impairments.",
+    "category": "assistive-tech",
+    "tags": [],
+    "sourceName": "landbank.com.tw",
+    "sourceUrl": "https://www.landbank.com.tw/Bulletin/Detail/ee338d49-ff81-49f1-99e5-b3a700277a0d",
+    "relatedSources": [
+      {
+        "name": "landbank.com.tw",
+        "url": "https://www.landbank.com.tw/Bulletin/Detail/ee338d49-ff81-49f1-99e5-b3a700277a0d"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-dcc785c4",
+    "status": "published",
+    "translationOf": "land-banks-minquan-and-xiaogang-branch-atms-upgraded-with-new-accessible-auxilia-zh-dcc785c4",
+    "publishedAt": "2025-12-02T08:00:00.000Z",
+    "fetchedAt": "2026-08-25T01:52:07.240Z",
+    "body": "The Minquan and Xiaogang branches of Land Bank have updated their ATMs, adding accessible auxiliary screens to assist users with visual impairments.\n\nRead more from the original source: [landbank.com.tw](https://www.landbank.com.tw/Bulletin/Detail/ee338d49-ff81-49f1-99e5-b3a700277a0d)"
   }
 ]

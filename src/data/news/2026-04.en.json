@@ -6315,5 +6315,38 @@
     "publishedAt": "2026-04-01T07:00:00.000Z",
     "fetchedAt": "2026-05-29T04:41:11.351Z",
     "body": "Starting today, Chiayi City is accepting applications for its 2026 subsidy program that assists owners of existing residential apartment buildings in installing and improving accessibility facilities.\n\nRead more from the original source: [chiayi.gov.tw](https://www.chiayi.gov.tw/News_Content.aspx?n=464&s=933695)"
+  },
+  {
+    "title": "Accessible Traffic Upgrade! Taichung Launches 'Hear Green Light Sound 2.0' Combining Mobile App and Bluetooth Auto-Sensing",
+    "slug": "accessible-traffic-upgrade-taichung-launches-hear-green-light-sound-20-combining-fb2a59a0",
+    "lang": "en",
+    "summary": "The city upgrades accessible traffic with audible green light signals version 2.0, integrating a mobile app and Bluetooth automatic sensing to assist visually impaired pedestrians.",
+    "category": "assistive-tech",
+    "tags": [
+      "accessible traffic",
+      "visual impairment",
+      "mobile app",
+      "Bluetooth"
+    ],
+    "sourceName": "taichung.gov.tw",
+    "sourceUrl": "https://www.taichung.gov.tw/8868/8872/9962/3245282",
+    "relatedSources": [
+      {
+        "name": "taichung.gov.tw",
+        "url": "https://www.taichung.gov.tw/8868/8872/9962/3245282"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-fb2a59a0",
+    "status": "published",
+    "translationOf": "accessible-traffic-upgrade-taichung-launches-hear-green-light-sound-20-combining-zh-fb2a59a0",
+    "publishedAt": "2026-04-01T07:00:00.000Z",
+    "fetchedAt": "2026-08-25T01:52:28.485Z",
+    "body": "The city upgrades accessible traffic with audible green light signals version 2.0, integrating a mobile app and Bluetooth automatic sensing to assist visually impaired pedestrians.\n\nRead more from the original source: [taichung.gov.tw](https://www.taichung.gov.tw/8868/8872/9962/3245282)"
   }
 ]
