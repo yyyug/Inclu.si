@@ -1,55 +1,55 @@
 {
-  "date": "2026-08-24",
-  "generatedAt": "2026-08-24T13:32:59.346Z",
+  "date": "2026-08-25",
+  "generatedAt": "2026-08-25T13:32:34.448Z",
   "en": {
-    "title": "Accessibility Panel Votes on Annual Report Including Housing Guide and Ableism Education",
-    "summary": "The accessibility panel will vote on its annual report, which includes a housing guide and education on ableism. Developers received guidance on building accessible apps with WPF and modern web frameworks, a wheelchair user's CCTV footage sparked debate on digital disability advocacy, and Queensland announced support for next‑generation Paralympians ahead of Brisbane 2032. Salina will host its third annual accessibility seminar to promote disability inclusion.",
+    "title": "Hidden Camera Found in Accessible Toilet Sparks Privacy and Accessibility Concerns",
+    "summary": "A hidden camera was discovered inside a potted plant in an accessible toilet, secretly filming 25 users and raising serious privacy and accessibility concerns. In other news, Australia extended its Disability Representative Program for two years, Microsoft announced major accessibility upgrades to PowerPoint, Bolt launched e‑scooter‑based maps for wheelchair‑accessible routes, and SMA patients highlighted three wheelchair travel obstacles at a concert.",
     "highlights": [
       {
-        "title": "Accessibility Panel to Vote on Annual Report Detailing Housing Guide, Ableism Education",
-        "slug": "accessibility-panel-to-vote-on-annual-report-detailing-housing-guide-ableism-edu-a8bff0ec"
+        "title": "Hidden camera discovered in accessible toilet's potted plant, secretly filming 25 users",
+        "slug": "hidden-camera-discovered-in-accessible-toilets-potted-plant-secretly-filming-25--02228edd"
       },
       {
-        "title": "Accessibility by Design: Developing Accessible Applications with WPF and Modern Web Frameworks",
-        "slug": "accessibility-by-design-developing-accessible-applications-with-wpf-and-modern-w-af3982c6"
+        "title": "Disability Representative Program Extended for Two Years",
+        "slug": "disability-representative-program-extended-for-two-years-5e0a7294"
       },
       {
-        "title": "YouTuber Park Wi’s CCTV Release Sparks Debate on Digital Disability Advocacy",
-        "slug": "youtuber-park-wis-cctv-release-sparks-debate-on-digital-disability-advocacy-165fdba8"
+        "title": "Microsoft makes major accessibility improvement in PowerPoint",
+        "slug": "microsoft-makes-major-accessibility-improvement-in-powerpoint-e7f9251b"
       },
       {
-        "title": "Queensland Government Supports Next‑Generation Paralympians Ahead of Brisbane 2032",
-        "slug": "queensland-government-supports-nextgeneration-paralympians-ahead-of-brisbane-203-2958e30a"
+        "title": "Bolt Turns E‑scooters into Maps for Wheelchair Accessibility",
+        "slug": "bolt-turns-escooters-into-maps-for-wheelchair-accessibility-a49bc0e2"
       },
       {
-        "title": "City of Salina to host third annual Accessibility Seminar",
-        "slug": "city-of-salina-to-host-third-annual-accessibility-seminar-63e4df7a"
+        "title": "SMA patients attend concert, reveal three wheelchair travel obstacles; public photo campaign promotes environmental accessibility",
+        "slug": "sma-patients-attend-concert-reveal-three-wheelchair-travel-obstacles-public-phot-d81d0b40"
       }
     ]
   },
   "zh-TW": {
-    "title": "無障礙小組將投票通過年度報告，內容涵蓋住房指南與能力主義教育",
-    "summary": "無障礙小組將投票通過年度報告，內容涵蓋住房指南與能力主義教育。開發者獲得使用 WPF 與現代網頁框架構建無障礙應用的指南，輪椅使用者的未經編輯閉路電視畫面引發數位殘障倡議辯論，昆士蘭政府宣布支持 Brisbane 2032 Paralympic 下一代殘障運動員。薩利納市將舉辦第三屆年度無障礙研討會，以推動殘障人士包容。",
+    "title": "無障礙廁所偷拍針孔攝影機被揭露",
+    "summary": "無障礙廁所的盆栽內被發現藏有針孔攝影機，秘密拍攝了25人使用廁所的畫面，引發隱私與無障礙設施安全的廣泛關注。同時，澳洲延長殘障代表計畫兩年，微軟宣布 PowerPoint 重大無障礙更新，Bolt 推出以電子滑板車數據製作輪椅無障礙地圖，以及《平行與垂直》電影將提供日語無障礙字幕。",
     "highlights": [
       {
-        "title": "無障礙小組將投票通過年度報告，內容涵蓋住房指南與能力主義教育",
-        "slug": "accessibility-panel-to-vote-on-annual-report-detailing-housing-guide-ableism-edu-zh-a8bff0ec"
+        "title": "無障礙廁所盆栽藏針孔！偷拍25人如廁　噁大叔下場曝",
+        "slug": "hidden-camera-discovered-in-accessible-toilets-potted-plant-secretly-filming-25--zh-02228edd"
       },
       {
-        "title": "YouTuber Park Wi 發布未經編輯的閉路電視影片引發數位殘障倡議辯論",
-        "slug": "youtuber-park-wis-cctv-release-sparks-debate-on-digital-disability-advocacy-zh-165fdba8"
+        "title": "殘障代表計畫延長兩年",
+        "slug": "disability-representative-program-extended-for-two-years-zh-5e0a7294"
       },
       {
-        "title": "这座巧妙的微型住宅将无障碍提升到新水平",
-        "slug": "this-ingenious-tiny-house-takes-accessibility-to-the-next-level-zh-d2dee107"
+        "title": "微軟在 PowerPoint 中推出重大無障礙改進",
+        "slug": "microsoft-makes-major-accessibility-improvement-in-powerpoint-zh-e7f9251b"
       },
       {
-        "title": "昆士蘭政府支持 Brisbane 2032 Paralympic 下一代殘障運動員",
-        "slug": "queensland-government-supports-nextgeneration-paralympians-ahead-of-brisbane-203-zh-2958e30a"
+        "title": "Bolt 將電子滑板車變成輪椅無障礙地圖",
+        "slug": "bolt-turns-escooters-into-maps-for-wheelchair-accessibility-zh-a49bc0e2"
       },
       {
-        "title": "對日本殘障就業實務的批評",
-        "slug": "criticism-of-disability-employment-practices-in-japan-zh-998893da"
+        "title": "《Parallel and Perpendicular》的無障礙日文字幕",
+        "slug": "barrier-free-japanese-subtitles-for-parallel-and-perpendicular-zh-28f69af0"
       }
     ]
   }
