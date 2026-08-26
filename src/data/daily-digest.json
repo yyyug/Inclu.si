@@ -1,9 +1,9 @@
 {
-  "date": "2026-08-25",
-  "generatedAt": "2026-08-25T13:32:34.448Z",
+  "date": "2026-08-26",
+  "generatedAt": "2026-08-26T02:11:20.529Z",
   "en": {
-    "title": "Hidden Camera Found in Accessible Toilet Sparks Privacy and Accessibility Concerns",
-    "summary": "A hidden camera was discovered inside a potted plant in an accessible toilet, secretly filming 25 users and raising serious privacy and accessibility concerns. In other news, Australia extended its Disability Representative Program for two years, Microsoft announced major accessibility upgrades to PowerPoint, Bolt launched e‑scooter‑based maps for wheelchair‑accessible routes, and SMA patients highlighted three wheelchair travel obstacles at a concert.",
+    "title": "Hidden Camera Found in Accessible Toilet Sparks Nationwide Outcry",
+    "summary": "Hidden camera discovered inside a potted plant in an accessible toilet filmed 25 users, prompting public outrage and investigations. Meanwhile, Australia extended its Disability Representative Program for two years, and Bolt launched e‑scooter‑derived maps to improve wheelchair navigation. Other developments include funding renewals for inclusive employment, a new digital accessibility recognition scheme, assistive‑device flyers, and debate on accommodation versus inclusion.",
     "highlights": [
       {
         "title": "Hidden camera discovered in accessible toilet's potted plant, secretly filming 25 users",
@@ -14,22 +14,30 @@
         "slug": "disability-representative-program-extended-for-two-years-5e0a7294"
       },
       {
-        "title": "Microsoft makes major accessibility improvement in PowerPoint",
-        "slug": "microsoft-makes-major-accessibility-improvement-in-powerpoint-e7f9251b"
-      },
-      {
         "title": "Bolt Turns E‑scooters into Maps for Wheelchair Accessibility",
         "slug": "bolt-turns-escooters-into-maps-for-wheelchair-accessibility-a49bc0e2"
       },
       {
-        "title": "SMA patients attend concert, reveal three wheelchair travel obstacles; public photo campaign promotes environmental accessibility",
-        "slug": "sma-patients-attend-concert-reveal-three-wheelchair-travel-obstacles-public-phot-d81d0b40"
+        "title": "Ready, Willing and Able Program Seeks Funding Renewal",
+        "slug": "ready-willing-and-able-program-seeks-funding-renewal-289da1f8"
+      },
+      {
+        "title": "2026-2027 Digital Accessibility Recognition Scheme Now Accepting Applications",
+        "slug": "2026-2027-digital-accessibility-recognition-scheme-now-accepting-applications-88b5c12a"
+      },
+      {
+        "title": "Flyer on assistive devices and home accessibility improvements",
+        "slug": "flyer-on-assistive-devices-and-home-accessibility-improvements-69659802"
+      },
+      {
+        "title": "Can We Make Accessibility More Than Just an 'Accommodation?' - Hypebot",
+        "slug": "can-we-make-accessibility-more-than-just-an-accommodation-hypebot-78df43a8"
       }
     ]
   },
   "zh-TW": {
-    "title": "無障礙廁所偷拍針孔攝影機被揭露",
-    "summary": "無障礙廁所的盆栽內被發現藏有針孔攝影機，秘密拍攝了25人使用廁所的畫面，引發隱私與無障礙設施安全的廣泛關注。同時，澳洲延長殘障代表計畫兩年，微軟宣布 PowerPoint 重大無障礙更新，Bolt 推出以電子滑板車數據製作輪椅無障礙地圖，以及《平行與垂直》電影將提供日語無障礙字幕。",
+    "title": "無障礙廁所發現偷拍鏡頭 引發社會廣泛關注",
+    "summary": "無障礙廁所內的盆栽被發現藏有偷拍鏡頭，秘密錄下25人使用畫面，引發公眾憤怒與調查。同時，澳洲政府將殘障代表計畫延長兩年，Bolt 則利用電子滑板車數據製作輪椅無障礙路線圖。其他發展包括「備好、願意且有能力」計畫尋求經費續撥、2026‑2027 年度數碼無障礙嘉許計劃開放申請、輔具家居改善宣傳單張，以及關於無障礙是否僅為便利措施的討論。",
     "highlights": [
       {
         "title": "無障礙廁所盆栽藏針孔！偷拍25人如廁　噁大叔下場曝",
@@ -40,16 +48,24 @@
         "slug": "disability-representative-program-extended-for-two-years-zh-5e0a7294"
       },
       {
-        "title": "微軟在 PowerPoint 中推出重大無障礙改進",
-        "slug": "microsoft-makes-major-accessibility-improvement-in-powerpoint-zh-e7f9251b"
-      },
-      {
         "title": "Bolt 將電子滑板車變成輪椅無障礙地圖",
         "slug": "bolt-turns-escooters-into-maps-for-wheelchair-accessibility-zh-a49bc0e2"
       },
       {
-        "title": "《Parallel and Perpendicular》的無障礙日文字幕",
-        "slug": "barrier-free-japanese-subtitles-for-parallel-and-perpendicular-zh-28f69af0"
+        "title": "備好、願意且有能力計畫尋求經費續撥",
+        "slug": "ready-willing-and-able-program-seeks-funding-renewal-zh-289da1f8"
+      },
+      {
+        "title": "「2026-2027年度數碼無障礙嘉許計劃」現在接受報名。",
+        "slug": "2026-2027-digital-accessibility-recognition-scheme-now-accepting-applications-zh-88b5c12a"
+      },
+      {
+        "title": "【摺頁】輔具及居家無障礙環境改善（正面）",
+        "slug": "flyer-on-assistive-devices-and-home-accessibility-improvements-zh-69659802"
+      },
+      {
+        "title": "我們能讓可及性不僅僅是一種'便利措施'嗎？ - Hypebot",
+        "slug": "can-we-make-accessibility-more-than-just-an-accommodation-hypebot-zh-78df43a8"
       }
     ]
   }
