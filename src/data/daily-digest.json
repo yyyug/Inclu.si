@@ -1,71 +1,55 @@
 {
-  "date": "2026-08-26",
-  "generatedAt": "2026-08-26T02:11:20.529Z",
+  "date": "2026-08-27",
+  "generatedAt": "2026-08-27T10:12:08.512Z",
   "en": {
-    "title": "Hidden Camera Found in Accessible Toilet Sparks Nationwide Outcry",
-    "summary": "Hidden camera discovered inside a potted plant in an accessible toilet filmed 25 users, prompting public outrage and investigations. Meanwhile, Australia extended its Disability Representative Program for two years, and Bolt launched e‑scooter‑derived maps to improve wheelchair navigation. Other developments include funding renewals for inclusive employment, a new digital accessibility recognition scheme, assistive‑device flyers, and debate on accommodation versus inclusion.",
+    "title": "Legato Launches AI-Powered Hearing Glasses Amid Global Accessibility Advances",
+    "summary": "Legato has unveiled AI-powered hearing glasses designed to assist individuals with mild-to-moderate hearing loss, backed by $12M in funding. Meanwhile, Tracfone announced new accessibility partnerships marking its 30th anniversary, and Exeter residents urged local authorities to improve walkability for people with disabilities. Additionally, an AudioEye study found AI steering UK users toward least accessible web pages, while a QA Financial video highlighted digital accessibility testing best practices.",
     "highlights": [
       {
-        "title": "Hidden camera discovered in accessible toilet's potted plant, secretly filming 25 users",
-        "slug": "hidden-camera-discovered-in-accessible-toilets-potted-plant-secretly-filming-25--02228edd"
+        "title": "Legato Unveils AI-Powered Hearing Glasses",
+        "slug": "legato-unveils-ai-powered-hearing-glasses-fbba8c83"
       },
       {
-        "title": "Disability Representative Program Extended for Two Years",
-        "slug": "disability-representative-program-extended-for-two-years-5e0a7294"
+        "title": "Tracfone marks 30 Years with anniversary deals & new accessibility partnerships",
+        "slug": "tracfone-marks-30-years-with-anniversary-deals-new-accessibility-partnerships-5663faa3"
       },
       {
-        "title": "Bolt Turns E‑scooters into Maps for Wheelchair Accessibility",
-        "slug": "bolt-turns-escooters-into-maps-for-wheelchair-accessibility-a49bc0e2"
+        "title": "Why Exeter isn't accessible or walkable for everyone. Residents urge change.",
+        "slug": "why-exeter-isnt-accessible-or-walkable-for-everyone-residents-urge-change-a2ba3f70"
       },
       {
-        "title": "Ready, Willing and Able Program Seeks Funding Renewal",
-        "slug": "ready-willing-and-able-program-seeks-funding-renewal-289da1f8"
+        "title": "AI is Directing People to the Least Accessible Pages on UK Websites, New AudioEye Study Finds",
+        "slug": "ai-is-directing-people-to-the-least-accessible-pages-on-uk-websites-new-audioeye-accb8e7c"
       },
       {
-        "title": "2026-2027 Digital Accessibility Recognition Scheme Now Accepting Applications",
-        "slug": "2026-2027-digital-accessibility-recognition-scheme-now-accepting-applications-88b5c12a"
-      },
-      {
-        "title": "Flyer on assistive devices and home accessibility improvements",
-        "slug": "flyer-on-assistive-devices-and-home-accessibility-improvements-69659802"
-      },
-      {
-        "title": "Can We Make Accessibility More Than Just an 'Accommodation?' - Hypebot",
-        "slug": "can-we-make-accessibility-more-than-just-an-accommodation-hypebot-78df43a8"
+        "title": "WATCH: Dana Randall on testing accessibility - QA Financial",
+        "slug": "watch-dana-randall-on-testing-accessibility-qa-financial-3499cc60"
       }
     ]
   },
   "zh-TW": {
-    "title": "無障礙廁所發現偷拍鏡頭 引發社會廣泛關注",
-    "summary": "無障礙廁所內的盆栽被發現藏有偷拍鏡頭，秘密錄下25人使用畫面，引發公眾憤怒與調查。同時，澳洲政府將殘障代表計畫延長兩年，Bolt 則利用電子滑板車數據製作輪椅無障礙路線圖。其他發展包括「備好、願意且有能力」計畫尋求經費續撥、2026‑2027 年度數碼無障礙嘉許計劃開放申請、輔具家居改善宣傳單張，以及關於無障礙是否僅為便利措施的討論。",
+    "title": "Legato 發表 AI 助聽眼鏡 推動全球無障礙技術進步",
+    "summary": "Legato 發表 AI 驅動的助聽眼鏡，已籌得 1200 萬美元開發專為輕度至中度聽力損失人士設計的智慧眼鏡。Tracfone 慶祝成立 30 年，宣布新的無障礙合作夥伴關係以提升殘障人士服務可及性。埃克塞特居民呼籲改善街道無障礙，而 AudioEye 研究顯示英國 AI 正將用戶導向最缺乏無障礙功能的網頁，QA Financial 影片則示範數位無障礙測試方法。",
     "highlights": [
       {
-        "title": "無障礙廁所盆栽藏針孔！偷拍25人如廁　噁大叔下場曝",
-        "slug": "hidden-camera-discovered-in-accessible-toilets-potted-plant-secretly-filming-25--zh-02228edd"
+        "title": "Legato 發表 AI 驅動的助聽眼鏡",
+        "slug": "legato-unveils-ai-powered-hearing-glasses-zh-fbba8c83"
       },
       {
-        "title": "殘障代表計畫延長兩年",
-        "slug": "disability-representative-program-extended-for-two-years-zh-5e0a7294"
+        "title": "Tracfone 慶祝成立 30 年，推出周年紀念優惠及新的無障礙合作夥伴關係",
+        "slug": "tracfone-marks-30-years-with-anniversary-deals-new-accessibility-partnerships-zh-5663faa3"
       },
       {
-        "title": "Bolt 將電子滑板車變成輪椅無障礙地圖",
-        "slug": "bolt-turns-escooters-into-maps-for-wheelchair-accessibility-zh-a49bc0e2"
+        "title": "埃克塞特為何對每個人都不無障礙或不可步行？居民呼籲改變",
+        "slug": "why-exeter-isnt-accessible-or-walkable-for-everyone-residents-urge-change-zh-a2ba3f70"
       },
       {
-        "title": "備好、願意且有能力計畫尋求經費續撥",
-        "slug": "ready-willing-and-able-program-seeks-funding-renewal-zh-289da1f8"
+        "title": "AudioEye 新研究發現：AI 正將英國網站用戶引導至最無障礙的頁面",
+        "slug": "ai-is-directing-people-to-the-least-accessible-pages-on-uk-websites-new-audioeye-zh-accb8e7c"
       },
       {
-        "title": "「2026-2027年度數碼無障礙嘉許計劃」現在接受報名。",
-        "slug": "2026-2027-digital-accessibility-recognition-scheme-now-accepting-applications-zh-88b5c12a"
-      },
-      {
-        "title": "【摺頁】輔具及居家無障礙環境改善（正面）",
-        "slug": "flyer-on-assistive-devices-and-home-accessibility-improvements-zh-69659802"
-      },
-      {
-        "title": "我們能讓可及性不僅僅是一種'便利措施'嗎？ - Hypebot",
-        "slug": "can-we-make-accessibility-more-than-just-an-accommodation-hypebot-zh-78df43a8"
+        "title": "观看：Dana Randall 论测试无障碍 - QA Financial",
+        "slug": "watch-dana-randall-on-testing-accessibility-qa-financial-zh-3499cc60"
       }
     ]
   }
