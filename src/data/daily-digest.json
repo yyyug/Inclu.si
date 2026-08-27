@@ -1,55 +1,63 @@
 {
   "date": "2026-08-27",
-  "generatedAt": "2026-08-27T10:12:08.512Z",
+  "generatedAt": "2026-08-27T22:32:30.447Z",
   "en": {
-    "title": "Legato Launches AI-Powered Hearing Glasses Amid Global Accessibility Advances",
-    "summary": "Legato has unveiled AI-powered hearing glasses designed to assist individuals with mild-to-moderate hearing loss, backed by $12M in funding. Meanwhile, Tracfone announced new accessibility partnerships marking its 30th anniversary, and Exeter residents urged local authorities to improve walkability for people with disabilities. Additionally, an AudioEye study found AI steering UK users toward least accessible web pages, while a QA Financial video highlighted digital accessibility testing best practices.",
+    "title": "Federal Court Backs Lyft in Wheelchair Accessibility Lawsuit, Sparking Debate",
+    "summary": "A federal appeals court ruled in favor of Lyft, determining the ride-hail company is not liable under certain disability access claims. Meanwhile, San Francisco announced a $9 million plan to upgrade Hallidie Plaza's accessibility, and Twitter introduced a new accessibility setting for external browser links. Additional coverage includes Harvard's accessibility summit, PR's role in accessibility innovation, and a decade-long review of accessibility progress in Willits.",
     "highlights": [
       {
-        "title": "Legato Unveils AI-Powered Hearing Glasses",
-        "slug": "legato-unveils-ai-powered-hearing-glasses-fbba8c83"
+        "title": "Federal Appeals Court Sides With Lyft In Wheelchair Accessibility Lawsuit",
+        "slug": "federal-appeals-court-sides-with-lyft-in-wheelchair-accessibility-lawsuit-1c42fea0"
       },
       {
-        "title": "Tracfone marks 30 Years with anniversary deals & new accessibility partnerships",
-        "slug": "tracfone-marks-30-years-with-anniversary-deals-new-accessibility-partnerships-5663faa3"
+        "title": "San Francisco plans $9 million accessibility improvements for Hallidie Plaza",
+        "slug": "san-francisco-plans-9-million-accessibility-improvements-for-hallidie-plaza-bc1def13"
       },
       {
-        "title": "Why Exeter isn't accessible or walkable for everyone. Residents urge change.",
-        "slug": "why-exeter-isnt-accessible-or-walkable-for-everyone-residents-urge-change-a2ba3f70"
+        "title": "X External Browser Setting",
+        "slug": "x-external-browser-setting-84f16a3d"
       },
       {
-        "title": "AI is Directing People to the Least Accessible Pages on UK Websites, New AudioEye Study Finds",
-        "slug": "ai-is-directing-people-to-the-least-accessible-pages-on-uk-websites-new-audioeye-accb8e7c"
+        "title": "Beyond the checklist: Why PR must treat accessibility as an engine for innovative lessons",
+        "slug": "beyond-the-checklist-why-pr-must-treat-accessibility-as-an-engine-for-innovative-5a96060b"
       },
       {
-        "title": "WATCH: Dana Randall on testing accessibility - QA Financial",
-        "slug": "watch-dana-randall-on-testing-accessibility-qa-financial-3499cc60"
+        "title": "4th annual Accessibility Summit highlights Harvard’s commitment to disability inclusion",
+        "slug": "4th-annual-accessibility-summit-highlights-harvards-commitment-to-disability-inc-ff372219"
+      },
+      {
+        "title": "The Willits Slide: Accessibility Advocates Mark Ten Years of Progress Mired with Problems",
+        "slug": "the-willits-slide-accessibility-advocates-mark-ten-years-of-progress-mired-with--c5c95511"
       }
     ]
   },
   "zh-TW": {
-    "title": "Legato 發表 AI 助聽眼鏡 推動全球無障礙技術進步",
-    "summary": "Legato 發表 AI 驅動的助聽眼鏡，已籌得 1200 萬美元開發專為輕度至中度聽力損失人士設計的智慧眼鏡。Tracfone 慶祝成立 30 年，宣布新的無障礙合作夥伴關係以提升殘障人士服務可及性。埃克塞特居民呼籲改善街道無障礙，而 AudioEye 研究顯示英國 AI 正將用戶導向最缺乏無障礙功能的網頁，QA Financial 影片則示範數位無障礙測試方法。",
+    "title": "聯邦上訴法院支持 Lyft 輪椅無障礙訴訟，引發社會討論",
+    "summary": "聯邦上訴法院判決 Lyft 勝訴，認為其在特定殘障無障礙索賠下不承擔責任。舊金山同時宣布投資900萬美元改善Hallidie廣場無障礙設施，Twitter（X）推出外部瀏覽器連結的無障礙設定。此外，哈佛無障礙峰會凸顯對殘障人士的包容承諾，PR專業人士被呼籲將無障礙視為創新引擎，威利茨滑道倡導者則回顧十年進展與挑戰。",
     "highlights": [
       {
-        "title": "Legato 發表 AI 驅動的助聽眼鏡",
-        "slug": "legato-unveils-ai-powered-hearing-glasses-zh-fbba8c83"
+        "title": "聯邦上訴法院支持 Lyft 輪椅無障礙訴訟",
+        "slug": "federal-appeals-court-sides-with-lyft-in-wheelchair-accessibility-lawsuit-zh-1c42fea0"
       },
       {
-        "title": "Tracfone 慶祝成立 30 年，推出周年紀念優惠及新的無障礙合作夥伴關係",
-        "slug": "tracfone-marks-30-years-with-anniversary-deals-new-accessibility-partnerships-zh-5663faa3"
+        "title": "舊金山計畫投資900萬美元改善Hallidie廣場無障礙設施",
+        "slug": "san-francisco-plans-9-million-accessibility-improvements-for-hallidie-plaza-zh-bc1def13"
       },
       {
-        "title": "埃克塞特為何對每個人都不無障礙或不可步行？居民呼籲改變",
-        "slug": "why-exeter-isnt-accessible-or-walkable-for-everyone-residents-urge-change-zh-a2ba3f70"
+        "title": "X 外部瀏覽器設定",
+        "slug": "x-external-browser-setting-zh-84f16a3d"
       },
       {
-        "title": "AudioEye 新研究發現：AI 正將英國網站用戶引導至最無障礙的頁面",
-        "slug": "ai-is-directing-people-to-the-least-accessible-pages-on-uk-websites-new-audioeye-zh-accb8e7c"
+        "title": "超越清單：為何公關必須將無障礙視為創新課程的引擎",
+        "slug": "beyond-the-checklist-why-pr-must-treat-accessibility-as-an-engine-for-innovative-zh-5a96060b"
       },
       {
-        "title": "观看：Dana Randall 论测试无障碍 - QA Financial",
-        "slug": "watch-dana-randall-on-testing-accessibility-qa-financial-zh-3499cc60"
+        "title": "第四屆無障礙峰會凸顯哈佛對殘障人士包容的承諾",
+        "slug": "4th-annual-accessibility-summit-highlights-harvards-commitment-to-disability-inc-zh-ff372219"
+      },
+      {
+        "title": "威利茨滑道：無障礙倡導者紀念十年進展，問題仍存",
+        "slug": "the-willits-slide-accessibility-advocates-mark-ten-years-of-progress-mired-with--zh-c5c95511"
       }
     ]
   }
