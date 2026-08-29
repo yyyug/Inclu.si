@@ -1,63 +1,55 @@
 {
-  "date": "2026-08-27",
-  "generatedAt": "2026-08-27T22:32:30.447Z",
+  "date": "2026-08-29",
+  "generatedAt": "2026-08-29T07:19:08.494Z",
   "en": {
-    "title": "Federal Court Backs Lyft in Wheelchair Accessibility Lawsuit, Sparking Debate",
-    "summary": "A federal appeals court ruled in favor of Lyft, determining the ride-hail company is not liable under certain disability access claims. Meanwhile, San Francisco announced a $9 million plan to upgrade Hallidie Plaza's accessibility, and Twitter introduced a new accessibility setting for external browser links. Additional coverage includes Harvard's accessibility summit, PR's role in accessibility innovation, and a decade-long review of accessibility progress in Willits.",
+    "title": "Accessibility Tech Advances: Briksen Tool, Wolverine PS5 Features, Dax Robot Lead Updates",
+    "summary": "Briksen has launched a new tool to detect WCAG accessibility gaps in Figma and CI/CD pipelines, helping designers catch issues early. Meanwhile, Marvel's Wolverine PS5 trailer highlights extensive accessibility options, and Missoula County deploys robot Dax to aid navigation for people with disabilities. Additionally, Belton seeks public input on its ADA Transition Plan, and Deaf Awareness Month events are announced.",
     "highlights": [
       {
-        "title": "Federal Appeals Court Sides With Lyft In Wheelchair Accessibility Lawsuit",
-        "slug": "federal-appeals-court-sides-with-lyft-in-wheelchair-accessibility-lawsuit-1c42fea0"
+        "title": "Briksen Tool to Detect WCAG Gaps in Figma and CI/CD",
+        "slug": "briksen-tool-to-detect-wcag-gaps-in-figma-and-cicd-6c2f6eb3"
       },
       {
-        "title": "San Francisco plans $9 million accessibility improvements for Hallidie Plaza",
-        "slug": "san-francisco-plans-9-million-accessibility-improvements-for-hallidie-plaza-bc1def13"
+        "title": "New Marvel's Wolverine PS5 Trailer Breaks Down Gameplay Features, Accessibility Options, More - Push Square",
+        "slug": "new-marvels-wolverine-ps5-trailer-breaks-down-gameplay-features-accessibility-op-b0958b56"
       },
       {
-        "title": "X External Browser Setting",
-        "slug": "x-external-browser-setting-84f16a3d"
+        "title": "Meet Dax: The robot helping Missoula County improve accessibility",
+        "slug": "meet-dax-the-robot-helping-missoula-county-improve-accessibility-d89cf2be"
       },
       {
-        "title": "Beyond the checklist: Why PR must treat accessibility as an engine for innovative lessons",
-        "slug": "beyond-the-checklist-why-pr-must-treat-accessibility-as-an-engine-for-innovative-5a96060b"
+        "title": "Belton seeking community input on ADA Transition Plan to improve accessibility",
+        "slug": "belton-seeking-community-input-on-ada-transition-plan-to-improve-accessibility-232a9031"
       },
       {
-        "title": "4th annual Accessibility Summit highlights Harvard’s commitment to disability inclusion",
-        "slug": "4th-annual-accessibility-summit-highlights-harvards-commitment-to-disability-inc-ff372219"
-      },
-      {
-        "title": "The Willits Slide: Accessibility Advocates Mark Ten Years of Progress Mired with Problems",
-        "slug": "the-willits-slide-accessibility-advocates-mark-ten-years-of-progress-mired-with--c5c95511"
+        "title": "Deaf Awareness Month Events Announcement",
+        "slug": "deaf-awareness-month-events-announcement-b128cf11"
       }
     ]
   },
   "zh-TW": {
-    "title": "聯邦上訴法院支持 Lyft 輪椅無障礙訴訟，引發社會討論",
-    "summary": "聯邦上訴法院判決 Lyft 勝訴，認為其在特定殘障無障礙索賠下不承擔責任。舊金山同時宣布投資900萬美元改善Hallidie廣場無障礙設施，Twitter（X）推出外部瀏覽器連結的無障礙設定。此外，哈佛無障礙峰會凸顯對殘障人士的包容承諾，PR專業人士被呼籲將無障礙視為創新引擎，威利茨滑道倡導者則回顧十年進展與挑戰。",
+    "title": "無障礙技術更新：Briksen工具、PS5金鋼狼、Dax機器人導覽",
+    "summary": "Briksen 推出新工具，可在 Figma 與 CI/CD 流程中偵測 WCAG 無障礙差距，協助設計師早期發現問題。同時，《驚奇金鋼狼》PS5 預告片展示豐富的無障礙選項，Missoula 縣則部署機器人 Dax 協助殘障人士在公共場所導航。此外，貝爾頓徵求社區意見以改善 ADA 過渡計畫，並宣布聾人意識月活動。",
     "highlights": [
       {
-        "title": "聯邦上訴法院支持 Lyft 輪椅無障礙訴訟",
-        "slug": "federal-appeals-court-sides-with-lyft-in-wheelchair-accessibility-lawsuit-zh-1c42fea0"
+        "title": "Briksen 工具可偵測 Figma 與 CI/CD 中的 WCAG 差距",
+        "slug": "briksen-tool-to-detect-wcag-gaps-in-figma-and-cicd-zh-6c2f6eb3"
       },
       {
-        "title": "舊金山計畫投資900萬美元改善Hallidie廣場無障礙設施",
-        "slug": "san-francisco-plans-9-million-accessibility-improvements-for-hallidie-plaza-zh-bc1def13"
+        "title": "新作《驚奇金鋼狼》PS5 預告片解析玩法特色、無障礙選項等 - Push Square",
+        "slug": "new-marvels-wolverine-ps5-trailer-breaks-down-gameplay-features-accessibility-op-zh-b0958b56"
       },
       {
-        "title": "X 外部瀏覽器設定",
-        "slug": "x-external-browser-setting-zh-84f16a3d"
+        "title": "認識 Dax：協助 Missoula 縣改善無障礙的機器人",
+        "slug": "meet-dax-the-robot-helping-missoula-county-improve-accessibility-zh-d89cf2be"
       },
       {
-        "title": "超越清單：為何公關必須將無障礙視為創新課程的引擎",
-        "slug": "beyond-the-checklist-why-pr-must-treat-accessibility-as-an-engine-for-innovative-zh-5a96060b"
+        "title": "贝尔顿正在征求社区意见，以制定其ADA过渡计划，旨在改善残障人士的无障碍环境。",
+        "slug": "belton-seeking-community-input-on-ada-transition-plan-to-improve-accessibility-zh-232a9031"
       },
       {
-        "title": "第四屆無障礙峰會凸顯哈佛對殘障人士包容的承諾",
-        "slug": "4th-annual-accessibility-summit-highlights-harvards-commitment-to-disability-inc-zh-ff372219"
-      },
-      {
-        "title": "威利茨滑道：無障礙倡導者紀念十年進展，問題仍存",
-        "slug": "the-willits-slide-accessibility-advocates-mark-ten-years-of-progress-mired-with--zh-c5c95511"
+        "title": "X 應用 外部瀏覽器 設定",
+        "slug": "x-app-external-browser-setting-zh-65b32324"
       }
     ]
   }
