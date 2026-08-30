@@ -66140,5 +66140,73 @@
     "publishedAt": "2026-08-29T13:59:55.000Z",
     "fetchedAt": "2026-08-29T16:56:52.262Z",
     "body": "對失明的社會經驗與誤解的反思。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2093700173952373091)"
+  },
+  {
+    "title": "Gutenberg Times：免 JavaScript 建置區塊、無障礙實驗室、AI 外掛對決等 — 週末版 375",
+    "slug": "gutenberg-times-building-blocks-without-javascript-accessibility-lab-ai-plugin-s-zh-a9d7a3f5",
+    "lang": "zh-TW",
+    "summary": "該文章報導 WordPress Gutenberg 更新，包括免 JavaScript 的區塊建置、無障礙實驗室計畫以及 AI 外掛對決，凸顯提升網頁無障礙的努力。",
+    "category": "digital-a11y",
+    "tags": [
+      "WordPress",
+      "Gutenberg",
+      "accessibility",
+      "AI",
+      "JavaScript"
+    ],
+    "sourceName": "Gutenbergtimes.com",
+    "sourceUrl": "https://gutenbergtimes.com/building-blocks-without-javascript-accessibility-lab-ai-plugin-showdown-and-more-weekend-edition-375",
+    "relatedSources": [
+      {
+        "name": "Gutenbergtimes.com",
+        "url": "https://gutenbergtimes.com/building-blocks-without-javascript-accessibility-lab-ai-plugin-showdown-and-more-weekend-edition-375"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-a9d7a3f5",
+    "status": "published",
+    "translationOf": "gutenberg-times-building-blocks-without-javascript-accessibility-lab-ai-plugin-s-a9d7a3f5",
+    "publishedAt": "2026-08-29T03:22:00.000Z",
+    "fetchedAt": "2026-08-30T05:19:51.156Z",
+    "body": "該文章報導 WordPress Gutenberg 更新，包括免 JavaScript 的區塊建置、無障礙實驗室計畫以及 AI 外掛對決，凸顯提升網頁無障礙的努力。\n\n原文來源： [Gutenbergtimes.com](https://gutenbergtimes.com/building-blocks-without-javascript-accessibility-lab-ai-plugin-showdown-and-more-weekend-edition-375)"
+  },
+  {
+    "title": "如何教會嘲笑我失明的鍵盤手難忘的一課 – 音樂製作人 Ajibola",
+    "slug": "how-i-taught-keyboardist-unforgettable-lesson-for-mocking-my-blindness-music-pro-zh-87c35884",
+    "lang": "zh-TW",
+    "summary": "視障音樂製作人 Ajibola 描述他如何回應嘲笑他失明的鍵盤手，給予尊重與韌性的課程，並分享他作為視障音樂人的經歷。",
+    "category": "case-studies",
+    "tags": [
+      "blindness",
+      "disability",
+      "music",
+      "resilience",
+      "Awareness"
+    ],
+    "sourceName": "The Punch",
+    "sourceUrl": "https://punchng.com/how-i-taught-keyboardist-unforgettable-lesson-for-mocking-my-blindness-music-producer-ajibola",
+    "relatedSources": [
+      {
+        "name": "The Punch",
+        "url": "https://punchng.com/how-i-taught-keyboardist-unforgettable-lesson-for-mocking-my-blindness-music-producer-ajibola"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-87c35884",
+    "status": "published",
+    "translationOf": "how-i-taught-keyboardist-unforgettable-lesson-for-mocking-my-blindness-music-pro-87c35884",
+    "publishedAt": "2026-08-29T01:07:00.000Z",
+    "fetchedAt": "2026-08-30T05:19:51.261Z",
+    "body": "視障音樂製作人 Ajibola 描述他如何回應嘲笑他失明的鍵盤手，給予尊重與韌性的課程，並分享他作為視障音樂人的經歷。\n\n原文來源： [The Punch](https://punchng.com/how-i-taught-keyboardist-unforgettable-lesson-for-mocking-my-blindness-music-producer-ajibola)"
   }
 ]

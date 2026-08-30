@@ -66140,5 +66140,73 @@
     "publishedAt": "2026-08-29T13:59:55.000Z",
     "fetchedAt": "2026-08-29T16:56:52.262Z",
     "body": "A reflection on the social experiences and misconceptions regarding blindness.\nTweet source: [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2093700173952373091)"
+  },
+  {
+    "title": "Gutenberg Times: Building blocks without JavaScript, Accessibility Lab, AI plugin showdown and more —Weekend Edition 375",
+    "slug": "gutenberg-times-building-blocks-without-javascript-accessibility-lab-ai-plugin-s-a9d7a3f5",
+    "lang": "en",
+    "summary": "The article covers WordPress Gutenberg updates, including building blocks that work without JavaScript, an Accessibility Lab initiative, and an AI plugin showdown, highlighting efforts to improve web accessibility.",
+    "category": "digital-a11y",
+    "tags": [
+      "WordPress",
+      "Gutenberg",
+      "accessibility",
+      "AI",
+      "JavaScript"
+    ],
+    "sourceName": "Gutenbergtimes.com",
+    "sourceUrl": "https://gutenbergtimes.com/building-blocks-without-javascript-accessibility-lab-ai-plugin-showdown-and-more-weekend-edition-375",
+    "relatedSources": [
+      {
+        "name": "Gutenbergtimes.com",
+        "url": "https://gutenbergtimes.com/building-blocks-without-javascript-accessibility-lab-ai-plugin-showdown-and-more-weekend-edition-375"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-a9d7a3f5",
+    "status": "published",
+    "translationOf": "gutenberg-times-building-blocks-without-javascript-accessibility-lab-ai-plugin-s-zh-a9d7a3f5",
+    "publishedAt": "2026-08-29T03:22:00.000Z",
+    "fetchedAt": "2026-08-30T05:19:51.156Z",
+    "body": "The article covers WordPress Gutenberg updates, including building blocks that work without JavaScript, an Accessibility Lab initiative, and an AI plugin showdown, highlighting efforts to improve web accessibility.\n\nRead more from the original source: [Gutenbergtimes.com](https://gutenbergtimes.com/building-blocks-without-javascript-accessibility-lab-ai-plugin-showdown-and-more-weekend-edition-375)"
+  },
+  {
+    "title": "How I taught keyboardist unforgettable lesson for mocking my blindness – Music producer, Ajibola",
+    "slug": "how-i-taught-keyboardist-unforgettable-lesson-for-mocking-my-blindness-music-pro-87c35884",
+    "lang": "en",
+    "summary": "Visually impaired music producer Ajibola recounts how he responded to a keyboardist who mocked his blindness, teaching a lesson about respect and resilience while sharing his journey as a blind musician.",
+    "category": "case-studies",
+    "tags": [
+      "blindness",
+      "disability",
+      "music",
+      "resilience",
+      "Awareness"
+    ],
+    "sourceName": "The Punch",
+    "sourceUrl": "https://punchng.com/how-i-taught-keyboardist-unforgettable-lesson-for-mocking-my-blindness-music-producer-ajibola",
+    "relatedSources": [
+      {
+        "name": "The Punch",
+        "url": "https://punchng.com/how-i-taught-keyboardist-unforgettable-lesson-for-mocking-my-blindness-music-producer-ajibola"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-87c35884",
+    "status": "published",
+    "translationOf": "how-i-taught-keyboardist-unforgettable-lesson-for-mocking-my-blindness-music-pro-zh-87c35884",
+    "publishedAt": "2026-08-29T01:07:00.000Z",
+    "fetchedAt": "2026-08-30T05:19:51.261Z",
+    "body": "Visually impaired music producer Ajibola recounts how he responded to a keyboardist who mocked his blindness, teaching a lesson about respect and resilience while sharing his journey as a blind musician.\n\nRead more from the original source: [The Punch](https://punchng.com/how-i-taught-keyboardist-unforgettable-lesson-for-mocking-my-blindness-music-producer-ajibola)"
   }
 ]
