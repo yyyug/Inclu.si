@@ -1,55 +1,55 @@
 {
-  "date": "2026-08-29",
-  "generatedAt": "2026-08-29T16:51:45.246Z",
+  "date": "2026-08-30",
+  "generatedAt": "2026-08-30T05:43:32.730Z",
   "en": {
-    "title": "Belton Seeks Public Input on ADA Accessibility Plan Amid Local Accessibility Updates",
-    "summary": "The City of Belton is soliciting public feedback on its ADA Transition Plan to improve accessibility for residents with disabilities. Meanwhile, Marvel's Wolverine is set to launch September 15 with over 100 accessibility options, while Evanston's dog beach ramp project faces cost overruns and the DNR removed an accessibility mat from Heather Beach after vandalism. Additionally, a discussion on X highlights how people with disabilities use the platform's monetization features to support living expenses.",
+    "title": "Accessibility Setbacks and Advances: Beach Mat Removed, Gaming Gains",
+    "summary": "The Department of Natural Resources removed an accessibility mat from Heather Beach after vandalism, reducing beach access for people with disabilities. Meanwhile, Marvel's Wolverine launches with over 100 accessibility options, and Harvard researchers released a smartphone navigation app for blind and low vision users. Be My Eyes partnered with Tracfone for 24/7 accessible support, while Evanston's dog beach ramp plan faces cost challenges.",
     "highlights": [
       {
-        "title": "City of Belton asking for input on ADA accessibility plan",
-        "slug": "city-of-belton-asking-for-input-on-ada-accessibility-plan-c1529447"
+        "title": "DNR removes accessibility mat from Heather Beach after repeated vandalism - Yahoo News Canada",
+        "slug": "dnr-removes-accessibility-mat-from-heather-beach-after-repeated-vandalism-yahoo--689343f9"
       },
       {
         "title": "Marvel's Wolverine Launches Sept 15 With 100-Plus Accessibility Options and Day-One NG+",
         "slug": "marvels-wolverine-launches-sept-15-with-100-plus-accessibility-options-and-day-o-0558ce6f"
       },
       {
+        "title": "Smartphone Navigation App for Blind and Low Vision",
+        "slug": "smartphone-navigation-app-for-blind-and-low-vision-7ada2390"
+      },
+      {
+        "title": "Be My Eyes and Tracfone Partnership",
+        "slug": "be-my-eyes-and-tracfone-partnership-cb968310"
+      },
+      {
         "title": "Evanston’s plans to make dog beach accessible hounded by rising costs for ramp",
         "slug": "evanstons-plans-to-make-dog-beach-accessible-hounded-by-rising-costs-for-ramp-55a306c4"
-      },
-      {
-        "title": "DNR removes accessibility mat from Heather Beach after repeated vandalism - Yahoo News Canada",
-        "slug": "dnr-removes-accessibility-mat-from-heather-beach-after-repeated-vandalism-yahoo--689343f9"
-      },
-      {
-        "title": "Monetization on X for People with Disabilities",
-        "slug": "monetization-on-x-for-people-with-disabilities-d9ce625f"
       }
     ]
   },
   "zh-TW": {
-    "title": "貝爾頓徵求公眾意見 ADA 無障礙計畫，關注地方無障礙進展",
-    "summary": "貝爾頓市正徵求公眾對其ADA過渡計畫的意見，以改善殘障居民的無障礙環境。同時，Marvel《金鋼狼》將於9月15日推出，提供超過100項無障礙選項；埃文斯頓的狗海灘坡道計畫因經費上升受阻，DNR則因屢遭破壞移除Heather Beach的無障礙墊。此外，X平台上的討論顯示，殘障使用者利用變現功能幫助支付團體住宅租金。",
+    "title": "海灘無障礙設施受阻，遊戲與導航App提升 accessibility",
+    "summary": "由於屢遭破壞，DNR 移除了 Heather Beach 的無障礙墊，影響殘障人士的海灘使用。Marvel《金鋼狼》將於9月15日推出超過100項無障礙功能，哈佛團隊開發盲人導航App。此外，日本的融合教育面臨實施挑戰，埃文斯頓狗海灘坡道計畫則因經費上升受阻。",
     "highlights": [
       {
-        "title": "貝爾頓市徵求公眾對ADA無障礙計畫的意見",
-        "slug": "city-of-belton-asking-for-input-on-ada-accessibility-plan-zh-c1529447"
+        "title": "DNR 因屢遭破壞移除 Heather Beach 無障礙墊 - Yahoo News Canada",
+        "slug": "dnr-removes-accessibility-mat-from-heather-beach-after-repeated-vandalism-yahoo--zh-689343f9"
       },
       {
         "title": "Marvel《金鋼狼》將於9月15日推出，提供超過100項無障礙選項及當日NG+模式",
         "slug": "marvels-wolverine-launches-sept-15-with-100-plus-accessibility-options-and-day-o-zh-0558ce6f"
       },
       {
+        "title": "針對盲人與低視力者的智慧型手機導航應用程式",
+        "slug": "smartphone-navigation-app-for-blind-and-low-vision-zh-7ada2390"
+      },
+      {
+        "title": "日本的融合教育挑戰",
+        "slug": "challenges-of-inclusive-education-in-japan-zh-2aa16014"
+      },
+      {
         "title": "埃文斯頓計畫建造坡道以使狗海灘無障礙，但經費上升造成阻礙",
         "slug": "evanstons-plans-to-make-dog-beach-accessible-hounded-by-rising-costs-for-ramp-zh-55a306c4"
-      },
-      {
-        "title": "DNR 因屢遭破壞移除 Heather Beach 無障礙墊 - Yahoo News Canada",
-        "slug": "dnr-removes-accessibility-mat-from-heather-beach-after-repeated-vandalism-yahoo--zh-689343f9"
-      },
-      {
-        "title": "殘障人士在 X 平台上的變現",
-        "slug": "monetization-on-x-for-people-with-disabilities-zh-d9ce625f"
       }
     ]
   }
