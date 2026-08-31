@@ -70109,5 +70109,587 @@
     "publishedAt": "2026-08-31T05:51:00.000Z",
     "fetchedAt": "2026-08-31T06:10:48.107Z",
     "body": "InterLink 實習大使強調無障礙在為所有參與者創造公平生態系統中的重要性。\n推文來源： [Mahfuz InterLink Trainee Ambassador (@Mahfuz5220)](https://x.com/Mahfuz5220/status/2094301910715224162)"
+  },
+  {
+    "title": "各州大多符合網站無障礙規則，報告發現 - Route Fifty",
+    "slug": "states-are-mostly-compliant-with-website-accessibility-rule-report-finds-route-f-zh-53a56d03",
+    "lang": "zh-TW",
+    "summary": "報告顯示，美國多數州已達成聯邦網站無障礙法規的合規，確保數位內容對殘障人士可用。",
+    "category": "digital-a11y",
+    "tags": [
+      "website accessibility",
+      "WCAG",
+      "state compliance",
+      "digital inclusion"
+    ],
+    "sourceName": "Route Fifty",
+    "sourceUrl": "https://www.route-fifty.com/digital-government/2026/08/states-are-mostly-compliant-website-accessibility-rule-report-finds/415723?oref=rf-home-top-story",
+    "relatedSources": [
+      {
+        "name": "Route Fifty",
+        "url": "https://www.route-fifty.com/digital-government/2026/08/states-are-mostly-compliant-website-accessibility-rule-report-finds/415723?oref=rf-home-top-story"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-53a56d03",
+    "status": "published",
+    "translationOf": "states-are-mostly-compliant-with-website-accessibility-rule-report-finds-route-f-53a56d03",
+    "publishedAt": "2026-08-31T17:00:00.000Z",
+    "fetchedAt": "2026-08-31T19:07:52.701Z",
+    "body": "報告顯示，美國多數州已達成聯邦網站無障礙法規的合規，確保數位內容對殘障人士可用。\n\n原文來源： [Route Fifty](https://www.route-fifty.com/digital-government/2026/08/states-are-mostly-compliant-website-accessibility-rule-report-finds/415723?oref=rf-home-top-story)"
+  },
+  {
+    "title": "無障礙地圖讓韋恩堡更積極 - WANE 15",
+    "slug": "accessibility-maps-are-positively-fort-wayne-wane-15-zh-5694166c",
+    "lang": "zh-TW",
+    "summary": "韋恩堡推出無障礙地圖，標示輪椅友善路線、無障礙建築與服務，協助殘障居民更輕鬆在城市中移動。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility maps",
+      "Fort Wayne",
+      "mobility",
+      "urban accessibility"
+    ],
+    "sourceName": "WANE 15",
+    "sourceUrl": "https://www.wane.com/news/positively-fort-wayne/accessibility-maps-are-positively-fort-wayne",
+    "relatedSources": [
+      {
+        "name": "WANE 15",
+        "url": "https://www.wane.com/news/positively-fort-wayne/accessibility-maps-are-positively-fort-wayne"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5694166c",
+    "status": "published",
+    "translationOf": "accessibility-maps-are-positively-fort-wayne-wane-15-5694166c",
+    "publishedAt": "2026-08-31T11:09:28.000Z",
+    "fetchedAt": "2026-08-31T19:07:52.806Z",
+    "body": "韋恩堡推出無障礙地圖，標示輪椅友善路線、無障礙建築與服務，協助殘障居民更輕鬆在城市中移動。\n\n原文來源： [WANE 15](https://www.wane.com/news/positively-fort-wayne/accessibility-maps-are-positively-fort-wayne)"
+  },
+  {
+    "title": "SEPTA 在第11街車站動工進行4400萬美元無障礙升級 - Metro Magazine",
+    "slug": "septa-breaks-ground-on-44m-accessibility-upgrade-at-11th-street-station-metro-ma-zh-1251bcb7",
+    "lang": "zh-TW",
+    "summary": "東南賓夕法尼亞交通局（SEPTA）已在第11街車站啟動4400萬美元的無障礙改善工程，新增電梯、坡道等設施，提升殘障乘客的大眾運輸便利。",
+    "category": "physical-design",
+    "tags": [
+      "SEPTA",
+      "transit accessibility",
+      "station upgrades",
+      "elevators",
+      "ADA"
+    ],
+    "sourceName": "Metro Magazine",
+    "sourceUrl": "https://www.metro-magazine.com/news/septa-breaks-ground-on-44m-accessibility-upgrade-at-11th-street-station",
+    "relatedSources": [
+      {
+        "name": "Metro Magazine",
+        "url": "https://www.metro-magazine.com/news/septa-breaks-ground-on-44m-accessibility-upgrade-at-11th-street-station"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-1251bcb7",
+    "status": "published",
+    "translationOf": "septa-breaks-ground-on-44m-accessibility-upgrade-at-11th-street-station-metro-ma-1251bcb7",
+    "publishedAt": "2026-08-31T11:46:14.000Z",
+    "fetchedAt": "2026-08-31T19:07:52.874Z",
+    "body": "東南賓夕法尼亞交通局（SEPTA）已在第11街車站啟動4400萬美元的無障礙改善工程，新增電梯、坡道等設施，提升殘障乘客的大眾運輸便利。\n\n原文來源： [Metro Magazine](https://www.metro-magazine.com/news/septa-breaks-ground-on-44m-accessibility-upgrade-at-11th-street-station)"
+  },
+  {
+    "title": "我每天第一天都會更改的4個Pixel無障礙設定",
+    "slug": "4-pixel-accessibility-settings-i-always-change-on-day-one-zh-b385c899",
+    "lang": "zh-TW",
+    "summary": "文章列出作者在購買Google Pixel手機後會立即開啟的四項關鍵無障礙設定，包括字體大小、顯示放大、顏色校正和助聽器支援，以提升殘障人士的使用體驗。",
+    "category": "digital-a11y",
+    "tags": [
+      "Pixel",
+      "accessibility settings",
+      "Android",
+      "disability"
+    ],
+    "sourceName": "Pocket-lint",
+    "sourceUrl": "https://www.pocket-lint.com/google-pixel-accessibility-settings-i-change",
+    "relatedSources": [
+      {
+        "name": "Pocket-lint",
+        "url": "https://www.pocket-lint.com/google-pixel-accessibility-settings-i-change"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-b385c899",
+    "status": "published",
+    "translationOf": "4-pixel-accessibility-settings-i-always-change-on-day-one-b385c899",
+    "publishedAt": "2026-08-31T15:39:09.000Z",
+    "fetchedAt": "2026-08-31T19:09:06.701Z",
+    "body": "文章列出作者在購買Google Pixel手機後會立即開啟的四項關鍵無障礙設定，包括字體大小、顯示放大、顏色校正和助聽器支援，以提升殘障人士的使用體驗。\n\n原文來源： [Pocket-lint](https://www.pocket-lint.com/google-pixel-accessibility-settings-i-change)"
+  },
+  {
+    "title": "撥款將改善Laurel Run Park的無障礙設施",
+    "slug": "grant-will-improve-accessibility-at-laurel-run-park-zh-d27ae0ef",
+    "lang": "zh-TW",
+    "summary": "一筆撥款將用於Laurel Run Park的無障礙升級，包括鋪設平坦步道、輪椅友善廁所和感官友善遊樂區，讓殘障訪客能更方便地使用公園。",
+    "category": "physical-design",
+    "tags": [
+      "Laurel Run Park",
+      "grant",
+      "accessibility improvements",
+      "park"
+    ],
+    "sourceName": "The Rogersville Review",
+    "sourceUrl": "https://www.therogersvillereview.com/news/article_9128518b-0e11-4f51-a592-17a23524013a.html",
+    "relatedSources": [
+      {
+        "name": "The Rogersville Review",
+        "url": "https://www.therogersvillereview.com/news/article_9128518b-0e11-4f51-a592-17a23524013a.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-d27ae0ef",
+    "status": "published",
+    "translationOf": "grant-will-improve-accessibility-at-laurel-run-park-d27ae0ef",
+    "publishedAt": "2026-08-31T17:30:00.000Z",
+    "fetchedAt": "2026-08-31T19:09:06.805Z",
+    "body": "一筆撥款將用於Laurel Run Park的無障礙升級，包括鋪設平坦步道、輪椅友善廁所和感官友善遊樂區，讓殘障訪客能更方便地使用公園。\n\n原文來源： [The Rogersville Review](https://www.therogersvillereview.com/news/article_9128518b-0e11-4f51-a592-17a23524013a.html)"
+  },
+  {
+    "title": "SEPTA動工改善第11街車站無障礙設施",
+    "slug": "septa-breaks-ground-on-11th-street-station-accessibility-improvements-zh-7f3f4d5a",
+    "lang": "zh-TW",
+    "summary": "SEPTA已在第11街車站開始施工無障礙改善工程，新增電梯、坡道和觸覺鋪設，以符合ADA標準並提升殘障乘客的使用便利性。",
+    "category": "physical-design",
+    "tags": [
+      "SEPTA",
+      "11th Street station",
+      "accessibility improvements",
+      "rail"
+    ],
+    "sourceName": "Progressive Railroading",
+    "sourceUrl": "https://www.progressiverailroading.com/passenger_rail/news/SEPTA-breaks-ground-on-11th-Street-station-accessibility-improvements--77659",
+    "relatedSources": [
+      {
+        "name": "Progressive Railroading",
+        "url": "https://www.progressiverailroading.com/passenger_rail/news/SEPTA-breaks-ground-on-11th-Street-station-accessibility-improvements--77659"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-7f3f4d5a",
+    "status": "published",
+    "translationOf": "septa-breaks-ground-on-11th-street-station-accessibility-improvements-7f3f4d5a",
+    "publishedAt": "2026-08-31T15:54:01.000Z",
+    "fetchedAt": "2026-08-31T19:09:06.880Z",
+    "body": "SEPTA已在第11街車站開始施工無障礙改善工程，新增電梯、坡道和觸覺鋪設，以符合ADA標準並提升殘障乘客的使用便利性。\n\n原文來源： [Progressive Railroading](https://www.progressiverailroading.com/passenger_rail/news/SEPTA-breaks-ground-on-11th-Street-station-accessibility-improvements--77659)"
+  },
+  {
+    "title": "現代無障礙商用洗手間的管道策略",
+    "slug": "plumbing-strategies-for-modern-accessible-commercial-restrooms-zh-dcd3854f",
+    "lang": "zh-TW",
+    "summary": "本文探討符合ADA標準的無障礙商用洗手間管道設計策略，包括裝置選擇、佈局規劃及對殘障人士的使用便利性。",
+    "category": "physical-design",
+    "tags": [
+      "ADA",
+      "restroom design",
+      "accessibility",
+      "plumbing",
+      "commercial"
+    ],
+    "sourceName": "buildings.com",
+    "sourceUrl": "https://www.buildings.com/safety-security/ada-compliance/article/55401665/plumbing-strategies-for-modern-accessible-commercial-restrooms",
+    "relatedSources": [
+      {
+        "name": "buildings.com",
+        "url": "https://www.buildings.com/safety-security/ada-compliance/article/55401665/plumbing-strategies-for-modern-accessible-commercial-restrooms"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-dcd3854f",
+    "status": "published",
+    "translationOf": "plumbing-strategies-for-modern-accessible-commercial-restrooms-dcd3854f",
+    "publishedAt": "2026-08-31T16:59:48.000Z",
+    "fetchedAt": "2026-08-31T19:09:31.913Z",
+    "body": "本文探討符合ADA標準的無障礙商用洗手間管道設計策略，包括裝置選擇、佈局規劃及對殘障人士的使用便利性。\n\n原文來源： [buildings.com](https://www.buildings.com/safety-security/ada-compliance/article/55401665/plumbing-strategies-for-modern-accessible-commercial-restrooms)"
+  },
+  {
+    "title": "無障礙親民住宅開發在林肯公園推進中",
+    "slug": "accessible-affordable-residential-development-moving-forward-in-lincoln-park-zh-feedcf48",
+    "lang": "zh-TW",
+    "summary": "林肯公園的一個親民住宅開發項目正在推進，並加入了適合殘障人士的無障礙住宅設施。",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "Chicago YIMBY",
+    "sourceUrl": "https://chicagoyimby.com/2026/08/accessible-affordable-residential-development-moving-forward-in-lincoln-park.html",
+    "relatedSources": [
+      {
+        "name": "Chicago YIMBY",
+        "url": "https://chicagoyimby.com/2026/08/accessible-affordable-residential-development-moving-forward-in-lincoln-park.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-feedcf48",
+    "status": "published",
+    "translationOf": "accessible-affordable-residential-development-moving-forward-in-lincoln-park-feedcf48",
+    "publishedAt": "2026-08-31T12:45:07.000Z",
+    "fetchedAt": "2026-08-31T19:09:57.816Z",
+    "body": "林肯公園的一個親民住宅開發項目正在推進，並加入了適合殘障人士的無障礙住宅設施。\n\n原文來源： [Chicago YIMBY](https://chicagoyimby.com/2026/08/accessible-affordable-residential-development-moving-forward-in-lincoln-park.html)"
+  },
+  {
+    "title": "Locust Lake 公園新增無障礙船艇啟用區",
+    "slug": "locust-lake-park-adds-accessible-launch-zh-969ab8d1",
+    "lang": "zh-TW",
+    "summary": "Locust Lake 公園新增了一個專為殘障人士設計的無障礙船艇啟用區。",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "Times News Online",
+    "sourceUrl": "https://www.tnonline.com/20260831/locust-lake-park-adds-accessible-launch",
+    "relatedSources": [
+      {
+        "name": "Times News Online",
+        "url": "https://www.tnonline.com/20260831/locust-lake-park-adds-accessible-launch"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-969ab8d1",
+    "status": "published",
+    "translationOf": "locust-lake-park-adds-accessible-launch-969ab8d1",
+    "publishedAt": "2026-08-31T18:46:01.000Z",
+    "fetchedAt": "2026-08-31T19:09:57.916Z",
+    "body": "Locust Lake 公園新增了一個專為殘障人士設計的無障礙船艇啟用區。\n\n原文來源： [Times News Online](https://www.tnonline.com/20260831/locust-lake-park-adds-accessible-launch)"
+  },
+  {
+    "title": "基隆無障礙親海邁入第3年！友善親海環境再升級 26位身障者勇渡基隆嶼",
+    "slug": "keelung-accessible-seaside-enters-third-year-with-upgraded-friendly-environment--zh-7aa67242",
+    "lang": "zh-TW",
+    "summary": "基隆無障礙親海邁入第3年！友善親海環境再升級 26位身障者勇渡基隆嶼",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "基隆海嗨",
+    "sourceUrl": "https://keelunghihi.com.tw/96922",
+    "relatedSources": [
+      {
+        "name": "基隆海嗨",
+        "url": "https://keelunghihi.com.tw/96922"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-7aa67242",
+    "status": "published",
+    "translationOf": "keelung-accessible-seaside-enters-third-year-with-upgraded-friendly-environment--7aa67242",
+    "publishedAt": "2026-08-31T09:55:26.000Z",
+    "fetchedAt": "2026-08-31T19:09:57.988Z",
+    "body": "基隆無障礙親海邁入第3年！友善親海環境再升級 26位身障者勇渡基隆嶼\n\n原文來源： [基隆海嗨](https://keelunghihi.com.tw/96922)"
+  },
+  {
+    "title": "【營建】一條路，改變一座生活圈！清水人行環境勇奪全國「馬路好行」特優獎-清水國中7,400萬元不只是修人行道！從五叉路口、通學安全到無障礙生活路網，讓孩子安心上學、長者自在行走、居民重新找回街道的安全與溫度",
+    "slug": "road-improvement-project-wins-national-good-road-excellence-award-transforming-c-zh-d43bde87",
+    "lang": "zh-TW",
+    "summary": "該項目投資新台幣7,400萬元改善人行環境，包含五叉路口、通學安全及無障礙生活路網的建設，使孩子能安心上學、長者自在行走、居民重新獲得街道的安全與溫度。",
+    "category": "physical-design",
+    "tags": [
+      "road",
+      "pedestrian",
+      "accessibility",
+      "elderly",
+      "children",
+      "school safety"
+    ],
+    "sourceName": "正聲廣播電台",
+    "sourceUrl": "https://www.csbc.com.tw/154448",
+    "relatedSources": [
+      {
+        "name": "正聲廣播電台",
+        "url": "https://www.csbc.com.tw/154448"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-d43bde87",
+    "status": "published",
+    "translationOf": "road-improvement-project-wins-national-good-road-excellence-award-transforming-c-d43bde87",
+    "publishedAt": "2026-08-31T06:23:12.000Z",
+    "fetchedAt": "2026-08-31T19:10:33.082Z",
+    "body": "該項目投資新台幣7,400萬元改善人行環境，包含五叉路口、通學安全及無障礙生活路網的建設，使孩子能安心上學、長者自在行走、居民重新獲得街道的安全與溫度。\n\n原文來源： [正聲廣播電台](https://www.csbc.com.tw/154448)"
+  },
+  {
+    "title": "無障礙親海推動-活動成果-【國立臺灣海洋大學】向洋體驗 ‧ 無礙海洋",
+    "slug": "accessible-ocean-experience-initiative-results-from-national-taiwan-ocean-univer-zh-00e9e8f1",
+    "lang": "zh-TW",
+    "summary": "活動成果顯示，國立臺灣海洋大學推動無障礙親海體驗，讓殘障人士能夠參與無礙的海洋活動。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "ocean",
+      "accessible",
+      "marine",
+      "disability",
+      "activity",
+      "National Taiwan Ocean University"
+    ],
+    "sourceName": "oac.gov.tw",
+    "sourceUrl": "https://www.oac.gov.tw/ch%20/home.jsp?id=558&parentpath=0%2C513%2C533%2C541&mcustomize=onemessages_view.jsp&dataserno=202512150001",
+    "relatedSources": [
+      {
+        "name": "oac.gov.tw",
+        "url": "https://www.oac.gov.tw/ch%20/home.jsp?id=558&parentpath=0%2C513%2C533%2C541&mcustomize=onemessages_view.jsp&dataserno=202512150001"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-00e9e8f1",
+    "status": "published",
+    "translationOf": "accessible-ocean-experience-initiative-results-from-national-taiwan-ocean-univer-00e9e8f1",
+    "publishedAt": "2026-08-30T09:51:29.000Z",
+    "fetchedAt": "2026-08-31T19:10:33.184Z",
+    "body": "活動成果顯示，國立臺灣海洋大學推動無障礙親海體驗，讓殘障人士能夠參與無礙的海洋活動。\n\n原文來源： [oac.gov.tw](https://www.oac.gov.tw/ch%20/home.jsp?id=558&parentpath=0%2C513%2C533%2C541&mcustomize=onemessages_view.jsp&dataserno=202512150001)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "mobius-strip-and-disability-metaphor-meaning-uses-zh-98eb04d6",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/disability/publications/journals/mobius-strip.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/disability/publications/journals/mobius-strip.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-98eb04d6",
+    "status": "draft",
+    "translationOf": "mobius-strip-and-disability-metaphor-meaning-uses-98eb04d6",
+    "publishedAt": "2026-08-31T13:41:00.000Z",
+    "fetchedAt": "2026-08-31T19:10:33.260Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://www.disabled-world.com/disability/publications/journals/mobius-strip.php)"
+  },
+  {
+    "title": "呼籲反馈：EDF 對住房簡化套件證據徵求的草案回應",
+    "slug": "call-for-feedback-edfs-draft-response-to-the-call-for-evidence-on-the-housing-si-zh-18218a01",
+    "lang": "zh-TW",
+    "summary": "歐洲殘疾論壇邀請利益相關者對其關於歐盟住房簡化套件證據徵求的草案回應提供意見，以影響有利於殘疾人士的住房政策。",
+    "category": "laws-rights",
+    "tags": [
+      "housing",
+      "EU policy",
+      "disability rights"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.edf-feph.org/call-for-feedback-edfs-draft-response-to-the-call-for-evidence-on-the-housing-simplification-package",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.edf-feph.org/call-for-feedback-edfs-draft-response-to-the-call-for-evidence-on-the-housing-simplification-package"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.edf-feph.org/feed",
+    "ingestProvider": "edf-feph.org",
+    "clusterId": "cluster-18218a01",
+    "status": "published",
+    "translationOf": "call-for-feedback-edfs-draft-response-to-the-call-for-evidence-on-the-housing-si-18218a01",
+    "publishedAt": "2026-08-31T09:55:51.000Z",
+    "fetchedAt": "2026-08-31T19:11:11.383Z",
+    "body": "歐洲殘疾論壇邀請利益相關者對其關於歐盟住房簡化套件證據徵求的草案回應提供意見，以影響有利於殘疾人士的住房政策。\n\n原文來源： [Unknown source](https://www.edf-feph.org/call-for-feedback-edfs-draft-response-to-the-call-for-evidence-on-the-housing-simplification-package)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "page-validation-051-zh-d8048a98",
+    "lang": "zh-TW",
+    "summary": "頁面（page）工具的 Python 綁定，一個快速且輕量的 PDF 無障礙與合規檢查器，使開發者能將無障礙驗證整合到工作流程中。",
+    "category": "digital-a11y",
+    "tags": [
+      "PDF",
+      "accessibility",
+      "Python",
+      "compliance"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/page-validation/0.5.1",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/page-validation/0.5.1"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-d8048a98",
+    "status": "draft",
+    "translationOf": "page-validation-051-d8048a98",
+    "publishedAt": "2026-08-30T11:00:54.000Z",
+    "fetchedAt": "2026-08-31T19:11:11.492Z",
+    "body": "頁面（page）工具的 Python 綁定，一個快速且輕量的 PDF 無障礙與合規檢查器，使開發者能將無障礙驗證整合到工作流程中。\n\n原文來源： [Pypi.org](https://pypi.org/project/page-validation/0.5.1)"
+  },
+  {
+    "title": "彰縣防災闖關活動 9/1開跑",
+    "slug": "changhua-county-disaster-prevention-online-challenge-activity-launches-september-zh-17047f58",
+    "lang": "zh-TW",
+    "summary": "為提升全民防災知能，深化防災教育向下扎根，彰化縣消防局「一一五年度防災尖兵線上闖關活動」於九月一日開跑，活動開放十月三十一日止，今年以「打造全齡、無障礙、多語言防災學習平台」為主軸，全面升級數位學習內容，透過精準分眾、多語言服務及無障礙設計，打造符合不同年齡與族群需求的線上學習平台，讓防災教育更貼近生活、更具互動性，邀請全縣學生及民眾共同參與，提升自助、互助及共助能力。面對極端氣候及複合型災害帶來的挑戰，提升全民防災意識與災害應變能力，是建構韌性城市的重要基礎。彰化縣政府持續支持運用數位科技推動防災教育，透過創新…",
+    "category": "digital-a11y",
+    "tags": [
+      "disaster prevention",
+      "accessible design",
+      "online learning",
+      "multilingual",
+      "digital accessibility"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%BD%B0%E7%B8%A3%E9%98%B2%E7%81%BD%E9%97%96%E9%97%9C%E6%B4%BB%E5%8B%95-9-1%E9%96%8B%E8%B7%91-133131511.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E5%BD%B0%E7%B8%A3%E9%98%B2%E7%81%BD%E9%97%96%E9%97%9C%E6%B4%BB%E5%8B%95-9-1%E9%96%8B%E8%B7%91-133131511.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-17047f58",
+    "status": "published",
+    "translationOf": "changhua-county-disaster-prevention-online-challenge-activity-launches-september-17047f58",
+    "publishedAt": "2026-08-30T13:31:31.000Z",
+    "fetchedAt": "2026-08-31T19:12:09.218Z",
+    "body": "為提升全民防災知能，深化防災教育向下扎根，彰化縣消防局「一一五年度防災尖兵線上闖關活動」於九月一日開跑，活動開放十月三十一日止，今年以「打造全齡、無障礙、多語言防災學習平台」為主軸，全面升級數位學習內容，透過精準分眾、多語言服務及無障礙設計，打造符合不同年齡與族群需求的線上學習平台，讓防災教育更貼近生活、更具互動性，邀請全縣學生及民眾共同參與，提升自助、互助及共助能力。面對極端氣候及複合型災害帶來的挑戰，提升全民防災意識與災害應變能力，是建構韌性城市的重要基礎。彰化縣政府持續支持運用數位科技推動防災教育，透過創新…\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%BD%B0%E7%B8%A3%E9%98%B2%E7%81%BD%E9%97%96%E9%97%9C%E6%B4%BB%E5%8B%95-9-1%E9%96%8B%E8%B7%91-133131511.html)"
+  },
+  {
+    "title": "銀髮住宅兩樣情！公辦月租約6000元起400人排隊　民營最高近10萬、另有250萬信託或千萬押租金",
+    "slug": "elderly-housing-contrasts-public-rent-starts-at-nt6000-with-400-on-waiting-list--zh-4c599398",
+    "lang": "zh-TW",
+    "summary": "「人老、屋也老」。依內政部2025年第2季房屋稅籍住宅資料，全台住宅平均屋齡已達34.1年，屋齡30年以上住宅多達554萬5,854宅，占59%。不少高齡者仍住在沒有電梯、無障礙設施不足的老公寓，未來高齡住宅需求不只來自人口變老，也和既有住宅不適合老後生活有關。",
+    "category": "physical-design",
+    "tags": [
+      "elderly housing",
+      "accessibility",
+      "aging population",
+      "barrier-free",
+      "housing policy"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.stock.yahoo.com/news/%E9%8A%80%E9%AB%AE%E4%BD%8F%E5%AE%85%E5%85%A9%E6%A8%A3%E6%83%85%EF%BC%81%E5%85%AC%E8%BE%A6%E6%9C%88%E7%A7%9F%E7%B4%846000%E5%85%83%E8%B5%B7400%E4%BA%BA%E6%8E%92%E9%9A%8A-%E6%B0%91%E7%87%9F%E6%9C%80%E9%AB%98%E8%BF%9110%E8%90%AC%E3%80%81%E5%8F%A6%E6%9C%89250%E8%90%AC%E4%BF%A1%E8%A8%97%E6%88%96%E5%8D%83%E8%90%AC%E6%8A%BC%E7%A7%9F%E9%87%91-124400890.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.stock.yahoo.com/news/%E9%8A%80%E9%AB%AE%E4%BD%8F%E5%AE%85%E5%85%A9%E6%A8%A3%E6%83%85%EF%BC%81%E5%85%AC%E8%BE%A6%E6%9C%88%E7%A7%9F%E7%B4%846000%E5%85%83%E8%B5%B7400%E4%BA%BA%E6%8E%92%E9%9A%8A-%E6%B0%91%E7%87%9F%E6%9C%80%E9%AB%98%E8%BF%9110%E8%90%AC%E3%80%81%E5%8F%A6%E6%9C%89250%E8%90%AC%E4%BF%A1%E8%A8%97%E6%88%96%E5%8D%83%E8%90%AC%E6%8A%BC%E7%A7%9F%E9%87%91-124400890.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-4c599398",
+    "status": "published",
+    "translationOf": "elderly-housing-contrasts-public-rent-starts-at-nt6000-with-400-on-waiting-list--4c599398",
+    "publishedAt": "2026-08-30T12:44:00.000Z",
+    "fetchedAt": "2026-08-31T19:12:09.325Z",
+    "body": "「人老、屋也老」。依內政部2025年第2季房屋稅籍住宅資料，全台住宅平均屋齡已達34.1年，屋齡30年以上住宅多達554萬5,854宅，占59%。不少高齡者仍住在沒有電梯、無障礙設施不足的老公寓，未來高齡住宅需求不只來自人口變老，也和既有住宅不適合老後生活有關。\n\n原文來源： [Yahoo Entertainment](https://tw.stock.yahoo.com/news/%E9%8A%80%E9%AB%AE%E4%BD%8F%E5%AE%85%E5%85%A9%E6%A8%A3%E6%83%85%EF%BC%81%E5%85%AC%E8%BE%A6%E6%9C%88%E7%A7%9F%E7%B4%846000%E5%85%83%E8%B5%B7400%E4%BA%BA%E6%8E%92%E9%9A%8A-%E6%B0%91%E7%87%9F%E6%9C%80%E9%AB%98%E8%BF%9110%E8%90%AC%E3%80%81%E5%8F%A6%E6%9C%89250%E8%90%AC%E4%BF%A1%E8%A8%97%E6%88%96%E5%8D%83%E8%90%AC%E6%8A%BC%E7%A7%9F%E9%87%91-124400890.html)"
+  },
+  {
+    "title": "彰縣防災尖兵線上闖關活動 9∕1開跑 數位防災再升級完成闖關抽好禮",
+    "slug": "changhua-county-disaster-prevention-elite-online-challenge-activity-launches-sep-zh-a98ba594",
+    "lang": "zh-TW",
+    "summary": "為提升全民防災知能，深化防災教育向下扎根，彰化縣消防局「一一五年度防災尖兵線上闖關活動」於九月一日開跑，活動開放十月三十一日止，今年以「打造全齡、無障礙、多語言防災學習平台」為主軸，全面升級數位學習內容，透過精準分眾、多語言服務及無障礙設計，打造符合不同年齡與族群需求的線上學習平台，讓防災教育更貼近生活、更具互動性，邀請全縣學生及民眾共同參與，提升自助、互助及共助能力。面對極端氣候及複合型災害帶來的挑戰，提升全民防災意識與災害應變能力，是建構韌性城市的重要基礎。彰化縣政府持續支持運用數位科技推動防災教育，透過創新…",
+    "category": "digital-a11y",
+    "tags": [
+      "disaster prevention",
+      "accessible design",
+      "online learning",
+      "multilingual",
+      "digital accessibility"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_882420e5-25ac-49ef-8910-1999a305124e",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_882420e5-25ac-49ef-8910-1999a305124e"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-a98ba594",
+    "status": "published",
+    "translationOf": "changhua-county-disaster-prevention-elite-online-challenge-activity-launches-sep-a98ba594",
+    "publishedAt": "2026-08-30T09:03:18.000Z",
+    "fetchedAt": "2026-08-31T19:12:09.400Z",
+    "body": "為提升全民防災知能，深化防災教育向下扎根，彰化縣消防局「一一五年度防災尖兵線上闖關活動」於九月一日開跑，活動開放十月三十一日止，今年以「打造全齡、無障礙、多語言防災學習平台」為主軸，全面升級數位學習內容，透過精準分眾、多語言服務及無障礙設計，打造符合不同年齡與族群需求的線上學習平台，讓防災教育更貼近生活、更具互動性，邀請全縣學生及民眾共同參與，提升自助、互助及共助能力。面對極端氣候及複合型災害帶來的挑戰，提升全民防災意識與災害應變能力，是建構韌性城市的重要基礎。彰化縣政府持續支持運用數位科技推動防災教育，透過創新…\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_882420e5-25ac-49ef-8910-1999a305124e)"
   }
 ]
