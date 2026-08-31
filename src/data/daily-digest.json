@@ -1,55 +1,47 @@
 {
-  "date": "2026-08-30",
-  "generatedAt": "2026-08-30T16:56:45.969Z",
+  "date": "2026-08-31",
+  "generatedAt": "2026-08-31T19:13:10.792Z",
   "en": {
-    "title": "Air Canada Boosts Mobility Aid Accessibility Amid Global Disability Access Advances",
-    "summary": "Air Canada has introduced a new mobility aid policy to improve handling and storage of wheelchairs and other devices for disabled passengers. Meanwhile, Florida launched silent 911 text services for deaf residents, and international theater programs expanded deaf‑hearing integration. A new communication board in Jefferson City’s park supports speech‑disabled users, while advocates call for greater media representation of invisible disabilities.",
+    "title": "EU Disability Forum Seeks Feedback on Housing Simplification Package",
+    "summary": "The European Disability Forum has opened consultation on its draft response to the EU Housing Simplification Package, aiming to shape accessibility-focused housing policy. Meanwhile, SEPTA began a $44 million accessibility upgrade at Philadelphia’s 11th Street Station, adding elevators and ramps. A new report shows most U.S. states comply with federal website accessibility rules, and the EU is offering inclusion grants for disability-inclusive higher education projects.",
     "highlights": [
       {
-        "title": "Air Canada introduces new mobility aid policy to improve accessibility and passenger experience",
-        "slug": "air-canada-introduces-new-mobility-aid-policy-to-improve-accessibility-and-passe-9bb5edd8"
+        "title": "Call for feedback: EDF’s draft response to the call for evidence on the Housing Simplification Package",
+        "slug": "call-for-feedback-edfs-draft-response-to-the-call-for-evidence-on-the-housing-si-18218a01"
       },
       {
-        "title": "Accessibility in emergencies: Florida’s silent 911 lifelines",
-        "slug": "accessibility-in-emergencies-floridas-silent-911-lifelines-2df5cd62"
+        "title": "SEPTA Breaks Ground on $44M Accessibility Upgrade at 11th Street Station - Metro Magazine",
+        "slug": "septa-breaks-ground-on-44m-accessibility-upgrade-at-11th-street-station-metro-ma-1251bcb7"
       },
       {
-        "title": "Deaf Culture Breaks Through Accessibility Services: International Theater Programs Promote Deaf-Hearing Integration",
-        "slug": "deaf-culture-breaks-through-accessibility-services-international-theater-program-f5ecd515"
+        "title": "States are mostly compliant with website accessibility rule, report finds - Route Fifty",
+        "slug": "states-are-mostly-compliant-with-website-accessibility-rule-report-finds-route-f-53a56d03"
       },
       {
-        "title": "New communication board brings more accessibility to Jefferson City's Community Park",
-        "slug": "new-communication-board-brings-more-accessibility-to-jefferson-citys-community-p-ce20128d"
-      },
-      {
-        "title": "Call for Representation of Invisible Disabilities",
-        "slug": "call-for-representation-of-invisible-disabilities-d8b6b3ad"
+        "title": "Inclusion Grants for Disability-Inclusive Higher Education",
+        "slug": "inclusion-grants-for-disability-inclusive-higher-education-eed92fe2"
       }
     ]
   },
   "zh-TW": {
-    "title": "加拿大航空新政策提升無障礙旅行",
-    "summary": "加拿大航空推出新行動輔助設備政策，以改善輪椅等輔具的處理與存放，提升殘障乘客的旅行體驗。佛羅里達州同時啟動靜默911簡訊服務，讓聾人與聽障居民能夠透過文字聯絡緊急救援。此外，國際劇場節目促進聾聽共融，杰斐遜城社區公園設置溝通板協助語言障礙者，並有呼籲媒體增加無形殘障的代表性。",
+    "title": "歐殘論壇住房簡化套件諮詢",
+    "summary": "歐洲殘疾論壇已就其對歐盟住房簡化套件的草案回應開放諮詢，旨在塑造更具無障礙性的住房政策。同時，SEPTA 費城第11街車站啟動4400萬美元無障礙升級工程，新增電梯與坡道。報告顯示美國多數州已符合聯邦網站無障礙規則，而日本殘障射箭社群傳出霸凌指控，引發社會關注。",
     "highlights": [
       {
-        "title": "加拿大航空推出新行動輔助設備政策以提升無障礙與乘客體驗",
-        "slug": "air-canada-introduces-new-mobility-aid-policy-to-improve-accessibility-and-passe-zh-9bb5edd8"
+        "title": "呼籲反馈：EDF 對住房簡化套件證據徵求的草案回應",
+        "slug": "call-for-feedback-edfs-draft-response-to-the-call-for-evidence-on-the-housing-si-zh-18218a01"
       },
       {
-        "title": "緊急情況下的無障礙：佛羅里達州的靜默911生命線",
-        "slug": "accessibility-in-emergencies-floridas-silent-911-lifelines-zh-2df5cd62"
+        "title": "SEPTA 在第11街車站動工進行4400萬美元無障礙升級 - Metro Magazine",
+        "slug": "septa-breaks-ground-on-44m-accessibility-upgrade-at-11th-street-station-metro-ma-zh-1251bcb7"
       },
       {
-        "title": "讓聾人文化突破無障礙服務 多檔國際強檔劇場節目深入聾聽共融",
-        "slug": "deaf-culture-breaks-through-accessibility-services-international-theater-program-zh-f5ecd515"
+        "title": "各州大多符合網站無障礙規則，報告發現 - Route Fifty",
+        "slug": "states-are-mostly-compliant-with-website-accessibility-rule-report-finds-route-f-zh-53a56d03"
       },
       {
-        "title": "新增溝通板提升杰斐遜城社區公園的無障礙設施",
-        "slug": "new-communication-board-brings-more-accessibility-to-jefferson-citys-community-p-zh-ce20128d"
-      },
-      {
-        "title": "呼籲媒體代表無形殘障",
-        "slug": "call-for-representation-of-invisible-disabilities-zh-d8b6b3ad"
+        "title": "日本殘障射箭涉及霸凌的指控",
+        "slug": "allegations-of-bullying-in-japanese-para-archery-zh-436f1584"
       }
     ]
   }
