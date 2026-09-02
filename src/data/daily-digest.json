@@ -1,55 +1,59 @@
 {
   "date": "2026-09-02",
-  "generatedAt": "2026-09-02T04:59:32.079Z",
+  "generatedAt": "2026-09-02T16:50:01.946Z",
   "en": {
-    "title": "Australia Seeks Public Input on NDIS Access Reforms to Improve Disability Support",
-    "summary": "Australians are invited to comment on proposed changes to the National Disability Insurance Scheme access process, aiming for clearer, fairer decisions. Meanwhile, Google's latest Android update reduces motion sickness and enhances accessibility features, while HKIRC promotes an accessible online shopping experience to boost digital inclusion. Advocacy highlights include AbleGamers' Gamescom discussions on gaming accessibility and AARP's guide to accessible hiking trails for people with disabilities.",
+    "title": "New Zealand Disability Support Law Passes, Boosting Accessibility Nationwide",
+    "summary": "New Zealand's Disability Support Services legislation passed its final reading, aiming to improve support for thousands of people with disabilities. Meanwhile, sensor technology advances promise a new era of accessibility for the visually impaired, and HKIRC launches an accessible online shopping platform to promote digital inclusion. Advocacy continues as Dana Fink's legacy is honored and workplace accommodation discussions progress.",
     "highlights": [
       {
-        "title": "Consultation opens on proposed NDIS access changes",
-        "slug": "consultation-opens-on-proposed-ndis-access-changes-f0907736"
+        "title": "Foundational legislation strengthens support",
+        "slug": "foundational-legislation-strengthens-support-544bc980"
       },
       {
-        "title": "Android update reduces motion sickness and enhances accessibility features",
-        "slug": "android-update-reduces-motion-sickness-and-enhances-accessibility-features-0ef8a13e"
-      },
-      {
-        "title": "AbleGamers Discusses Gaming Accessibility at Gamescom",
-        "slug": "ablegamers-discusses-gaming-accessibility-at-gamescom-f4e79408"
+        "title": "Sensor Innovation Opens New Era of Accessibility for Visually Impaired - Electronic Engineering Journal",
+        "slug": "sensor-innovation-opens-new-era-of-accessibility-for-visually-impaired-electroni-3c06934f"
       },
       {
         "title": "HKIRC Promotes Digital Inclusion, Builds Accessible Online Shopping Experience, Opens New Growth Opportunities for Businesses - Economic Daily News",
         "slug": "hkirc-promotes-digital-inclusion-builds-accessible-online-shopping-experience-op-823524fe"
       },
       {
-        "title": "Take a Hike in the Woods — an Accessible One - aarp.org",
-        "slug": "take-a-hike-in-the-woods-an-accessible-one-aarporg-ecf06c83"
+        "title": "Dana Fink, Who Fought for Accessibility and Inclusion, Dies at 38",
+        "slug": "dana-fink-who-fought-for-accessibility-and-inclusion-dies-at-38-43d32702"
+      },
+      {
+        "title": "Discussion on Reasonable Accommodation in the Workplace",
+        "slug": "discussion-on-reasonable-accommodation-in-the-workplace-67c7c69c"
       }
     ]
   },
   "zh-TW": {
-    "title": "澳洲公開NDIS無障礙變更諮詢，Android更新增強無障礙功能",
-    "summary": "澳洲民眾受邀就國家殘疾保險計畫（NDIS）的無障礙變更提出意見，旨在使申請決策更清晰、公平且一致。同時，Google 最新 Android 更新加入緩解動暈症的功能，減少滑動手機時產生的頭暈感，並加強無障礙功能；HKIRC 推動數碼共融，構建無障礙網購體驗。倡議方面，AbleGamers 在 Gamescom 討論遊戲無障礙，且 AARP 推介無障礙徒步小徑，改善殘障人士戶外體驗。",
+    "title": "新西蘭殘障立法通過",
+    "summary": "新西蘭殘障支援服務立法經過最終審議，旨在改善數千名殘障人士的支援。同時，感測器創新為視障者開啟無障礙新時代，HKIRC 推出可及網購平台促進數位共融。此外，殘障倡導者達娜·芬克的遺志被紀念，工作場所合理便利討論持續進行。",
     "highlights": [
       {
-        "title": "NDIS 無障礙變更諮詢開放",
-        "slug": "consultation-opens-on-proposed-ndis-access-changes-zh-f0907736"
+        "title": "基礎立法加強支援",
+        "slug": "foundational-legislation-strengthens-support-zh-544bc980"
       },
       {
-        "title": "滑手機不再頭暈！Android新更新緩解動暈症，強化無障礙功能",
-        "slug": "android-update-reduces-motion-sickness-and-enhances-accessibility-features-zh-0ef8a13e"
-      },
-      {
-        "title": "日本的殘障術語討論",
-        "slug": "discussion-on-disability-terminology-in-japan-zh-2e1842a8"
+        "title": "感測器變革為視障人士開啟無障礙新時代 - 電子工程專輯",
+        "slug": "sensor-innovation-opens-new-era-of-accessibility-for-visually-impaired-electroni-zh-3c06934f"
       },
       {
         "title": "HKIRC推動數碼共融 構建無障礙網購體驗 開拓企業增長新機遇 - 經濟日報",
         "slug": "hkirc-promotes-digital-inclusion-builds-accessible-online-shopping-experience-op-zh-823524fe"
       },
       {
-        "title": "在森林中徒步 — 一條無障礙的路線 - aarp.org",
-        "slug": "take-a-hike-in-the-woods-an-accessible-one-aarporg-zh-ecf06c83"
+        "title": "為無障礙與包容而奮鬥的達娜·芬克，享年38歲逝世",
+        "slug": "dana-fink-who-fought-for-accessibility-and-inclusion-dies-at-38-zh-43d32702"
+      },
+      {
+        "title": "工作場所合理便利措施的討論",
+        "slug": "discussion-on-reasonable-accommodation-in-the-workplace-zh-67c7c69c"
+      },
+      {
+        "title": "「我想活下去」：因照顧資金被拒而無法出國的殘障人士",
+        "slug": "i-want-to-live-the-disabled-people-unable-to-go-abroad-because-of-care-funding-r-zh-d588fb52"
       }
     ]
   }
