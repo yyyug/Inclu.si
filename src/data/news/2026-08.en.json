@@ -71691,5 +71691,102 @@
     "publishedAt": "2026-08-30T01:02:19.000Z",
     "fetchedAt": "2026-09-01T16:38:51.120Z",
     "body": "Russian drones struck a military facility in Myla village near Kyiv storing artillery shells, mines, and drones, causing explosion and fire, killing at least 37, injuring dozens, displacing hundreds, and damaging nearby residential areas and facilities used by elderly and disabled persons. Zelenskyy expressed anger.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E4%BF%84%E8%BB%8D3%E5%A4%A9%E7%8C%9B%E6%94%BB-%E5%9F%BA%E8%BC%94%E8%BB%8D%E6%96%B9%E5%BD%88%E8%97%A5%E5%BA%AB%E9%81%87%E8%A5%B2%E5%BC%95%E7%99%BC%E5%A4%A7%E7%88%86%E7%82%B8%E9%87%8037%E6%AD%BB-%E6%BE%A4%E5%80%AB%E6%96%AF%E5%9F%BA%E9%9C%87%E6%80%92-010219148.html)"
+  },
+  {
+    "title": "Accessible facilities visible but unusable: experts call for public action to bridge information gap",
+    "slug": "accessible-facilities-visible-but-unusable-experts-call-for-public-action-to-bri-5de2bd22",
+    "lang": "en",
+    "summary": "Experts highlight that many accessibility installations are present yet not functional, urging citizens to take one simple step to eliminate the information disparity and improve real-world accessibility.",
+    "category": "physical-design",
+    "tags": [
+      "accessibility facilities",
+      "information gap",
+      "public participation",
+      "physical design"
+    ],
+    "sourceName": "tw.news.yahoo.com",
+    "sourceUrl": "https://tw.news.yahoo.com/%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A8%AD%E6%96%BD-%E7%9C%8B%E5%BE%97%E5%88%B0-%E7%94%A8%E4%B8%8D%E5%88%B0-%E5%B0%88%E5%AE%B6%E7%B1%B2%E5%85%A8%E6%B0%91-%E5%81%9A1%E4%BA%8B-021500796.html",
+    "relatedSources": [
+      {
+        "name": "tw.news.yahoo.com",
+        "url": "https://tw.news.yahoo.com/%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A8%AD%E6%96%BD-%E7%9C%8B%E5%BE%97%E5%88%B0-%E7%94%A8%E4%B8%8D%E5%88%B0-%E5%B0%88%E5%AE%B6%E7%B1%B2%E5%85%A8%E6%B0%91-%E5%81%9A1%E4%BA%8B-021500796.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5de2bd22",
+    "status": "published",
+    "translationOf": "accessible-facilities-visible-but-unusable-experts-call-for-public-action-to-bri-zh-5de2bd22",
+    "publishedAt": "2026-08-25T02:20:03.000Z",
+    "fetchedAt": "2026-09-02T04:25:09.908Z",
+    "body": "Experts highlight that many accessibility installations are present yet not functional, urging citizens to take one simple step to eliminate the information disparity and improve real-world accessibility.\n\nRead more from the original source: [tw.news.yahoo.com](https://tw.news.yahoo.com/%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A8%AD%E6%96%BD-%E7%9C%8B%E5%BE%97%E5%88%B0-%E7%94%A8%E4%B8%8D%E5%88%B0-%E5%B0%88%E5%AE%B6%E7%B1%B2%E5%85%A8%E6%B0%91-%E5%81%9A1%E4%BA%8B-021500796.html)"
+  },
+  {
+    "title": "If you have to ask, is it accessible?",
+    "slug": "if-you-have-to-ask-is-it-accessible-8ade8176",
+    "lang": "en",
+    "summary": "Discusses VPATs in the NCADEMI EdTech Accessibility Directory, noting many vendors do not provide VPATs publicly, requiring requests, highlighting challenges in verifying accessibility compliance for educational technology.",
+    "category": "digital-a11y",
+    "tags": [
+      "VPAT",
+      "EdTech",
+      "accessibility"
+    ],
+    "sourceName": "Webaim.org",
+    "sourceUrl": "https://webaim.org/blog/if-you-have-to-ask-is-it-accessible",
+    "relatedSources": [
+      {
+        "name": "Webaim.org",
+        "url": "https://webaim.org/blog/if-you-have-to-ask-is-it-accessible"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-8ade8176",
+    "status": "published",
+    "translationOf": "if-you-have-to-ask-is-it-accessible-zh-8ade8176",
+    "publishedAt": "2026-08-31T20:02:26.000Z",
+    "fetchedAt": "2026-09-02T04:25:17.618Z",
+    "body": "Discusses VPATs in the NCADEMI EdTech Accessibility Directory, noting many vendors do not provide VPATs publicly, requiring requests, highlighting challenges in verifying accessibility compliance for educational technology.\n\nRead more from the original source: [Webaim.org](https://webaim.org/blog/if-you-have-to-ask-is-it-accessible)"
+  },
+  {
+    "title": "pdfix-cli 9.3.0",
+    "slug": "pdfix-cli-930-f5fad4c9",
+    "lang": "en",
+    "summary": "PDFix SDK command-line tools version 9.3.0 provide functionality for PDF accessibility, remediation, extraction, conversion, rendering, and automation, supporting creation of accessible PDFs for people with disabilities.",
+    "category": "digital-a11y",
+    "tags": [
+      "PDF",
+      "accessibility",
+      "remediation"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/pdfix-cli/9.3.0",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/pdfix-cli/9.3.0"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-f5fad4c9",
+    "status": "published",
+    "translationOf": "pdfix-cli-930-zh-f5fad4c9",
+    "publishedAt": "2026-08-31T19:52:40.000Z",
+    "fetchedAt": "2026-09-02T04:25:17.795Z",
+    "body": "PDFix SDK command-line tools version 9.3.0 provide functionality for PDF accessibility, remediation, extraction, conversion, rendering, and automation, supporting creation of accessible PDFs for people with disabilities.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/pdfix-cli/9.3.0)"
   }
 ]

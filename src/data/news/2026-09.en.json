@@ -2169,5 +2169,396 @@
     "publishedAt": "2026-09-01T16:31:30.000Z",
     "fetchedAt": "2026-09-01T16:58:03.693Z",
     "body": "A social media post highlights an individual's background living with schizophrenia and their experience as a person with a disability.\nTweet source: [エナジーマーカー　ウソップ (@energymarker01)](https://x.com/energymarker01/status/2094825485419397275)"
+  },
+  {
+    "title": "O-Week accessibility becomes an afterthought",
+    "slug": "o-week-accessibility-becomes-an-afterthought-e4082a07",
+    "lang": "en",
+    "summary": "The Rice Thresher reports that accessibility considerations for orientation week are being overlooked, potentially disadvantaging students with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "orientation",
+      "university",
+      "disability"
+    ],
+    "sourceName": "The Rice Thresher",
+    "sourceUrl": "https://www.ricethresher.org/article/o-week-accessibility-becomes-an-afterthought-20260901",
+    "relatedSources": [
+      {
+        "name": "The Rice Thresher",
+        "url": "https://www.ricethresher.org/article/o-week-accessibility-becomes-an-afterthought-20260901"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e4082a07",
+    "status": "published",
+    "translationOf": "o-week-accessibility-becomes-an-afterthought-zh-e4082a07",
+    "publishedAt": "2026-09-01T23:58:14.000Z",
+    "fetchedAt": "2026-09-02T04:24:12.202Z",
+    "body": "The Rice Thresher reports that accessibility considerations for orientation week are being overlooked, potentially disadvantaging students with disabilities.\n\nRead more from the original source: [The Rice Thresher](https://www.ricethresher.org/article/o-week-accessibility-becomes-an-afterthought-20260901)"
+  },
+  {
+    "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+    "slug": "googles-android-update-tackles-motion-sickness-accessibility-and-more-57e5f01f",
+    "lang": "en",
+    "summary": "TechCrunch covers a new Android update that includes features to reduce motion sickness and improves accessibility for users with disabilities.",
+    "category": "digital-a11y",
+    "tags": [
+      "Android",
+      "accessibility",
+      "motion sickness"
+    ],
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more",
+    "relatedSources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-57e5f01f",
+    "status": "published",
+    "translationOf": "googles-android-update-tackles-motion-sickness-accessibility-and-more-zh-57e5f01f",
+    "publishedAt": "2026-09-01T20:53:05.000Z",
+    "fetchedAt": "2026-09-02T04:24:12.209Z",
+    "body": "TechCrunch covers a new Android update that includes features to reduce motion sickness and improves accessibility for users with disabilities.\n\nRead more from the original source: [TechCrunch](https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more)"
+  },
+  {
+    "title": "‘We need accessibility’: Sioux Falls resident calls for expanded paratransit limits",
+    "slug": "we-need-accessibility-sioux-falls-resident-calls-for-expanded-paratransit-limits-70038cf0",
+    "lang": "en",
+    "summary": "A Sioux Falls resident advocates for expanding paratransit services to improve transportation accessibility for people with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "paratransit",
+      "transportation",
+      "disability"
+    ],
+    "sourceName": "Dakota News Now",
+    "sourceUrl": "https://www.dakotanewsnow.com/2026/09/02/we-need-accessibility-sioux-falls-resident-calls-expanded-paratransit-limits",
+    "relatedSources": [
+      {
+        "name": "Dakota News Now",
+        "url": "https://www.dakotanewsnow.com/2026/09/02/we-need-accessibility-sioux-falls-resident-calls-expanded-paratransit-limits"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-70038cf0",
+    "status": "published",
+    "translationOf": "we-need-accessibility-sioux-falls-resident-calls-for-expanded-paratransit-limits-zh-70038cf0",
+    "publishedAt": "2026-09-02T00:16:00.000Z",
+    "fetchedAt": "2026-09-02T04:24:12.280Z",
+    "body": "A Sioux Falls resident advocates for expanding paratransit services to improve transportation accessibility for people with disabilities.\n\nRead more from the original source: [Dakota News Now](https://www.dakotanewsnow.com/2026/09/02/we-need-accessibility-sioux-falls-resident-calls-expanded-paratransit-limits)"
+  },
+  {
+    "title": "Google's Android Update Tackles Motion Sickness, Accessibility - The Tech Buzz",
+    "slug": "googles-android-update-tackles-motion-sickness-accessibility-the-tech-buzz-f8ea20ce",
+    "lang": "en",
+    "summary": "Google released an Android update that includes new accessibility features aimed at reducing motion sickness for users, such as adjustable animation settings and improved vestibular support.",
+    "category": "digital-a11y",
+    "tags": [
+      "motion sickness",
+      "Android",
+      "accessibility"
+    ],
+    "sourceName": "The Tech Buzz",
+    "sourceUrl": "https://www.techbuzz.ai/articles/google-s-android-update-tackles-motion-sickness-accessibility",
+    "relatedSources": [
+      {
+        "name": "The Tech Buzz",
+        "url": "https://www.techbuzz.ai/articles/google-s-android-update-tackles-motion-sickness-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f8ea20ce",
+    "status": "published",
+    "translationOf": "googles-android-update-tackles-motion-sickness-accessibility-the-tech-buzz-zh-f8ea20ce",
+    "publishedAt": "2026-09-01T22:02:00.000Z",
+    "fetchedAt": "2026-09-02T04:24:41.677Z",
+    "body": "Google released an Android update that includes new accessibility features aimed at reducing motion sickness for users, such as adjustable animation settings and improved vestibular support.\n\nRead more from the original source: [The Tech Buzz](https://www.techbuzz.ai/articles/google-s-android-update-tackles-motion-sickness-accessibility)"
+  },
+  {
+    "title": "Take a Hike in the Woods — an Accessible One - aarp.org",
+    "slug": "take-a-hike-in-the-woods-an-accessible-one-aarporg-ecf06c83",
+    "lang": "en",
+    "summary": "AARP highlights accessible hiking trails in state parks designed for people with disabilities, featuring smooth surfaces, gentle slopes, and amenities like accessible restrooms and signage.",
+    "category": "physical-design",
+    "tags": [
+      "hiking",
+      "state parks",
+      "accessibility"
+    ],
+    "sourceName": "aarp.org",
+    "sourceUrl": "https://www.aarp.org/states/tennessee/accessible-state-parks",
+    "relatedSources": [
+      {
+        "name": "aarp.org",
+        "url": "https://www.aarp.org/states/tennessee/accessible-state-parks"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ecf06c83",
+    "status": "published",
+    "translationOf": "take-a-hike-in-the-woods-an-accessible-one-aarporg-zh-ecf06c83",
+    "publishedAt": "2026-09-02T02:55:33.000Z",
+    "fetchedAt": "2026-09-02T04:24:42.808Z",
+    "body": "AARP highlights accessible hiking trails in state parks designed for people with disabilities, featuring smooth surfaces, gentle slopes, and amenities like accessible restrooms and signage.\n\nRead more from the original source: [aarp.org](https://www.aarp.org/states/tennessee/accessible-state-parks)"
+  },
+  {
+    "title": "Sensor Innovation Opens New Era of Accessibility for Visually Impaired - Electronic Engineering Journal",
+    "slug": "sensor-innovation-opens-new-era-of-accessibility-for-visually-impaired-electroni-3c06934f",
+    "lang": "en",
+    "summary": "Sensor innovation opens a new era of accessibility for people with low or no vision.",
+    "category": "assistive-tech",
+    "tags": [
+      "visual impairment",
+      "sensor",
+      "assistive technology",
+      "low vision"
+    ],
+    "sourceName": "電子工程專輯",
+    "sourceUrl": "https://www.eettaiwan.com/20260902nt31-sensor-innovation-ushers-in-new-era-of-accessibility-for-those-with-low-or-no-vision",
+    "relatedSources": [
+      {
+        "name": "電子工程專輯",
+        "url": "https://www.eettaiwan.com/20260902nt31-sensor-innovation-ushers-in-new-era-of-accessibility-for-those-with-low-or-no-vision"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3c06934f",
+    "status": "published",
+    "translationOf": "sensor-innovation-opens-new-era-of-accessibility-for-visually-impaired-electroni-zh-3c06934f",
+    "publishedAt": "2026-09-02T02:02:12.000Z",
+    "fetchedAt": "2026-09-02T04:24:58.075Z",
+    "body": "Sensor innovation opens a new era of accessibility for people with low or no vision.\n\nRead more from the original source: [電子工程專輯](https://www.eettaiwan.com/20260902nt31-sensor-innovation-ushers-in-new-era-of-accessibility-for-those-with-low-or-no-vision)"
+  },
+  {
+    "title": "HKIRC Promotes Digital Inclusion, Builds Accessible Online Shopping Experience, Opens New Growth Opportunities for Businesses - Economic Daily News",
+    "slug": "hkirc-promotes-digital-inclusion-builds-accessible-online-shopping-experience-op-823524fe",
+    "lang": "en",
+    "summary": "HKIRC promotes digital inclusion by constructing an accessible online shopping experience, creating new business growth opportunities.",
+    "category": "digital-a11y",
+    "tags": [
+      "digital inclusion",
+      "e-commerce",
+      "accessibility",
+      "online shopping"
+    ],
+    "sourceName": "經濟日報",
+    "sourceUrl": "https://money.udn.com/money/story/123828/9729370",
+    "relatedSources": [
+      {
+        "name": "經濟日報",
+        "url": "https://money.udn.com/money/story/123828/9729370"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-823524fe",
+    "status": "published",
+    "translationOf": "hkirc-promotes-digital-inclusion-builds-accessible-online-shopping-experience-op-zh-823524fe",
+    "publishedAt": "2026-09-02T04:01:14.000Z",
+    "fetchedAt": "2026-09-02T04:24:58.079Z",
+    "body": "HKIRC promotes digital inclusion by constructing an accessible online shopping experience, creating new business growth opportunities.\n\nRead more from the original source: [經濟日報](https://money.udn.com/money/story/123828/9729370)"
+  },
+  {
+    "title": "Understanding Homeowners' Expectations: Delicate Accessible Flow Meets Premium Mixed Materials for Custom Multi-Generational Living - housetube.tw",
+    "slug": "understanding-homeowners-expectations-delicate-accessible-flow-meets-premium-mix-e35f1a7a",
+    "lang": "en",
+    "summary": "Understanding homeowners' expectations, delicate accessible flow combined with top-tier mixed materials creates custom multi-generational living.",
+    "category": "physical-design",
+    "tags": [
+      "barrier-free design",
+      "universal design",
+      "aging in place",
+      "home modification"
+    ],
+    "sourceName": "housetube.tw",
+    "sourceUrl": "https://home.housetube.tw/sh/27071",
+    "relatedSources": [
+      {
+        "name": "housetube.tw",
+        "url": "https://home.housetube.tw/sh/27071"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e35f1a7a",
+    "status": "published",
+    "translationOf": "understanding-homeowners-expectations-delicate-accessible-flow-meets-premium-mix-zh-e35f1a7a",
+    "publishedAt": "2026-09-01T18:16:12.000Z",
+    "fetchedAt": "2026-09-02T04:24:58.082Z",
+    "body": "Understanding homeowners' expectations, delicate accessible flow combined with top-tier mixed materials creates custom multi-generational living.\n\nRead more from the original source: [housetube.tw](https://home.housetube.tw/sh/27071)"
+  },
+  {
+    "title": "Android update reduces motion sickness and enhances accessibility features",
+    "slug": "android-update-reduces-motion-sickness-and-enhances-accessibility-features-0ef8a13e",
+    "lang": "en",
+    "summary": "The latest Android update introduces features to alleviate motion sickness (cyberscroll dizziness) when scrolling, and strengthens overall accessibility functionalities for users with disabilities.",
+    "category": "digital-a11y",
+    "tags": [
+      "Android",
+      "motion sickness",
+      "accessibility features",
+      "digital accessibility"
+    ],
+    "sourceName": "蕃新聞",
+    "sourceUrl": "https://n.yam.com/Article/20260902419825",
+    "relatedSources": [
+      {
+        "name": "蕃新聞",
+        "url": "https://n.yam.com/Article/20260902419825"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-0ef8a13e",
+    "status": "published",
+    "translationOf": "android-update-reduces-motion-sickness-and-enhances-accessibility-features-zh-0ef8a13e",
+    "publishedAt": "2026-09-01T22:12:00.000Z",
+    "fetchedAt": "2026-09-02T04:25:09.904Z",
+    "body": "The latest Android update introduces features to alleviate motion sickness (cyberscroll dizziness) when scrolling, and strengthens overall accessibility functionalities for users with disabilities.\n\nRead more from the original source: [蕃新聞](https://n.yam.com/Article/20260902419825)"
+  },
+  {
+    "title": "Accessibility is Innovation: Lighting system usable by all",
+    "slug": "accessibility-is-innovation-lighting-system-usable-by-all-97672aa7",
+    "lang": "en",
+    "summary": "The video showcases an innovative lighting system designed for universal use, emphasizing how accessibility drives innovation in assistive technology.",
+    "category": "assistive-tech",
+    "tags": [
+      "lighting system",
+      "universal design",
+      "assistive technology",
+      "innovation"
+    ],
+    "sourceName": "YouTube",
+    "sourceUrl": "https://youtu.be/80RzWYLApn8?si=vx4uT-wlwOgQSeVv",
+    "relatedSources": [
+      {
+        "name": "YouTube",
+        "url": "https://youtu.be/80RzWYLApn8?si=vx4uT-wlwOgQSeVv"
+      }
+    ],
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3&hl=ja&gl=JP&ceid=JP%3Aja",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-97672aa7",
+    "status": "published",
+    "translationOf": "accessibility-is-innovation-lighting-system-usable-by-all-zh-97672aa7",
+    "publishedAt": "2026-09-01T03:09:43.000Z",
+    "fetchedAt": "2026-09-02T04:25:10.047Z",
+    "body": "The video showcases an innovative lighting system designed for universal use, emphasizing how accessibility drives innovation in assistive technology.\n\nRead more from the original source: [YouTube](https://youtu.be/80RzWYLApn8?si=vx4uT-wlwOgQSeVv)"
+  },
+  {
+    "title": "Tainan Social Affairs Bureau Moves to Yonghua Joint Service Center, Making Disability Parking Permit Applications and Social Welfare Consultations More Convenient",
+    "slug": "tainan-social-affairs-bureau-moves-to-yonghua-joint-service-center-making-disabi-ad2b7bac",
+    "lang": "en",
+    "summary": "Starting September 1, Tainan City's Social Affairs Bureau has relocated its service counters to the first floor of the Yonghua Joint Service Center, creating a one-stop social welfare consultation window. Residents can now handle disability parking permit applications and other welfare services on the first floor instead of going to the seventh floor, improving accessibility.",
+    "category": "physical-design",
+    "tags": [
+      "disability parking",
+      "social welfare",
+      "service center",
+      "accessibility"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%8D%97%E5%B8%82%E7%A4%BE%E6%9C%83%E5%B1%80%E9%80%B2%E9%A7%90%E6%B0%B8%E8%8F%AF%E8%81%AF%E6%9C%8D%E4%B8%AD%E5%BF%83-%E8%BA%AB%E5%BF%83%E9%9A%9C%E5%81%9C%E8%BB%8A%E8%AD%89%E7%94%B3%E8%BE%A6-%E7%A4%BE%E7%A6%8F%E8%AB%AE%E8%A9%A2%E6%9B%B4%E4%BE%BF%E6%8D%B7-035718101.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E5%8D%97%E5%B8%82%E7%A4%BE%E6%9C%83%E5%B1%80%E9%80%B2%E9%A7%90%E6%B0%B8%E8%8F%AF%E8%81%AF%E6%9C%8D%E4%B8%AD%E5%BF%83-%E8%BA%AB%E5%BF%83%E9%9A%9C%E5%81%9C%E8%BB%8A%E8%AD%89%E7%94%B3%E8%BE%A6-%E7%A4%BE%E7%A6%8F%E8%AB%AE%E8%A9%A2%E6%9B%B4%E4%BE%BF%E6%8D%B7-035718101.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-ad2b7bac",
+    "status": "published",
+    "translationOf": "tainan-social-affairs-bureau-moves-to-yonghua-joint-service-center-making-disabi-zh-ad2b7bac",
+    "publishedAt": "2026-09-01T03:57:18.000Z",
+    "fetchedAt": "2026-09-02T04:25:26.016Z",
+    "body": "Starting September 1, Tainan City's Social Affairs Bureau has relocated its service counters to the first floor of the Yonghua Joint Service Center, creating a one-stop social welfare consultation window. Residents can now handle disability parking permit applications and other welfare services on the first floor instead of going to the seventh floor, improving accessibility.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%8D%97%E5%B8%82%E7%A4%BE%E6%9C%83%E5%B1%80%E9%80%B2%E9%A7%90%E6%B0%B8%E8%8F%AF%E8%81%AF%E6%9C%8D%E4%B8%AD%E5%BF%83-%E8%BA%AB%E5%BF%83%E9%9A%9C%E5%81%9C%E8%BB%8A%E8%AD%89%E7%94%B3%E8%BE%A6-%E7%A4%BE%E7%A6%8F%E8%AB%AE%E8%A9%A2%E6%9B%B4%E4%BE%BF%E6%8D%B7-035718101.html)"
+  },
+  {
+    "title": "Chairperson Zhang Jun Visits Good Shepherd Center with Multiple Hualien Councilors, Urges Action to Support the Cycle of Goodness",
+    "slug": "chairperson-zhang-jun-visits-good-shepherd-center-with-multiple-hualien-councilo-41ba7805",
+    "lang": "en",
+    "summary": "Independent Hualien County mayoral candidate and council speaker Zhang Jun, together with several Hualien councilors, visited the Good Shepherd Center and other local social welfare institutions, delivering supplies and expressing support for disability sheltered workshops, emphasizing that assistance should go beyond donations to include regular purchasing and festive gifting.",
+    "category": "case-studies",
+    "tags": [
+      "disability sheltered workshop",
+      "social welfare",
+      "Hualien",
+      "community support"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%81%95%E5%A4%9A%E4%BD%8D%E8%8A%B1%E8%93%AE%E8%AD%B0%E5%93%A1%E8%A8%AA%E5%96%84%E7%89%A7%E4%B8%AD%E5%BF%83-%E5%BC%B5%E5%B3%BB%E7%9B%BC%E4%BB%A5%E8%A1%8C%E5%8B%95%E6%94%AF%E6%8C%81%E5%B8%B6%E5%8B%95%E5%96%84%E7%9A%84%E5%BE%AA%E7%92%B0-021411603.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E5%81%95%E5%A4%9A%E4%BD%8D%E8%8A%B1%E8%93%AE%E8%AD%B0%E5%93%A1%E8%A8%AA%E5%96%84%E7%89%A7%E4%B8%AD%E5%BF%83-%E5%BC%B5%E5%B3%BB%E7%9B%BC%E4%BB%A5%E8%A1%8C%E5%8B%95%E6%94%AF%E6%8C%81%E5%B8%B6%E5%8B%95%E5%96%84%E7%9A%84%E5%BE%AA%E7%92%B0-021411603.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-41ba7805",
+    "status": "published",
+    "translationOf": "chairperson-zhang-jun-visits-good-shepherd-center-with-multiple-hualien-councilo-zh-41ba7805",
+    "publishedAt": "2026-09-01T02:14:11.000Z",
+    "fetchedAt": "2026-09-02T04:25:26.028Z",
+    "body": "Independent Hualien County mayoral candidate and council speaker Zhang Jun, together with several Hualien councilors, visited the Good Shepherd Center and other local social welfare institutions, delivering supplies and expressing support for disability sheltered workshops, emphasizing that assistance should go beyond donations to include regular purchasing and festive gifting.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%81%95%E5%A4%9A%E4%BD%8D%E8%8A%B1%E8%93%AE%E8%AD%B0%E5%93%A1%E8%A8%AA%E5%96%84%E7%89%A7%E4%B8%AD%E5%BF%83-%E5%BC%B5%E5%B3%BB%E7%9B%BC%E4%BB%A5%E8%A1%8C%E5%8B%95%E6%94%AF%E6%8C%81%E5%B8%B6%E5%8B%95%E5%96%84%E7%9A%84%E5%BE%AA%E7%92%B0-021411603.html)"
   }
 ]
