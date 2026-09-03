@@ -1,43 +1,47 @@
 {
   "date": "2026-09-03",
-  "generatedAt": "2026-09-03T04:59:59.889Z",
+  "generatedAt": "2026-09-03T16:39:34.595Z",
   "en": {
-    "title": "Supreme Court Upholds Disability Access in Cinemas, Signals Ongoing Legal Battles",
-    "summary": "The Supreme Court rejected a proposal to cap accessibility requirements in cinemas, ensuring wheelchair seating and assistive listening devices remain mandatory. Meanwhile, a new legal analysis warns that certain website accessibility widgets may expose businesses to lawsuits, and a community project installed wheelchair‑friendly picnic tables at West Elementary. Advocates also urged Montgomery County to expand sign‑language interpretation and captioning for deaf residents.",
+    "title": "AI and Accessibility: Current Landscape and Emerging Challenges",
+    "summary": "The article \"Usability, accessibility and AI: Where are we now?\" examines how AI-driven technologies are being made inclusive for people with disabilities, highlighting current challenges and opportunities. A community bike ride in Taiwan illustrates the multifaceted nature of physical accessibility, while a national debate focuses on inclusive education for children with severe disabilities. Additionally, the All Japan Federation of the Deaf announces a new training program to improve accessibility of political broadcasts.",
     "highlights": [
       {
-        "title": "Supreme Court Rejects Cinema Accessibility Cap",
-        "slug": "supreme-court-rejects-cinema-accessibility-cap-164e3732"
+        "title": "Usability, accessibility and AI: Where are we now?",
+        "slug": "usability-accessibility-and-ai-where-are-we-now-f0839a5f"
       },
       {
-        "title": "Your Accessibility Widget Might Be Making You a Legal Target",
-        "slug": "your-accessibility-widget-might-be-making-you-a-legal-target-d970836f"
+        "title": "A bike ride shows that accessibility is more than one thing",
+        "slug": "a-bike-ride-shows-that-accessibility-is-more-than-one-thing-2033382b"
       },
       {
-        "title": "West Elementary receives accessible picnic tables through loac church's community initiative",
-        "slug": "west-elementary-receives-accessible-picnic-tables-through-loac-churchs-community-b948c6e2"
+        "title": "Debate on Inclusive Education for Children with Severe Disabilities",
+        "slug": "debate-on-inclusive-education-for-children-with-severe-disabilities-954b1d42"
       },
       {
-        "title": "Advocates call for greater accessibility for deaf residents in Montgomery County",
-        "slug": "advocates-call-for-greater-accessibility-for-deaf-residents-in-montgomery-county-8a87c052"
+        "title": "2026 Political Broadcast Training Session",
+        "slug": "2026-political-broadcast-training-session-12a05910"
       }
     ]
   },
   "zh-TW": {
-    "title": "最高法院維護電影院無障礙設施，彰顯法律持續爭議",
-    "summary": "最高法院駁回限制電影院無障礙設施的提案，確保輪椅座位與助聽設備仍為必備。另有文章警示某些網站無障礙小工具可能使企業面臨訴訟風險，同時西小學透過社區計畫安裝了無障礙野餐桌。倡導者亦呼籲蒙哥馬利縣加強手語翻譯與字幕服務，以提升聾人居民的無障礙環境。",
+    "title": "人工智慧與無障礙新趨勢：政策與實務焦點",
+    "summary": "聯合國大會通過巴基斯坦主導的決議，旨在提升發展中國家經濟實惠輔助技術的取得，為全球殘障人士帶來重要政策突破。另一篇報導探討 AI 時代的可用性與無障礙現況，並透過單車活動說明無障礙設計的多元面向。最後，針對無障礙廁所不足的問題提出警示，呼籲提升公共設施的可及性。",
     "highlights": [
       {
-        "title": "最高法院駁回電影院無障礙上限",
-        "slug": "supreme-court-rejects-cinema-accessibility-cap-zh-164e3732"
+        "title": "可用性、無障礙與人工智慧：我們現在處於何處？",
+        "slug": "usability-accessibility-and-ai-where-are-we-now-zh-f0839a5f"
       },
       {
-        "title": "您的無障礙小工具可能讓您成為法律目標",
-        "slug": "your-accessibility-widget-might-be-making-you-a-legal-target-zh-d970836f"
+        "title": "單車騎行顯示無障礙不只有一面",
+        "slug": "a-bike-ride-shows-that-accessibility-is-more-than-one-thing-zh-2033382b"
       },
       {
-        "title": "西小學透過當地教會的社區計畫獲得無障礙野餐桌",
-        "slug": "west-elementary-receives-accessible-picnic-tables-through-loac-churchs-community-zh-b948c6e2"
+        "title": "聯合國通過關於輔助技術取得的決議",
+        "slug": "un-adopts-resolution-on-assistive-technology-access-zh-781e9684"
+      },
+      {
+        "title": "缺乏可使用的無障礙廁所",
+        "slug": "lack-of-available-barrier-free-toilets-zh-f37a288d"
       }
     ]
   }
