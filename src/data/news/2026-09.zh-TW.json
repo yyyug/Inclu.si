@@ -6184,5 +6184,433 @@
     "publishedAt": "2026-09-03T04:36:53.000Z",
     "fetchedAt": "2026-09-03T05:07:11.035Z",
     "body": "關於無障礙會議 福冈 2026 報名的公告。\n推文來源： [Rikiya Ihara / magi (@magi1125)](https://x.com/magi1125/status/2095370423601185027)\n外部連結： [https://fukuoka-a11yconf.connpass.com/event/404619](https://fukuoka-a11yconf.connpass.com/event/404619)"
+  },
+  {
+    "title": "單車騎行顯示無障礙不只有一面",
+    "slug": "a-bike-ride-shows-that-accessibility-is-more-than-one-thing-zh-2033382b",
+    "lang": "zh-TW",
+    "summary": "文章描述了一場社區單車騎行活動，說明無障礙涵蓋多個層面，包括實體基礎設施、包容性設計以及對殘障人士的認識提升。",
+    "category": "physical-design",
+    "tags": [
+      "bike ride",
+      "accessibility",
+      "physical design",
+      "trail accessibility"
+    ],
+    "sourceName": "Addison Independent",
+    "sourceUrl": "https://www.addisonindependent.com/2026/09/03/a-bike-ride-shows-that-accessibility-is-more-than-one-thing",
+    "relatedSources": [
+      {
+        "name": "Addison Independent",
+        "url": "https://www.addisonindependent.com/2026/09/03/a-bike-ride-shows-that-accessibility-is-more-than-one-thing"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-2033382b",
+    "status": "published",
+    "translationOf": "a-bike-ride-shows-that-accessibility-is-more-than-one-thing-2033382b",
+    "publishedAt": "2026-09-03T14:01:49.000Z",
+    "fetchedAt": "2026-09-03T16:23:03.665Z",
+    "body": "文章描述了一場社區單車騎行活動，說明無障礙涵蓋多個層面，包括實體基礎設施、包容性設計以及對殘障人士的認識提升。\n\n原文來源： [Addison Independent](https://www.addisonindependent.com/2026/09/03/a-bike-ride-shows-that-accessibility-is-more-than-one-thing)"
+  },
+  {
+    "title": "ADA 網頁規則推動立法機構爭相追求數位無障礙",
+    "slug": "ada-web-rule-sends-legislatures-racing-toward-digital-access-zh-c6fa487a",
+    "lang": "zh-TW",
+    "summary": "文章說明新的 ADA 網頁無障礙規則如何促使各州立法機構加快行動，確保數位內容與服務對殘障人士可及。",
+    "category": "laws-rights",
+    "tags": [
+      "ADA",
+      "Web Rule",
+      "digital access",
+      "legislation"
+    ],
+    "sourceName": "National Conference of State Legislatures (NCSL)",
+    "sourceUrl": "https://www.ncsl.org/state-legislatures-news/details/ada-web-rule-sends-legislatures-racing-toward-digital-access",
+    "relatedSources": [
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/state-legislatures-news/details/ada-web-rule-sends-legislatures-racing-toward-digital-access"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-c6fa487a",
+    "status": "published",
+    "translationOf": "ada-web-rule-sends-legislatures-racing-toward-digital-access-c6fa487a",
+    "publishedAt": "2026-09-02T21:12:54.000Z",
+    "fetchedAt": "2026-09-03T16:23:03.677Z",
+    "body": "文章說明新的 ADA 網頁無障礙規則如何促使各州立法機構加快行動，確保數位內容與服務對殘障人士可及。\n\n原文來源： [National Conference of State Legislatures (NCSL)](https://www.ncsl.org/state-legislatures-news/details/ada-web-rule-sends-legislatures-racing-toward-digital-access)"
+  },
+  {
+    "title": "可用性、無障礙與人工智慧：我們現在處於何處？",
+    "slug": "usability-accessibility-and-ai-where-are-we-now-zh-f0839a5f",
+    "lang": "zh-TW",
+    "summary": "文章探討在人工智慧時代，可用性與無障礙的現狀，討論使 AI 驅動技術對殘障人士更具包容性的挑戰與機遇。",
+    "category": "digital-a11y",
+    "tags": [
+      "usability",
+      "accessibility",
+      "AI",
+      "digital"
+    ],
+    "sourceName": "openaccessgovernment.org",
+    "sourceUrl": "https://www.openaccessgovernment.org/usability-accessibility-and-ai-where-are-we-now/213873",
+    "relatedSources": [
+      {
+        "name": "openaccessgovernment.org",
+        "url": "https://www.openaccessgovernment.org/usability-accessibility-and-ai-where-are-we-now/213873"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f0839a5f",
+    "status": "published",
+    "translationOf": "usability-accessibility-and-ai-where-are-we-now-f0839a5f",
+    "publishedAt": "2026-09-03T14:48:04.000Z",
+    "fetchedAt": "2026-09-03T16:23:03.691Z",
+    "body": "文章探討在人工智慧時代，可用性與無障礙的現狀，討論使 AI 驅動技術對殘障人士更具包容性的挑戰與機遇。\n\n原文來源： [openaccessgovernment.org](https://www.openaccessgovernment.org/usability-accessibility-and-ai-where-are-we-now/213873)"
+  },
+  {
+    "title": "當地戲院提升電影無障礙觀賞",
+    "slug": "local-theater-enhances-movie-accessibility-for-disabled-patrons-zh-e6464c8f",
+    "lang": "zh-TW",
+    "summary": "WSAW 報導指出，當地戲院新增閉合字幕及音訊描述等設施，使殘障人士也能輕鬆觀賞電影。",
+    "category": "physical-design",
+    "tags": [
+      "theater",
+      "movie accessibility",
+      "captioning",
+      "audio description"
+    ],
+    "sourceName": "WSAW",
+    "sourceUrl": "https://www.wsaw.com/video/2026/09/02/local-theater-makes-movies-more-accessible",
+    "relatedSources": [
+      {
+        "name": "WSAW",
+        "url": "https://www.wsaw.com/video/2026/09/02/local-theater-makes-movies-more-accessible"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e6464c8f",
+    "status": "published",
+    "translationOf": "local-theater-enhances-movie-accessibility-for-disabled-patrons-e6464c8f",
+    "publishedAt": "2026-09-02T22:29:00.000Z",
+    "fetchedAt": "2026-09-03T16:23:17.848Z",
+    "body": "WSAW 報導指出，當地戲院新增閉合字幕及音訊描述等設施，使殘障人士也能輕鬆觀賞電影。\n\n原文來源： [WSAW](https://www.wsaw.com/video/2026/09/02/local-theater-makes-movies-more-accessible)"
+  },
+  {
+    "title": "福特韋恩補助計畫協助殘障居民改善住宅無障礙",
+    "slug": "fort-wayne-grant-program-funds-home-accessibility-upgrades-for-disabled-resident-zh-ab757809",
+    "lang": "zh-TW",
+    "summary": "福特韋恩推出補助計畫，為殘障居民提供資金，用於安裝坡道、擴寬門框及改建無障礙浴室等住宅改造。",
+    "category": "physical-design",
+    "tags": [
+      "grant program",
+      "home modifications",
+      "ramps",
+      "accessible bathroom"
+    ],
+    "sourceName": "journalgazette.net",
+    "sourceUrl": "https://www.journalgazette.net/local/fort-wayne-grant-program-helps-make-homes-accessible-for-disabled-residents/article_e96bf293-3c26-408c-9184-be8bf0d35f50.html",
+    "relatedSources": [
+      {
+        "name": "journalgazette.net",
+        "url": "https://www.journalgazette.net/local/fort-wayne-grant-program-helps-make-homes-accessible-for-disabled-residents/article_e96bf293-3c26-408c-9184-be8bf0d35f50.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ab757809",
+    "status": "published",
+    "translationOf": "fort-wayne-grant-program-funds-home-accessibility-upgrades-for-disabled-resident-ab757809",
+    "publishedAt": "2026-09-03T02:00:00.000Z",
+    "fetchedAt": "2026-09-03T16:23:17.858Z",
+    "body": "福特韋恩推出補助計畫，為殘障居民提供資金，用於安裝坡道、擴寬門框及改建無障礙浴室等住宅改造。\n\n原文來源： [journalgazette.net](https://www.journalgazette.net/local/fort-wayne-grant-program-helps-make-homes-accessible-for-disabled-residents/article_e96bf293-3c26-408c-9184-be8bf0d35f50.html)"
+  },
+  {
+    "title": "蒙哥馬利縣倡議團體爭取改善聾人無障礙服務",
+    "slug": "advocates-push-for-improved-accessibility-services-for-deaf-residents-in-montgom-zh-2487a4b5",
+    "lang": "zh-TW",
+    "summary": "蒙哥馬利縣的倡議團體呼籲地方官員增加手語翻譯及即時字幕等服務，以提升聾人居民在公共場合及服務中的無障礙程度。",
+    "category": "assistive-tech",
+    "tags": [
+      "deaf accessibility",
+      "sign language",
+      "real-time captioning",
+      "advocacy"
+    ],
+    "sourceName": "newschannel5.com",
+    "sourceUrl": "https://www.newschannel5.com/videos/news/state/tennessee/montgomery-county/advocates-call-for-greater-accessibility-for-deaf-residents-in-montgomery-county",
+    "relatedSources": [
+      {
+        "name": "newschannel5.com",
+        "url": "https://www.newschannel5.com/videos/news/state/tennessee/montgomery-county/advocates-call-for-greater-accessibility-for-deaf-residents-in-montgomery-county"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-2487a4b5",
+    "status": "published",
+    "translationOf": "advocates-push-for-improved-accessibility-services-for-deaf-residents-in-montgom-2487a4b5",
+    "publishedAt": "2026-09-02T23:13:39.000Z",
+    "fetchedAt": "2026-09-03T16:23:18.082Z",
+    "body": "蒙哥馬利縣的倡議團體呼籲地方官員增加手語翻譯及即時字幕等服務，以提升聾人居民在公共場合及服務中的無障礙程度。\n\n原文來源： [newschannel5.com](https://www.newschannel5.com/videos/news/state/tennessee/montgomery-county/advocates-call-for-greater-accessibility-for-deaf-residents-in-montgomery-county)"
+  },
+  {
+    "title": "KDE Plasma 6.8 加入 Dwell Clicker 支持以提升 Wayland 的可访问性",
+    "slug": "kde-plasma-68-lands-dwell-clicker-support-to-improve-accessibility-on-wayland-zh-c25722e4",
+    "lang": "zh-TW",
+    "summary": "KDE Plasma 6.8 新增 Dwell Clicker 功能，以改善 Wayland 平台上的无障碍访问。",
+    "category": "digital-a11y",
+    "tags": [
+      "KDE Plasma",
+      "Wayland",
+      "dwell clicker",
+      "accessibility"
+    ],
+    "sourceName": "Phoronix",
+    "sourceUrl": "https://www.phoronix.com/news/KDE-Plasma-6.8-Dwell-Clicker",
+    "relatedSources": [
+      {
+        "name": "Phoronix",
+        "url": "https://www.phoronix.com/news/KDE-Plasma-6.8-Dwell-Clicker"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-c25722e4",
+    "status": "published",
+    "translationOf": "kde-plasma-68-lands-dwell-clicker-support-to-improve-accessibility-on-wayland-c25722e4",
+    "publishedAt": "2026-09-02T17:51:00.000Z",
+    "fetchedAt": "2026-09-03T16:23:26.201Z",
+    "body": "KDE Plasma 6.8 新增 Dwell Clicker 功能，以改善 Wayland 平台上的无障碍访问。\n\n原文來源： [Phoronix](https://www.phoronix.com/news/KDE-Plasma-6.8-Dwell-Clicker)"
+  },
+  {
+    "title": "中鋼集團力挺無障礙藝文 張正傑輪椅族音樂會9/26高美館登場",
+    "slug": "china-steel-group-supports-barrier-free-arts-and-culture-wheelchair-user-zhang-z-zh-d03fe1bf",
+    "lang": "zh-TW",
+    "summary": "中鋼集團支持無障礙藝文活動，輪椅使用者張正傑的音樂會將於9月26日在高美館登場。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "wheelchair",
+      "concert",
+      "barrier-free",
+      "arts",
+      "China Steel",
+      "Kaohsiung"
+    ],
+    "sourceName": "upmedia.mg",
+    "sourceUrl": "https://www.upmedia.mg/tw/lifestyle/policy/267960",
+    "relatedSources": [
+      {
+        "name": "upmedia.mg",
+        "url": "https://www.upmedia.mg/tw/lifestyle/policy/267960"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-d03fe1bf",
+    "status": "published",
+    "translationOf": "china-steel-group-supports-barrier-free-arts-and-culture-wheelchair-user-zhang-z-d03fe1bf",
+    "publishedAt": "2026-09-03T09:05:00.000Z",
+    "fetchedAt": "2026-09-03T16:23:50.403Z",
+    "body": "中鋼集團支持無障礙藝文活動，輪椅使用者張正傑的音樂會將於9月26日在高美館登場。\n\n原文來源： [upmedia.mg](https://www.upmedia.mg/tw/lifestyle/policy/267960)"
+  },
+  {
+    "title": "衛生福利部及其所屬機構網站與應用程式僅18%取得無障礙認證",
+    "slug": "only-18-of-ministry-of-health-and-welfare-agency-websites-and-apps-have-obtained-zh-43bc7987",
+    "lang": "zh-TW",
+    "summary": "報告指出，南韓衛生福利部及其所屬機構的網站與應用程式中，僅有18%獲得無障礙認證，顯示數位無障礙仍有待加強。",
+    "category": "digital-a11y",
+    "tags": [
+      "South Korea",
+      "web accessibility",
+      "app accessibility",
+      "certification",
+      "digital inclusion"
+    ],
+    "sourceName": "koreadisablednews.com",
+    "sourceUrl": "https://www.koreadisablednews.com/news/articleView.html?idxno=51841",
+    "relatedSources": [
+      {
+        "name": "koreadisablednews.com",
+        "url": "https://www.koreadisablednews.com/news/articleView.html?idxno=51841"
+      }
+    ],
+    "sourceCountry": "KR",
+    "queryRegion": "KR",
+    "region": "KR",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%EC%9E%A5%EC%95%A0%EC%9D%B8+%EC%A0%91%EA%B7%BC%EC%84%B1&hl=ko&gl=KR&ceid=KR%3Ako",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-43bc7987",
+    "status": "published",
+    "translationOf": "only-18-of-ministry-of-health-and-welfare-agency-websites-and-apps-have-obtained-43bc7987",
+    "publishedAt": "2026-09-03T01:54:38.000Z",
+    "fetchedAt": "2026-09-03T16:24:55.807Z",
+    "body": "報告指出，南韓衛生福利部及其所屬機構的網站與應用程式中，僅有18%獲得無障礙認證，顯示數位無障礙仍有待加強。\n\n原文來源： [koreadisablednews.com](https://www.koreadisablednews.com/news/articleView.html?idxno=51841)"
+  },
+  {
+    "title": "華城市東坦Ardim福利中心舉辦殘障人士遊戲無障礙展覽體驗",
+    "slug": "hwaseong-dongtan-ardim-welfare-center-hosts-game-accessibility-exhibition-experi-zh-880106e9",
+    "lang": "zh-TW",
+    "summary": "華城市東坦Ardim福利中心為殘障人士舉辦了遊戲無障礙展覽體驗活動，展示適應性遊戲技術與包容性設計，以提升殘障人士的遊戲參與度。",
+    "category": "digital-a11y",
+    "tags": [
+      "game accessibility",
+      "disability",
+      "exhibition",
+      "assistive technology"
+    ],
+    "sourceName": "koreadisablednews.com",
+    "sourceUrl": "https://www.koreadisablednews.com/news/articleView.html?idxno=51740",
+    "relatedSources": [
+      {
+        "name": "koreadisablednews.com",
+        "url": "https://www.koreadisablednews.com/news/articleView.html?idxno=51740"
+      }
+    ],
+    "sourceCountry": "KR",
+    "queryRegion": "KR",
+    "region": "KR",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%EC%9E%A5%EC%95%A0%EC%9D%B8+%EC%A0%91%EA%B7%BC%EC%84%B1&hl=ko&gl=KR&ceid=KR%3Ako",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-880106e9",
+    "status": "published",
+    "translationOf": "hwaseong-dongtan-ardim-welfare-center-hosts-game-accessibility-exhibition-experi-880106e9",
+    "publishedAt": "2026-09-02T02:30:08.000Z",
+    "fetchedAt": "2026-09-03T16:25:27.605Z",
+    "body": "華城市東坦Ardim福利中心為殘障人士舉辦了遊戲無障礙展覽體驗活動，展示適應性遊戲技術與包容性設計，以提升殘障人士的遊戲參與度。\n\n原文來源： [koreadisablednews.com](https://www.koreadisablednews.com/news/articleView.html?idxno=51740)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "jordan-advances-unified-plan-to-increase-womens-workforce-zh-f311e324",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/09/03/education-and-employment/jordan-advances-unified-plan-to-increase-womens-workforce",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/09/03/education-and-employment/jordan-advances-unified-plan-to-increase-womens-workforce"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-f311e324",
+    "status": "draft",
+    "translationOf": "jordan-advances-unified-plan-to-increase-womens-workforce-f311e324",
+    "publishedAt": "2026-09-03T05:16:32.000Z",
+    "fetchedAt": "2026-09-03T16:25:27.616Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/09/03/education-and-employment/jordan-advances-unified-plan-to-increase-womens-workforce)"
+  },
+  {
+    "title": "唐氏綜合症者尋求就業，但資金不足阻礙進展",
+    "slug": "people-with-down-syndrome-seek-jobs-but-underfunding-holds-them-back-zh-adb30d76",
+    "lang": "zh-TW",
+    "summary": "研究人員呼籲改革澳洲的殘障就業系統，以幫助唐氏綜合症者找到、保持並享受工作，指出目前資金不足限制了有效支援與就業機會。",
+    "category": "laws-rights",
+    "tags": [
+      "Down syndrome",
+      "employment",
+      "disability rights",
+      "underfunding"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/09/03/education-and-employment/people-with-down-syndrome-seek-jobs-but-underfunding-holds-them-back",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/09/03/education-and-employment/people-with-down-syndrome-seek-jobs-but-underfunding-holds-them-back"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-adb30d76",
+    "status": "published",
+    "translationOf": "people-with-down-syndrome-seek-jobs-but-underfunding-holds-them-back-adb30d76",
+    "publishedAt": "2026-09-03T04:39:23.000Z",
+    "fetchedAt": "2026-09-03T16:25:27.626Z",
+    "body": "研究人員呼籲改革澳洲的殘障就業系統，以幫助唐氏綜合症者找到、保持並享受工作，指出目前資金不足限制了有效支援與就業機會。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/09/03/education-and-employment/people-with-down-syndrome-seek-jobs-but-underfunding-holds-them-back)"
+  },
+  {
+    "title": "EU 提供網頁與應用程式的企業應了解的無障礙法規 ― 不僅是 EAA，還包括 B2C、B2B 與公共採購",
+    "slug": "eu-digital-accessibility-laws-companies-providing-web-and-apps-should-know-not-j-zh-0510dd5b",
+    "lang": "zh-TW",
+    "summary": "對於在 EU 提供網路服務或智慧手機應用程式的企業而言，無障礙已成為法律合規的要求。本文重點介紹 EAA、WAD、就業平等指令，以及 B2C、B2B、公共部門服務應該檢視的法規制度，並以 WCAG 與 EN 301 549 為基礎說明實際開發方法，最後整理 EU 十個主要國家的國內法、處罰與執行案例。",
+    "category": "digital-a11y",
+    "tags": [
+      "EU",
+      "digital accessibility",
+      "EAA",
+      "WAD",
+      "WCAG"
+    ],
+    "sourceName": "Classmethod.jp",
+    "sourceUrl": "https://dev.classmethod.jp/articles/eu-digital-accessibility-laws",
+    "relatedSources": [
+      {
+        "name": "Classmethod.jp",
+        "url": "https://dev.classmethod.jp/articles/eu-digital-accessibility-laws"
+      }
+    ],
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-0510dd5b",
+    "status": "published",
+    "translationOf": "eu-digital-accessibility-laws-companies-providing-web-and-apps-should-know-not-j-0510dd5b",
+    "publishedAt": "2026-09-02T10:06:45.000Z",
+    "fetchedAt": "2026-09-03T16:26:09.868Z",
+    "body": "對於在 EU 提供網路服務或智慧手機應用程式的企業而言，無障礙已成為法律合規的要求。本文重點介紹 EAA、WAD、就業平等指令，以及 B2C、B2B、公共部門服務應該檢視的法規制度，並以 WCAG 與 EN 301 549 為基礎說明實際開發方法，最後整理 EU 十個主要國家的國內法、處罰與執行案例。\n\n原文來源： [Classmethod.jp](https://dev.classmethod.jp/articles/eu-digital-accessibility-laws)"
   }
 ]

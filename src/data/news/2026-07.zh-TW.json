@@ -82004,5 +82004,39 @@
     "publishedAt": "2026-07-22T07:01:43.000Z",
     "fetchedAt": "2026-08-04T00:55:00.860Z",
     "body": "舉辦了參加 CSUN Assistive Technology Conference 2026（世界最大級無障礙國際會議）的報告會，與會者分享參會心得與見聞。\n\n原文來源： [CLASSY.[クラッシィ]](https://classy-online.jp/prtimes/item-39027)"
+  },
+  {
+    "title": "公車安全、無障礙與創新研究計畫",
+    "slug": "bus-safety-accessibility-and-innovation-research-program-zh-ecfd271c",
+    "lang": "zh-TW",
+    "summary": "美國聯邦交通署的研究計畫，專注於公車安全、殘障人士無障礙及創新交通解決方案。",
+    "category": "physical-design",
+    "tags": [
+      "bus",
+      "accessibility",
+      "research",
+      "transit",
+      "safety"
+    ],
+    "sourceName": "Federal Transit Administration (.gov)",
+    "sourceUrl": "https://www.transit.dot.gov/research-innovation/bus-safety-accessibility-and-innovation-research-program",
+    "relatedSources": [
+      {
+        "name": "Federal Transit Administration (.gov)",
+        "url": "https://www.transit.dot.gov/research-innovation/bus-safety-accessibility-and-innovation-research-program"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ecfd271c",
+    "status": "published",
+    "translationOf": "bus-safety-accessibility-and-innovation-research-program-ecfd271c",
+    "publishedAt": "2026-07-29T15:39:10.000Z",
+    "fetchedAt": "2026-09-03T16:23:50.281Z",
+    "body": "美國聯邦交通署的研究計畫，專注於公車安全、殘障人士無障礙及創新交通解決方案。\n\n原文來源： [Federal Transit Administration (.gov)](https://www.transit.dot.gov/research-innovation/bus-safety-accessibility-and-innovation-research-program)"
   }
 ]

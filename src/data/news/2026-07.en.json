@@ -82004,5 +82004,39 @@
     "publishedAt": "2026-07-22T07:01:43.000Z",
     "fetchedAt": "2026-08-04T00:55:00.860Z",
     "body": "A report meeting was held to share experiences from attending the CSUN Assistive Technology Conference 2026, one of the world's largest international accessibility conferences.\n\nRead more from the original source: [CLASSY.[クラッシィ]](https://classy-online.jp/prtimes/item-39027)"
+  },
+  {
+    "title": "Bus Safety, Accessibility and Innovation Research Program",
+    "slug": "bus-safety-accessibility-and-innovation-research-program-ecfd271c",
+    "lang": "en",
+    "summary": "Federal Transit Administration's research program focusing on bus safety, accessibility for people with disabilities, and innovative transit solutions.",
+    "category": "physical-design",
+    "tags": [
+      "bus",
+      "accessibility",
+      "research",
+      "transit",
+      "safety"
+    ],
+    "sourceName": "Federal Transit Administration (.gov)",
+    "sourceUrl": "https://www.transit.dot.gov/research-innovation/bus-safety-accessibility-and-innovation-research-program",
+    "relatedSources": [
+      {
+        "name": "Federal Transit Administration (.gov)",
+        "url": "https://www.transit.dot.gov/research-innovation/bus-safety-accessibility-and-innovation-research-program"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ecfd271c",
+    "status": "published",
+    "translationOf": "bus-safety-accessibility-and-innovation-research-program-zh-ecfd271c",
+    "publishedAt": "2026-07-29T15:39:10.000Z",
+    "fetchedAt": "2026-09-03T16:23:50.281Z",
+    "body": "Federal Transit Administration's research program focusing on bus safety, accessibility for people with disabilities, and innovative transit solutions.\n\nRead more from the original source: [Federal Transit Administration (.gov)](https://www.transit.dot.gov/research-innovation/bus-safety-accessibility-and-innovation-research-program)"
   }
 ]

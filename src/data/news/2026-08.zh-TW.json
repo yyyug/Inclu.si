@@ -71821,5 +71821,72 @@
     "publishedAt": "2026-08-30T14:08:11.000Z",
     "fetchedAt": "2026-09-03T04:19:42.519Z",
     "body": "台中市政府目前正受理住宅無障礙補助申請，旨在協助民眾打造無障礙居住環境，申請截止日期為6月30日。\n\n原文來源： [三立新聞網SETN.com](https://www.setn.com/news/689966)"
+  },
+  {
+    "title": "響應8月SMA關懷月 邀全民「拍下無障礙」補足資訊缺口助病友安心出行",
+    "slug": "responding-to-august-sma-awareness-month-public-invited-to-capture-accessibility-zh-1b770fd8",
+    "lang": "zh-TW",
+    "summary": "八月SMA關懷月期間，發起全民拍攝無障礙設施的活動，將照片分享以補足資訊缺口，幫助肌肉萎縮症患者安全出行。",
+    "category": "physical-design",
+    "tags": [
+      "SMA",
+      "accessibility awareness",
+      "public participation",
+      "travel safety"
+    ],
+    "sourceName": "Yahoo新聞",
+    "sourceUrl": "https://tw.news.yahoo.com/%E9%9F%BF%E6%87%898%E6%9C%88sma%E9%97%9C%E6%87%B7%E6%9C%88-%E9%82%80%E5%85%A8%E6%B0%91-%E6%8B%8D%E4%B8%8B%E7%84%A1%E9%9A%9C%E7%A4%99-%E8%A3%9C%E8%B6%B3%E8%B3%87%E8%A8%8A%E7%BC%BA%E5%8F%A3%E5%8A%A9%E7%97%85%E5%8F%8B%E5%AE%89%E5%BF%83%E5%87%BA%E8%A1%8C-092500728.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo新聞",
+        "url": "https://tw.news.yahoo.com/%E9%9F%BF%E6%87%898%E6%9C%88sma%E9%97%9C%E6%87%B7%E6%9C%88-%E9%82%80%E5%85%A8%E6%B0%91-%E6%8B%8D%E4%B8%8B%E7%84%A1%E9%9A%9C%E7%A4%99-%E8%A3%9C%E8%B6%B3%E8%B3%87%E8%A8%8A%E7%BC%BA%E5%8F%A3%E5%8A%A9%E7%97%85%E5%8F%8B%E5%AE%89%E5%BF%83%E5%87%BA%E8%A1%8C-092500728.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-1b770fd8",
+    "status": "published",
+    "translationOf": "responding-to-august-sma-awareness-month-public-invited-to-capture-accessibility-1b770fd8",
+    "publishedAt": "2026-08-26T09:25:00.000Z",
+    "fetchedAt": "2026-09-03T16:24:55.592Z",
+    "body": "八月SMA關懷月期間，發起全民拍攝無障礙設施的活動，將照片分享以補足資訊缺口，幫助肌肉萎縮症患者安全出行。\n\n原文來源： [Yahoo新聞](https://tw.news.yahoo.com/%E9%9F%BF%E6%87%898%E6%9C%88sma%E9%97%9C%E6%87%B7%E6%9C%88-%E9%82%80%E5%85%A8%E6%B0%91-%E6%8B%8D%E4%B8%8B%E7%84%A1%E9%9A%9C%E7%A4%99-%E8%A3%9C%E8%B6%B3%E8%B3%87%E8%A8%8A%E7%BC%BA%E5%8F%A3%E5%8A%A9%E7%97%85%E5%8F%8B%E5%AE%89%E5%BF%83%E5%87%BA%E8%A1%8C-092500728.html)"
+  },
+  {
+    "title": "韓國三星電子IDEA 2026橫掃45項大獎，家電無障礙設計奪首屆影響力獎",
+    "slug": "samsung-electronics-wins-45-awards-at-idea-2026-home-appliance-accessible-design-zh-265cbca6",
+    "lang": "zh-TW",
+    "summary": "三星電子在IDEA 2026設計競賽中獲得45項大獎，其無障礙家電設計更榮獲首屆影響力獎，顯示對包容性設計的承諾。",
+    "category": "assistive-tech",
+    "tags": [
+      "Samsung",
+      "IDEA 2026",
+      "accessible design",
+      "home appliances",
+      "impact award"
+    ],
+    "sourceName": "BigGo 財經",
+    "sourceUrl": "https://finance.biggo.com.tw/news/3a03dd24-6091-4865-b696-08d5fe130e2a",
+    "relatedSources": [
+      {
+        "name": "BigGo 財經",
+        "url": "https://finance.biggo.com.tw/news/3a03dd24-6091-4865-b696-08d5fe130e2a"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-265cbca6",
+    "status": "published",
+    "translationOf": "samsung-electronics-wins-45-awards-at-idea-2026-home-appliance-accessible-design-265cbca6",
+    "publishedAt": "2026-08-21T07:00:00.000Z",
+    "fetchedAt": "2026-09-03T16:24:55.727Z",
+    "body": "三星電子在IDEA 2026設計競賽中獲得45項大獎，其無障礙家電設計更榮獲首屆影響力獎，顯示對包容性設計的承諾。\n\n原文來源： [BigGo 財經](https://finance.biggo.com.tw/news/3a03dd24-6091-4865-b696-08d5fe130e2a)"
   }
 ]
