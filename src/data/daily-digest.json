@@ -1,59 +1,43 @@
 {
-  "date": "2026-09-02",
-  "generatedAt": "2026-09-02T16:50:01.946Z",
+  "date": "2026-09-03",
+  "generatedAt": "2026-09-03T04:59:59.889Z",
   "en": {
-    "title": "New Zealand Disability Support Law Passes, Boosting Accessibility Nationwide",
-    "summary": "New Zealand's Disability Support Services legislation passed its final reading, aiming to improve support for thousands of people with disabilities. Meanwhile, sensor technology advances promise a new era of accessibility for the visually impaired, and HKIRC launches an accessible online shopping platform to promote digital inclusion. Advocacy continues as Dana Fink's legacy is honored and workplace accommodation discussions progress.",
+    "title": "Supreme Court Upholds Disability Access in Cinemas, Signals Ongoing Legal Battles",
+    "summary": "The Supreme Court rejected a proposal to cap accessibility requirements in cinemas, ensuring wheelchair seating and assistive listening devices remain mandatory. Meanwhile, a new legal analysis warns that certain website accessibility widgets may expose businesses to lawsuits, and a community project installed wheelchair‑friendly picnic tables at West Elementary. Advocates also urged Montgomery County to expand sign‑language interpretation and captioning for deaf residents.",
     "highlights": [
       {
-        "title": "Foundational legislation strengthens support",
-        "slug": "foundational-legislation-strengthens-support-544bc980"
+        "title": "Supreme Court Rejects Cinema Accessibility Cap",
+        "slug": "supreme-court-rejects-cinema-accessibility-cap-164e3732"
       },
       {
-        "title": "Sensor Innovation Opens New Era of Accessibility for Visually Impaired - Electronic Engineering Journal",
-        "slug": "sensor-innovation-opens-new-era-of-accessibility-for-visually-impaired-electroni-3c06934f"
+        "title": "Your Accessibility Widget Might Be Making You a Legal Target",
+        "slug": "your-accessibility-widget-might-be-making-you-a-legal-target-d970836f"
       },
       {
-        "title": "HKIRC Promotes Digital Inclusion, Builds Accessible Online Shopping Experience, Opens New Growth Opportunities for Businesses - Economic Daily News",
-        "slug": "hkirc-promotes-digital-inclusion-builds-accessible-online-shopping-experience-op-823524fe"
+        "title": "West Elementary receives accessible picnic tables through loac church's community initiative",
+        "slug": "west-elementary-receives-accessible-picnic-tables-through-loac-churchs-community-b948c6e2"
       },
       {
-        "title": "Dana Fink, Who Fought for Accessibility and Inclusion, Dies at 38",
-        "slug": "dana-fink-who-fought-for-accessibility-and-inclusion-dies-at-38-43d32702"
-      },
-      {
-        "title": "Discussion on Reasonable Accommodation in the Workplace",
-        "slug": "discussion-on-reasonable-accommodation-in-the-workplace-67c7c69c"
+        "title": "Advocates call for greater accessibility for deaf residents in Montgomery County",
+        "slug": "advocates-call-for-greater-accessibility-for-deaf-residents-in-montgomery-county-8a87c052"
       }
     ]
   },
   "zh-TW": {
-    "title": "新西蘭殘障立法通過",
-    "summary": "新西蘭殘障支援服務立法經過最終審議，旨在改善數千名殘障人士的支援。同時，感測器創新為視障者開啟無障礙新時代，HKIRC 推出可及網購平台促進數位共融。此外，殘障倡導者達娜·芬克的遺志被紀念，工作場所合理便利討論持續進行。",
+    "title": "最高法院維護電影院無障礙設施，彰顯法律持續爭議",
+    "summary": "最高法院駁回限制電影院無障礙設施的提案，確保輪椅座位與助聽設備仍為必備。另有文章警示某些網站無障礙小工具可能使企業面臨訴訟風險，同時西小學透過社區計畫安裝了無障礙野餐桌。倡導者亦呼籲蒙哥馬利縣加強手語翻譯與字幕服務，以提升聾人居民的無障礙環境。",
     "highlights": [
       {
-        "title": "基礎立法加強支援",
-        "slug": "foundational-legislation-strengthens-support-zh-544bc980"
+        "title": "最高法院駁回電影院無障礙上限",
+        "slug": "supreme-court-rejects-cinema-accessibility-cap-zh-164e3732"
       },
       {
-        "title": "感測器變革為視障人士開啟無障礙新時代 - 電子工程專輯",
-        "slug": "sensor-innovation-opens-new-era-of-accessibility-for-visually-impaired-electroni-zh-3c06934f"
+        "title": "您的無障礙小工具可能讓您成為法律目標",
+        "slug": "your-accessibility-widget-might-be-making-you-a-legal-target-zh-d970836f"
       },
       {
-        "title": "HKIRC推動數碼共融 構建無障礙網購體驗 開拓企業增長新機遇 - 經濟日報",
-        "slug": "hkirc-promotes-digital-inclusion-builds-accessible-online-shopping-experience-op-zh-823524fe"
-      },
-      {
-        "title": "為無障礙與包容而奮鬥的達娜·芬克，享年38歲逝世",
-        "slug": "dana-fink-who-fought-for-accessibility-and-inclusion-dies-at-38-zh-43d32702"
-      },
-      {
-        "title": "工作場所合理便利措施的討論",
-        "slug": "discussion-on-reasonable-accommodation-in-the-workplace-zh-67c7c69c"
-      },
-      {
-        "title": "「我想活下去」：因照顧資金被拒而無法出國的殘障人士",
-        "slug": "i-want-to-live-the-disabled-people-unable-to-go-abroad-because-of-care-funding-r-zh-d588fb52"
+        "title": "西小學透過當地教會的社區計畫獲得無障礙野餐桌",
+        "slug": "west-elementary-receives-accessible-picnic-tables-through-loac-churchs-community-zh-b948c6e2"
       }
     ]
   }
