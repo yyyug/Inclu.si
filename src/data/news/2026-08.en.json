@@ -71788,5 +71788,38 @@
     "publishedAt": "2026-08-31T19:52:40.000Z",
     "fetchedAt": "2026-09-02T04:25:17.795Z",
     "body": "PDFix SDK command-line tools version 9.3.0 provide functionality for PDF accessibility, remediation, extraction, conversion, rendering, and automation, supporting creation of accessible PDFs for people with disabilities.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/pdfix-cli/9.3.0)"
+  },
+  {
+    "title": "Taichung City Housing Accessibility Subsidy Applications Accepted Until June 30",
+    "slug": "taichung-city-housing-accessibility-subsidy-applications-accepted-until-june-30-e7d5ef88",
+    "lang": "en",
+    "summary": "The Taichung City government is accepting applications for housing accessibility subsidies to support barrier-free living environments, with the deadline set for June 30.",
+    "category": "physical-design",
+    "tags": [
+      "housing",
+      "subsidy",
+      "Taichung",
+      "accessibility"
+    ],
+    "sourceName": "三立新聞網SETN.com",
+    "sourceUrl": "https://www.setn.com/news/689966",
+    "relatedSources": [
+      {
+        "name": "三立新聞網SETN.com",
+        "url": "https://www.setn.com/news/689966"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e7d5ef88",
+    "status": "published",
+    "translationOf": "taichung-city-housing-accessibility-subsidy-applications-accepted-until-june-30-zh-e7d5ef88",
+    "publishedAt": "2026-08-30T14:08:11.000Z",
+    "fetchedAt": "2026-09-03T04:19:42.519Z",
+    "body": "The Taichung City government is accepting applications for housing accessibility subsidies to support barrier-free living environments, with the deadline set for June 30.\n\nRead more from the original source: [三立新聞網SETN.com](https://www.setn.com/news/689966)"
   }
 ]

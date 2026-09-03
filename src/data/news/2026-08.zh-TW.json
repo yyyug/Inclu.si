@@ -71788,5 +71788,38 @@
     "publishedAt": "2026-08-31T19:52:40.000Z",
     "fetchedAt": "2026-09-02T04:25:17.795Z",
     "body": "PDFix SDK 命令列工具版本 9.3.0 提供 PDF 無障礙、修復、提取、轉換、渲染和自動化功能，支援創建適合殘障人士的無障礙 PDF。\n\n原文來源： [Pypi.org](https://pypi.org/project/pdfix-cli/9.3.0)"
+  },
+  {
+    "title": "台中市住宅無障礙補助申請受理至6月30日止",
+    "slug": "taichung-city-housing-accessibility-subsidy-applications-accepted-until-june-30-zh-e7d5ef88",
+    "lang": "zh-TW",
+    "summary": "台中市政府目前正受理住宅無障礙補助申請，旨在協助民眾打造無障礙居住環境，申請截止日期為6月30日。",
+    "category": "physical-design",
+    "tags": [
+      "housing",
+      "subsidy",
+      "Taichung",
+      "accessibility"
+    ],
+    "sourceName": "三立新聞網SETN.com",
+    "sourceUrl": "https://www.setn.com/news/689966",
+    "relatedSources": [
+      {
+        "name": "三立新聞網SETN.com",
+        "url": "https://www.setn.com/news/689966"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e7d5ef88",
+    "status": "published",
+    "translationOf": "taichung-city-housing-accessibility-subsidy-applications-accepted-until-june-30-e7d5ef88",
+    "publishedAt": "2026-08-30T14:08:11.000Z",
+    "fetchedAt": "2026-09-03T04:19:42.519Z",
+    "body": "台中市政府目前正受理住宅無障礙補助申請，旨在協助民眾打造無障礙居住環境，申請截止日期為6月30日。\n\n原文來源： [三立新聞網SETN.com](https://www.setn.com/news/689966)"
   }
 ]
