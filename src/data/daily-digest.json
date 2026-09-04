@@ -1,55 +1,55 @@
 {
   "date": "2026-09-04",
-  "generatedAt": "2026-09-04T05:03:38.625Z",
+  "generatedAt": "2026-09-04T16:34:40.586Z",
   "en": {
-    "title": "Kentucky Secures $18.8 Million to Boost Disability Accessibility and Safety Projects",
-    "summary": "Kentucky Governor Andy Beshear announced over $18.8 million in funding for accessibility and safety improvement projects across the state. The investment aims to upgrade infrastructure such as transit, sidewalks, and public facilities to better serve people with disabilities. Additional highlights include a Kaohsiung report revealing over 10,000 missing accessibility items and new research on AI's role in improving digital accessibility.",
+    "title": "European Digital Accessibility Standard Released, Shaping Global Inclusive Tech",
+    "summary": "The new European Standard EN 301549 on digital accessibility has been published, providing updated guidelines for inclusive technology. In parallel, HUD set a deadline for fair housing accessibility complaints, Jubilee Lake Trail restoration began, pool‑specific wheelchairs launched, and Courtney Vargas advocated for independent living.",
     "highlights": [
       {
-        "title": "Beshear announces over $18.8 million to fund accessibility, safety projects in Kentucky",
-        "slug": "beshear-announces-over-188-million-to-fund-accessibility-safety-projects-in-kent-f92103c6"
+        "title": "New European Standard on digital accessibility is out",
+        "slug": "new-european-standard-on-digital-accessibility-is-out-c1e70ea3"
       },
       {
-        "title": "Kaohsiung public accessibility facilities missing over 10,000 items",
-        "slug": "kaohsiung-public-accessibility-facilities-missing-over-10000-items-733b0ee1"
+        "title": "Fair housing construction accessibility complaints now have a deadline, HUD says",
+        "slug": "fair-housing-construction-accessibility-complaints-now-have-a-deadline-hud-says-170122d0"
       },
       {
-        "title": "Usability, accessibility and AI: Where are we now?",
-        "slug": "usability-accessibility-and-ai-where-are-we-now-f0839a5f"
+        "title": "Major accessibility restoration project underway at Jubilee Lake Trail",
+        "slug": "major-accessibility-restoration-project-underway-at-jubilee-lake-trail-26c668ca"
       },
       {
-        "title": "Shoppers face accessibility issues online despite record back-to-school spending",
-        "slug": "shoppers-face-accessibility-issues-online-despite-record-back-to-school-spending-6e4b2aef"
+        "title": "Despite Accessible Ramps, Why Can't Disabled People Enter Pools? First Batch of Pool-Specific Wheelchairs Fills the Gap",
+        "slug": "despite-accessible-ramps-why-cant-disabled-people-enter-pools-first-batch-of-poo-fc81d234"
       },
       {
-        "title": "Demand for Barrier-Free Screenings",
-        "slug": "demand-for-barrier-free-screenings-8c1fabd9"
+        "title": "Courtney Vargas: Empowering Independent Living",
+        "slug": "courtney-vargas-empowering-independent-living-cd7fb0c0"
       }
     ]
   },
   "zh-TW": {
-    "title": "肯塔基州獲1880萬美元提升殘障無障礙與安全設施",
-    "summary": "肯塔基州州長安迪·貝謝爾宣布撥款超過1880萬美元，用於全州範圍內的無障礙與安全改善項目。投資將用於改善大眾運輸、人行道和公共設施，以提升殘障人士的可及性。其他重點包括高雄市公共無障礙設施缺失超過一萬項的報告，以及探討人工智慧如何提升數位無障礙的研究。",
+    "title": "歐洲發布新無障礙數位標準，多國無障礙項目同步推進",
+    "summary": "歐洲殘疾人論壇發布更新的 EN 301549 數位無障礙標準，為科技無障礙提供新指引。同時，HUD 宣布公平住房無障礙申訴期限，朱比利湖步道修復啟動，國內首批水池專用輪椅上市，且 Mirairo ID 獲更多日本企業接受用於殘障折扣。",
     "highlights": [
       {
-        "title": "貝謝爾宣布超過1880萬美元用於肯塔基州的無障礙與安全項目",
-        "slug": "beshear-announces-over-188-million-to-fund-accessibility-safety-projects-in-kent-zh-f92103c6"
+        "title": "新版歐洲數位無障礙標準 EN 301549 發布",
+        "slug": "new-european-standard-on-digital-accessibility-is-out-zh-c1e70ea3"
       },
       {
-        "title": "高雄公共無障礙設施 缺失破萬項",
-        "slug": "kaohsiung-public-accessibility-facilities-missing-over-10000-items-zh-733b0ee1"
+        "title": "公平住房建設無障礙申訴現在有期限，HUD 說明",
+        "slug": "fair-housing-construction-accessibility-complaints-now-have-a-deadline-hud-says-zh-170122d0"
       },
       {
-        "title": "可用性、無障礙與人工智慧：我們現在處於何處？",
-        "slug": "usability-accessibility-and-ai-where-are-we-now-zh-f0839a5f"
+        "title": "朱比利湖步道無障礙修復項目正在進行中",
+        "slug": "major-accessibility-restoration-project-underway-at-jubilee-lake-trail-zh-26c668ca"
       },
       {
-        "title": "儘管返校消費創紀錄，購物者仍面臨線上無障礙問題",
-        "slug": "shoppers-face-accessibility-issues-online-despite-record-back-to-school-spending-zh-6e4b2aef"
+        "title": "有無障礙坡道，身障者為何還是進不了泳池？國內首批水池專用輪椅補上最後一哩路| 鄧亦涵 | 地方新聞 - Storm.mg",
+        "slug": "despite-accessible-ramps-why-cant-disabled-people-enter-pools-first-batch-of-poo-zh-fc81d234"
       },
       {
-        "title": "無障礙放映的需求",
-        "slug": "demand-for-barrier-free-screenings-zh-8c1fabd9"
+        "title": "Mirairo ID 獲接受用於殘障折扣",
+        "slug": "mirairo-id-accepted-for-disability-discounts-zh-7955cef6"
       }
     ]
   }
