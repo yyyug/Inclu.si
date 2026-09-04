@@ -1,47 +1,55 @@
 {
-  "date": "2026-09-03",
-  "generatedAt": "2026-09-03T16:39:34.595Z",
+  "date": "2026-09-04",
+  "generatedAt": "2026-09-04T05:03:38.625Z",
   "en": {
-    "title": "AI and Accessibility: Current Landscape and Emerging Challenges",
-    "summary": "The article \"Usability, accessibility and AI: Where are we now?\" examines how AI-driven technologies are being made inclusive for people with disabilities, highlighting current challenges and opportunities. A community bike ride in Taiwan illustrates the multifaceted nature of physical accessibility, while a national debate focuses on inclusive education for children with severe disabilities. Additionally, the All Japan Federation of the Deaf announces a new training program to improve accessibility of political broadcasts.",
+    "title": "Kentucky Secures $18.8 Million to Boost Disability Accessibility and Safety Projects",
+    "summary": "Kentucky Governor Andy Beshear announced over $18.8 million in funding for accessibility and safety improvement projects across the state. The investment aims to upgrade infrastructure such as transit, sidewalks, and public facilities to better serve people with disabilities. Additional highlights include a Kaohsiung report revealing over 10,000 missing accessibility items and new research on AI's role in improving digital accessibility.",
     "highlights": [
+      {
+        "title": "Beshear announces over $18.8 million to fund accessibility, safety projects in Kentucky",
+        "slug": "beshear-announces-over-188-million-to-fund-accessibility-safety-projects-in-kent-f92103c6"
+      },
+      {
+        "title": "Kaohsiung public accessibility facilities missing over 10,000 items",
+        "slug": "kaohsiung-public-accessibility-facilities-missing-over-10000-items-733b0ee1"
+      },
       {
         "title": "Usability, accessibility and AI: Where are we now?",
         "slug": "usability-accessibility-and-ai-where-are-we-now-f0839a5f"
       },
       {
-        "title": "A bike ride shows that accessibility is more than one thing",
-        "slug": "a-bike-ride-shows-that-accessibility-is-more-than-one-thing-2033382b"
+        "title": "Shoppers face accessibility issues online despite record back-to-school spending",
+        "slug": "shoppers-face-accessibility-issues-online-despite-record-back-to-school-spending-6e4b2aef"
       },
       {
-        "title": "Debate on Inclusive Education for Children with Severe Disabilities",
-        "slug": "debate-on-inclusive-education-for-children-with-severe-disabilities-954b1d42"
-      },
-      {
-        "title": "2026 Political Broadcast Training Session",
-        "slug": "2026-political-broadcast-training-session-12a05910"
+        "title": "Demand for Barrier-Free Screenings",
+        "slug": "demand-for-barrier-free-screenings-8c1fabd9"
       }
     ]
   },
   "zh-TW": {
-    "title": "人工智慧與無障礙新趨勢：政策與實務焦點",
-    "summary": "聯合國大會通過巴基斯坦主導的決議，旨在提升發展中國家經濟實惠輔助技術的取得，為全球殘障人士帶來重要政策突破。另一篇報導探討 AI 時代的可用性與無障礙現況，並透過單車活動說明無障礙設計的多元面向。最後，針對無障礙廁所不足的問題提出警示，呼籲提升公共設施的可及性。",
+    "title": "肯塔基州獲1880萬美元提升殘障無障礙與安全設施",
+    "summary": "肯塔基州州長安迪·貝謝爾宣布撥款超過1880萬美元，用於全州範圍內的無障礙與安全改善項目。投資將用於改善大眾運輸、人行道和公共設施，以提升殘障人士的可及性。其他重點包括高雄市公共無障礙設施缺失超過一萬項的報告，以及探討人工智慧如何提升數位無障礙的研究。",
     "highlights": [
+      {
+        "title": "貝謝爾宣布超過1880萬美元用於肯塔基州的無障礙與安全項目",
+        "slug": "beshear-announces-over-188-million-to-fund-accessibility-safety-projects-in-kent-zh-f92103c6"
+      },
+      {
+        "title": "高雄公共無障礙設施 缺失破萬項",
+        "slug": "kaohsiung-public-accessibility-facilities-missing-over-10000-items-zh-733b0ee1"
+      },
       {
         "title": "可用性、無障礙與人工智慧：我們現在處於何處？",
         "slug": "usability-accessibility-and-ai-where-are-we-now-zh-f0839a5f"
       },
       {
-        "title": "單車騎行顯示無障礙不只有一面",
-        "slug": "a-bike-ride-shows-that-accessibility-is-more-than-one-thing-zh-2033382b"
+        "title": "儘管返校消費創紀錄，購物者仍面臨線上無障礙問題",
+        "slug": "shoppers-face-accessibility-issues-online-despite-record-back-to-school-spending-zh-6e4b2aef"
       },
       {
-        "title": "聯合國通過關於輔助技術取得的決議",
-        "slug": "un-adopts-resolution-on-assistive-technology-access-zh-781e9684"
-      },
-      {
-        "title": "缺乏可使用的無障礙廁所",
-        "slug": "lack-of-available-barrier-free-toilets-zh-f37a288d"
+        "title": "無障礙放映的需求",
+        "slug": "demand-for-barrier-free-screenings-zh-8c1fabd9"
       }
     ]
   }
