@@ -1,55 +1,55 @@
 {
-  "date": "2026-09-04",
-  "generatedAt": "2026-09-04T16:34:40.586Z",
+  "date": "2026-09-05",
+  "generatedAt": "2026-09-05T04:54:11.563Z",
   "en": {
-    "title": "European Digital Accessibility Standard Released, Shaping Global Inclusive Tech",
-    "summary": "The new European Standard EN 301549 on digital accessibility has been published, providing updated guidelines for inclusive technology. In parallel, HUD set a deadline for fair housing accessibility complaints, Jubilee Lake Trail restoration began, pool‑specific wheelchairs launched, and Courtney Vargas advocated for independent living.",
+    "title": "HUD Updates Accessibility Complaint Deadline for New Housing; Global Standards Advances",
+    "summary": "The U.S. Department of Housing and Urban Development revised the deadline for filing accessibility complaints on newly built housing, affecting enforcement of fair housing standards. Simultaneously, a new European digital accessibility standard was released, and disability advocates pushed for welfare reform while libraries expanded accessibility book collections. These developments highlight ongoing policy and community efforts to improve disability access.",
     "highlights": [
       {
-        "title": "New European Standard on digital accessibility is out",
-        "slug": "new-european-standard-on-digital-accessibility-is-out-c1e70ea3"
+        "title": "HUD Has Changed the Deadline for Accessibility Complaints About New Housing - DREDF",
+        "slug": "hud-has-changed-the-deadline-for-accessibility-complaints-about-new-housing-dred-b6181804"
       },
       {
         "title": "Fair housing construction accessibility complaints now have a deadline, HUD says",
         "slug": "fair-housing-construction-accessibility-complaints-now-have-a-deadline-hud-says-170122d0"
       },
       {
-        "title": "Major accessibility restoration project underway at Jubilee Lake Trail",
-        "slug": "major-accessibility-restoration-project-underway-at-jubilee-lake-trail-26c668ca"
+        "title": "New European Standard on digital accessibility is out",
+        "slug": "new-european-standard-on-digital-accessibility-is-out-c1e70ea3"
       },
       {
-        "title": "Despite Accessible Ramps, Why Can't Disabled People Enter Pools? First Batch of Pool-Specific Wheelchairs Fills the Gap",
-        "slug": "despite-accessible-ramps-why-cant-disabled-people-enter-pools-first-batch-of-poo-fc81d234"
+        "title": "Advocacy for Welfare Reform for People with Disabilities",
+        "slug": "advocacy-for-welfare-reform-for-people-with-disabilities-24f636a1"
       },
       {
-        "title": "Courtney Vargas: Empowering Independent Living",
-        "slug": "courtney-vargas-empowering-independent-living-cd7fb0c0"
+        "title": "List of Libraries with Accessibility Books",
+        "slug": "list-of-libraries-with-accessibility-books-521b166e"
       }
     ]
   },
   "zh-TW": {
-    "title": "歐洲發布新無障礙數位標準，多國無障礙項目同步推進",
-    "summary": "歐洲殘疾人論壇發布更新的 EN 301549 數位無障礙標準，為科技無障礙提供新指引。同時，HUD 宣布公平住房無障礙申訴期限，朱比利湖步道修復啟動，國內首批水池專用輪椅上市，且 Mirairo ID 獲更多日本企業接受用於殘障折扣。",
+    "title": "HUD 調整新住宅無障礙申訴截止日期，歐洲發布新數位無障礙標準",
+    "summary": "美國住房與城市發展部修訂新建住宅無障礙申訴的截止日期，影響公平住房法的執行。同時，歐洲發布新版數位無障礙標準 EN 301549，殘障倡議團體推動福利改革，工作隊建議提升無障礙共乘車與移除路徑障礙。這些措施顯示政策與社會共同推進無障礙環境。",
     "highlights": [
       {
-        "title": "新版歐洲數位無障礙標準 EN 301549 發布",
-        "slug": "new-european-standard-on-digital-accessibility-is-out-zh-c1e70ea3"
+        "title": "HUD 已變更新住宅無障礙申訴的截止日期 - DREDF",
+        "slug": "hud-has-changed-the-deadline-for-accessibility-complaints-about-new-housing-dred-zh-b6181804"
       },
       {
         "title": "公平住房建設無障礙申訴現在有期限，HUD 說明",
         "slug": "fair-housing-construction-accessibility-complaints-now-have-a-deadline-hud-says-zh-170122d0"
       },
       {
-        "title": "朱比利湖步道無障礙修復項目正在進行中",
-        "slug": "major-accessibility-restoration-project-underway-at-jubilee-lake-trail-zh-26c668ca"
+        "title": "新版歐洲數位無障礙標準 EN 301549 發布",
+        "slug": "new-european-standard-on-digital-accessibility-is-out-zh-c1e70ea3"
       },
       {
-        "title": "有無障礙坡道，身障者為何還是進不了泳池？國內首批水池專用輪椅補上最後一哩路| 鄧亦涵 | 地方新聞 - Storm.mg",
-        "slug": "despite-accessible-ramps-why-cant-disabled-people-enter-pools-first-batch-of-poo-zh-fc81d234"
+        "title": "倡導殘障人士福利改革",
+        "slug": "advocacy-for-welfare-reform-for-people-with-disabilities-zh-24f636a1"
       },
       {
-        "title": "Mirairo ID 獲接受用於殘障折扣",
-        "slug": "mirairo-id-accepted-for-disability-discounts-zh-7955cef6"
+        "title": "殘疾人工作隊建議提供無障礙共乘車、活動、移除路徑障礙等",
+        "slug": "disability-task-force-recommends-accessible-rideshares-events-removing-pathway-b-zh-61d09bd2"
       }
     ]
   }
