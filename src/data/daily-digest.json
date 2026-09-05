@@ -1,55 +1,39 @@
 {
   "date": "2026-09-05",
-  "generatedAt": "2026-09-05T04:54:11.563Z",
+  "generatedAt": "2026-09-05T15:31:02.257Z",
   "en": {
-    "title": "HUD Updates Accessibility Complaint Deadline for New Housing; Global Standards Advances",
-    "summary": "The U.S. Department of Housing and Urban Development revised the deadline for filing accessibility complaints on newly built housing, affecting enforcement of fair housing standards. Simultaneously, a new European digital accessibility standard was released, and disability advocates pushed for welfare reform while libraries expanded accessibility book collections. These developments highlight ongoing policy and community efforts to improve disability access.",
+    "title": "Accessibility Setbacks and Advances Highlighted in Global News",
+    "summary": "On September 5, a Canadian senior who had relied on an accessible bus for 28 years was abruptly denied service after officials claimed his wheelchair exceeded the vehicle’s safety load limit. Meanwhile, the Gesa Power House Theatre completed renovations to improve wheelchair access and other disability accommodations for all patrons. Additionally, Taiwan’s Executive Yuan Ocean Affairs Council hosted an accessible seaside experience, allowing people with disabilities to enjoy marine activities.",
     "highlights": [
       {
-        "title": "HUD Has Changed the Deadline for Accessibility Complaints About New Housing - DREDF",
-        "slug": "hud-has-changed-the-deadline-for-accessibility-complaints-about-new-housing-dred-b6181804"
+        "title": "Canadian Disabled Senior Denied Accessible Bus After 28 Years, Cited Wheelchair Exceeds Safety Load",
+        "slug": "canadian-disabled-senior-denied-accessible-bus-after-28-years-cited-wheelchair-e-2cf59665"
       },
       {
-        "title": "Fair housing construction accessibility complaints now have a deadline, HUD says",
-        "slug": "fair-housing-construction-accessibility-complaints-now-have-a-deadline-hud-says-170122d0"
+        "title": "Gesa Power House Theatre renovates to ensure accessibility to all",
+        "slug": "gesa-power-house-theatre-renovates-to-ensure-accessibility-to-all-6b0fef49"
       },
       {
-        "title": "New European Standard on digital accessibility is out",
-        "slug": "new-european-standard-on-digital-accessibility-is-out-c1e70ea3"
-      },
-      {
-        "title": "Advocacy for Welfare Reform for People with Disabilities",
-        "slug": "advocacy-for-welfare-reform-for-people-with-disabilities-24f636a1"
-      },
-      {
-        "title": "List of Libraries with Accessibility Books",
-        "slug": "list-of-libraries-with-accessibility-books-521b166e"
+        "title": "People with disabilities bravely challenge! Executive Yuan's Ocean Affairs Council holds accessible seaside experience activity",
+        "slug": "people-with-disabilities-bravely-challenge-executive-yuans-ocean-affairs-council-48be7096"
       }
     ]
   },
   "zh-TW": {
-    "title": "HUD 調整新住宅無障礙申訴截止日期，歐洲發布新數位無障礙標準",
-    "summary": "美國住房與城市發展部修訂新建住宅無障礙申訴的截止日期，影響公平住房法的執行。同時，歐洲發布新版數位無障礙標準 EN 301549，殘障倡議團體推動福利改革，工作隊建議提升無障礙共乘車與移除路徑障礙。這些措施顯示政策與社會共同推進無障礙環境。",
+    "title": "無障礙新聞聚焦：巴士拒載與場館改造",
+    "summary": "2026年9月5日，加拿大一名使用無障礙巴士28年的殘障長者因輪椅超過安全載重而被拒載，引發關注。同期，Gesa Power House劇場完成翻修，提升輪椅通道與其他無障礙設施，確保所有觀眾皆能便利觀賞。行政院海洋委員會亦舉辦無障礙親海體驗活動，讓身障者參與海洋活動。",
     "highlights": [
       {
-        "title": "HUD 已變更新住宅無障礙申訴的截止日期 - DREDF",
-        "slug": "hud-has-changed-the-deadline-for-accessibility-complaints-about-new-housing-dred-zh-b6181804"
+        "title": "加拿大殘疾長者乘無障礙巴士28年突遭拒載！竟稱輪椅超出安全承載",
+        "slug": "canadian-disabled-senior-denied-accessible-bus-after-28-years-cited-wheelchair-e-zh-2cf59665"
       },
       {
-        "title": "公平住房建設無障礙申訴現在有期限，HUD 說明",
-        "slug": "fair-housing-construction-accessibility-complaints-now-have-a-deadline-hud-says-zh-170122d0"
+        "title": "Gesa Power House Theatre 進行翻修以確保所有人的無障礙",
+        "slug": "gesa-power-house-theatre-renovates-to-ensure-accessibility-to-all-zh-6b0fef49"
       },
       {
-        "title": "新版歐洲數位無障礙標準 EN 301549 發布",
-        "slug": "new-european-standard-on-digital-accessibility-is-out-zh-c1e70ea3"
-      },
-      {
-        "title": "倡導殘障人士福利改革",
-        "slug": "advocacy-for-welfare-reform-for-people-with-disabilities-zh-24f636a1"
-      },
-      {
-        "title": "殘疾人工作隊建議提供無障礙共乘車、活動、移除路徑障礙等",
-        "slug": "disability-task-force-recommends-accessible-rideshares-events-removing-pathway-b-zh-61d09bd2"
+        "title": "身心障礙者勇於挑戰！行政院海洋委員會舉辦無障礙親海體驗活動",
+        "slug": "people-with-disabilities-bravely-challenge-executive-yuans-ocean-affairs-council-zh-48be7096"
       }
     ]
   }
