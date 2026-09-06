@@ -1,63 +1,71 @@
 {
   "date": "2026-09-06",
-  "generatedAt": "2026-09-06T05:00:12.589Z",
+  "generatedAt": "2026-09-06T15:44:29.666Z",
   "en": {
-    "title": "Canadian Senior Denied Accessible Bus After 28 Years Sparks Nationwide Outcry",
-    "summary": "A Canadian senior who used an accessible bus for 28 years was refused service after the transit authority claimed his wheelchair exceeded safety limits. The incident has drawn attention to accessibility enforcement and potential discrimination. Other developments include new marine accessibility programs in Taiwan, theatre renovations, and ongoing digital accessibility challenges.",
+    "title": "US HUD tightens Fair Housing complaint deadline amid global accessibility pushes",
+    "summary": "The U.S. Department of Housing and Urban Development has introduced a new deadline for filing Fair Housing Act accessibility complaints, aiming to streamline the process but raising concerns about reduced redress time for disability discrimination victims. In Taiwan, Yunlin’s Huwei township held CRPD-aligned leisure activities for disabled and elderly residents, while a Pingtung charity group distributed supplies and advocated for accessible toilets. Meanwhile, online shoppers still encounter accessibility barriers despite record back-to-school spending, and new research shows environmental barriers hinder aphasia participation, underscoring the need for inclusive design.",
     "highlights": [
       {
-        "title": "Canadian Disabled Senior Denied Accessible Bus After 28 Years, Cited Wheelchair Exceeds Safety Load",
-        "slug": "canadian-disabled-senior-denied-accessible-bus-after-28-years-cited-wheelchair-e-2cf59665"
+        "title": "HUD sets new time limit on Fair Housing accessibility complaints - Planetizen",
+        "slug": "hud-sets-new-time-limit-on-fair-housing-accessibility-complaints-planetizen-52bfa0b4"
       },
       {
-        "title": "Ocean Affairs Council launches 16 ocean-friendly activities across Taiwan, marine barrier-free expands again",
-        "slug": "ocean-affairs-council-launches-16-ocean-friendly-activities-across-taiwan-marine-34137412"
+        "title": "Yunlin Huwei Hosts Disabled and Elderly Leisure Activities to Implement CRPD and Build Accessible Environment",
+        "slug": "yunlin-huwei-hosts-disabled-and-elderly-leisure-activities-to-implement-crpd-and-ab0033dd"
       },
       {
-        "title": "Gesa Power House Theatre renovates to ensure accessibility to all",
-        "slug": "gesa-power-house-theatre-renovates-to-ensure-accessibility-to-all-6b0fef49"
+        "title": "Ocean Affairs Council Launches 16 Accessible Seaside Experiences Across Taiwan",
+        "slug": "ocean-affairs-council-launches-16-accessible-seaside-experiences-across-taiwan-c0da90e2"
       },
       {
-        "title": "Shoppers face accessibility issues online despite record back-to-school spending",
-        "slug": "shoppers-face-accessibility-issues-online-despite-record-back-to-school-spending-eb380ca2"
+        "title": "Pingtung Charity Group Delivers Supplies and Hopes for Accessible Toilets for Mobility‑Impaired Families",
+        "slug": "pingtung-charity-group-delivers-supplies-and-hopes-for-accessible-toilets-for-mo-85be3cfc"
       },
       {
-        "title": "I found the best Android performance tweaks hiding in the Accessibility menu",
-        "slug": "i-found-the-best-android-performance-tweaks-hiding-in-the-accessibility-menu-23e47a05"
+        "title": "Shoppers face accessibility issues online despite record back-to-school spending - ABC17NEWS",
+        "slug": "shoppers-face-accessibility-issues-online-despite-record-back-to-school-spending-1e77d6cc"
       },
       {
-        "title": "People with disabilities bravely challenge! Executive Yuan's Ocean Affairs Council holds accessible seaside experience activity",
-        "slug": "people-with-disabilities-bravely-challenge-executive-yuans-ocean-affairs-council-48be7096"
+        "title": "Research on Aphasia Awareness and Environmental Barriers",
+        "slug": "research-on-aphasia-awareness-and-environmental-barriers-77dd04d5"
+      },
+      {
+        "title": "Apple Hiring Web Accessibility Engineer",
+        "slug": "apple-hiring-web-accessibility-engineer-9c0bb9a9"
       }
     ]
   },
   "zh-TW": {
-    "title": "加拿大長者無障礙巴士遭拒載",
-    "summary": "一位在加拿大使用無障礙巴士28年的殘疾長者近日被拒絕上車，交通局稱其輪椅超過安全承載限制。此事件引發對無障礙交通執行的討論。同時，台灣海洋委員會推出16項親海無障礙活動，劇場翻修改善輪椅通行，線上購物仍存無障礙問題。",
+    "title": "美國HUD設定公平住房無障礙投訴新時限，台灣推動多元無障礙行動",
+    "summary": "美國住房與城市發展部（HUD）已設定公平住房法無障礙投訴的新截止日期，旨在簡化流程但引發對殘疾歧視受害者救濟時間縮短的擔憂。在台灣，海委會推出全臺16場無障礙親海體驗，雲林虎尾依據CRPD舉辦身障與長青體能休閒活動，屏東慈善團體則送米送物並倡導設置無障礙廁所。線上購物者仍遭遇無障礙障礙，研究顯示環境障礙阻礙失語症參與，凸顯提升數位與通用無障礙的必要性。",
     "highlights": [
       {
-        "title": "加拿大殘疾長者乘無障礙巴士28年突遭拒載！竟稱輪椅超出安全承載",
-        "slug": "canadian-disabled-senior-denied-accessible-bus-after-28-years-cited-wheelchair-e-zh-2cf59665"
+        "title": "HUD 設定公平住房無障礙投訴的新時限 - Planetizen",
+        "slug": "hud-sets-new-time-limit-on-fair-housing-accessibility-complaints-planetizen-zh-52bfa0b4"
       },
       {
-        "title": "海委會啟動全臺16場親海活動 海洋無障礙再擴大",
-        "slug": "ocean-affairs-council-launches-16-ocean-friendly-activities-across-taiwan-marine-zh-34137412"
+        "title": "落實CRPD精神！雲林虎尾舉辦身障與長青體能休閒活動 打造平權共好無障礙環境 - more-news.tw",
+        "slug": "yunlin-huwei-hosts-disabled-and-elderly-leisure-activities-to-implement-crpd-and-zh-ab0033dd"
       },
       {
-        "title": "Gesa Power House Theatre 進行翻修以確保所有人的無障礙",
-        "slug": "gesa-power-house-theatre-renovates-to-ensure-accessibility-to-all-zh-6b0fef49"
+        "title": "海委會啟動全臺16場無障礙親海體驗 - 台灣華報",
+        "slug": "ocean-affairs-council-launches-16-accessible-seaside-experiences-across-taiwan-zh-c0da90e2"
       },
       {
-        "title": "購物者在線上仍面臨無障礙問題，儘管返校消費創紀錄",
-        "slug": "shoppers-face-accessibility-issues-online-despite-record-back-to-school-spending-zh-eb380ca2"
+        "title": "一袋米、一份物資送進家門胡斌人文軍警消關懷協會屏東送暖更替行動不便弱勢家庭盼來無障礙廁所 - more-news.tw",
+        "slug": "pingtung-charity-group-delivers-supplies-and-hopes-for-accessible-toilets-for-mo-zh-85be3cfc"
       },
       {
-        "title": "我在Android無障礙選單中發現最佳效能調整技巧",
-        "slug": "i-found-the-best-android-performance-tweaks-hiding-in-the-accessibility-menu-zh-23e47a05"
+        "title": "儘管開學季消費創紀錄，網購者仍面臨無障礙問題 - ABC17NEWS",
+        "slug": "shoppers-face-accessibility-issues-online-despite-record-back-to-school-spending-zh-1e77d6cc"
       },
       {
-        "title": "身心障礙者勇於挑戰！行政院海洋委員會舉辦無障礙親海體驗活動",
-        "slug": "people-with-disabilities-bravely-challenge-executive-yuans-ocean-affairs-council-zh-48be7096"
+        "title": "關於失語症認知與環境障礙的研究",
+        "slug": "research-on-aphasia-awareness-and-environmental-barriers-zh-77dd04d5"
+      },
+      {
+        "title": "蘋果正在招聘網頁無障礙工程師",
+        "slug": "apple-hiring-web-accessibility-engineer-zh-9c0bb9a9"
       }
     ]
   }
