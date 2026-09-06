@@ -11194,5 +11194,874 @@
     "publishedAt": "2026-09-04T19:14:45.000Z",
     "fetchedAt": "2026-09-06T04:33:25.384Z",
     "body": "使用原生 OS 無障礙後端的 Playwright 風格桌面自動化\n\n原文來源： [Pypi.org](https://pypi.org/project/pyautoassist)"
+  },
+  {
+    "title": "無障礙書籍推薦",
+    "slug": "accessibility-book-recommendations-zh-b02113fd",
+    "lang": "zh-TW",
+    "summary": "透過 #a11ychiba 標籤分享了一份與無障礙相關的書籍精選清單。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "books",
+      "resources"
+    ],
+    "sourceName": "Rikiya Ihara / magi (@magi1125)",
+    "sourceUrl": "https://x.com/magi1125/status/2096117141607182673",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://magi1125.github.io/libraries?=v1"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096117141607182673",
+    "status": "published",
+    "translationOf": "accessibility-book-recommendations-b02113fd",
+    "publishedAt": "2026-09-05T06:04:05.000Z",
+    "fetchedAt": "2026-09-06T05:05:02.051Z",
+    "body": "透過 #a11ychiba 標籤分享了一份與無障礙相關的書籍精選清單。\n推文來源： [Rikiya Ihara / magi (@magi1125)](https://x.com/magi1125/status/2096117141607182673)\n外部連結： [https://magi1125.github.io/libraries?=v1](https://magi1125.github.io/libraries?=v1)"
+  },
+  {
+    "title": "克服無障礙專案中的溝通差距",
+    "slug": "overcoming-communication-gaps-in-accessibility-projects-zh-d5e2fa31",
+    "lang": "zh-TW",
+    "summary": "討論打破銷售、管理與創作者之間隔閡的重要性，以提升無障礙實施的成效。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "communication",
+      "project management"
+    ],
+    "sourceName": "Rikiya Ihara / magi (@magi1125)",
+    "sourceUrl": "https://x.com/magi1125/status/2096131918626730242",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096131918626730242",
+    "status": "published",
+    "translationOf": "overcoming-communication-gaps-in-accessibility-projects-d5e2fa31",
+    "publishedAt": "2026-09-05T07:02:48.000Z",
+    "fetchedAt": "2026-09-06T05:05:07.790Z",
+    "body": "討論打破銷售、管理與創作者之間隔閡的重要性，以提升無障礙實施的成效。\n推文來源： [Rikiya Ihara / magi (@magi1125)](https://x.com/magi1125/status/2096131918626730242)"
+  },
+  {
+    "title": "合著的無障礙書籍",
+    "slug": "co-authored-book-on-accessibility-zh-5db980c1",
+    "lang": "zh-TW",
+    "summary": "宣布一本由堀口先生貢獻內容的合著書籍。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "publication",
+      "books"
+    ],
+    "sourceName": "Rikiya Ihara / magi (@magi1125)",
+    "sourceUrl": "https://x.com/magi1125/status/2096126869892731247",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.borndigital.co.jp/book/9784862466617"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096126869892731247",
+    "status": "published",
+    "translationOf": "co-authored-book-on-accessibility-5db980c1",
+    "publishedAt": "2026-09-05T06:42:44.000Z",
+    "fetchedAt": "2026-09-06T05:05:07.806Z",
+    "body": "宣布一本由堀口先生貢獻內容的合著書籍。\n推文來源： [Rikiya Ihara / magi (@magi1125)](https://x.com/magi1125/status/2096126869892731247)\n外部連結： [https://www.borndigital.co.jp/book/9784862466617](https://www.borndigital.co.jp/book/9784862466617)"
+  },
+  {
+    "title": "無障礙 千葉 活動 回饋",
+    "slug": "a11y-chiba-event-feedback-zh-25597641",
+    "lang": "zh-TW",
+    "summary": "一位參與者討論了無障礙 千葉 活動中缺少銷售代表的情況。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "event",
+      "Japan"
+    ],
+    "sourceName": "Rikiya Ihara / magi (@magi1125)",
+    "sourceUrl": "https://x.com/magi1125/status/2096127193370042833",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096127193370042833",
+    "status": "published",
+    "translationOf": "a11y-chiba-event-feedback-25597641",
+    "publishedAt": "2026-09-05T06:44:01.000Z",
+    "fetchedAt": "2026-09-06T05:05:21.046Z",
+    "body": "一位參與者討論了無障礙 千葉 活動中缺少銷售代表的情況。\n推文來源： [Rikiya Ihara / magi (@magi1125)](https://x.com/magi1125/status/2096127193370042833)"
+  },
+  {
+    "title": "無障礙 千葉 雙搖桿控制器討論",
+    "slug": "twin-stick-discussion-at-a11y-chiba-zh-272ca668",
+    "lang": "zh-TW",
+    "summary": "在無障礙 千葉 活動期間，進行了有關雙搖桿控制器的討論。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "assistive technology",
+      "gaming"
+    ],
+    "sourceName": "Rikiya Ihara / magi (@magi1125)",
+    "sourceUrl": "https://x.com/magi1125/status/2096233242072658206",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.youtube.com/live/EpXt4nfaIHU"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096233242072658206",
+    "status": "published",
+    "translationOf": "twin-stick-discussion-at-a11y-chiba-272ca668",
+    "publishedAt": "2026-09-05T13:45:25.000Z",
+    "fetchedAt": "2026-09-06T05:05:21.067Z",
+    "body": "在無障礙 千葉 活動期間，進行了有關雙搖桿控制器的討論。\n推文來源： [Rikiya Ihara / magi (@magi1125)](https://x.com/magi1125/status/2096233242072658206)\n外部連結： [https://www.youtube.com/live/EpXt4nfaIHU](https://www.youtube.com/live/EpXt4nfaIHU)"
+  },
+  {
+    "title": "董事參加無障礙千葉的出席情況",
+    "slug": "attendance-of-directors-at-a11y-chiba-zh-ce38f564",
+    "lang": "zh-TW",
+    "summary": "使用者質疑董事在無障礙千葉可及性活動中的出席。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "event"
+    ],
+    "sourceName": "Rikiya Ihara / magi (@magi1125)",
+    "sourceUrl": "https://x.com/magi1125/status/2096128659476374010",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096128659476374010",
+    "status": "published",
+    "translationOf": "attendance-of-directors-at-a11y-chiba-ce38f564",
+    "publishedAt": "2026-09-05T06:49:51.000Z",
+    "fetchedAt": "2026-09-06T05:05:29.644Z",
+    "body": "使用者質疑董事在無障礙千葉可及性活動中的出席。\n推文來源： [Rikiya Ihara / magi (@magi1125)](https://x.com/magi1125/status/2096128659476374010)"
+  },
+  {
+    "title": "無障礙千葉的人工智慧工作流程",
+    "slug": "ai-workflows-at-a11y-chiba-zh-47d393f4",
+    "lang": "zh-TW",
+    "summary": "使用者對在無障礙千葉活動中了解更多人工智慧工作流程表達興趣。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "AI",
+      "event"
+    ],
+    "sourceName": "Rikiya Ihara / magi (@magi1125)",
+    "sourceUrl": "https://x.com/magi1125/status/2096125260756377679",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096125260756377679",
+    "status": "published",
+    "translationOf": "ai-workflows-at-a11y-chiba-47d393f4",
+    "publishedAt": "2026-09-05T06:36:20.000Z",
+    "fetchedAt": "2026-09-06T05:05:29.660Z",
+    "body": "使用者對在無障礙千葉活動中了解更多人工智慧工作流程表達興趣。\n推文來源： [Rikiya Ihara / magi (@magi1125)](https://x.com/magi1125/status/2096125260756377679)"
+  },
+  {
+    "title": "活動中缺少桌椅座位",
+    "slug": "lack-of-table-seating-at-event-zh-7ca0e018",
+    "lang": "zh-TW",
+    "summary": "一位半身不遂的人報告說，活動中未提供承諾的桌椅座位，因而需要額外的椅子作為替代。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "barrier-free",
+      "disability",
+      "accessibility"
+    ],
+    "sourceName": "あお (Azul)🕊️ (@rio_azulxxx)",
+    "sourceUrl": "https://x.com/rio_azulxxx/status/2096460239550001579",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096460239550001579",
+    "status": "published",
+    "translationOf": "lack-of-table-seating-at-event-7ca0e018",
+    "publishedAt": "2026-09-06T04:47:26.000Z",
+    "fetchedAt": "2026-09-06T05:05:29.679Z",
+    "body": "一位半身不遂的人報告說，活動中未提供承諾的桌椅座位，因而需要額外的椅子作為替代。\n推文來源： [あお (Azul)🕊️ (@rio_azulxxx)](https://x.com/rio_azulxxx/status/2096460239550001579)"
+  },
+  {
+    "title": "支持 Tokuyama 在 a11y Chiba 的演講",
+    "slug": "support-for-tokuyamas-presentation-at-a11y-chiba-zh-997164d6",
+    "lang": "zh-TW",
+    "summary": "一位使用者表示同意 Tokuyama 在 a11y Chiba 無障礙活動中的演講。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "Japan",
+      "conference"
+    ],
+    "sourceName": "Rikiya Ihara / magi (@magi1125)",
+    "sourceUrl": "https://x.com/magi1125/status/2096117281898275045",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096117281898275045",
+    "status": "published",
+    "translationOf": "support-for-tokuyamas-presentation-at-a11y-chiba-997164d6",
+    "publishedAt": "2026-09-05T06:04:38.000Z",
+    "fetchedAt": "2026-09-06T05:05:36.440Z",
+    "body": "一位使用者表示同意 Tokuyama 在 a11y Chiba 無障礙活動中的演講。\n推文來源： [Rikiya Ihara / magi (@magi1125)](https://x.com/magi1125/status/2096117281898275045)"
+  },
+  {
+    "title": "視障者在電子遊戲中的無障礙",
+    "slug": "blindness-accessibility-in-video-games-zh-148a821b",
+    "lang": "zh-TW",
+    "summary": "猶他州盲人協會正在更新一篇文章，探討對盲人或嚴重低視力者的遊戲無障礙性。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "blindness",
+      "video games",
+      "accessibility",
+      "inclusive design"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2096284262257590771",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.afb.org/aw/fall2023/Blindness-Accessibility-in-Video-Games-A-Deep-Dive"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096284262257590771",
+    "status": "published",
+    "translationOf": "blindness-accessibility-in-video-games-148a821b",
+    "publishedAt": "2026-09-05T17:08:09.000Z",
+    "fetchedAt": "2026-09-06T05:05:43.973Z",
+    "body": "猶他州盲人協會正在更新一篇文章，探討對盲人或嚴重低視力者的遊戲無障礙性。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2096284262257590771)\n外部連結： [https://www.afb.org/aw/fall2023/Blindness-Accessibility-in-Video-Games-A-Deep-Dive](https://www.afb.org/aw/fall2023/Blindness-Accessibility-in-Video-Games-A-Deep-Dive)"
+  },
+  {
+    "title": "人工智慧原型設計與隱形層的重要性",
+    "slug": "ai-prototyping-and-the-importance-of-invisible-layers-zh-eeceaa12",
+    "lang": "zh-TW",
+    "summary": "討論人工智慧如何簡化軟體開發的可見層，同時強調無障礙與品質保證等關鍵需求在生產環境中仍然必不可少。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "AI",
+      "Software Development",
+      "Accessibility",
+      "Inclusive Design"
+    ],
+    "sourceName": "Vellanki Sriharsha (@VellankiSHarsha)",
+    "sourceUrl": "https://x.com/VellankiSHarsha/status/2096463602551320594",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096463602551320594",
+    "status": "published",
+    "translationOf": "ai-prototyping-and-the-importance-of-invisible-layers-eeceaa12",
+    "publishedAt": "2026-09-06T05:00:47.000Z",
+    "fetchedAt": "2026-09-06T05:06:01.262Z",
+    "body": "討論人工智慧如何簡化軟體開發的可見層，同時強調無障礙與品質保證等關鍵需求在生產環境中仍然必不可少。\n推文來源： [Vellanki Sriharsha (@VellankiSHarsha)](https://x.com/VellankiSHarsha/status/2096463602551320594)"
+  },
+  {
+    "title": "關於失語症認知與環境障礙的研究",
+    "slug": "research-on-aphasia-awareness-and-environmental-barriers-zh-77dd04d5",
+    "lang": "zh-TW",
+    "summary": "新發現指出環境障礙如何阻礙失語症患者的參與，並強調僅靠個人復原力是不夠的。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "aphasia",
+      "accessibility",
+      "stroke recovery"
+    ],
+    "sourceName": "Disabilities (@Disabil_MDPI)",
+    "sourceUrl": "https://x.com/Disabil_MDPI/status/2096463583458501101",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://brnw.ch/21x5tnw"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096463583458501101",
+    "status": "published",
+    "translationOf": "research-on-aphasia-awareness-and-environmental-barriers-77dd04d5",
+    "publishedAt": "2026-09-06T05:00:43.000Z",
+    "fetchedAt": "2026-09-06T05:06:08.004Z",
+    "body": "新發現指出環境障礙如何阻礙失語症患者的參與，並強調僅靠個人復原力是不夠的。\n推文來源： [Disabilities (@Disabil_MDPI)](https://x.com/Disabil_MDPI/status/2096463583458501101)\n外部連結： [https://brnw.ch/21x5tnw](https://brnw.ch/21x5tnw)"
+  },
+  {
+    "title": "來自無障礙千葉關於人工智慧與無障礙的見解",
+    "slug": "insights-from-a11y-chiba-on-ai-and-accessibility-zh-cf8059c1",
+    "lang": "zh-TW",
+    "summary": "對於無障礙千葉活動的簡報進行反思，探討在人工智慧時代將有意圖性與無障礙融入團隊工作流程的重要性。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "inclusive design",
+      "AI"
+    ],
+    "sourceName": "ねこエンジニア (@neko_engineer_)",
+    "sourceUrl": "https://x.com/neko_engineer_/status/2096461455952674918",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://youtube.com/live/VU4oZw7Req8?si=ebBfKEbXQS7bvSFB&t=8467"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096461455952674918",
+    "status": "published",
+    "translationOf": "insights-from-a11y-chiba-on-ai-and-accessibility-cf8059c1",
+    "publishedAt": "2026-09-06T04:52:16.000Z",
+    "fetchedAt": "2026-09-06T05:06:28.899Z",
+    "body": "對於無障礙千葉活動的簡報進行反思，探討在人工智慧時代將有意圖性與無障礙融入團隊工作流程的重要性。\n推文來源： [ねこエンジニア (@neko_engineer_)](https://x.com/neko_engineer_/status/2096461455952674918)\n外部連結： [https://youtube.com/live/VU4oZw7Req8?si=ebBfKEbXQS7bvSFB&t=8467](https://youtube.com/live/VU4oZw7Req8?si=ebBfKEbXQS7bvSFB&t=8467)"
+  },
+  {
+    "title": "山形縣無障礙觀光",
+    "slug": "barrier-free-tourism-in-yamagata-zh-8e3125fb",
+    "lang": "zh-TW",
+    "summary": "山形縣南陽的無障礙觀光旅遊團接待了台灣高中生，示範無障礙觀光的實踐。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "barrier-free",
+      "accessible tourism",
+      "Japan"
+    ],
+    "sourceName": "山形新聞 (@press_yamashin)",
+    "sourceUrl": "https://x.com/press_yamashin/status/2096460520379580463",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.yamagata-np.jp/news/202609/06/kj_2026090600148.php"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096460520379580463",
+    "status": "published",
+    "translationOf": "barrier-free-tourism-in-yamagata-8e3125fb",
+    "publishedAt": "2026-09-06T04:48:33.000Z",
+    "fetchedAt": "2026-09-06T05:06:34.228Z",
+    "body": "山形縣南陽的無障礙觀光旅遊團接待了台灣高中生，示範無障礙觀光的實踐。\n推文來源： [山形新聞 (@press_yamashin)](https://x.com/press_yamashin/status/2096460520379580463)\n外部連結： [https://www.yamagata-np.jp/news/202609/06/kj_2026090600148.php](https://www.yamagata-np.jp/news/202609/06/kj_2026090600148.php)"
+  },
+  {
+    "title": "蘋果正在招聘網頁無障礙工程師",
+    "slug": "apple-hiring-web-accessibility-engineer-zh-9c0bb9a9",
+    "lang": "zh-TW",
+    "summary": "蘋果正在尋找具備 0-2 年經驗的網頁無障礙工程師，職位位於班加羅爾和海得拉巴。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "employment",
+      "web accessibility",
+      "Apple"
+    ],
+    "sourceName": "Akshay Kumar (@Aakshayy12)",
+    "sourceUrl": "https://x.com/Aakshayy12/status/2096457885966627013",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.lets-code.co.in/job/6a9c576a5023ca716962c89f"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096457885966627013",
+    "status": "published",
+    "translationOf": "apple-hiring-web-accessibility-engineer-9c0bb9a9",
+    "publishedAt": "2026-09-06T04:38:04.000Z",
+    "fetchedAt": "2026-09-06T05:06:45.759Z",
+    "body": "蘋果正在尋找具備 0-2 年經驗的網頁無障礙工程師，職位位於班加羅爾和海得拉巴。\n推文來源： [Akshay Kumar (@Aakshayy12)](https://x.com/Aakshayy12/status/2096457885966627013)\n外部連結： [https://www.lets-code.co.in/job/6a9c576a5023ca716962c89f](https://www.lets-code.co.in/job/6a9c576a5023ca716962c89f)"
+  },
+  {
+    "title": "免費資源提升無障礙機會",
+    "slug": "free-resource-to-boost-accessibility-opportunities-zh-f89faeb7",
+    "lang": "zh-TW",
+    "summary": "Aniruddha Malpani 博士分享一項免費資源，旨在透過改善無障礙來增加機會。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "accessibility",
+      "opportunity",
+      "inclusive design"
+    ],
+    "sourceName": "Dr Aniruddha Malpani, MD (@malpani)",
+    "sourceUrl": "https://x.com/malpani/status/2096457809676111986",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://neet.eklavya.io/"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096457809676111986",
+    "status": "published",
+    "translationOf": "free-resource-to-boost-accessibility-opportunities-f89faeb7",
+    "publishedAt": "2026-09-06T04:37:46.000Z",
+    "fetchedAt": "2026-09-06T05:06:45.776Z",
+    "body": "Aniruddha Malpani 博士分享一項免費資源，旨在透過改善無障礙來增加機會。\n推文來源： [Dr Aniruddha Malpani, MD (@malpani)](https://x.com/malpani/status/2096457809676111986)\n外部連結： [https://neet.eklavya.io/](https://neet.eklavya.io/)"
+  },
+  {
+    "title": "盲人輔助科技的進展",
+    "slug": "advancements-in-assistive-technology-for-blind-people-zh-d24c8caf",
+    "lang": "zh-TW",
+    "summary": "過去三年來盲人輔助科技的進展概述，包括可刷新點字。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "assistive technology",
+      "blindness",
+      "braille"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2096294209842270324",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.disabilityworld.org/articles/assistive-tech-for-blind-people-2026"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096294209842270324",
+    "status": "published",
+    "translationOf": "advancements-in-assistive-technology-for-blind-people-d24c8caf",
+    "publishedAt": "2026-09-05T17:47:41.000Z",
+    "fetchedAt": "2026-09-06T05:06:52.698Z",
+    "body": "過去三年來盲人輔助科技的進展概述，包括可刷新點字。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2096294209842270324)\n外部連結： [https://www.disabilityworld.org/articles/assistive-tech-for-blind-people-2026](https://www.disabilityworld.org/articles/assistive-tech-for-blind-people-2026)"
+  },
+  {
+    "title": "盲人利用回聲定位實現獨立移動",
+    "slug": "blind-man-uses-echolocation-for-independent-mobility-zh-0ea4e84c",
+    "lang": "zh-TW",
+    "summary": "一則關於盲人學習回聲定位以導航環境並騎腳踏車的故事。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "blindness",
+      "mobility",
+      "echolocation"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2096287831891308822",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://amazes.us/post/blind-man-echolocation-daniel-kish"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096287831891308822",
+    "status": "published",
+    "translationOf": "blind-man-uses-echolocation-for-independent-mobility-0ea4e84c",
+    "publishedAt": "2026-09-05T17:22:20.000Z",
+    "fetchedAt": "2026-09-06T05:06:52.714Z",
+    "body": "一則關於盲人學習回聲定位以導航環境並騎腳踏車的故事。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2096287831891308822)\n外部連結： [https://amazes.us/post/blind-man-echolocation-daniel-kish](https://amazes.us/post/blind-man-echolocation-daniel-kish)"
+  },
+  {
+    "title": "Neuralink 將開始視覺晶片的人體試驗",
+    "slug": "neuralink-to-begin-human-trials-of-vision-chip-zh-df231566",
+    "lang": "zh-TW",
+    "summary": "伊隆·馬斯克宣布 Neuralink 將開始人體試驗一款旨在恢復視力的晶片。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "Neuralink",
+      "assistive technology",
+      "vision loss"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2096285886132719665",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.khaama.com/musk-says-neuralink-to-begin-human-trials-of-vision-chip"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096285886132719665",
+    "status": "published",
+    "translationOf": "neuralink-to-begin-human-trials-of-vision-chip-df231566",
+    "publishedAt": "2026-09-05T17:14:37.000Z",
+    "fetchedAt": "2026-09-06T05:07:04.450Z",
+    "body": "伊隆·馬斯克宣布 Neuralink 將開始人體試驗一款旨在恢復視力的晶片。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2096285886132719665)\n外部連結： [https://www.khaama.com/musk-says-neuralink-to-begin-human-trials-of-vision-chip](https://www.khaama.com/musk-says-neuralink-to-begin-human-trials-of-vision-chip)"
+  },
+  {
+    "title": "導盲犬客戶日的體驗",
+    "slug": "experience-at-guide-dogs-client-day-zh-6f3b015b",
+    "lang": "zh-TW",
+    "summary": "一則個人敘述，詳細描述參加導盲犬客戶日的經驗。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "guide dogs",
+      "blindness",
+      "visual impairment"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2096282183988367786",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://lifeofablindgirl.com/2026/05/13/attending-a-guide-dogs-client-day-my-experience"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096282183988367786",
+    "status": "published",
+    "translationOf": "experience-at-guide-dogs-client-day-6f3b015b",
+    "publishedAt": "2026-09-05T16:59:54.000Z",
+    "fetchedAt": "2026-09-06T05:07:04.467Z",
+    "body": "一則個人敘述，詳細描述參加導盲犬客戶日的經驗。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2096282183988367786)\n外部連結： [https://lifeofablindgirl.com/2026/05/13/attending-a-guide-dogs-client-day-my-experience](https://lifeofablindgirl.com/2026/05/13/attending-a-guide-dogs-client-day-my-experience)"
+  },
+  {
+    "title": "超越將無障礙僅作為便利設施",
+    "slug": "moving-beyond-accessibility-as-an-accommodation-zh-b5185787",
+    "lang": "zh-TW",
+    "summary": "探討如何將無障礙納入核心設計原則，而非僅作為次要的便利設施。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "inclusive design",
+      "accessibility advocacy",
+      "disability rights"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2096279093293830471",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.hypebot.com/can-we-make-accessibility-more-than-just-an-accommodation"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096279093293830471",
+    "status": "published",
+    "translationOf": "moving-beyond-accessibility-as-an-accommodation-b5185787",
+    "publishedAt": "2026-09-05T16:47:37.000Z",
+    "fetchedAt": "2026-09-06T05:07:04.487Z",
+    "body": "探討如何將無障礙納入核心設計原則，而非僅作為次要的便利設施。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2096279093293830471)\n外部連結： [https://www.hypebot.com/can-we-make-accessibility-more-than-just-an-accommodation](https://www.hypebot.com/can-we-make-accessibility-more-than-just-an-accommodation)"
+  },
+  {
+    "title": "盲人CEO在曼哈頓訓練導盲犬",
+    "slug": "blind-ceo-trains-guide-dog-in-manhattan-zh-79ac1be3",
+    "lang": "zh-TW",
+    "summary": "一位盲人CEO利用紐約市作為訓練環境，將寵物狗訓練成服務犬。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "blindness",
+      "guide dogs",
+      "service animals"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2096277741935210948",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://paradepets.com/pet-news/blind-ceo-raises-guide-dog-manhattan-nyc-training"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096277741935210948",
+    "status": "published",
+    "translationOf": "blind-ceo-trains-guide-dog-in-manhattan-79ac1be3",
+    "publishedAt": "2026-09-05T16:42:15.000Z",
+    "fetchedAt": "2026-09-06T05:07:11.832Z",
+    "body": "一位盲人CEO利用紐約市作為訓練環境，將寵物狗訓練成服務犬。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2096277741935210948)\n外部連結： [https://paradepets.com/pet-news/blind-ceo-raises-guide-dog-manhattan-nyc-training](https://paradepets.com/pet-news/blind-ceo-raises-guide-dog-manhattan-nyc-training)"
+  },
+  {
+    "title": "繪製殘障美國人參與民主的可及性",
+    "slug": "mapping-disabled-americans-access-to-democracy-zh-84916e4e",
+    "lang": "zh-TW",
+    "summary": "一份報告檢視殘障美國人參與民主過程時所面臨的障礙與可及程度。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "disability rights",
+      "voting access",
+      "democracy"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2096257928068206617",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.americanprogress.org/article/accessibledemocracy"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096257928068206617",
+    "status": "published",
+    "translationOf": "mapping-disabled-americans-access-to-democracy-84916e4e",
+    "publishedAt": "2026-09-05T15:23:31.000Z",
+    "fetchedAt": "2026-09-06T05:07:11.850Z",
+    "body": "一份報告檢視殘障美國人參與民主過程時所面臨的障礙與可及程度。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2096257928068206617)\n外部連結： [https://www.americanprogress.org/article/accessibledemocracy](https://www.americanprogress.org/article/accessibledemocracy)"
+  },
+  {
+    "title": "阿貝爾·辛巴尼推動數位共融",
+    "slug": "abel-simbani-promoting-digital-inclusion-zh-08bbbed6",
+    "lang": "zh-TW",
+    "summary": "阿貝爾·辛巴尼致力於提升視障人士的數位可及性與機會。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "digital accessibility",
+      "Braille",
+      "inclusive technology"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2096255495321657605",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.undp.org/malawi/news/braille-bytes-abel-simbani-opening-digital-doors-others"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096255495321657605",
+    "status": "published",
+    "translationOf": "abel-simbani-promoting-digital-inclusion-08bbbed6",
+    "publishedAt": "2026-09-05T15:13:51.000Z",
+    "fetchedAt": "2026-09-06T05:07:11.874Z",
+    "body": "阿貝爾·辛巴尼致力於提升視障人士的數位可及性與機會。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2096255495321657605)\n外部連結： [https://www.undp.org/malawi/news/braille-bytes-abel-simbani-opening-digital-doors-others](https://www.undp.org/malawi/news/braille-bytes-abel-simbani-opening-digital-doors-others)"
+  },
+  {
+    "title": "互動式 NVDA 教練：螢幕閱讀器訓練",
+    "slug": "interactive-nvda-coach-for-screen-reader-training-zh-ec38db7b",
+    "lang": "zh-TW",
+    "summary": "Tony Gebhard 的互動式 NVDA 教練為 NVDA 螢幕閱讀器的使用者提供訓練。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "NVDA",
+      "screen reader",
+      "assistive technology",
+      "training"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2096252626203713538",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.youtube.com/live/o4ScfcrtFY8?si=toETTKhkRpl3DRM5"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096252626203713538",
+    "status": "published",
+    "translationOf": "interactive-nvda-coach-for-screen-reader-training-ec38db7b",
+    "publishedAt": "2026-09-05T15:02:27.000Z",
+    "fetchedAt": "2026-09-06T05:07:17.262Z",
+    "body": "Tony Gebhard 的互動式 NVDA 教練為 NVDA 螢幕閱讀器的使用者提供訓練。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2096252626203713538)\n外部連結： [https://www.youtube.com/live/o4ScfcrtFY8?si=toETTKhkRpl3DRM5](https://www.youtube.com/live/o4ScfcrtFY8?si=toETTKhkRpl3DRM5)"
+  },
+  {
+    "title": "AI 用於視力損失治療選項",
+    "slug": "ai-for-vision-loss-treatment-options-zh-20f9a3ff",
+    "lang": "zh-TW",
+    "summary": "探討 AI（特別是 Nome）是否能幫助視力損失者尋找治療方案。",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "AI",
+      "vision loss",
+      "healthcare",
+      "assistive technology"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2096250761865023968",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://youtu.be/cSwkf3WyKDs?si=Bz4S7zIegSKVqCGn"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096250761865023968",
+    "status": "published",
+    "translationOf": "ai-for-vision-loss-treatment-options-20f9a3ff",
+    "publishedAt": "2026-09-05T14:55:02.000Z",
+    "fetchedAt": "2026-09-06T05:07:17.279Z",
+    "body": "探討 AI（特別是 Nome）是否能幫助視力損失者尋找治療方案。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2096250761865023968)\n外部連結： [https://youtu.be/cSwkf3WyKDs?si=Bz4S7zIegSKVqCGn](https://youtu.be/cSwkf3WyKDs?si=Bz4S7zIegSKVqCGn)"
   }
 ]

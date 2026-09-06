@@ -11194,5 +11194,874 @@
     "publishedAt": "2026-09-04T19:14:45.000Z",
     "fetchedAt": "2026-09-06T04:33:25.384Z",
     "body": "Playwright-style desktop automation with native OS accessibility backends\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/pyautoassist)"
+  },
+  {
+    "title": "Accessibility Book Recommendations",
+    "slug": "accessibility-book-recommendations-b02113fd",
+    "lang": "en",
+    "summary": "A curated list of books related to accessibility is shared via the #a11ychiba hashtag.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "books",
+      "resources"
+    ],
+    "sourceName": "Rikiya Ihara / magi (@magi1125)",
+    "sourceUrl": "https://x.com/magi1125/status/2096117141607182673",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://magi1125.github.io/libraries?=v1"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096117141607182673",
+    "status": "published",
+    "translationOf": "accessibility-book-recommendations-zh-b02113fd",
+    "publishedAt": "2026-09-05T06:04:05.000Z",
+    "fetchedAt": "2026-09-06T05:05:02.051Z",
+    "body": "A curated list of books related to accessibility is shared via the #a11ychiba hashtag.\nTweet source: [Rikiya Ihara / magi (@magi1125)](https://x.com/magi1125/status/2096117141607182673)\nExternal link: [https://magi1125.github.io/libraries?=v1](https://magi1125.github.io/libraries?=v1)"
+  },
+  {
+    "title": "Overcoming Communication Gaps in Accessibility Projects",
+    "slug": "overcoming-communication-gaps-in-accessibility-projects-d5e2fa31",
+    "lang": "en",
+    "summary": "Discussion on the importance of breaking down silos between sales, management, and creators to improve accessibility implementation.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "communication",
+      "project management"
+    ],
+    "sourceName": "Rikiya Ihara / magi (@magi1125)",
+    "sourceUrl": "https://x.com/magi1125/status/2096131918626730242",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096131918626730242",
+    "status": "published",
+    "translationOf": "overcoming-communication-gaps-in-accessibility-projects-zh-d5e2fa31",
+    "publishedAt": "2026-09-05T07:02:48.000Z",
+    "fetchedAt": "2026-09-06T05:05:07.790Z",
+    "body": "Discussion on the importance of breaking down silos between sales, management, and creators to improve accessibility implementation.\nTweet source: [Rikiya Ihara / magi (@magi1125)](https://x.com/magi1125/status/2096131918626730242)"
+  },
+  {
+    "title": "Co-authored Book on Accessibility",
+    "slug": "co-authored-book-on-accessibility-5db980c1",
+    "lang": "en",
+    "summary": "Announcement of a co-authored book featuring contributions from Mr. Horiguchi.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "publication",
+      "books"
+    ],
+    "sourceName": "Rikiya Ihara / magi (@magi1125)",
+    "sourceUrl": "https://x.com/magi1125/status/2096126869892731247",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.borndigital.co.jp/book/9784862466617"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096126869892731247",
+    "status": "published",
+    "translationOf": "co-authored-book-on-accessibility-zh-5db980c1",
+    "publishedAt": "2026-09-05T06:42:44.000Z",
+    "fetchedAt": "2026-09-06T05:05:07.806Z",
+    "body": "Announcement of a co-authored book featuring contributions from Mr. Horiguchi.\nTweet source: [Rikiya Ihara / magi (@magi1125)](https://x.com/magi1125/status/2096126869892731247)\nExternal link: [https://www.borndigital.co.jp/book/9784862466617](https://www.borndigital.co.jp/book/9784862466617)"
+  },
+  {
+    "title": "a11y Chiba Event Feedback",
+    "slug": "a11y-chiba-event-feedback-25597641",
+    "lang": "en",
+    "summary": "A participant discusses the lack of sales representatives at the a11y Chiba accessibility event.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "event",
+      "Japan"
+    ],
+    "sourceName": "Rikiya Ihara / magi (@magi1125)",
+    "sourceUrl": "https://x.com/magi1125/status/2096127193370042833",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096127193370042833",
+    "status": "published",
+    "translationOf": "a11y-chiba-event-feedback-zh-25597641",
+    "publishedAt": "2026-09-05T06:44:01.000Z",
+    "fetchedAt": "2026-09-06T05:05:21.046Z",
+    "body": "A participant discusses the lack of sales representatives at the a11y Chiba accessibility event.\nTweet source: [Rikiya Ihara / magi (@magi1125)](https://x.com/magi1125/status/2096127193370042833)"
+  },
+  {
+    "title": "Twin Stick Discussion at a11y Chiba",
+    "slug": "twin-stick-discussion-at-a11y-chiba-272ca668",
+    "lang": "en",
+    "summary": "A discussion regarding twin stick controllers took place during the a11y Chiba accessibility event.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "assistive technology",
+      "gaming"
+    ],
+    "sourceName": "Rikiya Ihara / magi (@magi1125)",
+    "sourceUrl": "https://x.com/magi1125/status/2096233242072658206",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.youtube.com/live/EpXt4nfaIHU"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096233242072658206",
+    "status": "published",
+    "translationOf": "twin-stick-discussion-at-a11y-chiba-zh-272ca668",
+    "publishedAt": "2026-09-05T13:45:25.000Z",
+    "fetchedAt": "2026-09-06T05:05:21.067Z",
+    "body": "A discussion regarding twin stick controllers took place during the a11y Chiba accessibility event.\nTweet source: [Rikiya Ihara / magi (@magi1125)](https://x.com/magi1125/status/2096233242072658206)\nExternal link: [https://www.youtube.com/live/EpXt4nfaIHU](https://www.youtube.com/live/EpXt4nfaIHU)"
+  },
+  {
+    "title": "Attendance of Directors at a11y Chiba",
+    "slug": "attendance-of-directors-at-a11y-chiba-ce38f564",
+    "lang": "en",
+    "summary": "A user questions the presence of directors at the a11y Chiba accessibility event.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "event"
+    ],
+    "sourceName": "Rikiya Ihara / magi (@magi1125)",
+    "sourceUrl": "https://x.com/magi1125/status/2096128659476374010",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096128659476374010",
+    "status": "published",
+    "translationOf": "attendance-of-directors-at-a11y-chiba-zh-ce38f564",
+    "publishedAt": "2026-09-05T06:49:51.000Z",
+    "fetchedAt": "2026-09-06T05:05:29.644Z",
+    "body": "A user questions the presence of directors at the a11y Chiba accessibility event.\nTweet source: [Rikiya Ihara / magi (@magi1125)](https://x.com/magi1125/status/2096128659476374010)"
+  },
+  {
+    "title": "AI Workflows at a11y Chiba",
+    "slug": "ai-workflows-at-a11y-chiba-47d393f4",
+    "lang": "en",
+    "summary": "A user expresses interest in learning more about AI workflows during the a11y Chiba event.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "AI",
+      "event"
+    ],
+    "sourceName": "Rikiya Ihara / magi (@magi1125)",
+    "sourceUrl": "https://x.com/magi1125/status/2096125260756377679",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096125260756377679",
+    "status": "published",
+    "translationOf": "ai-workflows-at-a11y-chiba-zh-47d393f4",
+    "publishedAt": "2026-09-05T06:36:20.000Z",
+    "fetchedAt": "2026-09-06T05:05:29.660Z",
+    "body": "A user expresses interest in learning more about AI workflows during the a11y Chiba event.\nTweet source: [Rikiya Ihara / magi (@magi1125)](https://x.com/magi1125/status/2096125260756377679)"
+  },
+  {
+    "title": "Lack of Table Seating at Event",
+    "slug": "lack-of-table-seating-at-event-7ca0e018",
+    "lang": "en",
+    "summary": "A person with hemiplegia reports a lack of promised table seating at an event, requiring an extra chair as a substitute.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "barrier-free",
+      "disability",
+      "accessibility"
+    ],
+    "sourceName": "あお (Azul)🕊️ (@rio_azulxxx)",
+    "sourceUrl": "https://x.com/rio_azulxxx/status/2096460239550001579",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096460239550001579",
+    "status": "published",
+    "translationOf": "lack-of-table-seating-at-event-zh-7ca0e018",
+    "publishedAt": "2026-09-06T04:47:26.000Z",
+    "fetchedAt": "2026-09-06T05:05:29.679Z",
+    "body": "A person with hemiplegia reports a lack of promised table seating at an event, requiring an extra chair as a substitute.\nTweet source: [あお (Azul)🕊️ (@rio_azulxxx)](https://x.com/rio_azulxxx/status/2096460239550001579)"
+  },
+  {
+    "title": "Support for Tokuyama's Presentation at a11y Chiba",
+    "slug": "support-for-tokuyamas-presentation-at-a11y-chiba-997164d6",
+    "lang": "en",
+    "summary": "A user expresses agreement with a presentation by Tokuyama during the a11y Chiba accessibility event.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "Japan",
+      "conference"
+    ],
+    "sourceName": "Rikiya Ihara / magi (@magi1125)",
+    "sourceUrl": "https://x.com/magi1125/status/2096117281898275045",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096117281898275045",
+    "status": "published",
+    "translationOf": "support-for-tokuyamas-presentation-at-a11y-chiba-zh-997164d6",
+    "publishedAt": "2026-09-05T06:04:38.000Z",
+    "fetchedAt": "2026-09-06T05:05:36.440Z",
+    "body": "A user expresses agreement with a presentation by Tokuyama during the a11y Chiba accessibility event.\nTweet source: [Rikiya Ihara / magi (@magi1125)](https://x.com/magi1125/status/2096117281898275045)"
+  },
+  {
+    "title": "Blindness Accessibility in Video Games",
+    "slug": "blindness-accessibility-in-video-games-148a821b",
+    "lang": "en",
+    "summary": "The Utah Council of the Blind is updating an article exploring game accessibility for individuals who are blind or have severe low vision.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "blindness",
+      "video games",
+      "accessibility",
+      "inclusive design"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2096284262257590771",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.afb.org/aw/fall2023/Blindness-Accessibility-in-Video-Games-A-Deep-Dive"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096284262257590771",
+    "status": "published",
+    "translationOf": "blindness-accessibility-in-video-games-zh-148a821b",
+    "publishedAt": "2026-09-05T17:08:09.000Z",
+    "fetchedAt": "2026-09-06T05:05:43.973Z",
+    "body": "The Utah Council of the Blind is updating an article exploring game accessibility for individuals who are blind or have severe low vision.\nTweet source: [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2096284262257590771)\nExternal link: [https://www.afb.org/aw/fall2023/Blindness-Accessibility-in-Video-Games-A-Deep-Dive](https://www.afb.org/aw/fall2023/Blindness-Accessibility-in-Video-Games-A-Deep-Dive)"
+  },
+  {
+    "title": "AI Prototyping and the Importance of Invisible Layers",
+    "slug": "ai-prototyping-and-the-importance-of-invisible-layers-eeceaa12",
+    "lang": "en",
+    "summary": "A discussion on how AI simplifies the visible layer of software development while emphasizing that critical requirements like accessibility and QA remain essential for production.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "AI",
+      "Software Development",
+      "Accessibility",
+      "Inclusive Design"
+    ],
+    "sourceName": "Vellanki Sriharsha (@VellankiSHarsha)",
+    "sourceUrl": "https://x.com/VellankiSHarsha/status/2096463602551320594",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096463602551320594",
+    "status": "published",
+    "translationOf": "ai-prototyping-and-the-importance-of-invisible-layers-zh-eeceaa12",
+    "publishedAt": "2026-09-06T05:00:47.000Z",
+    "fetchedAt": "2026-09-06T05:06:01.262Z",
+    "body": "A discussion on how AI simplifies the visible layer of software development while emphasizing that critical requirements like accessibility and QA remain essential for production.\nTweet source: [Vellanki Sriharsha (@VellankiSHarsha)](https://x.com/VellankiSHarsha/status/2096463602551320594)"
+  },
+  {
+    "title": "Research on Aphasia Awareness and Environmental Barriers",
+    "slug": "research-on-aphasia-awareness-and-environmental-barriers-77dd04d5",
+    "lang": "en",
+    "summary": "New findings highlight how environmental barriers hinder participation for people with aphasia, emphasizing that personal resilience is insufficient.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "aphasia",
+      "accessibility",
+      "stroke recovery"
+    ],
+    "sourceName": "Disabilities (@Disabil_MDPI)",
+    "sourceUrl": "https://x.com/Disabil_MDPI/status/2096463583458501101",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://brnw.ch/21x5tnw"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096463583458501101",
+    "status": "published",
+    "translationOf": "research-on-aphasia-awareness-and-environmental-barriers-zh-77dd04d5",
+    "publishedAt": "2026-09-06T05:00:43.000Z",
+    "fetchedAt": "2026-09-06T05:06:08.004Z",
+    "body": "New findings highlight how environmental barriers hinder participation for people with aphasia, emphasizing that personal resilience is insufficient.\nTweet source: [Disabilities (@Disabil_MDPI)](https://x.com/Disabil_MDPI/status/2096463583458501101)\nExternal link: [https://brnw.ch/21x5tnw](https://brnw.ch/21x5tnw)"
+  },
+  {
+    "title": "Insights from a11y Chiba on AI and Accessibility",
+    "slug": "insights-from-a11y-chiba-on-ai-and-accessibility-cf8059c1",
+    "lang": "en",
+    "summary": "A reflection on a presentation from the a11y Chiba event regarding the importance of bringing intentionality and accessibility into team workflows during the AI era.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "inclusive design",
+      "AI"
+    ],
+    "sourceName": "ねこエンジニア (@neko_engineer_)",
+    "sourceUrl": "https://x.com/neko_engineer_/status/2096461455952674918",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://youtube.com/live/VU4oZw7Req8?si=ebBfKEbXQS7bvSFB&t=8467"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096461455952674918",
+    "status": "published",
+    "translationOf": "insights-from-a11y-chiba-on-ai-and-accessibility-zh-cf8059c1",
+    "publishedAt": "2026-09-06T04:52:16.000Z",
+    "fetchedAt": "2026-09-06T05:06:28.899Z",
+    "body": "A reflection on a presentation from the a11y Chiba event regarding the importance of bringing intentionality and accessibility into team workflows during the AI era.\nTweet source: [ねこエンジニア (@neko_engineer_)](https://x.com/neko_engineer_/status/2096461455952674918)\nExternal link: [https://youtube.com/live/VU4oZw7Req8?si=ebBfKEbXQS7bvSFB&t=8467](https://youtube.com/live/VU4oZw7Req8?si=ebBfKEbXQS7bvSFB&t=8467)"
+  },
+  {
+    "title": "Barrier-Free Tourism in Yamagata",
+    "slug": "barrier-free-tourism-in-yamagata-8e3125fb",
+    "lang": "en",
+    "summary": "A barrier-free tour group in Nanyo, Yamagata, hosted Taiwanese high school students to demonstrate accessible tourism practices.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "ja",
+      "barrier-free",
+      "accessible tourism",
+      "Japan"
+    ],
+    "sourceName": "山形新聞 (@press_yamashin)",
+    "sourceUrl": "https://x.com/press_yamashin/status/2096460520379580463",
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.yamagata-np.jp/news/202609/06/kj_2026090600148.php"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096460520379580463",
+    "status": "published",
+    "translationOf": "barrier-free-tourism-in-yamagata-zh-8e3125fb",
+    "publishedAt": "2026-09-06T04:48:33.000Z",
+    "fetchedAt": "2026-09-06T05:06:34.228Z",
+    "body": "A barrier-free tour group in Nanyo, Yamagata, hosted Taiwanese high school students to demonstrate accessible tourism practices.\nTweet source: [山形新聞 (@press_yamashin)](https://x.com/press_yamashin/status/2096460520379580463)\nExternal link: [https://www.yamagata-np.jp/news/202609/06/kj_2026090600148.php](https://www.yamagata-np.jp/news/202609/06/kj_2026090600148.php)"
+  },
+  {
+    "title": "Apple Hiring Web Accessibility Engineer",
+    "slug": "apple-hiring-web-accessibility-engineer-9c0bb9a9",
+    "lang": "en",
+    "summary": "Apple is seeking a Web Accessibility Engineer with 0-2 years of experience for roles in Bengaluru and Hyderabad.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "employment",
+      "web accessibility",
+      "Apple"
+    ],
+    "sourceName": "Akshay Kumar (@Aakshayy12)",
+    "sourceUrl": "https://x.com/Aakshayy12/status/2096457885966627013",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.lets-code.co.in/job/6a9c576a5023ca716962c89f"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096457885966627013",
+    "status": "published",
+    "translationOf": "apple-hiring-web-accessibility-engineer-zh-9c0bb9a9",
+    "publishedAt": "2026-09-06T04:38:04.000Z",
+    "fetchedAt": "2026-09-06T05:06:45.759Z",
+    "body": "Apple is seeking a Web Accessibility Engineer with 0-2 years of experience for roles in Bengaluru and Hyderabad.\nTweet source: [Akshay Kumar (@Aakshayy12)](https://x.com/Aakshayy12/status/2096457885966627013)\nExternal link: [https://www.lets-code.co.in/job/6a9c576a5023ca716962c89f](https://www.lets-code.co.in/job/6a9c576a5023ca716962c89f)"
+  },
+  {
+    "title": "Free Resource to Boost Accessibility Opportunities",
+    "slug": "free-resource-to-boost-accessibility-opportunities-f89faeb7",
+    "lang": "en",
+    "summary": "Dr. Aniruddha Malpani shares a free resource aimed at increasing opportunities through improved accessibility.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "accessibility",
+      "opportunity",
+      "inclusive design"
+    ],
+    "sourceName": "Dr Aniruddha Malpani, MD (@malpani)",
+    "sourceUrl": "https://x.com/malpani/status/2096457809676111986",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://neet.eklavya.io/"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096457809676111986",
+    "status": "published",
+    "translationOf": "free-resource-to-boost-accessibility-opportunities-zh-f89faeb7",
+    "publishedAt": "2026-09-06T04:37:46.000Z",
+    "fetchedAt": "2026-09-06T05:06:45.776Z",
+    "body": "Dr. Aniruddha Malpani shares a free resource aimed at increasing opportunities through improved accessibility.\nTweet source: [Dr Aniruddha Malpani, MD (@malpani)](https://x.com/malpani/status/2096457809676111986)\nExternal link: [https://neet.eklavya.io/](https://neet.eklavya.io/)"
+  },
+  {
+    "title": "Advancements in Assistive Technology for Blind People",
+    "slug": "advancements-in-assistive-technology-for-blind-people-d24c8caf",
+    "lang": "en",
+    "summary": "An overview of the progress made in assistive technology for the blind over the last three years, including refreshable braille.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "assistive technology",
+      "blindness",
+      "braille"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2096294209842270324",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.disabilityworld.org/articles/assistive-tech-for-blind-people-2026"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096294209842270324",
+    "status": "published",
+    "translationOf": "advancements-in-assistive-technology-for-blind-people-zh-d24c8caf",
+    "publishedAt": "2026-09-05T17:47:41.000Z",
+    "fetchedAt": "2026-09-06T05:06:52.698Z",
+    "body": "An overview of the progress made in assistive technology for the blind over the last three years, including refreshable braille.\nTweet source: [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2096294209842270324)\nExternal link: [https://www.disabilityworld.org/articles/assistive-tech-for-blind-people-2026](https://www.disabilityworld.org/articles/assistive-tech-for-blind-people-2026)"
+  },
+  {
+    "title": "Blind Man Uses Echolocation for Independent Mobility",
+    "slug": "blind-man-uses-echolocation-for-independent-mobility-0ea4e84c",
+    "lang": "en",
+    "summary": "A story about a blind man who learned echolocation to navigate his environment and ride a bicycle.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "blindness",
+      "mobility",
+      "echolocation"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2096287831891308822",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://amazes.us/post/blind-man-echolocation-daniel-kish"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096287831891308822",
+    "status": "published",
+    "translationOf": "blind-man-uses-echolocation-for-independent-mobility-zh-0ea4e84c",
+    "publishedAt": "2026-09-05T17:22:20.000Z",
+    "fetchedAt": "2026-09-06T05:06:52.714Z",
+    "body": "A story about a blind man who learned echolocation to navigate his environment and ride a bicycle.\nTweet source: [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2096287831891308822)\nExternal link: [https://amazes.us/post/blind-man-echolocation-daniel-kish](https://amazes.us/post/blind-man-echolocation-daniel-kish)"
+  },
+  {
+    "title": "Neuralink to Begin Human Trials of Vision Chip",
+    "slug": "neuralink-to-begin-human-trials-of-vision-chip-df231566",
+    "lang": "en",
+    "summary": "Elon Musk announced that Neuralink will start human trials for a chip designed to restore vision.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "Neuralink",
+      "assistive technology",
+      "vision loss"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2096285886132719665",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.khaama.com/musk-says-neuralink-to-begin-human-trials-of-vision-chip"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096285886132719665",
+    "status": "published",
+    "translationOf": "neuralink-to-begin-human-trials-of-vision-chip-zh-df231566",
+    "publishedAt": "2026-09-05T17:14:37.000Z",
+    "fetchedAt": "2026-09-06T05:07:04.450Z",
+    "body": "Elon Musk announced that Neuralink will start human trials for a chip designed to restore vision.\nTweet source: [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2096285886132719665)\nExternal link: [https://www.khaama.com/musk-says-neuralink-to-begin-human-trials-of-vision-chip](https://www.khaama.com/musk-says-neuralink-to-begin-human-trials-of-vision-chip)"
+  },
+  {
+    "title": "Experience at Guide Dogs Client Day",
+    "slug": "experience-at-guide-dogs-client-day-6f3b015b",
+    "lang": "en",
+    "summary": "A personal account detailing the experience of attending a Guide Dogs client day.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "guide dogs",
+      "blindness",
+      "visual impairment"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2096282183988367786",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://lifeofablindgirl.com/2026/05/13/attending-a-guide-dogs-client-day-my-experience"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096282183988367786",
+    "status": "published",
+    "translationOf": "experience-at-guide-dogs-client-day-zh-6f3b015b",
+    "publishedAt": "2026-09-05T16:59:54.000Z",
+    "fetchedAt": "2026-09-06T05:07:04.467Z",
+    "body": "A personal account detailing the experience of attending a Guide Dogs client day.\nTweet source: [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2096282183988367786)\nExternal link: [https://lifeofablindgirl.com/2026/05/13/attending-a-guide-dogs-client-day-my-experience](https://lifeofablindgirl.com/2026/05/13/attending-a-guide-dogs-client-day-my-experience)"
+  },
+  {
+    "title": "Moving Beyond Accessibility as an Accommodation",
+    "slug": "moving-beyond-accessibility-as-an-accommodation-b5185787",
+    "lang": "en",
+    "summary": "An exploration of how to integrate accessibility as a core design principle rather than a secondary accommodation.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "inclusive design",
+      "accessibility advocacy",
+      "disability rights"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2096279093293830471",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.hypebot.com/can-we-make-accessibility-more-than-just-an-accommodation"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096279093293830471",
+    "status": "published",
+    "translationOf": "moving-beyond-accessibility-as-an-accommodation-zh-b5185787",
+    "publishedAt": "2026-09-05T16:47:37.000Z",
+    "fetchedAt": "2026-09-06T05:07:04.487Z",
+    "body": "An exploration of how to integrate accessibility as a core design principle rather than a secondary accommodation.\nTweet source: [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2096279093293830471)\nExternal link: [https://www.hypebot.com/can-we-make-accessibility-more-than-just-an-accommodation](https://www.hypebot.com/can-we-make-accessibility-more-than-just-an-accommodation)"
+  },
+  {
+    "title": "Blind CEO Trains Guide Dog in Manhattan",
+    "slug": "blind-ceo-trains-guide-dog-in-manhattan-79ac1be3",
+    "lang": "en",
+    "summary": "A blind CEO is training a pet dog to become a service dog using New York City as the training environment.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "blindness",
+      "guide dogs",
+      "service animals"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2096277741935210948",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://paradepets.com/pet-news/blind-ceo-raises-guide-dog-manhattan-nyc-training"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096277741935210948",
+    "status": "published",
+    "translationOf": "blind-ceo-trains-guide-dog-in-manhattan-zh-79ac1be3",
+    "publishedAt": "2026-09-05T16:42:15.000Z",
+    "fetchedAt": "2026-09-06T05:07:11.832Z",
+    "body": "A blind CEO is training a pet dog to become a service dog using New York City as the training environment.\nTweet source: [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2096277741935210948)\nExternal link: [https://paradepets.com/pet-news/blind-ceo-raises-guide-dog-manhattan-nyc-training](https://paradepets.com/pet-news/blind-ceo-raises-guide-dog-manhattan-nyc-training)"
+  },
+  {
+    "title": "Mapping Disabled Americans' Access to Democracy",
+    "slug": "mapping-disabled-americans-access-to-democracy-84916e4e",
+    "lang": "en",
+    "summary": "A report examines the barriers and access levels for disabled Americans participating in democratic processes.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "disability rights",
+      "voting access",
+      "democracy"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2096257928068206617",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.americanprogress.org/article/accessibledemocracy"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096257928068206617",
+    "status": "published",
+    "translationOf": "mapping-disabled-americans-access-to-democracy-zh-84916e4e",
+    "publishedAt": "2026-09-05T15:23:31.000Z",
+    "fetchedAt": "2026-09-06T05:07:11.850Z",
+    "body": "A report examines the barriers and access levels for disabled Americans participating in democratic processes.\nTweet source: [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2096257928068206617)\nExternal link: [https://www.americanprogress.org/article/accessibledemocracy](https://www.americanprogress.org/article/accessibledemocracy)"
+  },
+  {
+    "title": "Abel Simbani Promoting Digital Inclusion",
+    "slug": "abel-simbani-promoting-digital-inclusion-08bbbed6",
+    "lang": "en",
+    "summary": "Abel Simbani is working to increase digital accessibility and opportunities for people with visual impairments.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "digital accessibility",
+      "Braille",
+      "inclusive technology"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2096255495321657605",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.undp.org/malawi/news/braille-bytes-abel-simbani-opening-digital-doors-others"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096255495321657605",
+    "status": "published",
+    "translationOf": "abel-simbani-promoting-digital-inclusion-zh-08bbbed6",
+    "publishedAt": "2026-09-05T15:13:51.000Z",
+    "fetchedAt": "2026-09-06T05:07:11.874Z",
+    "body": "Abel Simbani is working to increase digital accessibility and opportunities for people with visual impairments.\nTweet source: [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2096255495321657605)\nExternal link: [https://www.undp.org/malawi/news/braille-bytes-abel-simbani-opening-digital-doors-others](https://www.undp.org/malawi/news/braille-bytes-abel-simbani-opening-digital-doors-others)"
+  },
+  {
+    "title": "Interactive NVDA Coach for Screen Reader Training",
+    "slug": "interactive-nvda-coach-for-screen-reader-training-ec38db7b",
+    "lang": "en",
+    "summary": "Tony Gebhard's Interactive NVDA Coach provides training for users of the NVDA screen reader.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "NVDA",
+      "screen reader",
+      "assistive technology",
+      "training"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2096252626203713538",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://www.youtube.com/live/o4ScfcrtFY8?si=toETTKhkRpl3DRM5"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096252626203713538",
+    "status": "published",
+    "translationOf": "interactive-nvda-coach-for-screen-reader-training-zh-ec38db7b",
+    "publishedAt": "2026-09-05T15:02:27.000Z",
+    "fetchedAt": "2026-09-06T05:07:17.262Z",
+    "body": "Tony Gebhard's Interactive NVDA Coach provides training for users of the NVDA screen reader.\nTweet source: [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2096252626203713538)\nExternal link: [https://www.youtube.com/live/o4ScfcrtFY8?si=toETTKhkRpl3DRM5](https://www.youtube.com/live/o4ScfcrtFY8?si=toETTKhkRpl3DRM5)"
+  },
+  {
+    "title": "AI for Vision Loss Treatment Options",
+    "slug": "ai-for-vision-loss-treatment-options-20f9a3ff",
+    "lang": "en",
+    "summary": "An exploration of whether AI, specifically Nome, can help find treatment options for individuals with vision loss.",
+    "category": "social-signals",
+    "tags": [
+      "a11y",
+      "social-signals",
+      "en",
+      "AI",
+      "vision loss",
+      "healthcare",
+      "assistive technology"
+    ],
+    "sourceName": "UtahCouncil_Blind (@UCBInfo)",
+    "sourceUrl": "https://x.com/UCBInfo/status/2096250761865023968",
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "relatedSources": [
+      {
+        "name": "External link from tweet",
+        "url": "https://youtu.be/cSwkf3WyKDs?si=Bz4S7zIegSKVqCGn"
+      }
+    ],
+    "ingestType": "x",
+    "ingestSource": "x.com",
+    "ingestProvider": "x.com",
+    "clusterId": "cluster-tw-2096250761865023968",
+    "status": "published",
+    "translationOf": "ai-for-vision-loss-treatment-options-zh-20f9a3ff",
+    "publishedAt": "2026-09-05T14:55:02.000Z",
+    "fetchedAt": "2026-09-06T05:07:17.279Z",
+    "body": "An exploration of whether AI, specifically Nome, can help find treatment options for individuals with vision loss.\nTweet source: [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2096250761865023968)\nExternal link: [https://youtu.be/cSwkf3WyKDs?si=Bz4S7zIegSKVqCGn](https://youtu.be/cSwkf3WyKDs?si=Bz4S7zIegSKVqCGn)"
   }
 ]
