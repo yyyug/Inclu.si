@@ -1,17 +1,29 @@
 {
-  "date": "2026-09-05",
-  "generatedAt": "2026-09-05T15:31:02.257Z",
+  "date": "2026-09-06",
+  "generatedAt": "2026-09-06T05:00:12.589Z",
   "en": {
-    "title": "Accessibility Setbacks and Advances Highlighted in Global News",
-    "summary": "On September 5, a Canadian senior who had relied on an accessible bus for 28 years was abruptly denied service after officials claimed his wheelchair exceeded the vehicle’s safety load limit. Meanwhile, the Gesa Power House Theatre completed renovations to improve wheelchair access and other disability accommodations for all patrons. Additionally, Taiwan’s Executive Yuan Ocean Affairs Council hosted an accessible seaside experience, allowing people with disabilities to enjoy marine activities.",
+    "title": "Canadian Senior Denied Accessible Bus After 28 Years Sparks Nationwide Outcry",
+    "summary": "A Canadian senior who used an accessible bus for 28 years was refused service after the transit authority claimed his wheelchair exceeded safety limits. The incident has drawn attention to accessibility enforcement and potential discrimination. Other developments include new marine accessibility programs in Taiwan, theatre renovations, and ongoing digital accessibility challenges.",
     "highlights": [
       {
         "title": "Canadian Disabled Senior Denied Accessible Bus After 28 Years, Cited Wheelchair Exceeds Safety Load",
         "slug": "canadian-disabled-senior-denied-accessible-bus-after-28-years-cited-wheelchair-e-2cf59665"
       },
       {
+        "title": "Ocean Affairs Council launches 16 ocean-friendly activities across Taiwan, marine barrier-free expands again",
+        "slug": "ocean-affairs-council-launches-16-ocean-friendly-activities-across-taiwan-marine-34137412"
+      },
+      {
         "title": "Gesa Power House Theatre renovates to ensure accessibility to all",
         "slug": "gesa-power-house-theatre-renovates-to-ensure-accessibility-to-all-6b0fef49"
+      },
+      {
+        "title": "Shoppers face accessibility issues online despite record back-to-school spending",
+        "slug": "shoppers-face-accessibility-issues-online-despite-record-back-to-school-spending-eb380ca2"
+      },
+      {
+        "title": "I found the best Android performance tweaks hiding in the Accessibility menu",
+        "slug": "i-found-the-best-android-performance-tweaks-hiding-in-the-accessibility-menu-23e47a05"
       },
       {
         "title": "People with disabilities bravely challenge! Executive Yuan's Ocean Affairs Council holds accessible seaside experience activity",
@@ -20,16 +32,28 @@
     ]
   },
   "zh-TW": {
-    "title": "無障礙新聞聚焦：巴士拒載與場館改造",
-    "summary": "2026年9月5日，加拿大一名使用無障礙巴士28年的殘障長者因輪椅超過安全載重而被拒載，引發關注。同期，Gesa Power House劇場完成翻修，提升輪椅通道與其他無障礙設施，確保所有觀眾皆能便利觀賞。行政院海洋委員會亦舉辦無障礙親海體驗活動，讓身障者參與海洋活動。",
+    "title": "加拿大長者無障礙巴士遭拒載",
+    "summary": "一位在加拿大使用無障礙巴士28年的殘疾長者近日被拒絕上車，交通局稱其輪椅超過安全承載限制。此事件引發對無障礙交通執行的討論。同時，台灣海洋委員會推出16項親海無障礙活動，劇場翻修改善輪椅通行，線上購物仍存無障礙問題。",
     "highlights": [
       {
         "title": "加拿大殘疾長者乘無障礙巴士28年突遭拒載！竟稱輪椅超出安全承載",
         "slug": "canadian-disabled-senior-denied-accessible-bus-after-28-years-cited-wheelchair-e-zh-2cf59665"
       },
       {
+        "title": "海委會啟動全臺16場親海活動 海洋無障礙再擴大",
+        "slug": "ocean-affairs-council-launches-16-ocean-friendly-activities-across-taiwan-marine-zh-34137412"
+      },
+      {
         "title": "Gesa Power House Theatre 進行翻修以確保所有人的無障礙",
         "slug": "gesa-power-house-theatre-renovates-to-ensure-accessibility-to-all-zh-6b0fef49"
+      },
+      {
+        "title": "購物者在線上仍面臨無障礙問題，儘管返校消費創紀錄",
+        "slug": "shoppers-face-accessibility-issues-online-despite-record-back-to-school-spending-zh-eb380ca2"
+      },
+      {
+        "title": "我在Android無障礙選單中發現最佳效能調整技巧",
+        "slug": "i-found-the-best-android-performance-tweaks-hiding-in-the-accessibility-menu-zh-23e47a05"
       },
       {
         "title": "身心障礙者勇於挑戰！行政院海洋委員會舉辦無障礙親海體驗活動",
