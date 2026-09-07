@@ -1,71 +1,63 @@
 {
-  "date": "2026-09-06",
-  "generatedAt": "2026-09-06T15:44:29.666Z",
+  "date": "2026-09-07",
+  "generatedAt": "2026-09-07T05:07:55.061Z",
   "en": {
-    "title": "US HUD tightens Fair Housing complaint deadline amid global accessibility pushes",
-    "summary": "The U.S. Department of Housing and Urban Development has introduced a new deadline for filing Fair Housing Act accessibility complaints, aiming to streamline the process but raising concerns about reduced redress time for disability discrimination victims. In Taiwan, Yunlin’s Huwei township held CRPD-aligned leisure activities for disabled and elderly residents, while a Pingtung charity group distributed supplies and advocated for accessible toilets. Meanwhile, online shoppers still encounter accessibility barriers despite record back-to-school spending, and new research shows environmental barriers hinder aphasia participation, underscoring the need for inclusive design.",
+    "title": "HUD Implements New Deadline for Fair Housing Accessibility Complaints",
+    "summary": "HUD has introduced a new deadline for filing Fair Housing Act accessibility complaints, aiming to streamline the process but raising concerns about reduced time for victims of disability discrimination to seek redress. Meanwhile, agencies released spatial data for barrier-free walking, launched 16 accessible seaside experiences across Taiwan, opened an assistive-technology mart in Gujarat, and highlighted accessibility efforts at Milan Fashion Week and a local museum’s Sensory Sundays program.",
     "highlights": [
       {
         "title": "HUD sets new time limit on Fair Housing accessibility complaints - Planetizen",
         "slug": "hud-sets-new-time-limit-on-fair-housing-accessibility-complaints-planetizen-52bfa0b4"
       },
       {
-        "title": "Yunlin Huwei Hosts Disabled and Elderly Leisure Activities to Implement CRPD and Build Accessible Environment",
-        "slug": "yunlin-huwei-hosts-disabled-and-elderly-leisure-activities-to-implement-crpd-and-ab0033dd"
+        "title": "Development Bureau shares spatial data to support barrier-free walking applications",
+        "slug": "development-bureau-shares-spatial-data-to-support-barrier-free-walking-applicati-d0a169ed"
       },
       {
         "title": "Ocean Affairs Council Launches 16 Accessible Seaside Experiences Across Taiwan",
         "slug": "ocean-affairs-council-launches-16-accessible-seaside-experiences-across-taiwan-c0da90e2"
       },
       {
-        "title": "Pingtung Charity Group Delivers Supplies and Hopes for Accessible Toilets for Mobility‑Impaired Families",
-        "slug": "pingtung-charity-group-delivers-supplies-and-hopes-for-accessible-toilets-for-mo-85be3cfc"
+        "title": "ALIMCO Opens New Assistive Technology Mart in Gujarat",
+        "slug": "alimco-opens-new-assistive-technology-mart-in-gujarat-117437cf"
       },
       {
-        "title": "Shoppers face accessibility issues online despite record back-to-school spending - ABC17NEWS",
-        "slug": "shoppers-face-accessibility-issues-online-despite-record-back-to-school-spending-1e77d6cc"
+        "title": "Luxury meets accessibility at Milan Fashion Week",
+        "slug": "luxury-meets-accessibility-at-milan-fashion-week-2c3e9910"
       },
       {
-        "title": "Research on Aphasia Awareness and Environmental Barriers",
-        "slug": "research-on-aphasia-awareness-and-environmental-barriers-77dd04d5"
-      },
-      {
-        "title": "Apple Hiring Web Accessibility Engineer",
-        "slug": "apple-hiring-web-accessibility-engineer-9c0bb9a9"
+        "title": "Sensory Sundays creates accessible trips at local museum",
+        "slug": "sensory-sundays-creates-accessible-trips-at-local-museum-002968fb"
       }
     ]
   },
   "zh-TW": {
-    "title": "美國HUD設定公平住房無障礙投訴新時限，台灣推動多元無障礙行動",
-    "summary": "美國住房與城市發展部（HUD）已設定公平住房法無障礙投訴的新截止日期，旨在簡化流程但引發對殘疾歧視受害者救濟時間縮短的擔憂。在台灣，海委會推出全臺16場無障礙親海體驗，雲林虎尾依據CRPD舉辦身障與長青體能休閒活動，屏東慈善團體則送米送物並倡導設置無障礙廁所。線上購物者仍遭遇無障礙障礙，研究顯示環境障礙阻礙失語症參與，凸顯提升數位與通用無障礙的必要性。",
+    "title": "HUD 設定公平住房無障礙投訴新期限",
+    "summary": "HUD 新規定對公平住房法無障礙投訴設定截止日期，旨在簡化流程但引發對殘疾歧視受害者尋求救濟時間縮短的擔憂。空間數據發布支援無障礙步行、海委會啟動全臺16場無障礙親海體驗、ALIMCO 在古吉拉特邦開設輔助技術商店、米蘭時尚週及地方博物館的感官友好星期日等無障礙措施。",
     "highlights": [
       {
         "title": "HUD 設定公平住房無障礙投訴的新時限 - Planetizen",
         "slug": "hud-sets-new-time-limit-on-fair-housing-accessibility-complaints-planetizen-zh-52bfa0b4"
       },
       {
-        "title": "落實CRPD精神！雲林虎尾舉辦身障與長青體能休閒活動 打造平權共好無障礙環境 - more-news.tw",
-        "slug": "yunlin-huwei-hosts-disabled-and-elderly-leisure-activities-to-implement-crpd-and-zh-ab0033dd"
+        "title": "發展局空間數據共享 支援無障礙步行等應用",
+        "slug": "development-bureau-shares-spatial-data-to-support-barrier-free-walking-applicati-zh-d0a169ed"
       },
       {
         "title": "海委會啟動全臺16場無障礙親海體驗 - 台灣華報",
         "slug": "ocean-affairs-council-launches-16-accessible-seaside-experiences-across-taiwan-zh-c0da90e2"
       },
       {
-        "title": "一袋米、一份物資送進家門胡斌人文軍警消關懷協會屏東送暖更替行動不便弱勢家庭盼來無障礙廁所 - more-news.tw",
-        "slug": "pingtung-charity-group-delivers-supplies-and-hopes-for-accessible-toilets-for-mo-zh-85be3cfc"
+        "title": "ALIMCO 在古吉拉特邦開設新的輔助技術商店",
+        "slug": "alimco-opens-new-assistive-technology-mart-in-gujarat-zh-117437cf"
       },
       {
-        "title": "儘管開學季消費創紀錄，網購者仍面臨無障礙問題 - ABC17NEWS",
-        "slug": "shoppers-face-accessibility-issues-online-despite-record-back-to-school-spending-zh-1e77d6cc"
+        "title": "奢華與無障礙於米蘭時尚週",
+        "slug": "luxury-meets-accessibility-at-milan-fashion-week-zh-2c3e9910"
       },
       {
-        "title": "關於失語症認知與環境障礙的研究",
-        "slug": "research-on-aphasia-awareness-and-environmental-barriers-zh-77dd04d5"
-      },
-      {
-        "title": "蘋果正在招聘網頁無障礙工程師",
-        "slug": "apple-hiring-web-accessibility-engineer-zh-9c0bb9a9"
+        "title": "感官友好星期日打造本地博物館無障礙之旅",
+        "slug": "sensory-sundays-creates-accessible-trips-at-local-museum-zh-002968fb"
       }
     ]
   }
