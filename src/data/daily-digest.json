@@ -1,63 +1,47 @@
 {
-  "date": "2026-09-07",
-  "generatedAt": "2026-09-07T17:53:51.272Z",
+  "date": "2026-09-08",
+  "generatedAt": "2026-09-08T05:08:02.021Z",
   "en": {
-    "title": "Congress Urged to Prioritize Accessible Housing Amid Growing Disability Advocacy",
-    "summary": "Congress is being urged to make accessibility a priority in the nation's housing supply, emphasizing the need for homes that accommodate people with disabilities. Meanwhile, Kisharon Langdon is testing accessibility boxes with sensory and communication aids for High Holy Day services, and a 71‑year‑old disabled senior repeatedly denied boarding on an accessible bus highlights ongoing transit barriers. Additional highlights include a survey on Japan's barrier‑free progress, a quick React‑Vue accessibility guide, and a Philly woman’s advocacy after a bullet‑induced paralysis.",
+    "title": "Global Policy Shifts and New Tools Boost Disability Accessibility",
+    "summary": "The U.S. Department of Housing and Urban Development issued new guidance that narrows fair‑housing claims related to building accessibility, potentially weakening enforcement of disability access standards. Meanwhile, the European Union adopted updated digital accessibility standards, and Taiwan’s Hua Nan Bank received certification for its visually‑impaired‑friendly e‑指沖 app. Additional developments include a UN committee report on CRPD implementation and ongoing advocacy for inclusive policies.",
     "highlights": [
       {
-        "title": "Congress must prioritize accessibility in housing supply",
-        "slug": "congress-must-prioritize-accessibility-in-housing-supply-880360c4"
+        "title": "《金融》打造視障友善體驗「華南e指沖」App獲無障礙認證- 金融 - ctee.com.tw",
+        "slug": "eapp-cteecomtw-a2468a3a"
       },
       {
-        "title": "Kisharon Langdon pilots accessibility boxes ahead of High Holy Days",
-        "slug": "kisharon-langdon-pilots-accessibility-boxes-ahead-of-high-holy-days-dcc9bc98"
+        "title": "UN disability rights committee publishes findings on 5 nations",
+        "slug": "un-disability-rights-committee-publishes-findings-on-5-nations-05879397"
       },
       {
-        "title": "71-Year-Old Disabled Senior Repeatedly Denied Boarding on Accessible Bus After 28 Years of Use, Advocacy Group Says Such Incidents Are Not Isolated",
-        "slug": "71-year-old-disabled-senior-repeatedly-denied-boarding-on-accessible-bus-after-2-e27d40a0"
-      },
-      {
-        "title": "Survey on Japan's Barrier-Free Progress",
-        "slug": "survey-on-japans-barrier-free-progress-210786e3"
-      },
-      {
-        "title": "React vs Vue Accessibility Setup: 12 Steps, 90 Min [2026]",
-        "slug": "react-vs-vue-accessibility-setup-12-steps-90-min-2026-dedd9358"
-      },
-      {
-        "title": "A stray bullet paralyzed a Philly woman from the waist down. Now she surfs, teaches, and advocates for accessibility.",
-        "slug": "a-stray-bullet-paralyzed-a-philly-woman-from-the-waist-down-now-she-surfs-teache-af86fbf8"
+        "title": "Survey shows most Tory and Reform voters oppose cuts to disability benefits",
+        "slug": "survey-shows-most-tory-and-reform-voters-oppose-cuts-to-disability-benefits-3dde4a81"
       }
     ]
   },
   "zh-TW": {
-    "title": "國會被促優先考慮無障礙住房，殘障倡議持續升溫",
-    "summary": "國會被呼籲將無障礙置於國家住房供應的優先位置，以確保殘障人士能獲得適切住房。同時，Kisharon Langdon 正在試點提供感官與溝通輔助的無障礙盒子，供高聖日禮拜使用；一位71歲殘障長者連續被拒絕上無障礙巴士，凸顯持續的交通障礙。此外，日本無障礙進展調查、React‑Vue 無障礙設置快速指南，以及一位費城女子在子彈導致癱瘓後成為無障礙倡導者的故事也備受關注。",
+    "title": "全球政策變革與新工具提升殘障無障礙",
+    "summary": "美國住房與城市發展部發布指引，限制針對建築無障礙問題的公平住房索賠，可能削弱對殘障人士的住房無障礙要求。歐盟同步更新數位無障礙標準，華南銀行的視障友善「e指沖」App亦獲得無障礙認證。其他消息包括X平台上關於無障礙設計的討論以及2026年國際殘疾人日獎項提名開啟。",
     "highlights": [
       {
-        "title": "國會必須優先考慮住房供應的無障礙",
-        "slug": "congress-must-prioritize-accessibility-in-housing-supply-zh-880360c4"
+        "title": "HUD 限制與建築無障礙相關的公平住房索賠",
+        "slug": "hud-limits-fair-housing-claims-over-building-accessibility-zh-fdac342d"
       },
       {
-        "title": "Kisharon Langdon 在高聖日前試點無障礙盒子",
-        "slug": "kisharon-langdon-pilots-accessibility-boxes-ahead-of-high-holy-days-zh-dcc9bc98"
+        "title": "歐盟更新數位無障礙標準",
+        "slug": "eu-updates-digital-accessibility-standard-zh-848f05c8"
       },
       {
-        "title": "加71歲殘疾長者搭無障礙巴士28年突遭不合理拒載團體指此類事件並非個例- 國際",
-        "slug": "71-year-old-disabled-senior-repeatedly-denied-boarding-on-accessible-bus-after-2-zh-e27d40a0"
+        "title": "《金融》打造視障友善體驗「華南e指沖」App獲無障礙認證- 金融 - ctee.com.tw",
+        "slug": "eapp-cteecomtw-zh-a2468a3a"
       },
       {
-        "title": "日本無障礙進展調查",
-        "slug": "survey-on-japans-barrier-free-progress-zh-210786e3"
+        "title": "X 比賽 無障礙設計的討論",
+        "slug": "discussion-on-barrier-free-design-in-x-match-zh-09224832"
       },
       {
-        "title": "React 與 Vue 無障礙設置對比：12 步驟，90 分鐘 [2026]",
-        "slug": "react-vs-vue-accessibility-setup-12-steps-90-min-2026-zh-dedd9358"
-      },
-      {
-        "title": "一發走彈擊中費城女子導致腰部以下癱瘓，她現在衝浪、教學並倡導無障礙環境。",
-        "slug": "a-stray-bullet-paralyzed-a-philly-woman-from-the-waist-down-now-she-surfs-teache-zh-af86fbf8"
+        "title": "2026年國際殘疾人日獎項提名開啟",
+        "slug": "nominations-open-for-2026-international-day-of-people-with-disability-awards-zh-f2f152e2"
       }
     ]
   }
