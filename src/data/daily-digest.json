@@ -1,47 +1,71 @@
 {
   "date": "2026-09-08",
-  "generatedAt": "2026-09-08T05:08:02.021Z",
+  "generatedAt": "2026-09-08T16:51:18.698Z",
   "en": {
-    "title": "Global Policy Shifts and New Tools Boost Disability Accessibility",
-    "summary": "The U.S. Department of Housing and Urban Development issued new guidance that narrows fair‑housing claims related to building accessibility, potentially weakening enforcement of disability access standards. Meanwhile, the European Union adopted updated digital accessibility standards, and Taiwan’s Hua Nan Bank received certification for its visually‑impaired‑friendly e‑指沖 app. Additional developments include a UN committee report on CRPD implementation and ongoing advocacy for inclusive policies.",
+    "title": "HUD Rescinds Fair Housing ‘Continuing Violation’ Rule, Impacting Disability Access",
+    "summary": "HUD issued new guidance withdrawing the ‘continuing violation’ interpretation of the Fair Housing Act’s design-and-construction accessibility requirements, affecting compliance assessments for new housing. Meanwhile, Kentucky’s governor announced over $18.8 million for pedestrian and bicyclist projects that include accessibility upgrades such as curb cuts and sidewalks. Masats will showcase AI‑powered accessibility tools at FIAA 2026, while a new app earned accessibility certification and advocates called for mindful assistance and disability‑award nominations.",
     "highlights": [
       {
-        "title": "《金融》打造視障友善體驗「華南e指沖」App獲無障礙認證- 金融 - ctee.com.tw",
-        "slug": "eapp-cteecomtw-a2468a3a"
+        "title": "HUD issues new guidance, rescinds ‘continuing violation’ interpretation of Fair Housing Act design-and-construction accessibility requirements",
+        "slug": "hud-issues-new-guidance-rescinds-continuing-violation-interpretation-of-fair-hou-44dd3067"
       },
       {
-        "title": "UN disability rights committee publishes findings on 5 nations",
-        "slug": "un-disability-rights-committee-publishes-findings-on-5-nations-05879397"
+        "title": "Gov. Beshear Announces Over $18.8 Million for Pedestrian, Bicyclist, and Accessibility Project",
+        "slug": "gov-beshear-announces-over-188-million-for-pedestrian-bicyclist-and-accessibilit-1019cfa1"
       },
       {
-        "title": "Survey shows most Tory and Reform voters oppose cuts to disability benefits",
-        "slug": "survey-shows-most-tory-and-reform-voters-oppose-cuts-to-disability-benefits-3dde4a81"
+        "title": "Masats to Unveil AI-Powered Accessibility Solutions at FIAA 2026",
+        "slug": "masats-to-unveil-ai-powered-accessibility-solutions-at-fiaa-2026-066e0681"
+      },
+      {
+        "title": "Huana e指沖 App gains accessibility certification, integrates voice assistance and upgraded audio‑tactile interaction to create a visually impaired‑friendly experience",
+        "slug": "huana-e-app-gains-accessibility-certification-integrates-voice-assistance-and-up-45705202"
+      },
+      {
+        "title": "Call for Mindful Assistance for People with Disabilities",
+        "slug": "call-for-mindful-assistance-for-people-with-disabilities-3ad6343a"
+      },
+      {
+        "title": "Nominations open for 2026 International Day of People with Disability Awards",
+        "slug": "nominations-open-for-2026-international-day-of-people-with-disability-awards-f2f152e2"
       }
     ]
   },
   "zh-TW": {
-    "title": "全球政策變革與新工具提升殘障無障礙",
-    "summary": "美國住房與城市發展部發布指引，限制針對建築無障礙問題的公平住房索賠，可能削弱對殘障人士的住房無障礙要求。歐盟同步更新數位無障礙標準，華南銀行的視障友善「e指沖」App亦獲得無障礙認證。其他消息包括X平台上關於無障礙設計的討論以及2026年國際殘疾人日獎項提名開啟。",
+    "title": "HUD 撤銷公平住房法『持續違反』解釋，影響無障礙住宅合規",
+    "summary": "美國住房與城市發展部（HUD）發布新指引，撤銷對公平住房法設計與建築無障礙要求的『持續違反』解釋，影響新住宅的合規評估。貝謝爾州長宣布超過1880萬美元用於行人、騎車者及無障礙基礎設施，包括路邊坡道和人行道改善。Masats 將在 FIAA 2026 展出 AI 驅動的無障礙解決方案，而華南 e指沖 App 獲得無障礙認證，歐盟更新數位無障礙標準，並有日本帳號分享殘障運動體驗課程。",
     "highlights": [
       {
-        "title": "HUD 限制與建築無障礙相關的公平住房索賠",
-        "slug": "hud-limits-fair-housing-claims-over-building-accessibility-zh-fdac342d"
+        "title": "HUD發布新指引，撤銷對公平住房法設計與建築無障礙要求的‘持續違反’解釋",
+        "slug": "hud-issues-new-guidance-rescinds-continuing-violation-interpretation-of-fair-hou-zh-44dd3067"
       },
       {
-        "title": "歐盟更新數位無障礙標準",
-        "slug": "eu-updates-digital-accessibility-standard-zh-848f05c8"
+        "title": "調查顯示多數保守黨與改革黨選民反對削減殘疾福利",
+        "slug": "survey-shows-most-tory-and-reform-voters-oppose-cuts-to-disability-benefits-zh-3dde4a81"
+      },
+      {
+        "title": "貝謝爾州長宣布超過1880萬美元用於行人、騎車者及無障礙項目",
+        "slug": "gov-beshear-announces-over-188-million-for-pedestrian-bicyclist-and-accessibilit-zh-1019cfa1"
+      },
+      {
+        "title": "超過四分之一的美國成年人有殘疾。ASI集團新報告指出商業廁所的無障礙缺口",
+        "slug": "more-than-1-in-4-us-adults-live-with-a-disability-new-asi-group-report-maps-the--zh-e901a536"
+      },
+      {
+        "title": "Masats 將在 FIAA 2026 展出 AI 驅動的無障礙解決方案",
+        "slug": "masats-to-unveil-ai-powered-accessibility-solutions-at-fiaa-2026-zh-066e0681"
       },
       {
         "title": "《金融》打造視障友善體驗「華南e指沖」App獲無障礙認證- 金融 - ctee.com.tw",
         "slug": "eapp-cteecomtw-zh-a2468a3a"
       },
       {
-        "title": "X 比賽 無障礙設計的討論",
-        "slug": "discussion-on-barrier-free-design-in-x-match-zh-09224832"
+        "title": "歐盟更新數位無障礙標準",
+        "slug": "eu-updates-digital-accessibility-standard-zh-848f05c8"
       },
       {
-        "title": "2026年國際殘疾人日獎項提名開啟",
-        "slug": "nominations-open-for-2026-international-day-of-people-with-disability-awards-zh-f2f152e2"
+        "title": "名古屋殘障運動體驗課程",
+        "slug": "para-sports-experience-class-in-nagoya-zh-2a39fa89"
       }
     ]
   }
