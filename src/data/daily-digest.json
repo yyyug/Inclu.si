@@ -1,55 +1,47 @@
 {
   "date": "2026-09-09",
-  "generatedAt": "2026-09-09T05:06:18.711Z",
+  "generatedAt": "2026-09-09T16:55:14.319Z",
   "en": {
-    "title": "HUD Rescinds Fair Housing Accessibility Rule, Impacting New U.S. Housing Compliance",
-    "summary": "The U.S. Department of Housing and Urban Development withdrew its ‘continuing violation’ interpretation of the Fair Housing Act’s design-and-construction accessibility requirements, altering compliance assessments for new housing. This change follows ongoing debates about accessibility standards and enforcement. Other notable developments include congressional calls for accessible housing, funding for Bellerose station accessibility upgrades, and upcoming AI accessibility solutions from Masats.",
+    "title": "EU Procurement Reform Boosts Disability Rights; AI Buses and Apps Advance Accessibility",
+    "summary": "The European Union has introduced proposed public procurement rules that could compel authorities to adopt more inclusive practices across infrastructure, transport, digital services and products. At the FIAA 2026 exhibition, Masats unveiled its AIDA AI system along with new doors and ramps to improve bus accessibility. Additionally, the Huana e指沖 app received accessibility certification for its voice assistance and haptic feedback features, and Hsinchu City bus drivers completed wheelchair‑experience drills to better understand accessibility needs.",
     "highlights": [
       {
-        "title": "HUD issues new guidance, rescinds ‘continuing violation’ interpretation of Fair Housing Act design-and-construction accessibility requirements",
-        "slug": "hud-issues-new-guidance-rescinds-continuing-violation-interpretation-of-fair-hou-44dd3067"
+        "title": "Proposed Public Procurement rules give potential boost to disability rights",
+        "slug": "proposed-public-procurement-rules-give-potential-boost-to-disability-rights-772809fa"
       },
       {
-        "title": "Cannington, Rice: Congress must prioritize accessibility in housing supply",
-        "slug": "cannington-rice-congress-must-prioritize-accessibility-in-housing-supply-84aab942"
+        "title": "Masats brings AI to bus accessibility with AIDA system, new doors and ramps at FIAA 2026",
+        "slug": "masats-brings-ai-to-bus-accessibility-with-aida-system-new-doors-and-ramps-at-fi-34dafcd0"
       },
       {
-        "title": "Bellerose station gets $250G to add elevator and ramps, the last Nassau LIRR facility to become accessible",
-        "slug": "bellerose-station-gets-250g-to-add-elevator-and-ramps-the-last-nassau-lirr-facil-3f4afc4c"
+        "title": "Huana e指沖 App Earns Accessibility Certification with Voice Assistance and Haptic Feedback",
+        "slug": "huana-e-app-earns-accessibility-certification-with-voice-assistance-and-haptic-f-aba36875"
       },
       {
-        "title": "Masats to Unveil AI-Powered Accessibility Solutions at FIAA 2026",
-        "slug": "masats-to-unveil-ai-powered-accessibility-solutions-at-fiaa-2026-066e0681"
-      },
-      {
-        "title": "LDF Condemns ABA Decision Repealing Standard 206 That Advanced Diversity, Equity, Inclusion, and Accessibility in Law Schools and the Legal Profession",
-        "slug": "ldf-condemns-aba-decision-repealing-standard-206-that-advanced-diversity-equity--0ad42ac0"
+        "title": "Hsinchu City bus drivers undergo wheelchair experience drills to improve accessibility and handle sexual harassment",
+        "slug": "hsinchu-city-bus-drivers-undergo-wheelchair-experience-drills-to-improve-accessi-a3a1b04d"
       }
     ]
   },
   "zh-TW": {
-    "title": "HUD 撤銷公平住房無障礙解釋，影響新住宅合規評估",
-    "summary": "美國住房與城市發展部（HUD）撤銷了公平住房法設計與建築無障礙要求的‘持續違反’解釋，改變新住宅的合規評估方式。此舉引發對無障礙標準與執行的討論。其他重要發展包括國會議員呼籲優先考慮無障礙住房、貝勒羅斯車站獲得2.5億美元用於電梯與坡道設置，以及 Masats 將在 FIAA 2026 展出 AI 無障礙解決方案。",
+    "title": "歐盟採購新規提升殘障權益，AI巴士與App推動無障礙",
+    "summary": "歐盟提出的公共採購規則可能促使各機關在基礎建設、交通、數位服務與產品上採取更具包容性的做法。於FIAA 2026展會，Masats推出AIDA AI系統及新門與坡道，提升巴士無障礙性。華南e指沖App亦獲得無障礙認證，加入語音輔助與觸覺回饋功能，同時新竹市公車駕駛完成輪椅體驗演練，以加深對無障礙需求的了解。",
     "highlights": [
       {
-        "title": "HUD發布新指引，撤銷對公平住房法設計與建築無障礙要求的‘持續違反’解釋",
-        "slug": "hud-issues-new-guidance-rescinds-continuing-violation-interpretation-of-fair-hou-zh-44dd3067"
+        "title": "建議的公共採購規則有望提升殘障權益",
+        "slug": "proposed-public-procurement-rules-give-potential-boost-to-disability-rights-zh-772809fa"
       },
       {
-        "title": "Cannington、Rice：國會必須將住房供應中的無障礙置於優先",
-        "slug": "cannington-rice-congress-must-prioritize-accessibility-in-housing-supply-zh-84aab942"
+        "title": "Masats 在 FIAA 2026 展會上推出 AIDA AI 系統、新門坡道提升巴士無障礙",
+        "slug": "masats-brings-ai-to-bus-accessibility-with-aida-system-new-doors-and-ramps-at-fi-zh-34dafcd0"
       },
       {
-        "title": "貝勒羅斯車站獲得 2.5 億美元增設電梯與坡道，成為納蘇 LIRR 最後一個實現無障礙的設施",
-        "slug": "bellerose-station-gets-250g-to-add-elevator-and-ramps-the-last-nassau-lirr-facil-zh-3f4afc4c"
+        "title": "華南e指沖App獲無障礙認證 整合語音輔助升級聽觸覺互動",
+        "slug": "huana-e-app-earns-accessibility-certification-with-voice-assistance-and-haptic-f-zh-aba36875"
       },
       {
-        "title": "Masats 將在 FIAA 2026 展出 AI 驅動的無障礙解決方案",
-        "slug": "masats-to-unveil-ai-powered-accessibility-solutions-at-fiaa-2026-zh-066e0681"
-      },
-      {
-        "title": "法律防衛基金會譴責美國律師協會廢止標準 206 的決定，該標準曾推動法學院與法律專業的多樣性、公平、包容及無障礙",
-        "slug": "ldf-condemns-aba-decision-repealing-standard-206-that-advanced-diversity-equity--zh-0ad42ac0"
+        "title": "竹市公車駕駛坐輪椅體驗演練無障礙及性騷處置| 地方 - 中央社 CNA",
+        "slug": "hsinchu-city-bus-drivers-undergo-wheelchair-experience-drills-to-improve-accessi-zh-a3a1b04d"
       }
     ]
   }
