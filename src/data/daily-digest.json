@@ -1,71 +1,55 @@
 {
-  "date": "2026-09-08",
-  "generatedAt": "2026-09-08T16:51:18.698Z",
+  "date": "2026-09-09",
+  "generatedAt": "2026-09-09T05:06:18.711Z",
   "en": {
-    "title": "HUD Rescinds Fair Housing ‘Continuing Violation’ Rule, Impacting Disability Access",
-    "summary": "HUD issued new guidance withdrawing the ‘continuing violation’ interpretation of the Fair Housing Act’s design-and-construction accessibility requirements, affecting compliance assessments for new housing. Meanwhile, Kentucky’s governor announced over $18.8 million for pedestrian and bicyclist projects that include accessibility upgrades such as curb cuts and sidewalks. Masats will showcase AI‑powered accessibility tools at FIAA 2026, while a new app earned accessibility certification and advocates called for mindful assistance and disability‑award nominations.",
+    "title": "HUD Rescinds Fair Housing Accessibility Rule, Impacting New U.S. Housing Compliance",
+    "summary": "The U.S. Department of Housing and Urban Development withdrew its ‘continuing violation’ interpretation of the Fair Housing Act’s design-and-construction accessibility requirements, altering compliance assessments for new housing. This change follows ongoing debates about accessibility standards and enforcement. Other notable developments include congressional calls for accessible housing, funding for Bellerose station accessibility upgrades, and upcoming AI accessibility solutions from Masats.",
     "highlights": [
       {
         "title": "HUD issues new guidance, rescinds ‘continuing violation’ interpretation of Fair Housing Act design-and-construction accessibility requirements",
         "slug": "hud-issues-new-guidance-rescinds-continuing-violation-interpretation-of-fair-hou-44dd3067"
       },
       {
-        "title": "Gov. Beshear Announces Over $18.8 Million for Pedestrian, Bicyclist, and Accessibility Project",
-        "slug": "gov-beshear-announces-over-188-million-for-pedestrian-bicyclist-and-accessibilit-1019cfa1"
+        "title": "Cannington, Rice: Congress must prioritize accessibility in housing supply",
+        "slug": "cannington-rice-congress-must-prioritize-accessibility-in-housing-supply-84aab942"
+      },
+      {
+        "title": "Bellerose station gets $250G to add elevator and ramps, the last Nassau LIRR facility to become accessible",
+        "slug": "bellerose-station-gets-250g-to-add-elevator-and-ramps-the-last-nassau-lirr-facil-3f4afc4c"
       },
       {
         "title": "Masats to Unveil AI-Powered Accessibility Solutions at FIAA 2026",
         "slug": "masats-to-unveil-ai-powered-accessibility-solutions-at-fiaa-2026-066e0681"
       },
       {
-        "title": "Huana e指沖 App gains accessibility certification, integrates voice assistance and upgraded audio‑tactile interaction to create a visually impaired‑friendly experience",
-        "slug": "huana-e-app-gains-accessibility-certification-integrates-voice-assistance-and-up-45705202"
-      },
-      {
-        "title": "Call for Mindful Assistance for People with Disabilities",
-        "slug": "call-for-mindful-assistance-for-people-with-disabilities-3ad6343a"
-      },
-      {
-        "title": "Nominations open for 2026 International Day of People with Disability Awards",
-        "slug": "nominations-open-for-2026-international-day-of-people-with-disability-awards-f2f152e2"
+        "title": "LDF Condemns ABA Decision Repealing Standard 206 That Advanced Diversity, Equity, Inclusion, and Accessibility in Law Schools and the Legal Profession",
+        "slug": "ldf-condemns-aba-decision-repealing-standard-206-that-advanced-diversity-equity--0ad42ac0"
       }
     ]
   },
   "zh-TW": {
-    "title": "HUD 撤銷公平住房法『持續違反』解釋，影響無障礙住宅合規",
-    "summary": "美國住房與城市發展部（HUD）發布新指引，撤銷對公平住房法設計與建築無障礙要求的『持續違反』解釋，影響新住宅的合規評估。貝謝爾州長宣布超過1880萬美元用於行人、騎車者及無障礙基礎設施，包括路邊坡道和人行道改善。Masats 將在 FIAA 2026 展出 AI 驅動的無障礙解決方案，而華南 e指沖 App 獲得無障礙認證，歐盟更新數位無障礙標準，並有日本帳號分享殘障運動體驗課程。",
+    "title": "HUD 撤銷公平住房無障礙解釋，影響新住宅合規評估",
+    "summary": "美國住房與城市發展部（HUD）撤銷了公平住房法設計與建築無障礙要求的‘持續違反’解釋，改變新住宅的合規評估方式。此舉引發對無障礙標準與執行的討論。其他重要發展包括國會議員呼籲優先考慮無障礙住房、貝勒羅斯車站獲得2.5億美元用於電梯與坡道設置，以及 Masats 將在 FIAA 2026 展出 AI 無障礙解決方案。",
     "highlights": [
       {
         "title": "HUD發布新指引，撤銷對公平住房法設計與建築無障礙要求的‘持續違反’解釋",
         "slug": "hud-issues-new-guidance-rescinds-continuing-violation-interpretation-of-fair-hou-zh-44dd3067"
       },
       {
-        "title": "調查顯示多數保守黨與改革黨選民反對削減殘疾福利",
-        "slug": "survey-shows-most-tory-and-reform-voters-oppose-cuts-to-disability-benefits-zh-3dde4a81"
+        "title": "Cannington、Rice：國會必須將住房供應中的無障礙置於優先",
+        "slug": "cannington-rice-congress-must-prioritize-accessibility-in-housing-supply-zh-84aab942"
       },
       {
-        "title": "貝謝爾州長宣布超過1880萬美元用於行人、騎車者及無障礙項目",
-        "slug": "gov-beshear-announces-over-188-million-for-pedestrian-bicyclist-and-accessibilit-zh-1019cfa1"
-      },
-      {
-        "title": "超過四分之一的美國成年人有殘疾。ASI集團新報告指出商業廁所的無障礙缺口",
-        "slug": "more-than-1-in-4-us-adults-live-with-a-disability-new-asi-group-report-maps-the--zh-e901a536"
+        "title": "貝勒羅斯車站獲得 2.5 億美元增設電梯與坡道，成為納蘇 LIRR 最後一個實現無障礙的設施",
+        "slug": "bellerose-station-gets-250g-to-add-elevator-and-ramps-the-last-nassau-lirr-facil-zh-3f4afc4c"
       },
       {
         "title": "Masats 將在 FIAA 2026 展出 AI 驅動的無障礙解決方案",
         "slug": "masats-to-unveil-ai-powered-accessibility-solutions-at-fiaa-2026-zh-066e0681"
       },
       {
-        "title": "《金融》打造視障友善體驗「華南e指沖」App獲無障礙認證- 金融 - ctee.com.tw",
-        "slug": "eapp-cteecomtw-zh-a2468a3a"
-      },
-      {
-        "title": "歐盟更新數位無障礙標準",
-        "slug": "eu-updates-digital-accessibility-standard-zh-848f05c8"
-      },
-      {
-        "title": "名古屋殘障運動體驗課程",
-        "slug": "para-sports-experience-class-in-nagoya-zh-2a39fa89"
+        "title": "法律防衛基金會譴責美國律師協會廢止標準 206 的決定，該標準曾推動法學院與法律專業的多樣性、公平、包容及無障礙",
+        "slug": "ldf-condemns-aba-decision-repealing-standard-206-that-advanced-diversity-equity--zh-0ad42ac0"
       }
     ]
   }
