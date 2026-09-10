@@ -21390,5 +21390,794 @@
     "publishedAt": "2026-09-10T04:55:50.000Z",
     "fetchedAt": "2026-09-10T05:17:16.307Z",
     "body": "Revised guidelines for Japanese public websites will include HTML provision and designs focused on readability and accessibility.\nTweet source: [yocco*🍎 (@yocco405)](https://x.com/yocco405/status/2097911905629450369)\nExternal link: [https://www.soumu.go.jp/main_sosiki/kenkyu/info-accessibility-portal/02ryutsu06_04000261.html](https://www.soumu.go.jp/main_sosiki/kenkyu/info-accessibility-portal/02ryutsu06_04000261.html)"
+  },
+  {
+    "title": "Your frontend observability has an accessibility blind spot - InfoWorld",
+    "slug": "your-frontend-observability-has-an-accessibility-blind-spot-infoworld-dc0ad107",
+    "lang": "en",
+    "summary": "The article discusses how frontend observability tools often overlook accessibility issues, creating a blind spot for developers.",
+    "category": "digital-a11y",
+    "tags": [
+      "frontend",
+      "observability",
+      "a11y",
+      "accessibility"
+    ],
+    "sourceName": "InfoWorld",
+    "sourceUrl": "https://www.infoworld.com/article/4220277/your-frontend-observability-has-an-accessibility-blind-spot.html",
+    "relatedSources": [
+      {
+        "name": "InfoWorld",
+        "url": "https://www.infoworld.com/article/4220277/your-frontend-observability-has-an-accessibility-blind-spot.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-dc0ad107",
+    "status": "published",
+    "translationOf": "your-frontend-observability-has-an-accessibility-blind-spot-infoworld-zh-dc0ad107",
+    "publishedAt": "2026-09-09T17:12:01.000Z",
+    "fetchedAt": "2026-09-10T16:21:28.019Z",
+    "body": "The article discusses how frontend observability tools often overlook accessibility issues, creating a blind spot for developers.\n\nRead more from the original source: [InfoWorld](https://www.infoworld.com/article/4220277/your-frontend-observability-has-an-accessibility-blind-spot.html)"
+  },
+  {
+    "title": "A wheelchair user’s guide to Amsterdam – why it’s my favourite accessible city break - The Independent",
+    "slug": "a-wheelchair-users-guide-to-amsterdam-why-its-my-favourite-accessible-city-break-3681cf5b",
+    "lang": "en",
+    "summary": "The article provides a travel guide for wheelchair users visiting Amsterdam, highlighting the city's accessible attractions and explaining why it's the author's favorite accessible city break.",
+    "category": "physical-design",
+    "tags": [
+      "wheelchair",
+      "Amsterdam",
+      "travel",
+      "accessibility",
+      "city-guide"
+    ],
+    "sourceName": "The Independent",
+    "sourceUrl": "https://www.independent.co.uk/travel/europe/netherlands/amsterdam/accessible-wheelchair-friendly-guide-amsterdam-b3039504.html",
+    "relatedSources": [
+      {
+        "name": "The Independent",
+        "url": "https://www.independent.co.uk/travel/europe/netherlands/amsterdam/accessible-wheelchair-friendly-guide-amsterdam-b3039504.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3681cf5b",
+    "status": "published",
+    "translationOf": "a-wheelchair-users-guide-to-amsterdam-why-its-my-favourite-accessible-city-break-zh-3681cf5b",
+    "publishedAt": "2026-09-10T05:29:00.000Z",
+    "fetchedAt": "2026-09-10T16:21:28.057Z",
+    "body": "The article provides a travel guide for wheelchair users visiting Amsterdam, highlighting the city's accessible attractions and explaining why it's the author's favorite accessible city break.\n\nRead more from the original source: [The Independent](https://www.independent.co.uk/travel/europe/netherlands/amsterdam/accessible-wheelchair-friendly-guide-amsterdam-b3039504.html)"
+  },
+  {
+    "title": "For musician Tracy Marie, accessibility means more than getting through the door - Ideastream",
+    "slug": "for-musician-tracy-marie-accessibility-means-more-than-getting-through-the-door--76451ba1",
+    "lang": "en",
+    "summary": "Musician Tracy Marie discusses how true accessibility goes beyond physical entry, encompassing inclusive experiences for people with disabilities in the arts.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "music",
+      "disability",
+      "arts"
+    ],
+    "sourceName": "Ideastream",
+    "sourceUrl": "https://www.ideastream.org/arts-culture/2026-09-10/for-musician-tracy-marie-accessibility-means-more-than-getting-through-the-door",
+    "relatedSources": [
+      {
+        "name": "Ideastream",
+        "url": "https://www.ideastream.org/arts-culture/2026-09-10/for-musician-tracy-marie-accessibility-means-more-than-getting-through-the-door"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-76451ba1",
+    "status": "published",
+    "translationOf": "for-musician-tracy-marie-accessibility-means-more-than-getting-through-the-door--zh-76451ba1",
+    "publishedAt": "2026-09-10T09:26:00.000Z",
+    "fetchedAt": "2026-09-10T16:21:52.442Z",
+    "body": "Musician Tracy Marie discusses how true accessibility goes beyond physical entry, encompassing inclusive experiences for people with disabilities in the arts.\n\nRead more from the original source: [Ideastream](https://www.ideastream.org/arts-culture/2026-09-10/for-musician-tracy-marie-accessibility-means-more-than-getting-through-the-door)"
+  },
+  {
+    "title": "Waymo’s Nevada Rollout Violates Accessibility Law, Disability Activist Claims - Streetsblog USA",
+    "slug": "waymos-nevada-rollout-violates-accessibility-law-disability-activist-claims-stre-81cc46d8",
+    "lang": "en",
+    "summary": "Disability activists allege that Waymo's autonomous vehicle launch in Nevada breaches accessibility laws, failing to accommodate users with disabilities.",
+    "category": "laws-rights",
+    "tags": [
+      "autonomous vehicles",
+      "disability rights",
+      "Nevada",
+      "law"
+    ],
+    "sourceName": "Streetsblog USA",
+    "sourceUrl": "https://usa.streetsblog.org/2026/09/10/waymos-nevada-rollout-violates-accessibility-law-disability-activist-claims",
+    "relatedSources": [
+      {
+        "name": "Streetsblog USA",
+        "url": "https://usa.streetsblog.org/2026/09/10/waymos-nevada-rollout-violates-accessibility-law-disability-activist-claims"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-81cc46d8",
+    "status": "published",
+    "translationOf": "waymos-nevada-rollout-violates-accessibility-law-disability-activist-claims-stre-zh-81cc46d8",
+    "publishedAt": "2026-09-10T04:03:00.000Z",
+    "fetchedAt": "2026-09-10T16:21:52.478Z",
+    "body": "Disability activists allege that Waymo's autonomous vehicle launch in Nevada breaches accessibility laws, failing to accommodate users with disabilities.\n\nRead more from the original source: [Streetsblog USA](https://usa.streetsblog.org/2026/09/10/waymos-nevada-rollout-violates-accessibility-law-disability-activist-claims)"
+  },
+  {
+    "title": "A biometric system can be accurate and still fail an accessibility test - Biometric Update",
+    "slug": "a-biometric-system-can-be-accurate-and-still-fail-an-accessibility-test-biometri-eee7f4ee",
+    "lang": "en",
+    "summary": "Even if a biometric system is highly accurate, it may still fail accessibility assessments if it does not accommodate users with disabilities.",
+    "category": "digital-a11y",
+    "tags": [
+      "biometrics",
+      "accessibility testing",
+      "disability"
+    ],
+    "sourceName": "Biometric Update",
+    "sourceUrl": "https://www.biometricupdate.com/202609/a-biometric-system-can-be-accurate-and-still-fail-an-accessibility-test",
+    "relatedSources": [
+      {
+        "name": "Biometric Update",
+        "url": "https://www.biometricupdate.com/202609/a-biometric-system-can-be-accurate-and-still-fail-an-accessibility-test"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-eee7f4ee",
+    "status": "published",
+    "translationOf": "a-biometric-system-can-be-accurate-and-still-fail-an-accessibility-test-biometri-zh-eee7f4ee",
+    "publishedAt": "2026-09-10T15:30:09.000Z",
+    "fetchedAt": "2026-09-10T16:21:52.512Z",
+    "body": "Even if a biometric system is highly accurate, it may still fail accessibility assessments if it does not accommodate users with disabilities.\n\nRead more from the original source: [Biometric Update](https://www.biometricupdate.com/202609/a-biometric-system-can-be-accurate-and-still-fail-an-accessibility-test)"
+  },
+  {
+    "title": "Rail News - GCRTA awarded $20M for accessibility upgrades. For Railroad Career Professionals - Progressive Railroading",
+    "slug": "rail-news-gcrta-awarded-20m-for-accessibility-upgrades-for-railroad-career-profe-197a3bb8",
+    "lang": "en",
+    "summary": "The Greater Cleveland Regional Transit Authority (GCRTA) received a $20 million grant to fund accessibility upgrades across its rail system, improving access for passengers with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "transit",
+      "ADA",
+      "rail",
+      "accessibility upgrades"
+    ],
+    "sourceName": "Progressive Railroading",
+    "sourceUrl": "https://www.progressiverailroading.com/passenger_rail/news/GCRTA-awarded-20M-for-accessibility-upgrades--77722",
+    "relatedSources": [
+      {
+        "name": "Progressive Railroading",
+        "url": "https://www.progressiverailroading.com/passenger_rail/news/GCRTA-awarded-20M-for-accessibility-upgrades--77722"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-197a3bb8",
+    "status": "published",
+    "translationOf": "rail-news-gcrta-awarded-20m-for-accessibility-upgrades-for-railroad-career-profe-zh-197a3bb8",
+    "publishedAt": "2026-09-10T14:30:37.000Z",
+    "fetchedAt": "2026-09-10T16:22:29.614Z",
+    "body": "The Greater Cleveland Regional Transit Authority (GCRTA) received a $20 million grant to fund accessibility upgrades across its rail system, improving access for passengers with disabilities.\n\nRead more from the original source: [Progressive Railroading](https://www.progressiverailroading.com/passenger_rail/news/GCRTA-awarded-20M-for-accessibility-upgrades--77722)"
+  },
+  {
+    "title": "EnableAll: Interview With CEO Imogen Wethered About Ecommerce Accessibility And Digital Inclusion - Pulse 2.0",
+    "slug": "enableall-interview-with-ceo-imogen-wethered-about-ecommerce-accessibility-and-d-90d2bab8",
+    "lang": "en",
+    "summary": "In an interview with Pulse 2.0, EnableAll CEO Imogen Wethered discusses strategies for making ecommerce platforms accessible and promoting digital inclusion for people with disabilities.",
+    "category": "digital-a11y",
+    "tags": [
+      "ecommerce",
+      "digital inclusion",
+      "accessibility",
+      "EnableAll"
+    ],
+    "sourceName": "Pulse 2.0",
+    "sourceUrl": "https://pulse2.com/enableall-profile-imogen-wethered-interview",
+    "relatedSources": [
+      {
+        "name": "Pulse 2.0",
+        "url": "https://pulse2.com/enableall-profile-imogen-wethered-interview"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-90d2bab8",
+    "status": "published",
+    "translationOf": "enableall-interview-with-ceo-imogen-wethered-about-ecommerce-accessibility-and-d-zh-90d2bab8",
+    "publishedAt": "2026-09-10T13:38:24.000Z",
+    "fetchedAt": "2026-09-10T16:22:29.640Z",
+    "body": "In an interview with Pulse 2.0, EnableAll CEO Imogen Wethered discusses strategies for making ecommerce platforms accessible and promoting digital inclusion for people with disabilities.\n\nRead more from the original source: [Pulse 2.0](https://pulse2.com/enableall-profile-imogen-wethered-interview)"
+  },
+  {
+    "title": "Meadowside Nature Center reopens in Rockville with new exhibits, accessibility improvements - Bethesda Magazine",
+    "slug": "meadowside-nature-center-reopens-in-rockville-with-new-exhibits-accessibility-im-5ea20ebe",
+    "lang": "en",
+    "summary": "Meadowside Nature Center in Rockville has reopened after renovations that include new exhibits and accessibility improvements, ensuring visitors with disabilities can enjoy the facilities.",
+    "category": "physical-design",
+    "tags": [
+      "nature center",
+      "exhibits",
+      "accessibility",
+      "Rockville"
+    ],
+    "sourceName": "Bethesda Magazine",
+    "sourceUrl": "https://bethesdamagazine.com/2026/09/10/meadowside-nature-center-reopens-rockville",
+    "relatedSources": [
+      {
+        "name": "Bethesda Magazine",
+        "url": "https://bethesdamagazine.com/2026/09/10/meadowside-nature-center-reopens-rockville"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5ea20ebe",
+    "status": "published",
+    "translationOf": "meadowside-nature-center-reopens-in-rockville-with-new-exhibits-accessibility-im-zh-5ea20ebe",
+    "publishedAt": "2026-09-10T15:46:55.000Z",
+    "fetchedAt": "2026-09-10T16:22:29.682Z",
+    "body": "Meadowside Nature Center in Rockville has reopened after renovations that include new exhibits and accessibility improvements, ensuring visitors with disabilities can enjoy the facilities.\n\nRead more from the original source: [Bethesda Magazine](https://bethesdamagazine.com/2026/09/10/meadowside-nature-center-reopens-rockville)"
+  },
+  {
+    "title": "Maximum monthly subsidy of NT$15,000 for severely disabled persons and NT$5,000 accommodation allowance for moderate or higher disability",
+    "slug": "maximum-monthly-subsidy-of-nt15000-for-severely-disabled-persons-and-nt5000-acco-d625fac3",
+    "lang": "en",
+    "summary": "The Taiwanese government provides a maximum monthly subsidy of NT$15,000 for persons with severe disabilities and a monthly accommodation allowance of NT$5,000 for those with moderate or higher disability levels.",
+    "category": "laws-rights",
+    "tags": [
+      "disability benefits",
+      "subsidy",
+      "Taiwan"
+    ],
+    "sourceName": "蕃新聞",
+    "sourceUrl": "https://n.yam.com/Article/20260910685340",
+    "relatedSources": [
+      {
+        "name": "蕃新聞",
+        "url": "https://n.yam.com/Article/20260910685340"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-d625fac3",
+    "status": "published",
+    "translationOf": "maximum-monthly-subsidy-of-nt15000-for-severely-disabled-persons-and-nt5000-acco-zh-d625fac3",
+    "publishedAt": "2026-09-10T10:18:00.000Z",
+    "fetchedAt": "2026-09-10T16:22:53.676Z",
+    "body": "The Taiwanese government provides a maximum monthly subsidy of NT$15,000 for persons with severe disabilities and a monthly accommodation allowance of NT$5,000 for those with moderate or higher disability levels.\n\nRead more from the original source: [蕃新聞](https://n.yam.com/Article/20260910685340)"
+  },
+  {
+    "title": "Nepal flood death toll rises, aid demand surges",
+    "slug": "nepal-flood-death-toll-rises-aid-demand-surges-2e5878c8",
+    "lang": "en",
+    "summary": "Humanitarian needs are growing rapidly in Nepal after devastating floods last month affected 84,000 people. The death toll has risen to 1,356 while nearly 4,900 remain missing, according to figures reported on 07 September by the National Disaster Risk Reduction and Management Authority (NDRRMA). Roads, bridges, health facilities, and schools have suffered extensive damage.  As thousands of families struggle with displacement, loss and uncertainty, the International Organization for Migration (IOM) is … Continue reading \"Nepal flood death toll rises, aid demand surges\"\nThe post Nepal flood death toll rises, aid demand surges appeared first on Disability Insider.",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/09/10/disaster/nepal-flood-death-toll-rises-aid-demand-surges",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/09/10/disaster/nepal-flood-death-toll-rises-aid-demand-surges"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-2e5878c8",
+    "status": "published",
+    "translationOf": "nepal-flood-death-toll-rises-aid-demand-surges-zh-2e5878c8",
+    "publishedAt": "2026-09-10T09:07:15.000Z",
+    "fetchedAt": "2026-09-10T16:22:53.710Z",
+    "body": "Humanitarian needs are growing rapidly in Nepal after devastating floods last month affected 84,000 people. The death toll has risen to 1,356 while nearly 4,900 remain missing, according to figures reported on 07 September by the National Disaster Risk Reduction and Management Authority (NDRRMA). Roads, bridges, health facilities, and schools have suffered extensive damage.  As thousands of families struggle with displacement, loss and uncertainty, the International Organization for Migration (IOM) is … Continue reading \"Nepal flood death toll rises, aid demand surges\"\nThe post Nepal flood death toll rises, aid demand surges appeared first on Disability Insider.\n\nRead more from the original source: [Unknown source](https://disabilityinsider.com/2026/09/10/disaster/nepal-flood-death-toll-rises-aid-demand-surges)"
+  },
+  {
+    "title": "France: Call for stronger rights protection for older persons in care homes",
+    "slug": "france-call-for-stronger-rights-protection-for-older-persons-in-care-homes-8bcd876a",
+    "lang": "en",
+    "summary": "The Council of Europe Commissioner for Human Rights urges the French government to strengthen rights protections in long-term care facilities (EHPADs), calling for systemic improvements despite welcoming recent reforms.",
+    "category": "laws-rights",
+    "tags": [
+      "elderly care",
+      "human rights",
+      "France",
+      "disability"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/09/10/misc/france-call-for-stronger-rights-protection-for-older-persons-in-care-homes",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/09/10/misc/france-call-for-stronger-rights-protection-for-older-persons-in-care-homes"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-8bcd876a",
+    "status": "published",
+    "translationOf": "france-call-for-stronger-rights-protection-for-older-persons-in-care-homes-zh-8bcd876a",
+    "publishedAt": "2026-09-10T09:04:58.000Z",
+    "fetchedAt": "2026-09-10T16:22:53.744Z",
+    "body": "The Council of Europe Commissioner for Human Rights urges the French government to strengthen rights protections in long-term care facilities (EHPADs), calling for systemic improvements despite welcoming recent reforms.\n\nRead more from the original source: [Unknown source](https://disabilityinsider.com/2026/09/10/misc/france-call-for-stronger-rights-protection-for-older-persons-in-care-homes)"
+  },
+  {
+    "title": "Final man jailed over NSW fraud syndicate",
+    "slug": "final-man-jailed-over-nsw-fraud-syndicate-238f8308",
+    "lang": "en",
+    "summary": "A Chester Hill man, 37, was sentenced by the Paramatta District Court to four years’ imprisonment for his role in a multimillion-dollar fraud against the National Disability Insurance Scheme (NDIS) and Australian Taxation Office (ATO). The man was also ordered to repay the Commonwealth $30,675 and will be eligible for parole after serving two years … Continue reading \"Final man jailed over NSW fraud syndicate\"\nThe post Final man jailed over NSW fraud syndicate appeared first on Disability Insider.",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/09/10/law/final-man-jailed-over-nsw-fraud-syndicate",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/09/10/law/final-man-jailed-over-nsw-fraud-syndicate"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-238f8308",
+    "status": "published",
+    "translationOf": "final-man-jailed-over-nsw-fraud-syndicate-zh-238f8308",
+    "publishedAt": "2026-09-10T08:55:12.000Z",
+    "fetchedAt": "2026-09-10T16:23:29.454Z",
+    "body": "A Chester Hill man, 37, was sentenced by the Paramatta District Court to four years’ imprisonment for his role in a multimillion-dollar fraud against the National Disability Insurance Scheme (NDIS) and Australian Taxation Office (ATO). The man was also ordered to repay the Commonwealth $30,675 and will be eligible for parole after serving two years … Continue reading \"Final man jailed over NSW fraud syndicate\"\nThe post Final man jailed over NSW fraud syndicate appeared first on Disability Insider.\n\nRead more from the original source: [Unknown source](https://disabilityinsider.com/2026/09/10/law/final-man-jailed-over-nsw-fraud-syndicate)"
+  },
+  {
+    "title": "Minns govt grants $350,000 boost for rehab in Lake Macquarie",
+    "slug": "minns-govt-grants-350000-boost-for-rehab-in-lake-macquarie-db2cace4",
+    "lang": "en",
+    "summary": "The Minns Government allocated $350,000 to expand Rehab In The Home services in southern Lake Macquarie, enabling more patients to receive rehabilitation at home and reducing travel needs.",
+    "category": "laws-rights",
+    "tags": [
+      "rehabilitation",
+      "home care",
+      "government funding",
+      "Lake Macquarie"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/09/10/health/minns-government-grants-350000-boost-for-rehab-in-lake-macquarie",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/09/10/health/minns-government-grants-350000-boost-for-rehab-in-lake-macquarie"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-db2cace4",
+    "status": "published",
+    "translationOf": "minns-govt-grants-350000-boost-for-rehab-in-lake-macquarie-zh-db2cace4",
+    "publishedAt": "2026-09-10T07:53:17.000Z",
+    "fetchedAt": "2026-09-10T16:23:29.481Z",
+    "body": "The Minns Government allocated $350,000 to expand Rehab In The Home services in southern Lake Macquarie, enabling more patients to receive rehabilitation at home and reducing travel needs.\n\nRead more from the original source: [Unknown source](https://disabilityinsider.com/2026/09/10/health/minns-government-grants-350000-boost-for-rehab-in-lake-macquarie)"
+  },
+  {
+    "title": "Football saved Dad's life: meet the coach of the England women's Parkinson's team",
+    "slug": "football-saved-dads-life-meet-the-coach-of-the-england-womens-parkinsons-team-a9d3b217",
+    "lang": "en",
+    "summary": "Gemma Darvill started walking football with her father after his Parkinson’s diagnosis, crediting the sport with saving his life; she now coaches England’s first women’s Parkinson’s team, touring Canada to raise awareness of how walking football can slow symptom progression.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "Parkinson's",
+      "walking football",
+      "sports",
+      "disability inclusion",
+      "England women's team"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/football/2026/sep/10/football-saved-dads-life-meet-the-coach-of-the-england-womens-parkinsons-team",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/football/2026/sep/10/football-saved-dads-life-meet-the-coach-of-the-england-womens-parkinsons-team"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-a9d3b217",
+    "status": "published",
+    "translationOf": "football-saved-dads-life-meet-the-coach-of-the-england-womens-parkinsons-team-zh-a9d3b217",
+    "publishedAt": "2026-09-10T10:53:38.000Z",
+    "fetchedAt": "2026-09-10T16:23:29.512Z",
+    "body": "Gemma Darvill started walking football with her father after his Parkinson’s diagnosis, crediting the sport with saving his life; she now coaches England’s first women’s Parkinson’s team, touring Canada to raise awareness of how walking football can slow symptom progression.\n\nRead more from the original source: [Unknown source](https://www.theguardian.com/football/2026/sep/10/football-saved-dads-life-meet-the-coach-of-the-england-womens-parkinsons-team)"
+  },
+  {
+    "title": "UK disabled people could swap Pip cash for ‘in kind’ support in benefit overhaul",
+    "slug": "uk-disabled-people-could-swap-pip-cash-for-in-kind-support-in-benefit-overhaul-fadb9c05",
+    "lang": "en",
+    "summary": "Under a proposed overhaul of the Personal Independence Payment (PIP), disabled claimants may exchange part of their cash benefit for specialist equipment, services or training, according to an expert committee largely composed of disabled people.",
+    "category": "laws-rights",
+    "tags": [
+      "PIP",
+      "benefit reform",
+      "disability support",
+      "UK"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/politics/2026/sep/10/disabled-people-personal-independence-payments-pip-support",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/politics/2026/sep/10/disabled-people-personal-independence-payments-pip-support"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-fadb9c05",
+    "status": "published",
+    "translationOf": "uk-disabled-people-could-swap-pip-cash-for-in-kind-support-in-benefit-overhaul-zh-fadb9c05",
+    "publishedAt": "2026-09-10T05:00:17.000Z",
+    "fetchedAt": "2026-09-10T16:24:05.108Z",
+    "body": "Under a proposed overhaul of the Personal Independence Payment (PIP), disabled claimants may exchange part of their cash benefit for specialist equipment, services or training, according to an expert committee largely composed of disabled people.\n\nRead more from the original source: [Unknown source](https://www.theguardian.com/politics/2026/sep/10/disabled-people-personal-independence-payments-pip-support)"
+  },
+  {
+    "title": "Affordable but inaccessible: Commission’s Affordable Housing Act ignores disability",
+    "slug": "affordable-but-inaccessible-commissions-affordable-housing-act-ignores-disabilit-0e9fa1d1",
+    "lang": "en",
+    "summary": "The European Commission's Affordable Housing Act, proposed on 9 September, fails to address the housing needs of millions of persons with disabilities, omitting any reference to accessibility or the UN Convention on the Rights of Persons with Disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "housing",
+      "accessibility",
+      "EU",
+      "disability rights",
+      "UNCRPD"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.edf-feph.org/affordable-but-inaccessible-commissions-affordable-housing-act-ignores-disability",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.edf-feph.org/affordable-but-inaccessible-commissions-affordable-housing-act-ignores-disability"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.edf-feph.org/feed",
+    "ingestProvider": "edf-feph.org",
+    "clusterId": "cluster-0e9fa1d1",
+    "status": "published",
+    "translationOf": "affordable-but-inaccessible-commissions-affordable-housing-act-ignores-disabilit-zh-0e9fa1d1",
+    "publishedAt": "2026-09-10T06:45:17.000Z",
+    "fetchedAt": "2026-09-10T16:24:05.145Z",
+    "body": "The European Commission's Affordable Housing Act, proposed on 9 September, fails to address the housing needs of millions of persons with disabilities, omitting any reference to accessibility or the UN Convention on the Rights of Persons with Disabilities.\n\nRead more from the original source: [Unknown source](https://www.edf-feph.org/affordable-but-inaccessible-commissions-affordable-housing-act-ignores-disability)"
+  },
+  {
+    "title": "Bomb Sense: Accessibility in shoot‑em‑up games",
+    "slug": "bomb-sense-accessibility-in-shootemup-games-6060d91c",
+    "lang": "en",
+    "summary": "The article discusses how the game mechanic 'Bomb Sense' in shoot‑em‑up titles can be designed for better accessibility, highlighting options for players with disabilities.",
+    "category": "digital-a11y",
+    "tags": [
+      "video games",
+      "accessibility",
+      "shoot-em-up",
+      "Bomb Sense",
+      "digital accessibility"
+    ],
+    "sourceName": "Danboland.net",
+    "sourceUrl": "https://danboland.net/2021/07/15/bomb-sense.html",
+    "relatedSources": [
+      {
+        "name": "Danboland.net",
+        "url": "https://danboland.net/2021/07/15/bomb-sense.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-6060d91c",
+    "status": "published",
+    "translationOf": "bomb-sense-accessibility-in-shootemup-games-zh-6060d91c",
+    "publishedAt": "2026-09-09T15:40:19.000Z",
+    "fetchedAt": "2026-09-10T16:24:05.180Z",
+    "body": "The article discusses how the game mechanic 'Bomb Sense' in shoot‑em‑up titles can be designed for better accessibility, highlighting options for players with disabilities.\n\nRead more from the original source: [Danboland.net](https://danboland.net/2021/07/15/bomb-sense.html)"
+  },
+  {
+    "title": "Hsinchu City Promotes Accessible and Gender-Friendly Bus Services",
+    "slug": "hsinchu-city-promotes-accessible-and-gender-friendly-bus-services-37923d45",
+    "lang": "en",
+    "summary": "Hsinchu City held a training event for bus drivers on wheelchair assistance and in‑bus sexual harassment reporting standards, involving local bus operators and disability advocacy groups to improve safety and inclusivity on public transport.",
+    "category": "physical-design",
+    "tags": [
+      "public transportation",
+      "wheelchair accessibility",
+      "gender equality",
+      "disability inclusion"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E7%AB%B9%E5%B8%82%E6%8E%A8%E5%85%AC%E8%BB%8A%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9A%A8%E6%80%A7%E5%B9%B3%E5%8F%8B%E5%96%84%E6%9C%8D%E5%8B%99-125754740.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E7%AB%B9%E5%B8%82%E6%8E%A8%E5%85%AC%E8%BB%8A%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9A%A8%E6%80%A7%E5%B9%B3%E5%8F%8B%E5%96%84%E6%9C%8D%E5%8B%99-125754740.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-37923d45",
+    "status": "published",
+    "translationOf": "hsinchu-city-promotes-accessible-and-gender-friendly-bus-services-zh-37923d45",
+    "publishedAt": "2026-09-09T12:57:54.000Z",
+    "fetchedAt": "2026-09-10T16:24:43.672Z",
+    "body": "Hsinchu City held a training event for bus drivers on wheelchair assistance and in‑bus sexual harassment reporting standards, involving local bus operators and disability advocacy groups to improve safety and inclusivity on public transport.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E7%AB%B9%E5%B8%82%E6%8E%A8%E5%85%AC%E8%BB%8A%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9A%A8%E6%80%A7%E5%B9%B3%E5%8F%8B%E5%96%84%E6%9C%8D%E5%8B%99-125754740.html)"
+  },
+  {
+    "title": "Home Accessibility Improvement Subsidy Application Extended to Oct 31",
+    "slug": "home-accessibility-improvement-subsidy-application-extended-to-oct-31-d7ec8a1c",
+    "lang": "en",
+    "summary": "Taichung City Housing Development Engineering Office continues the 'Existing Home Accessibility Facilities Improvement Subsidy', encouraging community improvements to pathways, ramps, handrails, and lifting equipment. Application deadline extended to October 31, with up to 45% subsidy of construction costs per case, up to NT$2.16 million depending on items, enhancing residential accessibility, convenience, and safety for people with disabilities, seniors, pregnant women, and families with strollers. Eligible buildings are those with a use permit before the Housing Act (Dec 30, 2012) or legally built before building management, approved for collective residential or residential-commercial use with at least half residential usage.",
+    "category": "physical-design",
+    "tags": [
+      "home accessibility",
+      "subsidy",
+      "Taichung",
+      "disability",
+      "elderly"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E8%A3%9C%E5%8A%A9%E6%94%B9%E5%96%84%E5%B1%85%E5%AE%B6%E7%84%A1%E9%9A%9C%E7%A4%99%E7%94%B3%E8%AB%8B-%E5%BB%B6%E9%95%B7%E8%87%B310-31-121335324.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E8%A3%9C%E5%8A%A9%E6%94%B9%E5%96%84%E5%B1%85%E5%AE%B6%E7%84%A1%E9%9A%9C%E7%A4%99%E7%94%B3%E8%AB%8B-%E5%BB%B6%E9%95%B7%E8%87%B310-31-121335324.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-d7ec8a1c",
+    "status": "published",
+    "translationOf": "home-accessibility-improvement-subsidy-application-extended-to-oct-31-zh-d7ec8a1c",
+    "publishedAt": "2026-09-09T12:13:35.000Z",
+    "fetchedAt": "2026-09-10T16:25:38.810Z",
+    "body": "Taichung City Housing Development Engineering Office continues the 'Existing Home Accessibility Facilities Improvement Subsidy', encouraging community improvements to pathways, ramps, handrails, and lifting equipment. Application deadline extended to October 31, with up to 45% subsidy of construction costs per case, up to NT$2.16 million depending on items, enhancing residential accessibility, convenience, and safety for people with disabilities, seniors, pregnant women, and families with strollers. Eligible buildings are those with a use permit before the Housing Act (Dec 30, 2012) or legally built before building management, approved for collective residential or residential-commercial use with at least half residential usage.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E8%A3%9C%E5%8A%A9%E6%94%B9%E5%96%84%E5%B1%85%E5%AE%B6%E7%84%A1%E9%9A%9C%E7%A4%99%E7%94%B3%E8%AB%8B-%E5%BB%B6%E9%95%B7%E8%87%B310-31-121335324.html)"
+  },
+  {
+    "title": "Maximum Home Accessibility Subsidy of NT$2.16 Million; Taichung City Extends 2026 Application Deadline to End of October",
+    "slug": "maximum-home-accessibility-subsidy-of-nt216-million-taichung-city-extends-2026-a-6fda8327",
+    "lang": "en",
+    "summary": "Taichung City offers up to NT$2.16 million in subsidies for home accessibility improvements, covering up to 45% of construction costs per case. The application period for the 2026 fiscal year has been extended to the end of October. Eligible improvements include outdoor pathways, ramps, handrails, and lifting equipment in shared areas of collective housing, aiming to enhance accessibility and safety for people with disabilities, seniors, pregnant women, and families with strollers.",
+    "category": "physical-design",
+    "tags": [
+      "home accessibility",
+      "subsidy",
+      "Taichung",
+      "disability",
+      "elderly"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e0e32454-4413-4340-b6ba-39288b7af0b3",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e0e32454-4413-4340-b6ba-39288b7af0b3"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-6fda8327",
+    "status": "published",
+    "translationOf": "maximum-home-accessibility-subsidy-of-nt216-million-taichung-city-extends-2026-a-zh-6fda8327",
+    "publishedAt": "2026-09-09T11:16:13.000Z",
+    "fetchedAt": "2026-09-10T16:25:38.851Z",
+    "body": "Taichung City offers up to NT$2.16 million in subsidies for home accessibility improvements, covering up to 45% of construction costs per case. The application period for the 2026 fiscal year has been extended to the end of October. Eligible improvements include outdoor pathways, ramps, handrails, and lifting equipment in shared areas of collective housing, aiming to enhance accessibility and safety for people with disabilities, seniors, pregnant women, and families with strollers.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e0e32454-4413-4340-b6ba-39288b7af0b3)"
+  },
+  {
+    "title": "Hsinchu City Bus Drivers Experience Wheelchair Seating to Practice Accessibility and Sexual Harassment Response",
+    "slug": "hsinchu-city-bus-drivers-experience-wheelchair-seating-to-practice-accessibility-6b80bc33",
+    "lang": "en",
+    "summary": "Hsinchu City Government held a public bus accessibility and gender equality service experience, arranging bus drivers to sit in wheelchairs to practice assisting passengers boarding and alighting, and conducting sexual harassment reporting drills. The city will continue to replace buses, increase the proportion of accessible vehicles, and improve the traffic environment.",
+    "category": "physical-design",
+    "tags": [
+      "bus accessibility",
+      "wheelchair",
+      "driver training",
+      "Hsinchu",
+      "sexual harassment"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_71999097-4da5-4316-becc-3a198fe34167",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_71999097-4da5-4316-becc-3a198fe34167"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-6b80bc33",
+    "status": "published",
+    "translationOf": "hsinchu-city-bus-drivers-experience-wheelchair-seating-to-practice-accessibility-zh-6b80bc33",
+    "publishedAt": "2026-09-09T10:07:47.000Z",
+    "fetchedAt": "2026-09-10T16:25:38.885Z",
+    "body": "Hsinchu City Government held a public bus accessibility and gender equality service experience, arranging bus drivers to sit in wheelchairs to practice assisting passengers boarding and alighting, and conducting sexual harassment reporting drills. The city will continue to replace buses, increase the proportion of accessible vehicles, and improve the traffic environment.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_71999097-4da5-4316-becc-3a198fe34167)"
+  },
+  {
+    "title": "Taichung Home Accessibility Improvement Subsidy Up to NT$2.16 Million, Applications Open Until Oct 31",
+    "slug": "taichung-home-accessibility-improvement-subsidy-up-to-nt216-million-applications-ea555929",
+    "lang": "en",
+    "summary": "Taichung City Housing Development Engineering Office continues to offer subsidies for improving existing residential accessibility facilities, encouraging communities to upgrade pathways, ramps, handrails, and lifting equipment. The application deadline has been extended to October 31, with each case eligible for up to 45% of project costs, capped at NT$2.16 million, to enhance accessibility, convenience, and safety for persons with disabilities, elderly, pregnant women, and families with strollers. Eligible buildings are those constructed before December 30, 2002 under the Housing Act, or legally built prior to building management implementation, with residential use ratio of at least 50%. Subsidy items include outdoor pathways of shared areas in apartment complexes.",
+    "category": "physical-design",
+    "tags": [
+      "home accessibility",
+      "subsidy",
+      "Taichung",
+      "residential",
+      "disability"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cffcd2d9-110d-473c-be56-bca581cd66ec",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cffcd2d9-110d-473c-be56-bca581cd66ec"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-ea555929",
+    "status": "published",
+    "translationOf": "taichung-home-accessibility-improvement-subsidy-up-to-nt216-million-applications-zh-ea555929",
+    "publishedAt": "2026-09-09T09:37:43.000Z",
+    "fetchedAt": "2026-09-10T16:26:39.663Z",
+    "body": "Taichung City Housing Development Engineering Office continues to offer subsidies for improving existing residential accessibility facilities, encouraging communities to upgrade pathways, ramps, handrails, and lifting equipment. The application deadline has been extended to October 31, with each case eligible for up to 45% of project costs, capped at NT$2.16 million, to enhance accessibility, convenience, and safety for persons with disabilities, elderly, pregnant women, and families with strollers. Eligible buildings are those constructed before December 30, 2002 under the Housing Act, or legally built prior to building management implementation, with residential use ratio of at least 50%. Subsidy items include outdoor pathways of shared areas in apartment complexes.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cffcd2d9-110d-473c-be56-bca581cd66ec)"
+  },
+  {
+    "title": "Hsinchu City Launches Accessible and Gender-Friendly Public Bus Services to Enhance Safety and Inclusivity",
+    "slug": "hsinchu-city-launches-accessible-and-gender-friendly-public-bus-services-to-enha-41a46aa3",
+    "lang": "en",
+    "summary": "The Hsinchu City Government held an event at the Hsinchu Bus Company's Niuwu repair workshop to promote wheelchair boarding assistance and anti‑sexual harassment protocols for bus drivers, in collaboration with five local bus operators and disability advocacy groups. Through hands‑on experience and discussion, drivers' ability to meet the boarding needs of persons with disabilities and respond to in‑bus sexual harassment incidents is improved. Mayor Hong‑an Gao explained the initiative focuses on role‑reversal experience to foster a safer, more inclusive public transport environment.",
+    "category": "physical-design",
+    "tags": [
+      "public transport",
+      "wheelchair access",
+      "gender equality",
+      "Hsinchu",
+      "disability"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E7%87%9F%E9%80%A0%E6%9B%B4%E5%AE%89%E5%85%A8-%E5%8F%8B%E5%96%84%E5%85%AC%E5%85%B1%E9%81%8B%E8%BC%B8%E7%92%B0%E5%A2%83-%E7%AB%B9%E5%B8%82%E6%8E%A8%E5%85%AC%E8%BB%8A%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9A%A8%E6%80%A7%E5%B9%B3%E5%8F%8B%E5%96%84%E6%9C%8D%E5%8B%99-090133037.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E7%87%9F%E9%80%A0%E6%9B%B4%E5%AE%89%E5%85%A8-%E5%8F%8B%E5%96%84%E5%85%AC%E5%85%B1%E9%81%8B%E8%BC%B8%E7%92%B0%E5%A2%83-%E7%AB%B9%E5%B8%82%E6%8E%A8%E5%85%AC%E8%BB%8A%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9A%A8%E6%80%A7%E5%B9%B3%E5%8F%8B%E5%96%84%E6%9C%8D%E5%8B%99-090133037.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-41a46aa3",
+    "status": "published",
+    "translationOf": "hsinchu-city-launches-accessible-and-gender-friendly-public-bus-services-to-enha-zh-41a46aa3",
+    "publishedAt": "2026-09-09T09:01:33.000Z",
+    "fetchedAt": "2026-09-10T16:26:39.689Z",
+    "body": "The Hsinchu City Government held an event at the Hsinchu Bus Company's Niuwu repair workshop to promote wheelchair boarding assistance and anti‑sexual harassment protocols for bus drivers, in collaboration with five local bus operators and disability advocacy groups. Through hands‑on experience and discussion, drivers' ability to meet the boarding needs of persons with disabilities and respond to in‑bus sexual harassment incidents is improved. Mayor Hong‑an Gao explained the initiative focuses on role‑reversal experience to foster a safer, more inclusive public transport environment.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E7%87%9F%E9%80%A0%E6%9B%B4%E5%AE%89%E5%85%A8-%E5%8F%8B%E5%96%84%E5%85%AC%E5%85%B1%E9%81%8B%E8%BC%B8%E7%92%B0%E5%A2%83-%E7%AB%B9%E5%B8%82%E6%8E%A8%E5%85%AC%E8%BB%8A%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9A%A8%E6%80%A7%E5%B9%B3%E5%8F%8B%E5%96%84%E6%9C%8D%E5%8B%99-090133037.html)"
+  },
+  {
+    "title": "Taichung Extends Deadline for FY2026 Home Accessibility Improvement Subsidy to Oct 31",
+    "slug": "taichung-extends-deadline-for-fy2026-home-accessibility-improvement-subsidy-to-o-5296ee9c",
+    "lang": "en",
+    "summary": "Taichung City Housing Development Engineering Office continues the subsidy program for improving existing residential accessibility facilities, encouraging upgrades to pathways, ramps, handrails, and lifting equipment. The application period has been extended to October 31, with up to 45% subsidy of project costs, capped at NT$2.16 million, to improve accessibility, convenience, and safety for persons with disabilities, elderly, pregnant women, and families with strollers. Eligible buildings are those constructed before December 30, 2002 under the Housing Act, or legally built prior to building management implementation, with residential use ratio of at least 50%. Subsidy covers outdoor pathways of shared areas in apartment buildings, among other items.",
+    "category": "physical-design",
+    "tags": [
+      "home accessibility",
+      "subsidy",
+      "Taichung",
+      "residential",
+      "disability"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82115%E5%B9%B4%E5%BA%A6%E8%A3%9C%E5%8A%A9%E6%94%B9%E5%96%84%E5%B1%85%E5%AE%B6%E7%84%A1%E9%9A%9C%E7%A4%99%E7%94%B3%E8%AB%8B%E5%BB%B6%E8%87%B310-31-062934249.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82115%E5%B9%B4%E5%BA%A6%E8%A3%9C%E5%8A%A9%E6%94%B9%E5%96%84%E5%B1%85%E5%AE%B6%E7%84%A1%E9%9A%9C%E7%A4%99%E7%94%B3%E8%AB%8B%E5%BB%B6%E8%87%B310-31-062934249.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-5296ee9c",
+    "status": "published",
+    "translationOf": "taichung-extends-deadline-for-fy2026-home-accessibility-improvement-subsidy-to-o-zh-5296ee9c",
+    "publishedAt": "2026-09-09T06:29:34.000Z",
+    "fetchedAt": "2026-09-10T16:26:39.722Z",
+    "body": "Taichung City Housing Development Engineering Office continues the subsidy program for improving existing residential accessibility facilities, encouraging upgrades to pathways, ramps, handrails, and lifting equipment. The application period has been extended to October 31, with up to 45% subsidy of project costs, capped at NT$2.16 million, to improve accessibility, convenience, and safety for persons with disabilities, elderly, pregnant women, and families with strollers. Eligible buildings are those constructed before December 30, 2002 under the Housing Act, or legally built prior to building management implementation, with residential use ratio of at least 50%. Subsidy covers outdoor pathways of shared areas in apartment buildings, among other items.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82115%E5%B9%B4%E5%BA%A6%E8%A3%9C%E5%8A%A9%E6%94%B9%E5%96%84%E5%B1%85%E5%AE%B6%E7%84%A1%E9%9A%9C%E7%A4%99%E7%94%B3%E8%AB%8B%E5%BB%B6%E8%87%B310-31-062934249.html)"
   }
 ]

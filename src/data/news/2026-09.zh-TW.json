@@ -21390,5 +21390,794 @@
     "publishedAt": "2026-09-10T04:55:50.000Z",
     "fetchedAt": "2026-09-10T05:17:16.307Z",
     "body": "經修訂的日本公共網站指南將包含HTML規定及著重於可讀性與可訪問性的設計。\n推文來源： [yocco*🍎 (@yocco405)](https://x.com/yocco405/status/2097911905629450369)\n外部連結： [https://www.soumu.go.jp/main_sosiki/kenkyu/info-accessibility-portal/02ryutsu06_04000261.html](https://www.soumu.go.jp/main_sosiki/kenkyu/info-accessibility-portal/02ryutsu06_04000261.html)"
+  },
+  {
+    "title": "您的前端可觀測性存在無障礙死角 - InfoWorld",
+    "slug": "your-frontend-observability-has-an-accessibility-blind-spot-infoworld-zh-dc0ad107",
+    "lang": "zh-TW",
+    "summary": "文章討論前端可觀測性工具常忽略無障礙問題，導致開發者出現監點。",
+    "category": "digital-a11y",
+    "tags": [
+      "frontend",
+      "observability",
+      "a11y",
+      "accessibility"
+    ],
+    "sourceName": "InfoWorld",
+    "sourceUrl": "https://www.infoworld.com/article/4220277/your-frontend-observability-has-an-accessibility-blind-spot.html",
+    "relatedSources": [
+      {
+        "name": "InfoWorld",
+        "url": "https://www.infoworld.com/article/4220277/your-frontend-observability-has-an-accessibility-blind-spot.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-dc0ad107",
+    "status": "published",
+    "translationOf": "your-frontend-observability-has-an-accessibility-blind-spot-infoworld-dc0ad107",
+    "publishedAt": "2026-09-09T17:12:01.000Z",
+    "fetchedAt": "2026-09-10T16:21:28.019Z",
+    "body": "文章討論前端可觀測性工具常忽略無障礙問題，導致開發者出現監點。\n\n原文來源： [InfoWorld](https://www.infoworld.com/article/4220277/your-frontend-observability-has-an-accessibility-blind-spot.html)"
+  },
+  {
+    "title": "輪椅使用者的阿姆斯特丹旅遊指南 – 為何這是我最愛的無障礙城市假期 - The Independent",
+    "slug": "a-wheelchair-users-guide-to-amsterdam-why-its-my-favourite-accessible-city-break-zh-3681cf5b",
+    "lang": "zh-TW",
+    "summary": "文章提供輪椅使用者訪問阿姆斯特丹的旅遊指南，指出城市的無障礙景點，並解釋為何這是作者最愛的無障礙城市假期。",
+    "category": "physical-design",
+    "tags": [
+      "wheelchair",
+      "Amsterdam",
+      "travel",
+      "accessibility",
+      "city-guide"
+    ],
+    "sourceName": "The Independent",
+    "sourceUrl": "https://www.independent.co.uk/travel/europe/netherlands/amsterdam/accessible-wheelchair-friendly-guide-amsterdam-b3039504.html",
+    "relatedSources": [
+      {
+        "name": "The Independent",
+        "url": "https://www.independent.co.uk/travel/europe/netherlands/amsterdam/accessible-wheelchair-friendly-guide-amsterdam-b3039504.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3681cf5b",
+    "status": "published",
+    "translationOf": "a-wheelchair-users-guide-to-amsterdam-why-its-my-favourite-accessible-city-break-3681cf5b",
+    "publishedAt": "2026-09-10T05:29:00.000Z",
+    "fetchedAt": "2026-09-10T16:21:28.057Z",
+    "body": "文章提供輪椅使用者訪問阿姆斯特丹的旅遊指南，指出城市的無障礙景點，並解釋為何這是作者最愛的無障礙城市假期。\n\n原文來源： [The Independent](https://www.independent.co.uk/travel/europe/netherlands/amsterdam/accessible-wheelchair-friendly-guide-amsterdam-b3039504.html)"
+  },
+  {
+    "title": "對於音樂家 Tracy Marie，無障礙不只是進入大門 - Ideastream",
+    "slug": "for-musician-tracy-marie-accessibility-means-more-than-getting-through-the-door--zh-76451ba1",
+    "lang": "zh-TW",
+    "summary": "音樂家 Tracy Marie 說明真正的無障礙不僅是能夠進入場所，更涵蓋為殘障人士提供的藝術體驗與包容。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "music",
+      "disability",
+      "arts"
+    ],
+    "sourceName": "Ideastream",
+    "sourceUrl": "https://www.ideastream.org/arts-culture/2026-09-10/for-musician-tracy-marie-accessibility-means-more-than-getting-through-the-door",
+    "relatedSources": [
+      {
+        "name": "Ideastream",
+        "url": "https://www.ideastream.org/arts-culture/2026-09-10/for-musician-tracy-marie-accessibility-means-more-than-getting-through-the-door"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-76451ba1",
+    "status": "published",
+    "translationOf": "for-musician-tracy-marie-accessibility-means-more-than-getting-through-the-door--76451ba1",
+    "publishedAt": "2026-09-10T09:26:00.000Z",
+    "fetchedAt": "2026-09-10T16:21:52.442Z",
+    "body": "音樂家 Tracy Marie 說明真正的無障礙不僅是能夠進入場所，更涵蓋為殘障人士提供的藝術體驗與包容。\n\n原文來源： [Ideastream](https://www.ideastream.org/arts-culture/2026-09-10/for-musician-tracy-marie-accessibility-means-more-than-getting-through-the-door)"
+  },
+  {
+    "title": "Waymo 在內華達州的推廣違反無障礙法，殘障人士活動者指控 - Streetsblog USA",
+    "slug": "waymos-nevada-rollout-violates-accessibility-law-disability-activist-claims-stre-zh-81cc46d8",
+    "lang": "zh-TW",
+    "summary": "殘障人士活動者指稱 Waymo 在內華達州的自動駕駛車輛推出違反無障礙法律，未能適當照顧殘障使用者的需求。",
+    "category": "laws-rights",
+    "tags": [
+      "autonomous vehicles",
+      "disability rights",
+      "Nevada",
+      "law"
+    ],
+    "sourceName": "Streetsblog USA",
+    "sourceUrl": "https://usa.streetsblog.org/2026/09/10/waymos-nevada-rollout-violates-accessibility-law-disability-activist-claims",
+    "relatedSources": [
+      {
+        "name": "Streetsblog USA",
+        "url": "https://usa.streetsblog.org/2026/09/10/waymos-nevada-rollout-violates-accessibility-law-disability-activist-claims"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-81cc46d8",
+    "status": "published",
+    "translationOf": "waymos-nevada-rollout-violates-accessibility-law-disability-activist-claims-stre-81cc46d8",
+    "publishedAt": "2026-09-10T04:03:00.000Z",
+    "fetchedAt": "2026-09-10T16:21:52.478Z",
+    "body": "殘障人士活動者指稱 Waymo 在內華達州的自動駕駛車輛推出違反無障礙法律，未能適當照顧殘障使用者的需求。\n\n原文來源： [Streetsblog USA](https://usa.streetsblog.org/2026/09/10/waymos-nevada-rollout-violates-accessibility-law-disability-activist-claims)"
+  },
+  {
+    "title": "生物識別系統可能準確但仍無法通過無障礙測試 - Biometric Update",
+    "slug": "a-biometric-system-can-be-accurate-and-still-fail-an-accessibility-test-biometri-zh-eee7f4ee",
+    "lang": "zh-TW",
+    "summary": "即使生物識別系統準確度高，若未考慮殘障使用者的需求，仍可能無法通過無障礙測試。",
+    "category": "digital-a11y",
+    "tags": [
+      "biometrics",
+      "accessibility testing",
+      "disability"
+    ],
+    "sourceName": "Biometric Update",
+    "sourceUrl": "https://www.biometricupdate.com/202609/a-biometric-system-can-be-accurate-and-still-fail-an-accessibility-test",
+    "relatedSources": [
+      {
+        "name": "Biometric Update",
+        "url": "https://www.biometricupdate.com/202609/a-biometric-system-can-be-accurate-and-still-fail-an-accessibility-test"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-eee7f4ee",
+    "status": "published",
+    "translationOf": "a-biometric-system-can-be-accurate-and-still-fail-an-accessibility-test-biometri-eee7f4ee",
+    "publishedAt": "2026-09-10T15:30:09.000Z",
+    "fetchedAt": "2026-09-10T16:21:52.512Z",
+    "body": "即使生物識別系統準確度高，若未考慮殘障使用者的需求，仍可能無法通過無障礙測試。\n\n原文來源： [Biometric Update](https://www.biometricupdate.com/202609/a-biometric-system-can-be-accurate-and-still-fail-an-accessibility-test)"
+  },
+  {
+    "title": "鐵路新聞 - GCRTA 獲頒 2000 萬美元用於無障礙升級。鐵路職業專業人士 - Progressive Railroading",
+    "slug": "rail-news-gcrta-awarded-20m-for-accessibility-upgrades-for-railroad-career-profe-zh-197a3bb8",
+    "lang": "zh-TW",
+    "summary": "大克利夫蘭區域交通管理局（GCRTA）獲得 2000 萬美元補助金，用於鐵路系統的無障礙設施升級，以提升殘障乘客的出行便利。",
+    "category": "physical-design",
+    "tags": [
+      "transit",
+      "ADA",
+      "rail",
+      "accessibility upgrades"
+    ],
+    "sourceName": "Progressive Railroading",
+    "sourceUrl": "https://www.progressiverailroading.com/passenger_rail/news/GCRTA-awarded-20M-for-accessibility-upgrades--77722",
+    "relatedSources": [
+      {
+        "name": "Progressive Railroading",
+        "url": "https://www.progressiverailroading.com/passenger_rail/news/GCRTA-awarded-20M-for-accessibility-upgrades--77722"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-197a3bb8",
+    "status": "published",
+    "translationOf": "rail-news-gcrta-awarded-20m-for-accessibility-upgrades-for-railroad-career-profe-197a3bb8",
+    "publishedAt": "2026-09-10T14:30:37.000Z",
+    "fetchedAt": "2026-09-10T16:22:29.614Z",
+    "body": "大克利夫蘭區域交通管理局（GCRTA）獲得 2000 萬美元補助金，用於鐵路系統的無障礙設施升級，以提升殘障乘客的出行便利。\n\n原文來源： [Progressive Railroading](https://www.progressiverailroading.com/passenger_rail/news/GCRTA-awarded-20M-for-accessibility-upgrades--77722)"
+  },
+  {
+    "title": "EnableAll：針對電子商務無障礙與數位共融的 CEO Imogen Wethered 專訪 - Pulse 2.0",
+    "slug": "enableall-interview-with-ceo-imogen-wethered-about-ecommerce-accessibility-and-d-zh-90d2bab8",
+    "lang": "zh-TW",
+    "summary": "在 Pulse 2.0 的訪談中，EnableAll 首席執行官 Imogen Wethered 探討讓電子商務平台更具無障礙性、促進殘障人士數位共融的策略。",
+    "category": "digital-a11y",
+    "tags": [
+      "ecommerce",
+      "digital inclusion",
+      "accessibility",
+      "EnableAll"
+    ],
+    "sourceName": "Pulse 2.0",
+    "sourceUrl": "https://pulse2.com/enableall-profile-imogen-wethered-interview",
+    "relatedSources": [
+      {
+        "name": "Pulse 2.0",
+        "url": "https://pulse2.com/enableall-profile-imogen-wethered-interview"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-90d2bab8",
+    "status": "published",
+    "translationOf": "enableall-interview-with-ceo-imogen-wethered-about-ecommerce-accessibility-and-d-90d2bab8",
+    "publishedAt": "2026-09-10T13:38:24.000Z",
+    "fetchedAt": "2026-09-10T16:22:29.640Z",
+    "body": "在 Pulse 2.0 的訪談中，EnableAll 首席執行官 Imogen Wethered 探討讓電子商務平台更具無障礙性、促進殘障人士數位共融的策略。\n\n原文來源： [Pulse 2.0](https://pulse2.com/enableall-profile-imogen-wethered-interview)"
+  },
+  {
+    "title": "Meadowside 自然中心在 Rockville 重新開放，附設新展覽與無障礙改善 - Bethesda Magazine",
+    "slug": "meadowside-nature-center-reopens-in-rockville-with-new-exhibits-accessibility-im-zh-5ea20ebe",
+    "lang": "zh-TW",
+    "summary": "位於 Rockville 的 Meadowside 自然中心經過翻新後重新開放，新增展覽並進行無障礙設施改善，以確保殘障訪客也能充分享受設施。",
+    "category": "physical-design",
+    "tags": [
+      "nature center",
+      "exhibits",
+      "accessibility",
+      "Rockville"
+    ],
+    "sourceName": "Bethesda Magazine",
+    "sourceUrl": "https://bethesdamagazine.com/2026/09/10/meadowside-nature-center-reopens-rockville",
+    "relatedSources": [
+      {
+        "name": "Bethesda Magazine",
+        "url": "https://bethesdamagazine.com/2026/09/10/meadowside-nature-center-reopens-rockville"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5ea20ebe",
+    "status": "published",
+    "translationOf": "meadowside-nature-center-reopens-in-rockville-with-new-exhibits-accessibility-im-5ea20ebe",
+    "publishedAt": "2026-09-10T15:46:55.000Z",
+    "fetchedAt": "2026-09-10T16:22:29.682Z",
+    "body": "位於 Rockville 的 Meadowside 自然中心經過翻新後重新開放，新增展覽並進行無障礙設施改善，以確保殘障訪客也能充分享受設施。\n\n原文來源： [Bethesda Magazine](https://bethesdamagazine.com/2026/09/10/meadowside-nature-center-reopens-rockville)"
+  },
+  {
+    "title": "中重度失能者每月最高補助1萬5000元、中度以上身心障礙者每月補助5000元住宿費 - 蕃新聞",
+    "slug": "maximum-monthly-subsidy-of-nt15000-for-severely-disabled-persons-and-nt5000-acco-zh-d625fac3",
+    "lang": "zh-TW",
+    "summary": "政府提供中重度失能者每月最高補助1萬5000元，中度以上身心障礙者每月可領取5000元住宿費補助，以減輕其生活負擔。",
+    "category": "laws-rights",
+    "tags": [
+      "disability benefits",
+      "subsidy",
+      "Taiwan"
+    ],
+    "sourceName": "蕃新聞",
+    "sourceUrl": "https://n.yam.com/Article/20260910685340",
+    "relatedSources": [
+      {
+        "name": "蕃新聞",
+        "url": "https://n.yam.com/Article/20260910685340"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-d625fac3",
+    "status": "published",
+    "translationOf": "maximum-monthly-subsidy-of-nt15000-for-severely-disabled-persons-and-nt5000-acco-d625fac3",
+    "publishedAt": "2026-09-10T10:18:00.000Z",
+    "fetchedAt": "2026-09-10T16:22:53.676Z",
+    "body": "政府提供中重度失能者每月最高補助1萬5000元，中度以上身心障礙者每月可領取5000元住宿費補助，以減輕其生活負擔。\n\n原文來源： [蕃新聞](https://n.yam.com/Article/20260910685340)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "nepal-flood-death-toll-rises-aid-demand-surges-zh-2e5878c8",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/09/10/disaster/nepal-flood-death-toll-rises-aid-demand-surges",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/09/10/disaster/nepal-flood-death-toll-rises-aid-demand-surges"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-2e5878c8",
+    "status": "draft",
+    "translationOf": "nepal-flood-death-toll-rises-aid-demand-surges-2e5878c8",
+    "publishedAt": "2026-09-10T09:07:15.000Z",
+    "fetchedAt": "2026-09-10T16:22:53.710Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/09/10/disaster/nepal-flood-death-toll-rises-aid-demand-surges)"
+  },
+  {
+    "title": "法國：呼籲加強對長照機構長者的權利保護",
+    "slug": "france-call-for-stronger-rights-protection-for-older-persons-in-care-homes-zh-8bcd876a",
+    "lang": "zh-TW",
+    "summary": "歐洲人權專員呼籲法國政府加強長照機構（EHPADs）中長者的權利保護，儘管歡迎近期改革，但仍需系統性改進。",
+    "category": "laws-rights",
+    "tags": [
+      "elderly care",
+      "human rights",
+      "France",
+      "disability"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/09/10/misc/france-call-for-stronger-rights-protection-for-older-persons-in-care-homes",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/09/10/misc/france-call-for-stronger-rights-protection-for-older-persons-in-care-homes"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-8bcd876a",
+    "status": "published",
+    "translationOf": "france-call-for-stronger-rights-protection-for-older-persons-in-care-homes-8bcd876a",
+    "publishedAt": "2026-09-10T09:04:58.000Z",
+    "fetchedAt": "2026-09-10T16:22:53.744Z",
+    "body": "歐洲人權專員呼籲法國政府加強長照機構（EHPADs）中長者的權利保護，儘管歡迎近期改革，但仍需系統性改進。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/09/10/misc/france-call-for-stronger-rights-protection-for-older-persons-in-care-homes)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "final-man-jailed-over-nsw-fraud-syndicate-zh-238f8308",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/09/10/law/final-man-jailed-over-nsw-fraud-syndicate",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/09/10/law/final-man-jailed-over-nsw-fraud-syndicate"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-238f8308",
+    "status": "draft",
+    "translationOf": "final-man-jailed-over-nsw-fraud-syndicate-238f8308",
+    "publishedAt": "2026-09-10T08:55:12.000Z",
+    "fetchedAt": "2026-09-10T16:23:29.454Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/09/10/law/final-man-jailed-over-nsw-fraud-syndicate)"
+  },
+  {
+    "title": "明尼斯政府拨款35万澳元提升湖麦夸里居家康复服务",
+    "slug": "minns-govt-grants-350000-boost-for-rehab-in-lake-macquarie-zh-db2cace4",
+    "lang": "zh-TW",
+    "summary": "明尼斯政府拨款35万澳元，用于在湖麦夸里南部扩展‘居家康复’服务，让更多患者能够在家接受康复治疗，减少就医出行需求。",
+    "category": "laws-rights",
+    "tags": [
+      "rehabilitation",
+      "home care",
+      "government funding",
+      "Lake Macquarie"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/09/10/health/minns-government-grants-350000-boost-for-rehab-in-lake-macquarie",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/09/10/health/minns-government-grants-350000-boost-for-rehab-in-lake-macquarie"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-db2cace4",
+    "status": "published",
+    "translationOf": "minns-govt-grants-350000-boost-for-rehab-in-lake-macquarie-db2cace4",
+    "publishedAt": "2026-09-10T07:53:17.000Z",
+    "fetchedAt": "2026-09-10T16:23:29.481Z",
+    "body": "明尼斯政府拨款35万澳元，用于在湖麦夸里南部扩展‘居家康复’服务，让更多患者能够在家接受康复治疗，减少就医出行需求。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/09/10/health/minns-government-grants-350000-boost-for-rehab-in-lake-macquarie)"
+  },
+  {
+    "title": "足球拯救了爸爸的生命：认识英格兰女子帕金森病队教练",
+    "slug": "football-saved-dads-life-meet-the-coach-of-the-england-womens-parkinsons-team-zh-a9d3b217",
+    "lang": "zh-TW",
+    "summary": "Gemma Darvill 在父亲被诊断出帕金森病后，让他参与步行足球，认为这项运动救了他的生命；她如今担任英格兰首支女子帕金森病队教练，前往加拿大巡回，宣传步行足球如何减缓病情进展。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "Parkinson's",
+      "walking football",
+      "sports",
+      "disability inclusion",
+      "England women's team"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/football/2026/sep/10/football-saved-dads-life-meet-the-coach-of-the-england-womens-parkinsons-team",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/football/2026/sep/10/football-saved-dads-life-meet-the-coach-of-the-england-womens-parkinsons-team"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-a9d3b217",
+    "status": "published",
+    "translationOf": "football-saved-dads-life-meet-the-coach-of-the-england-womens-parkinsons-team-a9d3b217",
+    "publishedAt": "2026-09-10T10:53:38.000Z",
+    "fetchedAt": "2026-09-10T16:23:29.512Z",
+    "body": "Gemma Darvill 在父亲被诊断出帕金森病后，让他参与步行足球，认为这项运动救了他的生命；她如今担任英格兰首支女子帕金森病队教练，前往加拿大巡回，宣传步行足球如何减缓病情进展。\n\n原文來源： [Unknown source](https://www.theguardian.com/football/2026/sep/10/football-saved-dads-life-meet-the-coach-of-the-england-womens-parkinsons-team)"
+  },
+  {
+    "title": "英國殘障人士可將個人獨立付款現金換取實物支援，福利改革方案",
+    "slug": "uk-disabled-people-could-swap-pip-cash-for-in-kind-support-in-benefit-overhaul-zh-fadb9c05",
+    "lang": "zh-TW",
+    "summary": "根據主要由殘障人士組成的專家委員會提出的個人獨立付款（PIP）改革方案，殘障申請人可將部分現金福利換取專門設備、服務或培訓。",
+    "category": "laws-rights",
+    "tags": [
+      "PIP",
+      "benefit reform",
+      "disability support",
+      "UK"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/politics/2026/sep/10/disabled-people-personal-independence-payments-pip-support",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/politics/2026/sep/10/disabled-people-personal-independence-payments-pip-support"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-fadb9c05",
+    "status": "published",
+    "translationOf": "uk-disabled-people-could-swap-pip-cash-for-in-kind-support-in-benefit-overhaul-fadb9c05",
+    "publishedAt": "2026-09-10T05:00:17.000Z",
+    "fetchedAt": "2026-09-10T16:24:05.108Z",
+    "body": "根據主要由殘障人士組成的專家委員會提出的個人獨立付款（PIP）改革方案，殘障申請人可將部分現金福利換取專門設備、服務或培訓。\n\n原文來源： [Unknown source](https://www.theguardian.com/politics/2026/sep/10/disabled-people-personal-independence-payments-pip-support)"
+  },
+  {
+    "title": "經濟實用但缺乏無障礙：歐盟委員會的可負擔住房法案忽視殘障需求",
+    "slug": "affordable-but-inaccessible-commissions-affordable-housing-act-ignores-disabilit-zh-0e9fa1d1",
+    "lang": "zh-TW",
+    "summary": "歐洲委員會於9月9日提出的可負擔住房法案，未提及數百萬殘障人士的住房需求，亦未參考《殘疾人權利公約》。",
+    "category": "physical-design",
+    "tags": [
+      "housing",
+      "accessibility",
+      "EU",
+      "disability rights",
+      "UNCRPD"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.edf-feph.org/affordable-but-inaccessible-commissions-affordable-housing-act-ignores-disability",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.edf-feph.org/affordable-but-inaccessible-commissions-affordable-housing-act-ignores-disability"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.edf-feph.org/feed",
+    "ingestProvider": "edf-feph.org",
+    "clusterId": "cluster-0e9fa1d1",
+    "status": "published",
+    "translationOf": "affordable-but-inaccessible-commissions-affordable-housing-act-ignores-disabilit-0e9fa1d1",
+    "publishedAt": "2026-09-10T06:45:17.000Z",
+    "fetchedAt": "2026-09-10T16:24:05.145Z",
+    "body": "歐洲委員會於9月9日提出的可負擔住房法案，未提及數百萬殘障人士的住房需求，亦未參考《殘疾人權利公約》。\n\n原文來源： [Unknown source](https://www.edf-feph.org/affordable-but-inaccessible-commissions-affordable-housing-act-ignores-disability)"
+  },
+  {
+    "title": "炸彈感覺：射擊遊戲中的無障礙設計",
+    "slug": "bomb-sense-accessibility-in-shootemup-games-zh-6060d91c",
+    "lang": "zh-TW",
+    "summary": "文章探討射擊遊戲中「炸彈感覺」機制如何進行無障礙設計，以提供殘障玩家更好的遊戲體驗。",
+    "category": "digital-a11y",
+    "tags": [
+      "video games",
+      "accessibility",
+      "shoot-em-up",
+      "Bomb Sense",
+      "digital accessibility"
+    ],
+    "sourceName": "Danboland.net",
+    "sourceUrl": "https://danboland.net/2021/07/15/bomb-sense.html",
+    "relatedSources": [
+      {
+        "name": "Danboland.net",
+        "url": "https://danboland.net/2021/07/15/bomb-sense.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-6060d91c",
+    "status": "published",
+    "translationOf": "bomb-sense-accessibility-in-shootemup-games-6060d91c",
+    "publishedAt": "2026-09-09T15:40:19.000Z",
+    "fetchedAt": "2026-09-10T16:24:05.180Z",
+    "body": "文章探討射擊遊戲中「炸彈感覺」機制如何進行無障礙設計，以提供殘障玩家更好的遊戲體驗。\n\n原文來源： [Danboland.net](https://danboland.net/2021/07/15/bomb-sense.html)"
+  },
+  {
+    "title": "竹市推公車無障礙暨性平友善服務",
+    "slug": "hsinchu-city-promotes-accessible-and-gender-friendly-bus-services-zh-37923d45",
+    "lang": "zh-TW",
+    "summary": "新竹市政府舉辦公車駕駛員輪椅族上下車服務與車內性騷擾通報標準作業流程體驗推廣活動，邀請五家客運業者及殘障團體參與，透過實地體驗提升駕駛員對障礙者乘車需求及應對車內性騷擾能力，營造更安全友善的公共運輸環境。",
+    "category": "physical-design",
+    "tags": [
+      "public transportation",
+      "wheelchair accessibility",
+      "gender equality",
+      "disability inclusion"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E7%AB%B9%E5%B8%82%E6%8E%A8%E5%85%AC%E8%BB%8A%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9A%A8%E6%80%A7%E5%B9%B3%E5%8F%8B%E5%96%84%E6%9C%8D%E5%8B%99-125754740.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E7%AB%B9%E5%B8%82%E6%8E%A8%E5%85%AC%E8%BB%8A%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9A%A8%E6%80%A7%E5%B9%B3%E5%8F%8B%E5%96%84%E6%9C%8D%E5%8B%99-125754740.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-37923d45",
+    "status": "published",
+    "translationOf": "hsinchu-city-promotes-accessible-and-gender-friendly-bus-services-37923d45",
+    "publishedAt": "2026-09-09T12:57:54.000Z",
+    "fetchedAt": "2026-09-10T16:24:43.672Z",
+    "body": "新竹市政府舉辦公車駕駛員輪椅族上下車服務與車內性騷擾通報標準作業流程體驗推廣活動，邀請五家客運業者及殘障團體參與，透過實地體驗提升駕駛員對障礙者乘車需求及應對車內性騷擾能力，營造更安全友善的公共運輸環境。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E7%AB%B9%E5%B8%82%E6%8E%A8%E5%85%AC%E8%BB%8A%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9A%A8%E6%80%A7%E5%B9%B3%E5%8F%8B%E5%96%84%E6%9C%8D%E5%8B%99-125754740.html)"
+  },
+  {
+    "title": "補助改善居家無障礙申請 延長至10/31",
+    "slug": "home-accessibility-improvement-subsidy-application-extended-to-oct-31-zh-d7ec8a1c",
+    "lang": "zh-TW",
+    "summary": "台中市政府住宅發展工程處續辦理「原有住宅改善無障礙設施補助」，鼓勵社區改善通路、坡道、扶手及昇降設備等設施。今年申請期限延長至10月31日，每案最高補助工程經費45%，依改善項目最高可補助216萬元，協助提升住宅可及性、便利性及安全性，讓身障者、高齡者、孕婦及使用嬰兒車的家庭出入更加便利。住宅處表示，凡於101年12月30日《住宅法》施行前領有建築物使用證明文件，或實施建築管理前已建造完成的合法建築物，核准用途為集合住宅或住商混合且供住宅使用比例達二分之一以上，皆可提出申請。補助項目包括集合住宅共用部分的室外通路…",
+    "category": "physical-design",
+    "tags": [
+      "home accessibility",
+      "subsidy",
+      "Taichung",
+      "disability",
+      "elderly"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E8%A3%9C%E5%8A%A9%E6%94%B9%E5%96%84%E5%B1%85%E5%AE%B6%E7%84%A1%E9%9A%9C%E7%A4%99%E7%94%B3%E8%AB%8B-%E5%BB%B6%E9%95%B7%E8%87%B310-31-121335324.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E8%A3%9C%E5%8A%A9%E6%94%B9%E5%96%84%E5%B1%85%E5%AE%B6%E7%84%A1%E9%9A%9C%E7%A4%99%E7%94%B3%E8%AB%8B-%E5%BB%B6%E9%95%B7%E8%87%B310-31-121335324.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-d7ec8a1c",
+    "status": "published",
+    "translationOf": "home-accessibility-improvement-subsidy-application-extended-to-oct-31-d7ec8a1c",
+    "publishedAt": "2026-09-09T12:13:35.000Z",
+    "fetchedAt": "2026-09-10T16:25:38.810Z",
+    "body": "台中市政府住宅發展工程處續辦理「原有住宅改善無障礙設施補助」，鼓勵社區改善通路、坡道、扶手及昇降設備等設施。今年申請期限延長至10月31日，每案最高補助工程經費45%，依改善項目最高可補助216萬元，協助提升住宅可及性、便利性及安全性，讓身障者、高齡者、孕婦及使用嬰兒車的家庭出入更加便利。住宅處表示，凡於101年12月30日《住宅法》施行前領有建築物使用證明文件，或實施建築管理前已建造完成的合法建築物，核准用途為集合住宅或住商混合且供住宅使用比例達二分之一以上，皆可提出申請。補助項目包括集合住宅共用部分的室外通路…\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E8%A3%9C%E5%8A%A9%E6%94%B9%E5%96%84%E5%B1%85%E5%AE%B6%E7%84%A1%E9%9A%9C%E7%A4%99%E7%94%B3%E8%AB%8B-%E5%BB%B6%E9%95%B7%E8%87%B310-31-121335324.html)"
+  },
+  {
+    "title": "改善居家無障礙最高補助216萬元　台中市115年度補助申請期限延至10月底",
+    "slug": "maximum-home-accessibility-subsidy-of-nt216-million-taichung-city-extends-2026-a-zh-6fda8327",
+    "lang": "zh-TW",
+    "summary": "（觀傳媒中彰投新聞）【記者廖妙茜/台中報導】打造更友善、安全的居住環境！台中市政府住宅發展工程處持續辦理「原有 […]",
+    "category": "physical-design",
+    "tags": [
+      "home accessibility",
+      "subsidy",
+      "Taichung",
+      "disability",
+      "elderly"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e0e32454-4413-4340-b6ba-39288b7af0b3",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e0e32454-4413-4340-b6ba-39288b7af0b3"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-6fda8327",
+    "status": "published",
+    "translationOf": "maximum-home-accessibility-subsidy-of-nt216-million-taichung-city-extends-2026-a-6fda8327",
+    "publishedAt": "2026-09-09T11:16:13.000Z",
+    "fetchedAt": "2026-09-10T16:25:38.851Z",
+    "body": "（觀傳媒中彰投新聞）【記者廖妙茜/台中報導】打造更友善、安全的居住環境！台中市政府住宅發展工程處持續辦理「原有 […]\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e0e32454-4413-4340-b6ba-39288b7af0b3)"
+  },
+  {
+    "title": "竹市公車駕駛坐輪椅體驗　演練無障礙及性騷處置",
+    "slug": "hsinchu-city-bus-drivers-experience-wheelchair-seating-to-practice-accessibility-zh-6b80bc33",
+    "lang": "zh-TW",
+    "summary": "（中央社記者魯鋼駿新竹市9日電）新竹市政府今天舉辦公車無障礙及性平服務體驗，安排客運駕駛坐輪椅，練習協助乘客上下車及演練性騷擾通報。市府指出，將持續汰換公車、提高無障礙車輛比例及改善通行環境。",
+    "category": "physical-design",
+    "tags": [
+      "bus accessibility",
+      "wheelchair",
+      "driver training",
+      "Hsinchu",
+      "sexual harassment"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_71999097-4da5-4316-becc-3a198fe34167",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_71999097-4da5-4316-becc-3a198fe34167"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-6b80bc33",
+    "status": "published",
+    "translationOf": "hsinchu-city-bus-drivers-experience-wheelchair-seating-to-practice-accessibility-6b80bc33",
+    "publishedAt": "2026-09-09T10:07:47.000Z",
+    "fetchedAt": "2026-09-10T16:25:38.885Z",
+    "body": "（中央社記者魯鋼駿新竹市9日電）新竹市政府今天舉辦公車無障礙及性平服務體驗，安排客運駕駛坐輪椅，練習協助乘客上下車及演練性騷擾通報。市府指出，將持續汰換公車、提高無障礙車輛比例及改善通行環境。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_71999097-4da5-4316-becc-3a198fe34167)"
+  },
+  {
+    "title": "改善台中居家無障礙最高補助216萬元申請至10/31",
+    "slug": "taichung-home-accessibility-improvement-subsidy-up-to-nt216-million-applications-zh-ea555929",
+    "lang": "zh-TW",
+    "summary": "台中市政府住宅發展工程處持續辦理「原有住宅改善無障礙設施補助」，鼓勵社區改善通路、坡道、扶手及昇降設備等設施。今年申請期限延長至10月31日，每案最高補助工程經費45%，依改善項目最高可補助216萬元，協助提升住宅可及性、便利性及安全性，讓身障者、高齡者、孕婦及使用嬰兒車的家庭出入更加便利。住宅處表示，凡於101年12月30日《住宅法》施行前領有建築物使用證明文件，或實施建築管理前已建造完成的合法建築物，核准用途為集合住宅或住商混合且供住宅使用比例達二分之一以上，皆可提出申請。補助項目包括集合住宅共用部分的室外通路…",
+    "category": "physical-design",
+    "tags": [
+      "home accessibility",
+      "subsidy",
+      "Taichung",
+      "residential",
+      "disability"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cffcd2d9-110d-473c-be56-bca581cd66ec",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cffcd2d9-110d-473c-be56-bca581cd66ec"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-ea555929",
+    "status": "published",
+    "translationOf": "taichung-home-accessibility-improvement-subsidy-up-to-nt216-million-applications-ea555929",
+    "publishedAt": "2026-09-09T09:37:43.000Z",
+    "fetchedAt": "2026-09-10T16:26:39.663Z",
+    "body": "台中市政府住宅發展工程處持續辦理「原有住宅改善無障礙設施補助」，鼓勵社區改善通路、坡道、扶手及昇降設備等設施。今年申請期限延長至10月31日，每案最高補助工程經費45%，依改善項目最高可補助216萬元，協助提升住宅可及性、便利性及安全性，讓身障者、高齡者、孕婦及使用嬰兒車的家庭出入更加便利。住宅處表示，凡於101年12月30日《住宅法》施行前領有建築物使用證明文件，或實施建築管理前已建造完成的合法建築物，核准用途為集合住宅或住商混合且供住宅使用比例達二分之一以上，皆可提出申請。補助項目包括集合住宅共用部分的室外通路…\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cffcd2d9-110d-473c-be56-bca581cd66ec)"
+  },
+  {
+    "title": "營造更安全、友善公共運輸環境　竹市推公車無障礙暨性平友善服務",
+    "slug": "hsinchu-city-launches-accessible-and-gender-friendly-public-bus-services-to-enha-zh-41a46aa3",
+    "lang": "zh-TW",
+    "summary": "新竹市政府9日於新竹客運牛埔修車廠辦理「公車駕駛員輪椅族上下車服務與車內性騷擾通報標準作業流程體驗推廣活動」，邀集新竹市5家市區客運業者，包括新竹客運、國光客運、金牌客運、科技之星及苗栗客運共同參與，並攜手新竹市脊髓損傷者協會、肢體障礙自強協會、身心障礙運動發展協會、身心障礙者聯合就業協會，以及勵馨基金會新竹分事務所等在地身障及婦幼倡議團體，透過實地體驗與交流，提升公車駕駛員對身心障礙者乘車需求及車內性騷擾事件的應對能力。高虹安市長說明，此次活動以「換位體驗、…」",
+    "category": "physical-design",
+    "tags": [
+      "public transport",
+      "wheelchair access",
+      "gender equality",
+      "Hsinchu",
+      "disability"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E7%87%9F%E9%80%A0%E6%9B%B4%E5%AE%89%E5%85%A8-%E5%8F%8B%E5%96%84%E5%85%AC%E5%85%B1%E9%81%8B%E8%BC%B8%E7%92%B0%E5%A2%83-%E7%AB%B9%E5%B8%82%E6%8E%A8%E5%85%AC%E8%BB%8A%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9A%A8%E6%80%A7%E5%B9%B3%E5%8F%8B%E5%96%84%E6%9C%8D%E5%8B%99-090133037.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E7%87%9F%E9%80%A0%E6%9B%B4%E5%AE%89%E5%85%A8-%E5%8F%8B%E5%96%84%E5%85%AC%E5%85%B1%E9%81%8B%E8%BC%B8%E7%92%B0%E5%A2%83-%E7%AB%B9%E5%B8%82%E6%8E%A8%E5%85%AC%E8%BB%8A%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9A%A8%E6%80%A7%E5%B9%B3%E5%8F%8B%E5%96%84%E6%9C%8D%E5%8B%99-090133037.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-41a46aa3",
+    "status": "published",
+    "translationOf": "hsinchu-city-launches-accessible-and-gender-friendly-public-bus-services-to-enha-41a46aa3",
+    "publishedAt": "2026-09-09T09:01:33.000Z",
+    "fetchedAt": "2026-09-10T16:26:39.689Z",
+    "body": "新竹市政府9日於新竹客運牛埔修車廠辦理「公車駕駛員輪椅族上下車服務與車內性騷擾通報標準作業流程體驗推廣活動」，邀集新竹市5家市區客運業者，包括新竹客運、國光客運、金牌客運、科技之星及苗栗客運共同參與，並攜手新竹市脊髓損傷者協會、肢體障礙自強協會、身心障礙運動發展協會、身心障礙者聯合就業協會，以及勵馨基金會新竹分事務所等在地身障及婦幼倡議團體，透過實地體驗與交流，提升公車駕駛員對身心障礙者乘車需求及車內性騷擾事件的應對能力。高虹安市長說明，此次活動以「換位體驗、…」\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E7%87%9F%E9%80%A0%E6%9B%B4%E5%AE%89%E5%85%A8-%E5%8F%8B%E5%96%84%E5%85%AC%E5%85%B1%E9%81%8B%E8%BC%B8%E7%92%B0%E5%A2%83-%E7%AB%B9%E5%B8%82%E6%8E%A8%E5%85%AC%E8%BB%8A%E7%84%A1%E9%9A%9C%E7%A4%99%E6%9A%A8%E6%80%A7%E5%B9%B3%E5%8F%8B%E5%96%84%E6%9C%8D%E5%8B%99-090133037.html)"
+  },
+  {
+    "title": "中市115年度補助改善居家無障礙申請延至10/31",
+    "slug": "taichung-extends-deadline-for-fy2026-home-accessibility-improvement-subsidy-to-o-zh-5296ee9c",
+    "lang": "zh-TW",
+    "summary": "台中市政府住宅發展工程處續辦理「原有住宅改善無障礙設施補助」，鼓勵社區改善通路、坡道、扶手及昇降設備等設施。今年申請期限延長至10月31日，每案最高補助工程經費45%，依改善項目最高可補助216萬元，協助提升住宅可及性、便利性及安全性，讓身障者、高齡者、孕婦及使用嬰兒車的家庭出入更加便利。住宅處表示，凡於101年12月30日《住宅法》施行前領有建築物使用證明文件，或實施建築管理前已建造完成的合法建築物，核准用途為集合住宅或住商混合且供住宅使用比例達二分之一以上，皆可提出申請。補助項目包括集合住宅共用部分的室外通路…",
+    "category": "physical-design",
+    "tags": [
+      "home accessibility",
+      "subsidy",
+      "Taichung",
+      "residential",
+      "disability"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82115%E5%B9%B4%E5%BA%A6%E8%A3%9C%E5%8A%A9%E6%94%B9%E5%96%84%E5%B1%85%E5%AE%B6%E7%84%A1%E9%9A%9C%E7%A4%99%E7%94%B3%E8%AB%8B%E5%BB%B6%E8%87%B310-31-062934249.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82115%E5%B9%B4%E5%BA%A6%E8%A3%9C%E5%8A%A9%E6%94%B9%E5%96%84%E5%B1%85%E5%AE%B6%E7%84%A1%E9%9A%9C%E7%A4%99%E7%94%B3%E8%AB%8B%E5%BB%B6%E8%87%B310-31-062934249.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-5296ee9c",
+    "status": "published",
+    "translationOf": "taichung-extends-deadline-for-fy2026-home-accessibility-improvement-subsidy-to-o-5296ee9c",
+    "publishedAt": "2026-09-09T06:29:34.000Z",
+    "fetchedAt": "2026-09-10T16:26:39.722Z",
+    "body": "台中市政府住宅發展工程處續辦理「原有住宅改善無障礙設施補助」，鼓勵社區改善通路、坡道、扶手及昇降設備等設施。今年申請期限延長至10月31日，每案最高補助工程經費45%，依改善項目最高可補助216萬元，協助提升住宅可及性、便利性及安全性，讓身障者、高齡者、孕婦及使用嬰兒車的家庭出入更加便利。住宅處表示，凡於101年12月30日《住宅法》施行前領有建築物使用證明文件，或實施建築管理前已建造完成的合法建築物，核准用途為集合住宅或住商混合且供住宅使用比例達二分之一以上，皆可提出申請。補助項目包括集合住宅共用部分的室外通路…\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82115%E5%B9%B4%E5%BA%A6%E8%A3%9C%E5%8A%A9%E6%94%B9%E5%96%84%E5%B1%85%E5%AE%B6%E7%84%A1%E9%9A%9C%E7%A4%99%E7%94%B3%E8%AB%8B%E5%BB%B6%E8%87%B310-31-062934249.html)"
   }
 ]
