@@ -1,55 +1,63 @@
 {
   "date": "2026-09-10",
-  "generatedAt": "2026-09-10T05:12:07.620Z",
+  "generatedAt": "2026-09-10T16:39:50.851Z",
   "en": {
-    "title": "Major Funding Boost and Policy Updates Advance Disability Accessibility",
-    "summary": "The Cleveland Regional Transit Authority received a $20 million federal grant to make the entire Green Line fully accessible for people with disabilities. In Taiwan, Taichung City extended its home‑accessibility subsidy to a maximum of NT 2.16 million, while BiblioCommons announced a partnership with Level Access to redesign its digital platforms for WCAG compliance. Additional initiatives include GoodMaps’ indoor GPS navigation app in Fort Wayne and the Deaf Art Science Festival in Melbourne focusing on disaster‑response accessibility.",
+    "title": "Waymo Faces Accessibility Law Claims as Transit and Tech Funding Boost Disability Inclusion",
+    "summary": "Disability activists allege that Waymo's autonomous vehicle launch in Nevada violates accessibility laws, failing to accommodate users with disabilities. Meanwhile, Taichung extends a NT$2.16 million home accessibility subsidy through October, and the Cleveland RTA secures $20 million to upgrade its Green Line for full accessibility. Additional highlights include new accessibility features at Highmark Stadium, a BiblioCommons-Level Access partnership for improved library platforms, and research showing biometric systems can still fail accessibility tests despite high accuracy.",
     "highlights": [
       {
-        "title": "RTA awarded $20M in grants to make entire Green Line accessible for people with disabilities",
-        "slug": "rta-awarded-20m-in-grants-to-make-entire-green-line-accessible-for-people-with-d-ed660947"
+        "title": "Waymo’s Nevada Rollout Violates Accessibility Law, Disability Activist Claims - Streetsblog USA",
+        "slug": "waymos-nevada-rollout-violates-accessibility-law-disability-activist-claims-stre-81cc46d8"
       },
       {
         "title": "Taichung extends home accessibility subsidy up to NT$2.16 million through October 31",
         "slug": "taichung-extends-home-accessibility-subsidy-up-to-nt216-million-through-october--4ef0f41c"
       },
       {
+        "title": "RTA awarded $20M in grants to make entire Green Line accessible for people with disabilities",
+        "slug": "rta-awarded-20m-in-grants-to-make-entire-green-line-accessible-for-people-with-d-ed660947"
+      },
+      {
+        "title": "New Highmark Stadium puts accessibility front and center for Bills fans",
+        "slug": "new-highmark-stadium-puts-accessibility-front-and-center-for-bills-fans-c0ceb8e4"
+      },
+      {
         "title": "BiblioCommons Partners With Level Access to Overhaul Its Accessibility Approaches",
         "slug": "bibliocommons-partners-with-level-access-to-overhaul-its-accessibility-approache-4006fd2f"
       },
       {
-        "title": "GoodMaps mobile app brings indoor GPS navigation, accessibility tools to two Fort Wayne destinations",
-        "slug": "goodmaps-mobile-app-brings-indoor-gps-navigation-accessibility-tools-to-two-fort-e0a8a7d3"
-      },
-      {
-        "title": "Deaf Art Science Festival will explore accessibility in emergency and disaster response",
-        "slug": "deaf-art-science-festival-will-explore-accessibility-in-emergency-and-disaster-r-1448bc35"
+        "title": "A biometric system can be accurate and still fail an accessibility test - Biometric Update",
+        "slug": "a-biometric-system-can-be-accurate-and-still-fail-an-accessibility-test-biometri-eee7f4ee"
       }
     ]
   },
   "zh-TW": {
-    "title": "資金與政策推動全國無障礙環境提升",
-    "summary": "克利夫蘭地區交通局獲得 2000 萬美元聯邦補助金，將整條 Green Line 改造為無障礙。台中市延長居家無障礙補助，最高可領取 216 萬元新台幣；BiblioCommons 與 Level Access 合作，重新設計其數位平台以符合 WCAG 標準。其他亮點包括 GoodMaps 在福特韋恩推出室內 GPS 導航工具，以及墨爾本聾人藝術科學節探討災害應變的無障礙方案。",
+    "title": "Waymo 無障礙爭議 台中補助延長",
+    "summary": "殘障人士活動者指控 Waymo 在內華達州的自動駕駛車輛推出違反無障礙法律，未能適當容納殘障使用者。同時，台中市將居家無障礙補助延長至 10 月 31 日，最高補助金額為 216 萬元；克利夫蘭 RTA 亦獲得 2000 萬美元用於升級 Green Line 無障礙設施。其他亮點包括新 Highmark 體育場以無障礙設計迎接球迷、BiblioCommons 與 Level Access 合作改善圖書館平台無障礙性，以及研究顯示生物識別系統雖準確仍可能無法通過無障礙測試。",
     "highlights": [
       {
-        "title": "克利夫蘭地區交通局獲得2000萬美元補助金，使整條Green Line對殘障人士無障礙",
-        "slug": "rta-awarded-20m-in-grants-to-make-entire-green-line-accessible-for-people-with-d-zh-ed660947"
+        "title": "Waymo 在內華達州的推廣違反無障礙法，殘障人士活動者指控 - Streetsblog USA",
+        "slug": "waymos-nevada-rollout-violates-accessibility-law-disability-activist-claims-stre-zh-81cc46d8"
       },
       {
         "title": "台中市延長居家無障礙最高補助216萬元，截止10月31日",
         "slug": "taichung-extends-home-accessibility-subsidy-up-to-nt216-million-through-october--zh-4ef0f41c"
       },
       {
+        "title": "克利夫蘭地區交通局獲得2000萬美元補助金，使整條Green Line對殘障人士無障礙",
+        "slug": "rta-awarded-20m-in-grants-to-make-entire-green-line-accessible-for-people-with-d-zh-ed660947"
+      },
+      {
+        "title": "新Highmark體育場將無障礙放在首位，為比爾斯球迷提供便利",
+        "slug": "new-highmark-stadium-puts-accessibility-front-and-center-for-bills-fans-zh-c0ceb8e4"
+      },
+      {
         "title": "BiblioCommons 與 Level Access 合作全面改進其無障礙方案",
         "slug": "bibliocommons-partners-with-level-access-to-overhaul-its-accessibility-approache-zh-4006fd2f"
       },
       {
-        "title": "GoodMaps 行動應用程式帶來室內 GPS 導航與無障礙工具至福特韋恩兩處目的地",
-        "slug": "goodmaps-mobile-app-brings-indoor-gps-navigation-accessibility-tools-to-two-fort-zh-e0a8a7d3"
-      },
-      {
-        "title": "聾人藝術科學節將探討緊急與災害應對中的無障礙",
-        "slug": "deaf-art-science-festival-will-explore-accessibility-in-emergency-and-disaster-r-zh-1448bc35"
+        "title": "生物識別系統可能準確但仍無法通過無障礙測試 - Biometric Update",
+        "slug": "a-biometric-system-can-be-accurate-and-still-fail-an-accessibility-test-biometri-zh-eee7f4ee"
       }
     ]
   }
