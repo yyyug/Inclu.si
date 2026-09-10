@@ -1,47 +1,55 @@
 {
-  "date": "2026-09-09",
-  "generatedAt": "2026-09-09T16:55:14.319Z",
+  "date": "2026-09-10",
+  "generatedAt": "2026-09-10T05:12:07.620Z",
   "en": {
-    "title": "EU Procurement Reform Boosts Disability Rights; AI Buses and Apps Advance Accessibility",
-    "summary": "The European Union has introduced proposed public procurement rules that could compel authorities to adopt more inclusive practices across infrastructure, transport, digital services and products. At the FIAA 2026 exhibition, Masats unveiled its AIDA AI system along with new doors and ramps to improve bus accessibility. Additionally, the Huana e指沖 app received accessibility certification for its voice assistance and haptic feedback features, and Hsinchu City bus drivers completed wheelchair‑experience drills to better understand accessibility needs.",
+    "title": "Major Funding Boost and Policy Updates Advance Disability Accessibility",
+    "summary": "The Cleveland Regional Transit Authority received a $20 million federal grant to make the entire Green Line fully accessible for people with disabilities. In Taiwan, Taichung City extended its home‑accessibility subsidy to a maximum of NT 2.16 million, while BiblioCommons announced a partnership with Level Access to redesign its digital platforms for WCAG compliance. Additional initiatives include GoodMaps’ indoor GPS navigation app in Fort Wayne and the Deaf Art Science Festival in Melbourne focusing on disaster‑response accessibility.",
     "highlights": [
       {
-        "title": "Proposed Public Procurement rules give potential boost to disability rights",
-        "slug": "proposed-public-procurement-rules-give-potential-boost-to-disability-rights-772809fa"
+        "title": "RTA awarded $20M in grants to make entire Green Line accessible for people with disabilities",
+        "slug": "rta-awarded-20m-in-grants-to-make-entire-green-line-accessible-for-people-with-d-ed660947"
       },
       {
-        "title": "Masats brings AI to bus accessibility with AIDA system, new doors and ramps at FIAA 2026",
-        "slug": "masats-brings-ai-to-bus-accessibility-with-aida-system-new-doors-and-ramps-at-fi-34dafcd0"
+        "title": "Taichung extends home accessibility subsidy up to NT$2.16 million through October 31",
+        "slug": "taichung-extends-home-accessibility-subsidy-up-to-nt216-million-through-october--4ef0f41c"
       },
       {
-        "title": "Huana e指沖 App Earns Accessibility Certification with Voice Assistance and Haptic Feedback",
-        "slug": "huana-e-app-earns-accessibility-certification-with-voice-assistance-and-haptic-f-aba36875"
+        "title": "BiblioCommons Partners With Level Access to Overhaul Its Accessibility Approaches",
+        "slug": "bibliocommons-partners-with-level-access-to-overhaul-its-accessibility-approache-4006fd2f"
       },
       {
-        "title": "Hsinchu City bus drivers undergo wheelchair experience drills to improve accessibility and handle sexual harassment",
-        "slug": "hsinchu-city-bus-drivers-undergo-wheelchair-experience-drills-to-improve-accessi-a3a1b04d"
+        "title": "GoodMaps mobile app brings indoor GPS navigation, accessibility tools to two Fort Wayne destinations",
+        "slug": "goodmaps-mobile-app-brings-indoor-gps-navigation-accessibility-tools-to-two-fort-e0a8a7d3"
+      },
+      {
+        "title": "Deaf Art Science Festival will explore accessibility in emergency and disaster response",
+        "slug": "deaf-art-science-festival-will-explore-accessibility-in-emergency-and-disaster-r-1448bc35"
       }
     ]
   },
   "zh-TW": {
-    "title": "歐盟採購新規提升殘障權益，AI巴士與App推動無障礙",
-    "summary": "歐盟提出的公共採購規則可能促使各機關在基礎建設、交通、數位服務與產品上採取更具包容性的做法。於FIAA 2026展會，Masats推出AIDA AI系統及新門與坡道，提升巴士無障礙性。華南e指沖App亦獲得無障礙認證，加入語音輔助與觸覺回饋功能，同時新竹市公車駕駛完成輪椅體驗演練，以加深對無障礙需求的了解。",
+    "title": "資金與政策推動全國無障礙環境提升",
+    "summary": "克利夫蘭地區交通局獲得 2000 萬美元聯邦補助金，將整條 Green Line 改造為無障礙。台中市延長居家無障礙補助，最高可領取 216 萬元新台幣；BiblioCommons 與 Level Access 合作，重新設計其數位平台以符合 WCAG 標準。其他亮點包括 GoodMaps 在福特韋恩推出室內 GPS 導航工具，以及墨爾本聾人藝術科學節探討災害應變的無障礙方案。",
     "highlights": [
       {
-        "title": "建議的公共採購規則有望提升殘障權益",
-        "slug": "proposed-public-procurement-rules-give-potential-boost-to-disability-rights-zh-772809fa"
+        "title": "克利夫蘭地區交通局獲得2000萬美元補助金，使整條Green Line對殘障人士無障礙",
+        "slug": "rta-awarded-20m-in-grants-to-make-entire-green-line-accessible-for-people-with-d-zh-ed660947"
       },
       {
-        "title": "Masats 在 FIAA 2026 展會上推出 AIDA AI 系統、新門坡道提升巴士無障礙",
-        "slug": "masats-brings-ai-to-bus-accessibility-with-aida-system-new-doors-and-ramps-at-fi-zh-34dafcd0"
+        "title": "台中市延長居家無障礙最高補助216萬元，截止10月31日",
+        "slug": "taichung-extends-home-accessibility-subsidy-up-to-nt216-million-through-october--zh-4ef0f41c"
       },
       {
-        "title": "華南e指沖App獲無障礙認證 整合語音輔助升級聽觸覺互動",
-        "slug": "huana-e-app-earns-accessibility-certification-with-voice-assistance-and-haptic-f-zh-aba36875"
+        "title": "BiblioCommons 與 Level Access 合作全面改進其無障礙方案",
+        "slug": "bibliocommons-partners-with-level-access-to-overhaul-its-accessibility-approache-zh-4006fd2f"
       },
       {
-        "title": "竹市公車駕駛坐輪椅體驗演練無障礙及性騷處置| 地方 - 中央社 CNA",
-        "slug": "hsinchu-city-bus-drivers-undergo-wheelchair-experience-drills-to-improve-accessi-zh-a3a1b04d"
+        "title": "GoodMaps 行動應用程式帶來室內 GPS 導航與無障礙工具至福特韋恩兩處目的地",
+        "slug": "goodmaps-mobile-app-brings-indoor-gps-navigation-accessibility-tools-to-two-fort-zh-e0a8a7d3"
+      },
+      {
+        "title": "聾人藝術科學節將探討緊急與災害應對中的無障礙",
+        "slug": "deaf-art-science-festival-will-explore-accessibility-in-emergency-and-disaster-r-zh-1448bc35"
       }
     ]
   }
