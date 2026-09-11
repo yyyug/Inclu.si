@@ -1,63 +1,51 @@
 {
-  "date": "2026-09-10",
-  "generatedAt": "2026-09-10T16:39:50.851Z",
+  "date": "2026-09-11",
+  "generatedAt": "2026-09-11T05:06:06.629Z",
   "en": {
-    "title": "Waymo Faces Accessibility Law Claims as Transit and Tech Funding Boost Disability Inclusion",
-    "summary": "Disability activists allege that Waymo's autonomous vehicle launch in Nevada violates accessibility laws, failing to accommodate users with disabilities. Meanwhile, Taichung extends a NT$2.16 million home accessibility subsidy through October, and the Cleveland RTA secures $20 million to upgrade its Green Line for full accessibility. Additional highlights include new accessibility features at Highmark Stadium, a BiblioCommons-Level Access partnership for improved library platforms, and research showing biometric systems can still fail accessibility tests despite high accuracy.",
+    "title": "FCC Extends Accessibility Rules to Live Chat; Major Transit Funding Announced",
+    "summary": "The Federal Communications Commission has clarified that its accessibility regulations now apply to live chat and messaging services, requiring providers to ensure usability for people with disabilities. Meanwhile, the Greater Cleveland Regional Transit Authority received a $20 million grant to upgrade rail accessibility, and Taiwan announced increased monthly subsidies for severely disabled persons.",
     "highlights": [
       {
-        "title": "Waymo’s Nevada Rollout Violates Accessibility Law, Disability Activist Claims - Streetsblog USA",
-        "slug": "waymos-nevada-rollout-violates-accessibility-law-disability-activist-claims-stre-81cc46d8"
+        "title": "FCC Accessibility Rules Apply to Live Chat and Messaging Services",
+        "slug": "fcc-accessibility-rules-apply-to-live-chat-and-messaging-services-48615187"
       },
       {
-        "title": "Taichung extends home accessibility subsidy up to NT$2.16 million through October 31",
-        "slug": "taichung-extends-home-accessibility-subsidy-up-to-nt216-million-through-october--4ef0f41c"
+        "title": "Rail News - GCRTA awarded $20M for accessibility upgrades. For Railroad Career Professionals - Progressive Railroading",
+        "slug": "rail-news-gcrta-awarded-20m-for-accessibility-upgrades-for-railroad-career-profe-197a3bb8"
       },
       {
-        "title": "RTA awarded $20M in grants to make entire Green Line accessible for people with disabilities",
-        "slug": "rta-awarded-20m-in-grants-to-make-entire-green-line-accessible-for-people-with-d-ed660947"
+        "title": "Maximum monthly subsidy of NT$15,000 for severely disabled persons and NT$5,000 accommodation allowance for moderate or higher disability",
+        "slug": "maximum-monthly-subsidy-of-nt15000-for-severely-disabled-persons-and-nt5000-acco-d625fac3"
       },
       {
-        "title": "New Highmark Stadium puts accessibility front and center for Bills fans",
-        "slug": "new-highmark-stadium-puts-accessibility-front-and-center-for-bills-fans-c0ceb8e4"
+        "title": "A wheelchair user’s guide to Amsterdam – why it’s my favourite accessible city break - The Independent",
+        "slug": "a-wheelchair-users-guide-to-amsterdam-why-its-my-favourite-accessible-city-break-3681cf5b"
       },
       {
-        "title": "BiblioCommons Partners With Level Access to Overhaul Its Accessibility Approaches",
-        "slug": "bibliocommons-partners-with-level-access-to-overhaul-its-accessibility-approache-4006fd2f"
-      },
-      {
-        "title": "A biometric system can be accurate and still fail an accessibility test - Biometric Update",
-        "slug": "a-biometric-system-can-be-accurate-and-still-fail-an-accessibility-test-biometri-eee7f4ee"
+        "title": "EnableAll: Interview With CEO Imogen Wethered About Ecommerce Accessibility And Digital Inclusion - Pulse 2.0",
+        "slug": "enableall-interview-with-ceo-imogen-wethered-about-ecommerce-accessibility-and-d-90d2bab8"
       }
     ]
   },
   "zh-TW": {
-    "title": "Waymo 無障礙爭議 台中補助延長",
-    "summary": "殘障人士活動者指控 Waymo 在內華達州的自動駕駛車輛推出違反無障礙法律，未能適當容納殘障使用者。同時，台中市將居家無障礙補助延長至 10 月 31 日，最高補助金額為 216 萬元；克利夫蘭 RTA 亦獲得 2000 萬美元用於升級 Green Line 無障礙設施。其他亮點包括新 Highmark 體育場以無障礙設計迎接球迷、BiblioCommons 與 Level Access 合作改善圖書館平台無障礙性，以及研究顯示生物識別系統雖準確仍可能無法通過無障礙測試。",
+    "title": "FCC 認定即時聊天適用無障礙規則；台鐵獲2000萬升級經費",
+    "summary": "美國聯邦通訊委員會澄清，其無障礙法規現在適用於即時聊天與訊息服務，要求業者確保殘障人士可使用。同時，大克利夫蘭區域交通管理局獲得2000萬美元補助金，用於鐵路無障礙升級；台灣宣布提高中重度失能者每月最高補助至1萬5000元。",
     "highlights": [
       {
-        "title": "Waymo 在內華達州的推廣違反無障礙法，殘障人士活動者指控 - Streetsblog USA",
-        "slug": "waymos-nevada-rollout-violates-accessibility-law-disability-activist-claims-stre-zh-81cc46d8"
+        "title": "中重度失能者每月最高補助1萬5000元、中度以上身心障礙者每月補助5000元住宿費 - 蕃新聞",
+        "slug": "maximum-monthly-subsidy-of-nt15000-for-severely-disabled-persons-and-nt5000-acco-zh-d625fac3"
       },
       {
-        "title": "台中市延長居家無障礙最高補助216萬元，截止10月31日",
-        "slug": "taichung-extends-home-accessibility-subsidy-up-to-nt216-million-through-october--zh-4ef0f41c"
+        "title": "FCC 無障礙規則適用於即時聊天與訊息服務",
+        "slug": "fcc-accessibility-rules-apply-to-live-chat-and-messaging-services-zh-48615187"
       },
       {
-        "title": "克利夫蘭地區交通局獲得2000萬美元補助金，使整條Green Line對殘障人士無障礙",
-        "slug": "rta-awarded-20m-in-grants-to-make-entire-green-line-accessible-for-people-with-d-zh-ed660947"
+        "title": "鐵路新聞 - GCRTA 獲頒 2000 萬美元用於無障礙升級。鐵路職業專業人士 - Progressive Railroading",
+        "slug": "rail-news-gcrta-awarded-20m-for-accessibility-upgrades-for-railroad-career-profe-zh-197a3bb8"
       },
       {
-        "title": "新Highmark體育場將無障礙放在首位，為比爾斯球迷提供便利",
-        "slug": "new-highmark-stadium-puts-accessibility-front-and-center-for-bills-fans-zh-c0ceb8e4"
-      },
-      {
-        "title": "BiblioCommons 與 Level Access 合作全面改進其無障礙方案",
-        "slug": "bibliocommons-partners-with-level-access-to-overhaul-its-accessibility-approache-zh-4006fd2f"
-      },
-      {
-        "title": "生物識別系統可能準確但仍無法通過無障礙測試 - Biometric Update",
-        "slug": "a-biometric-system-can-be-accurate-and-still-fail-an-accessibility-test-biometri-zh-eee7f4ee"
+        "title": "2026 年全國聾人女性聚會與全國聾人青年研究討論會網站上線",
+        "slug": "website-launch-for-deaf-women-and-youth-gatherings-2026-zh-1f976a6f"
       }
     ]
   }
