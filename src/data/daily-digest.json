@@ -1,55 +1,55 @@
 {
   "date": "2026-09-12",
-  "generatedAt": "2026-09-12T04:56:09.577Z",
+  "generatedAt": "2026-09-12T15:46:46.307Z",
   "en": {
-    "title": "Federal Transit Authority Allocates $233 Million for Rail Accessibility Upgrades",
-    "summary": "The U.S. Federal Transit Administration has awarded $233 million to improve rail infrastructure accessibility, ensuring compliance with disability access standards. In related news, an AI-assisted accessibility tool has been released for public trial, while New Taipei addresses obstacles in its accessible social housing units. Community efforts continue, with a Fort Myers Beach fundraiser for a wheelchair-accessible van and recognition of a disability advocate’s Commonwealth Scholarship.",
+    "title": "Major Transit Accessibility Funding Awarded Amid iOS 27 Accessibility Updates",
+    "summary": "The All Stations Accessibility Program awarded $233 million in funding following a $686 million offer to improve transit station accessibility for people with disabilities. Also announced, Florida launched its silent 911 lifelines program for emergency communication access, while Apple rolled out iOS 27 accessibility features including a new Accessibility Reader for dense text summarization and translation. Advocates highlighted ongoing concerns about disability skepticism and the need for greater societal understanding.",
     "highlights": [
       {
-        "title": "FTA issues $233M for rail accessibility upgrades",
-        "slug": "fta-issues-233m-for-rail-accessibility-upgrades-79cf336f"
+        "title": "All Stations Accessibility Program awards $233m after $686m offer",
+        "slug": "all-stations-accessibility-program-awards-233m-after-686m-offer-24690a62"
       },
       {
-        "title": "This incredible accessibility tool was coded with help from AI, and you can try it here",
-        "slug": "this-incredible-accessibility-tool-was-coded-with-help-from-ai-and-you-can-try-i-6723c430"
+        "title": "Accessibility in emergencies: Florida’s silent 911 lifelines",
+        "slug": "accessibility-in-emergencies-floridas-silent-911-lifelines-d75930ed"
       },
       {
-        "title": "New Taipei accessible social housing units face obstacles, city government promises to resolve",
-        "slug": "new-taipei-accessible-social-housing-units-face-obstacles-city-government-promis-26e6d788"
+        "title": "Accessibility Reader in iOS 27: Summaries and Translation for Dense Text, and the Five Details Apple Left Out",
+        "slug": "accessibility-reader-in-ios-27-summaries-and-translation-for-dense-text-and-the--e23c15c0"
       },
       {
-        "title": "Fort Myers Beach rallies around Cape Coral mom to help buy wheelchair accessible van",
-        "slug": "fort-myers-beach-rallies-around-cape-coral-mom-to-help-buy-wheelchair-accessible-d2a213df"
+        "title": "iOS 27 Accessibility: Apple’s Own Three Pages List Five Features, Three Features and None",
+        "slug": "ios-27-accessibility-apples-own-three-pages-list-five-features-three-features-an-1640057f"
       },
       {
-        "title": "Misty Glam Company Founder Named Commonwealth Scholar",
-        "slug": "misty-glam-company-founder-named-commonwealth-scholar-f428039a"
+        "title": "Concerns Regarding Disability Skepticism",
+        "slug": "concerns-regarding-disability-skepticism-338fc9e8"
       }
     ]
   },
   "zh-TW": {
-    "title": "聯邦交通管理局撥款2.33億美元升級鐵路無障礙設施",
-    "summary": "美國聯邦交通管理局已撥款2.33億美元，用於升級鐵路基礎設施以提升殘障人士無障礙性。同時，一項在AI協助下開發的無障礙工具現可公開試用，印第安納州高等教育委員會將審查雙學分課程的可及性。此外，殘障倡議組織Misty Glam創辦人獲英聯邦獎學金，藝術組織亦探討AI指引以平衡無障礙優勢與創作顧慮。",
+    "title": "所有車站無障礙計畫頒發2.33億美元以提升",
+    "summary": "所有車站無障礙計畫在獲得6.86億美元報價後，頒發2.33億美元資金，旨在提升交通車站對殘障人士的無障礙程度。佛羅里達州同時推出靜默911生命線計畫，為殘障人士提供緊急通訊便利；蘋果則在iOS 27中推出無障礙閱讀器與其他功能改進。此外，雄崎電梯捐贈車輛協助長者無礙出行，凸显社會對無障礙服務的持續關注。",
     "highlights": [
       {
-        "title": "聯邦交通管理局撥款2.33億美元用於鐵路無障礙升級",
-        "slug": "fta-issues-233m-for-rail-accessibility-upgrades-zh-79cf336f"
+        "title": "所有車站無障礙計畫在6.86億美元報價後頒發2.33億美元獎金",
+        "slug": "all-stations-accessibility-program-awards-233m-after-686m-offer-zh-24690a62"
       },
       {
-        "title": "這個令人驚艷的無障礙工具是在AI協助下編寫的，你可以在此嘗試",
-        "slug": "this-incredible-accessibility-tool-was-coded-with-help-from-ai-and-you-can-try-i-zh-6723c430"
+        "title": "緊急情況中的無障礙：佛羅里達州的靜默911生命線",
+        "slug": "accessibility-in-emergencies-floridas-silent-911-lifelines-zh-d75930ed"
       },
       {
-        "title": "印第安納州高等教育委員會將審查雙學分學分的可及性",
-        "slug": "indiana-higher-ed-commission-to-review-dual-college-credit-accessibility-zh-34a5009c"
+        "title": "iOS 27 的無障礙閱讀器：對密集文字的摘要與翻譯，以及蘋果遺漏的五個細節",
+        "slug": "accessibility-reader-in-ios-27-summaries-and-translation-for-dense-text-and-the--zh-e23c15c0"
       },
       {
-        "title": "Misty Glam Company 創辦人獲選為英聯邦獎學金得主",
-        "slug": "misty-glam-company-founder-named-commonwealth-scholar-zh-f428039a"
+        "title": "iOS 27 無障礙：蘋果三頁列出五項功能，三項功能未提供",
+        "slug": "ios-27-accessibility-apples-own-three-pages-list-five-features-three-features-an-zh-1640057f"
       },
       {
-        "title": "藝術組織需要AI指引以平衡無障礙優勢與創作顧慮",
-        "slug": "arts-organizations-need-ai-guidelines-to-balance-accessibility-benefits-with-cre-zh-9e3a8423"
+        "title": "雄崎電梯捐車助仁家長者無礙出行 協助新北擴充無障礙服務網",
+        "slug": "xiongqi-elevator-donates-vehicles-to-assist-elderly-in-barrier-free-travel-aidin-zh-59175a41"
       }
     ]
   }
