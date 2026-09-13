@@ -1,55 +1,39 @@
 {
   "date": "2026-09-13",
-  "generatedAt": "2026-09-13T05:17:12.024Z",
+  "generatedAt": "2026-09-13T16:39:35.015Z",
   "en": {
-    "title": "Apple Vision Pro Adds Accessibility Features Amid Taipei Wheelchair Accessibility Review",
-    "summary": "Apple Vision Pro will receive three new accessibility features, including vehicle motion cues, face gestures, and dwell control, aimed at improving usability for users with disabilities. In Taipei, a wheelchair tour highlighted discontinuities in the city's barrier‑free road infrastructure. Meanwhile, Hsinchu City bus drivers practiced wheelchair use to better understand accessibility needs and handle harassment incidents.",
+    "title": "New Transit Accessibility Plans and iOS Features Highlight Disability Inclusion",
+    "summary": "The MTA unveiled detailed accessibility specifications for the upcoming Interborough Express line, including level boarding, wheelchair spaces, and audible‑visual announcements. Additionally, Apple highlighted five iOS accessibility tools that benefit all users, while UNESCO Japan promoted community‑based employment support for people with disabilities. The combined initiatives underscore a growing focus on inclusive design across transportation, technology, and social programs.",
     "highlights": [
       {
-        "title": "Three More Accessibility Features Are Coming to Apple Vision Pro",
-        "slug": "three-more-accessibility-features-are-coming-to-apple-vision-pro-cd5e6355"
+        "title": "Where Disabled Veterans Prefer to Live in New York State",
+        "slug": "where-disabled-veterans-prefer-to-live-in-new-york-state-fd384e7a"
       },
       {
-        "title": "Wheelchair Tour Reveals Gaps in Taipei's Accessible Roads",
-        "slug": "wheelchair-tour-reveals-gaps-in-taipeis-accessible-roads-cdd60e9c"
+        "title": "5 iOS Accessibility Features You Should Try (Even If You Don't Need Them)",
+        "slug": "5-ios-accessibility-features-you-should-try-even-if-you-dont-need-them-dca59f42"
       },
       {
-        "title": "Hsinchu City Bus Drivers Experience Wheelchair Use to Practice Accessibility and Sexual Harassment Handling",
-        "slug": "hsinchu-city-bus-drivers-experience-wheelchair-use-to-practice-accessibility-and-c8ecc841"
-      },
-      {
-        "title": "Brain Scans Reveal How Human Echolocation Works",
-        "slug": "brain-scans-reveal-how-human-echolocation-works-36d800e4"
-      },
-      {
-        "title": "Home Renovation for Barrier-Free Living",
-        "slug": "home-renovation-for-barrier-free-living-95d7171a"
+        "title": "MTA details Interborough Express accessibility for vehicle design",
+        "slug": "mta-details-interborough-express-accessibility-for-vehicle-design-e5b99927"
       }
     ]
   },
   "zh-TW": {
-    "title": "Apple Vision Pro 加入三項無障礙功能，台北輪椅揭露道路斷裂",
-    "summary": "Apple Vision Pro 將加入車輛運動提示、面部手勢和停留控制三項無障礙功能，以提升殘障使用者體驗。台北輪椅體驗揭露無障礙道路斷裂，呼籲改善。竹市公車駕駛透過坐輪椅體驗，演練無障礙服務與性騷擾處理。",
+    "title": "城際特快線 無障礙 設計 公布 iOS 功能 推廣 包容",
+    "summary": "MTA 公布城際特快線的無障礙車輛設計細節，強調平臺無階上落、輪椅空間以及聲音與視覺廣播。Apple 同時推介五項 iOS 無障礙功能，讓所有使用者受惠；聯合國教科文組織日本則推動社區就業支援，提升殘障者的社會參與。這些舉措顯示交通、科技與社會領域對包容設計的日益重視。",
     "highlights": [
       {
-        "title": "Apple Vision Pro 將推出三項新無障礙功能",
-        "slug": "three-more-accessibility-features-are-coming-to-apple-vision-pro-zh-cd5e6355"
+        "title": "MTA 公開城際特快線無障礙車輛設計細節",
+        "slug": "mta-details-interborough-express-accessibility-for-vehicle-design-zh-e5b99927"
       },
       {
-        "title": "自由開講》輪椅走一趟，才看見台北無障礙道路斷在哪裡",
-        "slug": "wheelchair-tour-reveals-gaps-in-taipeis-accessible-roads-zh-cdd60e9c"
+        "title": "5 值得嘗試的 iOS 無障礙功能（即使你不需要它們）",
+        "slug": "5-ios-accessibility-features-you-should-try-even-if-you-dont-need-them-zh-dca59f42"
       },
       {
-        "title": "竹市公車駕駛坐輪椅體驗 演練無障礙及性騷處置",
-        "slug": "hsinchu-city-bus-drivers-experience-wheelchair-use-to-practice-accessibility-and-zh-c8ecc841"
-      },
-      {
-        "title": "腦部掃描揭示人類回聲定位的運作方式",
-        "slug": "brain-scans-reveal-how-human-echolocation-works-zh-36d800e4"
-      },
-      {
-        "title": "無障礙居家翻新",
-        "slug": "home-renovation-for-barrier-free-living-zh-95d7171a"
+        "title": "聯合國教科文組織 日本 促進 社會 包容 與 就業 支援",
+        "slug": "unesco-japan-promotes-social-inclusion-and-employment-support-zh-a0eb92ca"
       }
     ]
   }
