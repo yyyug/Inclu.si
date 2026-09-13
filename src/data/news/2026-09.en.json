@@ -28944,5 +28944,162 @@
     "publishedAt": "2026-09-12T13:16:34.000Z",
     "fetchedAt": "2026-09-12T15:55:28.104Z",
     "body": "The Utah Council of the Blind is inviting individuals to sign up for their newsletter, The UCB Buzz.\nTweet source: [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2098762694979719250)\nExternal link: [https://utahblind.org/chimp.html](https://utahblind.org/chimp.html)"
+  },
+  {
+    "title": "Three More Accessibility Features Are Coming to Apple Vision Pro",
+    "slug": "three-more-accessibility-features-are-coming-to-apple-vision-pro-cd5e6355",
+    "lang": "en",
+    "summary": "Apple Vision Pro will receive three new accessibility features, including vehicle motion cues, face gestures, and dwell control, aimed at improving usability for users with disabilities.",
+    "category": "digital-a11y",
+    "tags": [],
+    "sourceName": "The Mac Observer",
+    "sourceUrl": "https://www.macobserver.com/news/vision-pro-accessibility-features-vehicle-motion-cues-face-gestures-dwell-control",
+    "relatedSources": [
+      {
+        "name": "The Mac Observer",
+        "url": "https://www.macobserver.com/news/vision-pro-accessibility-features-vehicle-motion-cues-face-gestures-dwell-control"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-cd5e6355",
+    "status": "published",
+    "translationOf": "three-more-accessibility-features-are-coming-to-apple-vision-pro-zh-cd5e6355",
+    "publishedAt": "2026-09-13T00:58:29.000Z",
+    "fetchedAt": "2026-09-13T04:40:36.210Z",
+    "body": "Apple Vision Pro will receive three new accessibility features, including vehicle motion cues, face gestures, and dwell control, aimed at improving usability for users with disabilities.\n\nRead more from the original source: [The Mac Observer](https://www.macobserver.com/news/vision-pro-accessibility-features-vehicle-motion-cues-face-gestures-dwell-control)"
+  },
+  {
+    "title": "Hsinchu City Bus Drivers Experience Wheelchair Use to Practice Accessibility and Sexual Harassment Handling",
+    "slug": "hsinchu-city-bus-drivers-experience-wheelchair-use-to-practice-accessibility-and-c8ecc841",
+    "lang": "en",
+    "summary": "Bus drivers in Hsinchu City participated in a training exercise where they used wheelchairs to better understand accessibility needs and practiced handling sexual harassment incidents on public transport.",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "僑新聞",
+    "sourceUrl": "https://ocacnews.net/article/431382",
+    "relatedSources": [
+      {
+        "name": "僑新聞",
+        "url": "https://ocacnews.net/article/431382"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-c8ecc841",
+    "status": "published",
+    "translationOf": "hsinchu-city-bus-drivers-experience-wheelchair-use-to-practice-accessibility-and-zh-c8ecc841",
+    "publishedAt": "2026-09-12T19:00:00.000Z",
+    "fetchedAt": "2026-09-13T04:40:36.266Z",
+    "body": "Bus drivers in Hsinchu City participated in a training exercise where they used wheelchairs to better understand accessibility needs and practiced handling sexual harassment incidents on public transport.\n\nRead more from the original source: [僑新聞](https://ocacnews.net/article/431382)"
+  },
+  {
+    "title": "Wheelchair Tour Reveals Gaps in Taipei's Accessible Roads",
+    "slug": "wheelchair-tour-reveals-gaps-in-taipeis-accessible-roads-cdd60e9c",
+    "lang": "en",
+    "summary": "An opinion piece highlights how navigating Taipei by wheelchair exposes discontinuities in the city's barrier-free road infrastructure.",
+    "category": "physical-design",
+    "tags": [
+      "wheelchair",
+      "Taipei",
+      "accessible roads",
+      "urban accessibility"
+    ],
+    "sourceName": "自由評論網",
+    "sourceUrl": "https://talk.ltn.com.tw/article/breakingnews/5565052",
+    "relatedSources": [
+      {
+        "name": "自由評論網",
+        "url": "https://talk.ltn.com.tw/article/breakingnews/5565052"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-cdd60e9c",
+    "status": "published",
+    "translationOf": "wheelchair-tour-reveals-gaps-in-taipeis-accessible-roads-zh-cdd60e9c",
+    "publishedAt": "2026-09-13T01:30:00.000Z",
+    "fetchedAt": "2026-09-13T04:40:48.451Z",
+    "body": "An opinion piece highlights how navigating Taipei by wheelchair exposes discontinuities in the city's barrier-free road infrastructure.\n\nRead more from the original source: [自由評論網](https://talk.ltn.com.tw/article/breakingnews/5565052)"
+  },
+  {
+    "title": "Legislator Chen Nai-yu Exposes Accessibility Issues in Public Housing for SMA and Visually Impaired Residents, City Responds 'Cold-Blooded'",
+    "slug": "legislator-chen-nai-yu-exposes-accessibility-issues-in-public-housing-for-sma-an-39a03429",
+    "lang": "en",
+    "summary": "Legislator Chen Nai-yu reveals that SMA patients and visually impaired individuals have reported problems with accessible units in public housing, prompting a dismissive response from New Taipei City officials.",
+    "category": "laws-rights",
+    "tags": [
+      "SMA",
+      "visual impairment",
+      "public housing",
+      "accessibility",
+      "New Taipei City"
+    ],
+    "sourceName": "自由時報",
+    "sourceUrl": "https://news.ltn.com.tw/news/life/breakingnews/5570700",
+    "relatedSources": [
+      {
+        "name": "自由時報",
+        "url": "https://news.ltn.com.tw/news/life/breakingnews/5570700"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-39a03429",
+    "status": "published",
+    "translationOf": "legislator-chen-nai-yu-exposes-accessibility-issues-in-public-housing-for-sma-an-zh-39a03429",
+    "publishedAt": "2026-09-11T08:17:40.000Z",
+    "fetchedAt": "2026-09-13T04:40:48.501Z",
+    "body": "Legislator Chen Nai-yu reveals that SMA patients and visually impaired individuals have reported problems with accessible units in public housing, prompting a dismissive response from New Taipei City officials.\n\nRead more from the original source: [自由時報](https://news.ltn.com.tw/news/life/breakingnews/5570700)"
+  },
+  {
+    "title": "New Mud Springs Trail System Opens Near Moab, Expanding World-Class Mountain Biking Opportunities",
+    "slug": "new-mud-springs-trail-system-opens-near-moab-expanding-world-class-mountain-biki-758909ed",
+    "lang": "en",
+    "summary": "The newly opened Mud Springs Trail System near Moab adds adaptive cycling trails, catering to youth racers, adaptive cyclists, families, and riders of varying abilities.",
+    "category": "physical-design",
+    "tags": [
+      "adaptive cycling",
+      "trail system",
+      "Moab",
+      "mountain biking",
+      "accessibility"
+    ],
+    "sourceName": "PRNewswire",
+    "sourceUrl": "https://www.prnewswire.com/news-releases/new-mud-springs-trail-system-opens-near-moab-expanding-world-class-mountain-biking-opportunities-302876800.html",
+    "relatedSources": [
+      {
+        "name": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/new-mud-springs-trail-system-opens-near-moab-expanding-world-class-mountain-biking-opportunities-302876800.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-758909ed",
+    "status": "published",
+    "translationOf": "new-mud-springs-trail-system-opens-near-moab-expanding-world-class-mountain-biki-zh-758909ed",
+    "publishedAt": "2026-09-12T02:46:00.000Z",
+    "fetchedAt": "2026-09-13T04:40:48.535Z",
+    "body": "The newly opened Mud Springs Trail System near Moab adds adaptive cycling trails, catering to youth racers, adaptive cyclists, families, and riders of varying abilities.\n\nRead more from the original source: [PRNewswire](https://www.prnewswire.com/news-releases/new-mud-springs-trail-system-opens-near-moab-expanding-world-class-mountain-biking-opportunities-302876800.html)"
   }
 ]

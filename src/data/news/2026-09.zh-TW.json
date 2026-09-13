@@ -28944,5 +28944,162 @@
     "publishedAt": "2026-09-12T13:16:34.000Z",
     "fetchedAt": "2026-09-12T15:55:28.104Z",
     "body": "猶他州盲人協會邀請個人註冊其新聞通訊《UCB Buzz》。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2098762694979719250)\n外部連結： [https://utahblind.org/chimp.html](https://utahblind.org/chimp.html)"
+  },
+  {
+    "title": "Apple Vision Pro 將推出三項新無障礙功能",
+    "slug": "three-more-accessibility-features-are-coming-to-apple-vision-pro-zh-cd5e6355",
+    "lang": "zh-TW",
+    "summary": "Apple Vision Pro 即將加入車輛運動提示、面部手勢和停留控制三項無障礙功能，以提升殘障使用者的使用體驗。",
+    "category": "digital-a11y",
+    "tags": [],
+    "sourceName": "The Mac Observer",
+    "sourceUrl": "https://www.macobserver.com/news/vision-pro-accessibility-features-vehicle-motion-cues-face-gestures-dwell-control",
+    "relatedSources": [
+      {
+        "name": "The Mac Observer",
+        "url": "https://www.macobserver.com/news/vision-pro-accessibility-features-vehicle-motion-cues-face-gestures-dwell-control"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-cd5e6355",
+    "status": "published",
+    "translationOf": "three-more-accessibility-features-are-coming-to-apple-vision-pro-cd5e6355",
+    "publishedAt": "2026-09-13T00:58:29.000Z",
+    "fetchedAt": "2026-09-13T04:40:36.210Z",
+    "body": "Apple Vision Pro 即將加入車輛運動提示、面部手勢和停留控制三項無障礙功能，以提升殘障使用者的使用體驗。\n\n原文來源： [The Mac Observer](https://www.macobserver.com/news/vision-pro-accessibility-features-vehicle-motion-cues-face-gestures-dwell-control)"
+  },
+  {
+    "title": "竹市公車駕駛坐輪椅體驗 演練無障礙及性騷處置",
+    "slug": "hsinchu-city-bus-drivers-experience-wheelchair-use-to-practice-accessibility-and-zh-c8ecc841",
+    "lang": "zh-TW",
+    "summary": "竹市公車駕駛透過坐輪椅體驗，演練無障礙服務與性騷擾處理，以提升對殘障乘客的友善與安全。",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "僑新聞",
+    "sourceUrl": "https://ocacnews.net/article/431382",
+    "relatedSources": [
+      {
+        "name": "僑新聞",
+        "url": "https://ocacnews.net/article/431382"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-c8ecc841",
+    "status": "published",
+    "translationOf": "hsinchu-city-bus-drivers-experience-wheelchair-use-to-practice-accessibility-and-c8ecc841",
+    "publishedAt": "2026-09-12T19:00:00.000Z",
+    "fetchedAt": "2026-09-13T04:40:36.266Z",
+    "body": "竹市公車駕駛透過坐輪椅體驗，演練無障礙服務與性騷擾處理，以提升對殘障乘客的友善與安全。\n\n原文來源： [僑新聞](https://ocacnews.net/article/431382)"
+  },
+  {
+    "title": "自由開講》輪椅走一趟，才看見台北無障礙道路斷在哪裡",
+    "slug": "wheelchair-tour-reveals-gaps-in-taipeis-accessible-roads-zh-cdd60e9c",
+    "lang": "zh-TW",
+    "summary": "作者以輪椅親自體驗台北道路，指出無障礙設施仍有斷裂，呼籲改善。",
+    "category": "physical-design",
+    "tags": [
+      "wheelchair",
+      "Taipei",
+      "accessible roads",
+      "urban accessibility"
+    ],
+    "sourceName": "自由評論網",
+    "sourceUrl": "https://talk.ltn.com.tw/article/breakingnews/5565052",
+    "relatedSources": [
+      {
+        "name": "自由評論網",
+        "url": "https://talk.ltn.com.tw/article/breakingnews/5565052"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-cdd60e9c",
+    "status": "published",
+    "translationOf": "wheelchair-tour-reveals-gaps-in-taipeis-accessible-roads-cdd60e9c",
+    "publishedAt": "2026-09-13T01:30:00.000Z",
+    "fetchedAt": "2026-09-13T04:40:48.451Z",
+    "body": "作者以輪椅親自體驗台北道路，指出無障礙設施仍有斷裂，呼籲改善。\n\n原文來源： [自由評論網](https://talk.ltn.com.tw/article/breakingnews/5565052)"
+  },
+  {
+    "title": "陳乃瑜揭SMA患者、視障者反映社宅無障礙房型問題 新北市府回應「冷血」",
+    "slug": "legislator-chen-nai-yu-exposes-accessibility-issues-in-public-housing-for-sma-an-zh-39a03429",
+    "lang": "zh-TW",
+    "summary": "陳乃瑜指出SMA患者與視障者在社會住宅中遇到無障礙房型不足，新北市府的回應被形容為冷血。",
+    "category": "laws-rights",
+    "tags": [
+      "SMA",
+      "visual impairment",
+      "public housing",
+      "accessibility",
+      "New Taipei City"
+    ],
+    "sourceName": "自由時報",
+    "sourceUrl": "https://news.ltn.com.tw/news/life/breakingnews/5570700",
+    "relatedSources": [
+      {
+        "name": "自由時報",
+        "url": "https://news.ltn.com.tw/news/life/breakingnews/5570700"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-39a03429",
+    "status": "published",
+    "translationOf": "legislator-chen-nai-yu-exposes-accessibility-issues-in-public-housing-for-sma-an-39a03429",
+    "publishedAt": "2026-09-11T08:17:40.000Z",
+    "fetchedAt": "2026-09-13T04:40:48.501Z",
+    "body": "陳乃瑜指出SMA患者與視障者在社會住宅中遇到無障礙房型不足，新北市府的回應被形容為冷血。\n\n原文來源： [自由時報](https://news.ltn.com.tw/news/life/breakingnews/5570700)"
+  },
+  {
+    "title": "新 Mud Springs 步道系統在莫阿布附近開放，擴展世界級山地騎行機會",
+    "slug": "new-mud-springs-trail-system-opens-near-moab-expanding-world-class-mountain-biki-zh-758909ed",
+    "lang": "zh-TW",
+    "summary": "新開放的 Mud Springs 步道系統提供適應性騎行路線，適合青少年賽車、適應性騎士、家庭及各能力騎士。",
+    "category": "physical-design",
+    "tags": [
+      "adaptive cycling",
+      "trail system",
+      "Moab",
+      "mountain biking",
+      "accessibility"
+    ],
+    "sourceName": "PRNewswire",
+    "sourceUrl": "https://www.prnewswire.com/news-releases/new-mud-springs-trail-system-opens-near-moab-expanding-world-class-mountain-biking-opportunities-302876800.html",
+    "relatedSources": [
+      {
+        "name": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/new-mud-springs-trail-system-opens-near-moab-expanding-world-class-mountain-biking-opportunities-302876800.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-758909ed",
+    "status": "published",
+    "translationOf": "new-mud-springs-trail-system-opens-near-moab-expanding-world-class-mountain-biki-758909ed",
+    "publishedAt": "2026-09-12T02:46:00.000Z",
+    "fetchedAt": "2026-09-13T04:40:48.535Z",
+    "body": "新開放的 Mud Springs 步道系統提供適應性騎行路線，適合青少年賽車、適應性騎士、家庭及各能力騎士。\n\n原文來源： [PRNewswire](https://www.prnewswire.com/news-releases/new-mud-springs-trail-system-opens-near-moab-expanding-world-class-mountain-biking-opportunities-302876800.html)"
   }
 ]
