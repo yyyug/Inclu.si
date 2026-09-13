@@ -1,55 +1,55 @@
 {
-  "date": "2026-09-12",
-  "generatedAt": "2026-09-12T15:46:46.307Z",
+  "date": "2026-09-13",
+  "generatedAt": "2026-09-13T05:17:12.024Z",
   "en": {
-    "title": "Major Transit Accessibility Funding Awarded Amid iOS 27 Accessibility Updates",
-    "summary": "The All Stations Accessibility Program awarded $233 million in funding following a $686 million offer to improve transit station accessibility for people with disabilities. Also announced, Florida launched its silent 911 lifelines program for emergency communication access, while Apple rolled out iOS 27 accessibility features including a new Accessibility Reader for dense text summarization and translation. Advocates highlighted ongoing concerns about disability skepticism and the need for greater societal understanding.",
+    "title": "Apple Vision Pro Adds Accessibility Features Amid Taipei Wheelchair Accessibility Review",
+    "summary": "Apple Vision Pro will receive three new accessibility features, including vehicle motion cues, face gestures, and dwell control, aimed at improving usability for users with disabilities. In Taipei, a wheelchair tour highlighted discontinuities in the city's barrier‑free road infrastructure. Meanwhile, Hsinchu City bus drivers practiced wheelchair use to better understand accessibility needs and handle harassment incidents.",
     "highlights": [
       {
-        "title": "All Stations Accessibility Program awards $233m after $686m offer",
-        "slug": "all-stations-accessibility-program-awards-233m-after-686m-offer-24690a62"
+        "title": "Three More Accessibility Features Are Coming to Apple Vision Pro",
+        "slug": "three-more-accessibility-features-are-coming-to-apple-vision-pro-cd5e6355"
       },
       {
-        "title": "Accessibility in emergencies: Florida’s silent 911 lifelines",
-        "slug": "accessibility-in-emergencies-floridas-silent-911-lifelines-d75930ed"
+        "title": "Wheelchair Tour Reveals Gaps in Taipei's Accessible Roads",
+        "slug": "wheelchair-tour-reveals-gaps-in-taipeis-accessible-roads-cdd60e9c"
       },
       {
-        "title": "Accessibility Reader in iOS 27: Summaries and Translation for Dense Text, and the Five Details Apple Left Out",
-        "slug": "accessibility-reader-in-ios-27-summaries-and-translation-for-dense-text-and-the--e23c15c0"
+        "title": "Hsinchu City Bus Drivers Experience Wheelchair Use to Practice Accessibility and Sexual Harassment Handling",
+        "slug": "hsinchu-city-bus-drivers-experience-wheelchair-use-to-practice-accessibility-and-c8ecc841"
       },
       {
-        "title": "iOS 27 Accessibility: Apple’s Own Three Pages List Five Features, Three Features and None",
-        "slug": "ios-27-accessibility-apples-own-three-pages-list-five-features-three-features-an-1640057f"
+        "title": "Brain Scans Reveal How Human Echolocation Works",
+        "slug": "brain-scans-reveal-how-human-echolocation-works-36d800e4"
       },
       {
-        "title": "Concerns Regarding Disability Skepticism",
-        "slug": "concerns-regarding-disability-skepticism-338fc9e8"
+        "title": "Home Renovation for Barrier-Free Living",
+        "slug": "home-renovation-for-barrier-free-living-95d7171a"
       }
     ]
   },
   "zh-TW": {
-    "title": "所有車站無障礙計畫頒發2.33億美元以提升",
-    "summary": "所有車站無障礙計畫在獲得6.86億美元報價後，頒發2.33億美元資金，旨在提升交通車站對殘障人士的無障礙程度。佛羅里達州同時推出靜默911生命線計畫，為殘障人士提供緊急通訊便利；蘋果則在iOS 27中推出無障礙閱讀器與其他功能改進。此外，雄崎電梯捐贈車輛協助長者無礙出行，凸显社會對無障礙服務的持續關注。",
+    "title": "Apple Vision Pro 加入三項無障礙功能，台北輪椅揭露道路斷裂",
+    "summary": "Apple Vision Pro 將加入車輛運動提示、面部手勢和停留控制三項無障礙功能，以提升殘障使用者體驗。台北輪椅體驗揭露無障礙道路斷裂，呼籲改善。竹市公車駕駛透過坐輪椅體驗，演練無障礙服務與性騷擾處理。",
     "highlights": [
       {
-        "title": "所有車站無障礙計畫在6.86億美元報價後頒發2.33億美元獎金",
-        "slug": "all-stations-accessibility-program-awards-233m-after-686m-offer-zh-24690a62"
+        "title": "Apple Vision Pro 將推出三項新無障礙功能",
+        "slug": "three-more-accessibility-features-are-coming-to-apple-vision-pro-zh-cd5e6355"
       },
       {
-        "title": "緊急情況中的無障礙：佛羅里達州的靜默911生命線",
-        "slug": "accessibility-in-emergencies-floridas-silent-911-lifelines-zh-d75930ed"
+        "title": "自由開講》輪椅走一趟，才看見台北無障礙道路斷在哪裡",
+        "slug": "wheelchair-tour-reveals-gaps-in-taipeis-accessible-roads-zh-cdd60e9c"
       },
       {
-        "title": "iOS 27 的無障礙閱讀器：對密集文字的摘要與翻譯，以及蘋果遺漏的五個細節",
-        "slug": "accessibility-reader-in-ios-27-summaries-and-translation-for-dense-text-and-the--zh-e23c15c0"
+        "title": "竹市公車駕駛坐輪椅體驗 演練無障礙及性騷處置",
+        "slug": "hsinchu-city-bus-drivers-experience-wheelchair-use-to-practice-accessibility-and-zh-c8ecc841"
       },
       {
-        "title": "iOS 27 無障礙：蘋果三頁列出五項功能，三項功能未提供",
-        "slug": "ios-27-accessibility-apples-own-three-pages-list-five-features-three-features-an-zh-1640057f"
+        "title": "腦部掃描揭示人類回聲定位的運作方式",
+        "slug": "brain-scans-reveal-how-human-echolocation-works-zh-36d800e4"
       },
       {
-        "title": "雄崎電梯捐車助仁家長者無礙出行 協助新北擴充無障礙服務網",
-        "slug": "xiongqi-elevator-donates-vehicles-to-assist-elderly-in-barrier-free-travel-aidin-zh-59175a41"
+        "title": "無障礙居家翻新",
+        "slug": "home-renovation-for-barrier-free-living-zh-95d7171a"
       }
     ]
   }
