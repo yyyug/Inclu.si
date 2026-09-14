@@ -59,60 +59,48 @@
     }
   },
   "2026-09-14": {
-    "generatedAt": "2026-09-14T05:22:46.504Z",
+    "generatedAt": "2026-09-14T18:10:22.682Z",
     "en": {
-      "title": "MTA Unveils Accessible Design for New Interborough Express Transit Line",
-      "summary": "The MTA released detailed accessibility features for the Interborough Express transit line, including level boarding and wheelchair spaces. Meanwhile, L'Oréal announced a multi-year accessibility plan, and BlueRock launched a free website accessibility checker, while new AI tools assist welfare counters and Georgetown University faces criticism over printing accessibility gaps.",
+      "title": "Canada Launches Disability Benefit Payments; SEPTA Gets $80M for Station Upgrades",
+      "summary": "The Government of Canada begins issuing Disability Benefit payments in September to reduce financial barriers for persons with disabilities. Meanwhile, SEPTA receives an $80 million federal grant to upgrade three trolley stations for ADA compliance, and Taiwan's Ministry of Education launches its first campus accessibility building selection. Additionally, Lime Hollow Nature Center introduces TrackChairs to improve trail access for visitors with mobility impairments.",
       "highlights": [
         {
-          "title": "MTA details Interborough Express accessibility for vehicle design",
-          "slug": "mta-details-interborough-express-accessibility-for-vehicle-design-e5b99927"
+          "title": "Canada Disability Benefit payments start in September",
+          "slug": "canada-disability-benefit-payments-start-in-september-68a21bd9"
         },
         {
-          "title": "L'Oréal SA Multi-Year Accessibility Plan",
-          "slug": "loreal-sa-multi-year-accessibility-plan-c7f49966"
+          "title": "SEPTA gets $80 million to improve accessibility at three trolley stations",
+          "slug": "septa-gets-80-million-to-improve-accessibility-at-three-trolley-stations-e6baa503"
         },
         {
-          "title": "BlueRock Launches Free Website Accessibility Checker",
-          "slug": "bluerock-launches-free-website-accessibility-checker-fd4da7e2"
+          "title": "Ministry of Education first holds excellent campus accessible building selection for universities and colleges, establishing a model for accessible campus environment | Industry-Academia Research Training | Business - Economic Daily News",
+          "slug": "ministry-of-education-first-holds-excellent-campus-accessible-building-selection-2d83188c"
         },
         {
-          "title": "AI Interpretation System for Welfare Consultation Windows",
-          "slug": "ai-interpretation-system-for-welfare-consultation-windows-a962a565"
-        },
-        {
-          "title": "Out of Ink: Georgetown’s Lack of Printing Accessibility",
-          "slug": "out-of-ink-georgetowns-lack-of-printing-accessibility-c0252ce4"
-        },
-        {
-          "title": "5 iOS Accessibility Features You Should Try (Even If You Don't Need Them)",
-          "slug": "5-ios-accessibility-features-you-should-try-even-if-you-dont-need-them-dca59f42"
+          "title": "Lime Hollow Nature Center offers improved accessibility to trails with TrackChairs",
+          "slug": "lime-hollow-nature-center-offers-improved-accessibility-to-trails-with-trackchai-cc4374ed"
         }
       ]
     },
     "zh-TW": {
-      "title": "MTA 公布城際特快線無障礙設計，提升殘障乘客出行便利",
-      "summary": "MTA 發布城際特快線車輛設計細節，強調平台無階上落、輪椅空間及聲音視覺廣播等無障礙設施。同時，L'Oréal 宣布多年無障礙計畫，BlueRock 推出免費網站無障礙檢查工具，以及 AI 福祉傳譯系統協助聽障人士於福利櫃台使用。",
+      "title": "加拿大殘障福利付款九月發放；SEPTA獲8000萬升級車站",
+      "summary": "加拿大政府將於九月開始發放殘障福利付款，旨在減少殘障人士的經濟障礙。SEPTA 獲得聯邦 8000 萬美元補助金，將升級三個電車站以符合 ADA 標準。教育部首辦大專校院無障礙建築評選，台灣公益聯盟亦與兆豐證券、手語協會合作推出無障礙防詐手作體驗。",
       "highlights": [
         {
-          "title": "L'Oréal SA 多年無障礙計畫",
-          "slug": "loreal-sa-multi-year-accessibility-plan-zh-c7f49966"
+          "title": "加拿大殘障福利付款將於九月開始",
+          "slug": "canada-disability-benefit-payments-start-in-september-zh-68a21bd9"
         },
         {
-          "title": "BlueRock 推出免費網站無障礙檢查工具",
-          "slug": "bluerock-launches-free-website-accessibility-checker-zh-fd4da7e2"
+          "title": "SEPTA 獲得 8000 萬美元以改善三個電車站的無障礙設施",
+          "slug": "septa-gets-80-million-to-improve-accessibility-at-three-trolley-stations-zh-e6baa503"
         },
         {
-          "title": "福利諮詢窗口人工智慧傳譯系統",
-          "slug": "ai-interpretation-system-for-welfare-consultation-windows-zh-a962a565"
+          "title": "教育部首次辦理大專校院優良校園無障礙建築物評選 樹立校園無障礙環境典範 | 產學研訓 | 商情 - 經濟日報",
+          "slug": "ministry-of-education-first-holds-excellent-campus-accessible-building-selection-zh-2d83188c"
         },
         {
-          "title": "墨盒用盡：喬治城大學印刷無障礙不足",
-          "slug": "out-of-ink-georgetowns-lack-of-printing-accessibility-zh-c0252ce4"
-        },
-        {
-          "title": "5 值得嘗試的 iOS 無障礙功能（即使你不需要它們）",
-          "slug": "5-ios-accessibility-features-you-should-try-even-if-you-dont-need-them-zh-dca59f42"
+          "title": "台灣公益聯盟跨界攜手兆豐證券、手語協會 打造無障礙防詐與療癒手作共學體驗",
+          "slug": "taiwan-public-welfare-alliance-partners-with-mega-securities-and-sign-language-a-zh-f3dd44fc"
         }
       ]
     }
