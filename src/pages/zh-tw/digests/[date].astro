@@ -1,0 +1,44 @@
+---
+import { loadAllDailyDigests, getDailyDigest, buildHighlightLinks } from '../../../lib/digests';
+import { getPublishedNewsByLocale } from '../../../lib/news';
+import { localeBasePath, siteCopy } from '../../../lib/i18n';
+import DigestPage from '../../../components/news/DigestPage.astro';
+
+export async function getStaticPaths() {
+  const digests = await loadAllDailyDigests();
+  return digests.map((d, i) => ({
+    params: { date: d.date },
+    props: {
+      previous: i > 0 ? digests[i - 1].date : null,
+      next: i < digests.length - 1 ? digests[i + 1].date : null,
+    },
+  }));
+}
+
+const { previous, next } = Astro.props;
+const date = Astro.params.date as string;
+const locale = 'zh-TW';
+const copy = siteCopy[locale];
+const daily = await getDailyDigest(date);
+const localeDigest = daily?.['zh-TW'] ?? null;
+const entries = await getPublishedNewsByLocale(locale);
+const entryBySlug = new Map(entries.map((e) => [e.data.slug, e]));
+const highlightLinks = buildHighlightLinks(localeDigest, entryBySlug, localeBasePath(locale));
+const heading = copy.digest;
+const updatedBadge = `${copy.digestUpdated}: ${date}`;
+---
+
+<DigestPage
+  locale={locale}
+  heading={heading}
+  updatedBadge={updatedBadge}
+  digest={localeDigest}
+  fallbackText={copy.digestFallback}
+  highlightLinks={highlightLinks}
+  prevHref={previous ? `${localeBasePath(locale)}/digests/${previous}` : null}
+  nextHref={next ? `${localeBasePath(locale)}/digests/${next}` : null}
+  prevLabel={copy.digestPreviousDay}
+  nextLabel={copy.digestNextDay}
+  backHref={localeBasePath(locale)}
+  backLabel={copy.digestBackHome}
+/>

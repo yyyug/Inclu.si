@@ -1,0 +1,74 @@
+---
+import type { Locale } from '../../lib/i18n';
+import type { LocaleDigest, ResolvedDigestLink } from '../../lib/digests';
+import { siteCopy } from '../../lib/i18n';
+import Layout from '../../layouts/Layout.astro';
+import SiteHeader from './SiteHeader.astro';
+import DigestCard from './DigestCard.astro';
+
+interface Props {
+  locale: Locale;
+  heading: string;
+  updatedBadge: string;
+  digest: LocaleDigest | null;
+  fallbackText: string;
+  highlightLinks: ResolvedDigestLink[];
+  prevHref: string | null;
+  nextHref: string | null;
+  prevLabel: string;
+  nextLabel: string;
+  backHref: string;
+  backLabel: string;
+}
+
+const { locale, heading, updatedBadge, digest, fallbackText, highlightLinks, prevHref, nextHref, prevLabel, nextLabel, backHref, backLabel } = Astro.props;
+const copy = siteCopy[locale];
+---
+
+<Layout locale={locale} title={`${heading} | ${copy.siteName}`}>
+  <div class="mx-auto w-full max-w-6xl px-5 pt-10 sm:px-8 sm:pt-14">
+    <SiteHeader locale={locale} />
+  </div>
+
+  <main class="mx-auto flex w-full max-w-6xl flex-col space-y-10 px-5 pb-10 pt-6 sm:px-8 sm:pb-14 sm:pt-8">
+    <nav class="flex items-center justify-between gap-4">
+      {prevHref ? (
+        <a
+          href={prevHref}
+          class="rounded-full border border-slate-300 bg-white px-5 py-2 font-semibold text-slate-700 transition-all duration-300 hover:border-indigo-400 hover:text-indigo-700"
+        >
+          ← {prevLabel}
+        </a>
+      ) : (
+        <span class="rounded-full border border-slate-100 bg-slate-50 px-5 py-2 text-slate-300">← {prevLabel}</span>
+      )}
+
+      <a
+        href={backHref}
+        class="rounded-full border border-slate-300 bg-white px-4 py-2 text-sm font-semibold text-slate-600 transition-all duration-300 hover:border-indigo-400 hover:text-indigo-700"
+      >
+        {backLabel}
+      </a>
+
+      {nextHref ? (
+        <a
+          href={nextHref}
+          class="rounded-full border border-slate-300 bg-white px-5 py-2 font-semibold text-slate-700 transition-all duration-300 hover:border-indigo-400 hover:text-indigo-700"
+        >
+          {nextLabel} →
+        </a>
+      ) : (
+        <span class="rounded-full border border-slate-100 bg-slate-50 px-5 py-2 text-slate-300">{nextLabel} →</span>
+      )}
+    </nav>
+
+    <DigestCard
+      locale={locale}
+      heading={heading}
+      updatedBadge={updatedBadge}
+      digest={digest}
+      fallbackText={fallbackText}
+      highlightLinks={highlightLinks}
+    />
+  </main>
+</Layout>

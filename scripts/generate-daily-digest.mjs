@@ -1,23 +1,12 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { zhIsTranslated } from './news-ingest/zh-quality.mjs';
-
-function requireEnv(name) {
-  const value = process.env[name];
-  if (!value || !String(value).trim()) {
-    throw new Error(`Missing required environment variable: ${name}`);
-  }
-  return String(value).trim();
-}
+import { askLLM, stripCodeFence } from './digest-llm.mjs';
 
 const NEWS_DATA_DIR = path.resolve('src/data/news');
-const OUTPUT_FILE = path.resolve('src/data/daily-digest.json');
-const OLLAMA_BASE_URL = requireEnv('OLLAMA_BASE_URL').replace(/\/$/, '');
-const OLLAMA_API_KEY = requireEnv('OLLAMA_API_KEY');
-const OLLAMA_MODEL = requireEnv('OLLAMA_MODEL');
+const DIGESTS_DIR = path.resolve('src/data/digests');
+const LEGACY_OUTPUT_FILE = path.resolve('src/data/daily-digest.json');
 const DIGEST_DATE = process.env.DIGEST_DATE ?? new Date().toISOString().slice(0, 10);
-const OLLAMA_TIMEOUT_MS = Number(process.env.OLLAMA_TIMEOUT_MS ?? 60000);
-const OLLAMA_MAX_TOKENS = Math.max(1, Math.min(65536, Number(process.env.OLLAMA_MAX_TOKENS ?? 10240)));
 const DIGEST_LOOKBACK_HOURS = Number(
   process.env.DIGEST_LOOKBACK_HOURS
   ?? (Number(process.env.DIGEST_LOOKBACK_DAYS ?? 0) > 0 ? Number(process.env.DIGEST_LOOKBACK_DAYS) * 24 : 25),
@@ -161,18 +150,11 @@ function buildDigestPrompt(enCandidates, zhCandidates) {
 }
 
 function parseDigestResponse(enCandidates, zhCandidates, content) {
-  let cleanedContent = content.trim();
-  if (cleanedContent.startsWith('```json')) {
-    cleanedContent = cleanedContent.replace(/^```json\s*/, '').replace(/\s*```$/, '');
-  } else if (cleanedContent.startsWith('```')) {
-    cleanedContent = cleanedContent.replace(/^```\s*/, '').replace(/\s*```$/, '');
-  }
-
   let parsed;
   try {
-    parsed = JSON.parse(cleanedContent);
+    parsed = JSON.parse(stripCodeFence(content));
   } catch {
-    throw new Error(`Daily digest LLM returned invalid JSON: ${cleanedContent.slice(0, 200)}`);
+    throw new Error(`Daily digest LLM returned invalid JSON: ${content.slice(0, 200)}`);
   }
 
   return {
@@ -199,118 +181,64 @@ function parseDigestResponse(enCandidates, zhCandidates, content) {
   };
 }
 
-async function callOllamaAPI(prompt) {
-  if (!OLLAMA_API_KEY) {
-    throw new Error('Missing OLLAMA_API_KEY.');
-  }
-
-  let response;
+async function readJsonObject(filePath) {
   try {
-    response = await fetch(`${OLLAMA_BASE_URL}/chat/completions`, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        Authorization: `Bearer ${OLLAMA_API_KEY}`,
-      },
-      body: JSON.stringify({
-        model: OLLAMA_MODEL,
-        temperature: 0.2,
-        max_tokens: OLLAMA_MAX_TOKENS,
-        messages: [
-          { role: 'system', content: 'Always output valid minified JSON and nothing else.' },
-          { role: 'user', content: prompt },
-        ],
-      }),
-      signal: AbortSignal.timeout(OLLAMA_TIMEOUT_MS),
-    });
-  } catch (error) {
-    const code = error?.cause?.code ?? error?.code ?? 'UNKNOWN';
-    throw new Error(`Ollama request failed (${code}). ${error?.message ?? ''}`.trim());
+    const text = await fs.readFile(filePath, 'utf8');
+    const parsed = JSON.parse(text);
+    return parsed && typeof parsed === 'object' && !Array.isArray(parsed) ? parsed : {};
+  } catch {
+    return {};
   }
-
-  if (!response.ok) {
-    const text = await response.text();
-    throw new Error(`Ollama request failed: ${response.status} ${text}`);
-  }
-
-  const data = await response.json();
-  const content = data.choices?.[0]?.message?.content;
-  if (!content) {
-    throw new Error('Ollama returned empty content.');
-  }
-
-  return content;
 }
 
-async function callGroqAPI(prompt) {
-  const GROQ_API_KEY = process.env.GROQ_API_KEY;
-  if (!GROQ_API_KEY) {
-    throw new Error('GROQ_API_KEY not configured for fallback.');
-  }
-  const GROQ_MODEL = process.env.GROQ_MODEL || 'openai/gpt-oss-120b';
-  const GROQ_TIMEOUT_MS = Number(process.env.GROQ_TIMEOUT_MS ?? OLLAMA_TIMEOUT_MS);
-
-  console.log(`[digest] Ollama unavailable, falling back to Groq model=${GROQ_MODEL}`);
-
-  let response;
-  try {
-    response = await fetch('https://api.groq.com/openai/v1/chat/completions', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        Authorization: `Bearer ${GROQ_API_KEY}`,
-      },
-      body: JSON.stringify({
-        model: GROQ_MODEL,
-        temperature: 0.2,
-        max_tokens: OLLAMA_MAX_TOKENS,
-        messages: [
-          { role: 'system', content: 'Always output valid minified JSON and nothing else.' },
-          { role: 'user', content: prompt },
-        ],
-      }),
-      signal: AbortSignal.timeout(GROQ_TIMEOUT_MS),
-    });
-  } catch (error) {
-    const code = error?.cause?.code ?? error?.code ?? 'UNKNOWN';
-    throw new Error(`Groq fallback request failed (${code}). ${error?.message ?? ''}`.trim());
-  }
-
-  if (!response.ok) {
-    const text = await response.text();
-    throw new Error(`Groq fallback failed: ${response.status} ${text}`);
-  }
-
-  const data = await response.json();
-  const content = data.choices?.[0]?.message?.content;
-  if (!content) {
-    throw new Error('Groq fallback returned empty content.');
-  }
-
-  return content;
+async function writeJsonObjectSorted(filePath, data) {
+  const sorted = Object.fromEntries(Object.entries(data).sort(([a], [b]) => a.localeCompare(b)));
+  await fs.writeFile(filePath, `${JSON.stringify(sorted, null, 2)}\n`, 'utf8');
 }
 
-async function askLLM(enCandidates, zhCandidates) {
-  const prompt = buildDigestPrompt(enCandidates, zhCandidates);
+async function upsertDailyDigest(output) {
+  await fs.mkdir(DIGESTS_DIR, { recursive: true });
+  const year = output.date.slice(0, 4);
+  const filePath = path.join(DIGESTS_DIR, `daily-${year}.json`);
+  const data = await readJsonObject(filePath);
+  data[output.date] = {
+    generatedAt: output.generatedAt,
+    en: output.en,
+    'zh-TW': output['zh-TW'],
+  };
+  await writeJsonObjectSorted(filePath, data);
+  console.log(`[digest] wrote ${filePath}`);
+}
 
+async function migrateLegacyDigestIfPresent() {
+  let legacy;
   try {
-    const content = await callOllamaAPI(prompt);
-    console.log('[digest] Ollama succeeded');
-    return parseDigestResponse(enCandidates, zhCandidates, content);
-  } catch (ollamaError) {
-    console.warn(`[digest] Ollama failed: ${ollamaError.message}`);
+    legacy = JSON.parse(await fs.readFile(LEGACY_OUTPUT_FILE, 'utf8'));
+  } catch {
+    return;
   }
 
-  const groqEn = enCandidates.slice(0, GROQ_MAX_CANDIDATES_PER_LOCALE);
-  const groqZh = zhCandidates.slice(0, GROQ_MAX_CANDIDATES_PER_LOCALE);
-  const groqPrompt = buildDigestPrompt(groqEn, groqZh);
-  console.log(`[digest] Groq fallback with ${groqEn.length} en + ${groqZh.length} zh candidates`);
-  const content = await callGroqAPI(groqPrompt);
-  console.log('[digest] Groq fallback succeeded');
-  return parseDigestResponse(groqEn, groqZh, content);
+  const date = String(legacy?.date ?? '');
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return;
+  if (!legacy?.en || !legacy?.['zh-TW']) return;
+
+  const year = date.slice(0, 4);
+  const filePath = path.join(DIGESTS_DIR, `daily-${year}.json`);
+  const data = await readJsonObject(filePath);
+  if (data[date]) return;
+
+  data[date] = {
+    generatedAt: String(legacy.generatedAt ?? ''),
+    en: legacy.en,
+    'zh-TW': legacy['zh-TW'],
+  };
+  await writeJsonObjectSorted(filePath, data);
+  console.log(`[digest] migrated legacy ${path.basename(LEGACY_OUTPUT_FILE)} (${date})`);
 }
 
 async function main() {
+  await migrateLegacyDigestIfPresent();
+
   const rows = await loadRecentPublishedArticles();
   const enRows = rows.filter((item) => item.lang === 'en').slice(0, DIGEST_MAX_CANDIDATES_PER_LOCALE);
   const zhRows = rows.filter((item) => item.lang === 'zh-TW').slice(0, DIGEST_MAX_CANDIDATES_PER_LOCALE);
@@ -325,15 +253,17 @@ async function main() {
     console.warn('[digest] Warning: one locale has zero candidates; highlights may be sparse for that locale.');
   }
 
-  const digest = await askLLM(enRows, zhRows);
+  const prompt = buildDigestPrompt(enRows, zhRows);
+  const fallbackPrompt = buildDigestPrompt(enRows.slice(0, GROQ_MAX_CANDIDATES_PER_LOCALE), zhRows.slice(0, GROQ_MAX_CANDIDATES_PER_LOCALE));
+  const content = await askLLM(prompt, fallbackPrompt);
+  const digest = parseDigestResponse(enRows, zhRows, content);
   const output = {
     date: DIGEST_DATE,
     generatedAt: new Date().toISOString(),
     ...digest,
   };
 
-  await fs.mkdir(path.dirname(OUTPUT_FILE), { recursive: true });
-  await fs.writeFile(OUTPUT_FILE, `${JSON.stringify(output, null, 2)}\n`, 'utf8');
+  await upsertDailyDigest(output);
   console.log(`Generated digest for ${DIGEST_DATE}`);
 }
 

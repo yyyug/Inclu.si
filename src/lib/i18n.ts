@@ -17,8 +17,14 @@ export const siteCopy: Record<Locale, {
   globalNewsMessage: string;
   latest: string;
   digest: string;
+  digestWeek: string;
   digestUpdated: string;
   digestFallback: string;
+  digestPreviousDay: string;
+  digestNextDay: string;
+  digestPreviousWeek: string;
+  digestNextWeek: string;
+  digestBackHome: string;
   sourceLabel: string;
   empty: string;
   categories: string;
@@ -35,8 +41,14 @@ export const siteCopy: Record<Locale, {
     globalNewsMessage: 'Curated accessibility reporting across policy, design, and technology.',
     latest: 'Latest Coverage',
     digest: 'Daily Digest',
+    digestWeek: 'Weekly Recap',
     digestUpdated: 'Updated',
     digestFallback: 'Daily digest will appear here after the scheduled digest workflow runs.',
+    digestPreviousDay: 'Previous day',
+    digestNextDay: 'Next day',
+    digestPreviousWeek: 'Previous week',
+    digestNextWeek: 'Next week',
+    digestBackHome: 'Back to homepage',
     sourceLabel: 'Source coverage',
     empty: 'No published stories yet. Trigger the ingest job or add an article from Pages CMS.',
     categories: 'Categories',
@@ -53,8 +65,14 @@ export const siteCopy: Record<Locale, {
     globalNewsMessage: '聚焦政策、設計與科技的無障礙重點報導。',
     latest: '最新焦點',
     digest: '今日摘要',
+    digestWeek: '本週摘要',
     digestUpdated: '更新時間',
     digestFallback: '每日摘要會在排程工作執行後顯示於此。',
+    digestPreviousDay: '前一天',
+    digestNextDay: '下一天',
+    digestPreviousWeek: '上一週',
+    digestNextWeek: '下一週',
+    digestBackHome: '返回首頁',
     sourceLabel: '相關來源',
     empty: '目前沒有已發佈文章，可先執行抓稿工作或在 Pages CMS 新增文章。',
     categories: '分類',

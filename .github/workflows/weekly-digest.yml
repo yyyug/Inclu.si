@@ -1,0 +1,133 @@
+name: Weekly Accessibility Digest
+
+on:
+  workflow_dispatch:
+    inputs:
+      week:
+        description: 'ISO week to generate (e.g. 2026-W37). Empty = previous week.'
+        required: false
+        default: ''
+      force:
+        description: 'Force regeneration if entry already exists.'
+        required: false
+        default: '0'
+        type: choice
+        options: ['0', '1']
+  schedule:
+    - cron: "20 1 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  weekly-digest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate weekly digest
+        id: weekly_digest
+        shell: bash
+        run: |
+          set -o pipefail
+          npm run news:weekly-digest 2>&1 | tee weekly-digest.log
+        env:
+          OLLAMA_API_KEY: ${{ secrets.OLLAMA_API_KEY }}
+          OLLAMA_BASE_URL: ${{ secrets.OLLAMA_BASE_URL }}
+          OLLAMA_MODEL: nemotron-3-super:cloud
+          OLLAMA_MAX_TOKENS: 10240
+          OLLAMA_TIMEOUT_MS: 300000
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL: openai/gpt-oss-120b
+          GROQ_TIMEOUT_MS: 300000
+          DIGEST_WEEK: ${{ inputs.week || '' }}
+          DIGEST_WEEK_FORCE: ${{ inputs.force || '0' }}
+
+      - name: Deploy to Cloudflare Pages
+        if: always()
+        continue-on-error: true
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: f12f219ab9cf823c47c1e01a463d67a6
+        run: |
+          npm run build
+          npx wrangler pages deploy dist --project-name inclu-si --branch main
+
+      - name: Commit weekly digest output
+        if: always()
+        run: |
+          if git diff --quiet src/data/digests/; then
+            echo "No weekly digest updates"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add src/data/digests/
+            git commit -m "chore: generate weekly digest"
+            for attempt in 1 2 3; do
+              if git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
+                exit 0
+              fi
+              echo "Push attempt ${attempt} failed; retrying..."
+            done
+            echo "Failed to push changes after retries"
+            exit 1
+          fi
+
+      - name: Upload run log artifact
+        if: failure()
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: weekly-digest-log-${{ github.run_id }}
+          path: weekly-digest.log
+          if-no-files-found: ignore
+          retention-days: 2
+
+      - name: Build concise run summary
+        if: always()
+        shell: bash
+        run: |
+          {
+            echo "workflow: weekly-digest"
+            echo "run_id: ${{ github.run_id }}"
+            echo "run_attempt: ${{ github.run_attempt }}"
+            echo "job_status: ${{ job.status }}"
+            echo "ref: ${{ github.ref_name }}"
+            echo "sha: ${{ github.sha }}"
+            echo "generated_at_utc: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            echo "digest_week: ${{ inputs.week || 'previous' }}"
+            echo "force: ${{ inputs.force || '0' }}"
+            if [ -f weekly-digest.log ]; then
+              echo "log_tail:"
+              tail -n 40 weekly-digest.log
+            else
+              echo "log_tail: weekly-digest.log not found"
+            fi
+          } > weekly-digest-summary.txt
+
+      - name: Upload concise run summary
+        if: always()
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: weekly-digest-summary-${{ github.run_id }}
+          path: weekly-digest-summary.txt
+          if-no-files-found: ignore
+          retention-days: 2
+
+      - name: Report step outcomes
+        if: always()
+        shell: bash
+        run: |
+          echo "weekly_digest=${{ steps.weekly_digest.outcome }}"

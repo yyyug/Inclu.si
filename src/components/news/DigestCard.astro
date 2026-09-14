@@ -1,0 +1,48 @@
+---
+import type { Locale } from '../../lib/i18n';
+import type { LocaleDigest, ResolvedDigestLink } from '../../lib/digests';
+
+interface Props {
+  locale: Locale;
+  heading: string;
+  updatedBadge?: string;
+  digest: LocaleDigest | null;
+  fallbackText: string;
+  highlightLinks: ResolvedDigestLink[];
+}
+
+const { locale, heading, updatedBadge, digest, fallbackText, highlightLinks } = Astro.props;
+---
+
+<section class="rounded-3xl border border-indigo-200 bg-gradient-to-r from-indigo-50 via-white to-cyan-50 p-5 sm:p-8">
+  <div class="flex flex-wrap items-center justify-between gap-3">
+    <h2 class="font-['Merriweather'] text-3xl font-black tracking-tight text-slate-900">{heading}</h2>
+    {updatedBadge && (
+      <span class="rounded-full border border-indigo-200 bg-white px-3 py-1 text-xs font-bold uppercase tracking-wide text-indigo-700">
+        {updatedBadge}
+      </span>
+    )}
+  </div>
+  {digest?.highlights && digest.highlights.length > 0 ? (
+    <>
+      <p class="mt-4 font-['Merriweather'] text-lg leading-relaxed text-slate-700">{digest.summary}</p>
+      <ul class="mt-5 grid gap-3 sm:grid-cols-2">
+        {highlightLinks.map((link) => (
+          <li class="rounded-2xl border border-white/80 bg-white/70 p-4">
+            <a
+              href={link.href}
+              target={link.external ? '_blank' : undefined}
+              rel={link.external ? 'noopener noreferrer' : undefined}
+              class="font-semibold text-slate-800 transition-all duration-300 hover:text-indigo-700"
+            >
+              {link.label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </>
+  ) : (
+    <p class="mt-4 text-slate-600">{fallbackText}</p>
+  )}
+  <slot />
+</section>
