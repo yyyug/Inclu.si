@@ -102,6 +102,7 @@ const {
         </div>
       </div>
       <script is:inline type="application/json" data-digest-json set:html={browseData}></script>
+      <span data-dsc class="sr-only" aria-live="polite"></span>
     </>
   ) : (
     (prevHref || nextHref || weekHref || currentLabel) && (
@@ -215,7 +216,8 @@ const {
       var prev = root.querySelector('[data-dp]');
       var next = root.querySelector('[data-dn]');
       var week = root.querySelector('[data-dw]');
-      if (!heading || !badge || !summary || !list || !current || !prev || !next || !week) return;
+      var live = root.querySelector('[data-dsc]');
+      if (!heading || !badge || !summary || !list || !current || !prev || !next || !week || !live) return;
 
       var mode = 'day';
       var dayIndex = daily.length - 1;
@@ -268,22 +270,41 @@ const {
         }
       }
 
+      function announce() {
+        var item = mode === 'day' ? daily[dayIndex] : weekly[weekIndex];
+        if (!item) return;
+        var scope = mode === 'day' ? item.date : item.range.start + ' \u2013 ' + item.range.end;
+        var msg = (copy.digestUpdated || 'Updated') + ': ' + scope + '. ' + (item.title || item.summary || '');
+        live.textContent = '';
+        setTimeout(function () {
+          live.textContent = msg;
+        }, 20);
+      }
+
+      function digestKey() {
+        return mode + ':' + (mode === 'day' ? dayIndex : weekIndex);
+      }
+
       prev.addEventListener('click', function () {
+        var before = digestKey();
         if (mode === 'day') {
           if (dayIndex > 0) dayIndex -= 1;
         } else if (weekIndex > 0) {
           weekIndex -= 1;
         }
         render();
+        if (before !== digestKey()) announce();
       });
 
       next.addEventListener('click', function () {
+        var before = digestKey();
         if (mode === 'day') {
           if (dayIndex < daily.length - 1) dayIndex += 1;
         } else if (weekIndex < weekly.length - 1) {
           weekIndex += 1;
         }
         render();
+        if (before !== digestKey()) announce();
       });
 
       week.addEventListener('click', function () {
@@ -295,6 +316,7 @@ const {
           mode = 'week';
         }
         render();
+        announce();
       });
 
       render();
