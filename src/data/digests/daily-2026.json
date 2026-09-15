@@ -5690,6 +5690,57 @@
       ]
     }
   },
+  "2026-08-28": {
+    "generatedAt": "2026-09-15T04:02:13.797Z",
+    "en": {
+      "title": "Belton Seeks Public Input on ADA Plan to Boost Disability Accessibility",
+      "summary": "Belton is seeking community feedback on its ADA Transition Plan to improve accessibility for people with disabilities. Meanwhile, Missoula County is deploying a robot named Dax to assist navigation in public spaces, and the State Fair of Texas outlines its accessibility services including wheelchair rentals and sign language interpretation. Additional updates cover digital accessibility guidelines and online ukulele lessons for visually impaired students.",
+      "highlights": [
+        {
+          "title": "City of Belton asking for input on ADA accessibility plan",
+          "slug": "city-of-belton-asking-for-input-on-ada-accessibility-plan-c1529447"
+        },
+        {
+          "title": "Does the State Fair of Texas offer accessibility services? Here’s what to know - Dallas News",
+          "slug": "does-the-state-fair-of-texas-offer-accessibility-services-heres-what-to-know-dal-a978bc0a"
+        },
+        {
+          "title": "Digital Accessibility Must Preserve the State of Our Work",
+          "slug": "digital-accessibility-must-preserve-the-state-of-our-work-dc0000d7"
+        },
+        {
+          "title": "Online Ukulele Lessons for Visually Impaired Students",
+          "slug": "online-ukulele-lessons-for-visually-impaired-students-37bae989"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "貝爾頓求ADA意見 提升無障礙",
+      "summary": "貝爾頓目前正在徵求民眾對其ADA無障礙計畫的意見，以提升對殘障居民的設施與服務。同時，Missoula County 部署機器人 Dax 協助殘障人士在公共場所導航，德州州博覽會則提供輪椅租賃、手語傳譯等無障礙服務。此外，尚有數位無障礙指南以及 X 平台外部瀏覽器設定的相關討論。",
+      "highlights": [
+        {
+          "title": "貝爾頓市徵求公眾對ADA無障礙計畫的意見",
+          "slug": "city-of-belton-asking-for-input-on-ada-accessibility-plan-zh-c1529447"
+        },
+        {
+          "title": "認識 Dax：協助 Missoula 縣改善無障礙的機器人",
+          "slug": "meet-dax-the-robot-helping-missoula-county-improve-accessibility-zh-d89cf2be"
+        },
+        {
+          "title": "德州州博覽會是否提供無障礙服務？以下是您需要知道的 - Dallas News",
+          "slug": "does-the-state-fair-of-texas-offer-accessibility-services-heres-what-to-know-dal-zh-a978bc0a"
+        },
+        {
+          "title": "數位無障礙必須保存我們工作的狀態",
+          "slug": "digital-accessibility-must-preserve-the-state-of-our-work-zh-dc0000d7"
+        },
+        {
+          "title": "X 應用 外部瀏覽器 設定",
+          "slug": "x-app-external-browser-setting-zh-65b32324"
+        }
+      ]
+    }
+  },
   "2026-08-29": {
     "date": "2026-08-29",
     "generatedAt": "2026-08-29T16:51:45.246Z",
