@@ -26,6 +26,7 @@ export const siteCopy: Record<Locale, {
   digestNextWeek: string;
   digestBackHome: string;
   digestViewWeekly: string;
+  digestViewDaily: string;
   sourceLabel: string;
   empty: string;
   categories: string;
@@ -45,12 +46,13 @@ export const siteCopy: Record<Locale, {
     digestWeek: 'Weekly Recap',
     digestUpdated: 'Updated',
     digestFallback: 'Daily digest will appear here after the scheduled digest workflow runs.',
-    digestPreviousDay: 'Previous day',
-    digestNextDay: 'Next day',
+    digestPreviousDay: 'Previous digest',
+    digestNextDay: 'Next digest',
     digestPreviousWeek: 'Previous week',
     digestNextWeek: 'Next week',
     digestBackHome: 'Back to homepage',
     digestViewWeekly: 'View weekly recap',
+    digestViewDaily: 'View daily digest',
     sourceLabel: 'Source coverage',
     empty: 'No published stories yet. Trigger the ingest job or add an article from Pages CMS.',
     categories: 'Categories',
@@ -70,12 +72,13 @@ export const siteCopy: Record<Locale, {
     digestWeek: '本週摘要',
     digestUpdated: '更新時間',
     digestFallback: '每日摘要會在排程工作執行後顯示於此。',
-    digestPreviousDay: '前一天',
-    digestNextDay: '下一天',
+    digestPreviousDay: '上一則摘要',
+    digestNextDay: '下一則摘要',
     digestPreviousWeek: '上一週',
     digestNextWeek: '下一週',
     digestBackHome: '返回首頁',
     digestViewWeekly: '查看本週摘要',
+    digestViewDaily: '查看每日摘要',
     sourceLabel: '相關來源',
     empty: '目前沒有已發佈文章，可先執行抓稿工作或在 Pages CMS 新增文章。',
     categories: '分類',

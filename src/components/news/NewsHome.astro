@@ -3,7 +3,7 @@ import Layout from '../../layouts/Layout.astro';
 import type { Locale } from '../../lib/i18n';
 import { localeBasePath, siteCopy } from '../../lib/i18n';
 import { collectCategoryCounts, getPublishedNewsByLocale } from '../../lib/news';
-import { buildHighlightLinks, getLatestDailyDigest, getLatestWeeklyDigest, loadAllDailyDigests } from '../../lib/digests';
+import { buildHighlightLinks, getLatestDailyDigest, loadAllDailyDigests, loadAllWeeklyDigests } from '../../lib/digests';
 import SiteHeader from './SiteHeader.astro';
 import NewsPaginated from './NewsPaginated.astro';
 import DigestCard from './DigestCard.astro';
@@ -26,7 +26,40 @@ const highlightLinks = buildHighlightLinks(localeDigest, entryBySlug, localeBase
 const allDaily = await loadAllDailyDigests();
 const digestIndex = latestDigest ? allDaily.findIndex((d) => d.date === latestDigest.date) : -1;
 const prevDate = digestIndex > 0 ? allDaily[digestIndex - 1].date : null;
-const latestWeekly = await getLatestWeeklyDigest();
+const allWeekly = await loadAllWeeklyDigests();
+const latestWeekly = allWeekly.length > 0 ? allWeekly[allWeekly.length - 1] : null;
+
+const basePath = localeBasePath(locale);
+const browseDaily = allDaily.slice(-30).map((d) => ({
+  date: d.date,
+  generatedAt: d.generatedAt,
+  title: d[locale].title,
+  summary: d[locale].summary,
+  highlights: buildHighlightLinks(d[locale], entryBySlug, basePath),
+}));
+const browseWeekly = allWeekly.slice(-16).map((w) => ({
+  week: w.week,
+  range: w.range,
+  generatedAt: w.generatedAt,
+  title: w[locale].title,
+  summary: w[locale].summary,
+  highlights: buildHighlightLinks(w[locale], entryBySlug, basePath),
+}));
+const browseData = JSON.stringify({
+  copy: {
+    digest: copy.digest,
+    digestWeek: copy.digestWeek,
+    digestUpdated: copy.digestUpdated,
+    digestPreviousDay: copy.digestPreviousDay,
+    digestNextDay: copy.digestNextDay,
+    digestPreviousWeek: copy.digestPreviousWeek,
+    digestNextWeek: copy.digestNextWeek,
+    digestViewWeekly: copy.digestViewWeekly,
+    digestViewDaily: copy.digestViewDaily,
+  },
+  daily: browseDaily,
+  weekly: browseWeekly,
+});
 
 const perPage = 20;
 const filteredEntries = activeCategory
@@ -74,8 +107,10 @@ const pageEntries = filteredEntries.slice((page - 1) * perPage, page * perPage);
       nextHref={null}
       prevLabel={copy.digestPreviousDay}
       nextLabel={copy.digestNextDay}
-      weekHref={latestWeekly ? `${localeBasePath(locale)}/digests/week/${latestWeekly.week}` : null}
+      weekHref={latestWeekly ? `${basePath}/digests/week/${latestWeekly.week}` : null}
       weekLabel={copy.digestViewWeekly}
+      browse
+      browseData={browseData}
     />
 
     <section class="rounded-3xl border border-slate-200 bg-white p-5 sm:p-8">

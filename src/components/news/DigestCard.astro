@@ -16,10 +16,11 @@ interface Props {
   nextLabel?: string;
   weekHref?: string | null;
   weekLabel?: string;
+  browse?: boolean;
+  browseData?: string;
 }
 
 const {
-  locale,
   heading,
   updatedBadge,
   digest,
@@ -32,22 +33,27 @@ const {
   nextLabel,
   weekHref,
   weekLabel,
+  browse,
+  browseData,
 } = Astro.props;
 ---
 
-<section class="rounded-3xl border border-indigo-200 bg-gradient-to-r from-indigo-50 via-white to-cyan-50 p-5 sm:p-8">
+<section
+  class="rounded-3xl border border-indigo-200 bg-gradient-to-r from-indigo-50 via-white to-cyan-50 p-5 sm:p-8"
+  data-digest-browse
+>
   <div class="flex flex-wrap items-center justify-between gap-3">
-    <h2 class="font-['Merriweather'] text-3xl font-black tracking-tight text-slate-900">{heading}</h2>
+    <h2 data-dh class="font-['Merriweather'] text-3xl font-black tracking-tight text-slate-900">{heading}</h2>
     {updatedBadge && (
-      <span class="rounded-full border border-indigo-200 bg-white px-3 py-1 text-xs font-bold uppercase tracking-wide text-indigo-700">
+      <span data-db class="rounded-full border border-indigo-200 bg-white px-3 py-1 text-xs font-bold uppercase tracking-wide text-indigo-700">
         {updatedBadge}
       </span>
     )}
   </div>
   {digest?.highlights && digest.highlights.length > 0 ? (
     <>
-      <p class="mt-4 font-['Merriweather'] text-lg leading-relaxed text-slate-700">{digest.summary}</p>
-      <ul class="mt-5 grid gap-3 sm:grid-cols-2">
+      <p data-ds class="mt-4 font-['Merriweather'] text-lg leading-relaxed text-slate-700">{digest.summary}</p>
+      <ul data-dl class="mt-5 grid gap-3 sm:grid-cols-2">
         {highlightLinks.map((link) => (
           <li class="rounded-2xl border border-white/80 bg-white/70 p-4">
             <a
@@ -65,46 +71,239 @@ const {
   ) : (
     <p class="mt-4 text-slate-600">{fallbackText}</p>
   )}
-  {(prevHref || nextHref || weekHref || currentLabel) && (
-    <div class="mt-6 border-t border-indigo-100 pt-4">
-      <div class="flex flex-wrap items-center justify-between gap-3">
-        {prevHref ? (
-          <a
-            href={prevHref}
+  {browse && browseData ? (
+    <>
+      <div class="mt-6 border-t border-indigo-100 pt-4">
+        <div class="flex flex-wrap items-center justify-between gap-3">
+          <button
+            data-dp
+            type="button"
             class="rounded-full border border-slate-300 bg-white px-5 py-2 text-sm font-semibold text-slate-700 transition-all duration-300 hover:border-indigo-400 hover:text-indigo-700"
           >
             ← {prevLabel}
-          </a>
-        ) : (
-          <span class="rounded-full border border-slate-100 bg-slate-50 px-5 py-2 text-sm text-slate-300">← {prevLabel}</span>
-        )}
-
-        {currentLabel && (
-          <span class="text-sm font-semibold text-slate-500">{currentLabel}</span>
-        )}
-
-        {nextHref ? (
-          <a
-            href={nextHref}
+          </button>
+          <span data-dc class="text-sm font-semibold text-slate-500">{currentLabel}</span>
+          <button
+            data-dn
+            type="button"
             class="rounded-full border border-slate-300 bg-white px-5 py-2 text-sm font-semibold text-slate-700 transition-all duration-300 hover:border-indigo-400 hover:text-indigo-700"
           >
             {nextLabel} →
-          </a>
-        ) : (
-          <span class="rounded-full border border-slate-100 bg-slate-50 px-5 py-2 text-sm text-slate-300">{nextLabel} →</span>
-        )}
-      </div>
-      {weekHref && (
+          </button>
+        </div>
         <div class="mt-3 flex justify-end">
-          <a
-            href={weekHref}
+          <button
+            data-dw
+            type="button"
             class="rounded-full border border-indigo-200 bg-white px-4 py-2 text-sm font-bold text-indigo-700 transition-all duration-300 hover:border-indigo-400 hover:text-indigo-900"
           >
             {weekLabel} →
-          </a>
+          </button>
         </div>
-      )}
-    </div>
+      </div>
+      <script is:inline type="application/json" data-digest-json set:html={browseData}></script>
+    </>
+  ) : (
+    (prevHref || nextHref || weekHref || currentLabel) && (
+      <div class="mt-6 border-t border-indigo-100 pt-4">
+        <div class="flex flex-wrap items-center justify-between gap-3">
+          {prevHref ? (
+            <a
+              href={prevHref}
+              class="rounded-full border border-slate-300 bg-white px-5 py-2 text-sm font-semibold text-slate-700 transition-all duration-300 hover:border-indigo-400 hover:text-indigo-700"
+            >
+              ← {prevLabel}
+            </a>
+          ) : (
+            <span class="rounded-full border border-slate-100 bg-slate-50 px-5 py-2 text-sm text-slate-300">← {prevLabel}</span>
+          )}
+
+          {currentLabel && (
+            <span class="text-sm font-semibold text-slate-500">{currentLabel}</span>
+          )}
+
+          {nextHref ? (
+            <a
+              href={nextHref}
+              class="rounded-full border border-slate-300 bg-white px-5 py-2 text-sm font-semibold text-slate-700 transition-all duration-300 hover:border-indigo-400 hover:text-indigo-700"
+            >
+              {nextLabel} →
+            </a>
+          ) : (
+            <span class="rounded-full border border-slate-100 bg-slate-50 px-5 py-2 text-sm text-slate-300">{nextLabel} →</span>
+          )}
+        </div>
+        {weekHref && (
+          <div class="mt-3 flex justify-end">
+            <a
+              href={weekHref}
+              class="rounded-full border border-indigo-200 bg-white px-4 py-2 text-sm font-bold text-indigo-700 transition-all duration-300 hover:border-indigo-400 hover:text-indigo-900"
+            >
+              {weekLabel} →
+            </a>
+          </div>
+        )}
+      </div>
+    )
   )}
   <slot />
 </section>
+
+<script data-astro-rerun>
+  (function () {
+    var PILL_ACTIVE =
+      'rounded-full border border-slate-300 bg-white px-5 py-2 text-sm font-semibold text-slate-700 transition-all duration-300 hover:border-indigo-400 hover:text-indigo-700';
+    var PILL_DISABLED =
+      'rounded-full border border-slate-100 bg-slate-50 px-5 py-2 text-sm text-slate-300';
+    var WEEK_ACTIVE =
+      'rounded-full border border-indigo-200 bg-white px-4 py-2 text-sm font-bold text-indigo-700 transition-all duration-300 hover:border-indigo-400 hover:text-indigo-900';
+    var LINK_LI = 'rounded-2xl border border-white/80 bg-white/70 p-4';
+    var LINK_A = 'font-semibold text-slate-800 transition-all duration-300 hover:text-indigo-700';
+
+    function renderList(el, links) {
+      el.replaceChildren();
+      var fragment = document.createDocumentFragment();
+      links.forEach(function (link) {
+        var li = document.createElement('li');
+        li.className = LINK_LI;
+        var a = document.createElement('a');
+        a.href = link.href;
+        a.className = LINK_A;
+        a.textContent = link.label;
+        if (link.external) {
+          a.target = '_blank';
+          a.rel = 'noopener noreferrer';
+        }
+        li.appendChild(a);
+        fragment.appendChild(li);
+      });
+      el.appendChild(fragment);
+    }
+
+    function setPill(el, label, disabled, arrow) {
+      el.className = disabled ? PILL_DISABLED : PILL_ACTIVE;
+      el.textContent = arrow === 'left' ? '\u2190 ' + label : label + ' \u2192';
+      el.disabled = disabled;
+      el.setAttribute('aria-disabled', String(disabled));
+    }
+
+    function initDigestBrowser(root) {
+      var jsonEl = root.querySelector('script[data-digest-json][type="application/json"]');
+      if (!jsonEl) return;
+      var data;
+      try {
+        data = JSON.parse(jsonEl.textContent || 'null');
+      } catch (e) {
+        return;
+      }
+      if (!data || !Array.isArray(data.daily) || !Array.isArray(data.weekly)) return;
+
+      var copy = data.copy || {};
+      var daily = data.daily.slice().sort(function (a, b) {
+        return a.date.localeCompare(b.date);
+      });
+      var weekly = data.weekly.slice().sort(function (a, b) {
+        return a.week.localeCompare(b.week);
+      });
+      if (daily.length === 0 && weekly.length === 0) return;
+
+      var heading = root.querySelector('[data-dh]');
+      var badge = root.querySelector('[data-db]');
+      var summary = root.querySelector('[data-ds]');
+      var list = root.querySelector('[data-dl]');
+      var current = root.querySelector('[data-dc]');
+      var prev = root.querySelector('[data-dp]');
+      var next = root.querySelector('[data-dn]');
+      var week = root.querySelector('[data-dw]');
+      if (!heading || !badge || !summary || !list || !current || !prev || !next || !week) return;
+
+      var mode = 'day';
+      var dayIndex = daily.length - 1;
+      var weekIndex = weekly.length - 1;
+
+      function containingWeekIndex(date) {
+        for (var i = weekly.length - 1; i >= 0; i--) {
+          var r = weekly[i].range;
+          if (r && date >= r.start && date <= r.end) return i;
+        }
+        return weekly.length - 1;
+      }
+
+      function render() {
+        if (mode === 'day') {
+          var day = daily[dayIndex];
+          if (!day) return;
+          heading.textContent = copy.digest || 'Daily Digest';
+          badge.textContent = (copy.digestUpdated || 'Updated') + ': ' + day.date;
+          summary.textContent = day.summary;
+          renderList(list, day.highlights || []);
+          current.textContent = day.date;
+          setPill(prev, copy.digestPreviousDay || 'Previous', dayIndex <= 0, 'left');
+          setPill(next, copy.digestNextDay || 'Next', dayIndex >= daily.length - 1, 'right');
+          if (weekly.length === 0) {
+            week.style.display = 'none';
+          } else {
+            week.style.display = '';
+            week.textContent = (copy.digestViewWeekly || 'Weekly recap') + ' \u2192';
+            week.className = WEEK_ACTIVE;
+            weekIndex = containingWeekIndex(day.date);
+          }
+        } else {
+          var w = weekly[weekIndex];
+          if (!w) {
+            mode = 'day';
+            render();
+            return;
+          }
+          heading.textContent = copy.digestWeek || 'Weekly Recap';
+          badge.textContent = (copy.digestUpdated || 'Updated') + ': ' + w.range.start + ' \u2013 ' + w.range.end;
+          summary.textContent = w.summary;
+          renderList(list, w.highlights || []);
+          current.textContent = w.range.start + ' \u2013 ' + w.range.end;
+          setPill(prev, copy.digestPreviousWeek || 'Previous week', weekIndex <= 0, 'left');
+          setPill(next, copy.digestNextWeek || 'Next week', weekIndex >= weekly.length - 1, 'right');
+          week.style.display = '';
+          week.textContent = (copy.digestViewDaily || 'Daily digest') + ' \u2192';
+          week.className = WEEK_ACTIVE;
+        }
+      }
+
+      prev.addEventListener('click', function () {
+        if (mode === 'day') {
+          if (dayIndex > 0) dayIndex -= 1;
+        } else if (weekIndex > 0) {
+          weekIndex -= 1;
+        }
+        render();
+      });
+
+      next.addEventListener('click', function () {
+        if (mode === 'day') {
+          if (dayIndex < daily.length - 1) dayIndex += 1;
+        } else if (weekIndex < weekly.length - 1) {
+          weekIndex += 1;
+        }
+        render();
+      });
+
+      week.addEventListener('click', function () {
+        if (mode === 'week') {
+          mode = 'day';
+        } else {
+          var day = daily[dayIndex];
+          weekIndex = day ? containingWeekIndex(day.date) : weekly.length - 1;
+          mode = 'week';
+        }
+        render();
+      });
+
+      render();
+    }
+
+    document.querySelectorAll('[data-digest-browse]').forEach(function (root) {
+      if (root.querySelector('script[data-digest-json][type="application/json"]')) {
+        initDigestBrowser(root);
+      }
+    });
+  })();
+</script>
