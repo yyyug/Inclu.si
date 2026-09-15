@@ -2,6 +2,11 @@ name: Daily Accessibility Digest
 
 on:
   workflow_dispatch:
+    inputs:
+      date:
+        description: 'Date to generate digest for, YYYY-MM-DD. Empty = today.'
+        required: false
+        default: ''
   schedule:
     - cron: "37 0,12 * * *"
 
@@ -42,6 +47,7 @@ jobs:
           GROQ_MODEL: openai/gpt-oss-120b
           GROQ_TIMEOUT_MS: 300000
           DIGEST_LOOKBACK_HOURS: 24
+          DIGEST_DATE: ${{ inputs.date || '' }}
 
       - name: Deploy to Cloudflare Pages
         if: always()
@@ -78,6 +84,7 @@ jobs:
             echo "ref: ${{ github.ref_name }}"
             echo "sha: ${{ github.sha }}"
             echo "generated_at_utc: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            echo "digest_date: ${{ inputs.date || 'today' }}"
             echo "ollama_timeout_ms: ${OLLAMA_TIMEOUT_MS}"
             echo "ollama_max_retries: ${OLLAMA_MAX_RETRIES}"
             if [ -f digest.log ]; then
