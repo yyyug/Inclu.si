@@ -6681,56 +6681,56 @@
     }
   },
   "2026-09-15": {
-    "generatedAt": "2026-09-15T09:16:20.732Z",
+    "generatedAt": "2026-09-15T17:13:57.075Z",
     "en": {
-      "title": "Topeka Seeks Public Input on ADA Accessibility Upgrades for City Buildings",
-      "summary": "Topeka is inviting public feedback to improve ADA compliance and accessibility in municipal buildings, focusing on removing barriers for people with disabilities. Other updates include TLC enhancing its library solution for better accessibility, Overture Center showcasing assistive tools, SEPTA planning an $80M trolley station upgrade, and a Japanese ministry reporting decreased abuse of persons with disabilities.",
+      "title": "Topeka Seeks Public Input on ADA Accessibility in City Buildings",
+      "summary": "Topeka is inviting public feedback to improve ADA compliance and accessibility in municipal buildings, focusing on removing barriers for people with disabilities. Meanwhile, Blackboard Ally released new features to help institutions meet Title II accessibility requirements, and Philadelphia’s SEPTA stations secured an $80 million upgrade for accessibility by 2029. Additional highlights include Overture Center’s new accessibility tools for arts audiences and Taiwan’s Ministry of Education awarding YunTech Library for its accessible design.",
       "highlights": [
         {
           "title": "Topeka seeks input on ADA accessibility in City buildings",
           "slug": "topeka-seeks-input-on-ada-accessibility-in-city-buildings-41c74587"
         },
         {
-          "title": "TLC Updates Library-Solution With More Flexibility and Accessibility",
-          "slug": "tlc-updates-library-solution-with-more-flexibility-and-accessibility-ff3f88c6"
-        },
-        {
-          "title": "Overture Center showcases accessibility tools ahead of new season",
-          "slug": "overture-center-showcases-accessibility-tools-ahead-of-new-season-ae619962"
+          "title": "Blackboard Ally Innovations Help Institutions Build a Culture of Accessibility Beyond Title II Deadline",
+          "slug": "blackboard-ally-innovations-help-institutions-build-a-culture-of-accessibility-b-31220dd3"
         },
         {
           "title": "3 Center City SEPTA trolley stations to get $80M accessibility upgrade by 2029",
           "slug": "3-center-city-septa-trolley-stations-to-get-80m-accessibility-upgrade-by-2029-f18f00b7"
         },
         {
-          "title": "MHLW Report on Abuse of Persons with Disabilities",
-          "slug": "mhlw-report-on-abuse-of-persons-with-disabilities-15d0da96"
+          "title": "Overture Center showcases accessibility tools ahead of new season",
+          "slug": "overture-center-showcases-accessibility-tools-ahead-of-new-season-2c70bb2d"
+        },
+        {
+          "title": "Ministry of Education First Presents Accessible Building Award; YunTech Library's Facilities Win Gold Prize for Detailed Design",
+          "slug": "ministry-of-education-first-presents-accessible-building-award-yuntech-librarys--e19be52b"
         }
       ]
     },
     "zh-TW": {
-      "title": "托皮卡市尋求公眾意見改善ADA無障礙設施",
-      "summary": "托皮卡市正邀請公眾提供意見，以提升市政建築的ADA合規性和無障礙設施，重點在於消除殘障人士的障礙。其他更新包括TLC增強其Library‑Solution的彈性與無障礙功能，Overture中心展示無障礙工具，SEPTA規劃8000萬美元電車站無障礙升級，以及日本厚生勞動省報告殘障人士虐待案件下降。",
+      "title": "托皮卡市徵求公眾意見 改善城市建築ADA無障礙設施",
+      "summary": "托皮卡市正邀請公眾提供意見，以提升市政建築的ADA合規性和無障礙設施，重點在於消除殘障人士的障礙。同時，Blackboard Ally 推出新功能協助大學符合 Title II 無障礙法規，費城中央城的三個SEPTA電車站獲 8000萬美元無障礙升級，預計 2029 年完成。此外，奧verture中心展示新季無障礙工具，台灣教育部頒發無障礙建物獎給雲科大圖書館。",
       "highlights": [
         {
           "title": "托皮卡市尋求公眾意見以改善城市建築的ADA無障礙設施",
           "slug": "topeka-seeks-input-on-ada-accessibility-in-city-buildings-zh-41c74587"
         },
         {
-          "title": "TLC 更新 Library‑Solution，提升彈性與無障礙功能",
-          "slug": "tlc-updates-library-solution-with-more-flexibility-and-accessibility-zh-ff3f88c6"
-        },
-        {
-          "title": "奧verture中心展示無障礙工具，為新季做準備",
-          "slug": "overture-center-showcases-accessibility-tools-ahead-of-new-season-zh-ae619962"
+          "title": "Blackboard Ally 創新功能助力院校在 Title II 期限後建立無障礙文化",
+          "slug": "blackboard-ally-innovations-help-institutions-build-a-culture-of-accessibility-b-zh-31220dd3"
         },
         {
           "title": "費城中央城三個SEPTA電車站將獲8000萬美元無障礙升級，預計2029年完成",
           "slug": "3-center-city-septa-trolley-stations-to-get-80m-accessibility-upgrade-by-2029-zh-f18f00b7"
         },
         {
-          "title": "厚生勞動省殘障人士虐待報告",
-          "slug": "mhlw-report-on-abuse-of-persons-with-disabilities-zh-15d0da96"
+          "title": "Overture 中心在新季節前展示無障礙工具",
+          "slug": "overture-center-showcases-accessibility-tools-ahead-of-new-season-zh-2c70bb2d"
+        },
+        {
+          "title": "教育部首頒無障礙建物獎 雲科大圖書館設施細膩獲金質獎",
+          "slug": "ministry-of-education-first-presents-accessible-building-award-yuntech-librarys--zh-e19be52b"
         }
       ]
     }
