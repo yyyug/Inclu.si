@@ -1,5 +1,5 @@
 ---
-import { loadAllDailyDigests, getDailyDigest, buildHighlightLinks } from '../../../lib/digests';
+import { loadAllDailyDigests, getDailyDigest, getWeeklyDigestForDate, buildHighlightLinks } from '../../../lib/digests';
 import { getPublishedNewsByLocale } from '../../../lib/news';
 import { localeBasePath, siteCopy } from '../../../lib/i18n';
 import DigestPage from '../../../components/news/DigestPage.astro';
@@ -26,6 +26,8 @@ const entryBySlug = new Map(entries.map((e) => [e.data.slug, e]));
 const highlightLinks = buildHighlightLinks(localeDigest, entryBySlug, localeBasePath(locale));
 const heading = copy.digest;
 const updatedBadge = `${copy.digestUpdated}: ${date}`;
+const containingWeek = await getWeeklyDigestForDate(date);
+const weekHref = containingWeek ? `${localeBasePath(locale)}/digests/week/${containingWeek.week}` : null;
 ---
 
 <DigestPage
@@ -41,4 +43,6 @@ const updatedBadge = `${copy.digestUpdated}: ${date}`;
   nextLabel={copy.digestNextDay}
   backHref={localeBasePath(locale)}
   backLabel={copy.digestBackHome}
+  weekHref={weekHref}
+  weekLabel={copy.digestViewWeekly}
 />

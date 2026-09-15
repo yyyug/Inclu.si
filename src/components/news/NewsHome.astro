@@ -3,7 +3,7 @@ import Layout from '../../layouts/Layout.astro';
 import type { Locale } from '../../lib/i18n';
 import { localeBasePath, siteCopy } from '../../lib/i18n';
 import { collectCategoryCounts, getPublishedNewsByLocale } from '../../lib/news';
-import { buildHighlightLinks, getLatestDailyDigest } from '../../lib/digests';
+import { buildHighlightLinks, getLatestDailyDigest, getLatestWeeklyDigest, loadAllDailyDigests } from '../../lib/digests';
 import SiteHeader from './SiteHeader.astro';
 import NewsPaginated from './NewsPaginated.astro';
 import DigestCard from './DigestCard.astro';
@@ -22,6 +22,11 @@ const latestDigest = await getLatestDailyDigest();
 const localeDigest = latestDigest ? latestDigest[locale] ?? null : null;
 const entryBySlug = new Map(entries.map((entry) => [entry.data.slug, entry]));
 const highlightLinks = buildHighlightLinks(localeDigest, entryBySlug, localeBasePath(locale));
+
+const allDaily = await loadAllDailyDigests();
+const digestIndex = latestDigest ? allDaily.findIndex((d) => d.date === latestDigest.date) : -1;
+const prevDate = digestIndex > 0 ? allDaily[digestIndex - 1].date : null;
+const latestWeekly = await getLatestWeeklyDigest();
 
 const perPage = 20;
 const filteredEntries = activeCategory
@@ -64,6 +69,13 @@ const pageEntries = filteredEntries.slice((page - 1) * perPage, page * perPage);
       digest={localeDigest}
       fallbackText={copy.digestFallback}
       highlightLinks={highlightLinks}
+      currentLabel={latestDigest ? latestDigest.date : undefined}
+      prevHref={prevDate ? `${localeBasePath(locale)}/digests/${prevDate}` : null}
+      nextHref={null}
+      prevLabel={copy.digestPreviousDay}
+      nextLabel={copy.digestNextDay}
+      weekHref={latestWeekly ? `${localeBasePath(locale)}/digests/week/${latestWeekly.week}` : null}
+      weekLabel={copy.digestViewWeekly}
     />
 
     <section class="rounded-3xl border border-slate-200 bg-white p-5 sm:p-8">

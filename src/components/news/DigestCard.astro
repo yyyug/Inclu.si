@@ -9,9 +9,30 @@ interface Props {
   digest: LocaleDigest | null;
   fallbackText: string;
   highlightLinks: ResolvedDigestLink[];
+  currentLabel?: string;
+  prevHref?: string | null;
+  nextHref?: string | null;
+  prevLabel?: string;
+  nextLabel?: string;
+  weekHref?: string | null;
+  weekLabel?: string;
 }
 
-const { locale, heading, updatedBadge, digest, fallbackText, highlightLinks } = Astro.props;
+const {
+  locale,
+  heading,
+  updatedBadge,
+  digest,
+  fallbackText,
+  highlightLinks,
+  currentLabel,
+  prevHref,
+  nextHref,
+  prevLabel,
+  nextLabel,
+  weekHref,
+  weekLabel,
+} = Astro.props;
 ---
 
 <section class="rounded-3xl border border-indigo-200 bg-gradient-to-r from-indigo-50 via-white to-cyan-50 p-5 sm:p-8">
@@ -43,6 +64,47 @@ const { locale, heading, updatedBadge, digest, fallbackText, highlightLinks } = 
     </>
   ) : (
     <p class="mt-4 text-slate-600">{fallbackText}</p>
+  )}
+  {(prevHref || nextHref || weekHref || currentLabel) && (
+    <div class="mt-6 border-t border-indigo-100 pt-4">
+      <div class="flex flex-wrap items-center justify-between gap-3">
+        {prevHref ? (
+          <a
+            href={prevHref}
+            class="rounded-full border border-slate-300 bg-white px-5 py-2 text-sm font-semibold text-slate-700 transition-all duration-300 hover:border-indigo-400 hover:text-indigo-700"
+          >
+            ← {prevLabel}
+          </a>
+        ) : (
+          <span class="rounded-full border border-slate-100 bg-slate-50 px-5 py-2 text-sm text-slate-300">← {prevLabel}</span>
+        )}
+
+        {currentLabel && (
+          <span class="text-sm font-semibold text-slate-500">{currentLabel}</span>
+        )}
+
+        {nextHref ? (
+          <a
+            href={nextHref}
+            class="rounded-full border border-slate-300 bg-white px-5 py-2 text-sm font-semibold text-slate-700 transition-all duration-300 hover:border-indigo-400 hover:text-indigo-700"
+          >
+            {nextLabel} →
+          </a>
+        ) : (
+          <span class="rounded-full border border-slate-100 bg-slate-50 px-5 py-2 text-sm text-slate-300">{nextLabel} →</span>
+        )}
+      </div>
+      {weekHref && (
+        <div class="mt-3 flex justify-end">
+          <a
+            href={weekHref}
+            class="rounded-full border border-indigo-200 bg-white px-4 py-2 text-sm font-bold text-indigo-700 transition-all duration-300 hover:border-indigo-400 hover:text-indigo-900"
+          >
+            {weekLabel} →
+          </a>
+        </div>
+      )}
+    </div>
   )}
   <slot />
 </section>

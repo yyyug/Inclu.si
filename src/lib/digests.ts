@@ -150,6 +150,19 @@ export async function getWeeklyDigest(week: string): Promise<WeeklyDigest | null
   return all.find((d) => d.week === week) ?? null;
 }
 
+export async function getWeeklyDigestForDate(date: string): Promise<WeeklyDigest | null> {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return null;
+  const all = await loadAllWeeklyDigests();
+  return (
+    all.find((d) => {
+      const start = d.range?.start;
+      const end = d.range?.end;
+      if (!start || !end) return false;
+      return date >= start && date <= end;
+    }) ?? null
+  );
+}
+
 export async function getLatestDailyDigest(): Promise<DailyDigest | null> {
   const all = await loadAllDailyDigests();
   return all.length > 0 ? all[all.length - 1] : null;

@@ -19,9 +19,11 @@ interface Props {
   nextLabel: string;
   backHref: string;
   backLabel: string;
+  weekHref?: string | null;
+  weekLabel?: string;
 }
 
-const { locale, heading, updatedBadge, digest, fallbackText, highlightLinks, prevHref, nextHref, prevLabel, nextLabel, backHref, backLabel } = Astro.props;
+const { locale, heading, updatedBadge, digest, fallbackText, highlightLinks, prevHref, nextHref, prevLabel, nextLabel, backHref, backLabel, weekHref, weekLabel } = Astro.props;
 const copy = siteCopy[locale];
 ---
 
@@ -69,6 +71,8 @@ const copy = siteCopy[locale];
       digest={digest}
       fallbackText={fallbackText}
       highlightLinks={highlightLinks}
+      weekHref={weekHref}
+      weekLabel={weekLabel}
     />
   </main>
 </Layout>
