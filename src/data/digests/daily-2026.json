@@ -6679,5 +6679,60 @@
         }
       ]
     }
+  },
+  "2026-09-15": {
+    "generatedAt": "2026-09-15T09:16:20.732Z",
+    "en": {
+      "title": "Topeka Seeks Public Input on ADA Accessibility Upgrades for City Buildings",
+      "summary": "Topeka is inviting public feedback to improve ADA compliance and accessibility in municipal buildings, focusing on removing barriers for people with disabilities. Other updates include TLC enhancing its library solution for better accessibility, Overture Center showcasing assistive tools, SEPTA planning an $80M trolley station upgrade, and a Japanese ministry reporting decreased abuse of persons with disabilities.",
+      "highlights": [
+        {
+          "title": "Topeka seeks input on ADA accessibility in City buildings",
+          "slug": "topeka-seeks-input-on-ada-accessibility-in-city-buildings-41c74587"
+        },
+        {
+          "title": "TLC Updates Library-Solution With More Flexibility and Accessibility",
+          "slug": "tlc-updates-library-solution-with-more-flexibility-and-accessibility-ff3f88c6"
+        },
+        {
+          "title": "Overture Center showcases accessibility tools ahead of new season",
+          "slug": "overture-center-showcases-accessibility-tools-ahead-of-new-season-ae619962"
+        },
+        {
+          "title": "3 Center City SEPTA trolley stations to get $80M accessibility upgrade by 2029",
+          "slug": "3-center-city-septa-trolley-stations-to-get-80m-accessibility-upgrade-by-2029-f18f00b7"
+        },
+        {
+          "title": "MHLW Report on Abuse of Persons with Disabilities",
+          "slug": "mhlw-report-on-abuse-of-persons-with-disabilities-15d0da96"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "托皮卡市尋求公眾意見改善ADA無障礙設施",
+      "summary": "托皮卡市正邀請公眾提供意見，以提升市政建築的ADA合規性和無障礙設施，重點在於消除殘障人士的障礙。其他更新包括TLC增強其Library‑Solution的彈性與無障礙功能，Overture中心展示無障礙工具，SEPTA規劃8000萬美元電車站無障礙升級，以及日本厚生勞動省報告殘障人士虐待案件下降。",
+      "highlights": [
+        {
+          "title": "托皮卡市尋求公眾意見以改善城市建築的ADA無障礙設施",
+          "slug": "topeka-seeks-input-on-ada-accessibility-in-city-buildings-zh-41c74587"
+        },
+        {
+          "title": "TLC 更新 Library‑Solution，提升彈性與無障礙功能",
+          "slug": "tlc-updates-library-solution-with-more-flexibility-and-accessibility-zh-ff3f88c6"
+        },
+        {
+          "title": "奧verture中心展示無障礙工具，為新季做準備",
+          "slug": "overture-center-showcases-accessibility-tools-ahead-of-new-season-zh-ae619962"
+        },
+        {
+          "title": "費城中央城三個SEPTA電車站將獲8000萬美元無障礙升級，預計2029年完成",
+          "slug": "3-center-city-septa-trolley-stations-to-get-80m-accessibility-upgrade-by-2029-zh-f18f00b7"
+        },
+        {
+          "title": "厚生勞動省殘障人士虐待報告",
+          "slug": "mhlw-report-on-abuse-of-persons-with-disabilities-zh-15d0da96"
+        }
+      ]
+    }
   }
 }
