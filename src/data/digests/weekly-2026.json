@@ -61,5 +61,120 @@
         }
       ]
     }
+  },
+  "2026-W36": {
+    "range": {
+      "start": "2026-08-31",
+      "end": "2026-09-06"
+    },
+    "generatedAt": "2026-09-15T03:43:20.896Z",
+    "en": {
+      "title": "Global Disability Accessibility Advances: New EU Digital Standard, NZ Law, and US HUD Updates",
+      "summary": "The European Standard EN 301549 on digital accessibility was published, providing updated guidelines for inclusive technology worldwide. Meanwhile, New Zealand passed its Disability Support Services legislation to enhance support for thousands of people with disabilities, and the U.S. Department of Housing and Urban Development introduced a new deadline for Fair Housing Act accessibility complaints.",
+      "highlights": [
+        {
+          "title": "Call for feedback: EDF’s draft response to the call for evidence on the Housing Simplification Package",
+          "slug": "call-for-feedback-edfs-draft-response-to-the-call-for-evidence-on-the-housing-si-18218a01"
+        },
+        {
+          "title": "States are mostly compliant with website accessibility rule, report finds - Route Fifty",
+          "slug": "states-are-mostly-compliant-with-website-accessibility-rule-report-finds-route-f-53a56d03"
+        },
+        {
+          "title": "Canadian Disabled Senior Denied Accessible Bus After 28 Years, Cited Wheelchair Exceeds Safety Load",
+          "slug": "canadian-disabled-senior-denied-accessible-bus-after-28-years-cited-wheelchair-e-2cf59665"
+        },
+        {
+          "title": "Foundational legislation strengthens support",
+          "slug": "foundational-legislation-strengthens-support-544bc980"
+        },
+        {
+          "title": "HUD sets new time limit on Fair Housing accessibility complaints - Planetizen",
+          "slug": "hud-sets-new-time-limit-on-fair-housing-accessibility-complaints-planetizen-52bfa0b4"
+        },
+        {
+          "title": "New European Standard on digital accessibility is out",
+          "slug": "new-european-standard-on-digital-accessibility-is-out-c1e70ea3"
+        },
+        {
+          "title": "Usability, accessibility and AI: Where are we now?",
+          "slug": "usability-accessibility-and-ai-where-are-we-now-f0839a5f"
+        },
+        {
+          "title": "A bike ride shows that accessibility is more than one thing",
+          "slug": "a-bike-ride-shows-that-accessibility-is-more-than-one-thing-2033382b"
+        },
+        {
+          "title": "Fair housing construction accessibility complaints now have a deadline, HUD says",
+          "slug": "fair-housing-construction-accessibility-complaints-now-have-a-deadline-hud-says-170122d0"
+        },
+        {
+          "title": "Gesa Power House Theatre renovates to ensure accessibility to all",
+          "slug": "gesa-power-house-theatre-renovates-to-ensure-accessibility-to-all-6b0fef49"
+        },
+        {
+          "title": "Sensor Innovation Opens New Era of Accessibility for Visually Impaired - Electronic Engineering Journal",
+          "slug": "sensor-innovation-opens-new-era-of-accessibility-for-visually-impaired-electroni-3c06934f"
+        },
+        {
+          "title": "SEPTA Breaks Ground on $44M Accessibility Upgrade at 11th Street Station - Metro Magazine",
+          "slug": "septa-breaks-ground-on-44m-accessibility-upgrade-at-11th-street-station-metro-ma-1251bcb7"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "全球無障礙進步：歐洲新數位標準、新西蘭立法及美國HUD更新",
+      "summary": "歐洲發布更新的 EN 301549 數位無障礙標準，為科技無障礙提供新指引。同時，新西蘭殘障支援服務立法通過，旨在改善數千名殘障人士的支援；美國住房與城市發展部設定公平住房無障礙投訴新時限。",
+      "highlights": [
+        {
+          "title": "呼籲反馈：EDF 對住房簡化套件證據徵求的草案回應",
+          "slug": "call-for-feedback-edfs-draft-response-to-the-call-for-evidence-on-the-housing-si-zh-18218a01"
+        },
+        {
+          "title": "各州大多符合網站無障礙規則，報告發現 - Route Fifty",
+          "slug": "states-are-mostly-compliant-with-website-accessibility-rule-report-finds-route-f-zh-53a56d03"
+        },
+        {
+          "title": "加拿大殘疾長者乘無障礙巴士28年突遭拒載！竟稱輪椅超出安全承載",
+          "slug": "canadian-disabled-senior-denied-accessible-bus-after-28-years-cited-wheelchair-e-zh-2cf59665"
+        },
+        {
+          "title": "基礎立法加強支援",
+          "slug": "foundational-legislation-strengthens-support-zh-544bc980"
+        },
+        {
+          "title": "HUD 設定公平住房無障礙投訴的新時限 - Planetizen",
+          "slug": "hud-sets-new-time-limit-on-fair-housing-accessibility-complaints-planetizen-zh-52bfa0b4"
+        },
+        {
+          "title": "新版歐洲數位無障礙標準 EN 301549 發布",
+          "slug": "new-european-standard-on-digital-accessibility-is-out-zh-c1e70ea3"
+        },
+        {
+          "title": "可用性、無障礙與人工智慧：我們現在處於何處？",
+          "slug": "usability-accessibility-and-ai-where-are-we-now-zh-f0839a5f"
+        },
+        {
+          "title": "單車騎行顯示無障礙不只有一面",
+          "slug": "a-bike-ride-shows-that-accessibility-is-more-than-one-thing-zh-2033382b"
+        },
+        {
+          "title": "公平住房建設無障礙申訴現在有期限，HUD 說明",
+          "slug": "fair-housing-construction-accessibility-complaints-now-have-a-deadline-hud-says-zh-170122d0"
+        },
+        {
+          "title": "Gesa Power House Theatre 進行翻修以確保所有人的無障礙",
+          "slug": "gesa-power-house-theatre-renovates-to-ensure-accessibility-to-all-zh-6b0fef49"
+        },
+        {
+          "title": "感測器變革為視障人士開啟無障礙新時代 - 電子工程專輯",
+          "slug": "sensor-innovation-opens-new-era-of-accessibility-for-visually-impaired-electroni-zh-3c06934f"
+        },
+        {
+          "title": "SEPTA 在第11街車站動工進行4400萬美元無障礙升級 - Metro Magazine",
+          "slug": "septa-breaks-ground-on-44m-accessibility-upgrade-at-11th-street-station-metro-ma-zh-1251bcb7"
+        }
+      ]
+    }
   }
 }
