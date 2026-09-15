@@ -4,10 +4,10 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const ROOT = path.resolve(__dirname, '..');
+const ROOT = __dirname;
 
 const AFTER = process.env.TIDBITS_AFTER || '2024-01-01T00:00:00';
-const BEFORE = process.env.TIDBITS_BEFORE || '2026-07-02T00:00:00';
+const BEFORE = process.env.TIDBITS_BEFORE || '2026-09-11T00:00:00';
 const PROBE = (process.env.TIDBITS_PROBE || '1') === '1';
 const PROBE_MIN = Number(process.env.TIDBITS_PROBE_MIN || 4);
 
@@ -84,7 +84,7 @@ async function collectLetterUrls() {
     const t = await getText(archUrl);
     if (t) {
       for (const u of hrefsOf(t)) {
-        if (matching.test(u)) urls.add(u.replace(SITE, ''));
+if (matching.test(u))  urls.add(u);
       }
     }
   }
@@ -98,7 +98,7 @@ async function collectLetterUrls() {
     let added = 0;
     for (const x of found) {
       if (matching.test(x)) {
-        urls.add(x.replace(SITE, ''));
+        urls.add(x);
         added += 1;
       }
     }
@@ -201,6 +201,29 @@ async function probeFeeds(domains) {
 
 const esc = (s) => String(s ?? '').replace(/\|/g, '').trim();
 
+const AGG_EXACT = new Set([
+  'youtube.com', 'twitter.com', 'x.com', 'facebook.com', 'linkedin.com', 'instagram.com',
+  'tiktok.com', 'threads.net', 'pinterest.com', 'snapchat.com', 'reddit.com', 'twitch.tv',
+  'discord.com', 'discord.gg', 'telegram.org', 'whatsapp.com', 'bsky.app', 'bluesky.social',
+  'mastodon.social', 'mastodon.toptechtidbits.com', 'mastodon.world', 'kipp.social',
+  'techhub.social', 'mstdn.social', 'mas.to', 'groups.io',
+  'bit.ly', 'tinyurl.com', 'goo.gl', 't.co', 'youtu.be', 'forms.gle', 'tiny.cc', 'is.gd',
+  'ow.ly', 'dlvr.it', 'buff.ly', 'lnkd.in', 'fb.me', 't.me', 'mailchi.mp',
+  'apps.apple.com', 'itunes.apple.com', 'podcasts.apple.com', 'play.google.com',
+  'surveymonkey.com', 'wufoo.com', 'typeform.com', 'buystripe.com', 'stripe.com',
+  'buy.stripe.com', 'paypal.com', 'ko-fi.com', 'patreon.com', 'buymeacoffee.com',
+  'gofundme.com', 'amazon.com', 'amzn.to', 'canva.com', 'venngage.com',
+  'elegantinsightsjewelry.com', 'awarewolfgear.com', 'theapexprogram.com', 'merchandise',
+]);
+function aggExclude(d) {
+  if (AGG_EXACT.has(d)) return true;
+  if (/zoom\.us$/.test(d)) return true;
+  if (/campaign-archive\.com$/.test(d)) return true;
+  if (/list-manage\.com$/.test(d)) return true;
+  if (/^meet\.google\.com|^forms\.|^docs\.google|^sheets\.google|^calendar\./.test(d)) return true;
+  return false;
+}
+
 async function main() {
   console.error(`letters in ${AFTER.slice(0, 10)} .. ${BEFORE.slice(0, 10)}`);
 
@@ -291,7 +314,32 @@ async function main() {
   unresolved.forEach((d) => fl.push(`- ${d.domain} (${d.count} links)`));
   fs.writeFileSync(path.join(ROOT, 'tidbits-rss-feeds.txt'), fl.join('\n') + '\n');
 
-  console.error('wrote tidbits-domain-analysis.txt & tidbits-rss-feeds.txt');
+  // ---- aggregator-ready feeds (news/technology, RSS/Atom confirmed) ----
+  const aggregator = confirmed
+    .filter((d) => d.count >= 3)
+    .filter((d) => !aggExclude(d.domain))
+    .sort((a, b) => b.count - a.count)
+    .map((d) => { const f = feeds.get(d.domain); return { ...d, feed: f }; });
+  const al = [
+    'AGGREGATOR-READY RSS / ATOM FEEDS',
+    '=================================',
+    `Source: Top Tech Tidbits newsletters (${from} - ${to}, ${letters.length} issues)`,
+    `Minimum link count threshold: 3`,
+    `Total ready feeds: ${aggregator.length}`,
+    '',
+    'COUNT  KIND  DOMAIN  FEED_URL',
+  ];
+  for (const a of aggregator) al.push(`${String(a.count).padStart(5)}  ${a.feed.kind.padEnd(4)}  ${a.domain}  ${a.feed.url}`);
+  al.push('');
+  al.push('Filters applied:');
+  al.push('- domains with confirmed RSS/Atom feed only');
+  al.push('- link-count >= 3 in sampled newsletters');
+  al.push('- excluded social, shorteners, app stores, zoom/forms/sponsors');
+  fs.writeFileSync(path.join(ROOT, 'aggregator-feeds.txt'), al.join('\n') + '\n');
+  const tsv = ['count\tkind\tdomain\tfeed_url', ...aggregator.map((a) => `${a.count}\t${a.feed.kind}\t${a.domain}\t${a.feed.url}`)].join('\n') + '\n';
+  fs.writeFileSync(path.join(ROOT, 'aggregator-feeds.tsv'), tsv);
+
+  console.error('wrote tidbits-domain-analysis.txt & tidbits-rss-feeds.txt & aggregator-feeds.txt');
 }
 
 main().catch((e) => {
