@@ -176,5 +176,120 @@
         }
       ]
     }
+  },
+  "2026-W37": {
+    "range": {
+      "start": "2026-09-07",
+      "end": "2026-09-13"
+    },
+    "generatedAt": "2026-09-15T03:45:27.189Z",
+    "en": {
+      "title": "Federal Transit Funding Surges While EU Procurement Rules and Tech Updates Advance Disability Accessibility",
+      "summary": "The Federal Transit Administration allocated $233 million to upgrade rail infrastructure nationwide, and the All Stations Accessibility Program awarded the same amount following a $686 million offer to improve station accessibility. These funding moves coincide with the European Union’s proposed public procurement rules aimed at inclusive infrastructure and Apple’s rollout of iOS 27 accessibility features, including a new Accessibility Reader.",
+      "highlights": [
+        {
+          "title": "All Stations Accessibility Program awards $233m after $686m offer",
+          "slug": "all-stations-accessibility-program-awards-233m-after-686m-offer-24690a62"
+        },
+        {
+          "title": "Congress must prioritize accessibility in housing supply",
+          "slug": "congress-must-prioritize-accessibility-in-housing-supply-880360c4"
+        },
+        {
+          "title": "FTA issues $233M for rail accessibility upgrades",
+          "slug": "fta-issues-233m-for-rail-accessibility-upgrades-79cf336f"
+        },
+        {
+          "title": "HUD issues new guidance, rescinds ‘continuing violation’ interpretation of Fair Housing Act design-and-construction accessibility requirements",
+          "slug": "hud-issues-new-guidance-rescinds-continuing-violation-interpretation-of-fair-hou-44dd3067"
+        },
+        {
+          "title": "Proposed Public Procurement rules give potential boost to disability rights",
+          "slug": "proposed-public-procurement-rules-give-potential-boost-to-disability-rights-772809fa"
+        },
+        {
+          "title": "Waymo’s Nevada Rollout Violates Accessibility Law, Disability Activist Claims - Streetsblog USA",
+          "slug": "waymos-nevada-rollout-violates-accessibility-law-disability-activist-claims-stre-81cc46d8"
+        },
+        {
+          "title": "Where Disabled Veterans Prefer to Live in New York State",
+          "slug": "where-disabled-veterans-prefer-to-live-in-new-york-state-fd384e7a"
+        },
+        {
+          "title": "5 iOS Accessibility Features You Should Try (Even If You Don't Need Them)",
+          "slug": "5-ios-accessibility-features-you-should-try-even-if-you-dont-need-them-dca59f42"
+        },
+        {
+          "title": "Accessibility in emergencies: Florida’s silent 911 lifelines",
+          "slug": "accessibility-in-emergencies-floridas-silent-911-lifelines-d75930ed"
+        },
+        {
+          "title": "Gov. Beshear Announces Over $18.8 Million for Pedestrian, Bicyclist, and Accessibility Project",
+          "slug": "gov-beshear-announces-over-188-million-for-pedestrian-bicyclist-and-accessibilit-1019cfa1"
+        },
+        {
+          "title": "Kisharon Langdon pilots accessibility boxes ahead of High Holy Days",
+          "slug": "kisharon-langdon-pilots-accessibility-boxes-ahead-of-high-holy-days-dcc9bc98"
+        },
+        {
+          "title": "Masats brings AI to bus accessibility with AIDA system, new doors and ramps at FIAA 2026",
+          "slug": "masats-brings-ai-to-bus-accessibility-with-aida-system-new-doors-and-ramps-at-fi-34dafcd0"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "聯邦撥款鐵路無障礙升級 與歐盟採購規則及iOS更新推動無障礙",
+      "summary": "聯邦交通管理局撥款2.33億美元用於全國鐵路無障礙升級，所有車站無障礙計畫亦在獲得6.86億美元報價後頒發2.33億美元資金。此期間歐盟提出公共採購新規以促進包容性基礎建設，蘋果則在iOS 27中推出無障礙閱讀器等功能，共同推動無障礙環境的改善。",
+      "highlights": [
+        {
+          "title": "所有車站無障礙計畫在6.86億美元報價後頒發2.33億美元獎金",
+          "slug": "all-stations-accessibility-program-awards-233m-after-686m-offer-zh-24690a62"
+        },
+        {
+          "title": "國會必須優先考慮住房供應的無障礙",
+          "slug": "congress-must-prioritize-accessibility-in-housing-supply-zh-880360c4"
+        },
+        {
+          "title": "聯邦交通管理局撥款2.33億美元用於鐵路無障礙升級",
+          "slug": "fta-issues-233m-for-rail-accessibility-upgrades-zh-79cf336f"
+        },
+        {
+          "title": "HUD發布新指引，撤銷對公平住房法設計與建築無障礙要求的‘持續違反’解釋",
+          "slug": "hud-issues-new-guidance-rescinds-continuing-violation-interpretation-of-fair-hou-zh-44dd3067"
+        },
+        {
+          "title": "MTA 公開城際特快線無障礙車輛設計細節",
+          "slug": "mta-details-interborough-express-accessibility-for-vehicle-design-zh-e5b99927"
+        },
+        {
+          "title": "建議的公共採購規則有望提升殘障權益",
+          "slug": "proposed-public-procurement-rules-give-potential-boost-to-disability-rights-zh-772809fa"
+        },
+        {
+          "title": "Waymo 在內華達州的推廣違反無障礙法，殘障人士活動者指控 - Streetsblog USA",
+          "slug": "waymos-nevada-rollout-violates-accessibility-law-disability-activist-claims-stre-zh-81cc46d8"
+        },
+        {
+          "title": "5 值得嘗試的 iOS 無障礙功能（即使你不需要它們）",
+          "slug": "5-ios-accessibility-features-you-should-try-even-if-you-dont-need-them-zh-dca59f42"
+        },
+        {
+          "title": "緊急情況中的無障礙：佛羅里達州的靜默911生命線",
+          "slug": "accessibility-in-emergencies-floridas-silent-911-lifelines-zh-d75930ed"
+        },
+        {
+          "title": "Kisharon Langdon 在高聖日前試點無障礙盒子",
+          "slug": "kisharon-langdon-pilots-accessibility-boxes-ahead-of-high-holy-days-zh-dcc9bc98"
+        },
+        {
+          "title": "Masats 在 FIAA 2026 展會上推出 AIDA AI 系統、新門坡道提升巴士無障礙",
+          "slug": "masats-brings-ai-to-bus-accessibility-with-aida-system-new-doors-and-ramps-at-fi-zh-34dafcd0"
+        },
+        {
+          "title": "調查顯示多數保守黨與改革黨選民反對削減殘疾福利",
+          "slug": "survey-shows-most-tory-and-reform-voters-oppose-cuts-to-disability-benefits-zh-3dde4a81"
+        }
+      ]
+    }
   }
 }
