@@ -6,7 +6,7 @@ import { askLLM, stripCodeFence } from './digest-llm.mjs';
 const NEWS_DATA_DIR = path.resolve('src/data/news');
 const DIGESTS_DIR = path.resolve('src/data/digests');
 const LEGACY_OUTPUT_FILE = path.resolve('src/data/daily-digest.json');
-const DIGEST_DATE = process.env.DIGEST_DATE ?? new Date().toISOString().slice(0, 10);
+const DIGEST_DATE = (process.env.DIGEST_DATE && String(process.env.DIGEST_DATE).trim()) || new Date().toISOString().slice(0, 10);
 const DIGEST_LOOKBACK_HOURS = Number(
   process.env.DIGEST_LOOKBACK_HOURS
   ?? (Number(process.env.DIGEST_LOOKBACK_DAYS ?? 0) > 0 ? Number(process.env.DIGEST_LOOKBACK_DAYS) * 24 : 25),
@@ -18,7 +18,7 @@ const GROQ_MAX_CANDIDATES_PER_LOCALE = 15;
 
 async function loadRecentPublishedArticles() {
   const rows = [];
-  const hasExplicitDigestDate = Boolean(process.env.DIGEST_DATE);
+  const hasExplicitDigestDate = Boolean(String(process.env.DIGEST_DATE ?? '').trim());
   const digestBaseTime = hasExplicitDigestDate
     ? new Date(`${DIGEST_DATE}T23:59:59.999Z`).getTime()
     : Date.now();
