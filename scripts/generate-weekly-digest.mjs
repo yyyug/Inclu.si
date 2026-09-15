@@ -5,7 +5,7 @@ import { askLLM, stripCodeFence } from './digest-llm.mjs';
 const DIGESTS_DIR = path.resolve('src/data/digests');
 const WEEK_KEY_PATTERN = /^(\d{4})-W(\d{2})$/;
 const WEEK_MIN_HIGHLIGHTS = Number(process.env.DIGEST_WEEK_MIN_HIGHLIGHTS ?? 3);
-const WEEK_MAX_HIGHLIGHTS = Number(process.env.DIGEST_WEEK_MAX_HIGHLIGHTS ?? 12);
+const WEEK_MAX_HIGHLIGHTS = Number(process.env.DIGEST_WEEK_MAX_HIGHLIGHTS ?? 40);
 const FORCE = process.env.DIGEST_WEEK_FORCE === '1' || process.env.FORCE === '1';
 const DRY_RUN = process.env.DIGEST_DRY_RUN === '1';
 
