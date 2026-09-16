@@ -6734,5 +6734,68 @@
         }
       ]
     }
+  },
+  "2026-09-16": {
+    "generatedAt": "2026-09-16T17:14:52.309Z",
+    "en": {
+      "title": "EU State of the Union 2026 Highlights Gaps in Disability Accessibility Measures",
+      "summary": "The 2026 State of the European Union address included International Sign interpretation but otherwise lacked substantial disability measures, drawing criticism from advocates. Meanwhile, a university announced new faculty hires while its accessibility office head departed, raising concerns about support services. Ubisoft showcased accessibility features in Rainbow Six Siege, and Level Access research warned that AI adoption isn't closing accessibility gaps.",
+      "highlights": [
+        {
+          "title": "State of the European Union 2026: disability largely absent",
+          "slug": "state-of-the-european-union-2026-disability-largely-absent-da7ed740"
+        },
+        {
+          "title": "University hires 15 new full-time faculty; head of accessibility office departs",
+          "slug": "university-hires-15-new-full-time-faculty-head-of-accessibility-office-departs-068f1d17"
+        },
+        {
+          "title": "Rainbow Six Siege Accessibility Spotlight - Ubisoft",
+          "slug": "rainbow-six-siege-accessibility-spotlight-ubisoft-4f9d047a"
+        },
+        {
+          "title": "Letter to the editor: Accessibility is more than just a requirement",
+          "slug": "letter-to-the-editor-accessibility-is-more-than-just-a-requirement-b7061b97"
+        },
+        {
+          "title": "Level Access Research Finds Broad AI Adoption Isn't Closing the Accessibility Gap - PR Newswire",
+          "slug": "level-access-research-finds-broad-ai-adoption-isnt-closing-the-accessibility-gap-f1e31838"
+        },
+        {
+          "title": "Groundbreaking for New Accessible Passage at National Palace Museum's Zhishan Road Entrance, Set for 2029 Completion",
+          "slug": "groundbreaking-for-new-accessible-passage-at-national-palace-museums-zhishan-roa-0860e35f"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "歐盟2026年國情咨文殘障無障礙不足引關注",
+      "summary": "2026年歐盟國家狀況演講雖提供國際手語傳譯，但在殘障政策上仍顯不足，引起各界關注。大學增聘教師卻見無障礙辦公室主任離職，Ubisoft 展示遊戲無障礙功能，故宮無障礙通道動工，Level Access 研究指出AI未縮小差距，日本就業觀點亦引討論。",
+      "highlights": [
+        {
+          "title": "2026年歐盟國家狀況演講：殘障議題大多缺席",
+          "slug": "state-of-the-european-union-2026-disability-largely-absent-zh-da7ed740"
+        },
+        {
+          "title": "大學聘用15名新全職教師；無障礙辦公室主任離職",
+          "slug": "university-hires-15-new-full-time-faculty-head-of-accessibility-office-departs-zh-068f1d17"
+        },
+        {
+          "title": "彩虹六號：围攻 無障礙專題 - Ubisoft",
+          "slug": "rainbow-six-siege-accessibility-spotlight-ubisoft-zh-4f9d047a"
+        },
+        {
+          "title": "故宮至善路入口無障礙通道新建工程開工 預計2029年完工 打造友善無障礙參觀環境 - PChome Online 新聞",
+          "slug": "groundbreaking-for-new-accessible-passage-at-national-palace-museums-zhishan-roa-zh-0860e35f"
+        },
+        {
+          "title": "Level Access 研究發現廣泛 AI 採用並未縮小無障礙差距 - PR Newswire",
+          "slug": "level-access-research-finds-broad-ai-adoption-isnt-closing-the-accessibility-gap-zh-f1e31838"
+        },
+        {
+          "title": "日本殘障就業的觀點",
+          "slug": "perspectives-on-disability-employment-in-japan-zh-918a862e"
+        }
+      ]
+    }
   }
 }
