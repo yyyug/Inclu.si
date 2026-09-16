@@ -1,0 +1,14 @@
+{
+  "kind": "rss",
+  "domain": "accesstechlive.com",
+  "url": "https://accesstechlive.com/feed/",
+  "count": 1,
+  "items": [
+    {
+      "title": "Hello world!",
+      "link": "https://accesstechlive.com/hello-world/",
+      "pubDate": "Wed, 20 Aug 2025 19:11:17 +0000",
+      "description": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCgJYRTR6y8QnNJSQ0zCo6Sg"/>
+ <id>yt:channel:gJYRTR6y8QnNJSQ0zCo6Sg</id>
+ <yt:channelId>gJYRTR6y8QnNJSQ0zCo6Sg</yt:channelId>
+ <title>VisionTech Academy</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCgJYRTR6y8QnNJSQ0zCo6Sg"/>
+ <author>
+  <name>VisionTech Academy</name>
+  <uri>https://www.youtube.com/channel/UCgJYRTR6y8QnNJSQ0zCo6Sg</uri>
+ </author>
+ <published>2024-09-12T17:01:18+00:00</published>
+</feed>

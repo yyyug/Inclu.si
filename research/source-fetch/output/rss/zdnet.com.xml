@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>ZDNET</title>
+	<atom:link href="https://www.zdnet.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.zdnet.com</link>
+	<description>News and Advice on the World&#039;s Latest Innovations</description>
+	<lastBuildDate>Wed, 16 Sep 2026 09:04:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.7</generator>
+
+<image>
+	<url>https://www.zdnet.com/wp-content/uploads/sites/3/cropped-ZDNET-512Yellow.png?w=32</url>
+	<title>ZDNET</title>
+	<link>https://www.zdnet.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">250363557</site>	<item>
+		<title>Windows 11 out-of-band update fixes audio glitch and other bugs – grab it now</title>
+		<link>https://www.zdnet.com/business/windows-11-out-of-band-update-fixes-audio-glitch/</link>
+		
+		<dc:creator><![CDATA[Lance Whitney]]></dc:creator>
+		<pubDate>Wed, 16 Sep 2026 09:04:02 +0000</pubDate>
+		<category><![CDATA[Microsoft]]></category>		<guid isPermaLink="false">1311627</guid>
+
+					<description><![CDATA[The latest out-of-band update resolves a few problems in Windows 11, including one that cut off the sound for certain USB audio devices.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1311627</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-out-of-band-patch.jpg" medium="image" width="3000" height="1688" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-out-of-band-patch.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>I finally found a 65W charger that’s thinner than my wallet and fits behind the couch</title>
+		<link>https://www.zdnet.com/tech/ugreen-nexode-air-65w-review/</link>
+		
+		<dc:creator><![CDATA[Adrian Kingsley-Hughes]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 20:56:06 +0000</pubDate>
+		<category><![CDATA[Mobile Accessories]]></category>		<guid isPermaLink="false">1310895</guid>
+
+					<description><![CDATA[Ugreen’s Nexode Air packs three ports and 65W of power into a palm-sized slab – powering three devices at once without overheating.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1310895</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/IMG_5791.jpg" medium="image" width="3000" height="1688" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/IMG_5791.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>Best early October Prime Day tablet deals: Save on iPad, Galaxy Tab, and more</title>
+		<link>https://www.zdnet.com/tech/best-early-amazon-october-prime-day-tablet-deals/</link>
+		
+		<dc:creator><![CDATA[Allison Murray]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 19:54:51 +0000</pubDate>
+		<category><![CDATA[Tablets]]></category>		<guid isPermaLink="false">1310038</guid>
+
+					<description><![CDATA[Amazon’s Prime Big Deal Days sale is on the way – and we hand-picked the best tablet deals live now.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1310038</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/AMAZON_FALL_PRIME_DAY_TABLETS.jpg" medium="image" width="1920" height="1080" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/AMAZON_FALL_PRIME_DAY_TABLETS.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>Why the DOJ’s OpenAI copyright stance is the real threat to national security</title>
+		<link>https://www.zdnet.com/innovation/doj-openai-copyright-stance-national-security-threat/</link>
+		
+		<dc:creator><![CDATA[David Gewirtz]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 18:23:19 +0000</pubDate>
+		<category><![CDATA[Artificial Intelligence]]></category>		<guid isPermaLink="false">1310671</guid>
+
+					<description><![CDATA[The DOJ argues that AI training is transformative fair use, but publishers say unlicensed scraping threatens their survival. This copyright fight could shape the future of online knowledge.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1310671</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1837262344.jpg" medium="image" width="2121" height="1414" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1837262344.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>I found the best speech-to-text tool for Linux, and I’ll never dictate notes again without it</title>
+		<link>https://www.zdnet.com/tech/speech-note-linux-speech-to-text-note-taking-dictation/</link>
+		
+		<dc:creator><![CDATA[Jack Wallen]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 17:39:09 +0000</pubDate>
+		<category><![CDATA[Linux]]></category>		<guid isPermaLink="false">1311350</guid>
+
+					<description><![CDATA[If dictation is your favorite method of taking notes and Linux is your desktop OS, Speech Note is the perfect app for you. Here’s how to get started.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1311350</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/speechnotehero.jpg" medium="image" width="1600" height="900" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/speechnotehero.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>How Cisco is confronting the security crisis of agentic AI</title>
+		<link>https://www.zdnet.com/paid-content/article/how-cisco-is-confronting-the-security-crisis-of-agentic-ai/</link>
+		
+		<dc:creator><![CDATA[ZDNET BrandX]]></dc:creator>
+		<pubDate>Sat, 22 Aug 2026 00:13:27 +0000</pubDate>
+		<category><![CDATA[Tech]]></category>		<guid isPermaLink="false">1278881</guid>
+
+					<description><![CDATA[“There are shadow agents running in almost every environment we look at,” warns Cisco’s VP of product for identity, who oversees the company’s Duo Agentic Identity product designed to solve the problem.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1278881</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/zdnet-cisco-duo-interview-article-header_06c6b8.jpg" medium="image" width="1920" height="1080" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/zdnet-cisco-duo-interview-article-header_06c6b8.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>iPhone 18 Pro vs iPhone Duo: How to decide between the foldable and the flagship</title>
+		<link>https://www.zdnet.com/business/iphone-18-pro-vs-iphone-duo/</link>
+		
+		<dc:creator><![CDATA[Lance Whitney]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 17:14:42 +0000</pubDate>
+		<category><![CDATA[Apple]]></category>		<guid isPermaLink="false">1311220</guid>
+
+					<description><![CDATA[Apple’s new flagship 18 Pro and Duo phones are both enticing handsets. Here’s how to choose between them based on your own interests and priorities.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1311220</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/iPhone-18-Pro-vs-iPhone-Duo.jpg" medium="image" width="1920" height="1080" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/iPhone-18-Pro-vs-iPhone-Duo.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>The 5 best iPads of 2026: Expert tested and reviewed</title>
+		<link>https://www.zdnet.com/article/best-ipad/</link>
+		
+		<dc:creator><![CDATA[Maria Diaz]]></dc:creator>
+		<pubDate>Fri, 03 Jul 2020 12:00:04 +0000</pubDate>
+		<category><![CDATA[Tablets]]></category>		<guid isPermaLink="false">856173</guid>
+
+					<description><![CDATA[From the iPad Mini to the iPad Pro, ZDNET tested all the iPad models available to help you choose.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">856173</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/3257658d-aa74-49fc-bb30-bb16b8363ad5.jpg" medium="image" width="1920" height="1080" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/3257658d-aa74-49fc-bb30-bb16b8363ad5.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>Survive any Linux catastrophe with a Btrfs snapshot – these GUIs make it easy</title>
+		<link>https://www.zdnet.com/tech/best-guis-for-btrfs-snapshots/</link>
+		
+		<dc:creator><![CDATA[Jack Wallen]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 14:11:57 +0000</pubDate>
+		<category><![CDATA[Linux]]></category>		<guid isPermaLink="false">1299931</guid>
+
+					<description><![CDATA[Want to ensure your Linux system can recover from a catastrophe? Consider a handy GUI app for your Btrfs filesystem. These are the three I recommend.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1299931</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/btrfsherolaptop.jpg" medium="image" width="1600" height="900" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/btrfsherolaptop.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>iOS 27 is finally here, with the new Siri AI beta – and 120 security patches</title>
+		<link>https://www.zdnet.com/business/ios-27-siri-ai-beta-how-to-try/</link>
+		
+		<dc:creator><![CDATA[Lance Whitney]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 13:13:10 +0000</pubDate>
+		<category><![CDATA[Apple]]></category>		<guid isPermaLink="false">1311035</guid>
+
+					<description><![CDATA[Even if you’re not ready for iOS 27, there’s an important new update for you too. Here’s what’s new.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1311035</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/ios-27.jpg" medium="image" width="3000" height="1688" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/ios-27.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>These $16 EDC pliers are nearly as good as the $35 set I’ve carried for years</title>
+		<link>https://www.zdnet.com/home-and-office/workpro-mini-water-pump-pliers-review/</link>
+		
+		<dc:creator><![CDATA[Adrian Kingsley-Hughes]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 12:39:04 +0000</pubDate>
+		<category><![CDATA[Tools]]></category>		<guid isPermaLink="false">1309694</guid>
+
+					<description><![CDATA[Workpro’s 4-inch mini water pump pliers get you 90% of the Knipex Cobra’s utility as an EDC tool, for about half the price.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1309694</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/IMG_5841.jpg" medium="image" width="3000" height="1687" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/IMG_5841.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>I tried the KDE Plasma 6.8 beta, and it’s hands down as good as it gets</title>
+		<link>https://www.zdnet.com/tech/kde-plasma-6-8-beta-experience/</link>
+		
+		<dc:creator><![CDATA[Jack Wallen]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 12:22:36 +0000</pubDate>
+		<category><![CDATA[Linux]]></category>		<guid isPermaLink="false">1310321</guid>
+
+					<description><![CDATA[If you’re a KDE Plasma fan, prepare to be wowed: Version 6.8 is the slickest, smoothest release yet.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1310321</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/kde68hero.jpg" medium="image" width="1600" height="900" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/kde68hero.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>You can run local AI on your Android or iOS device – easily and for free</title>
+		<link>https://www.zdnet.com/innovation/you-can-use-ai-locally-on-your-android-and-ios-devices-and-its-easier-than-you-think/</link>
+		
+		<dc:creator><![CDATA[jack.wallen@gmail.com]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 11:53:26 +0000</pubDate>
+		<category><![CDATA[Artificial Intelligence]]></category>		<guid isPermaLink="false">1310191</guid>
+
+					<description><![CDATA[If you’re not convinced Big Tech is truly protecting your privacy, turn to a user-friendly app on Android and iOS that will never send your information or chats to a third party.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1310191</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/pocketpalhero.jpg" medium="image" width="1600" height="900" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/pocketpalhero.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>Amazon October Prime Day is coming: Everything we know so far (dates, times, and more)</title>
+		<link>https://www.zdnet.com/home-and-office/october-amazon-prime-day-2026-everything-you-need-to-know/</link>
+		
+		<dc:creator><![CDATA[Kayla Solino]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 05:00:00 +0000</pubDate>
+		<category><![CDATA[Amazon]]></category>		<guid isPermaLink="false">1284735</guid>
+
+					<description><![CDATA[Amazon’s October Prime Big Deal Days returns Oct. 6-7. Here’s everything you need to know about the sale.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1284735</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Amazon-Big-Deals-Days-ZDNET-02.jpg" medium="image" width="3000" height="1687" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Amazon-Big-Deals-Days-ZDNET-02.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>OLED TV vs. OLED monitor: Which is better for creatives, gamers, or power users?</title>
+		<link>https://www.zdnet.com/home-and-office/oled-tv-vs-oled-monitor-comparison/</link>
+		
+		<dc:creator><![CDATA[Taylor Clemons]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2026 21:34:57 +0000</pubDate>
+		<category><![CDATA[Home & Office]]></category>		<guid isPermaLink="false">1286292</guid>
+
+					<description><![CDATA[Not all OLED screens are created equal when it comes to video production and serious gaming.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1286292</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/oled.jpg" medium="image" width="1920" height="1080" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/oled.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>This $17 USB-C cable has a tiny screen that demystifies your charging speed</title>
+		<link>https://www.zdnet.com/home-and-office/ugreen-nexode-usb-c-cable-review/</link>
+		
+		<dc:creator><![CDATA[Adrian Kingsley-Hughes]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2026 19:31:09 +0000</pubDate>
+		<category><![CDATA[Energy]]></category>		<guid isPermaLink="false">1310377</guid>
+
+					<description><![CDATA[The Ugreen Nexode 240W USB-C cable combines premium build quality with a power meter and touchscreen display, and it costs under $25.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1310377</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/IMG_5857-2.jpg" medium="image" width="3000" height="1688" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/IMG_5857-2.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>Best iPhone 2026: I’ve used every model (including the Duo) and these are my top picks</title>
+		<link>https://www.zdnet.com/article/best-iphone/</link>
+		
+		<dc:creator><![CDATA[Kerry Wan]]></dc:creator>
+		<pubDate>Wed, 03 Jun 2020 13:36:03 +0000</pubDate>
+		<category><![CDATA[iPhone]]></category>		<guid isPermaLink="false">781094</guid>
+
+					<description><![CDATA[We’ve tested every iPhone model in recent years, including the iPhone 18 series, and curated a list of the best options for enthusiasts, budget shoppers, and more.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">781094</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/iphone-17-pro-max-blue_975314.jpg" medium="image" width="2048" height="1152" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/iphone-17-pro-max-blue_975314.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>Sick of AI slop? How I forced Google to give me results I can trust again</title>
+		<link>https://www.zdnet.com/business/google-custom-shortcuts-search-fix/</link>
+		
+		<dc:creator><![CDATA[Ed Bott]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2026 18:25:22 +0000</pubDate>
+		<category><![CDATA[Google]]></category>		<guid isPermaLink="false">1301076</guid>
+
+					<description><![CDATA[When you’re looking for authoritative answers, the last thing you need is a bunch of low-quality garbage in your search results. Here’s how to fix that.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1301076</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-57366651.jpg" medium="image" width="3000" height="1947" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-57366651.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>Your AirTag battery can be deadly – here’s a safer alternative I recommend (and why)</title>
+		<link>https://www.zdnet.com/home-and-office/energizer-ultimate-child-shield-cr2032-battery-review/</link>
+		
+		<dc:creator><![CDATA[Adrian Kingsley-Hughes]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2026 17:40:23 +0000</pubDate>
+		<category><![CDATA[Home & Office]]></category>		<guid isPermaLink="false">1304908</guid>
+
+					<description><![CDATA[Pediatric injuries from button batteries continue to rise – despite Reese’s Law. But Energizer’s new line adds protection if swallowed.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1304908</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/IMG_5818.jpg" medium="image" width="4032" height="2268" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/IMG_5818.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>The latest Windows 11 update may mess with your device’s audio – here’s the workaround</title>
+		<link>https://www.zdnet.com/business/windows-11-sept-update-audio-glitch-fix/</link>
+		
+		<dc:creator><![CDATA[Lance Whitney]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2026 17:27:48 +0000</pubDate>
+		<category><![CDATA[Microsoft]]></category>		<guid isPermaLink="false">1309829</guid>
+
+					<description><![CDATA[The September Patch Tuesday update is causing audio problems with certain USB devices, but you may be able to resolve it yourself.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1309829</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-sound-controls-with-USB-audio-device.jpg" medium="image" width="3000" height="1688" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-sound-controls-with-USB-audio-device.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>Human-in-the-loop oversight is critical for enterprise AI: 4 experts explain why</title>
+		<link>https://www.zdnet.com/tech/human-in-the-loop-oversight-enterprise-ai-experts/</link>
+		
+		<dc:creator><![CDATA[Ritoban Mukherjee]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2026 17:25:28 +0000</pubDate>
+		<category><![CDATA[Tech]]></category>		<guid isPermaLink="false">1309425</guid>
+
+					<description><![CDATA[AI system architects explain how to build human accountability into high-risk AI workflows.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1309425</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2287974075.jpg" medium="image" width="2121" height="1414" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2287974075.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>Protected: Get ESR’s new tech-forward cases and chargers for your iPhone 18 Pro</title>
+		<link>https://www.zdnet.com/paid-content/article/get-esrs-new-tech-forward-cases-and-chargers-for-your-iphone-18-pro/</link>
+		
+		<dc:creator><![CDATA[ZDNET BrandX]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2026 15:51:30 +0000</pubDate>
+		<category><![CDATA[Mobile Accessories]]></category>		<guid isPermaLink="false">1303472</guid>
+
+					<description><![CDATA[With the iPhone 18 Pro series and the long-awaited foldable iPhone Duo now unveiled, ESR’s new line of accessories combines maximum protection with unique engineering.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1303472</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/KV.jpg" medium="image" width="1600" height="900" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/KV.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>I tested 9 vertical mice in my quest to reduce wrist pain – this $27 model beat them all</title>
+		<link>https://www.zdnet.com/tech/best-vertical-mouse-to-help-reduce-wrist-pain-2/</link>
+		
+		<dc:creator><![CDATA[David Gewirtz]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2026 14:56:43 +0000</pubDate>
+		<category><![CDATA[Hardware]]></category>		<guid isPermaLink="false">1309350</guid>
+
+					<description><![CDATA[After testing nine vertical mice, one surprising $27 ergonomic mouse beat pricey rivals by solving the overlooked problem nobody mentions.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1309350</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/all-mice.jpg" medium="image" width="3690" height="2076" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/all-mice.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>This rugged Android tablet goes everywhere I’m uneasy taking my iPad Pro – and it’s only $340</title>
+		<link>https://www.zdnet.com/tech/rugtake-t5-pro-android-16-tablet-review/</link>
+		
+		<dc:creator><![CDATA[Adrian Kingsley-Hughes]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2026 14:52:29 +0000</pubDate>
+		<category><![CDATA[Android]]></category>		<guid isPermaLink="false">1305032</guid>
+
+					<description><![CDATA[The Rugtake T5 Pro is built to survive conditions that would absolutely destroy my Apple tablet.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1305032</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/IMG_5775.jpeg" medium="image" width="3000" height="1687" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/IMG_5775.jpeg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+		<item>
+		<title>QuickBooks Workforce payroll plans are 50% off for the first 3 months – how to get the deal</title>
+		<link>https://www.zdnet.com/tech/quickbooks-workforce-payroll-deal/</link>
+		
+		<dc:creator><![CDATA[Palash Volvoikar]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2026 14:41:31 +0000</pubDate>
+		<category><![CDATA[Services & Software]]></category>		<guid isPermaLink="false">1305786</guid>
+
+					<description><![CDATA[QuickBooks Workforce plans just got a big introductory discount. Here’s what each plan does and what you’ll pay once you add employees.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1305786</post-id><media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Intuit-QuickBooks-Workforce.jpg" medium="image" width="1920" height="1080" />
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Intuit-QuickBooks-Workforce.jpg?w=300&#038;h=300&#038;crop=1" medium="image" width="300" height="300" />
+	</item>
+	</channel>
+</rss>

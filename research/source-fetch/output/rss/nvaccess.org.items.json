@@ -1,0 +1,68 @@
+{
+  "kind": "rss",
+  "domain": "nvaccess.org",
+  "url": "https://nvaccess.org/rss",
+  "count": 10,
+  "items": [
+    {
+      "title": "NVDA 2026.3beta2 available for testing",
+      "link": "https://www.nvaccess.org/post/nvda-2026-3beta2/",
+      "pubDate": "Mon, 14 Sep 2026 03:53:06 +0000",
+      "description": "Beta2 of NVDA 2026.3 is now available for download and testing. For anyone who is interested in trying out what the next version of NVDA has to offer before it is officially released, we welcome you to download the beta and provide feedback using our issue reporting process. By installing the beta you will be&#8230; <a class=\"read-more\" href=\"https://www.nvaccess.org/post/nvda-2026-3beta2/\">Read More</a>"
+    },
+    {
+      "title": "In-Process 8th September 2026",
+      "link": "https://www.nvaccess.org/post/in-process-8th-september-2026/",
+      "pubDate": "Tue, 08 Sep 2026 06:29:45 +0000",
+      "description": "It&#8217;s a busy and exciting time &#8211; it&#8217;s release time! Let&#8217;s dive in and see what&#8217;s new: NVDA 2026.2 Magnifier A new Beta already? Resetting to Factory Defaults NVDA 2026.2 NVDA 2026.2 has been released! This release includes a new built-in Magnifier feature, improvements to touch gestures and navigation, and expanded speech and braille capabilities.&#8230; <a class=\"read-more\" href=\"https://www.nvaccess.org/post/in-process-8th-september-2026/\">Read More</a>"
+    },
+    {
+      "title": "NVDA 2026.3beta1 available for testing",
+      "link": "https://www.nvaccess.org/post/nvda-2026-3beta1/",
+      "pubDate": "Mon, 07 Sep 2026 02:55:21 +0000",
+      "description": "Beta1 of NVDA 2026.3 is now available for download and testing. For anyone who is interested in trying out what the next version of NVDA has to offer before it is officially released, we welcome you to download the beta and provide feedback using our issue reporting process. By installing the beta you will be&#8230; <a class=\"read-more\" href=\"https://www.nvaccess.org/post/nvda-2026-3beta1/\">Read More</a>"
+    },
+    {
+      "title": "NVDA 2026.2 Released",
+      "link": "https://www.nvaccess.org/post/nvda-2026-2/",
+      "pubDate": "Mon, 31 Aug 2026 02:55:42 +0000",
+      "description": "NV Access is pleased to announce that version 2026.2 of NVDA, the free screen reader for Microsoft Windows, is now available for download. We encourage all users to upgrade to this version. Highlights This release includes a new built-in Magnifier feature, improvements to touch gestures and navigation, and expanded speech and braille capabilities. The Magnifier&#8230; <a class=\"read-more\" href=\"https://www.nvaccess.org/post/nvda-2026-2/\">Read More</a>"
+    },
+    {
+      "title": "NVDA 2026.2rc2 available for testing",
+      "link": "https://www.nvaccess.org/post/nvda-2026-2rc2/",
+      "pubDate": "Wed, 26 Aug 2026 04:04:39 +0000",
+      "description": "The Second Release Candidate (RC2) of NVDA 2026.2 is now available for download and testing. We encourage all users to download this RC and provide feedback. Unless any critical bugs are found, this will be identical to the final 2026.2 release. By installing the RC you will be opting into NVDA&#8217;s beta/RC channel, and will&#8230; <a class=\"read-more\" href=\"https://www.nvaccess.org/post/nvda-2026-2rc2/\">Read More</a>"
+    },
+    {
+      "title": "In-Process 24th August 2026",
+      "link": "https://www.nvaccess.org/post/in-process-24th-august-2026/",
+      "pubDate": "Mon, 24 Aug 2026 23:04:33 +0000",
+      "description": "We&#8217;re so close to 2026.2 now! We have a release candidate! Plus, this time around: NVDA 2026.2 Release Candidate! Automatically Scrolling the Braille Display Getting help from others New Unassigned Commands Finding out more about what is new NVDA 2026.2 Release Candidate! The NVDA 2026.2 Release Candidate is now available for testing! We encourage all&#8230; <a class=\"read-more\" href=\"https://www.nvaccess.org/post/in-process-24th-august-2026/\">Read More</a>"
+    },
+    {
+      "title": "NVDA 2026.2rc1 available for testing",
+      "link": "https://www.nvaccess.org/post/nvda-2026-2rc1/",
+      "pubDate": "Mon, 24 Aug 2026 02:29:41 +0000",
+      "description": "The Release Candidate (RC) of NVDA 2026.2 is now available for download and testing. We encourage all users to download this RC and provide feedback. Unless any critical bugs are found, this will be identical to the final 2026.2 release. By installing the RC you will be opting into NVDA&#8217;s beta/RC channel, and will only&#8230; <a class=\"read-more\" href=\"https://www.nvaccess.org/post/nvda-2026-2rc1/\">Read More</a>"
+    },
+    {
+      "title": "NVDA 2026.2beta11 available for testing",
+      "link": "https://www.nvaccess.org/post/nvda-2026-2beta11/",
+      "pubDate": "Mon, 17 Aug 2026 04:09:12 +0000",
+      "description": "Beta11 of NVDA 2026.2 is now available for download and testing. For anyone who is interested in trying out what the next version of NVDA has to offer before it is officially released, we welcome you to download the beta and provide feedback using our issue reporting process. By installing the beta you will be&#8230; <a class=\"read-more\" href=\"https://www.nvaccess.org/post/nvda-2026-2beta11/\">Read More</a>"
+    },
+    {
+      "title": "In-Process 7th August 2026",
+      "link": "https://www.nvaccess.org/post/in-process-7th-august-2026/",
+      "pubDate": "Fri, 07 Aug 2026 05:16:04 +0000",
+      "description": "We&#8217;re getting ever closer to NVDA 2026.2 and we hit a new milestone towards that this week. Let&#8217;s have a look at what&#8217;s in this week&#8217;s blog and then dive in: NVDA 2026.2 Beta 10 Getting Help WebAIM Screen Reader User Survey Thanks Acapela Moving by Sentence NVDA 2026.2 Beta 10 NVDA 2026.2 is nearly&#8230; <a class=\"read-more\" href=\"https://www.nvaccess.org/post/in-process-7th-august-2026/\">Read More</a>"
+    },
+    {
+      "title": "NVDA 2026.2beta10 available for testing",
+      "link": "https://www.nvaccess.org/post/nvda-2026-2beta10/",
+      "pubDate": "Thu, 06 Aug 2026 01:11:44 +0000",
+      "description": "Beta10 of NVDA 2026.2 is now available for download and testing. For anyone who is interested in trying out what the next version of NVDA has to offer before it is officially released, we welcome you to download the beta and provide feedback using our issue reporting process. By installing the beta you will be&#8230; <a class=\"read-more\" href=\"https://www.nvaccess.org/post/nvda-2026-2beta10/\">Read More</a>"
+    }
+  ]
+}

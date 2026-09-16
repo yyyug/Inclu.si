@@ -1,0 +1,68 @@
+{
+  "kind": "rss",
+  "domain": "deque.com",
+  "url": "https://deque.com/rss",
+  "count": 10,
+  "items": [
+    {
+      "title": "EN 301 549 v4.1.1 is final! What changed, what it means, and what you should do.",
+      "link": "https://www.deque.com/blog/en-301-549-v4-1-1-is-final-what-changed-what-it-means-and-what-you-should-do/",
+      "pubDate": "Tue, 08 Sep 2026 12:28:32 +0000",
+      "description": "<p>On September 2, 2026, EN 301 549 v4.1.1 was officially published. This represents a major update to Europe’s accessibility standard for ICT products and services, and it’s a big milestone. But in practice, it’s only the first step along a three-point timeline.</p>\n<p>The post <a href=\"https://www.deque.com/blog/en-301-549-v4-1-1-is-final-what-changed-what-it-means-and-what-you-should-do/\">EN 301 549 v4.1.1 is final! What changed, what it means, and what you should do.</a> appeared first on <a href=\"https://www.deque.com\">Deque</a>.</p>"
+    },
+    {
+      "title": "Test your custom elements and trust the results with Axe-core&#8217;s support for ElementInternals",
+      "link": "https://www.deque.com/blog/test-your-custom-elements-and-trust-the-results-with-axe-cores-support-for-elementinternals/",
+      "pubDate": "Thu, 27 Aug 2026 13:21:18 +0000",
+      "description": "<p>If you're a large enterprise organization with accessibility issues resulting from interoperability challenges, moving to ElementInternals is a savvy move. You can standardize, and safely test. And, with Axe-core now supporting ElementInternals, you can test those components and trust the results.</p>\n<p>The post <a href=\"https://www.deque.com/blog/test-your-custom-elements-and-trust-the-results-with-axe-cores-support-for-elementinternals/\">Test your custom elements and trust the results with Axe-core&#8217;s support for ElementInternals</a> appeared first on <a href=\"https://www.deque.com\">Deque</a>.</p>"
+    },
+    {
+      "title": "Deque and Microsoft: Two decades of shaping the future of accessibility",
+      "link": "https://www.deque.com/blog/deque-and-microsoft-two-decades-of-shaping-the-future-of-accessibility/",
+      "pubDate": "Tue, 25 Aug 2026 12:33:31 +0000",
+      "description": "<p>What started nearly two decades ago as conversations between two people passionate about improving accessibility across Microsoft's digital experiences has grown into a lasting partnership built on shared learning, mutual respect, and a common belief that accessibility should be built into every stage of software development.</p>\n<p>The post <a href=\"https://www.deque.com/blog/deque-and-microsoft-two-decades-of-shaping-the-future-of-accessibility/\">Deque and Microsoft: Two decades of shaping the future of accessibility</a> appeared first on <a href=\"https://www.deque.com\">Deque</a>.</p>"
+    },
+    {
+      "title": "Canada&#8217;s next phase of ACA enforcement: Are you ready?",
+      "link": "https://www.deque.com/blog/canadas-next-phase-of-aca-enforcement-are-you-ready/",
+      "pubDate": "Thu, 20 Aug 2026 17:02:15 +0000",
+      "description": "<p>There’s a new deadline looming for the Accessible Canada Act (ACA), and it’s a significant one. The work required to meet the new requirements is substantial, and you need to start now if your business is going to safely meet the new deadline.</p>\n<p>The post <a href=\"https://www.deque.com/blog/canadas-next-phase-of-aca-enforcement-are-you-ready/\">Canada&#8217;s next phase of ACA enforcement: Are you ready?</a> appeared first on <a href=\"https://www.deque.com\">Deque</a>.</p>"
+    },
+    {
+      "title": "Axe-core at 5 billion: Accessibility meets the moment",
+      "link": "https://www.deque.com/blog/axe-core-at-5-billion-accessibility-meets-the-moment/",
+      "pubDate": "Tue, 18 Aug 2026 13:02:27 +0000",
+      "description": "<p>The global digital accessibility community is experiencing a time of incredible momentum and incredible urgency. From every corner of the world, we are seeing new stories emerge—regulatory expansion, technological innovation, groundbreaking legal decisions, and more. This is happening at a time when AI is dramatically reshaping what it means to create digital products, services, and experiences.</p>\n<p>The post <a href=\"https://www.deque.com/blog/axe-core-at-5-billion-accessibility-meets-the-moment/\">Axe-core at 5 billion: Accessibility meets the moment</a> appeared first on <a href=\"https://www.deque.com\">Deque</a>.</p>"
+    },
+    {
+      "title": "The anatomy of accessible forms: Required form fields",
+      "link": "https://www.deque.com/blog/anatomy-of-accessible-forms-required-form-fields/",
+      "pubDate": "Thu, 06 Aug 2026 15:47:31 +0000",
+      "description": "<p>Creating accessible forms ensures your forms are accessible to all users while meeting standards like ADA, WCAG, and EAA compliance.</p>\n<p>The post <a href=\"https://www.deque.com/blog/anatomy-of-accessible-forms-required-form-fields/\">The anatomy of accessible forms: Required form fields</a> appeared first on <a href=\"https://www.deque.com\">Deque</a>.</p>"
+    },
+    {
+      "title": "New in Axe MCP Server: More automated coverage and streamlined developer workflows",
+      "link": "https://www.deque.com/blog/new-in-axe-mcp-server-more-automated-coverage-and-streamlined-developer-workflows/",
+      "pubDate": "Wed, 05 Aug 2026 11:23:58 +0000",
+      "description": "<p>Automated accessibility testing helps teams catch issues earlier in the development workflow and reduce manual effort. However, some of the most complex accessibility checks have traditionally required guided or manual testing. With the latest Axe MCP Server updates, your developers can now automate even more accessibility testing directly inside their coding workflows.</p>\n<p>The post <a href=\"https://www.deque.com/blog/new-in-axe-mcp-server-more-automated-coverage-and-streamlined-developer-workflows/\">New in Axe MCP Server: More automated coverage and streamlined developer workflows</a> appeared first on <a href=\"https://www.deque.com\">Deque</a>.</p>"
+    },
+    {
+      "title": "Use the Axe Monitor MCP integration within your preferred AI assistant to accelerate issue prioritization",
+      "link": "https://www.deque.com/blog/use-the-axe-monitor-mcp-integration-within-your-preferred-ai-assistant-to-accelerate-issue-prioritization/",
+      "pubDate": "Thu, 30 Jul 2026 11:57:11 +0000",
+      "description": "<p>Now, by using our new Axe Monitor MCP integration within your preferred AI assistant, you can use natural language prompts to dramatically speed up the process of creating and comparing scans, prioritizing fixes, and building and delivering actionable accessibility sprint plans.</p>\n<p>The post <a href=\"https://www.deque.com/blog/use-the-axe-monitor-mcp-integration-within-your-preferred-ai-assistant-to-accelerate-issue-prioritization/\">Use the Axe Monitor MCP integration within your preferred AI assistant to accelerate issue prioritization</a> appeared first on <a href=\"https://www.deque.com\">Deque</a>.</p>"
+    },
+    {
+      "title": "For your business to thrive in the agentic AI era, treat accessibility as foundational to your AI strategy",
+      "link": "https://www.deque.com/blog/for-your-business-to-thrive-in-the-agentic-ai-era-treat-accessibility-as-foundational-to-your-ai-strategy/",
+      "pubDate": "Wed, 29 Jul 2026 10:51:43 +0000",
+      "description": "<p>You need to build accessibility into how AI writes code from the first prompt, not fix it after the fact. And because the disability community has been perfecting human-computer interaction for different input and output modalities for decades, their expertise isn't just morally important; it's technically essential for building robust, reliable AI that actually works.</p>\n<p>The post <a href=\"https://www.deque.com/blog/for-your-business-to-thrive-in-the-agentic-ai-era-treat-accessibility-as-foundational-to-your-ai-strategy/\">For your business to thrive in the agentic AI era, treat accessibility as foundational to your AI strategy</a> appeared first on <a href=\"https://www.deque.com\">Deque</a>.</p>"
+    },
+    {
+      "title": "Why digital accessibility is a strategic priority for HSBC",
+      "link": "https://www.deque.com/blog/why-digital-accessibility-is-a-strategic-priority-for-hsbc/",
+      "pubDate": "Tue, 28 Jul 2026 11:03:51 +0000",
+      "description": "<p>Mali Fernando, Group Head of Digital Experience and Accessibility at HSBC, discusses the role of digital accessibility in creating better banking experiences, strengthening customer relationships, and supporting long-term business success.</p>\n<p>The post <a href=\"https://www.deque.com/blog/why-digital-accessibility-is-a-strategic-priority-for-hsbc/\">Why digital accessibility is a strategic priority for HSBC</a> appeared first on <a href=\"https://www.deque.com\">Deque</a>.</p>"
+    }
+  ]
+}

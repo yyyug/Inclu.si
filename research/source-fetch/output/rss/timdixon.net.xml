@@ -1,0 +1,2219 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TIM DIXON</title>
+	<atom:link href="https://www.timdixon.net/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.timdixon.net/</link>
+	<description>Navigating the abyss of uncertainty</description>
+	<lastBuildDate>Mon, 27 Jul 2026 10:04:18 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1</generator>
+
+<image>
+	<url>https://www.timdixon.net/wp-content/uploads/2026/05/cropped-favicon-512-32x32.png</url>
+	<title>TIM DIXON</title>
+	<link>https://www.timdixon.net/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">175837978</site>	<item>
+		<title>Making an Accessible Emotion Wheel: Why I Built Mine</title>
+		<link>https://www.timdixon.net/blog/2026/07/making-an-accessible-emotion-wheel-why-i-built-mine/</link>
+					<comments>https://www.timdixon.net/blog/2026/07/making-an-accessible-emotion-wheel-why-i-built-mine/#respond</comments>
+		
+		<dc:creator><![CDATA[Tim Dixon]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 10:04:13 +0000</pubDate>
+				<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[Living with Sight Loss]]></category>
+		<category><![CDATA[Mental Health]]></category>
+		<category><![CDATA[Accessible]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Assistive Technology]]></category>
+		<category><![CDATA[Blind]]></category>
+		<category><![CDATA[Emotion Wheel]]></category>
+		<guid isPermaLink="false">https://www.timdixon.net/?p=1731</guid>
+
+					<description><![CDATA[<p>After struggling with my mental health for around 18 months, I eventually built an accessible emotion wheel to help me recognise, record and reflect on what I was&#8230;</p>
+<p>The post <a href="https://www.timdixon.net/blog/2026/07/making-an-accessible-emotion-wheel-why-i-built-mine/">Making an Accessible Emotion Wheel: Why I Built Mine</a> appeared first on <a href="https://www.timdixon.net">TIM DIXON</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">After struggling with my mental health for around 18 months, I eventually built an <strong>accessible emotion wheel</strong> to help me recognise, record and reflect on what I was feeling. At first, I thought the difficulties were connected to my continuing sight loss. That seemed like the obvious explanation.</p>
+
+
+
+<p class="wp-block-paragraph">Even after a lot of counselling, however, I was still experiencing burnout and fatigue. Anxiety could appear from nowhere. I would feel intensely frustrated and sometimes snap at people.</p>
+
+
+
+<p class="wp-block-paragraph">A mental health team suggested that I take an emotional regulation course. I have since been diagnosed with Combined ADHD, which provides some context for my own experience, but emotional regulation is relevant to everyone.</p>
+
+
+
+<p class="wp-block-paragraph">The course helped me become more aware of what I was feeling. It encouraged me to listen to my body, recognise the physical sensations connected to an emotion and think about what that emotion might be telling me.</p>
+
+
+
+<h2 class="wp-block-heading">Learning to recognise what I was feeling</h2>
+
+
+
+<p class="wp-block-paragraph">Before taking the course, I did not always recognise an emotion until it had become overwhelming.</p>
+
+
+
+<p class="wp-block-paragraph">Anxiety seemed to come from nowhere. Frustration could build without me understanding what was behind it. By the time I noticed what was happening, I might already be exhausted or reacting sharply to someone.</p>
+
+
+
+<p class="wp-block-paragraph">The course encouraged me to pause and identify what I was feeling with more precision. It was not about judging the emotion as good or bad. It was about noticing it, naming it and considering how it related to the situation.</p>
+
+
+
+<p class="wp-block-paragraph">That has helped me become more in touch with my emotions and the physical signals that accompany them. It gives me a better opportunity to reflect and decide what action, if any, I need to take.</p>
+
+
+
+<p class="wp-block-paragraph">This is still something I am learning. An emotion wheel does not make difficult feelings disappear, but it can provide useful language when “fine”, “sad” or “angry” does not tell the whole story.</p>
+
+
+
+<h2 class="wp-block-heading">Why I needed an accessible emotion wheel</h2>
+
+
+
+<p class="wp-block-paragraph">As part of the course, I was given an emotion wheel. The wheel has three layers.</p>
+
+
+
+<p class="wp-block-paragraph">The inner circle contains broad and familiar emotions such as anger, disgust, sadness, happiness, surprise and fear. The next layer provides more specific emotions, while the outer circle becomes more granular again.</p>
+
+
+
+<p class="wp-block-paragraph">Visually, this works well. You start in the centre and move outwards until you find a word that more accurately describes what you are feeling.</p>
+
+
+
+<p class="wp-block-paragraph">Being blind, I could not use it in that way.</p>
+
+
+
+<p class="wp-block-paragraph">The digital version was an image, with words arranged around several circles and at different angles. It was not accessible to my screen reader. The paper version presented the fairly predictable problem that it was on paper.</p>
+
+
+
+<p class="wp-block-paragraph">I could have copied the information into an Excel spreadsheet and recorded my emotions there. However, a spreadsheet would not naturally guide me through the three layers of the wheel. I also wanted something quick enough to use regularly, without turning the act of recording an emotion into another piece of administration.</p>
+
+
+
+<p class="wp-block-paragraph">Support only works when the person receiving it can access it.</p>
+
+
+
+<h2 class="wp-block-heading">Building an accessible emotion wheel</h2>
+
+
+
+<p class="wp-block-paragraph">I decided to turn the wheel into a simple process. Rather than exploring a visual circle, I could select a broad emotion, move to the next layer and then choose a more precise description if I wanted one.</p>
+
+
+
+<p class="wp-block-paragraph">This would preserve the useful structure of the emotion wheel without relying on its visual layout.</p>
+
+
+
+<p class="wp-block-paragraph">AI helped me extract the words from the original image. It was useful, but it was not magic. Text placed at different angles around several circles is difficult for AI to interpret accurately, so the results needed to be checked.</p>
+
+
+
+<p class="wp-block-paragraph">I then asked AI to help me create the app in HTML. I wanted it to work as a website, store its information locally and be simple enough to host using GitHub Pages.</p>
+
+
+
+<p class="wp-block-paragraph">AI also helped as I tested and refined the design. I could explain where something was inaccessible or awkward, then work through possible changes.</p>
+
+
+
+<p class="wp-block-paragraph">For me, this is a good example of how AI can help remove an accessibility barrier. It did not replace my judgement or lived experience. I still had to check the information, test the app and explain what was not working.</p>
+
+
+
+<h2 class="wp-block-heading">Recording emotions with the accessible emotion wheel</h2>
+
+
+
+<p class="wp-block-paragraph">The <a href="https://emotionwheel.timdixon.net/">Emotion Wheel app</a> has different capture options.</p>
+
+
+
+<p class="wp-block-paragraph">Phase 1 keeps things simple. You select an emotion from the inner, middle or outer layer and record it. This can help make emotion tracking a regular habit without asking you to complete a long form each time.</p>
+
+
+
+<p class="wp-block-paragraph">Phase 2 adds guided reflection. Alongside the emotion, you can record:</p>
+
+
+
+<ul class="wp-block-list">
+<li>whether the emotion felt appropriate to the situation;</li>
+
+
+
+<li>the strength of emotion you expected;</li>
+
+
+
+<li>the strength you actually experienced;</li>
+
+
+
+<li>physical sensations associated with the emotion;</li>
+
+
+
+<li>an optional note about what was happening.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">The app can compare the expected and actual intensity. This can help identify situations where the strength of an emotional response was higher or lower than expected.</p>
+
+
+
+<p class="wp-block-paragraph">These fields are optional. The aim is not to make people capture more information than they need. It is to provide different levels of detail depending on where they are in the process and what they find useful.</p>
+
+
+
+<h2 class="wp-block-heading">Looking for emotional patterns</h2>
+
+
+
+<p class="wp-block-paragraph">Recording an emotion in the moment is only one part of the process. I also wanted to be able to look back and reflect.</p>
+
+
+
+<p class="wp-block-paragraph">The app provides logs, tallies, written insights, charts and matching data tables. You can review entries by day, week, month or across all of your recorded information.</p>
+
+
+
+<p class="wp-block-paragraph">This can show which emotions you record most frequently and how your logging changes over time. You can also revisit situations where the emotion you experienced differed from the level you expected.</p>
+
+
+
+<p class="wp-block-paragraph">Charts are accompanied by written summaries and data tables, so the insight is not available only through a visual graphic. Colour is not used as the only way to communicate information.</p>
+
+
+
+<p class="wp-block-paragraph">The app also includes keyboard and screen-reader support, visible focus indicators and a choice of light, dark and muted themes. My aim is to remove barriers rather than simply create a digital version of the inaccessible image I started with.</p>
+
+
+
+<h2 class="wp-block-heading">Keeping your accessible emotion wheel data private</h2>
+
+
+
+<p class="wp-block-paragraph">Emotion records can contain very personal information, so I wanted the app to keep them on the user’s device.</p>
+
+
+
+<p class="wp-block-paragraph">Your emotions, reflection answers, intensity values, physical sensations and notes are stored in your browser’s local storage. They are not sent to an online database, and you do not need to create an account.</p>
+
+
+
+<p class="wp-block-paragraph">The trade-off is that the information does not automatically follow you to another browser or device. If you want to move it to another machine or keep a backup, you need to export it manually.</p>
+
+
+
+<p class="wp-block-paragraph">The app provides CSV exports and JSON backup options. Clearing the browser’s site data can remove the saved records, so creating a backup is important if you want to keep them.</p>
+
+
+
+<p class="wp-block-paragraph">The app is a personal reflection tool, not a medical service, emergency service or clinical record. Its <a href="https://emotionwheel.timdixon.net/docs/privacy.html">privacy information</a> explains in more detail what is stored and what happens when you export or share information.</p>
+
+
+
+<h2 class="wp-block-heading">Making support genuinely accessible</h2>
+
+
+
+<p class="wp-block-paragraph">I built this accessible emotion wheel because I needed a practical way to use something that had been recommended to support me.</p>
+
+
+
+<p class="wp-block-paragraph">The original resource was useful in principle, but its format created a barrier. Converting it into an accessible process has allowed me to track my emotions, reflect on patterns and become more aware of what my body may be telling me.</p>
+
+
+
+<p class="wp-block-paragraph">I have decided to share the app because I hope it makes capturing emotions easier for other people and removes some of the barriers I faced.</p>
+
+
+
+<p class="wp-block-paragraph">Not everyone will want to track their emotions in the same way, and this tool will not be right for everyone. However, support should not become less useful simply because it was supplied in an inaccessible format.</p>
+
+
+
+<p class="wp-block-paragraph">AI can help us change that. It can help extract information, create new interfaces and respond to accessibility feedback. It still needs human checking, accessible testing and the perspective of the people who will actually use the result.</p>
+
+
+
+<p class="wp-block-paragraph">Most importantly, I think greater awareness of our emotions can help us respond with more kindness. That includes kindness towards other people, but it also means being kinder to ourselves.</p>
+
+
+
+<p class="wp-block-paragraph">You can try the app at <a href="https://emotionwheel.timdixon.net/">emotionwheel.timdixon.net</a>. It is free and <a href="https://github.com/timdixon82/Emotion-Wheel">open source on GitHub</a>.</p>
+
+
+
+<p class="wp-block-paragraph">Tell me what you think in the comments below or on X @timdixon82</p>
+<p>The post <a href="https://www.timdixon.net/blog/2026/07/making-an-accessible-emotion-wheel-why-i-built-mine/">Making an Accessible Emotion Wheel: Why I Built Mine</a> appeared first on <a href="https://www.timdixon.net">TIM DIXON</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.timdixon.net/blog/2026/07/making-an-accessible-emotion-wheel-why-i-built-mine/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1731</post-id>	</item>
+		<item>
+		<title>How Blind AI Pioneers Are Shaping Accessible Tech</title>
+		<link>https://www.timdixon.net/blog/2026/07/how-blind-ai-pioneers-are-shaping-accessible-tech/</link>
+					<comments>https://www.timdixon.net/blog/2026/07/how-blind-ai-pioneers-are-shaping-accessible-tech/#respond</comments>
+		
+		<dc:creator><![CDATA[Tim Dixon]]></dc:creator>
+		<pubDate>Sat, 04 Jul 2026 14:15:27 +0000</pubDate>
+				<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[Disability Representation]]></category>
+		<category><![CDATA[IT]]></category>
+		<category><![CDATA[Living with Sight Loss]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Assistive Technology]]></category>
+		<category><![CDATA[Blind]]></category>
+		<category><![CDATA[Blind and Low Vision]]></category>
+		<guid isPermaLink="false">https://www.timdixon.net/?p=1718</guid>
+
+					<description><![CDATA[<p>I have lost count of the number of times a mainstream feature turned up years after blind people had already built their own version of it. Screen readers&#8230;</p>
+<p>The post <a href="https://www.timdixon.net/blog/2026/07/how-blind-ai-pioneers-are-shaping-accessible-tech/">How Blind AI Pioneers Are Shaping Accessible Tech</a> appeared first on <a href="https://www.timdixon.net">TIM DIXON</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">I have lost count of the number of times a mainstream feature turned up years after blind people had already built their own version of it. Screen readers made computers speak long before &#8220;voice assistant&#8221; was a marketing term. The same pattern is repeating with AI, and once again blind AI pioneers are working out what these tools are actually good for.</p>
+
+
+
+<h2 class="wp-block-heading">We Are Blind AI Pioneers, Whether We Meant To Be Or Not</h2>
+
+
+
+<p class="wp-block-paragraph">Necessity does that to a community. When built-in tools do not work for you, you either give up or build something that does, and blind and low vision people have spent decades doing the second thing. AI has turned out to be a genuinely useful new material to build with.</p>
+
+
+
+<p class="wp-block-paragraph">What strikes me is not that blind people are using ChatGPT, Claude, or Gemini, but that we are using them to close specific, longstanding accessibility gaps, often faster than the companies who owe us those fixes.</p>
+
+
+
+<p class="wp-block-paragraph">It is not the first time, either. Plenty of us were wearing Meta&#8217;s Ray-Ban smart glasses and asking their AI to describe a room, read a menu, or identify a product long before the glasses became a mainstream fashion item. We are always looking at the newest technology first and asking what it can do for us, rather than waiting for someone else to build the accessible version.</p>
+
+
+
+<h2 class="wp-block-heading">An Itch That Needed Scratching: Item Chooser for NVDA</h2>
+
+
+
+<p class="wp-block-paragraph">Steven Scott, co-host of the Double Tap podcast, wanted something that NVDA users on Windows had envied in VoiceOver for years: a fast, searchable way to jump straight to any item in the current window or web page, much like VoiceOver&#8217;s Item Chooser (VO+I) on a Mac.</p>
+
+
+
+<p class="wp-block-paragraph">Rather than wait for someone else to write it, Steven used Claude as a coding partner, talking through the problem conversationally instead of writing code himself. The result is <a href="https://github.com/doubletaponair/NVDAItemChooser">Item Chooser for NVDA</a>, free on GitHub and activated with NVDA+I.</p>
+
+
+
+<p class="wp-block-paragraph">Steven is not a professional developer. He identified a gap, described what he needed in plain language, and ended up with a working NVDA add-on that other blind users now rely on daily.</p>
+
+
+
+<h2 class="wp-block-heading">Quill: A Text Editor Built By Someone Who Actually Uses a Screen Reader</h2>
+
+
+
+<p class="wp-block-paragraph">Jeff Bishop has taken a bigger swing with <a href="https://quillforall.org/">Quill</a>, a free, open-source writing environment for Windows and macOS built with screen reader use as the starting design requirement, not an afterthought.</p>
+
+
+
+<p class="wp-block-paragraph">Every command in Quill announces its outcome, and nothing depends on visual feedback. It bridges the gap between Notepad and a full code editor, and it includes an AI writing assistant with a review-first model, so nothing changes in your document without your approval.</p>
+
+
+
+<p class="wp-block-paragraph">Jeff talked through Quill&#8217;s design on <a href="https://doubletaponair.com/why-quill-is-changing-text-editing-for-blind-users-2/">Double Tap</a>, explaining how it &#8220;meets users where they are&#8221; through configurable profiles, from a clean beginner view to a full developer toolkit. A good example of AI used inside a tool, not a tool generated by AI.</p>
+
+
+
+<h2 class="wp-block-heading">ClipMan: The Clipboard Tool Sighted Users Never Think About</h2>
+
+
+
+<p class="wp-block-paragraph">Andre Louis, a blind musician, created <a href="https://github.com/OnjLouis/Clipman/tree/main">ClipMan</a>, a free clipboard manager for Windows and Mac that keeps a searchable history of everything copied.</p>
+
+
+
+<p class="wp-block-paragraph">It sounds small until you need it. Sighted users rarely think about their clipboard because they can see what they last copied. ClipMan gives that same casual confidence to screen reader users, with pinned entries, quick-paste hotkeys, and syncing across machines.</p>
+
+
+
+<p class="wp-block-paragraph">ClipMan came up alongside Quill on <a href="https://doubletaponair.com/quill-clipman-and-new-book-no-sight-required-to-help-you-learn-ai-2/">Double Tap</a>, in the same episode where accessible gaming developer Robin Christopherson dropped in to praise it. A good reminder that genuinely useful accessible software often comes from individuals solving their own problems first.</p>
+
+
+
+<h2 class="wp-block-heading">Learning AI Itself, From Someone Who Lives It</h2>
+
+
+
+<p class="wp-block-paragraph">None of this helps if blind users do not know how to operate ChatGPT, Claude, or Gemini with NVDA, JAWS, VoiceOver, or TalkBack. That is the gap Tony Gebhard, a totally blind musician and assistive technology professional, has written a book to fill.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://nosightrequired.com/">No Sight Required: The Blind User&#8217;s Guide to AI</a> is a practical, no-gatekeeping walkthrough written by someone who uses these tools every day without sight, covering every major AI assistant across Windows, Mac, iPhone, and Android with screen reader commands spelled out in plain words. It is available on <a href="https://amzn.to/4va0wgo" rel="nofollow sponsored">Amazon</a> in ebook and paperback (Affiliate Link), and Tony sells accessible ePub, MP3, and Word editions directly if Kindle does not suit you.</p>
+
+
+
+<h2 class="wp-block-heading">Why Blind AI Pioneers Keep Turning Up First</h2>
+
+
+
+<p class="wp-block-paragraph">I do not think this is a coincidence. Blind AI pioneers keep turning up early in every new wave of technology because we cannot afford to wait for mainstream accessibility, and AI lowers the barrier that has always stood between a good idea and a working tool.</p>
+
+
+
+<p class="wp-block-paragraph">Steven did not need years of software training to build Item Chooser. Jeff did not need a large team to build Quill&#8217;s screen reader parity. None of it would have looked the same three years ago.</p>
+
+
+
+<p class="wp-block-paragraph">The same community keeps shipping more: Kelly Ford&#8217;s <a href="https://github.com/kellylford/QuickMail/releases">QuickMail</a>, a screen-reader-friendly email client for IMAP servers, and <a href="https://github.com/doubletaponair/claude-code-reader">Claude Code Reader</a>, an accessible wrapper around Anthropic&#8217;s Claude Code with native VoiceOver and NVDA/JAWS support. Both point to where this is heading: accessible interfaces built around AI tools, not just tools built with AI.</p>
+
+
+
+<h2 class="wp-block-heading">What Blind AI Pioneers Mean for the Rest of Tech</h2>
+
+
+
+<p class="wp-block-paragraph">The pattern goes well beyond screen readers and text editors. Configuration software for things like Keychron keyboards or Elgato Stream Decks is often visual-only, with no keyboard access and no screen reader labels, leaving blind users to guess or ask a sighted friend for help. Community members are now using AI to reverse-engineer that software and build their own accessible configuration tools, closing gaps the manufacturers left open.</p>
+
+
+
+<p class="wp-block-paragraph">Which raises an obvious question. If a blind user with no engineering background can fix a barrier like that with AI in an afternoon, why did the company selling the product not build it accessibly in the first place? The wider tech industry still treats accessibility as a compliance checkbox far too often, rather than a source of genuine innovation, and AI is quietly exposing how thin that excuse has always been.</p>
+
+
+
+<p class="wp-block-paragraph">If you are blind or low vision and have not tried an AI assistant on a specific accessibility gap in your own workflow, that is where I would start. You do not need to be a developer, just a problem worth solving and the patience to describe it clearly.</p>
+
+
+
+<h2 class="wp-block-heading">Tell Me What You Think</h2>
+
+
+
+<p class="wp-block-paragraph">Have you built something with AI to solve your own accessibility problem, or found a community tool that has genuinely changed how you work?</p>
+
+
+
+<p class="wp-block-paragraph">Tell me what you think in the comments below or on X @timdixon82</p>
+
+
+
+<h3 class="wp-block-heading">Sources</h3>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://nosightrequired.com/">No Sight Required</a> by Tony Gebhard</li>
+<li><a href="https://amzn.to/4va0wgo" rel="nofollow sponsored">Buy No Sight Required on Amazon</a> (Affiliate Link)</li>
+<li><a href="https://github.com/doubletaponair/NVDAItemChooser">Item Chooser for NVDA</a> by Steven Scott</li>
+<li><a href="https://quillforall.org/">Quill</a> by Jeff Bishop</li>
+<li><a href="https://doubletaponair.com/why-quill-is-changing-text-editing-for-blind-users-2/">Why Quill Is Changing Text Editing for Blind Users &#8211; Double Tap</a></li>
+<li><a href="https://github.com/OnjLouis/Clipman/tree/main">ClipMan</a> by Andre Louis</li>
+<li><a href="https://doubletaponair.com/quill-clipman-and-new-book-no-sight-required-to-help-you-learn-ai-2/">Quill, Clipman And New Book: No Sight Required To Help You Learn AI &#8211; Double Tap</a></li>
+<li><a href="https://github.com/doubletaponair/claude-code-reader">Claude Code Reader</a></li>
+<li><a href="https://github.com/kellylford/QuickMail/releases">QuickMail</a> by Kelly Ford</li>
+</ul>
+
+<p>The post <a href="https://www.timdixon.net/blog/2026/07/how-blind-ai-pioneers-are-shaping-accessible-tech/">How Blind AI Pioneers Are Shaping Accessible Tech</a> appeared first on <a href="https://www.timdixon.net">TIM DIXON</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.timdixon.net/blog/2026/07/how-blind-ai-pioneers-are-shaping-accessible-tech/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1718</post-id>	</item>
+		<item>
+		<title>How I Built a Free Image Colour Contrast Checker That Runs Entirely in Your Browser</title>
+		<link>https://www.timdixon.net/blog/2026/05/how-i-built-a-free-image-colour-contrast-checker-that-runs-entirely-in-your-browser/</link>
+					<comments>https://www.timdixon.net/blog/2026/05/how-i-built-a-free-image-colour-contrast-checker-that-runs-entirely-in-your-browser/#respond</comments>
+		
+		<dc:creator><![CDATA[Tim Dixon]]></dc:creator>
+		<pubDate>Wed, 20 May 2026 14:44:44 +0000</pubDate>
+				<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[IT]]></category>
+		<category><![CDATA[Living with Sight Loss]]></category>
+		<category><![CDATA[Productivity]]></category>
+		<category><![CDATA[A11Y]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Assistive Technology]]></category>
+		<category><![CDATA[Blind]]></category>
+		<category><![CDATA[Content Creation]]></category>
+		<guid isPermaLink="false">https://www.timdixon.net/?p=1689</guid>
+
+					<description><![CDATA[<p>I have spent more hours than I care to admit trying to use an image colour contrast checker the hard way. Squinting at a screen I can barely&#8230;</p>
+<p>The post <a href="https://www.timdixon.net/blog/2026/05/how-i-built-a-free-image-colour-contrast-checker-that-runs-entirely-in-your-browser/">How I Built a Free Image Colour Contrast Checker That Runs Entirely in Your Browser</a> appeared first on <a href="https://www.timdixon.net">TIM DIXON</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">I have spent more hours than I care to admit trying to use an image colour contrast checker the hard way. Squinting at a screen I can barely see, trying to select precisely the right pixels, copying hex values across to a separate tool, then working out whether the contrast ratio actually passes WCAG. As a blind person, that workflow was never going to work for me. So I built something better, and this week, in time for Global Accessibility Awareness Day, I am releasing it.</p>
+
+
+
+<p class="wp-block-paragraph">The tool is free, runs entirely in your browser, and you can try it right now at <a href="https://image-colour-contrast-checker.timdixon.net">image-colour-contrast-checker.timdixon.net</a>.</p>
+
+
+
+<h2 class="wp-block-heading">Why Existing Image Colour Contrast Checker Tools Did Not Work for Me</h2>
+
+
+
+<p class="wp-block-paragraph">Most contrast checking tools assume you can see what you are doing. You upload an image, you manually pick a foreground colour, you manually pick a background colour, and the tool tells you the ratio. That is fine if you can squint at a photo and confidently select the right region. I cannot do that reliably anymore.</p>
+
+
+
+<p class="wp-block-paragraph">There are browser extensions that check contrast on web pages, but that does not help me when someone sends me a poster, a slide deck screenshot, or a social media graphic that I need to review. The image arrives in my inbox and I need to know: does the text in this image meet WCAG standards? That question should not require me to have usable vision.</p>
+
+
+
+<p class="wp-block-paragraph">The problem is common. Anyone working in accessibility, communications, or marketing needs to check images regularly, not just web pages, and the tooling has not kept up.</p>
+
+
+
+<h2 class="wp-block-heading">How Claude Code Helped Me Build It</h2>
+
+
+
+<p class="wp-block-paragraph">I want to be honest about this: I am not a developer. I can read code, I can reason about it, and I have spent years in IT architecture. But writing the kind of JavaScript needed to build a browser-based image analysis tool from scratch is not something I would have done on my own.</p>
+
+
+
+<p class="wp-block-paragraph">Claude Code changed that. I worked through the problem step by step, describing what I needed, reviewing what it produced, testing it, and iterating. What surprised me was how well it helped me find and connect open source components I did not even know existed. It was not just writing code, it was helping me navigate a world of libraries and techniques then assembling them into something coherent.</p>
+
+
+
+<p class="wp-block-paragraph">The build took days rather than weeks, and the result is genuinely better than I expected.</p>
+
+
+
+<h2 class="wp-block-heading">What the Image Colour Contrast Checker Actually Does</h2>
+
+
+
+<p class="wp-block-paragraph">The tool analyses an image for text automatically. It uses <a href="https://www.npmjs.com/package/@gutenye/ocr-browser">@gutenye/ocr-browser</a> to detect where text appears in the image, powered by <a href="https://www.npmjs.com/package/onnxruntime-web">onnxruntime-web</a> running PaddleOCR models directly in your browser. It then samples the foreground and background colours around that text and calculates the contrast ratio.</p>
+
+
+
+<p class="wp-block-paragraph">The output is a downloadable report. You can export as a PDF generated using <a href="https://www.npmjs.com/package/pdfmake">pdfmake</a>, or as a Markdown file if you prefer something you can drop straight into a document or ticket. The report flags every region where text was detected, tells you whether it passes WCAG AA or AAA, and highlights the parts that fail. You do not need to pick pixels. You do not need to know anything about hex codes. You drop in an image and the tool does the work.</p>
+
+
+
+<p class="wp-block-paragraph">I am genuinely taken aback by what the open source community has built. The fact that you can run OCR, contrast analysis, and report generation entirely in the browser, with no server, no account, and no data leaving your device, is something I did not think would be possible when I started.</p>
+
+
+
+<h2 class="wp-block-heading">Why the Image Colour Contrast Checker Runs Entirely in Your Browser</h2>
+
+
+
+<p class="wp-block-paragraph">This part matters to me a great deal, and I want to explain why.</p>
+
+
+
+<p class="wp-block-paragraph">Many of the images I need to check are commercially sensitive. Internal communications, draft marketing materials, unreleased product images. I was not willing to build a tool that uploads those images to a server I control, let alone a third-party service. The privacy risk is real, and it would undermine the trust of anyone using the tool in a professional context.</p>
+
+
+
+<p class="wp-block-paragraph">Everything runs client-side. Your image never leaves your device. There is no server receiving your files, no analytics on what you upload, nothing stored anywhere. I made this decision deliberately, and I think it is the right one for a tool that accessibility professionals will use in the course of real work.</p>
+
+
+
+<h2 class="wp-block-heading">Why I Chose Global Accessibility Awareness Day</h2>
+
+
+
+<p class="wp-block-paragraph">I chose this week deliberately. Global Accessibility Awareness Day is about more than awareness, it is about action. I wanted to release something practical that people can use immediately to embed colour contrast checking into their processes.</p>
+
+
+
+<p class="wp-block-paragraph">That is my hope for this tool. Not that it becomes a famous product, but that it gets used. That designers start dropping images into it before they publish. That communications teams check posters before they go out. That accessibility consultants have something fast and private they can use with clients.</p>
+
+
+
+<p class="wp-block-paragraph">If you work in accessibility, please try it and let me know how you get on. If it saves you time or catches something that would have slipped through, that is exactly what it is there for.</p>
+
+
+
+<h2 class="wp-block-heading">Tell Me What You Think</h2>
+
+
+
+<p class="wp-block-paragraph">You can try the tool at <a href="https://image-colour-contrast-checker.timdixon.net">image-colour-contrast-checker.timdixon.net</a>. It is free, open source, and runs entirely in your browser. If you want to dig into the code or contribute, you will find everything on <a href="https://github.com/timdixon82/Image-Colour-Contrast-Checker">GitHub</a>.</p>
+
+
+
+<p class="wp-block-paragraph">I would love to hear how you get on with it, whether it works for your workflow, whether something is missing, or whether it surfaces issues you had not spotted before.</p>
+
+
+
+<p class="wp-block-paragraph">Tell me what you think in the comments below or on X @timdixon82</p>
+<p>The post <a href="https://www.timdixon.net/blog/2026/05/how-i-built-a-free-image-colour-contrast-checker-that-runs-entirely-in-your-browser/">How I Built a Free Image Colour Contrast Checker That Runs Entirely in Your Browser</a> appeared first on <a href="https://www.timdixon.net">TIM DIXON</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.timdixon.net/blog/2026/05/how-i-built-a-free-image-colour-contrast-checker-that-runs-entirely-in-your-browser/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1689</post-id>	</item>
+		<item>
+		<title>World Password Day 2026: Blind Users Need a Password Manager</title>
+		<link>https://www.timdixon.net/blog/2026/05/world-password-day-2026-blind-users-need-a-password-manager/</link>
+					<comments>https://www.timdixon.net/blog/2026/05/world-password-day-2026-blind-users-need-a-password-manager/#respond</comments>
+		
+		<dc:creator><![CDATA[Tim Dixon]]></dc:creator>
+		<pubDate>Wed, 06 May 2026 19:04:49 +0000</pubDate>
+				<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[Cyber Security]]></category>
+		<category><![CDATA[Living with Sight Loss]]></category>
+		<category><![CDATA[Assistive Technology]]></category>
+		<category><![CDATA[Blind]]></category>
+		<category><![CDATA[JAWS]]></category>
+		<guid isPermaLink="false">https://www.timdixon.net/?p=1669</guid>
+
+					<description><![CDATA[<p>World Password Day falls on Thursday, 7 May 2026, and for blind and low vision users, having a good password manager is not optional. Passwords are quietly being&#8230;</p>
+<p>The post <a href="https://www.timdixon.net/blog/2026/05/world-password-day-2026-blind-users-need-a-password-manager/">World Password Day 2026: Blind Users Need a Password Manager</a> appeared first on <a href="https://www.timdixon.net">TIM DIXON</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">World Password Day falls on Thursday, 7 May 2026, and for blind and low vision users, having a good password manager is not optional. Passwords are quietly being replaced by something better, and if you are still relying on your memory or a sticky note, this is a good moment to stop and take stock.</p>
+
+
+
+<p class="wp-block-paragraph">I want to talk about where we actually are with password security in 2026, share what works for me as a blind user, and make the case for a password manager if you do not already have one.</p>
+
+
+
+<h2 class="wp-block-heading">What Is World Password Day?</h2>
+
+
+
+<p class="wp-block-paragraph">World Password Day has been running since 2013, when Intel Security declared the first Thursday in May a day dedicated to better password habits. The idea was sparked even earlier. Security researcher Mark Burnett suggested a &#8220;password day&#8221; concept back in 2005 in his book Perfect Passwords.</p>
+
+
+
+<p class="wp-block-paragraph">Thirteen years on, the conversation has moved well beyond &#8220;use a strong password.&#8221; In 2026, we are talking about passkeys, phishing-resistant authentication, and better tools that take the burden off you entirely. But for most people, the single most impactful thing you can do today is still simple: use a password manager.</p>
+
+
+
+<h2 class="wp-block-heading">Why Passwords Are Still the Weakest Link</h2>
+
+
+
+<p class="wp-block-paragraph">Reused passwords remain one of the most common attack vectors in 2026. When one site is breached, attackers take that username and password combination and try it everywhere. This is called credential stuffing, and it works precisely because so many people reuse passwords.</p>
+
+
+
+<p class="wp-block-paragraph">The fix is straightforward. Use a long, unique, randomly generated password for every account. Nobody can do that in their head. That is exactly what a password manager is for.</p>
+
+
+
+<h2 class="wp-block-heading">Why a Password Manager Is Essential If You Are Blind</h2>
+
+
+
+<p class="wp-block-paragraph">I have written in detail about this before in my article <a href="https://www.timdixon.net/blog/2025/04/password-managers-for-the-blind/">Password Managers for the Blind</a>, but it is worth revisiting the core point here.</p>
+
+
+
+<p class="wp-block-paragraph">Being blind, typing complex passwords manually is difficult and error-prone. You cannot see what you are entering. Auto-generated passwords are long and random by design, which makes them virtually impossible to type correctly without help. A password manager takes this entire problem away. It fills your credentials directly, no reading, no copying, no retyping under time pressure.</p>
+
+
+
+<p class="wp-block-paragraph">The screen reader compatibility of a password manager is not a bonus feature for blind users. It is the deciding factor. A manager that works poorly with JAWS or VoiceOver is not a manager I can use safely and efficiently.</p>
+
+
+
+<h2 class="wp-block-heading">The Password Manager I Use as a Blind User</h2>
+
+
+
+<p class="wp-block-paragraph">I use <a href="https://1password.com">1Password</a>. I have tested it with VoiceOver on Mac and with JAWS on Windows, and it holds up well on both. Keyboard navigation works consistently, labels are readable, and the interface does not throw up the kind of unlabelled buttons or focus traps that make so many security tools a frustration for screen reader users.</p>
+
+
+
+<p class="wp-block-paragraph">One thing that often gets overlooked is that 1Password is available across Mac, Windows, iPhone, and Android. That means your passwords travel with you. Whether you are logging in on your work PC, your Mac at home, or your iPhone out and about, your credentials are there, filled in automatically, without any copying or retyping.</p>
+
+
+
+<p class="wp-block-paragraph">The feature that made the biggest difference for me is MFA autofill. The traditional multi-factor authentication flow is genuinely painful if you use a screen reader. You receive a one-time code by text or authenticator app, switch to find it, read it back, switch again, and type it in before it expires. All under time pressure. 1Password fills that code automatically as part of the login process. It is a game changer for a low vision or blind user.</p>
+
+
+
+<p class="wp-block-paragraph">1Password also has a Watchtower feature that alerts you if any of your stored passwords have appeared in a known data breach. Again, this is something that works through the keyboard and plays nicely with screen readers. You do not have to go hunting for the information.</p>
+
+
+
+<p class="wp-block-paragraph">If 1Password is not for you, <a href="https://bitwarden.com">Bitwarden</a> is a strong open-source alternative with a free tier. Like 1Password, it is available on Mac, Windows, iPhone, and Android, so your passwords are with you on every device you own. The important thing is to use something rather than nothing. My full comparison of accessible password managers, including how each one performs with different screen readers, is in my <a href="https://www.timdixon.net/blog/2025/04/password-managers-for-the-blind/">Password Managers for the Blind</a> article.</p>
+
+
+
+<h2 class="wp-block-heading">What About Passkeys?</h2>
+
+
+
+<p class="wp-block-paragraph">Passkeys are the next step, and in 2026 they have moved from curiosity to genuine mainstream support. Apple, Google, and Microsoft all support them now across their platforms.</p>
+
+
+
+<p class="wp-block-paragraph">A passkey is a cryptographic credential stored on your device. You authenticate with your biometrics or PIN, Face ID, Touch ID, Windows Hello, and the passkey does the rest. Nothing is ever sent to a server that could be stolen. You cannot be phished with a passkey in the way you can with a password, because there is no password to hand over.</p>
+
+
+
+<p class="wp-block-paragraph">1Password supports passkeys, which means I can store and use them within the same workflow I already use for my password manager. That continuity matters for accessibility. I do not have to learn a new process or switch to a different tool.</p>
+
+
+
+<p class="wp-block-paragraph">The reality is that passwords are not going away entirely in 2026. Most sites still rely on them. But passkeys are coming, and using a good password manager now puts you in the right position to handle both.</p>
+
+
+
+<h2 class="wp-block-heading">Three Things to Do Today</h2>
+
+
+
+<p class="wp-block-paragraph">If World Password Day prompts you to do one thing, make it one of these.</p>
+
+
+
+<ul class="wp-block-list">
+<li>Set up a password manager if you do not have one. Start with your email account, your banking, and anything that holds personal or financial data.</li>
+
+
+
+<li>Turn on multi-factor authentication on those same accounts and let your password manager handle the code autofill.</li>
+
+
+
+<li>Check whether any of your current passwords have appeared in a breach. 1Password&#8217;s Watchtower does this automatically. You can also use <a href="https://haveibeenpwned.com">Have I Been Pwned</a> for a manual check.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">That is it. The technical details can come later. These three steps will make a real difference.</p>
+
+
+
+<h2 class="wp-block-heading">Sources</h2>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://nationaltoday.com/world-password-day/">World Password Day, May 7, 2026 &#8211; National Today</a></li>
+
+
+
+<li><a href="https://www.atworkstudio.it/en/news/world-password-day-2026-passkeys-mfa-quantum">World Password Day 2026: passkeys, phishing-resistant MFA and post-quantum cryptography &#8211; AtWorkStudio</a></li>
+
+
+
+<li><a href="https://nationaldaycalendar.com/celebrations/world-password-day-first-thursday-in-may">WORLD PASSWORD DAY &#8211; National Day Calendar</a></li>
+
+
+
+<li><a href="https://www.timdixon.net/blog/2025/04/password-managers-for-the-blind/">Password Managers for the Blind &#8211; TIM DIXON</a></li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Tell me what you think in the comments below or on X @timdixon82</p>
+<p>The post <a href="https://www.timdixon.net/blog/2026/05/world-password-day-2026-blind-users-need-a-password-manager/">World Password Day 2026: Blind Users Need a Password Manager</a> appeared first on <a href="https://www.timdixon.net">TIM DIXON</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.timdixon.net/blog/2026/05/world-password-day-2026-blind-users-need-a-password-manager/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1669</post-id>	</item>
+		<item>
+		<title>AI Accessibility Barriers: When Tools That Help Get Blocked</title>
+		<link>https://www.timdixon.net/blog/2026/04/ai-accessibility-barriers-when-tools-that-help-get-blocked/</link>
+					<comments>https://www.timdixon.net/blog/2026/04/ai-accessibility-barriers-when-tools-that-help-get-blocked/#respond</comments>
+		
+		<dc:creator><![CDATA[Tim Dixon]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 16:29:58 +0000</pubDate>
+				<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[Content Creation]]></category>
+		<category><![CDATA[Disability Representation]]></category>
+		<category><![CDATA[Living with Sight Loss]]></category>
+		<category><![CDATA[A11Y]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Assistive Technology]]></category>
+		<category><![CDATA[Barriers]]></category>
+		<category><![CDATA[Blind]]></category>
+		<category><![CDATA[Blind and Low Vision]]></category>
+		<guid isPermaLink="false">https://www.timdixon.net/?p=1652</guid>
+
+					<description><![CDATA[<p>There is a quiet revolution happening in accessibility, and most people haven&#8217;t noticed it yet. For those of us who are blind, visually impaired, or living with other&#8230;</p>
+<p>The post <a href="https://www.timdixon.net/blog/2026/04/ai-accessibility-barriers-when-tools-that-help-get-blocked/">AI Accessibility Barriers: When Tools That Help Get Blocked</a> appeared first on <a href="https://www.timdixon.net">TIM DIXON</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">There is a quiet revolution happening in accessibility, and most people haven&#8217;t noticed it yet.</p>
+
+
+
+<p class="wp-block-paragraph">For those of us who are blind, visually impaired, or living with other disabilities, artificial intelligence has started doing something that decades of legislation and good intentions only partially managed: it has begun to reduce the relentless, grinding effort that everyday digital tasks demand. Not perfectly, not completely, but meaningfully.</p>
+
+
+
+<p class="wp-block-paragraph">Then, just as we start to settle into that relief, the door gets closed again.</p>
+
+
+
+<h2 class="wp-block-heading">A Thousand Small Frictions</h2>
+
+
+
+<p class="wp-block-paragraph">If you are fully sighted and move through the digital world without much friction, it can be hard to appreciate what it actually costs a disabled person to complete tasks that you do without thinking. Every poorly labelled button, every inaccessible form, every image without alt text, every website that doesn&#8217;t work well with a screen reader &#8212; these aren&#8217;t minor annoyances. They are a tax. A tax paid in time, in energy, in frustration, levied dozens or hundreds of times a day.</p>
+
+
+
+<p class="wp-block-paragraph">AI has started to quietly reduce that tax. Not by fixing the broken websites (those remain broken), but by giving me a layer on top of them that helps me navigate, compose, summarise, and act with far less effort.</p>
+
+
+
+<h2 class="wp-block-heading">What I Started Using Claude For</h2>
+
+
+
+<p class="wp-block-paragraph">I write and publish posts regularly. I&#8217;ve been using AI to help me draft content and review it before it goes out. That part works well. But the final steps &#8212; entering the post into the publishing platform, selecting the right image, applying the correct tags &#8212; those remained my task. Manual steps, done with a screen reader, inside a platform that isn&#8217;t always as accessible as it could be.</p>
+
+
+
+<p class="wp-block-paragraph">A few weeks ago, I came across <a href="https://www.anthropic.com/product/claude-cowork">Claude Cowork</a>, a desktop tool that lets Claude work more directly alongside you, using browser tools to interact with web apps on your behalf. I&#8217;ll be honest; I wasn&#8217;t expecting much. Another subscription, another product that might not quite fit. But I was curious enough to try.</p>
+
+
+
+<p class="wp-block-paragraph">The first time, I walked Claude through the process step by step. It watched, learned, and did exactly what I needed. The friction I had been absorbing for years, all the clicks, the tab-navigation, the second-guessing of unlabelled fields, just wasn&#8217;t there anymore. We turned the workflow into a repeatable skill, and for several publishing runs it worked smoothly. A genuine sense of relief is probably the best way I can describe it.</p>
+
+
+
+<h2 class="wp-block-heading">Why AI Accessibility Barriers Keep Happening</h2>
+
+
+
+<p class="wp-block-paragraph">I came to publish another post, went through the same process, and hit a wall. The publishing platform had updated its settings to block the kind of browser interaction that Claude uses. The automation stopped working.</p>
+
+
+
+<p class="wp-block-paragraph">I understand, intellectually, why companies do this. Blocking automated browser access is a reasonable defence against bots, scrapers, and bad actors. These are legitimate concerns, and the people making those decisions are not setting out to cause harm.</p>
+
+
+
+<p class="wp-block-paragraph">But understanding the reasoning doesn&#8217;t make the impact any less real.</p>
+
+
+
+<p class="wp-block-paragraph">For me, in that moment, it wasn&#8217;t a technical inconvenience. It was a step backwards. The effort I had stopped expending had come back, without warning, because of a decision made somewhere in the platform&#8217;s infrastructure with no thought &#8212; I suspect &#8212; for users like me. That feeling, familiar to most disabled people, landed with its usual weight: you don&#8217;t quite matter enough for this to have been considered.</p>
+
+
+
+<h2 class="wp-block-heading">Finding a Way Through AI Accessibility Barriers</h2>
+
+
+
+<p class="wp-block-paragraph">I didn&#8217;t give up. After a conversation with Claude, I found a path forward using <a href="https://playwright.dev">Microsoft Playwright</a>, a developer tool that allows browser automation in a different way. It requires a bit more setup, but it gets me back to something close to where I was.</p>
+
+
+
+<p class="wp-block-paragraph">It shouldn&#8217;t require that level of technical problem-solving for an accessibility workaround. But here we are.</p>
+
+
+
+<p class="wp-block-paragraph">I&#8217;ve also reached out to the platform directly to explain the situation. My experience with them has been constructive in the past &#8212; they&#8217;ve listened when I&#8217;ve raised barriers before &#8212; and I&#8217;m hopeful this will be no different. I&#8217;m not writing this to criticise them specifically; they&#8217;re not named here because this isn&#8217;t about one company. It&#8217;s about a pattern.</p>
+
+
+
+<h2 class="wp-block-heading">How to Reduce AI Accessibility Barriers</h2>
+
+
+
+<p class="wp-block-paragraph">When companies make decisions about AI access, bot prevention, and automation, accessibility is rarely part of the conversation. These policies are written to protect the product and the platform. That is understandable. But the unintended consequence is that disabled users, who are often the people most reliant on assistive automation, bear the cost.</p>
+
+
+
+<p class="wp-block-paragraph">This is the same pattern we have seen with captchas that screen readers can&#8217;t navigate, with two-factor authentication flows that assume everyone can read a screen, with apps that disable copy-paste in ways that break assistive technology. Each individual decision might seem defensible. Together, they add up to a world that keeps telling disabled people: this wasn&#8217;t built with you in mind.</p>
+
+
+
+<p class="wp-block-paragraph">AI automation tools are, for many of us, assistive technology. Blocking them needs to be treated with the same care and consideration as blocking any other accessibility accommodation.</p>
+
+
+
+<h2 class="wp-block-heading">Honest About My Own Tools</h2>
+
+
+
+<p class="wp-block-paragraph">There is something I need to say while I am on the subject. Claude &#8212; the very tool I have been using throughout this process &#8212; is not fully accessible itself. I am only able to use it at all because I have some residual vision. Without that, the current interface would present real barriers of its own.</p>
+
+
+
+<p class="wp-block-paragraph">I think it is important to say that plainly. The same case I am making here, about companies needing to consider disabled users before they make decisions that affect access, applies to Anthropic too. More work is needed to ensure Claude is genuinely accessible to everyone, not just those of us who happen to have some sight left or who are technically minded enough to find workarounds. That work matters, and it needs to happen.</p>
+
+
+
+<p class="wp-block-paragraph">This is not a reason to dismiss the tool. It is a reason to keep pushing.</p>
+
+
+
+<h2 class="wp-block-heading">What I&#8217;d Ask For</h2>
+
+
+
+<p class="wp-block-paragraph">I&#8217;m not asking companies to abandon security. I&#8217;m asking them to include disabled users in the conversation before they make changes that affect accessibility.</p>
+
+
+
+<p class="wp-block-paragraph">A few practical things that would help: consider accessibility impact assessments before rolling out bot-blocking changes. Talk to disabled users &#8212; not after, before. Create exception pathways or alternative routes for users who rely on assistive automation. And when someone reaches out to tell you that a change has created a barrier, listen.</p>
+
+
+
+<p class="wp-block-paragraph">The technology exists to remove AI accessibility barriers that disabled people have been navigating for years. That&#8217;s worth protecting.</p>
+
+
+
+<h2 class="wp-block-heading">Tell Me What You Think</h2>
+
+
+
+<p class="wp-block-paragraph">Have you hit a similar wall &#8212; an AI tool or automation that was helping you, suddenly blocked? I&#8217;d really like to hear your experience. And if you work at a company making these kinds of decisions, I&#8217;d especially love to talk. Drop a comment below or get in touch directly.</p>
+
+
+
+<p class="wp-block-paragraph">Tell me what you think in the comments below or on X @timdixon82</p>
+<p>The post <a href="https://www.timdixon.net/blog/2026/04/ai-accessibility-barriers-when-tools-that-help-get-blocked/">AI Accessibility Barriers: When Tools That Help Get Blocked</a> appeared first on <a href="https://www.timdixon.net">TIM DIXON</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.timdixon.net/blog/2026/04/ai-accessibility-barriers-when-tools-that-help-get-blocked/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1652</post-id>	</item>
+		<item>
+		<title>Hands-Free Vision: Why New Apps on Meta Ray-Bans Change Everything</title>
+		<link>https://www.timdixon.net/blog/2026/03/hands-free-vision-why-new-apps-on-meta-ray-bans-change-everything/</link>
+					<comments>https://www.timdixon.net/blog/2026/03/hands-free-vision-why-new-apps-on-meta-ray-bans-change-everything/#respond</comments>
+		
+		<dc:creator><![CDATA[Tim Dixon]]></dc:creator>
+		<pubDate>Sun, 29 Mar 2026 17:56:49 +0000</pubDate>
+				<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[Life]]></category>
+		<category><![CDATA[Living with Sight Loss]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[Sight Loss Tips]]></category>
+		<category><![CDATA[Smart Glasses]]></category>
+		<guid isPermaLink="false">https://www.timdixon.net/?p=1647</guid>
+
+					<description><![CDATA[<p>I’ve been using Meta Ray-Ban apps as part of my daily routine for a while now, and until recently they’ve felt like a glimpse of what could be&#8230;</p>
+<p>The post <a href="https://www.timdixon.net/blog/2026/03/hands-free-vision-why-new-apps-on-meta-ray-bans-change-everything/">Hands-Free Vision: Why New Apps on Meta Ray-Bans Change Everything</a> appeared first on <a href="https://www.timdixon.net">TIM DIXON</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">I’ve been using <strong>Meta Ray-Ban apps</strong> as part of my daily routine for a while now, and until recently they’ve felt like a glimpse of what <em>could</em> be possible rather than something fully realised. They’ve been useful, but often in short bursts rather than something I rely on consistently throughout the day.</p>
+
+
+
+<p class="wp-block-paragraph">That’s starting to change, and it’s happening quite quickly.</p>
+
+
+
+<p class="wp-block-paragraph">The arrival of proper integrations is shifting Meta Ray-Ban apps from an interesting experiment into something far more practical. For me, this is the point where they begin to feel less like a gadget and more like a tool I can build into everyday routines without thinking about it too much.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Be My Eyes and Meta Ray-Ban Apps</strong></h2>
+
+
+
+<p class="wp-block-paragraph">One of the biggest steps forward has been how Be My Eyes works with Meta Ray-Ban apps. Being able to call a volunteer hands-free, directly from the glasses, changes the experience in a very real way. There’s no need to reach for a phone, unlock it, open an app, and try to line up a camera.</p>
+
+
+
+<p class="wp-block-paragraph">You just ask, and the call happens.</p>
+
+
+
+<p class="wp-block-paragraph">That reduction in friction makes a noticeable difference when you’re out and about. It turns something that used to take effort into something you can do almost instinctively. Over time, that’s what makes the feature stick.</p>
+
+
+
+<p class="wp-block-paragraph">What’s even more useful is the ability to contact trusted people. Instead of always relying on the wider volunteer network, I can call a family member when I need help. That might be checking a label in a shop or getting a second opinion on something more personal.</p>
+
+
+
+<p class="wp-block-paragraph">It feels closer to how you’d ask for help in everyday life, rather than feeling like you’re using a specialist tool. That distinction matters more than it sounds, because the more natural something feels, the more likely it is to become part of your routine.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Aira and Oorion: Expanding Meta Ray-Ban Apps</strong></h2>
+
+
+
+<p class="wp-block-paragraph">What’s coming next is just as important as what’s already here. Aira and Oorion are both expected to integrate with Meta Ray-Ban apps, and together they fill in some obvious gaps.</p>
+
+
+
+<p class="wp-block-paragraph">Aira brings professional, on-demand assistance. It’s a different kind of support compared to Be My Eyes, and having that available hands-free removes a lot of the barriers to using it quickly. You don’t need to think about positioning a phone or holding anything up. You just connect and carry on.</p>
+
+
+
+<p class="wp-block-paragraph">That immediacy makes it far easier to use in real-world situations where timing matters.</p>
+
+
+
+<p class="wp-block-paragraph">Oorion focuses more on object recognition and text detection. It helps you find things and understand your surroundings, which is already useful on a phone. Bringing that into Meta Ray-Ban apps makes it feel more continuous. Instead of stopping to scan something, you can keep moving and get the information as you need it.</p>
+
+
+
+<p class="wp-block-paragraph">That shift from stopping to flowing is subtle, but important.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>The Apps I Want Next</strong></h2>
+
+
+
+<p class="wp-block-paragraph">I’ve recently been trying out an app called Curb to Car, and it’s one of those ideas that immediately makes sense. If you’ve ever ordered an Uber and then stood there trying to work out which car is yours, you’ll know how awkward that moment can be.</p>
+
+
+
+<p class="wp-block-paragraph">Curb to Car identifies the vehicle and guides you towards it, removing that uncertainty.</p>
+
+
+
+<p class="wp-block-paragraph">Right now, that’s still a phone-based experience, but it highlights exactly where Meta Ray-Ban apps could go next. Being able to ask your glasses where your car is and get simple, real-time guidance would remove another small but frustrating barrier.</p>
+
+
+
+<p class="wp-block-paragraph">It’s a simple use case, but one that shows how powerful this platform could become as more developers get involved.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>The Constraint: Battery Life</strong></h2>
+
+
+
+<p class="wp-block-paragraph">There is one clear constraint that’s going to become more noticeable as Meta Ray-Ban apps continue to evolve.</p>
+
+
+
+<p class="wp-block-paragraph">Battery life.</p>
+
+
+
+<p class="wp-block-paragraph">The more these apps rely on the camera, whether that’s for live video calls, object detection, or continuous scene understanding, the more power they consume. Even now, if you use the glasses heavily, you start to notice the limits before the end of the day.</p>
+
+
+
+<p class="wp-block-paragraph">As more features arrive, that balance becomes more important.</p>
+
+
+
+<p class="wp-block-paragraph">It doesn’t make the glasses less useful, but it does influence how you use them. You start to think about when to rely on them and when to switch back to your phone. Over time, improvements in battery technology and power management will need to keep pace with the software.</p>
+
+
+
+<p class="wp-block-paragraph">Otherwise, the experience risks becoming inconsistent.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>From Gadget to Something More Useful</strong></h2>
+
+
+
+<p class="wp-block-paragraph">What’s changing with Meta Ray-Ban apps isn’t just the feature list, it’s the direction of travel. Moving from isolated features to a growing ecosystem of apps is what makes this genuinely interesting.</p>
+
+
+
+<p class="wp-block-paragraph">Be My Eyes, Aira, and Oorion all solve different problems, but together they start to form something more complete. Add in ideas like Curb to Car, and you can begin to see how this becomes part of everyday life rather than something you only use occasionally.</p>
+
+
+
+<p class="wp-block-paragraph">For me, the biggest shift is that I’m thinking less about using the glasses and more about just getting on with things while they quietly support me in the background.</p>
+
+
+
+<p class="wp-block-paragraph">That’s usually a good sign that the technology is starting to get it right.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph">Tell me what you think in the comments below or on X @timdixon82</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading"><strong>Useful Links</strong></h2>
+
+
+
+<ul class="wp-block-list">
+<li>Be My Eyes: https://www.bemyeyes.com</li>
+
+
+
+<li>Aira: https://aira.io</li>
+
+
+
+<li>Oorion: https://oorion.ai</li>
+
+
+
+<li>Curb to Car: https://curbtocar.com</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>The post <a href="https://www.timdixon.net/blog/2026/03/hands-free-vision-why-new-apps-on-meta-ray-bans-change-everything/">Hands-Free Vision: Why New Apps on Meta Ray-Bans Change Everything</a> appeared first on <a href="https://www.timdixon.net">TIM DIXON</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.timdixon.net/blog/2026/03/hands-free-vision-why-new-apps-on-meta-ray-bans-change-everything/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1647</post-id>	</item>
+		<item>
+		<title>KeyClu with VoiceOver on macOS: Becoming More Keyboard-First (Gradually)</title>
+		<link>https://www.timdixon.net/blog/2026/02/keyclu-with-voiceover-on-macos-becoming-more-keyboard-first-gradually/</link>
+					<comments>https://www.timdixon.net/blog/2026/02/keyclu-with-voiceover-on-macos-becoming-more-keyboard-first-gradually/#comments</comments>
+		
+		<dc:creator><![CDATA[Tim Dixon]]></dc:creator>
+		<pubDate>Sun, 22 Feb 2026 19:47:42 +0000</pubDate>
+				<category><![CDATA[Living with Sight Loss]]></category>
+		<category><![CDATA[Productivity]]></category>
+		<category><![CDATA[Keyboard Shortcuts]]></category>
+		<category><![CDATA[KeyClu]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[VoiceOver]]></category>
+		<guid isPermaLink="false">https://www.timdixon.net/?p=1635</guid>
+
+					<description><![CDATA[<p>KeyClu with VoiceOver on macOS wasn’t something I actively went hunting for. It emerged from a small frustration that kept repeating itself. I would be inside an app,&#8230;</p>
+<p>The post <a href="https://www.timdixon.net/blog/2026/02/keyclu-with-voiceover-on-macos-becoming-more-keyboard-first-gradually/">KeyClu with VoiceOver on macOS: Becoming More Keyboard-First (Gradually)</a> appeared first on <a href="https://www.timdixon.net">TIM DIXON</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">KeyClu with VoiceOver on macOS wasn’t something I actively went hunting for. It emerged from a small frustration that kept repeating itself. I would be inside an app, hear a menu item via VoiceOver, and know there <em>must</em> be a quicker way to trigger it. I just couldn’t remember the shortcut.</p>
+
+
+
+<p class="wp-block-paragraph">So I’d navigate the menu instead. It worked, and VoiceOver makes that efficient enough. But efficient isn’t the same as optimal. Over time, those small inefficiencies compound.</p>
+
+
+
+<p class="wp-block-paragraph">That was the real issue. I rely heavily on the keyboard, but I’m not truly keyboard-first. There’s still a gap between what macOS can do and what I consistently use.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Why KeyClu with VoiceOver on macOS Matters</strong></h2>
+
+
+
+<p class="wp-block-paragraph">macOS has excellent keyboard support. The capability has always been there. The challenge is discoverability.</p>
+
+
+
+<p class="wp-block-paragraph">Shortcuts are hidden in plain sight. Unless you’ve memorised them or deliberately studied documentation, they remain buried in menus. You might notice them occasionally, but you rarely internalise them.</p>
+
+
+
+<p class="wp-block-paragraph">As a <strong>VoiceOver</strong> user, I can move through menus quickly. That isn’t the bottleneck. The bottleneck is visibility and reinforcement.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>KeyClu</strong> surfaces every available shortcut for the active application in one place. Instead of wondering whether a shortcut exists, I can confirm it instantly. That simple change alters behaviour more than I expected.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Installing KeyClu on macOS Using Homebrew</strong></h2>
+
+
+
+<p class="wp-block-paragraph">If you manage tools via Homebrew, installing KeyClu takes seconds. There’s no need to browse websites or drag applications manually into the Applications folder.</p>
+
+
+
+<p class="wp-block-paragraph">Open Terminal and run:</p>
+
+
+
+<pre class="wp-block-code"><code>brew install keyclu</code></pre>
+
+
+
+<p class="wp-block-paragraph">Once installed, you can launch it via Spotlight or from Applications. It integrates quietly into the background, which is exactly how I prefer utility tools to behave.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Configuring KeyClu with VoiceOver on macOS (Persistent Panel)</strong></h2>
+
+
+
+<p class="wp-block-paragraph">The default activation method for KeyClu uses a press-and-hold trigger. For VoiceOver users, that approach introduces friction. Modifier keys are already heavily used, and timing-based triggers can clash with normal navigation patterns.</p>
+
+
+
+<p class="wp-block-paragraph">I switched to using the Persistent Panel instead. This allows the shortcut panel to appear and remain visible until I deliberately dismiss it. That predictability makes all the difference.</p>
+
+
+
+<p class="wp-block-paragraph">To configure this, open KeyClu and navigate to Settings. Select General in the sidebar. Under Activation, choose your modifier key — I use Shift because it avoids conflicts with VoiceOver commands. Then scroll down to the Persistent Panel section.</p>
+
+
+
+<p class="wp-block-paragraph">Set both activation and dismiss to “pressing activation key 3 times”. With that configuration, pressing Shift three times displays the panel. Pressing Shift three times again dismisses it.</p>
+
+
+
+<p class="wp-block-paragraph">There’s no holding required and no accidental disappearance. It behaves consistently, which is critical when accessibility tools are involved.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Enabling macOS Keyboard Shortcuts Integration</strong></h2>
+
+
+
+<p class="wp-block-paragraph">There is one integration setting that significantly improves the experience. Inside KeyClu, go to Settings and then Integrations. Enable the option labelled “macOS Keyboard Shortcuts”.</p>
+
+
+
+<p class="wp-block-paragraph">This allows KeyClu to pull in any custom shortcuts you create at the system level. When you add a shortcut in macOS System Settings, it appears inside the KeyClu overlay as well. That keeps everything aligned.</p>
+
+
+
+<p class="wp-block-paragraph">Without this integration enabled, your custom shortcuts won’t show up in the panel. That weakens the feedback loop. With it enabled, macOS becomes the source of truth and KeyClu becomes the visibility layer.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>How I Use KeyClu with VoiceOver on macOS in Practice</strong></h2>
+
+
+
+<p class="wp-block-paragraph">In day-to-day use, my workflow is straightforward. I’m inside an application and I question whether a shortcut exists for a particular action. Instead of diving into menus, I press Shift three times.</p>
+
+
+
+<p class="wp-block-paragraph">The panel appears and I use standard VoiceOver navigation to explore the available shortcuts. VO and the Arrow keys allow me to move through the list and understand what’s possible. That exploration takes seconds.</p>
+
+
+
+<p class="wp-block-paragraph">The important part is repetition. Seeing shortcuts repeatedly makes them familiar. Familiarity leads to usage, and usage builds habit.</p>
+
+
+
+<p class="wp-block-paragraph">This isn’t about memorising lists. It’s about making shortcuts visible often enough that they naturally become part of how you work.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Adding Missing Shortcuts in macOS</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Eventually, you’ll encounter commands without assigned shortcuts. When that happens, it’s an opportunity rather than a limitation.</p>
+
+
+
+<p class="wp-block-paragraph">Open System Settings and navigate to Keyboard. Select Keyboard Shortcuts and then App Shortcuts. From there, choose to add a new shortcut.</p>
+
+
+
+<p class="wp-block-paragraph">Select if this is for a specific app or all apps. You must enter the Menu Title exactly as it appears in the menu bar. Capitalisation, spacing and punctuation all matter. Even ellipses must match precisely. I open the app, navigate to the relevant menu with VoiceOver, listen carefully to the exact wording, and type it precisely. Once entered correctly, I assign a logical key combination and save it.</p>
+
+
+
+<p class="wp-block-paragraph">Because macOS Keyboard Shortcuts integration is enabled in KeyClu, the new shortcut immediately appears in the overlay. That confirmation reinforces the system and keeps everything visible.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>What Has Actually Changed for Me</strong></h2>
+
+
+
+<p class="wp-block-paragraph">KeyClu hasn’t delivered an overnight transformation. It hasn’t introduced new functionality to macOS. What it has done is remove the barrier of uncertainty.</p>
+
+
+
+<p class="wp-block-paragraph">Instead of vaguely intending to “learn more shortcuts,” I now have a practical mechanism for discovering and reinforcing them. The act of checking has become habitual.</p>
+
+
+
+<p class="wp-block-paragraph">Over time, menu navigation reduces naturally. Not because I forced myself to change, but because the faster path became visible and easy to adopt.</p>
+
+
+
+<p class="wp-block-paragraph">I’m still not fully keyboard-first. But I now have a structured way of moving in that direction consistently.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Verdict: Is KeyClu with VoiceOver on macOS Worth It?</strong></h2>
+
+
+
+<p class="wp-block-paragraph">For me, the answer is yes. KeyClu doesn’t promise dramatic productivity gains or radical reinvention of macOS. What it provides is clarity.</p>
+
+
+
+<p class="wp-block-paragraph">For a VoiceOver user aiming to become more keyboard-first, that clarity reduces friction and encourages better habits. It makes existing power visible rather than hidden.</p>
+
+
+
+<p class="wp-block-paragraph">It’s not flashy and it’s not complex. It’s simply a practical tool that nudges behaviour in the right direction.</p>
+
+
+
+<p class="wp-block-paragraph">Tell me what you think in the comments below or on X @timdixon82</p>
+<p>The post <a href="https://www.timdixon.net/blog/2026/02/keyclu-with-voiceover-on-macos-becoming-more-keyboard-first-gradually/">KeyClu with VoiceOver on macOS: Becoming More Keyboard-First (Gradually)</a> appeared first on <a href="https://www.timdixon.net">TIM DIXON</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.timdixon.net/blog/2026/02/keyclu-with-voiceover-on-macos-becoming-more-keyboard-first-gradually/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1635</post-id>	</item>
+		<item>
+		<title>IKEA Matter over Thread Smart Home: Cheaper, Faster, and More Reliable with Apple Home</title>
+		<link>https://www.timdixon.net/blog/2026/01/ikea-matter-over-thread-smart-home-cheaper-faster-and-more-reliable-with-apple-home/</link>
+					<comments>https://www.timdixon.net/blog/2026/01/ikea-matter-over-thread-smart-home-cheaper-faster-and-more-reliable-with-apple-home/#respond</comments>
+		
+		<dc:creator><![CDATA[Tim Dixon]]></dc:creator>
+		<pubDate>Sat, 31 Jan 2026 20:49:37 +0000</pubDate>
+				<category><![CDATA[Smart Home]]></category>
+		<category><![CDATA[Apple Home]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[IKEA]]></category>
+		<category><![CDATA[Productivity]]></category>
+		<category><![CDATA[Tips]]></category>
+		<guid isPermaLink="false">https://www.timdixon.net/?p=1627</guid>
+
+					<description><![CDATA[<p>Why IKEA’s Matter over Thread Smart Home Range Matters I’ve been running a smart home for a long time and one lesson keeps repeating itself, cheap smart home&#8230;</p>
+<p>The post <a href="https://www.timdixon.net/blog/2026/01/ikea-matter-over-thread-smart-home-cheaper-faster-and-more-reliable-with-apple-home/">IKEA Matter over Thread Smart Home: Cheaper, Faster, and More Reliable with Apple Home</a> appeared first on <a href="https://www.timdixon.net">TIM DIXON</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading"><strong>Why IKEA’s Matter over Thread Smart Home Range Matters</strong></h3>
+
+
+
+<p class="wp-block-paragraph">I’ve been running a smart home for a long time and one lesson keeps repeating itself, cheap smart home gear is often the most expensive in the long run. Wi-Fi dropouts, flaky apps, short battery life, and cloud dependencies all add friction. That’s why IKEA Matter over Thread smart home move from Zigby matters. Not because it’s flashy, but because it makes smart home basics affordable while improving reliability at the same time.</p>
+
+
+
+<p class="wp-block-paragraph">I’m already using the two-button remotes and the water leak sensor in my Apple Home setup, and they’ve been quietly excellent.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>IKEA Smart Home Pricing: Buttons, Sensors, and Bulbs from £3</strong></h3>
+
+
+
+<p class="wp-block-paragraph">Until recently, even budget smart home accessories tended to start around £15 and go up quickly. Buttons, sensors, and motion detectors added up fast once you tried to cover an entire house.</p>
+
+
+
+<p class="wp-block-paragraph">IKEA changes that completely.</p>
+
+
+
+<ul class="wp-block-list">
+<li>Two-button remote: £3</li>
+
+
+
+<li>Water leak sensor: £7</li>
+
+
+
+<li>Motion sensor: £7</li>
+
+
+
+<li>Full-colour E27 Matter over Thread bulb: £9</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">These are not promotional prices. That’s simply what they cost.</p>
+
+
+
+<p class="wp-block-paragraph">At this level, you stop rationing automations and start putting controls where they actually make sense.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>U<strong>sing IKEA Matter Devices with Apple Home and Thread Networks</strong></strong></h2>
+
+
+
+<p class="wp-block-paragraph">I didn’t need to buy anything extra to make this work. I already have HomePods, HomePod Minis, and Apple TVs throughout the house, all acting as Thread border routers.</p>
+
+
+
+<p class="wp-block-paragraph">That means:</p>
+
+
+
+<ul class="wp-block-list">
+<li>No IKEA hub required for me</li>
+
+
+
+<li>Devices join the network instantly</li>
+
+
+
+<li>Everything runs locally in Apple Home</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">If you are not in Apple’s ecosystem, newer Alexa devices also support Thread, and some Wi-Fi systems such as Eero can provide a Thread network too.</p>
+
+
+
+<p class="wp-block-paragraph">If you do not already have a Thread network, IKEA still has you covered with their own hub.</p>
+
+
+
+<h2 class="wp-block-heading"><strong><strong>IKEA Smart Button with Apple Home: A £3 Remote That Just Works</strong></strong></h2>
+
+
+
+<p class="wp-block-paragraph">The two-button remote is exactly what I want smart home controls to be. Physical buttons, clear clicks, and instant response.</p>
+
+
+
+<p class="wp-block-paragraph">In Apple Home, each button supports:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Single press</li>
+
+
+
+<li>Double press</li>
+
+
+
+<li>Long press</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">That gives six actions per remote, all configured in Apple Home. No IKEA app needed once it’s paired.</p>
+
+
+
+<p class="wp-block-paragraph">For me, this works far better than voice commands or apps. I can place them conveniently around the house and rely on muscle memory. At £3, they are almost impossible to argue with.</p>
+
+
+
+<h2 class="wp-block-heading">IKEA Water Leak Sensor with Matter: £7 Peace of Mind</h2>
+
+
+
+<p class="wp-block-paragraph">At £7, the water leak sensor feels almost disposable, but it doesn’t behave like that.</p>
+
+
+
+<p class="wp-block-paragraph">It integrates directly into Apple Home via Matter, sends instant alerts, and works locally. No cloud account, no subscription, and no delays.</p>
+
+
+
+<p class="wp-block-paragraph">I have one next to the robot mop vacuum, and I will be adding more.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>IKEA Matter over Thread Light Bulbs That Expand Your Smart Home Network</strong></h2>
+
+
+
+<p class="wp-block-paragraph">IKEA’s Matter over Thread light bulbs are not just about lighting. Any mains-powered Thread device helps extend the mesh network, so bulbs actively improve coverage.</p>
+
+
+
+<p class="wp-block-paragraph">The standout is the <strong>£9 full-colour E27 bulb</strong>. I have not picked any up yet, but I will.</p>
+
+
+
+<p class="wp-block-paragraph">We already have a lot of Philips Hue bulbs. They are robust and reliable, but they are also very expensive, even when discounted. IKEA’s bulbs will not replace Hue everywhere, but for secondary rooms and lamps, the value is obvious.</p>
+
+
+
+<h2 class="wp-block-heading"><strong><strong>IKEA Motion Sensor with Matter: Cheap, Capable, and Slightly More Complex</strong></strong></h2>
+
+
+
+<p class="wp-block-paragraph">IKEA also has a motion sensor in the range. It is inexpensive and rated for outdoor use, which is impressive at the price.</p>
+
+
+
+<p class="wp-block-paragraph">However, using its lux sensor properly depends on your smart home platform. The logic lives in Apple Home or Alexa rather than on the sensor itself. That makes setup more complicated than Philips Hue motion sensors, which handle light and motion locally.</p>
+
+
+
+<p class="wp-block-paragraph">That said, IKEA’s sensor costs around a fifth of the price of a Hue motion sensor, so the extra setup effort feels reasonable.</p>
+
+
+
+<h2 class="wp-block-heading"><strong><strong>Why IKEA Is Changing the Cost of Matter Smart Homes</strong></strong></h2>
+
+
+
+<p class="wp-block-paragraph">What IKEA is doing here is not about features. It is about removing friction.</p>
+
+
+
+<ul class="wp-block-list">
+<li>Hardware is cheap enough to deploy everywhere</li>
+
+
+
+<li>Matter avoids lock-in</li>
+
+
+
+<li>Thread delivers speed and reliability</li>
+
+
+
+<li>Physical controls beat apps</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">This is the first time in a long while that smart home tech feels both affordable and practical.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Final Takeaway</strong></h2>
+
+
+
+<p class="wp-block-paragraph">A £3 remote and a £7 water leak sensor that work reliably inside Apple Home would have sounded unrealistic a few years ago.</p>
+
+
+
+<p class="wp-block-paragraph">IKEA’s Matter over Thread range shows that smart homes do not need to be expensive or complicated. If IKEA keeps pushing in this direction, smart homes stop being a premium hobby and start becoming normal household infrastructure.</p>
+
+
+
+<p class="wp-block-paragraph">That shift is long overdue.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.ikea.com/global/en/newsroom/retail/the-new-smart-home-from-ikea-matter-compatible-251106/?msockid=3df7daae228367021fecc95f236366ef">Read the Ikea Announcement about the New Matter over Thread range</a></p>
+
+
+
+<p class="wp-block-paragraph">Tell me what you think in the comments below or on X @timdixon82</p>
+<p>The post <a href="https://www.timdixon.net/blog/2026/01/ikea-matter-over-thread-smart-home-cheaper-faster-and-more-reliable-with-apple-home/">IKEA Matter over Thread Smart Home: Cheaper, Faster, and More Reliable with Apple Home</a> appeared first on <a href="https://www.timdixon.net">TIM DIXON</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.timdixon.net/blog/2026/01/ikea-matter-over-thread-smart-home-cheaper-faster-and-more-reliable-with-apple-home/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1627</post-id>	</item>
+		<item>
+		<title>My Blind Tech Setup 2026</title>
+		<link>https://www.timdixon.net/blog/2025/12/my-blind-tech-setup-2026/</link>
+					<comments>https://www.timdixon.net/blog/2025/12/my-blind-tech-setup-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[Tim Dixon]]></dc:creator>
+		<pubDate>Wed, 31 Dec 2025 20:55:30 +0000</pubDate>
+				<category><![CDATA[IT]]></category>
+		<category><![CDATA[Life]]></category>
+		<category><![CDATA[Living with Sight Loss]]></category>
+		<category><![CDATA[Productivity]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Business]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Sight Loss Tips]]></category>
+		<guid isPermaLink="false">https://www.timdixon.net/?p=1615</guid>
+
+					<description><![CDATA[<p>I started sharing my Blind Tech Setup in 2022 and received great feedback, updating each year since. So here is my my Blind Tech Setup 2026, I hope&#8230;</p>
+<p>The post <a href="https://www.timdixon.net/blog/2025/12/my-blind-tech-setup-2026/">My Blind Tech Setup 2026</a> appeared first on <a href="https://www.timdixon.net">TIM DIXON</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">I started sharing my Blind Tech Setup in 2022 and received great feedback, updating each year since. So here is my my Blind Tech Setup 2026, I hope you find it useful.</p>
+
+
+
+<h2 class="wp-block-heading">Phone and Watch</h2>
+
+
+
+<p class="wp-block-paragraph">In 2025 I updated to the iPhone 17 Pro Max which has provided better battery life and one of my favourite colours, Orange!. I must say I am liking iOS 26 and while I was concerned about the Liquid Glass, the accessibility settings have actually made the phone easier to see and use. It was also time to update to the Apple Watch Ultra 3 and apart from it being a little snappier, and the battery lasting longer, although I haven&#8217;t noticed a big difference. The black colour of the watch is a highlight for me. I am using VoiceOver on the watch all the time, and turn it on and off on my iPhone. I am still using the limited vision I have, which is deteriorating.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1968" height="1476" src="https://www.timdixon.net/wp-content/uploads/2025/12/IMG_8398-edited.jpeg" alt="Apple Watch Ultra 3 in Black wityh  a Teracotta Alpine Band" class="wp-image-1617" srcset="https://www.timdixon.net/wp-content/uploads/2025/12/IMG_8398-edited.jpeg 1968w, https://www.timdixon.net/wp-content/uploads/2025/12/IMG_8398-edited-300x225.jpeg 300w, https://www.timdixon.net/wp-content/uploads/2025/12/IMG_8398-edited-1024x768.jpeg 1024w, https://www.timdixon.net/wp-content/uploads/2025/12/IMG_8398-edited-768x576.jpeg 768w, https://www.timdixon.net/wp-content/uploads/2025/12/IMG_8398-edited-1536x1152.jpeg 1536w, https://www.timdixon.net/wp-content/uploads/2025/12/IMG_8398-edited-1200x900.jpeg 1200w" sizes="(max-width: 1968px) 100vw, 1968px" /><figcaption class="wp-element-caption">Apple Watch Ultra with Teracotta Alpine Band on a wrist</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">The iPhone 17 Pro Max gives me all the power, large screen and advanced accessibility features I need along with my <a href="https://www.timdixon.net/blog/2022/12/top-5-iphone-apps-for-users-with-sight-loss/" target="_blank" rel="noreferrer noopener">Top 5 iPhone Apps for Users with Sight Loss</a>.</p>
+
+
+
+<h2 class="wp-block-heading">Headphones</h2>
+
+
+
+<p class="wp-block-paragraph">Being blind, headphones are necessary. I use a range of devices depending on the circumstances. I love my Meta Ray Ban Wayfarer (Gen 1) Smart Glasses, these are my favourite for using and I don&#8217;t leave the house without them. They are stylish, with the ability to take photos and call Be My Eyes.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="611" src="https://www.timdixon.net/wp-content/uploads/2024/11/Designer-1-scaled-e1731426332675-1024x611.jpeg" alt="Meta Ray Ban Wayfarer sunglasses on a man's face. The camera is on the right edge of the frame with an indicator light on the right keeping the frames balanced." class="wp-image-1309" srcset="https://www.timdixon.net/wp-content/uploads/2024/11/Designer-1-scaled-e1731426332675-1024x611.jpeg 1024w, https://www.timdixon.net/wp-content/uploads/2024/11/Designer-1-scaled-e1731426332675-300x179.jpeg 300w, https://www.timdixon.net/wp-content/uploads/2024/11/Designer-1-scaled-e1731426332675-768x458.jpeg 768w, https://www.timdixon.net/wp-content/uploads/2024/11/Designer-1-scaled-e1731426332675-1200x716.jpeg 1200w, https://www.timdixon.net/wp-content/uploads/2024/11/Designer-1-scaled-e1731426332675.jpeg 1459w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph">I haven&#8217;t used my Sony Linkbuds in 2025, in part due to being out and about less, and also due to the slight discomfort they cause. They are a unique donut design that sits in your ear but allows you full transparency and decent sound quality. They can be found on Amazon: <a href="https://amzn.eu/d/03Nk1Uj" target="_blank" rel="noreferrer noopener">Sony Link Buds on Amazon</a></p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://amzn.eu/d/03Nk1Uj" target="_blank" rel="noreferrer noopener"><img decoding="async" width="1024" height="1024" src="https://www.timdixon.net/wp-content/uploads/2022/12/img_9718-1024x1024.jpg" alt="A Sony Link bud just above the small charging case. The buds are in black and look like a berry attached to a small donut. The donut sits over your ear canal when wearing. " class="wp-image-785" srcset="https://www.timdixon.net/wp-content/uploads/2022/12/img_9718-1024x1024.jpg 1024w, https://www.timdixon.net/wp-content/uploads/2022/12/img_9718-300x300.jpg 300w, https://www.timdixon.net/wp-content/uploads/2022/12/img_9718-150x150.jpg 150w, https://www.timdixon.net/wp-content/uploads/2022/12/img_9718-768x768.jpg 768w, https://www.timdixon.net/wp-content/uploads/2022/12/img_9718.jpg 1028w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Sony Link Buds</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">2025 saw me upgrade to the Apple AirPod Pro&#8217;s 2 after the untimely demise of my Apple AirPod Pro&#8217;s. They are my go to for listening to podcasts while I go to sleep. I have an automation setup to play my podcast feed as soon as I put them in, saving me from getting distracted when I pick the phone up to put a podcast on.</p>
+
+
+
+<p class="wp-block-paragraph">The <a href="https://amzn.to/3Ll6Sc1" rel="sponsored nofollow">Comply Memory foam tips (Affiliate Link)</a> have improved the comfort and provided a more secure fit for my AirPod Pro&#8217;s 2&#8217;s, they do need replacing more frequently, but it is worth it.<br><br>I also added Sony MDR-7506 headphones to my collection for use with my Macbook Pro; for Zoom calls, podcasting and editing.</p>
+
+
+
+<p class="wp-block-paragraph">Finally, are my <a href="https://amzn.to/4q2oNn5" rel="sponsored nofollow">Poly Voyager Focus 2 Headset </a>which provide noise cancellation for both audio playback and for the microphone. The most expensive headset I have purchased at nearly £300 (now under £200), but as I wear them for over 8 hours a day, they are worth it. The ability to lift your mic boom and have the call mute is the killer feature. The eighteen hours talk time and comfort make these my favourite. Being Bluetooth, the lag with JAWS is annoying and as I transition to a non-visual working pattern, I will need to consider going wired.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://amzn.eu/d/dbtJHt8" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="539" height="820" src="https://www.timdixon.net/wp-content/uploads/2022/12/img_9719.png" alt="Poly Votager Focus 2 headset with adjustable boom Mike. " class="wp-image-788" srcset="https://www.timdixon.net/wp-content/uploads/2022/12/img_9719.png 539w, https://www.timdixon.net/wp-content/uploads/2022/12/img_9719-197x300.png 197w" sizes="auto, (max-width: 539px) 100vw, 539px" /></a><figcaption class="wp-element-caption">Poly Voyager Focus 2 headset</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">Note Taking</h2>
+
+
+
+<p class="wp-block-paragraph">I started using the Plaud Note during 2025 and have found it to be fantastic for in-person meetings and capturing calls on my mobile. The ability to sit down for a meeting and know that you will have a good quality recording, the transcript and even the minutes allows you to focus on the conversation. The device isn&#8217;t approved for use by my employer, but I still get significant benefit from using it in my volunteer roles and capturing notes during medical appointments. Listen to my discussion about the Plaud Note with the troublesome duo, Steven and Shaun, on Double Tap from earlier in the year &#8211; watch the video below:</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Inside the Plaud AI Note Device: Can It Replace Your Smartphone For Note-Taking?" width="760" height="428" src="https://www.youtube.com/embed/NWGRyKQrJmU?start=1530&#038;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p class="wp-block-paragraph">There is a new Plaud Note Pro with better battery life, automated transfer and improved microphones, <a href="https://amzn.to/3YfiXm1" rel="sponsored nofollow">Check out the Plaud Note Pro on Amazon (Affiiliate Link)</a> Note that there is a subscription to be able to access some of the more advanced features. The app has been updated, but is still lacking accessibility.</p>
+
+
+
+<h2 class="wp-block-heading">Recording Equipment</h2>
+
+
+
+<p class="wp-block-paragraph">In 2024, I started to do some more recording and invested in the following equipment:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Microphone: <a href="https://www.amazon.co.uk/dp/B07ZPBFVKK?amp=&amp;crid=3HLJMAY0TENAK&amp;amp=&amp;sprefix=audio+technica+2100&amp;linkCode=ll1&amp;tag=timdixon03-21&amp;linkId=cf4a01a7c88e25f2275f07431df9b401&amp;language=en_GB&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener sponsored nofollow">Audio Technica ATR 2100X USB Cardoid Microphone (Affiliate Link)</a>. The Audio Technica has the option of XLR or USB connection, making it ideal as a first microphone, providing a path to using the XLR with mixers and more professional equipment. The USB plugs into the bottom of the microphone and then into the iPhone and it works immediately.</li>
+
+
+
+<li>Gimbal:  <a href="https://www.amazon.co.uk/Insta360-Flow-Pro-Stabilization-Built/dp/B0D6QPW32F?dib=eyJ2IjoiMSJ9.Q-B-p3JVImcRTcVdo7euS-lnx7BUa7heZp3lTgUBLUna3btkAtl2bExUOS2aH5BrJey8yU5S7K_vCHEkcYo8PeAAWTJyW9idmKxIIFSxmJU.boaC-tbx7MHfz_dl_RMEA-Shc6KA6nROO8klEwyYnpg&amp;dib_tag=se&amp;keywords=insta+flow+pro&amp;nsdOptOutParam=true&amp;qid=1731777808&amp;sr=8-1-spons&amp;ufe=app_do%3Aamzn1.fos.23648568-4ba5-49f2-9aa6-31ae75f1e9cd&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;psc=1&amp;linkCode=ll1&amp;tag=timdixon03-21&amp;linkId=d48f2ffb07d8e164f5a0150fdcbcb785&amp;language=en_GB&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener sponsored nofollow">Insta 360 Flow Pro (Affiliate Link)</a> to help keep the camera footage stable and smooth. I picked the Insta 360 Flow Pro because it integrates with Apple Dock Kit, allowing the tracking to be used from any application. This was important as I expected the Insta 360 software to be less than accessible, which I was right to be wary of.</li>
+
+
+
+<li>Phone Stand: <a href="https://amzn.to/3VTsuye">Cooper MagStand (Affiliate Link)</a> Magsafe stand to hold the iPhone for video calls. </li>
+
+
+
+<li>Lights: <a href="https://amzn.to/3ZJXykY" target="_blank" rel="noreferrer noopener sponsored nofollow">Dual Selfie Clamp on Ring Lights (Affiliate Link)</a> for consistent lighting when on calls/being interviewed.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">In 2025, I expanded my recording equipment with the following:</p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://amzn.eu/d/eDEW3rp">Sony MDR-7506 Studio Headphones</a> &#8211; a comfortable pair of closed back headphones for monitoring and editing.</li>
+
+
+
+<li><a href="https://amzn.to/44N6vO6">Rode Wireles Pro Microphones (Affiliate Link)</a> &#8211; Fantastic wireless microphones with full accessibility. Read my <a href="https://www.timdixon.net/blog/2025/08/finding-accessible-wireless-microphones/">Finding Accessible Wireless Microphones</a> article for more information.</li>
+
+
+
+<li><a href="https://amzn.to/4qS9PA7" rel="sponsored nofollow">Focusrite Vocaster Two (Affiliate Link)</a> &#8211;  This has been a game changer for recording and Zoom calls, the ability to have more control over your Microphone and a button for mute has provided significant improvements in my audio quality.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">I used the Rode Wireless Pro Microphones, Insta360 Flow and my iPhone 16 Pro Max to record the interviews at Sight Village Central in July. <a href="https://youtube.com/playlist?list=PL5Rcl8lAjPII_0iO0ymFg6777de_2xYAi&amp;si=iwGonzdwnjK5K38c">View the interviews from Sight Village Central</a> for <a href="https://www.llbs.co.uk">Lincoln and Lindsey Blind Society</a>. </p>
+
+
+
+<h2 class="wp-block-heading">Braille Display</h2>
+
+
+
+<p class="wp-block-paragraph">The Mantis Q40 by APH and Humanware is my main braille display. The combination of a qwerty keyboard and forty cell braille display make the perfect combination. I am still early in my braille journey, so having the QWERTY keyboard allows me to operate at full typing speed while getting the benefit of having braille at my fingertips.<a rel="noreferrer noopener" href="https://www.timdixon.net/blog/2021/12/my-journey-to-learn-braille-in-2021/" target="_blank"> See my blog post on my Braille Journey</a> to read about how I got started with Braille.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="https://www.timdixon.net/wp-content/uploads/2021/12/a684137a-dd4e-40c8-b2a4-b4f47f8768d5-17885-00001519bbf28b19_file-1024x768.jpg" alt="A photo of a Mantis Q40 braille display. The device is the size of a laptop keyboard with 40 routing keys below the keyboard and above 40 cells of 8 dot Braille." class="wp-image-378" srcset="https://www.timdixon.net/wp-content/uploads/2021/12/a684137a-dd4e-40c8-b2a4-b4f47f8768d5-17885-00001519bbf28b19_file-1024x768.jpg 1024w, https://www.timdixon.net/wp-content/uploads/2021/12/a684137a-dd4e-40c8-b2a4-b4f47f8768d5-17885-00001519bbf28b19_file-300x225.jpg 300w, https://www.timdixon.net/wp-content/uploads/2021/12/a684137a-dd4e-40c8-b2a4-b4f47f8768d5-17885-00001519bbf28b19_file-768x576.jpg 768w, https://www.timdixon.net/wp-content/uploads/2021/12/a684137a-dd4e-40c8-b2a4-b4f47f8768d5-17885-00001519bbf28b19_file-1536x1152.jpg 1536w, https://www.timdixon.net/wp-content/uploads/2021/12/a684137a-dd4e-40c8-b2a4-b4f47f8768d5-17885-00001519bbf28b19_file-2048x1536.jpg 2048w, https://www.timdixon.net/wp-content/uploads/2021/12/a684137a-dd4e-40c8-b2a4-b4f47f8768d5-17885-00001519bbf28b19_file-1200x900.jpg 1200w, https://www.timdixon.net/wp-content/uploads/2021/12/a684137a-dd4e-40c8-b2a4-b4f47f8768d5-17885-00001519bbf28b19_file-1980x1485.jpg 1980w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Mantis Q40 Braille Display</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">In October I received a <a href="https://www.dotincorp.com/en/product/dotpadx">DotPad X</a> through my employer and Access To Work, alongside an iPad Air and pencil to allow my access assistant to replicate what is on the white board in meetings for me to feel. I am still in my early days of using the DotPad X, but being able to read more than one cell in Excel at a time is a real game changer.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Dot Pad X Promotional Video" width="760" height="428" src="https://www.youtube.com/embed/AIa1qePwog8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h2 class="wp-block-heading">Braille Embosser</h2>
+
+
+
+<p class="wp-block-paragraph">In 2024 I aquired an Index Everest V3 Braille embosser. This is my first embosser and I explain my journey in <a href="https://www.timdixon.net/blog/2024/06/extending-my-ways-of-embossing-braille/">Extending my ways of Embossing Braille</a> post. I haven&#8217;t been using it much in 2025. but it is good to know it is available when I need it.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1009" height="1024" src="https://www.timdixon.net/wp-content/uploads/2024/06/HEIF-Image-1009x1024.jpeg" alt="Index Everest v3 Braille Embosser" class="wp-image-1209" srcset="https://www.timdixon.net/wp-content/uploads/2024/06/HEIF-Image-1009x1024.jpeg 1009w, https://www.timdixon.net/wp-content/uploads/2024/06/HEIF-Image-296x300.jpeg 296w, https://www.timdixon.net/wp-content/uploads/2024/06/HEIF-Image-768x779.jpeg 768w, https://www.timdixon.net/wp-content/uploads/2024/06/HEIF-Image-1514x1536.jpeg 1514w, https://www.timdixon.net/wp-content/uploads/2024/06/HEIF-Image-2018x2048.jpeg 2018w, https://www.timdixon.net/wp-content/uploads/2024/06/HEIF-Image-1200x1218.jpeg 1200w, https://www.timdixon.net/wp-content/uploads/2024/06/HEIF-Image-1980x2009.jpeg 1980w" sizes="auto, (max-width: 1009px) 100vw, 1009px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Screen Reader and Magnification </h2>
+
+
+
+<p class="wp-block-paragraph">I currently use Fusion 2025 from Freedom Scientific. Fusion is made up of JAWS and Zoomtext. The combination allows me to zoom and invert colours as needed while having all the power of JAWS to read the screen and navigate. I dropped to running just JAWS in 2024 to increase performance and also try to force a non-visual way of working. A year on and I am still on my journey to non-visual working, it is slow progress.</p>
+
+
+
+<p class="wp-block-paragraph">December 2023, I started using a Macbook Pro with VoiceOver for personal use, and I must say that I like the simplicity of the Mac and doubt I will be changing back. I also purchased a Mac Mini in 2024 to run as a Media server and allow me to retire my aging NAS for something a little more power efficient. I continue to enjoy using the Mac, but note that I still need to move away from using the Magnification as much as I do.</p>
+
+
+
+<h2 class="wp-block-heading">Other Software in My Blind Tech Setup</h2>
+
+
+
+<p class="wp-block-paragraph">There are many other software products I use as part of my daily life, but the ones I must mention are Lire, SpeechCentral, Todoist, 1Password and browser extension Nighteye</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://lireapp.com">Lire</a> is a fantastic RSS reader for the Mac and iOS &#8211; I use it to help me follow multiple websites, saving me navigating crowded websites.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://speechcentral.net">SpeechCentral</a> is a really useful app available on Mac, iPhone, Android and Windows. It will read articles, documents and PDF&#8217;s to you in a range of voices. The contents are synced between Mac and iOS, but not on Windows or Android.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.todoist.com">Todoist</a> is a fantastic to-do list application available across platforms with Alexa integration. I use it to implement <a href="https://www.amazon.co.uk/Getting-Things-Done-Stress-Free-Productivity/dp/B01B6WSGGA" target="_blank" rel="noreferrer noopener">Getting Things Done by David Allen</a>. GTD is a methodology to help you stay on top of what’s important. In 2024, I have been less vigerous with my GTD, and need to refresh my understanding and become more stringent.</p>
+
+
+
+<p class="wp-block-paragraph">I changed over from LastPass to<a href="https://www.1password.com"> 1Password</a> in 2023 and only wish I had done it sooner. It is very accessible and has features like autopopulating your multi factor codes, which is a game changer for a low vision or blind user. 1Password is available on all platforms and I have had fantastic support from the team when I have had the odd need to contact them.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="886" height="465" src="https://www.timdixon.net/wp-content/uploads/2020/11/NightEye-Before-and-Afters.png" alt="Dark Mode on Github website" class="wp-image-167" srcset="https://www.timdixon.net/wp-content/uploads/2020/11/NightEye-Before-and-Afters.png 886w, https://www.timdixon.net/wp-content/uploads/2020/11/NightEye-Before-and-Afters-300x157.png 300w, https://www.timdixon.net/wp-content/uploads/2020/11/NightEye-Before-and-Afters-768x403.png 768w" sizes="auto, (max-width: 886px) 100vw, 886px" /><figcaption class="wp-element-caption">Comparison of a website with and without Nighteye Dark mode. </figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">Nighteye is an extension for most browsers and turns any website into dark mode. This plugin saves my photophobic eyes multiple times per day. Check out my articles: <a rel="noreferrer noopener" href="https://www.timdixon.net/blog/2020/11/how-to-turn-any-website-to-dark-mode/" target="_blank">How to turn any website to Dark Mode</a> and <a rel="noreferrer noopener" href="https://www.timdixon.net/blog/2022/04/how-to-get-dark-mode-websites-on-iphone-and-ipad/" target="_blank">How to get Dark Mode websites on iPhone and iPad</a></p>
+
+
+
+<h2 class="wp-block-heading">What should I include in my Blind Tech Setup 2026?</h2>
+
+
+
+<p class="wp-block-paragraph">I am always looking to improve my setup, what would you recommend? What works well for you?  Let me know in the comments.</p>
+<p>The post <a href="https://www.timdixon.net/blog/2025/12/my-blind-tech-setup-2026/">My Blind Tech Setup 2026</a> appeared first on <a href="https://www.timdixon.net">TIM DIXON</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.timdixon.net/blog/2025/12/my-blind-tech-setup-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1615</post-id>	</item>
+		<item>
+		<title>Blind and Low Vision Gift Guide &#8211; Fall 2025</title>
+		<link>https://www.timdixon.net/blog/2025/11/blind-and-low-vision-gift-guide-fall-2025/</link>
+					<comments>https://www.timdixon.net/blog/2025/11/blind-and-low-vision-gift-guide-fall-2025/#respond</comments>
+		
+		<dc:creator><![CDATA[Tim Dixon]]></dc:creator>
+		<pubDate>Sun, 23 Nov 2025 20:22:06 +0000</pubDate>
+				<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[Life]]></category>
+		<category><![CDATA[Living with Sight Loss]]></category>
+		<category><![CDATA[Blind and Low Vision]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Gift Guide]]></category>
+		<category><![CDATA[Gift Ideas]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<guid isPermaLink="false">https://www.timdixon.net/?p=1521</guid>
+
+					<description><![CDATA[<p>Finding gifts is hard, it is even harder when buying for blind and low vision friends and family. The Blind and Low Vision Gift Guide is here to&#8230;</p>
+<p>The post <a href="https://www.timdixon.net/blog/2025/11/blind-and-low-vision-gift-guide-fall-2025/">Blind and Low Vision Gift Guide &#8211; Fall 2025</a> appeared first on <a href="https://www.timdixon.net">TIM DIXON</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Finding gifts is hard, it is even harder when buying for blind and low vision friends and family. The Blind and Low Vision Gift Guide is here to help with some inspiration, updated for 2025</p>
+
+
+
+<h2 class="wp-block-heading">Cards</h2>
+
+
+
+<p class="wp-block-paragraph">Most cards have fancy fonts and poor contrast, making them hard for blind and low vision recipients to enjoy, that&#8217;s where specialist cards come in.</p>
+
+
+
+<p class="wp-block-paragraph">Hayley is visually impaired with a rare genetic condition that runs through her family. Hayley set up Dotty About Braille to provide custom handmade cards for low vision and blind recipients at a price comparable to sighted recipients. Check out the amazing range of cards at <a href="https://www.dottyaboutbraille.com/">Dotty About Braille &#8211; Personalised Braille Greetings Cards, Labels &amp; more</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://www.timdixon.net/wp-content/uploads/2023/09/Dotty-About-BRaille-1024x1024.jpeg" alt="Hayley from Dotty About Braille stood behind a market stall that has braille greetings cards, letters from Father Christmas and a Perkins Brailler displayed." class="wp-image-1024" srcset="https://www.timdixon.net/wp-content/uploads/2023/09/Dotty-About-BRaille-1024x1024.jpeg 1024w, https://www.timdixon.net/wp-content/uploads/2023/09/Dotty-About-BRaille-300x300.jpeg 300w, https://www.timdixon.net/wp-content/uploads/2023/09/Dotty-About-BRaille-150x150.jpeg 150w, https://www.timdixon.net/wp-content/uploads/2023/09/Dotty-About-BRaille-768x768.jpeg 768w, https://www.timdixon.net/wp-content/uploads/2023/09/Dotty-About-BRaille.jpeg 1080w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Blind and Low Vision Gift Guide</h2>
+
+
+
+<p class="wp-block-paragraph">The gifts are grouped by their price range, with a some great gifts under £10.</p>
+
+
+
+<h3 class="wp-block-heading">Gifts over £500</h3>
+
+
+
+<h4 class="wp-block-heading">Apple iPhone</h4>
+
+
+
+<p class="wp-block-paragraph">For many, the Apple iPhone is the ultimate accessibility tool, it provides access to the internet and a range of apps that remove daily barriers. The iPhone range provides a suitable phone for most budgets. Apple Intelligence is the latest feature Apple is rolling out and it promises to help remove more barriers for disabled people, including integration with AI models and Visual Intelligence. If this is important, you need to ensure the phone you buy is capable of supporting it.</p>
+
+
+
+<h5 class="wp-block-heading">Apple iPhone 16e &#8211; ~£550</h5>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="679" height="825" src="https://www.timdixon.net/wp-content/uploads/2025/11/iPhone16e.jpg" alt="Black iPhone 16e, showing the back on the left and the front screen of the 16e on the right. " class="wp-image-1522" srcset="https://www.timdixon.net/wp-content/uploads/2025/11/iPhone16e.jpg 679w, https://www.timdixon.net/wp-content/uploads/2025/11/iPhone16e-247x300.jpg 247w" sizes="auto, (max-width: 679px) 100vw, 679px" /></figure>
+
+
+
+<p class="wp-block-paragraph">The Apple iPhone 16e is the most affordable phone in the iPhone lineup and replaces the iPhone SE, a favourite for many blind and low vision users. The iPhone comes with FaceID, a larger 6.1 inch screen and support for Apple Intelligence. The iPhone 16e doesn&#8217;t include the U1 chip which means it can&#8217;t do precise finding with AirTags. The AirTags work, but you can&#8217;t get any more precise than the room you are in.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://amzn.to/4odRoE3" target="_blank" rel="noreferrer noopener sponsored nofollow">Buy the iPhone 16e 128GB on Amazon (Affiliate Link)</a></p>
+
+
+
+<h5 class="wp-block-heading">Apple iPhone 17 &#8211; ~£799</h5>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="679" height="465" src="https://www.timdixon.net/wp-content/uploads/2025/11/iPhone17.jpg" alt="iPhone 17 phones showing off the colour range with the back showing two camera lenses on each. Colours are Black, White, Sage, Mist Blue and Lavendar" class="wp-image-1523" srcset="https://www.timdixon.net/wp-content/uploads/2025/11/iPhone17.jpg 679w, https://www.timdixon.net/wp-content/uploads/2025/11/iPhone17-300x205.jpg 300w" sizes="auto, (max-width: 679px) 100vw, 679px" /></figure>
+
+
+
+<p class="wp-block-paragraph">The iPhone 17 is a 6.3 inch screen and supports Apple Intelligence. The iPhone 17 has an action button and Camera button which can both be used to open key apps like the Magnifier or Be My Eyes. The phones support MagSafe for charging and accessories, making it effortless to charge wirelessly. AirTag precision finding is supported.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.amazon.co.uk/Apple-iPhone-256-ProMotion-Resistance/dp/B0FQFWVD2Y?crid=16CPTS5TQT3TD&amp;dib=eyJ2IjoiMSJ9.ckSPcrPo0Dxtn4FNFodDDCaEc3TrnQbhpdMjaK9T5BY_t0xvPjmRUsYXqPvLr858IQ4ScA2Gp6ZHfZv3-nv0ThAtSerYg8KNyXgNWW9JatD1n2Iy2-Fbu_OVDY0txR2KMZCXVj8R8FyMGIxqsmx9HOe4qvJvQAYZaEgvujDgheHFkPnuCg9iFuVQFZIQ-YpISAMSO1n8RdIgokaggsBvnkx7gUVzCs4U0No075BldRg.tagAlvJiAy2XpqVbgtMOMAyw6o2PXjdmGvFwe1gwezo&amp;dib_tag=se&amp;keywords=iphone%2B17&amp;qid=1763926123&amp;sprefix=iphone%2B17%2Caps%2C140&amp;sr=8-4&amp;ufe=app_do%3Aamzn1.fos.794fa62a-3135-4bf0-814a-43572dfb5ca4&amp;th=1&amp;linkCode=ll1&amp;tag=timdixon03-21&amp;linkId=db974ea19d69d242e0e0655e19cf2c97&amp;language=en_GB&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener sponsored nofollow">Buy the iPhone 17 256GB on Amazon (Affiliate Link)</a></p>
+
+
+
+<h5 class="wp-block-heading">Apple iPhone 17 Pro / 17 Pro Max &#8211; ~£1099 / £1199</h5>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="679" height="573" src="https://www.timdixon.net/wp-content/uploads/2025/11/iPhone17Pro.jpg" alt="iPhone 17 Pro phones showing the range of colours - WhiteCosmic Orange and Deep Blue. The phones have a wider platau for the cameras and lidar, now going across the full width of the phone." class="wp-image-1524" srcset="https://www.timdixon.net/wp-content/uploads/2025/11/iPhone17Pro.jpg 679w, https://www.timdixon.net/wp-content/uploads/2025/11/iPhone17Pro-300x253.jpg 300w" sizes="auto, (max-width: 679px) 100vw, 679px" /></figure>
+
+
+
+<p class="wp-block-paragraph">The iPhone 17 Pro is a 6.3 Inch screen and the 16 Pro Max has a 6.9 inch screen. The Pro phones have a 8x optical zoom camera and LIDAR. LIDAR can be used to accurately determine distances and objects. Both phones support the full functionality of AirTags.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.amazon.co.uk/Apple-iPhone-Pro-256-Breakthrough/dp/B0FQFJLB7D?crid=204N996E1J4JU&amp;dib=eyJ2IjoiMSJ9.0jzxUqzmmw4WqCvgD_vHrzmLgjpqPuEokae88gKn7AMEo-h74fGlwDg9o56iUacKXD3LIvQSiE2ov95tMFOkKyqIrz6Qu4rwEZl1XVOsE0Csdt1VBAQT2-73Mef2XQmE6XGrOdV--PebfouYj-5CEVQ4QQK3esnWqkMeWvRgHuDQsoESzWnorIXJ1EB200VfIt0cg6Lp_gVj3fz-aq0czmnhNlZyFdg36FGoqT5J3_I.AI9_P7e6JeUPQKnyRHwI8p3es5p_rcurbmPKXUJ_ngQ&amp;dib_tag=se&amp;keywords=iphone%2B17%2BPro&amp;qid=1763926769&amp;sprefix=iphone%2B17%2Bpro%2Caps%2C153&amp;sr=8-1-spons&amp;ufe=app_do%3Aamzn1.fos.794fa62a-3135-4bf0-814a-43572dfb5ca4&amp;aref=lSESqmEqhP&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&amp;linkCode=ll1&amp;tag=timdixon03-21&amp;linkId=cb841fcb0780e6be3d0bb7ca6b4e3181&amp;language=en_GB&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener sponsored nofollow">Buy the iPhone 17 Pro 256GB on Amazon (Affiliate Link)</a></p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.amazon.co.uk/dp/B0DGJ2NK8W?th=1&amp;linkCode=ll1&amp;tag=timdixon03-21&amp;linkId=44a72a2edfce37072514e9380226394a&amp;language=en_GB&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener sponsored nofollow">Buy the iPhone 17 Pro Max </a><a href="https://www.amazon.co.uk/Apple-iPhone-Pro-Max-256/dp/B0FQG11BJP?crid=1C2AE66O2VVVF&amp;dib=eyJ2IjoiMSJ9.HKLz4_5SrZ-jwh4gyK5UMOpEkfJEQPYO-rUv5rcRGNo_t0xvPjmRUsYXqPvLr8580WF9gvQGGTGFxcN_LUaKtuhOclFf-L7wtB7nFVtkCLfoA2knLNB-p913K0AHVu1a8G4ekV1QHRO36GmGutbVm7RMXButS5Q2lWUUqe5OfXvg_gFDcKJjvgi6V2D88rYk4cY1Zm1AgS1usDmNwO6SnjgyytfXeqXXwRydIj7x4WA.7gXEo9qiXKvk7654PkrzxEsnOrWzcaaiP32Q2-4tBKU&amp;dib_tag=se&amp;keywords=iphone%2B17%2BPro%2Bmax&amp;qid=1763926831&amp;sprefix=iphone%2B17%2Bpro%2Bmax%2Caps%2C134&amp;sr=8-1-spons&amp;ufe=app_do%3Aamzn1.fos.794fa62a-3135-4bf0-814a-43572dfb5ca4&amp;aref=czTa9uJtX9&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&amp;linkCode=ll1&amp;tag=timdixon03-21&amp;linkId=7d25dc84ff1870d9b7988f180718f14c&amp;language=en_GB&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener sponsored nofollow">256GB</a><a href="https://www.amazon.co.uk/dp/B0DGJ2NK8W?th=1&amp;linkCode=ll1&amp;tag=timdixon03-21&amp;linkId=44a72a2edfce37072514e9380226394a&amp;language=en_GB&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener sponsored nofollow"> on Amazon (Affiliate Link)</a></p>
+
+
+
+<h3 class="wp-block-heading">Gifts between £250 and £500</h3>
+
+
+
+<h4 class="wp-block-heading">Meta Ray Ban Smart Glasses &#8211; ~£300</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="611" src="https://www.timdixon.net/wp-content/uploads/2024/11/Designer-1-scaled-e1731426332675-1024x611.jpeg" alt="Meta Ray Ban Wayfarer sunglasses on a man's face. The camera is on the right edge of the frame with an indicator light on the right keeping the frames balanced." class="wp-image-1309" srcset="https://www.timdixon.net/wp-content/uploads/2024/11/Designer-1-scaled-e1731426332675-1024x611.jpeg 1024w, https://www.timdixon.net/wp-content/uploads/2024/11/Designer-1-scaled-e1731426332675-300x179.jpeg 300w, https://www.timdixon.net/wp-content/uploads/2024/11/Designer-1-scaled-e1731426332675-768x458.jpeg 768w, https://www.timdixon.net/wp-content/uploads/2024/11/Designer-1-scaled-e1731426332675-1200x716.jpeg 1200w, https://www.timdixon.net/wp-content/uploads/2024/11/Designer-1-scaled-e1731426332675.jpeg 1459w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Meta Ray Ban Smart Glasses are taking the blind and low vision world by storm, the ability to make hands free video calls, take photos and ask Meta AI what you are looking at make them a useful addition to our toolbox. See my <a href="https://www.timdixon.net/blog/2024/10/blind-meta-ray-ban-review/">Blind Meta Ray Ban Review</a> post for a more detailled review of them.</p>
+
+
+
+<p class="wp-block-paragraph">Meta have released a Gen 2 during 2025, which cost more but provide double the battery life and increased video quality. For any first time buyers,  I recommend going for the larger battery life.<br><br>Ray Ban not the right look, you can now get Oakley HSTN and Oakley Vanguard glasses with the same smart functionality.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.meta.com/gb/smart-glasses/shop-all/">Buy the Meta Ray Ban and Meta Oakley Smart Glasses from Meta</a></p>
+
+
+
+<h4 class="wp-block-heading" id="HomePod">Apple HomePod &#8211; £299</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="866" height="1024" src="https://www.timdixon.net/wp-content/uploads/2024/11/homepod-select-midnight-202210-866x1024.png" alt="Apple HomePod 2nd Generation in Midnight" class="wp-image-1315" srcset="https://www.timdixon.net/wp-content/uploads/2024/11/homepod-select-midnight-202210-866x1024.png 866w, https://www.timdixon.net/wp-content/uploads/2024/11/homepod-select-midnight-202210-254x300.png 254w, https://www.timdixon.net/wp-content/uploads/2024/11/homepod-select-midnight-202210-768x909.png 768w, https://www.timdixon.net/wp-content/uploads/2024/11/homepod-select-midnight-202210.png 940w" sizes="auto, (max-width: 866px) 100vw, 866px" /></figure>
+
+
+
+<p class="wp-block-paragraph">The Apple HomePod is a high quality smart speaker with fantastic sound. It is integrated with the Apple ecosystem allowing easy control of Homekit devices and access to Apple Music. The HomePod is best as a pair linked to an <a href="#AppleTV">Apple TV 4k</a> Box, providing Dolby Atmos sound for shows and movies. I have two of these paired with my Apple TV 4K and love the quality of the sound and accessibility of the Apple TV 4K. The Apple TV 4K also works well with the <a href="#HomepodMini">HomePod Mini&#8217;s</a> for rooms where you don&#8217;t need the full cinema experience.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.apple.com/uk/shop/buy-homepod/homepod/midnight" target="_blank" rel="noreferrer noopener sponsored nofollow">Buy the Apple HomePod from Apple</a></p>
+
+
+
+<h3 class="wp-block-heading">Gifts between £100 and £250</h3>
+
+
+
+<h4 class="wp-block-heading">Apple AirPod Pro 3 &#8211; ~£230</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="933" height="1024" src="https://www.timdixon.net/wp-content/uploads/2024/11/AppleAirPod2-933x1024.jpg" alt="Two Apple Airpod Pro 2 ear buds overing just outside of the airpod case." class="wp-image-1332" srcset="https://www.timdixon.net/wp-content/uploads/2024/11/AppleAirPod2-933x1024.jpg 933w, https://www.timdixon.net/wp-content/uploads/2024/11/AppleAirPod2-273x300.jpg 273w, https://www.timdixon.net/wp-content/uploads/2024/11/AppleAirPod2-768x843.jpg 768w, https://www.timdixon.net/wp-content/uploads/2024/11/AppleAirPod2-1200x1318.jpg 1200w, https://www.timdixon.net/wp-content/uploads/2024/11/AppleAirPod2.jpg 1366w" sizes="auto, (max-width: 933px) 100vw, 933px" /></figure>
+
+
+
+<p class="wp-block-paragraph">The AirPod Pro 3 in ear headphones are ideal with their transparency mode allowing for high quality audio while still hearing surroundings for navigation. There have improved active noise cancellation and heart rate monitoring over the Airpod Pro 2 headphones. Both models provide fantastic features including adjustments to help with hearing loss, live translations for translating from other languages and head gestures to accept and reject calls. </p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.amazon.co.uk/Apple-Cancellation-Translation-Headphones-High%E2%80%91Fidelity/dp/B0FQF32239?crid=2D01WQJ53STA8&amp;dib=eyJ2IjoiMSJ9.lUNrlMNaeKetvpgGpday3DnQA-cQrqjbiaNbNld4ZrDScQR5wyUL_lccsUzdAlpSEXDON5ut3KGU9COeayAl2KdkT1lsdIpNTjEcvTtVgWXtrMNUoSKB0LKzI5AzYEm0Wex-6__aan33zEDiiMsFRrR8NB2UqMUScEGueljmJH39_w4joG2tAq8BJxj0G_Itv4iEixOAE-UCT1kn52_NwEWVcju5lEyee850VxfO5Z0.89w4Z2by8vOPodEgdKAI4yQOlYcyJtsCOQ377PtrPhU&amp;dib_tag=se&amp;keywords=apple+airpod+pro+3&amp;qid=1763927362&amp;sprefix=apple+airpod+pro+3%2Caps%2C109&amp;sr=8-1-spons&amp;ufe=app_do%3Aamzn1.fos.794fa62a-3135-4bf0-814a-43572dfb5ca4&amp;aref=u3Yg6jMsWV&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;psc=1&amp;linkCode=ll1&amp;tag=timdixon03-21&amp;linkId=d9490211d2cb3ac719382865ca428594&amp;language=en_GB&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener sponsored nofollow">Buy Apple Airpod Pro 3 from Amazon (Affiliate Link)</a></p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.amazon.co.uk/Apple-AirPods-generation-MagSafe-USB%E2%80%91C/dp/B0CHWZ9TZS?crid=JOEOG5RFJY4Q&amp;dib=eyJ2IjoiMSJ9.i96xjetu7kRIJT184qMlnvY--5MbF2tJ67eYslDlwBAq08R2AKwbw9b9li5opP2SNbPsoRSdFbA7AqtJ0_dwRlaiudLXFCpIhow2taENybIRm99tN2Z_xyaLLZ_I1cLX7GW-vj2pTNkXMNwd089eFdgayY9WOjvqISGGHHrLghBpsH_htIltG0H3K3Ek1xlezwOtz5hY3l9DhNNSuyWksFRTr6-bbHI8kEa65wzLxB0.vF0gMrKKOMMfeVxSRHMpkU2FkNtFKKIqhckfjyc78Zg&amp;dib_tag=se&amp;keywords=apple+airpod+pro+2&amp;nsdOptOutParam=true&amp;qid=1731775217&amp;sprefix=apple+airpod+pro+2%2Caps%2C103&amp;sr=8-1-spons&amp;ufe=INHOUSE_INSTALLMENTS%3AUK_IHI_5M_APPLE&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;psc=1&amp;linkCode=ll1&amp;tag=timdixon03-21&amp;linkId=bc4be7c53e67b1f61eabd5a207742537&amp;language=en_GB&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener sponsored nofollow">Buy Apple Airpod Pro 2 from Amazon (Affiliate Link)</a></p>
+
+
+
+<h4 class="wp-block-heading">Hable One &#8211; ~£190</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="https://www.timdixon.net/wp-content/uploads/2023/09/image-1024x768.png" alt="The Hable One is black with buttons on one side. It is about the sixe of a pack of playing card. There are 6 white buttons in two columns of three. Next to each column is a black busson." class="wp-image-1025" srcset="https://www.timdixon.net/wp-content/uploads/2023/09/image-1024x768.png 1024w, https://www.timdixon.net/wp-content/uploads/2023/09/image-300x225.png 300w, https://www.timdixon.net/wp-content/uploads/2023/09/image-768x576.png 768w, https://www.timdixon.net/wp-content/uploads/2023/09/image-1200x900.png 1200w, https://www.timdixon.net/wp-content/uploads/2023/09/image.png 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph">The Hable One is a Bluetooth controller for phones. It has a simple eight key layout that allows users to easily navigate their phone and type in braille. This allows the phone to be left in a bag or pocket, while operating the phone. It also provides a convenient way to enter text that can be difficult with dictation or using the onscreen keyboard. The Hable One can be purchased from the <a href="https://www.iamhable.com/order/united-kingdom">Hable One Website</a>.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.amazon.co.uk/Hable-One-Smallest-Keyboard-Visually/dp/B0CJYDCZRJ?crid=34NAV6JU414N3&amp;dib=eyJ2IjoiMSJ9.xvYBt_yu1o3EeJN4qDswYHEfPLa9P13ixWNOFwQclUE4tZ7eJSoP4Y9efqYlJ23J3chRlEIpPWv4TsGMILkI4TgX1TlavAQZIZBCbd1M6uc.zUJDsIcavYIxqnwwnWWStNKwAFezIRq_n6-kzqDNTJc&amp;dib_tag=se&amp;keywords=hable+one&amp;nsdOptOutParam=true&amp;qid=1731774113&amp;sprefix=hable+one%2Caps%2C101&amp;sr=8-2&amp;ufe=app_do%3Aamzn1.fos.23648568-4ba5-49f2-9aa6-31ae75f1e9cd&amp;linkCode=ll1&amp;tag=timdixon03-21&amp;linkId=193be0d0ce494039c3867ba065b7c650&amp;language=en_GB&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener sponsored nofollow">Buy the Hable One from Amazon (Affiliate Link)</a></p>
+
+
+
+<h4 class="wp-block-heading" id="AppleTV">Apple TV 4K &#8211; ~£169</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1018" src="https://www.timdixon.net/wp-content/uploads/2024/11/apple-tv-4k-hero-select-202210-1024x1018.jpeg" alt="Apple TV 4K box in black next to an aluminum remote control. " class="wp-image-1316" srcset="https://www.timdixon.net/wp-content/uploads/2024/11/apple-tv-4k-hero-select-202210-1024x1018.jpeg 1024w, https://www.timdixon.net/wp-content/uploads/2024/11/apple-tv-4k-hero-select-202210-300x298.jpeg 300w, https://www.timdixon.net/wp-content/uploads/2024/11/apple-tv-4k-hero-select-202210-150x150.jpeg 150w, https://www.timdixon.net/wp-content/uploads/2024/11/apple-tv-4k-hero-select-202210-768x764.jpeg 768w, https://www.timdixon.net/wp-content/uploads/2024/11/apple-tv-4k-hero-select-202210.jpeg 1076w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph">The Apple TV 4K is arguably the most accessible TV streaming box. I switched from Amazon Fire TV after trying the Apple TV 4K, the experience is significantly better. Accessing the interface and all apps are accessible, with tight integration to your Apple iPhone allowing you to control the Apple TV from the physical remote, Siri or your phone. Make the most of your Apple TV 4K by connecting it to a pair of <a href="#HomePod">HomePod </a>or <a href="#HomePodMini">HomePod Mini</a> smart speakers.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.amazon.co.uk/Apple-2022-Apple-Ethernet-128GB-storage-generation/dp/B0BJMN44D8?crid=3TXBDMW5UVOG6&amp;dib=eyJ2IjoiMSJ9.hxdy23ydIGQ3iQvdH3Grm0l7d7tHbFYR-ttizYyCtjBHIvGaU-vExfRORO1ua2o_IlWdhnWc0_CQ2FBKTygkzDzgBYkxHZM0qkUBr4l_Z_yyifKZNyqeTPNUoFRDqW8BuY3qvuBE8ASSBhb_0bOD4W-TPu30au--AqrNXvqrEbOI3lALTfTT7mbL4Xcl9THyUxwopL9V4F2DuoBbmbVY_8xDfblBOnngWbkgGz466wo.wlJiqYgCVjzp0UCi76J8E2w6ThX47PUA4uAaXFgYWFw&amp;dib_tag=se&amp;keywords=apple%2Bhomepod&amp;nsdOptOutParam=true&amp;qid=1731442663&amp;sprefix=apple%2Bhomepod%2Caps%2C119&amp;sr=8-3&amp;ufe=INHOUSE_INSTALLMENTS%3AUK_IHI_5M_APPLE&amp;th=1&amp;linkCode=ll1&amp;tag=timdixon03-21&amp;linkId=5e100321cfe151271cc4bbe9dc164391&amp;language=en_GB&amp;ref_=as_li_ss_tl">Buy the Apple TV 4k 128GB from Amazon (Affiliate Link)</a></p>
+
+
+
+<h4 class="wp-block-heading">Belkin 3-in-1 Wireless Charging Stand &#8211; ~£140</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="863" src="https://www.timdixon.net/wp-content/uploads/2024/11/Belkin-3in1-1024x863.jpg" alt="Belkin 3-in-1 Wireless Charing Stand. A black base with space for AirPod Pro's to be charged, with a metal bar raising to a T shape with a phone on the left and an Apple watch on the right." class="wp-image-1333" srcset="https://www.timdixon.net/wp-content/uploads/2024/11/Belkin-3in1-1024x863.jpg 1024w, https://www.timdixon.net/wp-content/uploads/2024/11/Belkin-3in1-300x253.jpg 300w, https://www.timdixon.net/wp-content/uploads/2024/11/Belkin-3in1-768x647.jpg 768w, https://www.timdixon.net/wp-content/uploads/2024/11/Belkin-3in1-1200x1011.jpg 1200w, https://www.timdixon.net/wp-content/uploads/2024/11/Belkin-3in1.jpg 1500w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Charging cables can be a real pain, from getting tangled up to loosing them down the side of the bedside table, this is where the Belkin 3-in-1 wireless charging stand comes in. The stand provides magsafe charing for the iPhone 12 and above, along with wireless Apple Watch charging and space for Apple Airpods to be wirelessly charged. This is all from a single power cable and adapter, reducing clutter and making life easier. The phone can be positioned in landscape and with standby mode enabled, turns into a large clock display. I have had the previous version a few years now and wouldn&#8217;t be without it.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.amazon.co.uk/Belkin-Wireless-Charging-Magnetic-Compatible/dp/B0D2DJYYY1?crid=1P99A65MPFCCM&amp;dib=eyJ2IjoiMSJ9.IiykdeZGjli8wCKT4ZpT4MsZeLFK2bqOtrkny6O8pBk7D-SgbhYh-j1NBGyMrUFDb-96vr69zMjcFgIa57JWAw6HlfE12kaBiduP9vFVvv8sM5XEoXBq9KRzEIxgFxuLkdnMKVmFN4dd0hXM6rf3Ncoci7ar8E70v_jhFjBfy6lWfXaWoDvuIGWrIb6ALHwdxNfrBIkzDpXUKeCwExQwECHmbvHLLw4qfKetm75ZWvo.jcW-4_r2hsa-IqQ_Qkzp41LWZmoK8fdwrcL-Aa_pWYo&amp;dib_tag=se&amp;keywords=belkin%2B3%2Bin%2B1%2Bwireless%2Bcharging%2Bstation&amp;nsdOptOutParam=true&amp;qid=1731776856&amp;sprefix=belkin%2B3%2Bin%2B1%2Caps%2C107&amp;sr=8-1-spons&amp;ufe=INHOUSE_INSTALLMENTS%3AUK_IHI_5M_VF&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&amp;linkCode=ll1&amp;tag=timdixon03-21&amp;linkId=6c1bce05bd9cc8b0813c9448a927c462&amp;language=en_GB&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener sponsored nofollow">Buy the Belkin 3-in-1 Magsafe Charger from Amazon (Affiliate Link)</a></p>
+
+
+
+<h3 class="wp-block-heading">Gifts between £50 and £100</h3>
+
+
+
+<h4 class="wp-block-heading" id="HomePodMini">Apple HomePod Mini &#8211; ~£99</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://www.timdixon.net/wp-content/uploads/2024/11/Apple_HomePodmini_hero_10192021_big.jpg.large_2x-1024x576.jpg" alt="HomePod Mini's in White, Navy, Orange, Yellow and Midnight." class="wp-image-1317" srcset="https://www.timdixon.net/wp-content/uploads/2024/11/Apple_HomePodmini_hero_10192021_big.jpg.large_2x-1024x576.jpg 1024w, https://www.timdixon.net/wp-content/uploads/2024/11/Apple_HomePodmini_hero_10192021_big.jpg.large_2x-300x169.jpg 300w, https://www.timdixon.net/wp-content/uploads/2024/11/Apple_HomePodmini_hero_10192021_big.jpg.large_2x-768x432.jpg 768w, https://www.timdixon.net/wp-content/uploads/2024/11/Apple_HomePodmini_hero_10192021_big.jpg.large_2x-1536x864.jpg 1536w, https://www.timdixon.net/wp-content/uploads/2024/11/Apple_HomePodmini_hero_10192021_big.jpg.large_2x-1200x675.jpg 1200w, https://www.timdixon.net/wp-content/uploads/2024/11/Apple_HomePodmini_hero_10192021_big.jpg.large_2x.jpg 1960w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph">The HomePod Mini is a great sounding smart speaker with integration to the Apple ecosystem. The speaker allows you to control your home, send messages and make calls via your iPhone. When you combine two of these with the <a href="#AppleTV">Apple TV 4K,</a> you get a fantastic TV experience.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.apple.com/uk/shop/buy-homepod/homepod-mini" target="_blank" rel="noreferrer noopener">Buy the Apple HomePod Mini from Apple</a></p>
+
+
+
+<h4 class="wp-block-heading">Lego Braille Bricks Set &#8211; ~£80</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="757" src="https://www.timdixon.net/wp-content/uploads/2023/09/Lego-Braille-Brick-Box-1024x757.jpg" alt="Lego Braille Bricks box placed on a whie table at an angle" class="wp-image-1012" srcset="https://www.timdixon.net/wp-content/uploads/2023/09/Lego-Braille-Brick-Box-1024x757.jpg 1024w, https://www.timdixon.net/wp-content/uploads/2023/09/Lego-Braille-Brick-Box-300x222.jpg 300w, https://www.timdixon.net/wp-content/uploads/2023/09/Lego-Braille-Brick-Box-768x568.jpg 768w, https://www.timdixon.net/wp-content/uploads/2023/09/Lego-Braille-Brick-Box-1536x1136.jpg 1536w, https://www.timdixon.net/wp-content/uploads/2023/09/Lego-Braille-Brick-Box-2048x1514.jpg 2048w, https://www.timdixon.net/wp-content/uploads/2023/09/Lego-Braille-Brick-Box-1200x887.jpg 1200w, https://www.timdixon.net/wp-content/uploads/2023/09/Lego-Braille-Brick-Box-1980x1464.jpg 1980w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Lego have released a set of their Braille Bricks that will make the ideal gift for Lego lovers. I reviewed the set in my <a href="https://www.timdixon.net/blog/2023/09/lego-braille-bricks-review/">Lego Braille Bricks Review</a> post. The set provides all you need to start playing and learning braille. The set is great for playing with the family and sharing your braille knowledge.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.lego.com/en-gb/product/play-with-braille-english-40656?CMP=AFC-AffiliateUK-nz%2FxpRlxjVA-3619925-1654640-15">Buy Lego Braille Bricks from Lego.com</a></p>
+
+
+
+<h3 class="wp-block-heading">Gifts between £25 and £50</h3>
+
+
+
+<h4 class="wp-block-heading">Bluetooth Sunglasses &#8211; ~£35</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="653" src="https://www.timdixon.net/wp-content/uploads/2023/09/Bluetooth-Sunglasses_-1024x653.jpg" alt="Ruimen smart audio sunglasses. Black sunglasses with polarising lenses. Magnetic charging connection and button under each arm." class="wp-image-1026" srcset="https://www.timdixon.net/wp-content/uploads/2023/09/Bluetooth-Sunglasses_-1024x653.jpg 1024w, https://www.timdixon.net/wp-content/uploads/2023/09/Bluetooth-Sunglasses_-300x191.jpg 300w, https://www.timdixon.net/wp-content/uploads/2023/09/Bluetooth-Sunglasses_-768x490.jpg 768w, https://www.timdixon.net/wp-content/uploads/2023/09/Bluetooth-Sunglasses_.jpg 1106w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph">I use Bluetooth sunglasses whenever I leave the house. Apart from shielding the sunlight from my eyes, they also allow me to listen to my phone while still being able to hear my surroundings. I now use Meta Ray Ban&#8217;s predominantly, but prior to purchasing them I used the <a href="https://www.amazon.co.uk/OhO-Sunglasses-Control-Bluetooth-Waterproof-Black-black-lens/dp/B08FDB3LVR?crid=3E52DUHBX7PLE&amp;keywords=sunglasses+oho&amp;qid=1699203319&amp;sprefix=sunglasses+oho%2Caps%2C93&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;psc=1&amp;linkCode=ll1&amp;tag=timdixon03-21&amp;linkId=c77bb76a8d493b16506452225777f167&amp;language=en_GB&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener sponsored nofollow">Oho Sunshine Smart Glasse,s</a> available for around £35. The Oho Sunchine smart glasses are well made and great for audio books and text to speech, but don&#8217;t expect great sounding music from them.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.amazon.co.uk/OhO-Sunglasses-Control-Bluetooth-Waterproof-Black-black-lens/dp/B08FDB3LVR?crid=3E52DUHBX7PLE&amp;keywords=sunglasses+oho&amp;qid=1699203319&amp;sprefix=sunglasses+oho%2Caps%2C93&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;psc=1&amp;linkCode=ll1&amp;tag=timdixon03-21&amp;linkId=c77bb76a8d493b16506452225777f167&amp;language=en_GB&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener sponsored nofollow">Buy the Oho Sunshine Glasses on Amazon (Affiliate Link)</a></p>
+
+
+
+<h4 class="wp-block-heading">Apple AirTag &#8211; ~£29</h4>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="248" height="248" src="https://www.timdixon.net/wp-content/uploads/2024/11/AirTag.png" alt="Apple AirTag - a small roung object with one white plastic side and one metal back with an etched Apple logo." class="wp-image-1318" srcset="https://www.timdixon.net/wp-content/uploads/2024/11/AirTag.png 248w, https://www.timdixon.net/wp-content/uploads/2024/11/AirTag-150x150.png 150w" sizes="auto, (max-width: 248px) 100vw, 248px" /></figure>
+
+
+
+<p class="wp-block-paragraph">If your loved one is always losing things, Apple Air Tags are ideal for helping them find things themselves. The tags are slightly bigger than a bottle top and you can get a range of accessories for attaching them to items from keys to boxes.</p>
+
+
+
+<p class="wp-block-paragraph">This small device works on iPhone 7 and above, but to get the magic you need an iPhone 11 or above. The AirTags can be pinpointed precisely with the new iPhone’s Ultra-Wide Band chip, therefore making them ideal for the visually impaired. Please note that the iPhone SE 2022 and iPhone 16e does not support Ultra-Wide Band and Air Tag Precise locating features.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Apple AirTags - Blind Unboxing, Setup, and Precision Finding Demo!" width="760" height="428" src="https://www.youtube.com/embed/9pCTe0Ks-G8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption class="wp-element-caption">James Rath demonstrates Apple Air Tags from a Visually Impaired perspective.</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.amazon.co.uk/Apple-backpack-Replaceable-battery-Water-resistant/dp/B0935DN1BN?crid=V9ZN5X6MF76H&amp;dib=eyJ2IjoiMSJ9.dhT3vm1OfynUPvA2HJjNbjGDQS3ITxLtEc7QOHM_L6cf3CBY1W6RI4OW5GbR45KK6K_8mxndIF0UBiBgbVA2EnDTKVgJrIVdtA8sUJsqHko1f5l_7QKiYws1rq039x1jj6zc1mlZxv5x7RYOej4GnFtAkHA1f4KrK5r5ZmeL7KvMRuKILwTm77IO7KNG9KZ14GWOSIlxnOmg02FPCv2H2AML0saJUaLpzgXSEBsSbCA.-PyNNH-CsumXJHlI_1y0K1N0sSRaFlm-Nr3R3cymi_M&amp;dib_tag=se&amp;keywords=airtag&amp;nsdOptOutParam=true&amp;qid=1731444941&amp;sprefix=airtag%2Caps%2C130&amp;sr=8-1&amp;th=1&amp;linkCode=ll1&amp;tag=timdixon03-21&amp;linkId=12143426c86bbd8f14e6a1f2bddff249&amp;language=en_GB&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener sponsored nofollow">Buy an Apple AirTag on Amazon (Affiliate Link)</a></p>
+
+
+
+<h3 class="wp-block-heading">Gifts less than £25</h3>
+
+
+
+<h4 class="wp-block-heading">Pot Watcher &#8211; ~£20</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1022" src="https://www.timdixon.net/wp-content/uploads/2024/11/Pot-Watcher-1024x1022.jpg" alt="A ceramic cream coloured coin shaped pot watcher. The coin rattles when in boiling water." class="wp-image-1307" srcset="https://www.timdixon.net/wp-content/uploads/2024/11/Pot-Watcher-1024x1022.jpg 1024w, https://www.timdixon.net/wp-content/uploads/2024/11/Pot-Watcher-300x300.jpg 300w, https://www.timdixon.net/wp-content/uploads/2024/11/Pot-Watcher-150x150.jpg 150w, https://www.timdixon.net/wp-content/uploads/2024/11/Pot-Watcher-768x767.jpg 768w, https://www.timdixon.net/wp-content/uploads/2024/11/Pot-Watcher.jpg 1136w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Cooking often involves knowing when a pot is boiling and stopping it boil over, the pot watcher is a ceramic coin that is placed in the pot with the water or food, it will rattle when the liquid begins to boil helping to keep you safe.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.amazon.co.uk/JBK-Pottery-Ceramic-Pot-Watcher/dp/B000XPTFIK?crid=28M8VK6K7HIEY&amp;dib=eyJ2IjoiMSJ9.UAhjqtokMbnUXAMAGeg79KSZCOGD9w6yHqaGMf0dQQ0U59IeiroXOjdXCGvJvyQ98jXV1IuROTRtX14QWfCgk_g6qMw0DKbKBX33YJYCbaSxr8gY70ATyyZhXLMox9maL1oL-oPAIhOxCFzww8Dfg4b6TMolhewYRmqpTGOvkr2t4kHMGpbr9tWPjpndsVFeEs1FuceFHwjSgWFVXFOYRWHSYV3ENi8txTGvxgJfxayKNdFJ1Q8Gd5EmuP3UXsa_umTk990rxIXjNtljJqlevSmD8-8HaBqUKzT_Hn-SqrE.C1N-TlI3vLE-6P0_mNA4LneG5IPL4i8myAiIB3LTBpI&amp;dib_tag=se&amp;keywords=pot+boil+ceramic&amp;nsdOptOutParam=true&amp;qid=1731423913&amp;sprefix=pot+boil+ceramic%2Caps%2C91&amp;sr=8-5&amp;linkCode=ll1&amp;tag=timdixon03-21&amp;linkId=f16701ebcce4163ed047ea8a96b5cc57&amp;language=en_GB&amp;ref_=as_li_ss_tl">Buy the Pot Watcher on Amazon (Affiliate Link)</a></p>
+
+
+
+<h4 class="wp-block-heading">TableCoaster &#8211; ~£15</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="997" height="1024" src="https://www.timdixon.net/wp-content/uploads/2024/11/tablecoaster-997x1024.jpg" alt="A picture oft two black table coasters. The first in the foreground on the left contains a mug with a hot drink, the one in the background on the right contains a can." class="wp-image-1305" srcset="https://www.timdixon.net/wp-content/uploads/2024/11/tablecoaster-997x1024.jpg 997w, https://www.timdixon.net/wp-content/uploads/2024/11/tablecoaster-292x300.jpg 292w, https://www.timdixon.net/wp-content/uploads/2024/11/tablecoaster-768x789.jpg 768w, https://www.timdixon.net/wp-content/uploads/2024/11/tablecoaster-1200x1233.jpg 1200w, https://www.timdixon.net/wp-content/uploads/2024/11/tablecoaster.jpg 1460w" sizes="auto, (max-width: 997px) 100vw, 997px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Knocking drinks over is common for most people, but when you are blind or low vision, it is easier to do and more troublesome to clean up, that is where the <a href="https://www.amazon.co.uk/HIT-PRODUCTS-TableCoaster-Anti-Spill-Tip-Proof/dp/B07BJ7TWQQ?pd_rd_w=yMt60&amp;content-id=amzn1.sym.d63274d0-bf52-45e7-ae69-2bcf85c5865c%3Aamzn1.symc.ca948091-a64d-450e-86d7-c161ca33337b&amp;pf_rd_p=d63274d0-bf52-45e7-ae69-2bcf85c5865c&amp;pf_rd_r=6QXD2PZ5PT3CEE18FSWR&amp;pd_rd_wg=WNnJC&amp;pd_rd_r=4a919d16-89ff-4cf2-9e13-7488379a09f1&amp;pd_rd_i=B07BJ7TWQQ&amp;th=1&amp;linkCode=ll1&amp;tag=timdixon03-21&amp;linkId=3dd089c5f328f3568222eb6a3a0cbfab&amp;language=en_GB&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener sponsored nofollow">TableCoaster</a> comes in. The TableCoaster is a tall sided coaster that you can insert your cup on can into, it has a tacky bases that sticks the coaster to the table top. I have two of these and love them, no more searching for where I put my drink, and reassurance that I will not knock the drink over.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.amazon.co.uk/HIT-PRODUCTS-TableCoaster-Anti-Spill-Tip-Proof/dp/B07BJ7TWQQ?pd_rd_w=yMt60&amp;content-id=amzn1.sym.d63274d0-bf52-45e7-ae69-2bcf85c5865c%3Aamzn1.symc.ca948091-a64d-450e-86d7-c161ca33337b&amp;pf_rd_p=d63274d0-bf52-45e7-ae69-2bcf85c5865c&amp;pf_rd_r=6QXD2PZ5PT3CEE18FSWR&amp;pd_rd_wg=WNnJC&amp;pd_rd_r=4a919d16-89ff-4cf2-9e13-7488379a09f1&amp;pd_rd_i=B07BJ7TWQQ&amp;th=1&amp;linkCode=ll1&amp;tag=timdixon03-21&amp;linkId=3dd089c5f328f3568222eb6a3a0cbfab&amp;language=en_GB&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener sponsored nofollow">Buy the TableCoaster on Amazon (Affiliate Link)</a></p>
+
+
+
+<h4 class="wp-block-heading">Rubrik&#8217;s Sensory Cube &#8211; ~£15</h4>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="679" height="716" src="https://www.timdixon.net/wp-content/uploads/2025/11/Rubriks-Sensory-Cube.jpg" alt="A Rubrik's cube showing that each colour has a different tactile marking. e.g. Green has a circle and red has a square on it." class="wp-image-1526" srcset="https://www.timdixon.net/wp-content/uploads/2025/11/Rubriks-Sensory-Cube.jpg 679w, https://www.timdixon.net/wp-content/uploads/2025/11/Rubriks-Sensory-Cube-284x300.jpg 284w" sizes="auto, (max-width: 679px) 100vw, 679px" /></figure>
+
+
+
+<p class="wp-block-paragraph">The classic Rubrik&#8217;s Cube is available with tactile markings in addition to colours, making it accessible to blind and low vision problem solvers.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.amazon.co.uk/Rubiks-6065556-RubiksSensoryCube3x3/dp/B0BWFRVRJY?&amp;linkCode=ll1&amp;tag=timdixon03-21&amp;linkId=d39dfc09e114e412485f641652453735&amp;language=en_GB&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener sponsored nofollow">Buy Rubrik&#8217;s Sensory Cube from Amacon (Affiliate Link)</a></p>
+
+
+
+<h4 class="wp-block-heading">Phone Lanyard &#8211; ~£10</h4>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="629" height="1024" src="https://www.timdixon.net/wp-content/uploads/2025/11/Lanyard-629x1024.jpg" alt="Orange lanyard connected to an iPhonee with black clips. Additional black clips for glasses or another device are position further up the lanyard. A tag to place in the iPhone case with a tab to stick out through the charging port hole. the tab has a hole in it for the lanyward to connect to." class="wp-image-1525" srcset="https://www.timdixon.net/wp-content/uploads/2025/11/Lanyard-629x1024.jpg 629w, https://www.timdixon.net/wp-content/uploads/2025/11/Lanyard-184x300.jpg 184w, https://www.timdixon.net/wp-content/uploads/2025/11/Lanyard.jpg 679w" sizes="auto, (max-width: 629px) 100vw, 629px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Using a phone while trying to use a white cane can be challenging, that&#8217;s where a lanyard can help. I purchased a lanyard from Amazon and use it with my iPhone 17 Pro Max and Hable One. The lanyard is long, so I put a knot in the lanyard to shorten it.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.amazon.co.uk/dp/B0CX4K5BL2?th=1&amp;linkCode=ll1&amp;tag=timdixon03-21&amp;linkId=17e18fa5d49d9ff114dd3a50d40f83df&amp;language=en_GB&amp;ref_=as_li_ss_tl" target="_blank" rel="noreferrer noopener sponsored nofollow">Buy the Phone Lanyard on Amazon (Affiliate Link)</a></p>
+
+
+
+<h4 class="wp-block-heading">Abutech Grippit Cane Holder- ~£7</h4>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="800" src="https://www.timdixon.net/wp-content/uploads/2024/11/rsz_7017c07c75eb49959418b89055a625d7.webp" alt="Abutech Grippit Cane Holder. A black plastic box shape with a U channel that has a rubber gripper that folds into the U channel to secure the cane." class="wp-image-1320" srcset="https://www.timdixon.net/wp-content/uploads/2024/11/rsz_7017c07c75eb49959418b89055a625d7.webp 800w, https://www.timdixon.net/wp-content/uploads/2024/11/rsz_7017c07c75eb49959418b89055a625d7-300x300.webp 300w, https://www.timdixon.net/wp-content/uploads/2024/11/rsz_7017c07c75eb49959418b89055a625d7-150x150.webp 150w, https://www.timdixon.net/wp-content/uploads/2024/11/rsz_7017c07c75eb49959418b89055a625d7-768x768.webp 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></figure>
+
+
+
+<p class="wp-block-paragraph">White canes can often have a mind of there own, especially when stored at home, from unfolding to falling across the hall. The Abutech Grippit cane holder helps tames a cane, securing it to a wall of cupboard ensuring it is ready for next use.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://shop.rnib.org.uk/ambutech-grippit-cane-holder-94453">Buy the Abutech Grippit Cane Holder from RNIB</a></p>
+
+
+
+<h4 class="wp-block-heading">Loc Dots &#8211; ~£4</h4>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="800" src="https://www.timdixon.net/wp-content/uploads/2024/11/locdots.webp" alt="A loc dot stuck to the letter F of a black keyboard. The Loc Dot is a small clear round sticker dot." class="wp-image-1322" srcset="https://www.timdixon.net/wp-content/uploads/2024/11/locdots.webp 800w, https://www.timdixon.net/wp-content/uploads/2024/11/locdots-300x300.webp 300w, https://www.timdixon.net/wp-content/uploads/2024/11/locdots-150x150.webp 150w, https://www.timdixon.net/wp-content/uploads/2024/11/locdots-768x768.webp 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Loc-Dots are the ideal stocking filler at under £5 per pack of 6 in clear or orange. They are small, raised stickers that can be applied to computer keyboards, TV remotes, heating controls or even on keys to help identify the key you need. I personally use them to mark the capslock key on my keyboard, identify the front door key and to identify the power button on my CPAP machine by touch</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://shop.rnib.org.uk/loc-dots-89875" target="_blank" rel="noreferrer noopener">Buy Loc-Dots from RNIB</a></p>
+
+
+
+<h2 class="wp-block-heading">Concluding the Blind and Low Vision Gift Guide</h2>
+
+
+
+<p class="wp-block-paragraph">That completes my blind and low vision gift guide, I would love to hear your ideas and add them to the list for others.</p>
+
+
+
+<p class="wp-block-paragraph">Tell me what you think in the comments below or on X @timdixon82</p>
+<p>The post <a href="https://www.timdixon.net/blog/2025/11/blind-and-low-vision-gift-guide-fall-2025/">Blind and Low Vision Gift Guide &#8211; Fall 2025</a> appeared first on <a href="https://www.timdixon.net">TIM DIXON</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.timdixon.net/blog/2025/11/blind-and-low-vision-gift-guide-fall-2025/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1521</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/?utm_source=w3tc&utm_medium=footer_comment&utm_campaign=free_plugin
+
+Page Caching using Disk: Enhanced 
+Lazy Loading (feed)
+Minified using Disk
+Database Caching using Disk (Request-wide modification query)
+
+Served from: www.timdixon.net @ 2026-09-16 11:45:31 by W3 Total Cache
+-->

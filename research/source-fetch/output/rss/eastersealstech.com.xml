@@ -1,0 +1,1724 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
+>
+
+<channel>
+	<title>Assistive Technology at Easter Seals Crossroads</title>
+	<atom:link href="https://www.eastersealstech.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.eastersealstech.com</link>
+	<description>Indiana&#039;s leader in assistive technology and the home of the INDATA Project</description>
+	<lastBuildDate>Tue, 15 Sep 2026 19:35:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1</generator>
+
+<image>
+	<url>https://www.eastersealstech.com/wp-content/uploads/2020/05/grab126-150x150.jpg</url>
+	<title>Assistive Technology at Easter Seals Crossroads</title>
+	<link>https://www.eastersealstech.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+	<itunes:author>Assistive Technology at Easter Seals Crossroads</itunes:author>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:image href="https://www.eastersealstech.com/wp-content/uploads/2018/09/ATFAQ.jpg" />
+	<itunes:type>episodic</itunes:type>
+	<itunes:owner>
+		<itunes:name>Assistive Technology at Easter Seals Crossroads</itunes:name>
+		<itunes:email>wwingler@eastersealscrossroads.org</itunes:email>
+	</itunes:owner>
+	<podcast:medium>podcast</podcast:medium>
+	<image>
+		<title>Assistive Technology at Easter Seals Crossroads</title>
+		<url>https://www.eastersealstech.com/wp-content/uploads/2018/09/ATFAQ.jpg</url>
+		<link>https://www.eastersealstech.com/blog/</link>
+	</image>
+	<itunes:category text="News">
+		<itunes:category text="Tech News" />
+	</itunes:category>
+	<podcast:podping usesPodping="true" />
+<site xmlns="com-wordpress:feed-additions:1">37701431</site>	<item>
+		<title>Lumin: A Friendly Voice to Guide Your Way</title>
+		<link>https://www.eastersealstech.com/2026/09/15/lumin-a-friendly-voice-to-guide-your-way/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=lumin-a-friendly-voice-to-guide-your-way</link>
+					<comments>https://www.eastersealstech.com/2026/09/15/lumin-a-friendly-voice-to-guide-your-way/#respond</comments>
+		
+		<dc:creator><![CDATA[ColesStaff]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 13:08:28 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Independent Living]]></category>
+		<category><![CDATA[2026]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[apps]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[Assistive Technology Update]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[gmail]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indiana]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Low Vision]]></category>
+		<category><![CDATA[lumin]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[Sriram Ganesh]]></category>
+		<category><![CDATA[voice assistant]]></category>
+		<category><![CDATA[voice tools]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=123047</guid>
+
+					<description><![CDATA[When Lumin Co-Founder and CEO Sriram Ganesh began losing his central vision, “email became impossible.” While he admired screen readers, voice tools felt more natural — like an office assistant relaying messages and helping him respond. Lumin is currently an iPhone app with Gmail compatibility. Powered by AI, Lumin is a voice assistant that speaks [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/09/15/lumin-a-friendly-voice-to-guide-your-way/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">123047</post-id>	</item>
+		<item>
+		<title>Monday Tech Tip: Optaro XL</title>
+		<link>https://www.eastersealstech.com/2026/09/14/monday-tech-tip-optaro-xl/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=monday-tech-tip-optaro-xl</link>
+					<comments>https://www.eastersealstech.com/2026/09/14/monday-tech-tip-optaro-xl/#respond</comments>
+		
+		<dc:creator><![CDATA[Nikol Prieto]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2026 14:00:27 +0000</pubDate>
+				<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[2026 ATIA Conference]]></category>
+		<category><![CDATA[digital maginifier]]></category>
+		<category><![CDATA[Eschenbach Optic of America]]></category>
+		<category><![CDATA[low vision assistive technology]]></category>
+		<category><![CDATA[Optaro XL]]></category>
+		<category><![CDATA[Timothy Gels]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=123037</guid>
+
+					<description><![CDATA[During the 2026 ATIA Conference, Timothy Gels, Director of Marketing at Eschenbach Optik of America showed us the Optaro XL, which is low-vision electronic video magnifier that uses an iPad as its screen. Check it out here: Click here to learn more about Optaro XL.]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/09/14/monday-tech-tip-optaro-xl/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">123037</post-id>	</item>
+		<item>
+		<title>ATU798 &#8211; Fluent with Jason Suhari</title>
+		<link>https://www.eastersealstech.com/2026/09/11/atu798-fluent-with-jason-suhari/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=atu798-fluent-with-jason-suhari</link>
+					<comments>https://www.eastersealstech.com/2026/09/11/atu798-fluent-with-jason-suhari/#respond</comments>
+		
+		<dc:creator><![CDATA[Josh Anderson]]></dc:creator>
+		<pubDate>Fri, 11 Sep 2026 04:45:31 +0000</pubDate>
+				<category><![CDATA[Assistive Technology Update]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[access]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[accessible]]></category>
+		<category><![CDATA[adaptive]]></category>
+		<category><![CDATA[anderson]]></category>
+		<category><![CDATA[assistive]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[crossroads]]></category>
+		<category><![CDATA[disability]]></category>
+		<category><![CDATA[easter]]></category>
+		<category><![CDATA[fluent]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indianapolis]]></category>
+		<category><![CDATA[jason suhari]]></category>
+		<category><![CDATA[josh]]></category>
+		<category><![CDATA[seals]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[voice control]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122990</guid>
+
+					<description><![CDATA[Your weekly dose of information that keeps you up to date on the latest developments in the field of technology designed to assist people with disabilities and special needs. Special Guest: Jason Suhari &#8211; Founder &#8211; Fluent Website: fluentforall.com Stories: BBC &#8211; Smart Home Tech Story: https://bbc.in/45ZKOuh Sign Language Translation Story: https://bit.ly/4h0SWki Learn more about [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/09/11/atu798-fluent-with-jason-suhari/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+				<enclosure url="https://traffic.libsyn.com/atupdate/ATU091126.mp3" length="39134234" type="audio/mpeg" />
+
+				<itunes:image href="https://www.eastersealstech.com/wp-content/uploads/2018/09/ATFAQ.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>27:06</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">122990</post-id>	</item>
+		<item>
+		<title>An Easy-Bake Oven for Adults</title>
+		<link>https://www.eastersealstech.com/2026/09/09/an-easy-bake-oven-for-adults/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=an-easy-bake-oven-for-adults</link>
+					<comments>https://www.eastersealstech.com/2026/09/09/an-easy-bake-oven-for-adults/#comments</comments>
+		
+		<dc:creator><![CDATA[ColesStaff]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2026 13:23:35 +0000</pubDate>
+				<category><![CDATA[Products and Devices]]></category>
+		<category><![CDATA[2026]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[Assistive Technology Update]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[cooking]]></category>
+		<category><![CDATA[David Rabie]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indiana]]></category>
+		<category><![CDATA[meal kit]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[QR code]]></category>
+		<category><![CDATA[smart oven]]></category>
+		<category><![CDATA[Tovala]]></category>
+		<category><![CDATA[vision impairment]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=123028</guid>
+
+					<description><![CDATA[When David Rabie started developing the idea for the Tovala Smart Oven, he didn’t expect it to make such an impact on people with disabilities. He was just a busy grad student trying to cook a quick dinner without depending on fast food. “I thought, ‘There’s got to be a way to get a home-cooked [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/09/09/an-easy-bake-oven-for-adults/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">123028</post-id>	</item>
+		<item>
+		<title>Monday Tech Tip: Glint</title>
+		<link>https://www.eastersealstech.com/2026/09/07/monday-tech-tip-glint/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=monday-tech-tip-glint</link>
+					<comments>https://www.eastersealstech.com/2026/09/07/monday-tech-tip-glint/#respond</comments>
+		
+		<dc:creator><![CDATA[Nikol Prieto]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2026 14:00:20 +0000</pubDate>
+				<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[AI visual support tool]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[assistive technology for learning difficulties]]></category>
+		<category><![CDATA[Brian Norton]]></category>
+		<category><![CDATA[Dylan Makani]]></category>
+		<category><![CDATA[Easterseals Crossroads]]></category>
+		<category><![CDATA[glint]]></category>
+		<category><![CDATA[josh anderson]]></category>
+		<category><![CDATA[monday tech tips]]></category>
+		<category><![CDATA[Ner Chat]]></category>
+		<category><![CDATA[The INDATA Project Tech tips]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=123006</guid>
+
+					<description><![CDATA[During the 2025 ATIA Conference, Dylan Makani showed us Glint, which is an AI-powered visual-support tool designed primarily for educators, special education teachers, SLPs, therapists, and families. Glint can help people with autism, intellectual and developmental disabilities, communication disabilities, ADHD, learning disabilities, brain injuries, and others who benefit from visual supports, routines, and alternative communication. [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/09/07/monday-tech-tip-glint/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">123006</post-id>	</item>
+		<item>
+		<title>ATU797 &#8211; TPA Hearing Trust with Bob Schapp</title>
+		<link>https://www.eastersealstech.com/2026/09/04/atu797-tpa-hearing-trust-with-bob-schapp/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=atu797-tpa-hearing-trust-with-bob-schapp</link>
+					<comments>https://www.eastersealstech.com/2026/09/04/atu797-tpa-hearing-trust-with-bob-schapp/#respond</comments>
+		
+		<dc:creator><![CDATA[Josh Anderson]]></dc:creator>
+		<pubDate>Fri, 04 Sep 2026 04:45:07 +0000</pubDate>
+				<category><![CDATA[Assistive Technology Update]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[access]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[accessible]]></category>
+		<category><![CDATA[adaptive]]></category>
+		<category><![CDATA[anderson]]></category>
+		<category><![CDATA[assistive]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[crossroads]]></category>
+		<category><![CDATA[disability]]></category>
+		<category><![CDATA[easter]]></category>
+		<category><![CDATA[hearing]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indianapolis]]></category>
+		<category><![CDATA[josh]]></category>
+		<category><![CDATA[seals]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[tpa hearing trust]]></category>
+		<category><![CDATA[trust]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122916</guid>
+
+					<description><![CDATA[Your weekly dose of information that keeps you up to date on the latest developments in the field of technology designed to assist people with disabilities and special needs. &#160; Special Guest: Bob Schapp &#8211; Chief Administrative Officer &#8211; TPA Hearing Trust Website: tpahq.org Learn more about Bridging Apps at www.bridgingapps.org —————————— If you have [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/09/04/atu797-tpa-hearing-trust-with-bob-schapp/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+				<enclosure url="https://traffic.libsyn.com/atupdate/ATU090426.mp3" length="39134106" type="audio/mpeg" />
+
+				<itunes:image href="https://www.eastersealstech.com/wp-content/uploads/2018/09/ATFAQ.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>27:06</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">122916</post-id>	</item>
+		<item>
+		<title>Finding Freedom with a Sip and Puff</title>
+		<link>https://www.eastersealstech.com/2026/09/03/finding-freedom-with-a-sip-and-puff/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=finding-freedom-with-a-sip-and-puff</link>
+					<comments>https://www.eastersealstech.com/2026/09/03/finding-freedom-with-a-sip-and-puff/#respond</comments>
+		
+		<dc:creator><![CDATA[ColesStaff]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2026 14:35:31 +0000</pubDate>
+				<category><![CDATA[Products and Devices]]></category>
+		<category><![CDATA[2026]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[communication]]></category>
+		<category><![CDATA[IntegraMouse Air]]></category>
+		<category><![CDATA[IntegraTools]]></category>
+		<category><![CDATA[Isabel Karlhuber]]></category>
+		<category><![CDATA[limited mobility]]></category>
+		<category><![CDATA[Mario Marusic]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[sip and puff]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=123003</guid>
+
+					<description><![CDATA[When Mario Marusic lost function in all four limbs after an accident, he thought his DJ career was over, to say the least. “With the IntegraMouse AIR, I got my freedom back — and my music,” he said. This device allows users to control their computers entirely with their mouths — sipping to left-click, puffing [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/09/03/finding-freedom-with-a-sip-and-puff/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">123003</post-id>	</item>
+		<item>
+		<title>Simeon Sound System Transforms the Classroom</title>
+		<link>https://www.eastersealstech.com/2026/09/02/simeon-sound-system-transforms-the-classroom/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=simeon-sound-system-transforms-the-classroom</link>
+					<comments>https://www.eastersealstech.com/2026/09/02/simeon-sound-system-transforms-the-classroom/#comments</comments>
+		
+		<dc:creator><![CDATA[ColesStaff]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2026 18:17:38 +0000</pubDate>
+				<category><![CDATA[Hearing]]></category>
+		<category><![CDATA[Products and Devices]]></category>
+		<category><![CDATA[2026]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[audio]]></category>
+		<category><![CDATA[Audita]]></category>
+		<category><![CDATA[auracast]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[classroom]]></category>
+		<category><![CDATA[cochlear implant]]></category>
+		<category><![CDATA[hearing]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[school]]></category>
+		<category><![CDATA[simeon]]></category>
+		<category><![CDATA[Speaker]]></category>
+		<category><![CDATA[Tech Tip]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122996</guid>
+
+					<description><![CDATA[The Simeon Audita III seems poised to transform communication in the classroom. It’s the first sound system in the country to use Auracast™ technology — streaming directly to Auracast-enabled hearing aids, cochlear implants and other assistive listening devices. The system includes a speaker and three color-coded pass-around microphones. It’s compact and portable — no heavier [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/09/02/simeon-sound-system-transforms-the-classroom/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122996</post-id>	</item>
+		<item>
+		<title>ATFAQ206: Q1: Adaptive Fishing, Q2: Sensory Processing Challenges, Q3: Limited hand strength for writing, cutting and opening, Q4. Low Vision at School, Q5: Wildcard: What is the most creative use of assistive tech that you’ve seen?</title>
+		<link>https://www.eastersealstech.com/2026/08/31/atfaq207-q1-built-in-accessibility-features-q2-tech-for-virtual-meetings-q3-deciding-between-a-screen-magnifier-or-screen-reader-q4-when-should-i-consider-assistive-technology-q5-wildcard/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=atfaq207-q1-built-in-accessibility-features-q2-tech-for-virtual-meetings-q3-deciding-between-a-screen-magnifier-or-screen-reader-q4-when-should-i-consider-assistive-technology-q5-wildcard</link>
+					<comments>https://www.eastersealstech.com/2026/08/31/atfaq207-q1-built-in-accessibility-features-q2-tech-for-virtual-meetings-q3-deciding-between-a-screen-magnifier-or-screen-reader-q4-when-should-i-consider-assistive-technology-q5-wildcard/#respond</comments>
+		
+		<dc:creator><![CDATA[Brian Norton]]></dc:creator>
+		<pubDate>Mon, 31 Aug 2026 14:05:04 +0000</pubDate>
+				<category><![CDATA[Assistive Technology FAQ (ATFAQ) Podcast]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[accommodations]]></category>
+		<category><![CDATA[atfaq]]></category>
+		<category><![CDATA[back to school]]></category>
+		<category><![CDATA[belva smith]]></category>
+		<category><![CDATA[Brian Norton]]></category>
+		<category><![CDATA[features]]></category>
+		<category><![CDATA[josh anderson]]></category>
+		<category><![CDATA[magnifier]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Screenreader]]></category>
+		<category><![CDATA[virtual]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122982</guid>
+
+					<description><![CDATA[Panelists: Brian Norton, Josh Anderson and Belva Smith ATFAQ206: Q1: Adaptive Fishing, Q2: Sensory Processing Challenges, Q3: Limited hand strength for writing, cutting and opening, Q4. Low Vision at School, Q5: Wildcard: What is the most creative use of assistive tech that you’ve seen?]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/08/31/atfaq207-q1-built-in-accessibility-features-q2-tech-for-virtual-meetings-q3-deciding-between-a-screen-magnifier-or-screen-reader-q4-when-should-i-consider-assistive-technology-q5-wildcard/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+				<enclosure url="https://traffic.libsyn.com/atfaq/ATFAQ206.mp3" length="71618162" type="audio/mpeg" />
+
+				<itunes:image href="https://www.eastersealstech.com/wp-content/uploads/2018/09/ATFAQ.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>48:22</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">122982</post-id>	</item>
+		<item>
+		<title>ATU796 &#8211; Minds Eye with Magan Harms</title>
+		<link>https://www.eastersealstech.com/2026/08/28/atu796-minds-eye-with-magan-harms/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=atu796-minds-eye-with-magan-harms</link>
+					<comments>https://www.eastersealstech.com/2026/08/28/atu796-minds-eye-with-magan-harms/#comments</comments>
+		
+		<dc:creator><![CDATA[Josh Anderson]]></dc:creator>
+		<pubDate>Fri, 28 Aug 2026 04:45:28 +0000</pubDate>
+				<category><![CDATA[Assistive Technology Update]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[access]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[accessible]]></category>
+		<category><![CDATA[adaptive]]></category>
+		<category><![CDATA[anderson]]></category>
+		<category><![CDATA[assistive]]></category>
+		<category><![CDATA[audio description]]></category>
+		<category><![CDATA[Blind]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[crossroads]]></category>
+		<category><![CDATA[disability]]></category>
+		<category><![CDATA[easter]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indianapolis]]></category>
+		<category><![CDATA[josh]]></category>
+		<category><![CDATA[Low Vision]]></category>
+		<category><![CDATA[minds eye]]></category>
+		<category><![CDATA[seals]]></category>
+		<category><![CDATA[sports]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122914</guid>
+
+					<description><![CDATA[Your weekly dose of information that keeps you up to date on the latest developments in the field of technology designed to assist people with disabilities and special needs. &#160; Special Guest: Magan Harms &#8211; Director of Audio Description and ADA Coordinator &#8211; Minds Eye Website: www.mindseyeradio.org Email: ad@mindseyeradio.org —————————— If you have an AT [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/08/28/atu796-minds-eye-with-magan-harms/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+				<enclosure url="https://traffic.libsyn.com/atupdate/ATU082826.mp3" length="39134106" type="audio/mpeg" />
+
+				<itunes:image href="https://www.eastersealstech.com/wp-content/uploads/2018/09/ATFAQ.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>27:06</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">122914</post-id>	</item>
+		<item>
+		<title>Visual Acuity via Accident</title>
+		<link>https://www.eastersealstech.com/2026/08/25/visual-acuity-via-accident/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=visual-acuity-via-accident</link>
+					<comments>https://www.eastersealstech.com/2026/08/25/visual-acuity-via-accident/#respond</comments>
+		
+		<dc:creator><![CDATA[ColesStaff]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2026 14:42:01 +0000</pubDate>
+				<category><![CDATA[Products and Devices]]></category>
+		<category><![CDATA[2026]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[Easterseals Crossroads]]></category>
+		<category><![CDATA[glasses]]></category>
+		<category><![CDATA[INDATA Monday Tech Tip videos]]></category>
+		<category><![CDATA[Karst Hoogsteen]]></category>
+		<category><![CDATA[Luna Glasses]]></category>
+		<category><![CDATA[night blindness]]></category>
+		<category><![CDATA[retinitis pigmentosa]]></category>
+		<category><![CDATA[vision impairment]]></category>
+		<category><![CDATA[wearables]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122964</guid>
+
+					<description><![CDATA[Luna Glass started by accident. When Founder Karst Hoogsteen was cycling across the Harvard Medical School campus one day, he rode right into a ditch because he couldn’t visually distinguish it from the shadows ahead. As he was standing in the mud, Hoogsteen decided to devote his career to developing glasses for other people with [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/08/25/visual-acuity-via-accident/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122964</post-id>	</item>
+		<item>
+		<title>Monday Tech Tip: IntegraMouse AIR</title>
+		<link>https://www.eastersealstech.com/2026/08/24/monday-tech-tip-integramouse-air/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=monday-tech-tip-integramouse-air</link>
+					<comments>https://www.eastersealstech.com/2026/08/24/monday-tech-tip-integramouse-air/#comments</comments>
+		
+		<dc:creator><![CDATA[Nikol Prieto]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2026 15:01:56 +0000</pubDate>
+				<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[Brian Norton]]></category>
+		<category><![CDATA[computer access for mobility impairments]]></category>
+		<category><![CDATA[Easterseals Crossroads]]></category>
+		<category><![CDATA[IntegraTools]]></category>
+		<category><![CDATA[Isabel Karlhuber]]></category>
+		<category><![CDATA[josh anderson]]></category>
+		<category><![CDATA[monday tech tips]]></category>
+		<category><![CDATA[sip and puff]]></category>
+		<category><![CDATA[The INDATA Project Tech tips]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122956</guid>
+
+					<description><![CDATA[During the 2026 ATIA Conference, Isabel Karlhuber, CEO, at IntegraTools showed us the IntegraMouse Air, which is a sip and puff device that allows you to have hands free control of your computer by lightly sipping or puffing into the mouthpiece to perform mouse clicks and other commands. Check it out here: Click here to [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/08/24/monday-tech-tip-integramouse-air/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122956</post-id>	</item>
+		<item>
+		<title>ATU795 &#8211; Tovala Smart Oven with David Rabie</title>
+		<link>https://www.eastersealstech.com/2026/08/21/atu795_tovala_smart_oven_davidrabie/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=atu795_tovala_smart_oven_davidrabie</link>
+					<comments>https://www.eastersealstech.com/2026/08/21/atu795_tovala_smart_oven_davidrabie/#comments</comments>
+		
+		<dc:creator><![CDATA[Josh Anderson]]></dc:creator>
+		<pubDate>Fri, 21 Aug 2026 04:45:52 +0000</pubDate>
+				<category><![CDATA[Assistive Technology Update]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[access]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[accessible]]></category>
+		<category><![CDATA[adaptive]]></category>
+		<category><![CDATA[anderson]]></category>
+		<category><![CDATA[assistive]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[cooking]]></category>
+		<category><![CDATA[crossroads]]></category>
+		<category><![CDATA[disability]]></category>
+		<category><![CDATA[easter]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indianapolis]]></category>
+		<category><![CDATA[josh]]></category>
+		<category><![CDATA[seals]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[Tovala]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122910</guid>
+
+					<description><![CDATA[Your weekly dose of information that keeps you up to date on the latest developments in the field of technology designed to assist people with disabilities and special needs. &#160; Special Guest: David Rabie &#8211; Founder and CEO &#8211; Tovala www.tovala.com Use Code ATUPDATE at checkout to get a $99 Pro Smart Oven (usually $349) [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/08/21/atu795_tovala_smart_oven_davidrabie/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+				<enclosure url="https://traffic.libsyn.com/atupdate/ATU082126.mp3" length="39134490" type="audio/mpeg" />
+
+				<itunes:image href="https://www.eastersealstech.com/wp-content/uploads/2018/09/ATFAQ.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>27:06</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">122910</post-id>	</item>
+		<item>
+		<title>Accessories for Accessibility</title>
+		<link>https://www.eastersealstech.com/2026/08/19/accessories-for-accessibility/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=accessories-for-accessibility</link>
+					<comments>https://www.eastersealstech.com/2026/08/19/accessories-for-accessibility/#comments</comments>
+		
+		<dc:creator><![CDATA[ColesStaff]]></dc:creator>
+		<pubDate>Wed, 19 Aug 2026 15:32:17 +0000</pubDate>
+				<category><![CDATA[Full Day Assistive Technology Training]]></category>
+		<category><![CDATA[2026]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[Be My Eyes]]></category>
+		<category><![CDATA[Blake Allee]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[Bob Butler]]></category>
+		<category><![CDATA[dhaval patel]]></category>
+		<category><![CDATA[DOT Watch]]></category>
+		<category><![CDATA[Easterseals Crossroads]]></category>
+		<category><![CDATA[eSight]]></category>
+		<category><![CDATA[Full Day Training]]></category>
+		<category><![CDATA[Indiana]]></category>
+		<category><![CDATA[josh anderson]]></category>
+		<category><![CDATA[lotus ring]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[Ray-Ban Smart Glasses]]></category>
+		<category><![CDATA[Vision Buddy]]></category>
+		<category><![CDATA[wearables]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122941</guid>
+
+					<description><![CDATA[Attendees of INDATA’s next full-day training session are in for a treat, as it will be something of a fashion show. From rings and watches to eyeglasses and more, the INDATA team and its guest presenters will demonstrate wearable accessories that make the world more accessible to people with disabilities. “Wearable assistive technology dates all [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/08/19/accessories-for-accessibility/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122941</post-id>	</item>
+		<item>
+		<title>Monday Tech Tip: Auracast</title>
+		<link>https://www.eastersealstech.com/2026/08/17/monday-tech-tip-auracast/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=monday-tech-tip-auracast</link>
+					<comments>https://www.eastersealstech.com/2026/08/17/monday-tech-tip-auracast/#respond</comments>
+		
+		<dc:creator><![CDATA[Nikol Prieto]]></dc:creator>
+		<pubDate>Mon, 17 Aug 2026 23:49:16 +0000</pubDate>
+				<category><![CDATA[Tech Tips]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122936</guid>
+
+					<description><![CDATA[During the 2026 ATIA Conference, Jason Rude from Simeon showed us the Auracast, which is a Simeon provides classroom hearing assistance technology that helps students hear teachers and classmates more clearly. Their systems include classroom sound field systems and voice amplifiers, including technology that can connect directly to hearing aids and cochlear implants. Check it [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/08/17/monday-tech-tip-auracast/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122936</post-id>	</item>
+		<item>
+		<title>ATU794 &#8211; AssisT with Mark Jones</title>
+		<link>https://www.eastersealstech.com/2026/08/14/atu794-assist-with-mark-jones/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=atu794-assist-with-mark-jones</link>
+					<comments>https://www.eastersealstech.com/2026/08/14/atu794-assist-with-mark-jones/#comments</comments>
+		
+		<dc:creator><![CDATA[Josh Anderson]]></dc:creator>
+		<pubDate>Fri, 14 Aug 2026 04:45:21 +0000</pubDate>
+				<category><![CDATA[Assistive Technology Update]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[access]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[accessible]]></category>
+		<category><![CDATA[adaptive]]></category>
+		<category><![CDATA[anderson]]></category>
+		<category><![CDATA[assist]]></category>
+		<category><![CDATA[assistive]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[crossroads]]></category>
+		<category><![CDATA[disability]]></category>
+		<category><![CDATA[easter]]></category>
+		<category><![CDATA[Fiavaion]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indianapolis]]></category>
+		<category><![CDATA[josh]]></category>
+		<category><![CDATA[Mark Jones]]></category>
+		<category><![CDATA[seals]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122896</guid>
+
+					<description><![CDATA[Your weekly dose of information that keeps you up to date on the latest developments in the field of technology designed to assist people with disabilities and special needs. &#160; Special Guest: Mark Jones &#8211; CEO and Main Developer &#8211; Fiavaion Website: https://fiavaion.com Stories: Disney AT Kiosk Story: https://bit.ly/4cmQ5PW Learn more about Bridging Apps at [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/08/14/atu794-assist-with-mark-jones/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+				<enclosure url="https://traffic.libsyn.com/atupdate/ATU081426.mp3" length="39134234" type="audio/mpeg" />
+
+				<itunes:image href="https://www.eastersealstech.com/wp-content/uploads/2018/09/ATFAQ.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>27:06</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">122896</post-id>	</item>
+		<item>
+		<title>Monday Tech Tip: Luna Glasses</title>
+		<link>https://www.eastersealstech.com/2026/08/10/monday-tech-tip-luna-glasses/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=monday-tech-tip-luna-glasses</link>
+					<comments>https://www.eastersealstech.com/2026/08/10/monday-tech-tip-luna-glasses/#respond</comments>
+		
+		<dc:creator><![CDATA[Nikol Prieto]]></dc:creator>
+		<pubDate>Mon, 10 Aug 2026 14:34:52 +0000</pubDate>
+				<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[Brian Norton]]></category>
+		<category><![CDATA[Easterseals Crossroads]]></category>
+		<category><![CDATA[glasses for low light vision issues]]></category>
+		<category><![CDATA[josh anderson]]></category>
+		<category><![CDATA[Luna Glasses]]></category>
+		<category><![CDATA[monday tech tips]]></category>
+		<category><![CDATA[The INDATA Project Tech tips]]></category>
+		<category><![CDATA[Thijs te Velde]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122905</guid>
+
+					<description><![CDATA[During the 2026 ATIA Conference, Thijs te Velde showed us the Luna Glasses, which are night-vision wearable glasses designed to help people who have difficulty seeing in low-light conditions. A camera built into the glasses captures the surrounding environment and enhances the image by increasing brightness, contrast, and color. The enhanced image is then displayed [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/08/10/monday-tech-tip-luna-glasses/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122905</post-id>	</item>
+		<item>
+		<title>ATU793 &#8211; Speaking Access Updates with Christopher Mutch</title>
+		<link>https://www.eastersealstech.com/2026/08/07/atu793-speaking-access-updates-with-christopher-mutch/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=atu793-speaking-access-updates-with-christopher-mutch</link>
+					<comments>https://www.eastersealstech.com/2026/08/07/atu793-speaking-access-updates-with-christopher-mutch/#comments</comments>
+		
+		<dc:creator><![CDATA[Josh Anderson]]></dc:creator>
+		<pubDate>Fri, 07 Aug 2026 04:45:36 +0000</pubDate>
+				<category><![CDATA[Assistive Technology Update]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[access]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[accessible]]></category>
+		<category><![CDATA[adaptive]]></category>
+		<category><![CDATA[anderson]]></category>
+		<category><![CDATA[assistive]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[crossroads]]></category>
+		<category><![CDATA[disability]]></category>
+		<category><![CDATA[easter]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indianapolis]]></category>
+		<category><![CDATA[josh]]></category>
+		<category><![CDATA[seals]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122797</guid>
+
+					<description><![CDATA[Your weekly dose of information that keeps you up to date on the latest developments in the field of technology designed to assist people with disabilities and special needs. Special Guest: Christopher Mutch &#8211; Owner and Inventor &#8211; Speaking Access https://www.speakingaccess.com INDATA Full Day Trainings Link: https://www.eastersealstech.com/our-services/fulldaytraining/ Learn more about Bridging Apps at www.bridgingapps.org —————————— [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/08/07/atu793-speaking-access-updates-with-christopher-mutch/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+				<enclosure url="https://traffic.libsyn.com/atupdate/ATU080726.mp3" length="39134234" type="audio/mpeg" />
+
+				<itunes:image href="https://www.eastersealstech.com/wp-content/uploads/2018/09/ATFAQ.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>27:06</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">122797</post-id>	</item>
+		<item>
+		<title>Accessible Parks to Visit This Week</title>
+		<link>https://www.eastersealstech.com/2026/08/05/accessible-parks-to-visit-this-week/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=accessible-parks-to-visit-this-week</link>
+					<comments>https://www.eastersealstech.com/2026/08/05/accessible-parks-to-visit-this-week/#comments</comments>
+		
+		<dc:creator><![CDATA[ColesStaff]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2026 14:22:32 +0000</pubDate>
+				<category><![CDATA[Independent Living]]></category>
+		<category><![CDATA[Wheelchairs]]></category>
+		<category><![CDATA[2026]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[Blue Heron Park]]></category>
+		<category><![CDATA[Freedom Trail Park]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indiana]]></category>
+		<category><![CDATA[Murphy Aquatic Park]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[parks]]></category>
+		<category><![CDATA[sensory]]></category>
+		<category><![CDATA[Sensory Garden]]></category>
+		<category><![CDATA[Unity Park]]></category>
+		<category><![CDATA[Westermeier Commons]]></category>
+		<category><![CDATA[wheelchair]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122889</guid>
+
+					<description><![CDATA[With the weather being warm and sunny this week, let’s take a look at a few Hoosier hot spots for outdoor fun. Unity Park at Blue Heron Park (405 Driftwood Court, Franklin 46131) With a fully rubber surface, this park’s playground offers safe, easy access right off the bat. Wide ramping systems also lead to [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/08/05/accessible-parks-to-visit-this-week/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122889</post-id>	</item>
+		<item>
+		<title>Munevo DRIVE Moves Independence Forward</title>
+		<link>https://www.eastersealstech.com/2026/08/04/munevo-drive-moves-independence-forward/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=munevo-drive-moves-independence-forward</link>
+					<comments>https://www.eastersealstech.com/2026/08/04/munevo-drive-moves-independence-forward/#respond</comments>
+		
+		<dc:creator><![CDATA[ColesStaff]]></dc:creator>
+		<pubDate>Tue, 04 Aug 2026 17:59:34 +0000</pubDate>
+				<category><![CDATA[Products and Devices]]></category>
+		<category><![CDATA[Wheelchairs]]></category>
+		<category><![CDATA[2026]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[Assistive Technology Update]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[Claudiu Hidas]]></category>
+		<category><![CDATA[head control]]></category>
+		<category><![CDATA[head tracking]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indiana]]></category>
+		<category><![CDATA[munevo]]></category>
+		<category><![CDATA[Munevo Drive]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[smart glasses]]></category>
+		<category><![CDATA[wheelchair]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122883</guid>
+
+					<description><![CDATA[For Claudiu Hidas, the founder and CEO of Munevo, the impact of creating a wheelchair head control system wasn’t evident in such accolades as his nomination for Forbes’ “30 Under 30” list. It was apparent on the face of a woman who was struggling with her previous wheelchair controls. “After three, four turns (with Munevo [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/08/04/munevo-drive-moves-independence-forward/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122883</post-id>	</item>
+		<item>
+		<title>Monday Tech Tip: Sensory Readable</title>
+		<link>https://www.eastersealstech.com/2026/08/03/monday-tech-tip-sensory-readable/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=monday-tech-tip-sensory-readable</link>
+					<comments>https://www.eastersealstech.com/2026/08/03/monday-tech-tip-sensory-readable/#respond</comments>
+		
+		<dc:creator><![CDATA[Nikol Prieto]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2026 14:53:30 +0000</pubDate>
+				<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[assistive technology for reading]]></category>
+		<category><![CDATA[Brian Norton]]></category>
+		<category><![CDATA[Easterseals Crossroads]]></category>
+		<category><![CDATA[josh anderson]]></category>
+		<category><![CDATA[Mary Wilcox]]></category>
+		<category><![CDATA[monday tech tips]]></category>
+		<category><![CDATA[Sensory App House]]></category>
+		<category><![CDATA[sensory readable]]></category>
+		<category><![CDATA[The INDATA Project Tech tips]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122875</guid>
+
+					<description><![CDATA[During the 2026 ATIA Conference, Mary Wilcox from Sensory App House showed us Sensory Readable, which is a text-to-speech software designed to help users with reading impairments or visual stress process access web pages, documents, and PDFs across Windows and Mac platforms. Check it out here: Click here to learn more about Sensory Readable.]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/08/03/monday-tech-tip-sensory-readable/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122875</post-id>	</item>
+		<item>
+		<title>ATU792 &#8211; Ability Lane with Brittany Palmer</title>
+		<link>https://www.eastersealstech.com/2026/07/31/atu792-ability-lane-with-brittany-palmer/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=atu792-ability-lane-with-brittany-palmer</link>
+					<comments>https://www.eastersealstech.com/2026/07/31/atu792-ability-lane-with-brittany-palmer/#comments</comments>
+		
+		<dc:creator><![CDATA[Josh Anderson]]></dc:creator>
+		<pubDate>Fri, 31 Jul 2026 04:45:22 +0000</pubDate>
+				<category><![CDATA[Assistive Technology Update]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[access]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[accessible]]></category>
+		<category><![CDATA[adaptive]]></category>
+		<category><![CDATA[anderson]]></category>
+		<category><![CDATA[assistive]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[crossroads]]></category>
+		<category><![CDATA[disability]]></category>
+		<category><![CDATA[easter]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indianapolis]]></category>
+		<category><![CDATA[josh]]></category>
+		<category><![CDATA[seals]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122795</guid>
+
+					<description><![CDATA[Your weekly dose of information that keeps you up to date on the latest developments in the field of technology designed to assist people with disabilities and special needs. Special Guest: Brittany Palmer &#8211; CoFounder and CEO &#8211; Ability Lane And &#8211; Managing Partner &#8211; Adaptation Ventures Website: https://abilitylane.com Screen Time Story: https://n.pr/4w39rld INDATA Full [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/07/31/atu792-ability-lane-with-brittany-palmer/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+				<enclosure url="https://traffic.libsyn.com/atupdate/ATU073126.mp3" length="39134234" type="audio/mpeg" />
+
+				<itunes:image href="https://www.eastersealstech.com/wp-content/uploads/2018/09/ATFAQ.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>27:06</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">122795</post-id>	</item>
+		<item>
+		<title>The Sensory Shoppe Celebrates Neurodivergence</title>
+		<link>https://www.eastersealstech.com/2026/07/29/the-sensory-shoppe-celebrates-neurodivergence/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-sensory-shoppe-celebrates-neurodivergence</link>
+					<comments>https://www.eastersealstech.com/2026/07/29/the-sensory-shoppe-celebrates-neurodivergence/#respond</comments>
+		
+		<dc:creator><![CDATA[ColesStaff]]></dc:creator>
+		<pubDate>Wed, 29 Jul 2026 14:21:57 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[2026]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[anxiety]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[autism]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[Carmel]]></category>
+		<category><![CDATA[Emily Hawthorne]]></category>
+		<category><![CDATA[fidgets]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indiana]]></category>
+		<category><![CDATA[neurodivergence]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[Products and Devices]]></category>
+		<category><![CDATA[The Sensory Shoppe]]></category>
+		<category><![CDATA[toys]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122865</guid>
+
+					<description><![CDATA[When Carmel, Indiana, mom Emily Hawthorne took her daughter with autism out shopping, she could often feel judgmental looks and anxiety surrounding her girl’s overstimulation. So, Hawthorne set out to build a better shopping experience for kids like her daughter and parents like herself. Open since December 2025, Hawthorne’s store, The Sensory Shoppe in Carmel, [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/07/29/the-sensory-shoppe-celebrates-neurodivergence/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122865</post-id>	</item>
+		<item>
+		<title>The Cadence Tactile Tablet: A Bold New Use of Braille</title>
+		<link>https://www.eastersealstech.com/2026/07/28/the-cadence-tactile-tablet-a-bold-new-use-of-braille/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-cadence-tactile-tablet-a-bold-new-use-of-braille</link>
+					<comments>https://www.eastersealstech.com/2026/07/28/the-cadence-tactile-tablet-a-bold-new-use-of-braille/#comments</comments>
+		
+		<dc:creator><![CDATA[ColesStaff]]></dc:creator>
+		<pubDate>Tue, 28 Jul 2026 13:59:23 +0000</pubDate>
+				<category><![CDATA[Organizations]]></category>
+		<category><![CDATA[Products and Devices]]></category>
+		<category><![CDATA[2026]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[Blind]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[Braille]]></category>
+		<category><![CDATA[Cadence]]></category>
+		<category><![CDATA[Cadence Tactile Tablet]]></category>
+		<category><![CDATA[David Schleppenbach]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[INDATA Monday Tech Tip videos]]></category>
+		<category><![CDATA[Indiana]]></category>
+		<category><![CDATA[Indianapolis 500]]></category>
+		<category><![CDATA[Indy 500]]></category>
+		<category><![CDATA[Inside Indiana Business]]></category>
+		<category><![CDATA[Lafayette]]></category>
+		<category><![CDATA[Tactile Engineering]]></category>
+		<category><![CDATA[tactile graphics]]></category>
+		<category><![CDATA[touchable]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122857</guid>
+
+					<description><![CDATA[When many people think about public uses of braille, they picture those bumpy dots on bathroom door signs or below elevator buttons. The Lafayette-based company, Tactile Engineering, created a new public display of braille in use. This past May, blind race fans were able to enjoy the Indianapolis 500 via the Cadence Tactile Tablet, which [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/07/28/the-cadence-tactile-tablet-a-bold-new-use-of-braille/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122857</post-id>	</item>
+		<item>
+		<title>Monday Tech Tip: touchable</title>
+		<link>https://www.eastersealstech.com/2026/07/27/monday-tech-tip-touchable/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=monday-tech-tip-touchable</link>
+					<comments>https://www.eastersealstech.com/2026/07/27/monday-tech-tip-touchable/#respond</comments>
+		
+		<dc:creator><![CDATA[Nikol Prieto]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 14:08:37 +0000</pubDate>
+				<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[Brian Norton]]></category>
+		<category><![CDATA[Easterseals Crossroads]]></category>
+		<category><![CDATA[gotouchable]]></category>
+		<category><![CDATA[josh anderson]]></category>
+		<category><![CDATA[monday tech tips]]></category>
+		<category><![CDATA[table with braille and tactile graphics]]></category>
+		<category><![CDATA[The INDATA Project Tech tips]]></category>
+		<category><![CDATA[touchable]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122840</guid>
+
+					<description><![CDATA[During the 2026 ATIA Conference, Veronica Quinn from touchable showed us touchable, which is a portable, pocket-sized tablet that displays print quality braille and tactile graphics. Check it out here: Click here to learn more about touchable.]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/07/27/monday-tech-tip-touchable/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122840</post-id>	</item>
+		<item>
+		<title>ATU791 &#8211; Hygiene Hippie with Gracyn Conner</title>
+		<link>https://www.eastersealstech.com/2026/07/24/atu791-hygiene-hippie-with-gracyn-conner/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=atu791-hygiene-hippie-with-gracyn-conner</link>
+					<comments>https://www.eastersealstech.com/2026/07/24/atu791-hygiene-hippie-with-gracyn-conner/#respond</comments>
+		
+		<dc:creator><![CDATA[Josh Anderson]]></dc:creator>
+		<pubDate>Fri, 24 Jul 2026 04:45:41 +0000</pubDate>
+				<category><![CDATA[Assistive Technology Update]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[access]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[accessible]]></category>
+		<category><![CDATA[adaptive]]></category>
+		<category><![CDATA[anderson]]></category>
+		<category><![CDATA[assistive]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[crossroads]]></category>
+		<category><![CDATA[disability]]></category>
+		<category><![CDATA[easter]]></category>
+		<category><![CDATA[gracyn conner]]></category>
+		<category><![CDATA[hygiene hippie]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indianapolis]]></category>
+		<category><![CDATA[josh]]></category>
+		<category><![CDATA[seals]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[Video Modeling]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122788</guid>
+
+					<description><![CDATA[Your weekly dose of information that keeps you up to date on the latest developments in the field of technology designed to assist people with disabilities and special needs. Special Guest: Gracyn Conner, OTD, MS, OTR &#8211; Founder &#8211; Hygiene Hippie Website: hygienehippie.com Story: LeHigh University Story: https://bit.ly/4vwdOnv INDATA Full Day Trainings Link: https://www.eastersealstech.com/our-services/fulldaytraining/ Learn [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/07/24/atu791-hygiene-hippie-with-gracyn-conner/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+				<enclosure url="https://traffic.libsyn.com/atupdate/ATU072426.mp3" length="39134234" type="audio/mpeg" />
+
+				<itunes:image href="https://www.eastersealstech.com/wp-content/uploads/2018/09/ATFAQ.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>27:06</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">122788</post-id>	</item>
+		<item>
+		<title>All Aboard! A New Way to Enjoy the State Fair</title>
+		<link>https://www.eastersealstech.com/2026/07/23/all-aboard-a-new-way-to-enjoy-the-state-fair/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=all-aboard-a-new-way-to-enjoy-the-state-fair</link>
+					<comments>https://www.eastersealstech.com/2026/07/23/all-aboard-a-new-way-to-enjoy-the-state-fair/#comments</comments>
+		
+		<dc:creator><![CDATA[ColesStaff]]></dc:creator>
+		<pubDate>Thu, 23 Jul 2026 15:11:44 +0000</pubDate>
+				<category><![CDATA[Conferences and Events]]></category>
+		<category><![CDATA[2026]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[ADA]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[Fairgrounds]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indiana]]></category>
+		<category><![CDATA[indiana state fair]]></category>
+		<category><![CDATA[sensory processing disorder]]></category>
+		<category><![CDATA[train]]></category>
+		<category><![CDATA[Wheelchair Access]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122844</guid>
+
+					<description><![CDATA[The Indiana State Fair is just around the corner (August 7-23), and there’s a new way for attendees of all ages and abilities to enjoy it accessibly. Fairgoers can now ride two new trains that offer a breezy, narrated trek across the Fairgrounds. Each train carries roughly 90 passengers and travels along a one-mile loop [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/07/23/all-aboard-a-new-way-to-enjoy-the-state-fair/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122844</post-id>	</item>
+		<item>
+		<title>Smooth Access to Summer Fun</title>
+		<link>https://www.eastersealstech.com/2026/07/22/smooth-access-to-summer-fun/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=smooth-access-to-summer-fun</link>
+					<comments>https://www.eastersealstech.com/2026/07/22/smooth-access-to-summer-fun/#comments</comments>
+		
+		<dc:creator><![CDATA[ColesStaff]]></dc:creator>
+		<pubDate>Wed, 22 Jul 2026 14:32:56 +0000</pubDate>
+				<category><![CDATA[Conferences and Events]]></category>
+		<category><![CDATA[Organizations]]></category>
+		<category><![CDATA[2026]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[Agrability]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[Brian Norton]]></category>
+		<category><![CDATA[Carmel]]></category>
+		<category><![CDATA[Central Canal]]></category>
+		<category><![CDATA[Easterseals Crossroads]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indiana TOPSoccer]]></category>
+		<category><![CDATA[Lisa Becker]]></category>
+		<category><![CDATA[Midtown Plaza]]></category>
+		<category><![CDATA[Sensory Garden]]></category>
+		<category><![CDATA[State Fair]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122832</guid>
+
+					<description><![CDATA[Across Indiana, accessibility is becoming a greater priority as communities create more programs, services and public spaces that enable people of all abilities to live, work and participate fully. The list below includes some longtime Hoosier summer staples, but it also features relatively new opportunities for fun in the sun among Hoosiers of all ages [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/07/22/smooth-access-to-summer-fun/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122832</post-id>	</item>
+		<item>
+		<title>Monday Tech Tip: RocketPen Reader</title>
+		<link>https://www.eastersealstech.com/2026/07/20/monday-tech-tip-rocketpen-reader-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=monday-tech-tip-rocketpen-reader-2</link>
+					<comments>https://www.eastersealstech.com/2026/07/20/monday-tech-tip-rocketpen-reader-2/#comments</comments>
+		
+		<dc:creator><![CDATA[Nikol Prieto]]></dc:creator>
+		<pubDate>Mon, 20 Jul 2026 14:00:58 +0000</pubDate>
+				<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[assistive technology for dyslexia]]></category>
+		<category><![CDATA[assistive technology for reading impairments]]></category>
+		<category><![CDATA[Aventido]]></category>
+		<category><![CDATA[Brian Norton]]></category>
+		<category><![CDATA[Easterseals Crossroads]]></category>
+		<category><![CDATA[josh anderson]]></category>
+		<category><![CDATA[monday tech tips]]></category>
+		<category><![CDATA[RocketPen]]></category>
+		<category><![CDATA[The INDATA Project Tech tips]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122818</guid>
+
+					<description><![CDATA[During the 2026 ATIA Conference, Michelle Power from Aventido showed us the RocketPen which is a reading assistive device for individuals with reading challenges such as dyslexia. Check it out here: Click here to learn more.]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/07/20/monday-tech-tip-rocketpen-reader-2/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122818</post-id>	</item>
+		<item>
+		<title>ATFAQ205: Q1. Multiple Sclerosis and office work, Q2. Sensory tools for loud environments, Q3. Screen Mag and accessibility tools for the computer, Q4. TBI memory and organizational tools, Q5. Future of autonomous transportation</title>
+		<link>https://www.eastersealstech.com/2026/07/20/atfaq205-q1-multiple-sclerosis-and-office-work-q2-sensory-tools-for-loud-environments-q3-screen-mag-and-accessibility-tools-for-the-computer-q4-tbi-memory-and-organizational-tools-q5-future/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=atfaq205-q1-multiple-sclerosis-and-office-work-q2-sensory-tools-for-loud-environments-q3-screen-mag-and-accessibility-tools-for-the-computer-q4-tbi-memory-and-organizational-tools-q5-future</link>
+					<comments>https://www.eastersealstech.com/2026/07/20/atfaq205-q1-multiple-sclerosis-and-office-work-q2-sensory-tools-for-loud-environments-q3-screen-mag-and-accessibility-tools-for-the-computer-q4-tbi-memory-and-organizational-tools-q5-future/#comments</comments>
+		
+		<dc:creator><![CDATA[Brian Norton]]></dc:creator>
+		<pubDate>Mon, 20 Jul 2026 04:05:25 +0000</pubDate>
+				<category><![CDATA[Assistive Technology FAQ (ATFAQ) Podcast]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[accommodations]]></category>
+		<category><![CDATA[atfaq]]></category>
+		<category><![CDATA[autonomous]]></category>
+		<category><![CDATA[belva smith]]></category>
+		<category><![CDATA[Brian Norton]]></category>
+		<category><![CDATA[josh anderson]]></category>
+		<category><![CDATA[multiple sclerosis]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Screen magnification]]></category>
+		<category><![CDATA[sensory tools]]></category>
+		<category><![CDATA[TBI]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122772</guid>
+
+					<description><![CDATA[Panelists: Josh Anderson, Belva Smith and Brian Norton ATFAQ205: Q1. Multiple Sclerosis and office work, Q2. Sensory tools for loud environments, Q3. Screen Mag and accessibility tools for the computer, Q4. TBI memory and organizational tools, Q5. Future of autonomous transportation]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/07/20/atfaq205-q1-multiple-sclerosis-and-office-work-q2-sensory-tools-for-loud-environments-q3-screen-mag-and-accessibility-tools-for-the-computer-q4-tbi-memory-and-organizational-tools-q5-future/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+				<enclosure url="https://traffic.libsyn.com/atfaq/ATFAQ205.mp3" length="75625541" type="audio/mpeg" />
+
+				<itunes:image href="https://www.eastersealstech.com/wp-content/uploads/2018/09/ATFAQ.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>51:09</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">122772</post-id>	</item>
+		<item>
+		<title>ATU790 &#8211; Lumin with Sriram Ganesh</title>
+		<link>https://www.eastersealstech.com/2026/07/17/atu790-lumin-with-sriram-ganesh/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=atu790-lumin-with-sriram-ganesh</link>
+					<comments>https://www.eastersealstech.com/2026/07/17/atu790-lumin-with-sriram-ganesh/#comments</comments>
+		
+		<dc:creator><![CDATA[Josh Anderson]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2026 04:45:36 +0000</pubDate>
+				<category><![CDATA[Assistive Technology Update]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[access]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[accessible]]></category>
+		<category><![CDATA[adaptive]]></category>
+		<category><![CDATA[anderson]]></category>
+		<category><![CDATA[assistive]]></category>
+		<category><![CDATA[Blind]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[crossroads]]></category>
+		<category><![CDATA[disability]]></category>
+		<category><![CDATA[easter]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[ganesh]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indianapolis]]></category>
+		<category><![CDATA[josh]]></category>
+		<category><![CDATA[lumin]]></category>
+		<category><![CDATA[seals]]></category>
+		<category><![CDATA[sriram]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122687</guid>
+
+					<description><![CDATA[Your weekly dose of information that keeps you up to date on the latest developments in the field of technology designed to assist people with disabilities and special needs. Special Guest: Sriram Ganesh &#8211; CEO and Co-Founder &#8211; Luminade Website: lumin.email Learn more about Bridging Apps at www.bridgingapps.org —————————— If you have an AT question, [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/07/17/atu790-lumin-with-sriram-ganesh/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+				<enclosure url="https://traffic.libsyn.com/atupdate/ATU071726.mp3" length="39134106" type="audio/mpeg" />
+
+				<itunes:image href="https://www.eastersealstech.com/wp-content/uploads/2018/09/ATFAQ.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>27:06</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">122687</post-id>	</item>
+		<item>
+		<title>Kinemo&#8217;s Kinetic Control</title>
+		<link>https://www.eastersealstech.com/2026/07/15/kinemos-kinetic-control/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=kinemos-kinetic-control</link>
+					<comments>https://www.eastersealstech.com/2026/07/15/kinemos-kinetic-control/#comments</comments>
+		
+		<dc:creator><![CDATA[ColesStaff]]></dc:creator>
+		<pubDate>Wed, 15 Jul 2026 13:00:16 +0000</pubDate>
+				<category><![CDATA[Products and Devices]]></category>
+		<category><![CDATA[2026]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[Arpan Bhavsar]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[Assistive Technology Update]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[body switch]]></category>
+		<category><![CDATA[hands-free]]></category>
+		<category><![CDATA[kinemo]]></category>
+		<category><![CDATA[Kinemo One]]></category>
+		<category><![CDATA[Nordine Sebkhi]]></category>
+		<category><![CDATA[people with disabilities]]></category>
+		<category><![CDATA[wearable]]></category>
+		<category><![CDATA[wearable technology]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122802</guid>
+
+					<description><![CDATA[Hands-free technology has come a long way, allowing users with disabilities to control their laptops, smartphones and wheelchairs with the blink of an eye — or even a bite. The Kinemo One wearable body switch is a highly customizable form of hands-free tech with fingernail-size motion sensors that attach anywhere, enabling users to click and [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/07/15/kinemos-kinetic-control/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122802</post-id>	</item>
+		<item>
+		<title>Monday Tech Tip: Splay ZT</title>
+		<link>https://www.eastersealstech.com/2026/07/13/monday-tech-tip-splay-zt/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=monday-tech-tip-splay-zt</link>
+					<comments>https://www.eastersealstech.com/2026/07/13/monday-tech-tip-splay-zt/#respond</comments>
+		
+		<dc:creator><![CDATA[Nikol Prieto]]></dc:creator>
+		<pubDate>Mon, 13 Jul 2026 14:19:31 +0000</pubDate>
+				<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[Assistive Technology for Vision]]></category>
+		<category><![CDATA[Brian Norton]]></category>
+		<category><![CDATA[Easterseals Crossroads]]></category>
+		<category><![CDATA[josh anderson]]></category>
+		<category><![CDATA[mindy brown]]></category>
+		<category><![CDATA[monday tech tips]]></category>
+		<category><![CDATA[Splay ZT]]></category>
+		<category><![CDATA[The INDATA Project Tech tips]]></category>
+		<category><![CDATA[The Louisiana Association for the Blind (LAB)]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122791</guid>
+
+					<description><![CDATA[During the 2026 ATIA Conference, Mindy Brown, The Louisiana Association for the Blind, showed us the Splay ZT, which is a collapsible big screen to reduce eye strain. Check it out here: Click here to learn more about the Splay ZT.]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/07/13/monday-tech-tip-splay-zt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122791</post-id>	</item>
+		<item>
+		<title>ATU789 &#8211; Kinemo with Nordine Sebkhi and Arpan Bhavsar</title>
+		<link>https://www.eastersealstech.com/2026/07/10/atu789-kinemo-with-nordine-sebkhi-and-arpan-bhavsar/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=atu789-kinemo-with-nordine-sebkhi-and-arpan-bhavsar</link>
+					<comments>https://www.eastersealstech.com/2026/07/10/atu789-kinemo-with-nordine-sebkhi-and-arpan-bhavsar/#comments</comments>
+		
+		<dc:creator><![CDATA[Josh Anderson]]></dc:creator>
+		<pubDate>Fri, 10 Jul 2026 04:45:38 +0000</pubDate>
+				<category><![CDATA[Assistive Technology Update]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[access]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[accessible]]></category>
+		<category><![CDATA[adaptive]]></category>
+		<category><![CDATA[anderson]]></category>
+		<category><![CDATA[assistive]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[crossroads]]></category>
+		<category><![CDATA[disability]]></category>
+		<category><![CDATA[easter]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indianapolis]]></category>
+		<category><![CDATA[josh]]></category>
+		<category><![CDATA[kinemo]]></category>
+		<category><![CDATA[seals]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122685</guid>
+
+					<description><![CDATA[Your weekly dose of information that keeps you up to date on the latest developments in the field of technology designed to assist people with disabilities and special needs. Special Guest: Nordine Sebkhi &#8211; CEO and Co-Founder &#8211; Kinemo Arpan Bhavsar &#8211; CTO and Co-Founder &#8211; Kinemo Website: https://kinemo.io/ Social Media https://www.linkedin.com/company/kinemo-inc https://www.instagram.com/kinemoinc/ https://www.facebook.com/KinemoInc —————————— If [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/07/10/atu789-kinemo-with-nordine-sebkhi-and-arpan-bhavsar/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+				<enclosure url="https://traffic.libsyn.com/atupdate/ATU071026.mp3" length="39134106" type="audio/mpeg" />
+
+				<itunes:image href="https://www.eastersealstech.com/wp-content/uploads/2018/09/ATFAQ.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>27:06</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">122685</post-id>	</item>
+		<item>
+		<title>Making Game Nights More Accessible</title>
+		<link>https://www.eastersealstech.com/2026/07/07/making-game-nights-more-accessible/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=making-game-nights-more-accessible</link>
+					<comments>https://www.eastersealstech.com/2026/07/07/making-game-nights-more-accessible/#comments</comments>
+		
+		<dc:creator><![CDATA[ColesStaff]]></dc:creator>
+		<pubDate>Tue, 07 Jul 2026 17:34:03 +0000</pubDate>
+				<category><![CDATA[Easter Seals Crossroads]]></category>
+		<category><![CDATA[INDATA News]]></category>
+		<category><![CDATA[2026]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[adapted controllers]]></category>
+		<category><![CDATA[Adapted Gaming Lab]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[Brandon Scott]]></category>
+		<category><![CDATA[Easterseals Crossroads]]></category>
+		<category><![CDATA[ES Gaming]]></category>
+		<category><![CDATA[Fox 59]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indiana]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[video games]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122777</guid>
+
+					<description><![CDATA[In his appearance on FOX59 Morning News this week, Easterseals Crossroads’ Content Creation Manager Brandon Scott described gamers as a “come-together group that can break down barriers.” One of the ways Easterseals helps gamers break those barriers is by offering assistive technology, such as adapted controllers. These controllers include large buttons, switches, joysticks and other [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/07/07/making-game-nights-more-accessible/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122777</post-id>	</item>
+		<item>
+		<title>Monday Tech Tip: Modmath</title>
+		<link>https://www.eastersealstech.com/2026/07/06/monday-tech-tip-modmath-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=monday-tech-tip-modmath-2</link>
+					<comments>https://www.eastersealstech.com/2026/07/06/monday-tech-tip-modmath-2/#comments</comments>
+		
+		<dc:creator><![CDATA[Nikol Prieto]]></dc:creator>
+		<pubDate>Mon, 06 Jul 2026 14:00:18 +0000</pubDate>
+				<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[assistive technology for math]]></category>
+		<category><![CDATA[Brian Norton]]></category>
+		<category><![CDATA[Easterseals Crossroads]]></category>
+		<category><![CDATA[josh anderson]]></category>
+		<category><![CDATA[ModMath]]></category>
+		<category><![CDATA[monday tech tips]]></category>
+		<category><![CDATA[The INDATA Project Tech tips]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122761</guid>
+
+					<description><![CDATA[In today&#8217;s tech tip we show how Modmath is helping students with dyslexia, dysgraphia, and learning disabilities to write, solve, and learn math. Check it out here: Click here to learn more about ModMath.]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/07/06/monday-tech-tip-modmath-2/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122761</post-id>	</item>
+		<item>
+		<title>ATU788 &#8211; Scanning Pens with Jack Churchill</title>
+		<link>https://www.eastersealstech.com/2026/07/03/atu788-scanning-pens-with-jack-churchill/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=atu788-scanning-pens-with-jack-churchill</link>
+					<comments>https://www.eastersealstech.com/2026/07/03/atu788-scanning-pens-with-jack-churchill/#comments</comments>
+		
+		<dc:creator><![CDATA[Josh Anderson]]></dc:creator>
+		<pubDate>Fri, 03 Jul 2026 04:45:44 +0000</pubDate>
+				<category><![CDATA[Assistive Technology Update]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[access]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[accessible]]></category>
+		<category><![CDATA[adaptive]]></category>
+		<category><![CDATA[anderson]]></category>
+		<category><![CDATA[assistive]]></category>
+		<category><![CDATA[churchill]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[crossroads]]></category>
+		<category><![CDATA[disability]]></category>
+		<category><![CDATA[easter]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indianapolis]]></category>
+		<category><![CDATA[jack]]></category>
+		<category><![CDATA[josh]]></category>
+		<category><![CDATA[Scanning Pens]]></category>
+		<category><![CDATA[seals]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122683</guid>
+
+					<description><![CDATA[Your weekly dose of information that keeps you up to date on the latest developments in the field of technology designed to assist people with disabilities and special needs. Special Guest: Jack Churchill OBE &#8211; Co-Founder and CEO &#8211; Scanning Pens* Website: www.scanningpens.com Video Link: https://youtu.be/Ce2gydRj2bM LinkedIN link: https://www.linkedin.com/in/jackchurchill More on New Apple Accessibility: https://apple.co/3SwVFYV [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/07/03/atu788-scanning-pens-with-jack-churchill/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+				<enclosure url="https://traffic.libsyn.com/atupdate/ATU070326.mp3" length="39134234" type="audio/mpeg" />
+
+				<itunes:image href="https://www.eastersealstech.com/wp-content/uploads/2018/09/ATFAQ.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>27:06</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">122683</post-id>	</item>
+		<item>
+		<title>Feel Body Language with ALEYE</title>
+		<link>https://www.eastersealstech.com/2026/06/30/feel-body-language-with-aleye/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=feel-body-language-with-aleye</link>
+					<comments>https://www.eastersealstech.com/2026/06/30/feel-body-language-with-aleye/#comments</comments>
+		
+		<dc:creator><![CDATA[ColesStaff]]></dc:creator>
+		<pubDate>Tue, 30 Jun 2026 13:00:49 +0000</pubDate>
+				<category><![CDATA[Products and Devices]]></category>
+		<category><![CDATA[2026]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[ALEYE]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[Assistive Technology Update]]></category>
+		<category><![CDATA[Blind]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[Deaf-Blind]]></category>
+		<category><![CDATA[haptics]]></category>
+		<category><![CDATA[HapWare]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indiana]]></category>
+		<category><![CDATA[Jack Walters]]></category>
+		<category><![CDATA[Low Vision]]></category>
+		<category><![CDATA[neurodiverse]]></category>
+		<category><![CDATA[nonverbal]]></category>
+		<category><![CDATA[wearable]]></category>
+		<category><![CDATA[wristband]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122735</guid>
+
+					<description><![CDATA[Like Braille, HapWare’s ALEYE allows users to engage with the world through a sensation on their skin. But rather than turning written language into bumpy dots, it turns nonverbal communication (hand gestures, facial expressions) into vibration patterns. The wearable device is designed for people who are blind, low vision, deaf-blind and neurodiverse. ALEYE is a [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/06/30/feel-body-language-with-aleye/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122735</post-id>	</item>
+		<item>
+		<title>Monday Tech Tip: TheOrator</title>
+		<link>https://www.eastersealstech.com/2026/06/29/monday-tech-tip-theorator/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=monday-tech-tip-theorator</link>
+					<comments>https://www.eastersealstech.com/2026/06/29/monday-tech-tip-theorator/#comments</comments>
+		
+		<dc:creator><![CDATA[Nikol Prieto]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2026 14:00:33 +0000</pubDate>
+				<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[AAC APP]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[AI-Powered AAC]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[Brian Norton]]></category>
+		<category><![CDATA[communication app]]></category>
+		<category><![CDATA[Easterseals Crossroads]]></category>
+		<category><![CDATA[EchoBridge]]></category>
+		<category><![CDATA[josh anderson]]></category>
+		<category><![CDATA[Micahel Kramer]]></category>
+		<category><![CDATA[monday tech tips]]></category>
+		<category><![CDATA[The INDATA Project Tech tips]]></category>
+		<category><![CDATA[TheOrator]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122742</guid>
+
+					<description><![CDATA[During the 2026 ATIA Conference, Michael Kramer, founder of EchoBridge, showed us TheOrator, which is an AI-Powered AAC solution. Check it out here: Click her to learn more about TheOrator.]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/06/29/monday-tech-tip-theorator/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122742</post-id>	</item>
+		<item>
+		<title>ATU787 &#8211; XNote with Brian Friedlander, Ph.D.</title>
+		<link>https://www.eastersealstech.com/2026/06/26/atu787-xnote-with-brian-friedlander-ph-d/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=atu787-xnote-with-brian-friedlander-ph-d</link>
+					<comments>https://www.eastersealstech.com/2026/06/26/atu787-xnote-with-brian-friedlander-ph-d/#comments</comments>
+		
+		<dc:creator><![CDATA[Josh Anderson]]></dc:creator>
+		<pubDate>Fri, 26 Jun 2026 04:45:06 +0000</pubDate>
+				<category><![CDATA[Assistive Technology Update]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[access]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[accessible]]></category>
+		<category><![CDATA[adaptive]]></category>
+		<category><![CDATA[anderson]]></category>
+		<category><![CDATA[assistive]]></category>
+		<category><![CDATA[brian friedlander]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[crossroads]]></category>
+		<category><![CDATA[disability]]></category>
+		<category><![CDATA[easter]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indianapolis]]></category>
+		<category><![CDATA[josh]]></category>
+		<category><![CDATA[seals]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[xnote]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122609</guid>
+
+					<description><![CDATA[Your weekly dose of information that keeps you up to date on the latest developments in the field of technology designed to assist people with disabilities and special needs. Special Guest: Brian Friedlander, Ph.D. &#8211; Assistive Technology Consultant &#8211; AssistiveTech LLC Email Brian: brian@xnote.ai Learn more about Bridging Apps at www.bridgingapps.org —————————— If you have [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/06/26/atu787-xnote-with-brian-friedlander-ph-d/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+				<enclosure url="https://traffic.libsyn.com/atupdate/ATU062626.mp3" length="39134106" type="audio/mpeg" />
+
+				<itunes:image href="https://www.eastersealstech.com/wp-content/uploads/2018/09/ATFAQ.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>27:06</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">122609</post-id>	</item>
+		<item>
+		<title>Bright Abilities: Where Every Child Belongs</title>
+		<link>https://www.eastersealstech.com/2026/06/25/bright-abilities-where-every-child-belongs/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=bright-abilities-where-every-child-belongs</link>
+					<comments>https://www.eastersealstech.com/2026/06/25/bright-abilities-where-every-child-belongs/#comments</comments>
+		
+		<dc:creator><![CDATA[ColesStaff]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2026 13:00:56 +0000</pubDate>
+				<category><![CDATA[Organizations]]></category>
+		<category><![CDATA[2026]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[Bright Abilities]]></category>
+		<category><![CDATA[Carmel]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indiana]]></category>
+		<category><![CDATA[kids]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[sensory]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122731</guid>
+
+					<description><![CDATA[With schools out for the summer, kids need fun places to go while their parents work. Bright Abilities &#38; Recreational Center (BARC) in Carmel is a place “where every child belongs.” Founded by Rosie Sarkaria — a mom of three with a master’s in health sciences management — Bright Abilities offers sensory-friendly play and enriching [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/06/25/bright-abilities-where-every-child-belongs/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122731</post-id>	</item>
+		<item>
+		<title>Technology to Tingle the Brain</title>
+		<link>https://www.eastersealstech.com/2026/06/24/technology-to-tingle-the-brain/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=technology-to-tingle-the-brain</link>
+					<comments>https://www.eastersealstech.com/2026/06/24/technology-to-tingle-the-brain/#comments</comments>
+		
+		<dc:creator><![CDATA[ColesStaff]]></dc:creator>
+		<pubDate>Wed, 24 Jun 2026 13:00:28 +0000</pubDate>
+				<category><![CDATA[Aging in Place]]></category>
+		<category><![CDATA[Products and Devices]]></category>
+		<category><![CDATA[2026]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[alzheimer's]]></category>
+		<category><![CDATA[apps]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[Brain Awareness Month]]></category>
+		<category><![CDATA[brain health]]></category>
+		<category><![CDATA[Brain HQ]]></category>
+		<category><![CDATA[Brian Norton]]></category>
+		<category><![CDATA[Call-to-Mind]]></category>
+		<category><![CDATA[CanPlan]]></category>
+		<category><![CDATA[dementia]]></category>
+		<category><![CDATA[Dr. Michael Merzenich]]></category>
+		<category><![CDATA[Idem Smart Clock]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indiana]]></category>
+		<category><![CDATA[josh anderson]]></category>
+		<category><![CDATA[Judi Dench]]></category>
+		<category><![CDATA[Laura Templeton]]></category>
+		<category><![CDATA[medisafe]]></category>
+		<category><![CDATA[neuroplasticity]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[simple music player]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122719</guid>
+
+					<description><![CDATA[More than 7 million Americans are living with Alzheimer’s disease. “We are at a turning point in what science tells us about brain health,” said Joanne Pike, DrPH, president and CEO of the Alzheimer’s Association. “Research shows it is never too early — or too late — to take action.” Thanks to assistive technology, it’s [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/06/24/technology-to-tingle-the-brain/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122719</post-id>	</item>
+		<item>
+		<title>Monday Tech Tip: Keyguards at Keyguard Assistive Technology</title>
+		<link>https://www.eastersealstech.com/2026/06/22/monday-tech-tip-keyguards-at-keyguard-assistive-technology/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=monday-tech-tip-keyguards-at-keyguard-assistive-technology</link>
+					<comments>https://www.eastersealstech.com/2026/06/22/monday-tech-tip-keyguards-at-keyguard-assistive-technology/#respond</comments>
+		
+		<dc:creator><![CDATA[Nikol Prieto]]></dc:creator>
+		<pubDate>Mon, 22 Jun 2026 14:00:10 +0000</pubDate>
+				<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[2026 ATIA Conference]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[Brian Norton]]></category>
+		<category><![CDATA[custom key guards]]></category>
+		<category><![CDATA[Easterseals Crossroads]]></category>
+		<category><![CDATA[josh anderson]]></category>
+		<category><![CDATA[keyguard assistive technology]]></category>
+		<category><![CDATA[Mark Larson]]></category>
+		<category><![CDATA[monday tech tips]]></category>
+		<category><![CDATA[The INDATA Project Tech tips]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122645</guid>
+
+					<description><![CDATA[During the 2026 ATIA Conference, Mark Larson, founder, Keyguard Assistive Technology showed us some of the custom key guards available at Keyguard Assistive Technology. Check it out here: Click here to learn more about Keyguard Assistive Technology products. &#160;]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/06/22/monday-tech-tip-keyguards-at-keyguard-assistive-technology/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122645</post-id>	</item>
+		<item>
+		<title>ATU786 &#8211; HapWare ALEYE with Jack Walters</title>
+		<link>https://www.eastersealstech.com/2026/06/19/atu786-hapware-aleye-with-jack-walters/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=atu786-hapware-aleye-with-jack-walters</link>
+					<comments>https://www.eastersealstech.com/2026/06/19/atu786-hapware-aleye-with-jack-walters/#comments</comments>
+		
+		<dc:creator><![CDATA[Josh Anderson]]></dc:creator>
+		<pubDate>Fri, 19 Jun 2026 04:45:58 +0000</pubDate>
+				<category><![CDATA[Assistive Technology Update]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[access]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[accessible]]></category>
+		<category><![CDATA[adaptive]]></category>
+		<category><![CDATA[ALEYE]]></category>
+		<category><![CDATA[anderson]]></category>
+		<category><![CDATA[assistive]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[crossroads]]></category>
+		<category><![CDATA[disability]]></category>
+		<category><![CDATA[easter]]></category>
+		<category><![CDATA[HapWare]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indianapolis]]></category>
+		<category><![CDATA[josh]]></category>
+		<category><![CDATA[seals]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122607</guid>
+
+					<description><![CDATA[Your weekly dose of information that keeps you up to date on the latest developments in the field of technology designed to assist people with disabilities and special needs. Special Guest: Jack Walters &#8211; CEO and Co-Founder &#8211; HapWare website: https://hapware.com Email: info@hapware.com PreOrder: hapware.com/preorder Learn more about Bridging Apps at www.bridgingapps.org —————————— If you [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/06/19/atu786-hapware-aleye-with-jack-walters/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+				<enclosure url="https://traffic.libsyn.com/atupdate/ATU061926.mp3" length="39134106" type="audio/mpeg" />
+
+				<itunes:image href="https://www.eastersealstech.com/wp-content/uploads/2018/09/ATFAQ.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>27:06</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">122607</post-id>	</item>
+		<item>
+		<title>Label Your Life With Speechlabel</title>
+		<link>https://www.eastersealstech.com/2026/06/16/label-your-life-with-speechlabel/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=label-your-life-with-speechlabel</link>
+					<comments>https://www.eastersealstech.com/2026/06/16/label-your-life-with-speechlabel/#comments</comments>
+		
+		<dc:creator><![CDATA[ColesStaff]]></dc:creator>
+		<pubDate>Tue, 16 Jun 2026 15:26:41 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Products and Devices]]></category>
+		<category><![CDATA[2026]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[Assistive Technology Update]]></category>
+		<category><![CDATA[ATU]]></category>
+		<category><![CDATA[audio]]></category>
+		<category><![CDATA[Blind]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[Freek van Welsenis]]></category>
+		<category><![CDATA[Hable]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indiana]]></category>
+		<category><![CDATA[labels]]></category>
+		<category><![CDATA[NFC stickers]]></category>
+		<category><![CDATA[speechlabel]]></category>
+		<category><![CDATA[Visually Impaired]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122699</guid>
+
+					<description><![CDATA[Speechlabel, a free app from Hable, allows blind and visually impaired users to navigate the world with a simple tap of their phone. It’s basically an audio guide to objects at home, school or the workplace. Three Easy Steps First, choose one of four types of labels. There are stickers you can slap on or [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/06/16/label-your-life-with-speechlabel/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122699</post-id>	</item>
+		<item>
+		<title>Monday Tech Tip: InsideOne+ and insideSUPRA</title>
+		<link>https://www.eastersealstech.com/2026/06/15/monday-tech-tip-insideone-and-insidesupra/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=monday-tech-tip-insideone-and-insidesupra</link>
+					<comments>https://www.eastersealstech.com/2026/06/15/monday-tech-tip-insideone-and-insidesupra/#respond</comments>
+		
+		<dc:creator><![CDATA[Nikol Prieto]]></dc:creator>
+		<pubDate>Mon, 15 Jun 2026 14:00:14 +0000</pubDate>
+				<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[2026 ATIA Conference]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[America]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[assistive technology for blind and low vision]]></category>
+		<category><![CDATA[Brian Norton]]></category>
+		<category><![CDATA[Cheryl Saucier]]></category>
+		<category><![CDATA[Easterseals Crossroads]]></category>
+		<category><![CDATA[insideONE]]></category>
+		<category><![CDATA[insideSUPRA]]></category>
+		<category><![CDATA[josh anderson]]></category>
+		<category><![CDATA[LVI]]></category>
+		<category><![CDATA[monday tech tips]]></category>
+		<category><![CDATA[The INDATA Project Tech tips]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122641</guid>
+
+					<description><![CDATA[During the 2026 ATIA Conference, Eric Vioche from Inside Vision Company in France showed us some of their new products that LVI-American is selling on their behalf. He showed us the InsideOne+, which brings you the versatility of a tablet and the performance of a laptop and the insideSUPRA, which is s a full Windows [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/06/15/monday-tech-tip-insideone-and-insidesupra/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122641</post-id>	</item>
+		<item>
+		<title>ATU785 &#8211; Keyguard AT with Mark Larson</title>
+		<link>https://www.eastersealstech.com/2026/06/12/atu785-keyguard-at-with-mark-larson/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=atu785-keyguard-at-with-mark-larson</link>
+					<comments>https://www.eastersealstech.com/2026/06/12/atu785-keyguard-at-with-mark-larson/#respond</comments>
+		
+		<dc:creator><![CDATA[Josh Anderson]]></dc:creator>
+		<pubDate>Fri, 12 Jun 2026 04:45:59 +0000</pubDate>
+				<category><![CDATA[Assistive Technology Update]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[access]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[accessible]]></category>
+		<category><![CDATA[adaptive]]></category>
+		<category><![CDATA[anderson]]></category>
+		<category><![CDATA[assistive]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[crossroads]]></category>
+		<category><![CDATA[disability]]></category>
+		<category><![CDATA[easter]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indianapolis]]></category>
+		<category><![CDATA[josh]]></category>
+		<category><![CDATA[keyguards]]></category>
+		<category><![CDATA[Mark Larson]]></category>
+		<category><![CDATA[seals]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122598</guid>
+
+					<description><![CDATA[Your weekly dose of information that keeps you up to date on the latest developments in the field of technology designed to assist people with disabilities and special needs. Special Guest: Mark Larson &#8211; Owner and Founder &#8211; Marblesoft LLC Website: https://keyguardat.com/ Email: sales@marblesoft.com Phone: 763-755-1402 Stories: Apple Steady Hands Story: https://apple.co/4uIe6bf Learn more about [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/06/12/atu785-keyguard-at-with-mark-larson/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+				<enclosure url="https://traffic.libsyn.com/atupdate/ATU061226.mp3" length="39134234" type="audio/mpeg" />
+
+				<itunes:image href="https://www.eastersealstech.com/wp-content/uploads/2018/09/ATFAQ.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>27:06</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">122598</post-id>	</item>
+		<item>
+		<title>Compass Chair Offers Stability for Students</title>
+		<link>https://www.eastersealstech.com/2026/06/09/compass-chair-offers-stability-for-students/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=compass-chair-offers-stability-for-students</link>
+					<comments>https://www.eastersealstech.com/2026/06/09/compass-chair-offers-stability-for-students/#respond</comments>
+		
+		<dc:creator><![CDATA[ColesStaff]]></dc:creator>
+		<pubDate>Tue, 09 Jun 2026 17:48:36 +0000</pubDate>
+				<category><![CDATA[Autism]]></category>
+		<category><![CDATA[Products and Devices]]></category>
+		<category><![CDATA[Sensory]]></category>
+		<category><![CDATA[2026]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[autism]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[classroom]]></category>
+		<category><![CDATA[Compass Chair]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[INDATA Monday Tech Tip videos]]></category>
+		<category><![CDATA[Indiana]]></category>
+		<category><![CDATA[movement]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[Rifton]]></category>
+		<category><![CDATA[sensory]]></category>
+		<category><![CDATA[Students with Disabilities]]></category>
+		<category><![CDATA[Tech Tip]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122679</guid>
+
+					<description><![CDATA[While many may take it for granted, seating is essential in the world of disability. For students with disabilities, a classroom chair isn’t just a piece of furniture — it’s their entry point for learning. The right seat can completely change how students engage with classroom material. Rifton’s Compass Chair provides a comfortable seating solution [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/06/09/compass-chair-offers-stability-for-students/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122679</post-id>	</item>
+		<item>
+		<title>Monday Tech Tip: Universal AAC Device Mount</title>
+		<link>https://www.eastersealstech.com/2026/06/08/monday-tech-tip-universal-aac-device-mount/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=monday-tech-tip-universal-aac-device-mount</link>
+					<comments>https://www.eastersealstech.com/2026/06/08/monday-tech-tip-universal-aac-device-mount/#comments</comments>
+		
+		<dc:creator><![CDATA[Nikol Prieto]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2026 14:00:50 +0000</pubDate>
+				<category><![CDATA[Tech Tips]]></category>
+		<category><![CDATA[2026 ATIA Conference]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[Brian Norton]]></category>
+		<category><![CDATA[Easterseals Crossroads]]></category>
+		<category><![CDATA[josh anderson]]></category>
+		<category><![CDATA[Lori Potts]]></category>
+		<category><![CDATA[monday tech tips]]></category>
+		<category><![CDATA[Rifton Universal AAC Device Mount]]></category>
+		<category><![CDATA[The INDATA Project Tech tips]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122636</guid>
+
+					<description><![CDATA[During the 2026 ATIA Conference, Lori Potts form Rifton showed us their Universal AAC Device Mount for attaching a communication device to the Rifton Activity Chair. Check it out here: Click here to learn more about the Universal AAC Device Mount.]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/06/08/monday-tech-tip-universal-aac-device-mount/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">122636</post-id>	</item>
+		<item>
+		<title>ATU784 &#8211; SpeechLabel with Freek van Welsenis</title>
+		<link>https://www.eastersealstech.com/2026/06/05/atu784-speechlabel-with-freek-van-welsenis/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=atu784-speechlabel-with-freek-van-welsenis</link>
+					<comments>https://www.eastersealstech.com/2026/06/05/atu784-speechlabel-with-freek-van-welsenis/#comments</comments>
+		
+		<dc:creator><![CDATA[Josh Anderson]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2026 04:35:56 +0000</pubDate>
+				<category><![CDATA[Assistive Technology Update]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[access]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[accessible]]></category>
+		<category><![CDATA[adaptive]]></category>
+		<category><![CDATA[anderson]]></category>
+		<category><![CDATA[assistive]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[crossroads]]></category>
+		<category><![CDATA[disability]]></category>
+		<category><![CDATA[easter]]></category>
+		<category><![CDATA[habel]]></category>
+		<category><![CDATA[INDATA]]></category>
+		<category><![CDATA[Indianapolis]]></category>
+		<category><![CDATA[josh]]></category>
+		<category><![CDATA[seals]]></category>
+		<category><![CDATA[speechlabel]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">https://www.eastersealstech.com/?p=122571</guid>
+
+					<description><![CDATA[Your weekly dose of information that keeps you up to date on the latest developments in the field of technology designed to assist people with disabilities and special needs. Special Guest: Freek van Welsenis &#8211; CEO &#8211; Hable iamhable.com Learn more about Bridging Apps at www.bridgingapps.org Link to INDATA AT Awareness Day Open House Video: [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.eastersealstech.com/2026/06/05/atu784-speechlabel-with-freek-van-welsenis/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+				<enclosure url="https://traffic.libsyn.com/atupdate/ATU060526.mp3" length="39134106" type="audio/mpeg" />
+
+				<itunes:image href="https://www.eastersealstech.com/wp-content/uploads/2018/09/ATFAQ.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>27:06</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">122571</post-id>	</item>
+	</channel>
+</rss>

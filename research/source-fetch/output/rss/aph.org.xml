@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>American Printing House</title>
+	<atom:link href="https://www.aph.org/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.aph.org</link>
+	<description></description>
+	<lastBuildDate>Thu, 10 Sep 2026 13:39:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.4</generator>
+	<item>
+		<title>Monarch Update 2.0 Expands Accessible Learning Opportunities</title>
+		<link>https://www.aph.org/blog/monarch-update-2-0-expands-accessible-learning-opportunities/</link>
+		
+		<dc:creator><![CDATA[rsmith]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2026 17:07:36 +0000</pubDate>
+				<category><![CDATA[News & Events]]></category>
+		<guid isPermaLink="false">https://www.aph.org/?p=1782153</guid>
+
+					<description><![CDATA[This newest Monarch software update gives blind or low vision students the tools they need to complete assessments, explore equations,...]]></description>
+										<content:encoded><![CDATA[<p>This newest Monarch software update gives blind or low vision students the tools they need to complete assessments, explore equations, collaborate on documents, and continue working with digital and tactile information independently.</p>
+<p>&nbsp;</p>
+<h2>What’s New in Monarch Update 2.0?</h2>
+<p>Take a look at a few of the features coming to Monarch and Monarch applications with the new update:</p>
+<p>&nbsp;</p>
+<h3>Exam Mode</h3>
+<p>Exam mode creates a testing-friendly environment within Monarch, making testing a comfortable process for both students and teachers. Teachers can customize which apps are available during exam mode, and which are turned off. This helps to ensure students can take advantage of all the Monarch’s tactile and braille capabilities distraction-free.</p>
+<h3>KeyDrive</h3>
+<p>Added support for sharing files, modifiable document permissions, and a new “Shared with Me” section within KeyDrive assists users collaborating on documents. The added support, as well as new shared document organizations, can help users access and modify shared documents with ease.</p>
+<h3>KeyMath</h3>
+<p>A complete re-design of the graph viewer streamlines user experience and simplifies student learning. With this new design users can: select curves and view their function in braille, view hatch marks on axes, view and rename axes labels in braille that adjust automatically with zoom and hear an audible description of a curve. New shortcuts to toggle output between fractions and decimals, as well as a math symbol search bar, are also available.</p>
+<h3>TactileViewer</h3>
+<p>To assist blind or low vision users interacting with visual content, TactileViewer updates focus on improving clarity. SVG files are now supported, and PDF files now offer 9 levels of zoom as opposed to the standard 4. Users can “quick zoom” by long pressing the zoom buttons. The new “Describe with AI” shortcut gives a general description of the image as well as populates hidden annotations that can be tapped for more information on a specific section of the image. The new “Call Out Annotations” shortcut can be used to find annotations in an image. Edge detection filter will be automatically applied to all non-PDF images but can be toggled on and off. This filter identifies structural outlines of an image, alongside removing image “noise” like shading and colors, making visual content easier to navigate.</p>
+<h3>KeyWord</h3>
+<p>Nemeth and UEB will now use MathCAT for improved math translations. Syntactically incorrect math expressions can now be saved to a document, helping to improve mathematical error handling.</p>
+<h3>Victor Reader</h3>
+<p>Improvements to eBRL styling streamline user experience when viewing eBraille files. An improved OAUTH provider login also helps to improve the reading process for users.</p>
+<p>These updates build on Monarch’s growing ecosystem of educational tools and integrations introduced earlier this year including Google Drive, Microsoft OneDrive, JAWS and NVDA, as well as eBraille and <a href="https://www.aph.org/product/wing-it/">Wing It</a>. Our Monarch team continues to work on building a system that supports independent learning, provides users with new technology, and never stops improving existing applications.</p>
+<p>If you have any questions or concerns about updating your Monarch, please contact our Monarch Support Team at <a href="mailto:monarchsupport@aph.org">monarchsupport@aph.org</a>  or (833) 447-8444.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bringing Dynamic Braille Files to Life with eBraille and Duxbury</title>
+		<link>https://www.aph.org/blog/bringing-dynamic-braille-files-to-life-with-ebraille-and-duxbury/</link>
+		
+		<dc:creator><![CDATA[Devon Price]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2026 15:00:43 +0000</pubDate>
+				<category><![CDATA[Products]]></category>
+		<category><![CDATA[accessible file type]]></category>
+		<category><![CDATA[duxbury]]></category>
+		<category><![CDATA[duxbury support]]></category>
+		<category><![CDATA[eBraille]]></category>
+		<category><![CDATA[eBraille Converter]]></category>
+		<category><![CDATA[ebraille release]]></category>
+		<category><![CDATA[monarch]]></category>
+		<category><![CDATA[monarch eBraille]]></category>
+		<guid isPermaLink="false">https://www.aph.org/?p=1751270</guid>
+
+					<description><![CDATA[The creation and refinement of eBraille is a project over three years in the making. It has involved community input,...]]></description>
+										<content:encoded><![CDATA[<p>The creation and refinement of eBraille is a project over three years in the making. It has involved community input, intentional development, and the support of over 60 organizations. Each organization has given compliments, critiques, and their valued input to help shape the future of digital braille files with the blind or low vision community at the forefront of their mind.  One partner that is championing eBraille in the transcription field, challenging new ideas, and encouraging digital braille innovation is <a href="https://www.duxburysystems.com/">Duxbury Systems</a>.</p>
+<p>Duxbury is the international leader in braille production and transcription. Their dedication to the needs of the blind or low vision community and the production of braille materials has kept them in the forefront of braille development since the 1970s. Duxbury supports over 180 languages and created the widely used braille file type BRF. APH is grateful to have their partnership moving toward the future of digital braille. “BRF was perfect for the needs of the braille community for so long,” said APH’s Technical Product Innovations Manager, Willow Free. “The file size is small, easy to open, and met the needs of simpler technology like embossers. But the needs of braille are changing. That’s where eBraille is coming in.”</p>
+<p>Throughout the development of eBraille, Duxbury employees have believed deeply in the new file type. Peter Sullivan, the current Vice President at Duxbury and grandson of the founder, offered his support to the cause because of the need he saw from the community. David Holladay, and his wife Caryn Navy, were supporters of APH’s eBraille design from the beginning. David attended many meetings before his passing, even from the hospital, working diligently to encourage the collaboration between APH and Duxbury as the new file type began to take shape. “Duxbury has really been spearheading the charge for eBraille. This new file type would not be successful without them,” said Free.</p>
+<p>eBraille is the next step in the evolution of braille. The flexible file type is no longer limited by fixed page sizes and now intelligently adapts itself to your display. eBraille understands structure so your headings, paragraphs, and lists are clearly defined which makes navigation effortless. “There’s not enough braille as it is, we don’t want our file types to be separated by device. eBraille is for everyone,” said Free. The use of the eBraille file allows for advanced navigation, inclusion of tactile graphics, lines that adjust automatically, and an overall smoother experience for the braille user. It will be available on the <a href="https://www.aph.org/meet-monarch/">Monarch</a>, <a href="https://www.brailleblaster.org/">BrailleBlaster</a>,  ePUB readers, and in your browser with a screen reader.</p>
+<p>Creating native eBraille files is now possible through the industry’s most popular braille transcription tool, Duxbury. To learn more about how to make the most of eBraille, join us for a webinar with Willow Free on Thursday, September 17 at 1pm ET. <a href="https://aph.zoom.us/webinar/register/WN_uTuBS6qAQYCkHTKpiqsqLg#/registration">Register here for New Horizons: eBraille with Duxbury.</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Product Updates &#038; Upgrades</title>
+		<link>https://www.aph.org/blog/product-updates-upgrades/</link>
+		
+		<dc:creator><![CDATA[rsmith]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2026 15:00:20 +0000</pubDate>
+				<category><![CDATA[News & Events]]></category>
+		<guid isPermaLink="false">https://www.aph.org/?p=1778833</guid>
+
+					<description><![CDATA[APH is always working to improve what already exists as we produce new technology and products to ensure we are...]]></description>
+										<content:encoded><![CDATA[<p>APH is always working to improve what already exists as we produce new technology and products to ensure we are serving the blind or low vision community in the best way possible. After listening to the people who interact with these products each day and with technology that is ever-changing, there is always room for improvement. We strive to keep you informed about any and all updates or enhancements to our products.</p>
+<p>&nbsp;</p>
+<h2><a href="https://www.aph.org/product/music-braille-sticker-set-additional-symbols-packs/">Music Braille Sticker Set, Additional Symbols packs</a></h2>
+<p>The Music Braille Sticker Additional Symbols packs are easy-to-use tactile labels that make it simple for educators to adapt printed music for braille readers, even without prior knowledge of the Music Braille Code. They available to use with, or as a replacement for, Music Braille Stickers.</p>
+<h2><a href="https://www.aph.org/product/kaibot/">KaiBot</a></h2>
+<p>A fully &#8211; accessible robot, KaiBot uses tactile tiles and braille programming cards to teach foundational coding concepts to braille readers, through interactive, hands-on play. At the center of the experience is the charming KaiBot robot, which students program by scanning Braille cards in the correct sequence to navigate paths, mazes, and obstacle courses they create themselves with tiles. The color-coordinated cards are organized into intuitive coding groups such as control flow, numbers, variables, and execution, making foundational programming concepts easier to understand. The kit also includes a companion app and guided lessons from Kai’s Education to support structured, hands-on learning.</p>
+<h2><a href="https://ews.aphtech.org/">Embossable Word Search</a></h2>
+<p>Embossable Word Search is a free website that allows teachers and braille readers to create and customize braille word searches or to select premade puzzles from our library. Word searches are exported as BRF files and can be embossed or used on compatible displays like Monarch.</p>
+<h2><a href="https://www.aph.org/product/mathbuilders-geometry/">MathBuilders: Geometry</a></h2>
+<p>MathBuilders: Geometry is a supplementary math program built to help blind and low vision students learn geometry by content standards. Customized by grade level, this product helps students build an understanding of two and three-dimensional shapes. The teacher guide and embossable worksheets have been updated and are now available as free downloads on our website.</p>
+<h2><a href="https://www.aph.org/product/mathbuilders-sorting/">MathBuilders: Sorting</a></h2>
+<p>MathBuilders: Sorting is a supplementary math program for blind and low vision students to learn matching, sorting, and patterns by content standards and grade level math using shapes and texture. The teacher guide and embossable worksheets have been updated and are now available as free downloads on our website.</p>
+<h2><a href="https://www.aph.org/product/aph-peg-slate/">Peg Slate</a></h2>
+<p>A new and improved version of the popular 1994 product, the <a href="https://www.aph.org/product/aph-peg-slate/">Peg Slate</a> is a low-tech tool that introduces braille writing and prepares students to use the traditional slate and stylus by teaching mirrored braille. The Peg Slate is ideal for low vision and tactile readers of all ages and levels of braille knowledge, as well as sighted users learning braille. It is a versatile tool useful for note taking, recognizing dot patterns, practicing spelling and contractions, writing braille numbers, and more.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Unlocking Math for Every Student: AnyMath Kit Transforms Learning for K–12 Students</title>
+		<link>https://www.aph.org/blog/unlocking-math-for-every-student-anymath-kit-transforms-learning-for-k-12-students/</link>
+		
+		<dc:creator><![CDATA[rsmith]]></dc:creator>
+		<pubDate>Thu, 20 Aug 2026 15:00:19 +0000</pubDate>
+				<category><![CDATA[News & Events]]></category>
+		<guid isPermaLink="false">https://www.aph.org/?p=1778098</guid>
+
+					<description><![CDATA[Mathematics is a subject built on patterns, shapes, and relationships. For students who are blind or low vision, however, accessing...]]></description>
+										<content:encoded><![CDATA[<p>Mathematics is a subject built on patterns, shapes, and relationships. For students who are blind or low vision, however, accessing these visual concepts can be a significant challenge. The AnyMath Kit from the American Printing House (APH) is changing that reality by turning abstract math into hands-on, meaningful learning experiences.</p>
+<p>&nbsp;</p>
+<h2>A Tool Designed for Every Stage of Learning</h2>
+<p>The AnyMath Kit is not just another classroom resource. It is a comprehensive, tactile math solution designed to grow with students from elementary school through high school. Whether a student is learning basic number lines and vertical calculations, exploring geometric shapes and coordinate systems, or working with algebraic and trigonometric functions, this kit provides the tools needed to fully engage with math concepts.</p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter wp-image-1778810 size-medium" src="https://www.aph.org/app/uploads/2026/08/AnyMath-4Z9A3575-web-300x200.jpg" alt=" A Venn diagram arranged on the blank board of the AnyMath Kit, demonstrating how to find the common factors of 18 and 30." width="300" height="200" srcset="https://www.aph.org/app/uploads/2026/08/AnyMath-4Z9A3575-web-300x200.jpg 300w, https://www.aph.org/app/uploads/2026/08/AnyMath-4Z9A3575-web-1024x683.jpg 1024w, https://www.aph.org/app/uploads/2026/08/AnyMath-4Z9A3575-web-768x512.jpg 768w, https://www.aph.org/app/uploads/2026/08/AnyMath-4Z9A3575-web-1536x1024.jpg 1536w, https://www.aph.org/app/uploads/2026/08/AnyMath-4Z9A3575-web-600x400.jpg 600w, https://www.aph.org/app/uploads/2026/08/AnyMath-4Z9A3575-web.jpg 1920w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>By supporting such a wide range of topics, the AnyMath Kit ensures that students with visual impairments can build strong mathematical foundations and continue advancing alongside their peers.</p>
+<p>&nbsp;</p>
+<h2><strong>Bringing Math to Life Through Touch</strong></h2>
+<p>At the heart of the AnyMath Kit is tactile learning. Students can create and explore math concepts using a variety of physical components:</p>
+<p>* A grid board and a blank board for creating graphs, diagrams, and spatial layouts</p>
+<p>* Flexible cords with distinct textures for drawing lines and curves</p>
+<p>* Geometric shapes, both outlined and filled, for hands-on exploration</p>
+<p>* Tiles with numbers, symbols, and letters in both braille and print</p>
+<p><img decoding="async" class="size-medium wp-image-1778811 aligncenter" src="https://www.aph.org/app/uploads/2026/08/AnyMath-4Z9A3576-web-300x200.jpg" alt="Outlines of a triangle and a square arranged on the blank board of the AnyMath Kit. A median is shown in the triangle, and a diameter is shown in the square." width="300" height="200" srcset="https://www.aph.org/app/uploads/2026/08/AnyMath-4Z9A3576-web-300x200.jpg 300w, https://www.aph.org/app/uploads/2026/08/AnyMath-4Z9A3576-web-1024x683.jpg 1024w, https://www.aph.org/app/uploads/2026/08/AnyMath-4Z9A3576-web-768x512.jpg 768w, https://www.aph.org/app/uploads/2026/08/AnyMath-4Z9A3576-web-1536x1024.jpg 1536w, https://www.aph.org/app/uploads/2026/08/AnyMath-4Z9A3576-web-600x400.jpg 600w, https://www.aph.org/app/uploads/2026/08/AnyMath-4Z9A3576-web.jpg 1920w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>These features allow students to &#8220;feel&#8221; math, transforming abstract ideas into concrete understanding. The kit’s design makes it easy to construct everything from simple equations to complex graphs, helping students visualize and internalize concepts in a way that traditional materials often cannot provide.</p>
+<p>&nbsp;</p>
+<h2><strong>Supporting Inclusive Classrooms</strong></h2>
+<p>One of the most powerful aspects of the AnyMath Kit is its dual media design. With both braille and print included, the kit enables seamless communication between students, teachers, and peers, whether they are sighted or visually impaired.</p>
+<p><img decoding="async" class="size-medium wp-image-1778808 aligncenter" src="https://www.aph.org/app/uploads/2026/08/AnyMath-4Z9A3573-web-300x200.jpg" alt="A Venn diagram arranged on the blank board of the AnyMath Kit, demonstrating how to find the common factors of 18 and 30." width="300" height="200" srcset="https://www.aph.org/app/uploads/2026/08/AnyMath-4Z9A3573-web-300x200.jpg 300w, https://www.aph.org/app/uploads/2026/08/AnyMath-4Z9A3573-web-1024x683.jpg 1024w, https://www.aph.org/app/uploads/2026/08/AnyMath-4Z9A3573-web-768x512.jpg 768w, https://www.aph.org/app/uploads/2026/08/AnyMath-4Z9A3573-web-1536x1024.jpg 1536w, https://www.aph.org/app/uploads/2026/08/AnyMath-4Z9A3573-web-600x400.jpg 600w, https://www.aph.org/app/uploads/2026/08/AnyMath-4Z9A3573-web.jpg 1920w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>&nbsp;</p>
+<p>This makes the kit especially valuable in inclusive classrooms, where collaboration and shared understanding are essential. Teachers can demonstrate concepts to the entire class, while students can independently build and explore those same ideas tactilely.</p>
+<p>&nbsp;</p>
+<h2><strong>Easy to Use, Built for Real Classrooms</strong></h2>
+<p>Educators know that practicality matters. The AnyMath Kit is designed with real classroom needs in mind:</p>
+<p>* Lightweight, foldable boards for easy storage and transport</p>
+<p>* A smooth surface that securely holds tactile pieces in place</p>
+<p>* Quick setup, allowing more time for teaching and learning</p>
+<p><img loading="lazy" decoding="async" class="aligncenter wp-image-1778809 size-medium" src="https://www.aph.org/app/uploads/2026/08/AnyMath-4Z9A3574-web-e1787167539543-300x200.jpg" alt="The graph of the trigonometric function y = sin(x) is arranged on the grid board of the AnyMath Kit." width="300" height="200" /></p>
+<p>Teachers who have tested the kit consistently highlight its usability and effectiveness. Many report that it not only meets a critical need for accessible math tools but also sparks curiosity and engagement among students.</p>
+<p>&nbsp;</p>
+<h2>Empowering Confidence and Independence</h2>
+<p>Beyond academics, the AnyMath Kit plays an important role in building student confidence. When students can independently construct graphs, solve equations, and explore geometry, they gain a deeper sense of ownership over their learning.</p>
+<p>This independence is essential—not just for success in math, but for future education and career opportunities in STEM fields.</p>
+<p>&nbsp;</p>
+<h2>A New Standard for Accessible Math</h2>
+<p>Accessible math education should not be an afterthought. It should be the standard. The AnyMath Kit represents a major step forward in making that vision a reality. By combining tactile exploration, thoughtful design, and broad curriculum support, it opens the door for students with visual impairments to fully participate and succeed in mathematics.</p>
+<p>For educators, families, and schools seeking a powerful, all-in-one solution for accessible math instruction, the AnyMath Kit offers something truly transformative: a way for every student to experience math, understand it deeply, and succeed with confidence.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Monarch is Making a Difference: Kristina Vannoy&#8217;s Story</title>
+		<link>https://www.aph.org/blog/monarch-is-making-a-difference-kristina-vannoys-story/</link>
+		
+		<dc:creator><![CDATA[rsmith]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2026 15:00:32 +0000</pubDate>
+				<category><![CDATA[News & Events]]></category>
+		<guid isPermaLink="false">https://www.aph.org/?p=1777278</guid>
+
+					<description><![CDATA[Monarch is continuing to change the game for students who are blind or low vision. Part of the Monarch Student...]]></description>
+										<content:encoded><![CDATA[<p><span data-contrast="auto">Monarch is continuing to change the game for students who are blind or low vision. </span><span data-contrast="none">Part of the </span><a href="https://www.aph.org/meet-monarch/mspp/"><span data-contrast="none">Monarch Student Pilot Project</span></a><span data-contrast="none"> (MSPP), Kristina Vannoy and her student Drew has had the chance to use Monarch throughout his junior year of high school. As someone with a self-proclaimed “engineer’s brain,” Monarch has fanned the flame Drew has for learning.</span><span data-ccp-props="{&quot;335559739&quot;:0}"> </span></p>
+<p><span data-contrast="none">Drew had his vision until age eleven. After a series of surgeries that were meant to save his vision, Drew was left blind before the age of twelve. Having grown up with his vision, Drew still thinks visually, so he values getting a chance to tactilely access images or other concepts. Before Monarch, it would sometimes take weeks for Drew to get his hands on a graphic for a math class or map for a social studies class. Monarch is able to create graphics with Wing-It or pull it from the </span><a href="https://imagelibrary.aph.org/portals/aphb/"><span data-contrast="none">Tactile Graphic Image Library</span></a><span data-contrast="none"> within seconds. </span><span data-ccp-props="{&quot;335559739&quot;:0}"> </span></p>
+<p><span data-contrast="auto">As Drew continues his education, Monarch has evened the playing field, making it possible for him to take challenging classes like trigonometry and chemistry. Before Monarch, the assistive technology Drew had access to wasn’t tactile. For example, Vannoy explains how a touch screen tablet with a screen reader can allow for interactive exploration or learning, but it will not have any sort of tactile variation for the user. With Monarch, Drew is able to touch the braille and tactile graphics while also using a screen reader. This allows him to use all of the senses available to him to maximize his learning experience.</span><span data-ccp-props="{&quot;335559739&quot;:0}"> </span></p>
+<p><span data-contrast="auto">Drew’s excitement for Monarch is matched with excitement for more innovation within assistive technology as a whole. Drew and Vannoy both love the way Monarch brings twenty-first century technology to students who are blind or low vision. In a digital world, Monarch allows blind or low vision students like Drew to be able to use a computer that has fully integrated tactile graphics and a multi-line braille display. </span><span data-ccp-props="{&quot;335559739&quot;:0}"> </span></p>
+<p><span data-contrast="auto">Drew is grateful for all Monarch does now, but also excited for what is yet to come. Monarch has sparked a desire in Drew to keep innovating as he anticipates other pieces of new technology that will help level the playing field between blind or low vision students and their peers. His “engineer’s mind” is already spinning about what could be included in the next Monarch update or finding new ways of utilizing Monarch outside of the classroom.</span><span data-ccp-props="{&quot;335559731&quot;:720,&quot;335559739&quot;:0}"> </span></p>
+<p><span data-contrast="auto">Vannoy’s excitement surrounding Monarch looks a little different than Drew’s but is just as deep. The ability to set up different profiles on Monarch allows for individualization between students who will all have different needs. Vannoy is grateful for its versatility and the way Monarch encourages braille literacy by being easier to use than single line refreshable braille displays.</span><span data-ccp-props="{&quot;335559731&quot;:720,&quot;335559739&quot;:0}"> </span></p>
+<p><span data-contrast="auto">After graduating high school, Drew wants to obtain a four-year degree that will aid him in his goal of becoming a high school history teacher or college history professor. His passion for education goes beyond his own as he wants to help others as well. Drew is proud to be a part of the MSPP, saying “We are laying the groundwork for what’s to come.” Vannoy feels the same, noting that Monarch is truly a “game changer” when it comes to education for those who are blind or low vision.</span><span data-ccp-props="{&quot;335559739&quot;:0}"> </span></p>
+<p><span data-contrast="auto">Are you interested in learning more about Monarch and ways the MSPP has impacted students? Check out the links below!</span><span data-ccp-props="{&quot;335559739&quot;:0}"> </span></p>
+<ul>
+<li><a href="https://www.aph.org/blog/monarch-is-making-a-difference-demi-morgans-story/">Monarch is Making a Difference: Demi Morgan’s Story</a></li>
+<li><a href="https://www.aph.org/blog/monarch-is-making-a-difference-comparative-study-explores-statistics-and-scatter-plots/">Monarch is Making a Difference: Comparative Study Explores Statistics and Scatter Plots</a></li>
+<li><a href="https://www.aph.org/blog/one-year-later-celebrating-and-reflecting-on-the-monarch/?swpmtx=b8fecb84bbb44ecaa50e16b4b818fc72&amp;swpmtxnonce=60cdcc37cb">One Year Later: Celebrating and Reflecting on the Monarch</a></li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Monarch is Making a Difference: Demi Morgan&#8217;s Story</title>
+		<link>https://www.aph.org/blog/monarch-is-making-a-difference-demi-morgans-story/</link>
+		
+		<dc:creator><![CDATA[rsmith]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2026 15:00:16 +0000</pubDate>
+				<category><![CDATA[News & Events]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[computer literacy]]></category>
+		<category><![CDATA[monarch]]></category>
+		<category><![CDATA[refreshable braille display]]></category>
+		<category><![CDATA[students braille display]]></category>
+		<category><![CDATA[tactile graphics]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">https://www.aph.org/?p=1775513</guid>
+
+					<description><![CDATA[Demi Morgan is the Associate Director of TVI Services at Miami Lighthouse for the Blind and Visually Impaired. When she...]]></description>
+										<content:encoded><![CDATA[<p style="text-align: left;">Demi Morgan is the Associate Director of TVI Services at Miami Lighthouse for the Blind and Visually Impaired. When she first heard about Monarch in 2024, she knew it would be a great piece of technology for her students. Since then, Demi has seen Monarch’s impact firsthand as more of her students have had a chance to work with it.</p>
+<p style="text-align: left;">When Morgan first saw Monarch in person, she was surprised at its size. Until then, the braille displays Morgan had seen only offered one line of refreshable text. Monarch’s size and multi-line display allows for more customization and easier navigation for first time braille learners.</p>
+<p style="text-align: left;">Before Monarch, one of her third-grade students had only had the chance to read and write braille on paper. Since using Monarch, he has been able to experience and learn with digital braille. Now, when his peers are working on touch-screen tablets, he is able to use his own technology built to suit his needs. Monarch’s refreshable display has helped to decrease his habit of scrubbing the page while reading braille, and the combination of braille and a screen reader have increased his focus and independence while working.</p>
+<p style="text-align: left;">With so much more at his fingertips, Morgan has seen her student’s interest in learning skyrocket. Whether it’s getting the chance to access <a href="https://www.bookshare.org/">Bookshare</a> and read any book he might have interest in or getting the chance to browse the internet in search for an answer to one of his many research questions, Monarch has greatly improved her student’s desire to gain knowledge.</p>
+<p style="text-align: left;">Not only has Morgan seen an increase in her student’s braille literacy, but she has also seen an increase in his computer literacy as well. Monarch gives students a chance to use a fully functional computer that has a screen reader, braille display, and a keyboard. In a world where schools and careers utilize computers more and more, Monarch gives blind or low vision students the chance to use a computer just like their peers. “Monarch is their laptop,” Morgan said.</p>
+<p style="text-align: left;">Since Monarch, Morgan’s students have had the chance to have images integrated into their learning with the <a href="https://www.aph.org/blog/the-tactile-graphics-image-library-helping-students-succeed/">Tactile Graphic Image Library</a>. Previously, her students either missed out on the images altogether or relied on raised line drawings. Since Monarch, Morgan’s students are able to access images in the same way as their peers. They can manipulate the tactile graphics by zooming in or out and are no longer limited to what someone can draw. “The Tactile Graphic Image Library amazed me with all it could do!” Morgan said. Her students now have access to images from the very beginning of their braille journey which aids in learning concepts faster.</p>
+<p style="text-align: left;">A TVI for quite some time, Morgan can say with confidence that getting the chance to introduce tactile graphics early has made a huge impact on her students. “It encourages tactile exploration for young braille readers in a way a traditional brailler does not.” Morgan is excited to see how Monarch continues to impact her first-time braille students.</p>
+<p style="text-align: left;">Overall, Morgan is most grateful for the way Monarch closes the gap for blind or low vision students and their sighted peers. “It gives blind or low vision students a chance to work on a computer that is made for them, access the same images found in their textbooks as their classmates, and so much more,” said Morgan. “I want my students to be as independent as they can be. Monarch gives them that independence.”</p>
+<p style="text-align: left;">The Monarch continues to break down barriers and open fields for more blind or low vision students. To learn more about Monarch, <a href="https://www.aph.org/meet-monarch/">visit our Meet Monarch page</a>. To read more stories like Daniel’s, visit some of our blogs linked below!</p>
+<ul style="text-align: left;">
+<li><a href="https://www.aph.org/blog/monarch-is-making-a-difference-comparative-study-explores-statistics-and-scatter-plots/">Monarch is Making a Difference: Comparative Study Explores Statistics and Scatter Plots</a></li>
+<li><a href="https://www.aph.org/blog/monarch-is-making-a-difference-daniel-harriss-story/">Monarch is Making a Difference: Daniel Harris&#8217;s Story</a></li>
+<li><a href="https://www.aph.org/blog/one-year-later-celebrating-and-reflecting-on-the-monarch/?swpmtx=b8fecb84bbb44ecaa50e16b4b818fc72&amp;swpmtxnonce=60cdcc37cb">One Year Later: Celebrating and Reflecting on the Monarch</a></li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Learning with KaiBot: Accessible Coding Lesson</title>
+		<link>https://www.aph.org/blog/learning-with-kaibot-accessible-coding-lesson/</link>
+		
+		<dc:creator><![CDATA[rsmith]]></dc:creator>
+		<pubDate>Wed, 01 Jul 2026 19:30:27 +0000</pubDate>
+				<category><![CDATA[News & Events]]></category>
+		<category><![CDATA[accessible]]></category>
+		<category><![CDATA[accessible innovation]]></category>
+		<category><![CDATA[accessible learning]]></category>
+		<category><![CDATA[Coding]]></category>
+		<category><![CDATA[coding concepts]]></category>
+		<category><![CDATA[kaibot]]></category>
+		<category><![CDATA[kainundrum lite]]></category>
+		<category><![CDATA[robot]]></category>
+		<category><![CDATA[tactile learning]]></category>
+		<guid isPermaLink="false">https://www.aph.org/?p=1775609</guid>
+
+					<description><![CDATA[KaiBot is an interactive tool that combines tactile learning, introductory coding, and accessible innovation. The KaiBot robot, complete with varying...]]></description>
+										<content:encoded><![CDATA[<p>KaiBot is an interactive tool that combines tactile learning, introductory coding, and accessible innovation. The KaiBot robot, complete with varying colors, lights, and textures, is engaging for all types of students. Students program the robot by scanning braille cards in sequences to navigate paths, mazes, and courses they create with tiles. “The physical robot navigates the magnetic tiles using Braille cards to reinforce foundational coding concepts while the companion app, Kainundrum Lite, unlocks the full accessible suite of features, including a specialized custom curriculum,” said APH Product Manager, Avery Baggett.</p>
+<p>Companion lessons can help provide guidance, structure, and fun! Below is a guided lesson, “Teaching Coding Cards with a Cake Baking Analogy,” that emphasizes the importance of coding sequences with sweet results. “I love this lesson as a starting point for the full KaiBot experience. Discussing the theory behind how and why code works is baked into this lesson (pun intended). Only after a discussion of what the students have learned does the instructor begin to introduce the actual cards used to write code,” said Bagget.</p>
+<p>You can work through this lesson on paper or create real-world application by baking a cake as you go!</p>
+<h2>Teaching Coding Cards with a Cake Baking Analogy</h2>
+<h3>Required Materials</h3>
+<ul>
+<li><a href="https://www.aph.org/product/kaibot/">KaiBot &amp; Coding Cards</a> or the <a href="https://kaiseducation.com/wp-content/uploads/2021/12/Kais-Coding-Cards-print-edition-v7.pdf">downloadable Coding Cards</a></li>
+<li>Basic math tools (like counters)</li>
+<li>Drawing materials</li>
+<li>A cake recipe</li>
+<li>Optional: simple baking ingredients for a real-world demonstration</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Lesson Plan</h3>
+<ol>
+<li>Compare each coding card to an ingredient or a step in a recipe. Introduce basic counting when discussing quantities in the recipe (e.g., 2 cups of flour, 1 more egg).</li>
+<li>Emphasize the importance of order in recipes and coding sequences. Encourage students to predict outcomes of rearranging steps and test their predictions.</li>
+<li>Discuss the concept of beginning (Gathering ingredients) and ending (Enjoy your cake!) in processes. Encourage students to describe the sequence in their own words or write simple instructions.</li>
+<li>Students add action cards like “mix batter” or “bake.” Create a visual or tactile representation of these steps to lay out.</li>
+<li>Create a basic sequence resembling a cake recipe. Discuss how technology (like ovens) has changed over time and improved baking.</li>
+<li>Students lay out their own &#8216;recipe&#8217; using coding cards. Optionally, conduct a real mini baking activity to demonstrate the process.</li>
+<li>Discuss how changing steps affect outcomes in recipes and coding.</li>
+</ol>
+<h4>Completing the Lesson</h4>
+<ol>
+<li>Recipe Introduction
+<ol>
+<li>Begin by comparing each coding card to an ingredient or a step in a recipe.</li>
+<li>Explain that just as in baking, where we follow steps in a recipe, in coding, we follow steps defined by the cards.</li>
+</ol>
+</li>
+<li>Sequential Steps
+<ol>
+<li>Show that the order of steps in a recipe is important, just like the order of coding cards. Lay out the cards in a sequence as you would list steps in a recipe.</li>
+</ol>
+</li>
+<li>Start and Finish
+<ol>
+<li>Highlight that every recipe starts with &#8220;Gathering ingredients&#8221; (akin to the &#8220;Start&#8221; card) and ends with &#8220;Enjoy your cake!&#8221; (akin to the &#8220;End&#8221; card).</li>
+<li>Place a &#8220;Start&#8221; card at the beginning and an &#8220;End&#8221; card at the end of your sequence, just like starting and finishing steps in a recipe.</li>
+</ol>
+</li>
+<li>Adding Steps (Ingredients/Actions)
+<ol>
+<li>Between the &#8220;Start&#8221; and &#8220;End&#8221; cards, add action cards like &#8220;mix batter&#8221;, &#8220;pour into pan&#8221;, or &#8220;bake&#8221; to mimic the steps of baking a cake.</li>
+<li>Discuss how changing the order of these steps, like baking before mixing, wouldn’t make a cake, similar to how rearranging coding cards changes the program&#8217;s outcome.</li>
+</ol>
+</li>
+<li>Simple Recipe Example
+<ol>
+<li>Create a basic sequence resembling a simple cake recipe: [Start] -&gt; [Mix Ingredients] -&gt; [Pour into Pan] -&gt; [Bake] -&gt; [Let it Cool] -&gt; [End].</li>
+<li>Walk the student through each card, explaining how following these steps in order leads to a delicious cake, just like following coding cards in order creates a working program.</li>
+</ol>
+</li>
+<li>Hands-On Baking Activity
+<ol>
+<li>Encourage the student to lay out their own &#8216;recipe&#8217; using the coding cards.</li>
+<li>They can pretend to bake a cake following their card sequence or even act out the actions for a more interactive experience.</li>
+</ol>
+</li>
+<li>Reflection and Understanding
+<ol>
+<li>After the activity, discuss how changing the steps in a recipe result in a different cake or no cake at all, just like changing the order of coding cards affects the program. This helps them understand the importance of sequence and order in coding.</li>
+</ol>
+</li>
+</ol>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Monarch is Making a Difference: Comparative Study Explores Statistics and Scatter Plots</title>
+		<link>https://www.aph.org/blog/monarch-is-making-a-difference-comparative-study-explores-statistics-and-scatter-plots/</link>
+		
+		<dc:creator><![CDATA[rsmith]]></dc:creator>
+		<pubDate>Thu, 18 Jun 2026 15:00:03 +0000</pubDate>
+				<category><![CDATA[News & Events]]></category>
+		<category><![CDATA[accessibility]]></category>
+		<category><![CDATA[accessible]]></category>
+		<category><![CDATA[accessible computing]]></category>
+		<category><![CDATA[accessible data exploration systems]]></category>
+		<category><![CDATA[bar charts]]></category>
+		<category><![CDATA[blind]]></category>
+		<category><![CDATA[braille literacy]]></category>
+		<category><![CDATA[computing capabilities]]></category>
+		<category><![CDATA[data visualization]]></category>
+		<category><![CDATA[digital pins]]></category>
+		<category><![CDATA[HDMI port]]></category>
+		<category><![CDATA[information science]]></category>
+		<category><![CDATA[line graphs]]></category>
+		<category><![CDATA[monarch]]></category>
+		<category><![CDATA[numeracy]]></category>
+		<category><![CDATA[olli]]></category>
+		<category><![CDATA[pie charts]]></category>
+		<category><![CDATA[refreshable braille computer]]></category>
+		<category><![CDATA[refreshable system]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[screen reader]]></category>
+		<category><![CDATA[statistics]]></category>
+		<category><![CDATA[students]]></category>
+		<category><![CDATA[taccess]]></category>
+		<category><![CDATA[tactile graphics]]></category>
+		<category><![CDATA[tactual plot]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[text generator]]></category>
+		<category><![CDATA[touch keys]]></category>
+		<category><![CDATA[visual display]]></category>
+		<category><![CDATA[web accessibility]]></category>
+		<guid isPermaLink="false">https://www.aph.org/?p=1773103</guid>
+
+					<description><![CDATA[Designed for both students and adults, Monarch is equipped with tools that foster independent workers, make learning simpler, and daily living...]]></description>
+										<content:encoded><![CDATA[<p>Designed for both students and adults, Monarch is equipped with tools that foster independent workers, make learning simpler, and daily living more accessible. APH is always supportive of research that allows us to better understand the effectiveness of Monarch and gives us insight into how we can improve upon it.</p>
+<p>Recently, we were excited to learn that Monarch was part of a comparative study of three accessible data exploration systems ─ <a href="https://vis.csail.mit.edu/pubs/olli/">Olli</a> (a text generator for screen reader access), <a href="https://ieeexplore.ieee.org/document/10308620">TactualPlot</a> (an audio-tactile tablet-based system), and the <a href="https://www.aph.org/product/monarch/">Monarch</a> itself (a refreshable braille computer).</p>
+<p>In the University of Maryland study which was published in ACM Transactions on Accessible Computing Journal article, <a href="https://dl.acm.org/doi/10.1145/3798100">&#8220;Sound, Touch, or the Full Monty? A Comparative Study of Accessible Data Exploration Systems for Blind Users&#8221;</a><strong>, </strong>ten blind participants completed data analysis tasks across bar charts, pie charts, line charts, and scatter plots. The goal: exploring how to make data visualizations more accessible to people who are blind or low vision. The result? While all three systems were comparable regarding visualization task accuracy, one thing stood out: <strong>participants were by far the fastest on Monarch.</strong></p>
+<p>One of the study collaborators was Yasmin Reyazuddin, a blind individual and graduate from the University of Maryland. Reyazuddin was the first to suggest that Monarch be used as part of the study for data visualization ─ attributing her love for math, which paved the way for her love of statistics, to APH’s metal slate.</p>
+<p>Having first been introduced to Monarch at a convention in Houston in 2023, Reyazuddin instantly recognized that Monarch was useful for showing the shape and design of different tables, pie charts, and line graphs that were being looked at. “Monarch was much faster [in general],” Reyazuddin said. “There was a clear difference at the speed in which participants were able to complete tasks.” When asked what her favorite feature of Monarch was, she said, “The whole of it. The best thing is that I can read more than one line at a time, increasing speed – but also, I can do statistics on Monarch.”</p>
+<p>A researcher involved in the study, Pramod Chundury, is the lead author and a data scientist with a Ph.D. in information science and a background in accessibility and data visualization. He says his passion for accessibility came about during his master’s program when he first worked on smart watches for people with upper body motor impairments.</p>
+<p>The value of Monarch really shone through to Chundury when they were conducting a design session in which they asked a blind individual to create charts. “People have different ways of creating charts and this individual was able to create charts on his computer using standard visualization libraries,” said Chundury. “Having access to a refreshable system like Monarch while you’re creating charts ─ the fact that you could iterate ─ made all the difference,” said Chundury, referencing how quickly the digital pins refreshed.</p>
+<p>Chundury also expressed his appreciation for the Monarch’s computing capabilities when customizing documents, like adjusting margins. Some of his favorite features on Monarch are the touch keys and the HDMI port which supports the visual display. He recalled how, while working with a participant who was trying to create charts, he couldn’t visually discern what was on the screen at first, but with the HDMI port, he was able to connect his monitor to the Monarch and actually run the session.</p>
+<p>A research engineer at the College of Information (INFO), University of Maryland, J. Bern Jordan has been a part of the technology and accessibility field for over 20 years. Having started in web accessibility, he says being involved in this project as a researcher was a way of contributing to something that wasn’t his main line of work.</p>
+<p>Monarch is “exciting technology,” Jordan said. With single-line refreshable braille displays being the “norm” for such a long time, Monarch has opened up a lot of computing for braille readers. “Monarch doesn’t just open up braille literacy – it opens up numeracy and tactile graphics, and connection to that in a way that’s much more dynamic than having somebody create a swell paper diagram for you every once in a while,” Jordan said. “Now you have the educational material, quite literally at your fingertips.”</p>
+<p>The Monarch continues to break down barriers and open fields for more blind or low vision students. To learn more about Monarch, <a href="https://www.aph.org/meet-monarch/">visit our Meet Monarch page</a>. To read more stories like this one, visit some of our blogs linked below!</p>
+<ul>
+<li><a href="https://www.aph.org/blog/monarch-is-making-a-difference-hannah-defelices-story/">Monarch is Making a Difference: Hannah DeFelice’s Story</a></li>
+<li><a href="https://www.aph.org/blog/one-year-later-celebrating-and-reflecting-on-the-monarch/?swpmtx=b8fecb84bbb44ecaa50e16b4b818fc72&amp;swpmtxnonce=60cdcc37cb">One Year Later: Celebrating and Reflecting on the Monarch</a></li>
+<li><a href="https://www.aph.org/blog/monarch-is-making-a-difference-alexander-liddells-story/">Monarch is Making a Difference: Alexander Liddell’s Story </a></li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Celebrating the First Monarch Student Pilot Project Graduates</title>
+		<link>https://www.aph.org/blog/celebrating-the-first-monarch-student-pilot-project-graduates/</link>
+		
+		<dc:creator><![CDATA[rsmith]]></dc:creator>
+		<pubDate>Thu, 28 May 2026 19:41:18 +0000</pubDate>
+				<category><![CDATA[News & Events]]></category>
+		<category><![CDATA[accessible technology]]></category>
+		<category><![CDATA[braille technology]]></category>
+		<category><![CDATA[cie]]></category>
+		<category><![CDATA[cutting edge tech]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[graduates]]></category>
+		<category><![CDATA[homeschool]]></category>
+		<category><![CDATA[monarch]]></category>
+		<category><![CDATA[monarch student pilot project]]></category>
+		<category><![CDATA[mspp]]></category>
+		<category><![CDATA[rise]]></category>
+		<category><![CDATA[technical]]></category>
+		<category><![CDATA[tools]]></category>
+		<category><![CDATA[vocational]]></category>
+		<guid isPermaLink="false">https://www.aph.org/?p=1773750</guid>
+
+					<description><![CDATA[This May, the Monarch Student Pilot Project (MSPP) celebrated the graduation of 16 seniors. As students look to what’s next...]]></description>
+										<content:encoded><![CDATA[<p>This May, the Monarch Student Pilot Project (MSPP) celebrated the graduation of 16 seniors. As students look to what’s next — universities; vocational, technical, or trade programs; and more — they have been given all the tools they need to go forward with confidence. MSPP Project Manager Sarah Gauer has no doubt their futures are bright, “I feel an overwhelming sense of anticipation. I cannot wait to witness what these young adults will accomplish!”</p>
+<p>Not only are these 16 seniors graduating with unparalleled education on the Monarch ecosystem, but thanks to the MSPP, each of these students will now be taking their Monarch with them at no cost. “I haven’t used this word many times in my life, but the only accurate description I can think of when the students heard the news is jubilation! There’s been lots of celebrations, some tears of joy, as well as intense relief. For a lot of students, Monarch has become an integral part of their everyday and they couldn’t imagine facing the next chapter of their lives without multiline braille,” said Gauer. “Monarch is opening up opportunities that have never existed before. These young adults now get to leverage those opportunities, which is an enormous deal.”</p>
+<p>Each of the students has also been given an automatic acceptance into the Monarch RISE Project, should they choose to apply. “RISE is an amazing opportunity for these young adults to continue their Monarch journey. Not only will they continue to have support learning new features of Monarch as they launch, but they’ll also receive support learning and applying competitive integrated employment (CIE) skills like resume building, self-advocacy, delivering presentations, and live collaboration with colleagues,” said Gauer. Projects like Monarch RISE and MSPP are helping to build confidence, proficiency, and independence for Monarch users. “Programs like this are vital and we need more of them. The goal has always been to empower access tech users. What better way to meet that goal than to bring cutting edge tech into their hands as soon as possible and provide dedicated pathways to share feedback and innovative ideas? These programs are giving participants a hand in the future of accessible technology.” said Gauer.</p>
+<p>In their most recent meeting, on May 26, MSPP and RISE users alike took some time to celebrate the graduating seniors. An educator from New Mexico said, “I love the Monarch and seeing the things that it’s done to change our students’ walk in education.” She also said, “Seeing the teachers and students get excited together about the process and the device and outcomes, that has been a big, huge sunshine.” A homeschool parent from Mississippi said, “I will figure out a way to incorporate Monarch with every subject because he just enjoys it that much, and it’s helped him out so much.”</p>
+<p>Wherever life takes these students next, we are confident they have been equipped with the tools they need to achieve their dreams. “Some of them may not even realize it yet, but they’ve become expert consultants on cutting edge braille technology. They’ve honed not just their accessible technology skills, but also their ingenuity by evaluating the existing tech, voicing their observations, and pitching creative ideas. Having an innovative mindset is like a Swiss army knife in their back pocket; it will come in handy wherever they find themselves,” said Gauer.</p>
+<p>Congratulations to the 2026 graduating class of MSPP seniors, we cannot wait to see what you do next!</p>
+<p><strong>Portions of the content of this blog were developed under grant #H421F240052 from the U.S. Department of Education (Department). The Department does not mandate or prescribe practices, models, or other activities described or discussed in this document. The contents of this blog may examples of, adaptations of, and links to resources created and maintained by another public or private organization. The Department does not control or guarantee the accuracy, relevance, timeliness, or completeness of this outside information. The content of this blog does not necessarily represent the policy of the Department. This publication is not intended to represent the views or policy of or be an endorsement of any views expressed, or materials provided by any Federal agency (EDGAR 75.620).</strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Monarch is Making a Difference: Daniel Harris&#8217;s Story</title>
+		<link>https://www.aph.org/blog/monarch-is-making-a-difference-daniel-harriss-story/</link>
+		
+		<dc:creator><![CDATA[rsmith]]></dc:creator>
+		<pubDate>Tue, 12 May 2026 15:00:13 +0000</pubDate>
+				<category><![CDATA[News & Events]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[AT]]></category>
+		<category><![CDATA[braille literacy]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[geometry]]></category>
+		<category><![CDATA[graphics]]></category>
+		<category><![CDATA[homeschool]]></category>
+		<category><![CDATA[homeschooler]]></category>
+		<category><![CDATA[homeschooling]]></category>
+		<category><![CDATA[math problems]]></category>
+		<category><![CDATA[monarch]]></category>
+		<category><![CDATA[monarch student pilot project]]></category>
+		<category><![CDATA[mspp]]></category>
+		<category><![CDATA[refreshable braille display]]></category>
+		<category><![CDATA[science]]></category>
+		<category><![CDATA[spell check]]></category>
+		<category><![CDATA[textbooks]]></category>
+		<category><![CDATA[thrive]]></category>
+		<guid isPermaLink="false">https://www.aph.org/?p=1772297</guid>
+
+					<description><![CDATA[About to finish his junior year of high school, Daniel Harris received his Monarch in the fall of 2025. Ever...]]></description>
+										<content:encoded><![CDATA[<p>About to finish his junior year of high school, Daniel Harris received his Monarch in the fall of 2025. Ever since, his love for school, learning, and all things braille has increased tenfold! We had the chance to talk to Daniel and his mom, Stacie, about how Monarch has made a difference in Daniel’s educational journey.</p>
+<p>Daniel has gone through multiple transitions throughout his years of schooling. He started out in public school, but his parents wanted him to spend more time learning and reading braille, so he started attending Mississippi School for the Deaf and Blind (MSDB) in middle school. It was here that Daniel had the chance to work on his first refreshable braille display (<a href="https://www.aph.org/product/chameleon-20/">Chameleon-20</a>), and he got to practice writing in braille more often. While attending MSDB, Daniel had the chance to work with Monarch alongside his braille teacher. When his sophomore year was coming to a close, Daniel and his family had made the decision to switch to homeschooling.</p>
+<p>Stacie was daunted at the idea of homeschooling without having different pieces of Assistive Technology (AT), but before Daniel left MSDB, his braille teacher let them know about the <a href="https://www.aph.org/meet-monarch/mspp/" rel="">Monarch Student Pilot Project (MSPP)</a>—a program that provides students between 1<sup>st</sup> and 12<sup>th</sup> grade with a Monarch that they can use both in and out of the classroom. Daniel still qualified for MSPP even as a homeschooler, so he applied and was accepted in fall of 2025.</p>
+<p>Now, Daniel is able to be fully immersed in braille as he continues to learn and grow. Where in the past Daniel had to rely on audio or readers to access textbooks, graphics, or math problems, he can now access everything through his Monarch. He is also able to strengthen his geometry skills and braille literacy skills at the same time. Having everything at his fingertips allows Daniel to be more independent in his studies.</p>
+<p>For the first time, Daniel is excited about science. Now that he has a textbook with tactile images ready for him to read, he can better comprehend the concepts he is learning about. He can also access the figures right next to the text, making the process of learning more seamless and immersive. Previously, science was a subject that Daniel did not particularly enjoy, but now it is one of his favorites!</p>
+<p>Monarch has also given Daniel the chance to work on his computer skills. By using both the auditory feedback and braille on Monarch, Daniel is able to learn more about how computers work, how to check his email, and how to use spell check when writing. He can also look up any question he might have without ever having to switch devices.</p>
+<p>Daniel could not speak more highly of his Monarch, saying “I love my Monarch because it has so many cool features that you can use for help.” Daniel’s joy for learning, braille, and school is contagious. He looks forward to starting school each day, and he is motivated to continue improving in all his subjects.</p>
+<p>As much of a difference Monarch made on Daniel, it has also made an impact on Stacie. Stacie knew she wanted to support her son as much as she could, and Monarch has made it easier for her to do so. By connecting Monarch to a monitor, she can follow along with Daniel and help him out if he ever gets stuck on something. Now, Stacie and Daniel can work as a team throughout the school day! Stacie explains, “I can’t express our gratitude and love for Monarch. It has allowed Daniel to thrive in his education.”</p>
+<p>The Monarch continues to break down barriers and open fields for more blind or low vision students. To learn more about Monarch, <a href="https://www.aph.org/meet-monarch/">visit our Meet Monarch page</a>. To read more stories like Daniel’s, visit some of our blogs linked below!</p>
+<ul>
+<li><a href="https://www.aph.org/blog/monarch-is-making-a-difference-hannah-defelices-story/">Monarch is Making a Difference: Hannah DeFelice’s Story</a></li>
+<li><a href="https://www.aph.org/blog/one-year-later-celebrating-and-reflecting-on-the-monarch/?swpmtx=b8fecb84bbb44ecaa50e16b4b818fc72&amp;swpmtxnonce=60cdcc37cb">One Year Later: Celebrating and Reflecting on the Monarch</a></li>
+<li><a href="https://www.aph.org/blog/monarch-is-making-a-difference-alexander-liddells-story/">Monarch is Making a Difference: Alexander Liddell’s Story </a></li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

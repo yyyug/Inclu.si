@@ -1,0 +1,308 @@
+{
+  "kind": "rss",
+  "domain": "braillists.org",
+  "url": "https://braillists.org/rss",
+  "count": 50,
+  "items": [
+    {
+      "title": "From Dot Inc.: Dot Canvas Comes to Android, Expanding Access to Tactile Technology Worldwide",
+      "link": "https://www.braillists.org/uncategorised/from-dot-inc-dot-canvas-comes-to-android-expanding-access-to-tactile-technology-worldwide/",
+      "pubDate": "Tue, 15 Sep 2026 17:03:28 +0000",
+      "description": "Dot Canvas is now available on Android, bringing Dot’s tactile technology experience to even more users around the world. Dot Inc. is pleased to announce the release of Dot Canvas for Android, expanding access to Dot Pad and tactile content across a wider range of devices and users. Available through Google Play in 177 countries, &#8230; <a href=\"https://www.braillists.org/uncategorised/from-dot-inc-dot-canvas-comes-to-android-expanding-access-to-tactile-technology-worldwide/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">From Dot Inc.: Dot Canvas Comes to Android, Expanding Access to Tactile Technology Worldwide</span></a>"
+    },
+    {
+      "title": "From MAWINGU: Tactile Screen NVDA Add-on",
+      "link": "https://www.braillists.org/uncategorised/from-mawingu-tactile-screen-nvda-add-on/",
+      "pubDate": "Tue, 15 Sep 2026 16:59:01 +0000",
+      "description": "This addon mirrors the computer screen on a DotPad graphical area. Copyright and License This add-on is copyright (C) 2026 MAWINGU. This add-on is licensed under the GNU General Public License version 2. The image processing is based on the DotPad prototype add-on created by Michael curran&#160;mick@nvaccess.org. Key Commands Image processing details The add-on captures &#8230; <a href=\"https://www.braillists.org/uncategorised/from-mawingu-tactile-screen-nvda-add-on/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">From MAWINGU: Tactile Screen NVDA Add-on</span></a>"
+    },
+    {
+      "title": "From AT Guys: Braille Apps 0.9 for Dot Pad and the Web",
+      "link": "https://www.braillists.org/uncategorised/from-at-guys-braille-apps-0-9-for-dot-pad-and-the-web/",
+      "pubDate": "Tue, 15 Sep 2026 16:55:52 +0000",
+      "description": "Added the 23 Bricks game. Thanks to Ka Li for the idea. Added a vibration test to Hardware Test. Expanded difficulty choices to Easy, Medium, and Expert across Chess, Checkers, Connect 4, Tic Tac Toe, and Minesweeper. Corrected chess square notation and improved tactile piece alignment. Unified browser and Dot Pad help content and renamed &#8230; <a href=\"https://www.braillists.org/uncategorised/from-at-guys-braille-apps-0-9-for-dot-pad-and-the-web/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">From AT Guys: Braille Apps 0.9 for Dot Pad and the Web</span></a>"
+    },
+    {
+      "title": "Recording of Webinar Wednesday from Sight and Sound Technology: Meet the BrailleSense 7",
+      "link": "https://www.braillists.org/uncategorised/recording-of-webinar-wednesday-from-sight-and-sound-technology-meet-the-braillesense-7/",
+      "pubDate": "Tue, 15 Sep 2026 16:53:47 +0000",
+      "description": "Sight and Sound Technology recently held a webinar about the new BrailleSense 7. Watch on YouTube"
+    },
+    {
+      "title": "Extra Braille Bar Today",
+      "link": "https://www.braillists.org/uncategorised/extra-braille-bar-today/",
+      "pubDate": "Tue, 15 Sep 2026 16:38:06 +0000",
+      "description": "Due to unforeseen circumstances, we are offering an additional Braille Bar session this week in lieu of a Masterclass. No question is too small, from kit to code – just ask and our experts will assist you! Register for the Braille Bar Or, to join by phone, use these details:"
+    },
+    {
+      "title": "The Global Braille Survey is now open!",
+      "link": "https://www.braillists.org/uncategorised/the-global-braille-survey-is-now-open/",
+      "pubDate": "Tue, 15 Sep 2026 16:33:05 +0000",
+      "description": "We are delighted to announce that the Global Braille Survey is now open! As part of the Global Braille Literacy Campaign – More Braille: More Empowerment – the survey provides an important opportunity for people around the world to share their experiences and perspectives on braille literacy. Led by the International Council for Education of &#8230; <a href=\"https://www.braillists.org/uncategorised/the-global-braille-survey-is-now-open/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Global Braille Survey is now open!</span></a>"
+    },
+    {
+      "title": "Global Braille Survey Update, 31 August 2026 &#8211; More Than 1000 Responses and Growing",
+      "link": "https://www.braillists.org/uncategorised/global-braille-survey-update-31-august-2026-more-than-1000-responses-and-growing/",
+      "pubDate": "Tue, 15 Sep 2026 16:28:21 +0000",
+      "description": "We are delighted to share an encouraging update on the survey, which is a major initiative of the Global Braille Literacy Campaign – More Braille: More Empowerment. More than 1000 surveys have now been completed! This is a wonderful early response. We extend our sincere thanks to everyone who has already participated in the survey &#8230; <a href=\"https://www.braillists.org/uncategorised/global-braille-survey-update-31-august-2026-more-than-1000-responses-and-growing/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Global Braille Survey Update, 31 August 2026 &#8211; More Than 1000 Responses and Growing</span></a>"
+    },
+    {
+      "title": "NVDA 2026.2 Released, Featuring Braille Auto Scroll and Multi-Button Presses for Dot Pad",
+      "link": "https://www.braillists.org/uncategorised/nvda-2026-2-released-featuring-braille-auto-scroll-and-multi-button-presses-for-dot-pad/",
+      "pubDate": "Tue, 15 Sep 2026 16:23:51 +0000",
+      "description": "NV Access is pleased to announce that version 2026.2 of NVDA, the free screen reader for Microsoft Windows, is now available for download. We encourage all users to upgrade to this version. The braille display can now automatically scroll and DotPad devices support multi-button combinations. The default gesture to toggle automatic scroll is NVDA+alt+k. Liblouis &#8230; <a href=\"https://www.braillists.org/uncategorised/nvda-2026-2-released-featuring-braille-auto-scroll-and-multi-button-presses-for-dot-pad/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">NVDA 2026.2 Released, Featuring Braille Auto Scroll and Multi-Button Presses for Dot Pad</span></a>"
+    },
+    {
+      "title": "liblouis 3.39.0 has been released",
+      "link": "https://www.braillists.org/uncategorised/liblouis-3-39-0-has-been-released/",
+      "pubDate": "Tue, 15 Sep 2026 16:20:43 +0000",
+      "description": "The liblouis developer team is proud to announce the liblouis release 3.39.0. Of particular note in this release is the introduction of improved Māori braille tables, together with dedicated UEB tables for New Zealand which incorporate the Māori macron. Read the release notes"
+    },
+    {
+      "title": "From André Polykanine: SharpLouis 3.0.0 released",
+      "link": "https://www.braillists.org/uncategorised/from-andre-polykanine-sharplouis-3-0-0-released/",
+      "pubDate": "Tue, 15 Sep 2026 16:17:25 +0000",
+      "description": "SharpLouis, my LibLouis .NET wrapper, is updated to version 3.0.0. Main changes: NuGet: https://www.nuget.org/packages/AccessMind.SharpLouis GitHub: https://github.com/accessmind/sharp-louis Do you like my work? Please donate. https://oire.org/donate/"
+    },
+    {
+      "title": "For readers in New Zealand, from Mary Schnackenberg: Single cell macron closer for screen reader users",
+      "link": "https://www.braillists.org/uncategorised/for-readers-in-new-zealand-from-mary-schnackenberg-single-cell-macron-closer-for-screen-reader-users/",
+      "pubDate": "Tue, 15 Sep 2026 16:15:03 +0000",
+      "description": "The UEB macron is two cells. In New Zealand the macron symbol appears almost exclusively in te reo Māori. When Duxbury worked with us to produce a New Zealand Duxbury template, they agreed to use the single cell macron of dots 456. That was the macron introduced in the mid 1960s. The Māori macron was &#8230; <a href=\"https://www.braillists.org/uncategorised/for-readers-in-new-zealand-from-mary-schnackenberg-single-cell-macron-closer-for-screen-reader-users/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">For readers in New Zealand, from Mary Schnackenberg: Single cell macron closer for screen reader users</span></a>"
+    },
+    {
+      "title": "NVDA 2026.3 public beta, featuring support for Māori macrons in braille, is now available for download and testing",
+      "link": "https://www.braillists.org/uncategorised/nvda-2026-3-public-beta-featuring-support-for-maori-macrons-in-braille-is-now-available-for-download-and-testing/",
+      "pubDate": "Tue, 15 Sep 2026 16:11:56 +0000",
+      "description": "For anyone who is interested in trying out what the next version of NVDA has to offer before it is officially released, NV Access welcomes you to download the beta and provide feedback using their issue reporting process. By installing the beta you will be opting into NVDA&#8217;s beta channel, and will only receive update &#8230; <a href=\"https://www.braillists.org/uncategorised/nvda-2026-3-public-beta-featuring-support-for-maori-macrons-in-braille-is-now-available-for-download-and-testing/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">NVDA 2026.3 public beta, featuring support for Māori macrons in braille, is now available for download and testing</span></a>"
+    },
+    {
+      "title": "From NV Access: NVDA Satisfaction Survey 2026",
+      "link": "https://www.braillists.org/uncategorised/from-nv-access-nvda-satisfaction-survey-2026/",
+      "pubDate": "Tue, 15 Sep 2026 16:02:52 +0000",
+      "description": "The NVDA Satisfaction Survey 2026 is now open:&#160;https://www.nvaccess.org/survey2026 We are always interested in understanding the satisfaction of our NVDA users. We want to understand clearly what is important to you and also identify what we can do more effectively.&#160; This survey is anonymous, and we encourage you to add comments on the survey (but please &#8230; <a href=\"https://www.braillists.org/uncategorised/from-nv-access-nvda-satisfaction-survey-2026/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">From NV Access: NVDA Satisfaction Survey 2026</span></a>"
+    },
+    {
+      "title": "From Orbit Research: Meet OR-bot: Your New Orbit Technical Support Assistant",
+      "link": "https://www.braillists.org/uncategorised/from-orbit-research-meet-or-bot-your-new-orbit-technical-support-assistant/",
+      "pubDate": "Tue, 15 Sep 2026 16:00:14 +0000",
+      "description": "We are pleased to introduce OR-bot, Orbit Research’s new AI-powered technical support chatbot! OR-bot provides immediate technical guidance for Orbit products, with no registration or login required. It can help you find product-specific technical information, troubleshoot problems, and get answers to commonly asked technical questions. Try OR-bot here. Simply select your Orbit product from the &#8230; <a href=\"https://www.braillists.org/uncategorised/from-orbit-research-meet-or-bot-your-new-orbit-technical-support-assistant/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">From Orbit Research: Meet OR-bot: Your New Orbit Technical Support Assistant</span></a>"
+    },
+    {
+      "title": "From Mathieu via AppleVis: BrailliantConnect: your Brailliant in the Finder, no macFUSE",
+      "link": "https://www.braillists.org/uncategorised/from-mathieu-via-applevis-brailliantconnect-your-brailliant-in-the-finder-no-macfuse/",
+      "pubDate": "Tue, 15 Sep 2026 15:57:52 +0000",
+      "description": "BrailliantConnect is out — free, open source, and finished. Plug a Brailliant in and it appears in the Finder. Unplug it and it goes away. No macFUSE, no kernel extension, nothing to start by hand. I wrote it because I needed it. I use a BI 40X with a screen reader every day, and getting &#8230; <a href=\"https://www.braillists.org/uncategorised/from-mathieu-via-applevis-brailliantconnect-your-brailliant-in-the-finder-no-macfuse/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">From Mathieu via AppleVis: BrailliantConnect: your Brailliant in the Finder, no macFUSE</span></a>"
+    },
+    {
+      "title": "From Shahzeb Ahmed: Braille Learn UK",
+      "link": "https://www.braillists.org/uncategorised/from-shahzeb-ahmed-braille-learn-uk/",
+      "pubDate": "Tue, 15 Sep 2026 15:50:23 +0000",
+      "description": "Hi Braillists Team, I hope you’re well. I’m Shahzeb, a parent of a blind child, and I wanted to share something I created after beginning my own journey of learning Braille alongside my son. When we started, I found it difficult to find a simple and engaging online platform that we could use together. That &#8230; <a href=\"https://www.braillists.org/uncategorised/from-shahzeb-ahmed-braille-learn-uk/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">From Shahzeb Ahmed: Braille Learn UK</span></a>"
+    },
+    {
+      "title": "Dr. Cay Holbrook &#8211; Remembering a dear colleague and friend",
+      "link": "https://www.braillists.org/uncategorised/dr-cay-holbrook-remembering-a-dear-colleague-and-friend/",
+      "pubDate": "Tue, 15 Sep 2026 15:48:05 +0000",
+      "description": "Posted on behalf of Adam Wilton, Saturday 22 August 2026 Dear colleagues and friends from across Canada and around the world, Our colleague and friend, Dr. Cay Holbrook, reached the end of her journey this morning. Cay passed away peacefully with her family by her side. When Cay entered palliative care a month ago, we &#8230; <a href=\"https://www.braillists.org/uncategorised/dr-cay-holbrook-remembering-a-dear-colleague-and-friend/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Dr. Cay Holbrook &#8211; Remembering a dear colleague and friend</span></a>"
+    },
+    {
+      "title": "From Jehovah&#8217;s Witnesses: Complete New World Translation of the Holy Scriptures Released in Polish Braille",
+      "link": "https://www.braillists.org/uncategorised/from-jehovahs-witnesses-complete-new-world-translation-of-the-holy-scriptures-released-in-polish-braille/",
+      "pubDate": "Tue, 15 Sep 2026 15:41:46 +0000",
+      "description": "On July 3, 2026, Brother Jacob Rumph, a member of the Governing Body, released the complete New World Translation of the Holy Scriptures in Polish braille. The release was announced on the first day of the 2026 “Eternal Happiness” International Convention in Warsaw, Poland. Read the full article"
+    },
+    {
+      "title": "Watch the Recording of the Global Braille Survey Launch",
+      "link": "https://www.braillists.org/uncategorised/watch-the-recording-of-the-global-braille-survey-launch/",
+      "pubDate": "Tue, 15 Sep 2026 15:38:53 +0000",
+      "description": "A recording of the launch webinar for the Global Braille survey is now available. Watch on YouTube"
+    },
+    {
+      "title": "Global Braille Survey on Double Tap",
+      "link": "https://www.braillists.org/uncategorised/global-braille-survey-on-double-tap/",
+      "pubDate": "Tue, 15 Sep 2026 15:31:58 +0000",
+      "description": "The Global Braille Survey recently got a mention on the Double Tap podcast. Listen to the episode"
+    },
+    {
+      "title": "Braille Bar on Tuesday",
+      "link": "https://www.braillists.org/uncategorised/braille-bar-on-tuesday/",
+      "pubDate": "Tue, 08 Sep 2026 18:19:00 +0000",
+      "description": "Our popular Braille Bar returns this Tuesday at 7:30 PM. No question is too small, from kit to code – just ask and our experts will assist you! Register for the Braille Bar here: https://us02web.zoom.us/meeting/register/tZwtdOyopjMiHdyORwRuXacnY9IrA4lVN2Bh Or, to join by phone, use these details: Phone number: 0131&#160;460&#160;1196 Meeting ID: 880&#160;3508&#160;8878 Passcode: 123456"
+    },
+    {
+      "title": "From Eye.t: Meet the Eye.t Braille Transcriber, a two-part series: Wednesday 9 and 16 September at 8:00 PM or Thursday 10 and 17 September at 10:30 PM",
+      "link": "https://www.braillists.org/uncategorised/from-eye-t-meet-the-eye-t-braille-transcriber-a-two-part-series-wednesday-9-and-16-september-at-800-pm-or-thursday-10-and-17-september-at-1030-pm/",
+      "pubDate": "Tue, 08 Sep 2026 18:17:33 +0000",
+      "description": "Introducing The Eye.t Braille Transcriber Turn any inaccessible worksheet into formatted braille before your student&#8217;s next class Hi there, A teacher catches you in the hallway and hands you a worksheet. She needs it in braille for her student, and she needs it by tomorrow. If you have been a TVI for any length of &#8230; <a href=\"https://www.braillists.org/uncategorised/from-eye-t-meet-the-eye-t-braille-transcriber-a-two-part-series-wednesday-9-and-16-september-at-800-pm-or-thursday-10-and-17-september-at-1030-pm/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">From Eye.t: Meet the Eye.t Braille Transcriber, a two-part series: Wednesday 9 and 16 September at 8:00 PM or Thursday 10 and 17 September at 10:30 PM</span></a>"
+    },
+    {
+      "title": "From Dot: Navigating the World with TMAP, Featuring Dr. Josh Miele, Monday 14 September at 5:00 PM",
+      "link": "https://www.braillists.org/uncategorised/from-dot-navigating-the-world-with-tmap-featuring-dr-josh-miele-monday-14-september-at-500-pm/",
+      "pubDate": "Tue, 08 Sep 2026 18:08:01 +0000",
+      "description": "Imagine entering a ZIP code or postcode and instantly generating a simple, clearly formatted tactile street map that you can explore with your fingers. Pan across the map. Zoom in and out. Find surrounding streets and intersections, and build a mental picture of your neighbourhood, your workplace, your school, or anywhere you&#8217;re planning to visit. &#8230; <a href=\"https://www.braillists.org/uncategorised/from-dot-navigating-the-world-with-tmap-featuring-dr-josh-miele-monday-14-september-at-500-pm/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">From Dot: Navigating the World with TMAP, Featuring Dr. Josh Miele, Monday 14 September at 5:00 PM</span></a>"
+    },
+    {
+      "title": "From HumanWare: Evolve With Us: Discover BrailleNote evolve, Wednesday 16 September at 5:00 PM",
+      "link": "https://www.braillists.org/uncategorised/from-humanware-evolve-with-us-discover-braillenote-evolve-wednesday-16-september-at-500-pm/",
+      "pubDate": "Tue, 08 Sep 2026 18:07:05 +0000",
+      "description": "Join us for a webinar exploring BrailleNote evolve, the next generation Braille computer, and discover what’s new in the latest KeySoft update. New to BrailleNote evolve? This webinar is for you too. We’ll introduce you to the evolve experience and give you the opportunity to see what makes it different and ask your questions. Designed &#8230; <a href=\"https://www.braillists.org/uncategorised/from-humanware-evolve-with-us-discover-braillenote-evolve-wednesday-16-september-at-500-pm/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">From HumanWare: Evolve With Us: Discover BrailleNote evolve, Wednesday 16 September at 5:00 PM</span></a>"
+    },
+    {
+      "title": "From Access Ingenuity: Focus 640 Braille Display: The Next Generation of High-Performance Braille Access, Wednesday 16 September at 6:00 PM",
+      "link": "https://www.braillists.org/uncategorised/from-access-ingenuity-focus-640-braille-display-the-next-generation-of-high-performance-braille-access-wednesday-16-september-at-600-pm/",
+      "pubDate": "Tue, 08 Sep 2026 17:59:39 +0000",
+      "description": "The sixth generation of the Focus Braille Display is the most powerful and reliable yet, and the new Focus 640 raises the bar for professionals, students, and power users who depend on braille access every day. In this session, Marisa and Ian are joined by special guest Joe McDaniel from Vispero to walk through everything &#8230; <a href=\"https://www.braillists.org/uncategorised/from-access-ingenuity-focus-640-braille-display-the-next-generation-of-high-performance-braille-access-wednesday-16-september-at-600-pm/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">From Access Ingenuity: Focus 640 Braille Display: The Next Generation of High-Performance Braille Access, Wednesday 16 September at 6:00 PM</span></a>"
+    },
+    {
+      "title": "From APH: New Horizons: eBraille with Duxbury, Thursday 17 September at 6:00 PM",
+      "link": "https://www.braillists.org/uncategorised/from-aph-new-horizons-ebraille-with-duxbury-thursday-17-september-at-600-pm/",
+      "pubDate": "Tue, 08 Sep 2026 17:49:44 +0000",
+      "description": "As the first braille transcription tool to offer comprehensive born-eBraille support, Duxbury is making it easier for everyone to make and use eBraille! Join us for a webinar with Willow Free, a creator of eBraille, for a practical look at how to make the most of the eBraille file format with Duxbury&#8217;s latest update, including: &#8230; <a href=\"https://www.braillists.org/uncategorised/from-aph-new-horizons-ebraille-with-duxbury-thursday-17-september-at-600-pm/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">From APH: New Horizons: eBraille with Duxbury, Thursday 17 September at 6:00 PM</span></a>"
+    },
+    {
+      "title": "From HumanWare: Discover What’s Next for Monarch, Monday 21 September at 3:30 PM",
+      "link": "https://www.braillists.org/uncategorised/from-humanware-discover-whats-next-for-monarch-monday-21-september-at-330-pm/",
+      "pubDate": "Tue, 08 Sep 2026 17:46:57 +0000",
+      "description": "Join HumanWare for a live webinar showcasing the latest enhancements to Monarch and discover how they provide greater access, context and independence when working with braille, tactile graphics and mathematics. Monarch is continuing to evolve beyond traditional single-line braille, combining a 10-line multiline braille display with dynamic tactile graphics to provide a more complete understanding &#8230; <a href=\"https://www.braillists.org/uncategorised/from-humanware-discover-whats-next-for-monarch-monday-21-september-at-330-pm/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">From HumanWare: Discover What’s Next for Monarch, Monday 21 September at 3:30 PM</span></a>"
+    },
+    {
+      "title": "Save the Date! Celebrate 50 Years with BANA! Thursday 3 December at 1:00 AM",
+      "link": "https://www.braillists.org/uncategorised/save-the-date-celebrate-50-years-with-bana-thursday-3-december-at-100-am/",
+      "pubDate": "Tue, 08 Sep 2026 17:45:15 +0000",
+      "description": "Celebrate 50 years of the Braille Authority of North America (BANA) at a special virtual golden anniversary celebration! Join us online for historical highlights, inspiring guest speakers, and shared memories honouring five decades of commitment to literacy for tactile readers through the standardization of braille and/or tactile graphics. Registration information and event details will be &#8230; <a href=\"https://www.braillists.org/uncategorised/save-the-date-celebrate-50-years-with-bana-thursday-3-december-at-100-am/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Save the Date! Celebrate 50 Years with BANA! Thursday 3 December at 1:00 AM</span></a>"
+    },
+    {
+      "title": "Invitation to a Braille Meet-Up, Friday 4-Sunday 6 December, Germany",
+      "link": "https://www.braillists.org/uncategorised/invitation-to-a-braille-meet-up-friday-4-sunday-6-december-germany/",
+      "pubDate": "Tue, 08 Sep 2026 17:41:43 +0000",
+      "description": "Dear friends, we invite you. Please share this invitation which you also find here: www.livingbraille.eu/meetup and register yourself in the registration form Invitation European Braille Meet-Up4 &#8211; 6 December 2026 in Germany (Langenselbold, close to Frankfurt) Meet with other braille users and experts all over Europe, exchange about braille practice and braille devices and have &#8230; <a href=\"https://www.braillists.org/uncategorised/invitation-to-a-braille-meet-up-friday-4-sunday-6-december-germany/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Invitation to a Braille Meet-Up, Friday 4-Sunday 6 December, Germany</span></a>"
+    },
+    {
+      "title": "For Readers in New Zealand: Do Braille standards matter to you, now and into the future?",
+      "link": "https://www.braillists.org/uncategorised/for-readers-in-new-zealand-do-braille-standards-matter-to-you-now-and-into-the-future/",
+      "pubDate": "Tue, 08 Sep 2026 17:31:09 +0000",
+      "description": "The Braille Authority of New Zealand Aotearoa Trust (BANZAT) has vacancies for three trustees. The closing date for expressions of interest is Monday 14 September 2026. BANZAT sets standards and makes rulings on Braille code and format usage within New Zealand, maintaining consistency with Rules and Guidelines set by the International Council on English Braille. &#8230; <a href=\"https://www.braillists.org/uncategorised/for-readers-in-new-zealand-do-braille-standards-matter-to-you-now-and-into-the-future/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">For Readers in New Zealand: Do Braille standards matter to you, now and into the future?</span></a>"
+    },
+    {
+      "title": "From Humanware US: Special back-to-school savings",
+      "link": "https://www.braillists.org/uncategorised/from-humanware-us-special-back-to-school-savings/",
+      "pubDate": "Tue, 08 Sep 2026 17:27:57 +0000",
+      "description": "Make this school year one for greater independence, confidence, and success. From August 19 to September 16, save up to $500 on select HumanWare products. Whether you’re getting ready for the classroom, heading to college, supporting a student, or upgrading your technology, now is the time to save on the HumanWare solutions you’ve been considering. &#8230; <a href=\"https://www.braillists.org/uncategorised/from-humanware-us-special-back-to-school-savings/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">From Humanware US: Special back-to-school savings</span></a>"
+    },
+    {
+      "title": "Applications Now Open – 2026 BMF International Music Competition for the Blind, Deadline Thursday 1 October",
+      "link": "https://www.braillists.org/uncategorised/applications-now-open-2026-bmf-international-music-competition-for-the-blind-deadline-thursday-1-october/",
+      "pubDate": "Tue, 08 Sep 2026 17:24:53 +0000",
+      "description": "Dear Musicians, Educators, and Colleagues, Greetings from Bella Music Foundation! We are pleased to announce that applications are now open for the 2026 BMF International Music Competition for Blind and Visually Impaired Musicians. Application Deadline: October 1, 2026 We would be very grateful for your help in sharing this opportunity widely with blind and visually &#8230; <a href=\"https://www.braillists.org/uncategorised/applications-now-open-2026-bmf-international-music-competition-for-the-blind-deadline-thursday-1-october/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Applications Now Open – 2026 BMF International Music Competition for the Blind, Deadline Thursday 1 October</span></a>"
+    },
+    {
+      "title": "Study Exploring Tactile Graphic Display for Previewing 3D Designs",
+      "link": "https://www.braillists.org/uncategorised/study-exploring-tactile-graphic-display-for-previewing-3d-designs/",
+      "pubDate": "Tue, 08 Sep 2026 17:18:46 +0000",
+      "description": "A university lab in NYC seeks Blind and low-vision folks to test out a method for exploring 3D design previews with a tactile graphics display. Contact the study coordinators directly if interested! https://us01.z.antigena.com/l/oScfI3VhC4i-bDV17NStsd8KdQj7sWV8TPKqxtn6DY4vyHnzsBDTqcYT87VwVMWImJO9ycRFC3PYfTn4gZTcaT6~Hw9zr7q7ZLRHyN-y~3Y39pPHy71cqw5j7QAK2qDCpHNlz_jrP6_i8HoQq~oTVNmpxun1YkGLmaXGZtbIIa25wi6m5eXD42SsuUQYmS1~Shi44J_81qRZbcFmAWZCFlu4QXcD_TztmGHa_5G_CufOhlwqjpoTFsh8u3Mj-hb"
+    },
+    {
+      "title": "UN Committee on Rights of Persons with Disabilities supports ICEVI &#8211; WBU Global Declaration on Braille Literacy",
+      "link": "https://www.braillists.org/uncategorised/un-committee-on-rights-of-persons-with-disabilities-supports-icevi-wbu-global-declaration-on-braille-literacy/",
+      "pubDate": "Tue, 08 Sep 2026 17:16:06 +0000",
+      "description": "From the WBU: I am pleased to announce that the UN Committee on the Rights of Persons with Disabilities (CRPD), an 18 member Committee of experts, issued a statement in support of the ICEVI – WBU Global Declaration on Braille Literacy at the closing of its 35th session held from August 12 – 27, 2026 &#8230; <a href=\"https://www.braillists.org/uncategorised/un-committee-on-rights-of-persons-with-disabilities-supports-icevi-wbu-global-declaration-on-braille-literacy/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">UN Committee on Rights of Persons with Disabilities supports ICEVI &#8211; WBU Global Declaration on Braille Literacy</span></a>"
+    },
+    {
+      "title": "Review of the Brailliant BI40X from Vision Ireland",
+      "link": "https://www.braillists.org/uncategorised/review-of-the-brailliant-bi40x-from-vision-ireland/",
+      "pubDate": "Tue, 08 Sep 2026 17:09:46 +0000",
+      "description": "We thought you might be interested in reading this review of the Brailliant BI40X: Read the review"
+    },
+    {
+      "title": "From STRIVE Ability: Activating The Latest In Braille Display Technology",
+      "link": "https://www.braillists.org/uncategorised/from-strive-ability-activating-the-latest-in-braille-display-technology/",
+      "pubDate": "Tue, 08 Sep 2026 17:07:36 +0000",
+      "description": "Handy Tech, now known as Help Tech, have been producing Braille displays for many years.&#160; But I have recently been privileged to have some hands-on with one of the German company’s latest devices in the shape of the Activator 40-cell Braille display, and I feel compelled to extol its virtues and thank VisionAid Technologies for &#8230; <a href=\"https://www.braillists.org/uncategorised/from-strive-ability-activating-the-latest-in-braille-display-technology/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">From STRIVE Ability: Activating The Latest In Braille Display Technology</span></a>"
+    },
+    {
+      "title": "Assistive Technology at Easter Seals Crossroads &#124; The Cadence Tactile Tablet: A Bold New Use of Braille",
+      "link": "https://www.braillists.org/uncategorised/assistive-technology-at-easter-seals-crossroads-the-cadence-tactile-tablet-a-bold-new-use-of-braille/",
+      "pubDate": "Tue, 08 Sep 2026 17:04:46 +0000",
+      "description": "When many people think about public uses of braille, they picture those bumpy dots on bathroom door signs or below elevator buttons. The Lafayette-based company, Tactile Engineering, created a new public display of braille in use. This past May, blind race fans were able to enjoy the Indianapolis 500 via the Cadence Tactile Tablet, which &#8230; <a href=\"https://www.braillists.org/uncategorised/assistive-technology-at-easter-seals-crossroads-the-cadence-tactile-tablet-a-bold-new-use-of-braille/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Assistive Technology at Easter Seals Crossroads &#124; The Cadence Tactile Tablet: A Bold New Use of Braille</span></a>"
+    },
+    {
+      "title": "Recording of the Blazie Technologies August Webinar is Now Available",
+      "link": "https://www.braillists.org/uncategorised/recording-of-the-blazie-technologies-august-webinar-is-now-available/",
+      "pubDate": "Tue, 08 Sep 2026 17:02:23 +0000",
+      "description": "A recording of our most recent webinar from August is now available from our Web site’s Resources page. We highlight new features and improvements in this update, particularly improvements to Braille translation. Tim Noonan provides some great demos, including adding tasks in an editor file and how to review them as well as how to &#8230; <a href=\"https://www.braillists.org/uncategorised/recording-of-the-blazie-technologies-august-webinar-is-now-available/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Recording of the Blazie Technologies August Webinar is Now Available</span></a>"
+    },
+    {
+      "title": "From Dot: Watch Now: JAWS + Dot Pad X Webinar",
+      "link": "https://www.braillists.org/uncategorised/from-dot-watch-now-jaws-dot-pad-x-webinar/",
+      "pubDate": "Tue, 08 Sep 2026 16:56:53 +0000",
+      "description": "Back to School with JAWS &#38; Dot Pad X The webinar covers: Watch the recording"
+    },
+    {
+      "title": "From Richard Turner: August Orbit Research Zoom meeting recording and transcript now available",
+      "link": "https://www.braillists.org/uncategorised/from-richard-turner-august-orbit-research-zoom-meeting-recording-and-transcript-now-available/",
+      "pubDate": "Tue, 08 Sep 2026 16:52:48 +0000",
+      "description": "The direct link to download today&#8217;s recording is: https://www.turner42.com/OrbitResearchAugust2026ZoomMeeting.zip Here is the link to the transcript of today&#8217;s meeting provided by Seeing Hands. https://www.turner42.com/OrbitResearchAugust2026ZoomMeetingTranscript.txt That link will open it in your text editor, if you wish to save it, once it is open you can save it, or if you right click, i.e. bring up &#8230; <a href=\"https://www.braillists.org/uncategorised/from-richard-turner-august-orbit-research-zoom-meeting-recording-and-transcript-now-available/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">From Richard Turner: August Orbit Research Zoom meeting recording and transcript now available</span></a>"
+    },
+    {
+      "title": "Summer Holidays",
+      "link": "https://www.braillists.org/uncategorised/summer-holidays/",
+      "pubDate": "Fri, 07 Aug 2026 09:37:39 +0000",
+      "description": "As usual, we will be taking a few weeks off over the summer to allow our volunteers to recharge. Our last event for this term will be the Braille Bar on Tuesday 28 July. We will return on Tuesday 1 September with Braille For Beginners. During August, we will be supporting ICEVI and the World &#8230; <a href=\"https://www.braillists.org/uncategorised/summer-holidays/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Summer Holidays</span></a>"
+    },
+    {
+      "title": "Donate to the Braillists by Joining a UK-Based Research Panel",
+      "link": "https://www.braillists.org/uncategorised/donate-to-the-braillists-by-joining-a-uk-based-research-panel/",
+      "pubDate": "Fri, 07 Aug 2026 09:36:12 +0000",
+      "description": "We have been approached by Contact Design and Survey Feeds, a market research agency, who are looking for UK-based blind and partially sighted people to join their database to be contacted about paid research studies from the financial industry. they are offering a sign-up bonus of $100 USD (£74.79) to everyone who is approved for &#8230; <a href=\"https://www.braillists.org/uncategorised/donate-to-the-braillists-by-joining-a-uk-based-research-panel/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Donate to the Braillists by Joining a UK-Based Research Panel</span></a>"
+    },
+    {
+      "title": "MORE BRAILLE: MORE EMPOWERMENT – Launching the Global Braille Survey, Friday 7 August at 12:00 PM or Tuesday 11 August at 1:00 AM",
+      "link": "https://www.braillists.org/uncategorised/more-braille-more-empowerment-launching-the-global-braille-survey-friday-7-august-at-1200-pm-or-tuesday-11-august-at-100-am/",
+      "pubDate": "Fri, 07 Aug 2026 09:35:07 +0000",
+      "description": "When we talk about braille, we often hear statements like: But how true are they? Help us on our mission to find out! A global braille survey is being launched by the International Council for Education of People with Vision Impairment (ICEVI) and the World Blind Union through their braille literacy campaign More Braille: More &#8230; <a href=\"https://www.braillists.org/uncategorised/more-braille-more-empowerment-launching-the-global-braille-survey-friday-7-august-at-1200-pm-or-tuesday-11-august-at-100-am/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">MORE BRAILLE: MORE EMPOWERMENT – Launching the Global Braille Survey, Friday 7 August at 12:00 PM or Tuesday 11 August at 1:00 AM</span></a>"
+    },
+    {
+      "title": "ICEB Mid-Term Executive Committee Meeting, Sunday 9-Thursday 13 August, 9:00 PM-Midnight: Information and registration",
+      "link": "https://www.braillists.org/uncategorised/iceb-mid-term-executive-committee-meeting-sunday-9-thursday-13-august-900-pm-midnight-information-and-registration/",
+      "pubDate": "Fri, 07 Aug 2026 09:34:57 +0000",
+      "description": "The ICEB Mid-Term Executive Committee meeting will take place virtually on Zoom over five days, from Sunday, August 9th to Thursday, August 13th. Each day’s proceedings will run from 20:00 to 23:00 UTC, with a 10-minute break midway through the agenda. Interested observers, including individuals and organisational representatives, are welcome to attend. Observers may be &#8230; <a href=\"https://www.braillists.org/uncategorised/iceb-mid-term-executive-committee-meeting-sunday-9-thursday-13-august-900-pm-midnight-information-and-registration/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">ICEB Mid-Term Executive Committee Meeting, Sunday 9-Thursday 13 August, 9:00 PM-Midnight: Information and registration</span></a>"
+    },
+    {
+      "title": "From the Standards and Testing Agency: Notification of Modified Tests Framework 2027-2031 Pre-Market Engagement Event, Monday 17 August at 2:00 PM",
+      "link": "https://www.braillists.org/uncategorised/from-the-standards-and-testing-agency-notification-of-modified-tests-framework-2027-2031-pre-market-engagement-event-monday-17-august-at-200-pm/",
+      "pubDate": "Fri, 07 Aug 2026 09:33:46 +0000",
+      "description": "The Standards and Testing Agency (STA), an Executive Agency of the Department for Education (DfE), is looking to re-establish a Modified Tests Framework for the development and delivery of modified versions of National Curriculum Tests for children with visual impairments, hearing impairments and special educational needs and disabilities (SEND). The new framework will be for &#8230; <a href=\"https://www.braillists.org/uncategorised/from-the-standards-and-testing-agency-notification-of-modified-tests-framework-2027-2031-pre-market-engagement-event-monday-17-august-at-200-pm/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">From the Standards and Testing Agency: Notification of Modified Tests Framework 2027-2031 Pre-Market Engagement Event, Monday 17 August at 2:00 PM</span></a>"
+    },
+    {
+      "title": "From Dot, in Partnership with Vispero: Back to School Webinar: Using JAWS with Dot Pad X for Education, Monday 17 August at 5:00 PM",
+      "link": "https://www.braillists.org/uncategorised/from-dot-in-partnership-with-vispero-back-to-school-webinar-using-jaws-with-dot-pad-x-for-education-monday-17-august-at-500-pm/",
+      "pubDate": "Fri, 07 Aug 2026 09:25:42 +0000",
+      "description": "As a new academic year begins, join us for a practical webinar exploring how JAWS&#160;and Dot Pad X can help students and educators work more efficiently. Hosted by Dave Williams from Dot Inc. with special guest Elizabeth Whitaker from Vispero, this live session will demonstrate how JAWS and Dot Pad X work together across a &#8230; <a href=\"https://www.braillists.org/uncategorised/from-dot-in-partnership-with-vispero-back-to-school-webinar-using-jaws-with-dot-pad-x-for-education-monday-17-august-at-500-pm/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">From Dot, in Partnership with Vispero: Back to School Webinar: Using JAWS with Dot Pad X for Education, Monday 17 August at 5:00 PM</span></a>"
+    },
+    {
+      "title": "From Adult Learning Lewisham: Enrolment For September 2026 Braille Course Now Open",
+      "link": "https://www.braillists.org/uncategorised/from-adult-learning-lewisham-enrolment-for-september-2026-braille-course-now-open/",
+      "pubDate": "Fri, 07 Aug 2026 09:18:22 +0000",
+      "description": "Registration is now open for the autumn term Braille And Tactile Skills course, starting on 21September 2026. Our Braille and Tactile Skills courses take place on Mondays between 10AM/12PM. Terms are eleven weeks long and are held at our Brockley Rise centre in South East London:2 Brockley Rise, SE23 1PR No previous knowledge of Braille &#8230; <a href=\"https://www.braillists.org/uncategorised/from-adult-learning-lewisham-enrolment-for-september-2026-braille-course-now-open/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">From Adult Learning Lewisham: Enrolment For September 2026 Braille Course Now Open</span></a>"
+    },
+    {
+      "title": "From Sertec: Braille Festival, thursday 5-Saturday 7 November, Portugal",
+      "link": "https://www.braillists.org/uncategorised/from-sertec-braille-festival-thursday-5-saturday-7-november-portugal/",
+      "pubDate": "Fri, 07 Aug 2026 09:15:27 +0000",
+      "description": "Sertec is organizing a major event to bring civil society together around the braille system in its many forms. We want to show how this unique system of reading and writing is the gateway that opens the world to all blind people, and how we all benefit from getting to know it better. The event &#8230; <a href=\"https://www.braillists.org/uncategorised/from-sertec-braille-festival-thursday-5-saturday-7-november-portugal/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">From Sertec: Braille Festival, thursday 5-Saturday 7 November, Portugal</span></a>"
+    },
+    {
+      "title": "Bristol Braille Technology Announces HID Braille Support in Canute 360",
+      "link": "https://www.braillists.org/uncategorised/bristol-braille-technology-announces-hid-braille-support-in-canute-360/",
+      "pubDate": "Fri, 07 Aug 2026 09:07:52 +0000",
+      "description": "In an exclusive announcement to members of the Technology Association of Visually Impaired People (TAVIP), Ed Rogers, Managing Director of Bristol Braille Technology, revealed plans to introduce support for the HID Braille protocol to the Canute 360 multi-line braille eReader. Amongst its many benefits, this will introduce support for the popular JAWS for Windows screen &#8230; <a href=\"https://www.braillists.org/uncategorised/bristol-braille-technology-announces-hid-braille-support-in-canute-360/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Bristol Braille Technology Announces HID Braille Support in Canute 360</span></a>"
+    },
+    {
+      "title": "From Judith Lung: DottedNotes — Bidirectional Braille ⇄ LilyPond/MusicXML Translator",
+      "link": "https://www.braillists.org/uncategorised/from-judith-lung-dottednotes-bidirectional-braille-%e2%87%84-lilypond-musicxml-translator/",
+      "pubDate": "Fri, 07 Aug 2026 09:04:23 +0000",
+      "description": "(Built out of my own frustration transcribing orchestral scores) Contact: judith@judithlung.com I&#8217;m a blind composer, and for years my biggest bottleneck wasn&#8217;t writing the music — it was getting it out of braille and into something a publisher, ensemble, or sighted collaborator could actually use. Transcribing an orchestral score from braille into LilyPond by hand &#8230; <a href=\"https://www.braillists.org/uncategorised/from-judith-lung-dottednotes-bidirectional-braille-%e2%87%84-lilypond-musicxml-translator/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">From Judith Lung: DottedNotes — Bidirectional Braille ⇄ LilyPond/MusicXML Translator</span></a>"
+    }
+  ]
+}

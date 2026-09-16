@@ -1,0 +1,21 @@
+{
+  "kind": "youtube",
+  "name": "doubletap",
+  "domain": "",
+  "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChD0a4iAgtbHkP7TW2gPHmQ",
+  "count": 2,
+  "items": [
+    {
+      "title": "Wingman Tactics Quad 1WMP4NTSC",
+      "link": "https://www.youtube.com/watch?v=62cqsQinx34",
+      "pubDate": "2009-07-18T19:52:41+00:00",
+      "description": ""
+    },
+    {
+      "title": "Skellena",
+      "link": "https://www.youtube.com/watch?v=kNY4mbyXS50",
+      "pubDate": "2007-05-24T02:22:47+00:00",
+      "description": ""
+    }
+  ]
+}

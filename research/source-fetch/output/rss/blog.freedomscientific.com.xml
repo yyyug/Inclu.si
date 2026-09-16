@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Vispero Training</title>
+	<atom:link href="https://training.vispero.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://training.vispero.com</link>
+	<description>News about Vispero’s assistive technology training</description>
+	<lastBuildDate>Wed, 09 Sep 2026 10:37:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.4</generator>
+
+<image>
+	<url>https://training.vispero.com/wp-content/uploads/2017/08/cropped-Freedom-Banner-1-32x32.jpg</url>
+	<title>Vispero Training</title>
+	<link>https://training.vispero.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">134131076</site>	<item>
+		<title>Vispero Connect: Now Also On YouTube</title>
+		<link>https://training.vispero.com/vispero-connect-now-also-on-youtube/</link>
+					<comments>https://training.vispero.com/vispero-connect-now-also-on-youtube/#respond</comments>
+		
+		<dc:creator><![CDATA[Oleg Shevkun]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2026 10:37:12 +0000</pubDate>
+				<category><![CDATA[FSCast]]></category>
+		<category><![CDATA[VisperoConnect]]></category>
+		<guid isPermaLink="false">https://training.vispero.com/?p=3258</guid>
+
+					<description><![CDATA[You asked, we listened. Vispero Connect, our official monthly podcast, is now available on YouTube. Each episode features product news and tips, interviews with members of our Vispero team, user stories, as well as previews of our upcoming training events. View Vispero Connect playlist on our YouTube channel Of course, you can still find us &#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">You asked, we listened.</p>
+
+
+
+<p class="wp-block-paragraph">Vispero Connect, our official monthly podcast, is now available on YouTube. Each episode features product news and tips, interviews with members of our Vispero team, user stories, as well as previews of our upcoming training events.</p>
+
+
+<a href="https://www.youtube.com/playlist?list=PLcAhxaHXvTeo">View Vispero Connect playlist on our YouTube channel</a>
+
+<p class="wp-block-paragraph">Of course, you can still find us on all major podcast platforms.</p>
+
+
+
+<p class="wp-block-paragraph">Happy listening! And let’s keep connected!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://training.vispero.com/vispero-connect-now-also-on-youtube/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3258</post-id>	</item>
+		<item>
+		<title>Issue Affecting Some JAWS and Fusion Features Now Resolved</title>
+		<link>https://training.vispero.com/issue-affecting-some-jaws-and-fusion-features-now-resolved/</link>
+					<comments>https://training.vispero.com/issue-affecting-some-jaws-and-fusion-features-now-resolved/#respond</comments>
+		
+		<dc:creator><![CDATA[Elizabeth Whitaker]]></dc:creator>
+		<pubDate>Tue, 08 Sep 2026 23:13:05 +0000</pubDate>
+				<category><![CDATA[Fusion]]></category>
+		<category><![CDATA[Information]]></category>
+		<category><![CDATA[JAWS]]></category>
+		<guid isPermaLink="false">https://training.vispero.com/?p=3252</guid>
+
+					<description><![CDATA[The issue we reported on September 4 has been resolved with no action needed on your part. Last week a Microsoft update changed the way accessibility support is enabled for applications that use certain Microsoft web technologies. As a result, JAWS was not always receiving the information it needed from those applications, and some features &#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">The issue we reported on September 4 has been resolved with no action needed on your part.</p>
+
+
+
+<p class="wp-block-paragraph">Last week a Microsoft update changed the way accessibility support is enabled for applications that use certain Microsoft web technologies. As a result, JAWS was not always receiving the information it needed from those applications, and some features provided no speech or braille. This affected the JAWS Results Viewer, OCR Viewer, Picture Smart, and Message Center, along with New Outlook and Microsoft Copilot 365.</p>
+
+
+
+<p class="wp-block-paragraph">On September 6 we deployed a temporary change to JAWS so that customers would not have to wait while the underlying problem was still being investigated. On September 7 Microsoft released an update that corrected the root cause. Because that update resolves the problem at its source, we have since removed our temporary change.</p>
+
+
+
+<p class="wp-block-paragraph">The Microsoft update is delivered automatically, so there is nothing for you to install or turn on. The temporary work-around we shared last week, toggling the Touch Cursor off and on, is no longer needed.</p>
+
+
+
+<p class="wp-block-paragraph">If you are still experiencing the problem, please restart your computer so the Microsoft update can take effect. If that does not resolve it, please contact your local dealer or our <a href="https://support.freedomscientific.com/support">technical support</a> team.</p>
+
+
+
+<p class="wp-block-paragraph">We appreciate everyone who reported this to us and who let us know when things began working again. Those reports helped us confirm the cause quickly and gave us what we needed to work with Microsoft toward a resolution.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://training.vispero.com/issue-affecting-some-jaws-and-fusion-features-now-resolved/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3252</post-id>	</item>
+		<item>
+		<title>Temporary Issue Affecting Some JAWS and Fusion Features</title>
+		<link>https://training.vispero.com/temporary-issue-affecting-some-jaws-and-fusion-features/</link>
+					<comments>https://training.vispero.com/temporary-issue-affecting-some-jaws-and-fusion-features/#respond</comments>
+		
+		<dc:creator><![CDATA[Elizabeth Whitaker]]></dc:creator>
+		<pubDate>Fri, 04 Sep 2026 21:34:13 +0000</pubDate>
+				<category><![CDATA[JAWS]]></category>
+		<guid isPermaLink="false">https://training.vispero.com/?p=3248</guid>
+
+					<description><![CDATA[A recent Microsoft update is changing how accessibility support is enabled for applications that use certain Microsoft web technologies. As a result, JAWS may not receive the information it needs from these applications, causing some features to provide no speech or braille. This may affect: The issue is not currently observed in web browsers such &#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">A recent Microsoft update is changing how accessibility support is enabled for applications that use certain Microsoft web technologies. As a result, JAWS may not receive the information it needs from these applications, causing some features to provide no speech or braille.</p>
+
+
+
+<p class="wp-block-paragraph">This may affect:</p>
+
+
+
+<ul class="wp-block-list">
+<li>JAWS Results Viewer</li>
+
+
+
+<li>OCR Viewer</li>
+
+
+
+<li>Picture Smart</li>
+
+
+
+<li>Message Center</li>
+
+
+
+<li>New Outlook</li>
+
+
+
+<li>Microsoft Copilot 365</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">The issue is not currently observed in web browsers such as Chrome, Edge, and Firefox.</p>
+
+
+
+<h2 class="wp-block-heading">Workaround</h2>
+
+
+
+<p class="wp-block-paragraph">If you find that JAWS is not working as expected in web-based apps, toggle the Touch Cursor on and off again for JAWS to resume speaking normally. To enable the Touch Cursor, press <strong>SHIFT+NUM PAD PLUS </strong>if using Desktop keyboard layout and <strong>CAPS LOCK+SHIFT+SEMICOLON </strong>if using Laptop keyboard layout. To toggle it off and return to the Virtual PC Cursor, press <strong>NUM PAD PLUS </strong>twice quickly (in Desktop layout) or hold <strong>CAPS LOCK </strong>and press <strong>SEMICOLON </strong>twice quickly in Laptop layout.</p>
+
+
+
+<p class="wp-block-paragraph">If the content still does not respond as expected, press <strong>F5 </strong>to refresh the page or application content.</p>
+
+
+
+<p class="wp-block-paragraph">Vispero is working directly with Microsoft to investigate the issue and determine the appropriate fix. We will provide additional information when it becomes available.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://training.vispero.com/temporary-issue-affecting-some-jaws-and-fusion-features/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3248</post-id>	</item>
+		<item>
+		<title>Learn How AI Connectors Can Bring Your Everyday Apps and Information Together</title>
+		<link>https://training.vispero.com/learn-how-ai-connectors-can-bring-your-everyday-apps-and-information-together/</link>
+					<comments>https://training.vispero.com/learn-how-ai-connectors-can-bring-your-everyday-apps-and-information-together/#respond</comments>
+		
+		<dc:creator><![CDATA[Elizabeth Whitaker]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2026 19:21:35 +0000</pubDate>
+				<category><![CDATA[Learn AI]]></category>
+		<category><![CDATA[Training]]></category>
+		<category><![CDATA[Freedom-Scientific-training]]></category>
+		<category><![CDATA[Freedom-Scientific-webinars]]></category>
+		<category><![CDATA[JAWS-training]]></category>
+		<category><![CDATA[Learn-AI]]></category>
+		<guid isPermaLink="false">https://training.vispero.com/?p=3237</guid>
+
+					<description><![CDATA[Artificial Intelligence (AI) is changing how we work, helping us automate routine tasks, analyze and summarize data, and generate content. Learn AI with our AI live webinar series and comprehensive online guide, designed to empower you with the knowledge and skills to increase productivity and independence in the workplace. The 14th webinar in this ongoing &#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Artificial Intelligence (AI) is changing how we work, helping us automate routine tasks, analyze and summarize data, and generate content. Learn AI with our AI live webinar series and comprehensive online guide, designed to empower you with the knowledge and skills to increase productivity and independence in the workplace. The 14th webinar in this ongoing series, &#8220;Using AI Connectors to Bring Your Everyday Apps and Information Together,&#8221; will take place Thursday, September 3 at noon ET.</p>
+
+
+
+<h2 class="wp-block-heading">What We&#8217;ll Cover</h2>
+
+
+
+<p class="wp-block-paragraph">AI becomes even more powerful when it can work with the apps, files, and information you use every day. Instead of copying and pasting content between applications, AI connectors let you access and interact with information across multiple services from a single conversation.</p>
+
+
+
+<p class="wp-block-paragraph">In this webinar, we&#8217;ll demonstrate how AI connectors can simplify everyday tasks and help you work more efficiently.</p>
+
+
+
+<p class="wp-block-paragraph">You&#8217;ll learn how to:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Connect AI to services such as email, calendars, cloud storage, and documents.</li>
+
+
+
+<li>Find information across connected apps without switching between them.</li>
+
+
+
+<li>Summarize emails, documents, and meeting information in seconds.</li>
+
+
+
+<li>Combine information from multiple sources to answer questions and complete tasks.</li>
+
+
+
+<li>Use practical workflows that save time at work, school, and home.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Whether you&#8217;re organizing your day, researching a project, or managing documents, <a href="https://us06web.zoom.us/webinar/register/WN_UuDbdJbORq-5yMg1jPd_Gw">register</a> for this webinar to learn how AI connectors can help you spend less time searching for information and more time getting things done. ACVREP credits will be available for those who attend the live webinar.</p>
+
+
+
+<p class="wp-block-paragraph">This webinar is part of a series designed for all skill levels. It starts with the basics and builds each month, offering a deeper understanding of AI concepts and practical applications. Webinars are held on the first Thursday of every month at noon ET and are archived on our <a href="https://www.freedomscientific.com/training/freewebinars/archivedwebinars/">Webinars On Demand</a> page, so you can stream or download sessions anytime. No prior AI experience is needed!</p>
+
+
+
+<p class="wp-block-paragraph">Access additional details on our page dedicated to helping you <a href="https://www.freedomscientific.com/training/learnai/">learn AI</a>.</p>
+
+
+
+<p class="wp-block-paragraph">Have questions? Send an email to <a href="mailto:training@vispero.com">training@vispero.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://training.vispero.com/learn-how-ai-connectors-can-bring-your-everyday-apps-and-information-together/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3237</post-id>	</item>
+		<item>
+		<title>Take the WebAIM Survey</title>
+		<link>https://training.vispero.com/take-the-webaim-survey-2/</link>
+					<comments>https://training.vispero.com/take-the-webaim-survey-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Elizabeth Whitaker]]></dc:creator>
+		<pubDate>Fri, 28 Aug 2026 20:41:45 +0000</pubDate>
+				<category><![CDATA[Blindness Awareness]]></category>
+		<category><![CDATA[JAWS]]></category>
+		<category><![CDATA[Freedom-Scientific-training]]></category>
+		<guid isPermaLink="false">https://training.vispero.com/?p=3229</guid>
+
+					<description><![CDATA[Web Accessibility In Mind (WebAIM) is surveying screen reader users to collect information that will impact the future development of web content and web standards. WebAIM, part of Utah State University, provides training, tools, and information to assist in the creation of websites that are accessible to individuals with disabilities. Why Web Accessibility Matters Web &#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Web Accessibility In Mind (WebAIM) is surveying screen reader users to collect information that will impact the future development of web content and web standards. WebAIM, part of Utah State University, provides training, tools, and information to assist in the creation of websites that are accessible to individuals with disabilities.</p>
+
+
+
+<h2 class="wp-block-heading">Why Web Accessibility Matters</h2>
+
+
+
+<p class="wp-block-paragraph">Web accessibility is crucial to ensure screen reader users can readily access information on the web. This includes content such as:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Text</li>
+
+
+
+<li>Tables</li>
+
+
+
+<li>Forms</li>
+
+
+
+<li>Videos</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Websites are often used to shop online, complete school assignments, and perform essential work tasks. This makes accessibility a necessary part of website development.</p>
+
+
+
+<p class="wp-block-paragraph">Whether you consider yourself a novice or an advanced JAWS user, we ask that you contribute to the future of web accessibility by taking the <a href="https://webaim.org/projects/screenreadersurvey11/">WebAIM Screen Reader Survey</a>. It will remain open through <strong>Monday, August 31, 2026</strong>, and takes around five to ten minutes to complete.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://training.vispero.com/take-the-webaim-survey-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3229</post-id>	</item>
+		<item>
+		<title>Four Classic JAWS Features That Can Transform Your Workflow</title>
+		<link>https://training.vispero.com/four-classic-jaws-features-that-can-transform-your-workflow/</link>
+					<comments>https://training.vispero.com/four-classic-jaws-features-that-can-transform-your-workflow/#respond</comments>
+		
+		<dc:creator><![CDATA[Elizabeth Whitaker]]></dc:creator>
+		<pubDate>Wed, 26 Aug 2026 20:26:18 +0000</pubDate>
+				<category><![CDATA[JAWS]]></category>
+		<category><![CDATA[Training]]></category>
+		<category><![CDATA[Freedom-Scientific-training]]></category>
+		<category><![CDATA[Freedom-Scientific-webinars]]></category>
+		<guid isPermaLink="false">https://training.vispero.com/?p=3222</guid>
+
+					<description><![CDATA[Are you looking to enhance your JAWS skills and learn more about its powerful features? Join us Thursday, August 27 at noon ET for a live webinar, &#8220;Four Classic JAWS Features That Can Transform Your Workflow.&#8221; What We&#8217;ll Cover Some of the most useful JAWS features have been around for years, but they aren’t always &#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Are you looking to enhance your JAWS skills and learn more about its powerful features? Join us Thursday, August 27 at noon ET for a live webinar, &#8220;Four Classic JAWS Features That Can Transform Your Workflow.&#8221;</p>
+
+
+
+<h2 class="wp-block-heading">What We&#8217;ll Cover</h2>
+
+
+
+<p class="wp-block-paragraph">Some of the most useful JAWS features have been around for years, but they aren’t always the ones we talk about most often. In this webinar, we&#8217;ll revisit four powerful features that can help you save time, increase productivity, and customize JAWS to better support the way you work with documents and web pages. In this session, you&#8217;ll learn how to use:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Skim Reading </strong>to quickly locate headings, highlighted text, links, and other important information in documents and web pages</li>
+
+
+
+<li><strong>Text Analyzer </strong>to identify potential errors beyond spelling and grammar in documents, emails, blog posts, and other text before you share them.</li>
+
+
+
+<li><strong>Speech and Sound Schemes </strong>to customize how JAWS presents information using speech and sounds.</li>
+
+
+
+<li><strong>Dictionary Manager </strong>to customize how JAWS pronounces words, phrases, abbreviations, and symbols.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"><a href="https://us06web.zoom.us/webinar/register/WN_gO29_IL8TrG4WfwVo9roMQ">Register</a> for this webinar to learn customization techniques that can increase proficiency and enhance how you work. ACVREP credits will be available for those who attend the live webinar.</p>
+
+
+
+<p class="wp-block-paragraph">Can&#8217;t attend? We archive all webinars on our <a href="https://www.freedomscientific.com/training/freewebinars/archivedwebinars/">Webinars on Demand</a> page. Have questions? Send an email to <a href="mailto:training@vispero.com">training@vispero.com</a>.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://training.vispero.com/four-classic-jaws-features-that-can-transform-your-workflow/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3222</post-id>	</item>
+		<item>
+		<title>Vispero Connect:  August 2026 – Meeting Campbell Rutherford, Backing Up JAWS Settings, And Making AI Agents Work For You</title>
+		<link>https://training.vispero.com/vispero-connect-august-2026-meeting-campbell-rutherford-backing-up-jaws-settings-and-making-ai-agents-work-for-you/</link>
+					<comments>https://training.vispero.com/vispero-connect-august-2026-meeting-campbell-rutherford-backing-up-jaws-settings-and-making-ai-agents-work-for-you/#respond</comments>
+		
+		<dc:creator><![CDATA[Oleg Shevkun]]></dc:creator>
+		<pubDate>Wed, 26 Aug 2026 11:33:22 +0000</pubDate>
+				<category><![CDATA[FSCast]]></category>
+		<category><![CDATA[VisperoConnect]]></category>
+		<guid isPermaLink="false">https://training.vispero.com/?p=3220</guid>
+
+					<description><![CDATA[This month, we meet Campbell Rutherford to hear about her passions for math, biology, and assistive technology. Then, Stephen Greeley guides us through exporting, syncing, and importing JAWS settings. Mohammed Laachir explains some useful agentic AI concepts, including skills. And Elizabeth Whitaker previews our upcoming training opportunities. Activate to listen, right-click to download. Read the &#8230; ]]></description>
+										<content:encoded><![CDATA[<p>This month, we meet Campbell Rutherford to hear about her passions for math, biology, and assistive technology. Then, Stephen Greeley guides us through exporting, syncing, and importing JAWS settings. Mohammed Laachir explains some useful agentic AI concepts, including skills. And Elizabeth Whitaker previews our upcoming training opportunities.<br />
+<span id="more-3220"></span><br />
+<a href="https://traffic.libsyn.com/fscast/VisperoConnect-august2026.mp3">Activate to listen, right-click to download.</a><br />
+<a href="https://training.vispero.com/wp-content/uploads/2026/09/VisperoConnect-august2026Transcript.htm">Read the transcript.</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://training.vispero.com/vispero-connect-august-2026-meeting-campbell-rutherford-backing-up-jaws-settings-and-making-ai-agents-work-for-you/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://traffic.libsyn.com/fscast/VisperoConnect-august2026.mp3" length="0" type="audio/mpeg" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">3220</post-id>	</item>
+		<item>
+		<title>Join Us for Six JAWS Tips for Streamlining Research Workflows</title>
+		<link>https://training.vispero.com/join-us-for-six-jaws-tips-for-streamlining-research-workflows/</link>
+		
+		<dc:creator><![CDATA[Elizabeth Whitaker]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2026 21:27:27 +0000</pubDate>
+				<category><![CDATA[JAWS]]></category>
+		<category><![CDATA[Training]]></category>
+		<category><![CDATA[Freedom-Scientific-training]]></category>
+		<category><![CDATA[Freedom-Scientific-webinars]]></category>
+		<guid isPermaLink="false">https://training.vispero.com/?p=3216</guid>
+
+					<description><![CDATA[Are you looking for tips to help you manage web research with JAWS? Join us, along with our friends at the American Printing House for the Blind (APH) for a live webinar, &#8220;Six JAWS Tips for Streamlining Research Workflows.&#8221; What We&#8217;ll Cover Research rarely happens on just one web page. Whether you are gathering information &#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Are you looking for tips to help you manage web research with JAWS? Join us, along with our friends at the American Printing House for the Blind (APH) for a live webinar, &#8220;Six JAWS Tips for Streamlining Research Workflows.&#8221;</p>
+
+
+
+<h2 class="wp-block-heading">What We&#8217;ll Cover</h2>
+
+
+
+<p class="wp-block-paragraph">Research rarely happens on just one web page. Whether you are gathering information for work, school, or personal projects, you may need to compare sources, interpret images and visuals, complete online forms, take notes, and organize information from multiple websites.</p>
+
+
+
+<p class="wp-block-paragraph">In this new APH webinar series, Passport to Innovation, we&#8217;ll share six JAWS tips designed to help users move through web-based research tasks with greater efficiency and confidence. Learn how to:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Summarize web pages with JAWS Page Explorer</li>
+
+
+
+<li>Interpret visuals with Picture Smart AI</li>
+
+
+
+<li>Complete Online Forms</li>
+
+
+
+<li>Copy multiple blocks of text with the FSClipboard</li>
+
+
+
+<li>Copy Tables from a Web Page</li>
+
+
+
+<li>Quickly review content with JAWS Skim reading</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"><a href="https://aph.zoom.us/webinar/register/WN_bxAYZGlJTGyNJQwniizw-g">Register</a> for this webinar to gain powerful research and organization skills using JAWS.</p>
+
+
+
+<p class="wp-block-paragraph">Can&#8217;t attend? We archive all webinars on our <a href="https://www.freedomscientific.com/training/freewebinars/archivedwebinars/">Webinars on Demand</a> page. Have questions? Send an email to <a href="mailto:training@vispero.com">training@vispero.com</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3216</post-id>	</item>
+		<item>
+		<title>JAWS Jumpstart: Customizing JAWS for Your Needs</title>
+		<link>https://training.vispero.com/jaws-jumpstart-customizing-jaws-for-your-needs/</link>
+		
+		<dc:creator><![CDATA[Elizabeth Whitaker]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2026 23:55:42 +0000</pubDate>
+				<category><![CDATA[JAWS JumpStart]]></category>
+		<category><![CDATA[Training]]></category>
+		<category><![CDATA[Freedom-Scientific-training]]></category>
+		<category><![CDATA[JAWS-training]]></category>
+		<guid isPermaLink="false">https://training.vispero.com/?p=3204</guid>
+
+					<description><![CDATA[Welcome to JAWS Jumpstart, a four-week series designed to help students, teachers, new users, and anyone looking for a refresher get the most out of JAWS as the new school year begins. Each Monday in August, we&#8217;ll share a practical tip, shortcut, or feature to help you start the year off on the right foot. &#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Welcome to JAWS Jumpstart, a four-week series designed to help students, teachers, new users, and anyone looking for a refresher get the most out of JAWS as the new school year begins. Each Monday in August, we&#8217;ll share a practical tip, shortcut, or feature to help you start the year off on the right foot. This week, we&#8217;re sharing JAWS customization tips to help you improve productivity and efficiency.</p>
+
+
+
+<h2 class="wp-block-heading">Why Customizing JAWS Is Important</h2>
+
+
+
+<p class="wp-block-paragraph">Customizing JAWS enables you to tailor specific settings like speech rate, verbosity, and punctuation to meet your needs. Customization also helps you optimize JAWS for specific applications or tasks, improving efficiency and productivity in your daily work or studies. Here are three tips for customizing JAWS.</p>
+
+
+
+<h2 class="wp-block-heading">Customize Speech Settings</h2>
+
+
+
+<p class="wp-block-paragraph">Customizing speech settings is important because it ensures JAWS communicates information in a way that is clear, comfortable, and easy for you to understand. To customize speech settings:</p>
+
+
+
+<ol class="wp-block-list">
+<li>Press <strong>INSERT+J </strong>to navigate to the JAWS window. If you are using Laptop Keyboard layout, hold down <strong>CTRL+SHIFT+CAPS LOCK </strong>and press <strong>J</strong>.</li>
+
+
+
+<li>Press <strong>ALT+O </strong>to open the Options menu, <strong>V </strong>to navigate to the Voice Adjustment menu, then press <strong>ENTER </strong>to open the Voice Adjustment dialog.</li>
+
+
+
+<li>In the Voice Adjustment dialog, use the <strong>TAB </strong>key to move between options such as voice, speech rate, punctuation, and language. Use the arrow keys or drop-down lists to select your preferred settings.</li>
+
+
+
+<li>When finished, choose <strong>OK </strong>to save your changes and exit the dialog. Alternatively, pressing <strong>ENTER </strong>on a setting after changing it will also save your settings.</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading">Create PlaceMarkers</h2>
+
+
+
+<p class="wp-block-paragraph">PlaceMarkers in JAWS let you mark specific spots on web pages, documents, or emails so you can quickly return to them later. Temporary PlaceMarkers are for one-time use during your current session, while permanent PlaceMarkers are saved and available whenever you revisit the page or document. PlaceMarkers are helpful for navigating long or complex content, making it easier to find important information or start and end text selections.</p>
+
+
+
+<p class="wp-block-paragraph">To create a PlaceMarker:</p>
+
+
+
+<ol class="wp-block-list">
+<li>Navigate to the spot where you want to set a PlaceMarker.</li>
+
+
+
+<li>For a temporary PlaceMarker, press <strong>CTRL+WINDOWS+K</strong>. You can do this in a Word or PDF document, in an Excel spreadsheet, and on a web page. You can only create one temporary PlaceMarker per document, spreadsheet, or web page.</li>
+
+
+
+<li>For a permanent PlaceMarker (on web pages), press <strong>CTRL+SHIFT+K</strong>, then press <strong>ALT+A </strong>to add a new PlaceMarker. Follow the prompts to name and save your marker.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">To return to a PlaceMarker, use <strong>CTRL+SHIFT+K </strong>to open the PlaceMarkers List and select the marker you want. You can also press <strong>K </strong>to navigate to PlaceMarkers on a web page.</p>
+
+
+
+<p class="wp-block-paragraph">Using PlaceMarkers helps you efficiently navigate and manage information in large documents or web pages.</p>
+
+
+
+<h2 class="wp-block-heading">Sync Your JAWS Settings in the Cloud</h2>
+
+
+
+<p class="wp-block-paragraph">You can now save your JAWS settings to the cloud and access them on any computer where you sign in with your Vispero account. This makes it much easier to keep your setup consistent without having to reconfigure JAWS each time. This also ensures your customizations remain safely stored and in situations where your current computer becomes unusable.</p>
+
+
+
+<p class="wp-block-paragraph">With Cloud Settings, you can sync:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Application settings</li>
+
+
+
+<li>Dictionary entries</li>
+
+
+
+<li>PlaceMarkers</li>
+
+
+
+<li>Web page settings</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">These settings will be saved to the cloud so you can sync them on multiple computers. This also makes it easier to restore your settings on a new device.</p>
+
+
+
+<p class="wp-block-paragraph">This feature is only available in regions where Vispero accounts are supported. This feature is also a part of our Early Adopter Program, so you can try it out and provide feedback before it is fully released.</p>
+
+
+
+<p class="wp-block-paragraph">To enable it in the Early Adopter Program and sync your settings:</p>
+
+
+
+<ol class="wp-block-list">
+<li>Make sure you are signed in to your Vispero account. You can check this by navigating to the JAWS window, then pressing <strong>ALT+H </strong>to access the Help Menu, then press <strong>L </strong>to navigate to the License and Accounts submenu. Press the up arrow once. If you hear the words &#8220;Sign out,&#8221; you are already signed in.</li>
+
+
+
+<li>Open the JAWS Options menu and choose Early Adopter Program.</li>
+
+
+
+<li>Select Cloud Settings Sync, then choose <strong>OK </strong>and restart JAWS.</li>
+
+
+
+<li>After JAWS restarts, choose Enable Sync when prompted to begin syncing your settings.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">To learn more about PlaceMarkers or additional ways to customize your JAWS settings, watch or download these archived trainings:</p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://www.freedomscientific.com/webinars/jaws-placemarkers/">Use JAWS PlaceMarkers to Mark Specific Locations in Documents, Spreadsheets, and on Web Pages</a></li>
+
+
+
+<li><a href="https://www.freedomscientific.com/webinars/use-the-jaws-startup-wizard-to-customize-your-settings/">Use the JAWS Startup Wizard to Customize Your Settings</a></li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Try these customization tips to improve productivity and enhance the way you work. Have questions? Send an email to <a href="mailto:training@vispero.com">training@vispero.com</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3204</post-id>	</item>
+		<item>
+		<title>JAWS JumpStart – A Deep Dive into Managing Documents with JAWS</title>
+		<link>https://training.vispero.com/jaws-jumpstart-a-deep-dive-into-managing-documents-with-jaws/</link>
+		
+		<dc:creator><![CDATA[Elizabeth Whitaker]]></dc:creator>
+		<pubDate>Mon, 17 Aug 2026 23:23:25 +0000</pubDate>
+				<category><![CDATA[JAWS JumpStart]]></category>
+		<category><![CDATA[Training]]></category>
+		<category><![CDATA[Freedom-Scientific-training]]></category>
+		<category><![CDATA[JAWS-training]]></category>
+		<guid isPermaLink="false">https://training.vispero.com/?p=3179</guid>
+
+					<description><![CDATA[Welcome to JAWS Jumpstart, a four-week series designed to help students, teachers, new users, and anyone looking for a refresher get the most out of JAWS as the new school year begins. Each Monday in August, we’ll share a practical tip, shortcut, or feature to help you start the year off on the right foot. &#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Welcome to JAWS Jumpstart, a four-week series designed to help students, teachers, new users, and anyone looking for a refresher get the most out of JAWS as the new school year begins. Each Monday in August, we’ll share a practical tip, shortcut, or feature to help you start the year off on the right foot. This week, we’ll provide tips on how to navigate and manage documents with JAWS.</p>
+
+
+
+<h2 class="wp-block-heading">Why Document Management Matters</h2>
+
+
+
+<p class="wp-block-paragraph">Documents often contain much more than text. Reports, course materials, presentations, and other documents may include complex layouts, graphics, charts, tables, and dense information that can be difficult to navigate efficiently. Here are some tips for managing and interacting with documents using JAWS.</p>
+
+
+
+<h2 class="wp-block-heading">Identify and Navigate Document Structure</h2>
+
+
+
+<p class="wp-block-paragraph">If a document or PDF contains elements like headings, tables, and links, you can use several JAWS commands to quickly navigate to important information.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Headings List</strong>: If heading styles are used, JAWS can list all headings. Press <strong>INSERT+F6 </strong>to open the Headings List dialog. Use arrow keys to move through headings and press <strong>ENTER </strong>to jump to a heading in the document.</li>
+
+
+
+<li><strong>Links List</strong>: Press <strong>INSERT+F7 </strong>to open the Links List dialog. This displays a list of all links in the current document or web page. Use arrow keys to move through the list and press <strong>ENTER </strong>to activate the selected link. You can also use the Move to Link button to jump directly to the location in the document containing the link.</li>
+
+
+
+<li><strong>JAWS Find Command</strong>: Use <strong>INSERT+CTRL+F </strong>to search for text anywhere in the document. If using a laptop, this command is <strong>CAPS LOCK+CTRL+F</strong>.</li>
+
+
+
+<li><strong>Table Navigation</strong>: When in a table, JAWS announces row and column headers if they are set. When in a table, press <strong>INSERT+SPACEBAR</strong> if using Desktop Keyboard layout, or <strong>CAPS LOCK+SPACEBAR </strong>if using Laptop Keyboard layout, then press <strong>T </strong>to enter the Table layer. You can then use your arrow keys to navigate the table and read the information.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Editing Information While Maintaining Document Style</h2>
+
+
+
+<p class="wp-block-paragraph">To add information in Microsoft Word and maintain the current document style using JAWS, follow these tips:</p>
+
+
+
+<ol class="wp-block-list">
+<li>Place your cursor where you want to add text using the arrow keys.</li>
+
+
+
+<li>Start typing. Word will use the style applied to that location (for example, Normal, Heading 1, etc.).</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">If you want to ensure your new text matches the existing style:</p>
+
+
+
+<ol class="wp-block-list">
+<li>Press <strong>INSERT+F </strong>or <strong>CAPS LOCK+F </strong>to have JAWS announce the current formatting, including the style at your cursor location.</li>
+
+
+
+<li>If you need to reapply the style, press <strong>CTRL+SHIFT+S </strong>to open the Styles pane, use the arrow keys to select the desired style, and press <strong>ENTER</strong>.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph"><strong>Tip: </strong>If you copy and paste text from another source, use <strong>CTRL+SHIFT+N </strong>to apply the Normal style, or use the Styles pane as above to match the document’s formatting. You can also paste using <strong>CTRL+SHIFT+V</strong>. This pastes the text while retaining the formatting.</p>
+
+
+
+<h2 class="wp-block-heading">Quickly Navigate Lengthy Documents</h2>
+
+
+
+<p class="wp-block-paragraph">When in a Word document, press <strong>INSERT+Z</strong> or <strong>CAPS LOCK+Z</strong> to turn on JAWS Quick Keys, and press <strong>H </strong>to navigate by heading, <strong>T</strong> for table, etc. Use this same command to turn Quick Keys off.</p>
+
+
+
+<p class="wp-block-paragraph">In a tagged PDF, Quick Navigation Keys are already turned on by default.</p>
+
+
+
+<p class="wp-block-paragraph">To go to a specific page:</p>
+
+
+
+<ol class="wp-block-list">
+<li>Press <strong>CTRL+G</strong>, then type in the page number.</li>
+
+
+
+<li>Press <strong>ALT+T </strong>to activate the Go To button, then press <strong>ESC</strong>. Focus moves to the page you selected.</li>
+
+
+
+<li>When in this dialog, press <strong>SHIFT+TAB </strong>to navigate to the list box where you can use your arrow keys to select section. Enter the section number you want to navigate to and press <strong>ENTER</strong>.</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading">Use JAWS AI-powered tools to gain meaningful insights from visual elements</h2>
+
+
+
+<h3 class="wp-block-heading">Interpret images, charts, and PowerPoint slide visuals with Picture Smart AI</h3>
+
+
+
+<p class="wp-block-paragraph">Picture Smart AI is a JAWS feature that uses artificial intelligence to describe images, photos, charts, PowerPoint slides, and other visual elements that may not have alternative text. It can provide details such as the number of people, their appearance, activities, landmarks, landscape features, and even text found in images. Picture Smart AI integrates with the AI services ChatGPT and Claude to deliver these descriptions.</p>
+
+
+
+<p class="wp-block-paragraph">To use Picture Smart AI, you first press the Picture Smart layer command, then a specific key for the type of description you want. Here are the main commands:</p>
+
+
+
+<ol class="wp-block-list">
+<li>Start Picture Smart Layer:<br>• Press <strong>INSERT+SPACEBAR</strong>, then <strong>P</strong>.</li>
+
+
+
+<li>After entering the Picture Smart layer, use one of these keys:<br>• <strong>F</strong>: Describe the currently selected image file in File Explorer.<br>• <strong>C</strong>: Describe the currently selected control (such as a picture in a Word document or on a website).<br>• <strong>S</strong>: Describe the entire screen.<br>• <strong>W</strong>: Describe the current application window.<br>• <strong>ENTER</strong>: Describe an image based on the current context (for example, the current slide in Teams or PowerPoint, the selected file in File Explorer, or the current image on a web page).<br>• <strong>A</strong>: Open the Picture Smart dialog to acquire an image from a scanner or PEARL camera.<br>• <strong>SHIFT+SLASH </strong>(which is the Question Mark key): Display help for the Picture Smart layer.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">To get more detailed descriptions, add <strong>SHIFT </strong>to the command (for example, <strong>INSERT+SPACEBAR, P, SHIFT+F</strong>). This bypasses the initial short description and takes you directly to the results from both ChatGPT and Claude.</p>
+
+
+
+<p class="wp-block-paragraph">You can ask follow-up questions about an image after a description is shown, using the link in the Results Viewer.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Note:</strong> For Picture Smart AI to work, the &#8220;submit anonymous usage data&#8221; option must be enabled in JAWS Settings Center.</p>
+
+
+
+<h3 class="wp-block-heading">Simplify busy or cluttered web pages and PDFs with Page Explorer</h3>
+
+
+
+<p class="wp-block-paragraph">Page Explorer is a JAWS feature that provides a quick summary of any web page or PDF. It tells you about the page’s layout, main content, important links, and gives you tips for navigating the page efficiently.</p>
+
+
+
+<p class="wp-block-paragraph">To use Page Explorer:</p>
+
+
+
+<ol class="wp-block-list">
+<li>Press <strong>INSERT+SHIFT+E </strong>(if using desktop layout) or <strong>CAPS LOCK+SHIFT+E </strong>(if using laptop layout)</li>
+
+
+
+<li>JAWS will open a summary in the Results Viewer. You can read the overview, activate important links, and get navigation tips—all in one place. This helps you understand complex pages without having to explore every element one by one.</li>
+
+
+
+<li>Press <strong>ESC </strong>to exit the Results Viewer and return to your web page.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">For more details, stream or download our webinar, “<a href="https://www.freedomscientific.com/webinars/six-tips-for-managing-complex-documents-with-jaws/">Six Tips for Managing Complex Documents with JAWS</a>” from our <a href="https://www.freedomscientific.com/training/freewebinars/archivedwebinars/">Webinars On Demand</a> page. Have questions? Send an email to <a href="mailto:training@vispero.com">training@vispero.com</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3179</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,68 @@
+{
+  "kind": "rss",
+  "domain": "blog.freedomscientific.com",
+  "url": "https://blog.freedomscientific.com/feed/",
+  "count": 10,
+  "items": [
+    {
+      "title": "Vispero Connect: Now Also On YouTube",
+      "link": "https://training.vispero.com/vispero-connect-now-also-on-youtube/",
+      "pubDate": "Wed, 09 Sep 2026 10:37:12 +0000",
+      "description": "You asked, we listened. Vispero Connect, our official monthly podcast, is now available on YouTube. Each episode features product news and tips, interviews with members of our Vispero team, user stories, as well as previews of our upcoming training events. View Vispero Connect playlist on our YouTube channel Of course, you can still find us &#8230;"
+    },
+    {
+      "title": "Issue Affecting Some JAWS and Fusion Features Now Resolved",
+      "link": "https://training.vispero.com/issue-affecting-some-jaws-and-fusion-features-now-resolved/",
+      "pubDate": "Tue, 08 Sep 2026 23:13:05 +0000",
+      "description": "The issue we reported on September 4 has been resolved with no action needed on your part. Last week a Microsoft update changed the way accessibility support is enabled for applications that use certain Microsoft web technologies. As a result, JAWS was not always receiving the information it needed from those applications, and some features &#8230;"
+    },
+    {
+      "title": "Temporary Issue Affecting Some JAWS and Fusion Features",
+      "link": "https://training.vispero.com/temporary-issue-affecting-some-jaws-and-fusion-features/",
+      "pubDate": "Fri, 04 Sep 2026 21:34:13 +0000",
+      "description": "A recent Microsoft update is changing how accessibility support is enabled for applications that use certain Microsoft web technologies. As a result, JAWS may not receive the information it needs from these applications, causing some features to provide no speech or braille. This may affect: The issue is not currently observed in web browsers such &#8230;"
+    },
+    {
+      "title": "Learn How AI Connectors Can Bring Your Everyday Apps and Information Together",
+      "link": "https://training.vispero.com/learn-how-ai-connectors-can-bring-your-everyday-apps-and-information-together/",
+      "pubDate": "Wed, 02 Sep 2026 19:21:35 +0000",
+      "description": "Artificial Intelligence (AI) is changing how we work, helping us automate routine tasks, analyze and summarize data, and generate content. Learn AI with our AI live webinar series and comprehensive online guide, designed to empower you with the knowledge and skills to increase productivity and independence in the workplace. The 14th webinar in this ongoing &#8230;"
+    },
+    {
+      "title": "Take the WebAIM Survey",
+      "link": "https://training.vispero.com/take-the-webaim-survey-2/",
+      "pubDate": "Fri, 28 Aug 2026 20:41:45 +0000",
+      "description": "Web Accessibility In Mind (WebAIM) is surveying screen reader users to collect information that will impact the future development of web content and web standards. WebAIM, part of Utah State University, provides training, tools, and information to assist in the creation of websites that are accessible to individuals with disabilities. Why Web Accessibility Matters Web &#8230;"
+    },
+    {
+      "title": "Four Classic JAWS Features That Can Transform Your Workflow",
+      "link": "https://training.vispero.com/four-classic-jaws-features-that-can-transform-your-workflow/",
+      "pubDate": "Wed, 26 Aug 2026 20:26:18 +0000",
+      "description": "Are you looking to enhance your JAWS skills and learn more about its powerful features? Join us Thursday, August 27 at noon ET for a live webinar, &#8220;Four Classic JAWS Features That Can Transform Your Workflow.&#8221; What We&#8217;ll Cover Some of the most useful JAWS features have been around for years, but they aren’t always &#8230;"
+    },
+    {
+      "title": "Vispero Connect:  August 2026 – Meeting Campbell Rutherford, Backing Up JAWS Settings, And Making AI Agents Work For You",
+      "link": "https://training.vispero.com/vispero-connect-august-2026-meeting-campbell-rutherford-backing-up-jaws-settings-and-making-ai-agents-work-for-you/",
+      "pubDate": "Wed, 26 Aug 2026 11:33:22 +0000",
+      "description": "This month, we meet Campbell Rutherford to hear about her passions for math, biology, and assistive technology. Then, Stephen Greeley guides us through exporting, syncing, and importing JAWS settings. Mohammed Laachir explains some useful agentic AI concepts, including skills. And Elizabeth Whitaker previews our upcoming training opportunities. Activate to listen, right-click to download. Read the &#8230;"
+    },
+    {
+      "title": "Join Us for Six JAWS Tips for Streamlining Research Workflows",
+      "link": "https://training.vispero.com/join-us-for-six-jaws-tips-for-streamlining-research-workflows/",
+      "pubDate": "Tue, 25 Aug 2026 21:27:27 +0000",
+      "description": "Are you looking for tips to help you manage web research with JAWS? Join us, along with our friends at the American Printing House for the Blind (APH) for a live webinar, &#8220;Six JAWS Tips for Streamlining Research Workflows.&#8221; What We&#8217;ll Cover Research rarely happens on just one web page. Whether you are gathering information &#8230;"
+    },
+    {
+      "title": "JAWS Jumpstart: Customizing JAWS for Your Needs",
+      "link": "https://training.vispero.com/jaws-jumpstart-customizing-jaws-for-your-needs/",
+      "pubDate": "Mon, 24 Aug 2026 23:55:42 +0000",
+      "description": "Welcome to JAWS Jumpstart, a four-week series designed to help students, teachers, new users, and anyone looking for a refresher get the most out of JAWS as the new school year begins. Each Monday in August, we&#8217;ll share a practical tip, shortcut, or feature to help you start the year off on the right foot. &#8230;"
+    },
+    {
+      "title": "JAWS JumpStart – A Deep Dive into Managing Documents with JAWS",
+      "link": "https://training.vispero.com/jaws-jumpstart-a-deep-dive-into-managing-documents-with-jaws/",
+      "pubDate": "Mon, 17 Aug 2026 23:23:25 +0000",
+      "description": "Welcome to JAWS Jumpstart, a four-week series designed to help students, teachers, new users, and anyone looking for a refresher get the most out of JAWS as the new school year begins. Each Monday in August, we’ll share a practical tip, shortcut, or feature to help you start the year off on the right foot. &#8230;"
+    }
+  ]
+}

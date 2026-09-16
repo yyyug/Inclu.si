@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCxeGLwFsHkFURFcVs-YS8gg"/>
+ <id>yt:channel:xeGLwFsHkFURFcVs-YS8gg</id>
+ <yt:channelId>xeGLwFsHkFURFcVs-YS8gg</yt:channelId>
+ <title>aira</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCxeGLwFsHkFURFcVs-YS8gg"/>
+ <author>
+  <name>aira</name>
+  <uri>https://www.youtube.com/channel/UCxeGLwFsHkFURFcVs-YS8gg</uri>
+ </author>
+ <published>2005-09-25T22:31:43+00:00</published>
+ <entry>
+  <id>yt:video:0q26VV4HEfg</id>
+  <yt:videoId>0q26VV4HEfg</yt:videoId>
+  <yt:channelId>UCxeGLwFsHkFURFcVs-YS8gg</yt:channelId>
+  <title>mine</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=0q26VV4HEfg"/>
+  <author>
+   <name>aira</name>
+   <uri>https://www.youtube.com/channel/UCxeGLwFsHkFURFcVs-YS8gg</uri>
+  </author>
+  <published>2005-09-26T00:08:01+00:00</published>
+  <updated>2026-09-07T04:17:06+00:00</updated>
+  <media:group>
+   <media:title>mine</media:title>
+   <media:content url="https://www.youtube.com/v/0q26VV4HEfg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/0q26VV4HEfg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>cooL!</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="586"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:L8bj0eCjOO4</id>
+  <yt:videoId>L8bj0eCjOO4</yt:videoId>
+  <yt:channelId>UCxeGLwFsHkFURFcVs-YS8gg</yt:channelId>
+  <title>mine</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/L8bj0eCjOO4"/>
+  <author>
+   <name>aira</name>
+   <uri>https://www.youtube.com/channel/UCxeGLwFsHkFURFcVs-YS8gg</uri>
+  </author>
+  <published>2005-09-25T22:45:53+00:00</published>
+  <updated>2026-09-07T13:30:08+00:00</updated>
+  <media:group>
+   <media:title>mine</media:title>
+   <media:content url="https://www.youtube.com/v/L8bj0eCjOO4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/L8bj0eCjOO4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>cool</media:description>
+   <media:community>
+    <media:starRating count="20" average="5.00" min="1" max="5"/>
+    <media:statistics views="878"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

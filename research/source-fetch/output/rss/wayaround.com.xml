@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WayAround</title>
+	<atom:link href="https://www.wayaround.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.wayaround.com/</link>
+	<description>Information at Your Fingertips</description>
+	<lastBuildDate>Tue, 16 Jul 2024 10:35:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.4</generator>
+	<item>
+		<title>Using Airtags vs. WayTags for Traveling</title>
+		<link>https://www.wayaround.com/airtags-vs-waytags/</link>
+					<comments>https://www.wayaround.com/airtags-vs-waytags/#respond</comments>
+		
+		<dc:creator><![CDATA[Jessica Hipp]]></dc:creator>
+		<pubDate>Tue, 16 Jul 2024 10:35:22 +0000</pubDate>
+				<category><![CDATA[The Journey]]></category>
+		<category><![CDATA[Accessibility Tips]]></category>
+		<category><![CDATA[accessories]]></category>
+		<category><![CDATA[how-to]]></category>
+		<category><![CDATA[travel]]></category>
+		<category><![CDATA[User Story]]></category>
+		<category><![CDATA[WayTags]]></category>
+		<guid isPermaLink="false">https://www.wayaround.com/?p=11663</guid>
+
+					<description><![CDATA[<p>I was recently chatting with my friend, Tom Babinski, about a question that I hear from time to time: What&#8217;s [&#8230;]</p>
+<p>Read More At: <a href="https://www.wayaround.com/airtags-vs-waytags/">Using Airtags vs. WayTags for Traveling</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p>I was recently chatting with my friend, Tom Babinski, about a question that I hear from time to time: What&#8217;s the difference between a WayTag and an Airtag? Tom is an accessibility consultant who specializes in travel and writes the blog <a href="https://evengrounds.com/" target="_blank" rel="noopener">Even Grounds.</a> He uses both WayTags and Airtags to make his own travel more accessible, and he offered to write a guest post for our blog to share his tips.</p>
+<p>Before we dive into what Tom has to say, here&#8217;s a quick technical explanation of the difference between WayTags and Airtags:</p>
+<ul>
+<li>WayTags use Near Field Communication (NFC) technology. Each WayTag has an antenna that is activated when your phone comes in very close contact with it. WayTags do not have a battery.</li>
+<li>Airtags emit a Bluetooth low energy (BLE) signal that connects securely to Apple&#8217;s Find My network and sends a notification to your device. A battery is required and the battery typically lasts for about one year.</li>
+</ul>
+<p>With that explanation, please enjoy Tom&#8217;s post!</p>
+<h2>Traveling with WayTags and Airtags</h2>
+<p><span style="font-weight: 400;">I was curious how the WayTags and the Apple Airtags compare, and how can I use them differently during my trips. I found that they both certainly have room in my suitcase.</span></p>
+<p><span style="font-weight: 400;">When it comes to marking objects and locations with electronic information, there are two types of approaches: location and content.</span></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Stores and recalls information about an object, like WayTags. These can be <strong>useful to identify</strong> bottles, bags, etc.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Temporarily positioned and allows you to find a particular location, like an Apple AirTag. It can be <strong>useful to find something</strong> in a short term, like a table we stood up from or a bag we put down.</span></li>
+</ol>
+<p><span style="font-weight: 400;">These object markers can be stand-alone devices, but most often they connect to a phone through an app. The app-based solution is usually cheaper and much more configurable.</span></p>
+<h2>Tagging Toiletries and Medicines</h2>
+<p><span style="font-weight: 400;">I personally use both Airtags and WayTags during my travels. What I like about both tags is that I can instantly use them, and don’t have to worry if any scanning and AI solutions will work when I need it. Is the writing legible? Is there enough light where I am about to read or recognize something? Having said that, I also use many AI solutions for other tasks.</span></p>
+<p><span style="font-weight: 400;">But when I travel, speed and accuracy is key. </span></p>
+<p><span style="font-weight: 400;">I don’t need to tag many things, however the few I do are things I use each day. These are my </span><a href="https://www.wayaround.com/toiletries-personal-care/"><span style="font-weight: 400;">toiletries and medicines.</span></a><span style="font-weight: 400;"> In hotels there are usually shampoo and body wash bottles, but each time I want to use them I need to scan which is which. Besides, I just like to use my own. But when I shop for them, they don’t always come in the exact same shaped bottle. It is just easier to use a WayTag when I buy something new, and I can quickly figure out what’s what during the morning. </span></p>
+<p><span style="font-weight: 400;">There are also medicines I keep with me that I don’t need to use often, but when I need them I really do and I don’t have time to get new ones. With a WayTag, I can always be sure that I will have what I need as long as my phone is charged.</span></p>
+<p><span style="font-weight: 400;">I was wondering if I could use AirTags for the same purpose. Theoretically, I could mark things with it, and say play a sound from the shampoo bottle, but it is just not practical, because I can’t attach more information to it like I can to a WayTag. In the case of a shampoo bottle that’s fine, but if I need instructions about taking a particular medication it won’t work. Not to mention that WayTags are a small fraction of the price of an Airtag.</span></p>
+<h2>Marking Locations with Airtags</h2>
+<p><span style="font-weight: 400;">But Airtags also have their use, though it is a bit unconventional. Generally they are intended to be used for lost objects. With a little modification, they are excellent for marking locations. </span></p>
+<p><span style="font-weight: 400;">Outside of the Bluetooth range, the only way to use them is to mark it as lost. Then, it will show up on the map where it was registered last. This feature is not really useful for us. But if we are within 20-30 feet or so, we can use precision finding to locate it. For example, if I need to get up in a restaurant and use the restroom, I can leave an Airtag at the table. When I return, I only need to remember the general direction. I don’t need to count the tables. I use the precision finding on the phone, and it will tell me how far the Airtag is within a one foot accuracy. This is good enough not to end up at the next table.</span></p>
+<p><span style="font-weight: 400;">I can use a similar trick to find my hotel door. I leave an Airtag near the door inside the room or hang it in a bag on the door handle. This way, I don’t have to touch the walls and look for those dusty braille numbers. Rather, when I know that I’m relatively close, I start the precision finder and it will tell me exactly how far is my door.</span></p>
+<p><span style="font-weight: 400;">Another way to use it is to locate my suitcase at the airport. It is perfectly legal and permitted by the FAA. It is not allowed to check in bags which have devices with batteries, but there are some exceptions: for example, when the battery is not removable. Airtags are also permitted. </span></p>
+<p><span style="font-weight: 400;">If you leave an Airtag in your suitcase, chances are you will be able to track it if it gets lost, but you can also track your bag at the carousel. When you start the precision finder, as soon as your bag is in Bluetooth receiving distance, it will connect to your tag and you will know how far your bag is. Since there are many devices at an airport at once, the distance maybe shorter when it connects, so you may have to wait another round to grab your bag.</span></p>
+<p><span style="font-weight: 400;">These are just a few examples, but the limit is your imagination. I certainly don’t know how I would travel without WayTags and Airtags. They take up such a small space and make such a big difference on a daily basis.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Tom Babinszki is an accessibility consultant, </span><a href="https://evengrounds.com/invisible-dinner/"><span style="font-weight: 400;">on his blog</span></a><span style="font-weight: 400;"> he reviews accessible products, services and locations.</span></p>
+<p>Read More At: <a href="https://www.wayaround.com/airtags-vs-waytags/">Using Airtags vs. WayTags for Traveling</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wayaround.com/airtags-vs-waytags/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://www.wayaround.com/wp-content/uploads/Airtag-vs-WayTag.jpg" width="600" height="auto" />	</item>
+		<item>
+		<title>How My Dad Impacted My Work in Accessible Tech</title>
+		<link>https://www.wayaround.com/how-my-dad-impacted-my-work-in-accessible-tech/</link>
+					<comments>https://www.wayaround.com/how-my-dad-impacted-my-work-in-accessible-tech/#respond</comments>
+		
+		<dc:creator><![CDATA[Jessica Hipp]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 12:51:21 +0000</pubDate>
+				<category><![CDATA[The Journey]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[founders]]></category>
+		<category><![CDATA[User Story]]></category>
+		<guid isPermaLink="false">https://www.wayaround.com/?p=11622</guid>
+
+					<description><![CDATA[<p>Recently a few people have asked me how I got involved in WayAround. Since my Dad is the main reason [&#8230;]</p>
+<p>Read More At: <a href="https://www.wayaround.com/how-my-dad-impacted-my-work-in-accessible-tech/">How My Dad Impacted My Work in Accessible Tech</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Recently a few people have asked me how I got involved in WayAround. Since my Dad is the main reason I do what I do with WayAround AND Father’s Day is right around the corner, this seemed like a great occasion to share that story.</span></p>
+<h2><span style="font-weight: 400;">How WayAround Started</span></h2>
+<p><a href="https://www.wayaround.com/cofounder-darwin-making-lifes-challenges-advantage/"><span style="font-weight: 400;">Darwin Belt, WayAround cofounder,</span></a><span style="font-weight: 400;"> is actually my dad! He lost his eyesight in his early 30s (around the time I was born) due to diabetic retinopathy. It was surgically corrected, and he’s had low vision, color blindness, and night blindness ever since.</span></p>
+<p><span style="font-weight: 400;">After he retired from a successful career developing software for architects, he reconnected with his college friend and former business partner, </span><a href="https://www.wayaround.com/meet-armand-a-retired-blind-architect-turned-entrepreneur/"><span style="font-weight: 400;">Armand Fisher.</span></a><span style="font-weight: 400;"> They caught up on their careers, their families, and also their shared experience of sight loss. </span></p>
+<p><span style="font-weight: 400;">Armand lost nearly all of his eyesight in his late-50s due to a virus that attacked his retina, and he shared that getting the details about public spaces &#8211; especially in a restroom &#8211; is particularly challenging. Since Armand and Darwin are both architects, they know how to communicate all of the little details about public spaces with lots of different people: general contractors, electricians, plumbers, and more. They could use that expertise to provide meaningful details about the built environment for people with vision loss.</span></p>
+<p><span style="font-weight: 400;">And thus, WayAround was born.</span></p>
+<p><span style="font-weight: 400;">At some point, Darwin realized that he and Armand had more than an idea. They had a business. And they needed someone to manage that business. That’s where I enter the story.</span></p>
+<h2><span style="font-weight: 400;">Ensuring WayAround Meets Real Accessibility Needs</span></h2>
+<p><span style="font-weight: 400;">I do a lot to keep WayAround running, but the most important part of my job is making sure that the WayAround system is meeting real needs. So I get to talk to lots of people to hear about what’s challenging about vision loss, and what’s not. What solutions are working for you, and what could be easier. That’s how we expanded from focusing on public spaces to tagging things at home. We realized that a system that allowed you to enter unlimited details about pretty much anything could make everyday life easier, and we wanted to share it!</span></p>
+<p><span style="font-weight: 400;">After the app launched, Darwin could confidently choose a matching outfit for the first time in his adult life. Armand was able to safely take medications without double-checking everything with his wife. And today, people have made hundreds of thousands of things </span><a href="https://www.wayaround.com/is-accessible-labeling-still-important/"><span style="font-weight: 400;">permanently accessible</span></a><span style="font-weight: 400;"> using WayAround, so they never again have to ask someone, “What’s this?”</span></p>
+<p><span style="font-weight: 400;">Your stories, your challenges, and your celebrations are what keep us going to bring greater accessibility to where you live, work, play. YOU are the heartbeat of WayAround.</span></p>
+<h2><span style="font-weight: 400;">What Makes WayAround Different</span></h2>
+<p><span style="font-weight: 400;">Our users tell us some pretty consistent things about what makes WayAround different:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>There’s a tag for everything</b><span style="font-weight: 400;"> &#8211; as one person put it, “wet, dry, hot, cold, inside, outside, there’s a WayTag that will work!”</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Personalized solutions</b><span style="font-weight: 400;"> &#8211; Gives you meaningful details that AI cannot. Describe your things how YOU need to, with what matters to you.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Customer service</b><span style="font-weight: 400;"> &#8211; When you call or email WayAround, you’ll get a human on the other side every time. (Spoiler alert: It’s usually me!)</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Convenience</b><span style="font-weight: 400;"> &#8211; all of your information is on your smartphone, the device you already have with you, and it’s automatically backed up to the cloud.</span></li>
+</ul>
+<p><span style="font-weight: 400;">And the reason people feel that way about WayAround is because of my dad, Darwin Belt. He thinks of all the details. He finds a way to make the app both simple AND flexible. And if you think of something that he hasn’t thought of yet (which doesn’t happen often), he will listen and find a way to solve that problem.</span></p>
+<p><span style="font-weight: 400;">If you’d like to help me wish Darwin a Happy Father’s Day, please leave us a review and let us know how WayAround has made a difference for you.</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://apps.apple.com/us/app/wayaround-tag-and-scan/id1294361140" target="_blank" rel="noopener"><span style="font-weight: 400;">Apple App Store</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://play.google.com/store/apps/details?id=com.wayaround.wayaround" target="_blank" rel="noopener"><span style="font-weight: 400;">Google Play Store</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.facebook.com/WayAroundTools/" target="_blank" rel="noopener"><span style="font-weight: 400;">Facebook</span></a></li>
+</ul>
+<p><span style="font-weight: 400;">To the fathers, grandfathers, and father-figures…Happy Father’s Day! May you feel celebrated and appreciated for all the ways YOU make a difference.</span></p>
+<p>Read More At: <a href="https://www.wayaround.com/how-my-dad-impacted-my-work-in-accessible-tech/">How My Dad Impacted My Work in Accessible Tech</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wayaround.com/how-my-dad-impacted-my-work-in-accessible-tech/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://www.wayaround.com/wp-content/uploads/Fathers-Day.jpeg" width="600" height="auto" />	</item>
+		<item>
+		<title>Is Labeling Still An Important Accessibility Tool?</title>
+		<link>https://www.wayaround.com/is-accessible-labeling-still-important/</link>
+					<comments>https://www.wayaround.com/is-accessible-labeling-still-important/#comments</comments>
+		
+		<dc:creator><![CDATA[Jessica Hipp]]></dc:creator>
+		<pubDate>Wed, 22 May 2024 16:21:19 +0000</pubDate>
+				<category><![CDATA[The Journey]]></category>
+		<category><![CDATA[Accessibility Tips]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[User Story]]></category>
+		<guid isPermaLink="false">https://www.wayaround.com/?p=11600</guid>
+
+					<description><![CDATA[<p>We hear almost daily about rapidly expanding AI capabilities and new assistive tech gadgets that can provide impressive visual interpretation. [&#8230;]</p>
+<p>Read More At: <a href="https://www.wayaround.com/is-accessible-labeling-still-important/">Is Labeling Still An Important Accessibility Tool?</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">We hear almost daily about rapidly expanding AI capabilities and new assistive tech gadgets that can provide impressive visual interpretation. With all of the new tech advancements, does labeling still have a place in your accessibility toolbox?</span></p>
+<p><span style="font-weight: 400;">Don&#8217;t underestimate the importance of accessible labels, especially talking labels that allow you to add detailed information. There are several important reasons why the accessible label is here to stay.</span></p>
+<h2><span style="font-weight: 400;">1. Labeling Gives You Control</span></h2>
+<p><span style="font-weight: 400;">When you add an accessible label, you have complete control over what goes on that label. If you&#8217;re tagging something like your electrical fuse box or a sentimental item, you&#8217;re going to be able to put exactly the information that’s important to you onto that label. Whether it&#8217;s a family story or something that only you would know, a label lets you get it outside of your head, so you don’t have to rely on your memory. Once the information is on a label, it&#8217;s available and accessible for you anytime you need it.</span></p>
+<h2><span style="font-weight: 400;">2. Labeling Is Fast</span></h2>
+<p><span style="font-weight: 400;">Being blind can be time-consuming. Identifying items by feel, getting the correct angle and lighting for optical recognition, and triple-checking so that you don’t make a potentially dangerous mistake takes time. Many AI solutions are fast and getting faster, but they still take several seconds. And that can add up. Plus, sometimes they don’t work correctly.</span></p>
+<p><a href="https://evengrounds.com/wayaround-a-practical-tagging-system/" target="_blank" rel="noopener"><span style="font-weight: 400;">Tom Babinszki</span></a><span style="font-weight: 400;"> writes, “Now with all the scanning solutions out there, especially with AI being able to give me more information than just reading the text, you may wonder why would I want to tag things? Because it is fast. Each time I am trying to read the text on a bottle with a character recognition app I need to make sure there is enough lighting, I am holding it up the right way, and often the results are not too accurate.”</span></p>
+<p><span style="font-weight: 400;">Labeling gives you instant access to the information you need. Since WayAround doesn’t rely on the device’s camera, you can scan a WayTag in complete darkness.</span></p>
+<h2><span style="font-weight: 400;">3. Labeling Makes Things Permanently Accessible</span></h2>
+<p><span style="font-weight: 400;">Once you label an item, it becomes permanently accessible. This is one of the reasons why people who are committed to labeling love it so much. If you set up a label well, it’s very quick to access exactly the information you need.</span></p>
+<p><span style="font-weight: 400;">It can take a little bit of time to actually put your information onto a label and <a href="https://www.wayaround.com/wayaround-templates/">add details to a template.</a> Sometimes you may need sighted assistance to fully identify an item. But here’s the flip side: so many people who have vision loss say that they are tired of asking their sighted friends and family members, “What’s this?” </span></p>
+<p><span style="font-weight: 400;">Labeling is your answer! Once you label something, from that moment forward that item is accessible to you forever and ever. You’ll never again have to ask, “What’s this?”</span></p>
+<p><span style="font-weight: 400;">Even as AI and other technology continue to advance, there will always be the place for the humble label to make everyday items accessible.</span></p>
+<p>Read More At: <a href="https://www.wayaround.com/is-accessible-labeling-still-important/">Is Labeling Still An Important Accessibility Tool?</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wayaround.com/is-accessible-labeling-still-important/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://www.wayaround.com/wp-content/uploads/Is-Labeling-Still-An-Important-Accessibility-Tool.jpg" width="600" height="auto" />	</item>
+		<item>
+		<title>Top Five Ways to Make Outdoor Maintenance and Hobbies More Accessible</title>
+		<link>https://www.wayaround.com/outdoor-maintenance-accessible/</link>
+					<comments>https://www.wayaround.com/outdoor-maintenance-accessible/#comments</comments>
+		
+		<dc:creator><![CDATA[Neva Fairchild]]></dc:creator>
+		<pubDate>Fri, 22 Mar 2024 13:11:50 +0000</pubDate>
+				<category><![CDATA[The Journey]]></category>
+		<category><![CDATA[garden]]></category>
+		<category><![CDATA[hobby]]></category>
+		<category><![CDATA[WayTags]]></category>
+		<guid isPermaLink="false">https://www.wayaround.com/?p=11500</guid>
+
+					<description><![CDATA[<p>Using WayAround outdoors can help make your lawn and garden maintenance and outside hobbies more accessible. We&#8217;re sharing five of [&#8230;]</p>
+<p>Read More At: <a href="https://www.wayaround.com/outdoor-maintenance-accessible/">Top Five Ways to Make Outdoor Maintenance and Hobbies More Accessible</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p style="font-weight: 400;">Using WayAround outdoors can help make your lawn and garden maintenance and outside hobbies more accessible. We&#8217;re sharing five of our favorite ways to use WayAround outdoors along with tips from WayAround users about how to make the most of your WayTags.</p>
+<h2>1. Plants and Gardening</h2>
+<p style="font-weight: 400;">Whether you want to identify plants in containers or rows in your in-ground garden, you can use WayTags for vegetables and flowers to easily access information like sun tolerance, watering needs, or fertilizer and pruning schedules. Use a WayClip to slide inside the flower pot, embedding the plastic clip into the dirt. Leave the top of the clip above ground so you can touch it with your phone. Or attach a sticker to a plastic plant label or a garden stake. On a metal garden stake, use a square sticker, while on a plastic stake, a round sticker will suffice.</p>
+<p style="font-weight: 400;">Identify trees by tying a WayTag oval hole button loosely around a lower branch. You can add feeding instructions along with the tree name and any pests it may be vulnerable to for future reference. Be sure to re-tie the button every few years so the cord does not become embedded in the bark.</p>
+<p>You can also use WayTag stickers on seed packets. Calle suggests, &#8220;Way Tags have been great for labeling my various seed packets, making it much easier to differentiate between the many identical feeling packets. Plus, with the various text fields for entering details, I am able to include additional information, such as planting and watering schedules, making it easier to remember which plants follow which schedules.&#8221;</p>
+<h2>2. Fence and Deck Maintenance</h2>
+<p style="font-weight: 400;">Your fence &amp; deck maintenance information can easily be tracked using a WayAround tag. Include how often as well as the steps to follow when performing maintenance like staining and sealing. Edit the tag each time you perform a maintenance task to record the date maintenance was completed. It’s easy to forget when you’ve done tasks that are as infrequent as this. You can also include the color and brand of paint or stain so you can easily match what you’ve used in the past. Tie an oval hole button to a cross beam of your fence or the rail of your deck. Pick a location that makes sense to you that&#8217;s easy to find but also discreet. It could be near the gate or where the rail attaches to the house, for example.</p>
+<h2>3. Garden Shed Organization</h2>
+<p style="font-weight: 400;">Could your garden shed benefit from better organization? Tag items like fertilizer and pesticides with the exact name, instructions for use, and safety precautions. You can also record when you last applied a product and on which particular part of your yard or garden.</p>
+<p style="font-weight: 400;">Use a large oval hole button tied with a sturdy cord or silicone band around a jug handle to easily tell which is which. For items in plastic containers, you can stick a WayTag sticker directly to the container. Or if you plan to go through the item quickly, leave the sticker on its backing and use painters tape to affix it to the container. Your phone will be able to read through the painters tape. Garden sprayers are often only used for a single product, and a WayAround sticker can help you differentiate between multiple sprayers so you will use the right product in the right way.</p>
+<p style="font-weight: 400;">What else is in your shed? Tag it to make it easy to identify! Bins on shelves are often cumbersome and heavy. Tagging them with WayAround lets you find out what&#8217;s inside without pulling it off the shelf and digging through it. Square WayTag stickers on the front edge of metal shelves work great in the shed to help you put bins back where they go!</p>
+<h2>4. Pool Equipment</h2>
+<p style="font-weight: 400;">Your pool, spa, or irrigation equipment can be tagged to help you remember when and how to do all the things that keep it running well without having to find the manual and scan it for the right bit of information you need. Tracy recommends, &#8220;The stickers can be applied to things like my pool filter valve so I can remind myself of the procedure to backflush the filter. If my wife has to do that, she now has the instructions at her fingertips, too.&#8221;</p>
+<p style="font-weight: 400;">On the WayTag, you can add a link to an online manual or a YouTube video to help you remember how to operate a piece of equipment you don&#8217;t use very often. Remember, square WayTag stickers and WayClips can go on anything including metal, while round stickers and clips can go on anything except metal. The WayTag oval hole buttons work well for harsh chemicals or anything that may get wet frequently.</p>
+<h2>5. Livestock &amp; Farm Animals</h2>
+<p><a href="https://www.wayaround.com/assistive-technology-helps-a-blind-rancher-carry-on-his-familys-legacy/">A blind cattle rancher</a> who uses WayAround to keep track of his cattle’s productivity levels and whether they are up-to-date on their vaccinations has inspired others who practice animal husbandry and want to do so accessibly. “I can organize all the information for a certain cow, such as their date of birth, weight, and vaccination history in the WayTag<sup aria-hidden="true">®</sup> and then stick it to the back of the cow’s ear tag&#8221; Jason explains. &#8220;All I have to do after that is scan the tag with my phone, and I’ll immediately have access to all that information.”</p>
+<p>To tag an animal, the easiest way is to use Jason&#8217;s technique: attach a WayTag sticker to the ear tag. The stickers have a vinyl coating that protects them from the elements, and the ear tag is easy to locate. For animals that have a collar, you can attach an oval hole button with a metal ring. The metal will not interfere with the function of the WayTag. For the barn, use the tips from the garden shed section above (Tip #3) to keep track of medications, supplies, and other important information or documents.</p>
+<p style="font-weight: 400;">How do you plan to take WayAround outside with you? Share your ideas in the comments below.</p>
+<p>Read More At: <a href="https://www.wayaround.com/outdoor-maintenance-accessible/">Top Five Ways to Make Outdoor Maintenance and Hobbies More Accessible</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wayaround.com/outdoor-maintenance-accessible/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://www.wayaround.com/wp-content/uploads/WayAround-Outdoors.jpg" width="600" height="auto" />	</item>
+		<item>
+		<title>Tips for Getting Clients on Board with Using WayTags</title>
+		<link>https://www.wayaround.com/getting-clients-to-use-waytags/</link>
+					<comments>https://www.wayaround.com/getting-clients-to-use-waytags/#respond</comments>
+		
+		<dc:creator><![CDATA[Jessica Hipp]]></dc:creator>
+		<pubDate>Thu, 22 Feb 2024 19:21:12 +0000</pubDate>
+				<category><![CDATA[The Journey]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[how-to]]></category>
+		<category><![CDATA[User Story]]></category>
+		<guid isPermaLink="false">https://www.wayaround.com/?p=11466</guid>
+
+					<description><![CDATA[<p>Good organization and labeling is an important skill for anyone with sight loss, since identifying an item is a big [&#8230;]</p>
+<p>Read More At: <a href="https://www.wayaround.com/getting-clients-to-use-waytags/">Tips for Getting Clients on Board with Using WayTags</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Good organization and labeling is an important skill for anyone with sight loss, since identifying an item is a big part of making it accessible. Once your clients understand the value of labeling their items, you can help walk them through the options so they make an informed choice about which labeling system will work best for them.</span></p>
+<p><span style="font-weight: 400;">If you are a VRT, O&amp;M, Occupational Therapist, or anyone who works hands-on with individuals with vision loss, this post will help you assess who can benefit from WayAround and how to get started with WayTags.</span></p>
+<h2><span style="font-weight: 400;">Reliable, Durable, and Convenient Labels</span></h2>
+<p><span style="font-weight: 400;">Labeling items can make life much easier for people with blindness or low vision, however any labeling system will take some time to set up. Before you get started, it’s worth considering which type of system will work best. A good labeling solution for someone with low or no vision will be reliable, durable, and convenient.</span></p>
+<h3><span style="font-weight: 400;">Labels that Don’t Rely on Memory</span></h3>
+<p><span style="font-weight: 400;">Some labeling systems require users to memorize what different shapes, numbers, or symbols mean. These systems are tactile and low-cost. They work well for people who only have a small number of items to label and don’t mind relying on memory. For people who get tired of memorizing shapes and identification markers, these tactile shape-based systems can become frustrating.</span></p>
+<p><span style="font-weight: 400;">Many experts recommend not relying on memory for greater productivity. There’s also research that suggests </span><a href="https://www.healthline.com/health/mental-health/how-does-emotion-impact-memory#how-emotions-act-on-memory"><span style="font-weight: 400;">emotions and stress can impact memory recall.</span></a><span style="font-weight: 400;"> For that reason, most people should use a labeling system that provides more information and relies less on memory. WayAround allows users to enter unlimited information via the accessible mobile app. No matter what someone wants to label &#8211; from food to a fuse box &#8211; WayAround has a label that will work. </span></p>
+<h3><span style="font-weight: 400;">Durable Labels that Don’t Fall Off</span></h3>
+<p><span style="font-weight: 400;">We’ve heard horror stories about people who take the time to label their items only to find that the labels fall off. Labels can peel and curl up and don&#8217;t stay on well. Or labels fall off in the wash.</span></p>
+<p><span style="font-weight: 400;">There are seven different types of WayTags, so there is something that can work for just about any situation. Sometimes it takes some creativity in how to attach the WayTag, and we have some <a href="https://www.wayaround.com/five-clever-ways-to-attach-waytags-to-your-things/">suggestions.</a> Unlike many labels, WayTags provide options that are waterproof and are built to withstand extreme temperatures like the freezer, ensuring they stay on your items regardless of environmental conditions.</span></p>
+<h3><span style="font-weight: 400;">Convenient Labels with Easy-to-Access Information</span></h3>
+<p><span style="font-weight: 400;">Convenience is important both in how to access the information on a label and how much information is available. Braille labels are convenient for those who read braille well, however they are limited in the amount of information that can fit on a label.</span></p>
+<p><span style="font-weight: 400;">Many audio labels require a bulky device to read or write the labels. While audio-based labeling systems provide a greater amount of information, these devices can be misplaced, run out of batteries, or become outdated. For people who typically have a smartphone with them, a smartphone-based labeling system means you’re never far from accessing information to identify an item.</span></p>
+<p><span style="font-weight: 400;">The WayAround mobile app works with both iOS and Android devices, including the Blind Shell Classic 2. </span></p>
+<h2><span style="font-weight: 400;">Address Your Clients&#8217; Concerns About Trying Something New</span></h2>
+<p><span style="font-weight: 400;">Trying something new can be challenging, especially if it’s something that involves accessibility. For clients who are ready to try out WayAround, addressing any concerns will go a long way toward giving them confidence. </span></p>
+<p><span style="font-weight: 400;">Here are some ways you can reassure those who are new to using WayAround.</span></p>
+<h3>I’m not sure if my phone is compatible with WayAround.</h3>
+<p><span style="font-weight: 400;">WayAround is available on Android and iOS through the WayAround App. It is also available on the BlindShell Classic 2.</span></p>
+<h3><b>I find some technology hard to figure out.</b></h3>
+<p><span style="font-weight: 400;">If you can send a text message, you can use WayAround. You can input information either via voice dictate or through a keyboard &#8211; whichever you are most comfortable with.</span></p>
+<h3><b>What’s the difference between WayAround and PenFriend?</b></h3>
+<p><span style="font-weight: 400;">Brian Henderson, a WayAround user, said, “I like the WayAround system 1000% over the <a href="https://wayaround.com/comparison">PenFriend!</a> First of all, you have to change those little AAA batteries quite frequently. I really got tired of hearing the &#8216;battery low&#8217; alert once a week. Also, I had to listen to my entire recording of what was on each PenFriend sticker depending on how much information I needed. With the WayAround system, I can flick through until I find the actual data I need.”</span></p>
+<h3><b>Can I use WayTags for anything or is it only available for some things? </b></h3>
+<p><span style="font-weight: 400;">The great thing about WayTags is they can be used in many different environments for a variety of labeling purposes. Other customers have found the unlimited character space on the descriptions and the flexibility of the </span><a href="https://www.wayaround.com/ease-and-effeciency-of-wayaround/"><span style="font-weight: 400;">WayTag to make labeling their lives easier.</span></a></p>
+<h3><b>What if I need to change the information on my WayTag?</b></h3>
+<p><span style="font-weight: 400;">Changing or updating WayTags is as easy as 1, 2, 3. WayAround has many resources that will help guide you through the process step by step, see the list below.</span></p>
+<h2><span style="font-weight: 400;">Resources for Getting Started</span></h2>
+<p><span style="font-weight: 400;">Once your client has all the information they need to get started with WayAround and WayTags, you can point them to additional resources online so they can get started with creating labels as soon as possible.</span></p>
+<p><span style="font-weight: 400;">Our blog and YouTube channel are great resources. We&#8217;ve compiled a list of some of our most popular resources:</span></p>
+<ul>
+<li aria-level="1"><a href="https://www.youtube.com/watch?v=V36b3D2OtCE&amp;list=PLINJtbMv_Jc-9uLq8vsvWNXzob5bmFYot&amp;index=4"><span style="font-weight: 400;">Create a WayTag Tutorial &#8211; Video</span></a></li>
+<li aria-level="1"><a href="https://www.wayaround.com/updating-the-information-on-your-waytags/"><span style="font-weight: 400;">Updating Information on Your WayTags Blog</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.wayaround.com/wayaround-templates/"><span style="font-weight: 400;">Templates in the WayAround App – Helpful Tips Blog</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.wayaround.com/a-wayaround-power-users-advice-for-creating-templates/"><span style="font-weight: 400;">A WayAround Power User’s Advice for Creating Templates Blog</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.wayaround.com/inventive-waytag-uses/"><span style="font-weight: 400;">Inventive WayTag Uses for Blind and Sighted People Blog</span></a></li>
+</ul>
+<p><span style="font-weight: 400;">If you need more guidance to help your client get acquainted with WayAround WayTags, we are here to help. Our experts are more than happy to speak with you to guide you through the process of getting started with WayAround. We are also available to speak with user groups, local chapters of blindness organizations, and any other interested organizations. Contact us today to get a conversation started.</span></p>
+<p>Read More At: <a href="https://www.wayaround.com/getting-clients-to-use-waytags/">Tips for Getting Clients on Board with Using WayTags</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wayaround.com/getting-clients-to-use-waytags/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://www.wayaround.com/wp-content/uploads/Using-WayTags-with-Clients.jpg" width="600" height="auto" />	</item>
+		<item>
+		<title>The Best Low-Vision Accessibility Settings &#038; Tools for Your Smart Device</title>
+		<link>https://www.wayaround.com/accessibility-settings-smartphone/</link>
+					<comments>https://www.wayaround.com/accessibility-settings-smartphone/#respond</comments>
+		
+		<dc:creator><![CDATA[Michael Doise]]></dc:creator>
+		<pubDate>Wed, 07 Feb 2024 18:57:02 +0000</pubDate>
+				<category><![CDATA[The Journey]]></category>
+		<category><![CDATA[Accessibility Tips]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[iOS]]></category>
+		<guid isPermaLink="false">https://www.wayaround.com/?p=11447</guid>
+
+					<description><![CDATA[<p>Accessibility settings and tools can make using a smart device easier for people with diverse needs, including those with low [&#8230;]</p>
+<p>Read More At: <a href="https://www.wayaround.com/accessibility-settings-smartphone/">The Best Low-Vision Accessibility Settings &#038; Tools for Your Smart Device</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Accessibility settings and tools can make using a smart device easier for people with diverse needs, including those with low vision. While VoiceOver and other screen readers are widely known and used by people who are blind, there are also many accessibility settings that can make your smartphone much easier to use if you have low vision.</span></p>
+<p><span style="font-weight: 400;">In this blog post, I’ll tell you about three popular accessibility settings and tools for people with low vision: bold text, the magnifier app, and third-party keyboards.</span></p>
+<h2><span style="font-weight: 400;">Bold Text – A Simple-Yet-Powerful Accessibility Setting</span></h2>
+<p><span style="font-weight: 400;">Sometimes, the simplest adjustments can have a profound impact. The bold text feature is a testament to that. This feature is available in the accessibility settings of most smartphones, and makes all the text across the device bolder and easier to read. </span></p>
+<p><span style="font-weight: 400;">Here’s how it helps:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>Enhanced Readability:</b><span style="font-weight: 400;"> Bold text stands out more clearly against the background, making it easier to read, especially in apps with smaller text.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Reduction in Visual Stress:</b><span style="font-weight: 400;"> It reduces the strain on the eyes, which is particularly beneficial for prolonged use of the device.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Universal Application:</b><span style="font-weight: 400;"> Once enabled, it applies to most areas of the phone, including menus, app names, and even in some third-party apps.</span></li>
+</ul>
+<p><span style="font-weight: 400;">This feature is particularly useful for those who do not necessarily require high magnification but still benefit from clearer text.</span></p>
+<h3><span style="font-weight: 400;">Make text bold in iOS 17</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Open the Settings app on your device.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Tap Accessibility. Then tap Display &amp; Text Size.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Tap the toggle switch for Bold Text to turn it off or on.</span></li>
+</ol>
+<h3><span style="font-weight: 400;">Make text bold on an Android Device</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Open the Settings app on your device.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Tap Accessibility. Then Display size and text.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Turn Bold text on or off.</span></li>
+</ol>
+<p><span style="font-weight: 400;">You can also adjust the text size for your entire device. Often using a combination of changing the size and making text bold will help make text more readable without straining your eyes.</span></p>
+<h2><span style="font-weight: 400;">The Magnifier App – Your Pocket-sized Digital Handheld Magnifier</span></h2>
+<p><span style="font-weight: 400;">Magnifier apps turn your device into a digital handheld magnifier. It allows users to use their smartphone&#8217;s camera to zoom in on text or objects, making them easier to see or read. The magnifier is not just for reading fine print; it&#8217;s a versatile tool that can be used for viewing labels in grocery stores, restaurant menus, or even distant objects.</span></p>
+<p><span style="font-weight: 400;">What makes this feature stand out is its customization:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>Magnification Levels:</b><span style="font-weight: 400;"> You can adjust the level of magnification, making it suitable for different levels of visual impairment.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Brightness and Contrast Adjustments:</b><span style="font-weight: 400;"> This helps in making text or objects more legible under varying lighting conditions.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Color Filters:</b><span style="font-weight: 400;"> These can be particularly helpful for people with specific color vision deficiencies, as they can adjust the color scheme to improve clarity and reduce strain.</span></li>
+</ul>
+<h3><span style="font-weight: 400;">Using the Magnifier App on iOS</span></h3>
+<p><span style="font-weight: 400;">Your iPhone or iPad comes with the Magnifier app, but you have to turn it on in your device’s Accessibility settings. </span><a href="https://support.apple.com/guide/iphone/magnify-nearby-objects-iphe867dc99c/ios" target="_blank" rel="noopener"><span style="font-weight: 400;">Here is Apple’s guide</span></a><span style="font-weight: 400;"> on how to turn on the Magnifier app and use it.</span></p>
+<h3><span style="font-weight: 400;">Using a Magnifier App on Android</span></h3>
+<p><span style="font-weight: 400;">Your Android device may or may not come with a Magnifier app. If you don’t have one, you can </span><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.magnifier" target="_blank" rel="noopener"><span style="font-weight: 400;">download Magnifier from the Google Play Store.</span></a></p>
+<p><span style="font-weight: 400;">You may notice in Accessibility Settings that there is a setting called “Magnification.” This is different from the Magnifier App. The Magnifier app will turn your phone into a magnifying glass. Turning on the Magnification setting will enlarge things on your phone. They’re both useful, just different.</span></p>
+<h2><span style="font-weight: 400;">Third-Party Keyboards – Typing Tailored to Your Needs</span></h2>
+<p><span style="font-weight: 400;">The standard keyboards on smartphones are not always the most convenient for every user or even users with low vision. This is where Third-Party Keyboards come in. Available through app stores, these keyboards offer a range of features that can be game-changers:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>Customizable Key Size:</b><span style="font-weight: 400;"> Larger keys are easier to see and reduce the chance of typing errors. Some have additional features to help with fine motor challenges.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>High Contrast Themes:</b><span style="font-weight: 400;"> These themes make the keys stand out, significantly improving visibility and reducing eye strain. </span></li>
+</ul>
+<p><span style="font-weight: 400;">By choosing a keyboard that suits their specific needs, low-vision users can enhance their typing experience, making digital communication more accessible and less frustrating.</span></p>
+<p><span style="font-weight: 400;">There are lots of available keyboards at different price points. Search your device&#8217;s app store for &#8220;accessible keyboard&#8221; to see what options are available.</span></p>
+<h2><span style="font-weight: 400;">Adjust Accessibility Settings to Enhance Your Experience</span></h2>
+<p><span style="font-weight: 400;">While assistive technologies like screen readers are invaluable, adjusting accessibility settings or adding apps like a Magnifier app, Third-Party Keyboards, and Bold Text offer additional layers of accessibility for low-vision users. A few simple adjustments in a smartphone’s accessibility settings or the addition of specialized apps can greatly enhance the smartphone’s usability and independence of individuals with low vision. </span></p>
+<p><span style="font-weight: 400;">Also, if you’re supporting a friend or family member who has low vision, it’s a good idea for you to play around with settings that you think may benefit your loved one. One of the most important things is to learn how to turn a feature OFF if it doesn’t work!</span></p>
+<p><span style="font-weight: 400;">If you want to learn more about low-vision features for smartphones, Hadley offers fantastic resources for both </span><a href="https://hadleyhelps.org/workshops/android-low-vision-features-series" target="_blank" rel="noopener"><span style="font-weight: 400;">Android</span></a><span style="font-weight: 400;"> and </span><a href="https://hadleyhelps.org/workshops/iphone-ipad-low-vision-features-series" target="_blank" rel="noopener"><span style="font-weight: 400;">iOS devices.</span></a></p>
+<p><span style="font-weight: 400;">Remember, the key to accessibility lies in customization and understanding the tools at your disposal. It’s worth taking the time to explore the accessibility settings available to you and tailoring your device to what works best for you. </span></p>
+<p>Read More At: <a href="https://www.wayaround.com/accessibility-settings-smartphone/">The Best Low-Vision Accessibility Settings &#038; Tools for Your Smart Device</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wayaround.com/accessibility-settings-smartphone/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://www.wayaround.com/wp-content/uploads/Inventive-WayTag-Uses-1.jpg" width="600" height="auto" />	</item>
+		<item>
+		<title>Bringing ADA Signs into the 21st Century</title>
+		<link>https://www.wayaround.com/ada-signs-21st-century/</link>
+					<comments>https://www.wayaround.com/ada-signs-21st-century/#respond</comments>
+		
+		<dc:creator><![CDATA[Jessica Hipp]]></dc:creator>
+		<pubDate>Mon, 15 Jan 2024 18:51:55 +0000</pubDate>
+				<category><![CDATA[Public Accessibility]]></category>
+		<category><![CDATA[ADA Signs]]></category>
+		<category><![CDATA[public spaces]]></category>
+		<guid isPermaLink="false">https://www.wayaround.com/?p=11408</guid>
+
+					<description><![CDATA[<p>When is the last time you referenced an ADA sign – those signs outside of pretty much every room in [&#8230;]</p>
+<p>Read More At: <a href="https://www.wayaround.com/ada-signs-21st-century/">Bringing ADA Signs into the 21st Century</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">When is the last time you referenced an ADA sign – those signs outside of pretty much every room in every public building in the United States? Even though these days they seem ubiquitous, they are an important and fairly recent accessibility requirement that many of us depend on when we’re in an unfamiliar space.</span></p>
+<p><span style="font-weight: 400;">In this post, we’re going to do a deep dive into how ADA signs came to be and how they’re used today. We’ll also discuss some of the limitations of the ADA sign and how WayAround is bringing the ADA sign into the 21st century.</span></p>
+<h2><span style="font-weight: 400;">What is the ADA?</span></h2>
+<p><span style="font-weight: 400;">To understand the significance of the ADA today, it’s worth looking at its </span><a href="https://acl.gov/ada"><span style="font-weight: 400;">history.</span></a><span style="font-weight: 400;"> At its core, the ADA is about civil rights. The Act is far-reaching and includes regulations to prevent discrimination against people with any type of disability. The ADA was signed into law on July 26, 1990 by George H. W. Bush, and it’s updated at least every five years.</span></p>
+<p><span style="font-weight: 400;">Before the ADA, there was the Rehabilitation Act of 1973. This is the birthplace of what we now know as ADA Signs.</span></p>
+<p><span style="font-weight: 400;">You’ve probably heard of Section 504 of the Rehabilitation Act of 1973. This law was the first law to prevent discrimination against people with disabilities. It came on the heels of the Civil Rights movement. It’s notable that in 1973, the Rehabilitation Act applied only to organizations that received federal funding. Until the ADA was signed into law in 1990, there were no federal laws prohibiting private sector discrimination against people with disabilities.</span></p>
+<p><span style="font-weight: 400;">The Rehabilitation Act of 1973 also created the Architectural and Transportation Barriers Compliance Board, or the Access Board. The Access Board is an independent federal agency tasked with promoting accessibility and removing barriers for individuals with disabilities in various environments, including architecture and transportation. The Access Board developed guidelines, issued standards, and in some cases issued regulations.</span></p>
+<p><span style="font-weight: 400;">The Access Board was the organization that first created </span><a href="https://www.access-board.gov/ada/guides/chapter-7-signs/"><span style="font-weight: 400;">regulations for accessible signage.</span></a><span style="font-weight: 400;"> Today, the Access Board reviews and updates guidelines about signage and other features in the built environment.</span></p>
+<h2><span style="font-weight: 400;">Requirements for ADA Signs</span></h2>
+<p><span style="font-weight: 400;">The ADA has very specific requirements for ADA signs, including when Braille is required, contrast, spacing, fonts, and placement. </span><a href="https://www.speedpro.com/blog/the-history-of-ada-signage/"><span style="font-weight: 400;">Architectural signage</span></a><span style="font-weight: 400;"> is the term most commonly used for the types of signs that fall under ADA regulations. </span></p>
+<p><span style="font-weight: 400;">Signage that identifies a space, room, or area, including the exits, within a facility must include Braille and meet other requirements for size and contrast. For example, identification signage at a restroom must include a pictogram – those geometric human figures that may be wearing a dress or pants. </span></p>
+<p><span style="font-weight: 400;">Placement for ADA signs is important. Ideally, the sign should be located on the handle or latch side of the door or at the right side of double doors. There are many instances where meeting this ideal is not possible, and the ADA describes alternative placements in those instances.</span></p>
+<p><span style="font-weight: 400;">Other types of architectural signage are not for identification but serve another purpose: </span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Signs that provide information about a space do not require Braille, but must meet size and contrast requirements for low vision.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Directional and wayfinding signage have their own set of requirements, but do not require Braille.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Overhead signage, like emergency exit signs, must be high contrast. Braille is not required.</span></li>
+</ul>
+<p><span style="font-weight: 400;">It’s also important to note that there are many types of signage that do not fall under ADA. For example, marketing signs and temporary signs that are installed for fewer than seven days are not required to be accessible.</span></p>
+<h2><span style="font-weight: 400;">Common Mistakes for ADA Signs</span></h2>
+<p><span style="font-weight: 400;">Compliance for ADA signs can be tricky. Buildings are not designed with ADA signs in mind, so the ideal standard is not always possible. These are some of the most common mistakes for ADA signs that we see.</span></p>
+<h3><span style="font-weight: 400;">ADA Signs are too High</span></h3>
+<p><span style="font-weight: 400;">ADA signs should be between 48 and 60 inches from the ground. Braille readers need to be able to comfortably reach to read the Braille. It’s not uncommon for ADA signs to be placed at 6 or 7 feet high – well above most people’s heads. Even placing an ADA sign at 60 inches, which meets the regulation, can be challenging for a Braille reader who also uses a wheelchair.</span></p>
+<h3><span style="font-weight: 400;">Braille is Wrong</span></h3>
+<p><span style="font-weight: 400;">When it comes to Braille, most of us are illiterate. That means we wouldn’t know if the Braille is upside down, mirrored, or just plain wrong. Unfortunately, Braille mistakes happen too frequently. Elevator buttons are one of the most frequent offenders.</span></p>
+<h3><span style="font-weight: 400;">ADA Signs on the Back of the Door</span></h3>
+<p><span style="font-weight: 400;">This is a tricky one, because the ADA says that there are times it is acceptible to put ADA signs on the back of a door. So while it may not technically be a mistake, it’s certainly not ideal.</span></p>
+<p><span style="font-weight: 400;">As a matter of practicality, placing an ADA sign on the back of a door can be inconvenient and dangerous. For a Braille reader, they could be hit by the door or interrupted when someone opens the door from the other side. There are times when there’s no available wall space. However, if you can avoid putting the ADA sign on the back of a door, it’s best to find another location.</span></p>
+<h2><span style="font-weight: 400;">Compliance vs Usefulness</span></h2>
+<p><span style="font-weight: 400;">ADA compliance is not an easy task in part because there are so many nuances to the regulations. The regulations also change, so what was once fully compliant may no longer meet updated standards.</span></p>
+<p><span style="font-weight: 400;">Facilities that make a concerted effort to comply with ADA signage requirements should be commended. At the same time, ADA compliance for signage will not make any facility fully accessible to someone with low vision or no vision. There are some real limitations of ADA signs that keep them from being useful to as many people as possible.</span></p>
+<h3><span style="font-weight: 400;">Not Enough Room</span></h3>
+<p><span style="font-weight: 400;">Printed text takes up a lot of space. Whether it’s letters or dots, there’s usually only enough room for one or two words on ADA signage. Sometimes a word or phrase is all that’s needed, but not always. For example, a sign that says Suite 102 doesn’t tell you who works in Suite 102 or whether that business is currently open.</span></p>
+<h3><span style="font-weight: 400;">Aesthetics</span></h3>
+<p><span style="font-weight: 400;">ADA signs look more or less the same everywhere. You can slightly alter the color combination, as long as you only use two colors and there’s enough contrast between them. But there isn’t a lot of room for creativity. In fact, clever signage is usually non-compliant signage.</span></p>
+<p><span style="font-weight: 400;">Some designers are going large scale, especially with pictograms at the restrooms. Several airports have nearly life-sized pictograms at the entrances to restrooms. These can be helpful for people with some vision. However, for Braille readers or people with limited useable vision, the traditional ADA sign with a tactile pictogram is most helpful.</span></p>
+<h3><span style="font-weight: 400;">Not All Signs Are Accessible</span></h3>
+<p><span style="font-weight: 400;">It’s surprising which signs DON’T fall under ADA requirements to be fully accessible even for someone with no vision. The emergency exit maps on the back of a hotel door are a good example. Many blind people aren’t even aware these exist, and don’t have a way to access this important safety information.</span></p>
+<p><span style="font-weight: 400;">If you look around at the signage in any facility, chances are it all serves a purpose: to inform, to direct, to inspire, to educate, or something else. A lot of it isn’t useable by someone with limited eyesight, reading difficulties, or other disabilities.</span></p>
+<h2><span style="font-weight: 400;">Marrying Physical ADA Signs with Accessible Digital Technology</span></h2>
+<p><span style="font-weight: 400;">When the ADA passed in 1990, it expanded the types of businesses that were required to provide accessible signage. Thirty years later, the amount of information that we expect to be readily available has increased greatly. There’s an opportunity to make signage work much better.</span></p>
+<p><span style="font-weight: 400;">Digital directories or billboard signage can supplement the information available on ADA signage, and it can be easily updated. But this type of digital information isn’t accessible to everyone. </span></p>
+<p><span style="font-weight: 400;">Smartphones have the opportunity to again significantly expand accessible information in the built environment. Digital information presented on a smartphone can be presented according to the users’ accessibility preferences, making it easier to accommodate a wide range of abilities.</span></p>
+<p><span style="font-weight: 400;">In order for the information presented on a smartphone to be useful and trustworthy, it must be linked directly to the physical environment. </span></p>
+<p><span style="font-weight: 400;">Here’s why: Consider driving using GPS. These days, GPS is really accurate. But how many of us still look at the exit sign to be sure we’re going the right direction. It’s similar with digital information. You still need a tie to the physical world in order to confirm that the information is accurate.</span></p>
+<p><span style="font-weight: 400;">WayAround is bringing the ADA sign into the 21st century. WaySigns provide an ideal supplement to traditional ADA signs to help businesses go </span><a href="https://www.wayaround.com/vision-loss-resources/"><span style="font-weight: 400;">beyond compliance</span></a><span style="font-weight: 400;"> and provide safety, dignity, and independence to their employees and guests.</span></p>
+<p>Read More At: <a href="https://www.wayaround.com/ada-signs-21st-century/">Bringing ADA Signs into the 21st Century</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wayaround.com/ada-signs-21st-century/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://www.wayaround.com/wp-content/uploads/ADA-Signs.jpg" width="600" height="auto" />	</item>
+		<item>
+		<title>Use Your Braille Display to Label Your Things</title>
+		<link>https://www.wayaround.com/use-braille-display-to-label/</link>
+					<comments>https://www.wayaround.com/use-braille-display-to-label/#comments</comments>
+		
+		<dc:creator><![CDATA[Jessica Hipp]]></dc:creator>
+		<pubDate>Thu, 11 Jan 2024 12:26:43 +0000</pubDate>
+				<category><![CDATA[The Journey]]></category>
+		<category><![CDATA[Accessibility Tips]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[Braille]]></category>
+		<guid isPermaLink="false">https://www.wayaround.com/?p=11394</guid>
+
+					<description><![CDATA[<p>In celebration of Louis Braille&#8217;s birthday this month, we thought it would be enlightening to explore using Braille with labeling [&#8230;]</p>
+<p>Read More At: <a href="https://www.wayaround.com/use-braille-display-to-label/">Use Your Braille Display to Label Your Things</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">In celebration of Louis Braille&#8217;s birthday this month, we thought it would be enlightening to explore using Braille with labeling solutions like WayAround. There are two good options for how to use Braille as a labeling solution: traditional Braille labels or a Braille display.</span></p>
+<h2><span style="font-weight: 400;">Traditional Braille Labels – Advantages &amp; Limitations</span></h2>
+<p><span style="font-weight: 400;">Traditional Braille labels are created using labeling tape and a special Braille labeler. It’s great for items you want to label quickly and don’t need a lot of details to properly identify or use. One of the biggest drawbacks with traditional Braille labels is real estate: you simply can’t fit very much information on a Braille label.</span></p>
+<p><span style="font-weight: 400;">For example, a Braille label that says “Herbs De Provence” won’t fit around a spice bottle. On a package of muffin mix, you can’t affix Braille directions, including measurements &amp; ingredients.</span></p>
+<p><span style="font-weight: 400;">Some people get around the space issue by using contracted Braille. However, it can be challenging to remember lesser-used combinations, like the two-character color code for uncommon colors when you have sewn metal color identification tags into all your clothing.</span></p>
+<p><span style="font-weight: 400;">A physical Braille label isn&#8217;t always sufficient. You can probably think of times when you just couldn&#8217;t make a Braille label work for you. If you’re a fan of the traditional Braille label, you can ALSO use a WayTag to add extra information. In the case of the muffin mix, you could label the mix with a Braille label and use a WayTag to describe measurements and ingredients. You get the quick, tactile experience of the Braille label while also being able to easily access more detailed information with a WayTag. It’s the best of both worlds!</span></p>
+<h2><span style="font-weight: 400;">Using WayAround with a Braille Display</span></h2>
+<p><span style="font-weight: 400;">A Braille display (or refreshable Braille display) is a peripheral electronic device that displays Braille characters based on digital text, allowing you to read webpages, accessible electronic documents, and more in Braille. It displays Braille characters using pins that move up and down in each of the Braille cells. Using a Braille display with your smartphone or tablet allows you to reap the benefits of digital information while also using Braille.  </span></p>
+<p><span style="font-weight: 400;">As you probably guessed, you can use a Braille display to read WayTags. Whether you tag your things with a sticker, button, clip, or magnet, a Braille display connected to your smartphone creates a Braille label with unlimited possibilities. Once you read a WayTag, the text of that tag is displayed in braille from the WayAround app. You can easily move through the details on the screen one line at a time using the keys on the Braille device or standard gestures on your smartphone. </span></p>
+<p><span style="font-weight: 400;">When you use a Braille display with your smartphone, you get to choose how you want the Braille to be displayed: </span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">uncontracted, where each Braille cell represents one letter, number, or symbol, or </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">contracted, where one Braille character can represent an entire word or a prefix or suffix, thereby shortening the length of words and sentences. </span></li>
+</ul>
+<p><span style="font-weight: 400;">Another benefit of a braille display is privacy. Information from a WayTag displayed on your Braille device without speech-enabled on your phone will allow you to be discreet.</span></p>
+<h2><span style="font-weight: 400;">Entering Information Using Braille</span></h2>
+<p><span style="font-weight: 400;">You can also use your Braille display to input information when you create or </span><a href="https://www.wayaround.com/updating-the-information-on-your-waytags/"><span style="font-weight: 400;">update a WayTag.</span></a><span style="font-weight: 400;"> Doing so is often more efficient than dictating or using the onscreen keyboard. </span></p>
+<p><span style="font-weight: 400;">A Bluetooth Braille keyboard, such as the Orbit Writer, is not a Braille display, but it will enable you to input text into the WayAround app using Perkins-style keys. It is rechargeable and smaller than a chocolate bar, making it amazingly easy to carry with you. Plus, it costs less than $100.</span></p>
+<h2><span style="font-weight: 400;">Braille Displays for People with Neuropathy or Deafblindness</span></h2>
+<p><span style="font-weight: 400;">If it is too difficult to read paper Braille due to peripheral neuropathy or damage to your fingertips, a Braille display may give you the ability to read Braille. The pins that raise and lower to create the Braille characters are more distinct than paper Braille dots, making a Braille display a good option to continue reading Braille. </span></p>
+<p><span style="font-weight: 400;">For people who are deafblind, a refreshable Braille display is the best way to access information. When it comes to labeling, talking labels do not work for someone with both vision and hearing loss. WayAround can be the ideal solution for labeling and organizing information by using a smartphone coupled with a refreshable Braille display. In fact, some deafblind users of WayAround have used hundreds of WayTags to label items around their homes, allowing them to stay independent in their homes.</span></p>
+<h2><span style="font-weight: 400;">Refreshable Braille Displays for Braille Learners</span></h2>
+<p><span style="font-weight: 400;">When you are learning Braille, it is important to practice reading as often as possible. Reading WayAround tags you have already created by adding a Braille display to your array of access technology is an excellent way to read more Braille. </span></p>
+<p><span style="font-weight: 400;">It&#8217;s never too late to learn to read Braille, especially when you are motivated to use Braille for a specific purpose like labeling and accessing information about items in your home or office. Hadley has some terrific </span><a href="https://hadley.edu/learn?topic_id=15" target="_blank" rel="noopener"><span style="font-weight: 400;">resources for learning Braille.</span></a></p>
+<h2><span style="font-weight: 400;">Where to Get a Braille Display</span></h2>
+<p><span style="font-weight: 400;">You may think purchasing a Braille display is out of your reach since it costs several hundred to several thousand dollars. In the United States, there’s a great resource: </span><a href="https://www.loc.gov/nls/services-and-resources/equipment-for-nls-materials/#refreshable-braille-devices" target="_blank" rel="noopener"><span style="font-weight: 400;">The National Library Service Talking Book Program</span></a><span style="font-weight: 400;"> offers 20 cell Braille eReaders to patrons. Currently, the Braille eReaders offered through NLS only connect to iPhones. They are loaned at no charge for as long as you need them, but there may be a waiting list in your state.</span></p>
+<p><span style="font-weight: 400;">Accessing information from a WayAround tag using a Braille display makes referring to complex data a breeze. Creating tags for your appliances, such as a dishwasher, hot water heater, or refrigerator with vital information like the manufacturer, model name and serial number, along with the phone number to call for repair, makes it much easier to access and relay vital information when it is available in Braille. Editing that tag with the details of the repair also makes warranty work and the history of problems immediately accessible to you. </span></p>
+<p><span style="font-weight: 400;">Using refreshable Braille technology with WayAround supports the efficient use of your time when creating or editing tags using Braille input and private, silent access to your tags when you use Braille output. You can see there are many compelling reasons to use Braille and WayAround together. We would like to hear why Braille is important to you when you label your world. Leave us a comment, and happy tagging!</span></p>
+<p>Read More At: <a href="https://www.wayaround.com/use-braille-display-to-label/">Use Your Braille Display to Label Your Things</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wayaround.com/use-braille-display-to-label/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://www.wayaround.com/wp-content/uploads/Braille-Display-Jan-11.jpg" width="600" height="auto" />	</item>
+		<item>
+		<title>Templates in the WayAround App – Helpful Tips</title>
+		<link>https://www.wayaround.com/wayaround-templates/</link>
+					<comments>https://www.wayaround.com/wayaround-templates/#respond</comments>
+		
+		<dc:creator><![CDATA[Jessica Hipp]]></dc:creator>
+		<pubDate>Thu, 14 Dec 2023 15:48:03 +0000</pubDate>
+				<category><![CDATA[The Journey]]></category>
+		<category><![CDATA[Accessibility Tips]]></category>
+		<category><![CDATA[WayTags]]></category>
+		<guid isPermaLink="false">https://www.wayaround.com/?p=11366</guid>
+
+					<description><![CDATA[<p>So, you have some WayTags and are ready to start labeling the things around you. The next step is to [&#8230;]</p>
+<p>Read More At: <a href="https://www.wayaround.com/wayaround-templates/">Templates in the WayAround App – Helpful Tips</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">So, you have some WayTags and are ready to start labeling the things around you. The next step is to add information to your WayTags.</span></p>
+<p><span style="font-weight: 400;">This is where things get really exciting. WayAround’s app features multiple options on how to add information about the item you want to label. You can choose to add a simple description, or you can add additional details by selecting a Template.</span></p>
+<p><span style="font-weight: 400;">Deciding whether or not you need a Template is an important step in determining what information will go on your WayTags.</span></p>
+<h2><span style="font-weight: 400;">When to Use a Template</span></h2>
+<p><span style="font-weight: 400;">When is the time to use a Template? That is up to your personal preference and comfort with using our app. </span></p>
+<p><span style="font-weight: 400;">However, we suggest you use one on items that require a lot of information or details, especially if those details aren’t things you need to know every time you scan your WayTags. Using a Template allows you to skip over certain details or only read the sections of the Template you are interested in at that moment.</span></p>
+<p><span style="font-weight: 400;">If you decide to go with a Template, WayAround offers a few standard options for items such as clothing, groceries, and cleaning supplies.</span></p>
+<h2><span style="font-weight: 400;">Which Templates are Available</span></h2>
+<p><span style="font-weight: 400;">We recently wrote a blog about how to edit your WayTags, and we discussed the </span><a href="https://www.wayaround.com/updating-the-information-on-your-waytags/"><span style="font-weight: 400;">use of Templates.</span></a><span style="font-weight: 400;"> However, we didn’t give specific information about what types of Templates come with our app.</span></p>
+<p>Choosing a Template will add standard fields related to that category. For example, if you choose the Clothing Care Template, you can add information about washing and drying instructions by selecting from picklists with standard options. It makes entering information much faster. You are free to skip anything that isn&#8217;t important to you.</p>
+<p><span style="font-weight: 400;">Here are a few examples of the Templates that come with WayAround:</span></p>
+<p><b>Clothing</b> <b>Care</b><span style="font-weight: 400;"> &#8211; The Template for clothing contains blocks for information about washing, drying, and general care instructions. You can also use this Template to describe outfits or what clothes and accessories go well with it.</span></p>
+<p><b>Groceries</b><span style="font-weight: 400;"> &#8211; Our Template for groceries has a few more fields you can work with. There are fields to record anything from expiration dates to purchase dates to ingredients or nutritional information. You can even put in descriptions detailing a recipe that the item can be used for.</span></p>
+<p><b>Cleaning Supplies</b><span style="font-weight: 400;"> &#8211; Using a Template for cleaning supplies means you’ll have fields to explain what the item is, whether or not it contains dangerous chemicals (such as bleach or ammonia), and what you might use this product for.</span></p>
+<p><span style="font-weight: 400;">What’s also helpful about these Templates is that you can add your own details. Our app has a button that allows you to add custom details easily. You&#8217;ll be able to add different types of information, or Blocks, including text, dates, URLs, phone numbers, and more.</span></p>
+<h2><span style="font-weight: 400;">Creating a Custom Template</span></h2>
+<p><span style="font-weight: 400;">While our standard Templates cover some common ways to use WayTags, there are many other items you can tag. You can create your own Custom Template to add details about anything. </span></p>
+<p><span style="font-weight: 400;">Creating a Custom Template allows you to describe items such as plants, hobby supplies, automotive parts and products, and more by adding details that are important to you. </span></p>
+<p><span style="font-weight: 400;">Inside the app, you can choose the custom option when selecting a Template. From there, you add detail Blocks as you see fit based on what you are describing. You can add as many custom details as you&#8217;d like. Some of our users add a new custom detail to track maintenance. For example, you can add a new custom detail every time you fertilize a plant or perform standard maintenance on an appliance.</span></p>
+<h2><span style="font-weight: 400;">WayAround Is Here to Help</span></h2>
+<p><span style="font-weight: 400;">If you still have questions or concerns regarding Templates and your WayAround products, reach out to us directly. We are happy to provide you with any further assistance or guidance you may need.</span></p>
+<p>Read More At: <a href="https://www.wayaround.com/wayaround-templates/">Templates in the WayAround App – Helpful Tips</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wayaround.com/wayaround-templates/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://www.wayaround.com/wp-content/uploads/Templates.png" width="600" height="auto" />	</item>
+		<item>
+		<title>Inventive WayTag Uses for Blind and Sighted People</title>
+		<link>https://www.wayaround.com/inventive-waytag-uses/</link>
+					<comments>https://www.wayaround.com/inventive-waytag-uses/#respond</comments>
+		
+		<dc:creator><![CDATA[Jessica Hipp]]></dc:creator>
+		<pubDate>Tue, 05 Dec 2023 17:12:43 +0000</pubDate>
+				<category><![CDATA[The Journey]]></category>
+		<category><![CDATA[Accessibility Tips]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[WayTags]]></category>
+		<guid isPermaLink="false">https://www.wayaround.com/?p=11349</guid>
+
+					<description><![CDATA[<p>Many people start using WayAround to help keep daily living items like food, clothes, and medicines organized and efficient. However, [&#8230;]</p>
+<p>Read More At: <a href="https://www.wayaround.com/inventive-waytag-uses/">Inventive WayTag Uses for Blind and Sighted People</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Many people start using WayAround to help keep daily living items like food, clothes, and medicines </span><a href="https://www.wayaround.com/ease-and-effeciency-of-wayaround/"><span style="font-weight: 400;">organized and efficient.</span></a><span style="font-weight: 400;"> However, WayTags can be used in many other ways by people with low vision, no vision, and people who are fully sighted. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Some of our customers have shown us a variety of inventive and unique ways that they’ve used WayTags in their own lives. Whether for organization, labeling, or simply preserving a memory, these tags have helped them keep track of the important details that help them live a full and productive life.</span></p>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">Maintenance of Home Appliances</span></h3>
+<p><span style="font-weight: 400;">When your refrigerator, washing machine, or other home appliance stops working correctly, you need to get it repaired as soon as possible. Placing a WayTag on all your major appliances with vital information such as model, warranty, and maintenance number to call means when something goes wrong, you know exactly who to call to fix it.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Similarly, placing a WayTag on your home’s breaker box will let any homeowner know exactly what switches should be flipped and in what direction. Since there’s no limit to how much information you can put on a WayTag, you just need one tag for the entire breaker box. Use the Custom Detail Template to add information about every switch and what all they control. Pro Tip: if you have a generator, you can use a WayTag to document instructions for turning on the generator and powering up the house.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Another way that WayTags can be useful is by </span><a href="https://www.wayaround.com/a-cable-organizer-plus-cable-labels-keep-cords-accessible-tidy/"><span style="font-weight: 400;">labeling the cords on your TV, computer, and other small electronics.</span></a></p>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">Cataloguing Collections</span></h3>
+<p><span style="font-weight: 400;">Recently, one of our customers let us know that they don’t have vision loss but that they found WayAround helpful for keeping track of an item they collect.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">The customer stated, “I have a bunch of things made of various kinds of leather, and I can&#8217;t always remember which is made of which leather. So, I was going to put a tag on each one and basically use WayAround as an inventory app so when I scan the item; it&#8217;ll tell me what kind of leather it is, when I bought it, and other details.”</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">You may not collect leather goods, but you can use a similar concept to keep track of important information about any type of collection so that you don’t have to rely on your memory!</span></p>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">Making a Farm or Ranch More Accessible</span></h3>
+<p><span style="font-weight: 400;">Jason Barber, a blind rancher, has found WayAround to be extremely helpful in allowing him to keep his family’s ranch running. Using WayTags to help him inventory his cattle, Barber can now continue running the family farm and keep track of detailed information specific to each animal.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">“Inventorying cattle has definitely been the biggest struggle for me. For the longest time, my dad was my ‘eyes,’ but now that he’s gone, I’ve had to find new ways of keeping track of my cattle’s productivity levels and whether they are up-to-date on their vaccinations.”</span></p>
+<p>&nbsp;</p>
+<p><a href="https://www.wayaround.com/assistive-technology-helps-a-blind-rancher-carry-on-his-familys-legacy/"><span style="font-weight: 400;">Read our blog</span></a><span style="font-weight: 400;"> for more information on how Mr. Barber has used WayTags to manage his ranch activities.</span></p>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">Keeping Plants In Order</span></h3>
+<p><span style="font-weight: 400;">Many of our customers have also told us they use WayAround to keep track of requirements so their plants thrive. All plants come with specific instructions for sunlight, watering, fertilizing, and more. These can be hard to keep straight. For collectors of rare and exotic plants, it’s especially important to keep track of the requirements for a specific breed. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Attaching WayTags to each plant allows both sighted and blind people to know what instructions apply to which of their plants. WayTags have the capacity to hold information about watering needs, sunlight needs, and any other maintenance instructions. You can even use the tags like an electronic journal, making a note on your tag every time you water or feed a plant.</span></p>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">Instructions for Seasonal Items</span></h3>
+<p><span style="font-weight: 400;">One of the biggest hassles about seasonal items such as Christmas trees, various holiday decorations, or even portable greenhouses for plants is storing and organizing them once the season ends.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">This is where WayTags can come in handy. Place instructions on the storage bin for any of these seasonal items to help save time and headache when you bring them back out, year after year. </span></p>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">Adding Notes to Sentimental Items</span></h3>
+<p><span style="font-weight: 400;">Finally, a neat way to use WayTags is to add notes about memorabilia or sentimental items in your home. Say you have an art piece hanging up that you always want to remember the artist, title of the piece, and any other meaningful information. Or perhaps you have a family heirloom that comes with a story from a distant relative.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Attaching a WayTag to these items of personal value lets you easily find that information anytime someone asks or if you need to be reminded about a specific object. It saves you from having to keep track of little fact sheets or digital documents.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">These are just a few of the ways that we and our customers utilize the WayAround technology. Are there any unique ways that you’ve found to help you get the most out of your WayTags?</span></p>
+<p>Read More At: <a href="https://www.wayaround.com/inventive-waytag-uses/">Inventive WayTag Uses for Blind and Sighted People</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wayaround.com/inventive-waytag-uses/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://www.wayaround.com/wp-content/uploads/Inventive-WayTag-Uses.jpg" width="600" height="auto" />	</item>
+	</channel>
+</rss>

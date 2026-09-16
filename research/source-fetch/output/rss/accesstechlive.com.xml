@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Access Tech Live</title>
+	<atom:link href="https://accesstechlive.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://accesstechlive.com</link>
+	<description>Where Tech and Accessibility Meet</description>
+	<lastBuildDate>Wed, 20 Aug 2025 19:11:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1</generator>
+
+<image>
+	<url>https://accesstechlive.com/wp-content/uploads/2025/08/cropped-ACCESS-TECH-LIVE-SQUARE-scaled-1-32x32.png</url>
+	<title>Access Tech Live</title>
+	<link>https://accesstechlive.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hello world!</title>
+		<link>https://accesstechlive.com/hello-world/</link>
+					<comments>https://accesstechlive.com/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[Marc]]></dc:creator>
+		<pubDate>Wed, 20 Aug 2025 19:11:17 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://accesstechlive.com/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://accesstechlive.com/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!-- plugin=object-cache-pro client=phpredis metric#hits=972 metric#misses=8 metric#hit-ratio=99.2 metric#bytes=117003 metric#prefetches=10 metric#store-reads=28 metric#store-writes=4 metric#store-hits=30 metric#store-misses=4 metric#sql-queries=0 metric#ms-total=730.07 metric#ms-cache=26.65 metric#ms-cache-avg=0.8598 metric#ms-cache-ratio=3.7 sample#redis-hits=9340309 sample#redis-misses=1290582 sample#redis-hit-ratio=87.9 sample#redis-ops-per-sec=8 sample#redis-evicted-keys=0 sample#redis-used-memory=251720528 sample#redis-used-memory-rss=96374784 sample#redis-memory-fragmentation-ratio=0.4 sample#redis-connected-clients=1 sample#redis-tracking-clients=0 sample#redis-rejected-connections=0 sample#redis-keys=1956 -->

@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TechCrunch</title>
+	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://techcrunch.com/</link>
+	<description>Startup and Technology News</description>
+	<lastBuildDate>Wed, 16 Sep 2026 10:38:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.7</generator>
+
+<image>
+	<url>https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32</url>
+	<title>TechCrunch</title>
+	<link>https://techcrunch.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Amazon launches Alexa+ in India with Hindi support</title>
+		<link>https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 16 Sep 2026 10:34:47 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[alexa+]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3164327</guid>
+
+					<description><![CDATA[Amazon is letting all customers use Alexa+ assistant in early access period]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says</title>
+		<link>https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Wed, 16 Sep 2026 00:20:39 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Jensen Huang]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3164495</guid>
+
+					<description><![CDATA[AI isn't some new form of "alien mind," according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The AI data center boom is colliding with cities scarred by big industry </title>
+		<link>https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 21:47:38 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3164506</guid>
+
+					<description><![CDATA[National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta now lets AI agents handle the boring parts of WhatsApp Business setup</title>
+		<link>https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 20:12:53 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[mcp]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<category><![CDATA[whatsapp business]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3164453</guid>
+
+					<description><![CDATA[A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The AI graveyard: a running list of projects and startups that didn&#8217;t make it</title>
+		<link>https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[siri ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3162590</guid>
+
+					<description><![CDATA[From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US data centers could consume more natural gas than Germany and Japan combined by 2035</title>
+		<link>https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 18:29:20 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[natural gas]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3164442</guid>
+
+					<description><![CDATA[The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SpaceX will try to put Starship in orbit for the first time on September 22</title>
+		<link>https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 18:16:07 +0000</pubDate>
+				<category><![CDATA[Space]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[SpaceX]]></category>
+		<category><![CDATA[Starship]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3164416</guid>
+
+					<description><![CDATA[Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI agents now have a place to snitch</title>
+		<link>https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/</link>
+		
+		<dc:creator><![CDATA[Aditya Mehta]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 17:42:59 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[agentic ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3164419</guid>
+
+					<description><![CDATA[The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US military says it has launched weapons into space</title>
+		<link>https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 17:09:06 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Space]]></category>
+		<category><![CDATA[attack]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[space weapon]]></category>
+		<category><![CDATA[us military]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3164342</guid>
+
+					<description><![CDATA[This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta expands subscription push with new AI-focused plans</title>
+		<link>https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 17:05:24 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3164295</guid>
+
+					<description><![CDATA[Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Health benefits platform Thatch reaches $1B valuation as healthcare costs surge</title>
+		<link>https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 17:02:04 +0000</pubDate>
+				<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Thatch]]></category>
+		<category><![CDATA[unicorn]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3164314</guid>
+
+					<description><![CDATA[Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual Coverage Health Reimbursement Arrangement — a model that lets companies fund employees' own individual insurance plans instead of enrolling everyone in one company-wide plan.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far</title>
+		<link>https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 16:00:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[hacks]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3129047</guid>
+
+					<description><![CDATA[From the massive DOGE data breach and the compromise of critical infrastructure to the hack of federal surveillance systems, here are the most damaging security incidents and data breaches of 2026 so far.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nitter and XCancel are dead (again) after X&#8217;s latest legal actions</title>
+		<link>https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 15:49:18 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[X]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3164161</guid>
+
+					<description><![CDATA[The privacy-friendly services for viewing X posts without an account have gone dark again after X's escalated legal action.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI, Anthropic, Google have been in talks on AI safety for weeks</title>
+		<link>https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 15:47:03 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[dario amodei]]></category>
+		<category><![CDATA[Demis Hassabis]]></category>
+		<category><![CDATA[google deepmind]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[sam altman]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3164278</guid>
+
+					<description><![CDATA[OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round</title>
+		<link>https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 15:22:48 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[generative engine optimization]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3164139</guid>
+
+					<description><![CDATA[Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Wonder scores a $425 million partnership with DoorDash as it builds its food empire</title>
+		<link>https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 15:21:10 +0000</pubDate>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[DoorDash]]></category>
+		<category><![CDATA[Marc Lore]]></category>
+		<category><![CDATA[wonder]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3164169</guid>
+
+					<description><![CDATA[Founded by veteran e-commerce entrepreneur Marc Lore, Wonder is slowly building a massive portfolio of restaurants and delivery companies.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Former TikTok execs built an app that uses AI to teach you how to pose for a photo</title>
+		<link>https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 14:42:37 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[camera app]]></category>
+		<category><![CDATA[Khosla Ventures]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3163539</guid>
+
+					<description><![CDATA[Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026</title>
+		<link>https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 14:30:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TechCrunch Disrupt]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3163504</guid>
+
+					<description><![CDATA[Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>India ends free ride for larger transactions on its ubiquitous digital payments network</title>
+		<link>https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 14:22:49 +0000</pubDate>
+				<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[NPCI]]></category>
+		<category><![CDATA[unified payments interface]]></category>
+		<category><![CDATA[UPI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3164158</guid>
+
+					<description><![CDATA[India will impose a 0.4% merchant fee on certain payments made through UPI starting October 15.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Evvy raises $40M as it seeks to further women&#8217;s health research with vaginal microbiome data</title>
+		<link>https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 14:13:59 +0000</pubDate>
+				<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Evvy]]></category>
+		<category><![CDATA[women's health]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3164101</guid>
+
+					<description><![CDATA[Women’s health company Evvy announced Tuesday a $40 million Series B led by Catalio Capital Management. ]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

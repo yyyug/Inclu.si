@@ -1,0 +1,1616 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deque</title>
+	<atom:link href="https://www.deque.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.deque.com/</link>
+	<description></description>
+	<lastBuildDate>Tue, 08 Sep 2026 12:53:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1</generator>
+
+<image>
+	<url>https://www.deque.com/wp-content/uploads/2025/10/favicon.svg</url>
+	<title>Deque</title>
+	<link>https://www.deque.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>EN 301 549 v4.1.1 is final! What changed, what it means, and what you should do.</title>
+		<link>https://www.deque.com/blog/en-301-549-v4-1-1-is-final-what-changed-what-it-means-and-what-you-should-do/</link>
+		
+		<dc:creator><![CDATA[Matthew Luken]]></dc:creator>
+		<pubDate>Tue, 08 Sep 2026 12:28:32 +0000</pubDate>
+				<category><![CDATA[Accessibility compliance]]></category>
+		<category><![CDATA[European Accessibility Act]]></category>
+		<category><![CDATA[EAA]]></category>
+		<category><![CDATA[EN 301 549]]></category>
+		<category><![CDATA[Web Content Accessibility Guidelines]]></category>
+		<guid isPermaLink="false">https://www.deque.com/?p=62619</guid>
+
+					<description><![CDATA[<p>On September 2, 2026, EN 301 549 v4.1.1 was officially published. This represents a major update to Europe’s accessibility standard for ICT products and services, and it’s a big milestone. But in practice, it’s only the first step along a three-point timeline.</p>
+<p>The post <a href="https://www.deque.com/blog/en-301-549-v4-1-1-is-final-what-changed-what-it-means-and-what-you-should-do/">EN 301 549 v4.1.1 is final! What changed, what it means, and what you should do.</a> appeared first on <a href="https://www.deque.com">Deque</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-audio"><audio controls src="https://accessibility.deque.com/hubfs/AI-Generated%20Media/Remix%20Audio/EN%20301%20549%20v4.1.1%20is%20final!%20What%20changed%2c%20what%20it%20means%2c%20and%20what%20you%20should%20do..mp3"></audio><figcaption class="wp-element-caption">Listen to this article</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">On September 2, 2026, <a href="https://www.deque.com/accessibility-compliance/en-301-549/" target="_blank" rel="noreferrer noopener">EN 301 549</a> v4.1.1 was <a href="https://www.google.com/url?q=https://www.etsi.org/deliver/etsi_en/301500_301599/301549/04.01.01_60/en_301549v040101p.pdf&amp;sa=D&amp;source=docs&amp;ust=1788537315030323&amp;usg=AOvVaw0zd-DqTF9Fy4HOM3FWmBi8" target="_blank" rel="noreferrer noopener">officially published</a>. This represents a major update to Europe’s accessibility standard for ICT products and services, and it’s a big milestone. But in practice, it’s only the first step along a three-point timeline.</p>
+
+
+
+<p class="wp-block-paragraph">The second step is for EN 301 549 v4.1.1 to be cited in the Official Journal of the European Union (OJEU). Until that happens, it does not carry presumption of conformity, which is the legal safe harbor that comes with being a cited harmonized standard. EN 301 549 v4.1.1 is currently on track to be cited in the journal around November 30, 2026. When cited, it will become the harmonized standard that confers presumption of conformity.</p>
+
+
+
+<p class="wp-block-paragraph">The third step is when EN 301 549 v4.1.1 gets referenced in national law in each European Union (EU) country. As a reminder, EN 301 549 is the technical standard the European Commission has formally designated to support the <a href="https://www.deque.com/accessibility-compliance/european-accessibility-act-eaa/" target="_blank" rel="noreferrer noopener">European Accessibility Act (EAA)</a>, through standardization request <a href="https://ec.europa.eu/transparency/documents-register/detail?ref=C(2022)6456&amp;lang=en" target="_blank" rel="noreferrer noopener">M/587</a>. However, the EAA is a directive, not a law. So while the goals it lays out are legally binding, each EU member state must enact its own regulations to ensure implementation. Those transpositions will also define when a member state expects compliance; governments commonly set lead times to allow organizations to meet the new standards.</p>
+
+
+
+<p class="wp-block-paragraph">Having read the above, your question might be: when should my organization start preparing for conformance to EN 301 549 v4.1.1? The answer is: Now. For three main reasons:</p>
+
+
+
+<ol start="1" class="wp-block-list">
+<li><strong>EN 301 549 v4.1.1 will soon be the officially cited EU standard. </strong>It’s just a matter of when. If you’re building anything that you expect to last into next year, you should be building and testing to EN 301 549 v4.1.1.</li>
+
+
+
+<li><strong>Some national transpositions don’t pin a version.</strong> Where a national law references EN 301 549 without a version number, a newly published version can become the operative benchmark with no new legislation. This means compliance requirements could hit even sooner than you might think.</li>
+
+
+
+<li><strong>The changes are significant, and how significant depends on your scope.</strong> Real-time text requirements were substantially revised and are a big lift for telecom and hardware. For the web and digital documents, the delta is the WCAG 2.2 criteria. Conformance will take time and effort.</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading"><a></a>What is changing with EN 301 549 v4.1.1?</h2>
+
+
+
+<p class="wp-block-paragraph">The following are now final in v4.1.1:</p>
+
+
+
+<ul class="wp-block-list">
+<li>&nbsp;Six new <a href="https://www.deque.com/accessibility-compliance/wcag/" target="_blank" rel="noreferrer noopener">WCAG</a> 2.2 Level A/AA success criteria</li>
+
+
+
+<li>&nbsp;Significantly reworked User Preferences requirements</li>
+
+
+
+<li>&nbsp;Updated requirements for real-time communication and real-time text</li>
+
+
+
+<li>&nbsp;EAA mappings in the Annexes</li>
+
+
+
+<li>&nbsp;Updates across web, documents, software, and other ICT</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">The most consequential of these changes for digital interfaces like websites and digital documents is the adoption of WCAG 2.2 Level AA, and the fact that WCAG 2.2 adds six success criteria:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>2.4.11 Focus Not Obscured (Minimum) — Level AA</strong>. Focused components must not be entirely hidden by sticky headers, footers, or overlays.</li>
+
+
+
+<li><strong>2.5.7 Dragging Movements — Level AA</strong>. Any drag-based interaction needs a single-pointer alternative.</li>
+
+
+
+<li><strong>2.5.8 Target Size (Minimum) — Level AA</strong>. Pointer targets must meet a 24 by 24 CSS pixel minimum, subject to defined exceptions.</li>
+
+
+
+<li><strong>3.2.6 Consistent Help — Level A</strong>. Help mechanisms must appear in a consistent relative order across pages.</li>
+
+
+
+<li><strong>3.3.7 Redundant Entry — Level A</strong>. Previously entered information must be auto-populated or available for selection.</li>
+
+
+
+<li><strong>3.3.8 Accessible Authentication (Minimum) — Level AA</strong>. Cognitive function tests in authentication require an accessible alternative.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Having shared the above, it should be noted that meeting WCAG 2.2 Level AA is not the same as meeting EN 301 549 v4.1.1. WCAG 2.2 AA is the baseline for web, documents, and software. It doesn&#8217;t cover items such as the real-time communication changes described below. In short, testing only for WCAG 2.2 AA—where regulation calls for conformance with EN 301 549—will not be enough.</p>
+
+
+
+<p class="wp-block-paragraph">Clause 6 in EN 301 549 v4.1.1 is another notable change. It pertains to real-time, two-way communication, and its scope broadens from two-way voice communication toward real-time bidirectional communication more generally, reflecting a &#8220;Total Conversation&#8221; model in which voice, real-time text, and video operate together within a single session.</p>
+
+
+
+<p class="wp-block-paragraph">Key areas of change include:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Substantially revised and extended Real-Time Text (RTT) requirements, including interoperability and concurrent operation with voice and video.</li>
+
+
+
+<li>Clearer expectations for the simultaneous availability of voice, text, and video channels.</li>
+
+
+
+<li>Updated requirements relating to caller identification, alerting, and call controls.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">This clause applies directly to calling, messaging, contact-center, and video-conferencing products. If your organization operates in these categories, expect a meaningfully larger scope of work to achieve conformance.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a>What should your organization do right now?</h2>
+
+
+
+<p class="wp-block-paragraph">An update this significant has a far-reaching impact and will cause disruption to your organization. Everyone from chief accessibility officers and UX leaders to legal teams, product owners, and procurement leaders will first need to understand the new standard’s requirements, and then work towards the changes needed to meet conformance.</p>
+
+
+
+<p class="wp-block-paragraph">The first and best piece of guidance we can give you is to continue meeting the legal requirements that apply to you today. At the same time, if you haven’t already moved your accessibility program toward WCAG 2.2 AA and the new EN 301 549 v4.1.1 requirements, now is the time to begin that process.</p>
+
+
+
+<p class="wp-block-paragraph">From there, consider the following:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Build a plan: </strong>Define your approach to this change, focusing on scalability with minimal disruption. How will you inform your teams about the large-scale effort you are about to kick off? How do you best minimize the team&#8217;s perception that this is “just another accessibility project?” How will you educate everyone on the new success criteria, changes to testing, and specifics related to their role? Does your policy need updating? What is the most efficient way to complete gap analysis in your organization? How will you prioritize remediation efforts against all the other tasks your organization needs to do at year-end?</li>
+
+
+
+<li><strong>Prepare for additional findings as you transition</strong>. The six new WCAG 2.2 criteria will likely surface issues in components that previously passed. This reflects a raised bar, not a regression in your product. But it will still require work to meet the new requirements.</li>
+
+
+
+<li><strong>Focus on your design system as the highest-leverage place to start</strong>. Target size, dragging alternatives, and focus visibility can usually be resolved most efficiently at the component level.</li>
+
+
+
+<li><strong>Pay early attention to real-time communication products</strong>. If your product is in scope for Clause 6 as detailed above, we recommend an early scoping conversation, as this might be a technically challenging refactor.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><a></a>Next steps</h2>
+
+
+
+<p class="wp-block-paragraph">We encourage you to <a href="https://accessibility.deque.com/contact" target="_blank" rel="noreferrer noopener">reach out to Deque today</a> to schedule a readiness conversation with our strategic consultancy team. We can review what the change means for your specific portfolio, and plan a transition sequence that fits your release cycle.</p>
+
+
+
+<p class="wp-block-paragraph">There is potentially a lot to tackle with this update. You need to understand the three key points along the timeline, the changes in EN 301 549, and how the new requirements will directly impact your organization.</p>
+
+
+
+<p class="wp-block-paragraph">The good news is, you can start the work now, and we’re here to help.</p>
+
+
+
+<p class="wp-block-paragraph">~</p>
+
+
+
+<p class="wp-block-paragraph">This article was co-authored by <a href="https://www.deque.com/company/glenda-sims/" target="_blank" rel="noreferrer noopener">Glenda Sims</a>, Chief Information Accessibility Officer, Deque.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>The post <a href="https://www.deque.com/blog/en-301-549-v4-1-1-is-final-what-changed-what-it-means-and-what-you-should-do/">EN 301 549 v4.1.1 is final! What changed, what it means, and what you should do.</a> appeared first on <a href="https://www.deque.com">Deque</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://accessibility.deque.com/hubfs/AI-Generated%20Media/Remix%20Audio/EN%20301%20549%20v4.1.1%20is%20final!%20What%20changed%2c%20what%20it%20means%2c%20and%20what%20you%20should%20do..mp3" length="8075136" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>Test your custom elements and trust the results with Axe-core&#8217;s support for ElementInternals</title>
+		<link>https://www.deque.com/blog/test-your-custom-elements-and-trust-the-results-with-axe-cores-support-for-elementinternals/</link>
+		
+		<dc:creator><![CDATA[Wilco Fiers]]></dc:creator>
+		<pubDate>Thu, 27 Aug 2026 13:21:18 +0000</pubDate>
+				<category><![CDATA[A11y for developers]]></category>
+		<category><![CDATA[axe-core]]></category>
+		<category><![CDATA[Web Accessibility]]></category>
+		<guid isPermaLink="false">https://www.deque.com/?p=62518</guid>
+
+					<description><![CDATA[<p>If you're a large enterprise organization with accessibility issues resulting from interoperability challenges, moving to ElementInternals is a savvy move. You can standardize, and safely test. And, with Axe-core now supporting ElementInternals, you can test those components and trust the results.</p>
+<p>The post <a href="https://www.deque.com/blog/test-your-custom-elements-and-trust-the-results-with-axe-cores-support-for-elementinternals/">Test your custom elements and trust the results with Axe-core&#8217;s support for ElementInternals</a> appeared first on <a href="https://www.deque.com">Deque</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-audio"><audio controls src="https://accessibility.deque.com/hubfs/AI-Generated%20Media/Remix%20Audio/Test%20your%20custom%20elements%20and%20trust%20the%20results%20with%20Axe-core%E2%80%99s%20support%20for%20ElementInternals.mp3"></audio><figcaption class="wp-element-caption">Listen to this article</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">Large organizations face a challenge when it comes to standardizing their components. Most enterprises run more than one frontend framework at once: one product line built in React, another in Angular, a newer acquisition running Vue. Chances are, those choices made sense at the time, and solved a real problem. But maintaining a separate version of the same component for every framework gets expensive as an organization grows, and keeping those versions consistent with each other only gets harder over time.</p>
+
+
+
+<p class="wp-block-paragraph">This has implications for accessibility. While every one of those independent implementations represents an opportunity to meet accessibility requirements, there&#8217;s no single way or place to verify all of them at once.</p>
+
+
+
+<p class="wp-block-paragraph">Fortunately, custom elements can solve the standardization problem: build a component once, and it works in any framework. ElementInternals, a feature of custom elements, lets a component declare its own accessibility role, like whether it functions as a button or a checkbox, without relying on Accessible Rich Internet Applications (ARIA) attributes added from the outside after the fact. That addresses the accessibility factor. And, with <a href="https://www.deque.com/axe/axe-core/" target="_blank" rel="noreferrer noopener">Axe-core</a> now <a href="https://github.com/dequelabs/axe-core/releases" target="_blank" rel="noreferrer noopener">supporting ElementInternals</a>, you can test those components and trust the results.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a>Fragmented components mean fragmented accessibility</h2>
+
+
+
+<p class="wp-block-paragraph">When it comes to accessibility, there&#8217;s no partial compliance. If nine out of ten implementations of a button pass and one doesn&#8217;t, the organization doesn&#8217;t get to claim it has accessible buttons. It has one that fails.</p>
+
+
+
+<p class="wp-block-paragraph">At enterprise scale, this makes testing and compliance difficult. There can be dozens of independent implementations of the same component, and confirming that all of them, not just most of them, are accessible requires checking each one on its own terms. That&#8217;s a lot of costly, time-consuming work.</p>
+
+
+
+<h2 class="wp-block-heading">Custom elements: How the browser solves the framework problem</h2>
+
+
+
+<p class="wp-block-paragraph">A custom element is built once, directly on top of what the browser provides, rather than on top of any particular framework. React, Vue, and Angular can each consume the same custom element, because the browser itself defines what the component is. Nothing about the underlying markup or behavior depends on which framework happens to be rendering it.</p>
+
+
+
+<p class="wp-block-paragraph">Many of the enterprises we work with are moving in this direction already, because it&#8217;s the only realistic way to standardize a component library across an organization that isn&#8217;t going to consolidate onto one framework anytime soon.</p>
+
+
+
+<h2 class="wp-block-heading">Where custom elements started: Bolt-on accessibility</h2>
+
+
+
+<p class="wp-block-paragraph">A custom element with no special markup is just an anonymous piece of HTML, the same as a plain &lt;div&gt;. To make something like that behave like a button or a checkbox for assistive technology, you have to bolt that meaning on from the outside, using ARIA attributes like role=&#8221;button&#8221; or aria-checked=&#8221;true&#8221;. It works, but it&#8217;s an extra step, applied after the fact, and the burden falls on whoever assembles the component to remember it every time.</p>
+
+
+
+<h2 class="wp-block-heading">What ElementInternals makes possible: Built-in accessibility</h2>
+
+
+
+<p class="wp-block-paragraph">With ElementInternals, a custom element can declare its own role and state from the inside, as part of its own definition, rather than depending on whoever assembles the component to add the right ARIA attributes later. A custom element built with ElementInternals can say, in effect, &#8220;I function like a tab&#8221; or &#8220;I&#8217;m currently checked,&#8221; as part of how it&#8217;s built, not via something layered on top.</p>
+
+
+
+<p class="wp-block-paragraph">To put this in context: browsers and assistive technologies have historically relied on two layers of accessibility information. The first is native semantics, the meaning built into standard HTML elements like &lt;button&gt; or &lt;input&gt;. The second is ARIA, the attributes you add to any element to describe what it&#8217;s supposed to be when the native tag doesn&#8217;t already say so. ElementInternals introduces a third layer: the same kind of semantic vocabulary, but now expressible from inside a custom element&#8217;s own logic rather than only in its markup.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="652" src="https://www.deque.com/wp-content/uploads/2026/08/08.20.26-Element-Internals-Blog-internal-image-1024x652.png" alt="CustomElements HTML leveraging ElementInternals for a button" class="wp-image-62520" srcset="https://www.deque.com/wp-content/uploads/2026/08/08.20.26-Element-Internals-Blog-internal-image-1024x652.png 1024w, https://www.deque.com/wp-content/uploads/2026/08/08.20.26-Element-Internals-Blog-internal-image-300x191.png 300w, https://www.deque.com/wp-content/uploads/2026/08/08.20.26-Element-Internals-Blog-internal-image-768x489.png 768w, https://www.deque.com/wp-content/uploads/2026/08/08.20.26-Element-Internals-Blog-internal-image-1536x978.png 1536w, https://www.deque.com/wp-content/uploads/2026/08/08.20.26-Element-Internals-Blog-internal-image-2048x1304.png 2048w, https://www.deque.com/wp-content/uploads/2026/08/08.20.26-Element-Internals-Blog-internal-image-810x516.png 810w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">The false-positive problem</h2>
+
+
+
+<p class="wp-block-paragraph">ElementInternals solves something important, but there&#8217;s a catch. For accessibility testing to be trustworthy, it needs to be able to see that third layer. Otherwise, you get a false positive: a component that&#8217;s correctly built and correctly declares its own accessibility semantics getting flagged as an accessibility failure.</p>
+
+
+
+<p class="wp-block-paragraph">To prevent this from happening, we needed to update Axe-core.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a>The Axe-core solution</h2>
+
+
+
+<p class="wp-block-paragraph">Making accurate testing possible for our large enterprise customers that were using ElementInternals meant building a new way for testing tools to see this data, since ElementInternals doesn&#8217;t expose itself the way ARIA does.</p>
+
+
+
+<p class="wp-block-paragraph">The result: starting in version 4.13.0, if you&#8217;re testing custom elements with Axe-core, ElementInternals-based semantics are recognized for the rules most responsible for producing false positives: aria-allowed-attr, aria-prohibited-attr, aria-required-parent, aria-required-children, and the list/listitem rules. In practice, that means a custom element that declares itself as a list item through ElementInternals is now recognized as one, instead of being flagged for missing a role it already has.</p>
+
+
+
+<p class="wp-block-paragraph">To our knowledge, Axe-core is the first automated accessibility testing tool to support ElementInternals in any capacity.</p>
+
+
+
+<p class="wp-block-paragraph">One thing to note: ElementInternals are invisible to Axe-core by default. Developers need to specifically give Axe-core access for them to be picked up. You can find guidance on how to do that at this <a href="https://github.com/webcomponents-cg/community-protocols/blob/main/proposals/element-internals-declaration.md" target="_blank" rel="noreferrer noopener">GitHub community protocol</a>.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a>Next steps</h2>
+
+
+
+<p class="wp-block-paragraph">If you&#8217;re a large enterprise organization with accessibility issues resulting from interoperability challenges, moving to ElementInternals is a savvy move. You can standardize, and safely test.</p>
+
+
+
+<p class="wp-block-paragraph">If you&#8217;re already running Axe-core against custom elements, upgrade to 4.13.0 or later and re-run your existing test suite to confirm that any false positives you were seeing are now resolved.</p>
+
+
+
+<p class="wp-block-paragraph">You can find the full set of changes in the <a href="https://github.com/dequelabs/axe-core/releases" target="_blank" rel="noreferrer noopener">Axe-core changelog</a>, and track the original discussion in <a href="https://github.com/dequelabs/axe-core/issues/4259" target="_blank" rel="noreferrer noopener">GitHub issue #4259</a>.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://accessibility.deque.com/contact" target="_blank" rel="noreferrer noopener">Contact us</a> to learn more about Axe-core&#8217;s ElementInternals support and what it means for your design system.</p>
+<p>The post <a href="https://www.deque.com/blog/test-your-custom-elements-and-trust-the-results-with-axe-cores-support-for-elementinternals/">Test your custom elements and trust the results with Axe-core&#8217;s support for ElementInternals</a> appeared first on <a href="https://www.deque.com">Deque</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://accessibility.deque.com/hubfs/AI-Generated%20Media/Remix%20Audio/Test%20your%20custom%20elements%20and%20trust%20the%20results%20with%20Axe-core%E2%80%99s%20support%20for%20ElementInternals.mp3" length="6304128" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>Deque and Microsoft: Two decades of shaping the future of accessibility</title>
+		<link>https://www.deque.com/blog/deque-and-microsoft-two-decades-of-shaping-the-future-of-accessibility/</link>
+		
+		<dc:creator><![CDATA[Preety Kumar]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2026 12:33:31 +0000</pubDate>
+				<category><![CDATA[Company news and updates]]></category>
+		<category><![CDATA[accessibility tools]]></category>
+		<category><![CDATA[axe-core]]></category>
+		<category><![CDATA[Web Accessibility]]></category>
+		<guid isPermaLink="false">https://www.deque.com/?p=62486</guid>
+
+					<description><![CDATA[<p>What started nearly two decades ago as conversations between two people passionate about improving accessibility across Microsoft's digital experiences has grown into a lasting partnership built on shared learning, mutual respect, and a common belief that accessibility should be built into every stage of software development.</p>
+<p>The post <a href="https://www.deque.com/blog/deque-and-microsoft-two-decades-of-shaping-the-future-of-accessibility/">Deque and Microsoft: Two decades of shaping the future of accessibility</a> appeared first on <a href="https://www.deque.com">Deque</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">What started nearly two decades ago as conversations between two people passionate about improving accessibility across Microsoft&#8217;s digital experiences has grown into a lasting partnership built on shared learning, mutual respect, and a common belief that accessibility should be built into every stage of software development.</p>
+
+
+
+<p class="wp-block-paragraph">I recently had the opportunity to reflect on that partnership with Jenny Lay-Flurrie, who was, at that time, Microsoft&#8217;s Chief Accessibility Officer (she has recently assumed the role of Vice President, Head of Trusted Technology). We filmed a short video about our organizations&#8217; work together. Watching it back, what stood out to me was not just the milestones, although there have been many. It was the relationship behind those milestones: a partnership built on trusting each other enough to ask hard questions, challenge assumptions, and think through problems together.</p>
+
+
+
+<p class="wp-block-paragraph"><iframe title="Deque and Microsoft: Building the future of accessibility together" width="640" height="360" src="https://www.youtube.com/embed/o8XRWKbSf34?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+
+
+
+<h2 class="wp-block-heading"><a></a><strong>The next frontier: Artificial intelligence that starts with accessibility</strong></h2>
+
+
+
+<p class="wp-block-paragraph">My conversation with Jenny was not just about the past. We also talked about where accessibility can go next, especially as artificial intelligence (AI) continues to reshape how software is built.</p>
+
+
+
+<p class="wp-block-paragraph">Today, we are at a critical juncture. Regulation, AI transformation, and digital accessibility are converging, and it requires a new kind of response from accessibility and engineering leaders. AI has the potential to dramatically accelerate software development, but only if accessibility is built into those workflows from the very first prompt, not fixed after the fact.</p>
+
+
+
+<p class="wp-block-paragraph">As we&#8217;ve seen through <a href="https://accessibility.deque.com/debt-to-dividend-guide" target="_blank" rel="noreferrer noopener">our own research</a>, when accessibility is fully embedded into AI-assisted development, organizations reduce costs, lower compliance risk, and improve software quality. More importantly, they build experiences that work better for everyone.</p>
+
+
+
+<p class="wp-block-paragraph">The disability community has been advancing human-computer interaction for decades. That expertise isn&#8217;t just important from an accessibility perspective. It&#8217;s technically essential for building AI systems that are more robust, more reliable, and ultimately more effective.</p>
+
+
+
+<p class="wp-block-paragraph">The future of accessible AI will be shaped by the practices we establish today. That is a challenge bigger than any one organization can solve alone. It is exactly the kind of challenge that requires collaboration, and it reminded me why our long partnership with Microsoft has been so meaningful.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Partnership as a way of thinking, not just a way of working</strong></h2>
+
+
+
+<p class="wp-block-paragraph">During our conversation, Jenny reflected on something that has defined our relationship over the years:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph">&#8220;There aren&#8217;t many people to have that depth of conversation, where you&#8217;re genuinely curious about solving a challenge together rather than simply trying to reach a deliverable.&#8221;</p>
+</blockquote>
+
+
+
+<p class="wp-block-paragraph">Her words resonated with me because they capture something that many people in the accessibility community experience every day. Technical integrations and shared projects matter, but they&#8217;re built on something deeper: trust, curiosity, and a willingness to learn from one another. The accessibility community has understood this for years: meaningful progress comes not only from technology, but from the relationships and shared commitment behind it.</p>
+
+
+
+<p class="wp-block-paragraph">In an industry where accessibility expertise is still unevenly distributed, it is vital that we act in concert as a community. Tools alone are not enough. We need the shared expertise and lived experiences of everyone together, so that we can determine what is and isn’t working and what we can achieve together.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a><strong>Building momentum across the accessibility community</strong></h2>
+
+
+
+<p class="wp-block-paragraph">One of the clearest examples of where this collaboration has led is Axe-core, Deque&#8217;s open-source accessibility rules engine. Microsoft has built Axe-core into its own development and testing practices for many years, making automated accessibility checks a standard part of how its teams ship software.</p>
+
+
+
+<p class="wp-block-paragraph">That internal adoption didn&#8217;t stay internal for long. Today, Microsoft vendors and partners are regularly expected to meet the same accessibility standards Microsoft was holding itself to.</p>
+
+
+
+<p class="wp-block-paragraph">This is the impact of a company like Microsoft making accessibility a priority. When organizations with broad reach set expectations for accessible products and experiences, those expectations extend throughout the ecosystem.</p>
+
+
+
+<p class="wp-block-paragraph">We see organizations strengthen their accessibility practices because Microsoft sets clear expectations and because the tools and guidance exist to help teams meet them.</p>
+
+
+
+<p class="wp-block-paragraph">That is what collaboration can do. It can turn one organization&#8217;s commitment into momentum for an entire community.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a><strong>Collaboration, not competition</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Accessibility has never been a zero-sum game. Every time one organization makes the digital world more accessible, everyone benefits. That is why collaboration has always mattered more than competition in this space.</p>
+
+
+
+<p class="wp-block-paragraph">Digital accessibility does not move forward because one company or one tool solves the problem. It moves forward when organizations choose to build together, share what they learn, and invest in solutions that benefit the broader community.</p>
+
+
+
+<p class="wp-block-paragraph">That is the lesson I continue to believe in: Find peers who will challenge you. Build together. Share what you learn. Stay curious.</p>
+
+
+
+<p class="wp-block-paragraph">For teams looking to strengthen their accessibility efforts, start by asking one simple question: who are the partners, advocates, and experts you can learn from? Accessibility moves faster when knowledge is shared. Whether through open source communities, industry conversations, or collaboration with accessibility practitioners, every organization has an opportunity to contribute to a more accessible digital world. We&#8217;re proud that organizations like Microsoft partner with Deque on accessibility, and we&#8217;re grateful for the trust every single one of our customers puts in Deque to help ensure their products and services are accessible.</p>
+
+
+
+<p class="wp-block-paragraph">We have a rare opportunity to shape the future of software at the same time we&#8217;re shaping the future of accessibility. Let&#8217;s seize it. By embedding accessibility into AI from the start and continuing to learn from one another, we can build better technology and experiences for everyone. The need is urgent and the time is now.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>The post <a href="https://www.deque.com/blog/deque-and-microsoft-two-decades-of-shaping-the-future-of-accessibility/">Deque and Microsoft: Two decades of shaping the future of accessibility</a> appeared first on <a href="https://www.deque.com">Deque</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Canada&#8217;s next phase of ACA enforcement: Are you ready?</title>
+		<link>https://www.deque.com/blog/canadas-next-phase-of-aca-enforcement-are-you-ready/</link>
+		
+		<dc:creator><![CDATA[Glenda Sims]]></dc:creator>
+		<pubDate>Thu, 20 Aug 2026 17:02:15 +0000</pubDate>
+				<category><![CDATA[Accessibility compliance]]></category>
+		<category><![CDATA[ACA]]></category>
+		<category><![CDATA[Accessible Canada Act]]></category>
+		<category><![CDATA[Canada laws]]></category>
+		<guid isPermaLink="false">https://www.deque.com/?p=62195</guid>
+
+					<description><![CDATA[<p>There’s a new deadline looming for the Accessible Canada Act (ACA), and it’s a significant one. The work required to meet the new requirements is substantial, and you need to start now if your business is going to safely meet the new deadline.</p>
+<p>The post <a href="https://www.deque.com/blog/canadas-next-phase-of-aca-enforcement-are-you-ready/">Canada&#8217;s next phase of ACA enforcement: Are you ready?</a> appeared first on <a href="https://www.deque.com">Deque</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">There’s a new deadline looming for the <a href="https://www.deque.com/accessibility-compliance/canada/aca/" target="_blank" rel="noreferrer noopener">Accessible Canada Act (ACA)</a>, and it’s a significant one. From here, it may still look far away. But the work required to meet the new requirements is substantial. It will require a sequential effort with many steps, and you need to start now if your business is going to safely meet the new deadline. Previously, you were required to develop, commit to, and publish a plan. Now, you have to actually deliver against that plan.</p>
+
+
+
+<p class="wp-block-paragraph">The process should begin with self-assessment: where does your organization currently stand, where are the gaps, and what actions should you prioritize? In this post, I’ll share a five-question framework you can use to self-assess, and provide you with some clear next steps you can take today.</p>
+
+
+
+<p class="wp-block-paragraph">But first, let’s make sure we’re clear on deadlines and expectations.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a>Understanding the new deadline</h2>
+
+
+
+<p class="wp-block-paragraph">Last year, the Accessibility Commissioner found 95 organizations non-compliant. The issues were wide-ranging. Some organizations published their accessibility plan in a format people with disabilities could not read. Some took their documents down early, before the seven-year retention period was up. Some named barriers without detailing what they intended to do about them, making progress impossible to verify.</p>
+
+
+
+<p class="wp-block-paragraph">This all took place before December 5, 2025, when Canada added a new requirement: technical evidence. What you tested. What you found. What you bought. Who you trained. Where you still fall short, in writing, on your own website.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">That’s what the new compliance deadlines are all about, as detailed below:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>December 5, 2027</strong>. Federal public sector organizations have to have their accessibility statement published, their web page conformance in effect, and the first round of training finished. Training must be completed that day for federally regulated businesses with 100 or more employees.</li>
+
+
+
+<li><strong>December 5, 2028</strong>. Web page requirements reach businesses with 100 or more employees. Mobile apps, digital documents, accessibility statements, and procurement requirements reach the federal public sector and businesses with 500 or more employees.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"><em>Note: Transportation providers, broadcasters, and telecommunications entities are exempt from some of these requirements, and the exemptions are drafted differently from one provision to the next. If you operate in one of those sectors, get your determination in writing before you build a plan around it.</em></p>
+
+
+
+<h3 class="wp-block-heading"><a></a>Five reasons why the urgency is real</h3>
+
+
+
+<p class="wp-block-paragraph">As I mentioned above, compliance is a multi-step process. Let’s explore why.</p>
+
+
+
+<ol start="1" class="wp-block-list">
+<li><strong>The statement is the last step, not the first.</strong> To write a public disclosure, you have to first test, prioritize fixes, and commit to dates. It’s a chain of actions, and the deadline lands on the last link. You need lead time to get there.</li>
+
+
+
+<li><strong>Conformance starts the day the rule starts</strong>. The new requirements apply to pages you create or update on or after the deadline. On day one, you must be producing conformant output. That means your design system, components, authoring practices, and QA gates must be adapted and ready months before the deadline hits.</li>
+
+
+
+<li><strong>The first round of training has to be completed, not started</strong>. Every single person who builds, maintains, or buys technology—across engineering, content, and procurement—has to have been trained by the deadline, and you’ll need the records to prove it. The requirement also states that refresher training must be completed every three years. Standing up a new training program is hard work in itself and takes time. Ensuring everyone actually completes the training is all the more challenging. You’ll need to set aside several quarters for this effort.</li>
+
+
+
+<li><strong>Get accessibility requirements into your procurement contracts now. </strong>Starting December 5, 2028, federal public sector entities and private sector entities with 500 or more employees must obtain a conformity assessment with gap analysis when initiating a procurement for products or services connected to a regulated web page or mobile application. The requirement attaches to the procurement action, not to products already in place. But the regulation doesn&#8217;t obligate your vendors to hand you an assessment. Your contract language does. Procurement templates take months to revise and even longer to become default practice.</li>
+
+
+
+<li><strong>Your next progress report is the first draft of your accessibility statement</strong>. Your progress reports are public, and your accessibility statement will be public. If the barriers in one do not match the gaps in the other, it will be clear to anyone who reviews them. It’s essential that your plans, progress, and proof tell the same story.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">These requirements sit under the Accessible Canada Act. The rules are formally called the Digital Technologies Accessibility Regulations, and they add a new part to the Accessible Canada Regulations covering websites, mobile apps, and digital documents.</p>
+
+
+
+<p class="wp-block-paragraph">The technical standard is CAN/ASC-EN 301 549. For web content, that means WCAG 2.1 Level AA. If your organization is also subject to Ontario&#8217;s Accessibility for Ontarians with Disabilities Act (AODA), this is the same target you have been aiming at since 2021.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a>The five-question self-assessment framework</h2>
+
+
+
+<p class="wp-block-paragraph">Getting started means assessing whether your current accessibility program is ready for greater regulatory scrutiny and identifying any gaps in governance, testing, procurement, and reporting. That is why it’s critical to start now. You can use the five-question self-assessment I share below as a kind of diagnostic trigger. It’s not a solution, but it’s a simple, practical way to surface the information you need right now.</p>
+
+
+
+<p class="wp-block-paragraph">Once you’ve identified the issues, you can assess how serious they are and determine what to do about them. That’s where Deque comes in. We’re here to absorb and interpret those diagnostic results and build a path to compliance with you.</p>
+
+
+
+<p class="wp-block-paragraph">As you work through these, you’ll see that each of these questions has a required document behind it—a record the Commissioner can ask you to produce, with a retention period attached.</p>
+
+
+
+<h3 class="wp-block-heading"><a></a>1. Can you produce the accessibility conformity assessment?</h3>
+
+
+
+<p class="wp-block-paragraph">Your obligation is conformance to the standard CAN/ASC-EN 301 549. An assessment with a gap analysis is how you demonstrate conformance. You must retain the report in electronic form for four years after completion.</p>
+
+
+
+<p class="wp-block-paragraph">One additional item to note: If you continue to offer a downloadable app that launched before your deadline, you still owe an assessment on that app, even though the conformance requirement itself only applies to apps launched later.</p>
+
+
+
+<p class="wp-block-paragraph">To get started, ask your team which properties have a current, documented gap analysis. And remember, an automated accessibility scan is not a full assessment!</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Required documentation: A conformity assessment with gap analysis that must be kept for four years.</strong></p>
+
+
+
+<h3 class="wp-block-heading"><a></a>2. Does procurement produce an accessibility gap analysis, or just ask a question?</h3>
+
+
+
+<p class="wp-block-paragraph">For the federal public sector and for businesses with 500 or more employees, the rule states that when you buy products or services for a website or app you are responsible for, you must obtain an accessibility conformity assessment with a gap analysis as part of that purchase.</p>
+
+
+
+<p class="wp-block-paragraph">Most procurement templates do not do this. A vendor questionnaire is not a gap analysis. Neither is a vendor&#8217;s Accessibility Conformance Report (ACR) on its own.</p>
+
+
+
+<p class="wp-block-paragraph">The Accessibility Commissioner of Canada&#8217;s <a href="https://www.chrc-ccdp.gc.ca/resources/publications/accessibility-commissioner-canadas-2025-2026-annual-report#section_5" target="_blank" rel="noreferrer noopener">2025–2026 Annual Report</a> provided very clear guidance about this:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><strong>“</strong>Put formal measures in place that require your vendors and third-party providers to meet or exceed your accessibility standards, so your clients consistently receive accessible products and services.”</p>
+</blockquote>
+
+
+
+<p class="wp-block-paragraph">One additional note here: CAN-ASC-4.1, the draft Canadian standard for accessible procurement, is expected to be published in the winter of 2027. It is voluntary until written into regulation, so build your process around the ACA rule that is already law.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Required documentation: A procurement conformity assessment with gap analysis that must be kept for four years.</strong></p>
+
+
+
+<h3 class="wp-block-heading"><a></a>3. Are your accessibility barriers connected to actions that will fix them?</h3>
+
+
+
+<p class="wp-block-paragraph">The key here is the need to go through every barrier in your plan and ask three things: 1) What did we do about this one? 2) Where does it stand today? 3) Who owns the work that remains to be done?</p>
+
+
+
+<p class="wp-block-paragraph">This is an issue the Commissioner has flagged for two years running—the gap between identifying and testing a barrier and actually fixing the issue and removing the barrier. If a reader cannot follow a specific barrier to the specific work that addressed it and understand where things stand now, then, from the outside, there is no progress.</p>
+
+
+
+<p class="wp-block-paragraph">Your accessibility statement lists where your digital properties fall short, and your progress reports describe what you’ve been fixing. Both are public and need to say the same thing.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Required documentation: Your accessibility plan and progress reports, which must be publicly available for seven years.</strong></p>
+
+
+
+<h3 class="wp-block-heading"><a></a>4. Can you prove who was trained on accessibility, and when?</h3>
+
+
+
+<p class="wp-block-paragraph">Everyone involved in building, maintaining, or buying technology has to have been trained on accessibility fundamentals by the deadline. They’ll also need to have a refresher at least every three years. And, you have to keep an electronic record of all training activities for four years.</p>
+
+
+
+<p class="wp-block-paragraph">Training should therefore be understood as an ongoing concern, not a single milestone. You need to be able to prove it on any given day, for anyone on that list—and that includes everyone from the developer who just joined the company last month to the procurement officer who almost slipped through the cracks.</p>
+
+
+
+<p class="wp-block-paragraph">To get started, take two questions to HR and engineering: 1) Who needs to be on the list? 2) How will you produce a dated training record for each of them?</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Required documentation: Training records for every relevant employee that must be kept for four years.</strong></p>
+
+
+
+<h3 class="wp-block-heading"><a></a>5. Are you ready to publish your own gap list every year?</h3>
+
+
+
+<p class="wp-block-paragraph">Federal public sector organizations and businesses with 500 or more employees must publish an accessibility statement by their deadline and refresh it annually. In plain language, it must acknowledge your obligations, provide two ways to contact you about accessibility, and describe your accessibility features. It must also list where you are not meeting the standard, explain the resulting barrier, and give your plans and timelines for closing the gaps. The statement must be easy to find from every page it covers. Remember, your customers, your competitors, and the people evaluating your bids can all read it.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Required documentation: A published accessibility statement, refreshed every twelve months, with a copy that must be kept for four years.</strong></p>
+
+
+
+<h2 class="wp-block-heading"><a></a>Governance and the business case for compliance</h2>
+
+
+
+<p class="wp-block-paragraph">As you review the required records detailed above, it should be clear that they all have one thing in common. Every one of them expires. Assessments go stale. Training refreshers come due every three years. Statements need republishing every year. Plans and progress reports have to stay posted for seven years.</p>
+
+
+
+<p class="wp-block-paragraph">You could literally satisfy all five requirements in 2027, and then find yourself non-compliant in 2029—without changing a thing! That is the case for governance, and it’s not just a compliance case. It’s a cost case.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Organizations without governance pay for accessibility over and over. </strong>Every deadline is a scramble. Every audit is a surprise. Every release ships bugs that a component library would have prevented, and every one of those bugs gets found late, by a customer or a regulator, when it is most expensive to fix.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Organizations with governance pay once and get compounding returns</strong>. When you fix a pattern in your design system, every page built on it inherits the fix. Put conformance criteria in your procurement template, and the market absorbs the work. Train the people who write and build, and new defects stop arriving. Your first assessment will cost what it costs, but your third will only need to be a spot check, because you’ll already know your gaps and who owns them.</p>
+
+
+
+<p class="wp-block-paragraph">Compounding progress happens everywhere. Your assessments populate your accessibility statement. Your statement lines up with your progress report. Your training log has the answers before any questions even get asked.</p>
+
+
+
+<p class="wp-block-paragraph">Most importantly, governance is what turns a compliance date into a product that actually works for your customers.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a>Next steps</h2>
+
+
+
+<p class="wp-block-paragraph">As we’ve now established, the required work is sequential and time-consuming, and next year’s deadlines aren’t so far off after all. Fortunately, there are two steps you can take right now that will make everything else doable.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>First, get your scope determination in writing</strong>. Understand which rules apply to you, based on your organization type, your employee count, and your sector. This determination drives your timeline and your budget. This is the step most often skipped, and everything below depends on it.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Second, get one real assessment</strong>. Not just an automated scan. An accessibility conformity assessment with a gap analysis on a digital property that matters. That single document will tell you what your remediation will actually cost for that property. It will seed your accessibility statement and give you the budget number you need to ask for.</p>
+
+
+
+<p class="wp-block-paragraph">From there, the order is straightforward. Inventory what is in scope. Rewrite your procurement template before you sign the next contract. Stand up training with records that hold up. Then, draft an accessibility statement you would be willing to publish, and treat the distance between that draft and the truth as your backlog.</p>
+
+
+
+<p class="wp-block-paragraph">This is all necessary work, and it’s a lot of work. But here’s the good news. If you want a partner, this is what Deque does. We help you sort out which requirements apply. We run the assessments and build the gap analyses. We train your teams and help you reach a statement you’re comfortable publishing.</p>
+
+
+
+<p class="wp-block-paragraph"><strong><a href="https://accessibility.deque.com/accessibility-strategic-consultation" target="_blank" rel="noreferrer noopener">Schedule your strategic consultation</a></strong> today, and we’ll dial in the right plan for your organization.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>The post <a href="https://www.deque.com/blog/canadas-next-phase-of-aca-enforcement-are-you-ready/">Canada&#8217;s next phase of ACA enforcement: Are you ready?</a> appeared first on <a href="https://www.deque.com">Deque</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Axe-core at 5 billion: Accessibility meets the moment</title>
+		<link>https://www.deque.com/blog/axe-core-at-5-billion-accessibility-meets-the-moment/</link>
+		
+		<dc:creator><![CDATA[Preety Kumar]]></dc:creator>
+		<pubDate>Tue, 18 Aug 2026 13:02:27 +0000</pubDate>
+				<category><![CDATA[Company news and updates]]></category>
+		<category><![CDATA[axe-core]]></category>
+		<category><![CDATA[news]]></category>
+		<guid isPermaLink="false">https://www.deque.com/?p=61833</guid>
+
+					<description><![CDATA[<p>The global digital accessibility community is experiencing a time of incredible momentum and incredible urgency. From every corner of the world, we are seeing new stories emerge—regulatory expansion, technological innovation, groundbreaking legal decisions, and more. This is happening at a time when AI is dramatically reshaping what it means to create digital products, services, and experiences.</p>
+<p>The post <a href="https://www.deque.com/blog/axe-core-at-5-billion-accessibility-meets-the-moment/">Axe-core at 5 billion: Accessibility meets the moment</a> appeared first on <a href="https://www.deque.com">Deque</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-audio"><audio controls src="https://accessibility.deque.com/hubfs/AI-Generated%20Media/Remix%20Audio/Axe-core%20at%205%20billion%20Accessibility%20meets%20the%20moment.mp3"></audio><figcaption class="wp-element-caption">Listen to this article</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">The global digital accessibility community is experiencing a time of incredible momentum and incredible urgency. From every corner of the world, we are seeing new stories emerge—regulatory expansion, technological innovation, groundbreaking legal decisions, and more.</p>
+
+
+
+<p class="wp-block-paragraph">This is happening at a time when AI is dramatically reshaping what it means to create digital products, services, and experiences. Our entire digital universe is being created and recreated at previously unthinkable speeds. Amid this transformation, the accessibility community has, of course, been concerned about whether digital accessibility can keep pace.</p>
+
+
+
+<p class="wp-block-paragraph">With that in mind, I am elated to share that <a href="https://www.deque.com/axe/axe-core/" target="_blank" rel="noreferrer noopener">Axe-core</a> has just surpassed 5 billion downloads! It’s a remarkable number, made all the more so by the fact that it was only a year ago that we were announcing 3 billion Axe-core downloads.</p>
+
+
+
+<p class="wp-block-paragraph">At that point, the <a href="https://www.deque.com/accessibility-compliance/european-accessibility-act-eaa/">European Accessibility Act (EAA)</a> was the hot topic in the accessibility community, having come into effect only weeks earlier. Today, the EAA is no longer the new kid on the block. It has transformed from concept to practical reality, with enforcement being more tangible and more tactical every day.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">At the same time, updates to <a href="https://www.deque.com/accessibility-compliance/en-301-549/">EN 301 549</a> are underway. While in <a href="https://www.deque.com/canada-compliance/">Canada</a>, the Accessibility Commissioner’s new 2025–2026 Annual Report makes it clear that Canada is entering a new phase of enforcement. The <a href="https://www.deque.com/accessibility-compliance/apac/australia/">Australian Human Rights Commission</a> recently affirmed WCAG 2.2 Level AA as its minimum benchmark. The <a href="https://www.deque.com/blog/indias-proposed-new-accessibility-standards-what-businesses-can-do-today/">Securities and Exchange Board of India (SEBI)</a> is now enforcing ICT accessibility requirements for digital financial services. In <a href="https://www.deque.com/accessibility-compliance/apac/south-korea/">South Korea</a>, new amendments to the Disability Discrimination Act and the Digital Inclusion Act focus on digital accessibility across everything from websites and apps to kiosks and video content.</p>
+
+
+
+<p class="wp-block-paragraph">The global pace is accelerating, and it’s exciting!</p>
+
+
+
+<p class="wp-block-paragraph">Speaking of pace, we’re currently seeing <strong>nearly 10 million Axe-core downloads a day</strong>, which is a more than threefold increase since last year! It’s an amazing testament to the fact that over a decade later, open source still matters. That fateful decision to release Axe-core as an open-source accessibility testing engine in June 2015 is still reverberating, and it’s gratifying to know that focus on accessibility concerns is keeping pace with the velocity increases we see everywhere else.</p>
+
+
+
+<p class="wp-block-paragraph">We can also speculate about AI’s role in these trends. We know the use of AI agents is increasing, and that AI will often use Axe-core when prompted to make something accessible. If this is the case, it’s a good reminder about the importance of teaching your agents to do accessibility right, and to not rely on Axe-core alone. As we consider the meaning of this new milestone, we must understand Axe-core&#8217;s evolving role.</p>
+
+
+
+<p class="wp-block-paragraph">I am very grateful for this opportunity to pause and reflect. It’s not something I get to do very often. Like all of us in the accessibility community, there is truly no rest for the weary, and there remains so much to be done. But reflection helps to put things in perspective. In that spirit, I want to share a photo with you. It was taken in the Deque office in Ann Arbor, Michigan, back in 2018, when we met to celebrate the first one million downloads of Axe-core. There were lots of smiles that day, lots of high fives, and we probably all ate one too many Deque-branded cupcakes!</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="554" src="https://www.deque.com/wp-content/uploads/2026/08/axe-core-group-photo-1024x554.jpg" alt="A picture taken in the Deque office in Ann Arbor, Michigan, back in 2018, when a group of Deque employees met to celebrate the first one million downloads of Axe-core. The team is smiling and cheering as they stand around a desk with branded cupcakes and a sign thanking the A11y community for 1 million downloads." class="wp-image-61822" srcset="https://www.deque.com/wp-content/uploads/2026/08/axe-core-group-photo-1024x554.jpg 1024w, https://www.deque.com/wp-content/uploads/2026/08/axe-core-group-photo-300x162.jpg 300w, https://www.deque.com/wp-content/uploads/2026/08/axe-core-group-photo-768x416.jpg 768w, https://www.deque.com/wp-content/uploads/2026/08/axe-core-group-photo.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph">That was a big milestone, and the message on the sign is just as meaningful now as it was then: Thank you accessibility community! Deque CTO Dylan Barrell’s words at the time also still very much apply today: “The acceleration and wide adoption of Axe-core over the years is really a testament to the hard work of our contributors.”</p>
+
+
+
+<p class="wp-block-paragraph">Those are well-chosen words. It is hard work. While technology continues to make more things possible, it doesn’t necessarily make things easier. The reality is that technology has a knack for creating as many new problems as it solves.</p>
+
+
+
+<p class="wp-block-paragraph">In many ways, this is the world we find ourselves in today. AI is solving so much, but it is also creating new risks. So it is incumbent upon us all to ensure this transformational technology is harnessed as a force for good, and a force for digital inclusion. We can do this.</p>
+
+
+
+<p class="wp-block-paragraph">As I reflect on these Axe-core numbers, that is where my mind and my heart go—toward optimism. Because I see evidence everywhere that people are thinking about accessibility, that they care about accessibility, and that they believe accessibility matters.</p>
+
+
+
+<p class="wp-block-paragraph">Axe-core is, of course, not the entire answer. It’s a great baseline for accessibility, but it doesn’t make you accessible. For that, you need purpose-built tools and manual testing. Achieving accessibility compliance is a larger process. But ultimately, it’s not really about the number of downloads after all. It’s the energy behind those downloads. That’s what we’re celebrating today. Because every time someone downloads Axe-core because they want to make something accessible, that’s one more step toward achieving our mission of digital equality.</p>
+<p>The post <a href="https://www.deque.com/blog/axe-core-at-5-billion-accessibility-meets-the-moment/">Axe-core at 5 billion: Accessibility meets the moment</a> appeared first on <a href="https://www.deque.com">Deque</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://accessibility.deque.com/hubfs/AI-Generated%20Media/Remix%20Audio/Axe-core%20at%205%20billion%20Accessibility%20meets%20the%20moment.mp3" length="5452416" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>The anatomy of accessible forms: Required form fields</title>
+		<link>https://www.deque.com/blog/anatomy-of-accessible-forms-required-form-fields/</link>
+		
+		<dc:creator><![CDATA[Aparna Pasi]]></dc:creator>
+		<pubDate>Thu, 06 Aug 2026 15:47:31 +0000</pubDate>
+				<category><![CDATA[A11y for developers]]></category>
+		<category><![CDATA[Accessibility best practices]]></category>
+		<category><![CDATA[accessible forms]]></category>
+		<category><![CDATA[accessible required form field]]></category>
+		<guid isPermaLink="false">http://www.deque.com/?p=23634</guid>
+
+					<description><![CDATA[<p>Creating accessible forms ensures your forms are accessible to all users while meeting standards like ADA, WCAG, and EAA compliance.</p>
+<p>The post <a href="https://www.deque.com/blog/anatomy-of-accessible-forms-required-form-fields/">The anatomy of accessible forms: Required form fields</a> appeared first on <a href="https://www.deque.com">Deque</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Accessible forms are essential for creating an inclusive digital experience, ensuring that all users—including those with disabilities—can easily complete and submit information. Well-designed forms improve usability, making it easier for individuals to navigate fields, understand labels, and avoid errors.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Beyond enhancing user functionality, accessible forms are also a key requirement for compliance with regulations such as <a href="https://www.deque.com/european-accessibility-act-eaa-compliance/">the European Accessibility Act (EAA)</a>, <a href="https://www.deque.com/accessibility-compliance/ada/">the Americans with Disabilities Act (ADA)</a>, and <a href="https://www.deque.com/accessibility-compliance/wcag/">the Web Content Accessibility Guidelines (WCAG)</a>. Organizations that fail to meet these standards risk legal consequences, reputational damage, and lost business opportunities. By prioritizing accessibility in form design, businesses can improve user engagement, expand their audience, and demonstrate a commitment to digital inclusivity.</p>
+
+
+
+<h2 class="wp-block-heading">How accessible web forms (or inaccessible web forms) can affect your daily life</h2>
+
+
+
+<p class="wp-block-paragraph">Last month, I was booking a rental car for a trip. Simple task, I thought. I picked my dates, chose a car, and got to the driver details page. I filled everything in, hit Continue, and got bounced back with a vague banner at the top of the page: “Please correct the errors below.” No errors were visibly marked. I scrolled up and down twice before I noticed my zip code field had quietly turned a faint shade of pink.</p>
+
+
+
+<p class="wp-block-paragraph">There was no indication that the field was required. No indication before I started, no flag when I skipped it. The only clue was a barely-there color shift that I almost missed—and I have great eyesight and was under no time pressure. At that moment, I realized again how much is often taken for granted when forms are designed.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">If a color hint was subtle enough that it escaped me, imagine the situation for a screen-reader user, someone with low vision, or anyone who was just trying to get through the form quickly on their phone!</p>
+
+
+
+<h2 class="wp-block-heading">Methods for indicating a required field</h2>
+
+
+
+<p class="wp-block-paragraph">These six methods run the gamut from ideal to “make sure to combine this with another method” to “please don’t do this.” Let’s start with a method that is very reliable, if not particularly elegant.</p>
+
+
+
+<h3 class="wp-block-heading">Provide the required text in the label</h3>
+
+
+
+<p class="wp-block-paragraph">For this method, users of assistive technology (and users who don’t!) will know which form control is required because it is exposed through the label. It involves simply putting the word “required” right in the visible label text.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Syntax</strong></p>
+
+
+
+<pre class="wp-block-preformatted">&lt;label for="fname"&gt;First Name Required&lt;/label&gt;
+&lt;input type="text" name="first-name" id="fname"&gt;</pre>
+
+
+
+<p class="wp-block-paragraph"><strong>Preview</strong></p>
+
+
+
+<p class="wp-block-paragraph"><code><label for="fname">First Name Required</label><br>
+<input id="fname" name="first-name" type="text"></code></p>
+
+
+
+<p class="wp-block-paragraph">Because the word lives inside the label, every user gets it, whether they’re using a screen reader or not. There’s no dependency on symbols, color, or verbosity settings. It’s not the prettiest option—which probably explains why designers keep searching out other approaches—but it’s very reliable.</p>
+
+
+
+<h3 class="wp-block-heading">Provide an asterisk</h3>
+
+
+
+<p class="wp-block-paragraph">The asterisk is still the industry default, and it’s an acceptable approach, as long as you handle two details that often get skipped.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">First, tell users up front, before the form starts, that fields marked with an asterisk are required. Second, know that screen readers don’t always announce the “*” symbol; it depends on the user’s punctuation verbosity setting. If users have it set to announce “some” or “none” punctuation, your asterisk will silently disappear for them.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Syntax</strong></p>
+
+
+
+<pre class="wp-block-preformatted">&lt;p>All fields marked with (*) are required&lt;/p><br>&lt;label for="first-name">First Name *&lt;/label><br>&lt;input type="text" id="first-name" name="first-name"></pre>
+
+
+
+<p class="wp-block-paragraph"><strong>Preview</strong></p>
+
+
+
+<p class="wp-block-paragraph">All fields marked with * are required</p>
+
+
+
+<p class="wp-block-paragraph"><label for="first-name">First Name *</label><br>
+<input id="first-name" name="first-name" type="text"></p>
+
+
+
+<p class="wp-block-paragraph">Because of that verbosity issue, you should treat the asterisk as a visual convenience, and not as your only accessibility mechanism. For example, you can pair it with something programmatic (see method 4). Also, make sure the asterisk is visually large enough to be seen; default browser rendering is often too small to register at a glance.</p>
+
+
+
+<h3 class="wp-block-heading">Provide a graphic asterisk with real alt text</h3>
+
+
+
+<p class="wp-block-paragraph">Some design systems prefer a small icon over a plain character. That’s fine too, as long as the image carries meaningful alt text rather than being decorative.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Syntax</strong></p>
+
+
+
+<pre class="wp-block-preformatted">&lt;label for="fname"> First Name &lt;img src="required-icon.svg" alt="required">&lt;/label><br>&lt;input type="text" name="first-name" id="fname"></pre>
+
+
+
+<p class="wp-block-paragraph">This works well, because the label and the image are still programmatically tied to the input.</p>
+
+
+
+<h3 class="wp-block-heading">Providing HTML5 and ARIA Required Attributes</h3>
+
+
+
+<p class="wp-block-paragraph">This is where markup earns its keep. Add the HTML5 required attribute, or aria-required=&#8221;true&#8221; for custom or scripted controls, and assistive technology will announce the field as required automatically.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Syntax</strong></p>
+
+
+
+<pre class="wp-block-preformatted">&lt;label for="email">Email&lt;/label><br>&lt;input type="email" id="email" name="email" required></pre>
+
+
+
+<p class="wp-block-paragraph"><strong>Preview</strong></p>
+
+
+
+<p class="wp-block-paragraph"><label for="email">Email</label><br>
+<input type="email" id="email" name="email" required=""></p>
+
+
+
+<p class="wp-block-paragraph">One thing worth knowing: when required is present, most screen readers will also announce the field as “invalid” until it’s filled in. That’s expected behavior, not a bug, but it does mean you shouldn’t rely on this attribute alone without including a visible cue as well. Sighted users still need to see it, not just have it announced.</p>
+
+
+
+<h3 class="wp-block-heading">Provide color alone (this is the one to retire!)</h3>
+
+
+
+<p class="wp-block-paragraph">This approach is still prevalent (using color alone to indicate when a field is empty or required), and it’s still a problem. It fails outright for colorblind users, low-vision users, and anyone with a cognitive disability who needs more than a subtle hue shift to register meaning.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">My rental car experience that I shared above is a perfect example. If color is part of your visual language, you can certainly keep it, but it should never be the only signal. Pair it with text, an icon, or both.</p>
+
+
+
+<h2 class="wp-block-heading">What’s new since we last wrote about required form fields</h2>
+
+
+
+<p class="wp-block-paragraph">Here are a few things to consider as you’re thinking about required form fields in 2026:</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Redundant entry is now a WCAG 2.2 success criterion</strong>. If you already know someone’s shipping address from a previous step, don’t force them to retype it into a “required” field further down the form. This isn’t strictly about labeling required fields, but it’s very much in the same spirit—don’t make required fields harder to satisfy than they need to be.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Inline validation is everywhere (and it’s easy to make it worse rather than better)</strong>. AI-assisted, real-time validation that catches typos and flags missing fields as people type is a genuine trend in form design right now. Done well, it can help everyone finish faster. But when it’s too aggressive, it interrupts screen-reader users with error announcements before they’ve even finished typing. The better approach is to:&nbsp;</p>
+
+
+
+<ol class="wp-block-list">
+<li>validate on blur (not on every keystroke), </li>
+
+
+
+<li>pair the error with aria-invalid=&#8221;true&#8221; and aria-describedby pointing at the message, and </li>
+
+
+
+<li>offer a summary of all errors at the top of the submission. </li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">Required-field errors should read like “Email address is required,” never “Invalid input.”</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Regulators are paying closer attention</strong>. <a href="https://www.deque.com/accessibility-compliance/en-301-549/">EN 301 549</a>, the technical standard for the <a href="https://www.deque.com/accessibility-compliance/european-accessibility-act-eaa/">EAA</a>, still points to WCAG 2.1 AA as its floor. However, WCAG 2.2 is increasingly treated as the practical target, and enforcement bodies across the EU are actively building out audit and complaint processes this year. If your forms are still relying on color alone or unlabeled asterisks, now is the time to fix it, so you can stay ahead of regulatory scrutiny.</p>
+
+
+
+<h2 class="wp-block-heading">Getting required form fields right</h2>
+
+
+
+<p class="wp-block-paragraph">Building accessible forms is ultimately pretty straightforward. Tell people which fields are required before they start, not after they fail. Communicate this with words somewhere, not just with color or a symbol. Back this up with required or aria-required attributes so assistive technology also gets the message. And when someone does miss a field, communicate clearly what went wrong and where.</p>
+
+
+
+<p class="wp-block-paragraph">A required form field may be a small piece of a larger form, but it’s also often the difference between someone completing their task and someone giving up and going elsewhere. In my situation with the car rental company, I did find the pink zip code field eventually, but not everyone would have. In that case, it’s quite likely they would have taken their rental car booking to a competitor without so much as a second thought.</p>
+
+
+
+<p class="wp-block-paragraph">Getting required form fields right can make all the difference when it comes to meeting compliance requirements and ensuring your products, services, and experiences are accessible to everyone, including people with disabilities.</p>
+
+
+
+<p class="wp-block-paragraph">If you have questions about accessible forms or want expert guidance on meeting consumer and compliance expectations, <a href="https://accessibility.deque.com/contact">contact Deque today</a>!</p>
+<p>The post <a href="https://www.deque.com/blog/anatomy-of-accessible-forms-required-form-fields/">The anatomy of accessible forms: Required form fields</a> appeared first on <a href="https://www.deque.com">Deque</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>New in Axe MCP Server: More automated coverage and streamlined developer workflows</title>
+		<link>https://www.deque.com/blog/new-in-axe-mcp-server-more-automated-coverage-and-streamlined-developer-workflows/</link>
+		
+		<dc:creator><![CDATA[Harris Schneiderman]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2026 11:23:58 +0000</pubDate>
+				<category><![CDATA[A11y for developers]]></category>
+		<category><![CDATA[Company news and updates]]></category>
+		<category><![CDATA[axe DevTools]]></category>
+		<category><![CDATA[axe MCP Server]]></category>
+		<category><![CDATA[Intelligent Guided Tests]]></category>
+		<guid isPermaLink="false">https://www.deque.com/?p=61604</guid>
+
+					<description><![CDATA[<p>Automated accessibility testing helps teams catch issues earlier in the development workflow and reduce manual effort. However, some of the most complex accessibility checks have traditionally required guided or manual testing. With the latest Axe MCP Server updates, your developers can now automate even more accessibility testing directly inside their coding workflows.</p>
+<p>The post <a href="https://www.deque.com/blog/new-in-axe-mcp-server-more-automated-coverage-and-streamlined-developer-workflows/">New in Axe MCP Server: More automated coverage and streamlined developer workflows</a> appeared first on <a href="https://www.deque.com">Deque</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">AI coding assistants are helping developers write software faster than ever before. Claude Code alone was <a href="https://ppc.land/claude-code-reaches-115-000-developers-processes-195-million-lines-weekly/" target="_blank" rel="noreferrer noopener">producing approximately 195 million lines of code every week</a> for more than 115,000 developers as of mid-2025.</p>
+
+
+
+<p class="wp-block-paragraph">Those are impressive numbers, but volume alone isn’t enough. Your team also needs to make certain the code they&#8217;re shipping is accessible so they can meet compliance requirements, ensure your product can be used by everyone, and reduce costly rework down the line. As AI accelerates development, accessibility testing has to keep pace or accessibility debt can accumulate quickly.</p>
+
+
+
+<p class="wp-block-paragraph">Since launching <a href="https://www.deque.com/axe/mcp-server/" target="_blank" rel="noreferrer noopener">Axe MCP Server</a>, we’ve been working to make our industry-leading accessibility testing as seamless as possible. These latest updates expand what your developers can test directly inside their IDEs, streamline remediation workflows, and make it easier for engineering organizations to adopt accessibility testing at scale.</p>
+
+
+
+<p class="wp-block-paragraph">Let&#8217;s look at what&#8217;s new with the Axe MCP Server in <a href="https://www.deque.com/axe/devtools/web-accessibility/" target="_blank" rel="noreferrer noopener">Axe DevTools for Web</a>.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a>Increase automated accessibility coverage of complex accessibility issues without leaving your workflow</h2>
+
+
+
+<p class="wp-block-paragraph">Automated accessibility testing helps teams catch issues earlier in the development workflow and reduce manual effort. However, some of the most complex accessibility checks have traditionally required guided or manual testing.</p>
+
+
+
+<p class="wp-block-paragraph">With the latest Axe MCP Server updates, your developers can now automate even more accessibility testing directly inside their coding workflows. We&#8217;ve added support for <a href="https://docs.deque.com/devtools-server/4.0.0/en/axe-mcp-server-1-3-0" target="_blank" rel="noreferrer noopener">Automated Intelligent Guided Tests (IGTs)</a>, beginning with the keyboard IGT, with plans to continue expanding automated IGT coverage. We&#8217;ve also <a href="https://docs.deque.com/devtools-server/4.0.0/en/axe-mcp-server-1-4-0" target="_blank" rel="noreferrer noopener">added advanced rules </a>that automatically test for issues like heading semantics, focus indicators, text contrast, and decorative images.</p>
+
+
+
+<p class="wp-block-paragraph">Governance is also supported with these new capabilities. Admins can enforce things such as WCAG level, and even confidence threshold for advanced rules across users to ensure consistency across the organization’s outputs.</p>
+
+
+
+<p class="wp-block-paragraph">These enhancements increase automated coverage, reduce even more manual effort, and make it easier than ever for your team to adopt accessibility testing seamlessly into their processes and reduce late-stage, costly rework.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a>Test more of your application—including authenticated experiences</h2>
+
+
+
+<p class="wp-block-paragraph">Many accessibility issues don&#8217;t exist on public landing pages. They occur inside authenticated user flows, dynamic interfaces, and interactive application states that traditional page scans often miss because they don’t have access.</p>
+
+
+
+<p class="wp-block-paragraph">The Axe MCP Server now enables your developers to test these more complex experiences directly from their IDE. With support for cookie injection, developers can inject session- or environment-specific cookies before navigation to test authenticated experiences, staging environments, or feature-specific builds from the very first page request. By expanding testing beyond public pages, teams can evaluate accessibility across the parts of an application users actually interact with every day.</p>
+
+
+
+<p class="wp-block-paragraph">The result is more complete accessibility coverage and greater confidence that issues aren&#8217;t being overlooked because they exist behind a login or within dynamic content.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a>Make accessibility testing easier to adopt across your organization</h2>
+
+
+
+<p class="wp-block-paragraph">Even the most powerful developer tools won&#8217;t deliver value if they&#8217;re difficult to install, authenticate, or maintain.</p>
+
+
+
+<p class="wp-block-paragraph">To simplify adoption, the Axe MCP Server can now be installed and run locally using npx, eliminating the need for Docker and allowing your developers to start testing within minutes.</p>
+
+
+
+<p class="wp-block-paragraph">Developers can now authenticate via OAuth 2.0 instead of manually managing an API key. Credentials are stored securely, Axe MCP Server access is handled automatically with short-lived tokens, and API keys remain available for teams that prefer them.</p>
+
+
+
+<p class="wp-block-paragraph">These improvements reduce setup time for developers while making it easier for platform and engineering teams to roll out accessibility testing consistently across your organization and deliver more accessible experiences at scale.</p>
+
+
+
+<p class="wp-block-paragraph">Accelerate remediation with more targeted workflows</p>
+
+
+
+<p class="wp-block-paragraph">New scoped scanning allows you to target individual components or specific regions of a page, making testing more focused and relevant to the task at hand, and eliminating the need to sort through results from the entire application. Additionally, the Axe MCP Server can also optionally return a viewport screenshot to your agent so you can see what was scanned.</p>
+
+
+
+<p class="wp-block-paragraph">We&#8217;ve also introduced batch remediation, providing guidance to your AI agent on how to remediate up to 25 accessibility issues in a single request rather than requiring separate requests for each issue.</p>
+
+
+
+<p class="wp-block-paragraph">Together, these capabilities reduce repetitive work, streamline remediation workflows, and help your developers resolve accessibility issues faster with fewer interruptions.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a>Bring AI-assisted accessibility testing to secure enterprise environments</h2>
+
+
+
+<p class="wp-block-paragraph">Many enterprise organizations can&#8217;t deploy SaaS-based tooling because of security, compliance, or infrastructure requirements.</p>
+
+
+
+<p class="wp-block-paragraph">The Axe MCP Server now allows on-prem customers to use an LLM they manage to access AI features, allowing your organization to bring industry-leading accessibility testing into your existing development environments without changing your deployment strategy.</p>
+
+
+
+<p class="wp-block-paragraph">This gives enterprise teams the flexibility to adopt modern AI-powered accessibility workflows while meeting the organization&#8217;s security and compliance requirements.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a>Make accessibility a seamless part of AI-assisted development with the Axe MCP Server</h2>
+
+
+
+<p class="wp-block-paragraph">These latest Axe MCP Server enhancements are designed around a simple goal: helping engineering teams integrate accessibility into your AI development workflows without slowing you down.</p>
+
+
+
+<p class="wp-block-paragraph">By increasing automated accessibility coverage, expanding testing to authenticated experiences, simplifying adoption, accelerating remediation, and supporting enterprise deployment models, Axe MCP Server helps your teams catch more accessibility issues earlier, resolve them faster, and confidently build accessible software as you develop with AI.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://accessibility.deque.com/request-a-demo" target="_blank" rel="noreferrer noopener"><strong>Request a demo</strong></a> to see the new Axe MCP Server features in action! </p>
+
+
+
+<p class="wp-block-paragraph">Already an Axe DevTools for Web customer? <a href="https://docs.deque.com/devtools-server/4.0.0/en/axe-mcp-server#the-igt-tool">Try the keyboard-automated IGT <strong>now available</strong></a> via Axe MCP Server today!</p>
+<p>The post <a href="https://www.deque.com/blog/new-in-axe-mcp-server-more-automated-coverage-and-streamlined-developer-workflows/">New in Axe MCP Server: More automated coverage and streamlined developer workflows</a> appeared first on <a href="https://www.deque.com">Deque</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Use the Axe Monitor MCP integration within your preferred AI assistant to accelerate issue prioritization</title>
+		<link>https://www.deque.com/blog/use-the-axe-monitor-mcp-integration-within-your-preferred-ai-assistant-to-accelerate-issue-prioritization/</link>
+		
+		<dc:creator><![CDATA[Kate Spalla]]></dc:creator>
+		<pubDate>Thu, 30 Jul 2026 11:57:11 +0000</pubDate>
+				<category><![CDATA[A11y for developers]]></category>
+		<category><![CDATA[Company news and updates]]></category>
+		<category><![CDATA[Agentic AI]]></category>
+		<category><![CDATA[axe monitor]]></category>
+		<guid isPermaLink="false">https://www.deque.com/?p=61505</guid>
+
+					<description><![CDATA[<p>Now, by using our new Axe Monitor MCP integration within your preferred AI assistant, you can use natural language prompts to dramatically speed up the process of creating and comparing scans, prioritizing fixes, and building and delivering actionable accessibility sprint plans.</p>
+<p>The post <a href="https://www.deque.com/blog/use-the-axe-monitor-mcp-integration-within-your-preferred-ai-assistant-to-accelerate-issue-prioritization/">Use the Axe Monitor MCP integration within your preferred AI assistant to accelerate issue prioritization</a> appeared first on <a href="https://www.deque.com">Deque</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-audio"><audio controls src="https://accessibility.deque.com/hubfs/AI-Generated%20Media/Remix%20Audio/Use%20the%20Axe%20Monitor%20MCP%20integration%20within%20your%20preferred%20AI%20assistant%20to%20accelerate%20issue%20prioritization..mp3"></audio><figcaption class="wp-element-caption">Listen to this article</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">For accessibility program managers, it’s essential to identify what matters most and prioritize fixes that engineering teams can realistically address. That’s how you make real progress.</p>
+
+
+
+<p class="wp-block-paragraph">Now, by using our new Axe Monitor MCP integration within your preferred AI assistant, you can use natural language prompts to dramatically speed up the process of creating and comparing scans, prioritizing fixes, and building and delivering actionable accessibility sprint plans.</p>
+
+
+
+<p class="wp-block-paragraph">Here are four ways you can optimize accessibility remediation using the Axe Monitor MCP integration.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://accessibility.deque.com/request-a-demo" target="_blank" rel="noreferrer noopener">Request a demo of the Axe Monitor MCP integration today!</a></p>
+
+
+
+<h2 class="wp-block-heading"><a></a>1. Compare scan run results and identify regressions in seconds</h2>
+
+
+
+<p class="wp-block-paragraph">The first question you need answered after every scan run is, “What&#8217;s changed?”</p>
+
+
+
+<p class="wp-block-paragraph">In a traditional user interface, you need to manually open multiple reports, compare historical data, and analyze results— that’s an exhausting process.</p>
+
+
+
+<p class="wp-block-paragraph">With the Axe Monitor MCP integration, you can simply ask your questions directly and explore your scan data without leaving your AI workflow. Instead of navigating dashboards and exporting spreadsheets, ask questions like:</p>
+
+
+
+<ul class="wp-block-list">
+<li>What changed between the last two scan runs?</li>
+
+
+
+<li>Which components or pages introduced the most new issues?</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">The MCP integration surfaces answers—what’s changed, and why—directly inside your AI assistant, eliminating the labor-intensive data analysis that slows down fixes. Rather than spending time tracking down information, your team can immediately begin acting on it.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.deque.com/wp-content/uploads/2026/07/Product-Illustrations__MONITOR-07-1024x683.png" alt="Product Illustrations MONITOR 07" class="wp-image-61511" srcset="https://www.deque.com/wp-content/uploads/2026/07/Product-Illustrations__MONITOR-07-1024x683.png 1024w, https://www.deque.com/wp-content/uploads/2026/07/Product-Illustrations__MONITOR-07-300x200.png 300w, https://www.deque.com/wp-content/uploads/2026/07/Product-Illustrations__MONITOR-07-768x512.png 768w, https://www.deque.com/wp-content/uploads/2026/07/Product-Illustrations__MONITOR-07-1536x1024.png 1536w, https://www.deque.com/wp-content/uploads/2026/07/Product-Illustrations__MONITOR-07-2048x1366.png 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading"><a></a>2. Prioritize what matters the most</h2>
+
+
+
+<p class="wp-block-paragraph">Teams are rarely able to fix every accessibility issue immediately in a single release, so it’s important to focus on fixing the right issues first. You need your team’s expertise, but you also need to help them fix issues more easily.</p>
+
+
+
+<p class="wp-block-paragraph">The Axe Monitor MCP Server complements human judgment, allowing you to quickly answer prioritization questions that typically require hours of analysis.</p>
+
+
+
+<p class="wp-block-paragraph">For example, you can ask:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Which components or selectors should I fix first to make the most impact on accessibility?</li>
+
+
+
+<li>Which pages have the most accessibility issues?</li>
+
+
+
+<li>My team is building new features on the registration page and contact us page next sprint. Which accessibility issues should they fix at the same time?</li>
+
+
+
+<li>My highest-trafficked pages are the account dashboard and activity view. Which accessibility issues should I fix first?</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">The insights you get in response can help you focus your developers’ and designers’ efforts ahead of upcoming sprints, so that accessibility issues are incorporated with current work, or grouped for efficiency. That’s how you can make meaningful progress with accessibility—by integrating fixes with existing tools and processes.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">3. Speed up the handoff to development with actionable accessibility sprint plans</h2>
+
+
+
+<p class="wp-block-paragraph">Once you&#8217;ve prioritized fixes, the next challenge is to deliver an actionable plan to the team.</p>
+
+
+
+<p class="wp-block-paragraph">The Axe Monitor MCP integration can help model remediation scenarios and generate feasible sprint plans based on your team&#8217;s goals.</p>
+
+
+
+<p class="wp-block-paragraph">For example, you might ask for a sprint plan to fix:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Only the new issues since the last scan run</li>
+
+
+
+<li>The most important component-related issues</li>
+
+
+
+<li>Accessibility issues on the features we’re delivering in the next release</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Tell the agent, “I need full issue details so my team knows exactly what to fix and where.”</p>
+
+
+
+<p class="wp-block-paragraph">Or, use the Axe Monitor MCP integration to model different planning scenarios for achieving your goals. Ask the agent: ”How can we get to a score of 80% in 3 sprints?”</p>
+
+
+
+<p class="wp-block-paragraph">Instead of manually organizing hundreds or thousands of issues, the Axe Monitor MCP integration helps transform scan results into a clear, understandable remediation plan, organized by sprints and maintainable within your AI workflow.</p>
+
+
+
+<p class="wp-block-paragraph">Natural-language sprint plans make accessibility progress more attainable. The development team can envision what success actually looks like in the near future, and understand the small, manageable steps they need to take.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.deque.com/wp-content/uploads/2026/07/Product-Illustrations__MONITOR-08-1024x683.png" alt="Product Illustrations MONITOR 08" class="wp-image-61513" srcset="https://www.deque.com/wp-content/uploads/2026/07/Product-Illustrations__MONITOR-08-1024x683.png 1024w, https://www.deque.com/wp-content/uploads/2026/07/Product-Illustrations__MONITOR-08-300x200.png 300w, https://www.deque.com/wp-content/uploads/2026/07/Product-Illustrations__MONITOR-08-768x512.png 768w, https://www.deque.com/wp-content/uploads/2026/07/Product-Illustrations__MONITOR-08-1536x1024.png 1536w, https://www.deque.com/wp-content/uploads/2026/07/Product-Illustrations__MONITOR-08-2048x1366.png 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading"><a></a>4. Save even more time by creating scans in bulk</h2>
+
+
+
+<p class="wp-block-paragraph">The Axe Monitor MCP integration also helps streamline scan management by enabling you to create scans in bulk.</p>
+
+
+
+<p class="wp-block-paragraph">Designated administrators can create draft scans, adjust settings, and kick off scan runs directly within their AI assistant. This reduces repetitive configuration work.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a>Get started with the Axe Monitor MCP integration</h2>
+
+
+
+<p class="wp-block-paragraph">Accessibility teams need faster ways to turn accessibility data into meaningful action.</p>
+
+
+
+<p class="wp-block-paragraph">Instead of spending hours interpreting scan results and configuring reports by yourself, your organization can focus on what matters most—becoming more accessible to people with disabilities.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Already using Axe Monitor?</strong> Upgrade to Axe Monitor 8.8 and <a href="https://accessibility.deque.com/axe-monitor-mcp-integration" target="_blank" rel="noreferrer noopener">fill out this form to request access</a> to the Axe Monitor MCP Server to start analyzing accessibility data through your preferred AI assistant.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>New to Axe Monitor?</strong> <a href="https://accessibility.deque.com/request-a-demo" target="_blank" rel="noreferrer noopener">Request a demo</a> to see how AI-assisted reporting can help your team analyze trends, prioritize remediation, and accelerate accessibility improvements.</p>
+<p>The post <a href="https://www.deque.com/blog/use-the-axe-monitor-mcp-integration-within-your-preferred-ai-assistant-to-accelerate-issue-prioritization/">Use the Axe Monitor MCP integration within your preferred AI assistant to accelerate issue prioritization</a> appeared first on <a href="https://www.deque.com">Deque</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://accessibility.deque.com/hubfs/AI-Generated%20Media/Remix%20Audio/Use%20the%20Axe%20Monitor%20MCP%20integration%20within%20your%20preferred%20AI%20assistant%20to%20accelerate%20issue%20prioritization..mp3" length="6142080" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>For your business to thrive in the agentic AI era, treat accessibility as foundational to your AI strategy</title>
+		<link>https://www.deque.com/blog/for-your-business-to-thrive-in-the-agentic-ai-era-treat-accessibility-as-foundational-to-your-ai-strategy/</link>
+		
+		<dc:creator><![CDATA[Preety Kumar]]></dc:creator>
+		<pubDate>Wed, 29 Jul 2026 10:51:43 +0000</pubDate>
+				<category><![CDATA[Accessibility best practices]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Web Accessibility]]></category>
+		<guid isPermaLink="false">https://www.deque.com/?p=61430</guid>
+
+					<description><![CDATA[<p>You need to build accessibility into how AI writes code from the first prompt, not fix it after the fact. And because the disability community has been perfecting human-computer interaction for different input and output modalities for decades, their expertise isn't just morally important; it's technically essential for building robust, reliable AI that actually works.</p>
+<p>The post <a href="https://www.deque.com/blog/for-your-business-to-thrive-in-the-agentic-ai-era-treat-accessibility-as-foundational-to-your-ai-strategy/">For your business to thrive in the agentic AI era, treat accessibility as foundational to your AI strategy</a> appeared first on <a href="https://www.deque.com">Deque</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-audio"><audio controls src="https://accessibility.deque.com/hubfs/AI-Generated%20Media/Remix%20Audio/For%20your%20business%20to%20thrive%20in%20the%20agentic%20AI%20era%2c%20treat%20accessibility%20as%20foundational%20to%20your%20AI%20strategy.mp3"></audio><figcaption class="wp-element-caption">Listen to this article</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">Digital accessibility experts and advocates have spent more than two decades making the case that digital accessibility is not optional. Our arguments have rested on a combination of compliance, ethics, and the sheer size of the audience organizations were excluding. Today, this argument has a new dimension, introduced by the rapid rise of AI.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a>AI agents and the accessibility tree</h2>
+
+
+
+<p class="wp-block-paragraph">We know that today&#8217;s web is actively being rebuilt around AI agents: tools that browse, click, fill out forms, and complete tasks on a person&#8217;s behalf. As recently <a href="https://www.cnet.com/tech/services-and-software/bots-now-outnumber-humans-on-the-internet-heres-what-that-actually-means/" target="_blank" rel="noreferrer noopener">reported by CNET</a>, agentic AI bots now account for more web requests globally than humans do.</p>
+
+
+
+<p class="wp-block-paragraph">What is less well-known is that the infrastructure making this possible is the same infrastructure accessibility teams have been building for years: a structure comprising semantic HTML, ARIA attributes, and WCAG (Web Content Accessibility Guidelines) conformance. Neil Patel addresses this convergence in his recent video &#8220;<a href="https://youtu.be/z9WbRkiRQtc?si=WMuWiG8tBeCnlakm&amp;t=275" target="_blank" rel="noreferrer noopener">The Marketing Opportunity of a Decade (But Not for Long)</a>,&#8221; breaking down how AI shopping agents evaluate a website and pointedly observing that &#8220;Accessibility for humans became visibility for AI.&#8221;</p>
+
+
+
+<p class="wp-block-paragraph">AI agents perceive web pages in essentially the same way as screen readers. To truly understand the full significance of this, we need look no further than the definitive force in search and AI summaries. Google. A recent Chrome for Developers article on <a href="https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring#agent-centric_accessibility" target="_blank" rel="noreferrer noopener">Lighthouse agentic browsing scoring</a> lays things out clearly, referring to the accessibility tree as “a core metric for agentic navigation,” and establishing that “agents rely on the accessibility tree as their primary data model.” They go on to clarify that visibility—”a specific subset of accessibility audits that are critical for machine interaction”—is about “confirming that content is not hidden from the accessibility tree while being interactive.” Their recommendation? “Ensure a sound accessibility tree.”</p>
+
+
+
+<p class="wp-block-paragraph">What is unmistakable is that digital accessibility has never been more important, and we now have even more reasons why the web must be accessible to all.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a>AI and accessibility: Identifying the gaps</h2>
+
+
+
+<p class="wp-block-paragraph">Given this new reality, you&#8217;d think digital accessibility would be priority number one for every developer and every engineering leader at every organization with digital properties. Unfortunately, that doesn&#8217;t seem to be the case.</p>
+
+
+
+<p class="wp-block-paragraph">According to <a href="https://webaim.org/projects/million/" target="_blank" rel="noreferrer noopener">WebAIM&#8217;s 2026 Million report</a>, 95.9% of home pages now contain detectable accessibility failures. That number has gotten worse for the first time in six years.</p>
+
+
+
+<p class="wp-block-paragraph">Meanwhile, engineering leaders trust their AI-generated code. In our own survey of 200 engineering leaders using AI-generated code and coding agents, 88% said they trust their AI-generated code is accessible, and 96% said they actively prompt their AI agents to produce accessible output.</p>
+
+
+
+<p class="wp-block-paragraph">The code itself doesn&#8217;t back up that trust. In <a href="https://microsoft.github.io/a11y-llm-eval-report/" target="_blank" rel="noreferrer noopener">Microsoft&#8217;s evaluation framework</a>, six of 10 AI models failed every automated accessibility test. In the GAAD Foundation&#8217;s <a href="https://aimac.ai/" target="_blank" rel="noreferrer noopener">AIMAC benchmark</a>, 35 of 37 leading AI models produced multiple critical and serious accessibility issues by default.</p>
+
+
+
+<p class="wp-block-paragraph">The same pattern shows up after code ships. <a href="https://accessibility.deque.com/debt-to-dividend-guide" target="_blank" rel="noreferrer noopener">64%</a> of engineering leaders say accessibility issues are a top reason for reworking code after release. <a href="https://accessibility.deque.com/debt-to-dividend-guide" target="_blank" rel="noreferrer noopener">72%</a> say AI-assisted development has increased their compliance risk. But when the same leaders <a href="https://accessibility.deque.com/debt-to-dividend-guide" target="_blank" rel="noreferrer noopener">rank their compliance concerns</a>, accessibility comes last.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a>AI and accessibility: Closing the gaps</h2>
+
+
+
+<p class="wp-block-paragraph">None of this means the moment is lost. It means the opportunity is still wide open, and the organizations that close this gap now, before it becomes standard practice, get to lead rather than catch up. The data backs this up: catching an accessibility issue at the design stage costs around $21 and takes less than 15 minutes. Catching that same issue after it reaches production costs over $637, a 30x increase. For a mid-size organization, shifting that work earlier can save more than a million dollars a year.</p>
+
+
+
+<p class="wp-block-paragraph">The takeaway is clear: you need to build accessibility into how AI writes code from the first prompt, not fix it after the fact. And because the disability community has been perfecting human-computer interaction for different input and output modalities for decades, their expertise isn&#8217;t just morally important; it&#8217;s technically essential for building robust, reliable AI that actually works. Let&#8217;s not forget the &#8220;accessibility&#8221; in the accessibility tree!</p>
+
+
+
+<h2 class="wp-block-heading"><a></a>AI that works</h2>
+
+
+
+<p class="wp-block-paragraph">When I say &#8220;AI that works,&#8221; I&#8217;m talking about trust. About code you can rely on. This is mission-critical for agentic AI. How can we hand over responsibility for our tasks to an agent, if we can&#8217;t trust that the agent will perform its tasks accurately and correctly—or even get started, getting lost in the maze of bad markup? The answer is: we can&#8217;t. And the answer is the same for everyone—not only people with disabilities. Clear structure, plain labels, and robust and predictable behavior make a page easier for a screen reader to read. They also make it easier for an AI agent to read. And the easier it is for the AI agent to read, the more likely it is to perform its task correctly.</p>
+
+
+
+<p class="wp-block-paragraph">When a person with a disability can&#8217;t process a web page, we know what could happen. They might have a frustrating experience that results in the business losing a customer when they abandon the page. They may become frustrated and leave a complaint or a negative review, which can damage brand reputation. They may enter incorrect information without realizing it, or forfeit their privacy rights to get past accessibility barriers, and require someone on the support team to fix it by hand. There are very real time and money costs associated with all these outcomes. In some cases, they may file a legal complaint, and an organization could have a lawsuit to contend with. Inaccessibility means risk.</p>
+
+
+
+<p class="wp-block-paragraph">There are also real-world risks if an AI agent can&#8217;t process a page. The agent may abandon the task, or the task may fail outright. It may fall back to reading a screenshot instead of the page&#8217;s underlying structure, which is slower and less accurate. It may fill in what it couldn&#8217;t read with a guess instead of a fact, and that guess can look exactly like a correct answer: an order placed, a form submitted, a decision made, all based on an AI hallucination. And because an agent can repeat that mistake across many transactions in the time it takes a person to make one, the same error scales far faster than a single human issue ever could.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a>New solutions for the agentic AI era</h2>
+
+
+
+<p class="wp-block-paragraph">Agentic AI may be new, but these problems aren&#8217;t. We&#8217;ve been developing solutions for them for thirty years. And we can solve these issues for the agentic AI era. We have the lived experience of people with disabilities and the expertise of advocates, allies, and practitioners. We have the tools, technologies, and data. We have the regulations, standards, and guidelines. We have everything we need.</p>
+
+
+
+<p class="wp-block-paragraph">Everything we need, except one thing: alignment. We need uniform buy-in at every level, from the leadership teams making company-wide investments in AI to the development teams who are producing new code every minute of every day. We need everyone to align on the mandatory embrace of digital accessibility.</p>
+
+
+
+<p class="wp-block-paragraph">This is the real choice facing every organization building with AI right now. Treat accessibility as foundational to your AI strategy, and you have a genuine opportunity for your business to thrive in the agentic AI era and lead the market while doing so.</p>
+
+
+
+<p class="wp-block-paragraph">We go deeper into what that opportunity looks like in our new report, <a href="https://accessibility.deque.com/debt-to-dividend-guide" target="_blank" rel="noreferrer noopener"><em>From debt to dividend: How engineering leaders can advance accessibility in the AI era</em></a>. It&#8217;s a practical guide for integrating AI to achieve and maintain compliance while minimizing financial, legal, and reputational risk, and building accessibly from the start.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a>Accessibility at the speed of AI</h2>
+
+
+
+<p class="wp-block-paragraph">The web has always been a dynamic, ever-changing place. But what we&#8217;re experiencing now is a truly radical shift. The web is being read by more AI agents every day, and that number will only grow. Human-centric digital accessibility and agent-centric accessibility are converging, redefining our very sense of accessibility in the process. Fortunately, despite the seismic nature of this transformation, we have the expertise to handle it. The expertise has always been there. For decades, a global community of disability advocates, experts, and practitioners, many of whom are people with disabilities, has been laying the foundation for an accessible web. We can leverage this expertise. The need is urgent. The time is now. We can achieve accessibility at the speed of AI. We can, and we must.</p>
+<p>The post <a href="https://www.deque.com/blog/for-your-business-to-thrive-in-the-agentic-ai-era-treat-accessibility-as-foundational-to-your-ai-strategy/">For your business to thrive in the agentic AI era, treat accessibility as foundational to your AI strategy</a> appeared first on <a href="https://www.deque.com">Deque</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://accessibility.deque.com/hubfs/AI-Generated%20Media/Remix%20Audio/For%20your%20business%20to%20thrive%20in%20the%20agentic%20AI%20era%2c%20treat%20accessibility%20as%20foundational%20to%20your%20AI%20strategy.mp3" length="9897312" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>Why digital accessibility is a strategic priority for HSBC</title>
+		<link>https://www.deque.com/blog/why-digital-accessibility-is-a-strategic-priority-for-hsbc/</link>
+		
+		<dc:creator><![CDATA[Deque Systems]]></dc:creator>
+		<pubDate>Tue, 28 Jul 2026 11:03:51 +0000</pubDate>
+				<category><![CDATA[Accessibility best practices]]></category>
+		<category><![CDATA[banking]]></category>
+		<category><![CDATA[Web Accessibility]]></category>
+		<guid isPermaLink="false">https://www.deque.com/?p=61424</guid>
+
+					<description><![CDATA[<p>Mali Fernando, Group Head of Digital Experience and Accessibility at HSBC, discusses the role of digital accessibility in creating better banking experiences, strengthening customer relationships, and supporting long-term business success.</p>
+<p>The post <a href="https://www.deque.com/blog/why-digital-accessibility-is-a-strategic-priority-for-hsbc/">Why digital accessibility is a strategic priority for HSBC</a> appeared first on <a href="https://www.deque.com">Deque</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">In financial services, trust is non-negotiable. It means everything. But it’s hard to earn and easy to lose. And right now, there are banks all over the world that risk losing the trust of a large percentage of the global population. According to the World Health Organization, 1 in 6 people have a disability. As your customers, their trust depends on the accessibility of your services.</p>
+
+
+
+<p class="wp-block-paragraph">With online banking now the norm, digital accessibility is essential. Organizations that prioritize accessibility create more inclusive and effective digital experiences that strengthen customer relationships and differentiate them in the marketplace. But when accessibility is overlooked, opportunities to build stronger customer relationships can be lost.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="HSBC on building more accessible digital banking experiences" width="640" height="360" src="https://www.youtube.com/embed/Vxxj-c9B6QY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p class="wp-block-paragraph">In the video above, Mali Fernando, Group Head of Digital Experience and Accessibility at HSBC, shares how they are approaching digital accessibility as a part of their broader customer experience strategy. While HSBC&#8217;s journey is unique, the themes explored will feel familiar to many accessibility leaders across financial services, particularly the focus on improving digital experiences and differentiating in a highly competitive market.</p>
+
+
+
+<p class="wp-block-paragraph">As Mali explains, there is a critical connection between accessibility and trust. When customers can complete tasks independently, access services without barriers, and interact with digital products with confidence, trust is reinforced through every interaction. If your organization focuses on customer loyalty and long-term relationships, it is essential that you embrace digital accessibility.</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>&#8220;We see our digital accessibility offering as a competitive advantage. It differentiates us in the marketplace.&#8221;</p><cite>Mali Fernando, Group head of digital experience and accessibility at HSBC</cite></blockquote></figure>
+
+
+
+<p class="wp-block-paragraph">As you watch the conversation, consider how accessibility fits into your own digital strategy. Where can it help strengthen customer trust and improve experience quality? Where might accessibility help address unmet customer needs?</p>
+
+
+
+<p class="wp-block-paragraph">HSBC&#8217;s experience demonstrates that accessibility can be more than a compliance requirement or design consideration. It can be a catalyst for stronger customer relationships, broader reach, and better digital experiences overall. When you invest in accessibility, you create opportunities to build products and services that more people choose, trust, and value.</p>
+<p>The post <a href="https://www.deque.com/blog/why-digital-accessibility-is-a-strategic-priority-for-hsbc/">Why digital accessibility is a strategic priority for HSBC</a> appeared first on <a href="https://www.deque.com">Deque</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

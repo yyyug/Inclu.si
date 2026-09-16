@@ -1,0 +1,2161 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Braille Works</title>
+	<atom:link href="https://brailleworks.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://brailleworks.com/</link>
+	<description>Making the World a More Readable Place</description>
+	<lastBuildDate>Tue, 08 Sep 2026 14:00:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1</generator>
+
+<image>
+	<url>https://brailleworks.com/wp-content/uploads/2023/10/favicon.ico</url>
+	<title>Braille Works</title>
+	<link>https://brailleworks.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>National ADA Symposium Takeaway #4: What should an extra year accomplish in meeting Digital Compliance?</title>
+		<link>https://brailleworks.com/national-ada-symposium-extra-year-digital-compliance/</link>
+		
+		<dc:creator><![CDATA[Christine Fioritto-Sket]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[Accessibility]]></category>
+		<guid isPermaLink="false">https://brailleworks.com/?p=24611</guid>
+
+					<description><![CDATA[<p>In 2026, the Department of Justice and the Department of Health and Human Services disrupted the important digital accessibility compliance deadlines. Many counties, colleges, hospitals, and school districts welcomed the delay. I can see why, there had been a buildup of content, a shortage of staff, and a lack of budgeting for the extent of [&#8230;]</p>
+<p>The post <a href="https://brailleworks.com/national-ada-symposium-extra-year-digital-compliance/">National ADA Symposium Takeaway #4: What should an extra year accomplish in meeting Digital Compliance?</a> appeared first on <a href="https://brailleworks.com">Braille Works</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="685" src="https://brailleworks.com/wp-content/uploads/2026/08/digital-compliance-1024x685.jpg" alt="A hand reaching for a &quot;compliance&quot; button that's surrounded by other touchscreen buttons with icons like legal, government, and accessibility" class="wp-image-24615" srcset="https://brailleworks.com/wp-content/uploads/2026/08/digital-compliance-1024x685.jpg 1024w, https://brailleworks.com/wp-content/uploads/2026/08/digital-compliance-300x201.jpg 300w, https://brailleworks.com/wp-content/uploads/2026/08/digital-compliance-768x514.jpg 768w, https://brailleworks.com/wp-content/uploads/2026/08/digital-compliance-1536x1027.jpg 1536w, https://brailleworks.com/wp-content/uploads/2026/08/digital-compliance-scaled.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph">In 2026, the <a href="https://www.federalregister.gov/documents/2026/04/20/2026-07663/extension-of-compliance-dates-for-nondiscrimination-on-the-basis-of-disability-accessibility-of-web">Department of Justice</a> and the <a href="https://www.federalregister.gov/documents/2026/05/11/2026-09266/extension-of-compliance-dates-for-nondiscrimination-on-the-basis-of-disability-accessibility-of-web">Department of Health and Human Services</a> disrupted the important digital accessibility compliance deadlines. Many counties, colleges, hospitals, and school districts welcomed the delay. I can see why, there had been a buildup of content, a shortage of staff, and a lack of budgeting for the extent of the work required. But changing the deadlines means little if the systemic issues still exist.</p>
+
+
+
+<p class="wp-block-paragraph">The reality of who is affected have stayed with me since the <a href="https://gpadacenter.org/national-ada-symposium/">National ADA Symposium</a>; although an extra year might ease the immediate pressure, what matters is whether that time leads to real improvements in access. And most importantly, how will the people who rely on the information be served?</p>
+
+
+
+<p class="wp-block-paragraph">Braille Works has recently discussed the <a href="https://brailleworks.com/hhs-accessibility-deadline-changed/">change to the HHS deadline</a> and the responsibilities that still need to be met. In this instance, I would like to focus on what organizations can demonstrate during the additional time that has been granted to them.</p>
+
+
+
+<h2 class="wp-block-heading">What has occurred</h2>
+
+
+
+<p class="wp-block-paragraph">The Department of Justice moved the compliance date for larger state and local government bodies to April 26, 2027, and established April 26, 2028, as the compliance date for smaller public bodies and special district governments. The Health and Human Services agency set May 11, 2027, for recipients with 15 or more employees, and May 10, 2028, for those with fewer than 15 employees. The <a href="https://www.federalregister.gov/documents/2024/04/24/2024-07758/nondiscrimination-on-the-basis-of-disability-accessibility-of-web-information-and-services-of-state">rules under Title II</a> and <a href="https://www.federalregister.gov/documents/2024/05/09/2024-09237/nondiscrimination-on-the-basis-of-disability-in-programs-or-activities-receiving-federal-financial">Section 504</a> still make use of WCAG 2.1 Level AA.</p>
+
+
+
+<p class="wp-block-paragraph">HHS altered the dates in its Section 504 regulation; it did not amend Section 1557 of the Affordable Care Act. Because many healthcare organizations comply with both laws, the requirements of the two are often discussed together.</p>
+
+
+
+<p class="wp-block-paragraph">The agencies cited staffing problems, cost considerations, technical limitations, among other complaints. The disability groups replied that the agencies had taken the burden into account when they introduced the 2024 rules.</p>
+
+
+
+<p class="wp-block-paragraph">The DOJ took action four days before its first compliance date on April 22, 2026. On May 21, 2026, the <a href="https://democracyforward.org/wp-content/uploads/2026/05/NFB-Complaint-AS-FILED.pdf">National Federation of the Blind brought a federal lawsuit</a> challenging both extensions. It claims that the DOJ and HHS violated the Administrative Procedure Act by not giving sufficient consideration to the harm caused by inaccessible services. The court has not yet ruled. <a href="https://www.ahead.org/aheadoldsite/about-ahead/federal-rulemaking">AHEAD</a> and 34 disability-rights organizations had previously opposed a delay under Title II. As you can see there is a lot of reason for concern on the part of Americans’ with disabilities and the organizations that support them.</p>
+
+
+
+<p class="wp-block-paragraph">I take the practice of accessibility serious and am aware of the frustration people are now experiencing as they wait even longer for access. The practical solution lies in accountability, since the organizations have been given more time and they need to be prepared to show what they achieved with it.</p>
+
+
+
+<h2 class="wp-block-heading">The starting point has to be honest</h2>
+
+
+
+<p class="wp-block-paragraph">A good starting point for organizations is to get organized by prioritizing the pages, forms, documents, and applications which people require equal access. This approach enables the identification of the services that have the greatest impact, allows tracking of how long high-priority obstacles remain unresolved, and measures the speed at which problems are addressed after they are noticed or reported.</p>
+
+
+
+<p class="wp-block-paragraph">The initial report will probably appear worse than anticipated. It is common for this discovery process to reveal issues that had previously gone unaccounted. Make sure the process remains consistent across all departments in the review and reporting of information. This is the only way to get an accurate picture of the necessary steps that need to be taken to meet the compliance dates.</p>
+
+
+
+<h2 class="wp-block-heading">New content changes the data</h2>
+
+
+
+<p class="wp-block-paragraph">A company can&#8217;t eliminate an existing backlog if new obstacles keep being introduced; it&#8217;s like trying to empty a bucket while someone keeps pouring water into it.</p>
+
+
+
+<p class="wp-block-paragraph">The earliest indication of progress should be a reduction in the number of problems starting with new content. Although accessible templates are useful, someone must still check the work and have the authority to delay a release if it is not accessible. Keep a record of how much new content goes through without being published. When the same template, system, department, or vendor continues to cause problems, the underlying cause should be addressed rather than repeatedly correcting the same error.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="512" src="https://brailleworks.com/wp-content/uploads/2026/08/barrier-1024x512.jpg" alt="Roadblock barrier with signs saying &quot;Road closed&quot; and &quot;Detour&quot;" class="wp-image-24617" srcset="https://brailleworks.com/wp-content/uploads/2026/08/barrier-1024x512.jpg 1024w, https://brailleworks.com/wp-content/uploads/2026/08/barrier-300x150.jpg 300w, https://brailleworks.com/wp-content/uploads/2026/08/barrier-768x384.jpg 768w, https://brailleworks.com/wp-content/uploads/2026/08/barrier-1536x768.jpg 1536w, https://brailleworks.com/wp-content/uploads/2026/08/barrier-scaled.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Not every barrier carries the same weight</h2>
+
+
+
+<p class="wp-block-paragraph">It is not possible for an organization with thousands of files to address all matters at once, so you should begin with the services that have the most serious consequences, are used most frequently, or handle urgent information. You must provide a reason for choosing those services first, and this explanation will be important if the organization must make difficult decisions or provide proof of reasoning.</p>
+
+
+
+<p class="wp-block-paragraph">Check the entire process using assistive technology or have a reputable third party assist in this process. Is it possible for a person to access all of the information, open a form, fill it out, submit it, and then receive communications without any assistance? Keep in mind one page or document may be manageable; the process as a whole could still fail. It is wise to get the documents certified, especially if you are using a third-party vendor.</p>
+
+
+
+<h2 class="wp-block-heading">A year needs checkpoints</h2>
+
+
+
+<p class="wp-block-paragraph">Don’t delay action until the last quarter. In the first months, you should establish the baseline, decide on priority services, allocate responsibilities, and confirm the budget. At every quarterly review, you must compare the pass rate for new content, the pass rate for the high-priority backlog, the pass rate for the oldest unresolved barriers, the time taken to fix issues, and the sources that continue to cause problems.</p>
+
+
+
+<p class="wp-block-paragraph">When you get to the halfway stage, recheck the priority tasks and make changes to the plan if the team is still unable to complete them. In the final 90 days, carry out an independent review and keep a clear record of any important work which remains open. If a vendor or platform is preventing progress, decide who is going to escalate the issue and by what date. &#8216;Waiting on the vendor&#8217; should be treated as a status, not as a solution.</p>
+
+
+
+<p class="wp-block-paragraph">This schedule allows the ADA accessibility coordinators to raise their concerns while still giving leadership the opportunity to respond; it also makes it so that the extension does not turn into yet another last-minute rush.</p>
+
+
+
+<h2 class="wp-block-heading">The proof at the deadline</h2>
+
+
+
+<p class="wp-block-paragraph">On arrival of the new deadline, leaders ought to place the initial report alongside the present one and give a clear and simple explanation of the differences. For any critical work which is still open, there should be an owner, a deadline, and a clear reason for why it has not been completed.</p>
+
+
+
+<p class="wp-block-paragraph">Certain organizations will still have some work to carry out. Making honest progress does not mean achieving perfection. The thing that worries me is that reports contain a lot of references to training hours, the purchase of software, and meetings, yet nobody can state that access has in fact improved.</p>
+
+
+
+<p class="wp-block-paragraph">The year in question will have been worthwhile only if more people are able to access the content that is most important, and if the organization can demonstrate how, it achieved that.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p class="wp-block-paragraph">This information is not legal advice, and the regulatory and case statuses are up to date as of August 31, 2026.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>The post <a href="https://brailleworks.com/national-ada-symposium-extra-year-digital-compliance/">National ADA Symposium Takeaway #4: What should an extra year accomplish in meeting Digital Compliance?</a> appeared first on <a href="https://brailleworks.com">Braille Works</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Quality Braille Matters</title>
+		<link>https://brailleworks.com/quality-braille-matters/</link>
+		
+		<dc:creator><![CDATA[Braille Works]]></dc:creator>
+		<pubDate>Tue, 08 Sep 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[Informational]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://braille-works.local/?p=14777</guid>
+
+					<description><![CDATA[<p>Does it really matter what a braille document “looks” like? The short answer is: Yes, it matters a lot. Braille documents should be accurate, easy to navigate, properly formatted, and readable by touch. Identifying quality braille can be challenging for the person purchasing it, especially if they don’t read braille. A well-made document and a [&#8230;]</p>
+<p>The post <a href="https://brailleworks.com/quality-braille-matters/">Quality Braille Matters</a> appeared first on <a href="https://brailleworks.com">Braille Works</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><a href="https://brailleworks.com/wp-content/uploads/2016/09/Glasses-over-Braille-Book-Close-Up768x512.jpg"><img decoding="async" width="700" height="467" src="https://brailleworks.com/wp-content/uploads/2016/09/Glasses-over-Braille-Book-Close-Up768x512-700x467.jpg" alt="Purple glasses resting on top of a braille document." class="wp-image-9242" srcset="https://brailleworks.com/wp-content/uploads/2016/09/Glasses-over-Braille-Book-Close-Up768x512-700x467.jpg 700w, https://brailleworks.com/wp-content/uploads/2016/09/Glasses-over-Braille-Book-Close-Up768x512-250x167.jpg 250w, https://brailleworks.com/wp-content/uploads/2016/09/Glasses-over-Braille-Book-Close-Up768x512.jpg 768w, https://brailleworks.com/wp-content/uploads/2016/09/Glasses-over-Braille-Book-Close-Up768x512-120x80.jpg 120w" sizes="(max-width: 700px) 100vw, 700px" /></a></figure>
+
+
+
+<p class="wp-block-paragraph">Does it really matter what a braille document “looks” like?</p>
+
+
+
+<p class="wp-block-paragraph">The short answer is: Yes, it matters a lot.</p>
+
+
+
+<p class="wp-block-paragraph">Braille documents should be accurate, easy to navigate, properly formatted, and readable by touch.</p>
+
+
+
+<p class="wp-block-paragraph">Identifying quality braille can be challenging for the person purchasing it, especially if they don’t read braille. A well-made document and a difficult-to-use document may look nearly identical.</p>
+
+
+
+<p class="wp-block-paragraph">So how can you tell whether your customers are receiving something they can actually use?</p>
+
+
+
+<p class="wp-block-paragraph">The answer lies in the people, standards, and quality checks that go into the finished document.</p>
+
+
+
+<h2 class="wp-block-heading">Why quality braille matters</h2>
+
+
+
+<p class="wp-block-paragraph">For many organizations, visual communication is the main way customers access information. People read menus, statements, contracts, and other documents before making decisions or taking action.</p>
+
+
+
+<p class="wp-block-paragraph">When someone can’t read standard print, they need another way to access that information. Braille provides that access for many people.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Braille or another accessible format must provide the same information as the standard print version and present it clearly so readers can find what they need.</p>
+
+
+
+<p class="wp-block-paragraph">For example, without an accessible menu, some customers may be unable to review their dining options and place an order independently. A restaurant employee could read the menu aloud, but that doesn’t provide the same experience. Restaurants are noisy. Hearing every option may be difficult. Having the menu read aloud can also draw unwanted attention or make someone feel rushed. </p>
+
+
+
+<p class="wp-block-paragraph"><strong>Related:</strong> <a href="https://brailleworks.com/7-things-serving-guests-blindness/" target="_blank" rel="noopener">Things We Wish Restaurants Knew About Serving Guests With Blindness</a></p>
+
+
+
+<p class="wp-block-paragraph">Braille gives the people who read it the freedom to explore a menu and make choices independently.</p>
+
+
+
+<p class="wp-block-paragraph">However, simply having braille isn’t enough. If the document is poorly formatted, finding a section or understanding where one item ends and another begins can become its own barrier.</p>
+
+
+
+<p class="wp-block-paragraph">Providing no accessible format limits access. Providing a poorly formatted one creates a different problem entirely.</p>
+
+
+
+<h2 class="wp-block-heading">Quality supports privacy and accuracy</h2>
+
+
+
+<p class="wp-block-paragraph">Reading information aloud may work in some situations, but it isn’t always appropriate.</p>
+
+
+
+<p class="wp-block-paragraph">Reading aloud can compromise privacy, especially when reasonable safeguards aren’t in place. It can also make it harder to review the information carefully, return to an earlier section, or confirm an important detail.</p>
+
+
+
+<p class="wp-block-paragraph">Quality braille allows the reader to access information privately and at their own pace. It should preserve the source document’s meaning, accuracy, and organization while adhering to braille standards.</p>
+
+
+
+<p class="wp-block-paragraph">Depending on the organization, the person, and the communication, braille may also be one of the formats needed to support <a href="https://brailleworks.com/national-ada-symposium-effective-communication-responsibility/">effective communication</a>.</p>
+
+
+
+<h2 class="wp-block-heading">Not all braille is created equal</h2>
+
+
+
+<p class="wp-block-paragraph">To someone who doesn’t read braille, the raised dots may look fine as long as they cover the page. But the presence of dots doesn’t prove that a document is accurate or easy to use.</p>
+
+
+
+<p class="wp-block-paragraph">Braille is a code used to represent written language. Producing a quality document involves more than replacing print letters with raised-dot characters. The transcriber must consider headings, lists, tables, page numbers, visual information, section breaks, and the way a reader will move through the document.</p>
+
+
+
+<p class="wp-block-paragraph">You can learn more about <a href="https://brailleworks.com/braille-defined/">how braille works</a>, but you don’t have to become a braille expert to understand why formatting matters.</p>
+
+
+
+<p class="wp-block-paragraph">Consider the difference between these two print examples.</p>
+
+
+
+<p class="has-custom-css wp-block-paragraph"><strong>Clear formatting:</strong></p>
+
+
+
+<p class="has-custom-css wp-block-paragraph">Account summary</p>
+
+
+
+<p class="has-custom-css wp-block-paragraph">Amount due: $125</p>
+
+
+
+<p class="has-custom-css wp-block-paragraph">Due date: March 15</p>
+
+
+
+<p class="has-custom-css wp-block-paragraph">Payment options:</p>
+
+
+
+<p class="has-custom-css wp-block-paragraph">• Pay online<br>• Pay by phone<br>• Mail a check</p>
+
+
+
+<p class="has-custom-css wp-block-paragraph"><strong>Poor formatting:</strong></p>
+
+
+
+<p class="has-custom-css wp-block-paragraph">account summary amount due 125 due date march 15 payment options pay online pay by phone mail a check</p>
+
+
+
+<p class="wp-block-paragraph">Both versions contain the same basic information. Yet the first is much easier to scan, understand, and use.</p>
+
+
+
+<p class="wp-block-paragraph">Braille readers experience a similar problem when proper formatting isn’t done correctly.</p>
+
+
+
+<p class="wp-block-paragraph">Our co-founder, Lou Fioritto, has encountered poorly formatted braille throughout his life. He has several stories of being excited to learn that an organization has braille, only to be disappointed when the document’s lack of formatting makes it unreadable.</p>
+
+
+
+<p class="wp-block-paragraph">This happens when companies skip crucial steps like careful transcription and quality checks.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="700" height="474" src="https://brailleworks.com/wp-content/uploads/2017/12/Reading-Braille-2-700x474.jpg" alt="blind person reading braille book" class="wp-image-11582" srcset="https://brailleworks.com/wp-content/uploads/2017/12/Reading-Braille-2-700x474.jpg 700w, https://brailleworks.com/wp-content/uploads/2017/12/Reading-Braille-2-250x169.jpg 250w, https://brailleworks.com/wp-content/uploads/2017/12/Reading-Braille-2-768x520.jpg 768w, https://brailleworks.com/wp-content/uploads/2017/12/Reading-Braille-2-120x81.jpg 120w, https://brailleworks.com/wp-content/uploads/2017/12/Reading-Braille-2.jpg 2048w" sizes="auto, (max-width: 700px) 100vw, 700px" /></figure>
+
+
+
+<h2 class="wp-block-heading">How can you evaluate braille quality?</h2>
+
+
+
+<p class="wp-block-paragraph">You may not be able to proofread the dots yourself, but you can evaluate the process used to create them.</p>
+
+
+
+<p class="wp-block-paragraph">Here are several areas to review before choosing a provider or accepting a finished document.</p>
+
+
+
+<h3 class="wp-block-heading">1. Complete and accurate</h3>
+
+
+
+<p class="wp-block-paragraph">The quality review should compare the source document’s information with the information in the braille file. Missing or incorrect content can create confusion and may have serious consequences for healthcare, financial, and legal documents.</p>
+
+
+
+<p class="wp-block-paragraph">Ask who performs this comparison and what happens when they find an error.</p>
+
+
+
+<h3 class="wp-block-heading">2. Easy to navigate</h3>
+
+
+
+<p class="wp-block-paragraph">Formatting helps braille readers understand how information is organized.</p>
+
+
+
+<p class="wp-block-paragraph">Depending on the document, that may include:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Clear headings</li>
+
+
+
+<li>Logical section breaks</li>
+
+
+
+<li>Usable tables</li>
+
+
+
+<li>Page numbers</li>
+
+
+
+<li>A table of contents</li>
+
+
+
+<li>Descriptions of important visual information</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">The appropriate structure will vary. A bank statement, restaurant menu, and healthcare notice should not all follow the same layout.</p>
+
+
+
+<h3 class="wp-block-heading">3. Correct braille code</h3>
+
+
+
+<p class="wp-block-paragraph">Braille is not a separate language, nor is it universal. The correct braille code depends on the language and type of information in the source.</p>
+
+
+
+<p class="wp-block-paragraph">Ask the provider which code will be used and how the team handles specialized or multilingual content. If the provider cannot answer clearly, ask more questions.</p>
+
+
+
+<h3 class="wp-block-heading">4. Readable by touch</h3>
+
+
+
+<p class="wp-block-paragraph">Accurate transcription will not help if the finished dots are faint, uneven, damaged, or uncomfortable to read.</p>
+
+
+
+<p class="wp-block-paragraph">Quality control should examine:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Dot consistency</li>
+
+
+
+<li>Paper that holds the embossing</li>
+
+
+
+<li>Interpoint (double-sided) pages that remain readable</li>
+
+
+
+<li>Binding that allows the document to lie flat</li>
+
+
+
+<li>Finishing that protects the document during normal use</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">5. Qualified review</h3>
+
+
+
+<p class="wp-block-paragraph">Software can help convert content into braille, but software output should not be treated as proof of quality.</p>
+
+
+
+<p class="wp-block-paragraph">People still need to make decisions about structure, formatting, visual content, and usability. A qualified review can catch problems that automated conversion may miss.</p>
+
+
+
+<p class="wp-block-paragraph">Ask who reviews the finished work, what qualifications they have, and whether independent auditing or certification is available when needed.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">What one client learned after switching providers</h2>
+
+
+
+<p class="wp-block-paragraph">One of our clients learned the hard way that quality braille matters.</p>
+
+
+
+<p class="wp-block-paragraph">They decided to engage another vendor for their braille production. Soon after, their braille-reading customers started complaining. The client contacted us and questioned the complaints.</p>
+
+
+
+<p class="wp-block-paragraph">At first, our former client thought Braille Works had changed something about our production. We reminded them that the documents in question had been produced by another vendor.</p>
+
+
+
+<p class="wp-block-paragraph">The client quickly returned its braille production to Braille Works and hasn’t received any braille-related complaints since.</p>
+
+
+
+<p class="wp-block-paragraph">This experience shows why evaluating braille quality can be difficult for an organization.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Price and turnaround matter, but they don’t tell you whether a braille document is accurate, readable, or usable.</p>
+
+
+
+<p class="wp-block-paragraph">That is why quality braille matters.</p>
+
+
+
+<h2 class="wp-block-heading">Need professional braille transcription?</h2>
+
+
+
+<p class="wp-block-paragraph">Braille Works provides braille printing and transcription for statements, notices, healthcare materials, menus, contracts, and other business documents.</p>
+
+
+
+<p class="wp-block-paragraph">Tell us about your project or send us a sample document. We’ll review your needs and prepare a customized quote for <a href="https://brailleworks.com/solutions/braille/">professional braille printing and transcription services</a>.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://brailleworks.com/contact/"><img loading="lazy" decoding="async" width="700" height="253" src="https://brailleworks.com/wp-content/uploads/2017/08/Learn-More-CTA-700x253.png" alt="Include everyone in life and business with accessible documents. See how Braille Works solutions can help. Learn more. [Links to Braille Works request a quote web page]" class="wp-image-19415" srcset="https://brailleworks.com/wp-content/uploads/2017/08/Learn-More-CTA-700x253.png 700w, https://brailleworks.com/wp-content/uploads/2017/08/Learn-More-CTA-250x90.png 250w, https://brailleworks.com/wp-content/uploads/2017/08/Learn-More-CTA-768x277.png 768w, https://brailleworks.com/wp-content/uploads/2017/08/Learn-More-CTA-120x43.png 120w, https://brailleworks.com/wp-content/uploads/2017/08/Learn-More-CTA.png 1462w" sizes="auto, (max-width: 700px) 100vw, 700px" /></a></figure>
+<p>The post <a href="https://brailleworks.com/quality-braille-matters/">Quality Braille Matters</a> appeared first on <a href="https://brailleworks.com">Braille Works</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Section 1557: Understanding Document Accessibility Requirements</title>
+		<link>https://brailleworks.com/section-1557-document-accessibility/</link>
+		
+		<dc:creator><![CDATA[Christine Fioritto-Sket]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://brailleworks1.wpenginepowered.com/?p=23122</guid>
+
+					<description><![CDATA[<p>The rules governing accessible healthcare communication can be difficult to track. Section 1557 of the Affordable Care Act, Section 504 of the Rehabilitation Act, and the Americans with Disabilities Act (ADA) often apply to the same organization. Here’s the catch: they do not all impose the same requirements or follow the same compliance schedule. The [&#8230;]</p>
+<p>The post <a href="https://brailleworks.com/section-1557-document-accessibility/">Section 1557: Understanding Document Accessibility Requirements</a> appeared first on <a href="https://brailleworks.com">Braille Works</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="https://brailleworks.com/wp-content/uploads/2025/05/HeartAndStethoscope-1-1024x538.jpg" alt="Heart shaped stethoscope" class="wp-image-23822" srcset="https://brailleworks.com/wp-content/uploads/2025/05/HeartAndStethoscope-1-1024x538.jpg 1024w, https://brailleworks.com/wp-content/uploads/2025/05/HeartAndStethoscope-1-300x158.jpg 300w, https://brailleworks.com/wp-content/uploads/2025/05/HeartAndStethoscope-1-768x403.jpg 768w, https://brailleworks.com/wp-content/uploads/2025/05/HeartAndStethoscope-1.jpg 1200w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph">The rules governing accessible healthcare communication can be difficult to track. Section 1557 of the Affordable Care Act, Section 504 of the Rehabilitation Act, and the <a href="https://www.ada.gov/">Americans with Disabilities Act</a> (ADA) often apply to the same organization. Here’s the catch: they do not all impose the same requirements or follow the same compliance schedule.</p>
+
+
+
+<p class="wp-block-paragraph">The differences became especially significant in May 2026, when the U.S. Department of Health and <a href="https://www.hhs.gov/press-room/hhs-extends-mobile-and-web-accessibility-deadline.html" class="blc-broken-link" data-blc-broken="1">Human Services (HHS) extended the deadline</a> for certain web and mobile accessibility requirements under Section 504. The extension provides covered recipients with more time to meet the technical standard. However, it does not delay their obligation to provide effective communication and equal access upon request.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">If you are confused about why Section 508 is not the governing law that implemented change, let me clear that up for you. Section 508 is federal guidance for internal federal programs, whereas <a href="https://www.hhs.gov/accessibility/what-is-section-504/index.html" class="blc-broken-link" data-blc-broken="1">Section 504</a> requires agencies to provide equal access to people with disabilities.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">What is Section 1557?</h2>
+
+
+
+<p class="wp-block-paragraph"><a href="https://healthlaw.org/section-1557/">Section 1557</a> is the nondiscrimination provision of the Affordable Care Act. Enacted in 2010, it prohibits discrimination in covered health programs and activities on the basis of race, color, national origin, sex, age, or disability.</p>
+
+
+
+<p class="wp-block-paragraph">The law draws on <a href="https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-92">four long-standing federal civil rights laws</a>:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Title VI of the Civil Rights Act of 1964</li>
+
+
+
+<li>Title IX of the Education Amendments of 1972</li>
+
+
+
+<li>Section 504 of the Rehabilitation Act of 1973</li>
+
+
+
+<li>The Age Discrimination Act of 1975</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Section 1557 does not replace these laws. It applies their nondiscrimination protections to covered healthcare programs and activities and provides HHS with a framework for enforcement. This may seem overwhelming, but the intent is to protect those who need it most.&nbsp;Many of these laws overlap, but each addresses different areas of concern and civil rights.</p>
+
+
+
+<h2 class="wp-block-heading">Who must comply?</h2>
+
+
+
+<p class="wp-block-paragraph">Section 1557 generally applies to health programs or activities receiving HHS financial assistance, to programs administered by HHS, and to entities established under Title I of the Affordable Care Act. Depending on an organization&#8217;s funding and structure, covered entities may include:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Hospitals, clinics, and physician practices</li>
+
+
+
+<li>Community health centers</li>
+
+
+
+<li>Nursing facilities, home health agencies, and hospice providers</li>
+
+
+
+<li>Dental and vision care providers</li>
+
+
+
+<li>State Medicaid and Children’s Health Insurance Program agencies</li>
+
+
+
+<li>Health Insurance Marketplaces and issuers participating in them</li>
+
+
+
+<li>Health insurance carriers and third-party administrators when their covered activities fall within the rule</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Coverage can be fact-specific and may seem like a moving target. To determine whether your organization is responsible, review the source and purpose of its federal funding, the health programs or activities it operates, and any responsibilities it has assumed through contracts or other arrangements. This is the best practice for understanding which laws apply and why.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="https://brailleworks.com/wp-content/uploads/2025/05/HealthcareForm-1-1024x538.jpg" alt="A paper Patient Information form with small print on a clipboard with a pen and stethoscope on top" class="wp-image-23821" srcset="https://brailleworks.com/wp-content/uploads/2025/05/HealthcareForm-1-1024x538.jpg 1024w, https://brailleworks.com/wp-content/uploads/2025/05/HealthcareForm-1-300x158.jpg 300w, https://brailleworks.com/wp-content/uploads/2025/05/HealthcareForm-1-768x403.jpg 768w, https://brailleworks.com/wp-content/uploads/2025/05/HealthcareForm-1.jpg 1200w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">What does document accessibility require?</h2>
+
+
+
+<p class="wp-block-paragraph">Section 1557 requires covered entities to take appropriate steps to ensure that communications with people with disabilities are as effective as those with others. This includes providing appropriate auxiliary aids and services, free of charge and in a timely manner, when necessary for effective communication.</p>
+
+
+
+<p class="wp-block-paragraph">For a person who is blind or has low vision, an appropriate format may include:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Braille</li>
+
+
+
+<li>Large print</li>
+
+
+
+<li>Accessible electronic text that works with assistive technology</li>
+
+
+
+<li>Tagged and accessible PDF documents</li>
+
+
+
+<li>Audio</li>
+
+
+
+<li>Another format or service that provides equally effective access</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">The right format depends on the person and the communication. A person who is blind may not read braille. Someone with low vision may need large print with sufficient contrast, while another person may rely on a screen reader. Providing a single format to everyone is not an effective communication strategy. Likewise, some people may need more than one format depending on the situation.</p>
+
+
+
+<p class="wp-block-paragraph">Just an FYI, these responsibilities can also extend to a companion, such as a parent, spouse, caregiver, or other person involved in communicating about the patient’s care. It’s important to remember that it’s not just the patient who has rights your organization must follow.</p>
+
+
+
+<h2 class="wp-block-heading">The individual’s communication needs matter</h2>
+
+
+
+<p class="wp-block-paragraph">The appropriate aid or service depends on the communication’s complexity and context, as well as the person’s usual method of communication. An appointment reminder may require a different solution than a consent form, treatment plan, explanation of benefits, or a notice affecting healthcare coverage.</p>
+
+
+
+<p class="wp-block-paragraph">State and local government entities covered by Title II and Title III of the ADA must give primary consideration to the aid or service requested by a person with a communication disability. A different method may be used when the entity demonstrates that it is equally effective or that the requested method would cause a fundamental alteration or undue financial and administrative burdens. Even then, the entity must take another action that provides effective communication to the greatest extent possible.</p>
+
+
+
+<p class="wp-block-paragraph">The following is very important: staff should neither assume nor request that a family member or companion serve as the person’s communication method. This not only deprives the person of their right to independence and privacy but also violates <a href="https://brailleworks.com/5-accessibility-issues-also-hipaa-violations/">HIPAA. Properly t</a>raining all staff members is key to remaining compliant and protecting the rights of others.</p>
+
+
+
+<h2 class="wp-block-heading">What information needs to be accessible?</h2>
+
+
+
+<p class="wp-block-paragraph">If information is provided to patients, members, applicants, or the public, accessibility should be considered from the beginning. Examples include:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Insurance plans, explanations of benefits, and marketing materials</li>
+
+
+
+<li>Consent forms and treatment information</li>
+
+
+
+<li>Patient rights and grievance information</li>
+
+
+
+<li>Notices of nondiscrimination and notices about language assistance and auxiliary aids</li>
+
+
+
+<li>Billing statements, appointment information, and prescription instructions</li>
+
+
+
+<li>Emails, websites, mobile applications, patient portals, and digital forms</li>
+
+
+
+<li>Emergency, discharge, and follow-up instructions</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Accessibility also extends beyond documents. Buildings, facilities, signage, kiosks, telehealth services, digital workflows, and policies can all affect whether a person has meaningful access to a healthcare program or service.</p>
+
+
+
+<h2 class="wp-block-heading">How Section 1557 and Section 504 work together</h2>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.federalregister.gov/documents/2024/05/06/2024-08711/nondiscrimination-in-health-programs-and-activities">The 2024 Section 1557 rule</a> requires covered health programs and activities delivered via information and communication technology to be accessible to people with disabilities. It also reinforces requirements for effective communication, reasonable modifications, and nondiscrimination for healthcare services delivered in person, digitally, and through telehealth.</p>
+
+
+
+<p class="wp-block-paragraph">A separate HHS rule issued in 2024 under Section 504 established a technical standard for web content and mobile applications. Covered recipients of HHS funding must conform that content to the Web Content Accessibility Guidelines (WCAG) 2.1 Level AA, subject to the rule’s exceptions and limitations. Because many healthcare organizations are covered by both <a href="https://www.hhs.gov/sites/default/files/ocr-dcl-section-504-section-1557-disability.pdf" class="blc-broken-link" data-blc-broken="1">Section 1557 and Section 504,</a> the requirements work together in practice.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="https://brailleworks.com/wp-content/uploads/2025/05/NurseAndPatient-1-1024x538.jpg" alt="Nurse bending over and discussing paperwork that's on a clipboard with an elderly man in a wheelchair" class="wp-image-23820" srcset="https://brailleworks.com/wp-content/uploads/2025/05/NurseAndPatient-1-1024x538.jpg 1024w, https://brailleworks.com/wp-content/uploads/2025/05/NurseAndPatient-1-300x158.jpg 300w, https://brailleworks.com/wp-content/uploads/2025/05/NurseAndPatient-1-768x403.jpg 768w, https://brailleworks.com/wp-content/uploads/2025/05/NurseAndPatient-1.jpg 1200w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">HHS extended the Section 504 digital accessibility deadlines</h2>
+
+
+
+<p class="wp-block-paragraph">On May 7, 2026, HHS announced an Interim Final Rule that gives recipients of HHS financial assistance an additional year to meet the Section 504 WCAG 2.1 AA requirements for web content and mobile applications.</p>
+
+
+
+<p class="wp-block-paragraph">The revised deadlines are:</p>
+
+
+
+<ul class="wp-block-list">
+<li>May 11, 2027, for recipients with 15 or more employees</li>
+
+
+
+<li>May 10, 2028, for recipients with fewer than 15 employees</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">The extension applies to the technical compliance dates under the HHS Section 504 rule. It does not eliminate or delay the broader obligation to ensure that programs and activities are accessible. HHS specifically reminded recipients that web content and mobile applications must remain readily accessible and usable by people with disabilities.</p>
+
+
+
+<p class="wp-block-paragraph">In practical terms, an organization should not deny a person access while awaiting the WCAG deadline. If an inaccessible portal, PDF, mobile application, or online form prevents someone from receiving information or using a service, the organization still needs to provide an effective and timely means for that person to participate.</p>
+
+
+
+<h2 class="wp-block-heading">Third-party vendors do not remove responsibility</h2>
+
+
+
+<p class="wp-block-paragraph">Healthcare organizations often rely on outside vendors for websites, patient portals, billing platforms, mobile applications, document production, and communications. Accessibility responsibilities do not disappear when a service is outsourced. Section 504&#8217;s web and mobile requirements expressly apply to content made available directly or through contractual, licensing, or other arrangements, and Section 1557-covered entities remain responsible for operating their health programs without disability discrimination.</p>
+
+
+
+<p class="wp-block-paragraph">Accessibility expectations should be addressed during procurement, incorporated into contracts, tested before launch, and monitored after implementation. A vendor’s general statement that a product is accessible is not a substitute for meaningful review.</p>
+
+
+
+<p class="wp-block-paragraph">Policies and procurement practices that proactively support accessibility for all people will save your organization time, headaches, violations, and reputational damage.</p>
+
+
+
+<h2 class="wp-block-heading">Notices, policies, and internal responsibility</h2>
+
+
+
+<p class="wp-block-paragraph">The 2024 Section 1557 rule includes requirements for notices, written policies and procedures, employee training, and—when the applicable employee threshold is met—a designated Section 1557 Coordinator. These internal systems help ensure that requests for accessible communication are recognized and handled consistently.</p>
+
+
+
+<p class="wp-block-paragraph">Organizations should make it easy for patients and members to find out:</p>
+
+
+
+<ul class="wp-block-list">
+<li>How to request an auxiliary aid, accessible document, or reasonable modification</li>
+
+
+
+<li>Who is responsible for coordinating the request</li>
+
+
+
+<li>How to file an internal grievance</li>
+
+
+
+<li>How to contact HHS’s Office for Civil Rights</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Enforcement and complaints</h2>
+
+
+
+<p class="wp-block-paragraph">HHS’s Office for Civil Rights investigates complaints and conducts compliance reviews under Section 1557 and Section 504. OCR may require corrective or remedial action when it finds noncompliance. Depending on the law and the circumstances, additional legal remedies may also be available.</p>
+
+
+
+<p class="wp-block-paragraph">Good documentation matters. Covered entities should retain records of accessibility requests, the interactive steps taken to understand the person’s needs, the aid or format provided, the response timing, and the basis for any decision that a requested method could not be provided.</p>
+
+
+
+<h2 class="wp-block-heading">What healthcare organizations should do now?</h2>
+
+
+
+<p class="wp-block-paragraph">The additional time should be used to strengthen accessibility, not to postpone it. Healthcare organizations can begin by:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Inventorying public-facing and patient-facing documents, websites, portals, forms, and mobile applications</li>
+
+
+
+<li>Prioritizing communications that affect health, safety, consent, coverage, benefits, billing, and legal rights</li>
+
+
+
+<li>Establishing a reliable process for producing braille, large print, accessible electronic documents, and audio materials</li>
+
+
+
+<li>Reviewing vendor contracts and procurement requirements</li>
+
+
+
+<li>Training employees to recognize and respond to requests for effective communication.</li>
+
+
+
+<li>Testing digital content with both automated tools and people who use assistive technologies</li>
+
+
+
+<li>Tracking progress toward the applicable Section 504 deadline in May 2027 or May 2028.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Final thoughts</h2>
+
+
+
+<p class="wp-block-paragraph">The 2026 deadline extension provides additional time to meet the Section 504 technical standard for web content and mobile applications. It is not a pause on accessibility. Section 1557, Section 504, and the ADA continue to require covered organizations to communicate effectively and provide equal access to healthcare programs and services. Use the extra time to implement your compliance plan and train your staff. Do not wait until the deadline to comply. Compliance requires a skilled, methodical approach.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Accessible communication is a right, not a privilege.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Braille Works now offers consulting services to entities seeking to explore how to bring their entity into regulatory compliance in an efficient and streamlined way. We also provide training on identifying needs and addressing them in the most legal and professional way possible. Reach out to us for more information.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>This article is for general informational purposes and is not legal advice.</strong></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>The post <a href="https://brailleworks.com/section-1557-document-accessibility/">Section 1557: Understanding Document Accessibility Requirements</a> appeared first on <a href="https://brailleworks.com">Braille Works</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>National ADA Symposium Takeaway #3: AI Can Assist with Document Remediation. Human Review Protects Independence.</title>
+		<link>https://brailleworks.com/national-ada-symposium-ai-can-assist-with-document-remediation/</link>
+		
+		<dc:creator><![CDATA[Christine Fioritto-Sket]]></dc:creator>
+		<pubDate>Thu, 27 Aug 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://brailleworks.com/?p=24564</guid>
+
+					<description><![CDATA[<p>I am still thinking about the sessions at the National ADA Symposium from July 2026. There was a lot of talk regarding AI and whether it is good for document remediation. Many points were shared, and I walked away with a deeper understanding of the relationship among document accessibility, effective communication, and risk. We generally [&#8230;]</p>
+<p>The post <a href="https://brailleworks.com/national-ada-symposium-ai-can-assist-with-document-remediation/">National ADA Symposium Takeaway #3: AI Can Assist with Document Remediation. Human Review Protects Independence.</a> appeared first on <a href="https://brailleworks.com">Braille Works</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://brailleworks.com/wp-content/uploads/2026/08/Person-working-on-computer-1024x683.jpg" alt="Back of a person sitting at a desk, using two computer monitors while working." class="wp-image-24573" srcset="https://brailleworks.com/wp-content/uploads/2026/08/Person-working-on-computer-1024x683.jpg 1024w, https://brailleworks.com/wp-content/uploads/2026/08/Person-working-on-computer-300x200.jpg 300w, https://brailleworks.com/wp-content/uploads/2026/08/Person-working-on-computer-768x512.jpg 768w, https://brailleworks.com/wp-content/uploads/2026/08/Person-working-on-computer-1536x1024.jpg 1536w, https://brailleworks.com/wp-content/uploads/2026/08/Person-working-on-computer-scaled.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph">I am still thinking about the sessions at the <a href="https://gpadacenter.org/national-ada-symposium/">National ADA Symposium</a> from July 2026. There was a lot of talk regarding AI and whether it is good for document remediation. Many points were shared, and I walked away with a deeper understanding of the relationship among document accessibility, effective communication, and risk.</p>
+
+
+
+<p class="wp-block-paragraph">We generally regard document accessibility as primarily a technical issue, yet the information in a document can affect a person&#8217;s safety, health, legal rights, benefits, housing, or ability to participate in a government program.</p>
+
+
+
+<p class="wp-block-paragraph">In those situations, accessibility is not simply a technical issue. It may become a life-or-death issue.</p>
+
+
+
+<h2 class="wp-block-heading">Can AI fix a document in the right way?</h2>
+
+
+
+<p class="wp-block-paragraph">My answer is: not by itself.</p>
+
+
+
+<p class="wp-block-paragraph">AI can assist with document remediation, but it is not consistently accurate enough to complete the process without qualified human review.</p>
+
+
+
+<p class="wp-block-paragraph">AI may add tags, suggest alternative text, identify headings, or attempt to establish a reading order. However, its work may appear technically correct yet still be inaccurate, incomplete, or confusing for someone using assistive technology.</p>
+
+
+
+<p class="wp-block-paragraph">For example, AI may:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Generate alternative text that is technically present but fails to communicate an image’s purpose.</li>
+
+
+
+<li>Place content in a reading order that does not reflect the intended meaning of a document.</li>
+
+
+
+<li>Wrongly identify headings, lists, decorative elements, or table headers.</li>
+
+
+
+<li>Create a table structure that looks visually correct but does not make sense to a screen reader.</li>
+
+
+
+<li>Miss instructions that depend on location, color, shape, or visual formatting.</li>
+
+
+
+<li>Fail to determine whether someone can understand and complete a form on their own when tagging it.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">AI does not always understand the document&#8217;s context or the consequences of mispresenting information.</p>
+
+
+
+<p class="wp-block-paragraph">That is a significant limitation when the person relying on an accessible document for accurate information encounters incomplete or incomprehensible details.</p>
+
+
+
+<p class="wp-block-paragraph">The person using the accessibility feature relies on the document’s accuracy. They have no way of knowing that there is a problem with the information presented.</p>
+
+
+
+<h2 class="wp-block-heading">Can AI accurately verify its own work?</h2>
+
+
+
+<p class="wp-block-paragraph">This is where I believe organizations need to be especially cautious.</p>
+
+
+
+<p class="wp-block-paragraph">Using one automated tool to remediate a document and another to check it may create a false sense of security. A checker can confirm that certain technical elements are present, but it cannot always determine whether those elements are correct, meaningful, or usable.</p>
+
+
+
+<p class="wp-block-paragraph">A document can get a good automated score. It may still have serious accessibility problems. The fact that an automated check has been passed does not mean that equal access has been provided.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1920" height="1280" src="https://brailleworks.com/wp-content/uploads/2022/01/Man-listening-to-audio-on-computer.jpg" alt="Elderly man listening to audio on a computer with headphones" class="wp-image-18692" srcset="https://brailleworks.com/wp-content/uploads/2022/01/Man-listening-to-audio-on-computer.jpg 1920w, https://brailleworks.com/wp-content/uploads/2022/01/Man-listening-to-audio-on-computer-250x167.jpg 250w, https://brailleworks.com/wp-content/uploads/2022/01/Man-listening-to-audio-on-computer-700x467.jpg 700w, https://brailleworks.com/wp-content/uploads/2022/01/Man-listening-to-audio-on-computer-768x512.jpg 768w, https://brailleworks.com/wp-content/uploads/2022/01/Man-listening-to-audio-on-computer-1536x1024.jpg 1536w, https://brailleworks.com/wp-content/uploads/2022/01/Man-listening-to-audio-on-computer-120x80.jpg 120w" sizes="auto, (max-width: 1920px) 100vw, 1920px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Some documents carry a much greater risk.</h2>
+
+
+
+<p class="wp-block-paragraph">Not every inaccessible document creates the same level of immediate harm. <a href="https://brailleworks.com/doj-web-accessibility-guidance/">Public entities</a> may have thousands of documents. This is why they need to establish priorities as they work toward accessibility.</p>
+
+
+
+<p class="wp-block-paragraph">Documents that are both high-risk and frequently used should receive immediate attention. This may include:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Emergency alerts and evacuation instructions</li>
+
+
+
+<li>Shelter locations and disaster-response information</li>
+
+
+
+<li>Court notices, hearing instructions, and legal deadlines</li>
+
+
+
+<li>Healthcare information and medication instructions</li>
+
+
+
+<li>Benefits applications and eligibility decisions</li>
+
+
+
+<li>Voting information</li>
+
+
+
+<li>Complaint and appeal procedures</li>
+
+
+
+<li>Forms required to access public programs or services</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Imagine receiving evacuation instructions that your screen reader cannot interpret accurately.&nbsp; Missing a court date because information was presented in an incorrect reading order. What about being unable to complete a benefits application or to understand how to appeal a decision because the form was inaccessible? These are not minor inconveniences. They can affect a person’s safety, independence, legal rights, and ability to make informed decisions.</p>
+
+
+
+<p class="wp-block-paragraph">I think that if the consequences of an error are serious, letting AI make the final accessibility decision involves an unnecessary risk.</p>
+
+
+
+<h2 class="wp-block-heading">Qualified human review matters</h2>
+
+
+
+<p class="wp-block-paragraph">A qualified accessibility professional can evaluate documents that require context, judgment, and an understanding of how people with disabilities use assistive technology.</p>
+
+
+
+<p class="wp-block-paragraph">How do you find a <a href="https://brailleworks.com/wild-west-accessible-pdf-remediation/">qualified accessibility professional</a>?</p>
+
+
+
+<p class="wp-block-paragraph">Look for those who have completed accredited accessibility-testing programs, such as <a href="https://www.section508.gov/test/trusted-tester/">the Department of Homeland Security Section 508 Trusted Tester certification</a> or the <a href="https://www.accessibilityassociation.org/ads-exam">International Association of Accessibility Professionals (IAAP)</a>. These certifications indicate that the individual has received formal training in a standardized, repeatable method for assessing accessibility compliance.</p>
+
+
+
+<p class="wp-block-paragraph">Training employees to create more accessible source documents can also reduce errors and help control remediation costs. However, training, AI, and automated tools do not eliminate the need for qualified human review.</p>
+
+
+
+<h2 class="wp-block-heading">Takeaway #3</h2>
+
+
+
+<p class="wp-block-paragraph">When a document affects someone’s safety, health, legal rights, benefits, or access to government services, “the computer said it passed” is not enough.</p>
+
+
+
+<p class="wp-block-paragraph">Although AI can assist with document remediation, it should not be relied upon to carry out or verify the whole process without a <a href="https://brailleworks.com/why-web-accessibility-still-relies-on-human-action/">qualified human</a> being involved.</p>
+
+
+
+<p class="wp-block-paragraph">Accessibility ensures that people with disabilities can access information, understand it, make decisions, and take action without relying on others. It also ensures that people can remain independent by managing their own healthcare, handling an emergency, understanding their legal obligations, applying for benefits, voting, and protecting their rights, all with the same level of privacy and control as everyone else.</p>
+
+
+
+<p class="wp-block-paragraph">A person has lost the ability to manage their own life when they must ask someone else to read a notice, fill in a form, or explain their rights. So, AI is not a suitable cost-saving method when it comes to someone’s life, safety, and independence.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Related:</strong> <a href="https://brailleworks.com/national-ada-symposium-effective-communication-responsibility/">National ADA Symposium Takeaway #2: Effective Communication is a Title II Responsibility</a></p>
+
+
+
+<p class="wp-block-paragraph"><a id="_msocom_1"></a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>The post <a href="https://brailleworks.com/national-ada-symposium-ai-can-assist-with-document-remediation/">National ADA Symposium Takeaway #3: AI Can Assist with Document Remediation. Human Review Protects Independence.</a> appeared first on <a href="https://brailleworks.com">Braille Works</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Age-Related Vision Problems &#038; Your Customers</title>
+		<link>https://brailleworks.com/age-related-vision-problems-your-customers/</link>
+		
+		<dc:creator><![CDATA[Jessica Sanders]]></dc:creator>
+		<pubDate>Tue, 18 Aug 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[Informational]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://braille-works.local/?p=15436</guid>
+
+					<description><![CDATA[<p>Age-related vision problems will eventually affect everyone. Some people are more affected than others, but as we age, our visual acuity declines.&#160; Because so many people experience poor vision as they age, large print is one of the most requested accessible formats. Larger print, more widely used than braille, benefits a wide range of people at [&#8230;]</p>
+<p>The post <a href="https://brailleworks.com/age-related-vision-problems-your-customers/">Age-Related Vision Problems &#038; Your Customers</a> appeared first on <a href="https://brailleworks.com">Braille Works</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="700" height="467" src="https://brailleworks.com/wp-content/uploads/2020/08/eyeglasses-679696_1920-700x467.jpg" alt="Nose and mouth of a person with their face in an eye exam machine" class="wp-image-15438" srcset="https://brailleworks.com/wp-content/uploads/2020/08/eyeglasses-679696_1920-700x467.jpg 700w, https://brailleworks.com/wp-content/uploads/2020/08/eyeglasses-679696_1920-250x167.jpg 250w, https://brailleworks.com/wp-content/uploads/2020/08/eyeglasses-679696_1920-768x512.jpg 768w, https://brailleworks.com/wp-content/uploads/2020/08/eyeglasses-679696_1920-1536x1024.jpg 1536w, https://brailleworks.com/wp-content/uploads/2020/08/eyeglasses-679696_1920-120x80.jpg 120w, https://brailleworks.com/wp-content/uploads/2020/08/eyeglasses-679696_1920.jpg 1920w" sizes="auto, (max-width: 700px) 100vw, 700px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Age-related vision problems will eventually affect everyone. Some people are more affected than others, but as we age, our visual acuity declines.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Because so many people experience poor vision as they age, <span><a href="https://brailleworks.com/large-print/" target="_blank" rel="noreferrer noopener">large print</a></span> is one of the most requested accessible formats. Larger print, more widely used than <a href="https://brailleworks.com/braille/">braille</a>, benefits a wide range of people at various stages of life. So, why should you incorporate large print into your company’s offerings? Who does it benefit and how does it benefit your company? Let’s explore these questions.</p>
+
+
+
+<h2 class="wp-block-heading">Age-related vision problems</h2>
+
+
+
+<p class="wp-block-paragraph">Did you know that there are several common age-related vision problems? Think about it: How many people over the age of 45 do you know who wear glasses or contacts regularly? Many people use them for reading, at the very least. Declining vision as people age is expected, and there are a plethora of age-related eye conditions.</p>
+
+
+
+<p class="wp-block-paragraph">One of the most common <span><a href="https://my.clevelandclinic.org/health/diseases/common-age-related-eye-problems" target="_blank" rel="noreferrer noopener">age-related vision changes</a></span> shows up in your 40s. It’s called Presbyopia. The term may sound intimidating, but it simply means that your eyes have more difficulty focusing on nearby objects and small text. Presbyopia generally worsens until the mid-60s and can usually be corrected with reading glasses, prescription glasses, contacts, or other treatments.</p>
+
+
+
+<p class="wp-block-paragraph">As we continue to age, other common eye diseases and disorders can develop. These include cataracts, glaucoma, age-related macular degeneration, diabetic retinopathy, and corneal diseases, to name a few. These common diseases and disorders cause a range of vision problems from reduced vision to blindness.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">There’s no arguing that, in one way or another, our eyes fail us as we age. But why is this important to you and your company?</p>
+
+
+<div class="wp-block-image is-resized">
+<figure class="alignright size-medium"><img loading="lazy" decoding="async" width="250" height="344" src="https://brailleworks.com/wp-content/uploads/2017/08/Man-Struggling-to-Read-Regular-Print744x1024-250x344.jpg" alt="Elderly man reading newspaper on the veranda" class="wp-image-11210" srcset="https://brailleworks.com/wp-content/uploads/2017/08/Man-Struggling-to-Read-Regular-Print744x1024-250x344.jpg 250w, https://brailleworks.com/wp-content/uploads/2017/08/Man-Struggling-to-Read-Regular-Print744x1024-700x963.jpg 700w, https://brailleworks.com/wp-content/uploads/2017/08/Man-Struggling-to-Read-Regular-Print744x1024-120x165.jpg 120w, https://brailleworks.com/wp-content/uploads/2017/08/Man-Struggling-to-Read-Regular-Print744x1024.jpg 744w" sizes="auto, (max-width: 250px) 100vw, 250px" /></figure>
+</div>
+
+
+<h2 class="wp-block-heading">Why this is important</h2>
+
+
+
+<p class="wp-block-paragraph">The majority of people with vision issues also have the greatest spending power.</p>
+
+
+
+<p class="wp-block-paragraph">Did you know that the&nbsp;Baby Boomer&nbsp;generation—people born from 1946 through 1964 who turn 62 through 80 in 2026—holds more than half of the nation’s wealth? This generation boasts <span><a href="https://www.federalreserve.gov/releases/z1/dataviz/dfa/distribute/table/#quarter:146;series:Net%20worth;demographic:generation;population:all;units:levels" target="_blank" rel="noreferrer noopener">$89.8 trillion</a></span> in net worth. That’s a lot of money they could spend on your products or services.</p>
+
+
+
+<p class="wp-block-paragraph">Reaching this massive pool of wealth means making the Baby Boomers’ shopping experience pleasant and easy. And, because of common age-related vision problems, large print becomes a major asset in doing just that.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Related: </strong><span><a href="https://brailleworks.com/benefits-large-print-documents-might-surprised/" target="_blank" rel="noreferrer noopener">Who Benefits from Large Print Documents? You Might be Surprised.</a></span></p>
+
+
+
+<h2 class="wp-block-heading">Enter large print</h2>
+
+
+
+<p class="wp-block-paragraph">The Baby Boomer generation, as well as people with visual disabilities, need to be able to read your marketing materials. In addition, they need to be able to read their credit card <span><a href="https://brailleworks.com/banking-financial/" target="_blank" rel="noreferrer noopener">statements</a></span>, <span><a href="https://brailleworks.com/reasons-accessible-healthcare-documents-matter/" target="_blank" rel="noreferrer noopener">medical</a></span> information, <span><a href="https://brailleworks.com/braille-and-large-print-menus-bring-dining-dignity/" target="_blank" rel="noreferrer noopener">menus</a></span>, and other documents your company provides to its customers.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Properly formatted large print is crucial for people with severe vision issues. Large print benefits your customers because it reduces eye strain, provides high contrast, and presents information in a way that’s easy to understand. It contributes to the pleasant and easy experience you want your customers to have when shopping for your goods and services.</p>
+
+
+<div class="wp-block-image is-resized">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="700" height="474" src="https://brailleworks.com/wp-content/uploads/2020/08/woman-with-glass-not-able-to-see-text-in-book-700x474.jpeg" alt="Woman with glasses struggling to read the print in a book" class="wp-image-15440" style="width:700px;height:auto" srcset="https://brailleworks.com/wp-content/uploads/2020/08/woman-with-glass-not-able-to-see-text-in-book-700x474.jpeg 700w, https://brailleworks.com/wp-content/uploads/2020/08/woman-with-glass-not-able-to-see-text-in-book-250x169.jpeg 250w, https://brailleworks.com/wp-content/uploads/2020/08/woman-with-glass-not-able-to-see-text-in-book-768x520.jpeg 768w, https://brailleworks.com/wp-content/uploads/2020/08/woman-with-glass-not-able-to-see-text-in-book-1536x1039.jpeg 1536w, https://brailleworks.com/wp-content/uploads/2020/08/woman-with-glass-not-able-to-see-text-in-book-120x81.jpeg 120w, https://brailleworks.com/wp-content/uploads/2020/08/woman-with-glass-not-able-to-see-text-in-book.jpeg 1920w" sizes="auto, (max-width: 700px) 100vw, 700px" /></figure>
+</div>
+
+
+<h2 class="wp-block-heading">Beyond small print</h2>
+
+
+
+<p class="wp-block-paragraph">Don’t leave money on the table. Make sure you’re reaching everyone with your print materials. Large print not only provides independence for people with age-related vision problems and visual disabilities but also offers a pleasant, easy experience when interacting with your company.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Bonus:</strong> Baby Boomers aren’t the only generation to consider. <span><a href="https://smartasset.com/checking-account/how-different-generations-spend-money-2020" target="_blank" rel="noreferrer noopener">Gen Xers</a></span>, born between 1965 and 1980, are now in their mid-40s to early 60s. Many are already experiencing the vision changes that make small print harder to read. By offering large print now, you’ll be ready for what your customers need next.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>The post <a href="https://brailleworks.com/age-related-vision-problems-your-customers/">Age-Related Vision Problems &#038; Your Customers</a> appeared first on <a href="https://brailleworks.com">Braille Works</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>National ADA Symposium Takeaway #2: Effective Communication is a Title II Responsibility</title>
+		<link>https://brailleworks.com/national-ada-symposium-effective-communication-responsibility/</link>
+		
+		<dc:creator><![CDATA[Christine Fioritto-Sket]]></dc:creator>
+		<pubDate>Thu, 13 Aug 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://brailleworks.com/?p=24537</guid>
+
+					<description><![CDATA[<p>Effective communication came up in more than one session at this year’s National ADA Symposium. I heard it discussed in connection with digital access, healthcare, emergency planning, public services, and the role of the ADA Coordinator. That is not surprising. Public entities communicate with people all day, every day. They send emails and notices. They [&#8230;]</p>
+<p>The post <a href="https://brailleworks.com/national-ada-symposium-effective-communication-responsibility/">National ADA Symposium Takeaway #2: Effective Communication is a Title II Responsibility</a> appeared first on <a href="https://brailleworks.com">Braille Works</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="700" height="467" src="https://brailleworks.com/wp-content/uploads/2021/02/justice-2060093_1920-700x467.jpg" alt="Statue of lady justice" class="wp-image-16145" srcset="https://brailleworks.com/wp-content/uploads/2021/02/justice-2060093_1920-700x467.jpg 700w, https://brailleworks.com/wp-content/uploads/2021/02/justice-2060093_1920-250x167.jpg 250w, https://brailleworks.com/wp-content/uploads/2021/02/justice-2060093_1920-768x512.jpg 768w, https://brailleworks.com/wp-content/uploads/2021/02/justice-2060093_1920-1536x1024.jpg 1536w, https://brailleworks.com/wp-content/uploads/2021/02/justice-2060093_1920-120x80.jpg 120w, https://brailleworks.com/wp-content/uploads/2021/02/justice-2060093_1920.jpg 1920w" sizes="auto, (max-width: 700px) 100vw, 700px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Effective communication came up in more than one session at this year’s National <a href="https://gpadacenter.org/national-ada-symposium/">ADA Symposium</a>. I heard it discussed in connection with digital access, healthcare, emergency planning, public services, and the role of the ADA Coordinator.</p>
+
+
+
+<p class="wp-block-paragraph">That is not surprising. Public entities communicate with people all day, every day.</p>
+
+
+
+<p class="wp-block-paragraph">They send emails and notices. They hold meetings, answer phones, create forms, post videos, and send emergency alerts.</p>
+
+
+
+<p class="wp-block-paragraph">The question is not only whether the information was sent.</p>
+
+
+
+<p class="wp-block-paragraph">The real question is whether the person receiving it could access it, understand it, and respond.</p>
+
+
+
+<h2 class="wp-block-heading">What does effective communication mean?</h2>
+
+
+
+<p class="wp-block-paragraph">Providing information and communicating effectively are not always the same thing.</p>
+
+
+
+<p class="wp-block-paragraph">An email is not automatically accessible. A microphone does not provide captioning. Automatic captions are not helpful when they are inaccurate. Posting a picture of a flyer online does not make the information in that flyer accessible.</p>
+
+
+
+<p class="wp-block-paragraph">Under <a href="https://brailleworks.com/doj-web-accessibility-guidance/">Title II</a>, state and local government entities must communicate with people who have vision, hearing, or speech disabilities as effectively as they communicate with everyone else.</p>
+
+
+
+<p class="wp-block-paragraph">When an aid or service is needed, the public entity must provide one that gives the person an equal opportunity to understand the information and participate.</p>
+
+
+
+<p class="wp-block-paragraph">This is not about checking a box or being able to say that something was offered.</p>
+
+
+
+<p class="wp-block-paragraph">The communication must actually work.</p>
+
+
+
+<h2 class="wp-block-heading">The situation matters</h2>
+
+
+
+<p class="wp-block-paragraph">A quick written note may be enough for a simple question. It may not be enough during a public hearing, police interview, medical discussion, or emergency.</p>
+
+
+
+<p class="wp-block-paragraph">Depending on the situation, <a href="https://brailleworks.com/ada-effective-communication-beyond-digital-accessibility/">effective communication</a> may require:</p>
+
+
+
+<ul class="wp-block-list">
+<li>A qualified sign language interpreter</li>
+
+
+
+<li>Real-time captioning</li>
+
+
+
+<li>An assistive listening system</li>
+
+
+
+<li><a href="https://brailleworks.com/solutions/braille/">Braille</a></li>
+
+
+
+<li><a href="https://brailleworks.com/solutions/large-print/">Large print</a></li>
+
+
+
+<li><a href="https://brailleworks.com/solutions/audio/">Audio</a></li>
+
+
+
+<li>An <a href="https://brailleworks.com/solutions/508-document-compliance/">accessible electronic document</a></li>
+
+
+
+<li>A qualified reader</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">The length, complexity, context, and importance of the conversation all matter.</p>
+
+
+
+<p class="wp-block-paragraph">There is no single answer that works in every situation.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="700" height="394" src="https://brailleworks.com/wp-content/uploads/2024/01/Product-Collage-700x394.jpg" alt="Collage of large print, braille, and audio CD" class="wp-image-21822" srcset="https://brailleworks.com/wp-content/uploads/2024/01/Product-Collage-700x394.jpg 700w, https://brailleworks.com/wp-content/uploads/2024/01/Product-Collage-250x141.jpg 250w, https://brailleworks.com/wp-content/uploads/2024/01/Product-Collage-768x432.jpg 768w, https://brailleworks.com/wp-content/uploads/2024/01/Product-Collage-120x67.jpg 120w, https://brailleworks.com/wp-content/uploads/2024/01/Product-Collage.jpg 1366w" sizes="auto, (max-width: 700px) 100vw, 700px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Ask the person</h2>
+
+
+
+<p class="wp-block-paragraph">One point that came through clearly at the ADA Symposium was the importance of asking people what works for them instead of making that decision for them.</p>
+
+
+
+<p class="wp-block-paragraph">The person with the disability usually knows which communication method is effective.</p>
+
+
+
+<p class="wp-block-paragraph">Title II requires public entities to give primary consideration to the aid or service requested by the individual.</p>
+
+
+
+<p class="wp-block-paragraph">This does not mean every request must automatically be approved exactly as it was made. It does mean the entity should listen, understand why the method is being requested, and avoid replacing it with another option unless that option will be equally effective.</p>
+
+
+
+<h2 class="wp-block-heading">One size does not fit all</h2>
+
+
+
+<p class="wp-block-paragraph">Not every person who is blind reads braille.</p>
+
+
+
+<p class="wp-block-paragraph">Not every person who is deaf uses sign language.</p>
+
+
+
+<p class="wp-block-paragraph">People use different technology, communication methods, and accessible formats.</p>
+
+
+
+<p class="wp-block-paragraph">For many people in the Deaf community, American Sign Language is their first or primary language, and English is a second language. ASL has its own grammar and sentence structure. It is not simply English communicated through hand signs.</p>
+
+
+
+<p class="wp-block-paragraph">Because of this, exchanging written notes may not be effective during a detailed, private, or important conversation.</p>
+
+
+
+<p class="wp-block-paragraph">Sometimes the easiest and most respectful thing to do is ask:</p>
+
+
+
+<p class="wp-block-paragraph"><strong>What do you need for this communication to be effective?</strong></p>
+
+
+
+<h2 class="wp-block-heading">The individual should not have to pay</h2>
+
+
+
+<p class="wp-block-paragraph">A Title II entity cannot charge a person with a disability for an interpreter, captioning, an alternate format, or another aid or service needed for effective communication.</p>
+
+
+
+<p class="wp-block-paragraph">A person may choose to bring a companion, caregiver, or support person. That choice should be respected.</p>
+
+
+
+<p class="wp-block-paragraph">However, the entity generally cannot require the person to bring someone or rely on that person instead of providing an appropriate aid or service. There are limited exceptions during certain emergencies when there is an immediate threat to safety and no qualified interpreter is available.</p>
+
+
+
+<p class="wp-block-paragraph">Privacy and independence also matter.</p>
+
+
+
+<p class="wp-block-paragraph">A family member should not be placed in the middle of a serious, personal, or complicated conversation simply because using that person appears easier or costs less.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://brailleworks.com/wp-content/uploads/2026/06/AccessibilityExperts-1024x576.jpg" alt="An accessibility expert in their office remediating a PDF" class="wp-image-24375" srcset="https://brailleworks.com/wp-content/uploads/2026/06/AccessibilityExperts-1024x576.jpg 1024w, https://brailleworks.com/wp-content/uploads/2026/06/AccessibilityExperts-300x169.jpg 300w, https://brailleworks.com/wp-content/uploads/2026/06/AccessibilityExperts-768x432.jpg 768w, https://brailleworks.com/wp-content/uploads/2026/06/AccessibilityExperts-1536x864.jpg 1536w, https://brailleworks.com/wp-content/uploads/2026/06/AccessibilityExperts-scaled.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Vendors do not remove the responsibility</h2>
+
+
+
+<p class="wp-block-paragraph">Effective communication requirements still apply when a vendor is providing the service.</p>
+
+
+
+<p class="wp-block-paragraph">A vendor may run the event, produce the video, manage the website, <a href="https://brailleworks.com/wild-west-accessible-pdf-remediation/">create the documents</a>, or operate the program. The contract can require that vendor to provide interpreters, captioning, accessible materials, and other communication access.</p>
+
+
+
+<p class="wp-block-paragraph">But when the vendor gets it wrong, it can quickly become the public entity’s ADA problem.</p>
+
+
+
+<p class="wp-block-paragraph">That is why these requirements should be discussed and placed in the contract before the work begins.</p>
+
+
+
+<h2 class="wp-block-heading">Where can an entity start?</h2>
+
+
+
+<p class="wp-block-paragraph">A few steps can make a real difference with effective communication:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Create a written effective communication policy.</li>
+
+
+
+<li>Develop a list of qualified providers before an urgent request is received.</li>
+
+
+
+<li>Include effective communication requirements in vendor contracts.</li>
+
+
+
+<li>Add clear accommodation request information to notices and event materials.</li>
+
+
+
+<li>Review documents, forms, websites, and videos before publishing them for compliance.</li>
+
+
+
+<li>Plan for communication access during emergencies</li>
+
+
+
+<li>Train employees on how to handle requests for alternate communication needs.</li>
+
+
+
+<li>Document requests, decisions, and the services provided.</li>
+
+
+
+<li>Follow up to make sure the communication method worked.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">A policy stored in a folder is not enough.</p>
+
+
+
+<p class="wp-block-paragraph">Employees need to know that it exists, where to find it, who to contact, and what to do when someone requests help.</p>
+
+
+
+<p class="wp-block-paragraph">Effective communication does not have to be complicated. It starts with listening, planning, and understanding that people do not all communicate in the same way.</p>
+
+
+
+<h2 class="wp-block-heading">Takeaway #2</h2>
+
+
+
+<p class="wp-block-paragraph">Providing information is not enough.</p>
+
+
+
+<p class="wp-block-paragraph">Under Title II, the communication must be timely, accurate, accessible, and effective for the person receiving it.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Related: </strong><a href="https://brailleworks.com/national-ada-symposium-who-is-responsible/">National ADA Symposium Takeaway #1: Who Is Responsible?</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>The post <a href="https://brailleworks.com/national-ada-symposium-effective-communication-responsibility/">National ADA Symposium Takeaway #2: Effective Communication is a Title II Responsibility</a> appeared first on <a href="https://brailleworks.com">Braille Works</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>National ADA Symposium Takeaway #1: Who Is Responsible?</title>
+		<link>https://brailleworks.com/national-ada-symposium-who-is-responsible/</link>
+		
+		<dc:creator><![CDATA[Christine Fioritto-Sket]]></dc:creator>
+		<pubDate>Thu, 06 Aug 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[Government]]></category>
+		<guid isPermaLink="false">https://brailleworks.com/?p=24531</guid>
+
+					<description><![CDATA[<p>On July 26, the Americans with Disabilities Act (ADA) marked 36 years as a civil rights law. At its core, the ADA is about equal access and equal opportunity for people with disabilities. That includes employment, businesses, transportation, communication, and access to state and local government programs and services. After attending and moderating several sessions [&#8230;]</p>
+<p>The post <a href="https://brailleworks.com/national-ada-symposium-who-is-responsible/">National ADA Symposium Takeaway #1: Who Is Responsible?</a> appeared first on <a href="https://brailleworks.com">Braille Works</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="655" src="https://brailleworks.com/wp-content/uploads/2026/08/Gavel-Person-working-1024x655.jpg" alt="Man working on a laptop surrounded by books behind a gavel" class="wp-image-24534" srcset="https://brailleworks.com/wp-content/uploads/2026/08/Gavel-Person-working-1024x655.jpg 1024w, https://brailleworks.com/wp-content/uploads/2026/08/Gavel-Person-working-300x192.jpg 300w, https://brailleworks.com/wp-content/uploads/2026/08/Gavel-Person-working-768x492.jpg 768w, https://brailleworks.com/wp-content/uploads/2026/08/Gavel-Person-working-1536x983.jpg 1536w, https://brailleworks.com/wp-content/uploads/2026/08/Gavel-Person-working-scaled.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph">On July 26, the <a href="https://brailleworks.com/happy-anniversary-ada/">Americans with Disabilities Act</a> (ADA) marked 36 years as a civil rights law.</p>
+
+
+
+<p class="wp-block-paragraph">At its core, the ADA is about equal access and equal opportunity for people with disabilities. That includes employment, businesses, transportation, communication, and access to state and local government programs and services.</p>
+
+
+
+<p class="wp-block-paragraph">After attending and moderating several sessions at this year’s <a href="https://gpadacenter.org/national-ada-symposium/">National ADA Symposium</a>, I wanted to share some of the points that stood out to me.</p>
+
+
+
+<p class="wp-block-paragraph">Across the sessions on the role of the ADA Coordinator, digital access, effective communication, and emergency planning, one theme came through clearly:</p>
+
+
+
+<h2 class="wp-block-heading">ADA compliance cannot belong to one person.</h2>
+
+
+
+<p class="wp-block-paragraph">I often hear this question, and it was central to conference attendees:</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Who is responsible for <a href="https://brailleworks.com/doj-web-accessibility-guidance/">ADA Title II</a> compliance?</strong></p>
+
+
+
+<p class="wp-block-paragraph">Is it the ADA Coordinator?</p>
+
+
+
+<p class="wp-block-paragraph">The department providing the service?</p>
+
+
+
+<p class="wp-block-paragraph">The vendor?</p>
+
+
+
+<p class="wp-block-paragraph">The contractor?</p>
+
+
+
+<p class="wp-block-paragraph">Here is the answer that sometimes surprises people:</p>
+
+
+
+<p class="wp-block-paragraph"><strong>The public entity is responsible, as a whole.</strong></p>
+
+
+
+<p class="wp-block-paragraph">For a city, county, school district, or other government agency, Title II applies to all its programs, services, activities, communications, and facilities.</p>
+
+
+
+<p class="wp-block-paragraph">That responsibility does not disappear when someone else is doing the work.</p>
+
+
+
+<p class="wp-block-paragraph">A city may hire a vendor to plan a festival, create a website, provide transportation, manage a program, or design an application. The contract may require the vendor to meet accessibility standards and correct problems it creates.</p>
+
+
+
+<p class="wp-block-paragraph">However, the public entity still must make sure the final program or service is accessible. Title II applies whether a service is provided directly or through a contractual, licensing, or other arrangement.</p>
+
+
+
+<p class="wp-block-paragraph">I like to explain it this way:</p>
+
+
+
+<h2 class="wp-block-heading">The work can be delegated. The legal responsibility cannot.</h2>
+
+
+
+<p class="wp-block-paragraph">This does not mean departments and vendors get a free pass. A public entity can—and should—create policies, contract requirements, and consequences when accessibility standards are not followed.</p>
+
+
+
+<p class="wp-block-paragraph">The goal is to make everyone’s responsibility clear before a problem happens.</p>
+
+
+
+<h2 class="wp-block-heading">What about the ADA Coordinator?</h2>
+
+
+
+<p class="wp-block-paragraph">A Title II agency with 50 or more employees must name at least one person to coordinate its ADA responsibilities. This person is commonly called the ADA Coordinator.</p>
+
+
+
+<p class="wp-block-paragraph">The ADA Coordinator plays an important guiding role, but that person cannot review every document, attend every event, inspect every facility, monitor every vendor, and catch every barrier. The organization&#8217;s team effort is essential.</p>
+
+
+
+<p class="wp-block-paragraph">The coordinator helps guide the process. The rest of the organization still must do the work.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://brailleworks.com/wp-content/uploads/2026/08/Professional-Woman-adjusting-glasses-1024x683.jpg" alt="Woman in an office with other coworkers holding a clipboard and adjusting her glasses" class="wp-image-24533" srcset="https://brailleworks.com/wp-content/uploads/2026/08/Professional-Woman-adjusting-glasses-1024x683.jpg 1024w, https://brailleworks.com/wp-content/uploads/2026/08/Professional-Woman-adjusting-glasses-300x200.jpg 300w, https://brailleworks.com/wp-content/uploads/2026/08/Professional-Woman-adjusting-glasses-768x512.jpg 768w, https://brailleworks.com/wp-content/uploads/2026/08/Professional-Woman-adjusting-glasses-1536x1024.jpg 1536w, https://brailleworks.com/wp-content/uploads/2026/08/Professional-Woman-adjusting-glasses-scaled.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">It takes a team.</h2>
+
+
+
+<p class="wp-block-paragraph">Leadership sets expectations and provides support.</p>
+
+
+
+<p class="wp-block-paragraph">Departments build accessibility into their daily work.</p>
+
+
+
+<p class="wp-block-paragraph">Procurement includes accessibility in contracts and purchasing decisions.</p>
+
+
+
+<p class="wp-block-paragraph">Project managers monitor vendors and review what is delivered.</p>
+
+
+
+<p class="wp-block-paragraph">Employees follow the policies and know where to send questions or requests.</p>
+
+
+
+<p class="wp-block-paragraph">The ADA Coordinator helps connect the pieces and identify areas of risk.</p>
+
+
+
+<h2 class="wp-block-heading">Start with universal design.</h2>
+
+
+
+<p class="wp-block-paragraph">Universal design means creating products, spaces, communications, and services so they can be used by as many people as possible from the beginning, without needing to redesign everything later.</p>
+
+
+
+<p class="wp-block-paragraph">Universal design is a planning approach. It does not replace the specific requirements of the ADA. It is designing with everyone in mind.</p>
+
+
+
+<p class="wp-block-paragraph">Universal design is a planning approach that helps organizations think about access early, when changes are usually easier, faster, and less expensive. This empowers teams to prevent issues before they arise.</p>
+
+
+
+<p class="wp-block-paragraph">Think about accessibility when:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Planning an event</li>
+
+
+
+<li>Creating a form or public notice</li>
+
+
+
+<li>Purchasing software</li>
+
+
+
+<li>Updating a website</li>
+
+
+
+<li>Writing a policy</li>
+
+
+
+<li>Applying for a grant</li>
+
+
+
+<li>Preparing emergency information</li>
+
+
+
+<li>Hiring a vendor.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">A few practical places to begin.</h2>
+
+
+
+<p class="wp-block-paragraph">Title II entities can take some simple steps to make accessibility part of every department:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Identify an accessibility contact within each department</li>
+
+
+
+<li>Include the ADA Coordinator early in higher-risk projects</li>
+
+
+
+<li>Add accessibility requirements to contracts and purchasing documents</li>
+
+
+
+<li>Use accessibility checklists for events, websites, documents, and communications</li>
+
+
+
+<li>Train employees on how to recognize and route accessibility requests</li>
+
+
+
+<li>Require vendors to explain how they will provide access</li>
+
+
+
+<li>Track complaints, barriers, and corrective actions</li>
+
+
+
+<li>Review policies and programs regularly instead of waiting for a complaint</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">The effectiveness of policies depends on employees understanding them, departments following them, and vendors knowing the City will enforce accessibility standards.</p>
+
+
+
+<p class="wp-block-paragraph">The good news is that many accessibility problems can be prevented with clear expectations, good planning, strong contracts, and communication before the work begins.</p>
+
+
+
+<h2 class="wp-block-heading">Takeaway #1</h2>
+
+
+
+<p class="wp-block-paragraph">ADA Title II compliance is everyone’s job, but the public entity is ultimately responsible.</p>
+
+
+
+<p class="wp-block-paragraph">Accessibility works best when it is built into the process, not added after someone has already been left out.</p>
+<p>The post <a href="https://brailleworks.com/national-ada-symposium-who-is-responsible/">National ADA Symposium Takeaway #1: Who Is Responsible?</a> appeared first on <a href="https://brailleworks.com">Braille Works</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Happy Anniversary, ADA! Here&#8217;s to 36 Years of Success.</title>
+		<link>https://brailleworks.com/happy-anniversary-ada/</link>
+		
+		<dc:creator><![CDATA[Jessica Sanders]]></dc:creator>
+		<pubDate>Sun, 26 Jul 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://brailleworks.com/?p=24518</guid>
+
+					<description><![CDATA[<p>Quick Takeaways Throwback to 1990 Even though many may not know it, July 26 holds significance for Americans. It’s the anniversary of the Americans with Disabilities Act (ADA) becoming law in 1990. Happy anniversary, ADA! This law improved the civil rights of millions of Americans and was a step toward equality, making it a day [&#8230;]</p>
+<p>The post <a href="https://brailleworks.com/happy-anniversary-ada/">Happy Anniversary, ADA! Here&#8217;s to 36 Years of Success.</a> appeared first on <a href="https://brailleworks.com">Braille Works</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Quick Takeaways</h2>
+
+
+
+<ul class="wp-block-list">
+<li>We&#8217;re saying &#8220;Happy anniversary!&#8221; to the Americans with Disabilities Act (ADA) which turns 36 this year.</li>
+
+
+
+<li>This law improved civil rights and provided equal treatment for people with disabilities.</li>
+
+
+
+<li>The ADA requires the removal of both physical and communication barriers.</li>
+
+
+
+<li>Providing accessible documents like braille, large print, audio, and accessible PDFs helps your organization comply with ADA standards and gives your customers a great experience.</li>
+</ul>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img decoding="async" src="https://brailleworks.com/wp-content/uploads/2020/07/sagar-patil-8UcNYpynFLU-unsplash-700x470.jpg" alt="Several colorful balloons on strings floating in the air"/></figure>
+</div>
+
+
+<h2 class="wp-block-heading">Throwback to 1990</h2>
+
+
+
+<p class="wp-block-paragraph">Even though many may not know it, July 26 holds significance for Americans. It’s the anniversary of the Americans with Disabilities Act (<span><a href="https://www.ada.gov/2010_regs.htm" target="_blank" rel="noopener">ADA</a></span>) becoming law in 1990. Happy anniversary, ADA! This law improved the civil rights of millions of Americans and was a step toward equality, making it a day worth celebrating.</p>
+
+
+
+<p class="wp-block-paragraph">Before the <span><a href="https://adata.org/learn-about-ada" target="_blank" rel="noopener">Americans with Disabilities Act</a></span> was law, people with disabilities encountered exclusion and unnecessary hurdles in many aspects of their daily lives. There were often barriers to accessing goods, services, and information. Did you know that it was legal to discriminate against and not hire people with disabilities before the ADA was passed?</p>
+
+
+
+<p class="wp-block-paragraph" id="ada-signing">When President George H. W. Bush signed the act, he said something that sadly rang true for many: “Let the shameful wall of exclusion, finally come tumbling down.”</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="The Americans with Disabilities Act, Signing Ceremony, July 26, 1990" width="500" height="281" src="https://www.youtube.com/embed/dFKicqqVME8?feature=oembed&#038;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h2 class="wp-block-heading">Before the ADA</h2>
+
+
+
+<p class="wp-block-paragraph">The ADA was not the first disability law, but it was revolutionary.</p>
+
+
+
+<p class="wp-block-paragraph">Before the ADA, there was the Rehabilitation Act of 1973. You may have heard of it, especially if you work for a federal agency. This law benefits everyone with a disability and is divided into Sections. Certain Sections are crucial and address topics like employment in Section 501, accommodations and modifications in <a href="https://brailleworks.com/section-504-guide/"><span>Section 504</span></a>, and digital accessibility in <a href="https://brailleworks.com/508-compliance-needs-compliant/"><span>Section 508</span></a>.</p>
+
+
+
+<p class="wp-block-paragraph">As helpful as the Rehabilitation Act is, not every organization has to follow it. This law only applies to government agencies and organizations receiving federal funding. That&#8217;s where the ADA comes in and why it&#8217;s so important.</p>
+
+
+
+<h2 class="wp-block-heading">5 Titles Worth Celebrating</h2>
+
+
+
+<p class="wp-block-paragraph">The ADA is divided into five parts, called Titles. Each Title outlines how organizations must include people with disabilities.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Title I</strong> focuses on employment and applies to companies with 15 or more employees. It ensures that people with disabilities have equal access to jobs and benefits. Title 1 also requires employers to provide reasonable accommodations to employees who need them. The U.S. Equal Employment Opportunity Commission (EEOC) enforces this part of the ADA.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Title II</strong> requires state and local governments to be more inclusive. It outlines how agencies should make their physical spaces and communications more accessible. The U.S. Department of Justice (DOJ) oversees this and Title III of the ADA.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Title III</strong> deals with private organizations. These businesses include hotels, private schools, doctor’s offices, and restaurants. Like Title II, it provides direction for removing physical and communication barriers.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Related: </strong><a href="https://brailleworks.com/title-ii-and-title-iii-ada-compliance/"><span>A Tale of Two Titles &#8211; Title II and Title III</span></a></p>
+
+
+
+<p class="wp-block-paragraph"><strong>Title IV</strong> focuses on telephone and internet companies. It requires them to make their services accessible to people with speech or hearing disabilities. The Federal Communications Commission (FCC) regulates this part of the ADA.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Title V</strong> provides more insight into the other Titles. It lays out how the ADA relates to other laws, how much attorneys can charge, and lists conditions that aren&#8217;t considered disabilities.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://brailleworks.com/wp-content/uploads/2020/07/personal-3108157_1920-700x467.jpg" alt="pencil drawing collage of the faces of people from all ages, abilities, and walks of life"/></figure>
+
+
+
+<h2 class="wp-block-heading">Why The ADA Matters</h2>
+
+
+
+<p class="wp-block-paragraph">We often take being able to do mundane activities for granted. When we enter a restaurant, we assume we’ll be able to read the menu. When we receive mail from our bank or doctor, we expect to be able to read it. But what if we couldn’t? How would we get the information we need?</p>
+
+
+
+<p class="wp-block-paragraph">Many people with visual disabilities have had to rely on sighted people to read things to them. However, this isn’t always appropriate. In a restaurant, a person with blindness may need a waiter or a friend to read the menu if no braille menu is available. They may also need someone to read their financial statements or medical information if their bank and doctors don’t provide accessible formats. So, at best, having someone read out information to a person with a visual impairment can be time-consuming and make the person with a visual disability feel awkward. At worst, it is an invasion of their privacy.</p>
+
+
+
+<p class="wp-block-paragraph">The removal of <span><a href="https://www.ada.gov/effective-comm.htm" target="_blank" rel="noopener">communication barriers</a></span> improves the civil rights of people with disabilities. This is just one example of why the ADA matters.</p>
+
+
+
+<h2 class="wp-block-heading">You Can Make a Difference</h2>
+
+
+
+<p class="wp-block-paragraph">Accessibility is here to stay, and your customers&#8217; experience is essential.</p>
+
+
+
+<p class="wp-block-paragraph">The Centers for Disease Control and Prevention (CDC) estimates that more than <a href="https://www.cdc.gov/disability-and-health/articles-documents/disability-impacts-all-of-us-infographic.html" target="_blank" rel="noreferrer noopener"><span>1 in 4 American adults</span></a> live with a disability. That means your organization likely reaches people who benefit from the ADA.</p>
+
+
+
+<p class="wp-block-paragraph">Being proactive in your organization&#8217;s accessibility efforts has a positive impact on your customers. But it&#8217;s important to remember that people have different needs. Offering various accessibility options allows your organization to meet people&#8217;s needs more quickly.</p>
+
+
+
+<p class="wp-block-paragraph">For example, providing accessible document formats, such as <a href="https://brailleworks.com/solutions/braille/" target="_blank" rel="noreferrer noopener"><span>braille</span></a>, <a href="https://brailleworks.com/large-print/" target="_blank" rel="noreferrer noopener"><span>large print</span></a>, <a href="https://brailleworks.com/audio/" target="_blank" rel="noreferrer noopener"><span>audio</span></a>, and <a href="https://brailleworks.com/508-document-compliance/" target="_blank" rel="noreferrer noopener"><span>accessible PDF</span>,</a> ensures your customers with visual disabilities receive information they can read.</p>
+
+
+
+<p class="wp-block-paragraph">The Americans with Disabilities Act marked significant progress for the civil rights of people with disabilities. That&#8217;s why we say, &#8220;Happy anniversary, ADA!&#8221; Being ADA compliant is more than checking a box. It affirms that your organization cares about its customers and wants to provide the best possible experience. Together, we are Making The World A More Readable Place<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />.</p>
+<p>The post <a href="https://brailleworks.com/happy-anniversary-ada/">Happy Anniversary, ADA! Here&#8217;s to 36 Years of Success.</a> appeared first on <a href="https://brailleworks.com">Braille Works</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>When Trends Ignore the Law: ADA Effective Communication Goes Beyond Digital Accessibility</title>
+		<link>https://brailleworks.com/ada-effective-communication-beyond-digital-accessibility/</link>
+		
+		<dc:creator><![CDATA[Christine Fioritto-Sket]]></dc:creator>
+		<pubDate>Thu, 23 Jul 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[Accessibility]]></category>
+		<guid isPermaLink="false">https://brailleworks.com/?p=24494</guid>
+
+					<description><![CDATA[<p>Right now, many organizations are chasing the newest compliance trend: digital accessibility. And to be clear, they should. Websites, mobile apps, PDFs, portals, and online forms need to be accessible. Web Content Accessibility Guidelines (WCAG) compliance matters. Digital access matters. The Department of Justice’s (DOJ) updated Americans with Disabilities Act (ADA) Title II rule has [&#8230;]</p>
+<p>The post <a href="https://brailleworks.com/ada-effective-communication-beyond-digital-accessibility/">When Trends Ignore the Law: ADA Effective Communication Goes Beyond Digital Accessibility</a> appeared first on <a href="https://brailleworks.com">Braille Works</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://brailleworks.com/wp-content/uploads/2026/07/Lapto-with-braille-display-1024x683.jpg" alt="Open laptop with refreshable braille display" class="wp-image-24496" srcset="https://brailleworks.com/wp-content/uploads/2026/07/Lapto-with-braille-display-1024x683.jpg 1024w, https://brailleworks.com/wp-content/uploads/2026/07/Lapto-with-braille-display-300x200.jpg 300w, https://brailleworks.com/wp-content/uploads/2026/07/Lapto-with-braille-display-768x512.jpg 768w, https://brailleworks.com/wp-content/uploads/2026/07/Lapto-with-braille-display-1536x1024.jpg 1536w, https://brailleworks.com/wp-content/uploads/2026/07/Lapto-with-braille-display-scaled.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Right now, many organizations are chasing the newest compliance trend: digital accessibility.</p>
+
+
+
+<p class="wp-block-paragraph">And to be clear, they should.</p>
+
+
+
+<p class="wp-block-paragraph">Websites, mobile apps, PDFs, portals, and online forms need to be accessible. Web Content Accessibility Guidelines <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">(WCAG) compliance</a> matters. Digital access matters. The Department of Justice’s (DOJ) updated Americans with Disabilities Act (ADA) Title II rule has made digital accessibility even more urgent for state and local governments. Organizations should review their digital content, fix inaccessible forms, remediate documents, and build accessibility into their technology.</p>
+
+
+
+<p class="wp-block-paragraph">But here is the problem:</p>
+
+
+
+<p class="wp-block-paragraph">Some organizations treat digital accessibility as the whole picture. It is not.</p>
+
+
+
+<h2 class="wp-block-heading">Effective Communication is an ADA Requirement</h2>
+
+
+
+<p class="wp-block-paragraph">Long before digital accessibility became the hot topic, the ADA already required covered entities to communicate effectively with people with disabilities. That requirement did not start with WCAG. It did not start with Diversity, Equity, and Inclusion (DEI). It did not start with a new trend, a lawsuit, or a website audit.</p>
+
+
+
+<p class="wp-block-paragraph">It has been part of the <a href="https://www.ada.gov/">Americans with Disabilities Act</a> since 1990.</p>
+
+
+
+<h2 class="wp-block-heading">What Does ADA Effective Communication Require?</h2>
+
+
+
+<p class="wp-block-paragraph">The ADA is a civil rights law. It protects people with disabilities from discrimination in many areas of public life. Under the ADA’s <a href="https://www.ada.gov/resources/effective-communication/">effective communication requirements</a>, covered entities must ensure that communication for people with disabilities is as effective as communication for people without disabilities. The DOJ explains this through the requirement to provide appropriate auxiliary aids and services when needed.</p>
+
+
+
+<p class="wp-block-paragraph">For people who are blind, have low vision, have print disabilities, or cannot access standard print, effective communication may include braille, large print, audio, accessible electronic documents, qualified readers, or other formats that allow the person to access the same information.</p>
+
+
+
+<p class="wp-block-paragraph">That means basic client-facing communication should not stop at “we have a website.”</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="700" height="394" src="https://brailleworks.com/wp-content/uploads/2024/01/DocCollage-700x394.jpg" alt="Collage of large print, braille, and audio CD" class="wp-image-21826" srcset="https://brailleworks.com/wp-content/uploads/2024/01/DocCollage-700x394.jpg 700w, https://brailleworks.com/wp-content/uploads/2024/01/DocCollage-250x141.jpg 250w, https://brailleworks.com/wp-content/uploads/2024/01/DocCollage-768x432.jpg 768w, https://brailleworks.com/wp-content/uploads/2024/01/DocCollage-120x67.jpg 120w, https://brailleworks.com/wp-content/uploads/2024/01/DocCollage.jpg 1366w" sizes="auto, (max-width: 700px) 100vw, 700px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Which Documents Should Be Available in Accessible Formats?</h2>
+
+
+
+<p class="wp-block-paragraph">If your organization has standard forms, notices, applications, instructions, disclosures, bills, patient forms, consent forms, policies, or other routine documents, those materials should be available in accessible formats. Braille, large print, audio, and accessible PDFs are not extras. They are part of the foundation of effective communication.</p>
+
+
+
+<p class="wp-block-paragraph">For standard documents, organizations should prepare before the request comes in. For specialized, unique, or one-time documents, organizations should have a clear process to provide accessible formats upon request.</p>
+
+
+
+<h2 class="wp-block-heading">What Should You Do When Someone Requests an Accessible Format?</h2>
+
+
+
+<p class="wp-block-paragraph">What should not happen is a client, patient, student, customer, or resident asking for an accessible format and being told:</p>
+
+
+
+<ul class="wp-block-list">
+<li>“We don’t do that.”</li>
+
+
+
+<li>“We don’t have the resources.”</li>
+
+
+
+<li>“We can email you the regular PDF.”</li>
+
+
+
+<li>“You can have someone read it to you.”</li>
+
+
+
+<li>“That is not something we offer.”</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">These answers are not solutions. They are barriers.</p>
+
+
+
+<p class="wp-block-paragraph">They are also not legal defenses.</p>
+
+
+
+<p class="wp-block-paragraph">Staff should know where to send the request, how to document the person’s needs, and who is responsible for providing the accessible version. The process should be clear to both the employee and the person making the request.</p>
+
+
+
+<p class="wp-block-paragraph">The ADA does not allow an organization to avoid effective communication because it failed to plan, budget, or train its staff. If a person with a disability needs information in an accessible format, the organization should take that request seriously, respond appropriately, and provide a format that works for that individual.</p>
+
+
+
+<p class="wp-block-paragraph">This is not just about checking a compliance box. It is about whether people can understand their rights, complete forms independently, make informed decisions, access services, manage their accounts, participate in programs, and receive the same information as everyone else.</p>
+
+
+
+<p class="wp-block-paragraph">It is also smart business.</p>
+
+
+
+<h2 class="wp-block-heading">Accessibility Also Reaches a Significant Market&nbsp;</h2>
+
+
+
+<p class="wp-block-paragraph">The <a href="https://www.thevaluable500.com/press-release/the-valuable-500-releases-new-data-on-global-accessibility-awareness-day">Valuable 500</a> estimates that people with disabilities represent $8 trillion in annual disposable income globally. When friends and family are included, that estimate grows to $13 trillion.</p>
+
+
+
+<p class="wp-block-paragraph">That is not a small audience. That is a major part of the global market.</p>
+
+
+
+<p class="wp-block-paragraph">When organizations ignore accessible communication, they are not only increasing legal risk. They are excluding clients, customers, patients, and community members who want to engage, purchase, participate, and belong.</p>
+
+
+
+<h2 class="wp-block-heading">How to Build an Effective Communication Process</h2>
+
+
+
+<p class="wp-block-paragraph">This is where preparation matters.</p>
+
+
+
+<p class="wp-block-paragraph">Organizations do not need to wait for a complaint to do the right thing. They can start by reviewing their most common documents, identifying which materials clients rely on most, creating accessible-format procedures, training frontline staff, and ensuring requests are handled with respect rather than resistance.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="700" height="467" src="https://brailleworks.com/wp-content/uploads/2020/02/Glasses-over-Braille-Book768x512-700x467-1.jpg" alt="" class="wp-image-23148" srcset="https://brailleworks.com/wp-content/uploads/2020/02/Glasses-over-Braille-Book768x512-700x467-1.jpg 700w, https://brailleworks.com/wp-content/uploads/2020/02/Glasses-over-Braille-Book768x512-700x467-1-300x200.jpg 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /></figure>
+
+
+
+<h2 class="wp-block-heading">How Braille Works Supports ADA Effective Communication&nbsp;</h2>
+
+
+
+<p class="wp-block-paragraph">At <a href="https://brailleworks.com/">Braille Works</a>, we help organizations provide accessible formats that support effective communication, including braille, large print, audio, accessible PDFs, and document remediation. We work with organizations that need to make their standard documents accessible and with teams that need a reliable process for handling requests when unique or specialized documents come in.</p>
+
+
+
+<p class="wp-block-paragraph">We also understand that accessibility is not only about production. It is about knowing what the law requires, what your clients need, and how to build a process that works.</p>
+
+
+
+<p class="wp-block-paragraph">In addition to accessible document services, Braille Works offers consultation support with a<a href="https://brailleworks.com/braille-transcription-company/braille-works-management/christine-sket/"> Certified Accessibility Coordinator</a>. That means organizations do not have to guess their way through ADA communication responsibilities. They can review their current process, identify gaps, understand common barriers, and create a practical plan for responding to accessibility requests with confidence and respect.</p>
+
+
+
+<p class="wp-block-paragraph">Digital accessibility deserves attention, but the responsibility reaches further. Accessible communication is a civil rights obligation that applies across documents, services, programs, and everyday interactions.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">Equal Access Should Not Begin with a Complaint</h2>
+
+
+
+<p class="wp-block-paragraph">Effective communication is still one of the clearest, most practical ways for an organization to demonstrate that it understands both the law and the people it serves.</p>
+
+
+
+<p class="wp-block-paragraph">Remember, when someone asks for braille, large print, audio, an accessible PDF, or another accessible format, they are not asking for special treatment.</p>
+
+
+
+<p class="wp-block-paragraph">They are asking for equal access.</p>
+<p>The post <a href="https://brailleworks.com/ada-effective-communication-beyond-digital-accessibility/">When Trends Ignore the Law: ADA Effective Communication Goes Beyond Digital Accessibility</a> appeared first on <a href="https://brailleworks.com">Braille Works</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

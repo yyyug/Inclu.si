@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>NV Access</title>
+	<atom:link href="https://www.nvaccess.org/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.nvaccess.org</link>
+	<description>Empowering lives through non-visual access to technology</description>
+	<lastBuildDate>Mon, 14 Sep 2026 03:53:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1</generator>
+	<item>
+		<title>NVDA 2026.3beta2 available for testing</title>
+		<link>https://www.nvaccess.org/post/nvda-2026-3beta2/</link>
+		
+		<dc:creator><![CDATA[Sean Budd]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2026 03:53:06 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<guid isPermaLink="false">https://www.nvaccess.org/?p=33480</guid>
+
+					<description><![CDATA[Beta2 of NVDA 2026.3 is now available for download and testing. For anyone who is interested in trying out what the next version of NVDA has to offer before it is officially released, we welcome you to download the beta and provide feedback using our issue reporting process. By installing the beta you will be&#8230; <a class="read-more" href="https://www.nvaccess.org/post/nvda-2026-3beta2/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Beta2 of NVDA 2026.3 is now available for download and testing.
+For anyone who is interested in trying out what the next version of NVDA has to offer before it is officially released, we welcome you to download the beta and provide feedback using our <a href="https://github.com/nvaccess/nvda/blob/master/projectDocs/issues/readme.md">issue reporting process</a>.
+By installing the beta you will be opting into NVDA&#8217;s beta channel, and will only receive update notifications for beta and release candidate (RC) builds.
+The beta/RC channel will always keep you up to date with the latest NVDA version.
+The last RC in a release cycle is identical to the final stable release.
+To return to the stable release channel, upgrade manually to the <a href="https://www.nvaccess.org/download/">latest stable build</a>.</p>
+<h3>Links</h3>
+<ul>
+<li><a href="https://download.nvaccess.org/releases/2026.3beta2/nvda_2026.3beta2.exe">Download NVDA 2026.3beta2</a>
+<ul>
+<li>SHA256 sum: d26386e7ac3ac6d245c8adcfc82c07e9332278360af3396b69888b6b31e08d33</li>
+</ul>
+</li>
+<li><a href="https://download.nvaccess.org/releases/2026.3beta2/documentation/changes.html">What&#8217;s new in this release of NVDA</a></li>
+<li>Please report any issues <a href="https://github.com/nvaccess/nvda/issues">on GitHub</a>.</li>
+</ul>
+<h3>Highlights</h3>
+<p>This release includes significant performance improvements, improvements to NVDA&#8217;s dialogs, and expanded touch screen input.</p>
+<p>Several performance improvements have been made to reduce lag and improve responsiveness.
+NVDA now fetches and caches more information about controls in the background, improving performance in controls such as combo boxes and File Explorer.
+NVDA no longer causes File Explorer or other applications to crash when NVDA is exited or restarted.
+NVDA now recovers more quickly when an application stops responding, and will no longer freeze or flood the log with errors from unresponsive applications.
+In live text regions, such as terminals, NVDA no longer freezes when substantial amounts of text are dumped to the screen.</p>
+<p>Context menus and keyboard shortcuts have been added to the Configuration Profiles, Input Gestures, and Speech Dictionaries dialogs, making these dialogs easier to use with the keyboard.
+It is also now possible to change an existing gesture directly in the Input Gestures dialog.
+The dialog used to present browseable messages has been modernized and now better supports resizing, maximizing, and minimizing.</p>
+<p>Touch screen input has been significantly expanded.
+Sequential two-flick gestures now combine two flicks in quick succession into a single gesture, greatly increasing the number of bindable touch gestures.
+Edge gestures are also now supported, allowing gestures that begin within 15 mm of any screen edge to be bound independently from the same gesture performed in the center of the screen.</p>
+<p>A new unassigned command has been added to move the mouse cursor to the center of the magnified view.
+Windows OCR can now be used while the Screen Curtain or NVDA&#8217;s built-in Magnifier is active.</p>
+<p>Liblouis has been updated with new Elfdalian, Sami, Maori, New Zealand Unified English Braille, and Haitian Creole braille tables, a Norwegian table for Spanish text, and additional Swedish 6 and 8 dot variants.
+eSpeak NG has been updated with added support for Ligurian and Abkhaz.</p>
+<h4>Changes introduced in Beta 2:</h4>
+<ul>
+<li>Updates to translations</li>
+<li>Fix bug with Magnifier&#8217;s &#8220;Show screen overview&#8221; feature when using relative tracking mode</li>
+<li>Updated eSpeak</li>
+<li>In browse mode, <code>alt+upArrow</code> and <code>alt+downArrow</code> now collapse or expand combo boxes in more situations</li>
+<li>Prevent flashing from shifting magnifier colour filters to reduce seizure risk</li>
+<li>Update to the Chinese Word Segementation library cppjieba to fix startup crashes from Chinese paths</li>
+</ul>
+<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-27115" src="https://www.nvaccess.org/wp-content/uploads/2022/07/image-1-e1659927289246.png" alt="NVDA logo on a purple background" width="200" height="266" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>In-Process 8th September 2026</title>
+		<link>https://www.nvaccess.org/post/in-process-8th-september-2026/</link>
+		
+		<dc:creator><![CDATA[quentin]]></dc:creator>
+		<pubDate>Tue, 08 Sep 2026 06:29:45 +0000</pubDate>
+				<category><![CDATA[In-Process]]></category>
+		<guid isPermaLink="false">https://www.nvaccess.org/?p=33473</guid>
+
+					<description><![CDATA[It&#8217;s a busy and exciting time &#8211; it&#8217;s release time! Let&#8217;s dive in and see what&#8217;s new: NVDA 2026.2 Magnifier A new Beta already? Resetting to Factory Defaults NVDA 2026.2 NVDA 2026.2 has been released! This release includes a new built-in Magnifier feature, improvements to touch gestures and navigation, and expanded speech and braille capabilities.&#8230; <a class="read-more" href="https://www.nvaccess.org/post/in-process-8th-september-2026/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>It&#8217;s a busy and exciting time &#8211; it&#8217;s release time!  Let&#8217;s dive in and see what&#8217;s new:</p>
+<ol>
+<li><a href="#20262">NVDA 2026.2</a></li>
+<li><a href="#magnifier">Magnifier</a></li>
+<li><a href="#beta">A new Beta already?</a></li>
+<li><a href="#reset">Resetting to Factory Defaults</a></li>
+</ol>
+<p><P></p>
+<h2 id="20262">NVDA 2026.2</h2>
+<p><a href="https://www.nvaccess.org/post/nvda-2026-2/">NVDA 2026.2 has been released</a>!  This release includes a new built-in Magnifier feature, improvements to touch gestures and navigation, and expanded speech and braille capabilities.</p>
+<p>The Magnifier provides zoom and color filtering options to assist users with visual impairments. The Magnifier currently only supports full screen mode, with docked modes planned in a future release.
+Touch support has been significantly expanded with new pinch gestures and touch-based browse mode navigation for web content. You can now navigate between links, headings, form fields, and other elements using touch flicks.</p>
+<p>Speech features have been enhanced with support for custom speech dictionaries that can be provided by add-ons and new dictionary entry types for more granular control. A new voice setting for OneCore voices was added to control pauses after punctuation. A new command allows repeating the last spoken information, with the ability to display it in a browsable message. The default gesture to repeat the last spoken information is <strong>NVDA+x</strong>, which can be changed in the Input Gestures dialog.</p>
+<p>The braille display can now automatically scroll, and DotPad devices support multi-button combinations. The default gesture to toggle automatic scroll is <strong>NVDA+alt+k</strong>.</p>
+<p>Liblouis has been updated with new Italian and Estonian braille tables.
+When resetting NVDA to factory defaults, an Undo button is now available to restore the previous configuration.</p>
+<p>Download the new version from the <a href="https://www.nvaccess.org/post/nvda-2026-2/">NVDA 2026.2 release post</a> (or by checking for updates from within NVDA).</p>
+<p>As well as the article below, and a new extensive section on the magnifier in the User Guide, our &#8220;Basic Training for NVDA&#8221; module has been updated with a number of updates.  Of particular interest is a new section on the magnifier, there is also a topic covering reading the last spoken information and other new and improved content.  These new updates are currently only available in the electronic text version.  You can purchase <a href="https://www.nvaccess.org/product/basic-training-for-nvda-ebook/">Basic Training for NVDA from our shop</a>.  If you have already purchased the module, you can download the new version with the Magnifier section from the <a href="https://www.nvaccess.org/my-account/downloads/">downloads page after logging into your NV Access account</a>.</p>
+<h2 id="magnifier">Magnifier</h2>
+<p>We are very excited to incorporate a magnifier into NVDA for the first time.  We have had a lot of comments from users who are excited for this feature, and we’ve had some questions too, so let’s cover off some of the things it can and cannot do, and why it is a useful addition to NVDA:</p>
+<p><img decoding="async" src="https://www.nvaccess.org/wp-content/uploads/2026/09/NVDA-Magnifier-502x371.jpg" alt="Photograph of monitor with NVDA Magnifier at 200% inverted colours and showing the magnifier settings screen with the 2026.2 release post in the background." width="502" height="371" class="alignnone size-medium wp-image-33474" srcset="https://www.nvaccess.org/wp-content/uploads/2026/09/NVDA-Magnifier-502x371.jpg 502w, https://www.nvaccess.org/wp-content/uploads/2026/09/NVDA-Magnifier-1024x757.jpg 1024w, https://www.nvaccess.org/wp-content/uploads/2026/09/NVDA-Magnifier-768x568.jpg 768w, https://www.nvaccess.org/wp-content/uploads/2026/09/NVDA-Magnifier-556x411.jpg 556w, https://www.nvaccess.org/wp-content/uploads/2026/09/NVDA-Magnifier.jpg 1444w" sizes="(max-width: 502px) 100vw, 502px" /></p>
+<p><H3>First Release</H3>
+Firstly, it’s worth highlighting that this is the first release of NVDA with a magnifier and so the features will improve over time.  We try to ship NVDA features incrementally, keeping the initial design scope small and allowing for early user feedback. This allows us to grow the magnifier in response to user reaction.  Currently NVDA only works as a full-screen magnifier. We plan to extend the options in future releases.  Adding windowed / docked modes is a high priority once bugs are addressed and the full-screen mode is more polished.</p>
+<p><H3>What CAN the magnifier do?</H3>
+The magnifier has most of the features you might expect from such a feature:
+<UL>
+<LI>You can zoom in and out (from 1x up to 50x)</LI>
+<LI>The view will follow the mouse, keyboard focus, browse mode focus and NVDA navigator object and review cursor – user selectable</LI>
+<LI>You can pan the view with the keyboard, in configurable increments, or jump to the edges of the screen</LI>
+<LI>You can adjust the colours (normal, inverted or greyscale)</LI>
+<LI>You can choose how objects are tracked (Centred or relative to their position on screen)</LI>
+<LI>You can configure the keystrokes for the various functions</LI>
+<LI>There is a keystroke to briefly zoom out and show an overview of the screen</LI>
+</UL></p>
+<p>We have made a <a href="https://www.youtube.com/watch?v=e0aIVAGC46E">short demo of the magnification feature on our YouTube channel</a>.</p>
+<p><H3>Should I change magnifiers?</H3>
+Particularly if you currently use another magnification solution, we very much encourage you to try out the NVDA magnifier.  We are interested in your feedback, and particularly where you would like to see our feature improve.</p>
+<p>If you already use Windows magnifier or another program, you can keep using it and it will continue to work with NVDA’s speech functions.  Just as we don’t recommend having two screen readers running at once, we also wouldn’t recommend having NVDA’s magnifier AND another magnifier running at the same time.</p>
+<p>If you do currently use Windows Magnifier, some of the reasons you may consider NVDA’s magnifier:
+<LI>It starts when NVDA starts (once you enable it)</LI>
+<LI>Configurable keystrokes</LI>
+<LI>Greyscale colour filtering mode</LI>
+<LI>Relative tracking mode</LI>
+<LI>Ability to follow NVDA’s object navigation and review cursor</LI>
+<LI>Keys to jump to edges of screen</LI>
+<LI>No settings window always on screen</LI>
+<LI>Ability to set your desired settings once and save to a portable copy you can use on any computer</LI>
+</UL></p>
+<p>If you use Windows magnifier in docked or lens mode, or some of the other features which haven’t yet made it into the NVDA magnifier in NVDA 2026.2, then you may wish to stay with Windows magnifier for now – but we do encourage you to try out the NVDA magnifier and let us know what you think.</p>
+<h2 id="beta">A new Beta already?</h2>
+<p>Before we even got this edition of In-Process finished, to tell you all about 2026.2…. we ALREADY have a new beta?  Of <a href="https://www.nvaccess.org/post/nvda-2026-3beta1/">NVDA 2026.3</a>?  Yep!  And I’m not going to talk about that yet – if you want to check it out, please head to the <a href="https://www.nvaccess.org/post/nvda-2026-3beta1/">beta release announcement</a>.  What I did want to briefly mention, was how we came to have a new beta out, when the paint isn’t even dry on NVDA 2026.2?</p>
+<p>Great question!  And it comes down to how we develop software.  Both our internal developers, and the community are constantly working on improving features, fixing bugs, and adding new things into NVDA.  As a new piece of code gets incorporated into NVDA, it goes into an “Alpha” build – an early pre-release build with whatever has been changed recently.  This lets our developers and our most dedicated testers try it out and give feedback.  These come out almost daily (and sometimes several in one day).  Because of the quick turnaround, we don’t share them on social media or here on the blog, but if you’d like to try them out, <a href="https://download.nvaccess.org/snapshots/alpha/">alpha builds are publicly available from the snapshots page</a>.  Be aware that they may not be as polished as the stable releases – though the <a href="https://www.nvaccess.org/post/in-process-4th-august-2025/">process to test them out</a> is identical.</p>
+<p>So, generally a week after a stable release, we collate all the things which have been in alpha for at least a couple of weeks, and put them together into a “beta” release of the next version.  While we may still have some features we are working on for later betas, as well any regressions or major issues discovered from the previous release, we can turn much of our development attention on towards the NEXT release.</p>
+<p>So, if you ever find an issue with NVDA, the sooner you let us know, the sooner we can prioritise it and work on a fix as needed.</p>
+<h2 id="reset">Resetting to Factory Defaults</h2>
+<p>One of the perhaps less glamourous updates in NVDA 2026.2 is to a feature you hopefully don&#8217;t ever need to use.</p>
+<blockquote><p>&#8220;When resetting NVDA to factory defaults, an Undo button is now available to restore the previous configuration&#8221;</p></blockquote>
+<p>We&#8217;ve covered <a href="https://www.nvaccess.org/post/in-process-2nd-august-2024/#reset">resetting NVDA to factory defaults previously</a>, though it is worth being aware of.  While something you hopefully don&#8217;t need, if you ever DO need it, it&#8217;s good to know it exists.  With this new change, if you reset NVDA to factory defaults, a dialog appears advising &#8220;Your configuration has been reset to factory defaults.  Choose OK to keep factory defaults, or Undo to restore your previous configuration&#8221;.  This could be useful just in case you ever inadvertently activate the wrong item on the NVDA menu for instance, and may hopefully save you from needing go through setting up NVDA to your preferences again.</p>
+<p>That&#8217;s all for this week, do update to <a href="https://www.nvaccess.org/post/nvda-2026-2/">NVDA 2026.2</a> if you haven&#8217;t already, and we&#8217;d love to hear your feedback on the new features &#8211; the magnifier of course, but also the other updates.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NVDA 2026.3beta1 available for testing</title>
+		<link>https://www.nvaccess.org/post/nvda-2026-3beta1/</link>
+		
+		<dc:creator><![CDATA[Sean Budd]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2026 02:55:21 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<guid isPermaLink="false">https://www.nvaccess.org/?p=33468</guid>
+
+					<description><![CDATA[Beta1 of NVDA 2026.3 is now available for download and testing. For anyone who is interested in trying out what the next version of NVDA has to offer before it is officially released, we welcome you to download the beta and provide feedback using our issue reporting process. By installing the beta you will be&#8230; <a class="read-more" href="https://www.nvaccess.org/post/nvda-2026-3beta1/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Beta1 of NVDA 2026.3 is now available for download and testing.
+For anyone who is interested in trying out what the next version of NVDA has to offer before it is officially released, we welcome you to download the beta and provide feedback using our <a href="https://github.com/nvaccess/nvda/blob/master/projectDocs/issues/readme.md">issue reporting process</a>.
+By installing the beta you will be opting into NVDA&#8217;s beta channel, and will only receive update notifications for beta and release candidate (RC) builds.
+The beta/RC channel will always keep you up to date with the latest NVDA version.
+The last RC in a release cycle is identical to the final stable release.
+To return to the stable release channel, upgrade manually to the <a href="https://www.nvaccess.org/download/">latest stable build</a>.</p>
+<h3>Links</h3>
+<ul>
+<li>
+		<a href="https://download.nvaccess.org/releases/2026.3beta1/nvda_2026.3beta1.exe">Download NVDA 2026.3beta1</a></p>
+<ul>
+<li>SHA256 sum: 288e684536edb011710d760fc18ba7b652241085742e304e17d8ee01ede2d20f</li>
+</ul>
+</li>
+<li><a href="https://download.nvaccess.org/releases/2026.3beta1/documentation/changes.html">What&#8217;s new in this release of NVDA</a></li>
+<li>Please report any issues <a href="https://github.com/nvaccess/nvda/issues">on GitHub</a>.</li>
+</ul>
+<h3>Highlights</h3>
+<p>This release includes significant performance improvements, improvements to NVDA&#8217;s dialogs, and expanded touch screen input.</p>
+<p>Several performance improvements have been made to reduce lag and improve responsiveness.
+NVDA now fetches and caches more information about controls in the background, improving performance in controls such as combo boxes and File Explorer.
+NVDA no longer causes File Explorer or other applications to crash when NVDA is exited or restarted.
+NVDA now recovers more quickly when an application stops responding, and will no longer freeze or flood the log with errors from unresponsive applications.
+In live text regions, such as terminals, NVDA no longer freezes when substantial amounts of text are dumped to the screen.</p>
+<p>Context menus and keyboard shortcuts have been added to the Configuration Profiles, Input Gestures, and Speech Dictionaries dialogs, making these dialogs easier to use with the keyboard.
+It is also now possible to change an existing gesture directly in the Input Gestures dialog.
+The dialog used to present browseable messages has been modernized and now better supports resizing, maximizing, and minimizing.</p>
+<p>Touch screen input has been significantly expanded.
+Sequential two-flick gestures now combine two flicks in quick succession into a single gesture, greatly increasing the number of bindable touch gestures.
+Edge gestures are also now supported, allowing gestures that begin within 15 mm of any screen edge to be bound independently from the same gesture performed in the center of the screen.</p>
+<p>A new unassigned command has been added to move the mouse cursor to the center of the magnified view.
+Windows OCR can now be used while the Screen Curtain or NVDA&#8217;s built-in Magnifier is active.</p>
+<p>Liblouis has been updated with new Elfdalian, Sami, Maori, New Zealand Unified English Braille, and Haitian Creole braille tables, a Norwegian table for Spanish text, and additional Swedish 6 and 8 dot variants.
+eSpeak NG has been updated with added support for Ligurian and Abkhaz.</p>
+<p><img decoding="async" class="alignnone wp-image-27115" src="https://www.nvaccess.org/wp-content/uploads/2022/07/image-1-e1659927289246.png" alt="NVDA logo on a purple background" width="200" height="266" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NVDA 2026.2 Released</title>
+		<link>https://www.nvaccess.org/post/nvda-2026-2/</link>
+		
+		<dc:creator><![CDATA[Sean Budd]]></dc:creator>
+		<pubDate>Mon, 31 Aug 2026 02:55:42 +0000</pubDate>
+				<category><![CDATA[Releases]]></category>
+		<guid isPermaLink="false">https://www.nvaccess.org/?p=33444</guid>
+
+					<description><![CDATA[NV Access is pleased to announce that version 2026.2 of NVDA, the free screen reader for Microsoft Windows, is now available for download. We encourage all users to upgrade to this version. Highlights This release includes a new built-in Magnifier feature, improvements to touch gestures and navigation, and expanded speech and braille capabilities. The Magnifier&#8230; <a class="read-more" href="https://www.nvaccess.org/post/nvda-2026-2/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>NV Access is pleased to announce that version 2026.2 of NVDA, the free screen reader for Microsoft Windows, is now available for download.
+We encourage all users to upgrade to this version.</p>
+<h3>Highlights</h3>
+<p>This release includes a new built-in Magnifier feature, improvements to touch gestures and navigation, and expanded speech and braille capabilities.</p>
+<p>The Magnifier provides zoom and color filtering options to assist users with visual impairments.
+The Magnifier currently only supports fullscreen mode, with docked modes planned in a future release.</p>
+<p>Touch support has been significantly expanded with new pinch gestures and touch-based browse mode navigation for web content.
+You can now navigate between links, headings, form fields, and other elements using touch flicks.</p>
+<p>Speech features have been enhanced with support for custom speech dictionaries that can be provided by add-ons and new dictionary entry types for more granular control.
+A new voice setting for OneCore voices was added to control pauses after punctuation.
+A new command allows repeating the last spoken information, with the ability to display it in a browsable message.
+The default gesture to repeat the last spoken information is <code>NVDA+x</code>, which can be changed in the Input Gestures dialog.</p>
+<p>The braille display can now automatically scroll and DotPad devices support multi-button combinations.
+The default gesture to toggle automatic scroll is <code>NVDA+alt+k</code>.</p>
+<p>Liblouis has been updated with new Italian and Estonian braille tables.</p>
+<p>When resetting NVDA to factory defaults, an Undo button is now available to restore the previous configuration.</p>
+<p><strong>Important Note:</strong></p>
+<p>Please note, after updating any software, it is a good idea to restart the computer.
+Restart by going to the Shutdown dialog, selecting &#8220;restart&#8221; and pressing ENTER.
+Updating software can change files which are in use.
+This can lead to instability and strange behaviour which is resolved by rebooting.
+This is the first thing to try if you do notice anything odd after updating.</p>
+<h3>Links</h3>
+<p>While downloading NVDA, please consider becoming a <a href="https://www.nvaccess.org/donate/">monthly donor</a>. Contributions like yours help NV Access continue our important work.</p>
+<p>We also have a range of training material in the <a href="https://www.nvaccess.org/shop/">NV Access Shop</a> to help you increase your skills with NVDA. Start with the popular Basic Training for NVDA in <a href="https://www.nvaccess.org/product/basic-training-for-nvda-ebook/">electronic text</a>, <a href="https://www.nvaccess.org/product/basic-training-for-nvda-downloadable-audio/">audio</a> and <a href="https://www.nvaccess.org/product/basic-training-for-nvda-braille-hard-copy/">braille</a>. Save with the <a href="https://www.nvaccess.org/product/nvda-productivity-bundle/">NVDA Productivity Bundle</a>. This includes Basic Training, all our Microsoft Office training, and telephone support.</p>
+<ul>
+<li><a href="https://www.nvaccess.org/download?nvdaVersion=2026.2">Download NVDA 2026.2</a>
+<ul>
+<li>SHA256 sum: f3f8d29974a88d687b3c4809be192219ec579c5bdabcda5aaf53635288bca824</li>
+</ul>
+</li>
+<li><a href="https://download.nvaccess.org/releases/2026.2/documentation/changes.html">What&#8217;s new in NVDA 2026.2</a></li>
+</ul>
+<div id="attachment_24616" style="width: 767px" class="wp-caption alignright"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-24616" class="size-full wp-image-24616" src="https://www.nvaccess.org/wp-content/uploads/2019/08/Image_9.jpg" alt="Close-up photograph of NVDA logo in notification area." width="757" height="757" /></p>
+<p id="caption-attachment-24616" class="wp-caption-text">Close-up photograph of NVDA logo in notification area.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NVDA 2026.2rc2 available for testing</title>
+		<link>https://www.nvaccess.org/post/nvda-2026-2rc2/</link>
+		
+		<dc:creator><![CDATA[Sean Budd]]></dc:creator>
+		<pubDate>Wed, 26 Aug 2026 04:04:39 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<guid isPermaLink="false">https://www.nvaccess.org/?p=33436</guid>
+
+					<description><![CDATA[The Second Release Candidate (RC2) of NVDA 2026.2 is now available for download and testing. We encourage all users to download this RC and provide feedback. Unless any critical bugs are found, this will be identical to the final 2026.2 release. By installing the RC you will be opting into NVDA&#8217;s beta/RC channel, and will&#8230; <a class="read-more" href="https://www.nvaccess.org/post/nvda-2026-2rc2/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>The Second Release Candidate (RC2) of NVDA 2026.2 is now available for download and testing.
+We encourage all users to download this RC and provide feedback.
+Unless any critical bugs are found, this will be identical to the final 2026.2 release.
+By installing the RC you will be opting into NVDA&#8217;s beta/RC channel, and will only receive update notifications for these builds.
+The beta/RC channel will always keep you up to date with the latest NVDA version.
+The last RC in a release cycle is identical to the final stable release.
+To return to the stable release channel, upgrade manually to the <a href="https://www.nvaccess.org/download/">latest stable build</a>.</p>
+<h3>Links</h3>
+<ul>
+<li><a href="https://download.nvaccess.org/releases/2026.2rc2/nvda_2026.2rc2.exe">Download NVDA 2026.2rc2</a>
+<ul>
+<li>SHA256 sum: 3e956809bf8ea2812ceb26748d7d49cf869b1023fb8ce94d99589e20af1d7ba1</li>
+</ul>
+</li>
+<li><a href="https://download.nvaccess.org/releases/2026.2rc2/documentation/changes.html">What&#8217;s new in this release of NVDA</a></li>
+<li>Please report any issues <a href="https://github.com/nvaccess/nvda/issues">on GitHub</a>.</li>
+</ul>
+<h3>Highlights</h3>
+<p>This release includes a new built-in Magnifier feature, improvements to touch gestures and navigation, and expanded speech and braille capabilities.</p>
+<p>The Magnifier provides zoom and color filtering options to assist users with visual impairments.
+The Magnifier currently only supports fullscreen mode, with docked modes planned in a future release.</p>
+<p>Touch support has been significantly expanded with new pinch gestures and touch-based browse mode navigation for web content.
+You can now navigate between links, headings, form fields, and other elements using touch flicks.</p>
+<p>Speech features have been enhanced with support for custom speech dictionaries that can be provided by add-ons and new dictionary entry types for more granular control.
+A new voice setting for OneCore voices was added to control pauses after punctuation.
+A new command allows repeating the last spoken information, with the ability to display it in a browsable message.
+The default gesture to repeat the last spoken information is <code>NVDA+x</code>, which can be changed in the Input Gestures dialog.</p>
+<p>The braille display can now automatically scroll and DotPad devices support multi-button combinations.</p>
+<p>Liblouis has been updated with new Italian and Estonian braille tables.</p>
+<p>When resetting NVDA to factory defaults, an Undo button is now available to restore the previous configuration.</p>
+<h4>Changes introduced in RC 2:</h4>
+<ul>
+<li>Updates to translations</li>
+<li>Fix bug preventing launch for Hungarian users</li>
+</ul>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-27115" src="https://www.nvaccess.org/wp-content/uploads/2022/07/image-1-e1659927289246.png" alt="NVDA logo on a purple background" width="200" height="266" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>In-Process 24th August 2026</title>
+		<link>https://www.nvaccess.org/post/in-process-24th-august-2026/</link>
+		
+		<dc:creator><![CDATA[quentin]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2026 23:04:33 +0000</pubDate>
+				<category><![CDATA[In-Process]]></category>
+		<guid isPermaLink="false">https://www.nvaccess.org/?p=33428</guid>
+
+					<description><![CDATA[We&#8217;re so close to 2026.2 now! We have a release candidate! Plus, this time around: NVDA 2026.2 Release Candidate! Automatically Scrolling the Braille Display Getting help from others New Unassigned Commands Finding out more about what is new NVDA 2026.2 Release Candidate! The NVDA 2026.2 Release Candidate is now available for testing! We encourage all&#8230; <a class="read-more" href="https://www.nvaccess.org/post/in-process-24th-august-2026/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>We&#8217;re so close to 2026.2 now!  We have a release candidate!  Plus, this time around:</p>
+<ol>
+<li><a href="#rc">NVDA 2026.2 Release Candidate!</a></li>
+<li><a href="#braille">Automatically Scrolling the Braille Display</a></li>
+<li><a href="#help">Getting help from others</a></li>
+<li><a href="#unassigned">New Unassigned Commands</a></li>
+<li><a href="#new">Finding out more about what is new</a></li>
+</ol>
+<p><P></p>
+<h2 id="rc">NVDA 2026.2 Release Candidate!</h2>
+<p>The <a href="https://www.nvaccess.org/post/nvda-2026-2rc1/">NVDA 2026.2 Release Candidate</a> is now available for testing!  We encourage all users to download this RC and provide feedback. Unless any critical bugs are found, this will be identical to the final 2026.2 release.</p>
+<p>NVDA 2026.2 includes:</p>
+<p><UL>
+<LI>Magnifier (full screen, colour filtering, zoom, focus tracking)</LI>
+<LI>Improved touch gestures (links, form fields, etc)</LI>
+<LI><strong>NVDA+x</strong> to repeat last spoken information</LI>
+<LI>Improved speech dictionaries</LI>
+<LI>Automatic Braille Display scrolling</LI>
+<LI>&#038; much more!</LI>
+</UL></p>
+<p>We would encourage you to try out the <a href="https://www.nvaccess.org/post/nvda-2026-2rc1/">NVDA 2026.2 Release Candidate</a>, especially if you haven’t yet tried any of the betas.  You can do this by <a href="https://www.nvaccess.org/post/in-process-9th-february-2024/#portable">creating a portable copy</a> or by selecting “Continue running” from the launcher, to run a temporary copy and not interfere with your installed copy of NVDA.</p>
+<p><img loading="lazy" decoding="async" src="https://www.nvaccess.org/wp-content/uploads/2026/08/2026.2rc-502x368.jpg" alt="Left: NVDA icon and text in white on purple with lighter sunbursts in background.
+Right: text &quot;2026.2 Release Candidate Now Available!&quot; in purple on white, all surrounded by white and orange border with faint sunbursts around edge" width="502" height="368" class="alignnone size-medium wp-image-33432" srcset="https://www.nvaccess.org/wp-content/uploads/2026/08/2026.2rc-502x368.jpg 502w, https://www.nvaccess.org/wp-content/uploads/2026/08/2026.2rc-556x408.jpg 556w, https://www.nvaccess.org/wp-content/uploads/2026/08/2026.2rc.jpg 650w" sizes="auto, (max-width: 502px) 100vw, 502px" /></p>
+<h2 id="braille">Automatically Scrolling the Braille Display</h2>
+<p>One of the new features in NVDA 2026.2, is that we: “Added the ability to automatically scroll the braille display”.  This comes courtesy of Noelia, one of our prominent Spanish contributors.
+Reading the user guide entry for the new “Automatic scroll rate” feature, it notes:</p>
+<blockquote><p>Automatic braille scrolling can be enabled to scroll the display at a set speed. When using this feature, the braille display scrolls to present information which is more than will fit on the display at once. The feature is disabled by default. You can change the gestures assigned to use automatic braille scrolling in NVDA&#8217;s Input Gestures dialog before it can be used. Gestures are also available to speed up or slow down the rate of automatic scrolling. Alternatively, you can set the automatic scroll rate in Braille Settings.</p>
+<p>While braille is scrolling, you can still use the scroll back and scroll forward commands without stopping scrolling. Scroll back can be useful to read previous contents again. Scroll forward can be useful to skip a blank line, or if the line being read is short.</p>
+<p>While reading, automatic braille scrolling will stop when any of the following happen:</p>
+<p><UL>
+<LI>The toggle automatic braille scrolling key is pressed</LI>
+<LI>The user presses a key or gesture which would display a new message</LI>
+<LI>The focus is moved (including with braille display panning keys)</LI>
+<LI>The end of the document is reached</LI>
+<LI>The state of the lock or secure screen is changed (such as the computer being locked)</LI>
+</UL></p>
+<p>The commands for this feature are:
+<UL>
+<LI>Toggle automatic scroll: <strong>NVDA+alt+k</strong></LI>
+<LI>Increase automatic scroll: <strong>NVDA+alt+L</strong></LI>
+<LI>Decrease automatic scroll: <strong>NVDA+alt+j</strong></LI>
+</UL></p></blockquote>
+<h2 id="help">Getting help from others</h2>
+<p>Last fortnight, we covered <a href="https://www.nvaccess.org/post/in-process-7th-august-2026/#help">ways you can get help from within NVDA</a> itself.  This time around, let’s have a look at some of the places you can get help from others.  As with last fortnight&#8217;s post, this list covers getting help for NVDA itself only, aimed at end users:
+<UL>
+<LI><a href="https://www.nvaccess.org/product/nvda-telephone-support/">NV Access Telephone Support</a>:  If you’ve still got questions after following last fortnight’s tips and reading Basic Training for NVDA etc, give us a call.  Telephone support IS a paid service, and for end-user support only, but it is available 24/7.  We have numbers you can call in Australia or the USA, OR you can email us and we can call you anywhere in the world.  You also get telephone support included with the <a href="https://www.nvaccess.org/product/nvda-productivity-bundle/">NVDA Productivity Bundle</a>.</LI>
+<LI><a href="https://nvaccess.org/nvda-users">Official NVDA Email Group</a>:  While we monitor various other groups, the one place you know you will find NV Access staff, and users, is the official, friendly, NVDA email group at <a href="https://nvaccess.org/nvda-users">https://nvaccess.org/nvda-users</a> &#8211; plus, as a free, welcoming and popular resource, you will often get help from other users even quicker than we can respond.</LI>
+<LI><a href="https://github.com/nvaccess/nvda/wiki/Connect">Local language email groups</a>: We have a huge list of email groups in many languages.  Know of a group which isn’t listed?  Please, let us know so we can <a href="https://github.com/nvaccess/nvda/wiki/Connect">share it on the connect page</a> for others!</LI>
+<LI><a href="https://www.nvaccess.org/#socials">Social media</a>: Our community on <a href="https://fosstodon.org/@NVAccess">Mastodon</a> is the most active, but you can also find us on <a href="https://www.facebook.com/NVAccess">Facebook</a> and <a href="https://www.nvaccess.org/#socials">other platforms</a>.</LI>
+<LI><a href="https://download.nvaccess.org/documentation/userGuide.html#RemoteAccess">NVDA Remote Access</a>: Have a friend who can help with your PC?  You can let them connect to your PC to help you.  Note there are a number of <a href="https://www.nvaccess.org/corporate-government/#remoteAccess">security measures</a> in place to ensure this feature can only be accessed by deliberate action from both parties.</LI>
+</UL></p>
+<h2 id="unassigned">New Unassigned Commands</h2>
+<p>For the upcoming NVDA 2026.2, we’ve added a couple of new “unassigned” commands.  These aren’t always the most obvious to find, so I thought it was worth highlighting them here:
+<UL>
+<LI>Added an unassigned command to toggle keyboard layout. (<a href="https://github.com/nvaccess/nvda/issues/19211">#19211</a>, <a href="https://github.com/CyrilleB79">@CyrilleB79</a>)</LI>
+<LI>Added an unassigned Quick Navigation Command for jumping to next/previous slider in browse mode. (<a href="https://github.com/nvaccess/nvda/issues/17005">#17005</a>, <a href="https://github.com/tareh7z">@tareh7z</a>)</LI>
+<LI>Added an unassigned command to report the current status of the Screen Curtain. (<a href="https://github.com/nvaccess/nvda/issues/19759">#19759</a>)</LI>
+</UL></p>
+<p>Commands like these can provide useful functionality, but may often only be required by some users.  As we are all aware, screen readers already have a lot of keystrokes, so we always have to think carefully before assigning new keystrokes.</p>
+<p>For instance, the toggle keyboard layout setting.  Most users will setup the keyboard layout how they prefer, and never need to change it.  For the rare time you may wish to change it, the setting is on the keyboard settings page, which is available with <strong>NVDA+control+k</strong>.  For testing or teaching, a command to toggle the layout on the fly may be invaluable, so, in NVDA 2026.2, it’s there if you need it.</p>
+<h2 id="new">Finding out more about what is new</h2>
+<p>In any <a href="https://www.nvaccess.org/post/nvda-2026-2rc1/">NVDA release announcement</a>, there is a link to “<a href="https://download.nvaccess.org/releases/2026.2rc1/documentation/changes.html">What’s new in this release of NVDA</a>” (I&#8217;ve linked to those to things for NVDA 2026.2 RC1).  That document gives a summary of the highlights in several paragraphs, and then bullet points for all the changes in groups:
+<UL>
+<LI><strong>Important notes</strong>: information such as older Windows versions no longer supported</LI>
+<LI><strong>Security fixes</strong>: Updates to NVDA which fix potential security issues.</LI>
+<LI><strong>New features</strong>: New functionality in NVDA. For instance, NVDA+x to repeat the last spoken information, or the ability to automatically scroll the braille display</LI>
+<LI><strong>Changes</strong>: Features which may be slightly different, such as renaming the &#8220;COM Registration Fixing Tool&#8221; to &#8220;System Accessibility Repair Tool&#8221;.</LI>
+<LI><strong>Bug fixes</strong>: Fixing features which didn’t work the way they should. For instance, in NVDA 2026.2, we’ve fixed a crash in the add-on store, NVDA now recovers quicker from freezes in some applications, and form controls are correctly reported in Firefox again.</LI>
+<LI><strong>Changes for developers</strong>: Updates which may affect how contributors code for NVDA.  These don’t affect end users directly.  For instance, updating the version of Python used, or new functions developers can call to find out information.</LI>
+<LI><strong>Deprecations</strong>: Again, only for developers, function calls which either no longer work, or have been changed to something else, and developers should transition over to the new function call.</LI>
+</UL></p>
+<p>In most of the bullet points for each release, there is a number at the end, and sometimes a username.  For instance, in the <a href="#unassigned">unassigned commands article</a> above: “Added an unassigned Quick Navigation Command for jumping to next/previous slider in browse mode. (<a href="https://github.com/nvaccess/nvda/issues/17005">#17005</a>, <a href="https://github.com/tareh7z">@tareh7z</a>)”</p>
+<p>In this case, #17005 is the issue number assigned to the original request for this feature.  @tareh7z is the GitHub user who wrote the code and submitted the pull request to fix it – thanks @tareh7z!  And thanks to ALL our contributors.  NVDA 2026.2 is a big release with a lot of amazing features the community have put a lot of work into!</p>
+<p>The line in the changes document will hopefully give enough information to quickly describe the feature for most users.  The user guide will also have been updated with any relevant information.  In this case, look at section 6.1.3 “Other Navigation Commands”, which talks about not only sliders, but other quick navigation commands which don’t have default keystrokes.</p>
+<p>The issue number is a link back to that issue, which can be helpful if you’d like to look back at the conversation which prompted the new feature.  For instance, in this case, there was some discussion around what other types of information could potentially be accessed with a “slider” command (others that were suggested were ruled out in this case).</p>
+<p>That&#8217;s all for this time.  Do please try out the <a href="https://www.nvaccess.org/post/nvda-2026-2rc1/">NVDA 2026.2 release candidate</a>, and of course, let us know of any <a href="https://github.com/nvaccess/nvda/issues">issues you encounter</a> with it.  Next time around we will have more on NVDA 2026.2!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NVDA 2026.2rc1 available for testing</title>
+		<link>https://www.nvaccess.org/post/nvda-2026-2rc1/</link>
+		
+		<dc:creator><![CDATA[Sean Budd]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2026 02:29:41 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<guid isPermaLink="false">https://www.nvaccess.org/?p=33426</guid>
+
+					<description><![CDATA[The Release Candidate (RC) of NVDA 2026.2 is now available for download and testing. We encourage all users to download this RC and provide feedback. Unless any critical bugs are found, this will be identical to the final 2026.2 release. By installing the RC you will be opting into NVDA&#8217;s beta/RC channel, and will only&#8230; <a class="read-more" href="https://www.nvaccess.org/post/nvda-2026-2rc1/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>The Release Candidate (RC) of NVDA 2026.2 is now available for download and testing.
+We encourage all users to download this RC and provide feedback.
+Unless any critical bugs are found, this will be identical to the final 2026.2 release.
+By installing the RC you will be opting into NVDA&#8217;s beta/RC channel, and will only receive update notifications for these builds.
+The beta/RC channel will always keep you up to date with the latest NVDA version.
+The last RC in a release cycle is identical to the final stable release.
+To return to the stable release channel, upgrade manually to the <a href="https://www.nvaccess.org/download/">latest stable build</a>.</p>
+<h3>Links</h3>
+<ul>
+<li><a href="https://download.nvaccess.org/releases/2026.2rc1/nvda_2026.2rc1.exe">Download NVDA 2026.2rc1</a>
+<ul>
+<li>SHA256 sum: 09dfba7e03f37598a50e8495370a063864acd4de48ce6ebdf9ee320c536803f5</li>
+</ul>
+</li>
+<li><a href="https://download.nvaccess.org/releases/2026.2rc1/documentation/changes.html">What&#8217;s new in this release of NVDA</a></li>
+<li>Please report any issues <a href="https://github.com/nvaccess/nvda/issues">on GitHub</a>.</li>
+</ul>
+<h3>Highlights</h3>
+<p>This release includes a new built-in Magnifier feature, improvements to touch gestures and navigation, and expanded speech and braille capabilities.</p>
+<p>The Magnifier provides zoom and color filtering options to assist users with visual impairments.
+The Magnifier currently only supports fullscreen mode, with docked modes planned in a future release.</p>
+<p>Touch support has been significantly expanded with new pinch gestures and touch-based browse mode navigation for web content.
+You can now navigate between links, headings, form fields, and other elements using touch flicks.</p>
+<p>Speech features have been enhanced with support for custom speech dictionaries that can be provided by add-ons and new dictionary entry types for more granular control.
+A new voice setting for OneCore voices was added to control pauses after punctuation.
+A new command allows repeating the last spoken information, with the ability to display it in a browsable message.
+The default gesture to repeat the last spoken information is <code>NVDA+x</code>, which can be changed in the Input Gestures dialog.</p>
+<p>The braille display can now automatically scroll and DotPad devices support multi-button combinations.</p>
+<p>Liblouis has been updated with new Italian and Estonian braille tables.</p>
+<p>When resetting NVDA to factory defaults, an Undo button is now available to restore the previous configuration.</p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-27115" src="https://www.nvaccess.org/wp-content/uploads/2022/07/image-1-e1659927289246.png" alt="NVDA logo on a purple background" width="200" height="266" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NVDA 2026.2beta11 available for testing</title>
+		<link>https://www.nvaccess.org/post/nvda-2026-2beta11/</link>
+		
+		<dc:creator><![CDATA[Sean Budd]]></dc:creator>
+		<pubDate>Mon, 17 Aug 2026 04:09:12 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<guid isPermaLink="false">https://www.nvaccess.org/?p=33413</guid>
+
+					<description><![CDATA[Beta11 of NVDA 2026.2 is now available for download and testing. For anyone who is interested in trying out what the next version of NVDA has to offer before it is officially released, we welcome you to download the beta and provide feedback using our issue reporting process. By installing the beta you will be&#8230; <a class="read-more" href="https://www.nvaccess.org/post/nvda-2026-2beta11/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Beta11 of NVDA 2026.2 is now available for download and testing.
+For anyone who is interested in trying out what the next version of NVDA has to offer before it is officially released, we welcome you to download the beta and provide feedback using our <a href="https://github.com/nvaccess/nvda/blob/master/projectDocs/issues/readme.md">issue reporting process</a>.
+By installing the beta you will be opting into NVDA&#8217;s beta channel, and will only receive update notifications for beta and release candidate (RC) builds.
+The beta/RC channel will always keep you up to date with the latest NVDA version.
+The last RC in a release cycle is identical to the final stable release.
+To return to the stable release channel, upgrade manually to the <a href="https://www.nvaccess.org/download/">latest stable build</a>.</p>
+<h3>Links</h3>
+<ul>
+<li><a href="https://download.nvaccess.org/releases/2026.2beta11/nvda_2026.2beta11.exe">Download NVDA 2026.2beta11</a>
+<ul>
+<li>SHA256 sum: 4ff801c17ffde76290ec6f487cbc24228b0f9fa958ad31f9bc68cad9034a0f5d</li>
+</ul>
+</li>
+<li><a href="https://download.nvaccess.org/releases/2026.2beta11/documentation/changes.html">What&#8217;s new in this release of NVDA</a></li>
+<li>Please report any issues <a href="https://github.com/nvaccess/nvda/issues">on GitHub</a>.</li>
+</ul>
+<h3>Highlights</h3>
+<p>This release includes a new built-in Magnifier feature, improvements to touch gestures and navigation, and expanded speech and braille capabilities.</p>
+<p>The Magnifier provides zoom and color filtering options to assist users with visual impairments.
+The Magnifier currently only supports fullscreen mode, with docked modes planned in a future release.</p>
+<p>Touch support has been significantly expanded with new pinch gestures and touch-based browse mode navigation for web content.
+You can now navigate between links, headings, form fields, and other elements using touch flicks.</p>
+<p>Speech features have been enhanced with support for custom speech dictionaries that can be provided by add-ons and new dictionary entry types for more granular control.
+A new voice setting for OneCore voices was added to control pauses after punctuation.
+A new command allows repeating the last spoken information, with the ability to display it in a browsable message.
+The default gesture to repeat the last spoken information is <code>NVDA+x</code>, which can be changed in the Input Gestures dialog.</p>
+<p>The braille display can now automatically scroll and DotPad devices support multi-button combinations.</p>
+<p>Liblouis has been updated with new Italian and Estonian braille tables.</p>
+<p>When resetting NVDA to factory defaults, an Undo button is now available to restore the previous configuration.</p>
+<h4>Changes introduced in Beta 11:</h4>
+<ul>
+<li>Updates to translations</li>
+<li>Updated some messages related to magnifier</li>
+<li>Added a security fix to clear the braille display on system shutdown</li>
+</ul>
+<h4>Changes introduced in Beta 10:</h4>
+<ul>
+<li>Updates to translations</li>
+<li>Fixed touchscreen, touchpad and mouse input for magnifier</li>
+<li>Added gestures for braille automatic scroll commands</li>
+<li>Removed True Center Mode and Border Mode from the magnifier due to design bugs</li>
+<li>Remove non-functional &#8220;Custom&#8221; option from the math decimal separator setting</li>
+</ul>
+<h4>Changes introduced in Beta 9:</h4>
+<ul>
+<li>Updates to translations</li>
+<li>Update Braille Reading and Automatic Scroll Rate in User Guide</li>
+<li>Moving by sentence in Word (<code>alt+downArrow/alt+upArrow</code>) at the start/end of a document now stops there instead of wrapping around to the opposite end.</li>
+<li>Changed quick access keys for magnifier settings to ensure they are unique</li>
+</ul>
+<h4>Changes introduced in Beta 8:</h4>
+<ul>
+<li>Updates to translations</li>
+<li>Improve magnifier behaviour when using higher DPI scaling</li>
+<li>Fix magnifier from interfering with opening dictionary dialogs</li>
+<li>Improve the handling of failing to activate the magnifier</li>
+<li>Block touch screen input when using the magnifier where possible, as it is not supported yet</li>
+</ul>
+<h4>Changes introduced in Beta 7:</h4>
+<ul>
+<li>Updates to translations</li>
+<li>Fix NVDA prompting to restart after updating, instead of logging off</li>
+<li>Revert SAPI5 bug fix from beta6 which was causing issues loading synthesizers</li>
+<li>Fix reading PDF content in Foxit PDF Editor with browse mode</li>
+</ul>
+<h4>Changes introduced in Beta 6:</h4>
+<ul>
+<li>Updates to translations</li>
+<li>Show the restart dialog after updating from within NVDA, and make sure restarting offers the user the ability to save work in progress</li>
+<li>SAPI5 bug fix: skip over invalid voices rather than causing the entire driver to fail</li>
+<li>SAPI4 32 bit bug fix: support voices that don&#8217;t support pitch or rate</li>
+<li>Improve conflict handling between magnifier and screen curtain</li>
+<li>Restore the ability for add-ons to register custom touch modes in availableTouchModes</li>
+</ul>
+<h4>Changes introduced in Beta 5:</h4>
+<ul>
+<li>Updates to translations</li>
+<li>Use math navigation category for one more math script</li>
+<li>Prevent NVDA freeze when brailling math with certain Unicode characters</li>
+<li>Improvements to Magnifier messages and settings names</li>
+</ul>
+<h4>Changes introduced in Beta 4:</h4>
+<ul>
+<li>Updates to translations</li>
+<li>Changed the button layout in the &#8220;Add dictionary entry&#8221; dialog to vertical</li>
+<li>Changed the magnifier tracking from the center of an object to the start (e.g. top-left for left-to-right languages)</li>
+<li>Fixed saving comments in speech dictionaries</li>
+<li>Added a debug log category for magnifier</li>
+<li>Improvements to Magnifier settings names and layout</li>
+</ul>
+<h4>Changes introduced in Beta 3:</h4>
+<ul>
+<li>Pressing <code>NVDA+control+w</code> on secure screens now opens Magnifier settings as expected.</li>
+<li>Highlighter and Magnifier now follow the focused cell in Excel</li>
+<li>Improvements to Magnifier settings names and layout</li>
+</ul>
+<h4>Changes introduced in Beta 2:</h4>
+<ul>
+<li>Updates to translations</li>
+<li>Removed the Magnifier option &#8220;keep mouse centered&#8221;</li>
+<li>Improvements to Magnifier settings names and layout</li>
+</ul>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-27115" src="https://www.nvaccess.org/wp-content/uploads/2022/07/image-1-e1659927289246.png" alt="NVDA logo on a purple background" width="200" height="266" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>In-Process 7th August 2026</title>
+		<link>https://www.nvaccess.org/post/in-process-7th-august-2026/</link>
+		
+		<dc:creator><![CDATA[quentin]]></dc:creator>
+		<pubDate>Fri, 07 Aug 2026 05:16:04 +0000</pubDate>
+				<category><![CDATA[In-Process]]></category>
+		<guid isPermaLink="false">https://www.nvaccess.org/?p=33392</guid>
+
+					<description><![CDATA[We&#8217;re getting ever closer to NVDA 2026.2 and we hit a new milestone towards that this week. Let&#8217;s have a look at what&#8217;s in this week&#8217;s blog and then dive in: NVDA 2026.2 Beta 10 Getting Help WebAIM Screen Reader User Survey Thanks Acapela Moving by Sentence NVDA 2026.2 Beta 10 NVDA 2026.2 is nearly&#8230; <a class="read-more" href="https://www.nvaccess.org/post/in-process-7th-august-2026/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>We&#8217;re getting ever closer to NVDA 2026.2 and we hit a new milestone towards that this week.  Let&#8217;s have a look at what&#8217;s in this week&#8217;s blog and then dive in:</p>
+<ol>
+<li><a href="#beta">NVDA 2026.2 Beta 10</a></li>
+<li><a href="#help">Getting Help</a></li>
+<li><a href="#webaim">WebAIM Screen Reader User Survey</a></li>
+<li><a href="#acapela">Thanks Acapela</a></li>
+<li><a href="#sentence">Moving by Sentence</a></li>
+</ol>
+<p><P></p>
+<h2 id="beta">NVDA 2026.2 Beta 10</h2>
+<p>NVDA 2026.2 is nearly here!  This week we’re up to <a href="https://www.nvaccess.org/post/nvda-2026-2beta10/">NVDA 2026.2 Beta 10</a>.  We are now in the “String freeze” &#8211; that is, we don’t make any changes for a couple of weeks to give the translators time to update their work before the stable release.  So, the next step should be a release candidate in a couple of weeks.  Then, all going to plan, the final release a week or so after that.  Let’s have a look at the updates from the betas since the last In-Process:</p>
+<p><em>Changes introduced in <a href="https://www.nvaccess.org/post/nvda-2026-2beta10/">NVDA 2026.2 Beta 10</a>:</em>
+<UL>
+<LI>Updates to translations</LI>
+<LI>Fixed touchscreen, touchpad and mouse input for magnifier</LI>
+<LI>Added gestures for braille automatic scroll commands</LI>
+<LI>Removed True Center Mode and Border Mode from the magnifier due to design bugs</LI>
+<LI>Remove non-functional “Custom” option from the math decimal separator setting</LI>
+</UL></p>
+<p><em>Changes introduced in Beta 9:</em>
+<UL>
+<LI>Updates to translations</LI>
+<LI>Update Braille Reading and Automatic Scroll Rate in User Guide</LI>
+<LI>Moving by sentence in Word (alt+downArrow/alt+upArrow) at the start/end of a document now stops there instead of wrapping around to the opposite end</LI>
+<LI>Changed quick access keys for magnifier settings to ensure they are unique</LI>
+</UL>
+<em>Changes introduced in Beta 8:</em>
+<UL>
+<LI>Updates to translations</LI>
+<LI>Improve magnifier behaviour when using higher DPI scaling</LI>
+<LI>Fix magnifier from interfering with opening dictionary dialogs</LI>
+<LI>Improve the handling of failing to activate the magnifier</LI>
+<LI>Block touch screen input when using the magnifier where possible, as it is not supported yet</LI>
+</UL></p>
+<h2 id="help">Getting Help</h2>
+<p>We try to ensure there are plenty of ways for NVDA users to get help.  Since you’re reading this blog post, I HOPE you would consider <a href="https://www.nvaccess.org/category/in-process/">our blog</a> one of the ways you learn more about NVDA.  We have <a href="https://www.nvaccess.org/shop/">training material</a> and <a href="https://www.nvaccess.org/product/nvda-telephone-support/">telephone support</a> in our shop, and they are both very popular options (particularly combined in the <a href="https://www.nvaccess.org/product/nvda-productivity-bundle/">NVDA Productivity Bundle</a>).  But what about in NVDA itself?  There are a couple of ways you can get help while you are using NVDA:
+<OL>
+<LI>The User Guide.  (And particularly the quick start guide for new users).  The user guide contains information on all of the features of NVDA.  It is an excellent resource to refer back to after completing “<a href="https://www.nvaccess.org/product-category/basic-training/">Basic Training for NVDA</a>” and learning about all the features.  Press <strong>NVDA+n</strong> to open the NVDA menu, then <strong>h</strong> for the help submenu, which starts on the User Guide</LI>
+<LI>The other items in the “Help” menu for information including <a href="https://download.nvaccess.org/releases/2026.1.1/documentation/changes.html">what is new</a>, links to the <a href="https://www.nvaccess.org/">NV Access website</a>, <a href="https://www.nvaccess.org/get-help/">help and training</a>, and the “<a href="https://download.nvaccess.org/documentation/keyCommands.html">Commands quick reference</a>” (the tables of keystrokes and gestures extracted from the user guide).</LI>
+<LI>Context sensitive help.  From within any dialog in NVDA, press <strong>f1</strong> to open the user guide to the topic on the current control.</LI>
+<LI>Input Help.  Press <strong>NVDA+1</strong> (the 1 in the number row, above Q).  In this mode, NVDA will report any key that you press. If you press an NVDA command (such as NVDA+tab), it will report that.  Keys pressed and commands are not executed.  This can be a great way of exploring a new keyboard layout.  Press <strong>NVDA+1</strong> again to turn input help off.</LI>
+<LI>Report keystroke: While we’re on help for individual keys, the Report Keystroke command tells you the keystroke to access the currently focussed control.  Press <strong>shift+numpad 2</strong> (laptop: <strong>NVDA+control+shift+dot</strong>) to <a href="https://www.nvaccess.org/post/in-process-10th-november-2025/#report">report the keystroke for the current control</a>.</LI>
+</OL></p>
+<p><img loading="lazy" decoding="async" src="https://www.nvaccess.org/wp-content/uploads/2026/08/help-menu-502x424.jpg" alt="Image of the NVDA help menu  with shading and white corners on image" width="502" height="424" class="alignnone size-medium wp-image-33393" srcset="https://www.nvaccess.org/wp-content/uploads/2026/08/help-menu-502x424.jpg 502w, https://www.nvaccess.org/wp-content/uploads/2026/08/help-menu-1024x865.jpg 1024w, https://www.nvaccess.org/wp-content/uploads/2026/08/help-menu-768x649.jpg 768w, https://www.nvaccess.org/wp-content/uploads/2026/08/help-menu-556x470.jpg 556w, https://www.nvaccess.org/wp-content/uploads/2026/08/help-menu.jpg 1287w" sizes="auto, (max-width: 502px) 100vw, 502px" /></p>
+<h2 id="webaim">WebAIM Screen Reader User Survey</h2>
+<p>The <a href="https://webaim.org/projects/screenreadersurvey11/">WebAIM screen reader user’s survey</a> is on again.  This is the 11th edition of the survey, which is the largest survey we are aware of which collects data on screen reader usage and trends.  We encourage everyone to complete it in order to give the community as accurate a picture of how you use a screen reader as possible!</p>
+<p>The one question I’d like to highlight is “<em>Screen reader satisfaction</em>”.  Please do answer all the questions honestly, including that one – but if there is anything which makes you think “I’m not 100% satisfied with NVDA” – please let us know!  You can <a href="https://github.com/nvaccess/nvda/issues">create an issue on GitHub </a>(and we’ve previously included <a href="https://www.nvaccess.org/post/in-process-30th-september-2025/#issue">GitHub instructions here in In-Process</a>, you can <a href="mailto:info@nvaccess.org">email us</a>, reach us in the <a href="https://nvaccess.org/nvda-users">official NVDA mailing list</a>, or on <a href="http://nvaccess.org/#socials">social media</a>.</p>
+<h2 id="acapela">Thanks Acapela</h2>
+<p>We are very grateful to all <a href="https://www.nvaccess.org/support-us/#donation-support">our donors</a>.  They are one of the main reasons we are able to continue to provide NVDA for free to anyone who can use it anywhere in the world.</p>
+<p>This week, we’d like to give a shoutout to Acapela who make the popular <a href="http://www.acapela-nvda.com/">Acapela TTS for NVDA</a>.  If you are interested in trying Acapela out, they offer an evaluation version which is fully functional and provides access to all voices and all functionalities for 15 days.</p>
+<p>Acapela, along with many other options, are listed on <a href="http://extraVoices · nvaccess/nvda Wiki">our Extra Voices page</a>.</p>
+<p>And, if you would like to <a href="https://www.nvaccess.org/support-us/#donation-support">donate and help keep NVDA free</a> for everyone, we would welcome your support.  Please visit <a href="https://www.nvaccess.org/support-us/#donation-support">our donation page</a> for PayPal or bank donation options.  You can also <a href="https://github.com/sponsors/nvaccess">become a GitHub Sponsor</a>.</p>
+<h2 id="sentence">Moving by Sentence</h2>
+<p>One of the fixes in the recent NVDA 2026.2 betas is a fix to moving by sentences in Microsoft Word.  In many places in Microsoft Office, you can press <strong>alt+down arrow</strong> to move to the next sentence and <strong>alt+up arrow</strong> to move to the previous sentence.  While this is a feature of Office, if you appreciate moving by sentence and would like to be able to use it everywhere, try out the “<a href="https://addonstore.nvaccess.org/?channel=stable&#038;language=en&#038;apiVersion=2026.1.1&#038;addonId=SentenceNav">Sentence Nav</a>” add-on in the add-on store.</p>
+<p>Want more ways of getting around?  How about:
+<UL>
+<LI>Word (<strong>control+left arrow</strong> and <strong>control+right arrow</strong>)</LI>
+<LI>Paragraph (<strong>control+up arrow</strong> and <strong>control+down arrow</strong> OR <strong>shift+p</strong> and <strong>p</strong>)</LI>
+<LI>And as an added bonus for paragraph navigation, here’s a related feature: <a href="https://www.nvaccess.org/post/in-process-24th-february-2023/#paragraph">Paragraph style</a>, which lets you change how NVDA moves when moving by paragraph</LI>
+<LI><a href="https://www.nvaccess.org/post/in-process-15th-november/#SingleLetterNavigation">Single letter navigation</a></LI>
+</UL>
+What other ways do you prefer to navigate documents?  Continue the conversation on <a href="http://nvaccess.org/#socials">social media</a>.</p>
+<p>That’s all for this week.  Next time around we’ll be close to the final 2026.2 release, so for now, do try out <a href="https://www.nvaccess.org/post/nvda-2026-2beta10/">the latest beta</a> and be sure to report any issues.  Also don&#8217;t forget to do the <a href="https://webaim.org/projects/screenreadersurvey11/">WebAIM Screen Reader User Survey</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NVDA 2026.2beta10 available for testing</title>
+		<link>https://www.nvaccess.org/post/nvda-2026-2beta10/</link>
+		
+		<dc:creator><![CDATA[Sean Budd]]></dc:creator>
+		<pubDate>Thu, 06 Aug 2026 01:11:44 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<guid isPermaLink="false">https://www.nvaccess.org/?p=33379</guid>
+
+					<description><![CDATA[Beta10 of NVDA 2026.2 is now available for download and testing. For anyone who is interested in trying out what the next version of NVDA has to offer before it is officially released, we welcome you to download the beta and provide feedback using our issue reporting process. By installing the beta you will be&#8230; <a class="read-more" href="https://www.nvaccess.org/post/nvda-2026-2beta10/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Beta10 of NVDA 2026.2 is now available for download and testing.
+For anyone who is interested in trying out what the next version of NVDA has to offer before it is officially released, we welcome you to download the beta and provide feedback using our <a href="https://github.com/nvaccess/nvda/blob/master/projectDocs/issues/readme.md">issue reporting process</a>.
+By installing the beta you will be opting into NVDA&#8217;s beta channel, and will only receive update notifications for beta and release candidate (RC) builds.
+The beta/RC channel will always keep you up to date with the latest NVDA version.
+The last RC in a release cycle is identical to the final stable release.
+To return to the stable release channel, upgrade manually to the <a href="https://www.nvaccess.org/download/">latest stable build</a>.</p>
+<h3>Links</h3>
+<ul>
+<li><a href="https://download.nvaccess.org/releases/2026.2beta10/nvda_2026.2beta10.exe">Download NVDA 2026.2beta10</a>
+<ul>
+<li>SHA256 sum: 027c1b5a1d6024288ffc672f601069856aaa75de1b8600ce40ce5beceb623306</li>
+</ul>
+</li>
+<li><a href="https://download.nvaccess.org/releases/2026.2beta10/documentation/changes.html">What&#8217;s new in this release of NVDA</a></li>
+<li>Please report any issues <a href="https://github.com/nvaccess/nvda/issues">on GitHub</a>.</li>
+</ul>
+<h3>Highlights</h3>
+<p>This release includes a new built-in Magnifier feature, improvements to touch gestures and navigation, and expanded speech and braille capabilities.</p>
+<p>The Magnifier provides zoom and color filtering options to assist users with visual impairments.
+The Magnifier currently only supports fullscreen mode, with docked modes planned in a future release.</p>
+<p>Touch support has been significantly expanded with new pinch gestures and touch-based browse mode navigation for web content.
+You can now navigate between links, headings, form fields, and other elements using touch flicks.</p>
+<p>Speech features have been enhanced with support for custom speech dictionaries that can be provided by add-ons and new dictionary entry types for more granular control.
+A new voice setting for OneCore voices was added to control pauses after punctuation.
+A new command allows repeating the last spoken information, with the ability to display it in a browsable message.
+The default gesture to repeat the last spoken information is <code>NVDA+x</code>, which can be changed in the Input Gestures dialog.</p>
+<p>The braille display can now automatically scroll and DotPad devices support multi-button combinations.</p>
+<p>Liblouis has been updated with new Italian and Estonian braille tables.</p>
+<p>When resetting NVDA to factory defaults, an Undo button is now available to restore the previous configuration.</p>
+<h4>Changes introduced in Beta 10:</h4>
+<ul>
+<li>Updates to translations</li>
+<li>Fixed touchscreen, touchpad and mouse input for magnifier</li>
+<li>Added gestures for braille automatic scroll commands</li>
+<li>Removed True Center Mode and Border Mode from the magnifier due to design bugs</li>
+<li>Remove non-functional &#8220;Custom&#8221; option from the math decimal separator setting</li>
+</ul>
+<h4>Changes introduced in Beta 9:</h4>
+<ul>
+<li>Updates to translations</li>
+<li>Update Braille Reading and Automatic Scroll Rate in User Guide</li>
+<li>Moving by sentence in Word (<code>alt+downArrow/alt+upArrow</code>) at the start/end of a document now stops there instead of wrapping around to the opposite end.</li>
+<li>Changed quick access keys for magnifier settings to ensure they are unique</li>
+</ul>
+<h4>Changes introduced in Beta 8:</h4>
+<ul>
+<li>Updates to translations</li>
+<li>Improve magnifier behaviour when using higher DPI scaling</li>
+<li>Fix magnifier from interfering with opening dictionary dialogs</li>
+<li>Improve the handling of failing to activate the magnifier</li>
+<li>Block touch screen input when using the magnifier where possible, as it is not supported yet</li>
+</ul>
+<h4>Changes introduced in Beta 7:</h4>
+<ul>
+<li>Updates to translations</li>
+<li>Fix NVDA prompting to restart after updating, instead of logging off</li>
+<li>Revert SAPI5 bug fix from beta6 which was causing issues loading synthesizers</li>
+<li>Fix reading PDF content in Foxit PDF Editor with browse mode</li>
+</ul>
+<h4>Changes introduced in Beta 6:</h4>
+<ul>
+<li>Updates to translations</li>
+<li>Show the restart dialog after updating from within NVDA, and make sure restarting offers the user the ability to save work in progress</li>
+<li>SAPI5 bug fix: skip over invalid voices rather than causing the entire driver to fail</li>
+<li>SAPI4 32 bit bug fix: support voices that don&#8217;t support pitch or rate</li>
+<li>Improve conflict handling between magnifier and screen curtain</li>
+<li>Restore the ability for add-ons to register custom touch modes in availableTouchModes</li>
+</ul>
+<h4>Changes introduced in Beta 5:</h4>
+<ul>
+<li>Updates to translations</li>
+<li>Use math navigation category for one more math script</li>
+<li>Prevent NVDA freeze when brailling math with certain Unicode characters</li>
+<li>Improvements to Magnifier messages and settings names</li>
+</ul>
+<h4>Changes introduced in Beta 4:</h4>
+<ul>
+<li>Updates to translations</li>
+<li>Changed the button layout in the &#8220;Add dictionary entry&#8221; dialog to vertical</li>
+<li>Changed the magnifier tracking from the center of an object to the start (e.g. top-left for left-to-right languages)</li>
+<li>Fixed saving comments in speech dictionaries</li>
+<li>Added a debug log category for magnifier</li>
+<li>Improvements to Magnifier settings names and layout</li>
+</ul>
+<h4>Changes introduced in Beta 3:</h4>
+<ul>
+<li>Pressing <code>NVDA+control+w</code> on secure screens now opens Magnifier settings as expected.</li>
+<li>Highlighter and Magnifier now follow the focused cell in Excel</li>
+<li>Improvements to Magnifier settings names and layout</li>
+</ul>
+<h4>Changes introduced in Beta 2:</h4>
+<ul>
+<li>Updates to translations</li>
+<li>Removed the Magnifier option &#8220;keep mouse centered&#8221;</li>
+<li>Improvements to Magnifier settings names and layout</li>
+</ul>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-27115" src="https://www.nvaccess.org/wp-content/uploads/2022/07/image-1-e1659927289246.png" alt="NVDA logo on a purple background" width="200" height="266" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

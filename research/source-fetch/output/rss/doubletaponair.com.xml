@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Double Tap</title>
+	<atom:link href="https://doubletaponair.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://doubletaponair.com</link>
+	<description>Where blind people talk tech</description>
+	<lastBuildDate>Tue, 15 Sep 2026 16:00:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://doubletaponair.com/wp-content/uploads/2023/12/cropped-DT-Logo-32x32.png</url>
+	<title>Double Tap</title>
+	<link>https://doubletaponair.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Listener Emails on Meta Glasses, Luna AI, Runa TTS and Braille Pricing</title>
+		<link>https://doubletaponair.com/listener-emails-on-meta-glasses-luna-ai-runa-tts-and-braille-pricing-2/</link>
+		
+		<dc:creator><![CDATA[Double Tap]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 16:00:06 +0000</pubDate>
+				<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[accessibility]]></category>
+		<category><![CDATA[accessible voice tutor]]></category>
+		<category><![CDATA[agiga]]></category>
+		<category><![CDATA[assistive tech podcast]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[blind]]></category>
+		<category><![CDATA[blind tech news]]></category>
+		<category><![CDATA[blind tech podcast]]></category>
+		<category><![CDATA[Braille display affordability]]></category>
+		<category><![CDATA[braille display cost]]></category>
+		<category><![CDATA[Claude AI Siri]]></category>
+		<category><![CDATA[claude app development]]></category>
+		<category><![CDATA[dictation for blind users]]></category>
+		<category><![CDATA[double tap]]></category>
+		<category><![CDATA[echovision smart glasses]]></category>
+		<category><![CDATA[envision glasses]]></category>
+		<category><![CDATA[Facebook accessibility]]></category>
+		<category><![CDATA[Google smart glasses]]></category>
+		<category><![CDATA[iOS 27]]></category>
+		<category><![CDATA[ios 27 voiceover]]></category>
+		<category><![CDATA[Kindle accessibility]]></category>
+		<category><![CDATA[legally blind]]></category>
+		<category><![CDATA[LinkedIn accessibility]]></category>
+		<category><![CDATA[low vision]]></category>
+		<category><![CDATA[low vision tech]]></category>
+		<category><![CDATA[luna ai tutor]]></category>
+		<category><![CDATA[Meta glasses accessibility]]></category>
+		<category><![CDATA[meta ray-ban glasses]]></category>
+		<category><![CDATA[nicky voice]]></category>
+		<category><![CDATA[oorion]]></category>
+		<category><![CDATA[runa tts]]></category>
+		<category><![CDATA[screen reader accessibility]]></category>
+		<category><![CDATA[screen reader bugs]]></category>
+		<category><![CDATA[shaun preece]]></category>
+		<category><![CDATA[siri ai dictation]]></category>
+		<category><![CDATA[smart glasses comparison]]></category>
+		<category><![CDATA[smart glasses for blind users]]></category>
+		<category><![CDATA[steven scott]]></category>
+		<category><![CDATA[vision loss]]></category>
+		<category><![CDATA[visually impaired]]></category>
+		<category><![CDATA[voiceover bugs]]></category>
+		<guid isPermaLink="false">https://doubletaponair.com/listener-emails-on-meta-glasses-luna-ai-runa-tts-and-braille-pricing-2/</guid>
+
+					<description><![CDATA[Should blind and low vision users install iOS 27 right away? Steven Scott and Shaun Preece explain why VoiceOver users might wait a month. Then they open the inbox for listener emails on Meta glasses problems, the best smart glasses for reading, Luna AI, Siri dictation and the high cost of Braille displays.]]></description>
+										<content:encoded><![CDATA[<p><iframe title="Listener Emails on Meta Glasses, Luna AI, Runa TTS and Braille Pricing" width="500" height="281" src="https://www.youtube.com/embed/h1CegVHMRsk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p>Should blind and low vision users install iOS 27 right away? Steven Scott and Shaun Preece explain why VoiceOver users might wait a month. Then they open the inbox for listener emails on Meta glasses problems, the best smart glasses for reading, Luna AI, Siri dictation and the high cost of Braille displays.</p>
+<p>Steven&#8217;s yearly advice to hold off on iOS 27 got some pushback online, and the hosts explain the reasoning. If VoiceOver breaks, a blind user loses their screen. They cover reports of tinny speech, why the nerds should test first, and hidden code that could let Claude sit behind the Siri AI interface. They also get into cluttered screen reader navigation on Facebook and LinkedIn.</p>
+<p>Dan in Preston says Meta glasses in the UK have stopped doing look and tell. Shaun has hit the same bug and shares a workaround. Steven gives an update on his locked Microsoft account. Donnie from Oklahoma wants to know whether the AGIGA EchoVision or Meta glasses read print better, which leads to a chat about Envision, OOrion and Google&#8217;s glasses coming this fall.</p>
+<p>Lena recommends Luna AI, an accessible voice tutor, and Shane in St. John&#8217;s, Newfoundland gives Siri&#8217;s new advanced dictation high marks, with one exception. Cheryl enjoys the Nicky voice for Kindle books. That sparks a look at Runa TTS pronunciation quirks and Stash and Jot, two apps Steven built with Claude. Leander closes by calling for payment plans, leasing or subscriptions to make Braille displays affordable.</p>
+<p>Chapters</p>
+<p>0:00 – Welcome and low expectations<br />
+1:43 – Why VoiceOver users should wait on iOS 27<br />
+11:11 – Facebook, LinkedIn and screen reader clutter<br />
+16:07 – Dan on Meta glasses failing in the UK<br />
+26:12 – Donnie asks about EchoVision vs Meta for reading<br />
+33:00 – Lena recommends Luna AI<br />
+37:00 – Shane reviews Siri AI dictation<br />
+41:37 – Sheryl on the Nicky voice and Runa TTS<br />
+47:33 – Steven&#8217;s Stash and Jot, apps built with Claude<br />
+51:51 – Leannda on the cost of Braille displays</p>
+<p>Relevant Links</p>
+<p>Luna AI: <a rel="noopener noreferrer" href="https://trylunaai.com">https://trylunaai.com</a><br />
+AGIGA EchoVision: <a rel="noopener noreferrer" href="https://agiga.ai/">https://agiga.ai/</a><br />
+OOrion: <a rel="noopener noreferrer" href="https://www.oorion.fr/en">https://www.oorion.fr/en</a><br />
+The Blind Life: <a rel="noopener noreferrer" href="https://www.theblindlife.net/">https://www.theblindlife.net/</a><br />
+Runa TTS: <a rel="noopener noreferrer" href="https://accessmind.io/runa-tts.php">https://accessmind.io/runa-tts.php</a><br />
+PiccyBot: <a rel="noopener noreferrer" href="https://piccybot.com/">https://piccybot.com/</a><br />
+AMI Scholarship: <a rel="noopener noreferrer" href="https://www.ami.ca/scholarship">https://www.ami.ca/scholarship</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Listener Emails on Meta Glasses, Luna AI, Runa TTS and Braille Pricing</title>
+		<link>https://doubletaponair.com/listener-emails-on-meta-glasses-luna-ai-runa-tts-and-braille-pricing/</link>
+		
+		<dc:creator><![CDATA[Double Tap]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 16:00:00 +0000</pubDate>
+				<category><![CDATA[Episodes]]></category>
+		<category><![CDATA[accessible AI tutor]]></category>
+		<category><![CDATA[agiga]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[blind tech news]]></category>
+		<category><![CDATA[blind tech podcast]]></category>
+		<category><![CDATA[braille display cost]]></category>
+		<category><![CDATA[braille display pricing]]></category>
+		<category><![CDATA[Claude AI apps]]></category>
+		<category><![CDATA[claude app development]]></category>
+		<category><![CDATA[double tap]]></category>
+		<category><![CDATA[echovision smart glasses]]></category>
+		<category><![CDATA[envision glasses]]></category>
+		<category><![CDATA[Facebook screen reader]]></category>
+		<category><![CDATA[google glasses 2025]]></category>
+		<category><![CDATA[iOS 27 update]]></category>
+		<category><![CDATA[ios 27 voiceover]]></category>
+		<category><![CDATA[Kindle accessibility]]></category>
+		<category><![CDATA[LinkedIn accessibility]]></category>
+		<category><![CDATA[low vision tech]]></category>
+		<category><![CDATA[luna ai tutor]]></category>
+		<category><![CDATA[Meta glasses accessibility]]></category>
+		<category><![CDATA[Meta glasses bug]]></category>
+		<category><![CDATA[nicky voice]]></category>
+		<category><![CDATA[oorion]]></category>
+		<category><![CDATA[payment plans braille]]></category>
+		<category><![CDATA[runa tts]]></category>
+		<category><![CDATA[screen reader accessibility]]></category>
+		<category><![CDATA[shaun preece]]></category>
+		<category><![CDATA[siri ai dictation]]></category>
+		<category><![CDATA[Siri dictation iOS]]></category>
+		<category><![CDATA[smart glasses for blind users]]></category>
+		<category><![CDATA[smart glasses print reading]]></category>
+		<category><![CDATA[steven scott]]></category>
+		<category><![CDATA[voiceover bugs]]></category>
+		<category><![CDATA[VoiceOver navigation]]></category>
+		<guid isPermaLink="false">https://doubletaponair.com/listener-emails-on-meta-glasses-luna-ai-runa-tts-and-braille-pricing/</guid>
+
+					<description><![CDATA[Should blind and low vision users install iOS 27 right away? Steven Scott and Shaun Preece explain why VoiceOver users might wait a month. Then they open the inbox for listener emails on Meta glasses problems, the best smart glasses for reading, Luna AI, Siri dictation and the high cost of Braille displays.]]></description>
+										<content:encoded><![CDATA[<p><!-- DT Podcast Importer: Audio Player --></p>
+<div class="dtpi-player" role="region" aria-label="Listener Emails on Meta Glasses, Luna AI, Runa TTS and Braille Pricing — Episode audio player">
+  <audio class="dtpi-audio" controls preload="metadata" data-duration="3360" aria-label="Listen to Listener Emails on Meta Glasses, Luna AI, Runa TTS and Braille Pricing (56m)"></p>
+<p>    Your browser does not support audio playback. <a href="https://op3.dev/e/podgo.simplecastaudio.com/d838244c-2029-41b5-aa66-d28628ab36fa/episodes/1f982b5c-711f-45a4-9dfd-61a5393ea406/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=d838244c-2029-41b5-aa66-d28628ab36fa&amp;awEpisodeId=1f982b5c-711f-45a4-9dfd-61a5393ea406&amp;feed=MhX_XZQZ">Download the episode</a>.<br />
+  </audio>
+</div>
+<p>Should blind and low vision users install iOS 27 right away? Steven Scott and Shaun Preece explain why VoiceOver users might wait a month. Then they open the inbox for listener emails on Meta glasses problems, the best smart glasses for reading, Luna AI, Siri dictation and the high cost of Braille displays.</p>
+<p>Steven&#8217;s yearly advice to hold off on iOS 27 got some pushback online, and the hosts explain the reasoning. If VoiceOver breaks, a blind user loses their screen. They cover reports of tinny speech, why the nerds should test first, and hidden code that could let Claude sit behind the Siri AI interface. They also get into cluttered screen reader navigation on Facebook and LinkedIn.</p>
+<p>Dan in Preston says Meta glasses in the UK have stopped doing look and tell. Shaun has hit the same bug and shares a workaround. Steven gives an update on his locked Microsoft account. Donnie from Oklahoma wants to know whether the AGIGA EchoVision or Meta glasses read print better, which leads to a chat about Envision, OOrion and Google&#8217;s glasses coming this fall.</p>
+<p>Lena recommends Luna AI, an accessible voice tutor, and Shane in St. John&#8217;s, Newfoundland gives Siri&#8217;s new advanced dictation high marks, with one exception. Cheryl enjoys the Nicky voice for Kindle books. That sparks a look at Runa TTS pronunciation quirks and Stash and Jot, two apps Steven built with Claude. Leander closes by calling for payment plans, leasing or subscriptions to make Braille displays affordable.</p>
+<p>Chapters</p>
+<p>0:00 – Welcome and low expectations<br />1:43 – Why VoiceOver users should wait on iOS 27<br />11:11 – Facebook, LinkedIn and screen reader clutter<br />16:07 – Dan on Meta glasses failing in the UK<br />26:12 – Donnie asks about EchoVision vs Meta for reading<br />33:00 – Lena recommends Luna AI<br />37:00 – Shane reviews Siri AI dictation<br />41:37 – Sheryl on the Nicky voice and Runa TTS<br />47:33 – Steven&#8217;s Stash and Jot, apps built with Claude<br />51:51 – Leannda on the cost of Braille displays</p>
+<p>Relevant Links</p>
+<p>Luna AI: <a rel="noopener noreferrer" href="https://trylunaai.com">https://trylunaai.com</a><br />AGIGA EchoVision: <a rel="noopener noreferrer" href="https://agiga.ai/">https://agiga.ai/</a><br />OOrion: <a rel="noopener noreferrer" href="https://www.oorion.fr/en">https://www.oorion.fr/en</a><br />The Blind Life: <a rel="noopener noreferrer" href="https://www.theblindlife.net/">https://www.theblindlife.net/</a><br />Runa TTS: <a rel="noopener noreferrer" href="https://accessmind.io/runa-tts.php">https://accessmind.io/runa-tts.php</a><br />PiccyBot: <a rel="noopener noreferrer" href="https://piccybot.com/">https://piccybot.com/</a><br />AMI Scholarship: <a rel="noopener noreferrer" href="https://www.ami.ca/scholarship">https://www.ami.ca/scholarship</a></p>
+<p></p>
+<p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://op3.dev/e/podgo.simplecastaudio.com/d838244c-2029-41b5-aa66-d28628ab36fa/episodes/1f982b5c-711f-45a4-9dfd-61a5393ea406/audio/128/default.mp3?aid=rss_feed&#038;awCollectionId=d838244c-2029-41b5-aa66-d28628ab36fa&#038;awEpisodeId=1f982b5c-711f-45a4-9dfd-61a5393ea406&#038;feed=MhX_XZQZ" length="0" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>Is AI Really That Dangerous? Will Guyatt Joins, Plus First Thoughts on Siri AI</title>
+		<link>https://doubletaponair.com/is-ai-really-that-dangerous-will-guyatt-joins-plus-first-thoughts-on-siri-ai-2/</link>
+		
+		<dc:creator><![CDATA[Double Tap]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2026 16:00:34 +0000</pubDate>
+				<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[accessibility]]></category>
+		<category><![CDATA[AI agents]]></category>
+		<category><![CDATA[AI business model]]></category>
+		<category><![CDATA[ai email assistant]]></category>
+		<category><![CDATA[AI existential risk]]></category>
+		<category><![CDATA[AI IPO]]></category>
+		<category><![CDATA[ai pause]]></category>
+		<category><![CDATA[AI regulation]]></category>
+		<category><![CDATA[AI regulation debate]]></category>
+		<category><![CDATA[AI safety]]></category>
+		<category><![CDATA[AI webcam]]></category>
+		<category><![CDATA[anthropic]]></category>
+		<category><![CDATA[Apple beta testing]]></category>
+		<category><![CDATA[applevis]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[blind]]></category>
+		<category><![CDATA[blind podcast]]></category>
+		<category><![CDATA[blind tech podcast]]></category>
+		<category><![CDATA[blind technology]]></category>
+		<category><![CDATA[claude ai]]></category>
+		<category><![CDATA[Creative USB speakers]]></category>
+		<category><![CDATA[Donald Trump AI policy]]></category>
+		<category><![CDATA[double tap]]></category>
+		<category><![CDATA[double tap podcast]]></category>
+		<category><![CDATA[ed zitron]]></category>
+		<category><![CDATA[Grade 2 Braille]]></category>
+		<category><![CDATA[iOS 27 accessibility]]></category>
+		<category><![CDATA[ios 27 beta]]></category>
+		<category><![CDATA[iOS 27 beta review]]></category>
+		<category><![CDATA[jaws]]></category>
+		<category><![CDATA[legally blind]]></category>
+		<category><![CDATA[low vision]]></category>
+		<category><![CDATA[Mac accessibility]]></category>
+		<category><![CDATA[nvda]]></category>
+		<category><![CDATA[openai]]></category>
+		<category><![CDATA[rogue AI]]></category>
+		<category><![CDATA[screen reader comparison]]></category>
+		<category><![CDATA[shaun preece]]></category>
+		<category><![CDATA[Siri accessibility]]></category>
+		<category><![CDATA[Siri AI]]></category>
+		<category><![CDATA[steven scott]]></category>
+		<category><![CDATA[vision loss]]></category>
+		<category><![CDATA[visually impaired]]></category>
+		<category><![CDATA[voiceover]]></category>
+		<category><![CDATA[Will Guyatt]]></category>
+		<category><![CDATA[windows screen reader]]></category>
+		<guid isPermaLink="false">https://doubletaponair.com/is-ai-really-that-dangerous-will-guyatt-joins-plus-first-thoughts-on-siri-ai-2/</guid>
+
+					<description><![CDATA[Is the AI industry sounding a real alarm, or is it about money? Tech journalist Will Guyatt joins Steven Scott and Shaun Preece to make sense of the AI pause warnings. Then it's a first look at Siri AI in the iOS 27 beta and a candid chat about Windows, the Mac and screen readers.]]></description>
+										<content:encoded><![CDATA[<p><iframe title="Is AI Really That Dangerous? Will Guyatt Joins, Plus First Thoughts on Siri AI" width="500" height="281" src="https://www.youtube.com/embed/bViEoHaHVrk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p>Is the AI industry sounding a real alarm, or is it about money? Tech journalist Will Guyatt joins Steven Scott and Shaun Preece to make sense of the AI pause warnings. Then it&#8217;s a first look at Siri AI in the iOS 27 beta and a candid chat about Windows, the Mac and screen readers.</p>
+<p>Will lays out three theories behind a chaotic news week. AI makers could be alarmed by how quickly their models are moving. Donald Trump wants no brakes in a race with China. Or AI companies short on funding may be delaying their IPOs and reshaping the story. He also points listeners to Ed Zitron, a sceptic of the AI business model.</p>
+<p>Steven and Shaun then weigh up what &#8220;AI will kill humanity&#8221; really means. They cover rogue AI agents, an email assistant that forwarded a message nobody asked it to send, AI tools given credit cards, and why government regulation may be too slow to matter.</p>
+<p>The mood lifts with hands-on impressions of Siri AI in the iOS 27 public beta, including the waiting list, the Dynamic Island and early bugs. There&#8217;s a reminder to hold off on updating your daily phone, because banking apps and third-party apps may break, plus an inaccessible Barclays app.</p>
+<p>The episode closes with Creative USB speakers that switch audio back to the laptop, and why Windows with NVDA or JAWS feels more logical than the Mac. Plans to learn grade 2 braille and use a webcam to give Claude eyes round things off.</p>
+<p>Chapters</p>
+<p>0:00 – Intro: is the AI warning nonsense?<br />
+1:40 – Will Guyatt on what&#8217;s behind the AI pause<br />
+12:39 – Balance sheet or something bigger?<br />
+21:02 – AI agents, control and regulation<br />
+30:22 – Siri AI in the iOS 27 beta<br />
+35:18 – Why to wait before updating, and banking apps<br />
+39:49 – USB speakers and automatic audio switching<br />
+42:45 – Windows, the Mac and learning grade 2 braille<br />
+51:33 – Giving Claude eyes and final thoughts</p>
+<p>Relevant Links</p>
+<p>Will Guyatt: <a rel="noopener noreferrer" href="https://www.willguyatt.co.uk">https://www.willguyatt.co.uk</a><br />
+Ed Zitron&#8217;s Where&#8217;s Your Ed At: <a rel="noopener noreferrer" href="https://www.wheresyoured.at">https://www.wheresyoured.at</a><br />
+AppleVis: <a rel="noopener noreferrer" href="https://www.applevis.com">https://www.applevis.com</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Is AI Really That Dangerous? Will Guyatt Joins, Plus First Thoughts on Siri AI</title>
+		<link>https://doubletaponair.com/is-ai-really-that-dangerous-will-guyatt-joins-plus-first-thoughts-on-siri-ai/</link>
+		
+		<dc:creator><![CDATA[Double Tap]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2026 16:00:00 +0000</pubDate>
+				<category><![CDATA[Episodes]]></category>
+		<category><![CDATA[AI agents]]></category>
+		<category><![CDATA[AI business model]]></category>
+		<category><![CDATA[ai email assistant]]></category>
+		<category><![CDATA[AI existential risk]]></category>
+		<category><![CDATA[AI funding]]></category>
+		<category><![CDATA[ai pause]]></category>
+		<category><![CDATA[AI regulation]]></category>
+		<category><![CDATA[AI safety]]></category>
+		<category><![CDATA[anthropic]]></category>
+		<category><![CDATA[applevis]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[Barclays app accessibility]]></category>
+		<category><![CDATA[blind podcast]]></category>
+		<category><![CDATA[blind tech podcast]]></category>
+		<category><![CDATA[blind technology]]></category>
+		<category><![CDATA[braille learning]]></category>
+		<category><![CDATA[claude ai]]></category>
+		<category><![CDATA[double tap podcast]]></category>
+		<category><![CDATA[Dynamic Island]]></category>
+		<category><![CDATA[ed zitron]]></category>
+		<category><![CDATA[Grade 2 Braille]]></category>
+		<category><![CDATA[iOS 27 accessibility]]></category>
+		<category><![CDATA[ios 27 beta]]></category>
+		<category><![CDATA[jaws]]></category>
+		<category><![CDATA[Mac accessibility]]></category>
+		<category><![CDATA[nvda]]></category>
+		<category><![CDATA[openai]]></category>
+		<category><![CDATA[rogue AI agents]]></category>
+		<category><![CDATA[screen reader comparison]]></category>
+		<category><![CDATA[shaun preece]]></category>
+		<category><![CDATA[Siri AI]]></category>
+		<category><![CDATA[steven scott]]></category>
+		<category><![CDATA[USB speakers]]></category>
+		<category><![CDATA[voiceover]]></category>
+		<category><![CDATA[webcam AI]]></category>
+		<category><![CDATA[Will Guyatt]]></category>
+		<category><![CDATA[windows screen reader]]></category>
+		<category><![CDATA[Windows vs Mac]]></category>
+		<guid isPermaLink="false">https://doubletaponair.com/is-ai-really-that-dangerous-will-guyatt-joins-plus-first-thoughts-on-siri-ai/</guid>
+
+					<description><![CDATA[Is the AI industry sounding a real alarm, or is it about money? Tech journalist Will Guyatt joins Steven Scott and Shaun Preece to make sense of the AI pause warnings. Then it's a first look at Siri AI in the iOS 27 beta and a candid chat about Windows, the Mac and screen readers.]]></description>
+										<content:encoded><![CDATA[<p><!-- DT Podcast Importer: Audio Player --></p>
+<div class="dtpi-player" role="region" aria-label="Is AI Really That Dangerous? Will Guyatt Joins, Plus First Thoughts on Siri AI — Episode audio player">
+  <audio class="dtpi-audio" controls preload="metadata" data-duration="3360" aria-label="Listen to Is AI Really That Dangerous? Will Guyatt Joins, Plus First Thoughts on Siri AI (56m)"></p>
+<p>    Your browser does not support audio playback. <a href="https://op3.dev/e/podgo.simplecastaudio.com/d838244c-2029-41b5-aa66-d28628ab36fa/episodes/016471e9-b22e-4199-9b6c-c1d1f87db16e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=d838244c-2029-41b5-aa66-d28628ab36fa&amp;awEpisodeId=016471e9-b22e-4199-9b6c-c1d1f87db16e&amp;feed=MhX_XZQZ">Download the episode</a>.<br />
+  </audio>
+</div>
+<p>Is the AI industry sounding a real alarm, or is it about money? Tech journalist Will Guyatt joins Steven Scott and Shaun Preece to make sense of the AI pause warnings. Then it&#8217;s a first look at Siri AI in the iOS 27 beta and a candid chat about Windows, the Mac and screen readers.</p>
+<p>Will lays out three theories behind a chaotic news week. AI makers could be alarmed by how quickly their models are moving. Donald Trump wants no brakes in a race with China. Or AI companies short on funding may be delaying their IPOs and reshaping the story. He also points listeners to Ed Zitron, a sceptic of the AI business model.</p>
+<p>Steven and Shaun then weigh up what &#8220;AI will kill humanity&#8221; really means. They cover rogue AI agents, an email assistant that forwarded a message nobody asked it to send, AI tools given credit cards, and why government regulation may be too slow to matter.</p>
+<p>The mood lifts with hands-on impressions of Siri AI in the iOS 27 public beta, including the waiting list, the Dynamic Island and early bugs. There&#8217;s a reminder to hold off on updating your daily phone, because banking apps and third-party apps may break, plus an inaccessible Barclays app.</p>
+<p>The episode closes with Creative USB speakers that switch audio back to the laptop, and why Windows with NVDA or JAWS feels more logical than the Mac. Plans to learn grade 2 braille and use a webcam to give Claude eyes round things off.</p>
+<p>Chapters</p>
+<p>0:00 – Intro: is the AI warning nonsense?<br />1:40 – Will Guyatt on what&#8217;s behind the AI pause<br />12:39 – Balance sheet or something bigger?<br />21:02 – AI agents, control and regulation<br />30:22 – Siri AI in the iOS 27 beta<br />35:18 – Why to wait before updating, and banking apps<br />39:49 – USB speakers and automatic audio switching<br />42:45 – Windows, the Mac and learning grade 2 braille<br />51:33 – Giving Claude eyes and final thoughts</p>
+<p>Relevant Links</p>
+<p>Will Guyatt: <a rel="noopener noreferrer" href="https://www.willguyatt.co.uk">https://www.willguyatt.co.uk</a><br />Ed Zitron&#8217;s Where&#8217;s Your Ed At: <a rel="noopener noreferrer" href="https://www.wheresyoured.at">https://www.wheresyoured.at</a><br />AppleVis: <a rel="noopener noreferrer" href="https://www.applevis.com">https://www.applevis.com</a></p>
+<p></p>
+<p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://op3.dev/e/podgo.simplecastaudio.com/d838244c-2029-41b5-aa66-d28628ab36fa/episodes/016471e9-b22e-4199-9b6c-c1d1f87db16e/audio/128/default.mp3?aid=rss_feed&#038;awCollectionId=d838244c-2029-41b5-aa66-d28628ab36fa&#038;awEpisodeId=016471e9-b22e-4199-9b6c-c1d1f87db16e&#038;feed=MhX_XZQZ" length="0" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>Mainstream: Marc Aflalo&#8217;s Take On Apple&#8217;s &#8216;Surprise And Shine&#8217; Event</title>
+		<link>https://doubletaponair.com/mainstream-marc-aflalos-take-on-apples-surprise-and-shine-event-2/</link>
+		
+		<dc:creator><![CDATA[Double Tap]]></dc:creator>
+		<pubDate>Sun, 13 Sep 2026 16:00:20 +0000</pubDate>
+				<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[accessibility]]></category>
+		<category><![CDATA[accessible technology]]></category>
+		<category><![CDATA[airpods 5]]></category>
+		<category><![CDATA[airpods 5 noise cancellation]]></category>
+		<category><![CDATA[AirPods noise cancellation]]></category>
+		<category><![CDATA[apple event 2026]]></category>
+		<category><![CDATA[Apple foldable iPhone]]></category>
+		<category><![CDATA[Apple hearing features]]></category>
+		<category><![CDATA[apple surprise and shine event]]></category>
+		<category><![CDATA[Apple Watch RAM]]></category>
+		<category><![CDATA[apple watch series 12]]></category>
+		<category><![CDATA[apple watch ultra 4]]></category>
+		<category><![CDATA[Apple Watch Ultra review]]></category>
+		<category><![CDATA[blind]]></category>
+		<category><![CDATA[blind tech]]></category>
+		<category><![CDATA[double tap]]></category>
+		<category><![CDATA[foldable iPhone]]></category>
+		<category><![CDATA[foldable phone accessibility]]></category>
+		<category><![CDATA[iOS 27]]></category>
+		<category><![CDATA[iPad replacement]]></category>
+		<category><![CDATA[iPhone 15 Pro Siri]]></category>
+		<category><![CDATA[iphone air]]></category>
+		<category><![CDATA[iphone duo]]></category>
+		<category><![CDATA[iPhone Duo review]]></category>
+		<category><![CDATA[iphone handoff]]></category>
+		<category><![CDATA[legally blind]]></category>
+		<category><![CDATA[live rewind]]></category>
+		<category><![CDATA[Live Rewind Apple Watch]]></category>
+		<category><![CDATA[low vision]]></category>
+		<category><![CDATA[MagSafe foldable]]></category>
+		<category><![CDATA[marc aflalo]]></category>
+		<category><![CDATA[shaun preece]]></category>
+		<category><![CDATA[Siri AI]]></category>
+		<category><![CDATA[steven scott]]></category>
+		<category><![CDATA[Touch ID foldable]]></category>
+		<category><![CDATA[under-screen camera]]></category>
+		<category><![CDATA[USB-C EarPods]]></category>
+		<category><![CDATA[vision loss]]></category>
+		<category><![CDATA[visually impaired]]></category>
+		<category><![CDATA[voiceover]]></category>
+		<category><![CDATA[VoiceOver latency]]></category>
+		<category><![CDATA[yourtechreport]]></category>
+		<guid isPermaLink="false">https://doubletaponair.com/mainstream-marc-aflalos-take-on-apples-surprise-and-shine-event-2/</guid>
+
+					<description><![CDATA[Apple's Surprise and Shine event brought the foldable iPhone Duo, AirPods 5 and a quiet RAM boost for Apple Watch Ultra 4. Steven Scott and Marc Aflalo of YourTechReport pick out what matters, what could have been a press release, and whether the Duo can replace an iPad for someone who travels a lot.]]></description>
+										<content:encoded><![CDATA[<p><iframe title="Mainstream: Marc Aflalo&amp;apos;s Take On Apple&amp;apos;s &amp;apos;Surprise And Shine&amp;apos; Event" width="500" height="281" src="https://www.youtube.com/embed/cwUJw9QvMsc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p>Apple&#8217;s Surprise and Shine event brought the foldable iPhone Duo, AirPods 5 and a quiet RAM boost for Apple Watch Ultra 4. Steven Scott and Marc Aflalo of YourTechReport pick out what matters, what could have been a press release, and whether the Duo can replace an iPad for someone who travels a lot.</p>
+<p>Steven found most of the keynote boring. Marc liked more of it, starting with Live Rewind, which lets your Apple Watch catch the last 15 seconds of a conversation you missed. That raises questions about privacy, where the data lives, and why features like the expressive Siri AI voices leave out the iPhone 15 Pro. They also look at the Ultra 4 going from 2GB to 4GB of RAM, and Steven explains why VoiceOver has felt sluggish on his Ultra 3.</p>
+<p>AirPods 5 bring active noise cancellation to the $129 model with no ear tips, and the wireless charging version adds volume control on the stem. Marc describes how the AirPods hearing features help him focus in noisy restaurants. Steven makes the case for wired USB-C EarPods when VoiceOver latency matters.</p>
+<p>Then the iPhone Duo. Marc expects to buy one, because a 7.6-inch inner screen could let him leave his iPad at home. They cover the passport-sized design, Touch ID, the under-screen camera, MagSafe, and a closed thickness of around 11.2mm. iPhone Handoff, which lets two iPhones share one number, leaves open questions about carriers and cost.</p>
+<p>The conversation ends on whether a Pro Duo is coming, why the iPhone Air will probably survive, and why the 17e is still a sensible pick for many buyers.</p>
+<p>Chapters</p>
+<p>0:00 – Intro and first thoughts on Surprise and Shine<br />
+1:44 – Live Rewind, audio intelligence and privacy<br />
+3:21 – Which devices get Siri AI features<br />
+4:36 – Apple Watch Ultra 4 RAM and the Series 12<br />
+7:53 – AirPods 5, noise cancellation and wired EarPods<br />
+12:52 – iPhone Duo first impressions and design<br />
+19:01 – iPhone Handoff and sharing one number<br />
+22:32 – MagSafe, cases and unconfirmed specs<br />
+24:18 – A Pro Duo, the iPhone Air and what to buy</p>
+<p>Relevant Links</p>
+<p>iPhone Duo: <a rel="noopener noreferrer" href="https://www.apple.com/iphone-duo/">https://www.apple.com/iphone-duo/</a><br />
+AirPods 5: <a rel="noopener noreferrer" href="https://www.apple.com/airpods-5/">https://www.apple.com/airpods-5/</a><br />
+Apple Watch: <a rel="noopener noreferrer" href="https://www.apple.com/watch/">https://www.apple.com/watch/</a><br />
+YourTechReport: <a rel="noopener noreferrer" href="https://yourtechreport.com/">https://yourtechreport.com/</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Weekend Classic: Honda Cynic</title>
+		<link>https://doubletaponair.com/weekend-classic-honda-cynic-2/</link>
+		
+		<dc:creator><![CDATA[Double Tap]]></dc:creator>
+		<pubDate>Sat, 12 Sep 2026 16:00:34 +0000</pubDate>
+				<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[accessibility]]></category>
+		<category><![CDATA[accessible road trips]]></category>
+		<category><![CDATA[accessible travel]]></category>
+		<category><![CDATA[AI audio description]]></category>
+		<category><![CDATA[ai scenery description]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[audio description app]]></category>
+		<category><![CDATA[be my ai]]></category>
+		<category><![CDATA[be my eyes]]></category>
+		<category><![CDATA[blind]]></category>
+		<category><![CDATA[blind accessibility]]></category>
+		<category><![CDATA[blind passengers]]></category>
+		<category><![CDATA[blind tech podcast]]></category>
+		<category><![CDATA[blind travel experience]]></category>
+		<category><![CDATA[car accessibility]]></category>
+		<category><![CDATA[computer vision]]></category>
+		<category><![CDATA[computer vision app]]></category>
+		<category><![CDATA[double tap]]></category>
+		<category><![CDATA[generative AI]]></category>
+		<category><![CDATA[Google Lookout]]></category>
+		<category><![CDATA[gpt-4o]]></category>
+		<category><![CDATA[Honda accessibility app]]></category>
+		<category><![CDATA[honda scenic audio]]></category>
+		<category><![CDATA[howe innovation center]]></category>
+		<category><![CDATA[inclusive design]]></category>
+		<category><![CDATA[Josh Loebner]]></category>
+		<category><![CDATA[legally blind]]></category>
+		<category><![CDATA[low vision]]></category>
+		<category><![CDATA[perkins school for the blind]]></category>
+		<category><![CDATA[Phil Hruska]]></category>
+		<category><![CDATA[real-time AI description]]></category>
+		<category><![CDATA[Rocky Mountaineer]]></category>
+		<category><![CDATA[Sandy Lacey]]></category>
+		<category><![CDATA[scenery narration]]></category>
+		<category><![CDATA[shaun preece]]></category>
+		<category><![CDATA[steven scott]]></category>
+		<category><![CDATA[vision loss]]></category>
+		<category><![CDATA[visually impaired]]></category>
+		<category><![CDATA[visually impaired passengers]]></category>
+		<guid isPermaLink="false">https://doubletaponair.com/weekend-classic-honda-cynic-2/</guid>
+
+					<description><![CDATA[Honda Scenic Audio set out to describe the view from a car window for blind and visually impaired passengers, using computer vision and generative AI. Steven Scott and Shaun Preece revisit their 2024 conversation about the app, built with Perkins School for the Blind, and ask whether poetic AI scenery description is something blind people actually want.]]></description>
+										<content:encoded><![CDATA[<p><iframe loading="lazy" title="Weekend Classic: Honda Cynic" width="500" height="281" src="https://www.youtube.com/embed/y-RhscNs1n4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p>Honda Scenic Audio set out to describe the view from a car window for blind and visually impaired passengers, using computer vision and generative AI. Steven Scott and Shaun Preece revisit their 2024 conversation about the app, built with Perkins School for the Blind, and ask whether poetic AI scenery description is something blind people actually want.</p>
+<p>This episode is supported by Pneuma Solutions. Creators of accessible tools like Remote Incident Manager and Scribe. Find out more at <a rel="noopener noreferrer" href="https://pneumasolutions.com/">https://pneumasolutions.com/</a></p>
+<p>Honda announced Scenic Audio in April 2024 as a beta. You hold your phone to the window, it works in any car, and it narrates the passing landscape in storytelling language instead of practical directions. Steven thinks back to a Rocky Mountaineer train journey from Banff to Vancouver where he&#8217;d have loved more description. Shaun wonders what it would make of an ordinary drive through town.</p>
+<p>Shaun&#8217;s bigger question is whether true real-time description exists yet. Steven points to the Be My Eyes demo of GPT-4o describing ducks on a pond, and argues this app sits alongside tools like Be My AI and Google Lookout.</p>
+<p>Phil Hruska of Honda explains how the project grew out of Honda&#8217;s focus on inclusivity, with guidance from Dr. Josh Loebner, who is blind himself, on involving disabled people from the start. Sandy Lacey of the Howe Innovation Center describes interviews with around 30 blind and low vision people, and why testers enjoyed details they hadn&#8217;t realised they were missing. The Alabama Institute for Deaf and Blind and Honda&#8217;s Enable associate group also took part in beta testing.</p>
+<p>Honda&#8217;s R&amp;D history comes up too, from ASIMO to office chairs that move out of your way, along with Shaun&#8217;s wish for self-driving wheelie bins. Back in 2026, the hosts reflect on how much AI tools have changed since this was recorded.</p>
+<p>Chapters</p>
+<p>0:00 – Welcome and a classic from the archive<br />
+2:38 – Honda Scenic Audio explained<br />
+3:51 – Honda&#8217;s launch video<br />
+5:27 – Would you use it? Scenic trips and everyday drives<br />
+8:12 – Real-time description and the Be My Eyes GPT-4o comparison<br />
+11:54 – The Honda and Perkins partnership with Phil Hruska<br />
+16:07 – Listening to blind users and Honda&#8217;s R&amp;D projects<br />
+19:56 – What testers said about the app<br />
+22:46 – The verdict: Honda Cynic<br />
+25:43 – Looking back from 2026</p>
+<p>Relevant Links</p>
+<p>Pneuma Solutions: <a rel="noopener noreferrer" href="https://www.pneumasolutions.com">https://www.pneumasolutions.com</a><br />
+Be My Eyes: <a rel="noopener noreferrer" href="https://www.bemyeyes.com">https://www.bemyeyes.com</a><br />
+Lookout by Google: <a rel="noopener noreferrer" href="https://support.google.com/accessibility/android/answer/9031274">https://support.google.com/accessibility/android/answer/9031274</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Weekend Classic: Honda Cynic</title>
+		<link>https://doubletaponair.com/weekend-classic-honda-cynic/</link>
+		
+		<dc:creator><![CDATA[Double Tap]]></dc:creator>
+		<pubDate>Sat, 12 Sep 2026 16:00:00 +0000</pubDate>
+				<category><![CDATA[Episodes]]></category>
+		<category><![CDATA[accessible road trip]]></category>
+		<category><![CDATA[accessible travel]]></category>
+		<category><![CDATA[ai for blind users]]></category>
+		<category><![CDATA[ai scenery description]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[audio description app]]></category>
+		<category><![CDATA[be my ai]]></category>
+		<category><![CDATA[be my eyes]]></category>
+		<category><![CDATA[blind accessibility]]></category>
+		<category><![CDATA[blind passenger experience]]></category>
+		<category><![CDATA[blind tech podcast]]></category>
+		<category><![CDATA[blind travel technology]]></category>
+		<category><![CDATA[computer vision]]></category>
+		<category><![CDATA[disability inclusion]]></category>
+		<category><![CDATA[double tap]]></category>
+		<category><![CDATA[generative AI]]></category>
+		<category><![CDATA[Google Lookout]]></category>
+		<category><![CDATA[gpt-4o]]></category>
+		<category><![CDATA[honda accessibility]]></category>
+		<category><![CDATA[honda scenic audio]]></category>
+		<category><![CDATA[howe innovation center]]></category>
+		<category><![CDATA[Josh Loebner]]></category>
+		<category><![CDATA[low vision technology]]></category>
+		<category><![CDATA[perkins school for the blind]]></category>
+		<category><![CDATA[Phil Hruska]]></category>
+		<category><![CDATA[pneuma solutions]]></category>
+		<category><![CDATA[real-time image description]]></category>
+		<category><![CDATA[Rocky Mountaineer accessibility]]></category>
+		<category><![CDATA[Sandy Lacey]]></category>
+		<category><![CDATA[scenic audio app]]></category>
+		<category><![CDATA[shaun preece]]></category>
+		<category><![CDATA[steven scott]]></category>
+		<category><![CDATA[visually impaired passengers]]></category>
+		<category><![CDATA[window view description]]></category>
+		<guid isPermaLink="false">https://doubletaponair.com/weekend-classic-honda-cynic/</guid>
+
+					<description><![CDATA[Honda Scenic Audio set out to describe the view from a car window for blind and visually impaired passengers, using computer vision and generative AI. Steven Scott and Shaun Preece revisit their 2024 conversation about the app, built with Perkins School for the Blind, and ask whether poetic AI scenery description is something blind people actually want.]]></description>
+										<content:encoded><![CDATA[<p><!-- DT Podcast Importer: Audio Player --></p>
+<div class="dtpi-player" role="region" aria-label="Weekend Classic: Honda Cynic — Episode audio player">
+  <audio class="dtpi-audio" controls preload="metadata" data-duration="1712" aria-label="Listen to Weekend Classic: Honda Cynic (28m)"></p>
+<p>    Your browser does not support audio playback. <a href="https://op3.dev/e/podgo.simplecastaudio.com/d838244c-2029-41b5-aa66-d28628ab36fa/episodes/74f8fed5-ddd6-46b8-b61c-4c40a7b578c4/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=d838244c-2029-41b5-aa66-d28628ab36fa&amp;awEpisodeId=74f8fed5-ddd6-46b8-b61c-4c40a7b578c4&amp;feed=MhX_XZQZ">Download the episode</a>.<br />
+  </audio>
+</div>
+<p>Honda Scenic Audio set out to describe the view from a car window for blind and visually impaired passengers, using computer vision and generative AI. Steven Scott and Shaun Preece revisit their 2024 conversation about the app, built with Perkins School for the Blind, and ask whether poetic AI scenery description is something blind people actually want.</p>
+<p>This episode is supported by Pneuma Solutions. Creators of accessible tools like Remote Incident Manager and Scribe. Find out more at <a rel="noopener noreferrer" href="https://pneumasolutions.com/">https://pneumasolutions.com/</a></p>
+<p>Honda announced Scenic Audio in April 2024 as a beta. You hold your phone to the window, it works in any car, and it narrates the passing landscape in storytelling language instead of practical directions. Steven thinks back to a Rocky Mountaineer train journey from Banff to Vancouver where he&#8217;d have loved more description. Shaun wonders what it would make of an ordinary drive through town.</p>
+<p>Shaun&#8217;s bigger question is whether true real-time description exists yet. Steven points to the Be My Eyes demo of GPT-4o describing ducks on a pond, and argues this app sits alongside tools like Be My AI and Google Lookout.</p>
+<p>Phil Hruska of Honda explains how the project grew out of Honda&#8217;s focus on inclusivity, with guidance from Dr. Josh Loebner, who is blind himself, on involving disabled people from the start. Sandy Lacey of the Howe Innovation Center describes interviews with around 30 blind and low vision people, and why testers enjoyed details they hadn&#8217;t realised they were missing. The Alabama Institute for Deaf and Blind and Honda&#8217;s Enable associate group also took part in beta testing.</p>
+<p>Honda&#8217;s R&amp;D history comes up too, from ASIMO to office chairs that move out of your way, along with Shaun&#8217;s wish for self-driving wheelie bins. Back in 2026, the hosts reflect on how much AI tools have changed since this was recorded.</p>
+<p>Chapters</p>
+<p>0:00 – Welcome and a classic from the archive<br />2:38 – Honda Scenic Audio explained<br />3:51 – Honda&#8217;s launch video<br />5:27 – Would you use it? Scenic trips and everyday drives<br />8:12 – Real-time description and the Be My Eyes GPT-4o comparison<br />11:54 – The Honda and Perkins partnership with Phil Hruska<br />16:07 – Listening to blind users and Honda&#8217;s R&amp;D projects<br />19:56 – What testers said about the app<br />22:46 – The verdict: Honda Cynic<br />25:43 – Looking back from 2026</p>
+<p>Relevant Links</p>
+<p>Pneuma Solutions: <a rel="noopener noreferrer" href="https://www.pneumasolutions.com">https://www.pneumasolutions.com</a><br />Be My Eyes: <a rel="noopener noreferrer" href="https://www.bemyeyes.com">https://www.bemyeyes.com</a><br />Lookout by Google: <a rel="noopener noreferrer" href="https://support.google.com/accessibility/android/answer/9031274">https://support.google.com/accessibility/android/answer/9031274</a></p>
+<p></p>
+<p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://op3.dev/e/podgo.simplecastaudio.com/d838244c-2029-41b5-aa66-d28628ab36fa/episodes/74f8fed5-ddd6-46b8-b61c-4c40a7b578c4/audio/128/default.mp3?aid=rss_feed&#038;awCollectionId=d838244c-2029-41b5-aa66-d28628ab36fa&#038;awEpisodeId=74f8fed5-ddd6-46b8-b61c-4c40a7b578c4&#038;feed=MhX_XZQZ" length="0" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>Audio Description For Sighted People, Clipman Updates, and the AI Extinction Story</title>
+		<link>https://doubletaponair.com/audio-description-for-sighted-people-clipman-updates-and-the-ai-extinction-story-2/</link>
+		
+		<dc:creator><![CDATA[Double Tap]]></dc:creator>
+		<pubDate>Fri, 11 Sep 2026 16:00:02 +0000</pubDate>
+				<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[accessibility]]></category>
+		<category><![CDATA[accessibility discovery]]></category>
+		<category><![CDATA[accessibility priorities]]></category>
+		<category><![CDATA[accessible media]]></category>
+		<category><![CDATA[AI safety]]></category>
+		<category><![CDATA[ami]]></category>
+		<category><![CDATA[ami integrated described video]]></category>
+		<category><![CDATA[André Louis]]></category>
+		<category><![CDATA[anthropic resignation]]></category>
+		<category><![CDATA[applevis]]></category>
+		<category><![CDATA[audacity 4 accessibility]]></category>
+		<category><![CDATA[audible]]></category>
+		<category><![CDATA[audio description]]></category>
+		<category><![CDATA[audio first storytelling]]></category>
+		<category><![CDATA[audio is king]]></category>
+		<category><![CDATA[Audio Is King event]]></category>
+		<category><![CDATA[audiobooks]]></category>
+		<category><![CDATA[blind]]></category>
+		<category><![CDATA[blind tech podcast]]></category>
+		<category><![CDATA[broadcaster accessibility]]></category>
+		<category><![CDATA[clipman clipboard manager]]></category>
+		<category><![CDATA[companion podcasts]]></category>
+		<category><![CDATA[described video]]></category>
+		<category><![CDATA[described video Canada]]></category>
+		<category><![CDATA[double tap]]></category>
+		<category><![CDATA[ios update accessibility]]></category>
+		<category><![CDATA[jacob coxon]]></category>
+		<category><![CDATA[legally blind]]></category>
+		<category><![CDATA[low vision]]></category>
+		<category><![CDATA[mainstream audio description]]></category>
+		<category><![CDATA[rnib]]></category>
+		<category><![CDATA[rnib audio description]]></category>
+		<category><![CDATA[screen reader accessibility]]></category>
+		<category><![CDATA[shaun preece]]></category>
+		<category><![CDATA[sighted audiences]]></category>
+		<category><![CDATA[sonali rai]]></category>
+		<category><![CDATA[steven scott]]></category>
+		<category><![CDATA[TV accessibility]]></category>
+		<category><![CDATA[vision loss]]></category>
+		<category><![CDATA[visually impaired]]></category>
+		<category><![CDATA[voiceover bugs]]></category>
+		<guid isPermaLink="false">https://doubletaponair.com/audio-description-for-sighted-people-clipman-updates-and-the-ai-extinction-story-2/</guid>
+
+					<description><![CDATA[Audio description was built for blind and partially sighted viewers. RNIB brought broadcasters to London to ask whether sighted audiences want it too, and what that would change for the rest of us. Steven Scott reports back from the Audio Is King event, before the show turns to Clipman, an Audacity 4 warning, and the Anthropic resignation that put AI extinction talk on every front page.]]></description>
+										<content:encoded><![CDATA[<p><iframe loading="lazy" title="Audio Description For Sighted People, Clipman Updates, and the AI Extinction Story" width="500" height="281" src="https://www.youtube.com/embed/mOyQkqViLGs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p>Audio description was built for blind and partially sighted viewers. RNIB brought broadcasters to London to ask whether sighted audiences want it too, and what that would change for the rest of us. Steven Scott reports back from the Audio Is King event, before the show turns to Clipman, an Audacity 4 warning, and the Anthropic resignation that put AI extinction talk on every front page.</p>
+<p>RNIB surveyed more than 1,200 sighted people and found roughly 42 percent already knew what audio description is. Steven and Shaun compare that with audiobooks, which stayed a small shelf of expensive CD boxsets until Audible made them mainstream and quality improved for everyone. The same could happen with description, listened to on a commute or at the gym, if discovery improves. Shaun argues the real barrier is presentation: burying it in a languages menu keeps it hidden, and the name itself may need rethinking. Described video, the term used in Canada, came up as a clearer alternative.</p>
+<p>Behind the slow progress sits a familiar problem. Accessibility teams inside broadcasters are small, and every department arrives at the priorities meeting asking where the value is. Steven makes the case that description could be an offering rather than a cost, pointing to companion podcasts, to what television could learn from audio-first storytelling, and to AMI&#8217;s integrated described video, where the script carries the picture instead of a separate voice. He also pays tribute to Sonali Rai at RNIB and to audio describer Marie Campbell, whose voice Steven recognised live on stage.</p>
+<p>Two warnings follow. Audacity 4 rebuilds the interface in Qt and, in testing, screen reader access is badly broken, so stay on the version you have. New iOS and macOS releases land next week, and the advice is to wait a month and read the AppleVis bug report first. On a brighter note, Clipman from Andre Louis now runs on Linux and offers a self-hosted server, so encrypted clipboard sync works across Windows, Mac, Android and iPhone without a cloud account.</p>
+<p>The episode closes on Jacob Coxon, who resigned from Anthropic this week saying neither Anthropic nor OpenAI is acting responsibly and that both are racing toward self-improving superintelligence. Colleagues publicly agreed the risk is real. Steven and Shaun weigh how seriously to take percentage odds on human extinction, why biological weapons and infrastructure hacking changed the shape of the fear, and why the story has been met with near silence inside the blind tech community.</p>
+<p>Chapters<br />
+0:00 – Please don&#8217;t kill us all<br />
+0:19 – RNIB&#8217;s Audio Is King event and audio description for sighted audiences<br />
+24:32 – Clipman gains Linux support and a self-hosted server<br />
+29:08 – Do not install Audacity 4<br />
+33:14 – New iOS and macOS updates: wait a month<br />
+35:52 – Jacob Coxon resigns from Anthropic</p>
+<p>Relevant Links<br />
+RNIB: <a rel="noopener noreferrer" href="https://www.rnib.org.uk">https://www.rnib.org.uk</a><br />
+Clipman by Andre Louis: <a rel="noopener noreferrer" href="https://github.com/OnjLouis/Clipman">https://github.com/OnjLouis/Clipman</a><br />
+AMI: <a rel="noopener noreferrer" href="https://www.ami.ca">https://www.ami.ca</a><br />
+Twenty Thousand Hertz: <a rel="noopener noreferrer" href="https://www.20k.org">https://www.20k.org</a><br />
+Audacity: <a rel="noopener noreferrer" href="https://www.audacityteam.org">https://www.audacityteam.org</a><br />
+AppleVis: <a rel="noopener noreferrer" href="https://www.applevis.com">https://www.applevis.com</a><br />
+Anthropic: <a rel="noopener noreferrer" href="https://www.anthropic.com">https://www.anthropic.com</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Audio Description For Sighted People, Clipman Updates, and the AI Extinction Story</title>
+		<link>https://doubletaponair.com/audio-description-for-sighted-people-clipman-updates-and-the-ai-extinction-story/</link>
+		
+		<dc:creator><![CDATA[Double Tap]]></dc:creator>
+		<pubDate>Fri, 11 Sep 2026 16:00:00 +0000</pubDate>
+				<category><![CDATA[Episodes]]></category>
+		<category><![CDATA[accessibility business case]]></category>
+		<category><![CDATA[accessibility discovery]]></category>
+		<category><![CDATA[accessibility menu]]></category>
+		<category><![CDATA[accessible media]]></category>
+		<category><![CDATA[AI safety]]></category>
+		<category><![CDATA[ami]]></category>
+		<category><![CDATA[ami integrated described video]]></category>
+		<category><![CDATA[André Louis]]></category>
+		<category><![CDATA[anthropic resignation]]></category>
+		<category><![CDATA[applevis]]></category>
+		<category><![CDATA[audacity 4 accessibility]]></category>
+		<category><![CDATA[audible]]></category>
+		<category><![CDATA[audio description]]></category>
+		<category><![CDATA[audio description name]]></category>
+		<category><![CDATA[audio description podcast]]></category>
+		<category><![CDATA[audio first storytelling]]></category>
+		<category><![CDATA[audio is king]]></category>
+		<category><![CDATA[audiobooks comparison]]></category>
+		<category><![CDATA[blind people talk tech]]></category>
+		<category><![CDATA[blind tech podcast]]></category>
+		<category><![CDATA[broadcaster accessibility]]></category>
+		<category><![CDATA[clipman clipboard manager]]></category>
+		<category><![CDATA[companion podcast]]></category>
+		<category><![CDATA[described video]]></category>
+		<category><![CDATA[described video Canada]]></category>
+		<category><![CDATA[double tap]]></category>
+		<category><![CDATA[ios update accessibility]]></category>
+		<category><![CDATA[jacob coxon]]></category>
+		<category><![CDATA[mainstream accessibility]]></category>
+		<category><![CDATA[rnib audio description]]></category>
+		<category><![CDATA[screen reader accessibility]]></category>
+		<category><![CDATA[sighted audiences]]></category>
+		<category><![CDATA[sonali rai]]></category>
+		<category><![CDATA[superintelligence risk]]></category>
+		<category><![CDATA[voiceover bugs]]></category>
+		<guid isPermaLink="false">https://doubletaponair.com/audio-description-for-sighted-people-clipman-updates-and-the-ai-extinction-story/</guid>
+
+					<description><![CDATA[Audio description was built for blind and partially sighted viewers. RNIB brought broadcasters to London to ask whether sighted audiences want it too, and what that would change for the rest of us. Steven Scott reports back from the Audio Is King event, before the show turns to Clipman, an Audacity 4 warning, and the Anthropic resignation that put AI extinction talk on every front page.]]></description>
+										<content:encoded><![CDATA[<p><!-- DT Podcast Importer: Audio Player --></p>
+<div class="dtpi-player" role="region" aria-label="Audio Description For Sighted People, Clipman Updates, and the AI Extinction Story — Episode audio player">
+  <audio class="dtpi-audio" controls preload="metadata" data-duration="3360" aria-label="Listen to Audio Description For Sighted People, Clipman Updates, and the AI Extinction Story (56m)"></p>
+<p>    Your browser does not support audio playback. <a href="https://op3.dev/e/podgo.simplecastaudio.com/d838244c-2029-41b5-aa66-d28628ab36fa/episodes/a81d438f-a1bc-4a60-95a4-6c07f19a3ccb/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=d838244c-2029-41b5-aa66-d28628ab36fa&amp;awEpisodeId=a81d438f-a1bc-4a60-95a4-6c07f19a3ccb&amp;feed=MhX_XZQZ">Download the episode</a>.<br />
+  </audio>
+</div>
+<p>Audio description was built for blind and partially sighted viewers. RNIB brought broadcasters to London to ask whether sighted audiences want it too, and what that would change for the rest of us. Steven Scott reports back from the Audio Is King event, before the show turns to Clipman, an Audacity 4 warning, and the Anthropic resignation that put AI extinction talk on every front page.</p>
+<p>RNIB surveyed more than 1,200 sighted people and found roughly 42 percent already knew what audio description is. Steven and Shaun compare that with audiobooks, which stayed a small shelf of expensive CD boxsets until Audible made them mainstream and quality improved for everyone. The same could happen with description, listened to on a commute or at the gym, if discovery improves. Shaun argues the real barrier is presentation: burying it in a languages menu keeps it hidden, and the name itself may need rethinking. Described video, the term used in Canada, came up as a clearer alternative.</p>
+<p>Behind the slow progress sits a familiar problem. Accessibility teams inside broadcasters are small, and every department arrives at the priorities meeting asking where the value is. Steven makes the case that description could be an offering rather than a cost, pointing to companion podcasts, to what television could learn from audio-first storytelling, and to AMI&#8217;s integrated described video, where the script carries the picture instead of a separate voice. He also pays tribute to Sonali Rai at RNIB and to audio describer Marie Campbell, whose voice Steven recognised live on stage.</p>
+<p>Two warnings follow. Audacity 4 rebuilds the interface in Qt and, in testing, screen reader access is badly broken, so stay on the version you have. New iOS and macOS releases land next week, and the advice is to wait a month and read the AppleVis bug report first. On a brighter note, Clipman from Andre Louis now runs on Linux and offers a self-hosted server, so encrypted clipboard sync works across Windows, Mac, Android and iPhone without a cloud account.</p>
+<p>The episode closes on Jacob Coxon, who resigned from Anthropic this week saying neither Anthropic nor OpenAI is acting responsibly and that both are racing toward self-improving superintelligence. Colleagues publicly agreed the risk is real. Steven and Shaun weigh how seriously to take percentage odds on human extinction, why biological weapons and infrastructure hacking changed the shape of the fear, and why the story has been met with near silence inside the blind tech community.</p>
+<p>Chapters<br />0:00 – Please don&#8217;t kill us all<br />0:19 – RNIB&#8217;s Audio Is King event and audio description for sighted audiences<br />24:32 – Clipman gains Linux support and a self-hosted server<br />29:08 – Do not install Audacity 4<br />33:14 – New iOS and macOS updates: wait a month<br />35:52 – Jacob Coxon resigns from Anthropic</p>
+<p>Relevant Links<br />RNIB: <a rel="noopener noreferrer" href="https://www.rnib.org.uk">https://www.rnib.org.uk</a><br />Clipman by Andre Louis: <a rel="noopener noreferrer" href="https://github.com/OnjLouis/Clipman">https://github.com/OnjLouis/Clipman</a><br />AMI: <a rel="noopener noreferrer" href="https://www.ami.ca">https://www.ami.ca</a><br />Twenty Thousand Hertz: <a rel="noopener noreferrer" href="https://www.20k.org">https://www.20k.org</a><br />Audacity: <a rel="noopener noreferrer" href="https://www.audacityteam.org">https://www.audacityteam.org</a><br />AppleVis: <a rel="noopener noreferrer" href="https://www.applevis.com">https://www.applevis.com</a><br />Anthropic: <a rel="noopener noreferrer" href="https://www.anthropic.com">https://www.anthropic.com</a></p>
+<p></p>
+<p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://op3.dev/e/podgo.simplecastaudio.com/d838244c-2029-41b5-aa66-d28628ab36fa/episodes/a81d438f-a1bc-4a60-95a4-6c07f19a3ccb/audio/128/default.mp3?aid=rss_feed&#038;awCollectionId=d838244c-2029-41b5-aa66-d28628ab36fa&#038;awEpisodeId=a81d438f-a1bc-4a60-95a4-6c07f19a3ccb&#038;feed=MhX_XZQZ" length="0" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>Introducing Double Tap Live</title>
+		<link>https://doubletaponair.com/introducing-double-tap-live/</link>
+		
+		<dc:creator><![CDATA[Double Tap]]></dc:creator>
+		<pubDate>Fri, 11 Sep 2026 15:40:07 +0000</pubDate>
+				<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[10th anniversary]]></category>
+		<category><![CDATA[24/7 streaming]]></category>
+		<category><![CDATA[acb]]></category>
+		<category><![CDATA[accessibility]]></category>
+		<category><![CDATA[accessibility podcast]]></category>
+		<category><![CDATA[accessibility radio]]></category>
+		<category><![CDATA[accessible media]]></category>
+		<category><![CDATA[accessible streaming]]></category>
+		<category><![CDATA[adaptive technology]]></category>
+		<category><![CDATA[ai for blind users]]></category>
+		<category><![CDATA[assistive tech news]]></category>
+		<category><![CDATA[assistive technology]]></category>
+		<category><![CDATA[blind]]></category>
+		<category><![CDATA[blind and low vision technology]]></category>
+		<category><![CDATA[blindness community]]></category>
+		<category><![CDATA[call-in radio show]]></category>
+		<category><![CDATA[CES accessibility]]></category>
+		<category><![CDATA[disability inclusion]]></category>
+		<category><![CDATA[disability podcast]]></category>
+		<category><![CDATA[double tap]]></category>
+		<category><![CDATA[Double Tap Live]]></category>
+		<category><![CDATA[double tap podcast]]></category>
+		<category><![CDATA[Hadley]]></category>
+		<category><![CDATA[legally blind]]></category>
+		<category><![CDATA[live streaming audio]]></category>
+		<category><![CDATA[low vision]]></category>
+		<category><![CDATA[Lumin]]></category>
+		<category><![CDATA[screen reader users]]></category>
+		<category><![CDATA[shaun preece]]></category>
+		<category><![CDATA[sriram ganesh]]></category>
+		<category><![CDATA[steven scott]]></category>
+		<category><![CDATA[vision loss]]></category>
+		<category><![CDATA[vispero]]></category>
+		<category><![CDATA[visually impaired]]></category>
+		<category><![CDATA[voice assistant for blind]]></category>
+		<category><![CDATA[voice-first technology]]></category>
+		<guid isPermaLink="false">https://doubletaponair.com/introducing-double-tap-live/</guid>
+
+					<description><![CDATA[Introducing Double Tap Live. A 24/7 streaming audio channel dedicated to accessibility, assistive technology and disability inclusion. Always on. Launching Wednesday, September 30 at 1pm Eastern.]]></description>
+										<content:encoded><![CDATA[<p><iframe loading="lazy" title="Introducing Double Tap Live" width="500" height="281" src="https://www.youtube.com/embed/HZP7qwCEOfA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p>Introducing Double Tap Live. A 24/7 streaming audio channel dedicated to accessibility, assistive technology and disability inclusion. Always on. Launching Wednesday, September 30 at 1pm Eastern.</p>
+<p>Double Tap Live opens with a two-hour live celebration marking ten years of Double Tap, with announcements about what comes next. It&#8217;s the first in a new monthly live series with listener call-ins, special features and guests.</p>
+<p>Kicking it off: Sriram Ganesh, founder and CEO of Lumin, the voice-first AI assistant built for blind and low vision users, joins Steven Scott and Shaun Preece for an Ask Me Anything.</p>
+<p>Send your questions to <a rel="noopener noreferrer" href="mailto:feedback@doubletaponair.com">feedback@doubletaponair.com</a></p>
+<p>Once live, the channel runs around the clock: original shows including Double Tap Presents: Good Vibes and Our Perspective, partner podcasts, interviews, live event coverage from CES and accessibility conferences worldwide, and monthly live call-in shows.</p>
+<p>HOW TO LISTEN<br />
+Web: <a rel="noopener noreferrer" href="https://www.doubletaponair.com/live">https://www.doubletaponair.com/live</a><br />
+TuneIn: search &#8220;Double Tap Live&#8221;<br />
+Amazon Echo: say &#8220;Alexa, play Double Tap Live&#8221;</p>
+<p>18 SHOWS AT LAUNCH</p>
+<p>Double Tap with Steven Scott and Shaun Preece<br />
+<a rel="noopener noreferrer" href="https://www.doubletaponair.com">https://www.doubletaponair.com</a></p>
+<p>Tuesday Topics from the American Council of the Blind, with Paul Edwards and Rick Morin<br />
+<a rel="noopener noreferrer" href="https://acb-tuesday-topics.pinecast.co">https://acb-tuesday-topics.pinecast.co</a></p>
+<p>Sunday Edition with Anthony Corona<br />
+<a rel="noopener noreferrer" href="https://www.anthonycorona.com">https://www.anthonycorona.com</a></p>
+<p>Eyes On Success with Peter and Nancy Torpey<br />
+<a rel="noopener noreferrer" href="https://podcast.eyesonsuccess.net">https://podcast.eyesonsuccess.net</a></p>
+<p>Hadley Presents, hosted by Ricky Enger<br />
+<a rel="noopener noreferrer" href="https://hadleyhelps.org/podcasts/hadley-presents-conversation-experts">https://hadleyhelps.org/podcasts/hadley-presents-conversation-experts</a></p>
+<p>inSight Out with Matthew Reeves<br />
+<a rel="noopener noreferrer" href="https://www.insightoutpod.com">https://www.insightoutpod.com</a></p>
+<p>The Blind Life Podcast with Sam Seavey<br />
+<a rel="noopener noreferrer" href="https://www.theblindlife.net">https://www.theblindlife.net</a></p>
+<p>That Real Blind Tech Show with Brian Fischler, Ed Plumacher and Allison Meloy<br />
+<a rel="noopener noreferrer" href="https://thatrealblindtechshow.libsyn.com">https://thatrealblindtechshow.libsyn.com</a></p>
+<p>Mystic Access Podcast with Chris and Kim Nova<br />
+<a rel="noopener noreferrer" href="https://mysticaccesspodcast.com">https://mysticaccesspodcast.com</a></p>
+<p>Technically Working with Michael Babcock and Damashe Thomas<br />
+<a rel="noopener noreferrer" href="https://technically-working.pinecast.co">https://technically-working.pinecast.co</a></p>
+<p>Our Perspective with Kolby and Michael (a Double Tap original)<br />
+<a rel="noopener noreferrer" href="https://open.spotify.com/episode/6ikRGcoLQdljWy3eSTi23E">https://open.spotify.com/episode/6ikRGcoLQdljWy3eSTi23E</a></p>
+<p>Vispero Connect (formerly FSCast) from Vispero<br />
+<a rel="noopener noreferrer" href="https://podcasts.apple.com/us/podcast/vispero-connect/id292355470">https://podcasts.apple.com/us/podcast/vispero-connect/id292355470</a></p>
+<p>Triple Vision from the Pandora Project<br />
+<a rel="noopener noreferrer" href="https://triplevision.team">https://triplevision.team</a></p>
+<p>Practical Accessibility Insights from CMS Web Solutions<br />
+<a rel="noopener noreferrer" href="https://cmswebsolutions.com/category/podcasts/">https://cmswebsolutions.com/category/podcasts/</a></p>
+<p>EBU in Action from the European Blind Union<br />
+<a rel="noopener noreferrer" href="https://ebuinaction.podbean.com">https://ebuinaction.podbean.com</a></p>
+<p>Pathways to Zero Barriers from the Zero Project<br />
+<a rel="noopener noreferrer" href="https://scaling-solutions.zeroproject.org/resources/pathways-to-zero-barriers-podcast">https://scaling-solutions.zeroproject.org/resources/pathways-to-zero-barriers-podcast</a></p>
+<p>Sight and Sound Technology Podcast<br />
+<a rel="noopener noreferrer" href="https://podcasts.apple.com/us/podcast/sight-and-sound-technology-podcast/id1437977653">https://podcasts.apple.com/us/podcast/sight-and-sound-technology-podcast/id1437977653</a></p>
+<p>At Your Fingertips with Chris Cook<br />
+<a rel="noopener noreferrer" href="https://podcasts.apple.com/us/podcast/at-your-fingertips-braille-then-and-now/id1841245814">https://podcasts.apple.com/us/podcast/at-your-fingertips-braille-then-and-now/id1841245814</a></p>
+<p>Subscribe and turn on notifications for the September 30 launch. Ten years in, and this is the biggest thing we&#8217;ve built. Tell us in the comments which show you&#8217;re most looking forward to hearing on the channel.</p>
+<p>#DoubleTapLive #Accessibility #AssistiveTechnology</p>
+<p>
+Get in touch with us by email at <a rel="noopener noreferrer" href="mailto:feedback@doubletaponair.com">feedback@doubletaponair.com</a> or connect on WhatsApp at <a rel="noopener noreferrer" href="https://www.doubletaponair.com/whatsapp">https://www.doubletaponair.com/whatsapp</a></p>
+<p><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4fa.png" alt="📺" class="wp-smiley" style="height: 1em; max-height: 1em;" /> YouTube – <a rel="noopener noreferrer" href="https://www.doubletaponair.com/youtube">https://www.doubletaponair.com/youtube</a><br />
+<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f426.png" alt="🐦" class="wp-smiley" style="height: 1em; max-height: 1em;" /> X (Twitter) – <a rel="noopener noreferrer" href="https://www.doubletaponair.com/x">https://www.doubletaponair.com/x</a><br />
+<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4f8.png" alt="📸" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Instagram – <a rel="noopener noreferrer" href="https://www.doubletaponair.com/instagram">https://www.doubletaponair.com/instagram</a><br />
+<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f3b5.png" alt="🎵" class="wp-smiley" style="height: 1em; max-height: 1em;" /> TikTok – <a rel="noopener noreferrer" href="https://www.doubletaponair.com/tiktok">https://www.doubletaponair.com/tiktok</a><br />
+<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f9f5.png" alt="🧵" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Threads – <a rel="noopener noreferrer" href="https://www.doubletaponair.com/threads">https://www.doubletaponair.com/threads</a><br />
+<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4d8.png" alt="📘" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Facebook – <a rel="noopener noreferrer" href="https://www.doubletaponair.com/facebook">https://www.doubletaponair.com/facebook</a><br />
+<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4bc.png" alt="💼" class="wp-smiley" style="height: 1em; max-height: 1em;" /> LinkedIn – <a rel="noopener noreferrer" href="https://www.doubletaponair.com/linkedin">https://www.doubletaponair.com/linkedin</a></p>
+<p><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f3a7.png" alt="🎧" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Apple Podcasts – <a rel="noopener noreferrer" href="https://www.doubletaponair.com/apple">https://www.doubletaponair.com/apple</a><br />
+<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f7e2.png" alt="🟢" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Spotify – <a rel="noopener noreferrer" href="https://www.doubletaponair.com/spotify">https://www.doubletaponair.com/spotify</a><br />
+<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4e1.png" alt="📡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSS – <a rel="noopener noreferrer" href="https://www.doubletaponair.com/podcast">https://www.doubletaponair.com/podcast</a><br />
+<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/2764.png" alt="❤" class="wp-smiley" style="height: 1em; max-height: 1em;" /> iHeartRadio – <a rel="noopener noreferrer" href="https://www.doubletaponair.com/iheart">https://www.doubletaponair.com/iheart</a></p>
+<p>About Double Tap<br />
+Hosted by the insightful duo, Steven Scott and Shaun Preece, Double Tap is a treasure trove of information for anyone who&#8217;s blind or partially sighted and has a passion for tech. Steven and Shaun not only demystify tech, but they also regularly feature interviews and welcome guests from the community, fostering an interactive and engaging environment. Tune in every day of the week, and you&#8217;ll discover how technology can seamlessly integrate into your life, enhancing daily tasks and experiences, even if your sight is limited.</p>
+<p>&#8220;Double Tap&#8221; is a registered trademark of Double Tap Productions Inc.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
