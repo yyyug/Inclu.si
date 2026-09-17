@@ -5,7 +5,7 @@ import { askLLM, stripCodeFence } from './digest-llm.mjs';
 const DIGESTS_DIR = path.resolve('src/data/digests');
 const WEEK_KEY_PATTERN = /^(\d{4})-W(\d{2})$/;
 const WEEK_MIN_HIGHLIGHTS = Number(process.env.DIGEST_WEEK_MIN_HIGHLIGHTS ?? 3);
-const WEEK_MAX_HIGHLIGHTS = Number(process.env.DIGEST_WEEK_MAX_HIGHLIGHTS ?? 40);
+const WEEK_MAX_HIGHLIGHTS = Number(process.env.DIGEST_WEEK_MAX_HIGHLIGHTS ?? 50);
 const FORCE = process.env.DIGEST_WEEK_FORCE === '1' || process.env.FORCE === '1';
 const DRY_RUN = process.env.DIGEST_DRY_RUN === '1';
 
@@ -217,64 +217,85 @@ async function main() {
     return;
   }
 
-  const today = new Date();
-  const lastWeekStart = new Date(today);
-  lastWeekStart.setUTCDate(today.getUTCDate() - 7);
-  let targetWeek = process.env.DIGEST_WEEK ? String(process.env.DIGEST_WEEK).trim() : isoWeekOf(lastWeekStart);
-
-  if (!WEEK_KEY_PATTERN.test(targetWeek)) {
-    throw new Error(`Invalid DIGEST_WEEK value: ${targetWeek}. Expected format like 2026-W37.`);
+  const explicitWeek = String(process.env.DIGEST_WEEK ?? '').trim();
+  let targetWeeks;
+  if (explicitWeek) {
+    if (!WEEK_KEY_PATTERN.test(explicitWeek)) {
+      throw new Error(`Invalid DIGEST_WEEK value: ${explicitWeek}. Expected format like 2026-W37.`);
+    }
+    targetWeeks = [explicitWeek];
+  } else {
+    const weeksWithData = new Set(days.map((day) => isoWeekOf(new Date(`${day.date}T00:00:00Z`))));
+    targetWeeks = [...weeksWithData].sort();
+    console.log(`[weekly] BACKFILL mode: ${targetWeeks.length} ISO week(s) with daily data`);
   }
 
-  const weekDays = days.filter((day) => isoWeekOf(new Date(`${day.date}T00:00:00Z`)) === targetWeek);
+  let generated = 0;
+  let skipped = 0;
+  let failed = 0;
 
-  if (weekDays.length === 0) {
-    console.log(`[weekly] No daily digests in ${targetWeek}; skipped.`);
-    return;
+  for (const targetWeek of targetWeeks) {
+    const weekDays = days.filter((day) => isoWeekOf(new Date(`${day.date}T00:00:00Z`)) === targetWeek);
+
+    if (weekDays.length === 0) {
+      console.log(`[weekly] ${targetWeek}: no daily digests; skipped.`);
+      skipped += 1;
+      continue;
+    }
+
+    const existing = await getExistingWeek(targetWeek);
+    if (existing && !FORCE) {
+      console.log(`[weekly] ${targetWeek} already generated (use DIGEST_WEEK_FORCE=1 to regenerate).`);
+      skipped += 1;
+      continue;
+    }
+
+    const range = weekRange(targetWeek);
+    const enHighlights = mergeWeeklyHighlights(weekDays, 'en');
+    const zhHighlights = mergeWeeklyHighlights(weekDays, 'zh-TW');
+    if (enHighlights.length < WEEK_MIN_HIGHLIGHTS && zhHighlights.length < WEEK_MIN_HIGHLIGHTS) {
+      console.log(`[weekly] ${targetWeek}: not enough highlights (en=${enHighlights.length}, zh=${zhHighlights.length}); skipped.`);
+      skipped += 1;
+      continue;
+    }
+
+    console.log(`[weekly] week=${targetWeek} days=${weekDays.length} en_highlights=${enHighlights.length} zh_highlights=${zhHighlights.length}`);
+
+    if (DRY_RUN) {
+      console.log('[weekly] DRY RUN: skipping LLM call and file write.');
+      skipped += 1;
+      continue;
+    }
+
+    try {
+      let localeDigests;
+      try {
+        const prompt = buildWeeklyPrompt(targetWeek, range, weekDays);
+        const content = await askLLM(prompt);
+        localeDigests = parseWeeklyResponse(content, enHighlights, zhHighlights);
+      } catch (error) {
+        console.warn(`[weekly] ${targetWeek} LLM failed (${error.message}); using templated recap.`);
+        localeDigests = fallbackWeeklyResponse(range, enHighlights, zhHighlights);
+      }
+
+      const output = {
+        week: targetWeek,
+        range,
+        generatedAt: new Date().toISOString(),
+        ...localeDigests,
+      };
+
+      await upsertWeeklyDigest(output);
+      console.log(`Generated weekly digest for ${targetWeek}`);
+      generated += 1;
+    } catch (error) {
+      console.error(`[weekly] ${targetWeek} failed: ${error.message}`);
+      failed += 1;
+    }
   }
 
-  const existing = await getExistingWeek(targetWeek);
-  if (existing && !FORCE) {
-    console.log(`[weekly] ${targetWeek} already generated (use DIGEST_WEEK_FORCE=1 to regenerate).`);
-    return;
-  }
-
-  const range = weekRange(targetWeek);
-  const enHighlights = mergeWeeklyHighlights(weekDays, 'en');
-  const zhHighlights = mergeWeeklyHighlights(weekDays, 'zh-TW');
-  if (enHighlights.length < WEEK_MIN_HIGHLIGHTS && zhHighlights.length < WEEK_MIN_HIGHLIGHTS) {
-    console.log(`[weekly] Not enough highlights in ${targetWeek} (en=${enHighlights.length}, zh=${zhHighlights.length}); skipped.`);
-    return;
-  }
-
-  console.log(`[weekly] week=${targetWeek} days=${weekDays.length} en_highlights=${enHighlights.length} zh_highlights=${zhHighlights.length}`);
-
-  let localeDigests;
-  if (DRY_RUN) {
-    console.log('[weekly] DRY RUN: skipping LLM call and file write.');
-    localeDigests = fallbackWeeklyResponse(range, enHighlights, zhHighlights);
-    console.log(`[weekly] en=${enHighlights.length} zh=${zhHighlights.length} (dry run)`);
-    return;
-  }
-
-  const prompt = buildWeeklyPrompt(targetWeek, range, weekDays);
-  try {
-    const content = await askLLM(prompt);
-    localeDigests = parseWeeklyResponse(content, enHighlights, zhHighlights);
-  } catch (error) {
-    console.warn(`[weekly] LLM failed (${error.message}); using templated recap.`);
-    localeDigests = fallbackWeeklyResponse(range, enHighlights, zhHighlights);
-  }
-
-  const output = {
-    week: targetWeek,
-    range,
-    generatedAt: new Date().toISOString(),
-    ...localeDigests,
-  };
-
-  await upsertWeeklyDigest(output);
-  console.log(`Generated weekly digest for ${targetWeek}`);
+  console.log(`[weekly] DONE: generated=${generated} skipped=${skipped} failed=${failed}`);
+  if (failed > 0) process.exitCode = 1;
 }
 
 main().catch((error) => {
