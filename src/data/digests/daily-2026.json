@@ -6799,48 +6799,88 @@
     }
   },
   "2026-09-17": {
-    "generatedAt": "2026-09-17T05:14:37.231Z",
+    "generatedAt": "2026-09-17T17:14:06.536Z",
     "en": {
-      "title": "Major Funding Boost and New Tech Advance Disability Accessibility",
-      "summary": "The Federal Transit Administration announced $233 million in grants to improve accessibility at transit stations nationwide, including ramps, elevators, and tactile guidance. In parallel, SMART Technologies launched an audio accessibility solution for its SMART Boards to aid hearing‑impaired users in classrooms. Additional highlights include a new accessible trail in Hawk Ridge, a $500 K grant for disability‑focused arts at Clovernook Center, and practical Canvas accessibility tips for educators.",
+      "title": "Taishin Securities Leads Accessible Anti-Fraud Push Amid Global Accessibility Updates",
+      "summary": "Taishin Securities announced cross-industry initiatives to promote accessible anti-fraud measures, aiming to advance financial equality for people with disabilities. Simultaneously, the U.S. Federal Transit Administration awarded $233 million for station accessibility projects, and accessiBe launched its Code Agent AI tool to embed accessibility checks into developer workflows. Other highlights include advocacy events, new assistive tech launches, and an exhibition on inclusive design in Geneva.",
       "highlights": [
         {
-          "title": "FTA awards $233 million for station accessibility projects - trains.com",
-          "slug": "fta-awards-233-million-for-station-accessibility-projects-trainscom-eae46f90"
+          "title": "Taishin Securities Promotes Cross-Industry Accessible Anti-Fraud Initiatives to Advance Financial Equality",
+          "slug": "taishin-securities-promotes-cross-industry-accessible-anti-fraud-initiatives-to--e4830954"
+        },
+        {
+          "title": "FTA awards $233 million for station accessibility projects",
+          "slug": "fta-awards-233-million-for-station-accessibility-projects-e88f9102"
+        },
+        {
+          "title": "accessiBe Launches Code Agent, Bringing Agentic Accessibility Into Developer Workflows",
+          "slug": "accessibe-launches-code-agent-bringing-agentic-accessibility-into-developer-work-6a2dfb3e"
+        },
+        {
+          "title": "Apptegy Partners With Level Access to Bring Accessibility Personalization to K-12 District Websites",
+          "slug": "apptegy-partners-with-level-access-to-bring-accessibility-personalization-to-k-1-a0d0e5f0"
         },
         {
           "title": "SMART Technologies Launches Audio Accessibility Solution for SMART Boards - THE Journal: Technological Horizons in Education",
           "slug": "smart-technologies-launches-audio-accessibility-solution-for-smart-boards-the-jo-b64cc619"
         },
         {
-          "title": "Hawk Ridge celebrates new accessible trail - Northern News Now",
-          "slug": "hawk-ridge-celebrates-new-accessible-trail-northern-news-now-8ee9c6d5"
+          "title": "EmpowHER Inclusive Leadership Conclave",
+          "slug": "empowher-inclusive-leadership-conclave-17049265"
         },
         {
-          "title": "Clovernook Center lands $500K grant for disability arts project",
-          "slug": "clovernook-center-lands-500k-grant-for-disability-arts-project-5330fcb7"
+          "title": "Congo Handicap Requests Disaster Relief Assistance",
+          "slug": "congo-handicap-requests-disaster-relief-assistance-ea79e65c"
         },
         {
-          "title": "Top 5 Canvas Accessibility Tips",
-          "slug": "top-5-canvas-accessibility-tips-d7ba6733"
+          "title": "People visit exhibition themed \"Accessibility for All\" in Geneva, Switzerland - Global Times",
+          "slug": "people-visit-exhibition-themed-accessibility-for-all-in-geneva-switzerland-globa-dfa6d36a"
+        },
+        {
+          "title": "Accessibility should be boring - OnlySky",
+          "slug": "accessibility-should-be-boring-onlysky-efda1a2e"
         }
       ]
     },
     "zh-TW": {
-      "title": "重大資金撥款與新技術推動無障礙",
-      "summary": "美國聯邦交通管理局宣布撥款2.33億美元，用於全國交通站點的無障礙改善，包含坡道、電梯與盲文指引。同步，SMART Technologies 為其 SMART Board 推出音頻無障礙解決方案，協助聽障使用者在教室中使用。其他亮點包括 Hawk Ridge 新建無障礙步道、Clovernook 中心獲得 50 萬美元殘障藝術專案資助，以及提供教育者的 Canvas 無障礙實用技巧。",
+      "title": "兆豐證券推動無障礙防詐 全球無障礙資訊同步更新",
+      "summary": "兆豐證券宣布跨界推動無障礙防詐措施，致力於提升殘障人士的金融平等。同時，美國聯邦交通管理局撥款2.33億美元用於車站無障礙改善，accessiBe 推出 Code Agent AI 工具將無障礙檢查融入開發流程。其他亮點包括領導力峰會、剛果殘障災害救援呼籲、日內瓦無障礙設計展覽以及SMART Technologies 的音訊無障礙方案。",
       "highlights": [
         {
-          "title": "Clovernook中心獲得50萬美元補助金用於殘障藝術專案",
-          "slug": "clovernook-center-lands-500k-grant-for-disability-arts-project-zh-5330fcb7"
+          "title": "兆豐證券跨界推動無障礙防詐 落實金融平權",
+          "slug": "taishin-securities-promotes-cross-industry-accessible-anti-fraud-initiatives-to--zh-e4830954"
         },
         {
-          "title": "Canvas 無障礙前五大技巧",
-          "slug": "top-5-canvas-accessibility-tips-zh-d7ba6733"
+          "title": "美國聯邦交通管理局獎勵2.33億美元用於車站無障礙專案",
+          "slug": "fta-awards-233-million-for-station-accessibility-projects-zh-e88f9102"
         },
         {
-          "title": "Hawk Ridge 慶祝新建無障礙步道 - Northern News Now",
-          "slug": "hawk-ridge-celebrates-new-accessible-trail-northern-news-now-zh-8ee9c6d5"
+          "title": "accessiBe 推出 Code Agent，將具代理性的無障礙功能帶入開發者工作流程",
+          "slug": "accessibe-launches-code-agent-bringing-agentic-accessibility-into-developer-work-zh-6a2dfb3e"
+        },
+        {
+          "title": "Apptegy 與 Level Access 合作，為 K-12 學區網站帶來無障礙個人化",
+          "slug": "apptegy-partners-with-level-access-to-bring-accessibility-personalization-to-k-1-zh-a0d0e5f0"
+        },
+        {
+          "title": "SMART Technologies 为 SMART Board 推出音频无障碍解决方案 - THE Journal：教育技术视野",
+          "slug": "smart-technologies-launches-audio-accessibility-solution-for-smart-boards-the-jo-zh-b64cc619"
+        },
+        {
+          "title": "EmpowHER 包容性領導峰會",
+          "slug": "empowher-inclusive-leadership-conclave-zh-17049265"
+        },
+        {
+          "title": "剛果殘障組織請求災害救援協助",
+          "slug": "congo-handicap-requests-disaster-relief-assistance-zh-ea79e65c"
+        },
+        {
+          "title": "民众参观日内瓦主题为“无障碍forall”的展览 - Global Times",
+          "slug": "people-visit-exhibition-themed-accessibility-for-all-in-geneva-switzerland-globa-zh-dfa6d36a"
+        },
+        {
+          "title": "無障礙應該變得平凡 - OnlySky",
+          "slug": "accessibility-should-be-boring-onlysky-zh-efda1a2e"
         }
       ]
     }
