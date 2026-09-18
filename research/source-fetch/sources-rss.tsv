@@ -6,14 +6,14 @@ count	kind	domain	url	note	status
 511	rss	mvsltd.com	https://mvsltd.com/feed/	停更(2024-02)內容偏數位行銷/非無障礙 → 建議排除	drop
 509	rss	lhblind.org	https://lhblind.org/feed/	
 446	rss	doubletaponair.com	https://doubletaponair.com/feed/	
-416	rss	freedomscientific.com	https://freedomscientific.com/rss	
+416	rss	freedomscientific.com	https://freedomscientific.com/rss		drop
 390	rss	visiontechacademy.com	https://visiontechacademy.com/feed/	停更(2025-07)內容=低視能目錄/贊助名錄 → 建議排除	drop
 338	rss	makeitfable.com	https://makeitfable.com/feed/	RSS=feed/(無podcast feed;另有YT @makeitfable);更新至2026-07;主題=無障礙研究/設計(C.A.R.E.框架) → 保留
 336	rss	wayaround.com	https://wayaround.com/rss	停更(2024-07)內容以WayTags(NFC)產品行銷為主 → 建議排除	drop
 305	rss	at-newswire.com	https://at-newswire.com/feed/
 239	rss	davidwoodbr.podbean.com	https://davidwoodbr.podbean.com/rss
 204	rss	nvaccess.org	https://nvaccess.org/rss
-200	rss	applevis.com	https://applevis.com/rss
+200	rss	applevis.com	https://applevis.com/rss	drop	drop
 196	rss	accessinformationnews.com	https://accessinformationnews.com/feed/
 179	rss	nod.org	https://nod.org/feed/
 124	rss	ai-weekly.ai	https://ai-weekly.ai/feed/
@@ -165,4 +165,6 @@ count	kind	domain	url	note	status
 4	rss	visionservealliance.org	https://visionservealliance.org/rss
 4	rss	visiotech.co	https://visiotech.co/rss
 4	rss	vividlanguage.bearblog.dev	https://vividlanguage.bearblog.dev/rss.xml
+
+
 

@@ -295,49 +295,107 @@ async function collectCandidates() {
     }
   }
 
-  for (const row of youtubeRows) {
-    const feedUrl = row.feed;
-    if (!feedUrl) continue;
-    const sourceName = row.name || row.handle || '';
+  const ytFile = process.env.COMMUNITY_YT_FILE ? path.resolve(process.env.COMMUNITY_YT_FILE) : '';
+  let fileYtEntries = null;
+  if (ytFile) {
     try {
-      await sleep(700);
-      const { channelTitle, items } = await parseYoutubeFeedWithRetry(feedUrl, MAX_ITEMS_PER_FEED);
-      const displayName = sourceName || channelTitle || 'YouTube';
-
-      for (const item of items) {
-        const title = String(item.title ?? '').trim();
-        const sourceUrl = normalizeUrl(item.link);
-        const titleKey = `title:${title.toLowerCase()}`;
-
-        if (isShortVideo(title, item.link)) {
-          skipped += 1;
-          continue;
-        }
-        if (!sourceUrl || !title || seen.has(`url:${sourceUrl}`) || seen.has(titleKey)) {
-          skipped += 1;
-          continue;
-        }
-
-        seen.add(`url:${sourceUrl}`);
-        seen.add(titleKey);
-
-        candidates.push({
-          item,
-          sourceName: displayName,
-          sourceUrl,
-          title: title.toLowerCase(),
-          sourceCountry: null,
-          queryRegion: null,
-          ingestType: 'youtube',
-          ingestSource: normalizeUrl(feedUrl),
-          ingestProvider: 'youtube.com',
-          forceRelevant: true,
-        });
+      const raw = await fs.readFile(ytFile, 'utf8');
+      fileYtEntries = JSON.parse(raw);
+      if (!Array.isArray(fileYtEntries)) {
+        fileYtEntries = [];
       }
-    } catch (error) {
-      failed += 1;
-      console.error(`[community] Failed to fetch YouTube source ${row.handle}: ${feedUrl}`);
-      console.error(error);
+    } catch {
+      fileYtEntries = [];
+    }
+  }
+
+  if (fileYtEntries !== null) {
+    if (fileYtEntries.length === 0) {
+      console.log('[community] youtube_local=none (file missing or empty); skipping YouTube');
+    } else {
+      console.log(`[community] youtube_local=${fileYtEntries.length} (${ytFile})`);
+    }
+
+    for (const v of fileYtEntries) {
+      const title = String(v?.title ?? '').trim();
+      const sourceUrl = normalizeUrl(String(v?.link ?? '').trim());
+      if (!sourceUrl || !title) {
+        skipped += 1;
+        continue;
+      }
+      const titleKey = `title:${title.toLowerCase()}`;
+      if (seen.has(`url:${sourceUrl}`) || seen.has(titleKey)) {
+        skipped += 1;
+        continue;
+      }
+
+      seen.add(`url:${sourceUrl}`);
+      seen.add(titleKey);
+
+      candidates.push({
+        item: {
+          title,
+          contentSnippet: title,
+          content: '',
+          isoDate: String(v?.publishedAt ?? ''),
+          pubDate: String(v?.publishedAt ?? ''),
+        },
+        sourceName: String(v?.channel ?? 'YouTube'),
+        sourceUrl,
+        title: title.toLowerCase(),
+        sourceCountry: null,
+        queryRegion: null,
+        ingestType: 'youtube',
+        ingestSource: `youtube-local:${String(v?.channel ?? 'yt')}`,
+        ingestProvider: 'youtube.com',
+        forceRelevant: true,
+      });
+    }
+  } else {
+    for (const row of youtubeRows) {
+      const feedUrl = row.feed;
+      if (!feedUrl) continue;
+      const sourceName = row.name || row.handle || '';
+      try {
+        await sleep(700);
+        const { channelTitle, items } = await parseYoutubeFeedWithRetry(feedUrl, MAX_ITEMS_PER_FEED);
+        const displayName = sourceName || channelTitle || 'YouTube';
+
+        for (const item of items) {
+          const title = String(item.title ?? '').trim();
+          const sourceUrl = normalizeUrl(item.link);
+          const titleKey = `title:${title.toLowerCase()}`;
+
+          if (isShortVideo(title, item.link)) {
+            skipped += 1;
+            continue;
+          }
+          if (!sourceUrl || !title || seen.has(`url:${sourceUrl}`) || seen.has(titleKey)) {
+            skipped += 1;
+            continue;
+          }
+
+          seen.add(`url:${sourceUrl}`);
+          seen.add(titleKey);
+
+          candidates.push({
+            item,
+            sourceName: displayName,
+            sourceUrl,
+            title: title.toLowerCase(),
+            sourceCountry: null,
+            queryRegion: null,
+            ingestType: 'youtube',
+            ingestSource: normalizeUrl(feedUrl),
+            ingestProvider: 'youtube.com',
+            forceRelevant: true,
+          });
+        }
+      } catch (error) {
+        failed += 1;
+        console.error(`[community] Failed to fetch YouTube source ${row.handle}: ${feedUrl}`);
+        console.error(error);
+      }
     }
   }
 

@@ -4,6 +4,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "25 1,13 * * *"
+  push:
+    paths:
+      - 'youtube-local/youtube-candidates.json'
 
 permissions:
   contents: write
@@ -45,6 +48,7 @@ jobs:
           COMMUNITY_MIN_RSS_COUNT: 130
           COMMUNITY_ITEMS: 15
           COMMUNITY_MAX_TOTAL: 60
+          COMMUNITY_YT_FILE: youtube-local/youtube-candidates.json
           BATCH_SIZE: 3
           CLUSTER_SIMILARITY_THRESHOLD: 0.72
           CLUSTER_MAX_HOURS_DIFF: 36
