@@ -8,6 +8,19 @@ const ITEMS_PER_CHANNEL = Math.max(1, Number(process.env.YT_ITEMS_PER_CHANNEL ??
 const MAX_ENTRIES = Math.max(10, Number(process.env.YT_MAX_ENTRIES ?? 5000));
 const DELAY_MS = Math.max(0, Number(process.env.YT_DELAY_MS ?? 800));
 const RETRIES = Math.max(1, Number(process.env.YT_RETRIES ?? 3));
+const MAX_AGE_DAYS = Math.max(30, Number(process.env.YT_MAX_AGE_DAYS ?? 200));
+const CUTOFF_MS = Date.now() - MAX_AGE_DAYS * 24 * 60 * 60 * 1000;
+
+function isRecent(publishedAt) {
+  if (!publishedAt) {
+    return true;
+  }
+  const time = new Date(publishedAt).getTime();
+  if (Number.isNaN(time)) {
+    return true;
+  }
+  return time >= CUTOFF_MS;
+}
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -135,7 +148,9 @@ async function main() {
     existing = [];
   }
 
-  const byId = new Map(existing.map((entry) => [entry.videoId, entry]));
+  const byId = new Map(
+    existing.filter((entry) => isRecent(entry?.publishedAt)).map((entry) => [entry.videoId, entry]),
+  );
   let newCount = 0;
   const failedChannels = [];
 
@@ -148,6 +163,9 @@ async function main() {
 
       for (const item of items) {
         if (item.title.toLowerCase().startsWith('#shorts') || item.link.includes('/shorts/')) {
+          continue;
+        }
+        if (!isRecent(item.publishedAt)) {
           continue;
         }
         if (byId.has(item.videoId)) {
