@@ -1,15 +1,15 @@
-count	kind	domain	url
-920	rss	pneumasolutions.com	https://pneumasolutions.com/feed/
-617	rss	brailleworks.com	https://brailleworks.com/feed/
-587	rss	aira.io	https://aira.io/feed/
-532	rss	theaccessibilityguy.com	https://theaccessibilityguy.com/feed/
-511	rss	mvsltd.com	https://mvsltd.com/feed/
-509	rss	lhblind.org	https://lhblind.org/feed/
-446	rss	doubletaponair.com	https://doubletaponair.com/feed/
-416	rss	freedomscientific.com	https://freedomscientific.com/rss
-390	rss	visiontechacademy.com	https://visiontechacademy.com/feed/
-338	rss	makeitfable.com	https://makeitfable.com/feed/
-336	rss	wayaround.com	https://wayaround.com/rss
+count	kind	domain	url	note
+920	rss	pneumasolutions.com	https://pneumasolutions.com/feed/	停更疑慮(report 2026-09-17)但feed實測有2026-03-13~09-11更新(Remote Incident Manager產品消息)待人工確認；#1高頻保留
+617	rss	brailleworks.com	https://brailleworks.com/feed/	
+587	rss	aira.io	https://aira.io/feed/	
+532	rss	theaccessibilityguy.com	https://theaccessibilityguy.com/feed/	
+511	rss	mvsltd.com	https://mvsltd.com/feed/	停更(2024-02)內容偏數位行銷/非無障礙 → 建議排除
+509	rss	lhblind.org	https://lhblind.org/feed/	
+446	rss	doubletaponair.com	https://doubletaponair.com/feed/	
+416	rss	freedomscientific.com	https://freedomscientific.com/rss	
+390	rss	visiontechacademy.com	https://visiontechacademy.com/feed/	停更(2025-07)內容=低視能目錄/贊助名錄 → 建議排除
+338	rss	makeitfable.com	https://makeitfable.com/feed/	RSS=feed/(無podcast feed;另有YT @makeitfable);更新至2026-07;主題=無障礙研究/設計(C.A.R.E.框架) → 保留
+336	rss	wayaround.com	https://wayaround.com/rss	停更(2024-07)內容以WayTags(NFC)產品行銷為主 → 建議排除
 305	rss	at-newswire.com	https://at-newswire.com/feed/
 239	rss	davidwoodbr.podbean.com	https://davidwoodbr.podbean.com/rss
 204	rss	nvaccess.org	https://nvaccess.org/rss

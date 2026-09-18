@@ -237,3 +237,21 @@ TOP TECH TIDBITS - 80% COVERAGE SOURCES
   網站(無RSS)           62 個 |    6564 links | 42%
   Atom                1 個 |      63 links | 0%
 
+
+SOURCE AUDIT (2026-09-17, 以 sources-rss.tsv 所列 feed 實測)
+
+  排行  域(l count)  實測feed日期範圍     主要內容/主題                    結論
+   #5  pneumasolutions.com (920)  2026-03-13~09-11  Remote Incident Manager 產品消息  保留#1高頻(與使用者回報不符,見下)
+  #12 mvsltd.com (511)             2023-12~2024-02   數位行銷/ChatGPT listicle        排除:停更+離題
+  #19 visiontechacademy.com (390)  2024-12~2025-07   低視能目錄/贊助名錄               排除:停更+目錄
+  #21 makeitfable.com (338)        2025-12~2026-07   C.A.R.E.框架/研究報告/AI Insights  保留:RSS=makeitfable.com/feed/
+  #22 wayaround.com (336)          2023-12~2024-07   WayTags(NFC)產品行銷             排除:停更+產品推銷
+
+補充:
+- makeitfable.com 只有網站 blog RSS(https://makeitfable.com/feed/),無 podcast feed
+  (另有 YouTube @makeitfable);主題=無障礙研究/設計,更新至 2026-07-23,建議保留為內容來源。
+- pneumasolutions.com:使用者 2026-09-17 回報"今年沒有更新",但 feed 實測有
+  2026-03-13 ~ 09-11 共 10 項(最新 2026-09-11 Remote Incident Manager Mobile
+  Debut),與回報不符,標記待人工勾稽 (可能指網站新聞頁或不同發布管道)。
+- 停更/離題判斷建議:以 feed 最後一筆日期 + 主題歸類為準,每年年度稽核一次。
+
