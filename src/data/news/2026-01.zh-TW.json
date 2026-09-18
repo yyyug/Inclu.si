@@ -165,5 +165,39 @@
     "publishedAt": "2026-01-01T05:02:30.000Z",
     "fetchedAt": "2026-09-18T06:02:26.990Z",
     "body": "文章批評現有文件無障礙的被動應對方式，指出其低效與成本高，並倡導像 Scribe 這樣的主動解決方案，以確保殘障人士能及時取得所需資訊。\n\n原文來源： [at-newswire.com](https://at-newswire.com/scribe-from-pneuma-solutions)"
+  },
+  {
+    "title": "Pneuma Solutions的遠端事件管理器（RIM）凸顯盲人技術員的可及性缺口",
+    "slug": "remote-incident-manager-rim-from-pneuma-solutions-highlights-accessibility-gaps--zh-0e959d27",
+    "lang": "zh-TW",
+    "summary": "文章說明企業遠端支援工具常假設操作者為視覺者，導致盲人及低視力IT人員被排除，延長解決時間，儘管有可及性承諾。",
+    "category": "assistive-tech",
+    "tags": [
+      "remote support",
+      "blind accessibility",
+      "low vision",
+      "assistive technology",
+      "IT accessibility"
+    ],
+    "sourceName": "at-newswire.com",
+    "sourceUrl": "https://at-newswire.com/remote-incident-manager-from-pneuma-solutions",
+    "relatedSources": [
+      {
+        "name": "at-newswire.com",
+        "url": "https://at-newswire.com/remote-incident-manager-from-pneuma-solutions"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://at-newswire.com/feed",
+    "ingestProvider": "at-newswire.com",
+    "clusterId": "cluster-0e959d27",
+    "status": "published",
+    "translationOf": "remote-incident-manager-rim-from-pneuma-solutions-highlights-accessibility-gaps--0e959d27",
+    "publishedAt": "2026-01-01T05:01:00.000Z",
+    "fetchedAt": "2026-09-18T15:24:03.163Z",
+    "body": "文章說明企業遠端支援工具常假設操作者為視覺者，導致盲人及低視力IT人員被排除，延長解決時間，儘管有可及性承諾。\n\n原文來源： [at-newswire.com](https://at-newswire.com/remote-incident-manager-from-pneuma-solutions)"
   }
 ]

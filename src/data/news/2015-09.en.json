@@ -1,0 +1,35 @@
+[
+  {
+    "title": "TOPAZ PHD Video Magnifier",
+    "slug": "topaz-phd-video-magnifier-abbb28b1",
+    "lang": "en",
+    "summary": "TOPAZ PHD Video Magnifier",
+    "category": "assistive-tech",
+    "tags": [
+      "low vision",
+      "video magnifier",
+      "assistive technology",
+      "TOPAZ PHD"
+    ],
+    "sourceName": "freedomscientific",
+    "sourceUrl": "https://www.youtube.com/watch?v=S5pDf9SRFvI",
+    "relatedSources": [
+      {
+        "name": "freedomscientific",
+        "url": "https://www.youtube.com/watch?v=S5pDf9SRFvI"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:freedomscientific",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-abbb28b1",
+    "status": "published",
+    "translationOf": "topaz-phd-video-magnifier-zh-abbb28b1",
+    "publishedAt": "2015-09-03T21:03:02.000Z",
+    "fetchedAt": "2026-09-18T15:30:20.404Z",
+    "body": "TOPAZ PHD Video Magnifier\n\nRead more from the original source: [freedomscientific](https://www.youtube.com/watch?v=S5pDf9SRFvI)"
+  }
+]

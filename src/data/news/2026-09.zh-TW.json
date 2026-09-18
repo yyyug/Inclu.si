@@ -3561,5 +3561,394 @@
     "publishedAt": "2026-09-13T16:00:20.000Z",
     "fetchedAt": "2026-09-18T06:02:26.982Z",
     "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/mainstream-marc-aflalos-take-on-apples-surprise-and-shine-event-2)"
+  },
+  {
+    "title": "PDF 標籤樹欄位指南 by The Accessibility Guy",
+    "slug": "pdf-tag-tree-field-guide-by-the-accessibility-guy-zh-11a26c22",
+    "lang": "zh-TW",
+    "summary": "一份免費可下載的指南，簡化 PDF 無障礙標記，協助創作者理解並正確應用標籤結構以製作可存取的 PDF。",
+    "category": "digital-a11y",
+    "tags": [
+      "PDF",
+      "accessibility",
+      "tagging",
+      "digital-a11y"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/pdf-tag-tree-field-guide-by-the-accessibility-guy",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/pdf-tag-tree-field-guide-by-the-accessibility-guy"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-11a26c22",
+    "status": "published",
+    "translationOf": "pdf-tag-tree-field-guide-by-the-accessibility-guy-11a26c22",
+    "publishedAt": "2026-09-18T14:00:36.000Z",
+    "fetchedAt": "2026-09-18T15:23:43.621Z",
+    "body": "一份免費可下載的指南，簡化 PDF 無障礙標記，協助創作者理解並正確應用標籤結構以製作可存取的 PDF。\n\n原文來源： [theaccessibilityguy.com](https://theaccessibilityguy.com/pdf-tag-tree-field-guide-by-the-accessibility-guy)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "mainstream-marc-aflalos-take-on-apples-surprise-and-shine-event-zh-c0ebd387",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/mainstream-marc-aflalos-take-on-apples-surprise-and-shine-event",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/mainstream-marc-aflalos-take-on-apples-surprise-and-shine-event"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-c0ebd387",
+    "status": "draft",
+    "translationOf": "mainstream-marc-aflalos-take-on-apples-surprise-and-shine-event-c0ebd387",
+    "publishedAt": "2026-09-13T16:00:00.000Z",
+    "fetchedAt": "2026-09-18T15:23:43.750Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/mainstream-marc-aflalos-take-on-apples-surprise-and-shine-event)"
+  },
+  {
+    "title": "方向與移動服務 – Vision Australia",
+    "slug": "orientation-and-mobility-services-vision-australia-zh-83af0e99",
+    "lang": "zh-TW",
+    "summary": "Vision Australia 提供方向與移動訓練，協助視力障礙人士安全、獨立地在環境中導航。",
+    "category": "assistive-tech",
+    "tags": [
+      "orientation",
+      "mobility",
+      "vision impairment",
+      "Vision Australia"
+    ],
+    "sourceName": "visionaustralia",
+    "sourceUrl": "https://www.youtube.com/watch?v=w5qSa5pLUhw",
+    "relatedSources": [
+      {
+        "name": "visionaustralia",
+        "url": "https://www.youtube.com/watch?v=w5qSa5pLUhw"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:visionaustralia",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-83af0e99",
+    "status": "published",
+    "translationOf": "orientation-and-mobility-services-vision-australia-83af0e99",
+    "publishedAt": "2026-09-16T23:24:45.000Z",
+    "fetchedAt": "2026-09-18T15:25:12.910Z",
+    "body": "Vision Australia 提供方向與移動訓練，協助視力障礙人士安全、獨立地在環境中導航。\n\n原文來源： [visionaustralia](https://www.youtube.com/watch?v=w5qSa5pLUhw)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "genio-notes-overview-of-capabilities-zh-8580e3e9",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "theaccessibilityguy",
+    "sourceUrl": "https://www.youtube.com/watch?v=067MWvihbKE",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy",
+        "url": "https://www.youtube.com/watch?v=067MWvihbKE"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:theaccessibilityguy",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-8580e3e9",
+    "status": "draft",
+    "translationOf": "genio-notes-overview-of-capabilities-8580e3e9",
+    "publishedAt": "2026-09-16T14:00:39.000Z",
+    "fetchedAt": "2026-09-18T15:25:12.913Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [theaccessibilityguy](https://www.youtube.com/watch?v=067MWvihbKE)"
+  },
+  {
+    "title": "光劍樣式的摺疊行動拐杖",
+    "slug": "folding-mobility-canes-designed-like-lightsabers-zh-c111300c",
+    "lang": "zh-TW",
+    "summary": "全新推出的摺疊行動拐杖採光劍造型設計，兼具趣味外觀與實用支援，適合視障或行動不便人士使用。",
+    "category": "assistive-tech",
+    "tags": [
+      "mobility cane",
+      "assistive technology",
+      "lightsaber design",
+      "folding cane"
+    ],
+    "sourceName": "theblindlife",
+    "sourceUrl": "https://www.youtube.com/watch?v=UNujQYYCkv0",
+    "relatedSources": [
+      {
+        "name": "theblindlife",
+        "url": "https://www.youtube.com/watch?v=UNujQYYCkv0"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:theblindlife",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-c111300c",
+    "status": "published",
+    "translationOf": "folding-mobility-canes-designed-like-lightsabers-c111300c",
+    "publishedAt": "2026-09-16T14:00:14.000Z",
+    "fetchedAt": "2026-09-18T15:25:40.816Z",
+    "body": "全新推出的摺疊行動拐杖採光劍造型設計，兼具趣味外觀與實用支援，適合視障或行動不便人士使用。\n\n原文來源： [theblindlife](https://www.youtube.com/watch?v=UNujQYYCkv0)"
+  },
+  {
+    "title": "收到無障礙投訴後前 30 天應做的事",
+    "slug": "what-to-do-in-the-first-30-days-after-an-accessibility-complaint-zh-a41573dc",
+    "lang": "zh-TW",
+    "summary": "收到無障礙投訴後，組織應該及時檢討問題、諮詢法律顧問、與投訴人互動、消除障礙、記錄行動、更新政策並培訓員工，以防止再次發生。",
+    "category": "laws-rights",
+    "tags": [
+      "accessibility complaint",
+      "ADA",
+      "compliance",
+      "risk management"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/what-to-do-in-the-first-30-days-after-an-accessibility-complaint",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/what-to-do-in-the-first-30-days-after-an-accessibility-complaint"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-a41573dc",
+    "status": "published",
+    "translationOf": "what-to-do-in-the-first-30-days-after-an-accessibility-complaint-a41573dc",
+    "publishedAt": "2026-09-02T14:00:37.000Z",
+    "fetchedAt": "2026-09-18T15:26:33.795Z",
+    "body": "收到無障礙投訴後，組織應該及時檢討問題、諮詢法律顧問、與投訴人互動、消除障礙、記錄行動、更新政策並培訓員工，以防止再次發生。\n\n原文來源： [theaccessibilityguy.com](https://theaccessibilityguy.com/what-to-do-in-the-first-30-days-after-an-accessibility-complaint)"
+  },
+  {
+    "title": "您當地的黃金海岸團隊 – Vision Australia",
+    "slug": "your-local-gold-coast-team-vision-australia-zh-387acbd2",
+    "lang": "zh-TW",
+    "summary": "Vision Australia 黃金海岸團隊為當地盲人或低視力者提供支援、服務與倡導。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "Vision Australia",
+      "Gold Coast",
+      "blind support",
+      "low vision"
+    ],
+    "sourceName": "visionaustralia",
+    "sourceUrl": "https://www.youtube.com/watch?v=daTU12sfU2A",
+    "relatedSources": [
+      {
+        "name": "visionaustralia",
+        "url": "https://www.youtube.com/watch?v=daTU12sfU2A"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:visionaustralia",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-387acbd2",
+    "status": "published",
+    "translationOf": "your-local-gold-coast-team-vision-australia-387acbd2",
+    "publishedAt": "2026-09-16T23:24:29.000Z",
+    "fetchedAt": "2026-09-18T15:27:48.222Z",
+    "body": "Vision Australia 黃金海岸團隊為當地盲人或低視力者提供支援、服務與倡導。\n\n原文來源： [visionaustralia](https://www.youtube.com/watch?v=daTU12sfU2A)"
+  },
+  {
+    "title": "地圖、位置與無障礙實用指南",
+    "slug": "maps-location-and-accessibility-a-practical-guide-zh-1031184a",
+    "lang": "zh-TW",
+    "summary": "地圖、位置與無障礙實用指南",
+    "category": "digital-a11y",
+    "tags": [
+      "digital accessibility",
+      "mapping",
+      "location-based services",
+      "accessibility guide"
+    ],
+    "sourceName": "theaccessibilityguy",
+    "sourceUrl": "https://www.youtube.com/watch?v=-dXNMQFu_-s",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy",
+        "url": "https://www.youtube.com/watch?v=-dXNMQFu_-s"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:theaccessibilityguy",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-1031184a",
+    "status": "published",
+    "translationOf": "maps-location-and-accessibility-a-practical-guide-1031184a",
+    "publishedAt": "2026-09-09T14:00:18.000Z",
+    "fetchedAt": "2026-09-18T15:28:14.715Z",
+    "body": "地圖、位置與無障礙實用指南\n\n原文來源： [theaccessibilityguy](https://www.youtube.com/watch?v=-dXNMQFu_-s)"
+  },
+  {
+    "title": "Observo 應用程式在 BlindShell Classic 3 上：為盲人提供的 AI",
+    "slug": "observo-app-on-the-blindshell-classic-3-ai-for-the-blind-zh-512988eb",
+    "lang": "zh-TW",
+    "summary": "Observo 應用程式在 BlindShell Classic 3 上：為盲人提供的 AI",
+    "category": "assistive-tech",
+    "tags": [
+      "assistive technology",
+      "AI",
+      "blind",
+      "BlindShell",
+      "Observo app"
+    ],
+    "sourceName": "theblindlife",
+    "sourceUrl": "https://www.youtube.com/watch?v=1ufgx1fvZ40",
+    "relatedSources": [
+      {
+        "name": "theblindlife",
+        "url": "https://www.youtube.com/watch?v=1ufgx1fvZ40"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:theblindlife",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-512988eb",
+    "status": "published",
+    "translationOf": "observo-app-on-the-blindshell-classic-3-ai-for-the-blind-512988eb",
+    "publishedAt": "2026-09-13T17:46:00.000Z",
+    "fetchedAt": "2026-09-18T15:28:14.720Z",
+    "body": "Observo 應用程式在 BlindShell Classic 3 上：為盲人提供的 AI\n\n原文來源： [theblindlife](https://www.youtube.com/watch?v=1ufgx1fvZ40)"
+  },
+  {
+    "title": "與Colleen Gratzer討論InDesign和PDF的限制",
+    "slug": "limitations-of-indesign-and-pdf-discussion-with-colleen-gratzer-zh-0bf95ee0",
+    "lang": "zh-TW",
+    "summary": "與Colleen Gratzer討論InDesign和PDF的限制",
+    "category": "digital-a11y",
+    "tags": [
+      "InDesign",
+      "PDF",
+      "digital accessibility",
+      "accessibility",
+      "design"
+    ],
+    "sourceName": "theaccessibilityguy",
+    "sourceUrl": "https://www.youtube.com/watch?v=N4xesVGMYB8",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy",
+        "url": "https://www.youtube.com/watch?v=N4xesVGMYB8"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:theaccessibilityguy",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-0bf95ee0",
+    "status": "published",
+    "translationOf": "limitations-of-indesign-and-pdf-discussion-with-colleen-gratzer-0bf95ee0",
+    "publishedAt": "2026-09-07T14:00:28.000Z",
+    "fetchedAt": "2026-09-18T15:29:44.757Z",
+    "body": "與Colleen Gratzer討論InDesign和PDF的限制\n\n原文來源： [theaccessibilityguy](https://www.youtube.com/watch?v=N4xesVGMYB8)"
+  },
+  {
+    "title": "新款低視力智慧眼鏡？認識Innovega - Talk Back - 2026年9月",
+    "slug": "new-smart-glasses-for-low-vision-meet-innovega-talk-back-sept-2026-zh-1ff49a04",
+    "lang": "zh-TW",
+    "summary": "新款低視力智慧眼鏡？認識Innovega - Talk Back - 2026年9月",
+    "category": "assistive-tech",
+    "tags": [
+      "smart glasses",
+      "low vision",
+      "assistive technology",
+      "Innovega",
+      "wearable"
+    ],
+    "sourceName": "theblindlife",
+    "sourceUrl": "https://www.youtube.com/watch?v=Uk3ubl2seIw",
+    "relatedSources": [
+      {
+        "name": "theblindlife",
+        "url": "https://www.youtube.com/watch?v=Uk3ubl2seIw"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:theblindlife",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-1ff49a04",
+    "status": "published",
+    "translationOf": "new-smart-glasses-for-low-vision-meet-innovega-talk-back-sept-2026-1ff49a04",
+    "publishedAt": "2026-09-06T18:49:49.000Z",
+    "fetchedAt": "2026-09-18T15:29:44.761Z",
+    "body": "新款低視力智慧眼鏡？認識Innovega - Talk Back - 2026年9月\n\n原文來源： [theblindlife](https://www.youtube.com/watch?v=Uk3ubl2seIw)"
+  },
+  {
+    "title": "EchoVision 智慧眼鏡常見問題解答：您最常問的問題已解答！",
+    "slug": "echovision-smart-glasses-faq-your-most-asked-questions-answered-zh-f954a291",
+    "lang": "zh-TW",
+    "summary": "提供 EchoVision 智慧眼鏡的常見問題解答，這款可穿戴輔助裝置旨在提升低視力或失明人士的視覺體驗。",
+    "category": "assistive-tech",
+    "tags": [
+      "EchoVision",
+      "smart glasses",
+      "low vision",
+      "assistive technology"
+    ],
+    "sourceName": "theblindlife",
+    "sourceUrl": "https://www.youtube.com/watch?v=wqyhA6TuSSs",
+    "relatedSources": [
+      {
+        "name": "theblindlife",
+        "url": "https://www.youtube.com/watch?v=wqyhA6TuSSs"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:theblindlife",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-f954a291",
+    "status": "published",
+    "translationOf": "echovision-smart-glasses-faq-your-most-asked-questions-answered-f954a291",
+    "publishedAt": "2026-09-05T14:00:28.000Z",
+    "fetchedAt": "2026-09-18T15:31:22.978Z",
+    "body": "提供 EchoVision 智慧眼鏡的常見問題解答，這款可穿戴輔助裝置旨在提升低視力或失明人士的視覺體驗。\n\n原文來源： [theblindlife](https://www.youtube.com/watch?v=wqyhA6TuSSs)"
   }
 ]

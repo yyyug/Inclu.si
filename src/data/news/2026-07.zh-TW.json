@@ -82479,5 +82479,237 @@
     "publishedAt": "2026-07-17T22:59:27.000Z",
     "fetchedAt": "2026-09-18T06:02:07.897Z",
     "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [lhblind.org](https://lhblind.org/journey-level-machinist-apprenticeship)"
+  },
+  {
+    "title": "ADA週年快樂！致敬36年的成功",
+    "slug": "happy-anniversary-ada-heres-to-36-years-of-success-zh-3983584b",
+    "lang": "zh-TW",
+    "summary": "文章慶祝美國殘疾人法案（ADA）成立36週年，闡述該法律對數百萬美國人的民權和平等所產生的影響。",
+    "category": "laws-rights",
+    "tags": [
+      "ADA",
+      "anniversary",
+      "civil rights",
+      "disability rights",
+      "legislation"
+    ],
+    "sourceName": "brailleworks.com",
+    "sourceUrl": "https://brailleworks.com/happy-anniversary-ada",
+    "relatedSources": [
+      {
+        "name": "brailleworks.com",
+        "url": "https://brailleworks.com/happy-anniversary-ada"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://brailleworks.com/feed",
+    "ingestProvider": "brailleworks.com",
+    "clusterId": "cluster-3983584b",
+    "status": "published",
+    "translationOf": "happy-anniversary-ada-heres-to-36-years-of-success-3983584b",
+    "publishedAt": "2026-07-26T14:00:00.000Z",
+    "fetchedAt": "2026-09-18T15:23:35.758Z",
+    "body": "文章慶祝美國殘疾人法案（ADA）成立36週年，闡述該法律對數百萬美國人的民權和平等所產生的影響。\n\n原文來源： [brailleworks.com](https://brailleworks.com/happy-anniversary-ada)"
+  },
+  {
+    "title": "當趨勢忽視法律：ADA 有效溝通超越數位無障礙",
+    "slug": "when-trends-ignore-the-law-ada-effective-communication-goes-beyond-digital-acces-zh-1a11d92b",
+    "lang": "zh-TW",
+    "summary": "許多組織追逐數位無障礙趨勢，但司法部更新的 ADA Title II 規則強調，ADA 下的有效溝通不僅限於網站與應用程式，還應涵蓋所有溝通形式，以確保殘障人士獲得真正的存取。",
+    "category": "laws-rights",
+    "tags": [
+      "ADA",
+      "effective communication",
+      "digital accessibility",
+      "DOJ",
+      "Title II"
+    ],
+    "sourceName": "brailleworks.com",
+    "sourceUrl": "https://brailleworks.com/ada-effective-communication-beyond-digital-accessibility",
+    "relatedSources": [
+      {
+        "name": "brailleworks.com",
+        "url": "https://brailleworks.com/ada-effective-communication-beyond-digital-accessibility"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://brailleworks.com/feed",
+    "ingestProvider": "brailleworks.com",
+    "clusterId": "cluster-1a11d92b",
+    "status": "published",
+    "translationOf": "when-trends-ignore-the-law-ada-effective-communication-goes-beyond-digital-acces-1a11d92b",
+    "publishedAt": "2026-07-23T14:00:00.000Z",
+    "fetchedAt": "2026-09-18T15:26:33.725Z",
+    "body": "許多組織追逐數位無障礙趨勢，但司法部更新的 ADA Title II 規則強調，ADA 下的有效溝通不僅限於網站與應用程式，還應涵蓋所有溝通形式，以確保殘障人士獲得真正的存取。\n\n原文來源： [brailleworks.com](https://brailleworks.com/ada-effective-communication-beyond-digital-accessibility)"
+  },
+  {
+    "title": "Rob 如何使用 Be My Eyes 打造更智慧的家",
+    "slug": "how-rob-used-be-my-eyes-to-build-a-smarter-home-zh-c51c429a",
+    "lang": "zh-TW",
+    "summary": "Rob 如何使用 Be My Eyes 打造更智慧的家",
+    "category": "assistive-tech",
+    "tags": [
+      "Be My Eyes",
+      "assistive technology",
+      "smart home",
+      "blind",
+      "low vision",
+      "volunteer assistance"
+    ],
+    "sourceName": "bemyeyes",
+    "sourceUrl": "https://www.youtube.com/watch?v=ZT-klMrpcBY",
+    "relatedSources": [
+      {
+        "name": "bemyeyes",
+        "url": "https://www.youtube.com/watch?v=ZT-klMrpcBY"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:bemyeyes",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-c51c429a",
+    "status": "published",
+    "translationOf": "how-rob-used-be-my-eyes-to-build-a-smarter-home-c51c429a",
+    "publishedAt": "2026-07-16T10:32:12.000Z",
+    "fetchedAt": "2026-09-18T15:28:14.724Z",
+    "body": "Rob 如何使用 Be My Eyes 打造更智慧的家\n\n原文來源： [bemyeyes](https://www.youtube.com/watch?v=ZT-klMrpcBY)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "even-sighted-people-are-mostly-in-the-dark-jul-29-2026-zh-007868fb",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Eyes On Success",
+    "sourceUrl": "https://podcast.eyesonsuccess.net/?p=2694",
+    "relatedSources": [
+      {
+        "name": "Eyes On Success",
+        "url": "https://podcast.eyesonsuccess.net/?p=2694"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "podcast",
+    "ingestSource": "http://podcast.eyesonsuccess.net/feed",
+    "ingestProvider": "podcast.eyesonsuccess.net",
+    "clusterId": "cluster-007868fb",
+    "status": "draft",
+    "translationOf": "even-sighted-people-are-mostly-in-the-dark-jul-29-2026-007868fb",
+    "publishedAt": "2026-07-29T12:30:53.000Z",
+    "fetchedAt": "2026-09-18T15:29:19.669Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Eyes On Success](https://podcast.eyesonsuccess.net/?p=2694)"
+  },
+  {
+    "title": "使用Daisybox數位有聲播放器重拾閱讀的樂趣",
+    "slug": "reclaim-the-joy-of-reading-with-the-daisybox-digital-audio-player-zh-1eeb4e07",
+    "lang": "zh-TW",
+    "summary": "使用Daisybox數位有聲播放器重拾閱讀的樂趣",
+    "category": "assistive-tech",
+    "tags": [
+      "audio",
+      "reading",
+      "blind",
+      "low vision",
+      "assistive technology"
+    ],
+    "sourceName": "visionaustralia",
+    "sourceUrl": "https://www.youtube.com/watch?v=J-a5ViafOpE",
+    "relatedSources": [
+      {
+        "name": "visionaustralia",
+        "url": "https://www.youtube.com/watch?v=J-a5ViafOpE"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:visionaustralia",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-1eeb4e07",
+    "status": "published",
+    "translationOf": "reclaim-the-joy-of-reading-with-the-daisybox-digital-audio-player-1eeb4e07",
+    "publishedAt": "2026-07-17T06:00:06.000Z",
+    "fetchedAt": "2026-09-18T15:29:44.693Z",
+    "body": "使用Daisybox數位有聲播放器重拾閱讀的樂趣\n\n原文來源： [visionaustralia](https://www.youtube.com/watch?v=J-a5ViafOpE)"
+  },
+  {
+    "title": "2629 從夢想到出版頁面（2026年7月22日）",
+    "slug": "2629-from-dreams-to-published-pages-jul-22-2026-zh-089101e5",
+    "lang": "zh-TW",
+    "summary": "該節目討論盲人作家Aaron Spelker如何利用輔助技術、決心與創意將生動的夢想轉變為科幻小說。",
+    "category": "assistive-tech",
+    "tags": [
+      "blind",
+      "author",
+      "assistive technology",
+      "writing",
+      "science fiction"
+    ],
+    "sourceName": "Eyes On Success",
+    "sourceUrl": "https://podcast.eyesonsuccess.net/?p=2689",
+    "relatedSources": [
+      {
+        "name": "Eyes On Success",
+        "url": "https://podcast.eyesonsuccess.net/?p=2689"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "podcast",
+    "ingestSource": "http://podcast.eyesonsuccess.net/feed",
+    "ingestProvider": "podcast.eyesonsuccess.net",
+    "clusterId": "cluster-089101e5",
+    "status": "published",
+    "translationOf": "2629-from-dreams-to-published-pages-jul-22-2026-089101e5",
+    "publishedAt": "2026-07-22T12:30:18.000Z",
+    "fetchedAt": "2026-09-18T15:31:01.075Z",
+    "body": "該節目討論盲人作家Aaron Spelker如何利用輔助技術、決心與創意將生動的夢想轉變為科幻小說。\n\n原文來源： [Eyes On Success](https://podcast.eyesonsuccess.net/?p=2689)"
+  },
+  {
+    "title": "隨時隨地標記一切：終極個人化音頻標註工具",
+    "slug": "label-anything-anywhere-the-ultimate-personalised-audio-labeling-tool-zh-b85a0cbf",
+    "lang": "zh-TW",
+    "summary": "介紹一種個人化音頻標註工具，使用者可在任何地點標記物品，提升視障人士的可及性。",
+    "category": "assistive-tech",
+    "tags": [
+      "audio labeling",
+      "accessibility",
+      "assistive technology",
+      "visual impairment"
+    ],
+    "sourceName": "visionaustralia",
+    "sourceUrl": "https://www.youtube.com/watch?v=-C08b0ZXqJg",
+    "relatedSources": [
+      {
+        "name": "visionaustralia",
+        "url": "https://www.youtube.com/watch?v=-C08b0ZXqJg"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:visionaustralia",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-b85a0cbf",
+    "status": "published",
+    "translationOf": "label-anything-anywhere-the-ultimate-personalised-audio-labeling-tool-b85a0cbf",
+    "publishedAt": "2026-07-10T00:26:39.000Z",
+    "fetchedAt": "2026-09-18T15:31:01.123Z",
+    "body": "介紹一種個人化音頻標註工具，使用者可在任何地點標記物品，提升視障人士的可及性。\n\n原文來源： [visionaustralia](https://www.youtube.com/watch?v=-C08b0ZXqJg)"
   }
 ]

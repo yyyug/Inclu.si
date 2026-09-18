@@ -6610,5 +6610,101 @@
     "publishedAt": "2026-04-01T14:00:11.000Z",
     "fetchedAt": "2026-09-18T06:00:50.082Z",
     "body": "國家殘障組織宣布任命三位新領導人進入董事會，以加強治理與殘障包容的倡導工作。\n\n原文來源： [nod.org](https://nod.org/news/national-organization-on-disability-welcomes-three-new-leaders-to-board-of-directors)"
+  },
+  {
+    "title": "白皮書：由Qualcomm技術驅動的免手勢視覺傳譯",
+    "slug": "white-paper-hands-free-visual-interpreting-powered-by-qualcomm-technologies-zh-b7d1f56a",
+    "lang": "zh-TW",
+    "summary": "Aira的白皮書探討了使用由Qualcomm技術驅動的Meta Ray-Ban智慧眼鏡進行免手勢視覺傳譯的試點，評估其在真實世界中的無障礙效益。",
+    "category": "assistive-tech",
+    "tags": [
+      "Aira",
+      "Meta Ray-Ban",
+      "Qualcomm",
+      "assistive technology",
+      "visual interpreting",
+      "hands-free"
+    ],
+    "sourceName": "aira.io",
+    "sourceUrl": "https://aira.io/white-paper-hands-free-visual-interpreting-powered-by-qualcomm-technologies",
+    "relatedSources": [
+      {
+        "name": "aira.io",
+        "url": "https://aira.io/white-paper-hands-free-visual-interpreting-powered-by-qualcomm-technologies"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://aira.io/feed",
+    "ingestProvider": "aira.io",
+    "clusterId": "cluster-b7d1f56a",
+    "status": "published",
+    "translationOf": "white-paper-hands-free-visual-interpreting-powered-by-qualcomm-technologies-b7d1f56a",
+    "publishedAt": "2026-04-30T18:32:01.000Z",
+    "fetchedAt": "2026-09-18T15:23:35.844Z",
+    "body": "Aira的白皮書探討了使用由Qualcomm技術驅動的Meta Ray-Ban智慧眼鏡進行免手勢視覺傳譯的試點，評估其在真實世界中的無障礙效益。\n\n原文來源： [aira.io](https://aira.io/white-paper-hands-free-visual-interpreting-powered-by-qualcomm-technologies)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "how-to-open-close-govision-move-zh-69eb19b9",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "selvasblv",
+    "sourceUrl": "https://www.youtube.com/watch?v=V_wLf9Thyc8",
+    "relatedSources": [
+      {
+        "name": "selvasblv",
+        "url": "https://www.youtube.com/watch?v=V_wLf9Thyc8"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:selvasblv",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-69eb19b9",
+    "status": "draft",
+    "translationOf": "how-to-open-close-govision-move-69eb19b9",
+    "publishedAt": "2026-04-15T14:31:42.000Z",
+    "fetchedAt": "2026-09-18T15:28:21.845Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [selvasblv](https://www.youtube.com/watch?v=V_wLf9Thyc8)"
+  },
+  {
+    "title": "BrailleSense 7 网络研讨会附问答",
+    "slug": "braillesense-7-webinar-with-qa-zh-eff0e919",
+    "lang": "zh-TW",
+    "summary": "BrailleSense 7 网络研讨会附问答",
+    "category": "assistive-tech",
+    "tags": [
+      "blind",
+      "braille",
+      "assistive technology",
+      "BrailleSense 7"
+    ],
+    "sourceName": "selvasblv",
+    "sourceUrl": "https://www.youtube.com/watch?v=ecFk-CANUmI",
+    "relatedSources": [
+      {
+        "name": "selvasblv",
+        "url": "https://www.youtube.com/watch?v=ecFk-CANUmI"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:selvasblv",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-eff0e919",
+    "status": "published",
+    "translationOf": "braillesense-7-webinar-with-qa-eff0e919",
+    "publishedAt": "2026-04-01T19:28:37.000Z",
+    "fetchedAt": "2026-09-18T15:30:20.398Z",
+    "body": "BrailleSense 7 网络研讨会附问答\n\n原文來源： [selvasblv](https://www.youtube.com/watch?v=ecFk-CANUmI)"
   }
 ]

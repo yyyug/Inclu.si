@@ -31,5 +31,40 @@
     "publishedAt": "2025-10-15T07:00:00.000Z",
     "fetchedAt": "2026-05-06T14:31:59.797Z",
     "body": "TSMC held an accessibility experience day to deepen inclusive values and drive sustainable impact.\n\nRead more from the original source: [Taiwan Semiconductor](https://esg.tsmc.com/articles/376)"
+  },
+  {
+    "title": "Using Braille Access via VoiceOver on Mac – Continuation of iOS Braille Access Podcast",
+    "slug": "using-braille-access-via-voiceover-on-mac-continuation-of-ios-braille-access-pod-6898f2f0",
+    "lang": "en",
+    "summary": "A demo shows how to locate Braille Access settings in VoiceOver Utility on macOS, notes differences from iOS, corrects UEB availability, and shares a shortcut for working with BRF files.",
+    "category": "assistive-tech",
+    "tags": [
+      "Braille",
+      "VoiceOver",
+      "macOS",
+      "accessibility settings",
+      "UEB",
+      "BRF files"
+    ],
+    "sourceName": "davidwoodbr.podbean.com",
+    "sourceUrl": "https://davidwoodbr.podbean.com/e/using-braille-access-via-voiceover-on-the-mac-continuation-of-last-podcast-re-braille-access-on-ios-with-voiceover",
+    "relatedSources": [
+      {
+        "name": "davidwoodbr.podbean.com",
+        "url": "https://davidwoodbr.podbean.com/e/using-braille-access-via-voiceover-on-the-mac-continuation-of-last-podcast-re-braille-access-on-ios-with-voiceover"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://davidwoodbr.podbean.com/rss",
+    "ingestProvider": "davidwoodbr.podbean.com",
+    "clusterId": "cluster-6898f2f0",
+    "status": "published",
+    "translationOf": "using-braille-access-via-voiceover-on-mac-continuation-of-ios-braille-access-pod-zh-6898f2f0",
+    "publishedAt": "2025-10-02T03:18:41.000Z",
+    "fetchedAt": "2026-09-18T15:24:03.164Z",
+    "body": "A demo shows how to locate Braille Access settings in VoiceOver Utility on macOS, notes differences from iOS, corrects UEB availability, and shares a shortcut for working with BRF files.\n\nRead more from the original source: [davidwoodbr.podbean.com](https://davidwoodbr.podbean.com/e/using-braille-access-via-voiceover-on-the-mac-continuation-of-last-podcast-re-braille-access-on-ios-with-voiceover)"
   }
 ]

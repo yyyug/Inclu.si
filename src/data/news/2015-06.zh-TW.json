@@ -1,0 +1,30 @@
+[
+  {
+    "title": "無障礙新聞",
+    "slug": "this-video-has-been-replaced-with-an-updated-version-zh-bf6e0632",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "freedomscientific",
+    "sourceUrl": "https://www.youtube.com/watch?v=7Vaj1BwzVvg",
+    "relatedSources": [
+      {
+        "name": "freedomscientific",
+        "url": "https://www.youtube.com/watch?v=7Vaj1BwzVvg"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:freedomscientific",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-bf6e0632",
+    "status": "draft",
+    "translationOf": "this-video-has-been-replaced-with-an-updated-version-bf6e0632",
+    "publishedAt": "2015-06-30T18:15:18.000Z",
+    "fetchedAt": "2026-09-18T15:31:42.102Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [freedomscientific](https://www.youtube.com/watch?v=7Vaj1BwzVvg)"
+  }
+]

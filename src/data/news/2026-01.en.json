@@ -165,5 +165,39 @@
     "publishedAt": "2026-01-01T05:02:30.000Z",
     "fetchedAt": "2026-09-18T06:02:26.990Z",
     "body": "The article critiques reactive document accessibility workflows, highlighting inefficiencies and advocating for proactive solutions like Scribe to ensure timely access for people with disabilities.\n\nRead more from the original source: [at-newswire.com](https://at-newswire.com/scribe-from-pneuma-solutions)"
+  },
+  {
+    "title": "Remote Incident Manager (RIM) from Pneuma Solutions Highlights Accessibility Gaps for Blind Technicians",
+    "slug": "remote-incident-manager-rim-from-pneuma-solutions-highlights-accessibility-gaps--0e959d27",
+    "lang": "en",
+    "summary": "The article describes how enterprise remote support tools often assume sighted operators, excluding blind and low‑vision IT staff and causing slower resolutions, despite accessibility commitments.",
+    "category": "assistive-tech",
+    "tags": [
+      "remote support",
+      "blind accessibility",
+      "low vision",
+      "assistive technology",
+      "IT accessibility"
+    ],
+    "sourceName": "at-newswire.com",
+    "sourceUrl": "https://at-newswire.com/remote-incident-manager-from-pneuma-solutions",
+    "relatedSources": [
+      {
+        "name": "at-newswire.com",
+        "url": "https://at-newswire.com/remote-incident-manager-from-pneuma-solutions"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://at-newswire.com/feed",
+    "ingestProvider": "at-newswire.com",
+    "clusterId": "cluster-0e959d27",
+    "status": "published",
+    "translationOf": "remote-incident-manager-rim-from-pneuma-solutions-highlights-accessibility-gaps--zh-0e959d27",
+    "publishedAt": "2026-01-01T05:01:00.000Z",
+    "fetchedAt": "2026-09-18T15:24:03.163Z",
+    "body": "The article describes how enterprise remote support tools often assume sighted operators, excluding blind and low‑vision IT staff and causing slower resolutions, despite accessibility commitments.\n\nRead more from the original source: [at-newswire.com](https://at-newswire.com/remote-incident-manager-from-pneuma-solutions)"
   }
 ]

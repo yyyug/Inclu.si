@@ -159,5 +159,38 @@
     "publishedAt": "2025-12-11T00:21:55.000Z",
     "fetchedAt": "2026-09-18T05:57:33.144Z",
     "body": "Braille Note Evolve 是一台內建 Braille 顯示器的 Windows 11 Pro 筆記型電腦，提供該設備的實體描述以供參考。\n\n原文來源： [davidwoodbr.podbean.com](https://davidwoodbr.podbean.com/e/a-physical-description-of-the-braille-note-evolve)"
+  },
+  {
+    "title": "適應神經多樣性與認知障礙的UX研究",
+    "slug": "adapting-ux-research-for-neurodiversity-and-cognitive-disabilities-zh-27dadb75",
+    "lang": "zh-TW",
+    "summary": "Fable的試點研究提出五項實用方法，調整UX研究以適應認知測試者，促進神經多樣性用戶的包容性設計。",
+    "category": "digital-a11y",
+    "tags": [
+      "UX research",
+      "neurodiversity",
+      "cognitive disability",
+      "inclusive design"
+    ],
+    "sourceName": "makeitfable.com",
+    "sourceUrl": "https://makeitfable.com/article/cognitive-accessibility-pilot-case-study",
+    "relatedSources": [
+      {
+        "name": "makeitfable.com",
+        "url": "https://makeitfable.com/article/cognitive-accessibility-pilot-case-study"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://makeitfable.com/feed",
+    "ingestProvider": "makeitfable.com",
+    "clusterId": "cluster-27dadb75",
+    "status": "published",
+    "translationOf": "adapting-ux-research-for-neurodiversity-and-cognitive-disabilities-27dadb75",
+    "publishedAt": "2025-12-12T21:19:15.000Z",
+    "fetchedAt": "2026-09-18T15:24:03.162Z",
+    "body": "Fable的試點研究提出五項實用方法，調整UX研究以適應認知測試者，促進神經多樣性用戶的包容性設計。\n\n原文來源： [makeitfable.com](https://makeitfable.com/article/cognitive-accessibility-pilot-case-study)"
   }
 ]

@@ -127096,5 +127096,166 @@
     "publishedAt": "2026-06-22T20:18:52.000Z",
     "fetchedAt": "2026-09-18T05:56:51.478Z",
     "body": "全國盲人聯盟的「捐贈25美元」活動是一種簡單的方式，以支援擴展機會與無障礙的項目，例如Aira服務，幫助盲人或低視力者。\n\n原文來源： [aira.io](https://aira.io/aira-nfb-turn-25-into-access-and-opportunity)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "fy2025-impact-report-zh-4d5a4589",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "lhblind.org",
+    "sourceUrl": "https://lhblind.org/fy2025-impact-report",
+    "relatedSources": [
+      {
+        "name": "lhblind.org",
+        "url": "https://lhblind.org/fy2025-impact-report"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://lhblind.org/feed",
+    "ingestProvider": "lhblind.org",
+    "clusterId": "cluster-4d5a4589",
+    "status": "draft",
+    "translationOf": "fy2025-impact-report-4d5a4589",
+    "publishedAt": "2026-06-11T17:36:49.000Z",
+    "fetchedAt": "2026-09-18T15:23:43.624Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [lhblind.org](https://lhblind.org/fy2025-impact-report)"
+  },
+  {
+    "title": "Selvas BLV 盲人與低視力教育網路研討會",
+    "slug": "selvas-blv-education-webinar-on-blind-and-low-vision-topics-zh-3b999eae",
+    "lang": "zh-TW",
+    "summary": "Selvas BLV 舉辦線上研討會，介紹資源、輔助技術與策略，以支援盲人或低視力者在學術與日常生活中的需求。",
+    "category": "general",
+    "tags": [
+      "BLV",
+      "blind and low vision",
+      "education webinar",
+      "accessibility resources"
+    ],
+    "sourceName": "selvasblv",
+    "sourceUrl": "https://www.youtube.com/watch?v=TmIxQtzifSw",
+    "relatedSources": [
+      {
+        "name": "selvasblv",
+        "url": "https://www.youtube.com/watch?v=TmIxQtzifSw"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:selvasblv",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-3b999eae",
+    "status": "published",
+    "translationOf": "selvas-blv-education-webinar-on-blind-and-low-vision-topics-3b999eae",
+    "publishedAt": "2026-06-05T01:42:37.000Z",
+    "fetchedAt": "2026-09-18T15:25:40.878Z",
+    "body": "Selvas BLV 舉辦線上研討會，介紹資源、輔助技術與策略，以支援盲人或低視力者在學術與日常生活中的需求。\n\n原文來源： [selvasblv](https://www.youtube.com/watch?v=TmIxQtzifSw)"
+  },
+  {
+    "title": "地點",
+    "slug": "locations-zh-45cd5856",
+    "lang": "zh-TW",
+    "summary": "盲人燈塔展示其多個據點，盲人與聾盲員工在航空航天加工、零售、行政、會計、人力資源、培訓及行政管理等領域工作，凸顯他們在勞動力中的重要貢獻。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "Lighthouse for the Blind",
+      "blind employees",
+      "DeafBlind",
+      "workforce inclusion",
+      "locations"
+    ],
+    "sourceName": "lhblind.org",
+    "sourceUrl": "https://lhblind.org/fy25-locations",
+    "relatedSources": [
+      {
+        "name": "lhblind.org",
+        "url": "https://lhblind.org/fy25-locations"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://lhblind.org/feed",
+    "ingestProvider": "lhblind.org",
+    "clusterId": "cluster-45cd5856",
+    "status": "published",
+    "translationOf": "locations-45cd5856",
+    "publishedAt": "2026-06-11T01:07:03.000Z",
+    "fetchedAt": "2026-09-18T15:26:33.798Z",
+    "body": "盲人燈塔展示其多個據點，盲人與聾盲員工在航空航天加工、零售、行政、會計、人力資源、培訓及行政管理等領域工作，凸顯他們在勞動力中的重要貢獻。\n\n原文來源： [lhblind.org](https://lhblind.org/fy25-locations)"
+  },
+  {
+    "title": "认识Dany - 通过Be My Eyes构建有目的的人生",
+    "slug": "meet-dany-building-a-life-of-purpose-with-be-my-eyes-zh-3db8e3a7",
+    "lang": "zh-TW",
+    "summary": "认识Dany - 通过Be My Eyes构建有目的的人生",
+    "category": "assistive-tech",
+    "tags": [
+      "blind",
+      "low vision",
+      "assistive technology",
+      "Be My Eyes"
+    ],
+    "sourceName": "bemyeyes",
+    "sourceUrl": "https://www.youtube.com/watch?v=l8YDSIn-ukE",
+    "relatedSources": [
+      {
+        "name": "bemyeyes",
+        "url": "https://www.youtube.com/watch?v=l8YDSIn-ukE"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:bemyeyes",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-3db8e3a7",
+    "status": "published",
+    "translationOf": "meet-dany-building-a-life-of-purpose-with-be-my-eyes-3db8e3a7",
+    "publishedAt": "2026-06-11T10:00:34.000Z",
+    "fetchedAt": "2026-09-18T15:30:20.285Z",
+    "body": "认识Dany - 通过Be My Eyes构建有目的的人生\n\n原文來源： [bemyeyes](https://www.youtube.com/watch?v=l8YDSIn-ukE)"
+  },
+  {
+    "title": "Be My Eyes 服務串流概覽",
+    "slug": "be-my-eyes-service-stream-overview-zh-b7f90b42",
+    "lang": "zh-TW",
+    "summary": "Be My Eyes 服務串流概覽，該服務透過即時影片連結盲人或低視力使用者與視力正常的志工，提供即時視覺協助。",
+    "category": "assistive-tech",
+    "tags": [
+      "Be My Eyes",
+      "volunteer service",
+      "visual assistance",
+      "mobile app"
+    ],
+    "sourceName": "bemyeyes",
+    "sourceUrl": "https://www.youtube.com/watch?v=t3Q8lRUUwss",
+    "relatedSources": [
+      {
+        "name": "bemyeyes",
+        "url": "https://www.youtube.com/watch?v=t3Q8lRUUwss"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:bemyeyes",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-b7f90b42",
+    "status": "published",
+    "translationOf": "be-my-eyes-service-stream-overview-b7f90b42",
+    "publishedAt": "2026-06-09T09:19:54.000Z",
+    "fetchedAt": "2026-09-18T15:31:22.983Z",
+    "body": "Be My Eyes 服務串流概覽，該服務透過即時影片連結盲人或低視力使用者與視力正常的志工，提供即時視覺協助。\n\n原文來源： [bemyeyes](https://www.youtube.com/watch?v=t3Q8lRUUwss)"
   }
 ]

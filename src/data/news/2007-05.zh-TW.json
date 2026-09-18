@@ -1,0 +1,30 @@
+[
+  {
+    "title": "無障礙新聞",
+    "slug": "skellena-zh-f2b70473",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "doubletap",
+    "sourceUrl": "https://www.youtube.com/watch?v=kNY4mbyXS50",
+    "relatedSources": [
+      {
+        "name": "doubletap",
+        "url": "https://www.youtube.com/watch?v=kNY4mbyXS50"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:doubletap",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-f2b70473",
+    "status": "draft",
+    "translationOf": "skellena-f2b70473",
+    "publishedAt": "2007-05-24T02:22:47.000Z",
+    "fetchedAt": "2026-09-18T15:28:21.853Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [doubletap](https://www.youtube.com/watch?v=kNY4mbyXS50)"
+  }
+]

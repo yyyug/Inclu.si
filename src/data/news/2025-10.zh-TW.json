@@ -31,5 +31,40 @@
     "publishedAt": "2025-10-15T07:00:00.000Z",
     "fetchedAt": "2026-05-06T14:31:59.797Z",
     "body": "台積公司舉辦無障礙體驗日，深化共融價值，發揮永續影響力，推動美好改變。\n\n原文來源： [Taiwan Semiconductor](https://esg.tsmc.com/articles/376)"
+  },
+  {
+    "title": "在Mac上使用VoiceOver的Braille Access – 延續iOS Braille Access播客",
+    "slug": "using-braille-access-via-voiceover-on-mac-continuation-of-ios-braille-access-pod-zh-6898f2f0",
+    "lang": "zh-TW",
+    "summary": "示範如何在macOS VoiceOver實用程式中找到Braille Access設定，指出與iOS的差異，更正UEB在Mac上的可用性，並分享處理BRF檔案的快捷鍵。",
+    "category": "assistive-tech",
+    "tags": [
+      "Braille",
+      "VoiceOver",
+      "macOS",
+      "accessibility settings",
+      "UEB",
+      "BRF files"
+    ],
+    "sourceName": "davidwoodbr.podbean.com",
+    "sourceUrl": "https://davidwoodbr.podbean.com/e/using-braille-access-via-voiceover-on-the-mac-continuation-of-last-podcast-re-braille-access-on-ios-with-voiceover",
+    "relatedSources": [
+      {
+        "name": "davidwoodbr.podbean.com",
+        "url": "https://davidwoodbr.podbean.com/e/using-braille-access-via-voiceover-on-the-mac-continuation-of-last-podcast-re-braille-access-on-ios-with-voiceover"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://davidwoodbr.podbean.com/rss",
+    "ingestProvider": "davidwoodbr.podbean.com",
+    "clusterId": "cluster-6898f2f0",
+    "status": "published",
+    "translationOf": "using-braille-access-via-voiceover-on-mac-continuation-of-ios-braille-access-pod-6898f2f0",
+    "publishedAt": "2025-10-02T03:18:41.000Z",
+    "fetchedAt": "2026-09-18T15:24:03.164Z",
+    "body": "示範如何在macOS VoiceOver實用程式中找到Braille Access設定，指出與iOS的差異，更正UEB在Mac上的可用性，並分享處理BRF檔案的快捷鍵。\n\n原文來源： [davidwoodbr.podbean.com](https://davidwoodbr.podbean.com/e/using-braille-access-via-voiceover-on-the-mac-continuation-of-last-podcast-re-braille-access-on-ios-with-voiceover)"
   }
 ]

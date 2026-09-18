@@ -159,5 +159,38 @@
     "publishedAt": "2025-12-11T00:21:55.000Z",
     "fetchedAt": "2026-09-18T05:57:33.144Z",
     "body": "The Braille Note Evolve is a Windows 11 Pro laptop equipped with a Braille display, providing a physical description of the device for reference.\n\nRead more from the original source: [davidwoodbr.podbean.com](https://davidwoodbr.podbean.com/e/a-physical-description-of-the-braille-note-evolve)"
+  },
+  {
+    "title": "Adapting UX Research for Neurodiversity and Cognitive Disabilities",
+    "slug": "adapting-ux-research-for-neurodiversity-and-cognitive-disabilities-27dadb75",
+    "lang": "en",
+    "summary": "A Fable pilot study outlines five practical ways to adapt UX research for cognitive testers, promoting inclusive design for neurodiverse users.",
+    "category": "digital-a11y",
+    "tags": [
+      "UX research",
+      "neurodiversity",
+      "cognitive disability",
+      "inclusive design"
+    ],
+    "sourceName": "makeitfable.com",
+    "sourceUrl": "https://makeitfable.com/article/cognitive-accessibility-pilot-case-study",
+    "relatedSources": [
+      {
+        "name": "makeitfable.com",
+        "url": "https://makeitfable.com/article/cognitive-accessibility-pilot-case-study"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://makeitfable.com/feed",
+    "ingestProvider": "makeitfable.com",
+    "clusterId": "cluster-27dadb75",
+    "status": "published",
+    "translationOf": "adapting-ux-research-for-neurodiversity-and-cognitive-disabilities-zh-27dadb75",
+    "publishedAt": "2025-12-12T21:19:15.000Z",
+    "fetchedAt": "2026-09-18T15:24:03.162Z",
+    "body": "A Fable pilot study outlines five practical ways to adapt UX research for cognitive testers, promoting inclusive design for neurodiverse users.\n\nRead more from the original source: [makeitfable.com](https://makeitfable.com/article/cognitive-accessibility-pilot-case-study)"
   }
 ]
