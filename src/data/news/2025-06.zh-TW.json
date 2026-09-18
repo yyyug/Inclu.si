@@ -1,0 +1,36 @@
+[
+  {
+    "title": "簡化觸覺圖像與 TactileView",
+    "slug": "simplifying-tactile-images-with-tactileview-zh-555b2b59",
+    "lang": "zh-TW",
+    "summary": "此網絡研討會展示如何結合螢幕閱讀器使用 TactileView 軟體製作觸覺圖像，包括選單驅動設計與內建資源庫，以提升視障者的無障礙圖像製作。",
+    "category": "assistive-tech",
+    "tags": [
+      "tactile graphics",
+      "TactileView",
+      "screen reader",
+      "blind",
+      "visual impairment"
+    ],
+    "sourceName": "davidwoodbr.podbean.com",
+    "sourceUrl": "https://davidwoodbr.podbean.com/e/simplifying-tactile-images-with-tactileview",
+    "relatedSources": [
+      {
+        "name": "davidwoodbr.podbean.com",
+        "url": "https://davidwoodbr.podbean.com/e/simplifying-tactile-images-with-tactileview"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://davidwoodbr.podbean.com/rss",
+    "ingestProvider": "davidwoodbr.podbean.com",
+    "clusterId": "cluster-555b2b59",
+    "status": "published",
+    "translationOf": "simplifying-tactile-images-with-tactileview-555b2b59",
+    "publishedAt": "2025-06-02T06:35:51.000Z",
+    "fetchedAt": "2026-09-18T15:41:33.665Z",
+    "body": "此網絡研討會展示如何結合螢幕閱讀器使用 TactileView 軟體製作觸覺圖像，包括選單驅動設計與內建資源庫，以提升視障者的無障礙圖像製作。\n\n原文來源： [davidwoodbr.podbean.com](https://davidwoodbr.podbean.com/e/simplifying-tactile-images-with-tactileview)"
+  }
+]

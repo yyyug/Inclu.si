@@ -6706,5 +6706,72 @@
     "publishedAt": "2026-04-01T19:28:37.000Z",
     "fetchedAt": "2026-09-18T15:30:20.398Z",
     "body": "BrailleSense 7 网络研讨会附问答\n\n原文來源： [selvasblv](https://www.youtube.com/watch?v=ecFk-CANUmI)"
+  },
+  {
+    "title": "「我感到自信提升。」 – Perle 的方向與移動訓練經驗",
+    "slug": "i-felt-my-confidence-boost-perles-experience-with-orientation-and-mobility-zh-297f72a6",
+    "lang": "zh-TW",
+    "summary": "Perle 分享方向與移動訓練如何提升她在日常環境中導航的信心。",
+    "category": "case-studies",
+    "tags": [
+      "orientation",
+      "mobility",
+      "vision impairment",
+      "confidence"
+    ],
+    "sourceName": "visionaustralia",
+    "sourceUrl": "https://www.youtube.com/watch?v=Bd50vTXciBQ",
+    "relatedSources": [
+      {
+        "name": "visionaustralia",
+        "url": "https://www.youtube.com/watch?v=Bd50vTXciBQ"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:visionaustralia",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-297f72a6",
+    "status": "published",
+    "translationOf": "i-felt-my-confidence-boost-perles-experience-with-orientation-and-mobility-297f72a6",
+    "publishedAt": "2026-04-07T23:51:42.000Z",
+    "fetchedAt": "2026-09-18T15:42:57.808Z",
+    "body": "Perle 分享方向與移動訓練如何提升她在日常環境中導航的信心。\n\n原文來源： [visionaustralia](https://www.youtube.com/watch?v=Bd50vTXciBQ)"
+  },
+  {
+    "title": "Vision Australia 的兒童與青少年個人強化課程",
+    "slug": "vision-australias-individual-intensives-program-for-children-and-young-people-zh-9836cd7a",
+    "lang": "zh-TW",
+    "summary": "Vision Australia 提供個人化的強化課程，為有視力障礙的兒童與青少年量身訂製支援與訓練。",
+    "category": "case-studies",
+    "tags": [
+      "Vision Australia",
+      "intensives program",
+      "children",
+      "young people",
+      "vision impairment"
+    ],
+    "sourceName": "visionaustralia",
+    "sourceUrl": "https://www.youtube.com/watch?v=jQJ6WAcBrhY",
+    "relatedSources": [
+      {
+        "name": "visionaustralia",
+        "url": "https://www.youtube.com/watch?v=jQJ6WAcBrhY"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:visionaustralia",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-9836cd7a",
+    "status": "published",
+    "translationOf": "vision-australias-individual-intensives-program-for-children-and-young-people-9836cd7a",
+    "publishedAt": "2026-04-07T05:45:17.000Z",
+    "fetchedAt": "2026-09-18T15:42:57.990Z",
+    "body": "Vision Australia 提供個人化的強化課程，為有視力障礙的兒童與青少年量身訂製支援與訓練。\n\n原文來源： [visionaustralia](https://www.youtube.com/watch?v=jQJ6WAcBrhY)"
   }
 ]

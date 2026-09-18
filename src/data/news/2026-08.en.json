@@ -72991,5 +72991,71 @@
     "publishedAt": "2026-08-24T14:00:38.000Z",
     "fetchedAt": "2026-09-18T15:31:42.103Z",
     "body": "The post explains how to add alternative text to images in Adobe InDesign to improve accessibility for screen reader users.\n\nRead more from the original source: [theaccessibilityguy.com](https://theaccessibilityguy.com/how-to-add-alternate-text-to-an-image-in-indesign)"
+  },
+  {
+    "title": "NVDA 2026.2beta10 available for testing",
+    "slug": "nvda-20262beta10-available-for-testing-ddfd6229",
+    "lang": "en",
+    "summary": "Beta version 10 of NVDA 2026.2 is released for download and testing, inviting users to try new features and provide feedback before the official release.",
+    "category": "assistive-tech",
+    "tags": [
+      "NVDA",
+      "screen reader",
+      "assistive technology",
+      "beta release"
+    ],
+    "sourceName": "nvaccess.org",
+    "sourceUrl": "https://www.nvaccess.org/post/nvda-2026-2beta10",
+    "relatedSources": [
+      {
+        "name": "nvaccess.org",
+        "url": "https://www.nvaccess.org/post/nvda-2026-2beta10"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://nvaccess.org/rss",
+    "ingestProvider": "nvaccess.org",
+    "clusterId": "cluster-ddfd6229",
+    "status": "published",
+    "translationOf": "nvda-20262beta10-available-for-testing-zh-ddfd6229",
+    "publishedAt": "2026-08-06T01:11:44.000Z",
+    "fetchedAt": "2026-09-18T15:41:00.126Z",
+    "body": "Beta version 10 of NVDA 2026.2 is released for download and testing, inviting users to try new features and provide feedback before the official release.\n\nRead more from the original source: [nvaccess.org](https://www.nvaccess.org/post/nvda-2026-2beta10)"
+  },
+  {
+    "title": "Can AI Find Treatment Options for Vision Loss? Meet Nome",
+    "slug": "can-ai-find-treatment-options-for-vision-loss-meet-nome-1292d20d",
+    "lang": "en",
+    "summary": "Discusses how AI technology is being used to identify potential treatment options for vision loss, featuring the initiative Nome.",
+    "category": "assistive-tech",
+    "tags": [
+      "AI",
+      "vision loss",
+      "treatment options",
+      "Nome"
+    ],
+    "sourceName": "theblindlife",
+    "sourceUrl": "https://www.youtube.com/watch?v=cSwkf3WyKDs",
+    "relatedSources": [
+      {
+        "name": "theblindlife",
+        "url": "https://www.youtube.com/watch?v=cSwkf3WyKDs"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:theblindlife",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-1292d20d",
+    "status": "published",
+    "translationOf": "can-ai-find-treatment-options-for-vision-loss-meet-nome-zh-1292d20d",
+    "publishedAt": "2026-08-29T14:00:31.000Z",
+    "fetchedAt": "2026-09-18T15:41:10.281Z",
+    "body": "Discusses how AI technology is being used to identify potential treatment options for vision loss, featuring the initiative Nome.\n\nRead more from the original source: [theblindlife](https://www.youtube.com/watch?v=cSwkf3WyKDs)"
   }
 ]

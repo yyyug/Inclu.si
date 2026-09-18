@@ -46530,5 +46530,70 @@
     "publishedAt": "2026-05-07T05:30:46.000Z",
     "fetchedAt": "2026-09-18T06:02:07.817Z",
     "body": "Kiewit Luminarium introduces Aira ASL service to provide real-time American Sign Language interpretation for Deaf and hard-of-hearing visitors via the Aira app.\n\nRead more from the original source: [aira.io](https://aira.io/kiewit-luminarium-aira-asl)"
+  },
+  {
+    "title": "Make tea time simple with the Accessible Hot Water Dispenser!",
+    "slug": "make-tea-time-simple-with-the-accessible-hot-water-dispenser-1fdf9fde",
+    "lang": "en",
+    "summary": "The Accessible Hot Water Dispenser simplifies tea preparation by providing easy-to-use hot water access designed for people with disabilities, featuring intuitive controls and ergonomic design.",
+    "category": "physical-design",
+    "tags": [
+      "hot water dispenser",
+      "kitchen accessibility",
+      "assistive device"
+    ],
+    "sourceName": "visionaustralia",
+    "sourceUrl": "https://www.youtube.com/watch?v=og6u0vToSPE",
+    "relatedSources": [
+      {
+        "name": "visionaustralia",
+        "url": "https://www.youtube.com/watch?v=og6u0vToSPE"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:visionaustralia",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-1fdf9fde",
+    "status": "published",
+    "translationOf": "make-tea-time-simple-with-the-accessible-hot-water-dispenser-zh-1fdf9fde",
+    "publishedAt": "2026-05-26T06:50:59.000Z",
+    "fetchedAt": "2026-09-18T15:41:58.218Z",
+    "body": "The Accessible Hot Water Dispenser simplifies tea preparation by providing easy-to-use hot water access designed for people with disabilities, featuring intuitive controls and ergonomic design.\n\nRead more from the original source: [visionaustralia](https://www.youtube.com/watch?v=og6u0vToSPE)"
+  },
+  {
+    "title": "A special tour of Vision Australia's Seeing Eye Dogs headquarters",
+    "slug": "a-special-tour-of-vision-australias-seeing-eye-dogs-headquarters-e8dd4fc0",
+    "lang": "en",
+    "summary": "The video offers a behind-the-scenes look at Vision Australia's Seeing Eye Dogs headquarters, showcasing how guide dogs are trained and matched with people who are blind or have low vision to enhance mobility and independence.",
+    "category": "case-studies",
+    "tags": [
+      "guide dogs",
+      "Vision Australia",
+      "mobility assistance",
+      "disability"
+    ],
+    "sourceName": "visionaustralia",
+    "sourceUrl": "https://www.youtube.com/watch?v=PMCZG-MSt_o",
+    "relatedSources": [
+      {
+        "name": "visionaustralia",
+        "url": "https://www.youtube.com/watch?v=PMCZG-MSt_o"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:visionaustralia",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-e8dd4fc0",
+    "status": "published",
+    "translationOf": "a-special-tour-of-vision-australias-seeing-eye-dogs-headquarters-zh-e8dd4fc0",
+    "publishedAt": "2026-05-12T23:01:01.000Z",
+    "fetchedAt": "2026-09-18T15:42:22.226Z",
+    "body": "The video offers a behind-the-scenes look at Vision Australia's Seeing Eye Dogs headquarters, showcasing how guide dogs are trained and matched with people who are blind or have low vision to enhance mobility and independence.\n\nRead more from the original source: [visionaustralia](https://www.youtube.com/watch?v=PMCZG-MSt_o)"
   }
 ]

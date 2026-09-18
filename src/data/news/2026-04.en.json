@@ -6706,5 +6706,72 @@
     "publishedAt": "2026-04-01T19:28:37.000Z",
     "fetchedAt": "2026-09-18T15:30:20.398Z",
     "body": "BrailleSense 7 Webinar with Q&A\n\nRead more from the original source: [selvasblv](https://www.youtube.com/watch?v=ecFk-CANUmI)"
+  },
+  {
+    "title": "\"I felt my confidence boost.\" – Perle's experience with orientation and mobility",
+    "slug": "i-felt-my-confidence-boost-perles-experience-with-orientation-and-mobility-297f72a6",
+    "lang": "en",
+    "summary": "Perle shares how orientation and mobility training boosted her confidence in navigating everyday environments.",
+    "category": "case-studies",
+    "tags": [
+      "orientation",
+      "mobility",
+      "vision impairment",
+      "confidence"
+    ],
+    "sourceName": "visionaustralia",
+    "sourceUrl": "https://www.youtube.com/watch?v=Bd50vTXciBQ",
+    "relatedSources": [
+      {
+        "name": "visionaustralia",
+        "url": "https://www.youtube.com/watch?v=Bd50vTXciBQ"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:visionaustralia",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-297f72a6",
+    "status": "published",
+    "translationOf": "i-felt-my-confidence-boost-perles-experience-with-orientation-and-mobility-zh-297f72a6",
+    "publishedAt": "2026-04-07T23:51:42.000Z",
+    "fetchedAt": "2026-09-18T15:42:57.808Z",
+    "body": "Perle shares how orientation and mobility training boosted her confidence in navigating everyday environments.\n\nRead more from the original source: [visionaustralia](https://www.youtube.com/watch?v=Bd50vTXciBQ)"
+  },
+  {
+    "title": "Vision Australia’s individual intensives program for children and young people",
+    "slug": "vision-australias-individual-intensives-program-for-children-and-young-people-9836cd7a",
+    "lang": "en",
+    "summary": "Vision Australia offers a personalized intensives program that provides tailored support and training for children and young people with vision impairment.",
+    "category": "case-studies",
+    "tags": [
+      "Vision Australia",
+      "intensives program",
+      "children",
+      "young people",
+      "vision impairment"
+    ],
+    "sourceName": "visionaustralia",
+    "sourceUrl": "https://www.youtube.com/watch?v=jQJ6WAcBrhY",
+    "relatedSources": [
+      {
+        "name": "visionaustralia",
+        "url": "https://www.youtube.com/watch?v=jQJ6WAcBrhY"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:visionaustralia",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-9836cd7a",
+    "status": "published",
+    "translationOf": "vision-australias-individual-intensives-program-for-children-and-young-people-zh-9836cd7a",
+    "publishedAt": "2026-04-07T05:45:17.000Z",
+    "fetchedAt": "2026-09-18T15:42:57.990Z",
+    "body": "Vision Australia offers a personalized intensives program that provides tailored support and training for children and young people with vision impairment.\n\nRead more from the original source: [visionaustralia](https://www.youtube.com/watch?v=jQJ6WAcBrhY)"
   }
 ]

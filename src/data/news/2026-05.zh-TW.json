@@ -46530,5 +46530,70 @@
     "publishedAt": "2026-05-07T05:30:46.000Z",
     "fetchedAt": "2026-09-18T06:02:07.817Z",
     "body": "Kiewit Luminarium 推出 Aira ASL 服務，透過 Aira 應用程式為聾人及聽障訪客提供即時手語傳譯。\n\n原文來源： [aira.io](https://aira.io/kiewit-luminarium-aira-asl)"
+  },
+  {
+    "title": "使用無障礙熱水分配器讓泡茶變得簡單！",
+    "slug": "make-tea-time-simple-with-the-accessible-hot-water-dispenser-zh-1fdf9fde",
+    "lang": "zh-TW",
+    "summary": "這款無障礙熱水分配器簡化了泡茶過程，提供易於使用的熱水取用方式，專為殘障人士設計，具備直觀控制和人體工學設計。",
+    "category": "physical-design",
+    "tags": [
+      "hot water dispenser",
+      "kitchen accessibility",
+      "assistive device"
+    ],
+    "sourceName": "visionaustralia",
+    "sourceUrl": "https://www.youtube.com/watch?v=og6u0vToSPE",
+    "relatedSources": [
+      {
+        "name": "visionaustralia",
+        "url": "https://www.youtube.com/watch?v=og6u0vToSPE"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:visionaustralia",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-1fdf9fde",
+    "status": "published",
+    "translationOf": "make-tea-time-simple-with-the-accessible-hot-water-dispenser-1fdf9fde",
+    "publishedAt": "2026-05-26T06:50:59.000Z",
+    "fetchedAt": "2026-09-18T15:41:58.218Z",
+    "body": "這款無障礙熱水分配器簡化了泡茶過程，提供易於使用的熱水取用方式，專為殘障人士設計，具備直觀控制和人體工學設計。\n\n原文來源： [visionaustralia](https://www.youtube.com/watch?v=og6u0vToSPE)"
+  },
+  {
+    "title": "Vision Australia 導盲犬總部特別導覽",
+    "slug": "a-special-tour-of-vision-australias-seeing-eye-dogs-headquarters-zh-e8dd4fc0",
+    "lang": "zh-TW",
+    "summary": "此影片提供 Vision Australia 導盲犬總部的幕後花絮，展示導盲犬如何訓練並配對給盲人或低視力者使用，以提升行動能力與獨立性。",
+    "category": "case-studies",
+    "tags": [
+      "guide dogs",
+      "Vision Australia",
+      "mobility assistance",
+      "disability"
+    ],
+    "sourceName": "visionaustralia",
+    "sourceUrl": "https://www.youtube.com/watch?v=PMCZG-MSt_o",
+    "relatedSources": [
+      {
+        "name": "visionaustralia",
+        "url": "https://www.youtube.com/watch?v=PMCZG-MSt_o"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:visionaustralia",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-e8dd4fc0",
+    "status": "published",
+    "translationOf": "a-special-tour-of-vision-australias-seeing-eye-dogs-headquarters-e8dd4fc0",
+    "publishedAt": "2026-05-12T23:01:01.000Z",
+    "fetchedAt": "2026-09-18T15:42:22.226Z",
+    "body": "此影片提供 Vision Australia 導盲犬總部的幕後花絮，展示導盲犬如何訓練並配對給盲人或低視力者使用，以提升行動能力與獨立性。\n\n原文來源： [visionaustralia](https://www.youtube.com/watch?v=PMCZG-MSt_o)"
   }
 ]

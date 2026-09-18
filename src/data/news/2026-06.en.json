@@ -127257,5 +127257,269 @@
     "publishedAt": "2026-06-09T09:19:54.000Z",
     "fetchedAt": "2026-09-18T15:31:22.983Z",
     "body": "Overview of the Be My Eyes service stream, which connects blind and low-vision users with sighted volunteers via live video for real-time visual assistance.\n\nRead more from the original source: [bemyeyes](https://www.youtube.com/watch?v=t3Q8lRUUwss)"
+  },
+  {
+    "title": "Be My Eyes Service Connect - Dishwasher Example",
+    "slug": "be-my-eyes-service-connect-dishwasher-example-f3956b5b",
+    "lang": "en",
+    "summary": "Demonstrates how Be My Eyes' Service Connect feature assists blind users in operating a dishwasher through remote visual assistance.",
+    "category": "assistive-tech",
+    "tags": [
+      "Be My Eyes",
+      "Service Connect",
+      "blind assistance",
+      "dishwasher"
+    ],
+    "sourceName": "bemyeyes",
+    "sourceUrl": "https://www.youtube.com/watch?v=vZE7oxHSVcE",
+    "relatedSources": [
+      {
+        "name": "bemyeyes",
+        "url": "https://www.youtube.com/watch?v=vZE7oxHSVcE"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:bemyeyes",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-f3956b5b",
+    "status": "published",
+    "translationOf": "be-my-eyes-service-connect-dishwasher-example-zh-f3956b5b",
+    "publishedAt": "2026-06-09T09:16:47.000Z",
+    "fetchedAt": "2026-09-18T15:41:10.401Z",
+    "body": "Demonstrates how Be My Eyes' Service Connect feature assists blind users in operating a dishwasher through remote visual assistance.\n\nRead more from the original source: [bemyeyes](https://www.youtube.com/watch?v=vZE7oxHSVcE)"
+  },
+  {
+    "title": "Vision Australia's Trek for Vision 2027 – Three Capes",
+    "slug": "vision-australias-trek-for-vision-2027-three-capes-041011c2",
+    "lang": "en",
+    "summary": "Describes Vision Australia's fundraising trek across the Three Capes route aimed at supporting vision impairment initiatives by 2027.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "Vision Australia",
+      "Trek for Vision 2027",
+      "Three Capes",
+      "fundraising",
+      "vision impairment"
+    ],
+    "sourceName": "visionaustralia",
+    "sourceUrl": "https://www.youtube.com/watch?v=RkrJzVDa4j0",
+    "relatedSources": [
+      {
+        "name": "visionaustralia",
+        "url": "https://www.youtube.com/watch?v=RkrJzVDa4j0"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:visionaustralia",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-041011c2",
+    "status": "published",
+    "translationOf": "vision-australias-trek-for-vision-2027-three-capes-zh-041011c2",
+    "publishedAt": "2026-06-09T02:17:18.000Z",
+    "fetchedAt": "2026-09-18T15:41:10.544Z",
+    "body": "Describes Vision Australia's fundraising trek across the Three Capes route aimed at supporting vision impairment initiatives by 2027.\n\nRead more from the original source: [visionaustralia](https://www.youtube.com/watch?v=RkrJzVDa4j0)"
+  },
+  {
+    "title": "Delivering Secure and Accessible Banking Support With Be My Eyes",
+    "slug": "delivering-secure-and-accessible-banking-support-with-be-my-eyes-534fb30c",
+    "lang": "en",
+    "summary": "Video explains how Be My Eyes connects blind and low-vision users with sighted volunteers to provide secure, real-time assistance for banking tasks, enhancing accessibility of financial services.",
+    "category": "digital-a11y",
+    "tags": [
+      "Be My Eyes",
+      "banking accessibility",
+      "blind",
+      "low vision",
+      "volunteer assistance",
+      "digital accessibility"
+    ],
+    "sourceName": "bemyeyes",
+    "sourceUrl": "https://www.youtube.com/watch?v=DAUTKTQC4Xw",
+    "relatedSources": [
+      {
+        "name": "bemyeyes",
+        "url": "https://www.youtube.com/watch?v=DAUTKTQC4Xw"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:bemyeyes",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-534fb30c",
+    "status": "published",
+    "translationOf": "delivering-secure-and-accessible-banking-support-with-be-my-eyes-zh-534fb30c",
+    "publishedAt": "2026-06-09T09:15:28.000Z",
+    "fetchedAt": "2026-09-18T15:41:33.781Z",
+    "body": "Video explains how Be My Eyes connects blind and low-vision users with sighted volunteers to provide secure, real-time assistance for banking tasks, enhancing accessibility of financial services.\n\nRead more from the original source: [bemyeyes](https://www.youtube.com/watch?v=DAUTKTQC4Xw)"
+  },
+  {
+    "title": "Service AI vs Traditional Support",
+    "slug": "service-ai-vs-traditional-support-fa679069",
+    "lang": "en",
+    "summary": "Service AI vs Traditional Support",
+    "category": "general",
+    "tags": [],
+    "sourceName": "bemyeyes",
+    "sourceUrl": "https://www.youtube.com/watch?v=TJ7QajWEgN0",
+    "relatedSources": [
+      {
+        "name": "bemyeyes",
+        "url": "https://www.youtube.com/watch?v=TJ7QajWEgN0"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:bemyeyes",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-fa679069",
+    "status": "published",
+    "translationOf": "service-ai-vs-traditional-support-zh-fa679069",
+    "publishedAt": "2026-06-09T09:09:39.000Z",
+    "fetchedAt": "2026-09-18T15:41:58.390Z",
+    "body": "Service AI vs Traditional Support\n\nRead more from the original source: [bemyeyes](https://www.youtube.com/watch?v=TJ7QajWEgN0)"
+  },
+  {
+    "title": "2625 A Firsthand Review of Meta Smart Glasses (Jun. 24, 2026)",
+    "slug": "2625-a-firsthand-review-of-meta-smart-glasses-jun-24-2026-f3a73acf",
+    "lang": "en",
+    "summary": "In this episode of Eyes On Success, Peter reviews Meta Smart Glasses, describing how he uses them to privately navigate his phone, read museum signs, capture photos, and other accessibility benefits for blind and low vision users.",
+    "category": "assistive-tech",
+    "tags": [
+      "smart glasses",
+      "Meta",
+      "accessibility",
+      "blind",
+      "low vision"
+    ],
+    "sourceName": "Eyes On Success",
+    "sourceUrl": "https://podcast.eyesonsuccess.net/?p=2667",
+    "relatedSources": [
+      {
+        "name": "Eyes On Success",
+        "url": "https://podcast.eyesonsuccess.net/?p=2667"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "podcast",
+    "ingestSource": "http://podcast.eyesonsuccess.net/feed",
+    "ingestProvider": "podcast.eyesonsuccess.net",
+    "clusterId": "cluster-f3a73acf",
+    "status": "published",
+    "translationOf": "2625-a-firsthand-review-of-meta-smart-glasses-jun-24-2026-zh-f3a73acf",
+    "publishedAt": "2026-06-24T12:30:41.000Z",
+    "fetchedAt": "2026-09-18T15:42:22.276Z",
+    "body": "In this episode of Eyes On Success, Peter reviews Meta Smart Glasses, describing how he uses them to privately navigate his phone, read museum signs, capture photos, and other accessibility benefits for blind and low vision users.\n\nRead more from the original source: [Eyes On Success](https://podcast.eyesonsuccess.net/?p=2667)"
+  },
+  {
+    "title": "Be My Eyes Workplace Overview: Access Technology for Blind and Low Vision Employees",
+    "slug": "be-my-eyes-workplace-overview-access-technology-for-blind-and-low-vision-employe-6fa8b56b",
+    "lang": "en",
+    "summary": "Be My Eyes presents an overview of how its access technology supports blind and low vision employees in the workplace, highlighting features that improve communication, task completion, and independence.",
+    "category": "assistive-tech",
+    "tags": [
+      "Be My Eyes",
+      "workplace accessibility",
+      "blind employees",
+      "low vision",
+      "assistive technology"
+    ],
+    "sourceName": "bemyeyes",
+    "sourceUrl": "https://www.youtube.com/watch?v=T5bsMqVbKbE",
+    "relatedSources": [
+      {
+        "name": "bemyeyes",
+        "url": "https://www.youtube.com/watch?v=T5bsMqVbKbE"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:bemyeyes",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-6fa8b56b",
+    "status": "published",
+    "translationOf": "be-my-eyes-workplace-overview-access-technology-for-blind-and-low-vision-employe-zh-6fa8b56b",
+    "publishedAt": "2026-06-09T08:42:43.000Z",
+    "fetchedAt": "2026-09-18T15:42:22.434Z",
+    "body": "Be My Eyes presents an overview of how its access technology supports blind and low vision employees in the workplace, highlighting features that improve communication, task completion, and independence.\n\nRead more from the original source: [bemyeyes](https://www.youtube.com/watch?v=T5bsMqVbKbE)"
+  },
+  {
+    "title": "2624 MEMS Technology Enables a Modern 2-D Tactile Display (Jun. 17, 2026)",
+    "slug": "2624-mems-technology-enables-a-modern-2-d-tactile-display-jun-17-2026-849a1337",
+    "lang": "en",
+    "summary": "The episode explores how MEMS technology powers a new 2D refreshable tactile display, the Cadence Tactile Tablet, improving digital access for visually impaired users.",
+    "category": "assistive-tech",
+    "tags": [
+      "MEMS",
+      "tactile display",
+      "visually impaired",
+      "assistive technology"
+    ],
+    "sourceName": "Eyes On Success",
+    "sourceUrl": "https://podcast.eyesonsuccess.net/?p=2662",
+    "relatedSources": [
+      {
+        "name": "Eyes On Success",
+        "url": "https://podcast.eyesonsuccess.net/?p=2662"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "podcast",
+    "ingestSource": "http://podcast.eyesonsuccess.net/feed",
+    "ingestProvider": "podcast.eyesonsuccess.net",
+    "clusterId": "cluster-849a1337",
+    "status": "published",
+    "translationOf": "2624-mems-technology-enables-a-modern-2-d-tactile-display-jun-17-2026-zh-849a1337",
+    "publishedAt": "2026-06-17T12:30:34.000Z",
+    "fetchedAt": "2026-09-18T15:42:57.822Z",
+    "body": "The episode explores how MEMS technology powers a new 2D refreshable tactile display, the Cadence Tactile Tablet, improving digital access for visually impaired users.\n\nRead more from the original source: [Eyes On Success](https://podcast.eyesonsuccess.net/?p=2662)"
+  },
+  {
+    "title": "Catching Sight – A Story of Dogs and Self-Acceptance",
+    "slug": "catching-sight-a-story-of-dogs-and-self-acceptance-a3bcdf19",
+    "lang": "en",
+    "summary": "The episode discusses guide dog training, the communication and safety benefits of guide dogs, and host Deni Elliott's personal journey with several guide dogs toward self-acceptance.",
+    "category": "assistive-tech",
+    "tags": [
+      "guide dog",
+      "visual impairment",
+      "assistive technology",
+      "self-acceptance"
+    ],
+    "sourceName": "Eyes On Success",
+    "sourceUrl": "https://podcast.eyesonsuccess.net/?p=2657",
+    "relatedSources": [
+      {
+        "name": "Eyes On Success",
+        "url": "https://podcast.eyesonsuccess.net/?p=2657"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "podcast",
+    "ingestSource": "http://podcast.eyesonsuccess.net/feed",
+    "ingestProvider": "podcast.eyesonsuccess.net",
+    "clusterId": "cluster-a3bcdf19",
+    "status": "published",
+    "translationOf": "catching-sight-a-story-of-dogs-and-self-acceptance-zh-a3bcdf19",
+    "publishedAt": "2026-06-10T12:30:21.000Z",
+    "fetchedAt": "2026-09-18T15:43:08.691Z",
+    "body": "The episode discusses guide dog training, the communication and safety benefits of guide dogs, and host Deni Elliott's personal journey with several guide dogs toward self-acceptance.\n\nRead more from the original source: [Eyes On Success](https://podcast.eyesonsuccess.net/?p=2657)"
   }
 ]

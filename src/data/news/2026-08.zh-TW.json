@@ -72991,5 +72991,71 @@
     "publishedAt": "2026-08-24T14:00:38.000Z",
     "fetchedAt": "2026-09-18T15:31:42.103Z",
     "body": "此文章說明如何在 Adobe InDesign 中為圖片添加替代文字，以提升螢幕閱讀器使用者的可存取性。\n\n原文來源： [theaccessibilityguy.com](https://theaccessibilityguy.com/how-to-add-alternate-text-to-an-image-in-indesign)"
+  },
+  {
+    "title": "NVDA 2026.2beta10 可供測試",
+    "slug": "nvda-20262beta10-available-for-testing-zh-ddfd6229",
+    "lang": "zh-TW",
+    "summary": "NVDA 2026.2 第10測試版現提供下載與測試，歡迎使用者體驗新功能並回饋。",
+    "category": "assistive-tech",
+    "tags": [
+      "NVDA",
+      "screen reader",
+      "assistive technology",
+      "beta release"
+    ],
+    "sourceName": "nvaccess.org",
+    "sourceUrl": "https://www.nvaccess.org/post/nvda-2026-2beta10",
+    "relatedSources": [
+      {
+        "name": "nvaccess.org",
+        "url": "https://www.nvaccess.org/post/nvda-2026-2beta10"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://nvaccess.org/rss",
+    "ingestProvider": "nvaccess.org",
+    "clusterId": "cluster-ddfd6229",
+    "status": "published",
+    "translationOf": "nvda-20262beta10-available-for-testing-ddfd6229",
+    "publishedAt": "2026-08-06T01:11:44.000Z",
+    "fetchedAt": "2026-09-18T15:41:00.126Z",
+    "body": "NVDA 2026.2 第10測試版現提供下載與測試，歡迎使用者體驗新功能並回饋。\n\n原文來源： [nvaccess.org](https://www.nvaccess.org/post/nvda-2026-2beta10)"
+  },
+  {
+    "title": "AI 能否尋找視力損失的治療方案？認識 Nome",
+    "slug": "can-ai-find-treatment-options-for-vision-loss-meet-nome-zh-1292d20d",
+    "lang": "zh-TW",
+    "summary": "討論如何利用 AI 技術尋找視力損失的治療方案，並介紹 Nome 計畫。",
+    "category": "assistive-tech",
+    "tags": [
+      "AI",
+      "vision loss",
+      "treatment options",
+      "Nome"
+    ],
+    "sourceName": "theblindlife",
+    "sourceUrl": "https://www.youtube.com/watch?v=cSwkf3WyKDs",
+    "relatedSources": [
+      {
+        "name": "theblindlife",
+        "url": "https://www.youtube.com/watch?v=cSwkf3WyKDs"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "youtube",
+    "ingestSource": "youtube-local:theblindlife",
+    "ingestProvider": "youtube.com",
+    "clusterId": "cluster-1292d20d",
+    "status": "published",
+    "translationOf": "can-ai-find-treatment-options-for-vision-loss-meet-nome-1292d20d",
+    "publishedAt": "2026-08-29T14:00:31.000Z",
+    "fetchedAt": "2026-09-18T15:41:10.281Z",
+    "body": "討論如何利用 AI 技術尋找視力損失的治療方案，並介紹 Nome 計畫。\n\n原文來源： [theblindlife](https://www.youtube.com/watch?v=cSwkf3WyKDs)"
   }
 ]
