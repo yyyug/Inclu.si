@@ -1,0 +1,150 @@
+name: Twice-Daily Ingest Community Sources
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "25 1,13 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch, generate, and cluster community stories
+        id: community_ingest
+        shell: bash
+        run: |
+          set -o pipefail
+          npm run news:ingest-community 2>&1 | tee community.log
+          npm run news:cluster 2>&1 | tee -a community.log
+        env:
+          OLLAMA_API_KEY: ${{ secrets.OLLAMA_API_KEY }}
+          OLLAMA_BASE_URL: ${{ secrets.OLLAMA_BASE_URL }}
+          OLLAMA_MODEL: nemotron-3-super:cloud
+          OLLAMA_MAX_TOKENS: 8192
+          OLLAMA_TIMEOUT_MS: 180000
+          OLLAMA_MAX_RETRIES: 3
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL: openai/gpt-oss-120b
+          GROQ_TIMEOUT_MS: 300000
+          COMMUNITY_MIN_RSS_COUNT: 130
+          COMMUNITY_ITEMS: 15
+          COMMUNITY_MAX_TOTAL: 60
+          BATCH_SIZE: 3
+          CLUSTER_SIMILARITY_THRESHOLD: 0.72
+          CLUSTER_MAX_HOURS_DIFF: 36
+
+      - name: Upload ingest log artifact
+        if: failure()
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: community-ingest-log-${{ github.run_id }}
+          path: community.log
+          if-no-files-found: ignore
+          retention-days: 2
+
+      - name: Commit generated content
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/news
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            echo "COMMITTED_YES_NO=no" >> "$GITHUB_ENV"
+          else
+            for attempt in 1 2 3; do
+              git reset HEAD~1 --soft 2>/dev/null || true
+              git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+              git add src/data/news
+              git commit -m "chore: ingest community accessibility sources"
+              if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+                echo "COMMITTED_YES_NO=yes" >> "$GITHUB_ENV"
+                exit 0
+              fi
+              echo "Push attempt ${attempt} failed; retrying..."
+            done
+            echo "Failed to push changes after retries"
+            exit 1
+          fi
+
+      - name: Deploy to Cloudflare Pages
+        if: always()
+        continue-on-error: true
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: f12f219ab9cf823c47c1e01a463d67a6
+        run: |
+          npm run build
+          npx wrangler pages deploy dist --project-name inclu-si --branch main
+
+      - name: Report step outcomes
+        if: always()
+        shell: bash
+        run: |
+          echo "community_ingest=${{ steps.community_ingest.outcome }}"
+
+      - name: Build concise run summary
+        if: always()
+        continue-on-error: true
+        shell: bash
+        run: |
+          if [ -f community.log ]; then
+            rss_sources=$(grep -Eo '\[community\] rss_sources=[0-9]+/[0-9]+' community.log | tail -1 | cut -d= -f2)
+            candidates=$(grep -Eo '\[community\] candidates_queued=[0-9]+' community.log | tail -1 | cut -d= -f2)
+            by_type=$(grep -Eo '\[community\] by_type=.*' community.log | tail -1 | cut -d= -f2-)
+          else
+            rss_sources="n/a"
+            candidates="n/a"
+            by_type="n/a"
+          fi
+
+          rss_sources=${rss_sources:-n/a}
+          candidates=${candidates:-n/a}
+          by_type=${by_type:-n/a}
+
+          {
+            echo "workflow=community-ingest"
+            echo "run_id=${{ github.run_id }}"
+            echo "run_attempt=${{ github.run_attempt }}"
+            echo "job_status=${{ job.status }}"
+            echo "ref=${{ github.ref_name }}"
+            echo "sha=${{ github.sha }}"
+            echo "generated_at_utc=$(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            echo "rss_sources=${rss_sources}"
+            echo "candidates=${candidates}"
+            echo "by_type=${by_type}"
+            echo "committed_yes_no=${COMMITTED_YES_NO:-no}"
+            if [ -f community.log ]; then
+              echo "log_tail:"
+              tail -n 60 community.log
+            else
+              echo "log_tail=community.log not found"
+            fi
+          } > community-summary.txt
+
+      - name: Upload concise run summary
+        if: always()
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: community-summary-${{ github.run_id }}
+          path: community-summary.txt
+          if-no-files-found: ignore
+          retention-days: 2

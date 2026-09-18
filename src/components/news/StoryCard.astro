@@ -23,6 +23,15 @@ const categoryLabels: Record<string, Record<Locale, string>> = {
 
 const categoryLabel = categoryLabels[entry.data.category]?.[locale] ?? categoryLabels.general[locale];
 
+const sourceTypeLabels: Record<string, Record<Locale, string>> = {
+  youtube: { en: 'YouTube', 'zh-TW': 'YouTube' },
+  podcast: { en: 'Podcast', 'zh-TW': '播客' },
+  x: { en: 'X', 'zh-TW': 'X' },
+  facebook: { en: 'Facebook', 'zh-TW': 'Facebook' },
+};
+
+const sourceTypeLabel = sourceTypeLabels[entry.data.ingestType]?.[locale] ?? null;
+
 const languageLabelsByRegion: Record<string, Record<Locale, string>> = {
   US: { en: 'English', 'zh-TW': '英文' },
   TW: { en: 'Chinese', 'zh-TW': '中文' },
@@ -39,6 +48,9 @@ const languageLabel = regionCode ? (languageLabelsByRegion[regionCode]?.[locale]
 <article class="group rounded-3xl border border-slate-200 bg-white p-5 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg sm:p-8">
   <div class="flex flex-wrap items-center gap-3 text-sm text-slate-600">
     <span class="rounded-full bg-indigo-600 px-3 py-1 font-semibold text-white">{categoryLabel}</span>
+    {sourceTypeLabel && (
+      <span class="rounded-full bg-slate-700 px-3 py-1 font-semibold text-white">{sourceTypeLabel}</span>
+    )}
     {languageLabel && (
       <span class="text-slate-500">-</span>
       <span class="font-medium text-slate-600">{languageLabel}</span>
