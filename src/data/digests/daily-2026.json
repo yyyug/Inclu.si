@@ -6884,5 +6884,84 @@
         }
       ]
     }
+  },
+  "2026-09-18": {
+    "generatedAt": "2026-09-18T05:06:31.607Z",
+    "en": {
+      "title": "Prescription Accessibility Law Advances Amid Global Disability Inclusion Efforts",
+      "summary": "A Illinois surgeon's advocacy spurred a new prescription accessibility law aimed at improving medication access for people with disabilities. Meanwhile, Taiwan's MRT Circular Line announced a NT$7.2 billion accessible passage to the Palace Museum, and accessibe launched an AI-powered Code Agent to automate accessibility fixes for developers. Additional updates include library entrance improvements, disability‑focused grants, corporate anti‑fraud accessibility initiatives, and discussions on making accessibility routine.",
+      "highlights": [
+        {
+          "title": "Local surgeon inspires prescription accessibility law - Illinois Times",
+          "slug": "local-surgeon-inspires-prescription-accessibility-law-illinois-times-ff4398c5"
+        },
+        {
+          "title": "MRT Circular Line to Connect Directly! Palace Museum Builds New NT$7.2 Billion Accessible Passage, Expected Completion 2029",
+          "slug": "mrt-circular-line-to-connect-directly-palace-museum-builds-new-nt72-billion-acce-f65339d7"
+        },
+        {
+          "title": "accessiBe Launches Code Agent, Bringing Agentic Accessibility Into Developer Workflows",
+          "slug": "accessibe-launches-code-agent-bringing-agentic-accessibility-into-developer-work-6a2dfb3e"
+        },
+        {
+          "title": "Wilson Library accessible entrance nears completion - WWU News",
+          "slug": "wilson-library-accessible-entrance-nears-completion-wwu-news-7cd58986"
+        },
+        {
+          "title": "Apply for our sub-granting: Women with disabilities leading the change",
+          "slug": "apply-for-our-sub-granting-women-with-disabilities-leading-the-change-4e96bae7"
+        },
+        {
+          "title": "Taishin Securities Cross-Industry Promotes Accessible Anti-Fraud Measures to Realize Financial Equality",
+          "slug": "taishin-securities-cross-industry-promotes-accessible-anti-fraud-measures-to-rea-e4830954"
+        },
+        {
+          "title": "Accessibility requires increased communication",
+          "slug": "accessibility-requires-increased-communication-55973c38"
+        },
+        {
+          "title": "Accessibility should be boring - OnlySky",
+          "slug": "accessibility-should-be-boring-onlysky-efda1a2e"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "處方藥可及性法案推動 台灣無障礙捷運與AI工具同步進展",
+      "summary": "伊利諾伊州外科醫師推動處方藥可及性立法，以改善殘障人士的用藥取得；台灣捷運環狀線將投資72億元建設直通故宮的無障礙通道，預計2029年完工，而 accessibe 推出 AI 驅動的 Code Agent，協助開發者自動化無障礙修復。此外，威爾遜圖書館無障礙入口即將完工、殘障女性領導補助計畫開放申請、兆豐證券推廣無障礙防詐措施，以及討論讓無障礙工作變得例行的議題也同步推進。",
+      "highlights": [
+        {
+          "title": "當地外科醫師推動處方藥可及性法案 - Illinois Times",
+          "slug": "local-surgeon-inspires-prescription-accessibility-law-illinois-times-zh-ff4398c5"
+        },
+        {
+          "title": "捷運環狀線將直通！故宮7.2億新建無障礙通道　預計2029完工",
+          "slug": "mrt-circular-line-to-connect-directly-palace-museum-builds-new-nt72-billion-acce-zh-f65339d7"
+        },
+        {
+          "title": "accessiBe 推出 Code Agent，將智能無障礙帶入開發者工作流程",
+          "slug": "accessibe-launches-code-agent-bringing-agentic-accessibility-into-developer-work-zh-6a2dfb3e"
+        },
+        {
+          "title": "威爾遜圖書館無障礙入口即將完工 - WWU News",
+          "slug": "wilson-library-accessible-entrance-nears-completion-wwu-news-zh-7cd58986"
+        },
+        {
+          "title": "申請我們的子補助：帶領改變的殘障女性",
+          "slug": "apply-for-our-sub-granting-women-with-disabilities-leading-the-change-zh-4e96bae7"
+        },
+        {
+          "title": "兆豐證券跨界推動無障礙防詐 落實金融平權",
+          "slug": "taishin-securities-cross-industry-promotes-accessible-anti-fraud-measures-to-rea-zh-e4830954"
+        },
+        {
+          "title": "無障礙需要加強溝通",
+          "slug": "accessibility-requires-increased-communication-zh-55973c38"
+        },
+        {
+          "title": "無障礙應該很無聊 - OnlySky",
+          "slug": "accessibility-should-be-boring-onlysky-zh-efda1a2e"
+        }
+      ]
+    }
   }
 }
