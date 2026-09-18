@@ -188,5 +188,70 @@
     "publishedAt": "2026-02-09T11:37:37.000Z",
     "fetchedAt": "2026-08-25T01:52:07.239Z",
     "body": "打造無障礙交通新里程 雲林再添一輛大型復康巴士加入服務\n\n原文來源： [yunlin.gov.tw](https://www.yunlin.gov.tw/News_Content.aspx?n=1244&s=580923)"
+  },
+  {
+    "title": "如何落實《無障礙加拿大法》承諾",
+    "slug": "how-to-operationalize-your-accessible-canada-act-commitments-zh-9963649c",
+    "lang": "zh-TW",
+    "summary": "無障礙加拿大法（ACA）正隨著團隊落實首波計畫而演變；文章指出常見的執行落差，並提供五項實用步驟，以移除障礙並推動可衡量的進展。",
+    "category": "laws-rights",
+    "tags": [
+      "Accessible Canada Act",
+      "legislation",
+      "compliance",
+      "barrier removal"
+    ],
+    "sourceName": "makeitfable.com",
+    "sourceUrl": "https://makeitfable.com/article/accessible-canada-act",
+    "relatedSources": [
+      {
+        "name": "makeitfable.com",
+        "url": "https://makeitfable.com/article/accessible-canada-act"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://makeitfable.com/feed",
+    "ingestProvider": "makeitfable.com",
+    "clusterId": "cluster-9963649c",
+    "status": "published",
+    "translationOf": "how-to-operationalize-your-accessible-canada-act-commitments-9963649c",
+    "publishedAt": "2026-02-25T01:05:06.000Z",
+    "fetchedAt": "2026-09-18T05:54:31.224Z",
+    "body": "無障礙加拿大法（ACA）正隨著團隊落實首波計畫而演變；文章指出常見的執行落差，並提供五項實用步驟，以移除障礙並推動可衡量的進展。\n\n原文來源： [makeitfable.com](https://makeitfable.com/article/accessible-canada-act)"
+  },
+  {
+    "title": "頁面審核",
+    "slug": "page-audits-zh-1e26988d",
+    "lang": "zh-TW",
+    "summary": "該服務由殘障測試者執行 WCAG 無障礙審核與 VPAT 報告，確保評估的真實性和準確性。",
+    "category": "digital-a11y",
+    "tags": [
+      "WCAG",
+      "VPAT",
+      "audit"
+    ],
+    "sourceName": "makeitfable.com",
+    "sourceUrl": "https://makeitfable.com/tutorial/page-audits",
+    "relatedSources": [
+      {
+        "name": "makeitfable.com",
+        "url": "https://makeitfable.com/tutorial/page-audits"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://makeitfable.com/feed",
+    "ingestProvider": "makeitfable.com",
+    "clusterId": "cluster-1e26988d",
+    "status": "published",
+    "translationOf": "page-audits-1e26988d",
+    "publishedAt": "2026-02-04T22:36:16.000Z",
+    "fetchedAt": "2026-09-18T05:57:12.739Z",
+    "body": "該服務由殘障測試者執行 WCAG 無障礙審核與 VPAT 報告，確保評估的真實性和準確性。\n\n原文來源： [makeitfable.com](https://makeitfable.com/tutorial/page-audits)"
   }
 ]

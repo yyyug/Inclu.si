@@ -30,5 +30,140 @@
     "publishedAt": "2026-01-29T08:00:00.000Z",
     "fetchedAt": "2026-04-30T14:15:06.697Z",
     "body": "台北慈院落實「就醫無礙」官網全站通過無障礙AA 級    TCnews慈善新聞網\n\n原文來源： [TCnews慈善新聞網](https://www.tcnews.com.tw/medicine/item/28379.html)"
+  },
+  {
+    "title": "Salesforce 如何運用無障礙研究塑造 AI UX 設計",
+    "slug": "how-salesforce-shapes-ai-ux-design-with-accessibility-zh-f1ab0211",
+    "lang": "zh-TW",
+    "summary": "Salesforce 透過無障礙研究來壓力測試並改進真實產品中的 AI 使用者體驗與設計。",
+    "category": "digital-a11y",
+    "tags": [
+      "Salesforce",
+      "AI",
+      "UX",
+      "accessibility",
+      "digital accessibility"
+    ],
+    "sourceName": "makeitfable.com",
+    "sourceUrl": "https://makeitfable.com/article/how-salesforce-shapes-ai-ux-design",
+    "relatedSources": [
+      {
+        "name": "makeitfable.com",
+        "url": "https://makeitfable.com/article/how-salesforce-shapes-ai-ux-design"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://makeitfable.com/feed",
+    "ingestProvider": "makeitfable.com",
+    "clusterId": "cluster-f1ab0211",
+    "status": "published",
+    "translationOf": "how-salesforce-shapes-ai-ux-design-with-accessibility-f1ab0211",
+    "publishedAt": "2026-01-30T15:52:36.000Z",
+    "fetchedAt": "2026-09-18T06:00:31.493Z",
+    "body": "Salesforce 透過無障礙研究來壓力測試並改進真實產品中的 AI 使用者體驗與設計。\n\n原文來源： [makeitfable.com](https://makeitfable.com/article/how-salesforce-shapes-ai-ux-design)"
+  },
+  {
+    "title": "Pneuma Solutions 談無障礙檔案館的挑戰",
+    "slug": "accessible-archive-from-pneuma-solutions-zh-6fe59e94",
+    "lang": "zh-TW",
+    "summary": "Pneuma Solutions 指出，龐大的數位檔案館在體積、不可預測的使用需求、日益嚴格的法律要求以及昂貴且過時的一次性修復項目下，難以實現全面無障礙，導致只有零星的可存取內容。",
+    "category": "digital-a11y",
+    "tags": [
+      "archive",
+      "accessibility",
+      "blind",
+      "print-disabled",
+      "PDF",
+      "remediation"
+    ],
+    "sourceName": "at-newswire.com",
+    "sourceUrl": "https://at-newswire.com/accessible-archive-from-pneuma-solutions",
+    "relatedSources": [
+      {
+        "name": "at-newswire.com",
+        "url": "https://at-newswire.com/accessible-archive-from-pneuma-solutions"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://at-newswire.com/feed",
+    "ingestProvider": "at-newswire.com",
+    "clusterId": "cluster-6fe59e94",
+    "status": "published",
+    "translationOf": "accessible-archive-from-pneuma-solutions-6fe59e94",
+    "publishedAt": "2026-01-01T05:03:38.000Z",
+    "fetchedAt": "2026-09-18T06:00:31.494Z",
+    "body": "Pneuma Solutions 指出，龐大的數位檔案館在體積、不可預測的使用需求、日益嚴格的法律要求以及昂貴且過時的一次性修復項目下，難以實現全面無障礙，導致只有零星的可存取內容。\n\n原文來源： [at-newswire.com](https://at-newswire.com/accessible-archive-from-pneuma-solutions)"
+  },
+  {
+    "title": "無障礙是以人為中心設計的起源",
+    "slug": "accessibility-is-the-origin-of-human-centered-design-zh-c52a3698",
+    "lang": "zh-TW",
+    "summary": "文章探討了如何以無障礙為出發點的創新成為以人為中心設計的基礎，從而塑造當代產品的包容性用戶體驗原則。",
+    "category": "digital-a11y",
+    "tags": [
+      "human-centered design",
+      "inclusive design",
+      "UX principles",
+      "accessibility"
+    ],
+    "sourceName": "makeitfable.com",
+    "sourceUrl": "https://makeitfable.com/article/accessibility-is-the-origin-of-human-centered-design",
+    "relatedSources": [
+      {
+        "name": "makeitfable.com",
+        "url": "https://makeitfable.com/article/accessibility-is-the-origin-of-human-centered-design"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://makeitfable.com/feed",
+    "ingestProvider": "makeitfable.com",
+    "clusterId": "cluster-c52a3698",
+    "status": "published",
+    "translationOf": "accessibility-is-the-origin-of-human-centered-design-c52a3698",
+    "publishedAt": "2026-01-09T15:39:28.000Z",
+    "fetchedAt": "2026-09-18T06:02:26.989Z",
+    "body": "文章探討了如何以無障礙為出發點的創新成為以人為中心設計的基礎，從而塑造當代產品的包容性用戶體驗原則。\n\n原文來源： [makeitfable.com](https://makeitfable.com/article/accessibility-is-the-origin-of-human-centered-design)"
+  },
+  {
+    "title": "Pneuma Solutions 的 Scribe",
+    "slug": "scribe-from-pneuma-solutions-zh-f02e1197",
+    "lang": "zh-TW",
+    "summary": "文章批評現有文件無障礙的被動應對方式，指出其低效與成本高，並倡導像 Scribe 這樣的主動解決方案，以確保殘障人士能及時取得所需資訊。",
+    "category": "assistive-tech",
+    "tags": [
+      "document accessibility",
+      "PDF remediation",
+      "assistive technology",
+      "workflow automation"
+    ],
+    "sourceName": "at-newswire.com",
+    "sourceUrl": "https://at-newswire.com/scribe-from-pneuma-solutions",
+    "relatedSources": [
+      {
+        "name": "at-newswire.com",
+        "url": "https://at-newswire.com/scribe-from-pneuma-solutions"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://at-newswire.com/feed",
+    "ingestProvider": "at-newswire.com",
+    "clusterId": "cluster-f02e1197",
+    "status": "published",
+    "translationOf": "scribe-from-pneuma-solutions-f02e1197",
+    "publishedAt": "2026-01-01T05:02:30.000Z",
+    "fetchedAt": "2026-09-18T06:02:26.990Z",
+    "body": "文章批評現有文件無障礙的被動應對方式，指出其低效與成本高，並倡導像 Scribe 這樣的主動解決方案，以確保殘障人士能及時取得所需資訊。\n\n原文來源： [at-newswire.com](https://at-newswire.com/scribe-from-pneuma-solutions)"
   }
 ]

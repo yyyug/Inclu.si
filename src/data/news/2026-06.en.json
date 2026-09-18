@@ -127062,5 +127062,39 @@
     "publishedAt": "2026-06-18T15:15:12.000Z",
     "fetchedAt": "2026-09-18T02:45:30.759Z",
     "body": "The report shares insights from Fable's community of testers with disabilities on navigating digital products and improving accessibility.\n\nRead more from the original source: [makeitfable.com](https://makeitfable.com/article/community-research-panel-report)"
+  },
+  {
+    "title": "Aira + NFB: Turn $25 Into Access and Opportunity",
+    "slug": "aira-nfb-turn-25-into-access-and-opportunity-a76d1a0e",
+    "lang": "en",
+    "summary": "The National Federation of the Blind’s Give $25 campaign is a simple way to support programs that expand opportunity and access for people who are blind or have low vision through services like Aira.",
+    "category": "assistive-tech",
+    "tags": [
+      "assistive technology",
+      "blindness",
+      "NFB",
+      "Aira",
+      "fundraising"
+    ],
+    "sourceName": "aira.io",
+    "sourceUrl": "https://aira.io/aira-nfb-turn-25-into-access-and-opportunity",
+    "relatedSources": [
+      {
+        "name": "aira.io",
+        "url": "https://aira.io/aira-nfb-turn-25-into-access-and-opportunity"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://aira.io/feed",
+    "ingestProvider": "aira.io",
+    "clusterId": "cluster-a76d1a0e",
+    "status": "published",
+    "translationOf": "aira-nfb-turn-25-into-access-and-opportunity-zh-a76d1a0e",
+    "publishedAt": "2026-06-22T20:18:52.000Z",
+    "fetchedAt": "2026-09-18T05:56:51.478Z",
+    "body": "The National Federation of the Blind’s Give $25 campaign is a simple way to support programs that expand opportunity and access for people who are blind or have low vision through services like Aira.\n\nRead more from the original source: [aira.io](https://aira.io/aira-nfb-turn-25-into-access-and-opportunity)"
   }
 ]

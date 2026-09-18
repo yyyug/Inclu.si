@@ -127062,5 +127062,39 @@
     "publishedAt": "2026-06-18T15:15:12.000Z",
     "fetchedAt": "2026-09-18T02:45:30.759Z",
     "body": "該報告分享 Fable 殘障測試者社群在瀏覽數位產品時的見解，並提供提升無障礙性的建議。\n\n原文來源： [makeitfable.com](https://makeitfable.com/article/community-research-panel-report)"
+  },
+  {
+    "title": "Aira + 全國盲人聯盟：將25美元轉化為機會與無障礙",
+    "slug": "aira-nfb-turn-25-into-access-and-opportunity-zh-a76d1a0e",
+    "lang": "zh-TW",
+    "summary": "全國盲人聯盟的「捐贈25美元」活動是一種簡單的方式，以支援擴展機會與無障礙的項目，例如Aira服務，幫助盲人或低視力者。",
+    "category": "assistive-tech",
+    "tags": [
+      "assistive technology",
+      "blindness",
+      "NFB",
+      "Aira",
+      "fundraising"
+    ],
+    "sourceName": "aira.io",
+    "sourceUrl": "https://aira.io/aira-nfb-turn-25-into-access-and-opportunity",
+    "relatedSources": [
+      {
+        "name": "aira.io",
+        "url": "https://aira.io/aira-nfb-turn-25-into-access-and-opportunity"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://aira.io/feed",
+    "ingestProvider": "aira.io",
+    "clusterId": "cluster-a76d1a0e",
+    "status": "published",
+    "translationOf": "aira-nfb-turn-25-into-access-and-opportunity-a76d1a0e",
+    "publishedAt": "2026-06-22T20:18:52.000Z",
+    "fetchedAt": "2026-09-18T05:56:51.478Z",
+    "body": "全國盲人聯盟的「捐贈25美元」活動是一種簡單的方式，以支援擴展機會與無障礙的項目，例如Aira服務，幫助盲人或低視力者。\n\n原文來源： [aira.io](https://aira.io/aira-nfb-turn-25-into-access-and-opportunity)"
   }
 ]

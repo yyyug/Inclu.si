@@ -72352,5 +72352,190 @@
     "publishedAt": "2026-08-18T14:00:00.000Z",
     "fetchedAt": "2026-09-18T02:50:45.467Z",
     "body": "探討年齡導致的視力問題如何增加對大字體印刷品的需求，這種無障礙格式惠及廣泛客戶。\n\n原文來源： [brailleworks.com](https://brailleworks.com/age-related-vision-problems-your-customers)"
+  },
+  {
+    "title": "歡迎國家殘疾人組織：值得轉發給雇主的贊助者",
+    "slug": "welcome-national-organization-on-disability-a-sponsor-worth-forwarding-to-your-e-zh-fd932cf0",
+    "lang": "zh-TW",
+    "summary": "Aaron Di Blasi 歡迎 NOD 成為新贊助者，指出其專注於殘疾就業的需求面——與企業人資部門合作，改變公司如何僱用、入職、安置及提升殘疾員工。",
+    "category": "laws-rights",
+    "tags": [
+      "disability inclusion",
+      "employment",
+      "National Organization on Disability"
+    ],
+    "sourceName": "accessinformationnews.com",
+    "sourceUrl": "https://accessinformationnews.com/welcome-national-organization-on-disability",
+    "relatedSources": [
+      {
+        "name": "accessinformationnews.com",
+        "url": "https://accessinformationnews.com/welcome-national-organization-on-disability"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://accessinformationnews.com/feed",
+    "ingestProvider": "accessinformationnews.com",
+    "clusterId": "cluster-fd932cf0",
+    "status": "published",
+    "translationOf": "welcome-national-organization-on-disability-a-sponsor-worth-forwarding-to-your-e-fd932cf0",
+    "publishedAt": "2026-08-28T18:57:10.000Z",
+    "fetchedAt": "2026-09-18T05:58:55.139Z",
+    "body": "Aaron Di Blasi 歡迎 NOD 成為新贊助者，指出其專注於殘疾就業的需求面——與企業人資部門合作，改變公司如何僱用、入職、安置及提升殘疾員工。\n\n原文來源： [accessinformationnews.com](https://accessinformationnews.com/welcome-national-organization-on-disability)"
+  },
+  {
+    "title": "全國 ADA 研討會要點 #2：有效溝通是 Title II 責任",
+    "slug": "national-ada-symposium-takeaway-2-effective-communication-is-a-title-ii-responsi-zh-e05db598",
+    "lang": "zh-TW",
+    "summary": "在全國 ADA 研討會上，專家強調有效溝通是 ADA Title II 的義務，涵蓋數位無障礙、醫療、應急規劃和公共服務等領域。",
+    "category": "laws-rights",
+    "tags": [
+      "ADA",
+      "Title II",
+      "effective communication",
+      "national ada symposium",
+      "public entities"
+    ],
+    "sourceName": "brailleworks.com",
+    "sourceUrl": "https://brailleworks.com/national-ada-symposium-effective-communication-responsibility",
+    "relatedSources": [
+      {
+        "name": "brailleworks.com",
+        "url": "https://brailleworks.com/national-ada-symposium-effective-communication-responsibility"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://brailleworks.com/feed",
+    "ingestProvider": "brailleworks.com",
+    "clusterId": "cluster-e05db598",
+    "status": "published",
+    "translationOf": "national-ada-symposium-takeaway-2-effective-communication-is-a-title-ii-responsi-e05db598",
+    "publishedAt": "2026-08-13T14:00:00.000Z",
+    "fetchedAt": "2026-09-18T05:59:18.849Z",
+    "body": "在全國 ADA 研討會上，專家強調有效溝通是 ADA Title II 的義務，涵蓋數位無障礙、醫療、應急規劃和公共服務等領域。\n\n原文來源： [brailleworks.com](https://brailleworks.com/national-ada-symposium-effective-communication-responsibility)"
+  },
+  {
+    "title": "NVDA 2026.2rc2 可供測試",
+    "slug": "nvda-20262rc2-available-for-testing-zh-526ce008",
+    "lang": "zh-TW",
+    "summary": "NVDA 2026.2 的第二個發行候選版（RC2）現已提供下載與測試；此免費的 Windows 螢幕閱讀器鼓勵使用者下載並提供回饋，以協助最終版本的穩定發布。",
+    "category": "assistive-tech",
+    "tags": [
+      "NVDA",
+      "screen reader",
+      "release candidate"
+    ],
+    "sourceName": "nvaccess.org",
+    "sourceUrl": "https://www.nvaccess.org/post/nvda-2026-2rc2",
+    "relatedSources": [
+      {
+        "name": "nvaccess.org",
+        "url": "https://www.nvaccess.org/post/nvda-2026-2rc2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://nvaccess.org/rss",
+    "ingestProvider": "nvaccess.org",
+    "clusterId": "cluster-526ce008",
+    "status": "published",
+    "translationOf": "nvda-20262rc2-available-for-testing-526ce008",
+    "publishedAt": "2026-08-26T04:04:39.000Z",
+    "fetchedAt": "2026-09-18T06:00:49.911Z",
+    "body": "NVDA 2026.2 的第二個發行候選版（RC2）現已提供下載與測試；此免費的 Windows 螢幕閱讀器鼓勵使用者下載並提供回饋，以協助最終版本的穩定發布。\n\n原文來源： [nvaccess.org](https://www.nvaccess.org/post/nvda-2026-2rc2)"
+  },
+  {
+    "title": "無障礙資訊新聞 2026年8月24日 星期一 第1081期",
+    "slug": "access-information-news-for-monday-august-24-2026-volume-1081-zh-95daa1a3",
+    "lang": "zh-TW",
+    "summary": "一份每週通訊，彙整殘障無障礙領域的最新消息與發展，針對2026年8月24日當週出版。",
+    "category": "general",
+    "tags": [
+      "newsletter",
+      "access information"
+    ],
+    "sourceName": "accessinformationnews.com",
+    "sourceUrl": "https://accessinformationnews.com/newsletter-08-24-2026",
+    "relatedSources": [
+      {
+        "name": "accessinformationnews.com",
+        "url": "https://accessinformationnews.com/newsletter-08-24-2026"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://accessinformationnews.com/feed",
+    "ingestProvider": "accessinformationnews.com",
+    "clusterId": "cluster-95daa1a3",
+    "status": "published",
+    "translationOf": "access-information-news-for-monday-august-24-2026-volume-1081-95daa1a3",
+    "publishedAt": "2026-08-24T04:02:27.000Z",
+    "fetchedAt": "2026-09-18T06:00:50.013Z",
+    "body": "一份每週通訊，彙整殘障無障礙領域的最新消息與發展，針對2026年8月24日當週出版。\n\n原文來源： [accessinformationnews.com](https://accessinformationnews.com/newsletter-08-24-2026)"
+  },
+  {
+    "title": "2633 育兒與寶寶倒置，瓶子向上（2026年8月19日）",
+    "slug": "2633-parenting-with-babies-down-bottles-up-aug-19-2026-zh-c5611387",
+    "lang": "zh-TW",
+    "summary": "“Babies Down, Bottles Up” 團隊以幽默、誠實和真摯的方式談論盲人育兒，分享關於家庭生活、倡導和社區的故事。主持人 Nancy 和 Peter Torpey 與 Josselyn Williams、Terrin Landry、LaKisha Holmes 和 Danny Romero 談論建立…… 繼續閱讀 2633 Parenting with Babies Down, Bottles Up (Aug. 19, 2026) →",
+    "category": "lifestyle-culture",
+    "tags": [],
+    "sourceName": "Eyes On Success",
+    "sourceUrl": "https://podcast.eyesonsuccess.net/?p=2708",
+    "relatedSources": [
+      {
+        "name": "Eyes On Success",
+        "url": "https://podcast.eyesonsuccess.net/?p=2708"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "podcast",
+    "ingestSource": "http://podcast.eyesonsuccess.net/feed",
+    "ingestProvider": "podcast.eyesonsuccess.net",
+    "clusterId": "cluster-c5611387",
+    "status": "published",
+    "translationOf": "2633-parenting-with-babies-down-bottles-up-aug-19-2026-c5611387",
+    "publishedAt": "2026-08-19T12:30:12.000Z",
+    "fetchedAt": "2026-09-18T06:01:40.708Z",
+    "body": "“Babies Down, Bottles Up” 團隊以幽默、誠實和真摯的方式談論盲人育兒，分享關於家庭生活、倡導和社區的故事。主持人 Nancy 和 Peter Torpey 與 Josselyn Williams、Terrin Landry、LaKisha Holmes 和 Danny Romero 談論建立…… 繼續閱讀 2633 Parenting with Babies Down, Bottles Up (Aug. 19, 2026) →\n\n原文來源： [Eyes On Success](https://podcast.eyesonsuccess.net/?p=2708)"
+  },
+  {
+    "title": "全國ADA研討會要點#1：誰應該負責？",
+    "slug": "national-ada-symposium-takeaway-1-who-is-responsible-zh-556454ee",
+    "lang": "zh-TW",
+    "summary": "7月26日，美國殘疾人法案（ADA）迎來第36個年頭，作為民權法律。其核心是為殘疾人提供平等的存取與機會，涵蓋就業、商業、交通、通訊以及州和地方政府的項目和服務。參與並主持多場會議後……",
+    "category": "laws-rights",
+    "tags": [],
+    "sourceName": "brailleworks.com",
+    "sourceUrl": "https://brailleworks.com/national-ada-symposium-who-is-responsible",
+    "relatedSources": [
+      {
+        "name": "brailleworks.com",
+        "url": "https://brailleworks.com/national-ada-symposium-who-is-responsible"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://brailleworks.com/feed",
+    "ingestProvider": "brailleworks.com",
+    "clusterId": "cluster-556454ee",
+    "status": "published",
+    "translationOf": "national-ada-symposium-takeaway-1-who-is-responsible-556454ee",
+    "publishedAt": "2026-08-06T14:00:00.000Z",
+    "fetchedAt": "2026-09-18T06:01:40.808Z",
+    "body": "7月26日，美國殘疾人法案（ADA）迎來第36個年頭，作為民權法律。其核心是為殘疾人提供平等的存取與機會，涵蓋就業、商業、交通、通訊以及州和地方政府的項目和服務。參與並主持多場會議後……\n\n原文來源： [brailleworks.com](https://brailleworks.com/national-ada-symposium-who-is-responsible)"
   }
 ]

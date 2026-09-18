@@ -30,5 +30,140 @@
     "publishedAt": "2026-01-29T08:00:00.000Z",
     "fetchedAt": "2026-04-30T14:15:06.697Z",
     "body": "Taipei Tzu Chi Hospital Implements 'Barrier-Free Medical Care' – Website Fully Passes AA-Level Accessibility – TCnews Charity News\n\nRead more from the original source: [TCnews慈善新聞網](https://www.tcnews.com.tw/medicine/item/28379.html)"
+  },
+  {
+    "title": "How Salesforce shapes AI UX design with accessibility",
+    "slug": "how-salesforce-shapes-ai-ux-design-with-accessibility-f1ab0211",
+    "lang": "en",
+    "summary": "Salesforce applies accessibility research to evaluate and improve AI user experience design in real products.",
+    "category": "digital-a11y",
+    "tags": [
+      "Salesforce",
+      "AI",
+      "UX",
+      "accessibility",
+      "digital accessibility"
+    ],
+    "sourceName": "makeitfable.com",
+    "sourceUrl": "https://makeitfable.com/article/how-salesforce-shapes-ai-ux-design",
+    "relatedSources": [
+      {
+        "name": "makeitfable.com",
+        "url": "https://makeitfable.com/article/how-salesforce-shapes-ai-ux-design"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://makeitfable.com/feed",
+    "ingestProvider": "makeitfable.com",
+    "clusterId": "cluster-f1ab0211",
+    "status": "published",
+    "translationOf": "how-salesforce-shapes-ai-ux-design-with-accessibility-zh-f1ab0211",
+    "publishedAt": "2026-01-30T15:52:36.000Z",
+    "fetchedAt": "2026-09-18T06:00:31.493Z",
+    "body": "Salesforce applies accessibility research to evaluate and improve AI user experience design in real products.\n\nRead more from the original source: [makeitfable.com](https://makeitfable.com/article/how-salesforce-shapes-ai-ux-design)"
+  },
+  {
+    "title": "Accessible Archive From Pneuma Solutions",
+    "slug": "accessible-archive-from-pneuma-solutions-6fe59e94",
+    "lang": "en",
+    "summary": "Pneuma Solutions discusses challenges making large-scale archives accessible for blind and print-disabled users due to volume, unpredictable usage, legal pressures, and costly remediation, resulting in isolated accessible content.",
+    "category": "digital-a11y",
+    "tags": [
+      "archive",
+      "accessibility",
+      "blind",
+      "print-disabled",
+      "PDF",
+      "remediation"
+    ],
+    "sourceName": "at-newswire.com",
+    "sourceUrl": "https://at-newswire.com/accessible-archive-from-pneuma-solutions",
+    "relatedSources": [
+      {
+        "name": "at-newswire.com",
+        "url": "https://at-newswire.com/accessible-archive-from-pneuma-solutions"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://at-newswire.com/feed",
+    "ingestProvider": "at-newswire.com",
+    "clusterId": "cluster-6fe59e94",
+    "status": "published",
+    "translationOf": "accessible-archive-from-pneuma-solutions-zh-6fe59e94",
+    "publishedAt": "2026-01-01T05:03:38.000Z",
+    "fetchedAt": "2026-09-18T06:00:31.494Z",
+    "body": "Pneuma Solutions discusses challenges making large-scale archives accessible for blind and print-disabled users due to volume, unpredictable usage, legal pressures, and costly remediation, resulting in isolated accessible content.\n\nRead more from the original source: [at-newswire.com](https://at-newswire.com/accessible-archive-from-pneuma-solutions)"
+  },
+  {
+    "title": "Accessibility is the origin of human-centered design",
+    "slug": "accessibility-is-the-origin-of-human-centered-design-c52a3698",
+    "lang": "en",
+    "summary": "The article discusses how accessibility-driven innovations have become foundational to human-centered design, leading to inclusive UX principles that shape modern products.",
+    "category": "digital-a11y",
+    "tags": [
+      "human-centered design",
+      "inclusive design",
+      "UX principles",
+      "accessibility"
+    ],
+    "sourceName": "makeitfable.com",
+    "sourceUrl": "https://makeitfable.com/article/accessibility-is-the-origin-of-human-centered-design",
+    "relatedSources": [
+      {
+        "name": "makeitfable.com",
+        "url": "https://makeitfable.com/article/accessibility-is-the-origin-of-human-centered-design"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://makeitfable.com/feed",
+    "ingestProvider": "makeitfable.com",
+    "clusterId": "cluster-c52a3698",
+    "status": "published",
+    "translationOf": "accessibility-is-the-origin-of-human-centered-design-zh-c52a3698",
+    "publishedAt": "2026-01-09T15:39:28.000Z",
+    "fetchedAt": "2026-09-18T06:02:26.989Z",
+    "body": "The article discusses how accessibility-driven innovations have become foundational to human-centered design, leading to inclusive UX principles that shape modern products.\n\nRead more from the original source: [makeitfable.com](https://makeitfable.com/article/accessibility-is-the-origin-of-human-centered-design)"
+  },
+  {
+    "title": "Scribe From Pneuma Solutions",
+    "slug": "scribe-from-pneuma-solutions-f02e1197",
+    "lang": "en",
+    "summary": "The article critiques reactive document accessibility workflows, highlighting inefficiencies and advocating for proactive solutions like Scribe to ensure timely access for people with disabilities.",
+    "category": "assistive-tech",
+    "tags": [
+      "document accessibility",
+      "PDF remediation",
+      "assistive technology",
+      "workflow automation"
+    ],
+    "sourceName": "at-newswire.com",
+    "sourceUrl": "https://at-newswire.com/scribe-from-pneuma-solutions",
+    "relatedSources": [
+      {
+        "name": "at-newswire.com",
+        "url": "https://at-newswire.com/scribe-from-pneuma-solutions"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://at-newswire.com/feed",
+    "ingestProvider": "at-newswire.com",
+    "clusterId": "cluster-f02e1197",
+    "status": "published",
+    "translationOf": "scribe-from-pneuma-solutions-zh-f02e1197",
+    "publishedAt": "2026-01-01T05:02:30.000Z",
+    "fetchedAt": "2026-09-18T06:02:26.990Z",
+    "body": "The article critiques reactive document accessibility workflows, highlighting inefficiencies and advocating for proactive solutions like Scribe to ensure timely access for people with disabilities.\n\nRead more from the original source: [at-newswire.com](https://at-newswire.com/scribe-from-pneuma-solutions)"
   }
 ]

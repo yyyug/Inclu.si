@@ -421,5 +421,137 @@
     "publishedAt": "2026-03-05T08:00:00.000Z",
     "fetchedAt": "2026-06-27T12:44:29.576Z",
     "body": "台北市宣布2026年無障礙設施改善補助計畫，接受申請，旨在提升殘障人士的實體環境無障礙程度。\n\n原文來源： [AN不動產新聞網](https://annewsmedia.com/2026/03/05/regional-focus/16647)"
+  },
+  {
+    "title": "如何透過無障礙體驗設計解鎖商業價值與創新",
+    "slug": "how-accessible-experience-design-unlocks-business-value-and-innovation-zh-8d70d767",
+    "lang": "zh-TW",
+    "summary": "該文章討論將無障礙融入體驗設計如何推動商業價值與創新，引用 Fable 與 Design Executive Council 的報告。說明好處包括擴大市場覆蓋、提升使用者滿意度及獲得競爭優勢。",
+    "category": "digital-a11y",
+    "tags": [
+      "accessible design",
+      "experience design",
+      "business value",
+      "innovation",
+      "Fable",
+      "Design Executive Council"
+    ],
+    "sourceName": "makeitfable.com",
+    "sourceUrl": "https://makeitfable.com/article/fable-dxc-report",
+    "relatedSources": [
+      {
+        "name": "makeitfable.com",
+        "url": "https://makeitfable.com/article/fable-dxc-report"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://makeitfable.com/feed",
+    "ingestProvider": "makeitfable.com",
+    "clusterId": "cluster-8d70d767",
+    "status": "published",
+    "translationOf": "how-accessible-experience-design-unlocks-business-value-and-innovation-8d70d767",
+    "publishedAt": "2026-03-10T15:00:42.000Z",
+    "fetchedAt": "2026-09-18T05:51:24.053Z",
+    "body": "該文章討論將無障礙融入體驗設計如何推動商業價值與創新，引用 Fable 與 Design Executive Council 的報告。說明好處包括擴大市場覆蓋、提升使用者滿意度及獲得競爭優勢。\n\n原文來源： [makeitfable.com](https://makeitfable.com/article/fable-dxc-report)"
+  },
+  {
+    "title": "使用標準網路攝影機的新存取模型：為什麼 SensePilot 引起我的注意 — 以及為何輔助技術社區應該關注",
+    "slug": "a-standard-webcam-a-new-access-model-why-sensepilot-caught-my-attention-and-why--zh-deee4665",
+    "lang": "zh-TW",
+    "summary": "SensePilot 利用標準網路攝影機，透過頭部移動、面部表情與語音實現免手操作 Windows 控制，提供低成本、低複雜度的存取模型，有助於擴大輔助技術在輔助技術社區的應用。",
+    "category": "assistive-tech",
+    "tags": [
+      "hands-free",
+      "webcam",
+      "head movement",
+      "facial gestures",
+      "speech",
+      "assistive technology"
+    ],
+    "sourceName": "at-newswire.com",
+    "sourceUrl": "https://at-newswire.com/a-standard-webcam-a-new-access-model-sensepilot",
+    "relatedSources": [
+      {
+        "name": "at-newswire.com",
+        "url": "https://at-newswire.com/a-standard-webcam-a-new-access-model-sensepilot"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://at-newswire.com/feed",
+    "ingestProvider": "at-newswire.com",
+    "clusterId": "cluster-deee4665",
+    "status": "published",
+    "translationOf": "a-standard-webcam-a-new-access-model-why-sensepilot-caught-my-attention-and-why--deee4665",
+    "publishedAt": "2026-03-26T04:01:00.000Z",
+    "fetchedAt": "2026-09-18T05:54:31.225Z",
+    "body": "SensePilot 利用標準網路攝影機，透過頭部移動、面部表情與語音實現免手操作 Windows 控制，提供低成本、低複雜度的存取模型，有助於擴大輔助技術在輔助技術社區的應用。\n\n原文來源： [at-newswire.com](https://at-newswire.com/a-standard-webcam-a-new-access-model-sensepilot)"
+  },
+  {
+    "title": "2024 年 ADA 網頁無障礙規則仍然有效 —  — 為何大家突然感到緊張？",
+    "slug": "the-2024-ada-web-accessibility-rule-still-stands-so-why-is-everyone-suddenly-on--zh-923a4922",
+    "lang": "zh-TW",
+    "summary": "2024 年 ADA Title II 網頁無障礙規則對州和地方政府網站及行動應用程式仍然完全有效；WCAG 2.1 Level AA 仍是適用標準，合規期限未變，儘管司法部已改用更快速的 interim‑final‑rule 程序，這讓殘障倡議者、公共實體和供應商密切關注。",
+    "category": "laws-rights",
+    "tags": [
+      "ADA",
+      "web accessibility",
+      "WCAG 2.1",
+      "DOJ",
+      "interim-final-rule"
+    ],
+    "sourceName": "at-newswire.com",
+    "sourceUrl": "https://at-newswire.com/ada-title-ii-doj-moves-quietly",
+    "relatedSources": [
+      {
+        "name": "at-newswire.com",
+        "url": "https://at-newswire.com/ada-title-ii-doj-moves-quietly"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://at-newswire.com/feed",
+    "ingestProvider": "at-newswire.com",
+    "clusterId": "cluster-923a4922",
+    "status": "published",
+    "translationOf": "the-2024-ada-web-accessibility-rule-still-stands-so-why-is-everyone-suddenly-on--923a4922",
+    "publishedAt": "2026-03-17T05:04:29.000Z",
+    "fetchedAt": "2026-09-18T05:57:33.142Z",
+    "body": "2024 年 ADA Title II 網頁無障礙規則對州和地方政府網站及行動應用程式仍然完全有效；WCAG 2.1 Level AA 仍是適用標準，合規期限未變，儘管司法部已改用更快速的 interim‑final‑rule 程序，這讓殘障倡議者、公共實體和供應商密切關注。\n\n原文來源： [at-newswire.com](https://at-newswire.com/ada-title-ii-doj-moves-quietly)"
+  },
+  {
+    "title": "氛圍設計很酷。但它是否無障礙？",
+    "slug": "vibe-design-is-cool-but-is-it-accessible-zh-cf93fd5f",
+    "lang": "zh-TW",
+    "summary": "Google 最近對其 AI 設計工具 Stitch 進行了全面改版。概念很簡單：描述你想要的東西，或大聲說出來……",
+    "category": "digital-a11y",
+    "tags": [],
+    "sourceName": "pneumasolutions.com",
+    "sourceUrl": "https://pneumasolutions.com/vibe-design-is-cool-but-is-it-accessible",
+    "relatedSources": [
+      {
+        "name": "pneumasolutions.com",
+        "url": "https://pneumasolutions.com/vibe-design-is-cool-but-is-it-accessible"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://pneumasolutions.com/feed",
+    "ingestProvider": "pneumasolutions.com",
+    "clusterId": "cluster-cf93fd5f",
+    "status": "published",
+    "translationOf": "vibe-design-is-cool-but-is-it-accessible-cf93fd5f",
+    "publishedAt": "2026-03-20T22:14:48.000Z",
+    "fetchedAt": "2026-09-18T06:01:40.806Z",
+    "body": "Google 最近對其 AI 設計工具 Stitch 進行了全面改版。概念很簡單：描述你想要的東西，或大聲說出來……\n\n原文來源： [pneumasolutions.com](https://pneumasolutions.com/vibe-design-is-cool-but-is-it-accessible)"
   }
 ]

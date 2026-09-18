@@ -6409,5 +6409,206 @@
     "publishedAt": "2026-04-01T19:57:57.000Z",
     "fetchedAt": "2026-09-18T02:49:21.681Z",
     "body": "來自 Target、華納音樂集團、美國銀行和 Cigna 集團的七位資深設計領袖分享研究、框架與建議，說明無障礙如何為企業創造價值。\n\n原文來源： [makeitfable.com](https://makeitfable.com/article/design-executive-council-accessibility-advantage-enterprise-product-development)"
+  },
+  {
+    "title": "CJAM 99.1 FM：18 年、一支麥克風與使命：Cam Wells 如何打造加拿大歷時最長的殘障廣播節目",
+    "slug": "cjam-991-fm-18-years-one-microphone-and-a-mission-how-cam-wells-built-canadas-lo-zh-87b3d6bf",
+    "lang": "zh-TW",
+    "summary": "該文章介紹 CJAM 99.1 FM 節目 Handi-Link 的主持人 Cam Wells，該節目為加拿大歷時最長的殘障廣播節目。文中敘述他 18 年來的經驗、對殘障倡導的貢獻、共同撰寫 NCRA 全國 disAbilities 手冊、開發無障礙多元課程，以及他在多個組織中的持續工作。",
+    "category": "case-studies",
+    "tags": [
+      "disability radio",
+      "Cam Wells",
+      "CJAM 99.1 FM",
+      "Handi-Link",
+      "disability advocacy",
+      "NCRA disAbilities Handbook",
+      "Accessible Diversity curriculum"
+    ],
+    "sourceName": "at-newswire.com",
+    "sourceUrl": "https://at-newswire.com/cjam-99-1-fm-cam-wells-disability-radio-program",
+    "relatedSources": [
+      {
+        "name": "at-newswire.com",
+        "url": "https://at-newswire.com/cjam-99-1-fm-cam-wells-disability-radio-program"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://at-newswire.com/feed",
+    "ingestProvider": "at-newswire.com",
+    "clusterId": "cluster-87b3d6bf",
+    "status": "published",
+    "translationOf": "cjam-991-fm-18-years-one-microphone-and-a-mission-how-cam-wells-built-canadas-lo-87b3d6bf",
+    "publishedAt": "2026-04-10T05:25:12.000Z",
+    "fetchedAt": "2026-09-18T05:51:24.055Z",
+    "body": "該文章介紹 CJAM 99.1 FM 節目 Handi-Link 的主持人 Cam Wells，該節目為加拿大歷時最長的殘障廣播節目。文中敘述他 18 年來的經驗、對殘障倡導的貢獻、共同撰寫 NCRA 全國 disAbilities 手冊、開發無障礙多元課程，以及他在多個組織中的持續工作。\n\n原文來源： [at-newswire.com](https://at-newswire.com/cjam-99-1-fm-cam-wells-disability-radio-program)"
+  },
+  {
+    "title": "在華盛頓的實地工作：繼續為公平就業而戰",
+    "slug": "on-the-ground-in-washington-continuing-the-fight-for-fair-employment-zh-c8e5f2e6",
+    "lang": "zh-TW",
+    "summary": "NOD 企業與政府關係副總裁 Charles-Edouard Catherine 回顧最近前往華盛頓特區的倡導之旅，指出殘障就業的有意義改變來自於與政策制定者、機構領導及其他倡導者的幕後持續參與，而非僅靠頭條新聞。",
+    "category": "laws-rights",
+    "tags": [
+      "disability employment",
+      "advocacy",
+      "ADA",
+      "policy"
+    ],
+    "sourceName": "nod.org",
+    "sourceUrl": "https://nod.org/news/on-the-ground-in-washington-continuing-the-fight-for-fair-employment",
+    "relatedSources": [
+      {
+        "name": "nod.org",
+        "url": "https://nod.org/news/on-the-ground-in-washington-continuing-the-fight-for-fair-employment"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://nod.org/feed",
+    "ingestProvider": "nod.org",
+    "clusterId": "cluster-c8e5f2e6",
+    "status": "published",
+    "translationOf": "on-the-ground-in-washington-continuing-the-fight-for-fair-employment-c8e5f2e6",
+    "publishedAt": "2026-04-30T14:10:10.000Z",
+    "fetchedAt": "2026-09-18T05:55:55.926Z",
+    "body": "NOD 企業與政府關係副總裁 Charles-Edouard Catherine 回顧最近前往華盛頓特區的倡導之旅，指出殘障就業的有意義改變來自於與政策制定者、機構領導及其他倡導者的幕後持續參與，而非僅靠頭條新聞。\n\n原文來源： [nod.org](https://nod.org/news/on-the-ground-in-washington-continuing-the-fight-for-fair-employment)"
+  },
+  {
+    "title": "Title II 期限已延長。別讓自己掉以輕心。",
+    "slug": "the-title-ii-deadline-was-extended-dont-get-comfortable-zh-a7061995",
+    "lang": "zh-TW",
+    "summary": "2026年4月20日，美國司法部正式延長 ADA Title II 網頁無障礙的合規期限，提醒大家不要因此放鬆，仍需持續努力確保無障礙。",
+    "category": "digital-a11y",
+    "tags": [
+      "ADA",
+      "Title II",
+      "web accessibility",
+      "deadline extension",
+      "DOJ"
+    ],
+    "sourceName": "pneumasolutions.com",
+    "sourceUrl": "https://pneumasolutions.com/the-title-ii-deadline-was-extended-dont-get-comfortable",
+    "relatedSources": [
+      {
+        "name": "pneumasolutions.com",
+        "url": "https://pneumasolutions.com/the-title-ii-deadline-was-extended-dont-get-comfortable"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://pneumasolutions.com/feed",
+    "ingestProvider": "pneumasolutions.com",
+    "clusterId": "cluster-a7061995",
+    "status": "published",
+    "translationOf": "the-title-ii-deadline-was-extended-dont-get-comfortable-a7061995",
+    "publishedAt": "2026-04-20T19:34:07.000Z",
+    "fetchedAt": "2026-09-18T05:55:55.941Z",
+    "body": "2026年4月20日，美國司法部正式延長 ADA Title II 網頁無障礙的合規期限，提醒大家不要因此放鬆，仍需持續努力確保無障礙。\n\n原文來源： [pneumasolutions.com](https://pneumasolutions.com/the-title-ii-deadline-was-extended-dont-get-comfortable)"
+  },
+  {
+    "title": "我為何從事這項工作？",
+    "slug": "why-do-i-do-the-work-i-do-zh-579b48e9",
+    "lang": "zh-TW",
+    "summary": "NOD 總裁兼 CEO Beth Sirull 回顧她以經濟自立為自由的職業生涯，以及推動工作場所殘疾包容如何同時惠及個人與企業。",
+    "category": "laws-rights",
+    "tags": [
+      "disability inclusion",
+      "career reflection",
+      "National Organization on Disability"
+    ],
+    "sourceName": "nod.org",
+    "sourceUrl": "https://nod.org/news/why-do-i-do-the-work-i-do",
+    "relatedSources": [
+      {
+        "name": "nod.org",
+        "url": "https://nod.org/news/why-do-i-do-the-work-i-do"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://nod.org/feed",
+    "ingestProvider": "nod.org",
+    "clusterId": "cluster-579b48e9",
+    "status": "published",
+    "translationOf": "why-do-i-do-the-work-i-do-579b48e9",
+    "publishedAt": "2026-04-23T15:05:40.000Z",
+    "fetchedAt": "2026-09-18T05:58:55.235Z",
+    "body": "NOD 總裁兼 CEO Beth Sirull 回顧她以經濟自立為自由的職業生涯，以及推動工作場所殘疾包容如何同時惠及個人與企業。\n\n原文來源： [nod.org](https://nod.org/news/why-do-i-do-the-work-i-do)"
+  },
+  {
+    "title": "讓法院檔案在進入系統時即可無障礙",
+    "slug": "making-court-filings-accessible-the-moment-they-enter-the-system-zh-0ac34131",
+    "lang": "zh-TW",
+    "summary": "Pneuma Solutions 推出 Accessible Archive 服務，用於法院電子檔案入口，結合 Augmented Media Remediation 技術，確保文件在進入系統時即具無障礙性。",
+    "category": "digital-a11y",
+    "tags": [
+      "court",
+      "e-filing",
+      "digital accessibility",
+      "accessible archive",
+      "augmented media remediation"
+    ],
+    "sourceName": "pneumasolutions.com",
+    "sourceUrl": "https://pneumasolutions.com/making-court-filings-accessible-the-moment-they-enter-the-system",
+    "relatedSources": [
+      {
+        "name": "pneumasolutions.com",
+        "url": "https://pneumasolutions.com/making-court-filings-accessible-the-moment-they-enter-the-system"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://pneumasolutions.com/feed",
+    "ingestProvider": "pneumasolutions.com",
+    "clusterId": "cluster-0ac34131",
+    "status": "published",
+    "translationOf": "making-court-filings-accessible-the-moment-they-enter-the-system-0ac34131",
+    "publishedAt": "2026-04-17T17:11:57.000Z",
+    "fetchedAt": "2026-09-18T05:59:18.838Z",
+    "body": "Pneuma Solutions 推出 Accessible Archive 服務，用於法院電子檔案入口，結合 Augmented Media Remediation 技術，確保文件在進入系統時即具無障礙性。\n\n原文來源： [pneumasolutions.com](https://pneumasolutions.com/making-court-filings-accessible-the-moment-they-enter-the-system)"
+  },
+  {
+    "title": "國家殘障組織歡迎三位新領導人加入董事會",
+    "slug": "national-organization-on-disability-welcomes-three-new-leaders-to-board-of-direc-zh-58d67e98",
+    "lang": "zh-TW",
+    "summary": "國家殘障組織宣布任命三位新領導人進入董事會，以加強治理與殘障包容的倡導工作。",
+    "category": "general",
+    "tags": [
+      "National Organization on Disability",
+      "board",
+      "leadership"
+    ],
+    "sourceName": "nod.org",
+    "sourceUrl": "https://nod.org/news/national-organization-on-disability-welcomes-three-new-leaders-to-board-of-directors",
+    "relatedSources": [
+      {
+        "name": "nod.org",
+        "url": "https://nod.org/news/national-organization-on-disability-welcomes-three-new-leaders-to-board-of-directors"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://nod.org/feed",
+    "ingestProvider": "nod.org",
+    "clusterId": "cluster-58d67e98",
+    "status": "published",
+    "translationOf": "national-organization-on-disability-welcomes-three-new-leaders-to-board-of-direc-58d67e98",
+    "publishedAt": "2026-04-01T14:00:11.000Z",
+    "fetchedAt": "2026-09-18T06:00:50.082Z",
+    "body": "國家殘障組織宣布任命三位新領導人進入董事會，以加強治理與殘障包容的倡導工作。\n\n原文來源： [nod.org](https://nod.org/news/national-organization-on-disability-welcomes-three-new-leaders-to-board-of-directors)"
   }
 ]

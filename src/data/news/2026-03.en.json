@@ -421,5 +421,137 @@
     "publishedAt": "2026-03-05T08:00:00.000Z",
     "fetchedAt": "2026-06-27T12:44:29.576Z",
     "body": "Taipei announces a 2026 subsidy program to improve accessibility facilities, inviting applications from property owners and developers to enhance physical access for people with disabilities.\n\nRead more from the original source: [AN不動產新聞網](https://annewsmedia.com/2026/03/05/regional-focus/16647)"
+  },
+  {
+    "title": "How accessible experience design unlocks business value and innovation",
+    "slug": "how-accessible-experience-design-unlocks-business-value-and-innovation-8d70d767",
+    "lang": "en",
+    "summary": "The article discusses how integrating accessibility into experience design drives business value and innovation, citing a report by Fable and Design Executive Council. It highlights benefits such as expanded market reach, improved user satisfaction, and competitive advantage.",
+    "category": "digital-a11y",
+    "tags": [
+      "accessible design",
+      "experience design",
+      "business value",
+      "innovation",
+      "Fable",
+      "Design Executive Council"
+    ],
+    "sourceName": "makeitfable.com",
+    "sourceUrl": "https://makeitfable.com/article/fable-dxc-report",
+    "relatedSources": [
+      {
+        "name": "makeitfable.com",
+        "url": "https://makeitfable.com/article/fable-dxc-report"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://makeitfable.com/feed",
+    "ingestProvider": "makeitfable.com",
+    "clusterId": "cluster-8d70d767",
+    "status": "published",
+    "translationOf": "how-accessible-experience-design-unlocks-business-value-and-innovation-zh-8d70d767",
+    "publishedAt": "2026-03-10T15:00:42.000Z",
+    "fetchedAt": "2026-09-18T05:51:24.053Z",
+    "body": "The article discusses how integrating accessibility into experience design drives business value and innovation, citing a report by Fable and Design Executive Council. It highlights benefits such as expanded market reach, improved user satisfaction, and competitive advantage.\n\nRead more from the original source: [makeitfable.com](https://makeitfable.com/article/fable-dxc-report)"
+  },
+  {
+    "title": "A Standard Webcam, A New Access Model: Why SensePilot Caught My Attention — And Why the AT Community Should Be Watching",
+    "slug": "a-standard-webcam-a-new-access-model-why-sensepilot-caught-my-attention-and-why--deee4665",
+    "lang": "en",
+    "summary": "SensePilot uses a standard webcam to enable hands‑free Windows control via head movement, facial gestures and speech, offering a low‑cost, low‑complexity access model that could scale assistive technology for the AT community.",
+    "category": "assistive-tech",
+    "tags": [
+      "hands-free",
+      "webcam",
+      "head movement",
+      "facial gestures",
+      "speech",
+      "assistive technology"
+    ],
+    "sourceName": "at-newswire.com",
+    "sourceUrl": "https://at-newswire.com/a-standard-webcam-a-new-access-model-sensepilot",
+    "relatedSources": [
+      {
+        "name": "at-newswire.com",
+        "url": "https://at-newswire.com/a-standard-webcam-a-new-access-model-sensepilot"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://at-newswire.com/feed",
+    "ingestProvider": "at-newswire.com",
+    "clusterId": "cluster-deee4665",
+    "status": "published",
+    "translationOf": "a-standard-webcam-a-new-access-model-why-sensepilot-caught-my-attention-and-why--zh-deee4665",
+    "publishedAt": "2026-03-26T04:01:00.000Z",
+    "fetchedAt": "2026-09-18T05:54:31.225Z",
+    "body": "SensePilot uses a standard webcam to enable hands‑free Windows control via head movement, facial gestures and speech, offering a low‑cost, low‑complexity access model that could scale assistive technology for the AT community.\n\nRead more from the original source: [at-newswire.com](https://at-newswire.com/a-standard-webcam-a-new-access-model-sensepilot)"
+  },
+  {
+    "title": "The 2024 ADA Web Accessibility Rule Still Stands — So Why Is Everyone Suddenly on Edge?",
+    "slug": "the-2024-ada-web-accessibility-rule-still-stands-so-why-is-everyone-suddenly-on--923a4922",
+    "lang": "en",
+    "summary": "The 2024 ADA Title II web accessibility rule for state and local government websites and mobile apps remains fully in force; WCAG 2.1 Level AA is still the operative standard and compliance deadlines have not changed, though the DOJ has shifted to a faster interim-final-rule process, causing concern among advocates.",
+    "category": "laws-rights",
+    "tags": [
+      "ADA",
+      "web accessibility",
+      "WCAG 2.1",
+      "DOJ",
+      "interim-final-rule"
+    ],
+    "sourceName": "at-newswire.com",
+    "sourceUrl": "https://at-newswire.com/ada-title-ii-doj-moves-quietly",
+    "relatedSources": [
+      {
+        "name": "at-newswire.com",
+        "url": "https://at-newswire.com/ada-title-ii-doj-moves-quietly"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://at-newswire.com/feed",
+    "ingestProvider": "at-newswire.com",
+    "clusterId": "cluster-923a4922",
+    "status": "published",
+    "translationOf": "the-2024-ada-web-accessibility-rule-still-stands-so-why-is-everyone-suddenly-on--zh-923a4922",
+    "publishedAt": "2026-03-17T05:04:29.000Z",
+    "fetchedAt": "2026-09-18T05:57:33.142Z",
+    "body": "The 2024 ADA Title II web accessibility rule for state and local government websites and mobile apps remains fully in force; WCAG 2.1 Level AA is still the operative standard and compliance deadlines have not changed, though the DOJ has shifted to a faster interim-final-rule process, causing concern among advocates.\n\nRead more from the original source: [at-newswire.com](https://at-newswire.com/ada-title-ii-doj-moves-quietly)"
+  },
+  {
+    "title": "Vibe Design Is Cool. But Is It Accessible?",
+    "slug": "vibe-design-is-cool-but-is-it-accessible-cf93fd5f",
+    "lang": "en",
+    "summary": "Google just overhauled its AI design tool, Stitch. The pitch is simple. Describe what you want, or say it out...",
+    "category": "digital-a11y",
+    "tags": [],
+    "sourceName": "pneumasolutions.com",
+    "sourceUrl": "https://pneumasolutions.com/vibe-design-is-cool-but-is-it-accessible",
+    "relatedSources": [
+      {
+        "name": "pneumasolutions.com",
+        "url": "https://pneumasolutions.com/vibe-design-is-cool-but-is-it-accessible"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://pneumasolutions.com/feed",
+    "ingestProvider": "pneumasolutions.com",
+    "clusterId": "cluster-cf93fd5f",
+    "status": "published",
+    "translationOf": "vibe-design-is-cool-but-is-it-accessible-zh-cf93fd5f",
+    "publishedAt": "2026-03-20T22:14:48.000Z",
+    "fetchedAt": "2026-09-18T06:01:40.806Z",
+    "body": "Google just overhauled its AI design tool, Stitch. The pitch is simple. Describe what you want, or say it out...\n\nRead more from the original source: [pneumasolutions.com](https://pneumasolutions.com/vibe-design-is-cool-but-is-it-accessible)"
   }
 ]

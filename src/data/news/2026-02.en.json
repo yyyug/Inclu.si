@@ -188,5 +188,70 @@
     "publishedAt": "2026-02-09T11:37:37.000Z",
     "fetchedAt": "2026-08-25T01:52:07.239Z",
     "body": "Yunlin County has introduced an additional large rehabilitation bus to its fleet, enhancing accessible transportation options for people with disabilities.\n\nRead more from the original source: [yunlin.gov.tw](https://www.yunlin.gov.tw/News_Content.aspx?n=1244&s=580923)"
+  },
+  {
+    "title": "How to operationalize your Accessible Canada Act commitments",
+    "slug": "how-to-operationalize-your-accessible-canada-act-commitments-9963649c",
+    "lang": "en",
+    "summary": "The Accessible Canada Act (ACA) is evolving as teams implement initial plans; the article outlines common execution gaps and offers five practical steps to remove barriers and drive measurable progress.",
+    "category": "laws-rights",
+    "tags": [
+      "Accessible Canada Act",
+      "legislation",
+      "compliance",
+      "barrier removal"
+    ],
+    "sourceName": "makeitfable.com",
+    "sourceUrl": "https://makeitfable.com/article/accessible-canada-act",
+    "relatedSources": [
+      {
+        "name": "makeitfable.com",
+        "url": "https://makeitfable.com/article/accessible-canada-act"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://makeitfable.com/feed",
+    "ingestProvider": "makeitfable.com",
+    "clusterId": "cluster-9963649c",
+    "status": "published",
+    "translationOf": "how-to-operationalize-your-accessible-canada-act-commitments-zh-9963649c",
+    "publishedAt": "2026-02-25T01:05:06.000Z",
+    "fetchedAt": "2026-09-18T05:54:31.224Z",
+    "body": "The Accessible Canada Act (ACA) is evolving as teams implement initial plans; the article outlines common execution gaps and offers five practical steps to remove barriers and drive measurable progress.\n\nRead more from the original source: [makeitfable.com](https://makeitfable.com/article/accessible-canada-act)"
+  },
+  {
+    "title": "Page Audits",
+    "slug": "page-audits-1e26988d",
+    "lang": "en",
+    "summary": "The service provides WCAG accessibility audits and VPAT reports, performed by testers with disabilities to ensure authentic accessibility evaluation.",
+    "category": "digital-a11y",
+    "tags": [
+      "WCAG",
+      "VPAT",
+      "audit"
+    ],
+    "sourceName": "makeitfable.com",
+    "sourceUrl": "https://makeitfable.com/tutorial/page-audits",
+    "relatedSources": [
+      {
+        "name": "makeitfable.com",
+        "url": "https://makeitfable.com/tutorial/page-audits"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://makeitfable.com/feed",
+    "ingestProvider": "makeitfable.com",
+    "clusterId": "cluster-1e26988d",
+    "status": "published",
+    "translationOf": "page-audits-zh-1e26988d",
+    "publishedAt": "2026-02-04T22:36:16.000Z",
+    "fetchedAt": "2026-09-18T05:57:12.739Z",
+    "body": "The service provides WCAG accessibility audits and VPAT reports, performed by testers with disabilities to ensure authentic accessibility evaluation.\n\nRead more from the original source: [makeitfable.com](https://makeitfable.com/tutorial/page-audits)"
   }
 ]
