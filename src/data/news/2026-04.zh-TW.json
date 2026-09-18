@@ -6348,5 +6348,66 @@
     "publishedAt": "2026-04-01T07:00:00.000Z",
     "fetchedAt": "2026-08-25T01:52:28.485Z",
     "body": "台中市升級無障礙交通，推出聽見綠燈聲音2.0，結合手機APP與藍牙自動感應，協助視障人士過馬路。\n\n原文來源： [taichung.gov.tw](https://www.taichung.gov.tw/8868/8872/9962/3245282)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "ai-insights-zh-1abb271a",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "makeitfable.com",
+    "sourceUrl": "https://makeitfable.com/tutorial/ai-insights",
+    "relatedSources": [
+      {
+        "name": "makeitfable.com",
+        "url": "https://makeitfable.com/tutorial/ai-insights"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://makeitfable.com/feed",
+    "ingestProvider": "makeitfable.com",
+    "clusterId": "cluster-1abb271a",
+    "status": "draft",
+    "translationOf": "ai-insights-1abb271a",
+    "publishedAt": "2026-04-16T20:37:47.000Z",
+    "fetchedAt": "2026-09-18T02:47:43.430Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [makeitfable.com](https://makeitfable.com/tutorial/ai-insights)"
+  },
+  {
+    "title": "設計領袖解析無障礙如何釋放商業價值",
+    "slug": "design-leaders-unpack-how-accessibility-unlocks-business-value-zh-b4168758",
+    "lang": "zh-TW",
+    "summary": "來自 Target、華納音樂集團、美國銀行和 Cigna 集團的七位資深設計領袖分享研究、框架與建議，說明無障礙如何為企業創造價值。",
+    "category": "digital-a11y",
+    "tags": [
+      "design",
+      "business value",
+      "accessibility",
+      "enterprise"
+    ],
+    "sourceName": "makeitfable.com",
+    "sourceUrl": "https://makeitfable.com/article/design-executive-council-accessibility-advantage-enterprise-product-development",
+    "relatedSources": [
+      {
+        "name": "makeitfable.com",
+        "url": "https://makeitfable.com/article/design-executive-council-accessibility-advantage-enterprise-product-development"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://makeitfable.com/feed",
+    "ingestProvider": "makeitfable.com",
+    "clusterId": "cluster-b4168758",
+    "status": "published",
+    "translationOf": "design-leaders-unpack-how-accessibility-unlocks-business-value-b4168758",
+    "publishedAt": "2026-04-01T19:57:57.000Z",
+    "fetchedAt": "2026-09-18T02:49:21.681Z",
+    "body": "來自 Target、華納音樂集團、美國銀行和 Cigna 集團的七位資深設計領袖分享研究、框架與建議，說明無障礙如何為企業創造價值。\n\n原文來源： [makeitfable.com](https://makeitfable.com/article/design-executive-council-accessibility-advantage-enterprise-product-development)"
   }
 ]

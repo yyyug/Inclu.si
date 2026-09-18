@@ -41933,6 +41933,7 @@
     "body": "A social media post describes an encounter with a person with a disability playing the rhythm game Taiko no Tatsujin.\nTweet source: [ミケ2 (@11i4b)](https://x.com/11i4b/status/2100629731263779029)"
   },
   {
+<<<<<<< Updated upstream
     "title": "Accessibility requires increased communication",
     "slug": "accessibility-requires-increased-communication-55973c38",
     "lang": "en",
@@ -42147,12 +42148,31 @@
       {
         "name": "Unknown source",
         "url": "https://www.disabled-world.com/communication/religion/hyperreligiosity.php"
+=======
+    "title": "Introducing Remote Incident Manager’s Mobile Debut!",
+    "slug": "introducing-remote-incident-managers-mobile-debut-06962c89",
+    "lang": "en",
+    "summary": "Remote Incident Manager launches its mobile version, marking the world's first fully accessible remote support software as it celebrates its fourth anniversary.",
+    "category": "digital-a11y",
+    "tags": [
+      "remote support",
+      "accessible software",
+      "mobile debut"
+    ],
+    "sourceName": "pneumasolutions.com",
+    "sourceUrl": "https://pneumasolutions.com/introducing-remote-incident-managers-mobile-debut",
+    "relatedSources": [
+      {
+        "name": "pneumasolutions.com",
+        "url": "https://pneumasolutions.com/introducing-remote-incident-managers-mobile-debut"
+>>>>>>> Stashed changes
       }
     ],
     "sourceCountry": null,
     "queryRegion": null,
     "region": null,
     "ingestType": "rss",
+<<<<<<< Updated upstream
     "ingestSource": "https://www.disabled-world.com/news.xml",
     "ingestProvider": "disabled-world.com",
     "clusterId": "cluster-6396913c",
@@ -42195,5 +42215,838 @@
     "publishedAt": "2026-09-16T22:00:00.000Z",
     "fetchedAt": "2026-09-18T02:43:29.089Z",
     "body": "Highlights how mainstream UK media target young disabled women, critiquing the labeling of “sickfluencers” as turning chronic illness into a lifestyle trend, while they continue to encounter medical sexism despite disability justice advocacy.\n\nRead more from the original source: [Ms. Magazine](https://msmagazine.com/2026/09/16/disabled-women-sick-influencers-medical-sexism-social-media)"
+=======
+    "ingestSource": "https://pneumasolutions.com/feed",
+    "ingestProvider": "pneumasolutions.com",
+    "clusterId": "cluster-06962c89",
+    "status": "published",
+    "translationOf": "introducing-remote-incident-managers-mobile-debut-zh-06962c89",
+    "publishedAt": "2026-09-11T15:59:00.000Z",
+    "fetchedAt": "2026-09-18T02:40:54.705Z",
+    "body": "Remote Incident Manager launches its mobile version, marking the world's first fully accessible remote support software as it celebrates its fourth anniversary.\n\nRead more from the original source: [pneumasolutions.com](https://pneumasolutions.com/introducing-remote-incident-managers-mobile-debut)"
+  },
+  {
+    "title": "National ADA Symposium Takeaway #4: What should an extra year accomplish in meeting Digital Compliance?",
+    "slug": "national-ada-symposium-takeaway-4-what-should-an-extra-year-accomplish-in-meetin-58ab49cb",
+    "lang": "en",
+    "summary": "At the National ADA Symposium, experts discuss how an extra year could be used to meet digital accessibility compliance deadlines, addressing challenges such as content backlog, staff shortages, and budget constraints.",
+    "category": "digital-a11y",
+    "tags": [
+      "ADA",
+      "digital compliance",
+      "symposium"
+    ],
+    "sourceName": "brailleworks.com",
+    "sourceUrl": "https://brailleworks.com/national-ada-symposium-extra-year-digital-compliance",
+    "relatedSources": [
+      {
+        "name": "brailleworks.com",
+        "url": "https://brailleworks.com/national-ada-symposium-extra-year-digital-compliance"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://brailleworks.com/feed",
+    "ingestProvider": "brailleworks.com",
+    "clusterId": "cluster-58ab49cb",
+    "status": "published",
+    "translationOf": "national-ada-symposium-takeaway-4-what-should-an-extra-year-accomplish-in-meetin-zh-58ab49cb",
+    "publishedAt": "2026-09-10T14:00:00.000Z",
+    "fetchedAt": "2026-09-18T02:40:54.777Z",
+    "body": "At the National ADA Symposium, experts discuss how an extra year could be used to meet digital accessibility compliance deadlines, addressing challenges such as content backlog, staff shortages, and budget constraints.\n\nRead more from the original source: [brailleworks.com](https://brailleworks.com/national-ada-symposium-extra-year-digital-compliance)"
+  },
+  {
+    "title": "Genio Notes | Note-Taking and Study Tools",
+    "slug": "genio-notes-note-taking-and-study-tools-35eda810",
+    "lang": "en",
+    "summary": "A blog post examines Genio Notes, a note-taking app that integrates audio recording, slides, annotations, tasks, and study tools to support learning and accessibility.",
+    "category": "assistive-tech",
+    "tags": [
+      "note-taking",
+      "audio recording",
+      "study tools",
+      "accessibility"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/genio-notes-note-taking-and-study-tools",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/genio-notes-note-taking-and-study-tools"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-35eda810",
+    "status": "published",
+    "translationOf": "genio-notes-note-taking-and-study-tools-zh-35eda810",
+    "publishedAt": "2026-09-16T14:00:19.000Z",
+    "fetchedAt": "2026-09-18T02:41:34.589Z",
+    "body": "A blog post examines Genio Notes, a note-taking app that integrates audio recording, slides, annotations, tasks, and study tools to support learning and accessibility.\n\nRead more from the original source: [theaccessibilityguy.com](https://theaccessibilityguy.com/genio-notes-note-taking-and-study-tools)"
+  },
+  {
+    "title": "How a Functional Vision Assessment Can Help You Maintain Independence",
+    "slug": "how-a-functional-vision-assessment-can-help-you-maintain-independence-ff99cfba",
+    "lang": "en",
+    "summary": "The article explains how a functional vision assessment evaluates remaining vision use for people with low vision, helping them maintain independence in daily activities.",
+    "category": "assistive-tech",
+    "tags": [
+      "low vision",
+      "vision assessment",
+      "independence",
+      "assistive technology"
+    ],
+    "sourceName": "lhblind.org",
+    "sourceUrl": "https://lhblind.org/how-a-functional-vision-assessment-can-help-you-maintain-independence",
+    "relatedSources": [
+      {
+        "name": "lhblind.org",
+        "url": "https://lhblind.org/how-a-functional-vision-assessment-can-help-you-maintain-independence"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://lhblind.org/feed",
+    "ingestProvider": "lhblind.org",
+    "clusterId": "cluster-ff99cfba",
+    "status": "published",
+    "translationOf": "how-a-functional-vision-assessment-can-help-you-maintain-independence-zh-ff99cfba",
+    "publishedAt": "2026-09-11T01:06:14.000Z",
+    "fetchedAt": "2026-09-18T02:41:34.644Z",
+    "body": "The article explains how a functional vision assessment evaluates remaining vision use for people with low vision, helping them maintain independence in daily activities.\n\nRead more from the original source: [lhblind.org](https://lhblind.org/how-a-functional-vision-assessment-can-help-you-maintain-independence)"
+  },
+  {
+    "title": "Smart Locks, Braille and the iPhone 18: Blind Listeners Weigh In",
+    "slug": "smart-locks-braille-and-the-iphone-18-blind-listeners-weigh-in-a954e9c7",
+    "lang": "en",
+    "summary": "Blind listeners discuss their experiences with Meta Ray-Ban glasses, OOrion, smart locks, braille, and evaluate Siri AI in iOS 27 and the value of the iPhone 18.",
+    "category": "assistive-tech",
+    "tags": [
+      "blindness",
+      "smart locks",
+      "braille",
+      "iPhone",
+      "assistive technology"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/smart-locks-braille-and-the-iphone-18-blind-listeners-weigh-in-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/smart-locks-braille-and-the-iphone-18-blind-listeners-weigh-in-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-a954e9c7",
+    "status": "published",
+    "translationOf": "smart-locks-braille-and-the-iphone-18-blind-listeners-weigh-in-zh-a954e9c7",
+    "publishedAt": "2026-09-17T16:00:01.000Z",
+    "fetchedAt": "2026-09-18T02:41:34.706Z",
+    "body": "Blind listeners discuss their experiences with Meta Ray-Ban glasses, OOrion, smart locks, braille, and evaluate Siri AI in iOS 27 and the value of the iPhone 18.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/smart-locks-braille-and-the-iphone-18-blind-listeners-weigh-in-2)"
+  },
+  {
+    "title": "NVDA 2026.3beta2 available for testing",
+    "slug": "nvda-20263beta2-available-for-testing-09111282",
+    "lang": "en",
+    "summary": "NVDA 2026.3 beta2 is released for public testing, inviting users to try the upcoming features of the NVDA screen reader and submit feedback via the issue reporting system.",
+    "category": "assistive-tech",
+    "tags": [
+      "NVDA",
+      "screen reader",
+      "beta",
+      "assistive technology",
+      "accessibility"
+    ],
+    "sourceName": "nvaccess.org",
+    "sourceUrl": "https://www.nvaccess.org/post/nvda-2026-3beta2",
+    "relatedSources": [
+      {
+        "name": "nvaccess.org",
+        "url": "https://www.nvaccess.org/post/nvda-2026-3beta2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://nvaccess.org/rss",
+    "ingestProvider": "nvaccess.org",
+    "clusterId": "cluster-09111282",
+    "status": "published",
+    "translationOf": "nvda-20263beta2-available-for-testing-zh-09111282",
+    "publishedAt": "2026-09-14T03:53:06.000Z",
+    "fetchedAt": "2026-09-18T02:43:40.551Z",
+    "body": "NVDA 2026.3 beta2 is released for public testing, inviting users to try the upcoming features of the NVDA screen reader and submit feedback via the issue reporting system.\n\nRead more from the original source: [nvaccess.org](https://www.nvaccess.org/post/nvda-2026-3beta2)"
+  },
+  {
+    "title": "iPhone 18 Pro: Hands-On and Initial Impressions",
+    "slug": "iphone-18-pro-hands-on-and-initial-impressions-8eb28234",
+    "lang": "en",
+    "summary": "iPhone 18 Pro and iPhone 18 Pro Max will be available to customers on Friday, September 18, 2026.  Ahead of the launch, Apple sent me an iPhone 18 Pro for review.  While a full review will come once I’ve had the opportunity to live with iPhone 18 Pro for a while, I do have some initial impressions that I wanted to share.\nFirst, and perhaps most noticeably, iPhone 18 Pro has what I would describe as a really big sound for its size.  When compared side-by-side to iPhone 17 Pro Max—a device much larger and, presumably, with a bigger bottom speaker—iPhone 18 Pro sounds warmer, fuller, and lacks the treble over-emphasis I observed on the iPhone 17 Pro Max.  If I had to describe the sound of iPhone 18 Pro, it would be ‘more complete’.\nAnd I do not think it is just software-side equalization: even at a relatively low 25% volume, iPhone 18 Pro has more bass and overall ‘presence’.  My best guess is that Apple has made some hardware changes to the speaker on iPhone 18 Pro, and hopefully the iPhone 18 Pro Max too.  One last note on sound for now: the earpiece speaker sounds warmer and fuller, as well.\nBeyond the speaker, iPhone 18 Pro contains some useful under-the-hood improvements, one of which I was not expecting to notice.  Compared to last year’s models, iPhone 18 Pro has a larger vaper chamber inside the device for added cooling capacity.  This is not just something you hear about at a Keynote and that's the end of it: picking up iPhone 18 Pro on multiple occasions, I noticed how literally 'cool' it felt to the touch.  And even after multiple long phone calls on two different occasions, iPhone 18 Pro did not feel warm the way my iPhone 17 Pro Max does under similar circumstances.\nCellular performance on iPhone 18 Pro's Apple-designed C2 Modem seems very good so far.  On T-Mobile in Chicago, I got speeds right around a gigabyte down while indoors and a grand total of 1,109 Mbps down / 236 Mbps up when outdoors.  This is not unheard-of for my area, but it is also not the norm, either.  I will continue to test this throughout the review period.\nIn terms of performance from the A20 Pro processor, VoiceOver (the built-in screen reader for blind, DeafBlind, and low vision people) is as fast and responsive as one could possibly want it to be.  The moment I put my finger on the screen, VoiceOver is off and talking.  That said, VoiceOver in iOS 27 already runs exceptionally well on the A19 series of chips from last year’s devices, and there’s only so much “can this be any more responsive?” before you hit an inevitable ceiling.  Is VoiceOver ‘more’ responsive on the A20 Pro processor in iPhone 18 Pro than last year’s A19 Pro?  Yes, but not by much—and again, this is only because VoiceOver already runs so well on last year’s A19-equipped devices to begin with.\nAnd that’s about all I can confidently speak to right now.  Battery life seems good so far, though of course it’s day one and any serious testing will need to wait until after the various background tasks finish in the next couple days.  Performance is good.  Sound is very good.  Call quality and cellular performance also seem good.  I am excited for the coming weeks.  Watch this space.",
+    "category": "general",
+    "tags": [],
+    "sourceName": "applevis.com",
+    "sourceUrl": "https://applevis.com/blog/iphone-18-pro-hands-initial-impressions",
+    "relatedSources": [
+      {
+        "name": "applevis.com",
+        "url": "https://applevis.com/blog/iphone-18-pro-hands-initial-impressions"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://applevis.com/rss",
+    "ingestProvider": "applevis.com",
+    "clusterId": "cluster-8eb28234",
+    "status": "published",
+    "translationOf": "iphone-18-pro-hands-on-and-initial-impressions-zh-8eb28234",
+    "publishedAt": "2026-09-18T02:13:03.000Z",
+    "fetchedAt": "2026-09-18T02:43:40.594Z",
+    "body": "iPhone 18 Pro and iPhone 18 Pro Max will be available to customers on Friday, September 18, 2026.  Ahead of the launch, Apple sent me an iPhone 18 Pro for review.  While a full review will come once I’ve had the opportunity to live with iPhone 18 Pro for a while, I do have some initial impressions that I wanted to share.\nFirst, and perhaps most noticeably, iPhone 18 Pro has what I would describe as a really big sound for its size.  When compared side-by-side to iPhone 17 Pro Max—a device much larger and, presumably, with a bigger bottom speaker—iPhone 18 Pro sounds warmer, fuller, and lacks the treble over-emphasis I observed on the iPhone 17 Pro Max.  If I had to describe the sound of iPhone 18 Pro, it would be ‘more complete’.\nAnd I do not think it is just software-side equalization: even at a relatively low 25% volume, iPhone 18 Pro has more bass and overall ‘presence’.  My best guess is that Apple has made some hardware changes to the speaker on iPhone 18 Pro, and hopefully the iPhone 18 Pro Max too.  One last note on sound for now: the earpiece speaker sounds warmer and fuller, as well.\nBeyond the speaker, iPhone 18 Pro contains some useful under-the-hood improvements, one of which I was not expecting to notice.  Compared to last year’s models, iPhone 18 Pro has a larger vaper chamber inside the device for added cooling capacity.  This is not just something you hear about at a Keynote and that's the end of it: picking up iPhone 18 Pro on multiple occasions, I noticed how literally 'cool' it felt to the touch.  And even after multiple long phone calls on two different occasions, iPhone 18 Pro did not feel warm the way my iPhone 17 Pro Max does under similar circumstances.\nCellular performance on iPhone 18 Pro's Apple-designed C2 Modem seems very good so far.  On T-Mobile in Chicago, I got speeds right around a gigabyte down while indoors and a grand total of 1,109 Mbps down / 236 Mbps up when outdoors.  This is not unheard-of for my area, but it is also not the norm, either.  I will continue to test this throughout the review period.\nIn terms of performance from the A20 Pro processor, VoiceOver (the built-in screen reader for blind, DeafBlind, and low vision people) is as fast and responsive as one could possibly want it to be.  The moment I put my finger on the screen, VoiceOver is off and talking.  That said, VoiceOver in iOS 27 already runs exceptionally well on the A19 series of chips from last year’s devices, and there’s only so much “can this be any more responsive?” before you hit an inevitable ceiling.  Is VoiceOver ‘more’ responsive on the A20 Pro processor in iPhone 18 Pro than last year’s A19 Pro?  Yes, but not by much—and again, this is only because VoiceOver already runs so well on last year’s A19-equipped devices to begin with.\nAnd that’s about all I can confidently speak to right now.  Battery life seems good so far, though of course it’s day one and any serious testing will need to wait until after the various background tasks finish in the next couple days.  Performance is good.  Sound is very good.  Call quality and cellular performance also seem good.  I am excited for the coming weeks.  Watch this space.\n\nRead more from the original source: [applevis.com](https://applevis.com/blog/iphone-18-pro-hands-initial-impressions)"
+  },
+  {
+    "title": "Access Information News for Monday, September 14, 2026 – Volume 1084",
+    "slug": "access-information-news-for-monday-september-14-2026-volume-1084-0ca5fb93",
+    "lang": "en",
+    "summary": "This issue provides a roundup of the latest accessibility news for the week of September 14, 2026.",
+    "category": "general",
+    "tags": [
+      "newsletter",
+      "accessibility news",
+      "weekly roundup"
+    ],
+    "sourceName": "accessinformationnews.com",
+    "sourceUrl": "https://accessinformationnews.com/newsletter-09-14-2026",
+    "relatedSources": [
+      {
+        "name": "accessinformationnews.com",
+        "url": "https://accessinformationnews.com/newsletter-09-14-2026"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://accessinformationnews.com/feed",
+    "ingestProvider": "accessinformationnews.com",
+    "clusterId": "cluster-0ca5fb93",
+    "status": "published",
+    "translationOf": "access-information-news-for-monday-september-14-2026-volume-1084-zh-0ca5fb93",
+    "publishedAt": "2026-09-14T04:05:00.000Z",
+    "fetchedAt": "2026-09-18T02:44:10.811Z",
+    "body": "This issue provides a roundup of the latest accessibility news for the week of September 14, 2026.\n\nRead more from the original source: [accessinformationnews.com](https://accessinformationnews.com/newsletter-09-14-2026)"
+  },
+  {
+    "title": "Impending Changes to Section 503 of the Rehabilitation Act",
+    "slug": "impending-changes-to-section-503-of-the-rehabilitation-act-e028de38",
+    "lang": "en",
+    "summary": "The U.S. Department of Labor released a final rule revising Section 503 implementing regulations, removing key tools used to measure disability employment and evaluate compliance.",
+    "category": "laws-rights",
+    "tags": [
+      "Section 503",
+      "Rehabilitation Act",
+      "disability employment",
+      "labor regulations"
+    ],
+    "sourceName": "nod.org",
+    "sourceUrl": "https://nod.org/news/impending-changes-to-section-503-of-the-rehabilitation-act",
+    "relatedSources": [
+      {
+        "name": "nod.org",
+        "url": "https://nod.org/news/impending-changes-to-section-503-of-the-rehabilitation-act"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://nod.org/feed",
+    "ingestProvider": "nod.org",
+    "clusterId": "cluster-e028de38",
+    "status": "published",
+    "translationOf": "impending-changes-to-section-503-of-the-rehabilitation-act-zh-e028de38",
+    "publishedAt": "2026-09-01T17:07:16.000Z",
+    "fetchedAt": "2026-09-18T02:44:10.877Z",
+    "body": "The U.S. Department of Labor released a final rule revising Section 503 implementing regulations, removing key tools used to measure disability employment and evaluate compliance.\n\nRead more from the original source: [nod.org](https://nod.org/news/impending-changes-to-section-503-of-the-rehabilitation-act)"
+  },
+  {
+    "title": "2637 Apple Intelligence Brings Enhanced Accessibility in iOS 27 (Sep. 16, 2026)",
+    "slug": "2637-apple-intelligence-brings-enhanced-accessibility-in-ios-27-sep-16-2026-74247237",
+    "lang": "en",
+    "summary": "Apple Intelligence introduces new accessibility features in iOS 27, focusing on improvements for blind and low vision users, as discussed in an Eyes On Success podcast episode.",
+    "category": "assistive-tech",
+    "tags": [
+      "Apple",
+      "iOS 27",
+      "accessibility features",
+      "blind",
+      "low vision",
+      "assistive technology"
+    ],
+    "sourceName": "Eyes On Success",
+    "sourceUrl": "https://podcast.eyesonsuccess.net/?p=2731",
+    "relatedSources": [
+      {
+        "name": "Eyes On Success",
+        "url": "https://podcast.eyesonsuccess.net/?p=2731"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "podcast",
+    "ingestSource": "http://podcast.eyesonsuccess.net/feed",
+    "ingestProvider": "podcast.eyesonsuccess.net",
+    "clusterId": "cluster-74247237",
+    "status": "published",
+    "translationOf": "2637-apple-intelligence-brings-enhanced-accessibility-in-ios-27-sep-16-2026-zh-74247237",
+    "publishedAt": "2026-09-16T12:30:30.000Z",
+    "fetchedAt": "2026-09-18T02:44:10.930Z",
+    "body": "Apple Intelligence introduces new accessibility features in iOS 27, focusing on improvements for blind and low vision users, as discussed in an Eyes On Success podcast episode.\n\nRead more from the original source: [Eyes On Success](https://podcast.eyesonsuccess.net/?p=2731)"
+  },
+  {
+    "title": "Quality Braille Matters",
+    "slug": "quality-braille-matters-36380d54",
+    "lang": "en",
+    "summary": "Discusses the importance of high-quality braille documents for readability and navigation, emphasizing accuracy, proper formatting, and touch readability.",
+    "category": "assistive-tech",
+    "tags": [
+      "braille",
+      "document quality",
+      "accessibility"
+    ],
+    "sourceName": "brailleworks.com",
+    "sourceUrl": "https://brailleworks.com/quality-braille-matters",
+    "relatedSources": [
+      {
+        "name": "brailleworks.com",
+        "url": "https://brailleworks.com/quality-braille-matters"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://brailleworks.com/feed",
+    "ingestProvider": "brailleworks.com",
+    "clusterId": "cluster-36380d54",
+    "status": "published",
+    "translationOf": "quality-braille-matters-zh-36380d54",
+    "publishedAt": "2026-09-08T14:00:00.000Z",
+    "fetchedAt": "2026-09-18T02:44:27.686Z",
+    "body": "Discusses the importance of high-quality braille documents for readability and navigation, emphasizing accuracy, proper formatting, and touch readability.\n\nRead more from the original source: [brailleworks.com](https://brailleworks.com/quality-braille-matters)"
+  },
+  {
+    "title": "Closed Captioning in Google Drive",
+    "slug": "closed-captioning-in-google-drive-9fb848e6",
+    "lang": "en",
+    "summary": "Explains how to add caption tracks to MP4 files in Google Drive to improve video accessibility for deaf and hard-of-hearing users.",
+    "category": "digital-a11y",
+    "tags": [
+      "captioning",
+      "Google Drive",
+      "video accessibility"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/closed-captioning-in-google-drive",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/closed-captioning-in-google-drive"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-9fb848e6",
+    "status": "published",
+    "translationOf": "closed-captioning-in-google-drive-zh-9fb848e6",
+    "publishedAt": "2026-09-14T14:00:58.000Z",
+    "fetchedAt": "2026-09-18T02:44:49.441Z",
+    "body": "Explains how to add caption tracks to MP4 files in Google Drive to improve video accessibility for deaf and hard-of-hearing users.\n\nRead more from the original source: [theaccessibilityguy.com](https://theaccessibilityguy.com/closed-captioning-in-google-drive)"
+  },
+  {
+    "title": "Local AI PCs, Home Networks and the Launch of Double Tap Live",
+    "slug": "local-ai-pcs-home-networks-and-the-launch-of-double-tap-live-f7ba59f5",
+    "lang": "en",
+    "summary": "Discusses upcoming Microsoft AI-focused Windows event, potential Surface Laptop Ultra, and how home network tools and AI PCs can benefit blind users, highlighting accessibility considerations.",
+    "category": "assistive-tech",
+    "tags": [
+      "AI PCs",
+      "home network",
+      "blind users",
+      "Double Tap Live",
+      "Microsoft"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/local-ai-pcs-home-networks-and-the-launch-of-double-tap-live-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/local-ai-pcs-home-networks-and-the-launch-of-double-tap-live-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-f7ba59f5",
+    "status": "published",
+    "translationOf": "local-ai-pcs-home-networks-and-the-launch-of-double-tap-live-zh-f7ba59f5",
+    "publishedAt": "2026-09-16T16:00:18.000Z",
+    "fetchedAt": "2026-09-18T02:44:49.595Z",
+    "body": "Discusses upcoming Microsoft AI-focused Windows event, potential Surface Laptop Ultra, and how home network tools and AI PCs can benefit blind users, highlighting accessibility considerations.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/local-ai-pcs-home-networks-and-the-launch-of-double-tap-live-2)"
+  },
+  {
+    "title": "In-Process 8th September 2026",
+    "slug": "in-process-8th-september-2026-95404c41",
+    "lang": "en",
+    "summary": "NVDA 2026.2 release includes a new built-in Magnifier, improvements to touch gestures and navigation, and expanded speech and braille capabilities.",
+    "category": "assistive-tech",
+    "tags": [
+      "NVDA",
+      "screen reader",
+      "magnifier",
+      "accessibility software"
+    ],
+    "sourceName": "nvaccess.org",
+    "sourceUrl": "https://www.nvaccess.org/post/in-process-8th-september-2026",
+    "relatedSources": [
+      {
+        "name": "nvaccess.org",
+        "url": "https://www.nvaccess.org/post/in-process-8th-september-2026"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://nvaccess.org/rss",
+    "ingestProvider": "nvaccess.org",
+    "clusterId": "cluster-95404c41",
+    "status": "published",
+    "translationOf": "in-process-8th-september-2026-zh-95404c41",
+    "publishedAt": "2026-09-08T06:29:45.000Z",
+    "fetchedAt": "2026-09-18T02:45:53.833Z",
+    "body": "NVDA 2026.2 release includes a new built-in Magnifier, improvements to touch gestures and navigation, and expanded speech and braille capabilities.\n\nRead more from the original source: [nvaccess.org](https://www.nvaccess.org/post/in-process-8th-september-2026)"
+  },
+  {
+    "title": "accessibility is now almost completely broken in the latest forced update for Facebook's messenger app",
+    "slug": "accessibility-is-now-almost-completely-broken-in-the-latest-forced-update-for-fa-e7c0ed1c",
+    "lang": "en",
+    "summary": "After a forced update, Facebook Messenger's accessibility is severely degraded: unlabeled profile picture button causes VoiceOver to skip it, archived messages and settings become inaccessible, prompting user frustration and consideration of a boycott.",
+    "category": "digital-a11y",
+    "tags": [
+      "Facebook Messenger",
+      "accessibility regression",
+      "VoiceOver",
+      "forced update",
+      "app accessibility"
+    ],
+    "sourceName": "applevis.com",
+    "sourceUrl": "https://applevis.com/forum/ios-ipados/accessibility-now-almost-completely-broken-latest-forced-update-facebooks",
+    "relatedSources": [
+      {
+        "name": "applevis.com",
+        "url": "https://applevis.com/forum/ios-ipados/accessibility-now-almost-completely-broken-latest-forced-update-facebooks"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://applevis.com/rss",
+    "ingestProvider": "applevis.com",
+    "clusterId": "cluster-e7c0ed1c",
+    "status": "published",
+    "translationOf": "accessibility-is-now-almost-completely-broken-in-the-latest-forced-update-for-fa-zh-e7c0ed1c",
+    "publishedAt": "2026-09-18T00:57:29.000Z",
+    "fetchedAt": "2026-09-18T02:45:53.886Z",
+    "body": "After a forced update, Facebook Messenger's accessibility is severely degraded: unlabeled profile picture button causes VoiceOver to skip it, archived messages and settings become inaccessible, prompting user frustration and consideration of a boycott.\n\nRead more from the original source: [applevis.com](https://applevis.com/forum/ios-ipados/accessibility-now-almost-completely-broken-latest-forced-update-facebooks)"
+  },
+  {
+    "title": "Access Information News for Monday, September 7, 2026 – Volume 1083",
+    "slug": "access-information-news-for-monday-september-7-2026-volume-1083-6ecc4272",
+    "lang": "en",
+    "summary": "A weekly newsletter covering the latest news in disability accessibility.",
+    "category": "general",
+    "tags": [
+      "newsletter",
+      "accessibility",
+      "weekly"
+    ],
+    "sourceName": "accessinformationnews.com",
+    "sourceUrl": "https://accessinformationnews.com/newsletter-09-07-2026",
+    "relatedSources": [
+      {
+        "name": "accessinformationnews.com",
+        "url": "https://accessinformationnews.com/newsletter-09-07-2026"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://accessinformationnews.com/feed",
+    "ingestProvider": "accessinformationnews.com",
+    "clusterId": "cluster-6ecc4272",
+    "status": "published",
+    "translationOf": "access-information-news-for-monday-september-7-2026-volume-1083-zh-6ecc4272",
+    "publishedAt": "2026-09-07T04:01:20.000Z",
+    "fetchedAt": "2026-09-18T02:46:17.001Z",
+    "body": "A weekly newsletter covering the latest news in disability accessibility.\n\nRead more from the original source: [accessinformationnews.com](https://accessinformationnews.com/newsletter-09-07-2026)"
+  },
+  {
+    "title": "2636 Creative Problem Solving Through Vision Loss (Sept. 9, 2026)",
+    "slug": "2636-creative-problem-solving-through-vision-loss-sept-9-2026-a004a436",
+    "lang": "en",
+    "summary": "Podcast episode where hosts discuss how vision loss can be an advantage, sharing listener stories of blindness as a 'superpower' in fields like auto repair, machining, coding, and audio analysis.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "vision loss",
+      "blindness",
+      "creative problem solving",
+      "podcast"
+    ],
+    "sourceName": "Eyes On Success",
+    "sourceUrl": "https://podcast.eyesonsuccess.net/?p=2722",
+    "relatedSources": [
+      {
+        "name": "Eyes On Success",
+        "url": "https://podcast.eyesonsuccess.net/?p=2722"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "podcast",
+    "ingestSource": "http://podcast.eyesonsuccess.net/feed",
+    "ingestProvider": "podcast.eyesonsuccess.net",
+    "clusterId": "cluster-a004a436",
+    "status": "published",
+    "translationOf": "2636-creative-problem-solving-through-vision-loss-sept-9-2026-zh-a004a436",
+    "publishedAt": "2026-09-09T12:30:51.000Z",
+    "fetchedAt": "2026-09-18T02:46:17.139Z",
+    "body": "Podcast episode where hosts discuss how vision loss can be an advantage, sharing listener stories of blindness as a 'superpower' in fields like auto repair, machining, coding, and audio analysis.\n\nRead more from the original source: [Eyes On Success](https://podcast.eyesonsuccess.net/?p=2722)"
+  },
+  {
+    "title": "Section 1557: Understanding Document Accessibility Requirements",
+    "slug": "section-1557-understanding-document-accessibility-requirements-bc61afa4",
+    "lang": "en",
+    "summary": "Explains how Section 1557 of the Affordable Care Act, Section 504 of the Rehabilitation Act, and the ADA apply to healthcare communication, noting differing requirements and compliance schedules.",
+    "category": "laws-rights",
+    "tags": [
+      "Section1557",
+      "ADA",
+      "healthcare accessibility"
+    ],
+    "sourceName": "brailleworks.com",
+    "sourceUrl": "https://brailleworks.com/section-1557-document-accessibility",
+    "relatedSources": [
+      {
+        "name": "brailleworks.com",
+        "url": "https://brailleworks.com/section-1557-document-accessibility"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://brailleworks.com/feed",
+    "ingestProvider": "brailleworks.com",
+    "clusterId": "cluster-bc61afa4",
+    "status": "published",
+    "translationOf": "section-1557-understanding-document-accessibility-requirements-zh-bc61afa4",
+    "publishedAt": "2026-09-03T14:00:00.000Z",
+    "fetchedAt": "2026-09-18T02:46:38.617Z",
+    "body": "Explains how Section 1557 of the Affordable Care Act, Section 504 of the Rehabilitation Act, and the ADA apply to healthcare communication, noting differing requirements and compliance schedules.\n\nRead more from the original source: [brailleworks.com](https://brailleworks.com/section-1557-document-accessibility)"
+  },
+  {
+    "title": "Accessible Maps in Documents: A Practical Workflow",
+    "slug": "accessible-maps-in-documents-a-practical-workflow-ce144154",
+    "lang": "en",
+    "summary": "Today’s blog post explores accessible maps inside documents. This is a different accessibility problem from interactive web maps, so we are focusing specifically on static…",
+    "category": "digital-a11y",
+    "tags": [
+      "accessible maps",
+      "document accessibility",
+      "digital accessibility"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/accessible-maps-in-documents-a-practical-workflow",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/accessible-maps-in-documents-a-practical-workflow"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-ce144154",
+    "status": "published",
+    "translationOf": "accessible-maps-in-documents-a-practical-workflow-zh-ce144154",
+    "publishedAt": "2026-09-09T14:00:39.000Z",
+    "fetchedAt": "2026-09-18T02:46:58.462Z",
+    "body": "Today’s blog post explores accessible maps inside documents. This is a different accessibility problem from interactive web maps, so we are focusing specifically on static…\n\nRead more from the original source: [theaccessibilityguy.com](https://theaccessibilityguy.com/accessible-maps-in-documents-a-practical-workflow)"
+  },
+  {
+    "title": "Listener Emails on Meta Glasses, Luna AI, Runa TTS and Braille Pricing",
+    "slug": "listener-emails-on-meta-glasses-luna-ai-runa-tts-and-braille-pricing-be45a811",
+    "lang": "en",
+    "summary": "Should blind and low vision users install iOS 27 right away? Steven Scott and Shaun Preece explain why VoiceOver users might wait a month. Then they open the inbox for listener emails on Meta glasses problems, the best smart glasses for reading, Luna AI, Siri dictation and the high cost of Braille displays.",
+    "category": "assistive-tech",
+    "tags": [
+      "Meta glasses",
+      "Luna AI",
+      "TTS",
+      "Braille display",
+      "assistive technology"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/listener-emails-on-meta-glasses-luna-ai-runa-tts-and-braille-pricing-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/listener-emails-on-meta-glasses-luna-ai-runa-tts-and-braille-pricing-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-be45a811",
+    "status": "published",
+    "translationOf": "listener-emails-on-meta-glasses-luna-ai-runa-tts-and-braille-pricing-zh-be45a811",
+    "publishedAt": "2026-09-15T16:00:06.000Z",
+    "fetchedAt": "2026-09-18T02:46:58.613Z",
+    "body": "Should blind and low vision users install iOS 27 right away? Steven Scott and Shaun Preece explain why VoiceOver users might wait a month. Then they open the inbox for listener emails on Meta glasses problems, the best smart glasses for reading, Luna AI, Siri dictation and the high cost of Braille displays.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/listener-emails-on-meta-glasses-luna-ai-runa-tts-and-braille-pricing-2)"
+  },
+  {
+    "title": "NVDA 2026.3beta1 available for testing",
+    "slug": "nvda-20263beta1-available-for-testing-eb2a6421",
+    "lang": "en",
+    "summary": "The first beta of NVDA 2026.3 is released for download and testing, inviting users to try the upcoming screen reader version and provide feedback.",
+    "category": "assistive-tech",
+    "tags": [
+      "NVDA",
+      "screen reader",
+      "beta",
+      "assistive technology"
+    ],
+    "sourceName": "nvaccess.org",
+    "sourceUrl": "https://www.nvaccess.org/post/nvda-2026-3beta1",
+    "relatedSources": [
+      {
+        "name": "nvaccess.org",
+        "url": "https://www.nvaccess.org/post/nvda-2026-3beta1"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://nvaccess.org/rss",
+    "ingestProvider": "nvaccess.org",
+    "clusterId": "cluster-eb2a6421",
+    "status": "published",
+    "translationOf": "nvda-20263beta1-available-for-testing-zh-eb2a6421",
+    "publishedAt": "2026-09-07T02:55:21.000Z",
+    "fetchedAt": "2026-09-18T02:48:12.805Z",
+    "body": "The first beta of NVDA 2026.3 is released for download and testing, inviting users to try the upcoming screen reader version and provide feedback.\n\nRead more from the original source: [nvaccess.org](https://www.nvaccess.org/post/nvda-2026-3beta1)"
+  },
+  {
+    "title": "many new navigation apps with required technical omision in their appstore/information pamphlet",
+    "slug": "many-new-navigation-apps-with-required-technical-omision-in-their-appstoreinform-b2e0cc22",
+    "lang": "en",
+    "summary": "Feedback highlights that many wayfinding apps lack transparency about their data sources and technical decisions, which is crucial for blind users to assess usefulness; calls for clearer documentation and focus groups with blind travelers.",
+    "category": "assistive-tech",
+    "tags": [
+      "wayfinding",
+      "blind",
+      "navigation apps",
+      "data transparency",
+      "accessibility"
+    ],
+    "sourceName": "applevis.com",
+    "sourceUrl": "https://applevis.com/forum/ios-ipados/many-new-navigation-apps-required-technical-omision-their-appstoreinformation",
+    "relatedSources": [
+      {
+        "name": "applevis.com",
+        "url": "https://applevis.com/forum/ios-ipados/many-new-navigation-apps-required-technical-omision-their-appstoreinformation"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://applevis.com/rss",
+    "ingestProvider": "applevis.com",
+    "clusterId": "cluster-b2e0cc22",
+    "status": "published",
+    "translationOf": "many-new-navigation-apps-with-required-technical-omision-in-their-appstoreinform-zh-b2e0cc22",
+    "publishedAt": "2026-09-17T09:48:10.000Z",
+    "fetchedAt": "2026-09-18T02:48:12.867Z",
+    "body": "Feedback highlights that many wayfinding apps lack transparency about their data sources and technical decisions, which is crucial for blind users to assess usefulness; calls for clearer documentation and focus groups with blind travelers.\n\nRead more from the original source: [applevis.com](https://applevis.com/forum/ios-ipados/many-new-navigation-apps-required-technical-omision-their-appstoreinformation)"
+  },
+  {
+    "title": "2635 Mastering AI with a Screen Reader (Sep. 2, 2026)",
+    "slug": "2635-mastering-ai-with-a-screen-reader-sep-2-2026-69ae7941",
+    "lang": "en",
+    "summary": "Hosts Nancy and Peter Torpey interview Tony Gebhard, author of 'No Sight Required,' about how AI tools like ChatGPT, Gemini, and Claude empower blind and low‑vision users to gain independence.",
+    "category": "assistive-tech",
+    "tags": [
+      "blind",
+      "low vision",
+      "screen reader",
+      "AI",
+      "assistive technology"
+    ],
+    "sourceName": "Eyes On Success",
+    "sourceUrl": "https://podcast.eyesonsuccess.net/?p=2717",
+    "relatedSources": [
+      {
+        "name": "Eyes On Success",
+        "url": "https://podcast.eyesonsuccess.net/?p=2717"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "podcast",
+    "ingestSource": "http://podcast.eyesonsuccess.net/feed",
+    "ingestProvider": "podcast.eyesonsuccess.net",
+    "clusterId": "cluster-69ae7941",
+    "status": "published",
+    "translationOf": "2635-mastering-ai-with-a-screen-reader-sep-2-2026-zh-69ae7941",
+    "publishedAt": "2026-09-02T12:30:45.000Z",
+    "fetchedAt": "2026-09-18T02:48:32.577Z",
+    "body": "Hosts Nancy and Peter Torpey interview Tony Gebhard, author of 'No Sight Required,' about how AI tools like ChatGPT, Gemini, and Claude empower blind and low‑vision users to gain independence.\n\nRead more from the original source: [Eyes On Success](https://podcast.eyesonsuccess.net/?p=2717)"
+  },
+  {
+    "title": "The Design + Accessibility Summit 2026",
+    "slug": "the-design-accessibility-summit-2026-c4cc427b",
+    "lang": "en",
+    "summary": "Announces a four‑day online event (Oct 20‑23, 2026) focused on inclusive design practices and accessibility across digital and physical environments.",
+    "category": "general",
+    "tags": [
+      "design summit",
+      "accessibility",
+      "inclusive design",
+      "2026"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/the-design-accessibility-summit-2026",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/the-design-accessibility-summit-2026"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-c4cc427b",
+    "status": "published",
+    "translationOf": "the-design-accessibility-summit-2026-zh-c4cc427b",
+    "publishedAt": "2026-09-08T06:03:15.000Z",
+    "fetchedAt": "2026-09-18T02:48:52.970Z",
+    "body": "Announces a four‑day online event (Oct 20‑23, 2026) focused on inclusive design practices and accessibility across digital and physical environments.\n\nRead more from the original source: [theaccessibilityguy.com](https://theaccessibilityguy.com/the-design-accessibility-summit-2026)"
+  },
+  {
+    "title": "Is AI Really That Dangerous? Will Guyatt Joins, Plus First Thoughts on Siri AI",
+    "slug": "is-ai-really-that-dangerous-will-guyatt-joins-plus-first-thoughts-on-siri-ai-22784b6a",
+    "lang": "en",
+    "summary": "Tech journalist Will Guyatt discusses AI industry alarm and pause warnings, then shares first impressions of Siri AI in iOS 27 beta and talks about screen readers on Windows and Mac.",
+    "category": "assistive-tech",
+    "tags": [
+      "AI",
+      "Siri",
+      "screen readers",
+      "accessibility"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/is-ai-really-that-dangerous-will-guyatt-joins-plus-first-thoughts-on-siri-ai-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/is-ai-really-that-dangerous-will-guyatt-joins-plus-first-thoughts-on-siri-ai-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-22784b6a",
+    "status": "published",
+    "translationOf": "is-ai-really-that-dangerous-will-guyatt-joins-plus-first-thoughts-on-siri-ai-zh-22784b6a",
+    "publishedAt": "2026-09-14T16:00:34.000Z",
+    "fetchedAt": "2026-09-18T02:49:21.636Z",
+    "body": "Tech journalist Will Guyatt discusses AI industry alarm and pause warnings, then shares first impressions of Siri AI in iOS 27 beta and talks about screen readers on Windows and Mac.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/is-ai-really-that-dangerous-will-guyatt-joins-plus-first-thoughts-on-siri-ai-2)"
+  },
+  {
+    "title": "feedback on way finding idea proposal for a university project",
+    "slug": "feedback-on-way-finding-idea-proposal-for-a-university-project-f1464058",
+    "lang": "en",
+    "summary": "The user proposes a smartphone‑based system that records verbal guidance during a route‑learning session with a sighted assistant and links it to specific locations via GPS or indoor positioning, allowing blind users to replay relevant instructions at those points later for independent navigation.",
+    "category": "digital-a11y",
+    "tags": [
+      "wayfinding",
+      "blind navigation",
+      "route learning",
+      "assistive navigation",
+      "smartphone sensors"
+    ],
+    "sourceName": "applevis.com",
+    "sourceUrl": "https://applevis.com/forum/ios-ipados/feedback-way-finding-idea-proposal-university-project",
+    "relatedSources": [
+      {
+        "name": "applevis.com",
+        "url": "https://applevis.com/forum/ios-ipados/feedback-way-finding-idea-proposal-university-project"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://applevis.com/rss",
+    "ingestProvider": "applevis.com",
+    "clusterId": "cluster-f1464058",
+    "status": "published",
+    "translationOf": "feedback-on-way-finding-idea-proposal-for-a-university-project-zh-f1464058",
+    "publishedAt": "2026-09-17T09:20:05.000Z",
+    "fetchedAt": "2026-09-18T02:50:01.688Z",
+    "body": "The user proposes a smartphone‑based system that records verbal guidance during a route‑learning session with a sighted assistant and links it to specific locations via GPS or indoor positioning, allowing blind users to replay relevant instructions at those points later for independent navigation.\n\nRead more from the original source: [applevis.com](https://applevis.com/forum/ios-ipados/feedback-way-finding-idea-proposal-university-project)"
+>>>>>>> Stashed changes
   }
 ]

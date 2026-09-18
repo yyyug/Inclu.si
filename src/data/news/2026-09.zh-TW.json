@@ -41933,6 +41933,7 @@
     "body": "一則社群媒體貼文描述了與一位殘障人士相遇的情況，該人正在玩節奏遊戲《太鼓達人》。\n推文來源： [ミケ2 (@11i4b)](https://x.com/11i4b/status/2100629731263779029)"
   },
   {
+<<<<<<< Updated upstream
     "title": "無障礙需要加強溝通",
     "slug": "accessibility-requires-increased-communication-zh-55973c38",
     "lang": "zh-TW",
@@ -42147,12 +42148,31 @@
       {
         "name": "Unknown source",
         "url": "https://www.disabled-world.com/communication/religion/hyperreligiosity.php"
+=======
+    "title": "介紹遠端事件管理員行動版首次亮相！",
+    "slug": "introducing-remote-incident-managers-mobile-debut-zh-06962c89",
+    "lang": "zh-TW",
+    "summary": "遠端事件管理員推出行動版，成為全球首款完全無障礙的遠端支援軟體，並慶祝其四週年紀念。",
+    "category": "digital-a11y",
+    "tags": [
+      "remote support",
+      "accessible software",
+      "mobile debut"
+    ],
+    "sourceName": "pneumasolutions.com",
+    "sourceUrl": "https://pneumasolutions.com/introducing-remote-incident-managers-mobile-debut",
+    "relatedSources": [
+      {
+        "name": "pneumasolutions.com",
+        "url": "https://pneumasolutions.com/introducing-remote-incident-managers-mobile-debut"
+>>>>>>> Stashed changes
       }
     ],
     "sourceCountry": null,
     "queryRegion": null,
     "region": null,
     "ingestType": "rss",
+<<<<<<< Updated upstream
     "ingestSource": "https://www.disabled-world.com/news.xml",
     "ingestProvider": "disabled-world.com",
     "clusterId": "cluster-6396913c",
@@ -42195,5 +42215,838 @@
     "publishedAt": "2026-09-16T22:00:00.000Z",
     "fetchedAt": "2026-09-18T02:43:29.089Z",
     "body": "描述英國主流媒體如何將年輕殘疾女性作為新目標，批評所謂「病況網紅」將慢性疾病變成生活方式趨勢，儘管殘疾正義運動持續，她們仍遭遇醫療領域的性別歧視。\n\n原文來源： [Ms. Magazine](https://msmagazine.com/2026/09/16/disabled-women-sick-influencers-medical-sexism-social-media)"
+=======
+    "ingestSource": "https://pneumasolutions.com/feed",
+    "ingestProvider": "pneumasolutions.com",
+    "clusterId": "cluster-06962c89",
+    "status": "published",
+    "translationOf": "introducing-remote-incident-managers-mobile-debut-06962c89",
+    "publishedAt": "2026-09-11T15:59:00.000Z",
+    "fetchedAt": "2026-09-18T02:40:54.705Z",
+    "body": "遠端事件管理員推出行動版，成為全球首款完全無障礙的遠端支援軟體，並慶祝其四週年紀念。\n\n原文來源： [pneumasolutions.com](https://pneumasolutions.com/introducing-remote-incident-managers-mobile-debut)"
+  },
+  {
+    "title": "全國ADA研討會收穫#4：額外的一年應該如何實現數位合規？",
+    "slug": "national-ada-symposium-takeaway-4-what-should-an-extra-year-accomplish-in-meetin-zh-58ab49cb",
+    "lang": "zh-TW",
+    "summary": "在全國ADA研討會上，專家探討額外的一年如何用於達成數位無障礙合規期限，並討論內容積壓、人手不足與預算不足等挑戰。",
+    "category": "digital-a11y",
+    "tags": [
+      "ADA",
+      "digital compliance",
+      "symposium"
+    ],
+    "sourceName": "brailleworks.com",
+    "sourceUrl": "https://brailleworks.com/national-ada-symposium-extra-year-digital-compliance",
+    "relatedSources": [
+      {
+        "name": "brailleworks.com",
+        "url": "https://brailleworks.com/national-ada-symposium-extra-year-digital-compliance"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://brailleworks.com/feed",
+    "ingestProvider": "brailleworks.com",
+    "clusterId": "cluster-58ab49cb",
+    "status": "published",
+    "translationOf": "national-ada-symposium-takeaway-4-what-should-an-extra-year-accomplish-in-meetin-58ab49cb",
+    "publishedAt": "2026-09-10T14:00:00.000Z",
+    "fetchedAt": "2026-09-18T02:40:54.777Z",
+    "body": "在全國ADA研討會上，專家探討額外的一年如何用於達成數位無障礙合規期限，並討論內容積壓、人手不足與預算不足等挑戰。\n\n原文來源： [brailleworks.com](https://brailleworks.com/national-ada-symposium-extra-year-digital-compliance)"
+  },
+  {
+    "title": "Genio Notes | 筆記與學習工具",
+    "slug": "genio-notes-note-taking-and-study-tools-zh-35eda810",
+    "lang": "zh-TW",
+    "summary": "這篇部落格文章檢視 Genio Notes，一款整合音訊錄製、投影片、註解、任務與學習工具的筆記應用程式，以支援學習與無障礙需求。",
+    "category": "assistive-tech",
+    "tags": [
+      "note-taking",
+      "audio recording",
+      "study tools",
+      "accessibility"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/genio-notes-note-taking-and-study-tools",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/genio-notes-note-taking-and-study-tools"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-35eda810",
+    "status": "published",
+    "translationOf": "genio-notes-note-taking-and-study-tools-35eda810",
+    "publishedAt": "2026-09-16T14:00:19.000Z",
+    "fetchedAt": "2026-09-18T02:41:34.589Z",
+    "body": "這篇部落格文章檢視 Genio Notes，一款整合音訊錄製、投影片、註解、任務與學習工具的筆記應用程式，以支援學習與無障礙需求。\n\n原文來源： [theaccessibilityguy.com](https://theaccessibilityguy.com/genio-notes-note-taking-and-study-tools)"
+  },
+  {
+    "title": "功能視力評估如何協助維持獨立",
+    "slug": "how-a-functional-vision-assessment-can-help-you-maintain-independence-zh-ff99cfba",
+    "lang": "zh-TW",
+    "summary": "本文說明功能視力評估如何評估低視力者剩餘視力的使用方式，協助他們在日常生活中保持獨立。",
+    "category": "assistive-tech",
+    "tags": [
+      "low vision",
+      "vision assessment",
+      "independence",
+      "assistive technology"
+    ],
+    "sourceName": "lhblind.org",
+    "sourceUrl": "https://lhblind.org/how-a-functional-vision-assessment-can-help-you-maintain-independence",
+    "relatedSources": [
+      {
+        "name": "lhblind.org",
+        "url": "https://lhblind.org/how-a-functional-vision-assessment-can-help-you-maintain-independence"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://lhblind.org/feed",
+    "ingestProvider": "lhblind.org",
+    "clusterId": "cluster-ff99cfba",
+    "status": "published",
+    "translationOf": "how-a-functional-vision-assessment-can-help-you-maintain-independence-ff99cfba",
+    "publishedAt": "2026-09-11T01:06:14.000Z",
+    "fetchedAt": "2026-09-18T02:41:34.644Z",
+    "body": "本文說明功能視力評估如何評估低視力者剩餘視力的使用方式，協助他們在日常生活中保持獨立。\n\n原文來源： [lhblind.org](https://lhblind.org/how-a-functional-vision-assessment-can-help-you-maintain-independence)"
+  },
+  {
+    "title": "智慧鎖、點字與 iPhone 18：盲人聽眾的看法",
+    "slug": "smart-locks-braille-and-the-iphone-18-blind-listeners-weigh-in-zh-a954e9c7",
+    "lang": "zh-TW",
+    "summary": "盲人聽眾分享他們使用 Meta Ray-Ban 眼鏡、OOrion、智慧鎖與點字的經驗，並評估 iOS 27 中的 Siri AI 與 iPhone 18 的購買價值。",
+    "category": "assistive-tech",
+    "tags": [
+      "blindness",
+      "smart locks",
+      "braille",
+      "iPhone",
+      "assistive technology"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/smart-locks-braille-and-the-iphone-18-blind-listeners-weigh-in-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/smart-locks-braille-and-the-iphone-18-blind-listeners-weigh-in-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-a954e9c7",
+    "status": "published",
+    "translationOf": "smart-locks-braille-and-the-iphone-18-blind-listeners-weigh-in-a954e9c7",
+    "publishedAt": "2026-09-17T16:00:01.000Z",
+    "fetchedAt": "2026-09-18T02:41:34.706Z",
+    "body": "盲人聽眾分享他們使用 Meta Ray-Ban 眼鏡、OOrion、智慧鎖與點字的經驗，並評估 iOS 27 中的 Siri AI 與 iPhone 18 的購買價值。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/smart-locks-braille-and-the-iphone-18-blind-listeners-weigh-in-2)"
+  },
+  {
+    "title": "NVDA 2026.3beta2 公開測試版提供下載",
+    "slug": "nvda-20263beta2-available-for-testing-zh-09111282",
+    "lang": "zh-TW",
+    "summary": "NVDA 2026.3 的第二個測試版現已提供下載與測試，歡迎有興趣的使用者體驗即將推出的功能，並透過問題回報系統提供回饋。",
+    "category": "assistive-tech",
+    "tags": [
+      "NVDA",
+      "screen reader",
+      "beta",
+      "assistive technology",
+      "accessibility"
+    ],
+    "sourceName": "nvaccess.org",
+    "sourceUrl": "https://www.nvaccess.org/post/nvda-2026-3beta2",
+    "relatedSources": [
+      {
+        "name": "nvaccess.org",
+        "url": "https://www.nvaccess.org/post/nvda-2026-3beta2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://nvaccess.org/rss",
+    "ingestProvider": "nvaccess.org",
+    "clusterId": "cluster-09111282",
+    "status": "published",
+    "translationOf": "nvda-20263beta2-available-for-testing-09111282",
+    "publishedAt": "2026-09-14T03:53:06.000Z",
+    "fetchedAt": "2026-09-18T02:43:40.551Z",
+    "body": "NVDA 2026.3 的第二個測試版現已提供下載與測試，歡迎有興趣的使用者體驗即將推出的功能，並透過問題回報系統提供回饋。\n\n原文來源： [nvaccess.org](https://www.nvaccess.org/post/nvda-2026-3beta2)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "iphone-18-pro-hands-on-and-initial-impressions-zh-8eb28234",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "applevis.com",
+    "sourceUrl": "https://applevis.com/blog/iphone-18-pro-hands-initial-impressions",
+    "relatedSources": [
+      {
+        "name": "applevis.com",
+        "url": "https://applevis.com/blog/iphone-18-pro-hands-initial-impressions"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://applevis.com/rss",
+    "ingestProvider": "applevis.com",
+    "clusterId": "cluster-8eb28234",
+    "status": "draft",
+    "translationOf": "iphone-18-pro-hands-on-and-initial-impressions-8eb28234",
+    "publishedAt": "2026-09-18T02:13:03.000Z",
+    "fetchedAt": "2026-09-18T02:43:40.594Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [applevis.com](https://applevis.com/blog/iphone-18-pro-hands-initial-impressions)"
+  },
+  {
+    "title": "無障礙資訊新聞 2026年9月14日 星期一 – 第1084期",
+    "slug": "access-information-news-for-monday-september-14-2026-volume-1084-zh-0ca5fb93",
+    "lang": "zh-TW",
+    "summary": "本期提供2026年9月14日當週無障礙相關新聞的彙總。",
+    "category": "general",
+    "tags": [
+      "newsletter",
+      "accessibility news",
+      "weekly roundup"
+    ],
+    "sourceName": "accessinformationnews.com",
+    "sourceUrl": "https://accessinformationnews.com/newsletter-09-14-2026",
+    "relatedSources": [
+      {
+        "name": "accessinformationnews.com",
+        "url": "https://accessinformationnews.com/newsletter-09-14-2026"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://accessinformationnews.com/feed",
+    "ingestProvider": "accessinformationnews.com",
+    "clusterId": "cluster-0ca5fb93",
+    "status": "published",
+    "translationOf": "access-information-news-for-monday-september-14-2026-volume-1084-0ca5fb93",
+    "publishedAt": "2026-09-14T04:05:00.000Z",
+    "fetchedAt": "2026-09-18T02:44:10.811Z",
+    "body": "本期提供2026年9月14日當週無障礙相關新聞的彙總。\n\n原文來源： [accessinformationnews.com](https://accessinformationnews.com/newsletter-09-14-2026)"
+  },
+  {
+    "title": "康復法第503條即將變更",
+    "slug": "impending-changes-to-section-503-of-the-rehabilitation-act-zh-e028de38",
+    "lang": "zh-TW",
+    "summary": "美國勞工部於2026年8月21日發布最終規則，修訂康復法第503條的實施規範，並刪除用於衡量殘障就業和評估合規性的關鍵工具。",
+    "category": "laws-rights",
+    "tags": [
+      "Section 503",
+      "Rehabilitation Act",
+      "disability employment",
+      "labor regulations"
+    ],
+    "sourceName": "nod.org",
+    "sourceUrl": "https://nod.org/news/impending-changes-to-section-503-of-the-rehabilitation-act",
+    "relatedSources": [
+      {
+        "name": "nod.org",
+        "url": "https://nod.org/news/impending-changes-to-section-503-of-the-rehabilitation-act"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://nod.org/feed",
+    "ingestProvider": "nod.org",
+    "clusterId": "cluster-e028de38",
+    "status": "published",
+    "translationOf": "impending-changes-to-section-503-of-the-rehabilitation-act-e028de38",
+    "publishedAt": "2026-09-01T17:07:16.000Z",
+    "fetchedAt": "2026-09-18T02:44:10.877Z",
+    "body": "美國勞工部於2026年8月21日發布最終規則，修訂康復法第503條的實施規範，並刪除用於衡量殘障就業和評估合規性的關鍵工具。\n\n原文來源： [nod.org](https://nod.org/news/impending-changes-to-section-503-of-the-rehabilitation-act)"
+  },
+  {
+    "title": "2637 Apple Intelligence 為 iOS 27 帶來增強的無障礙功能（2026年9月16日）",
+    "slug": "2637-apple-intelligence-brings-enhanced-accessibility-in-ios-27-sep-16-2026-zh-74247237",
+    "lang": "zh-TW",
+    "summary": "Apple Intelligence 在 iOS 27 中推出新的無障礙功能，特別關注盲人和低視力使用者的改進，內容見於 Eyes On Success 播客節目。",
+    "category": "assistive-tech",
+    "tags": [
+      "Apple",
+      "iOS 27",
+      "accessibility features",
+      "blind",
+      "low vision",
+      "assistive technology"
+    ],
+    "sourceName": "Eyes On Success",
+    "sourceUrl": "https://podcast.eyesonsuccess.net/?p=2731",
+    "relatedSources": [
+      {
+        "name": "Eyes On Success",
+        "url": "https://podcast.eyesonsuccess.net/?p=2731"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "podcast",
+    "ingestSource": "http://podcast.eyesonsuccess.net/feed",
+    "ingestProvider": "podcast.eyesonsuccess.net",
+    "clusterId": "cluster-74247237",
+    "status": "published",
+    "translationOf": "2637-apple-intelligence-brings-enhanced-accessibility-in-ios-27-sep-16-2026-74247237",
+    "publishedAt": "2026-09-16T12:30:30.000Z",
+    "fetchedAt": "2026-09-18T02:44:10.930Z",
+    "body": "Apple Intelligence 在 iOS 27 中推出新的無障礙功能，特別關注盲人和低視力使用者的改進，內容見於 Eyes On Success 播客節目。\n\n原文來源： [Eyes On Success](https://podcast.eyesonsuccess.net/?p=2731)"
+  },
+  {
+    "title": "盲文品質的重要性",
+    "slug": "quality-braille-matters-zh-36380d54",
+    "lang": "zh-TW",
+    "summary": "本文討論高品質盲文文件的重要性，強調準確性、易於導航、適當格式及觸感可讀性，以確保視障人士能有效使用。",
+    "category": "assistive-tech",
+    "tags": [
+      "braille",
+      "document quality",
+      "accessibility"
+    ],
+    "sourceName": "brailleworks.com",
+    "sourceUrl": "https://brailleworks.com/quality-braille-matters",
+    "relatedSources": [
+      {
+        "name": "brailleworks.com",
+        "url": "https://brailleworks.com/quality-braille-matters"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://brailleworks.com/feed",
+    "ingestProvider": "brailleworks.com",
+    "clusterId": "cluster-36380d54",
+    "status": "published",
+    "translationOf": "quality-braille-matters-36380d54",
+    "publishedAt": "2026-09-08T14:00:00.000Z",
+    "fetchedAt": "2026-09-18T02:44:27.686Z",
+    "body": "本文討論高品質盲文文件的重要性，強調準確性、易於導航、適當格式及觸感可讀性，以確保視障人士能有效使用。\n\n原文來源： [brailleworks.com](https://brailleworks.com/quality-braille-matters)"
+  },
+  {
+    "title": "Google Drive 中的閉合字幕",
+    "slug": "closed-captioning-in-google-drive-zh-9fb848e6",
+    "lang": "zh-TW",
+    "summary": "說明如何在 Google Drive 直接為 MP4 檔案添加字幕軌道，以提升聾人及硬-of-hearing 使用者的影片可及性。",
+    "category": "digital-a11y",
+    "tags": [
+      "captioning",
+      "Google Drive",
+      "video accessibility"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/closed-captioning-in-google-drive",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/closed-captioning-in-google-drive"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-9fb848e6",
+    "status": "published",
+    "translationOf": "closed-captioning-in-google-drive-9fb848e6",
+    "publishedAt": "2026-09-14T14:00:58.000Z",
+    "fetchedAt": "2026-09-18T02:44:49.441Z",
+    "body": "說明如何在 Google Drive 直接為 MP4 檔案添加字幕軌道，以提升聾人及硬-of-hearing 使用者的影片可及性。\n\n原文來源： [theaccessibilityguy.com](https://theaccessibilityguy.com/closed-captioning-in-google-drive)"
+  },
+  {
+    "title": "本地 AI 電腦、家庭網路與 Double Tap Live 推出",
+    "slug": "local-ai-pcs-home-networks-and-the-launch-of-double-tap-live-zh-f7ba59f5",
+    "lang": "zh-TW",
+    "summary": "討論微軟將於 10 月 7 日舉辦的以本地 AI 為中心的 Windows 與 Surface 活動，以及傳聞中的 Surface Laptop Ultra，探討其對價格、製造品質及盲人使用者的影響，並介紹解決實際問題的家庭網路工具。",
+    "category": "assistive-tech",
+    "tags": [
+      "AI PCs",
+      "home network",
+      "blind users",
+      "Double Tap Live",
+      "Microsoft"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/local-ai-pcs-home-networks-and-the-launch-of-double-tap-live-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/local-ai-pcs-home-networks-and-the-launch-of-double-tap-live-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-f7ba59f5",
+    "status": "published",
+    "translationOf": "local-ai-pcs-home-networks-and-the-launch-of-double-tap-live-f7ba59f5",
+    "publishedAt": "2026-09-16T16:00:18.000Z",
+    "fetchedAt": "2026-09-18T02:44:49.595Z",
+    "body": "討論微軟將於 10 月 7 日舉辦的以本地 AI 為中心的 Windows 與 Surface 活動，以及傳聞中的 Surface Laptop Ultra，探討其對價格、製造品質及盲人使用者的影響，並介紹解決實際問題的家庭網路工具。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/local-ai-pcs-home-networks-and-the-launch-of-double-tap-live-2)"
+  },
+  {
+    "title": "In-Process 2026年9月8日",
+    "slug": "in-process-8th-september-2026-zh-95404c41",
+    "lang": "zh-TW",
+    "summary": "NVDA 2026.2 版本推出內建放大器，改進觸控手勢與導航，並擴充語音與盲文功能。",
+    "category": "assistive-tech",
+    "tags": [
+      "NVDA",
+      "screen reader",
+      "magnifier",
+      "accessibility software"
+    ],
+    "sourceName": "nvaccess.org",
+    "sourceUrl": "https://www.nvaccess.org/post/in-process-8th-september-2026",
+    "relatedSources": [
+      {
+        "name": "nvaccess.org",
+        "url": "https://www.nvaccess.org/post/in-process-8th-september-2026"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://nvaccess.org/rss",
+    "ingestProvider": "nvaccess.org",
+    "clusterId": "cluster-95404c41",
+    "status": "published",
+    "translationOf": "in-process-8th-september-2026-95404c41",
+    "publishedAt": "2026-09-08T06:29:45.000Z",
+    "fetchedAt": "2026-09-18T02:45:53.833Z",
+    "body": "NVDA 2026.2 版本推出內建放大器，改進觸控手勢與導航，並擴充語音與盲文功能。\n\n原文來源： [nvaccess.org](https://www.nvaccess.org/post/in-process-8th-september-2026)"
+  },
+  {
+    "title": "Facebook Messenger 最新強制更新導致無障礙功能幾乎完全失效",
+    "slug": "accessibility-is-now-almost-completely-broken-in-the-latest-forced-update-for-fa-zh-e7c0ed1c",
+    "lang": "zh-TW",
+    "summary": "在強制更新後，Facebook Messenger 的無障礙功能嚴重退化：未標註的個人資料圖片按鈕導致 VoiceOver 跳過，封存訊息與設定無法存取，使用者感到沮喪並考慮抵制。",
+    "category": "digital-a11y",
+    "tags": [
+      "Facebook Messenger",
+      "accessibility regression",
+      "VoiceOver",
+      "forced update",
+      "app accessibility"
+    ],
+    "sourceName": "applevis.com",
+    "sourceUrl": "https://applevis.com/forum/ios-ipados/accessibility-now-almost-completely-broken-latest-forced-update-facebooks",
+    "relatedSources": [
+      {
+        "name": "applevis.com",
+        "url": "https://applevis.com/forum/ios-ipados/accessibility-now-almost-completely-broken-latest-forced-update-facebooks"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://applevis.com/rss",
+    "ingestProvider": "applevis.com",
+    "clusterId": "cluster-e7c0ed1c",
+    "status": "published",
+    "translationOf": "accessibility-is-now-almost-completely-broken-in-the-latest-forced-update-for-fa-e7c0ed1c",
+    "publishedAt": "2026-09-18T00:57:29.000Z",
+    "fetchedAt": "2026-09-18T02:45:53.886Z",
+    "body": "在強制更新後，Facebook Messenger 的無障礙功能嚴重退化：未標註的個人資料圖片按鈕導致 VoiceOver 跳過，封存訊息與設定無法存取，使用者感到沮喪並考慮抵制。\n\n原文來源： [applevis.com](https://applevis.com/forum/ios-ipados/accessibility-now-almost-completely-broken-latest-forced-update-facebooks)"
+  },
+  {
+    "title": "無障礙資訊新聞 2026年9月7日 星期一 第1083期",
+    "slug": "access-information-news-for-monday-september-7-2026-volume-1083-zh-6ecc4272",
+    "lang": "zh-TW",
+    "summary": "一份每週通訊，涵蓋最新的無障礙資訊新聞。",
+    "category": "general",
+    "tags": [
+      "newsletter",
+      "accessibility",
+      "weekly"
+    ],
+    "sourceName": "accessinformationnews.com",
+    "sourceUrl": "https://accessinformationnews.com/newsletter-09-07-2026",
+    "relatedSources": [
+      {
+        "name": "accessinformationnews.com",
+        "url": "https://accessinformationnews.com/newsletter-09-07-2026"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://accessinformationnews.com/feed",
+    "ingestProvider": "accessinformationnews.com",
+    "clusterId": "cluster-6ecc4272",
+    "status": "published",
+    "translationOf": "access-information-news-for-monday-september-7-2026-volume-1083-6ecc4272",
+    "publishedAt": "2026-09-07T04:01:20.000Z",
+    "fetchedAt": "2026-09-18T02:46:17.001Z",
+    "body": "一份每週通訊，涵蓋最新的無障礙資訊新聞。\n\n原文來源： [accessinformationnews.com](https://accessinformationnews.com/newsletter-09-07-2026)"
+  },
+  {
+    "title": "2636 透過視力損失的創意問題解決（2026年9月9日）",
+    "slug": "2636-creative-problem-solving-through-vision-loss-sept-9-2026-zh-a004a436",
+    "lang": "zh-TW",
+    "summary": "此播客節目主持人探討視力損失如何成為優勢，分享聽眾故事，將失明視為『超能力』，應用於汽車維修、精密加工、編程和音頻分析等領域。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "vision loss",
+      "blindness",
+      "creative problem solving",
+      "podcast"
+    ],
+    "sourceName": "Eyes On Success",
+    "sourceUrl": "https://podcast.eyesonsuccess.net/?p=2722",
+    "relatedSources": [
+      {
+        "name": "Eyes On Success",
+        "url": "https://podcast.eyesonsuccess.net/?p=2722"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "podcast",
+    "ingestSource": "http://podcast.eyesonsuccess.net/feed",
+    "ingestProvider": "podcast.eyesonsuccess.net",
+    "clusterId": "cluster-a004a436",
+    "status": "published",
+    "translationOf": "2636-creative-problem-solving-through-vision-loss-sept-9-2026-a004a436",
+    "publishedAt": "2026-09-09T12:30:51.000Z",
+    "fetchedAt": "2026-09-18T02:46:17.139Z",
+    "body": "此播客節目主持人探討視力損失如何成為優勢，分享聽眾故事，將失明視為『超能力』，應用於汽車維修、精密加工、編程和音頻分析等領域。\n\n原文來源： [Eyes On Success](https://podcast.eyesonsuccess.net/?p=2722)"
+  },
+  {
+    "title": "第1557條：理解文件無障礙要求",
+    "slug": "section-1557-understanding-document-accessibility-requirements-zh-bc61afa4",
+    "lang": "zh-TW",
+    "summary": "解釋《平價醫療法案》第1557條、《復原法》第504條及《美國殘疾人法案》如何適用於醫療保健溝通，並指出其要求與合規時間表的差異。",
+    "category": "laws-rights",
+    "tags": [
+      "Section1557",
+      "ADA",
+      "healthcare accessibility"
+    ],
+    "sourceName": "brailleworks.com",
+    "sourceUrl": "https://brailleworks.com/section-1557-document-accessibility",
+    "relatedSources": [
+      {
+        "name": "brailleworks.com",
+        "url": "https://brailleworks.com/section-1557-document-accessibility"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://brailleworks.com/feed",
+    "ingestProvider": "brailleworks.com",
+    "clusterId": "cluster-bc61afa4",
+    "status": "published",
+    "translationOf": "section-1557-understanding-document-accessibility-requirements-bc61afa4",
+    "publishedAt": "2026-09-03T14:00:00.000Z",
+    "fetchedAt": "2026-09-18T02:46:38.617Z",
+    "body": "解釋《平價醫療法案》第1557條、《復原法》第504條及《美國殘疾人法案》如何適用於醫療保健溝通，並指出其要求與合規時間表的差異。\n\n原文來源： [brailleworks.com](https://brailleworks.com/section-1557-document-accessibility)"
+  },
+  {
+    "title": "文件中的無障礙地圖：實用工作流程",
+    "slug": "accessible-maps-in-documents-a-practical-workflow-zh-ce144154",
+    "lang": "zh-TW",
+    "summary": "今天的部落格文章探討了文件內的無障礙地圖。這與互動式網頁地圖的無障礙問題不同，因此我們特別關注靜態地圖…",
+    "category": "digital-a11y",
+    "tags": [
+      "accessible maps",
+      "document accessibility",
+      "digital accessibility"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/accessible-maps-in-documents-a-practical-workflow",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/accessible-maps-in-documents-a-practical-workflow"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-ce144154",
+    "status": "published",
+    "translationOf": "accessible-maps-in-documents-a-practical-workflow-ce144154",
+    "publishedAt": "2026-09-09T14:00:39.000Z",
+    "fetchedAt": "2026-09-18T02:46:58.462Z",
+    "body": "今天的部落格文章探討了文件內的無障礙地圖。這與互動式網頁地圖的無障礙問題不同，因此我們特別關注靜態地圖…\n\n原文來源： [theaccessibilityguy.com](https://theaccessibilityguy.com/accessible-maps-in-documents-a-practical-workflow)"
+  },
+  {
+    "title": "聽眾來信：Meta 眼鏡、Luna AI、Runa TTS 與點字顯示器定價",
+    "slug": "listener-emails-on-meta-glasses-luna-ai-runa-tts-and-braille-pricing-zh-be45a811",
+    "lang": "zh-TW",
+    "summary": "盲人和低視力使用者應該立即安裝 iOS 27 嗎？Steven Scott 和 Shaun Preece 說明 VoiceOver 使用者可能需要等待一個月。然後他們開啟收件箱，處理聽眾來信，內容包括 Meta 眼鏡問題、最適合閱讀的智慧眼鏡、Luna AI、Siri 語音輸入以及點字顯示器的高昂成本。",
+    "category": "assistive-tech",
+    "tags": [
+      "Meta glasses",
+      "Luna AI",
+      "TTS",
+      "Braille display",
+      "assistive technology"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/listener-emails-on-meta-glasses-luna-ai-runa-tts-and-braille-pricing-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/listener-emails-on-meta-glasses-luna-ai-runa-tts-and-braille-pricing-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-be45a811",
+    "status": "published",
+    "translationOf": "listener-emails-on-meta-glasses-luna-ai-runa-tts-and-braille-pricing-be45a811",
+    "publishedAt": "2026-09-15T16:00:06.000Z",
+    "fetchedAt": "2026-09-18T02:46:58.613Z",
+    "body": "盲人和低視力使用者應該立即安裝 iOS 27 嗎？Steven Scott 和 Shaun Preece 說明 VoiceOver 使用者可能需要等待一個月。然後他們開啟收件箱，處理聽眾來信，內容包括 Meta 眼鏡問題、最適合閱讀的智慧眼鏡、Luna AI、Siri 語音輸入以及點字顯示器的高昂成本。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/listener-emails-on-meta-glasses-luna-ai-runa-tts-and-braille-pricing-2)"
+  },
+  {
+    "title": "NVDA 2026.3beta1 可供測試",
+    "slug": "nvda-20263beta1-available-for-testing-zh-eb2a6421",
+    "lang": "zh-TW",
+    "summary": "NVDA 2026.3 的首個 beta 版現已提供下載與測試，邀請使用者體驗即將發布的螢幕閱讀器並提供回饋。",
+    "category": "assistive-tech",
+    "tags": [
+      "NVDA",
+      "screen reader",
+      "beta",
+      "assistive technology"
+    ],
+    "sourceName": "nvaccess.org",
+    "sourceUrl": "https://www.nvaccess.org/post/nvda-2026-3beta1",
+    "relatedSources": [
+      {
+        "name": "nvaccess.org",
+        "url": "https://www.nvaccess.org/post/nvda-2026-3beta1"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://nvaccess.org/rss",
+    "ingestProvider": "nvaccess.org",
+    "clusterId": "cluster-eb2a6421",
+    "status": "published",
+    "translationOf": "nvda-20263beta1-available-for-testing-eb2a6421",
+    "publishedAt": "2026-09-07T02:55:21.000Z",
+    "fetchedAt": "2026-09-18T02:48:12.805Z",
+    "body": "NVDA 2026.3 的首個 beta 版現已提供下載與測試，邀請使用者體驗即將發布的螢幕閱讀器並提供回饋。\n\n原文來源： [nvaccess.org](https://www.nvaccess.org/post/nvda-2026-3beta1)"
+  },
+  {
+    "title": "許多新導航應用程式在應用商店/資訊單張中缺少必要的技術說明",
+    "slug": "many-new-navigation-apps-with-required-technical-omision-in-their-appstoreinform-zh-b2e0cc22",
+    "lang": "zh-TW",
+    "summary": "使用者指出許多導航應用程式未透明說明其資料來源與技術決策，這對盲人使用者評估應用程式實用性至關重要；呼籲提供更清晰的文件並與盲人旅行者進行焦點團體討論。",
+    "category": "assistive-tech",
+    "tags": [
+      "wayfinding",
+      "blind",
+      "navigation apps",
+      "data transparency",
+      "accessibility"
+    ],
+    "sourceName": "applevis.com",
+    "sourceUrl": "https://applevis.com/forum/ios-ipados/many-new-navigation-apps-required-technical-omision-their-appstoreinformation",
+    "relatedSources": [
+      {
+        "name": "applevis.com",
+        "url": "https://applevis.com/forum/ios-ipados/many-new-navigation-apps-required-technical-omision-their-appstoreinformation"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://applevis.com/rss",
+    "ingestProvider": "applevis.com",
+    "clusterId": "cluster-b2e0cc22",
+    "status": "published",
+    "translationOf": "many-new-navigation-apps-with-required-technical-omision-in-their-appstoreinform-b2e0cc22",
+    "publishedAt": "2026-09-17T09:48:10.000Z",
+    "fetchedAt": "2026-09-18T02:48:12.867Z",
+    "body": "使用者指出許多導航應用程式未透明說明其資料來源與技術決策，這對盲人使用者評估應用程式實用性至關重要；呼籲提供更清晰的文件並與盲人旅行者進行焦點團體討論。\n\n原文來源： [applevis.com](https://applevis.com/forum/ios-ipados/many-new-navigation-apps-required-technical-omision-their-appstoreinformation)"
+  },
+  {
+    "title": "2635 使用螢幕閱讀器掌握 AI（2026年9月2日）",
+    "slug": "2635-mastering-ai-with-a-screen-reader-sep-2-2026-zh-69ae7941",
+    "lang": "zh-TW",
+    "summary": "主持人 Nancy 與 Peter Torpey 採訪《No Sight Required》作者 Tony Gebhard，討論 ChatGPT、Gemini、Claude 等 AI 工具如何為盲人和低視力使用者帶來獨立。",
+    "category": "assistive-tech",
+    "tags": [
+      "blind",
+      "low vision",
+      "screen reader",
+      "AI",
+      "assistive technology"
+    ],
+    "sourceName": "Eyes On Success",
+    "sourceUrl": "https://podcast.eyesonsuccess.net/?p=2717",
+    "relatedSources": [
+      {
+        "name": "Eyes On Success",
+        "url": "https://podcast.eyesonsuccess.net/?p=2717"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "podcast",
+    "ingestSource": "http://podcast.eyesonsuccess.net/feed",
+    "ingestProvider": "podcast.eyesonsuccess.net",
+    "clusterId": "cluster-69ae7941",
+    "status": "published",
+    "translationOf": "2635-mastering-ai-with-a-screen-reader-sep-2-2026-69ae7941",
+    "publishedAt": "2026-09-02T12:30:45.000Z",
+    "fetchedAt": "2026-09-18T02:48:32.577Z",
+    "body": "主持人 Nancy 與 Peter Torpey 採訪《No Sight Required》作者 Tony Gebhard，討論 ChatGPT、Gemini、Claude 等 AI 工具如何為盲人和低視力使用者帶來獨立。\n\n原文來源： [Eyes On Success](https://podcast.eyesonsuccess.net/?p=2717)"
+  },
+  {
+    "title": "設計 + 無障礙峰會 2026",
+    "slug": "the-design-accessibility-summit-2026-zh-c4cc427b",
+    "lang": "zh-TW",
+    "summary": "宣佈一項為期四天的線上活動（2026年10月20‑23日），專注於包容性設計與數位及實體環境的無障礙實踐。",
+    "category": "general",
+    "tags": [
+      "design summit",
+      "accessibility",
+      "inclusive design",
+      "2026"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/the-design-accessibility-summit-2026",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/the-design-accessibility-summit-2026"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-c4cc427b",
+    "status": "published",
+    "translationOf": "the-design-accessibility-summit-2026-c4cc427b",
+    "publishedAt": "2026-09-08T06:03:15.000Z",
+    "fetchedAt": "2026-09-18T02:48:52.970Z",
+    "body": "宣佈一項為期四天的線上活動（2026年10月20‑23日），專注於包容性設計與數位及實體環境的無障礙實踐。\n\n原文來源： [theaccessibilityguy.com](https://theaccessibilityguy.com/the-design-accessibility-summit-2026)"
+  },
+  {
+    "title": "AI 真的那麼危險嗎？Will Guyatt 加入討論，並首次談論 Siri AI",
+    "slug": "is-ai-really-that-dangerous-will-guyatt-joins-plus-first-thoughts-on-siri-ai-zh-22784b6a",
+    "lang": "zh-TW",
+    "summary": "科技記者 Will Guyatt 探討 AI 行業的警報與暫停警告，然後分享他在 iOS 27 Beta 中對 Siri AI 的初步印象，並談論 Windows 與 Mac 上的螢幕閱讀器。",
+    "category": "assistive-tech",
+    "tags": [
+      "AI",
+      "Siri",
+      "screen readers",
+      "accessibility"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/is-ai-really-that-dangerous-will-guyatt-joins-plus-first-thoughts-on-siri-ai-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/is-ai-really-that-dangerous-will-guyatt-joins-plus-first-thoughts-on-siri-ai-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-22784b6a",
+    "status": "published",
+    "translationOf": "is-ai-really-that-dangerous-will-guyatt-joins-plus-first-thoughts-on-siri-ai-22784b6a",
+    "publishedAt": "2026-09-14T16:00:34.000Z",
+    "fetchedAt": "2026-09-18T02:49:21.636Z",
+    "body": "科技記者 Will Guyatt 探討 AI 行業的警報與暫停警告，然後分享他在 iOS 27 Beta 中對 Siri AI 的初步印象，並談論 Windows 與 Mac 上的螢幕閱讀器。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/is-ai-really-that-dangerous-will-guyatt-joins-plus-first-thoughts-on-siri-ai-2)"
+  },
+  {
+    "title": "關於大學專案導航點子的回饋",
+    "slug": "feedback-on-way-finding-idea-proposal-for-a-university-project-zh-f1464058",
+    "lang": "zh-TW",
+    "summary": "使用者提出一種以智慧手機為基礎的系統，在與視力正常助理學習路線時錄製口語指引，並透過 GPS 或室內定位將其與特定地點關聯，讓視障使用者在之後獨立行走時可於對應位置重播相關指示。",
+    "category": "digital-a11y",
+    "tags": [
+      "wayfinding",
+      "blind navigation",
+      "route learning",
+      "assistive navigation",
+      "smartphone sensors"
+    ],
+    "sourceName": "applevis.com",
+    "sourceUrl": "https://applevis.com/forum/ios-ipados/feedback-way-finding-idea-proposal-university-project",
+    "relatedSources": [
+      {
+        "name": "applevis.com",
+        "url": "https://applevis.com/forum/ios-ipados/feedback-way-finding-idea-proposal-university-project"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://applevis.com/rss",
+    "ingestProvider": "applevis.com",
+    "clusterId": "cluster-f1464058",
+    "status": "published",
+    "translationOf": "feedback-on-way-finding-idea-proposal-for-a-university-project-f1464058",
+    "publishedAt": "2026-09-17T09:20:05.000Z",
+    "fetchedAt": "2026-09-18T02:50:01.688Z",
+    "body": "使用者提出一種以智慧手機為基礎的系統，在與視力正常助理學習路線時錄製口語指引，並透過 GPS 或室內定位將其與特定地點關聯，讓視障使用者在之後獨立行走時可於對應位置重播相關指示。\n\n原文來源： [applevis.com](https://applevis.com/forum/ios-ipados/feedback-way-finding-idea-proposal-university-project)"
+>>>>>>> Stashed changes
   }
 ]

@@ -126994,5 +126994,73 @@
     "publishedAt": "2026-06-30T14:38:37.000Z",
     "fetchedAt": "2026-07-04T01:01:11.280Z",
     "body": "如何更新 ArcGIS StoryMaps 以符合無障礙標準\n\n原文來源： [Esri](https://www.esri.com/arcgis-blog/products/story-maps/constituent-engagement/how-to-update-arcgis-storymaps-to-meet-accessibility-standards)"
+  },
+  {
+    "title": "使用 JAWS 配合 BrailleNote Evolve 的體驗",
+    "slug": "what-it-is-like-using-jaws-with-the-braillenote-evolve-zh-7415e021",
+    "lang": "zh-TW",
+    "summary": "文章描述了在 BrailleNote Evolve 點字顯示器上使用 JAWS 螢幕閱讀器的體驗，指出其使用方式類似於在 Windows 筆電上使用 JAWS，並強調了數字輸入和功能鍵使用上的差異。",
+    "category": "assistive-tech",
+    "tags": [
+      "JAWS",
+      "BrailleNote Evolve",
+      "screen reader",
+      "braille display",
+      "accessibility"
+    ],
+    "sourceName": "davidwoodbr.podbean.com",
+    "sourceUrl": "https://davidwoodbr.podbean.com/e/what-it-is-like-using-jaws-with-the-braillenote-evolve",
+    "relatedSources": [
+      {
+        "name": "davidwoodbr.podbean.com",
+        "url": "https://davidwoodbr.podbean.com/e/what-it-is-like-using-jaws-with-the-braillenote-evolve"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://davidwoodbr.podbean.com/rss",
+    "ingestProvider": "davidwoodbr.podbean.com",
+    "clusterId": "cluster-7415e021",
+    "status": "published",
+    "translationOf": "what-it-is-like-using-jaws-with-the-braillenote-evolve-7415e021",
+    "publishedAt": "2026-06-22T07:00:07.000Z",
+    "fetchedAt": "2026-09-18T02:43:40.377Z",
+    "body": "文章描述了在 BrailleNote Evolve 點字顯示器上使用 JAWS 螢幕閱讀器的體驗，指出其使用方式類似於在 Windows 筆電上使用 JAWS，並強調了數字輸入和功能鍵使用上的差異。\n\n原文來源： [davidwoodbr.podbean.com](https://davidwoodbr.podbean.com/e/what-it-is-like-using-jaws-with-the-braillenote-evolve)"
+  },
+  {
+    "title": "Fable 社群研究小組報告 2026",
+    "slug": "fable-community-research-panel-report-2026-zh-64091bae",
+    "lang": "zh-TW",
+    "summary": "該報告分享 Fable 殘障測試者社群在瀏覽數位產品時的見解，並提供提升無障礙性的建議。",
+    "category": "case-studies",
+    "tags": [
+      "Fable",
+      "community research",
+      "disability testers",
+      "digital accessibility",
+      "report"
+    ],
+    "sourceName": "makeitfable.com",
+    "sourceUrl": "https://makeitfable.com/article/community-research-panel-report",
+    "relatedSources": [
+      {
+        "name": "makeitfable.com",
+        "url": "https://makeitfable.com/article/community-research-panel-report"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://makeitfable.com/feed",
+    "ingestProvider": "makeitfable.com",
+    "clusterId": "cluster-64091bae",
+    "status": "published",
+    "translationOf": "fable-community-research-panel-report-2026-64091bae",
+    "publishedAt": "2026-06-18T15:15:12.000Z",
+    "fetchedAt": "2026-09-18T02:45:30.759Z",
+    "body": "該報告分享 Fable 殘障測試者社群在瀏覽數位產品時的見解，並提供提升無障礙性的建議。\n\n原文來源： [makeitfable.com](https://makeitfable.com/article/community-research-panel-report)"
   }
 ]

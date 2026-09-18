@@ -71953,5 +71953,404 @@
     "publishedAt": "2026-08-25T07:00:00.000Z",
     "fetchedAt": "2026-09-08T16:38:58.085Z",
     "body": "此活動邀請民眾提交顯示對脊髓性肌肉萎縮症患者關愛的無障礙地圖，以在八月SMA關懷月期間推廣無障礙意識。\n\n原文來源： [正聲廣播電台](https://www.csbc.com.tw/154280)"
+  },
+  {
+    "title": "與Aira保持連線：新聞、更新與社群",
+    "slug": "stay-connected-with-aira-news-updates-and-community-zh-948b57a7",
+    "lang": "zh-TW",
+    "summary": "Aira 提供新聞、更新及社群互動資訊，其視覺詮釋服務協助盲人和低視力使用者。",
+    "category": "assistive-tech",
+    "tags": [
+      "Aira",
+      "visual assistance",
+      "assistive technology"
+    ],
+    "sourceName": "aira.io",
+    "sourceUrl": "https://aira.io/stay-connected-with-aira-news-updates-and-community",
+    "relatedSources": [
+      {
+        "name": "aira.io",
+        "url": "https://aira.io/stay-connected-with-aira-news-updates-and-community"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://aira.io/feed",
+    "ingestProvider": "aira.io",
+    "clusterId": "cluster-948b57a7",
+    "status": "published",
+    "translationOf": "stay-connected-with-aira-news-updates-and-community-948b57a7",
+    "publishedAt": "2026-08-05T10:00:40.000Z",
+    "fetchedAt": "2026-09-18T02:40:54.824Z",
+    "body": "Aira 提供新聞、更新及社群互動資訊，其視覺詮釋服務協助盲人和低視力使用者。\n\n原文來源： [aira.io](https://aira.io/stay-connected-with-aira-news-updates-and-community)"
+  },
+  {
+    "title": "探索 DeafBlind 計畫",
+    "slug": "discover-the-deafblind-program-zh-44935610",
+    "lang": "zh-TW",
+    "summary": "介紹盲人燈塔（Lighthouse for the Blind）的 DeafBlind 計畫，透過溝通支援、同儕活動、康樂、倡議和社區服務，幫助 DeafBlind 人士建立聯繫、提升獨立性與歸屬感。",
+    "category": "case-studies",
+    "tags": [
+      "DeafBlind",
+      "program",
+      "communication support",
+      "community services"
+    ],
+    "sourceName": "lhblind.org",
+    "sourceUrl": "https://lhblind.org/discover-dmdb",
+    "relatedSources": [
+      {
+        "name": "lhblind.org",
+        "url": "https://lhblind.org/discover-dmdb"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://lhblind.org/feed",
+    "ingestProvider": "lhblind.org",
+    "clusterId": "cluster-44935610",
+    "status": "published",
+    "translationOf": "discover-the-deafblind-program-44935610",
+    "publishedAt": "2026-08-26T17:29:26.000Z",
+    "fetchedAt": "2026-09-18T02:44:49.508Z",
+    "body": "介紹盲人燈塔（Lighthouse for the Blind）的 DeafBlind 計畫，透過溝通支援、同儕活動、康樂、倡議和社區服務，幫助 DeafBlind 人士建立聯繫、提升獨立性與歸屬感。\n\n原文來源： [lhblind.org](https://lhblind.org/discover-dmdb)"
+  },
+  {
+    "title": "美國勞工部撤銷503條殘疾人僱用強制規定",
+    "slug": "dol-rescinds-503-disability-hiring-mandate-zh-0aa197c7",
+    "lang": "zh-TW",
+    "summary": "美國勞工部宣布撤銷2013年第503條規定，該規定曾要求聯邦承包商增加殘疾人僱用。",
+    "category": "laws-rights",
+    "tags": [
+      "disability employment",
+      "DOL",
+      "Section 503",
+      "hiring mandate"
+    ],
+    "sourceName": "nod.org",
+    "sourceUrl": "https://nod.org/news/disability-scoop-dol-rescinds-503-disability-hiring-mandate",
+    "relatedSources": [
+      {
+        "name": "nod.org",
+        "url": "https://nod.org/news/disability-scoop-dol-rescinds-503-disability-hiring-mandate"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://nod.org/feed",
+    "ingestProvider": "nod.org",
+    "clusterId": "cluster-0aa197c7",
+    "status": "published",
+    "translationOf": "dol-rescinds-503-disability-hiring-mandate-0aa197c7",
+    "publishedAt": "2026-08-31T17:31:50.000Z",
+    "fetchedAt": "2026-09-18T02:46:17.053Z",
+    "body": "美國勞工部宣布撤銷2013年第503條規定，該規定曾要求聯邦承包商增加殘疾人僱用。\n\n原文來源： [nod.org](https://nod.org/news/disability-scoop-dol-rescinds-503-disability-hiring-mandate)"
+  },
+  {
+    "title": "發現 Lighthouse 低視力診所",
+    "slug": "discover-the-lighthouse-low-vision-clinic-zh-9954fabc",
+    "lang": "zh-TW",
+    "summary": "視力損失後仍有希望。視力損失可能改變日常生活，但不必奪走你的獨立。Lighthouse 低視力診所透過專業護理、適應工具和個人化復健，幫助人們最大化剩餘視力。之後，我們將個體連結到……",
+    "category": "assistive-tech",
+    "tags": [
+      "low vision",
+      "vision rehabilitation",
+      "assistive technology",
+      "clinic"
+    ],
+    "sourceName": "lhblind.org",
+    "sourceUrl": "https://lhblind.org/discover-dmlvs",
+    "relatedSources": [
+      {
+        "name": "lhblind.org",
+        "url": "https://lhblind.org/discover-dmlvs"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://lhblind.org/feed",
+    "ingestProvider": "lhblind.org",
+    "clusterId": "cluster-9954fabc",
+    "status": "published",
+    "translationOf": "discover-the-lighthouse-low-vision-clinic-9954fabc",
+    "publishedAt": "2026-08-26T15:55:04.000Z",
+    "fetchedAt": "2026-09-18T02:46:58.527Z",
+    "body": "視力損失後仍有希望。視力損失可能改變日常生活，但不必奪走你的獨立。Lighthouse 低視力診所透過專業護理、適應工具和個人化復健，幫助人們最大化剩餘視力。之後，我們將個體連結到……\n\n原文來源： [lhblind.org](https://lhblind.org/discover-dmlvs)"
+  },
+  {
+    "title": "《訊息無障礙新聞》2026年8月31日第1082期",
+    "slug": "access-information-news-for-monday-august-31-2026-volume-1082-zh-dd923c07",
+    "lang": "zh-TW",
+    "summary": "一則每週通訊，彙整最近的無障礙相關新聞，於2026年8月31日發布。",
+    "category": "general",
+    "tags": [
+      "newsletter",
+      "accessibility news",
+      "weekly"
+    ],
+    "sourceName": "accessinformationnews.com",
+    "sourceUrl": "https://accessinformationnews.com/newsletter-08-31-2026",
+    "relatedSources": [
+      {
+        "name": "accessinformationnews.com",
+        "url": "https://accessinformationnews.com/newsletter-08-31-2026"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://accessinformationnews.com/feed",
+    "ingestProvider": "accessinformationnews.com",
+    "clusterId": "cluster-dd923c07",
+    "status": "published",
+    "translationOf": "access-information-news-for-monday-august-31-2026-volume-1082-dd923c07",
+    "publishedAt": "2026-08-31T04:02:04.000Z",
+    "fetchedAt": "2026-09-18T02:48:12.912Z",
+    "body": "一則每週通訊，彙整最近的無障礙相關新聞，於2026年8月31日發布。\n\n原文來源： [accessinformationnews.com](https://accessinformationnews.com/newsletter-08-31-2026)"
+  },
+  {
+    "title": "從困境中的孩子到尋找人生目的",
+    "slug": "from-struggling-child-to-finding-purpose-zh-256f65b2",
+    "lang": "zh-TW",
+    "summary": "國家殘疾人組織的合作夥伴經理 Margaret Ling 分享她的個人經歷，並探討如何提供包容性的教育體驗，讓所有學生都能茁壯成長。",
+    "category": "case-studies",
+    "tags": [
+      "disability",
+      "education",
+      "inclusion",
+      "NOD"
+    ],
+    "sourceName": "nod.org",
+    "sourceUrl": "https://nod.org/news/from-struggling-child-to-finding-purpose",
+    "relatedSources": [
+      {
+        "name": "nod.org",
+        "url": "https://nod.org/news/from-struggling-child-to-finding-purpose"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://nod.org/feed",
+    "ingestProvider": "nod.org",
+    "clusterId": "cluster-256f65b2",
+    "status": "published",
+    "translationOf": "from-struggling-child-to-finding-purpose-256f65b2",
+    "publishedAt": "2026-08-28T19:02:34.000Z",
+    "fetchedAt": "2026-09-18T02:48:32.482Z",
+    "body": "國家殘疾人組織的合作夥伴經理 Margaret Ling 分享她的個人經歷，並探討如何提供包容性的教育體驗，讓所有學生都能茁壯成長。\n\n原文來源： [nod.org](https://nod.org/news/from-struggling-child-to-finding-purpose)"
+  },
+  {
+    "title": "全國ADA研討會收穫 #3：AI 可協助文件補救。人工審查保護獨立性。",
+    "slug": "national-ada-symposium-takeaway-3-ai-can-assist-with-document-remediation-human--zh-8b367d93",
+    "lang": "zh-TW",
+    "summary": "探討 AI 如何協助進行無障礙文件補救，同時強調人工審查的重要性，以維護使用者的獨立性。",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "document remediation",
+      "ADA",
+      "accessibility"
+    ],
+    "sourceName": "brailleworks.com",
+    "sourceUrl": "https://brailleworks.com/national-ada-symposium-ai-can-assist-with-document-remediation",
+    "relatedSources": [
+      {
+        "name": "brailleworks.com",
+        "url": "https://brailleworks.com/national-ada-symposium-ai-can-assist-with-document-remediation"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://brailleworks.com/feed",
+    "ingestProvider": "brailleworks.com",
+    "clusterId": "cluster-8b367d93",
+    "status": "published",
+    "translationOf": "national-ada-symposium-takeaway-3-ai-can-assist-with-document-remediation-human--8b367d93",
+    "publishedAt": "2026-08-27T14:00:00.000Z",
+    "fetchedAt": "2026-09-18T02:48:52.792Z",
+    "body": "探討 AI 如何協助進行無障礙文件補救，同時強調人工審查的重要性，以維護使用者的獨立性。\n\n原文來源： [brailleworks.com](https://brailleworks.com/national-ada-symposium-ai-can-assist-with-document-remediation)"
+  },
+  {
+    "title": "探索盲人灯塔公司",
+    "slug": "discover-the-lighthouse-for-the-blind-inc-zh-a14247b3",
+    "lang": "zh-TW",
+    "summary": "盲人灯塔公司已有超過 100 年的歷史，透過永續就業和變革性服務，賦能盲人、聾盲及其他殘障人士。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "blind",
+      "DeafBlind",
+      "employment",
+      "services"
+    ],
+    "sourceName": "lhblind.org",
+    "sourceUrl": "https://lhblind.org/discover-dmga",
+    "relatedSources": [
+      {
+        "name": "lhblind.org",
+        "url": "https://lhblind.org/discover-dmga"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://lhblind.org/feed",
+    "ingestProvider": "lhblind.org",
+    "clusterId": "cluster-a14247b3",
+    "status": "published",
+    "translationOf": "discover-the-lighthouse-for-the-blind-inc-a14247b3",
+    "publishedAt": "2026-08-25T19:46:56.000Z",
+    "fetchedAt": "2026-09-18T02:49:21.536Z",
+    "body": "盲人灯塔公司已有超過 100 年的歷史，透過永續就業和變革性服務，賦能盲人、聾盲及其他殘障人士。\n\n原文來源： [lhblind.org](https://lhblind.org/discover-dmga)"
+  },
+  {
+    "title": "NVDA 2026.2 版本發布",
+    "slug": "nvda-20262-released-zh-83fe1c54",
+    "lang": "zh-TW",
+    "summary": "NV Access 宣布 NVDA 2026.2 版本釋出，這是免費的 Windows 螢幕閱讀器，新增內建放大功能，改進觸控手勢與導航，並擴充語音與點字支援。",
+    "category": "assistive-tech",
+    "tags": [
+      "NVDA",
+      "screen reader",
+      "NV Access",
+      "magnifier",
+      "touch gestures",
+      "speech",
+      "braille",
+      "assistive technology"
+    ],
+    "sourceName": "nvaccess.org",
+    "sourceUrl": "https://www.nvaccess.org/post/nvda-2026-2",
+    "relatedSources": [
+      {
+        "name": "nvaccess.org",
+        "url": "https://www.nvaccess.org/post/nvda-2026-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://nvaccess.org/rss",
+    "ingestProvider": "nvaccess.org",
+    "clusterId": "cluster-83fe1c54",
+    "status": "published",
+    "translationOf": "nvda-20262-released-83fe1c54",
+    "publishedAt": "2026-08-31T02:55:42.000Z",
+    "fetchedAt": "2026-09-18T02:49:49.551Z",
+    "body": "NV Access 宣布 NVDA 2026.2 版本釋出，這是免費的 Windows 螢幕閱讀器，新增內建放大功能，改進觸控手勢與導航，並擴充語音與點字支援。\n\n原文來源： [nvaccess.org](https://www.nvaccess.org/post/nvda-2026-2)"
+  },
+  {
+    "title": "從浴海綿上的點字開始：歡迎 Jeremy Grandstaff 與 The Inspiration Foundation",
+    "slug": "it-started-with-braille-on-a-bath-sponge-welcome-jeremy-grandstaff-and-the-inspi-zh-a8c536bf",
+    "lang": "zh-TW",
+    "summary": "文章說明 Braille 點字如何出現在 Cleanlogic 浴海綿包裝上，進而透過 Purchase to Employ 計畫聘用殘障人士，並介紹 Jeremy Grandstaff 與 The Inspiration Foundation 成為 Access Information News 新聞通訊的新贊助者。",
+    "category": "assistive-tech",
+    "tags": [
+      "Braille labeling",
+      "disability employment",
+      "Cleanlogic",
+      "Inspiration Foundation",
+      "accessible packaging"
+    ],
+    "sourceName": "accessinformationnews.com",
+    "sourceUrl": "https://accessinformationnews.com/welcome-jeremy-grandstaff-and-the-inspiration-foundation",
+    "relatedSources": [
+      {
+        "name": "accessinformationnews.com",
+        "url": "https://accessinformationnews.com/welcome-jeremy-grandstaff-and-the-inspiration-foundation"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://accessinformationnews.com/feed",
+    "ingestProvider": "accessinformationnews.com",
+    "clusterId": "cluster-a8c536bf",
+    "status": "published",
+    "translationOf": "it-started-with-braille-on-a-bath-sponge-welcome-jeremy-grandstaff-and-the-inspi-a8c536bf",
+    "publishedAt": "2026-08-31T04:01:26.000Z",
+    "fetchedAt": "2026-09-18T02:50:01.742Z",
+    "body": "文章說明 Braille 點字如何出現在 Cleanlogic 浴海綿包裝上，進而透過 Purchase to Employ 計畫聘用殘障人士，並介紹 Jeremy Grandstaff 與 The Inspiration Foundation 成為 Access Information News 新聞通訊的新贊助者。\n\n原文來源： [accessinformationnews.com](https://accessinformationnews.com/welcome-jeremy-grandstaff-and-the-inspiration-foundation)"
+  },
+  {
+    "title": "2634 與盲人廣播員的對話（2026年8月26日）",
+    "slug": "2634-tuning-in-with-the-blind-radio-guy-aug-26-2026-zh-dbb72f63",
+    "lang": "zh-TW",
+    "summary": "介紹盲人廣播主持人Danny Romero的職業生涯、所面臨的挑戰以及他在廣播業中的音訊編輯工作。",
+    "category": "case-studies",
+    "tags": [
+      "blind",
+      "radio",
+      "media",
+      "disability"
+    ],
+    "sourceName": "Eyes On Success",
+    "sourceUrl": "https://podcast.eyesonsuccess.net/?p=2712",
+    "relatedSources": [
+      {
+        "name": "Eyes On Success",
+        "url": "https://podcast.eyesonsuccess.net/?p=2712"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "podcast",
+    "ingestSource": "http://podcast.eyesonsuccess.net/feed",
+    "ingestProvider": "podcast.eyesonsuccess.net",
+    "clusterId": "cluster-dbb72f63",
+    "status": "published",
+    "translationOf": "2634-tuning-in-with-the-blind-radio-guy-aug-26-2026-dbb72f63",
+    "publishedAt": "2026-08-26T12:30:53.000Z",
+    "fetchedAt": "2026-09-18T02:50:45.325Z",
+    "body": "介紹盲人廣播主持人Danny Romero的職業生涯、所面臨的挑戰以及他在廣播業中的音訊編輯工作。\n\n原文來源： [Eyes On Success](https://podcast.eyesonsuccess.net/?p=2712)"
+  },
+  {
+    "title": "與年齡相關的視力問題及您的客戶",
+    "slug": "age-related-vision-problems-your-customers-zh-f54ba821",
+    "lang": "zh-TW",
+    "summary": "探討年齡導致的視力問題如何增加對大字體印刷品的需求，這種無障礙格式惠及廣泛客戶。",
+    "category": "physical-design",
+    "tags": [
+      "vision impairment",
+      "large print",
+      "age-related",
+      "accessibility"
+    ],
+    "sourceName": "brailleworks.com",
+    "sourceUrl": "https://brailleworks.com/age-related-vision-problems-your-customers",
+    "relatedSources": [
+      {
+        "name": "brailleworks.com",
+        "url": "https://brailleworks.com/age-related-vision-problems-your-customers"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://brailleworks.com/feed",
+    "ingestProvider": "brailleworks.com",
+    "clusterId": "cluster-f54ba821",
+    "status": "published",
+    "translationOf": "age-related-vision-problems-your-customers-f54ba821",
+    "publishedAt": "2026-08-18T14:00:00.000Z",
+    "fetchedAt": "2026-09-18T02:50:45.467Z",
+    "body": "探討年齡導致的視力問題如何增加對大字體印刷品的需求，這種無障礙格式惠及廣泛客戶。\n\n原文來源： [brailleworks.com](https://brailleworks.com/age-related-vision-problems-your-customers)"
   }
 ]
