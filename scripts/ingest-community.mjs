@@ -14,6 +14,7 @@ import {
 } from './news-common.mjs';
 
 const SOURCES_DIR = path.resolve(process.env.SOURCES_DIR ?? 'research/source-fetch');
+const USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36';
 const DRY_RUN = String(process.env.COMMUNITY_DRY_RUN ?? '') === '1';
 const BACKFILL = String(process.env.COMMUNITY_BACKFILL ?? '') === '1';
 const MIN_RSS_COUNT = Math.max(0, Number(process.env.COMMUNITY_MIN_RSS_COUNT ?? 130));
@@ -98,14 +99,19 @@ function isShortVideo(title, link) {
   return String(link ?? '').includes('/shorts/');
 }
 
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
 async function parsePodcastFeed(feedUrl, maxItems) {
-  const parser = new Parser();
+  const parser = new Parser({ headers: { 'User-Agent': USER_AGENT } });
   const feed = await parser.parseURL(feedUrl);
   return (feed.items ?? []).slice(0, maxItems);
 }
 
 async function parseYoutubeFeed(feedUrl, maxItems) {
   const response = await fetch(feedUrl, {
+    headers: { 'User-Agent': USER_AGENT, Accept: '*/*' },
     signal: AbortSignal.timeout(15000),
   });
 
@@ -159,6 +165,22 @@ async function parseYoutubeFeed(feedUrl, maxItems) {
   return { channelTitle, items };
 }
 
+async function parseYoutubeFeedWithRetry(feedUrl, maxItems, attempts = 3) {
+  let lastError;
+  for (let i = 1; i <= attempts; i += 1) {
+    try {
+      return await parseYoutubeFeed(feedUrl, maxItems);
+    } catch (error) {
+      lastError = error;
+      if (i < attempts) {
+        console.warn(`[community] YouTube retry ${i}/${attempts - 1} for ${feedUrl}: ${error.message}`);
+        await sleep(1500 * i);
+      }
+    }
+  }
+  throw lastError;
+}
+
 async function collectCandidates() {
   const candidates = [];
   const seen = new Set();
@@ -183,7 +205,7 @@ async function collectCandidates() {
   for (const row of rssFeeds) {
     const feedUrl = row.url;
     try {
-      const parser = new Parser();
+      const parser = new Parser({ headers: { 'User-Agent': USER_AGENT } });
       const feed = await parser.parseURL(feedUrl);
       const items = (feed.items ?? []).slice(0, MAX_ITEMS_PER_FEED);
 
@@ -278,7 +300,8 @@ async function collectCandidates() {
     if (!feedUrl) continue;
     const sourceName = row.name || row.handle || '';
     try {
-      const { channelTitle, items } = await parseYoutubeFeed(feedUrl, MAX_ITEMS_PER_FEED);
+      await sleep(700);
+      const { channelTitle, items } = await parseYoutubeFeedWithRetry(feedUrl, MAX_ITEMS_PER_FEED);
       const displayName = sourceName || channelTitle || 'YouTube';
 
       for (const item of items) {
