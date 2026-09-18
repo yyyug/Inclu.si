@@ -5807,5 +5807,40 @@
     "publishedAt": "2026-09-18T16:25:42.000Z",
     "fetchedAt": "2026-09-18T16:46:09.044Z",
     "body": "A student reports a scheduling conflict between a hospital appointment and a disability certification date.\nTweet source: [のん(元:雪せつ)❍ (@MSDEzt22hWqDHzR)](https://x.com/MSDEzt22hWqDHzR/status/2100984620330459428)"
+  },
+  {
+    "title": "Christine Malec on NASA’s Accessible Artemis Webinar and Why Manuals Still Fail Us",
+    "slug": "christine-malec-on-nasas-accessible-artemis-webinar-and-why-manuals-still-fail-u-9da52248",
+    "lang": "en",
+    "summary": "NASA is hosting its first webinar designed for blind and low‑vision audiences, featuring Christine Malec on a panel with Steven Scott and Shaun Preece. They discuss the October 2 session, how sonification transforms her experience of space, and why registering is worthwhile even for those who have never felt drawn to astronomy.",
+    "category": "digital-a11y",
+    "tags": [
+      "blind",
+      "low vision",
+      "webinar",
+      "sonification",
+      "NASA",
+      "Artemis"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/christine-malec-on-nasas-accessible-artemis-webinar-and-why-manuals-still-fail-us-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/christine-malec-on-nasas-accessible-artemis-webinar-and-why-manuals-still-fail-us-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-9da52248",
+    "status": "published",
+    "translationOf": "christine-malec-on-nasas-accessible-artemis-webinar-and-why-manuals-still-fail-u-zh-9da52248",
+    "publishedAt": "2026-09-18T16:18:03.000Z",
+    "fetchedAt": "2026-09-18T17:07:40.017Z",
+    "body": "NASA is hosting its first webinar designed for blind and low‑vision audiences, featuring Christine Malec on a panel with Steven Scott and Shaun Preece. They discuss the October 2 session, how sonification transforms her experience of space, and why registering is worthwhile even for those who have never felt drawn to astronomy.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/christine-malec-on-nasas-accessible-artemis-webinar-and-why-manuals-still-fail-us-2)"
   }
 ]
