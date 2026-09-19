@@ -3,7 +3,7 @@ name: Twice-Daily Ingest Community Sources
 on:
   workflow_dispatch:
   schedule:
-    - cron: "25 1,13 * * *"
+    - cron: "25 8,18 * * *"
   push:
     paths:
       - 'youtube-local/youtube-candidates.json'

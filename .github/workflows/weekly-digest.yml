@@ -14,7 +14,7 @@ on:
         type: choice
         options: ['0', '1']
   schedule:
-    - cron: "20 1 * * 1"
+    - cron: "20 8 * * 1"
 
 permissions:
   contents: write
