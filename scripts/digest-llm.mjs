@@ -119,11 +119,25 @@ export function stripCodeFence(content) {
   return cleaned.trim();
 }
 
-export async function askLLM(prompt, fallbackPrompt = prompt) {
+export function isValidDigestJson(content) {
+  try {
+    JSON.parse(stripCodeFence(content));
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+export async function askLLM(prompt, fallbackPrompt = prompt, options = {}) {
+  const { validateJson = false } = options;
+
   try {
     const content = await callOllamaAPI(prompt);
-    console.log('[llm] Ollama succeeded');
-    return content;
+    if (!validateJson || isValidDigestJson(content)) {
+      console.log('[llm] Ollama succeeded');
+      return content;
+    }
+    console.warn('[llm] Ollama returned invalid JSON; trying Groq fallback');
   } catch (error) {
     console.warn(`[llm] Ollama failed: ${error.message}`);
   }

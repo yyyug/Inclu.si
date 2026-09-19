@@ -255,8 +255,16 @@ async function main() {
 
   const prompt = buildDigestPrompt(enRows, zhRows);
   const fallbackPrompt = buildDigestPrompt(enRows.slice(0, GROQ_MAX_CANDIDATES_PER_LOCALE), zhRows.slice(0, GROQ_MAX_CANDIDATES_PER_LOCALE));
-  const content = await askLLM(prompt, fallbackPrompt);
-  const digest = parseDigestResponse(enRows, zhRows, content);
+  let content = await askLLM(prompt, fallbackPrompt, { validateJson: true });
+
+  let digest;
+  try {
+    digest = parseDigestResponse(enRows, zhRows, content);
+  } catch {
+    console.warn('[digest] LLM JSON still invalid; retrying once with reduced candidate list');
+    content = await askLLM(fallbackPrompt, fallbackPrompt, { validateJson: true });
+    digest = parseDigestResponse(enRows, zhRows, content);
+  }
   const output = {
     date: DIGEST_DATE,
     generatedAt: new Date().toISOString(),

@@ -271,7 +271,7 @@ async function main() {
       let localeDigests;
       try {
         const prompt = buildWeeklyPrompt(targetWeek, range, weekDays);
-        const content = await askLLM(prompt);
+        const content = await askLLM(prompt, prompt, { validateJson: true });
         localeDigests = parseWeeklyResponse(content, enHighlights, zhHighlights);
       } catch (error) {
         console.warn(`[weekly] ${targetWeek} LLM failed (${error.message}); using templated recap.`);
