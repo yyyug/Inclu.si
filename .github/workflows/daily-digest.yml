@@ -46,6 +46,12 @@ jobs:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           GROQ_MODEL: openai/gpt-oss-120b
           GROQ_TIMEOUT_MS: 300000
+          AGNES_API_KEY: ${{ secrets.AGNES_API_KEY }}
+          AGNES_BASE_URL: https://apihub.agnes-ai.com/v1
+          AGNES_MODEL: agnes-3.0-flash
+          AGNES_TIMEOUT_MS: 300000
+          AGNES_MAX_TOKENS: 32768
+          DIGEST_LLM_PREFER: agnes
           DIGEST_LOOKBACK_HOURS: 24
           DIGEST_DATE: ${{ inputs.date || '' }}
 
