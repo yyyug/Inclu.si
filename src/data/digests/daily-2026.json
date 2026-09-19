@@ -6977,80 +6977,80 @@
     }
   },
   "2026-09-19": {
-    "generatedAt": "2026-09-19T11:46:24.084Z",
+    "generatedAt": "2026-09-19T12:40:16.594Z",
     "en": {
-      "title": "US Executive Order Boosts Hunting Access for People with Disabilities",
-      "summary": "President Trump signed an executive order expanding hunting access and allowing assistive technology use at roads and sites for people with disabilities. Meanwhile, the DEC and RTA announced major funding for outdoor and transit accessibility, while new reports highlight AI accessibility gaps and practical guides emerge.",
+      "title": "US Executive Order on Hunting Accessibility and RTA Grant Lead Today's Digest",
+      "summary": "President Trump signed an executive order expanding hunting access for people with disabilities, marking a major policy development. Additionally, the Regional Transit Authority secured a $20 million grant to upgrade infrastructure for disabled passengers.",
       "highlights": [
         {
           "title": "US Executive Order on Hunting Access and Disability Support",
           "slug": "us-executive-order-on-hunting-access-and-disability-support-2585de79"
         },
         {
-          "title": "DEC expands free accessibility options at Camp Santanoni and Frontier Town",
-          "slug": "dec-expands-free-accessibility-options-at-camp-santanoni-and-frontier-town-da9f3eb8"
-        },
-        {
           "title": "RTA receives 20 million dollar grant to become more accessible",
           "slug": "rta-receives-20-million-dollar-grant-to-become-more-accessible-54d46e59"
         },
         {
-          "title": "Level Access report finds AI adoption outpaces accessibility testing",
-          "slug": "level-access-report-finds-ai-adoption-outpaces-accessibility-testing-0ced7e6d"
+          "title": "Wheels4Wheels: Bolt and Serviceplan Convert Scooter Ride Data into Open Accessibility Information",
+          "slug": "wheels4wheels-bolt-and-serviceplan-convert-scooter-ride-data-into-open-accessibi-26acba5a"
         },
         {
-          "title": "PDF Tag Tree Field Guide by The Accessibility Guy",
-          "slug": "pdf-tag-tree-field-guide-by-the-accessibility-guy-11a26c22"
+          "title": "Christine Malec on NASA’s Accessible Artemis Webinar and Why Manuals Still Fail Us",
+          "slug": "christine-malec-on-nasas-accessible-artemis-webinar-and-why-manuals-still-fail-u-9da52248"
         },
         {
           "title": "Research on Housing Accessibility for Deaf and DeafBlind People",
           "slug": "research-on-housing-accessibility-for-deaf-and-deafblind-people-9425aadb"
         },
         {
-          "title": "Sonoma County, California Trades Accessibility Guesswork for Clarity - Mountain Democrat",
-          "slug": "sonoma-county-california-trades-accessibility-guesswork-for-clarity-mountain-dem-d3362039"
+          "title": "PDF Tag Tree Field Guide by The Accessibility Guy",
+          "slug": "pdf-tag-tree-field-guide-by-the-accessibility-guy-11a26c22"
         },
         {
-          "title": "There Is No ‘Best’ Accessible Travel Destination — Only a Best Fit for Each Client",
-          "slug": "there-is-no-best-accessible-travel-destination-only-a-best-fit-for-each-client-3f1ed8b9"
+          "title": "Oklahoma State Fair expands accessibility with sensory-friendly hours",
+          "slug": "oklahoma-state-fair-expands-accessibility-with-sensory-friendly-hours-19b34300"
+        },
+        {
+          "title": "The T is spending millions to make the Green Line more accessible. Soon, it may have to redo its work.",
+          "slug": "the-t-is-spending-millions-to-make-the-green-line-more-accessible-soon-it-may-ha-82469bb1"
         }
       ]
     },
     "zh-TW": {
-      "title": "美國行政命令擴大殘障人士狩獵通道與支援",
-      "summary": "特朗普總統簽署行政命令，允許殘障人士在狩獵場所使用輔助技術，同時環境保護部與區域交通局獲得資金提升戶外與大眾運輸無障礙設施。報告指出AI發展超過無障礙測試，並發布實用指南。",
+      "title": "美國狩獵無障礙行政命令與RTA交通補助金成為今日焦點",
+      "summary": "特朗普總統簽署行政命令，擴展殘障人士的狩獵通道並允許使用輔助技術，成為重大政策發展。此外，區域交通管理局（RTA）獲得2000萬美元補助金，將用於升級無障礙設施以服務殘障乘客。",
       "highlights": [
         {
           "title": "美國行政命令：擴大狩獵通道與殘障支援",
           "slug": "us-executive-order-on-hunting-access-and-disability-support-zh-2585de79"
         },
         {
-          "title": "DEC 在 Camp Santanoni 和 Frontier Town 擴大免費無障礙選項",
-          "slug": "dec-expands-free-accessibility-options-at-camp-santanoni-and-frontier-town-zh-da9f3eb8"
-        },
-        {
           "title": "RTA 獲得 2000 萬美元補助金以提升無障礙設施",
           "slug": "rta-receives-20-million-dollar-grant-to-become-more-accessible-zh-54d46e59"
         },
         {
-          "title": "Level Access 報告發現 AI 採用速度超過無障礙測試",
-          "slug": "level-access-report-finds-ai-adoption-outpaces-accessibility-testing-zh-0ced7e6d"
+          "title": "Wheels4Wheels：Bolt 與 Serviceplan 將電動踏板車騎行資料轉為開放無障礙資訊",
+          "slug": "wheels4wheels-bolt-and-serviceplan-convert-scooter-ride-data-into-open-accessibi-zh-26acba5a"
         },
         {
-          "title": "PDF 標籤樹欄位指南 by The Accessibility Guy",
-          "slug": "pdf-tag-tree-field-guide-by-the-accessibility-guy-zh-11a26c22"
+          "title": "Christine Malec 談 NASA 無障礙 Artemis 網路研討會及為何說明書仍讓人失望",
+          "slug": "christine-malec-on-nasas-accessible-artemis-webinar-and-why-manuals-still-fail-u-zh-9da52248"
         },
         {
           "title": "針對聾人與聾盲人士的住宅無障礙研究",
           "slug": "research-on-housing-accessibility-for-deaf-and-deafblind-people-zh-9425aadb"
         },
         {
-          "title": "索諾馬縣用明確指南取代猜測，提升無障礙清晰度",
-          "slug": "sonoma-county-california-trades-accessibility-guesswork-for-clarity-mountain-dem-zh-d3362039"
+          "title": "PDF 標籤樹欄位指南 by The Accessibility Guy",
+          "slug": "pdf-tag-tree-field-guide-by-the-accessibility-guy-zh-11a26c22"
         },
         {
-          "title": "沒有‘最佳’無障礙旅遊目的地——只有最適合每位客戶的選擇",
-          "slug": "there-is-no-best-accessible-travel-destination-only-a-best-fit-for-each-client-zh-3f1ed8b9"
+          "title": "奧克拉荷馬州博覽會擴充感官友善時段",
+          "slug": "oklahoma-state-fair-expands-accessibility-with-sensory-friendly-hours-zh-19b34300"
+        },
+        {
+          "title": "MBTA 投資數百萬美元讓綠線更無障礙，但可能需要重做",
+          "slug": "the-t-is-spending-millions-to-make-the-green-line-more-accessible-soon-it-may-ha-zh-82469bb1"
         }
       ]
     }
