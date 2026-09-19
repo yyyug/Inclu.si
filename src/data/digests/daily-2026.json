@@ -6886,96 +6886,92 @@
     }
   },
   "2026-09-18": {
-    "generatedAt": "2026-09-19T00:49:49.082Z",
+    "generatedAt": "2026-09-19T01:50:57.440Z",
     "en": {
-      "title": "US Executive Order Expands Hunting Access for People with Disabilities",
-      "summary": "President Trump signed an executive order to expand hunting access, directing that people with disabilities may use assistive technology at access roads and hunting sites. The order follows recent UK reports of effective bans on disabled people traveling abroad and new federal medical equipment accessibility rules. Other highlights include a $20 million transit grant, NASA's accessible Artemis webinar, and a Level Access report warning that AI adoption outpaces accessibility testing.",
+      "title": "UK MPs Demand Travel Rights as AI Accessibility Lags in Global Report",
+      "summary": "UK politicians are calling for guaranteed travel rights for disabled individuals amid criticism of local care restrictions, marking a significant step in disability advocacy. Meanwhile, a new Level Access report reveals that AI adoption is outpacing accessibility testing, posing risks to digital inclusion. The day also featured NASA hosting its first accessible webinar for blind audiences.",
       "highlights": [
-        {
-          "title": "US Executive Order on Hunting Access and Disability Support",
-          "slug": "us-executive-order-on-hunting-access-and-disability-support-2585de79"
-        },
         {
           "title": "An effective ban on disabled people leaving Britain? You read that right, and we will not settle for it | Frances Ryan",
           "slug": "an-effective-ban-on-disabled-people-leaving-britain-you-read-that-right-and-we-w-a386e85c"
         },
         {
-          "title": "VELA Medical Raises Awareness of New Federal Accessibility Rules for Medical Equipment",
-          "slug": "vela-medical-raises-awareness-of-new-federal-accessibility-rules-for-medical-equ-c54eccc3"
-        },
-        {
-          "title": "Christine Malec on NASA’s Accessible Artemis Webinar and Why Manuals Still Fail Us",
-          "slug": "christine-malec-on-nasas-accessible-artemis-webinar-and-why-manuals-still-fail-u-9da52248"
-        },
-        {
-          "title": "DEC expands free accessibility options at Camp Santanoni and Frontier Town",
-          "slug": "dec-expands-free-accessibility-options-at-camp-santanoni-and-frontier-town-da9f3eb8"
-        },
-        {
-          "title": "RTA receives 20 million dollar grant to become more accessible",
-          "slug": "rta-receives-20-million-dollar-grant-to-become-more-accessible-54d46e59"
-        },
-        {
-          "title": "15th DPI Disability Policy Discussion Meeting",
-          "slug": "15th-dpi-disability-policy-discussion-meeting-4ffe9af7"
+          "title": "Disabled people need right to travel abroad, say UK MPs amid ‘ridiculous’ restrictions row",
+          "slug": "disabled-people-need-right-to-travel-abroad-say-uk-mps-amid-ridiculous-restricti-fbfcd4e5"
         },
         {
           "title": "Level Access report finds AI adoption outpaces accessibility testing",
           "slug": "level-access-report-finds-ai-adoption-outpaces-accessibility-testing-0ced7e6d"
         },
         {
-          "title": "Sonoma County, California Trades Accessibility Guesswork for Clarity - Mountain Democrat",
-          "slug": "sonoma-county-california-trades-accessibility-guesswork-for-clarity-mountain-dem-d3362039"
+          "title": "Christine Malec on NASA’s Accessible Artemis Webinar and Why Manuals Still Fail Us",
+          "slug": "christine-malec-on-nasas-accessible-artemis-webinar-and-why-manuals-still-fail-u-9da52248"
         },
         {
-          "title": "There Is No ‘Best’ Accessible Travel Destination — Only a Best Fit for Each Client",
-          "slug": "there-is-no-best-accessible-travel-destination-only-a-best-fit-for-each-client-3f1ed8b9"
+          "title": "RTA receives 20 million dollar grant to become more accessible",
+          "slug": "rta-receives-20-million-dollar-grant-to-become-more-accessible-54d46e59"
+        },
+        {
+          "title": "US Executive Order on Hunting Access and Disability Support",
+          "slug": "us-executive-order-on-hunting-access-and-disability-support-2585de79"
+        },
+        {
+          "title": "Sonoma County, California Trades Accessibility Guesswork for Clarity",
+          "slug": "sonoma-county-california-trades-accessibility-guesswork-for-clarity-9c0bd658"
+        },
+        {
+          "title": "Warning Against Accessibility Overlays",
+          "slug": "warning-against-accessibility-overlays-f02b67b3"
+        },
+        {
+          "title": "B.AI Web Chat Introduces Seamless Theme Switching",
+          "slug": "bai-web-chat-introduces-seamless-theme-switching-806ba059"
+        },
+        {
+          "title": "PDF Tag Tree Field Guide by The Accessibility Guy",
+          "slug": "pdf-tag-tree-field-guide-by-the-accessibility-guy-11a26c22"
         }
       ]
     },
     "zh-TW": {
-      "title": "美國簽署行政命令 擴大狩獵通道 便利殘障人士",
-      "summary": "美國總統特朗普簽署行政命令，擴大狩獵通道並指示允許殘障人士在通道道路和狩獵場所使用輔助技術。同時，英國殘障人士遭遇實質性出國禁令，醫療設備亦有新聯邦無障礙規則。其他重點包括區域交通局獲2000萬美元補助金提升無障礙、NASA舉辦無障礙Artemis網路研討會，以及Level Access報告指出AI採用速度超過無障礙測試。",
+      "title": "英國議員爭取殘障者出國權 與 AI 無障礙滯後警示",
+      "summary": "英國國會議員在當地照護限制爭議中，呼籲保障殘障人士出國旅行權利。同時，最新報告指出 AI 技術採用速度超過無障礙測試，可能導致數位無障礙缺口。當日亦包括 NASA 舉辦首場針對視障觀眾的無障礙研討會。",
       "highlights": [
-        {
-          "title": "美國行政命令：擴大狩獵通道與殘障支援",
-          "slug": "us-executive-order-on-hunting-access-and-disability-support-zh-2585de79"
-        },
         {
           "title": "對殘障人士實施有效的離開英國禁令？你讀沒錯，我們不會接受此狀況 | Frances Ryan",
           "slug": "an-effective-ban-on-disabled-people-leaving-britain-you-read-that-right-and-we-w-zh-a386e85c"
-        },
-        {
-          "title": "VELA醫療提高對新聯邦醫療設備無障礙規則的認識",
-          "slug": "vela-medical-raises-awareness-of-new-federal-accessibility-rules-for-medical-equ-zh-c54eccc3"
-        },
-        {
-          "title": "Christine Malec 談 NASA 無障礙 Artemis 網路研討會及為何說明書仍讓人失望",
-          "slug": "christine-malec-on-nasas-accessible-artemis-webinar-and-why-manuals-still-fail-u-zh-9da52248"
-        },
-        {
-          "title": "DEC 在 Camp Santanoni 和 Frontier Town 擴大免費無障礙選項",
-          "slug": "dec-expands-free-accessibility-options-at-camp-santanoni-and-frontier-town-zh-da9f3eb8"
-        },
-        {
-          "title": "RTA 獲得 2000 萬美元補助金以提升無障礙設施",
-          "slug": "rta-receives-20-million-dollar-grant-to-become-more-accessible-zh-54d46e59"
-        },
-        {
-          "title": "第15屆 DPI 殘疾政策討論會議",
-          "slug": "15th-dpi-disability-policy-discussion-meeting-zh-4ffe9af7"
         },
         {
           "title": "Level Access 報告發現 AI 採用速度超過無障礙測試",
           "slug": "level-access-report-finds-ai-adoption-outpaces-accessibility-testing-zh-0ced7e6d"
         },
         {
-          "title": "索諾馬縣用明確指南取代猜測，提升無障礙清晰度",
-          "slug": "sonoma-county-california-trades-accessibility-guesswork-for-clarity-mountain-dem-zh-d3362039"
+          "title": "iOS 27 無障礙功能錯誤回報",
+          "slug": "ios-27-accessibility-feature-bugs-reported-zh-f72d9781"
         },
         {
-          "title": "沒有‘最佳’無障礙旅遊目的地——只有最適合每位客戶的選擇",
-          "slug": "there-is-no-best-accessible-travel-destination-only-a-best-fit-for-each-client-zh-3f1ed8b9"
+          "title": "Christine Malec 談 NASA 無障礙 Artemis 網路研討會及為何說明書仍讓人失望",
+          "slug": "christine-malec-on-nasas-accessible-artemis-webinar-and-why-manuals-still-fail-u-zh-9da52248"
+        },
+        {
+          "title": "RTA 獲得 2000 萬美元補助金以提升無障礙設施",
+          "slug": "rta-receives-20-million-dollar-grant-to-become-more-accessible-zh-54d46e59"
+        },
+        {
+          "title": "美國行政命令：擴大狩獵通道與殘障支援",
+          "slug": "us-executive-order-on-hunting-access-and-disability-support-zh-2585de79"
+        },
+        {
+          "title": "索諾馬縣以清晰指南取代無障礙猜測",
+          "slug": "sonoma-county-california-trades-accessibility-guesswork-for-clarity-zh-9c0bd658"
+        },
+        {
+          "title": "B.AI 網頁聊天引入無縫主題切換功能",
+          "slug": "bai-web-chat-introduces-seamless-theme-switching-zh-806ba059"
+        },
+        {
+          "title": "PDF 標籤樹欄位指南 by The Accessibility Guy",
+          "slug": "pdf-tag-tree-field-guide-by-the-accessibility-guy-zh-11a26c22"
         }
       ]
     }
