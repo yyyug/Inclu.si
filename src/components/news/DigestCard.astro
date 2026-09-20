@@ -274,7 +274,8 @@ const {
         var item = mode === 'day' ? daily[dayIndex] : weekly[weekIndex];
         if (!item) return;
         var scope = mode === 'day' ? item.date : item.range.start + ' \u2013 ' + item.range.end;
-        var msg = (copy.digestUpdated || 'Updated') + ': ' + scope + '. ' + (item.title || item.summary || '');
+        var summary = item.summary || item.title || '';
+        var msg = (copy.digestUpdated || 'Updated') + ': ' + scope + '. ' + summary;
         live.textContent = '';
         setTimeout(function () {
           live.textContent = msg;
