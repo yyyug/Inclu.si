@@ -236,7 +236,7 @@ const {
           var day = daily[dayIndex];
           if (!day) return;
           heading.textContent = copy.digest || 'Daily Digest';
-          badge.textContent = (copy.digestUpdated || 'Updated') + ': ' + day.date;
+          badge.textContent = (copy.digestUpdated || 'Updated') + (copy.digestColon || ': ') + day.date + ' (UTC+0)';
           summary.textContent = day.summary;
           renderList(list, day.highlights || []);
           current.textContent = day.date;
@@ -258,7 +258,7 @@ const {
             return;
           }
           heading.textContent = copy.digestWeek || 'Weekly Recap';
-          badge.textContent = (copy.digestUpdated || 'Updated') + ': ' + w.range.start + ' \u2013 ' + w.range.end;
+          badge.textContent = (copy.digestUpdated || 'Updated') + (copy.digestColon || ': ') + w.range.start + ' \u2013 ' + w.range.end + ' (UTC+0)';
           summary.textContent = w.summary;
           renderList(list, w.highlights || []);
           current.textContent = w.range.start + ' \u2013 ' + w.range.end;
@@ -275,7 +275,7 @@ const {
         if (!item) return;
         var scope = mode === 'day' ? item.date : item.range.start + ' \u2013 ' + item.range.end;
         var summary = item.summary || item.title || '';
-        var msg = (copy.digestUpdated || 'Updated') + ': ' + scope + '. ' + summary;
+        var msg = (copy.digestUpdated || 'Updated') + (copy.digestColon || ': ') + scope + ' (UTC+0). ' + summary;
         live.textContent = '';
         setTimeout(function () {
           live.textContent = msg;

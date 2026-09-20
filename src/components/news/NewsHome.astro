@@ -50,6 +50,7 @@ const browseData = JSON.stringify({
     digest: copy.digest,
     digestWeek: copy.digestWeek,
     digestUpdated: copy.digestUpdated,
+    digestColon: copy.digestColon,
     digestPreviousDay: copy.digestPreviousDay,
     digestNextDay: copy.digestNextDay,
     digestPreviousWeek: copy.digestPreviousWeek,
@@ -96,7 +97,7 @@ const pageEntries = filteredEntries.slice((page - 1) * perPage, page * perPage);
       heading={copy.digest}
       updatedBadge={
         latestDigest
-          ? `${copy.digestUpdated}: ${new Date(latestDigest.generatedAt).toLocaleDateString(locale === 'zh-TW' ? 'zh-Hant-TW' : 'en-US')}`
+          ? `${copy.digestUpdated}${copy.digestColon}${latestDigest.date} (UTC+0)`
           : undefined
       }
       digest={localeDigest}

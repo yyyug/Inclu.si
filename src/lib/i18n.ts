@@ -19,6 +19,7 @@ export const siteCopy: Record<Locale, {
   digest: string;
   digestWeek: string;
   digestUpdated: string;
+  digestColon: string;
   digestFallback: string;
   digestPreviousDay: string;
   digestNextDay: string;
@@ -44,7 +45,8 @@ export const siteCopy: Record<Locale, {
     latest: 'Latest Coverage',
     digest: 'Daily Digest',
     digestWeek: 'Weekly Recap',
-    digestUpdated: 'Updated (UTC+0)',
+    digestUpdated: 'Updated',
+    digestColon: ': ',
     digestFallback: 'Daily digest will appear here after the scheduled digest workflow runs.',
     digestPreviousDay: 'Previous digest',
     digestNextDay: 'Next digest',
@@ -70,7 +72,8 @@ export const siteCopy: Record<Locale, {
     latest: '最新焦點',
     digest: '今日摘要',
     digestWeek: '本週摘要',
-    digestUpdated: '更新時間 (UTC+0)',
+    digestUpdated: '更新時間',
+    digestColon: '：',
     digestFallback: '每日摘要會在排程工作執行後顯示於此。',
     digestPreviousDay: '上一則摘要',
     digestNextDay: '下一則摘要',
