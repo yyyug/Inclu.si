@@ -814,5 +814,39 @@
     "publishedAt": "2026-03-31T15:05:08.000Z",
     "fetchedAt": "2026-09-20T07:39:20.495Z",
     "body": "政府發布了旨在將神經多樣性人士（如自閉症、閱讀障礙及注意力缺陷過動症患者）更好地納入職場的指南。Agefiph等專業協會支持這一舉措，並強調需要消除對職場殘疾的迷思，促進雇主的理解。\n\n原文來源： [nouvelobs.com](https://www.nouvelobs.com/societe/20260331.OBS113774/autisme-troubles-dys-tdah-il-est-imperatif-de-demystifier-la-neurodiversite-en-entreprise.html)"
+  },
+  {
+    "title": "帮助视障人士诵读古兰经的电子应用",
+    "slug": "electronic-holy-quran-app-for-the-visually-impaired-zh-5b179a2b",
+    "lang": "zh-TW",
+    "summary": "一款新的电子古兰经技术旨在帮助视障人士在虔诚的氛围中诵读古兰经，将辅助技术与宗教实践相结合。",
+    "category": "assistive-tech",
+    "tags": [
+      "assistive-technology",
+      "visually-impaired",
+      "religion",
+      "Quran"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://al3omk.com/1142220.html",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://al3omk.com/1142220.html"
+      }
+    ],
+    "sourceCountry": "EG",
+    "queryRegion": "EG",
+    "region": "EG",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-5b179a2b",
+    "status": "published",
+    "translationOf": "electronic-holy-quran-app-for-the-visually-impaired-5b179a2b",
+    "publishedAt": "2026-03-03T08:00:00.000Z",
+    "fetchedAt": "2026-09-20T14:23:56.487Z",
+    "body": "一款新的电子古兰经技术旨在帮助视障人士在虔诚的氛围中诵读古兰经，将辅助技术与宗教实践相结合。\n\n原文來源： [news.google.com](https://al3omk.com/1142220.html)"
   }
 ]

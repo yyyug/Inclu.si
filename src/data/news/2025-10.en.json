@@ -135,5 +135,38 @@
     "publishedAt": "2025-10-14T07:00:00.000Z",
     "fetchedAt": "2026-09-20T07:42:07.728Z",
     "body": "The Eastern Governorate in Saudi Arabia has developed 73 kilometers of pathways to improve universal accessibility and quality of life in the city of Khobar. These physical infrastructure enhancements aim to ensure that public spaces are navigable and inclusive for people with mobility disabilities.\n\nRead more from the original source: [news.google.com](https://www.spa.gov.sa/N2420659)"
+  },
+  {
+    "title": "King Fahd International Airport Receives 'Improving Accessibility' Accreditation from ACI",
+    "slug": "king-fahd-international-airport-receives-improving-accessibility-accreditation-f-debd6248",
+    "lang": "en",
+    "summary": "King Fahd International Airport has been accredited by the Airports Council International (ACI) for improving accessibility. This certification focuses on enhancing facilities and services to better accommodate passengers with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "airports",
+      "accessibility",
+      "certification"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.spa.gov.sa/N2423811",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.spa.gov.sa/N2423811"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84+%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-debd6248",
+    "status": "published",
+    "translationOf": "king-fahd-international-airport-receives-improving-accessibility-accreditation-f-zh-debd6248",
+    "publishedAt": "2025-10-12T07:00:00.000Z",
+    "fetchedAt": "2026-09-20T14:24:02.768Z",
+    "body": "King Fahd International Airport has been accredited by the Airports Council International (ACI) for improving accessibility. This certification focuses on enhancing facilities and services to better accommodate passengers with disabilities.\n\nRead more from the original source: [news.google.com](https://www.spa.gov.sa/N2423811)"
   }
 ]

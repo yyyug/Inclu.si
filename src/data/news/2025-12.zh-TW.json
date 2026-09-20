@@ -226,5 +226,72 @@
     "publishedAt": "2025-12-03T05:00:01.000Z",
     "fetchedAt": "2026-09-20T02:27:51.542Z",
     "body": "本文評估了 2024 年巴黎殘奧會對法國身心障礙體育實踐和公眾視角的影響，重點闡述了該賽事如何為 1,200 萬受影響的法國人拓展了發展空間。\n\n原文來源： [franceinfo.fr](https://www.franceinfo.fr/sports/handisport/les-jeux-paralympiques-ont-ouvert-le-champ-des-possibles-sport-et-handicap-comment-les-jeux-ont-fait-evoluer-les-pratiques-et-change-les-regards_7611674.html)"
+  },
+  {
+    "title": "Zain 推出全面無障礙指南",
+    "slug": "zain-launches-comprehensive-accessibility-guide-zh-d565bfb4",
+    "lang": "zh-TW",
+    "summary": "電信公司 Zain 推出了關於無障礙的全面指南，旨在改善為殘疾人士提供的服務和基礎設施。",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility-guide",
+      "zain",
+      "inclusion"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.fananews.com/%D8%B4%D8%B1%D9%83%D8%A9-%D8%B2%D9%8A%D9%86-%D8%AA%D8%B7%D9%84%D9%82-%D8%AF%D9%84%D9%8A%D9%84-%D8%A5%D9%85%D9%83%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D8%A7%D9%84%D8%B4%D8%A7",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.fananews.com/%D8%B4%D8%B1%D9%83%D8%A9-%D8%B2%D9%8A%D9%86-%D8%AA%D8%B7%D9%84%D9%82-%D8%AF%D9%84%D9%8A%D9%84-%D8%A5%D9%85%D9%83%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D8%A7%D9%84%D8%B4%D8%A7"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84+%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-d565bfb4",
+    "status": "published",
+    "translationOf": "zain-launches-comprehensive-accessibility-guide-d565bfb4",
+    "publishedAt": "2025-12-04T08:00:00.000Z",
+    "fetchedAt": "2026-09-20T14:20:27.856Z",
+    "body": "電信公司 Zain 推出了關於無障礙的全面指南，旨在改善為殘疾人士提供的服務和基礎設施。\n\n原文來源： [news.google.com](https://www.fananews.com/%D8%B4%D8%B1%D9%83%D8%A9-%D8%B2%D9%8A%D9%86-%D8%AA%D8%B7%D9%84%D9%82-%D8%AF%D9%84%D9%8A%D9%84-%D8%A5%D9%85%D9%83%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D8%A7%D9%84%D8%B4%D8%A7)"
+  },
+  {
+    "title": "津公司發布通用導則，為殘障人士調整建築與設施",
+    "slug": "zain-company-launches-universal-access-guide-for-adapting-buildings-and-faciliti-zh-e6db7e98",
+    "lang": "zh-TW",
+    "summary": "津公司發布了通用導則，旨在規範其建築和設施的改造，確保殘障人士的無障礙通行和使用。",
+    "category": "physical-design",
+    "tags": [
+      "universal-access",
+      "facility-adaptation",
+      "zain-company",
+      "infrastructure"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://alawalnews.com/news/2025/12/04/263743-pimwkl",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://alawalnews.com/news/2025/12/04/263743-pimwkl"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84+%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-e6db7e98",
+    "status": "published",
+    "translationOf": "zain-company-launches-universal-access-guide-for-adapting-buildings-and-faciliti-e6db7e98",
+    "publishedAt": "2025-12-04T08:00:00.000Z",
+    "fetchedAt": "2026-09-20T14:20:39.790Z",
+    "body": "津公司發布了通用導則，旨在規範其建築和設施的改造，確保殘障人士的無障礙通行和使用。\n\n原文來源： [news.google.com](https://alawalnews.com/news/2025/12/04/263743-pimwkl)"
   }
 ]

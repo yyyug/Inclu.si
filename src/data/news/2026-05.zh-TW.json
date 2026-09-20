@@ -46894,5 +46894,72 @@
     "publishedAt": "2026-05-15T07:00:00.000Z",
     "fetchedAt": "2026-09-20T07:42:27.239Z",
     "body": "阿聯酋高等教育局與扎耶德廳合作，致力於在全阿聯酋推廣包容性教育實踐，並提升對殘障人士的無障礙支持。\n\n原文來源： [news.google.com](https://www.mediaoffice.abudhabi/ar/education/emirates-college-for-advanced-education-and-zayed-authority-for-people-of-determination-partner-to-advance-inclusive-education-in-uae)"
+  },
+  {
+    "title": "2026年阿布扎比殘障人士包容卓越獎啟動",
+    "slug": "abu-dhabi-excellence-award-for-inclusion-of-people-with-determination-launched-f-zh-0df4355f",
+    "lang": "zh-TW",
+    "summary": "哈立德·本·扎耶德主持了阿布扎比卓越獎的首次董事會會議，該獎項旨在表彰2026年在殘障人士（“堅強者”）社會融合方面的卓越表現。",
+    "category": "laws-rights",
+    "tags": [
+      "inclusion",
+      "award",
+      "uae",
+      "policy"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.mediaoffice.abudhabi/ar/community/khalid-bin-zayed-chairs-1st-board-of-trustees-meeting-of-2026-for-abu-dhabi-excellence-award-for-people-of-determination-inclusion-damj",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.mediaoffice.abudhabi/ar/community/khalid-bin-zayed-chairs-1st-board-of-trustees-meeting-of-2026-for-abu-dhabi-excellence-award-for-people-of-determination-inclusion-damj"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-0df4355f",
+    "status": "published",
+    "translationOf": "abu-dhabi-excellence-award-for-inclusion-of-people-with-determination-launched-f-0df4355f",
+    "publishedAt": "2026-05-06T07:00:00.000Z",
+    "fetchedAt": "2026-09-20T14:22:43.021Z",
+    "body": "哈立德·本·扎耶德主持了阿布扎比卓越獎的首次董事會會議，該獎項旨在表彰2026年在殘障人士（“堅強者”）社會融合方面的卓越表現。\n\n原文來源： [news.google.com](https://www.mediaoffice.abudhabi/ar/community/khalid-bin-zayed-chairs-1st-board-of-trustees-meeting-of-2026-for-abu-dhabi-excellence-award-for-people-of-determination-inclusion-damj)"
+  },
+  {
+    "title": "也門奮鬥：改造科技戰勝黑暗",
+    "slug": "yemeni-struggle-hacking-technology-to-defeat-darkness-zh-11f58e57",
+    "lang": "zh-TW",
+    "summary": "本文突顯了一位也門人士透過科技克服視力障礙或相關殘障的個人故事，展示了輔助科技或適應性科技的敘事。",
+    "category": "assistive-tech",
+    "tags": [
+      "technology",
+      "vision",
+      "personal story"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.yemenmonitor.com/Details/ArtMID/908/ArticleID/171349",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.yemenmonitor.com/Details/ArtMID/908/ArticleID/171349"
+      }
+    ],
+    "sourceCountry": "EG",
+    "queryRegion": "EG",
+    "region": "EG",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-11f58e57",
+    "status": "published",
+    "translationOf": "yemeni-struggle-hacking-technology-to-defeat-darkness-11f58e57",
+    "publishedAt": "2026-05-10T07:00:00.000Z",
+    "fetchedAt": "2026-09-20T14:23:49.556Z",
+    "body": "本文突顯了一位也門人士透過科技克服視力障礙或相關殘障的個人故事，展示了輔助科技或適應性科技的敘事。\n\n原文來源： [news.google.com](https://www.yemenmonitor.com/Details/ArtMID/908/ArticleID/171349)"
   }
 ]

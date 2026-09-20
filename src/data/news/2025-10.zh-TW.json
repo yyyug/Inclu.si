@@ -135,5 +135,38 @@
     "publishedAt": "2025-10-14T07:00:00.000Z",
     "fetchedAt": "2026-09-20T07:42:07.728Z",
     "body": "沙烏地阿拉伯東部省為改善赫爾巴爾市的通用無障礙通行能力和生活品質，發展了73公里的路徑。這些實體基礎設施的升級旨在確保公共空間對行動不便人士具有可及性和包容性。\n\n原文來源： [news.google.com](https://www.spa.gov.sa/N2420659)"
+  },
+  {
+    "title": "法赫德国王国际机场获机场理事会“无障碍环境改进”认证",
+    "slug": "king-fahd-international-airport-receives-improving-accessibility-accreditation-f-zh-debd6248",
+    "lang": "zh-TW",
+    "summary": "法赫德国王国际机场获得机场理事会（ACI）颁发的“无障碍环境改进”认证。该认证旨在提升设施和服务，以更好地照顾残障旅客的需求。",
+    "category": "physical-design",
+    "tags": [
+      "airports",
+      "accessibility",
+      "certification"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.spa.gov.sa/N2423811",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.spa.gov.sa/N2423811"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84+%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-debd6248",
+    "status": "published",
+    "translationOf": "king-fahd-international-airport-receives-improving-accessibility-accreditation-f-debd6248",
+    "publishedAt": "2025-10-12T07:00:00.000Z",
+    "fetchedAt": "2026-09-20T14:24:02.768Z",
+    "body": "法赫德国王国际机场获得机场理事会（ACI）颁发的“无障碍环境改进”认证。该认证旨在提升设施和服务，以更好地照顾残障旅客的需求。\n\n原文來源： [news.google.com](https://www.spa.gov.sa/N2423811)"
   }
 ]
