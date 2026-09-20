@@ -1,0 +1,35 @@
+[
+  {
+    "title": "兩場革命：一場是數位，一場是人口統計",
+    "slug": "two-revolutions-one-digital-and-the-other-demographic-zh-5384af7f",
+    "lang": "zh-TW",
+    "summary": "聯合國報告探討數位轉型與人口變化之間的互動，聚焦於更廣泛的社會轉變，而非特定的殘障無障礙措施。",
+    "category": "general",
+    "tags": [
+      "digital transformation",
+      "demographics",
+      "UN"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.un.org/ar/45126",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.un.org/ar/45126"
+      }
+    ],
+    "sourceCountry": "EG",
+    "queryRegion": "EG",
+    "region": "EG",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-5384af7f",
+    "status": "published",
+    "translationOf": "two-revolutions-one-digital-and-the-other-demographic-5384af7f",
+    "publishedAt": "2019-12-09T08:00:00.000Z",
+    "fetchedAt": "2026-09-20T19:42:39.268Z",
+    "body": "聯合國報告探討數位轉型與人口變化之間的互動，聚焦於更廣泛的社會轉變，而非特定的殘障無障礙措施。\n\n原文來源： [news.google.com](https://www.un.org/ar/45126)"
+  }
+]
