@@ -718,5 +718,101 @@
     "publishedAt": "2026-03-04T21:31:51.000Z",
     "fetchedAt": "2026-09-18T15:31:23.088Z",
     "body": "Introduction of the BrailleSense 7 Smart Braille Tablet, winner of an iF Design Award, a portable device that provides Braille output and tactile feedback for blind users to access digital content.\n\nRead more from the original source: [selvasblv](https://www.youtube.com/watch?v=ZBEeuowOC70)"
+  },
+  {
+    "title": "Warning Against Fraudulent Solicitation Regarding Employment Obligation for Workers with Disabilities",
+    "slug": "warning-against-fraudulent-solicitation-regarding-employment-obligation-for-work-997f0e05",
+    "lang": "en",
+    "summary": "AGI FIPH warns citizens about fraudulent phone or in-person solicitations promising to reduce financial contributions related to the 'Obligation of Employment of Disabled Workers' (OETH). The organization advises public to be cautious of scams targeting compliance with disability employment laws.",
+    "category": "laws-rights",
+    "tags": [
+      "fraud",
+      "employment",
+      "disability-laws"
+    ],
+    "sourceName": "agefiph.fr",
+    "sourceUrl": "https://www.agefiph.fr/actualites-handicap/doeth-alerte-aux-demarchages-frauduleux",
+    "relatedSources": [
+      {
+        "name": "agefiph.fr",
+        "url": "https://www.agefiph.fr/actualites-handicap/doeth-alerte-aux-demarchages-frauduleux"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.agefiph.fr/rss.xml",
+    "ingestProvider": "agefiph.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-997f0e05",
+    "status": "published",
+    "translationOf": "warning-against-fraudulent-solicitation-regarding-employment-obligation-for-work-zh-997f0e05",
+    "publishedAt": "2026-03-30T09:55:07.000Z",
+    "fetchedAt": "2026-09-20T02:23:01.256Z",
+    "body": "AGI FIPH warns citizens about fraudulent phone or in-person solicitations promising to reduce financial contributions related to the 'Obligation of Employment of Disabled Workers' (OETH). The organization advises public to be cautious of scams targeting compliance with disability employment laws.\n\nRead more from the original source: [agefiph.fr](https://www.agefiph.fr/actualites-handicap/doeth-alerte-aux-demarchages-frauduleux)"
+  },
+  {
+    "title": "\"Nous, les Européens\". Italie : l'école qui n'exclut personne",
+    "slug": "nous-les-europeens-italie-lecole-qui-nexclut-personne-9abe524a",
+    "lang": "en",
+    "summary": "Grand reportage, invités et actualité européenne sont au sommaire de ce magazine d'information, présenté par Eléonore Gay et diffusé le jeudi en fin de soirée sur France 2, ainsi que le dimanche à 10h40 sur France 3.",
+    "category": "general",
+    "tags": [],
+    "sourceName": "franceinfo.fr",
+    "sourceUrl": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-italie-l-ecole-qui-n-exclut-personne_7875536.html",
+    "relatedSources": [
+      {
+        "name": "franceinfo.fr",
+        "url": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-italie-l-ecole-qui-n-exclut-personne_7875536.html"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.franceinfo.fr/sports/handisport.rss",
+    "ingestProvider": "franceinfo.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-9abe524a",
+    "status": "published",
+    "translationOf": "nous-les-europeens-italie-lecole-qui-nexclut-personne-zh-9abe524a",
+    "publishedAt": "2026-03-19T10:20:39.000Z",
+    "fetchedAt": "2026-09-20T02:26:33.671Z",
+    "body": "Grand reportage, invités et actualité européenne sont au sommaire de ce magazine d'information, présenté par Eléonore Gay et diffusé le jeudi en fin de soirée sur France 2, ainsi que le dimanche à 10h40 sur France 3.\n\nRead more from the original source: [franceinfo.fr](https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-italie-l-ecole-qui-n-exclut-personne_7875536.html)"
+  },
+  {
+    "title": "Government Publishes Guide on Neurodiversity Inclusion in Enterprises",
+    "slug": "government-publishes-guide-on-neurodiversity-inclusion-in-enterprises-82237fbb",
+    "lang": "en",
+    "summary": "The government has released a guide aimed at better integrating neurodivergent individuals, such as those with autism, dyslexia, and ADHD, into the workplace. Specialized associations like Agefiph support this initiative, emphasizing the need to demystify disability and foster understanding among employers.",
+    "category": "laws-rights",
+    "tags": [
+      "neurodiversity",
+      "workplace-inclusion",
+      "government-guidance",
+      "disability-awareness"
+    ],
+    "sourceName": "nouvelobs.com",
+    "sourceUrl": "https://www.nouvelobs.com/societe/20260331.OBS113774/autisme-troubles-dys-tdah-il-est-imperatif-de-demystifier-la-neurodiversite-en-entreprise.html",
+    "relatedSources": [
+      {
+        "name": "nouvelobs.com",
+        "url": "https://www.nouvelobs.com/societe/20260331.OBS113774/autisme-troubles-dys-tdah-il-est-imperatif-de-demystifier-la-neurodiversite-en-entreprise.html"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.nouvelobs.com/handicap/rss.xml",
+    "ingestProvider": "nouvelobs.com",
+    "originalLang": "fr",
+    "clusterId": "cluster-82237fbb",
+    "status": "published",
+    "translationOf": "government-publishes-guide-on-neurodiversity-inclusion-in-enterprises-zh-82237fbb",
+    "publishedAt": "2026-03-31T15:05:08.000Z",
+    "fetchedAt": "2026-09-20T07:39:20.495Z",
+    "body": "The government has released a guide aimed at better integrating neurodivergent individuals, such as those with autism, dyslexia, and ADHD, into the workplace. Specialized associations like Agefiph support this initiative, emphasizing the need to demystify disability and foster understanding among employers.\n\nRead more from the original source: [nouvelobs.com](https://www.nouvelobs.com/societe/20260331.OBS113774/autisme-troubles-dys-tdah-il-est-imperatif-de-demystifier-la-neurodiversite-en-entreprise.html)"
   }
 ]

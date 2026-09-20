@@ -66,5 +66,74 @@
     "publishedAt": "2025-10-02T03:18:41.000Z",
     "fetchedAt": "2026-09-18T15:24:03.164Z",
     "body": "示範如何在macOS VoiceOver實用程式中找到Braille Access設定，指出與iOS的差異，更正UEB在Mac上的可用性，並分享處理BRF檔案的快捷鍵。\n\n原文來源： [davidwoodbr.podbean.com](https://davidwoodbr.podbean.com/e/using-braille-access-via-voiceover-on-the-mac-continuation-of-last-podcast-re-braille-access-on-ios-with-voiceover)"
+  },
+  {
+    "title": "三屆帕運冠軍 Mathieu Bosredon 宣布退役",
+    "slug": "triple-paralympic-champion-mathieu-bosredon-retires-from-paracycling-zh-132b13f6",
+    "lang": "zh-TW",
+    "summary": "法國民間帕運動自行車選手 Mathieu Bosredon，作為三屆帕運冠軍，在 34 歲時宣布結束職業生涯。他在 2024 年成為首位與 Cofidis 車隊簽訂職業合約的法國帕運動自行車選手。",
+    "category": "general",
+    "tags": [
+      "paralympics",
+      "paracycling",
+      "sports",
+      "career",
+      "athlete"
+    ],
+    "sourceName": "franceinfo.fr",
+    "sourceUrl": "https://www.franceinfo.fr/jeux-paralympiques/cyclisme-aux-jeux-paralympiques-de-tokyo-2021/cyclisme-le-francais-mathieu-bosredon-triple-champion-paralympique-arrete-sa-carriere_7558762.html",
+    "relatedSources": [
+      {
+        "name": "franceinfo.fr",
+        "url": "https://www.franceinfo.fr/jeux-paralympiques/cyclisme-aux-jeux-paralympiques-de-tokyo-2021/cyclisme-le-francais-mathieu-bosredon-triple-champion-paralympique-arrete-sa-carriere_7558762.html"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.franceinfo.fr/sports/handisport.rss",
+    "ingestProvider": "franceinfo.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-132b13f6",
+    "status": "published",
+    "translationOf": "triple-paralympic-champion-mathieu-bosredon-retires-from-paracycling-132b13f6",
+    "publishedAt": "2025-10-17T13:12:43.000Z",
+    "fetchedAt": "2026-09-20T07:36:36.811Z",
+    "body": "法國民間帕運動自行車選手 Mathieu Bosredon，作為三屆帕運冠軍，在 34 歲時宣布結束職業生涯。他在 2024 年成為首位與 Cofidis 車隊簽訂職業合約的法國帕運動自行車選手。\n\n原文來源： [franceinfo.fr](https://www.franceinfo.fr/jeux-paralympiques/cyclisme-aux-jeux-paralympiques-de-tokyo-2021/cyclisme-le-francais-mathieu-bosredon-triple-champion-paralympique-arrete-sa-carriere_7558762.html)"
+  },
+  {
+    "title": "東部市政發展73公里路徑，提升赫爾巴爾市通用無障礙與生活品質",
+    "slug": "eastern-municipality-develops-73km-of-paths-to-enhance-universal-access-and-qual-zh-3f2d269b",
+    "lang": "zh-TW",
+    "summary": "沙烏地阿拉伯東部省為改善赫爾巴爾市的通用無障礙通行能力和生活品質，發展了73公里的路徑。這些實體基礎設施的升級旨在確保公共空間對行動不便人士具有可及性和包容性。",
+    "category": "physical-design",
+    "tags": [
+      "infrastructure",
+      "universal-access",
+      "mobility",
+      "Saudi-Arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.spa.gov.sa/N2420659",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.spa.gov.sa/N2420659"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84+%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-3f2d269b",
+    "status": "published",
+    "translationOf": "eastern-municipality-develops-73km-of-paths-to-enhance-universal-access-and-qual-3f2d269b",
+    "publishedAt": "2025-10-14T07:00:00.000Z",
+    "fetchedAt": "2026-09-20T07:42:07.728Z",
+    "body": "沙烏地阿拉伯東部省為改善赫爾巴爾市的通用無障礙通行能力和生活品質，發展了73公里的路徑。這些實體基礎設施的升級旨在確保公共空間對行動不便人士具有可及性和包容性。\n\n原文來源： [news.google.com](https://www.spa.gov.sa/N2420659)"
   }
 ]

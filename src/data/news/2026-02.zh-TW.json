@@ -253,5 +253,74 @@
     "publishedAt": "2026-02-04T22:36:16.000Z",
     "fetchedAt": "2026-09-18T05:57:12.739Z",
     "body": "該服務由殘障測試者執行 WCAG 無障礙審核與 VPAT 報告，確保評估的真實性和準確性。\n\n原文來源： [makeitfable.com](https://makeitfable.com/tutorial/page-audits)"
+  },
+  {
+    "title": "AGEFIPH 提供的特定支援服務",
+    "slug": "specific-support-service-by-agefiph-zh-90f9910c",
+    "lang": "zh-TW",
+    "summary": "由 AGEFIPH（法國私人部門殘疾人就業融資機構）提供的特定支援服務，為残障人士及其雇主提供專業協助。",
+    "category": "laws-rights",
+    "tags": [
+      "employment",
+      "disability",
+      "support-services",
+      "AGEFIPH",
+      "inclusion"
+    ],
+    "sourceName": "agefiph.fr",
+    "sourceUrl": "https://www.agefiph.fr/centre-aide/service-dappui-specifique",
+    "relatedSources": [
+      {
+        "name": "agefiph.fr",
+        "url": "https://www.agefiph.fr/centre-aide/service-dappui-specifique"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.agefiph.fr/rss.xml",
+    "ingestProvider": "agefiph.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-90f9910c",
+    "status": "published",
+    "translationOf": "specific-support-service-by-agefiph-90f9910c",
+    "publishedAt": "2026-02-27T10:29:25.000Z",
+    "fetchedAt": "2026-09-20T07:36:36.815Z",
+    "body": "由 AGEFIPH（法國私人部門殘疾人就業融資機構）提供的特定支援服務，為残障人士及其雇主提供專業協助。\n\n原文來源： [agefiph.fr](https://www.agefiph.fr/centre-aide/service-dappui-specifique)"
+  },
+  {
+    "title": "HandiEM、Leem 和 Agefiph 促進殘疾人在製藥業中的納入",
+    "slug": "handiem-leem-and-agefiph-promote-inclusion-of-people-with-disabilities-in-the-ph-zh-281ebedc",
+    "lang": "zh-TW",
+    "summary": "HandiEM、Leem 和 Agefiph 合作支持法國製藥業中殘障人士的就業與納入。",
+    "category": "laws-rights",
+    "tags": [
+      "employment",
+      "inclusion",
+      "pharmaceutical",
+      "France"
+    ],
+    "sourceName": "agefiph.fr",
+    "sourceUrl": "https://www.agefiph.fr/espace-presse/tous-les-documents-presse/handiem-leem-et-lagefiph-pour-linclusion-des-personnes",
+    "relatedSources": [
+      {
+        "name": "agefiph.fr",
+        "url": "https://www.agefiph.fr/espace-presse/tous-les-documents-presse/handiem-leem-et-lagefiph-pour-linclusion-des-personnes"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.agefiph.fr/rss.xml",
+    "ingestProvider": "agefiph.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-281ebedc",
+    "status": "published",
+    "translationOf": "handiem-leem-and-agefiph-promote-inclusion-of-people-with-disabilities-in-the-ph-281ebedc",
+    "publishedAt": "2026-02-04T10:44:22.000Z",
+    "fetchedAt": "2026-09-20T07:39:35.629Z",
+    "body": "HandiEM、Leem 和 Agefiph 合作支持法國製藥業中殘障人士的就業與納入。\n\n原文來源： [agefiph.fr](https://www.agefiph.fr/espace-presse/tous-les-documents-presse/handiem-leem-et-lagefiph-pour-linclusion-des-personnes)"
   }
 ]

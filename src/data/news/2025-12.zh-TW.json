@@ -192,5 +192,39 @@
     "publishedAt": "2025-12-12T21:19:15.000Z",
     "fetchedAt": "2026-09-18T15:24:03.162Z",
     "body": "Fable的試點研究提出五項實用方法，調整UX研究以適應認知測試者，促進神經多樣性用戶的包容性設計。\n\n原文來源： [makeitfable.com](https://makeitfable.com/article/cognitive-accessibility-pilot-case-study)"
+  },
+  {
+    "title": "2024 巴黎殘奧會對身心障礙體育實踐的影響",
+    "slug": "impact-of-paris-2024-paralympics-on-disability-sports-practices-zh-43271646",
+    "lang": "zh-TW",
+    "summary": "本文評估了 2024 年巴黎殘奧會對法國身心障礙體育實踐和公眾視角的影響，重點闡述了該賽事如何為 1,200 萬受影響的法國人拓展了發展空間。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "Paralympics",
+      "sport",
+      "france",
+      "disability-perception"
+    ],
+    "sourceName": "franceinfo.fr",
+    "sourceUrl": "https://www.franceinfo.fr/sports/handisport/les-jeux-paralympiques-ont-ouvert-le-champ-des-possibles-sport-et-handicap-comment-les-jeux-ont-fait-evoluer-les-pratiques-et-change-les-regards_7611674.html",
+    "relatedSources": [
+      {
+        "name": "franceinfo.fr",
+        "url": "https://www.franceinfo.fr/sports/handisport/les-jeux-paralympiques-ont-ouvert-le-champ-des-possibles-sport-et-handicap-comment-les-jeux-ont-fait-evoluer-les-pratiques-et-change-les-regards_7611674.html"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.franceinfo.fr/sports/handisport.rss",
+    "ingestProvider": "franceinfo.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-43271646",
+    "status": "published",
+    "translationOf": "impact-of-paris-2024-paralympics-on-disability-sports-practices-43271646",
+    "publishedAt": "2025-12-03T05:00:01.000Z",
+    "fetchedAt": "2026-09-20T02:27:51.542Z",
+    "body": "本文評估了 2024 年巴黎殘奧會對法國身心障礙體育實踐和公眾視角的影響，重點闡述了該賽事如何為 1,200 萬受影響的法國人拓展了發展空間。\n\n原文來源： [franceinfo.fr](https://www.franceinfo.fr/sports/handisport/les-jeux-paralympiques-ont-ouvert-le-champ-des-possibles-sport-et-handicap-comment-les-jeux-ont-fait-evoluer-les-pratiques-et-change-les-regards_7611674.html)"
   }
 ]

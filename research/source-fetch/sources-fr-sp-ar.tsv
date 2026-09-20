@@ -1,0 +1,17 @@
+lang	kind	count	domain	url	note	status
+fr	rss	8	handicap.fr	https://handicap.fr/rss/	Handicap.fr 每日更新 (RDF/RSS 1.0)	ok
+fr	rss	8	access42.net	https://access42.net/feed/	Access42 數位無障礙	ok
+fr	rss	8	faire-face.fr	https://faire-face.fr/feed/	Faire Face (Unapei)	ok
+fr	rss	8	lemonde.fr	https://www.lemonde.fr/handicap/rss_full.xml	Le Monde Handicap	ok
+fr	rss	8	la-croix.com	https://www.la-croix.com/feeds/rss/Dossiers-Dynamiques/Handicap.xml	La Croix Handicap	ok
+fr	rss	8	nouvelobs.com	https://www.nouvelobs.com/handicap/rss.xml	L’Obs Handicap	ok
+fr	rss	8	franceinfo.fr	https://www.franceinfo.fr/sports/handisport.rss	Franceinfo Handisport	ok
+fr	rss	8	agefiph.fr	https://www.agefiph.fr/rss.xml	Agefiph	ok
+es	rss	8	discapnet.es	https://www.discapnet.es/rss/noticias-eventos.xml	Discapnet 每日更新	ok
+ar	rss	8	asdmag.org	https://asdmag.org/feed/	سنابل الأمل	ok
+ar	rss	8	mo3akpress.com	https://mo3akpress.com/feed/	معاك برس	ok
+ar	googlenews	25	news.google.com	https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA:ar	الإعاقة gl=SA	ok
+ar	googlenews	25	news.google.com	https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A%20%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE:ar	ذوي الإعاقة gl=AE	ok
+ar	googlenews	25	news.google.com	https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8%20%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE:ar	أصحاب الهمم gl=AE	ok
+ar	googlenews	25	news.google.com	https://news.google.com/rss/search?q=%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84%20%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84&hl=ar&gl=SA&ceid=SA:ar	الوصول الشامل gl=SA	ok
+ar	googlenews	25	news.google.com	https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA%20%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG:ar	التقنيات المساعدة gl=EG	ok

@@ -192,5 +192,39 @@
     "publishedAt": "2025-12-12T21:19:15.000Z",
     "fetchedAt": "2026-09-18T15:24:03.162Z",
     "body": "A Fable pilot study outlines five practical ways to adapt UX research for cognitive testers, promoting inclusive design for neurodiverse users.\n\nRead more from the original source: [makeitfable.com](https://makeitfable.com/article/cognitive-accessibility-pilot-case-study)"
+  },
+  {
+    "title": "Impact of Paris 2024 Paralympics on Disability Sports Practices",
+    "slug": "impact-of-paris-2024-paralympics-on-disability-sports-practices-43271646",
+    "lang": "en",
+    "summary": "The article evaluates the impact of the Paris 2024 Paralympics on sports practices and public perception of disability in France, highlighting how the event expanded possibilities for the 12 million French people concerned.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "Paralympics",
+      "sport",
+      "france",
+      "disability-perception"
+    ],
+    "sourceName": "franceinfo.fr",
+    "sourceUrl": "https://www.franceinfo.fr/sports/handisport/les-jeux-paralympiques-ont-ouvert-le-champ-des-possibles-sport-et-handicap-comment-les-jeux-ont-fait-evoluer-les-pratiques-et-change-les-regards_7611674.html",
+    "relatedSources": [
+      {
+        "name": "franceinfo.fr",
+        "url": "https://www.franceinfo.fr/sports/handisport/les-jeux-paralympiques-ont-ouvert-le-champ-des-possibles-sport-et-handicap-comment-les-jeux-ont-fait-evoluer-les-pratiques-et-change-les-regards_7611674.html"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.franceinfo.fr/sports/handisport.rss",
+    "ingestProvider": "franceinfo.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-43271646",
+    "status": "published",
+    "translationOf": "impact-of-paris-2024-paralympics-on-disability-sports-practices-zh-43271646",
+    "publishedAt": "2025-12-03T05:00:01.000Z",
+    "fetchedAt": "2026-09-20T02:27:51.542Z",
+    "body": "The article evaluates the impact of the Paris 2024 Paralympics on sports practices and public perception of disability in France, highlighting how the event expanded possibilities for the 12 million French people concerned.\n\nRead more from the original source: [franceinfo.fr](https://www.franceinfo.fr/sports/handisport/les-jeux-paralympiques-ont-ouvert-le-champ-des-possibles-sport-et-handicap-comment-les-jeux-ont-fait-evoluer-les-pratiques-et-change-les-regards_7611674.html)"
   }
 ]

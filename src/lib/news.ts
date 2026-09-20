@@ -20,6 +20,7 @@ export interface NewsData {
   ingestType?: string;
   ingestSource?: string;
   ingestProvider?: string;
+  originalLang?: string;
   clusterId: string;
   status: 'draft' | 'published' | 'archived' | 'deleted';
   translationOf?: string;
@@ -49,6 +50,7 @@ interface RawNewsRecord {
   ingestType?: string | null;
   ingestSource?: string | null;
   ingestProvider?: string | null;
+  originalLang?: string | null;
   clusterId: string;
   status?: 'draft' | 'published' | 'archived' | 'deleted';
   translationOf?: string;
@@ -94,6 +96,7 @@ function normalizeRecord(raw: RawNewsRecord): NewsEntry | null {
       ingestType: raw.ingestType ?? undefined,
       ingestSource: raw.ingestSource ?? undefined,
       ingestProvider: raw.ingestProvider ?? undefined,
+      originalLang: raw.originalLang ?? undefined,
       clusterId: String(raw.clusterId ?? ''),
       status: raw.status ?? 'published',
       translationOf: raw.translationOf,

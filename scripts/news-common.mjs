@@ -423,7 +423,7 @@ export async function readExistingKeys() {
   return keys;
 }
 
-export async function writeStoryPair(item, ai, sourceName, sourceUrl, sourceCountry, queryRegion, ingestMeta = {}) {
+export async function writeStoryPair(item, ai, sourceName, sourceUrl, sourceCountry, queryRegion, ingestMeta = {}, extra = {}) {
   const canonicalUrl = normalizeUrl(sourceUrl);
   const publishedAt = toIsoDate(item.isoDate ?? item.pubDate);
   const fetchedAt = new Date().toISOString();
@@ -450,6 +450,7 @@ export async function writeStoryPair(item, ai, sourceName, sourceUrl, sourceCoun
     ingestType: String(ingestMeta.ingestType ?? ''),
     ingestSource: String(ingestMeta.ingestSource ?? ''),
     ingestProvider: String(ingestMeta.ingestProvider ?? ''),
+    ...extra,
     clusterId,
     status: 'published',
     translationOf: zhSlug,
@@ -474,6 +475,7 @@ export async function writeStoryPair(item, ai, sourceName, sourceUrl, sourceCoun
     ingestType: String(ingestMeta.ingestType ?? ''),
     ingestSource: String(ingestMeta.ingestSource ?? ''),
     ingestProvider: String(ingestMeta.ingestProvider ?? ''),
+    ...extra,
     clusterId,
     status: zhIsTranslated(ai.zhTitle, ai.zhSummary) ? 'published' : 'draft',
     translationOf: enSlug,

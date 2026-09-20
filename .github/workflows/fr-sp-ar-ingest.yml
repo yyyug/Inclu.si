@@ -1,0 +1,150 @@
+name: Twice-Daily Ingest FR/ES/AR Sources
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "25 2,14 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch, generate FR/ES/AR stories
+        id: fr_sp_ar_ingest
+        shell: bash
+        run: |
+          set -o pipefail
+          npm run news:ingest-fr-sp-ar 2>&1 | tee fr-sp-ar.log
+        env:
+          SOURCES_TSV: sources-fr-sp-ar.tsv
+          AGNES_API_KEY: ${{ secrets.AGNES_API_KEY }}
+          AGNES_BASE_URL: https://apihub.agnes-ai.com/v1
+          AGNES_MODEL: agnes-3.0-flash
+          AGNES_MAX_TOKENS: 32768
+          AGNES_TIMEOUT_MS: 600000
+          AGNES_MAX_RETRIES: 3
+          OLLAMA_API_KEY: ${{ secrets.OLLAMA_API_KEY }}
+          OLLAMA_BASE_URL: ${{ secrets.OLLAMA_BASE_URL }}
+          OLLAMA_MODEL: nemotron-3-super:cloud
+          OLLAMA_MAX_TOKENS: 8192
+          OLLAMA_TIMEOUT_MS: 180000
+          OLLAMA_MAX_RETRIES: 3
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL: openai/gpt-oss-120b
+          GROQ_TIMEOUT_MS: 300000
+          FR_SP_AR_ITEMS: 8
+          FR_SP_AR_GOOGLE_ITEMS: 25
+          FR_SP_AR_MAX_TOTAL: 80
+          BATCH_SIZE: 3
+
+      - name: Upload ingest log artifact
+        if: failure()
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: fr-sp-ar-ingest-log-${{ github.run_id }}
+          path: fr-sp-ar.log
+          if-no-files-found: ignore
+          retention-days: 2
+
+      - name: Commit generated content
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/news
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            echo "COMMITTED_YES_NO=no" >> "$GITHUB_ENV"
+          else
+            for attempt in 1 2 3; do
+              git reset HEAD~1 --soft 2>/dev/null || true
+              git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+              git add src/data/news
+              git commit -m "chore: ingest FR/ES/AR accessibility sources"
+              if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+                echo "COMMITTED_YES_NO=yes" >> "$GITHUB_ENV"
+                exit 0
+              fi
+              echo "Push attempt ${attempt} failed; retrying..."
+            done
+            echo "Failed to push changes after retries"
+            exit 1
+          fi
+
+      - name: Deploy to Cloudflare Pages
+        if: always()
+        continue-on-error: true
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: f12f219ab9cf823c47c1e01a463d67a6
+        run: |
+          npm run build
+          npx wrangler pages deploy dist --project-name inclu-si --branch main
+
+      - name: Report step outcomes
+        if: always()
+        shell: bash
+        run: |
+          echo "fr_sp_ar_ingest=${{ steps.fr_sp_ar_ingest.outcome }}"
+
+      - name: Build concise run summary
+        if: always()
+        continue-on-error: true
+        shell: bash
+        run: |
+          if [ -f fr-sp-ar.log ]; then
+            candidates=$(grep -Eo '\[fr-sp-ar\] candidates_queued=[0-9]+' fr-sp-ar.log | tail -1 | cut -d= -f2)
+            by_lang=$(grep -Eo '\[fr-sp-ar\] by_lang=.*' fr-sp-ar.log | tail -1 | cut -d= -f2-)
+          else
+            candidates="n/a"
+            by_lang="n/a"
+          fi
+
+          candidates=${candidates:-n/a}
+          by_lang=${by_lang:-n/a}
+
+          {
+            echo "workflow=fr-sp-ar-ingest"
+            echo "run_id=${{ github.run_id }}"
+            echo "run_attempt=${{ github.run_attempt }}"
+            echo "job_status=${{ job.status }}"
+            echo "ref=${{ github.ref_name }}"
+            echo "sha=${{ github.sha }}"
+            echo "generated_at_utc=$(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            echo "candidates=${candidates}"
+            echo "by_lang=${by_lang}"
+            echo "committed_yes_no=${COMMITTED_YES_NO:-no}"
+            if [ -f fr-sp-ar.log ]; then
+              echo "log_tail:"
+              tail -n 60 fr-sp-ar.log
+            else
+              echo "log_tail=fr-sp-ar.log not found"
+            fi
+          } > fr-sp-ar-summary.txt
+
+      - name: Upload concise run summary
+        if: always()
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: fr-sp-ar-summary-${{ github.run_id }}
+          path: fr-sp-ar-summary.txt
+          if-no-files-found: ignore
+          retention-days: 2

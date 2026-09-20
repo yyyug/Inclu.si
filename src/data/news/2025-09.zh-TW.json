@@ -200,5 +200,34 @@
     "publishedAt": "2025-09-02T01:50:38.000Z",
     "fetchedAt": "2026-09-18T15:31:42.167Z",
     "body": "此短片展示了 Brailiant BI40X 點字顯示器在 macOS 上與 VoiceOver 協同運作的情況，凸顯其輔助技術特點。\n\n原文來源： [davidwoodbr.podbean.com](https://davidwoodbr.podbean.com/e/taster-demo-of-using-brailiant-bi40x-braille-display-with-voiceover-on-the-mac)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "largent-de-ma-medaille-ma-permis-de-continuer-un-an-apres-le-titre-daurelie-aube-zh-4b5b65c2",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "franceinfo.fr",
+    "sourceUrl": "https://www.franceinfo.fr/jeux-paralympiques/boccia/l-argent-de-ma-medaille-m-a-permis-de-continuer-un-an-apres-le-titre-d-aurelie-aubert-les-jeux-de-paris-ont-ils-change-la-vie-des-para-athletes_7468576.html",
+    "relatedSources": [
+      {
+        "name": "franceinfo.fr",
+        "url": "https://www.franceinfo.fr/jeux-paralympiques/boccia/l-argent-de-ma-medaille-m-a-permis-de-continuer-un-an-apres-le-titre-d-aurelie-aubert-les-jeux-de-paris-ont-ils-change-la-vie-des-para-athletes_7468576.html"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.franceinfo.fr/sports/handisport.rss",
+    "ingestProvider": "franceinfo.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-4b5b65c2",
+    "status": "draft",
+    "translationOf": "largent-de-ma-medaille-ma-permis-de-continuer-un-an-apres-le-titre-daurelie-aube-4b5b65c2",
+    "publishedAt": "2025-09-02T14:12:59.000Z",
+    "fetchedAt": "2026-09-20T07:39:21.586Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [franceinfo.fr](https://www.franceinfo.fr/jeux-paralympiques/boccia/l-argent-de-ma-medaille-m-a-permis-de-continuer-un-an-apres-le-titre-d-aurelie-aubert-les-jeux-de-paris-ont-ils-change-la-vie-des-para-athletes_7468576.html)"
   }
 ]

@@ -33,5 +33,39 @@
     "publishedAt": "2025-11-02T23:46:07.000Z",
     "fetchedAt": "2026-09-18T06:00:31.496Z",
     "body": "Demo shows how to connect and operate two Humanware/APH Braille displays simultaneously using an iPhone or iPad for training and demonstration.\n\nRead more from the original source: [davidwoodbr.podbean.com](https://davidwoodbr.podbean.com/e/tip-demo-of-running-two-humanwareaph-braille-displays-at-the-same-time-for-training-demoing-etc)"
+  },
+  {
+    "title": "Paris to Host Unified Football World Cup at Charléty in July 2026",
+    "slug": "paris-to-host-unified-football-world-cup-at-charlety-in-july-2026-d76d2f34",
+    "lang": "en",
+    "summary": "Paris will host the Unified Football World Cup at the Charléty stadium from July 5 to 11, 2026. This event features teams comprised of players with intellectual disabilities, promoting inclusion and accessibility in sports for people with cognitive conditions.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "football",
+      "intellectual-disability",
+      "inclusion",
+      "sports"
+    ],
+    "sourceName": "franceinfo.fr",
+    "sourceUrl": "https://www.franceinfo.fr/sports/handicap-mental-paris-va-accueillir-la-coupe-du-monde-de-football-unifie-a-charlety-en-juillet-2026_7622090.html",
+    "relatedSources": [
+      {
+        "name": "franceinfo.fr",
+        "url": "https://www.franceinfo.fr/sports/handicap-mental-paris-va-accueillir-la-coupe-du-monde-de-football-unifie-a-charlety-en-juillet-2026_7622090.html"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.franceinfo.fr/sports/handisport.rss",
+    "ingestProvider": "franceinfo.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-d76d2f34",
+    "status": "published",
+    "translationOf": "paris-to-host-unified-football-world-cup-at-charlety-in-july-2026-zh-d76d2f34",
+    "publishedAt": "2025-11-17T13:37:05.000Z",
+    "fetchedAt": "2026-09-20T07:35:43.715Z",
+    "body": "Paris will host the Unified Football World Cup at the Charléty stadium from July 5 to 11, 2026. This event features teams comprised of players with intellectual disabilities, promoting inclusion and accessibility in sports for people with cognitive conditions.\n\nRead more from the original source: [franceinfo.fr](https://www.franceinfo.fr/sports/handicap-mental-paris-va-accueillir-la-coupe-du-monde-de-football-unifie-a-charlety-en-juillet-2026_7622090.html)"
   }
 ]

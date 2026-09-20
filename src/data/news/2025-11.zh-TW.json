@@ -33,5 +33,39 @@
     "publishedAt": "2025-11-02T23:46:07.000Z",
     "fetchedAt": "2026-09-18T06:00:31.496Z",
     "body": "此示範展示如何透過 iPhone 或 iPad 同時連接並操作兩台 Humanware/APH 點字顯示器（如 Mantis Q40、BI20X、BI40X），用於訓練和展示目的。\n\n原文來源： [davidwoodbr.podbean.com](https://davidwoodbr.podbean.com/e/tip-demo-of-running-two-humanwareaph-braille-displays-at-the-same-time-for-training-demoing-etc)"
+  },
+  {
+    "title": "巴黎將於2026年7月在沙雷利舉辦融合足球世界盃",
+    "slug": "paris-to-host-unified-football-world-cup-at-charlety-in-july-2026-zh-d76d2f34",
+    "lang": "zh-TW",
+    "summary": "巴黎將於2026年7月5日至11日在沙雷利球場舉辦融合足球世界盃。該賽事由智力障礙球員組成的隊伍參與，旨在促進殘障人士在體育領域的融合與無障礙體驗。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "football",
+      "intellectual-disability",
+      "inclusion",
+      "sports"
+    ],
+    "sourceName": "franceinfo.fr",
+    "sourceUrl": "https://www.franceinfo.fr/sports/handicap-mental-paris-va-accueillir-la-coupe-du-monde-de-football-unifie-a-charlety-en-juillet-2026_7622090.html",
+    "relatedSources": [
+      {
+        "name": "franceinfo.fr",
+        "url": "https://www.franceinfo.fr/sports/handicap-mental-paris-va-accueillir-la-coupe-du-monde-de-football-unifie-a-charlety-en-juillet-2026_7622090.html"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.franceinfo.fr/sports/handisport.rss",
+    "ingestProvider": "franceinfo.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-d76d2f34",
+    "status": "published",
+    "translationOf": "paris-to-host-unified-football-world-cup-at-charlety-in-july-2026-d76d2f34",
+    "publishedAt": "2025-11-17T13:37:05.000Z",
+    "fetchedAt": "2026-09-20T07:35:43.715Z",
+    "body": "巴黎將於2026年7月5日至11日在沙雷利球場舉辦融合足球世界盃。該賽事由智力障礙球員組成的隊伍參與，旨在促進殘障人士在體育領域的融合與無障礙體驗。\n\n原文來源： [franceinfo.fr](https://www.franceinfo.fr/sports/handicap-mental-paris-va-accueillir-la-coupe-du-monde-de-football-unifie-a-charlety-en-juillet-2026_7622090.html)"
   }
 ]

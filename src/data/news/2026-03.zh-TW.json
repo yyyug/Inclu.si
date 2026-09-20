@@ -718,5 +718,101 @@
     "publishedAt": "2026-03-04T21:31:51.000Z",
     "fetchedAt": "2026-09-18T15:31:23.088Z",
     "body": "介紹獲得 iF 設計獎的 BrailleSense 7 智慧點字平板，這款便攜式設備為盲人使用者提供點字輸出與觸覺回饋，以存取數位內容。\n\n原文來源： [selvasblv](https://www.youtube.com/watch?v=ZBEeuowOC70)"
+  },
+  {
+    "title": "警惕涉及殘障人士就業義務的詐騙行銷",
+    "slug": "warning-against-fraudulent-solicitation-regarding-employment-obligation-for-work-zh-997f0e05",
+    "lang": "zh-TW",
+    "summary": "AGI FIPH提醒民眾注意關於「殘障工作者就業義務」（OETH）的詐騙電話或訪銷，這些詐騙往往承諾降低企業的金額貢獻。機構建議大眾謹慎處理針對殘障就業法律合規的詐騙行為。",
+    "category": "laws-rights",
+    "tags": [
+      "fraud",
+      "employment",
+      "disability-laws"
+    ],
+    "sourceName": "agefiph.fr",
+    "sourceUrl": "https://www.agefiph.fr/actualites-handicap/doeth-alerte-aux-demarchages-frauduleux",
+    "relatedSources": [
+      {
+        "name": "agefiph.fr",
+        "url": "https://www.agefiph.fr/actualites-handicap/doeth-alerte-aux-demarchages-frauduleux"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.agefiph.fr/rss.xml",
+    "ingestProvider": "agefiph.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-997f0e05",
+    "status": "published",
+    "translationOf": "warning-against-fraudulent-solicitation-regarding-employment-obligation-for-work-997f0e05",
+    "publishedAt": "2026-03-30T09:55:07.000Z",
+    "fetchedAt": "2026-09-20T02:23:01.256Z",
+    "body": "AGI FIPH提醒民眾注意關於「殘障工作者就業義務」（OETH）的詐騙電話或訪銷，這些詐騙往往承諾降低企業的金額貢獻。機構建議大眾謹慎處理針對殘障就業法律合規的詐騙行為。\n\n原文來源： [agefiph.fr](https://www.agefiph.fr/actualites-handicap/doeth-alerte-aux-demarchages-frauduleux)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "nous-les-europeens-italie-lecole-qui-nexclut-personne-zh-9abe524a",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "franceinfo.fr",
+    "sourceUrl": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-italie-l-ecole-qui-n-exclut-personne_7875536.html",
+    "relatedSources": [
+      {
+        "name": "franceinfo.fr",
+        "url": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-italie-l-ecole-qui-n-exclut-personne_7875536.html"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.franceinfo.fr/sports/handisport.rss",
+    "ingestProvider": "franceinfo.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-9abe524a",
+    "status": "draft",
+    "translationOf": "nous-les-europeens-italie-lecole-qui-nexclut-personne-9abe524a",
+    "publishedAt": "2026-03-19T10:20:39.000Z",
+    "fetchedAt": "2026-09-20T02:26:33.671Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [franceinfo.fr](https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-italie-l-ecole-qui-n-exclut-personne_7875536.html)"
+  },
+  {
+    "title": "政府發布職場神經多樣性納入指南",
+    "slug": "government-publishes-guide-on-neurodiversity-inclusion-in-enterprises-zh-82237fbb",
+    "lang": "zh-TW",
+    "summary": "政府發布了旨在將神經多樣性人士（如自閉症、閱讀障礙及注意力缺陷過動症患者）更好地納入職場的指南。Agefiph等專業協會支持這一舉措，並強調需要消除對職場殘疾的迷思，促進雇主的理解。",
+    "category": "laws-rights",
+    "tags": [
+      "neurodiversity",
+      "workplace-inclusion",
+      "government-guidance",
+      "disability-awareness"
+    ],
+    "sourceName": "nouvelobs.com",
+    "sourceUrl": "https://www.nouvelobs.com/societe/20260331.OBS113774/autisme-troubles-dys-tdah-il-est-imperatif-de-demystifier-la-neurodiversite-en-entreprise.html",
+    "relatedSources": [
+      {
+        "name": "nouvelobs.com",
+        "url": "https://www.nouvelobs.com/societe/20260331.OBS113774/autisme-troubles-dys-tdah-il-est-imperatif-de-demystifier-la-neurodiversite-en-entreprise.html"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.nouvelobs.com/handicap/rss.xml",
+    "ingestProvider": "nouvelobs.com",
+    "originalLang": "fr",
+    "clusterId": "cluster-82237fbb",
+    "status": "published",
+    "translationOf": "government-publishes-guide-on-neurodiversity-inclusion-in-enterprises-82237fbb",
+    "publishedAt": "2026-03-31T15:05:08.000Z",
+    "fetchedAt": "2026-09-20T07:39:20.495Z",
+    "body": "政府發布了旨在將神經多樣性人士（如自閉症、閱讀障礙及注意力缺陷過動症患者）更好地納入職場的指南。Agefiph等專業協會支持這一舉措，並強調需要消除對職場殘疾的迷思，促進雇主的理解。\n\n原文來源： [nouvelobs.com](https://www.nouvelobs.com/societe/20260331.OBS113774/autisme-troubles-dys-tdah-il-est-imperatif-de-demystifier-la-neurodiversite-en-entreprise.html)"
   }
 ]

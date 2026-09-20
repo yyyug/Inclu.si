@@ -32,6 +32,14 @@ const sourceTypeLabels: Record<string, Record<Locale, string>> = {
 
 const sourceTypeLabel = sourceTypeLabels[entry.data.ingestType]?.[locale] ?? null;
 
+const languageLabelsByLanguage: Record<string, Record<Locale, string>> = {
+  en: { en: 'English', 'zh-TW': '英文' },
+  'zh-TW': { en: 'Chinese', 'zh-TW': '中文' },
+  fr: { en: 'French', 'zh-TW': '法文' },
+  es: { en: 'Spanish', 'zh-TW': '西班牙文' },
+  ar: { en: 'Arabic', 'zh-TW': '阿拉伯文' },
+};
+
 const languageLabelsByRegion: Record<string, Record<Locale, string>> = {
   US: { en: 'English', 'zh-TW': '英文' },
   TW: { en: 'Chinese', 'zh-TW': '中文' },
@@ -41,8 +49,11 @@ const languageLabelsByRegion: Record<string, Record<Locale, string>> = {
   AE: { en: 'Arabic', 'zh-TW': '阿拉伯文' },
 };
 
+const originalLanguageLabel = entry.data.originalLang
+  ? (languageLabelsByLanguage[entry.data.originalLang]?.[locale] ?? null)
+  : null;
 const regionCode = entry.data.sourceCountry ?? entry.data.queryRegion ?? entry.data.region ?? null;
-const languageLabel = regionCode ? (languageLabelsByRegion[regionCode]?.[locale] ?? null) : null;
+const languageLabel = originalLanguageLabel ?? (regionCode ? (languageLabelsByRegion[regionCode]?.[locale] ?? null) : null);
 ---
 
 <article class="group rounded-3xl border border-slate-200 bg-white p-5 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg sm:p-8">
