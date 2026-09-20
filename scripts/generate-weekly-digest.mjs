@@ -56,7 +56,7 @@ function normalizeLocaleDigest(record) {
   const highlights = Array.isArray(record?.highlights)
     ? record.highlights
       .filter((item) => item && typeof item.slug === 'string')
-      .map((item) => ({ title: String(item.title ?? ''), slug: item.slug }))
+      .map((item) => ({ title: String(item.title ?? ''), slug: item.slug, url: item.url ? String(item.url) : '' }))
     : [];
   return {
     title: String(record?.title ?? ''),
@@ -95,7 +95,7 @@ function mergeWeeklyHighlights(days, locale) {
     highlights.forEach((item, index) => {
       let record = scored.get(item.slug);
       if (!record) {
-        record = { title: item.title, slug: item.slug, score: 0, count: 0 };
+        record = { title: item.title, slug: item.slug, url: item.url ? String(item.url) : '', score: 0, count: 0 };
         scored.set(item.slug, record);
       }
       record.score += 10000 - index;
@@ -106,7 +106,7 @@ function mergeWeeklyHighlights(days, locale) {
   return Array.from(scored.values())
     .sort((a, b) => b.score - a.score || b.count - a.count || a.slug.localeCompare(b.slug))
     .slice(0, WEEK_MAX_HIGHLIGHTS)
-    .map((item) => ({ title: item.title, slug: item.slug }));
+    .map((item) => ({ title: item.title, slug: item.slug, url: item.url }));
 }
 
 function buildWeeklyPrompt(weekKey, range, days) {

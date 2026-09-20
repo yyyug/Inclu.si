@@ -7,6 +7,7 @@ const DIGESTS_DIR = path.resolve('src/data/digests');
 export interface DigestHighlight {
   title: string;
   slug: string;
+  url?: string;
 }
 
 export interface LocaleDigest {
@@ -41,7 +42,11 @@ function normalizeLocaleDigest(record: unknown): LocaleDigest {
   const rawHighlights = Array.isArray(r?.highlights) ? r.highlights : [];
   const highlights: DigestHighlight[] = rawHighlights
     .filter((item: any): item is { title: string; slug: string } => item && typeof item.slug === 'string')
-    .map((item: any) => ({ title: String(item.title ?? ''), slug: String(item.slug) }));
+    .map((item: any) => ({
+      title: String(item.title ?? ''),
+      slug: String(item.slug),
+      url: item.url && typeof item.url === 'string' ? item.url : undefined,
+    }));
   return {
     title: String(r?.title ?? ''),
     summary: String(r?.summary ?? ''),
@@ -181,7 +186,8 @@ export function buildHighlightLinks(
   if (!digest?.highlights) return [];
   return digest.highlights.map((item) => {
     const entry = entryBySlug.get(item.slug);
-    const href = entry?.data.sourceUrl ?? basePath;
+    const storedUrl = item.url && /^https?:\/\//.test(item.url) ? item.url : null;
+    const href = entry?.data.sourceUrl || storedUrl || basePath;
     const external = /^https?:\/\//.test(href);
     return { label: entry?.data.title ?? item.title, href, external };
   });

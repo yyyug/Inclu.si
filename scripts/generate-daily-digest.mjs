@@ -59,6 +59,7 @@ async function loadRecentPublishedArticles() {
         category: String(row?.category ?? 'general'),
         status: String(row?.status ?? ''),
         publishedAt: String(row?.publishedAt ?? ''),
+        url: String(row?.sourceUrl ?? row?.url ?? row?.link ?? ''),
       });
     }
   }
@@ -164,7 +165,7 @@ function parseDigestResponse(enCandidates, zhCandidates, content) {
       highlights: normalizeHighlightSlugs(enCandidates, Array.isArray(parsed.enHighlightSlugs) ? parsed.enHighlightSlugs.map((slug) => String(slug)) : [])
         .map((slug) => {
           const item = enCandidates.find((row) => row.slug === slug);
-          return item ? { title: item.title, slug: item.slug } : null;
+          return item ? { title: item.title, slug: item.slug, url: item.url } : null;
         })
         .filter(Boolean),
     },
@@ -174,7 +175,7 @@ function parseDigestResponse(enCandidates, zhCandidates, content) {
       highlights: normalizeHighlightSlugs(zhCandidates, Array.isArray(parsed.zhHighlightSlugs) ? parsed.zhHighlightSlugs.map((slug) => String(slug)) : [])
         .map((slug) => {
           const item = zhCandidates.find((row) => row.slug === slug);
-          return item ? { title: item.title, slug: item.slug } : null;
+          return item ? { title: item.title, slug: item.slug, url: item.url } : null;
         })
         .filter(Boolean),
     },
