@@ -8341,5 +8341,50 @@
         }
       ]
     }
+  },
+  "2026-09-21": {
+    "generatedAt": "2026-09-21T15:18:28.013Z",
+    "en": {
+      "title": "Digital Accessibility Advances in Documents and Smart Home Tech",
+      "summary": "New product launches in assistive technology mark a key shift in inclusive design. A specialized OS for visually impaired users and smart locks highlight improved physical access. Simultaneously, new tools are enhancing document accessibility for screen reader users.",
+      "highlights": [
+        {
+          "title": "Googlebooks, Aluminium OS and the Schlage Smart Lock That Opens Itself",
+          "slug": "googlebooks-aluminium-os-and-the-schlage-smart-lock-that-opens-itself-5d4144ad",
+          "url": "https://doubletaponair.com/googlebooks-aluminium-os-and-the-schlage-smart-lock-that-opens-itself-2"
+        },
+        {
+          "title": "Scanned PDF vs. Screen Reader: Before and After the PREP Tool",
+          "slug": "scanned-pdf-vs-screen-reader-before-and-after-the-prep-tool-1be9fcb0",
+          "url": "https://theaccessibilityguy.com/scanned-pdf-vs-screen-reader-before-and-after-the-prep-tool"
+        },
+        {
+          "title": "Access Information News for Monday, September 21, 2026 – Volume 1085",
+          "slug": "access-information-news-for-monday-september-21-2026-volume-1085-1ec95cd0",
+          "url": "https://accessinformationnews.com/newsletter-09-21-2026"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "數位無障礙科技進展：文件與智能家居的革新",
+      "summary": "輔助科技的產品發佈標誌著包容性設計的重要轉變。專為視障人士打造的作業系統及智慧鎖提升了實體使用的便利性。同時，新工具也強化了文件對螢幕閱讀使用者的無障礙支持。",
+      "highlights": [
+        {
+          "title": "Googlebooks、Aluminium OS 與會自動開啟的 Schlage 智慧鎖",
+          "slug": "googlebooks-aluminium-os-and-the-schlage-smart-lock-that-opens-itself-zh-5d4144ad",
+          "url": "https://doubletaponair.com/googlebooks-aluminium-os-and-the-schlage-smart-lock-that-opens-itself-2"
+        },
+        {
+          "title": "掃描 PDF 與螢幕閱讀器：PREP 工具前後比較",
+          "slug": "scanned-pdf-vs-screen-reader-before-and-after-the-prep-tool-zh-1be9fcb0",
+          "url": "https://theaccessibilityguy.com/scanned-pdf-vs-screen-reader-before-and-after-the-prep-tool"
+        },
+        {
+          "title": "無障礙資訊新聞：2026年9月21日 星期一 第1085期",
+          "slug": "access-information-news-for-monday-september-21-2026-volume-1085-zh-1ec95cd0",
+          "url": "https://accessinformationnews.com/newsletter-09-21-2026"
+        }
+      ]
+    }
   }
 }
