@@ -1160,6 +1160,7 @@
     "body": "提供收到無障礙申訴後前 30 天內應採取的步驟，包括郵件處理、調查、補救及法律考量。\n\n原文來源： [theaccessibilityguy.com](https://theaccessibilityguy.com/what-to-do-in-the-first-30-days-after-an-accessibility-complaint)"
   },
   {
+<<<<<<< Updated upstream
     "title": "掃描 PDF 與螢幕閱讀器：PREP 工具前後比較",
     "slug": "scanned-pdf-vs-screen-reader-before-and-after-the-prep-tool-zh-1be9fcb0",
     "lang": "zh-TW",
@@ -1207,12 +1208,1148 @@
       {
         "name": "accessinformationnews.com",
         "url": "https://accessinformationnews.com/newsletter-09-21-2026"
+=======
+    "title": "iPhone 18 Pro 無障礙功能指向 AI 更實用的未來",
+    "slug": "iphone-18-pro-accessibility-features-point-to-a-more-useful-future-for-ai-zh-92b3e5b6",
+    "lang": "zh-TW",
+    "summary": "即將推出的 iPhone 18 Pro 將加入強化的無障礙功能，運用 AI 技術提升殘障人士的使用體驗。",
+    "category": "assistive-tech",
+    "tags": [
+      "iPhone",
+      "accessibility",
+      "AI",
+      "Apple"
+    ],
+    "sourceName": "Forbes",
+    "sourceUrl": "https://www.forbes.com/sites/keelycatwells/2026/09/21/iphone-18-pro-accessibility-features-point-to-a-more-useful-future-for-ai",
+    "relatedSources": [
+      {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/keelycatwells/2026/09/21/iphone-18-pro-accessibility-features-point-to-a-more-useful-future-for-ai"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-92b3e5b6",
+    "status": "published",
+    "translationOf": "iphone-18-pro-accessibility-features-point-to-a-more-useful-future-for-ai-92b3e5b6",
+    "publishedAt": "2026-09-21T13:00:00.000Z",
+    "fetchedAt": "2026-09-21T15:07:56.621Z",
+    "body": "即將推出的 iPhone 18 Pro 將加入強化的無障礙功能，運用 AI 技術提升殘障人士的使用體驗。\n\n原文來源： [Forbes](https://www.forbes.com/sites/keelycatwells/2026/09/21/iphone-18-pro-accessibility-features-point-to-a-more-useful-future-for-ai)"
+  },
+  {
+    "title": "Three Rivers 現在接受免費居家無障礙改造計畫申請",
+    "slug": "three-rivers-now-accepting-applications-for-free-home-accessibility-program-zh-f7bfc93b",
+    "lang": "zh-TW",
+    "summary": "Three Rivers 提供免費計畫，協助殘障居民進行住宅改造，如安裝坡道與扶手，以提升生活無障礙。",
+    "category": "physical-design",
+    "tags": [
+      "home accessibility",
+      "grant",
+      "disability",
+      "Three Rivers"
+    ],
+    "sourceName": "KRIS 6 News Corpus Christi",
+    "sourceUrl": "https://www.kristv.com/news/local-news/in-your-neighborhood/live-oak-county/three-rivers-now-accepting-applications-for-free-home-accessibility-program",
+    "relatedSources": [
+      {
+        "name": "KRIS 6 News Corpus Christi",
+        "url": "https://www.kristv.com/news/local-news/in-your-neighborhood/live-oak-county/three-rivers-now-accepting-applications-for-free-home-accessibility-program"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f7bfc93b",
+    "status": "published",
+    "translationOf": "three-rivers-now-accepting-applications-for-free-home-accessibility-program-f7bfc93b",
+    "publishedAt": "2026-09-21T10:34:05.000Z",
+    "fetchedAt": "2026-09-21T15:07:56.626Z",
+    "body": "Three Rivers 提供免費計畫，協助殘障居民進行住宅改造，如安裝坡道與扶手，以提升生活無障礙。\n\n原文來源： [KRIS 6 News Corpus Christi](https://www.kristv.com/news/local-news/in-your-neighborhood/live-oak-county/three-rivers-now-accepting-applications-for-free-home-accessibility-program)"
+  },
+  {
+    "title": "什麼是網站 ADA 無障礙？企業需要知道的事項",
+    "slug": "what-is-website-ada-accessibility-and-what-businesses-need-to-know-zh-32c2ae24",
+    "lang": "zh-TW",
+    "summary": "本文解釋 ADA 對網站無障礙的要求，並說明企業應採取的步驟，以確保線上內容對殘障人士友善。",
+    "category": "digital-a11y",
+    "tags": [
+      "ADA",
+      "website accessibility",
+      "business compliance"
+    ],
+    "sourceName": "Technology Org",
+    "sourceUrl": "https://www.technology.org/2026/09/21/what-is-website-ada-accessibility-and-what-businesses-need-to-know",
+    "relatedSources": [
+      {
+        "name": "Technology Org",
+        "url": "https://www.technology.org/2026/09/21/what-is-website-ada-accessibility-and-what-businesses-need-to-know"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-32c2ae24",
+    "status": "published",
+    "translationOf": "what-is-website-ada-accessibility-and-what-businesses-need-to-know-32c2ae24",
+    "publishedAt": "2026-09-21T14:39:18.000Z",
+    "fetchedAt": "2026-09-21T15:07:56.629Z",
+    "body": "本文解釋 ADA 對網站無障礙的要求，並說明企業應採取的步驟，以確保線上內容對殘障人士友善。\n\n原文來源： [Technology Org](https://www.technology.org/2026/09/21/what-is-website-ada-accessibility-and-what-businesses-need-to-know)"
+  },
+  {
+    "title": "邁阿米大學提供的 Canvas 無障礙五大技巧",
+    "slug": "top-5-canvas-accessibility-tips-from-miami-university-zh-d7ba6733",
+    "lang": "zh-TW",
+    "summary": "邁阿米大學分享五項實用建議，以提升 Canvas 學習管理系統對殘障學生的無障礙性，包括替代文字、標題結構、顏色對比、鍵盤導航及多媒體無障礙。",
+    "category": "digital-a11y",
+    "tags": [
+      "Canvas",
+      "LMS",
+      "digital accessibility",
+      "education"
+    ],
+    "sourceName": "Miami University",
+    "sourceUrl": "https://miamioh.edu/news/2026/09/top-5-canvas-accessibility-tips.html",
+    "relatedSources": [
+      {
+        "name": "Miami University",
+        "url": "https://miamioh.edu/news/2026/09/top-5-canvas-accessibility-tips.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-d7ba6733",
+    "status": "published",
+    "translationOf": "top-5-canvas-accessibility-tips-from-miami-university-d7ba6733",
+    "publishedAt": "2026-09-16T19:49:32.000Z",
+    "fetchedAt": "2026-09-21T15:08:18.055Z",
+    "body": "邁阿米大學分享五項實用建議，以提升 Canvas 學習管理系統對殘障學生的無障礙性，包括替代文字、標題結構、顏色對比、鍵盤導航及多媒體無障礙。\n\n原文來源： [Miami University](https://miamioh.edu/news/2026/09/top-5-canvas-accessibility-tips.html)"
+  },
+  {
+    "title": "印第安納州盲校學生協助使編程更具無障礙性",
+    "slug": "indiana-school-for-the-blind-and-visually-impaired-students-help-make-coding-mor-zh-e491bbd8",
+    "lang": "zh-TW",
+    "summary": "印第安納州盲校的學生與教育工作者合作，開發工具與課程，使編程教學對視障學生無障礙，包括觸覺編程塊、適合螢幕閱讀器的程式碼編輯器及包容性教學策略。",
+    "category": "assistive-tech",
+    "tags": [
+      "blind",
+      "visually impaired",
+      "coding accessibility",
+      "assistive technology",
+      "education"
+    ],
+    "sourceName": "Chalkbeat",
+    "sourceUrl": "https://www.chalkbeat.org/indiana/2026/09/21/school-for-blind-students-help-expand-coding-to-visually-impaired",
+    "relatedSources": [
+      {
+        "name": "Chalkbeat",
+        "url": "https://www.chalkbeat.org/indiana/2026/09/21/school-for-blind-students-help-expand-coding-to-visually-impaired"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e491bbd8",
+    "status": "published",
+    "translationOf": "indiana-school-for-the-blind-and-visually-impaired-students-help-make-coding-mor-e491bbd8",
+    "publishedAt": "2026-09-21T11:00:00.000Z",
+    "fetchedAt": "2026-09-21T15:08:18.058Z",
+    "body": "印第安納州盲校的學生與教育工作者合作，開發工具與課程，使編程教學對視障學生無障礙，包括觸覺編程塊、適合螢幕閱讀器的程式碼編輯器及包容性教學策略。\n\n原文來源： [Chalkbeat](https://www.chalkbeat.org/indiana/2026/09/21/school-for-blind-students-help-expand-coding-to-visually-impaired)"
+  },
+  {
+    "title": "三河推出免費居家無障礙改造計畫",
+    "slug": "three-rivers-launches-free-home-accessibility-program-for-residents-zh-8d796eb5",
+    "lang": "zh-TW",
+    "summary": "三河宣布推出新計畫，提供免費的居家無障礙改造，如坡道、扶手及加寬門框，協助殘障人士在家中更安全、獨立地生活。",
+    "category": "physical-design",
+    "tags": [
+      "home modification",
+      "accessibility grant",
+      "physical accessibility",
+      "disability support"
+    ],
+    "sourceName": "Yahoo",
+    "sourceUrl": "https://www.yahoo.com/news/videos/three-rivers-now-accepting-applications-110516637.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo",
+        "url": "https://www.yahoo.com/news/videos/three-rivers-now-accepting-applications-110516637.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-8d796eb5",
+    "status": "published",
+    "translationOf": "three-rivers-launches-free-home-accessibility-program-for-residents-8d796eb5",
+    "publishedAt": "2026-09-21T11:05:16.000Z",
+    "fetchedAt": "2026-09-21T15:08:18.061Z",
+    "body": "三河宣布推出新計畫，提供免費的居家無障礙改造，如坡道、扶手及加寬門框，協助殘障人士在家中更安全、獨立地生活。\n\n原文來源： [Yahoo](https://www.yahoo.com/news/videos/three-rivers-now-accepting-applications-110516637.html)"
+  },
+  {
+    "title": "鳳凰城機場博物館突顯藝術與無障礙",
+    "slug": "phoenix-airport-museum-highlights-art-and-accessibility-zh-372e6550",
+    "lang": "zh-TW",
+    "summary": "鳳凰城機場博物館提供適合殘障參觀者的展覽，包括觸覺展品、語音描述及輪椅友善的佈局。",
+    "category": "physical-design",
+    "tags": [
+      "airport",
+      "museum",
+      "accessibility",
+      "tactile",
+      "audio description"
+    ],
+    "sourceName": "City of Phoenix (.gov)",
+    "sourceUrl": "https://www.phoenix.gov/newsroom/aviation-news/phoenix-airport-museum-highlights--art-and-accessibility.html",
+    "relatedSources": [
+      {
+        "name": "City of Phoenix (.gov)",
+        "url": "https://www.phoenix.gov/newsroom/aviation-news/phoenix-airport-museum-highlights--art-and-accessibility.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-372e6550",
+    "status": "published",
+    "translationOf": "phoenix-airport-museum-highlights-art-and-accessibility-372e6550",
+    "publishedAt": "2026-09-17T20:23:56.000Z",
+    "fetchedAt": "2026-09-21T15:08:29.779Z",
+    "body": "鳳凰城機場博物館提供適合殘障參觀者的展覽，包括觸覺展品、語音描述及輪椅友善的佈局。\n\n原文來源： [City of Phoenix (.gov)](https://www.phoenix.gov/newsroom/aviation-news/phoenix-airport-museum-highlights--art-and-accessibility.html)"
+  },
+  {
+    "title": "好消息：WCSO 與 Sopchoppy 浸信會合建無障礙坡道",
+    "slug": "something-good-wcso-sopchoppy-baptist-church-build-accessibility-ramp-zh-ff5ca140",
+    "lang": "zh-TW",
+    "summary": "沃爾頓縣警長辦公室與 Sopchoppy 浸信會共同建造輪椅坡道，提升行動不便人士參與教會活動的便利性。",
+    "category": "physical-design",
+    "tags": [
+      "church",
+      "ramp",
+      "wheelchair",
+      "mobility",
+      "community"
+    ],
+    "sourceName": "WCTV",
+    "sourceUrl": "https://www.wctv.tv/2026/09/19/something-good-wcso-sopchoppy-baptist-church-build-accessibility-ramp",
+    "relatedSources": [
+      {
+        "name": "WCTV",
+        "url": "https://www.wctv.tv/2026/09/19/something-good-wcso-sopchoppy-baptist-church-build-accessibility-ramp"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ff5ca140",
+    "status": "published",
+    "translationOf": "something-good-wcso-sopchoppy-baptist-church-build-accessibility-ramp-ff5ca140",
+    "publishedAt": "2026-09-19T00:29:00.000Z",
+    "fetchedAt": "2026-09-21T15:08:29.782Z",
+    "body": "沃爾頓縣警長辦公室與 Sopchoppy 浸信會共同建造輪椅坡道，提升行動不便人士參與教會活動的便利性。\n\n原文來源： [WCTV](https://www.wctv.tv/2026/09/19/something-good-wcso-sopchoppy-baptist-church-build-accessibility-ramp)"
+  },
+  {
+    "title": "大營地聖塔尼奧與邊鎮營地擴充免費無障礙設施",
+    "slug": "free-accessibility-options-expand-for-great-camp-santanoni-frontier-town-campgro-zh-5baf83ee",
+    "lang": "zh-TW",
+    "summary": "紐約州的大營地聖塔尼奧與邊鎮營地新增免費無障礙設施，如輪椅可使用的步道、小屋和衛生間，以歡迎殘障遊客。",
+    "category": "physical-design",
+    "tags": [
+      "campground",
+      "accessibility",
+      "trail",
+      "cabin",
+      "restroom",
+      "NY"
+    ],
+    "sourceName": "New York Almanack",
+    "sourceUrl": "https://www.newyorkalmanack.com/2026/09/accessibile-adirondacks-options",
+    "relatedSources": [
+      {
+        "name": "New York Almanack",
+        "url": "https://www.newyorkalmanack.com/2026/09/accessibile-adirondacks-options"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5baf83ee",
+    "status": "published",
+    "translationOf": "free-accessibility-options-expand-for-great-camp-santanoni-frontier-town-campgro-5baf83ee",
+    "publishedAt": "2026-09-18T16:00:15.000Z",
+    "fetchedAt": "2026-09-21T15:08:29.785Z",
+    "body": "紐約州的大營地聖塔尼奧與邊鎮營地新增免費無障礙設施，如輪椅可使用的步道、小屋和衛生間，以歡迎殘障遊客。\n\n原文來源： [New York Almanack](https://www.newyorkalmanack.com/2026/09/accessibile-adirondacks-options)"
+  },
+  {
+    "title": "電子遊戲與桌上遊戲的無障礙：誰都不想錯過",
+    "slug": "accessibility-in-video-games-and-board-games-a-game-nobody-wants-to-miss-zh-72d6cba9",
+    "lang": "zh-TW",
+    "summary": "文章討論電子遊戲與桌上遊戲開發商如何實施無障礙功能，如可自訂控制、字幕、色盲模式及觸覺元件，使殘障玩家也能享受遊戲，並指出產業趨勢與範例。",
+    "category": "digital-a11y",
+    "tags": [
+      "video games",
+      "board games",
+      "accessibility",
+      "gaming"
+    ],
+    "sourceName": "Euronews.com",
+    "sourceUrl": "https://www.euronews.com/culture/2026/09/21/accessibility-in-video-games-and-board-games-a-game-nobody-wants-to-miss",
+    "relatedSources": [
+      {
+        "name": "Euronews.com",
+        "url": "https://www.euronews.com/culture/2026/09/21/accessibility-in-video-games-and-board-games-a-game-nobody-wants-to-miss"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-72d6cba9",
+    "status": "published",
+    "translationOf": "accessibility-in-video-games-and-board-games-a-game-nobody-wants-to-miss-72d6cba9",
+    "publishedAt": "2026-09-21T03:56:42.000Z",
+    "fetchedAt": "2026-09-21T15:08:57.186Z",
+    "body": "文章討論電子遊戲與桌上遊戲開發商如何實施無障礙功能，如可自訂控制、字幕、色盲模式及觸覺元件，使殘障玩家也能享受遊戲，並指出產業趨勢與範例。\n\n原文來源： [Euronews.com](https://www.euronews.com/culture/2026/09/21/accessibility-in-video-games-and-board-games-a-game-nobody-wants-to-miss)"
+  },
+  {
+    "title": "美國唯一活動無障礙會議註冊開放",
+    "slug": "registration-opens-for-the-usas-only-event-accessibility-conference-zh-01677509",
+    "lang": "zh-TW",
+    "summary": "公告指出，美國唯一專注於活動無障礙的會議現在開放註冊，與會專業人士將學習最佳實務、法律要求及創新方案，以使會議、節慶及聚會對殘障人士無障礙。",
+    "category": "laws-rights",
+    "tags": [
+      "event accessibility",
+      "conference",
+      "USA",
+      "accessibility"
+    ],
+    "sourceName": "24-7PressRelease.com",
+    "sourceUrl": "https://www.24-7pressrelease.com/press-release/538809/registration-opens-for-the-usas-only-event-accessibility-conference",
+    "relatedSources": [
+      {
+        "name": "24-7PressRelease.com",
+        "url": "https://www.24-7pressrelease.com/press-release/538809/registration-opens-for-the-usas-only-event-accessibility-conference"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-01677509",
+    "status": "published",
+    "translationOf": "registration-opens-for-the-usas-only-event-accessibility-conference-01677509",
+    "publishedAt": "2026-09-18T17:09:47.000Z",
+    "fetchedAt": "2026-09-21T15:08:57.190Z",
+    "body": "公告指出，美國唯一專注於活動無障礙的會議現在開放註冊，與會專業人士將學習最佳實務、法律要求及創新方案，以使會議、節慶及聚會對殘障人士無障礙。\n\n原文來源： [24-7PressRelease.com](https://www.24-7pressrelease.com/press-release/538809/registration-opens-for-the-usas-only-event-accessibility-conference)"
+  },
+  {
+    "title": "加州海灘目的地達成無障礙里程碑",
+    "slug": "california-beach-destination-achieves-accessibility-milestone-zh-90b5b76b",
+    "lang": "zh-TW",
+    "summary": "加州亨廷頓海灘成為全州首個獲得 KultureCity 感官友善認證的目的地，提供安靜區域、感官套件及員工培訓，以容納自閉症及其他感官敏感的遊客，標誌著無障礙旅遊的里程碑。",
+    "category": "physical-design",
+    "tags": [
+      "beach",
+      "sensory inclusive",
+      "KultureCity",
+      "California",
+      "accessibility"
+    ],
+    "sourceName": "TravelPulse",
+    "sourceUrl": "https://www.travelpulse.com/news/destinations/huntington-beach-becomes-first-california-destination-with-kulturecity-sensory-inclusive-certification",
+    "relatedSources": [
+      {
+        "name": "TravelPulse",
+        "url": "https://www.travelpulse.com/news/destinations/huntington-beach-becomes-first-california-destination-with-kulturecity-sensory-inclusive-certification"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-90b5b76b",
+    "status": "published",
+    "translationOf": "california-beach-destination-achieves-accessibility-milestone-90b5b76b",
+    "publishedAt": "2026-09-18T16:00:00.000Z",
+    "fetchedAt": "2026-09-21T15:08:57.193Z",
+    "body": "加州亨廷頓海灘成為全州首個獲得 KultureCity 感官友善認證的目的地，提供安靜區域、感官套件及員工培訓，以容納自閉症及其他感官敏感的遊客，標誌著無障礙旅遊的里程碑。\n\n原文來源： [TravelPulse](https://www.travelpulse.com/news/destinations/huntington-beach-becomes-first-california-destination-with-kulturecity-sensory-inclusive-certification)"
+  },
+  {
+    "title": "RatHat 將 Android 無障礙功能變成攻擊武器",
+    "slug": "rathat-turns-android-accessibility-into-an-attack-weapon-zh-1a098573",
+    "lang": "zh-TW",
+    "summary": "安全研究人員揭露，RatHat 惡意軟體濫用 Android 的無障礙服務，將原本為殘障使用者設計的輔助功能轉化為攻擊工具，可控制受感染的設備。",
+    "category": "digital-a11y",
+    "tags": [
+      "malware",
+      "Android",
+      "accessibility",
+      "security"
+    ],
+    "sourceName": "Security Affairs",
+    "sourceUrl": "https://securityaffairs.com/199317/malware/rathat-turns-android-accessibility-into-an-attack-weapon.html",
+    "relatedSources": [
+      {
+        "name": "Security Affairs",
+        "url": "https://securityaffairs.com/199317/malware/rathat-turns-android-accessibility-into-an-attack-weapon.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-1a098573",
+    "status": "published",
+    "translationOf": "rathat-turns-android-accessibility-into-an-attack-weapon-1a098573",
+    "publishedAt": "2026-09-18T10:10:47.000Z",
+    "fetchedAt": "2026-09-21T15:09:56.104Z",
+    "body": "安全研究人員揭露，RatHat 惡意軟體濫用 Android 的無障礙服務，將原本為殘障使用者設計的輔助功能轉化為攻擊工具，可控制受感染的設備。\n\n原文來源： [Security Affairs](https://securityaffairs.com/199317/malware/rathat-turns-android-accessibility-into-an-attack-weapon.html)"
+  },
+  {
+    "title": "中心縣在無障礙審計第一階段後更改數個投票站",
+    "slug": "centre-county-changes-several-polling-places-after-first-phase-of-accessibility--zh-777b653f",
+    "lang": "zh-TW",
+    "summary": "中心縣在完成無障礙審計第一階段後，將數個投票站遷移，以提升對殘障選民的實體無障礙，確保投票場所符合規範。",
+    "category": "physical-design",
+    "tags": [
+      "polling places",
+      "accessibility audit",
+      "voting access",
+      "disability"
+    ],
+    "sourceName": "StateCollege.com",
+    "sourceUrl": "https://www.statecollege.com/articles/elections/centre-county-changes-several-polling-places-after-first-phase-of-accessibility-audit",
+    "relatedSources": [
+      {
+        "name": "StateCollege.com",
+        "url": "https://www.statecollege.com/articles/elections/centre-county-changes-several-polling-places-after-first-phase-of-accessibility-audit"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-777b653f",
+    "status": "published",
+    "translationOf": "centre-county-changes-several-polling-places-after-first-phase-of-accessibility--777b653f",
+    "publishedAt": "2026-09-16T09:00:00.000Z",
+    "fetchedAt": "2026-09-21T15:09:56.106Z",
+    "body": "中心縣在完成無障礙審計第一階段後，將數個投票站遷移，以提升對殘障選民的實體無障礙，確保投票場所符合規範。\n\n原文來源： [StateCollege.com](https://www.statecollege.com/articles/elections/centre-county-changes-several-polling-places-after-first-phase-of-accessibility-audit)"
+  },
+  {
+    "title": "殘障倡導者 Tiffany Yu 將領導帕薩迪納無障礙委員會討論",
+    "slug": "disability-advocate-tiffany-yu-to-headline-pasadena-accessibility-commission-dis-zh-93c713d9",
+    "lang": "zh-TW",
+    "summary": "殘障倡導者 Tiffany Yu 將擔任帕薩迪納無障礙委員會討論的主講人，討論提升殘障人士無障礙政策與社區共融的方向。",
+    "category": "laws-rights",
+    "tags": [
+      "disability advocacy",
+      "accessibility commission",
+      "Tiffany Yu",
+      "Pasadena"
+    ],
+    "sourceName": "Pasadena Now",
+    "sourceUrl": "https://pasadenanow.com/main/disability-advocate-tiffany-yu-to-headline-pasadena-accessibility-commission-discussion",
+    "relatedSources": [
+      {
+        "name": "Pasadena Now",
+        "url": "https://pasadenanow.com/main/disability-advocate-tiffany-yu-to-headline-pasadena-accessibility-commission-discussion"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-93c713d9",
+    "status": "published",
+    "translationOf": "disability-advocate-tiffany-yu-to-headline-pasadena-accessibility-commission-dis-93c713d9",
+    "publishedAt": "2026-09-20T13:44:17.000Z",
+    "fetchedAt": "2026-09-21T15:09:56.110Z",
+    "body": "殘障倡導者 Tiffany Yu 將擔任帕薩迪納無障礙委員會討論的主講人，討論提升殘障人士無障礙政策與社區共融的方向。\n\n原文來源： [Pasadena Now](https://pasadenanow.com/main/disability-advocate-tiffany-yu-to-headline-pasadena-accessibility-commission-discussion)"
+  },
+  {
+    "title": "門托爾Wildwood文化中心將有重大無障礙改善 - Cleveland.com",
+    "slug": "major-accessibility-improvements-coming-to-mentors-wildwood-cultural-center-clev-zh-1f476af3",
+    "lang": "zh-TW",
+    "summary": "門托爾Wildwood文化中心將有重大無障礙改善即將到來",
+    "category": "physical-design",
+    "tags": [
+      "accessibility improvements",
+      "cultural center",
+      "physical design"
+    ],
+    "sourceName": "Cleveland.com",
+    "sourceUrl": "https://www.cleveland.com/lake-county/2026/09/major-accessibility-improvements-coming-to-mentors-wildwood-cultural-center.html",
+    "relatedSources": [
+      {
+        "name": "Cleveland.com",
+        "url": "https://www.cleveland.com/lake-county/2026/09/major-accessibility-improvements-coming-to-mentors-wildwood-cultural-center.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-1f476af3",
+    "status": "published",
+    "translationOf": "major-accessibility-improvements-coming-to-mentors-wildwood-cultural-center-clev-1f476af3",
+    "publishedAt": "2026-09-18T16:24:00.000Z",
+    "fetchedAt": "2026-09-21T15:10:18.289Z",
+    "body": "門托爾Wildwood文化中心將有重大無障礙改善即將到來\n\n原文來源： [Cleveland.com](https://www.cleveland.com/lake-county/2026/09/major-accessibility-improvements-coming-to-mentors-wildwood-cultural-center.html)"
+  },
+  {
+    "title": "機器人在普萊森頓的人行道和街道上行駛以評估無障礙與安全 - Pleasanton Weekly",
+    "slug": "robot-traverses-sidewalks-streets-in-pleasanton-to-assess-accessibility-safety-p-zh-5ac9ceb7",
+    "lang": "zh-TW",
+    "summary": "機器人在普萊森頓的人行道和街道上行駛以評估無障礙與安全",
+    "category": "assistive-tech",
+    "tags": [
+      "robot",
+      "sidewalk assessment",
+      "accessibility evaluation"
+    ],
+    "sourceName": "Pleasanton Weekly",
+    "sourceUrl": "https://www.pleasantonweekly.com/news/2026/09/15/robot-traverses-sidewalks-streets-in-pleasanton-to-assess-accessibility-safety",
+    "relatedSources": [
+      {
+        "name": "Pleasanton Weekly",
+        "url": "https://www.pleasantonweekly.com/news/2026/09/15/robot-traverses-sidewalks-streets-in-pleasanton-to-assess-accessibility-safety"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5ac9ceb7",
+    "status": "published",
+    "translationOf": "robot-traverses-sidewalks-streets-in-pleasanton-to-assess-accessibility-safety-p-5ac9ceb7",
+    "publishedAt": "2026-09-15T17:51:06.000Z",
+    "fetchedAt": "2026-09-21T15:10:18.292Z",
+    "body": "機器人在普萊森頓的人行道和街道上行駛以評估無障礙與安全\n\n原文來源： [Pleasanton Weekly](https://www.pleasantonweekly.com/news/2026/09/15/robot-traverses-sidewalks-streets-in-pleasanton-to-assess-accessibility-safety)"
+  },
+  {
+    "title": "電子遊戲與桌遊的無障礙：您不容錯過的遊戲 - Yahoo News UK",
+    "slug": "accessibility-in-video-games-and-board-games-the-game-nobody-wants-to-miss-yahoo-zh-af86a58d",
+    "lang": "zh-TW",
+    "summary": "電子遊戲與桌遊的無障礙：您不容錯過的遊戲",
+    "category": "digital-a11y",
+    "tags": [
+      "video games",
+      "board games",
+      "game accessibility"
+    ],
+    "sourceName": "Yahoo News UK",
+    "sourceUrl": "https://uk.news.yahoo.com/accessibility-video-games-board-games-035642741.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo News UK",
+        "url": "https://uk.news.yahoo.com/accessibility-video-games-board-games-035642741.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-af86a58d",
+    "status": "published",
+    "translationOf": "accessibility-in-video-games-and-board-games-the-game-nobody-wants-to-miss-yahoo-af86a58d",
+    "publishedAt": "2026-09-21T03:56:00.000Z",
+    "fetchedAt": "2026-09-21T15:10:18.296Z",
+    "body": "電子遊戲與桌遊的無障礙：您不容錯過的遊戲\n\n原文來源： [Yahoo News UK](https://uk.news.yahoo.com/accessibility-video-games-board-games-035642741.html)"
+  },
+  {
+    "title": "觀看：Equinox 說明如何運用語音優先 AI 讓學習更無障礙",
+    "slug": "watch-equinox-on-making-learning-more-accessible-with-voice-first-ai-zh-0160d7fd",
+    "lang": "zh-TW",
+    "summary": "Equinox 分享語音優先 AI 如何協助提升學習的無障礙性，特別是對殘障人士的支援。",
+    "category": "assistive-tech",
+    "tags": [
+      "voice AI",
+      "learning accessibility",
+      "assistive technology"
+    ],
+    "sourceName": "Samsung Global Newsroom",
+    "sourceUrl": "https://news.samsung.com/in/watch-equinox-on-making-learning-more-accessible-with-voice-first-ai",
+    "relatedSources": [
+      {
+        "name": "Samsung Global Newsroom",
+        "url": "https://news.samsung.com/in/watch-equinox-on-making-learning-more-accessible-with-voice-first-ai"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-0160d7fd",
+    "status": "published",
+    "translationOf": "watch-equinox-on-making-learning-more-accessible-with-voice-first-ai-0160d7fd",
+    "publishedAt": "2026-09-21T06:51:23.000Z",
+    "fetchedAt": "2026-09-21T15:10:42.817Z",
+    "body": "Equinox 分享語音優先 AI 如何協助提升學習的無障礙性，特別是對殘障人士的支援。\n\n原文來源： [Samsung Global Newsroom](https://news.samsung.com/in/watch-equinox-on-making-learning-more-accessible-with-voice-first-ai)"
+  },
+  {
+    "title": "打造無障礙之家溫馨服務空間 世界華人工商婦女企管協會華樂分會挹注修繕經費",
+    "slug": "creating-an-accessible-home-warm-service-space-world-chinese-business-womens-ass-zh-07be2416",
+    "lang": "zh-TW",
+    "summary": "世界華人工商婦女企管協會華樂分會提供修繕經費，打造無障礙且溫馨的居家服務空間。",
+    "category": "physical-design",
+    "tags": [
+      "accessible home",
+      "funding",
+      "home modification"
+    ],
+    "sourceName": "Yahoo新聞",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%89%93%E9%80%A0%E7%84%A1%E9%9A%9C%E7%A4%99%E4%B9%8B%E5%AE%B6%E6%BA%AB%E9%A6%A8%E6%9C%8D%E5%8B%99%E7%A9%BA%E9%96%93-%E4%B8%96%E7%95%8C%E8%8F%AF%E4%BA%BA%E5%B7%A5%E5%95%86%E5%A9%A6%E5%A5%B3%E4%BC%81%E7%AE%A1%E5%8D%94%E6%9C%83%E8%8F%AF%E6%A8%82%E5%88%86%E6%9C%83%E6%8C%B9%E6%B3%A8%E4%BF%AE%E7%B9%95%E7%B6%93%E8%B2%BB-083445341.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo新聞",
+        "url": "https://tw.news.yahoo.com/%E6%89%93%E9%80%A0%E7%84%A1%E9%9A%9C%E7%A4%99%E4%B9%8B%E5%AE%B6%E6%BA%AB%E9%A6%A8%E6%9C%8D%E5%8B%99%E7%A9%BA%E9%96%93-%E4%B8%96%E7%95%8C%E8%8F%AF%E4%BA%BA%E5%B7%A5%E5%95%86%E5%A9%A6%E5%A5%B3%E4%BC%81%E7%AE%A1%E5%8D%94%E6%9C%83%E8%8F%AF%E6%A8%82%E5%88%86%E6%9C%83%E6%8C%B9%E6%B3%A8%E4%BF%AE%E7%B9%95%E7%B6%93%E8%B2%BB-083445341.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-07be2416",
+    "status": "published",
+    "translationOf": "creating-an-accessible-home-warm-service-space-world-chinese-business-womens-ass-07be2416",
+    "publishedAt": "2026-09-21T08:34:45.000Z",
+    "fetchedAt": "2026-09-21T15:10:42.821Z",
+    "body": "世界華人工商婦女企管協會華樂分會提供修繕經費，打造無障礙且溫馨的居家服務空間。\n\n原文來源： [Yahoo新聞](https://tw.news.yahoo.com/%E6%89%93%E9%80%A0%E7%84%A1%E9%9A%9C%E7%A4%99%E4%B9%8B%E5%AE%B6%E6%BA%AB%E9%A6%A8%E6%9C%8D%E5%8B%99%E7%A9%BA%E9%96%93-%E4%B8%96%E7%95%8C%E8%8F%AF%E4%BA%BA%E5%B7%A5%E5%95%86%E5%A9%A6%E5%A5%B3%E4%BC%81%E7%AE%A1%E5%8D%94%E6%9C%83%E8%8F%AF%E6%A8%82%E5%88%86%E6%9C%83%E6%8C%B9%E6%B3%A8%E4%BF%AE%E7%B9%95%E7%B6%93%E8%B2%BB-083445341.html)"
+  },
+  {
+    "title": "武嶺又現神操作！ 電動機車佔用無障礙廁所「充電？」",
+    "slug": "wuling-again-shows-divine-operation-electric-motorcycles-occupy-accessible-toile-zh-41bf0536",
+    "lang": "zh-TW",
+    "summary": "武嶺地區再次發現電動機車佔用無障礙廁所進行充電，引發對無障礙設施被濫用的關注。",
+    "category": "physical-design",
+    "tags": [
+      "accessible toilet",
+      "misuse",
+      "electric motorcycle"
+    ],
+    "sourceName": "中時新聞網",
+    "sourceUrl": "https://www.chinatimes.com/realtimenews/20260921003854-260402",
+    "relatedSources": [
+      {
+        "name": "中時新聞網",
+        "url": "https://www.chinatimes.com/realtimenews/20260921003854-260402"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-41bf0536",
+    "status": "published",
+    "translationOf": "wuling-again-shows-divine-operation-electric-motorcycles-occupy-accessible-toile-41bf0536",
+    "publishedAt": "2026-09-21T11:00:30.000Z",
+    "fetchedAt": "2026-09-21T15:10:42.825Z",
+    "body": "武嶺地區再次發現電動機車佔用無障礙廁所進行充電，引發對無障礙設施被濫用的關注。\n\n原文來源： [中時新聞網](https://www.chinatimes.com/realtimenews/20260921003854-260402)"
+  },
+  {
+    "title": "福斯商旅 Caddy Maxi 出動 15 輛無障礙福祉車 聯手銀光健康 推動高齡身障復能小旅行",
+    "slug": "volkswagen-commercial-travel-caddy-maxi-deploys-15-accessible-welfare-vehicles-p-zh-2c5a4b68",
+    "lang": "zh-TW",
+    "summary": "福斯商旅已出動15輛Caddy Maxi無障礙福祉車，與銀光健康合作，提供高齡者與身障者小規模旅遊及復能體驗。",
+    "category": "assistive-tech",
+    "tags": [
+      "accessible vehicle",
+      "welfare vehicle",
+      "senior mobility",
+      "disability travel",
+      "Yin Guang Health"
+    ],
+    "sourceName": "UDN",
+    "sourceUrl": "https://autos.udn.com/autos/amp/story/7825/9766740",
+    "relatedSources": [
+      {
+        "name": "UDN",
+        "url": "https://autos.udn.com/autos/amp/story/7825/9766740"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-2c5a4b68",
+    "status": "published",
+    "translationOf": "volkswagen-commercial-travel-caddy-maxi-deploys-15-accessible-welfare-vehicles-p-2c5a4b68",
+    "publishedAt": "2026-09-20T14:04:24.000Z",
+    "fetchedAt": "2026-09-21T15:11:14.660Z",
+    "body": "福斯商旅已出動15輛Caddy Maxi無障礙福祉車，與銀光健康合作，提供高齡者與身障者小規模旅遊及復能體驗。\n\n原文來源： [UDN](https://autos.udn.com/autos/amp/story/7825/9766740)"
+  },
+  {
+    "title": "唯美日系崎頂車站無障礙環境升級！ 年底解鎖絕美海景",
+    "slug": "picturesque-japanese-style-qizding-station-accessibility-upgrade-unlock-stunning-zh-950369bf",
+    "lang": "zh-TW",
+    "summary": "崎頂車站正進行無障礙環境升級，預計年底完工，屆時旅客將能更便利地欣賞絕美海景。",
+    "category": "physical-design",
+    "tags": [
+      "station accessibility",
+      "barrier-free",
+      "Qizding Station",
+      "tourism",
+      "infrastructure"
+    ],
+    "sourceName": "自由時報",
+    "sourceUrl": "https://news.ltn.com.tw/news/life/breakingnews/5579976",
+    "relatedSources": [
+      {
+        "name": "自由時報",
+        "url": "https://news.ltn.com.tw/news/life/breakingnews/5579976"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-950369bf",
+    "status": "published",
+    "translationOf": "picturesque-japanese-style-qizding-station-accessibility-upgrade-unlock-stunning-950369bf",
+    "publishedAt": "2026-09-20T04:07:14.000Z",
+    "fetchedAt": "2026-09-21T15:11:14.664Z",
+    "body": "崎頂車站正進行無障礙環境升級，預計年底完工，屆時旅客將能更便利地欣賞絕美海景。\n\n原文來源： [自由時報](https://news.ltn.com.tw/news/life/breakingnews/5579976)"
+  },
+  {
+    "title": "故宮至善路入口無障礙通道開工預計2029年完工| 地方 - 中央社 CNA",
+    "slug": "construction-begins-on-accessible-entrance-pathway-at-palace-museums-zhishan-roa-zh-11f2eea7",
+    "lang": "zh-TW",
+    "summary": "故宮至善路入口的無障礙通道已開工興建，預計於2029年完工，將提升行動不便訪客的進出便利性。",
+    "category": "physical-design",
+    "tags": [
+      "Palace Museum",
+      "accessible pathway",
+      "Zhishan Road",
+      "infrastructure",
+      "2029 completion"
+    ],
+    "sourceName": "中央社 CNA",
+    "sourceUrl": "https://www.cna.com.tw/news/aloc/202609160183.aspx",
+    "relatedSources": [
+      {
+        "name": "中央社 CNA",
+        "url": "https://www.cna.com.tw/news/aloc/202609160183.aspx"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-11f2eea7",
+    "status": "published",
+    "translationOf": "construction-begins-on-accessible-entrance-pathway-at-palace-museums-zhishan-roa-11f2eea7",
+    "publishedAt": "2026-09-16T07:10:00.000Z",
+    "fetchedAt": "2026-09-21T15:11:14.667Z",
+    "body": "故宮至善路入口的無障礙通道已開工興建，預計於2029年完工，將提升行動不便訪客的進出便利性。\n\n原文來源： [中央社 CNA](https://www.cna.com.tw/news/aloc/202609160183.aspx)"
+  },
+  {
+    "title": "故宮至善路入口無障礙通道開工預計2029年完工",
+    "slug": "construction-of-accessible-entrance-at-national-palace-museums-zhishan-road-begi-zh-7982fd9f",
+    "lang": "zh-TW",
+    "summary": "故宮博物院至善路入口將興建無障礙通道，預計於2029年完工，以提升殘障訪客的便利性。",
+    "category": "physical-design",
+    "tags": [
+      "National Palace Museum",
+      "accessible entrance",
+      "physical infrastructure",
+      "disability access"
+    ],
+    "sourceName": "華視新聞網",
+    "sourceUrl": "https://news.cts.com.tw/cna/life/202609/202609163079381.html",
+    "relatedSources": [
+      {
+        "name": "華視新聞網",
+        "url": "https://news.cts.com.tw/cna/life/202609/202609163079381.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-7982fd9f",
+    "status": "published",
+    "translationOf": "construction-of-accessible-entrance-at-national-palace-museums-zhishan-road-begi-7982fd9f",
+    "publishedAt": "2026-09-16T07:10:20.000Z",
+    "fetchedAt": "2026-09-21T15:11:31.424Z",
+    "body": "故宮博物院至善路入口將興建無障礙通道，預計於2029年完工，以提升殘障訪客的便利性。\n\n原文來源： [華視新聞網](https://news.cts.com.tw/cna/life/202609/202609163079381.html)"
+  },
+  {
+    "title": "故宮7.2億建無障礙通道 118年元月完工",
+    "slug": "national-palace-museum-allocates-nt72-billion-for-accessible-passage-set-for-com-zh-6189c486",
+    "lang": "zh-TW",
+    "summary": "故宮博物院將投資新台幣7.2億元建造無障礙通道，預計於民國118年（2029年）元月完工。",
+    "category": "physical-design",
+    "tags": [
+      "National Palace Museum",
+      "accessible passage",
+      "budget NT$7.2 billion",
+      "disability access",
+      "ROC year 118"
+    ],
+    "sourceName": "青年日報",
+    "sourceUrl": "https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=645561",
+    "relatedSources": [
+      {
+        "name": "青年日報",
+        "url": "https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=645561"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-6189c486",
+    "status": "published",
+    "translationOf": "national-palace-museum-allocates-nt72-billion-for-accessible-passage-set-for-com-6189c486",
+    "publishedAt": "2026-09-16T07:19:00.000Z",
+    "fetchedAt": "2026-09-21T15:11:31.429Z",
+    "body": "故宮博物院將投資新台幣7.2億元建造無障礙通道，預計於民國118年（2029年）元月完工。\n\n原文來源： [青年日報](https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=645561)"
+  },
+  {
+    "title": "竹市公車駕駛坐輪椅體驗 演練無障礙及性騷處置|發展臺灣",
+    "slug": "hsinchu-city-bus-drivers-practice-wheelchair-seating-to-enhance-accessibility-an-zh-c8ecc841",
+    "lang": "zh-TW",
+    "summary": "竹市公車駕駛體驗坐輪椅，演練無障礙服務及性騷擾處理，以提升對殘障乘客的友善度與應變能力。",
+    "category": "case-studies",
+    "tags": [
+      "public transport",
+      "wheelchair experience",
+      "driver training",
+      "accessibility",
+      "sexual harassment prevention"
+    ],
+    "sourceName": "僑新聞",
+    "sourceUrl": "https://ocacnews.net/article/431382",
+    "relatedSources": [
+      {
+        "name": "僑新聞",
+        "url": "https://ocacnews.net/article/431382"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-c8ecc841",
+    "status": "published",
+    "translationOf": "hsinchu-city-bus-drivers-practice-wheelchair-seating-to-enhance-accessibility-an-c8ecc841",
+    "publishedAt": "2026-09-12T19:00:00.000Z",
+    "fetchedAt": "2026-09-21T15:11:31.432Z",
+    "body": "竹市公車駕駛體驗坐輪椅，演練無障礙服務及性騷擾處理，以提升對殘障乘客的友善度與應變能力。\n\n原文來源： [僑新聞](https://ocacnews.net/article/431382)"
+  },
+  {
+    "title": "落實觀光平權！日管處推無障礙深度旅遊 讓日月潭自由探索無界限",
+    "slug": "implementing-tourism-equality-tourism-bureau-promotes-accessible-in-depth-travel-zh-f3ef9b49",
+    "lang": "zh-TW",
+    "summary": "日管處推出無障礙深度旅遊措施，在日月潭提供無障礙設施與服務，讓身心障礙者也能自由探索景點。",
+    "category": "physical-design",
+    "tags": [
+      "accessible tourism",
+      "Sun Moon Lake",
+      "barrier-free travel"
+    ],
+    "sourceName": "Yahoo新聞",
+    "sourceUrl": "https://tw.news.yahoo.com/%E8%90%BD%E5%AF%A6%E8%A7%80%E5%85%89%E5%B9%B3%E6%AC%8A-%E6%97%A5%E7%AE%A1%E8%99%95%E6%8E%A8%E7%84%A1%E9%9A%9C%E7%A4%99%E6%B7%B1%E5%BA%A6%E6%97%85%E9%81%8A-%E8%AE%93%E6%97%A5%E6%9C%88%E6%BD%AD%E8%87%AA%E7%94%B1%E6%8E%A2%E7%B4%A2%E7%84%A1%E7%95%8C%E9%99%90-064343184.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo新聞",
+        "url": "https://tw.news.yahoo.com/%E8%90%BD%E5%AF%A6%E8%A7%80%E5%85%89%E5%B9%B3%E6%AC%8A-%E6%97%A5%E7%AE%A1%E8%99%95%E6%8E%A8%E7%84%A1%E9%9A%9C%E7%A4%99%E6%B7%B1%E5%BA%A6%E6%97%85%E9%81%8A-%E8%AE%93%E6%97%A5%E6%9C%88%E6%BD%AD%E8%87%AA%E7%94%B1%E6%8E%A2%E7%B4%A2%E7%84%A1%E7%95%8C%E9%99%90-064343184.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f3ef9b49",
+    "status": "published",
+    "translationOf": "implementing-tourism-equality-tourism-bureau-promotes-accessible-in-depth-travel-f3ef9b49",
+    "publishedAt": "2026-09-19T06:43:43.000Z",
+    "fetchedAt": "2026-09-21T15:11:48.521Z",
+    "body": "日管處推出無障礙深度旅遊措施，在日月潭提供無障礙設施與服務，讓身心障礙者也能自由探索景點。\n\n原文來源： [Yahoo新聞](https://tw.news.yahoo.com/%E8%90%BD%E5%AF%A6%E8%A7%80%E5%85%89%E5%B9%B3%E6%AC%8A-%E6%97%A5%E7%AE%A1%E8%99%95%E6%8E%A8%E7%84%A1%E9%9A%9C%E7%A4%99%E6%B7%B1%E5%BA%A6%E6%97%85%E9%81%8A-%E8%AE%93%E6%97%A5%E6%9C%88%E6%BD%AD%E8%87%AA%E7%94%B1%E6%8E%A2%E7%B4%A2%E7%84%A1%E7%95%8C%E9%99%90-064343184.html)"
+  },
+  {
+    "title": "新故宮計畫無障礙通道動工 未來參觀不再艱辛像晉見皇帝",
+    "slug": "new-palace-museum-accessible-pathway-construction-begins-future-visits-will-no-l-zh-16ac910c",
+    "lang": "zh-TW",
+    "summary": "故宮新建無障礙通道工程已動工，未來參觀將更加便利，身心障礙者不再需費力如同晉見皇帝。",
+    "category": "physical-design",
+    "tags": [
+      "National Palace Museum",
+      "accessible pathways",
+      "construction"
+    ],
+    "sourceName": "udn.com",
+    "sourceUrl": "https://udn.com/news/story/7266/9758011",
+    "relatedSources": [
+      {
+        "name": "udn.com",
+        "url": "https://udn.com/news/story/7266/9758011"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-16ac910c",
+    "status": "published",
+    "translationOf": "new-palace-museum-accessible-pathway-construction-begins-future-visits-will-no-l-16ac910c",
+    "publishedAt": "2026-09-16T04:38:52.000Z",
+    "fetchedAt": "2026-09-21T15:11:48.525Z",
+    "body": "故宮新建無障礙通道工程已動工，未來參觀將更加便利，身心障礙者不再需費力如同晉見皇帝。\n\n原文來源： [udn.com](https://udn.com/news/story/7266/9758011)"
+  },
+  {
+    "title": "故宮砸7.2億建無障礙通道！預留捷運地下連通道 3大工程亮點曝",
+    "slug": "palace-museum-invests-nt72-billion-in-accessible-pathway-reserves-mrt-undergroun-zh-a3d8f222",
+    "lang": "zh-TW",
+    "summary": "故宮將投資7.2億元建設無障礙通道，並預留捷運地下連通道，工程亮點包括無障礙設計、捷運連接與設施完善。",
+    "category": "physical-design",
+    "tags": [
+      "Palace Museum",
+      "accessible pathways",
+      "MRT connection",
+      "budget"
+    ],
+    "sourceName": "中時新聞網",
+    "sourceUrl": "https://house.chinatimes.com/20260917002734-264401",
+    "relatedSources": [
+      {
+        "name": "中時新聞網",
+        "url": "https://house.chinatimes.com/20260917002734-264401"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a3d8f222",
+    "status": "published",
+    "translationOf": "palace-museum-invests-nt72-billion-in-accessible-pathway-reserves-mrt-undergroun-a3d8f222",
+    "publishedAt": "2026-09-17T09:05:58.000Z",
+    "fetchedAt": "2026-09-21T15:11:48.529Z",
+    "body": "故宮將投資7.2億元建設無障礙通道，並預留捷運地下連通道，工程亮點包括無障礙設計、捷運連接與設施完善。\n\n原文來源： [中時新聞網](https://house.chinatimes.com/20260917002734-264401)"
+  },
+  {
+    "title": "故宮無障礙連通道創捷運工程史新篇 蕭宗煌曝3大亮點",
+    "slug": "palace-museums-accessible-passage-opens-new-chapter-in-mrt-construction-history--zh-8af61f60",
+    "lang": "zh-TW",
+    "summary": "國家宮博物院推出無障礙連通道，銜接捷運系統，成為無障礙建設的里程碑。蕭宗煌指出三大亮點：無縫無障礙路線、加強視障友善標誌及普遍設計設施。",
+    "category": "physical-design",
+    "tags": [
+      "無障礙",
+      "故宮",
+      "捷運"
+    ],
+    "sourceName": "自由藝文網",
+    "sourceUrl": "https://art.ltn.com.tw/article/breakingnews/5575600",
+    "relatedSources": [
+      {
+        "name": "自由藝文網",
+        "url": "https://art.ltn.com.tw/article/breakingnews/5575600"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-8af61f60",
+    "status": "published",
+    "translationOf": "palace-museums-accessible-passage-opens-new-chapter-in-mrt-construction-history--8af61f60",
+    "publishedAt": "2026-09-16T03:36:00.000Z",
+    "fetchedAt": "2026-09-21T15:12:23.631Z",
+    "body": "國家宮博物院推出無障礙連通道，銜接捷運系統，成為無障礙建設的里程碑。蕭宗煌指出三大亮點：無縫無障礙路線、加強視障友善標誌及普遍設計設施。\n\n原文來源： [自由藝文網](https://art.ltn.com.tw/article/breakingnews/5575600)"
+  },
+  {
+    "title": "從個人衛浴到全齡無障礙設計，台灣衛浴消費需求的多元化如何影響品牌展示策略",
+    "slug": "from-personal-bathrooms-to-universal-accessible-design-how-taiwans-diversified-b-zh-5145959a",
+    "lang": "zh-TW",
+    "summary": "台灣消費者對衛浴產品的需求趨向多元與包容，品牌因而調整展示策略，突顯普遍無障礙設計，以提升長者與障礙者的使用安全與便利。",
+    "category": "physical-design",
+    "tags": [
+      "無障礙設計",
+      "衛浴",
+      "全齡"
+    ],
+    "sourceName": "Yahoo股市",
+    "sourceUrl": "https://tw.stock.yahoo.com/news/%E5%BE%9E%E5%80%8B%E4%BA%BA%E8%A1%9B%E6%B5%B4%E5%88%B0%E5%85%A8%E9%BD%A1%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A8%AD%E8%A8%88%EF%BC%8C%E5%8F%B0%E7%81%A3%E8%A1%9B%E6%B5%B4%E6%B6%88%E8%B2%BB%E9%9C%80%E6%B1%82%E7%9A%84%E5%A4%9A%E5%85%83%E5%8C%96%E5%A6%82%E4%BD%95%E5%BD%B1%E9%9F%BF%E5%93%81%E7%89%8C%E5%B1%95%E7%A4%BA%E7%AD%96%E7%95%A5-011854722.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo股市",
+        "url": "https://tw.stock.yahoo.com/news/%E5%BE%9E%E5%80%8B%E4%BA%BA%E8%A1%9B%E6%B5%B4%E5%88%B0%E5%85%A8%E9%BD%A1%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A8%AD%E8%A8%88%EF%BC%8C%E5%8F%B0%E7%81%A3%E8%A1%9B%E6%B5%B4%E6%B6%88%E8%B2%BB%E9%9C%80%E6%B1%82%E7%9A%84%E5%A4%9A%E5%85%83%E5%8C%96%E5%A6%82%E4%BD%95%E5%BD%B1%E9%9F%BF%E5%93%81%E7%89%8C%E5%B1%95%E7%A4%BA%E7%AD%96%E7%95%A5-011854722.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5145959a",
+    "status": "published",
+    "translationOf": "from-personal-bathrooms-to-universal-accessible-design-how-taiwans-diversified-b-5145959a",
+    "publishedAt": "2026-09-18T01:26:29.000Z",
+    "fetchedAt": "2026-09-21T15:12:23.635Z",
+    "body": "台灣消費者對衛浴產品的需求趨向多元與包容，品牌因而調整展示策略，突顯普遍無障礙設計，以提升長者與障礙者的使用安全與便利。\n\n原文來源： [Yahoo股市](https://tw.stock.yahoo.com/news/%E5%BE%9E%E5%80%8B%E4%BA%BA%E8%A1%9B%E6%B5%B4%E5%88%B0%E5%85%A8%E9%BD%A1%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A8%AD%E8%A8%88%EF%BC%8C%E5%8F%B0%E7%81%A3%E8%A1%9B%E6%B5%B4%E6%B6%88%E8%B2%BB%E9%9C%80%E6%B1%82%E7%9A%84%E5%A4%9A%E5%85%83%E5%8C%96%E5%A6%82%E4%BD%95%E5%BD%B1%E9%9F%BF%E5%93%81%E7%89%8C%E5%B1%95%E7%A4%BA%E7%AD%96%E7%95%A5-011854722.html)"
+  },
+  {
+    "title": "兆豐證券跨界推動無障礙防詐 落實金融平權",
+    "slug": "yuanta-securities-promotes-cross-industry-accessible-anti-fraud-measures-to-adva-zh-e4830954",
+    "lang": "zh-TW",
+    "summary": "兆豐證券跨領域合作推出無障礙防詐工具，確保金融服務對障礙者友善，以實現金融平權與社會包容。",
+    "category": "laws-rights",
+    "tags": [
+      "無障礙防詐",
+      "金融平權",
+      "兆豐證券"
+    ],
+    "sourceName": "udn.com",
+    "sourceUrl": "https://udn.com/news/story/7239/9761417",
+    "relatedSources": [
+      {
+        "name": "udn.com",
+        "url": "https://udn.com/news/story/7239/9761417"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e4830954",
+    "status": "published",
+    "translationOf": "yuanta-securities-promotes-cross-industry-accessible-anti-fraud-measures-to-adva-e4830954",
+    "publishedAt": "2026-09-17T10:36:12.000Z",
+    "fetchedAt": "2026-09-21T15:12:23.639Z",
+    "body": "兆豐證券跨領域合作推出無障礙防詐工具，確保金融服務對障礙者友善，以實現金融平權與社會包容。\n\n原文來源： [udn.com](https://udn.com/news/story/7239/9761417)"
+  },
+  {
+    "title": "伊甸無障礙運動會登場 屏東身障者化身運動員爭光",
+    "slug": "eden-accessible-games-debut-pingtung-persons-with-disabilities-compete-as-athlet-zh-a7b76511",
+    "lang": "zh-TW",
+    "summary": "伊甸無障礙運動會在屏東舉辦，當地身障者參與賽事，以運動員身份展現實力，推動社會包容與無障礙體育。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "accessible sports",
+      "disability inclusion",
+      "Pingtung",
+      "Eden Games"
+    ],
+    "sourceName": "中央社 CNA",
+    "sourceUrl": "https://www.cna.com.tw/postwrite/chi/444180",
+    "relatedSources": [
+      {
+        "name": "中央社 CNA",
+        "url": "https://www.cna.com.tw/postwrite/chi/444180"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a7b76511",
+    "status": "published",
+    "translationOf": "eden-accessible-games-debut-pingtung-persons-with-disabilities-compete-as-athlet-a7b76511",
+    "publishedAt": "2026-09-15T02:18:51.000Z",
+    "fetchedAt": "2026-09-21T15:12:47.022Z",
+    "body": "伊甸無障礙運動會在屏東舉辦，當地身障者參與賽事，以運動員身份展現實力，推動社會包容與無障礙體育。\n\n原文來源： [中央社 CNA](https://www.cna.com.tw/postwrite/chi/444180)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "hyperreligiosity-when-faith-becomes-a-clinical-sign-zh-6396913c",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/communication/religion/hyperreligiosity.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/communication/religion/hyperreligiosity.php"
+>>>>>>> Stashed changes
       }
     ],
     "sourceCountry": null,
     "queryRegion": null,
     "region": null,
     "ingestType": "rss",
+<<<<<<< Updated upstream
     "ingestSource": "https://accessinformationnews.com/feed",
     "ingestProvider": "accessinformationnews.com",
     "clusterId": "cluster-1ec95cd0",
@@ -1221,5 +2358,1840 @@
     "publishedAt": "2026-09-21T04:05:00.000Z",
     "fetchedAt": "2026-09-21T15:14:51.022Z",
     "body": "本期通訊提供了當週無障礙資訊的重點新聞，並以無障礙符號標示。\n\n原文來源： [accessinformationnews.com](https://accessinformationnews.com/newsletter-09-21-2026)"
+=======
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-6396913c",
+    "status": "draft",
+    "translationOf": "hyperreligiosity-when-faith-becomes-a-clinical-sign-6396913c",
+    "publishedAt": "2026-09-17T19:34:00.000Z",
+    "fetchedAt": "2026-09-21T15:12:47.026Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://www.disabled-world.com/communication/religion/hyperreligiosity.php)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "sensory-issues-and-behaviors-lessons-from-an-itchy-rash-zh-9b079648",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/disability/blogs/tsara/itchy-rash.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/disability/blogs/tsara/itchy-rash.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-9b079648",
+    "status": "draft",
+    "translationOf": "sensory-issues-and-behaviors-lessons-from-an-itchy-rash-9b079648",
+    "publishedAt": "2026-09-15T18:33:00.000Z",
+    "fetchedAt": "2026-09-21T15:12:47.030Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://www.disabled-world.com/disability/blogs/tsara/itchy-rash.php)"
+  },
+  {
+    "title": "尼泊爾無障礙觀光：南韓的經驗",
+    "slug": "accessible-tourism-in-nepal-lessons-from-south-korea-zh-f6f7c3ca",
+    "lang": "zh-TW",
+    "summary": "南韓的無障礙觀光系統、為盲訪客提供的認證導遊以及旅遊業中的殘障人士僱用，為尼泊爾提供了一個實用的包容模型",
+    "category": "physical-design",
+    "tags": [
+      "tourism",
+      "accessible travel",
+      "South Korea",
+      "Nepal",
+      "disability inclusion"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/disability/accessibility/south-korea.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/disability/accessibility/south-korea.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-f6f7c3ca",
+    "status": "published",
+    "translationOf": "accessible-tourism-in-nepal-lessons-from-south-korea-f6f7c3ca",
+    "publishedAt": "2026-09-14T16:18:00.000Z",
+    "fetchedAt": "2026-09-21T15:13:26.392Z",
+    "body": "南韓的無障礙觀光系統、為盲訪客提供的認證導遊以及旅遊業中的殘障人士僱用，為尼泊爾提供了一個實用的包容模型\n\n原文來源： [Unknown source](https://www.disabled-world.com/disability/accessibility/south-korea.php)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "where-disabled-veterans-prefer-to-live-in-new-york-state-zh-fd384e7a",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/news/veterans/vets-nyc.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/news/veterans/vets-nyc.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-fd384e7a",
+    "status": "draft",
+    "translationOf": "where-disabled-veterans-prefer-to-live-in-new-york-state-fd384e7a",
+    "publishedAt": "2026-09-13T15:42:00.000Z",
+    "fetchedAt": "2026-09-21T15:13:26.397Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://www.disabled-world.com/news/veterans/vets-nyc.php)"
+  },
+  {
+    "title": "象徵視力或聽力損失的拐杖顏色與圖案",
+    "slug": "cane-colors-and-patterns-that-signal-vision-or-hearing-loss-zh-3bf63495",
+    "lang": "zh-TW",
+    "summary": "白色、紅白條紋和綠色拐杖分別象徵失明、低視力和失聰盲症，並介紹每種顏色背後的歷史與法律",
+    "category": "assistive-tech",
+    "tags": [
+      "cane",
+      "vision loss",
+      "hearing loss",
+      "deafblindness",
+      "mobility aid",
+      "disability signaling"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/assistivedevices/mobility/canes.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/assistivedevices/mobility/canes.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-3bf63495",
+    "status": "published",
+    "translationOf": "cane-colors-and-patterns-that-signal-vision-or-hearing-loss-3bf63495",
+    "publishedAt": "2026-09-11T16:41:00.000Z",
+    "fetchedAt": "2026-09-21T15:13:26.400Z",
+    "body": "白色、紅白條紋和綠色拐杖分別象徵失明、低視力和失聰盲症，並介紹每種顏色背後的歷史與法律\n\n原文來源： [Unknown source](https://www.disabled-world.com/assistivedevices/mobility/canes.php)"
+  },
+  {
+    "title": "基督教民族主義與殘障：傷害的歷史",
+    "slug": "christian-nationalism-and-disability-a-history-of-harm-zh-317f3f80",
+    "lang": "zh-TW",
+    "summary": "探討基督教民族主義和有組織宗教如何傷害美國殘障人士，包括優生學布道、教會免於ADA的豁免，以及持續的能力主義。",
+    "category": "laws-rights",
+    "tags": [
+      "disability rights",
+      "ADA",
+      "Christian nationalism",
+      "ableism"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/communication/religion/christian-nationalism.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/communication/religion/christian-nationalism.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-317f3f80",
+    "status": "published",
+    "translationOf": "christian-nationalism-and-disability-a-history-of-harm-317f3f80",
+    "publishedAt": "2026-09-11T15:17:00.000Z",
+    "fetchedAt": "2026-09-21T15:13:39.275Z",
+    "body": "探討基督教民族主義和有組織宗教如何傷害美國殘障人士，包括優生學布道、教會免於ADA的豁免，以及持續的能力主義。\n\n原文來源： [Unknown source](https://www.disabled-world.com/communication/religion/christian-nationalism.php)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "epistemology-and-disability-how-we-know-what-we-know-zh-546e29f2",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/disability/publications/journals/epistemology.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/disability/publications/journals/epistemology.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-546e29f2",
+    "status": "draft",
+    "translationOf": "epistemology-and-disability-how-we-know-what-we-know-546e29f2",
+    "publishedAt": "2026-09-10T19:46:00.000Z",
+    "fetchedAt": "2026-09-21T15:13:39.279Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://www.disabled-world.com/disability/publications/journals/epistemology.php)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "living-with-bipolar-disorder-and-ocd-a-life-story-zh-45443769",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/disability/blogs/ocd-story.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/disability/blogs/ocd-story.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-45443769",
+    "status": "draft",
+    "translationOf": "living-with-bipolar-disorder-and-ocd-a-life-story-45443769",
+    "publishedAt": "2026-09-09T15:43:00.000Z",
+    "fetchedAt": "2026-09-21T15:13:39.283Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://www.disabled-world.com/disability/blogs/ocd-story.php)"
+  },
+  {
+    "title": "北方在ORR审查后改进残疾人培训",
+    "slug": "northern-improves-disability-training-after-orr-review-zh-0835d9a5",
+    "lang": "zh-TW",
+    "summary": "北方铁路在今年英国铁路和道路监管办公室（ORR）调查后，完成了23项措施以提升面向乘客员工的残疾人意识培训。",
+    "category": "laws-rights",
+    "tags": [
+      "disability training",
+      "staff awareness",
+      "ORR investigation"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/news/uk/northern.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/news/uk/northern.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-0835d9a5",
+    "status": "published",
+    "translationOf": "northern-improves-disability-training-after-orr-review-0835d9a5",
+    "publishedAt": "2026-09-08T21:28:00.000Z",
+    "fetchedAt": "2026-09-21T15:13:52.051Z",
+    "body": "北方铁路在今年英国铁路和道路监管办公室（ORR）调查后，完成了23项措施以提升面向乘客员工的残疾人意识培训。\n\n原文來源： [Unknown source](https://www.disabled-world.com/news/uk/northern.php)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "transabled-body-integrity-dysphoria-and-biid-facts-zh-129883b9",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/disability/types/psychological/transabled.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/disability/types/psychological/transabled.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-129883b9",
+    "status": "draft",
+    "translationOf": "transabled-body-integrity-dysphoria-and-biid-facts-129883b9",
+    "publishedAt": "2026-09-06T15:49:00.000Z",
+    "fetchedAt": "2026-09-21T15:13:56.271Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://www.disabled-world.com/disability/types/psychological/transabled.php)"
+  },
+  {
+    "title": "全球20个最适合残疾人士的无障碍国家",
+    "slug": "the-20-most-accessible-countries-for-disabled-people-zh-cfffe43c",
+    "lang": "zh-TW",
+    "summary": "一份排名指南，列出全球20个最适合残疾人士的国家，详细说明评选标准、法律、交通数据以及每个国家背后的实际障碍。",
+    "category": "general",
+    "tags": [
+      "accessible countries",
+      "travel",
+      "disability"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/travel/access-countries.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/travel/access-countries.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-cfffe43c",
+    "status": "published",
+    "translationOf": "the-20-most-accessible-countries-for-disabled-people-cfffe43c",
+    "publishedAt": "2026-09-04T18:18:00.000Z",
+    "fetchedAt": "2026-09-21T15:13:56.276Z",
+    "body": "一份排名指南，列出全球20个最适合残疾人士的国家，详细说明评选标准、法律、交通数据以及每个国家背后的实际障碍。\n\n原文來源： [Unknown source](https://www.disabled-world.com/travel/access-countries.php)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "chemogenetics-rewriting-the-rules-of-disability-care-zh-671e04d9",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/disability/publications/journals/chemogenetics.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/disability/publications/journals/chemogenetics.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-671e04d9",
+    "status": "draft",
+    "translationOf": "chemogenetics-rewriting-the-rules-of-disability-care-671e04d9",
+    "publishedAt": "2026-09-03T17:44:00.000Z",
+    "fetchedAt": "2026-09-21T15:14:42.066Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://www.disabled-world.com/disability/publications/journals/chemogenetics.php)"
+  },
+  {
+    "title": "歐洲委員會建議為歐洲殘疾人卡和歐洲停車卡添加標準化 QR 碼以提升安全、互通與防詐騙",
+    "slug": "eu-proposes-qr-codes-to-secure-european-disability-and-parking-cards-zh-145f1665",
+    "lang": "zh-TW",
+    "summary": "歐洲委員會建議在即將推出的歐洲殘疾人卡和歐洲停車卡上加入標準化 QR 碼，以提升安全性、互通性和防詐騙保護，依據指令 (EU) 2024/2841。",
+    "category": "laws-rights",
+    "tags": [
+      "EU",
+      "disability card",
+      "parking card",
+      "QR code",
+      "Directive 2024/2841"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/09/17/travel/eu-proposes-qr-codes-to-secure-european-disability-and-parking-cards",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/09/17/travel/eu-proposes-qr-codes-to-secure-european-disability-and-parking-cards"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-145f1665",
+    "status": "published",
+    "translationOf": "eu-proposes-qr-codes-to-secure-european-disability-and-parking-cards-145f1665",
+    "publishedAt": "2026-09-17T05:01:35.000Z",
+    "fetchedAt": "2026-09-21T15:14:42.071Z",
+    "body": "歐洲委員會建議在即將推出的歐洲殘疾人卡和歐洲停車卡上加入標準化 QR 碼，以提升安全性、互通性和防詐騙保護，依據指令 (EU) 2024/2841。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/09/17/travel/eu-proposes-qr-codes-to-secure-european-disability-and-parking-cards)"
+  },
+  {
+    "title": "加拿大殘疾人福利付款將於九月開始發放",
+    "slug": "canada-disability-benefit-payments-start-in-september-zh-68a21bd9",
+    "lang": "zh-TW",
+    "summary": "加拿大政府將於九月開始發放加拿大殘疾人福利付款，旨在減少殘疾人士的經濟障礙，提升其經濟安全。",
+    "category": "laws-rights",
+    "tags": [
+      "Canada",
+      "disability benefit",
+      "September payments",
+      "financial support"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/09/14/misc/canada-disability-benefit-payments-start-in-september",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/09/14/misc/canada-disability-benefit-payments-start-in-september"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-68a21bd9",
+    "status": "published",
+    "translationOf": "canada-disability-benefit-payments-start-in-september-68a21bd9",
+    "publishedAt": "2026-09-14T06:32:32.000Z",
+    "fetchedAt": "2026-09-21T15:14:42.076Z",
+    "body": "加拿大政府將於九月開始發放加拿大殘疾人福利付款，旨在減少殘疾人士的經濟障礙，提升其經濟安全。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/09/14/misc/canada-disability-benefit-payments-start-in-september)"
+  },
+  {
+    "title": "何謂「可及性與包容」？",
+    "slug": "what-does-accessibility-and-inclusion-actually-mean-zh-42a7d1ff",
+    "lang": "zh-TW",
+    "summary": "文章解釋，可及性著重於移除阻礙，使殘障人士能夠到達場所、取得服務、參與活動或獲取資訊；而包容則是讓人們感到受歡迎、被尊重並能夠參與。",
+    "category": "general",
+    "tags": [
+      "accessibility",
+      "inclusion",
+      "definition",
+      "barrier removal"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/09/14/accessibility/what-does-accessibility-and-inclusion-actually-mean",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/09/14/accessibility/what-does-accessibility-and-inclusion-actually-mean"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-42a7d1ff",
+    "status": "published",
+    "translationOf": "what-does-accessibility-and-inclusion-actually-mean-42a7d1ff",
+    "publishedAt": "2026-09-14T06:28:20.000Z",
+    "fetchedAt": "2026-09-21T15:15:03.255Z",
+    "body": "文章解釋，可及性著重於移除阻礙，使殘障人士能夠到達場所、取得服務、參與活動或獲取資訊；而包容則是讓人們感到受歡迎、被尊重並能夠參與。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/09/14/accessibility/what-does-accessibility-and-inclusion-actually-mean)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "nepal-flood-death-toll-rises-aid-demand-surges-zh-2e5878c8",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/09/10/disaster/nepal-flood-death-toll-rises-aid-demand-surges",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/09/10/disaster/nepal-flood-death-toll-rises-aid-demand-surges"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-2e5878c8",
+    "status": "draft",
+    "translationOf": "nepal-flood-death-toll-rises-aid-demand-surges-2e5878c8",
+    "publishedAt": "2026-09-10T09:07:15.000Z",
+    "fetchedAt": "2026-09-21T15:15:03.260Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/09/10/disaster/nepal-flood-death-toll-rises-aid-demand-surges)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "france-call-for-stronger-rights-protection-for-older-persons-in-care-homes-zh-8bcd876a",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/09/10/misc/france-call-for-stronger-rights-protection-for-older-persons-in-care-homes",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/09/10/misc/france-call-for-stronger-rights-protection-for-older-persons-in-care-homes"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-8bcd876a",
+    "status": "draft",
+    "translationOf": "france-call-for-stronger-rights-protection-for-older-persons-in-care-homes-8bcd876a",
+    "publishedAt": "2026-09-10T09:04:58.000Z",
+    "fetchedAt": "2026-09-21T15:15:03.265Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/09/10/misc/france-call-for-stronger-rights-protection-for-older-persons-in-care-homes)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "final-man-jailed-over-nsw-fraud-syndicate-zh-238f8308",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/09/10/law/final-man-jailed-over-nsw-fraud-syndicate",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/09/10/law/final-man-jailed-over-nsw-fraud-syndicate"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-238f8308",
+    "status": "draft",
+    "translationOf": "final-man-jailed-over-nsw-fraud-syndicate-238f8308",
+    "publishedAt": "2026-09-10T08:55:12.000Z",
+    "fetchedAt": "2026-09-21T15:16:17.999Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/09/10/law/final-man-jailed-over-nsw-fraud-syndicate)"
+  },
+  {
+    "title": "明尼斯政府拨款35万澳元提升湖麦夸里康复服务",
+    "slug": "minns-govt-grants-350000-boost-for-rehab-in-lake-macquarie-zh-db2cace4",
+    "lang": "zh-TW",
+    "summary": "新南威尔士州政府拨款35万澳元，扩大南湖麦夸里地区的居家康复服务，让更多人能在家接受康复护理，减少出行需求。",
+    "category": "laws-rights",
+    "tags": [
+      "government funding",
+      "rehabilitation",
+      "home-based care",
+      "Lake Macquarie",
+      "disability access"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/09/10/health/minns-government-grants-350000-boost-for-rehab-in-lake-macquarie",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/09/10/health/minns-government-grants-350000-boost-for-rehab-in-lake-macquarie"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-db2cace4",
+    "status": "published",
+    "translationOf": "minns-govt-grants-350000-boost-for-rehab-in-lake-macquarie-db2cace4",
+    "publishedAt": "2026-09-10T07:53:17.000Z",
+    "fetchedAt": "2026-09-21T15:16:18.004Z",
+    "body": "新南威尔士州政府拨款35万澳元，扩大南湖麦夸里地区的居家康复服务，让更多人能在家接受康复护理，减少出行需求。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/09/10/health/minns-government-grants-350000-boost-for-rehab-in-lake-macquarie)"
+  },
+  {
+    "title": "联合国残疾人权利委员会发布对五国的审查结果",
+    "slug": "un-disability-rights-committee-publishes-findings-on-5-nations-zh-05879397",
+    "lang": "zh-TW",
+    "summary": "联合国残疾人权利委员会发布对智利、立陶宛、卡塔尔、斯洛伐克和斯里兰卡五国的审查结果，指出主要关切并提出落实《残疾人权利公约》的建议。",
+    "category": "laws-rights",
+    "tags": [
+      "UN CRPD",
+      "disability rights",
+      "country reviews",
+      "Chile",
+      "Lithuania",
+      "Qatar",
+      "Slovakia",
+      "Sri Lanka"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/09/08/misc/un-disability-rights-committee-publishes-findings-on-5-nations",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/09/08/misc/un-disability-rights-committee-publishes-findings-on-5-nations"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-05879397",
+    "status": "published",
+    "translationOf": "un-disability-rights-committee-publishes-findings-on-5-nations-05879397",
+    "publishedAt": "2026-09-08T03:53:50.000Z",
+    "fetchedAt": "2026-09-21T15:16:18.009Z",
+    "body": "联合国残疾人权利委员会发布对智利、立陶宛、卡塔尔、斯洛伐克和斯里兰卡五国的审查结果，指出主要关切并提出落实《残疾人权利公约》的建议。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/09/08/misc/un-disability-rights-committee-publishes-findings-on-5-nations)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "addis-ababa-calls-early-warnings-action-in-africa-zh-ca31e27f",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/09/08/events/addis-ababa-calls-early-warnings-action-in-africa",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/09/08/events/addis-ababa-calls-early-warnings-action-in-africa"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-ca31e27f",
+    "status": "draft",
+    "translationOf": "addis-ababa-calls-early-warnings-action-in-africa-ca31e27f",
+    "publishedAt": "2026-09-08T03:51:19.000Z",
+    "fetchedAt": "2026-09-21T15:16:46.121Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/09/08/events/addis-ababa-calls-early-warnings-action-in-africa)"
+  },
+  {
+    "title": "2026年國際殘疾人日獎項提名將開放",
+    "slug": "nominations-to-open-for-2026-international-day-of-people-with-disability-awards-zh-f2f152e2",
+    "lang": "zh-TW",
+    "summary": "巴拉拉特市呼籲社區提名2026年國際殘疾人日獎項，以表彰殘疾人、照護者、志工、俱樂部、企業及組織在促進包容與無障礙方面的貢獻。",
+    "category": "laws-rights",
+    "tags": [
+      "disability awards",
+      "inclusion",
+      "International Day of People with Disability"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/09/08/events/nominations-to-open-for-2026-international-day-of-people-with-disability-awards",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/09/08/events/nominations-to-open-for-2026-international-day-of-people-with-disability-awards"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-f2f152e2",
+    "status": "published",
+    "translationOf": "nominations-to-open-for-2026-international-day-of-people-with-disability-awards-f2f152e2",
+    "publishedAt": "2026-09-08T01:54:24.000Z",
+    "fetchedAt": "2026-09-21T15:16:46.126Z",
+    "body": "巴拉拉特市呼籲社區提名2026年國際殘疾人日獎項，以表彰殘疾人、照護者、志工、俱樂部、企業及組織在促進包容與無障礙方面的貢獻。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/09/08/events/nominations-to-open-for-2026-international-day-of-people-with-disability-awards)"
+  },
+  {
+    "title": "“我們的文化豐富，我們需要自己的空間’：建設永久聾人中心的鬥爭”",
+    "slug": "our-culture-is-rich-and-we-need-our-own-space-the-fight-to-build-a-permanent-cen-zh-0195c760",
+    "lang": "zh-TW",
+    "summary": "在英國，聾人活動家 Amanprit Arnold 倡議為聾人社區建設一個永久文化中心，指出公共場所聲學條件不佳，缺乏專為聾人文化和語言設計的場所。",
+    "category": "physical-design",
+    "tags": [
+      "Deaf community",
+      "cultural centre",
+      "accessibility",
+      "UK"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/artanddesign/2026/sep/21/deaf-city-hub-cultural-centre",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/artanddesign/2026/sep/21/deaf-city-hub-cultural-centre"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-0195c760",
+    "status": "published",
+    "translationOf": "our-culture-is-rich-and-we-need-our-own-space-the-fight-to-build-a-permanent-cen-0195c760",
+    "publishedAt": "2026-09-21T07:00:39.000Z",
+    "fetchedAt": "2026-09-21T15:16:46.131Z",
+    "body": "在英國，聾人活動家 Amanprit Arnold 倡議為聾人社區建設一個永久文化中心，指出公共場所聲學條件不佳，缺乏專為聾人文化和語言設計的場所。\n\n原文來源： [Unknown source](https://www.theguardian.com/artanddesign/2026/sep/21/deaf-city-hub-cultural-centre)"
+  },
+  {
+    "title": "對殘障人士實施有效的離開英國禁令？你沒看錯，我們不會接受 | Frances Ryan",
+    "slug": "an-effective-ban-on-disabled-people-leaving-britain-you-read-that-right-and-we-w-zh-a386e85c",
+    "lang": "zh-TW",
+    "summary": "英國殘障人士因地方護理提供者的限制性政策，被阻礙出國旅遊或參加工作活動，即使他們需要全時個人助理的支持。",
+    "category": "laws-rights",
+    "tags": [
+      "travel",
+      "disability rights",
+      "UK",
+      "travel restrictions"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/commentisfree/2026/sep/18/disabled-people-britain-paternalism-disability-services",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/18/disabled-people-britain-paternalism-disability-services"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-a386e85c",
+    "status": "published",
+    "translationOf": "an-effective-ban-on-disabled-people-leaving-britain-you-read-that-right-and-we-w-a386e85c",
+    "publishedAt": "2026-09-18T11:00:25.000Z",
+    "fetchedAt": "2026-09-21T15:17:08.026Z",
+    "body": "英國殘障人士因地方護理提供者的限制性政策，被阻礙出國旅遊或參加工作活動，即使他們需要全時個人助理的支持。\n\n原文來源： [Unknown source](https://www.theguardian.com/commentisfree/2026/sep/18/disabled-people-britain-paternalism-disability-services)"
+  },
+  {
+    "title": "英國議員呼籲殘障人士擁有出國旅行權利，針對『荒謬』限制爭議",
+    "slug": "disabled-people-need-right-to-travel-abroad-say-uk-mps-amid-ridiculous-restricti-zh-fbfcd4e5",
+    "lang": "zh-TW",
+    "summary": "英國議員要求制定全國指引，確保殘障人士能夠使用個人助理資金進行假期和工作旅行，譴責NHS護理委員會和地方議會的歧視性資金做法。",
+    "category": "laws-rights",
+    "tags": [
+      "travel",
+      "disability rights",
+      "UK",
+      "funding discrimination"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/world/2026/sep/18/disabled-people-uk-need-right-travel-abroad-ridiculous-restrictions",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/world/2026/sep/18/disabled-people-uk-need-right-travel-abroad-ridiculous-restrictions"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-fbfcd4e5",
+    "status": "published",
+    "translationOf": "disabled-people-need-right-to-travel-abroad-say-uk-mps-amid-ridiculous-restricti-fbfcd4e5",
+    "publishedAt": "2026-09-18T11:00:17.000Z",
+    "fetchedAt": "2026-09-21T15:17:08.032Z",
+    "body": "英國議員要求制定全國指引，確保殘障人士能夠使用個人助理資金進行假期和工作旅行，譴責NHS護理委員會和地方議會的歧視性資金做法。\n\n原文來源： [Unknown source](https://www.theguardian.com/world/2026/sep/18/disabled-people-uk-need-right-travel-abroad-ridiculous-restrictions)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "uk-politics-burnham-says-budget-will-be-challenging-and-denies-he-is-just-tax-an-zh-f742d5b4",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/politics/live/2026/sep/16/lisa-nandy-x-andy-burnham-labour-reform-uk-politics-latest-news-updates",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/16/lisa-nandy-x-andy-burnham-labour-reform-uk-politics-latest-news-updates"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-f742d5b4",
+    "status": "draft",
+    "translationOf": "uk-politics-burnham-says-budget-will-be-challenging-and-denies-he-is-just-tax-an-f742d5b4",
+    "publishedAt": "2026-09-16T16:45:11.000Z",
+    "fetchedAt": "2026-09-21T15:17:08.037Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://www.theguardian.com/politics/live/2026/sep/16/lisa-nandy-x-andy-burnham-labour-reform-uk-politics-latest-news-updates)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "the-girl-with-a-will-to-live-the-love-hope-and-pain-of-raising-elsie-my-one-in-1-zh-4cf3f598",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/sep/16/love-hope-pain-raising-elsie-rare-genetic-disorder",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/sep/16/love-hope-pain-raising-elsie-rare-genetic-disorder"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-4cf3f598",
+    "status": "draft",
+    "translationOf": "the-girl-with-a-will-to-live-the-love-hope-and-pain-of-raising-elsie-my-one-in-1-4cf3f598",
+    "publishedAt": "2026-09-16T04:00:12.000Z",
+    "fetchedAt": "2026-09-21T15:17:26.519Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://www.theguardian.com/lifeandstyle/2026/sep/16/love-hope-pain-raising-elsie-rare-genetic-disorder)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "rise-in-abuse-of-election-candidates-is-changing-politics-in-england-zh-09192328",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/politics/2026/sep/14/election-candidates-england-abuse-electoral-commission-report",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/politics/2026/sep/14/election-candidates-england-abuse-electoral-commission-report"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-09192328",
+    "status": "draft",
+    "translationOf": "rise-in-abuse-of-election-candidates-is-changing-politics-in-england-09192328",
+    "publishedAt": "2026-09-14T04:01:21.000Z",
+    "fetchedAt": "2026-09-21T15:17:26.525Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://www.theguardian.com/politics/2026/sep/14/election-candidates-england-abuse-electoral-commission-report)"
+  },
+  {
+    "title": "足球拯救了爸爸的生命：認識英格蘭女子帕金森病隊的教練",
+    "slug": "football-saved-dads-life-meet-the-coach-of-the-england-womens-parkinsons-team-zh-a9d3b217",
+    "lang": "zh-TW",
+    "summary": "當爸爸Les在58歲時被診斷出帕金森病，Gemma Darvill發現參與步行足球隊讓他保持活躍與參與，她相信這救了他的生命。八年後，她現在擔任英格蘭女子帕金森病隊的教練，利用這項運動提高意識並幫助全國女性緩解症狀進展。",
+    "category": "case-studies",
+    "tags": [
+      "Parkinson's",
+      "walking football",
+      "disability sport",
+      "assistive activity"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/football/2026/sep/10/football-saved-dads-life-meet-the-coach-of-the-england-womens-parkinsons-team",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/football/2026/sep/10/football-saved-dads-life-meet-the-coach-of-the-england-womens-parkinsons-team"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-a9d3b217",
+    "status": "published",
+    "translationOf": "football-saved-dads-life-meet-the-coach-of-the-england-womens-parkinsons-team-a9d3b217",
+    "publishedAt": "2026-09-10T10:53:38.000Z",
+    "fetchedAt": "2026-09-21T15:17:26.531Z",
+    "body": "當爸爸Les在58歲時被診斷出帕金森病，Gemma Darvill發現參與步行足球隊讓他保持活躍與參與，她相信這救了他的生命。八年後，她現在擔任英格蘭女子帕金森病隊的教練，利用這項運動提高意識並幫助全國女性緩解症狀進展。\n\n原文來源： [Unknown source](https://www.theguardian.com/football/2026/sep/10/football-saved-dads-life-meet-the-coach-of-the-england-womens-parkinsons-team)"
+  },
+  {
+    "title": "英國殘疾人士可將個人獨立付款現金換為實物支援，福利改革方案",
+    "slug": "uk-disabled-people-could-swap-pip-cash-for-in-kind-support-in-benefit-overhaul-zh-fadb9c05",
+    "lang": "zh-TW",
+    "summary": "根據政府顧問的建議，英國個人獨立付款（PIP）改革方案將允許殘疾人士將部分現金福利換取專門設備、服務或培訓。",
+    "category": "assistive-tech",
+    "tags": [
+      "disability benefits",
+      "personal independence payment",
+      "in-kind support",
+      "UK"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/politics/2026/sep/10/disabled-people-personal-independence-payments-pip-support",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/politics/2026/sep/10/disabled-people-personal-independence-payments-pip-support"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-fadb9c05",
+    "status": "published",
+    "translationOf": "uk-disabled-people-could-swap-pip-cash-for-in-kind-support-in-benefit-overhaul-fadb9c05",
+    "publishedAt": "2026-09-10T05:00:17.000Z",
+    "fetchedAt": "2026-09-21T15:17:43.196Z",
+    "body": "根據政府顧問的建議，英國個人獨立付款（PIP）改革方案將允許殘疾人士將部分現金福利換取專門設備、服務或培訓。\n\n原文來源： [Unknown source](https://www.theguardian.com/politics/2026/sep/10/disabled-people-personal-independence-payments-pip-support)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "ndis-data-may-have-ended-up-in-palantirs-analytics-platform-as-part-of-efforts-t-zh-8700b40f",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/09/ndis-data-may-have-ended-up-in-palantirs-analytics-platform-as-part-of-efforts-to-curb",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/09/ndis-data-may-have-ended-up-in-palantirs-analytics-platform-as-part-of-efforts-to-curb"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-8700b40f",
+    "status": "draft",
+    "translationOf": "ndis-data-may-have-ended-up-in-palantirs-analytics-platform-as-part-of-efforts-t-8700b40f",
+    "publishedAt": "2026-09-09T01:09:16.000Z",
+    "fetchedAt": "2026-09-21T15:17:43.202Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://www.theguardian.com/australia-news/2026/sep/09/ndis-data-may-have-ended-up-in-palantirs-analytics-platform-as-part-of-efforts-to-curb)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "majority-of-tory-and-reform-voters-do-not-back-cuts-to-disability-benefits-surve-zh-3dde4a81",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/world/2026/sep/08/majority-tory-reform-voters-do-not-back-cuts-disability-benefits-survey",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/world/2026/sep/08/majority-tory-reform-voters-do-not-back-cuts-disability-benefits-survey"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-3dde4a81",
+    "status": "draft",
+    "translationOf": "majority-of-tory-and-reform-voters-do-not-back-cuts-to-disability-benefits-surve-3dde4a81",
+    "publishedAt": "2026-09-08T04:00:26.000Z",
+    "fetchedAt": "2026-09-21T15:17:43.207Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://www.theguardian.com/world/2026/sep/08/majority-tory-reform-voters-do-not-back-cuts-disability-benefits-survey)"
+  },
+  {
+    "title": "殘障人士回憶1970年代的校園經歷與日益加劇的歧視",
+    "slug": "disabled-person-reflects-on-school-experience-in-the-1970s-and-rising-discrimina-zh-9948cf51",
+    "lang": "zh-TW",
+    "summary": "作者是一位癌症倖存者的殘障人士，回憶在《慢性病和殘障人士法案》生效後得以進入主流學校就讀的經歷，但警告近年來對殘障人士的歧視已經惡化。",
+    "category": "laws-rights",
+    "tags": [
+      "education",
+      "discrimination",
+      "legislation"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/commentisfree/2026/sep/07/disabled-person-school-discrimination-benefits",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/07/disabled-person-school-discrimination-benefits"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-9948cf51",
+    "status": "published",
+    "translationOf": "disabled-person-reflects-on-school-experience-in-the-1970s-and-rising-discrimina-9948cf51",
+    "publishedAt": "2026-09-07T09:00:29.000Z",
+    "fetchedAt": "2026-09-21T15:18:11.026Z",
+    "body": "作者是一位癌症倖存者的殘障人士，回憶在《慢性病和殘障人士法案》生效後得以進入主流學校就讀的經歷，但警告近年來對殘障人士的歧視已經惡化。\n\n原文來源： [Unknown source](https://www.theguardian.com/commentisfree/2026/sep/07/disabled-person-school-discrimination-benefits)"
+  },
+  {
+    "title": "因照護經費被拒絕而無法出國的殘障人士",
+    "slug": "disabled-people-barred-from-overseas-travel-due-to-care-funding-refusals-zh-d588fb52",
+    "lang": "zh-TW",
+    "summary": "運動人士指出，英格蘭的NHS照護委員會和地方議會拒絕讓殘障人士將照護經費用於海外，導致出國權利隨居住地而異，儘管納稁人無額外成本。",
+    "category": "laws-rights",
+    "tags": [
+      "travel",
+      "care funding",
+      "postcode lottery"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/world/2026/sep/02/i-want-to-live-the-disabled-people-unable-to-go-abroad-because-of-care-funding-refusal",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/world/2026/sep/02/i-want-to-live-the-disabled-people-unable-to-go-abroad-because-of-care-funding-refusal"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-d588fb52",
+    "status": "published",
+    "translationOf": "disabled-people-barred-from-overseas-travel-due-to-care-funding-refusals-d588fb52",
+    "publishedAt": "2026-09-02T05:00:24.000Z",
+    "fetchedAt": "2026-09-21T15:18:11.032Z",
+    "body": "運動人士指出，英格蘭的NHS照護委員會和地方議會拒絕讓殘障人士將照護經費用於海外，導致出國權利隨居住地而異，儘管納稁人無額外成本。\n\n原文來源： [Unknown source](https://www.theguardian.com/world/2026/sep/02/i-want-to-live-the-disabled-people-unable-to-go-abroad-because-of-care-funding-refusal)"
+  },
+  {
+    "title": "為殘障婦女領導變革提供資金的申請呼籲",
+    "slug": "funding-call-for-women-with-disabilities-to-lead-change-zh-4e96bae7",
+    "lang": "zh-TW",
+    "summary": "歐洲殘障論壇開放一項次級補助計畫，最高可提供每個組織3,000歐元或每個聯盟9,000歐元，以支持由殘障婦女領導、推進婦女權益的項目。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "funding",
+      "women",
+      "disability",
+      "grant"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.edf-feph.org/apply-for-our-sub-granting-women-with-disabilities-leading-the-change",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.edf-feph.org/apply-for-our-sub-granting-women-with-disabilities-leading-the-change"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.edf-feph.org/feed",
+    "ingestProvider": "edf-feph.org",
+    "clusterId": "cluster-4e96bae7",
+    "status": "published",
+    "translationOf": "funding-call-for-women-with-disabilities-to-lead-change-4e96bae7",
+    "publishedAt": "2026-09-17T05:24:26.000Z",
+    "fetchedAt": "2026-09-21T15:18:11.037Z",
+    "body": "歐洲殘障論壇開放一項次級補助計畫，最高可提供每個組織3,000歐元或每個聯盟9,000歐元，以支持由殘障婦女領導、推進婦女權益的項目。\n\n原文來源： [Unknown source](https://www.edf-feph.org/apply-for-our-sub-granting-women-with-disabilities-leading-the-change)"
+  },
+  {
+    "title": "2026年歐盟國情咨文：殘障議題大多缺席",
+    "slug": "state-of-the-european-union-2026-disability-largely-absent-zh-da7ed740",
+    "lang": "zh-TW",
+    "summary": "2026年歐盟國情咨文於歐洲議會頁面提供國際手語傳譯，這是無障礙的進步，但整體無障礙程度仍不足，呼籲進一步改進。",
+    "category": "laws-rights",
+    "tags": [
+      "EU",
+      "State of the Union",
+      "International Sign",
+      "accessibility",
+      "disability"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.edf-feph.org/state-of-the-european-union-disability-largely-absent",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.edf-feph.org/state-of-the-european-union-disability-largely-absent"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.edf-feph.org/feed",
+    "ingestProvider": "edf-feph.org",
+    "clusterId": "cluster-da7ed740",
+    "status": "published",
+    "translationOf": "state-of-the-european-union-2026-disability-largely-absent-da7ed740",
+    "publishedAt": "2026-09-16T12:22:32.000Z",
+    "fetchedAt": "2026-09-21T15:18:36.778Z",
+    "body": "2026年歐盟國情咨文於歐洲議會頁面提供國際手語傳譯，這是無障礙的進步，但整體無障礙程度仍不足，呼籲進一步改進。\n\n原文來源： [Unknown source](https://www.edf-feph.org/state-of-the-european-union-disability-largely-absent)"
+  },
+  {
+    "title": "數位網路法案需落實無障礙通訊",
+    "slug": "digital-networks-act-needs-to-act-on-accessible-communication-zh-e939cacc",
+    "lang": "zh-TW",
+    "summary": "四個組織聯合致信，呼籲歐盟談判者在數位網路法案中加入條款，確保視訊與文字中繼服務始終可用，以提供無障礙通訊。",
+    "category": "digital-a11y",
+    "tags": [
+      "Digital Networks Act",
+      "video relay",
+      "text relay",
+      "accessible communication",
+      "EU"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.edf-feph.org/digital-networks-act-needs-to-act-on-accessible-communication",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.edf-feph.org/digital-networks-act-needs-to-act-on-accessible-communication"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.edf-feph.org/feed",
+    "ingestProvider": "edf-feph.org",
+    "clusterId": "cluster-e939cacc",
+    "status": "published",
+    "translationOf": "digital-networks-act-needs-to-act-on-accessible-communication-e939cacc",
+    "publishedAt": "2026-09-16T07:00:59.000Z",
+    "fetchedAt": "2026-09-21T15:18:36.785Z",
+    "body": "四個組織聯合致信，呼籲歐盟談判者在數位網路法案中加入條款，確保視訊與文字中繼服務始終可用，以提供無障礙通訊。\n\n原文來源： [Unknown source](https://www.edf-feph.org/digital-networks-act-needs-to-act-on-accessible-communication)"
+  },
+  {
+    "title": "增強版殘障策略：能達成什麼？",
+    "slug": "the-enhanced-disability-strategy-what-can-it-achieve-zh-d4f342ae",
+    "lang": "zh-TW",
+    "summary": "歐洲委員會於五月推出《殘障人士權利增強策略》，列出2021-2030年歐盟策略後半段的行動，但擔心措施缺乏約束力且許多提案未被納入。",
+    "category": "laws-rights",
+    "tags": [
+      "Enhanced Disability Strategy",
+      "EU Strategy 2021-2030",
+      "disability rights",
+      "non-binding measures",
+      "European Commission"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.edf-feph.org/the-enhanced-disability-strategy-what-can-it-achieve",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.edf-feph.org/the-enhanced-disability-strategy-what-can-it-achieve"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.edf-feph.org/feed",
+    "ingestProvider": "edf-feph.org",
+    "clusterId": "cluster-d4f342ae",
+    "status": "published",
+    "translationOf": "the-enhanced-disability-strategy-what-can-it-achieve-d4f342ae",
+    "publishedAt": "2026-09-14T06:48:50.000Z",
+    "fetchedAt": "2026-09-21T15:18:36.790Z",
+    "body": "歐洲委員會於五月推出《殘障人士權利增強策略》，列出2021-2030年歐盟策略後半段的行動，但擔心措施缺乏約束力且許多提案未被納入。\n\n原文來源： [Unknown source](https://www.edf-feph.org/the-enhanced-disability-strategy-what-can-it-achieve)"
+  },
+  {
+    "title": "可負擔但無障礙：委員會的可負擔住房法案忽視殘障需求",
+    "slug": "affordable-but-inaccessible-commissions-affordable-housing-act-ignores-disabilit-zh-0e9fa1d1",
+    "lang": "zh-TW",
+    "summary": "歐洲委員會提出的可負擔住房法案未顧及殘障人士的住房需求，既未提及無障礙要求，也未參考《殘疾人權利公約》。",
+    "category": "laws-rights",
+    "tags": [
+      "housing",
+      "disability",
+      "EU",
+      "UNCRPD"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.edf-feph.org/affordable-but-inaccessible-commissions-affordable-housing-act-ignores-disability",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.edf-feph.org/affordable-but-inaccessible-commissions-affordable-housing-act-ignores-disability"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.edf-feph.org/feed",
+    "ingestProvider": "edf-feph.org",
+    "clusterId": "cluster-0e9fa1d1",
+    "status": "published",
+    "translationOf": "affordable-but-inaccessible-commissions-affordable-housing-act-ignores-disabilit-0e9fa1d1",
+    "publishedAt": "2026-09-10T06:45:17.000Z",
+    "fetchedAt": "2026-09-21T15:18:57.390Z",
+    "body": "歐洲委員會提出的可負擔住房法案未顧及殘障人士的住房需求，既未提及無障礙要求，也未參考《殘疾人權利公約》。\n\n原文來源： [Unknown source](https://www.edf-feph.org/affordable-but-inaccessible-commissions-affordable-housing-act-ignores-disability)"
+  },
+  {
+    "title": "建議的公共採購規則有望提升殘障權益",
+    "slug": "proposed-public-procurement-rules-give-potential-boost-to-disability-rights-zh-772809fa",
+    "lang": "zh-TW",
+    "summary": "歐盟提出的公共採購規則包含有利改進，可能促使各機關採納更具包容性的做法，從而影響基礎設施、交通、數位服務和產品的無障礙程度。",
+    "category": "laws-rights",
+    "tags": [
+      "public procurement",
+      "disability rights",
+      "EU",
+      "accessibility"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.edf-feph.org/proposed-public-procurement-rules-give-potential-boost-to-disability-rights",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.edf-feph.org/proposed-public-procurement-rules-give-potential-boost-to-disability-rights"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.edf-feph.org/feed",
+    "ingestProvider": "edf-feph.org",
+    "clusterId": "cluster-772809fa",
+    "status": "published",
+    "translationOf": "proposed-public-procurement-rules-give-potential-boost-to-disability-rights-772809fa",
+    "publishedAt": "2026-09-09T12:25:09.000Z",
+    "fetchedAt": "2026-09-21T15:18:57.397Z",
+    "body": "歐盟提出的公共採購規則包含有利改進，可能促使各機關採納更具包容性的做法，從而影響基礎設施、交通、數位服務和產品的無障礙程度。\n\n原文來源： [Unknown source](https://www.edf-feph.org/proposed-public-procurement-rules-give-potential-boost-to-disability-rights)"
+  },
+  {
+    "title": "新版歐洲數位無障礙標準 EN 301549 發布",
+    "slug": "new-european-standard-on-digital-accessibility-is-out-zh-c1e70ea3",
+    "lang": "zh-TW",
+    "summary": "歐洲數位無障礙標準 EN 301549 的新版已經發布，提供需求與指引，協助機構使數位產品與服務對殘障人士無障礙。",
+    "category": "digital-a11y",
+    "tags": [
+      "digital accessibility",
+      "EN 301549",
+      "EU standard",
+      "disability"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.edf-feph.org/new-european-standard-on-digital-accessibility-is-out",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.edf-feph.org/new-european-standard-on-digital-accessibility-is-out"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.edf-feph.org/feed",
+    "ingestProvider": "edf-feph.org",
+    "clusterId": "cluster-c1e70ea3",
+    "status": "published",
+    "translationOf": "new-european-standard-on-digital-accessibility-is-out-c1e70ea3",
+    "publishedAt": "2026-09-04T12:56:19.000Z",
+    "fetchedAt": "2026-09-21T15:18:57.402Z",
+    "body": "歐洲數位無障礙標準 EN 301549 的新版已經發布，提供需求與指引，協助機構使數位產品與服務對殘障人士無障礙。\n\n原文來源： [Unknown source](https://www.edf-feph.org/new-european-standard-on-digital-accessibility-is-out)"
+  },
+  {
+    "title": "Joomla 無障礙：里程碑 1a 的成果",
+    "slug": "joomla-accessibility-the-results-of-milestone-1a-zh-db460558",
+    "lang": "zh-TW",
+    "summary": "Joomla 無障礙項目在 Sovereign Tech Fund 資助下完成里程碑 1a，提供可量化的改進，包括鍵盤導航、ARIA 標籤和對比度提升，使 CMS 對殘障人士更友好。",
+    "category": "digital-a11y",
+    "tags": [
+      "joomla",
+      "accessibility",
+      "milestone1a",
+      "digital-a11y"
+    ],
+    "sourceName": "Joomla.org",
+    "sourceUrl": "https://magazine.joomla.org/issues/2026/september-2026/joomla-accessibility-the-results-of-milestone-1a",
+    "relatedSources": [
+      {
+        "name": "Joomla.org",
+        "url": "https://magazine.joomla.org/issues/2026/september-2026/joomla-accessibility-the-results-of-milestone-1a"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-db460558",
+    "status": "published",
+    "translationOf": "joomla-accessibility-the-results-of-milestone-1a-db460558",
+    "publishedAt": "2026-09-20T08:00:00.000Z",
+    "fetchedAt": "2026-09-21T15:19:17.494Z",
+    "body": "Joomla 無障礙項目在 Sovereign Tech Fund 資助下完成里程碑 1a，提供可量化的改進，包括鍵盤導航、ARIA 標籤和對比度提升，使 CMS 對殘障人士更友好。\n\n原文來源： [Joomla.org](https://magazine.joomla.org/issues/2026/september-2026/joomla-accessibility-the-results-of-milestone-1a)"
+  },
+  {
+    "title": "Joomla 無障礙專案：從規劃到行動",
+    "slug": "joomla-accessibility-project-from-planning-to-action-zh-2f29419e",
+    "lang": "zh-TW",
+    "summary": "Joomla 無障礙專案已從規劃階段進入實施階段，概述了所採取的步驟，包括整合無障礙測試、開發者培訓和使用者回饋機制，以確保持續符合 WCAG 2.2 標準。",
+    "category": "digital-a11y",
+    "tags": [
+      "joomla",
+      "accessibility",
+      "project",
+      "digital-a11y"
+    ],
+    "sourceName": "Joomla.org",
+    "sourceUrl": "https://magazine.joomla.org/issues/2026/september-2026/joomla-accessibility-project-from-planning-to-action",
+    "relatedSources": [
+      {
+        "name": "Joomla.org",
+        "url": "https://magazine.joomla.org/issues/2026/september-2026/joomla-accessibility-project-from-planning-to-action"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-2f29419e",
+    "status": "published",
+    "translationOf": "joomla-accessibility-project-from-planning-to-action-2f29419e",
+    "publishedAt": "2026-09-20T08:00:00.000Z",
+    "fetchedAt": "2026-09-21T15:19:17.500Z",
+    "body": "Joomla 無障礙專案已從規劃階段進入實施階段，概述了所採取的步驟，包括整合無障礙測試、開發者培訓和使用者回饋機制，以確保持續符合 WCAG 2.2 標準。\n\n原文來源： [Joomla.org](https://magazine.joomla.org/issues/2026/september-2026/joomla-accessibility-project-from-planning-to-action)"
+  },
+  {
+    "title": "太平人敲碗成功！斥資1.8億新圖書館年底動工 2029年底完工",
+    "slug": "taiping-residents-succeed-nt18-billion-new-library-to-break-ground-at-yearend-co-zh-f4e58cd3",
+    "lang": "zh-TW",
+    "summary": "台中市立圖書館太平分館因空間狹小、漏水且無障礙設施不足，將在教育部補助9千萬、總預算1.8億下興建新館，預計年底前動工，2029年10月完工。新館將提供智慧化服務、彈性空間、在地連結、節能防災，並提升無障礙環境，方便殘障人士使用。",
+    "category": "physical-design",
+    "tags": [
+      "library",
+      "accessibility",
+      "barrier-free",
+      "construction",
+      "Taiping"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%A4%AA%E5%B9%B3%E4%BA%BA%E6%95%B2%E7%A2%97%E6%88%90%E5%8A%9F-%E6%96%A5%E8%B3%871-8%E5%84%84%E6%96%B0%E5%9C%96%E6%9B%B8%E9%A4%A8%E5%B9%B4%E5%BA%95%E5%8B%95%E5%B7%A5-2029%E5%B9%B4%E5%BA%95%E5%AE%8C%E5%B7%A5-004734737.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E5%A4%AA%E5%B9%B3%E4%BA%BA%E6%95%B2%E7%A2%97%E6%88%90%E5%8A%9F-%E6%96%A5%E8%B3%871-8%E5%84%84%E6%96%B0%E5%9C%96%E6%9B%B8%E9%A4%A8%E5%B9%B4%E5%BA%95%E5%8B%95%E5%B7%A5-2029%E5%B9%B4%E5%BA%95%E5%AE%8C%E5%B7%A5-004734737.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-f4e58cd3",
+    "status": "published",
+    "translationOf": "taiping-residents-succeed-nt18-billion-new-library-to-break-ground-at-yearend-co-f4e58cd3",
+    "publishedAt": "2026-09-20T00:47:34.000Z",
+    "fetchedAt": "2026-09-21T15:19:28.580Z",
+    "body": "台中市立圖書館太平分館因空間狹小、漏水且無障礙設施不足，將在教育部補助9千萬、總預算1.8億下興建新館，預計年底前動工，2029年10月完工。新館將提供智慧化服務、彈性空間、在地連結、節能防災，並提升無障礙環境，方便殘障人士使用。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%A4%AA%E5%B9%B3%E4%BA%BA%E6%95%B2%E7%A2%97%E6%88%90%E5%8A%9F-%E6%96%A5%E8%B3%871-8%E5%84%84%E6%96%B0%E5%9C%96%E6%9B%B8%E9%A4%A8%E5%B9%B4%E5%BA%95%E5%8B%95%E5%B7%A5-2029%E5%B9%B4%E5%BA%95%E5%AE%8C%E5%B7%A5-004734737.html)"
+  },
+  {
+    "title": "永和大陳都更單元七拆除 啟動",
+    "slug": "yonghe-dachen-urban-renewal-unit-seven-launches-demolition-zh-f39fd85f",
+    "lang": "zh-TW",
+    "summary": "永和新生地（大陳地區）更新單元七昨天舉行拆除動工典禮，標誌著大陳地區經過七十年沉寂後再次邁向轉型重建。該案規劃將打造具備黃金級綠建築、黃金級智慧建築、無障礙環境及耐震標章之建物，以提升殘障人士的無障礙使用環境。",
+    "category": "physical-design",
+    "tags": [
+      "urban renewal",
+      "barrier-free",
+      "accessibility",
+      "construction",
+      "Yonghe"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%B0%B8%E5%92%8C%E5%A4%A7%E9%99%B3%E9%83%BD%E6%9B%B4%E5%96%AE%E5%85%83%E4%B8%83%E6%8B%86%E9%99%A4-%E5%95%9F%E5%8B%95-133720893.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E6%B0%B8%E5%92%8C%E5%A4%A7%E9%99%B3%E9%83%BD%E6%9B%B4%E5%96%AE%E5%85%83%E4%B8%83%E6%8B%86%E9%99%A4-%E5%95%9F%E5%8B%95-133720893.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-f39fd85f",
+    "status": "published",
+    "translationOf": "yonghe-dachen-urban-renewal-unit-seven-launches-demolition-f39fd85f",
+    "publishedAt": "2026-09-19T13:37:20.000Z",
+    "fetchedAt": "2026-09-21T15:19:28.587Z",
+    "body": "永和新生地（大陳地區）更新單元七昨天舉行拆除動工典禮，標誌著大陳地區經過七十年沉寂後再次邁向轉型重建。該案規劃將打造具備黃金級綠建築、黃金級智慧建築、無障礙環境及耐震標章之建物，以提升殘障人士的無障礙使用環境。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E6%B0%B8%E5%92%8C%E5%A4%A7%E9%99%B3%E9%83%BD%E6%9B%B4%E5%96%AE%E5%85%83%E4%B8%83%E6%8B%86%E9%99%A4-%E5%95%9F%E5%8B%95-133720893.html)"
+  },
+  {
+    "title": "永和大陳都更再邁步 單元七拆除啟動",
+    "slug": "yonghe-dachen-urban-renewal-unit-seven-demolition-launched-zh-a9e0c885",
+    "lang": "zh-TW",
+    "summary": "新北市政府於永和新生地（大陳地區）更新單元七舉行拆除動工典禮，面積約1.34公頃，規劃打造具備黃金級綠建築、黃金級智慧建築、無障礙環境及耐震標章之建物，並預留市民活動中心。",
+    "category": "physical-design",
+    "tags": [
+      "urban renewal",
+      "accessible design",
+      "barrier-free",
+      "green building",
+      "smart building"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%B0%B8%E5%92%8C%E5%A4%A7%E9%99%B3%E9%83%BD%E6%9B%B4%E5%86%8D%E9%82%81%E6%AD%A5-%E5%96%AE%E5%85%83%E4%B8%83%E6%8B%86%E9%99%A4%E5%95%9F%E5%8B%95-074239065.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E6%B0%B8%E5%92%8C%E5%A4%A7%E9%99%B3%E9%83%BD%E6%9B%B4%E5%86%8D%E9%82%81%E6%AD%A5-%E5%96%AE%E5%85%83%E4%B8%83%E6%8B%86%E9%99%A4%E5%95%9F%E5%8B%95-074239065.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-a9e0c885",
+    "status": "published",
+    "translationOf": "yonghe-dachen-urban-renewal-unit-seven-demolition-launched-a9e0c885",
+    "publishedAt": "2026-09-19T07:42:39.000Z",
+    "fetchedAt": "2026-09-21T15:19:40.085Z",
+    "body": "新北市政府於永和新生地（大陳地區）更新單元七舉行拆除動工典禮，面積約1.34公頃，規劃打造具備黃金級綠建築、黃金級智慧建築、無障礙環境及耐震標章之建物，並預留市民活動中心。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E6%B0%B8%E5%92%8C%E5%A4%A7%E9%99%B3%E9%83%BD%E6%9B%B4%E5%86%8D%E9%82%81%E6%AD%A5-%E5%96%AE%E5%85%83%E4%B8%83%E6%8B%86%E9%99%A4%E5%95%9F%E5%8B%95-074239065.html)"
+  },
+  {
+    "title": "高鐵板橋站送暖　助身障者圓夢遊台南",
+    "slug": "taiwan-high-speed-rail-banqiao-station-assists-disabled-travelers-to-tainan-zh-0e7ef0c1",
+    "lang": "zh-TW",
+    "summary": "高鐵板橋站協助『新生活社會福利發展促進會三芝區日間照顧服務中心』50位學員、家長及社工首度搭高鐵前往台南旅行，提供交通便利與溫暖，實現身心障礙者的旅遊夢想。",
+    "category": "case-studies",
+    "tags": [
+      "high speed rail",
+      "disability travel",
+      "social inclusion",
+      "assistance program"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_86fe6d18-e5ce-4703-a5c0-0f6a4be221db",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_86fe6d18-e5ce-4703-a5c0-0f6a4be221db"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-0e7ef0c1",
+    "status": "published",
+    "translationOf": "taiwan-high-speed-rail-banqiao-station-assists-disabled-travelers-to-tainan-0e7ef0c1",
+    "publishedAt": "2026-09-18T08:29:20.000Z",
+    "fetchedAt": "2026-09-21T15:19:40.091Z",
+    "body": "高鐵板橋站協助『新生活社會福利發展促進會三芝區日間照顧服務中心』50位學員、家長及社工首度搭高鐵前往台南旅行，提供交通便利與溫暖，實現身心障礙者的旅遊夢想。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_86fe6d18-e5ce-4703-a5c0-0f6a4be221db)"
+  },
+  {
+    "title": "威院男病人被誤餵正常餐後哽喉離世　兩醫護調離崗位",
+    "slug": "hospital-feeding-error-leads-to-death-of-patient-with-swallowing-disorder-zh-7a4d2f2e",
+    "lang": "zh-TW",
+    "summary": "威爾斯親王醫院一名有吞嚥障礙的男病人因護士未查閱過去需糊餐紀錄而獲分配正常晚餐，餵食期間哽喉不治，涉事兩名醫護已被調離崗位。",
+    "category": "laws-rights",
+    "tags": [
+      "medical safety",
+      "dysphagia",
+      "hospital negligence",
+      "patient rights"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://hk.news.yahoo.com/%E5%A8%81%E9%99%A2%E7%94%B7%E7%97%85%E4%BA%BA%E8%A2%AB%E8%AA%A4%E9%A4%B5%E6%AD%A3%E5%B8%B8%E9%A4%90%E5%BE%8C%E5%93%BD%E5%96%89%E9%9B%A2%E4%B8%96-%E5%85%A9%E9%86%AB%E8%AD%B7%E8%AA%BF%E9%9B%A2%E5%B4%97%E4%BD%8D-140326134.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://hk.news.yahoo.com/%E5%A8%81%E9%99%A2%E7%94%B7%E7%97%85%E4%BA%BA%E8%A2%AB%E8%AA%A4%E9%A4%B5%E6%AD%A3%E5%B8%B8%E9%A4%90%E5%BE%8C%E5%93%BD%E5%96%89%E9%9B%A2%E4%B8%96-%E5%85%A9%E9%86%AB%E8%AD%B7%E8%AA%BF%E9%9B%A2%E5%B4%97%E4%BD%8D-140326134.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-7a4d2f2e",
+    "status": "published",
+    "translationOf": "hospital-feeding-error-leads-to-death-of-patient-with-swallowing-disorder-7a4d2f2e",
+    "publishedAt": "2026-09-18T06:03:26.000Z",
+    "fetchedAt": "2026-09-21T15:19:40.097Z",
+    "body": "威爾斯親王醫院一名有吞嚥障礙的男病人因護士未查閱過去需糊餐紀錄而獲分配正常晚餐，餵食期間哽喉不治，涉事兩名醫護已被調離崗位。\n\n原文來源： [Yahoo Entertainment](https://hk.news.yahoo.com/%E5%A8%81%E9%99%A2%E7%94%B7%E7%97%85%E4%BA%BA%E8%A2%AB%E8%AA%A4%E9%A4%B5%E6%AD%A3%E5%B8%B8%E9%A4%90%E5%BE%8C%E5%93%BD%E5%96%89%E9%9B%A2%E4%B8%96-%E5%85%A9%E9%86%AB%E8%AD%B7%E8%AA%BF%E9%9B%A2%E5%B4%97%E4%BD%8D-140326134.html)"
+  },
+  {
+    "title": "威院男病人被誤餵正常餐後哽喉離世",
+    "slug": "prince-of-wales-hospital-patient-with-swallowing-disability-choked-to-death-afte-zh-d630ccc8",
+    "lang": "zh-TW",
+    "summary": "威爾斯親王醫院一名有吞嚥障礙且患認知障礙症的54歲男病人，因未帶身份證明被登記虛擬身份號碼，系統預設正常餐，護士未查過往需糊餐紀錄，誤餵正常晚餐導致哽喉及心臟停頓，同日深夜離世。院方致歉並調離涉事護士及病人服務助理。",
+    "category": "case-studies",
+    "tags": [
+      "dysphagia",
+      "hospital safety",
+      "dietary accommodation",
+      "cognitive impairment",
+      "patient rights"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://hk.news.yahoo.com/%E5%A8%81%E9%99%A2%E7%94%B7%E7%97%85%E4%BA%BA%E8%A2%AB%E8%AA%A4%E9%A4%B5%E6%AD%A3%E5%B8%B8%E9%A4%90%E5%BE%8C%E5%93%BD%E5%96%89%E9%9B%A2%E4%B8%96-130126688.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://hk.news.yahoo.com/%E5%A8%81%E9%99%A2%E7%94%B7%E7%97%85%E4%BA%BA%E8%A2%AB%E8%AA%A4%E9%A4%B5%E6%AD%A3%E5%B8%B8%E9%A4%90%E5%BE%8C%E5%93%BD%E5%96%89%E9%9B%A2%E4%B8%96-130126688.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-d630ccc8",
+    "status": "published",
+    "translationOf": "prince-of-wales-hospital-patient-with-swallowing-disability-choked-to-death-afte-d630ccc8",
+    "publishedAt": "2026-09-18T05:01:26.000Z",
+    "fetchedAt": "2026-09-21T15:20:13.062Z",
+    "body": "威爾斯親王醫院一名有吞嚥障礙且患認知障礙症的54歲男病人，因未帶身份證明被登記虛擬身份號碼，系統預設正常餐，護士未查過往需糊餐紀錄，誤餵正常晚餐導致哽喉及心臟停頓，同日深夜離世。院方致歉並調離涉事護士及病人服務助理。\n\n原文來源： [Yahoo Entertainment](https://hk.news.yahoo.com/%E5%A8%81%E9%99%A2%E7%94%B7%E7%97%85%E4%BA%BA%E8%A2%AB%E8%AA%A4%E9%A4%B5%E6%AD%A3%E5%B8%B8%E9%A4%90%E5%BE%8C%E5%93%BD%E5%96%89%E9%9B%A2%E4%B8%96-130126688.html)"
+  },
+  {
+    "title": "超商大吵180萬人瘋傳真相曝！女客竟是視障者「枯等半小時」 友氣炸喊告",
+    "slug": "visually-impaired-customer-left-waiting-half-hour-at-convenience-store-sparks-vi-zh-1b577178",
+    "lang": "zh-TW",
+    "summary": "高雄左營超商發生顧客與店員激烈爭執，影片被PO網後引發熱議。起初眾人誤以為女顧客無理取鬧，事後友人澄清當事人為視障人士，因操作機台困難枯等半小時未獲協助，且遭店員質疑插隊才導致情緒失控。經查證，超商門市店長已承認疏失並致歉。友人要求原PO於期限內公開道歉並刪文，否則將採取法律行動維護權益。此事件凸顯服務現場對身障者友善環境的不足，引發大眾對網路公審與身心障礙權益的深度反思與廣泛討論。",
+    "category": "laws-rights",
+    "tags": [
+      "visual impairment",
+      "retail accessibility",
+      "customer service",
+      "disability rights",
+      "public apology"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_13f649fe-43b5-4163-b875-79be2c296c79",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_13f649fe-43b5-4163-b875-79be2c296c79"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-1b577178",
+    "status": "published",
+    "translationOf": "visually-impaired-customer-left-waiting-half-hour-at-convenience-store-sparks-vi-1b577178",
+    "publishedAt": "2026-09-18T02:31:00.000Z",
+    "fetchedAt": "2026-09-21T15:20:13.069Z",
+    "body": "高雄左營超商發生顧客與店員激烈爭執，影片被PO網後引發熱議。起初眾人誤以為女顧客無理取鬧，事後友人澄清當事人為視障人士，因操作機台困難枯等半小時未獲協助，且遭店員質疑插隊才導致情緒失控。經查證，超商門市店長已承認疏失並致歉。友人要求原PO於期限內公開道歉並刪文，否則將採取法律行動維護權益。此事件凸顯服務現場對身障者友善環境的不足，引發大眾對網路公審與身心障礙權益的深度反思與廣泛討論。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_13f649fe-43b5-4163-b875-79be2c296c79)"
+  },
+  {
+    "title": "南屯重要路口優化 環中與黎明路口連4夜刨鋪施工",
+    "slug": "south-taichung-intersection-upgrade-adds-refuge-islands-and-wheelchair-ramps-bef-zh-a41de819",
+    "lang": "zh-TW",
+    "summary": "銜接台74線與南屯市區的台中市南屯區環中路與黎明路一段路口，因車流量大且範圍寬廣，相關單位投入經費改善人行與行車環境，在陸續設置庇護島與無障礙斜坡道後，將於17日起一連4天展開夜間路面刨鋪工程。為減少對白天交通衝擊，施工時間定於每日夜間8時至翌日清晨6時，採分階段封閉車道作業，提醒用路人行經該處減速慢行或提前改道。",
+    "category": "physical-design",
+    "tags": [
+      "wheelchair ramp",
+      "refuge island",
+      "road safety",
+      "universal design",
+      "night construction"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%8D%97%E5%B1%AF%E9%87%8D%E8%A6%81%E8%B7%AF%E5%8F%A3%E5%84%AA%E5%8C%96-%E7%92%B0%E4%B8%AD%E8%88%87%E9%BB%8E%E6%98%8E%E8%B7%AF%E5%8F%A3%E9%80%A34%E5%A4%9C%E5%88%A8%E9%8B%AA%E6%96%BD%E5%B7%A5-074403743.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E5%8D%97%E5%B1%AF%E9%87%8D%E8%A6%81%E8%B7%AF%E5%8F%A3%E5%84%AA%E5%8C%96-%E7%92%B0%E4%B8%AD%E8%88%87%E9%BB%8E%E6%98%8E%E8%B7%AF%E5%8F%A3%E9%80%A34%E5%A4%9C%E5%88%A8%E9%8B%AA%E6%96%BD%E5%B7%A5-074403743.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-a41de819",
+    "status": "published",
+    "translationOf": "south-taichung-intersection-upgrade-adds-refuge-islands-and-wheelchair-ramps-bef-a41de819",
+    "publishedAt": "2026-09-17T07:44:03.000Z",
+    "fetchedAt": "2026-09-21T15:20:13.075Z",
+    "body": "銜接台74線與南屯市區的台中市南屯區環中路與黎明路一段路口，因車流量大且範圍寬廣，相關單位投入經費改善人行與行車環境，在陸續設置庇護島與無障礙斜坡道後，將於17日起一連4天展開夜間路面刨鋪工程。為減少對白天交通衝擊，施工時間定於每日夜間8時至翌日清晨6時，採分階段封閉車道作業，提醒用路人行經該處減速慢行或提前改道。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%8D%97%E5%B1%AF%E9%87%8D%E8%A6%81%E8%B7%AF%E5%8F%A3%E5%84%AA%E5%8C%96-%E7%92%B0%E4%B8%AD%E8%88%87%E9%BB%8E%E6%98%8E%E8%B7%AF%E5%8F%A3%E9%80%A34%E5%A4%9C%E5%88%A8%E9%8B%AA%E6%96%BD%E5%B7%A5-074403743.html)"
+  },
+  {
+    "title": "鼓勵終身學習！ 南區李美麗區長走訪長青學苑 宣導防詐騙",
+    "slug": "encouraging-lifelong-learning-southern-district-mayor-lee-mei-li-visits-senior-l-zh-c6a53d24",
+    "lang": "zh-TW",
+    "summary": "南區區長李美麗走訪長青學苑，鼓勵長者終身學習並宣導防詐騙，同時推動高齡友善政策，打造無障礙生活與通行環境。",
+    "category": "physical-design",
+    "tags": [
+      "elderly",
+      "lifelong learning",
+      "age-friendly",
+      "accessibility",
+      "anti-fraud"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E9%BC%93%E5%8B%B5%E7%B5%82%E8%BA%AB%E5%AD%B8%E7%BF%92-%E5%8D%97%E5%8D%80%E6%9D%8E%E7%BE%8E%E9%BA%97%E5%8D%80%E9%95%B7%E8%B5%B0%E8%A8%AA%E9%95%B7%E9%9D%92%E5%AD%B8%E8%8B%91-%E5%AE%A3%E5%B0%8E%E9%98%B2%E8%A9%90%E9%A8%99-062145792.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E9%BC%93%E5%8B%B5%E7%B5%82%E8%BA%AB%E5%AD%B8%E7%BF%92-%E5%8D%97%E5%8D%80%E6%9D%8E%E7%BE%8E%E9%BA%97%E5%8D%80%E9%95%B7%E8%B5%B0%E8%A8%AA%E9%95%B7%E9%9D%92%E5%AD%B8%E8%8B%91-%E5%AE%A3%E5%B0%8E%E9%98%B2%E8%A9%90%E9%A8%99-062145792.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-c6a53d24",
+    "status": "published",
+    "translationOf": "encouraging-lifelong-learning-southern-district-mayor-lee-mei-li-visits-senior-l-c6a53d24",
+    "publishedAt": "2026-09-17T06:21:45.000Z",
+    "fetchedAt": "2026-09-21T15:20:38.038Z",
+    "body": "南區區長李美麗走訪長青學苑，鼓勵長者終身學習並宣導防詐騙，同時推動高齡友善政策，打造無障礙生活與通行環境。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E9%BC%93%E5%8B%B5%E7%B5%82%E8%BA%AB%E5%AD%B8%E7%BF%92-%E5%8D%97%E5%8D%80%E6%9D%8E%E7%BE%8E%E9%BA%97%E5%8D%80%E9%95%B7%E8%B5%B0%E8%A8%AA%E9%95%B7%E9%9D%92%E5%AD%B8%E8%8B%91-%E5%AE%A3%E5%B0%8E%E9%98%B2%E8%A9%90%E9%A8%99-062145792.html)"
+  },
+  {
+    "title": "【藝術文化】新故宮計畫北院友善環境關鍵工程動工 無障礙通道預計2029年啟用",
+    "slug": "arts-culture-groundbreaking-for-accessible-path-in-new-palace-museum-northern-di-zh-89c987db",
+    "lang": "zh-TW",
+    "summary": "新故宮計畫北院友善環境關鍵工程動工，無障礙通道預計2029年1月完工啟用，將提升殘障訪客的無障礙環境。",
+    "category": "physical-design",
+    "tags": [
+      "museum",
+      "accessible path",
+      "infrastructure",
+      "disability access",
+      "cultural heritage"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E8%97%9D%E8%A1%93%E6%96%87%E5%8C%96-%E6%96%B0%E6%95%85%E5%AE%AE%E8%A8%88%E7%95%AB%E5%8C%97%E9%99%A2%E5%8F%8B%E5%96%84%E7%92%B0%E5%A2%83%E9%97%9C%E9%8D%B5%E5%B7%A5%E7%A8%8B%E5%8B%95%E5%B7%A5-%E7%84%A1%E9%9A%9C%E7%A4%99%E9%80%9A%E9%81%93%E9%A0%90%E8%A8%882029%E5%B9%B4%E5%95%9F%E7%94%A8-213000297.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E8%97%9D%E8%A1%93%E6%96%87%E5%8C%96-%E6%96%B0%E6%95%85%E5%AE%AE%E8%A8%88%E7%95%AB%E5%8C%97%E9%99%A2%E5%8F%8B%E5%96%84%E7%92%B0%E5%A2%83%E9%97%9C%E9%8D%B5%E5%B7%A5%E7%A8%8B%E5%8B%95%E5%B7%A5-%E7%84%A1%E9%9A%9C%E7%A4%99%E9%80%9A%E9%81%93%E9%A0%90%E8%A8%882029%E5%B9%B4%E5%95%9F%E7%94%A8-213000297.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-89c987db",
+    "status": "published",
+    "translationOf": "arts-culture-groundbreaking-for-accessible-path-in-new-palace-museum-northern-di-89c987db",
+    "publishedAt": "2026-09-16T21:30:00.000Z",
+    "fetchedAt": "2026-09-21T15:20:38.044Z",
+    "body": "新故宮計畫北院友善環境關鍵工程動工，無障礙通道預計2029年1月完工啟用，將提升殘障訪客的無障礙環境。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E8%97%9D%E8%A1%93%E6%96%87%E5%8C%96-%E6%96%B0%E6%95%85%E5%AE%AE%E8%A8%88%E7%95%AB%E5%8C%97%E9%99%A2%E5%8F%8B%E5%96%84%E7%92%B0%E5%A2%83%E9%97%9C%E9%8D%B5%E5%B7%A5%E7%A8%8B%E5%8B%95%E5%B7%A5-%E7%84%A1%E9%9A%9C%E7%A4%99%E9%80%9A%E9%81%93%E9%A0%90%E8%A8%882029%E5%B9%B4%E5%95%9F%E7%94%A8-213000297.html)"
+  },
+  {
+    "title": "老宅延壽補助今起開跑！彰化6374萬元助老屋修繕　最高補助65%",
+    "slug": "old-house-longevity-subsidy-launches-changhua-allocates-nt6374-million-for-elder-zh-bd7acbb5",
+    "lang": "zh-TW",
+    "summary": "彰化縣老宅延壽補助自9月16日起接受申請，最高補助工程費65%，含屋頂防水、外牆修繕、管線更新及無障礙環境改善，旨在提升老屋安全與居住機能。",
+    "category": "physical-design",
+    "tags": [
+      "housing",
+      "subsidy",
+      "accessibility",
+      "elderly",
+      "home modification"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E8%80%81%E5%AE%85%E5%BB%B6%E5%A3%BD%E8%A3%9C%E5%8A%A9%E4%BB%8A%E8%B5%B7%E9%96%8B%E8%B7%91-%E5%BD%B0%E5%8C%966374%E8%90%AC%E5%85%83%E5%8A%A9%E8%80%81%E5%B1%8B%E4%BF%AE%E7%B9%95-%E6%9C%80%E9%AB%98%E8%A3%9C%E5%8A%A965-101318467.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E8%80%81%E5%AE%85%E5%BB%B6%E5%A3%BD%E8%A3%9C%E5%8A%A9%E4%BB%8A%E8%B5%B7%E9%96%8B%E8%B7%91-%E5%BD%B0%E5%8C%966374%E8%90%AC%E5%85%83%E5%8A%A9%E8%80%81%E5%B1%8B%E4%BF%AE%E7%B9%95-%E6%9C%80%E9%AB%98%E8%A3%9C%E5%8A%A965-101318467.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-bd7acbb5",
+    "status": "published",
+    "translationOf": "old-house-longevity-subsidy-launches-changhua-allocates-nt6374-million-for-elder-bd7acbb5",
+    "publishedAt": "2026-09-16T10:13:18.000Z",
+    "fetchedAt": "2026-09-21T15:20:38.051Z",
+    "body": "彰化縣老宅延壽補助自9月16日起接受申請，最高補助工程費65%，含屋頂防水、外牆修繕、管線更新及無障礙環境改善，旨在提升老屋安全與居住機能。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E8%80%81%E5%AE%85%E5%BB%B6%E5%A3%BD%E8%A3%9C%E5%8A%A9%E4%BB%8A%E8%B5%B7%E9%96%8B%E8%B7%91-%E5%BD%B0%E5%8C%966374%E8%90%AC%E5%85%83%E5%8A%A9%E8%80%81%E5%B1%8B%E4%BF%AE%E7%B9%95-%E6%9C%80%E9%AB%98%E8%A3%9C%E5%8A%A965-101318467.html)"
+  },
+  {
+    "title": "故宮至善路入口無障礙通道開工　預計2029年完工",
+    "slug": "groundbreaking-ceremony-for-accessible-pathway-at-the-palace-museums-zhishan-roa-zh-7f2f437b",
+    "lang": "zh-TW",
+    "summary": "（中央社記者王寶兒台北16日電）故宮北院至善路入口、華表大道前的階梯，向來是許多民眾參訪第一印象，無障礙通道新建工程今天開工，將以電梯、電扶梯等方式讓各族群通行更便利，預計2029年完工啟用。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "museum",
+      "infrastructure",
+      "Taiwan"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%95%85%E5%AE%AE%E8%87%B3%E5%96%84%E8%B7%AF%E5%85%A5%E5%8F%A3%E7%84%A1%E9%9A%9C%E7%A4%99%E9%80%9A%E9%81%93%E9%96%8B%E5%B7%A5-%E9%A0%90%E8%A8%882029%E5%B9%B4%E5%AE%8C%E5%B7%A5-071020509.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E6%95%85%E5%AE%AE%E8%87%B3%E5%96%84%E8%B7%AF%E5%85%A5%E5%8F%A3%E7%84%A1%E9%9A%9C%E7%A4%99%E9%80%9A%E9%81%93%E9%96%8B%E5%B7%A5-%E9%A0%90%E8%A8%882029%E5%B9%B4%E5%AE%8C%E5%B7%A5-071020509.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-7f2f437b",
+    "status": "published",
+    "translationOf": "groundbreaking-ceremony-for-accessible-pathway-at-the-palace-museums-zhishan-roa-7f2f437b",
+    "publishedAt": "2026-09-16T07:10:20.000Z",
+    "fetchedAt": "2026-09-21T15:21:01.141Z",
+    "body": "（中央社記者王寶兒台北16日電）故宮北院至善路入口、華表大道前的階梯，向來是許多民眾參訪第一印象，無障礙通道新建工程今天開工，將以電梯、電扶梯等方式讓各族群通行更便利，預計2029年完工啟用。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E6%95%85%E5%AE%AE%E8%87%B3%E5%96%84%E8%B7%AF%E5%85%A5%E5%8F%A3%E7%84%A1%E9%9A%9C%E7%A4%99%E9%80%9A%E9%81%93%E9%96%8B%E5%B7%A5-%E9%A0%90%E8%A8%882029%E5%B9%B4%E5%AE%8C%E5%B7%A5-071020509.html)"
+  },
+  {
+    "title": "故宮無障礙連通道創捷運工程史新篇 蕭宗煌曝3大亮點",
+    "slug": "palace-museums-accessible-connecting-pathway-creates-a-new-chapter-in-mrt-engine-zh-7b69b210",
+    "lang": "zh-TW",
+    "summary": "國立故宮博物院今（16）日舉辦「至善路入口無障礙通道新建工程」開工祈福典禮，故宮院長蕭宗煌說明，該項工程規劃設計上有3大亮點，最重要的是，它將是台灣捷運工程史上一個重要的新篇，即是在捷運及車站都還沒有蓋時，外部的連通道都已經做好了。蕭宗煌表示，諸如衛武營、中正紀念堂、國立歷史博物館等文化設施，都有捷",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "museum",
+      "MRT",
+      "Taiwan"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%95%85%E5%AE%AE%E7%84%A1%E9%9A%9C%E7%A4%99%E9%80%A3%E9%80%9A%E9%81%93%E5%89%B5%E6%8D%B7%E9%81%8B%E5%B7%A5%E7%A8%8B%E5%8F%B2%E6%96%B0%E7%AF%87-%E8%95%AD%E5%AE%97%E7%85%8C%E6%9B%9D3%E5%A4%A7%E4%BA%AE%E9%BB%9E-033643966.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E6%95%85%E5%AE%AE%E7%84%A1%E9%9A%9C%E7%A4%99%E9%80%A3%E9%80%9A%E9%81%93%E5%89%B5%E6%8D%B7%E9%81%8B%E5%B7%A5%E7%A8%8B%E5%8F%B2%E6%96%B0%E7%AF%87-%E8%95%AD%E5%AE%97%E7%85%8C%E6%9B%9D3%E5%A4%A7%E4%BA%AE%E9%BB%9E-033643966.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-7b69b210",
+    "status": "published",
+    "translationOf": "palace-museums-accessible-connecting-pathway-creates-a-new-chapter-in-mrt-engine-7b69b210",
+    "publishedAt": "2026-09-16T03:36:43.000Z",
+    "fetchedAt": "2026-09-21T15:21:01.148Z",
+    "body": "國立故宮博物院今（16）日舉辦「至善路入口無障礙通道新建工程」開工祈福典禮，故宮院長蕭宗煌說明，該項工程規劃設計上有3大亮點，最重要的是，它將是台灣捷運工程史上一個重要的新篇，即是在捷運及車站都還沒有蓋時，外部的連通道都已經做好了。蕭宗煌表示，諸如衛武營、中正紀念堂、國立歷史博物館等文化設施，都有捷\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E6%95%85%E5%AE%AE%E7%84%A1%E9%9A%9C%E7%A4%99%E9%80%A3%E9%80%9A%E9%81%93%E5%89%B5%E6%8D%B7%E9%81%8B%E5%B7%A5%E7%A8%8B%E5%8F%B2%E6%96%B0%E7%AF%87-%E8%95%AD%E5%AE%97%E7%85%8C%E6%9B%9D3%E5%A4%A7%E4%BA%AE%E9%BB%9E-033643966.html)"
+  },
+  {
+    "title": "無障礙不只是少數人的專利 ――『人人皆受益』的理念",
+    "slug": "accessibility-is-not-just-for-some-the-everyone-benefits-mindset-zh-5370ec36",
+    "lang": "zh-TW",
+    "summary": "本文探討字幕等功能如何超越僅為特定群體的協助，提升所有人的使用便利性，並主張從設計階段就考慮所有人的參與（Accessibility by Design），以實現多樣化工作場所的包容性溝通。",
+    "category": "digital-a11y",
+    "tags": [
+      "subtitles",
+      "inclusive design",
+      "accessibility by design",
+      "workplace"
+    ],
+    "sourceName": "Cisco.com",
+    "sourceUrl": "https://gblogs.cisco.com/jp/2026/09/ai-accessibility-future-proofed-workplaces-04",
+    "relatedSources": [
+      {
+        "name": "Cisco.com",
+        "url": "https://gblogs.cisco.com/jp/2026/09/ai-accessibility-future-proofed-workplaces-04"
+      }
+    ],
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-5370ec36",
+    "status": "published",
+    "translationOf": "accessibility-is-not-just-for-some-the-everyone-benefits-mindset-5370ec36",
+    "publishedAt": "2026-09-04T07:46:32.000Z",
+    "fetchedAt": "2026-09-21T15:21:30.188Z",
+    "body": "本文探討字幕等功能如何超越僅為特定群體的協助，提升所有人的使用便利性，並主張從設計階段就考慮所有人的參與（Accessibility by Design），以實現多樣化工作場所的包容性溝通。\n\n原文來源： [Cisco.com](https://gblogs.cisco.com/jp/2026/09/ai-accessibility-future-proofed-workplaces-04)"
+  },
+  {
+    "title": "歐盟網頁與行動應用無障礙法規：企業需知的EAA以外規定",
+    "slug": "eu-accessibility-legislation-for-web-and-mobile-apps-what-companies-need-to-know-zh-0510dd5b",
+    "lang": "zh-TW",
+    "summary": "本文說明歐盟數位無障礙的法律要求，涵蓋歐盟無障礙法案（EAA）、網頁無障礙指令（WAD）、就業平等指令，以及WCAG與EN 301 549等標準，提供B2C、B2B及公共部門服務的實務指引，並列出十個歐盟成員國的國內法、處罰與執行案例。",
+    "category": "laws-rights",
+    "tags": [
+      "EU",
+      "EAA",
+      "WAD",
+      "WCAG",
+      "EN 301 549",
+      "digital accessibility",
+      "legislation"
+    ],
+    "sourceName": "Classmethod.jp",
+    "sourceUrl": "https://dev.classmethod.jp/articles/eu-digital-accessibility-laws",
+    "relatedSources": [
+      {
+        "name": "Classmethod.jp",
+        "url": "https://dev.classmethod.jp/articles/eu-digital-accessibility-laws"
+      }
+    ],
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-0510dd5b",
+    "status": "published",
+    "translationOf": "eu-accessibility-legislation-for-web-and-mobile-apps-what-companies-need-to-know-0510dd5b",
+    "publishedAt": "2026-09-02T10:06:45.000Z",
+    "fetchedAt": "2026-09-21T15:21:30.195Z",
+    "body": "本文說明歐盟數位無障礙的法律要求，涵蓋歐盟無障礙法案（EAA）、網頁無障礙指令（WAD）、就業平等指令，以及WCAG與EN 301 549等標準，提供B2C、B2B及公共部門服務的實務指引，並列出十個歐盟成員國的國內法、處罰與執行案例。\n\n原文來源： [Classmethod.jp](https://dev.classmethod.jp/articles/eu-digital-accessibility-laws)"
+>>>>>>> Stashed changes
   }
 ]
