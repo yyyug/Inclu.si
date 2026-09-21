@@ -8343,15 +8343,15 @@
     }
   },
   "2026-09-21": {
-    "generatedAt": "2026-09-21T15:18:28.013Z",
+    "generatedAt": "2026-09-21T22:47:09.790Z",
     "en": {
-      "title": "Digital Accessibility Advances in Documents and Smart Home Tech",
-      "summary": "New product launches in assistive technology mark a key shift in inclusive design. A specialized OS for visually impaired users and smart locks highlight improved physical access. Simultaneously, new tools are enhancing document accessibility for screen reader users.",
+      "title": "Kerbcut Launch Marks New Era in Accessible Tech Discovery",
+      "summary": "Former Microsoft employee Hector Minto launched Kerbcut, an AI platform to help users discover assistive technology. The week also saw updates to Meta Connect and Googlebook, solidifying a major push for accessible tech.",
       "highlights": [
         {
-          "title": "Googlebooks, Aluminium OS and the Schlage Smart Lock That Opens Itself",
-          "slug": "googlebooks-aluminium-os-and-the-schlage-smart-lock-that-opens-itself-5d4144ad",
-          "url": "https://doubletaponair.com/googlebooks-aluminium-os-and-the-schlage-smart-lock-that-opens-itself-2"
+          "title": "Kerbcut Launches, Meta Connect and the Googlebook Coming Soon: A Big Week for Accessible Tech",
+          "slug": "kerbcut-launches-meta-connect-and-the-googlebook-coming-soon-a-big-week-for-acce-e20bd1d2",
+          "url": "https://doubletaponair.com/kerbcut-launches-meta-connect-and-the-googlebook-coming-soon-a-big-week-for-accessible-tech-2"
         },
         {
           "title": "Scanned PDF vs. Screen Reader: Before and After the PREP Tool",
@@ -8366,21 +8366,21 @@
       ]
     },
     "zh-TW": {
-      "title": "數位無障礙科技進展：文件與智能家居的革新",
-      "summary": "輔助科技的產品發佈標誌著包容性設計的重要轉變。專為視障人士打造的作業系統及智慧鎖提升了實體使用的便利性。同時，新工具也強化了文件對螢幕閱讀使用者的無障礙支持。",
+      "title": "Kerbcut 問世：AI 輔助無障礙科技發現新趨勢",
+      "summary": "前微軟員工 Hector Minto 推出 Kerbcut，這是一個協助使用者發現輔助技術產品的 AI 平台。本週 Meta Connect 與 Googlebook 也有更新，凸顯無障礙科技的重大進展。",
       "highlights": [
         {
-          "title": "Googlebooks、Aluminium OS 與會自動開啟的 Schlage 智慧鎖",
-          "slug": "googlebooks-aluminium-os-and-the-schlage-smart-lock-that-opens-itself-zh-5d4144ad",
-          "url": "https://doubletaponair.com/googlebooks-aluminium-os-and-the-schlage-smart-lock-that-opens-itself-2"
+          "title": "Kerbcut 推出，Meta Connect 與 Googlebook 即將登場：無障礙科技的一周",
+          "slug": "kerbcut-launches-meta-connect-and-the-googlebook-coming-soon-a-big-week-for-acce-zh-e20bd1d2",
+          "url": "https://doubletaponair.com/kerbcut-launches-meta-connect-and-the-googlebook-coming-soon-a-big-week-for-accessible-tech-2"
         },
         {
-          "title": "掃描 PDF 與螢幕閱讀器：PREP 工具前後比較",
+          "title": "掃描 PDF 與螢幕閱讀器：PREP 工具前後對比",
           "slug": "scanned-pdf-vs-screen-reader-before-and-after-the-prep-tool-zh-1be9fcb0",
           "url": "https://theaccessibilityguy.com/scanned-pdf-vs-screen-reader-before-and-after-the-prep-tool"
         },
         {
-          "title": "無障礙資訊新聞：2026年9月21日 星期一 第1085期",
+          "title": "无障碍信息新闻 2026年9月21日 星期一 第1085期",
           "slug": "access-information-news-for-monday-september-21-2026-volume-1085-zh-1ec95cd0",
           "url": "https://accessinformationnews.com/newsletter-09-21-2026"
         }
