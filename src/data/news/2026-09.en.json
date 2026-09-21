@@ -1158,5 +1158,68 @@
     "publishedAt": "2026-09-02T14:00:37.000Z",
     "fetchedAt": "2026-09-20T21:02:58.006Z",
     "body": "Guidance on steps to take within the first month after receiving an accessibility complaint, covering email handling, investigation, remediation, and legal considerations.\n\nRead more from the original source: [theaccessibilityguy.com](https://theaccessibilityguy.com/what-to-do-in-the-first-30-days-after-an-accessibility-complaint)"
+  },
+  {
+    "title": "Scanned PDF vs. Screen Reader: Before and After the PREP Tool",
+    "slug": "scanned-pdf-vs-screen-reader-before-and-after-the-prep-tool-1be9fcb0",
+    "lang": "en",
+    "summary": "The blog post compares scanned PDF accessibility before and after using the PREP Tool by Continual Engine, showing how the tool speeds up document remediation and improves screen reader compatibility.",
+    "category": "digital-a11y",
+    "tags": [
+      "PDF remediation",
+      "screen reader",
+      "PREP Tool"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/scanned-pdf-vs-screen-reader-before-and-after-the-prep-tool",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/scanned-pdf-vs-screen-reader-before-and-after-the-prep-tool"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-1be9fcb0",
+    "status": "published",
+    "translationOf": "scanned-pdf-vs-screen-reader-before-and-after-the-prep-tool-zh-1be9fcb0",
+    "publishedAt": "2026-09-21T14:00:59.000Z",
+    "fetchedAt": "2026-09-21T15:14:51.018Z",
+    "body": "The blog post compares scanned PDF accessibility before and after using the PREP Tool by Continual Engine, showing how the tool speeds up document remediation and improves screen reader compatibility.\n\nRead more from the original source: [theaccessibilityguy.com](https://theaccessibilityguy.com/scanned-pdf-vs-screen-reader-before-and-after-the-prep-tool)"
+  },
+  {
+    "title": "Access Information News for Monday, September 21, 2026 – Volume 1085",
+    "slug": "access-information-news-for-monday-september-21-2026-volume-1085-1ec95cd0",
+    "lang": "en",
+    "summary": "A weekly newsletter covering the latest news and updates in accessibility information, marked with the accessibility symbol.",
+    "category": "general",
+    "tags": [
+      "newsletter",
+      "accessibility news"
+    ],
+    "sourceName": "accessinformationnews.com",
+    "sourceUrl": "https://accessinformationnews.com/newsletter-09-21-2026",
+    "relatedSources": [
+      {
+        "name": "accessinformationnews.com",
+        "url": "https://accessinformationnews.com/newsletter-09-21-2026"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://accessinformationnews.com/feed",
+    "ingestProvider": "accessinformationnews.com",
+    "clusterId": "cluster-1ec95cd0",
+    "status": "published",
+    "translationOf": "access-information-news-for-monday-september-21-2026-volume-1085-zh-1ec95cd0",
+    "publishedAt": "2026-09-21T04:05:00.000Z",
+    "fetchedAt": "2026-09-21T15:14:51.022Z",
+    "body": "A weekly newsletter covering the latest news and updates in accessibility information, marked with the accessibility symbol.\n\nRead more from the original source: [accessinformationnews.com](https://accessinformationnews.com/newsletter-09-21-2026)"
   }
 ]
