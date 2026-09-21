@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "title": "Bridging the Digital Divide: Enhancing Accessibility for Blind and Low-Vision Consumers",
+    "slug": "bridging-the-digital-divide-enhancing-accessibility-for-blind-and-low-vision-con-2d4d7620",
+    "lang": "en",
+    "summary": "McKinsey & Company discusses efforts to close the digital gap specifically for blind and low-vision consumers, focusing on improving digital accessibility and user experience for this demographic.",
+    "category": "digital-a11y",
+    "tags": [
+      "digital accessibility",
+      "blind",
+      "low vision",
+      "McKinsey",
+      "UX"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.mckinsey.com/featured-insights/highlights-in-arabic/bridging-another-digital-divide-accessibility-for-blind-and-low-vision-consumers-arabic/ar",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.mckinsey.com/featured-insights/highlights-in-arabic/bridging-another-digital-divide-accessibility-for-blind-and-low-vision-consumers-arabic/ar"
+      }
+    ],
+    "sourceCountry": "EG",
+    "queryRegion": "EG",
+    "region": "EG",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-2d4d7620",
+    "status": "published",
+    "translationOf": "bridging-the-digital-divide-enhancing-accessibility-for-blind-and-low-vision-con-zh-2d4d7620",
+    "publishedAt": "2023-05-02T07:00:00.000Z",
+    "fetchedAt": "2026-09-21T21:15:55.397Z",
+    "body": "McKinsey & Company discusses efforts to close the digital gap specifically for blind and low-vision consumers, focusing on improving digital accessibility and user experience for this demographic.\n\nRead more from the original source: [news.google.com](https://www.mckinsey.com/featured-insights/highlights-in-arabic/bridging-another-digital-divide-accessibility-for-blind-and-low-vision-consumers-arabic/ar)"
+  }
+]
