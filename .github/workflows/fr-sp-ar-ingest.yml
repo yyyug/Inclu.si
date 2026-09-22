@@ -3,7 +3,7 @@ name: Twice-Daily Ingest FR/ES/AR Sources
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 10,17 * * *"
+    - cron: "45 10,18 * * *"
 
 permissions:
   contents: write
@@ -73,16 +73,24 @@ jobs:
             echo "No changes to commit"
             echo "COMMITTED_YES_NO=no" >> "$GITHUB_ENV"
           else
-            for attempt in 1 2 3; do
-              git reset HEAD~1 --soft 2>/dev/null || true
-              git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            STASH=$(git stash create "ingest output ${GITHUB_RUN_ID}")
+            for attempt in 1 2 3 4 5; do
+              git fetch origin "${GITHUB_REF_NAME}" || true
+              git reset --hard "origin/${GITHUB_REF_NAME}" || true
+              node scripts/merge-news-json.mjs "$STASH" src/data/news || exit 1
               git add src/data/news
+              if git diff --cached --quiet; then
+                echo "No changes to commit"
+                echo "COMMITTED_YES_NO=no" >> "$GITHUB_ENV"
+                exit 0
+              fi
               git commit -m "chore: ingest FR/ES/AR accessibility sources"
               if git push origin "HEAD:${GITHUB_REF_NAME}"; then
                 echo "COMMITTED_YES_NO=yes" >> "$GITHUB_ENV"
                 exit 0
               fi
-              echo "Push attempt ${attempt} failed; retrying..."
+              echo "Push attempt ${attempt} failed; realigning to origin and retrying..."
+              sleep 15
             done
             echo "Failed to push changes after retries"
             exit 1
