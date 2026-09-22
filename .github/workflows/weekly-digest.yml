@@ -79,12 +79,22 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add src/data/digests/
-            git commit -m "chore: generate weekly digest"
-            for attempt in 1 2 3; do
-              if git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
+            STASH=$(git stash create "digest output ${GITHUB_RUN_ID}")
+            for attempt in 1 2 3 4 5; do
+              git fetch origin "${GITHUB_REF_NAME}" || true
+              git reset --hard "origin/${GITHUB_REF_NAME}" || true
+              node scripts/merge-digest-json.mjs "$STASH" src/data/digests || exit 1
+              git add src/data/digests/
+              if git diff --cached --quiet; then
+                echo "No weekly digest updates"
                 exit 0
               fi
-              echo "Push attempt ${attempt} failed; retrying..."
+              git commit -m "chore: generate weekly digest"
+              if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+                exit 0
+              fi
+              echo "Push attempt ${attempt} failed; realigning to origin and retrying..."
+              sleep 15
             done
             echo "Failed to push changes after retries"
             exit 1
