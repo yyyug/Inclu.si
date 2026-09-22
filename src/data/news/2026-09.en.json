@@ -55398,5 +55398,863 @@
     "publishedAt": "2026-09-02T12:30:45.000Z",
     "fetchedAt": "2026-09-20T21:01:55.222Z",
     "body": "Podcast hosts discuss how AI tools like ChatGPT, Gemini, and Claude empower blind and low‑vision users, featuring an interview with Tony Gebhard, author of “No Sight Required: A Blind User’s Guide to AI”.\n\nRead more from the original source: [Eyes On Success](https://podcast.eyesonsuccess.net/?p=2717)"
+  },
+  {
+    "title": "Educator Workshop | Accessibility in the Classroom - MCA Chicago",
+    "slug": "educator-workshop-accessibility-in-the-classroom-mca-chicago-417f3b5e",
+    "lang": "en",
+    "summary": "MCA Chicago hosts a workshop for educators focusing on making classroom environments accessible for students with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "education",
+      "classroom",
+      "workshop",
+      "disability access"
+    ],
+    "sourceName": "MCA Chicago",
+    "sourceUrl": "https://mcachicago.org/whats-on/events/educator-workshop-accessibility-in-the-classroom",
+    "relatedSources": [
+      {
+        "name": "MCA Chicago",
+        "url": "https://mcachicago.org/whats-on/events/educator-workshop-accessibility-in-the-classroom"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-417f3b5e",
+    "status": "published",
+    "translationOf": "educator-workshop-accessibility-in-the-classroom-mca-chicago-zh-417f3b5e",
+    "publishedAt": "2026-09-21T21:40:11.000Z",
+    "fetchedAt": "2026-09-22T04:05:15.024Z",
+    "body": "MCA Chicago hosts a workshop for educators focusing on making classroom environments accessible for students with disabilities.\n\nRead more from the original source: [MCA Chicago](https://mcachicago.org/whats-on/events/educator-workshop-accessibility-in-the-classroom)"
+  },
+  {
+    "title": "In Focus with Wendi Dwyer: From disability to accessibility - PBS Wisconsin",
+    "slug": "in-focus-with-wendi-dwyer-from-disability-to-accessibility-pbs-wisconsin-d3f57f35",
+    "lang": "en",
+    "summary": "PBS Wisconsin's In Focus series features Wendi Dwyer discussing the journey from disability to accessibility, highlighting advocacy and inclusive practices.",
+    "category": "laws-rights",
+    "tags": [
+      "advocacy",
+      "disability rights",
+      "PBS",
+      "In Focus"
+    ],
+    "sourceName": "PBS Wisconsin",
+    "sourceUrl": "https://pbswisconsin.org/news-item/in-focus-with-wendi-dwyer-from-disability-to-accessibility",
+    "relatedSources": [
+      {
+        "name": "PBS Wisconsin",
+        "url": "https://pbswisconsin.org/news-item/in-focus-with-wendi-dwyer-from-disability-to-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-d3f57f35",
+    "status": "published",
+    "translationOf": "in-focus-with-wendi-dwyer-from-disability-to-accessibility-pbs-wisconsin-zh-d3f57f35",
+    "publishedAt": "2026-09-21T17:37:50.000Z",
+    "fetchedAt": "2026-09-22T04:05:15.086Z",
+    "body": "PBS Wisconsin's In Focus series features Wendi Dwyer discussing the journey from disability to accessibility, highlighting advocacy and inclusive practices.\n\nRead more from the original source: [PBS Wisconsin](https://pbswisconsin.org/news-item/in-focus-with-wendi-dwyer-from-disability-to-accessibility)"
+  },
+  {
+    "title": "Simas Park in Santa Maria considered for accessibility improvements - KSBY News",
+    "slug": "simas-park-in-santa-maria-considered-for-accessibility-improvements-ksby-news-29ef212c",
+    "lang": "en",
+    "summary": "KSBY News reports that Simas Park in Santa Maria is being evaluated for accessibility upgrades to better serve visitors with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "park",
+      "Santa Maria",
+      "accessibility improvements",
+      "public space"
+    ],
+    "sourceName": "KSBY News",
+    "sourceUrl": "https://www.ksby.com/santa-maria/simas-park-in-santa-maria-considered-for-accessibility-improvements",
+    "relatedSources": [
+      {
+        "name": "KSBY News",
+        "url": "https://www.ksby.com/santa-maria/simas-park-in-santa-maria-considered-for-accessibility-improvements"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-29ef212c",
+    "status": "published",
+    "translationOf": "simas-park-in-santa-maria-considered-for-accessibility-improvements-ksby-news-zh-29ef212c",
+    "publishedAt": "2026-09-22T00:47:51.000Z",
+    "fetchedAt": "2026-09-22T04:05:15.137Z",
+    "body": "KSBY News reports that Simas Park in Santa Maria is being evaluated for accessibility upgrades to better serve visitors with disabilities.\n\nRead more from the original source: [KSBY News](https://www.ksby.com/santa-maria/simas-park-in-santa-maria-considered-for-accessibility-improvements)"
+  },
+  {
+    "title": "IPhone 18 Pro Accessibility Features Point To A More Useful Future For AI",
+    "slug": "iphone-18-pro-accessibility-features-point-to-a-more-useful-future-for-ai-92b3e5b6",
+    "lang": "en",
+    "summary": "IPhone 18 Pro Accessibility Features Point To A More Useful Future For AI",
+    "category": "digital-a11y",
+    "tags": [],
+    "sourceName": "Forbes",
+    "sourceUrl": "https://www.forbes.com/sites/keelycatwells/2026/09/21/iphone-18-pro-accessibility-features-point-to-a-more-useful-future-for-ai",
+    "relatedSources": [
+      {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/keelycatwells/2026/09/21/iphone-18-pro-accessibility-features-point-to-a-more-useful-future-for-ai"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-92b3e5b6",
+    "status": "published",
+    "translationOf": "iphone-18-pro-accessibility-features-point-to-a-more-useful-future-for-ai-zh-92b3e5b6",
+    "publishedAt": "2026-09-21T13:00:00.000Z",
+    "fetchedAt": "2026-09-22T04:06:08.563Z",
+    "body": "IPhone 18 Pro Accessibility Features Point To A More Useful Future For AI\n\nRead more from the original source: [Forbes](https://www.forbes.com/sites/keelycatwells/2026/09/21/iphone-18-pro-accessibility-features-point-to-a-more-useful-future-for-ai)"
+  },
+  {
+    "title": "Opinion: For blind riders, accessibility begins before a vehicle arrives",
+    "slug": "opinion-for-blind-riders-accessibility-begins-before-a-vehicle-arrives-766ce820",
+    "lang": "en",
+    "summary": "Opinion: For blind riders, accessibility begins before a vehicle arrives",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "Times of San Diego",
+    "sourceUrl": "https://timesofsandiego.com/opinion/2026/09/21/blind-riders-accessibility-begins-before-vehicle-arrives",
+    "relatedSources": [
+      {
+        "name": "Times of San Diego",
+        "url": "https://timesofsandiego.com/opinion/2026/09/21/blind-riders-accessibility-begins-before-vehicle-arrives"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-766ce820",
+    "status": "published",
+    "translationOf": "opinion-for-blind-riders-accessibility-begins-before-a-vehicle-arrives-zh-766ce820",
+    "publishedAt": "2026-09-21T17:00:00.000Z",
+    "fetchedAt": "2026-09-22T04:06:08.601Z",
+    "body": "Opinion: For blind riders, accessibility begins before a vehicle arrives\n\nRead more from the original source: [Times of San Diego](https://timesofsandiego.com/opinion/2026/09/21/blind-riders-accessibility-begins-before-vehicle-arrives)"
+  },
+  {
+    "title": "Three Rivers now accepting applications for free home accessibility program",
+    "slug": "three-rivers-now-accepting-applications-for-free-home-accessibility-program-f7bfc93b",
+    "lang": "en",
+    "summary": "Three Rivers is offering a free program to help residents modify their homes for better accessibility, including installations like grab bars and ramps for people with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "home modification",
+      "disability access",
+      "free program",
+      "Three Rivers"
+    ],
+    "sourceName": "KRIS 6 News Corpus Christi",
+    "sourceUrl": "https://www.kristv.com/news/local-news/in-your-neighborhood/live-oak-county/three-rivers-now-accepting-applications-for-free-home-accessibility-program",
+    "relatedSources": [
+      {
+        "name": "KRIS 6 News Corpus Christi",
+        "url": "https://www.kristv.com/news/local-news/in-your-neighborhood/live-oak-county/three-rivers-now-accepting-applications-for-free-home-accessibility-program"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f7bfc93b",
+    "status": "published",
+    "translationOf": "three-rivers-now-accepting-applications-for-free-home-accessibility-program-zh-f7bfc93b",
+    "publishedAt": "2026-09-21T10:26:57.000Z",
+    "fetchedAt": "2026-09-22T04:06:41.318Z",
+    "body": "Three Rivers is offering a free program to help residents modify their homes for better accessibility, including installations like grab bars and ramps for people with disabilities.\n\nRead more from the original source: [KRIS 6 News Corpus Christi](https://www.kristv.com/news/local-news/in-your-neighborhood/live-oak-county/three-rivers-now-accepting-applications-for-free-home-accessibility-program)"
+  },
+  {
+    "title": "What Is Website ADA Accessibility And What Businesses Need to Know",
+    "slug": "what-is-website-ada-accessibility-and-what-businesses-need-to-know-32c2ae24",
+    "lang": "en",
+    "summary": "The article explains ADA requirements for website accessibility, outlining how businesses can ensure their online content is usable by people with disabilities.",
+    "category": "digital-a11y",
+    "tags": [
+      "ADA",
+      "website accessibility",
+      "digital inclusion",
+      "business compliance"
+    ],
+    "sourceName": "Technology Org",
+    "sourceUrl": "https://www.technology.org/2026/09/21/what-is-website-ada-accessibility-and-what-businesses-need-to-know",
+    "relatedSources": [
+      {
+        "name": "Technology Org",
+        "url": "https://www.technology.org/2026/09/21/what-is-website-ada-accessibility-and-what-businesses-need-to-know"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-32c2ae24",
+    "status": "published",
+    "translationOf": "what-is-website-ada-accessibility-and-what-businesses-need-to-know-zh-32c2ae24",
+    "publishedAt": "2026-09-21T14:39:18.000Z",
+    "fetchedAt": "2026-09-22T04:06:41.380Z",
+    "body": "The article explains ADA requirements for website accessibility, outlining how businesses can ensure their online content is usable by people with disabilities.\n\nRead more from the original source: [Technology Org](https://www.technology.org/2026/09/21/what-is-website-ada-accessibility-and-what-businesses-need-to-know)"
+  },
+  {
+    "title": "Keeping Bend accessible with curb ramps",
+    "slug": "keeping-bend-accessible-with-curb-ramps-cffb60f6",
+    "lang": "en",
+    "summary": "Bend is maintaining and installing curb ramps to improve street crossing accessibility for wheelchair users and others with mobility challenges.",
+    "category": "physical-design",
+    "tags": [
+      "curb ramps",
+      "mobility access",
+      "urban infrastructure",
+      "Bend"
+    ],
+    "sourceName": "KTVZ",
+    "sourceUrl": "https://ktvz.com/news/2026/09/21/keeping-bend-accessible-with-curb-ramps",
+    "relatedSources": [
+      {
+        "name": "KTVZ",
+        "url": "https://ktvz.com/news/2026/09/21/keeping-bend-accessible-with-curb-ramps"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-cffb60f6",
+    "status": "published",
+    "translationOf": "keeping-bend-accessible-with-curb-ramps-zh-cffb60f6",
+    "publishedAt": "2026-09-22T02:15:41.000Z",
+    "fetchedAt": "2026-09-22T04:06:41.420Z",
+    "body": "Bend is maintaining and installing curb ramps to improve street crossing accessibility for wheelchair users and others with mobility challenges.\n\nRead more from the original source: [KTVZ](https://ktvz.com/news/2026/09/21/keeping-bend-accessible-with-curb-ramps)"
+  },
+  {
+    "title": "Deer Park Bowling Alley Honored For Accessibility At $1K Fundraiser",
+    "slug": "deer-park-bowling-alley-honored-for-accessibility-at-1k-fundraiser-7d97e1a8",
+    "lang": "en",
+    "summary": "The Deer Park Bowling Alley received recognition for its accessibility improvements during a $1,000 fundraiser, highlighting efforts to accommodate bowlers with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "bowling",
+      "accessibility",
+      "fundraiser",
+      "disability"
+    ],
+    "sourceName": "Patch",
+    "sourceUrl": "https://patch.com/new-york/deerpark-northbabylon/deer-park-bowling-alley-honored-accessibility-1k-fundraiser",
+    "relatedSources": [
+      {
+        "name": "Patch",
+        "url": "https://patch.com/new-york/deerpark-northbabylon/deer-park-bowling-alley-honored-accessibility-1k-fundraiser"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-7d97e1a8",
+    "status": "published",
+    "translationOf": "deer-park-bowling-alley-honored-for-accessibility-at-1k-fundraiser-zh-7d97e1a8",
+    "publishedAt": "2026-09-21T18:51:45.000Z",
+    "fetchedAt": "2026-09-22T04:07:11.452Z",
+    "body": "The Deer Park Bowling Alley received recognition for its accessibility improvements during a $1,000 fundraiser, highlighting efforts to accommodate bowlers with disabilities.\n\nRead more from the original source: [Patch](https://patch.com/new-york/deerpark-northbabylon/deer-park-bowling-alley-honored-accessibility-1k-fundraiser)"
+  },
+  {
+    "title": "Accessible Salem: Rolling through history, cobblestones and witch trial stories",
+    "slug": "accessible-salem-rolling-through-history-cobblestones-and-witch-trial-stories-31f6c6f0",
+    "lang": "en",
+    "summary": "An article explores how Salem’s historic sites are being made accessible for visitors using wheelchairs or mobility aids, allowing everyone to experience its cobblestone streets and witch trial heritage.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "Salem",
+      "accessibility",
+      "tourism",
+      "mobility",
+      "disability"
+    ],
+    "sourceName": "Springfield News-Sun",
+    "sourceUrl": "https://www.springfieldnewssun.com/lifestyles/accessible-salem-rolling-through-history-cobblestones-and-witch-trial-stories/article_d5453783-3107-538e-84dc-ba9999c7472f.html",
+    "relatedSources": [
+      {
+        "name": "Springfield News-Sun",
+        "url": "https://www.springfieldnewssun.com/lifestyles/accessible-salem-rolling-through-history-cobblestones-and-witch-trial-stories/article_d5453783-3107-538e-84dc-ba9999c7472f.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-31f6c6f0",
+    "status": "published",
+    "translationOf": "accessible-salem-rolling-through-history-cobblestones-and-witch-trial-stories-zh-31f6c6f0",
+    "publishedAt": "2026-09-21T18:59:46.000Z",
+    "fetchedAt": "2026-09-22T04:07:11.501Z",
+    "body": "An article explores how Salem’s historic sites are being made accessible for visitors using wheelchairs or mobility aids, allowing everyone to experience its cobblestone streets and witch trial heritage.\n\nRead more from the original source: [Springfield News-Sun](https://www.springfieldnewssun.com/lifestyles/accessible-salem-rolling-through-history-cobblestones-and-witch-trial-stories/article_d5453783-3107-538e-84dc-ba9999c7472f.html)"
+  },
+  {
+    "title": "How Indiana School for the Blind and Visually Impaired students help make coding more accessible",
+    "slug": "how-indiana-school-for-the-blind-and-visually-impaired-students-help-make-coding-e491bbd8",
+    "lang": "en",
+    "summary": "Students at the Indiana School for the Blind and Visually Impaired collaborate with developers to create accessible coding tools and curricula, enabling visually impaired learners to learn programming.",
+    "category": "assistive-tech",
+    "tags": [
+      "blind",
+      "visually impaired",
+      "coding",
+      "accessibility",
+      "assistive technology",
+      "education"
+    ],
+    "sourceName": "chalkbeat.org",
+    "sourceUrl": "https://www.chalkbeat.org/indiana/2026/09/21/school-for-blind-students-help-expand-coding-to-visually-impaired",
+    "relatedSources": [
+      {
+        "name": "chalkbeat.org",
+        "url": "https://www.chalkbeat.org/indiana/2026/09/21/school-for-blind-students-help-expand-coding-to-visually-impaired"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e491bbd8",
+    "status": "published",
+    "translationOf": "how-indiana-school-for-the-blind-and-visually-impaired-students-help-make-coding-zh-e491bbd8",
+    "publishedAt": "2026-09-21T11:00:00.000Z",
+    "fetchedAt": "2026-09-22T04:07:11.548Z",
+    "body": "Students at the Indiana School for the Blind and Visually Impaired collaborate with developers to create accessible coding tools and curricula, enabling visually impaired learners to learn programming.\n\nRead more from the original source: [chalkbeat.org](https://www.chalkbeat.org/indiana/2026/09/21/school-for-blind-students-help-expand-coding-to-visually-impaired)"
+  },
+  {
+    "title": "Wheelchair users, blind people protest over accessibility in Sofia",
+    "slug": "wheelchair-users-blind-people-protest-over-accessibility-in-sofia-ad7cf23f",
+    "lang": "en",
+    "summary": "Wheelchair users and blind individuals protested in Sofia over inadequate accessibility infrastructure, demanding better accommodations for people with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "wheelchair",
+      "blind",
+      "protest",
+      "Sofia",
+      "accessibility"
+    ],
+    "sourceName": "БНР Новини",
+    "sourceUrl": "https://bnrnews.bg/en/post/531518/wheelchair-users-blind-people-protest-over-accessibility-in-sofia",
+    "relatedSources": [
+      {
+        "name": "БНР Новини",
+        "url": "https://bnrnews.bg/en/post/531518/wheelchair-users-blind-people-protest-over-accessibility-in-sofia"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ad7cf23f",
+    "status": "published",
+    "translationOf": "wheelchair-users-blind-people-protest-over-accessibility-in-sofia-zh-ad7cf23f",
+    "publishedAt": "2026-09-21T15:16:50.000Z",
+    "fetchedAt": "2026-09-22T04:07:59.937Z",
+    "body": "Wheelchair users and blind individuals protested in Sofia over inadequate accessibility infrastructure, demanding better accommodations for people with disabilities.\n\nRead more from the original source: [БНР Новини](https://bnrnews.bg/en/post/531518/wheelchair-users-blind-people-protest-over-accessibility-in-sofia)"
+  },
+  {
+    "title": "Arlington Adds Accessible Parking At Popular Park",
+    "slug": "arlington-adds-accessible-parking-at-popular-park-cd8923be",
+    "lang": "en",
+    "summary": "Arlington has installed new accessible parking spaces at a popular park to improve access for visitors with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "accessible parking",
+      "Arlington",
+      "park",
+      "disability access"
+    ],
+    "sourceName": "Patch",
+    "sourceUrl": "https://patch.com/massachusetts/arlington/arlington-adds-accessible-parking-popular-park",
+    "relatedSources": [
+      {
+        "name": "Patch",
+        "url": "https://patch.com/massachusetts/arlington/arlington-adds-accessible-parking-popular-park"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-cd8923be",
+    "status": "published",
+    "translationOf": "arlington-adds-accessible-parking-at-popular-park-zh-cd8923be",
+    "publishedAt": "2026-09-21T18:57:21.000Z",
+    "fetchedAt": "2026-09-22T04:07:59.972Z",
+    "body": "Arlington has installed new accessible parking spaces at a popular park to improve access for visitors with disabilities.\n\nRead more from the original source: [Patch](https://patch.com/massachusetts/arlington/arlington-adds-accessible-parking-popular-park)"
+  },
+  {
+    "title": "Taitung Hospital Criticized for Lack of Accessible Facilities, Patients Forced to Change Diapers at Entrance",
+    "slug": "taitung-hospital-criticized-for-lack-of-accessible-facilities-patients-forced-to-3d6ec5c0",
+    "lang": "en",
+    "summary": "Taitung Hospital faces criticism after reports that its inaccessible facilities forced patients to change diapers in the hospital doorway, highlighting shortcomings in disability accommodation.",
+    "category": "physical-design",
+    "tags": [
+      "Taitung Hospital",
+      "accessibility",
+      "diaper changing",
+      "disability rights",
+      "physical design"
+    ],
+    "sourceName": "Yahoo新聞",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%8F%B0%E6%9D%B1%E9%86%AB%E9%99%A2%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A8%AD%E6%96%BD%E7%BC%BA%E9%99%B7%E9%81%AD%E6%89%B9-%E6%82%A3%E8%80%85%E7%AB%9F%E5%9C%A8%E9%96%80%E5%8F%A3%E6%8F%9B%E5%B0%BF%E5%B8%83-020614736.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo新聞",
+        "url": "https://tw.news.yahoo.com/%E5%8F%B0%E6%9D%B1%E9%86%AB%E9%99%A2%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A8%AD%E6%96%BD%E7%BC%BA%E9%99%B7%E9%81%AD%E6%89%B9-%E6%82%A3%E8%80%85%E7%AB%9F%E5%9C%A8%E9%96%80%E5%8F%A3%E6%8F%9B%E5%B0%BF%E5%B8%83-020614736.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3d6ec5c0",
+    "status": "published",
+    "translationOf": "taitung-hospital-criticized-for-lack-of-accessible-facilities-patients-forced-to-zh-3d6ec5c0",
+    "publishedAt": "2026-09-22T02:15:05.000Z",
+    "fetchedAt": "2026-09-22T04:08:00.021Z",
+    "body": "Taitung Hospital faces criticism after reports that its inaccessible facilities forced patients to change diapers in the hospital doorway, highlighting shortcomings in disability accommodation.\n\nRead more from the original source: [Yahoo新聞](https://tw.news.yahoo.com/%E5%8F%B0%E6%9D%B1%E9%86%AB%E9%99%A2%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A8%AD%E6%96%BD%E7%BC%BA%E9%99%B7%E9%81%AD%E6%89%B9-%E6%82%A3%E8%80%85%E7%AB%9F%E5%9C%A8%E9%96%80%E5%8F%A3%E6%8F%9B%E5%B0%BF%E5%B8%83-020614736.html)"
+  },
+  {
+    "title": "Toilet at Dongcheng Success Branch Lacks Accessible Facilities",
+    "slug": "toilet-at-dongcheng-success-branch-lacks-accessible-facilities-9bb892ff",
+    "lang": "en",
+    "summary": "The toilet facilities at the Dongcheng Success Branch are reported to lack accessible features, hindering use by people with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "toilet",
+      "accessibility",
+      "facilities",
+      "disability"
+    ],
+    "sourceName": "中時新聞網",
+    "sourceUrl": "https://www.chinatimes.com/newspapers/20260922000637-260107",
+    "relatedSources": [
+      {
+        "name": "中時新聞網",
+        "url": "https://www.chinatimes.com/newspapers/20260922000637-260107"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-9bb892ff",
+    "status": "published",
+    "translationOf": "toilet-at-dongcheng-success-branch-lacks-accessible-facilities-zh-9bb892ff",
+    "publishedAt": "2026-09-21T20:10:00.000Z",
+    "fetchedAt": "2026-09-22T04:08:16.119Z",
+    "body": "The toilet facilities at the Dongcheng Success Branch are reported to lack accessible features, hindering use by people with disabilities.\n\nRead more from the original source: [中時新聞網](https://www.chinatimes.com/newspapers/20260922000637-260107)"
+  },
+  {
+    "title": "Eden Accessible Sports Meet Held in Pingtung, Disabled Persons Compete as Athletes",
+    "slug": "eden-accessible-sports-meet-held-in-pingtung-disabled-persons-compete-as-athlete-a2d67a96",
+    "lang": "en",
+    "summary": "Pingtung hosted the Eden Accessible Sports Meet, where individuals with disabilities participated as athletes, showcasing their talents and promoting inclusion.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "sports",
+      "accessibility",
+      "disability",
+      "event",
+      "Pingtung"
+    ],
+    "sourceName": "peopo.org",
+    "sourceUrl": "https://www.peopo.org/news/857857",
+    "relatedSources": [
+      {
+        "name": "peopo.org",
+        "url": "https://www.peopo.org/news/857857"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a2d67a96",
+    "status": "published",
+    "translationOf": "eden-accessible-sports-meet-held-in-pingtung-disabled-persons-compete-as-athlete-zh-a2d67a96",
+    "publishedAt": "2026-09-16T02:12:00.000Z",
+    "fetchedAt": "2026-09-22T04:08:16.174Z",
+    "body": "Pingtung hosted the Eden Accessible Sports Meet, where individuals with disabilities participated as athletes, showcasing their talents and promoting inclusion.\n\nRead more from the original source: [peopo.org](https://www.peopo.org/news/857857)"
+  },
+  {
+    "title": "Scenic Japanese-Style Qiding Station Upgrades Accessible Environment, Unlocks Beautiful Sea Views by Year-End",
+    "slug": "scenic-japanese-style-qiding-station-upgrades-accessible-environment-unlocks-bea-950369bf",
+    "lang": "en",
+    "summary": "The picturesque Japanese-style Qiding Station is improving its accessible environment, with completion expected by the end of the year, offering enhanced access and stunning sea vistas.",
+    "category": "physical-design",
+    "tags": [
+      "station",
+      "accessibility",
+      "upgrade",
+      "transportation",
+      "scenic"
+    ],
+    "sourceName": "自由時報",
+    "sourceUrl": "https://news.ltn.com.tw/news/life/breakingnews/5579976",
+    "relatedSources": [
+      {
+        "name": "自由時報",
+        "url": "https://news.ltn.com.tw/news/life/breakingnews/5579976"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-950369bf",
+    "status": "published",
+    "translationOf": "scenic-japanese-style-qiding-station-upgrades-accessible-environment-unlocks-bea-zh-950369bf",
+    "publishedAt": "2026-09-20T04:07:14.000Z",
+    "fetchedAt": "2026-09-22T04:08:16.231Z",
+    "body": "The picturesque Japanese-style Qiding Station is improving its accessible environment, with completion expected by the end of the year, offering enhanced access and stunning sea vistas.\n\nRead more from the original source: [自由時報](https://news.ltn.com.tw/news/life/breakingnews/5579976)"
+  },
+  {
+    "title": "Creating Accessible Home Warm Service Space – World Chinese Business Women Entrepreneurs Association Hua Yue Branch Donates Renovation Funds",
+    "slug": "creating-accessible-home-warm-service-space-world-chinese-business-women-entrepr-07be2416",
+    "lang": "en",
+    "summary": "The Hua Yue branch of the World Chinese Business Women Entrepreneurs Association donated funds to renovate a home into an accessible warm service space, improving accessibility for people with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "home accessibility",
+      "renovation",
+      "disability inclusion"
+    ],
+    "sourceName": "Yahoo新聞",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%89%93%E9%80%A0%E7%84%A1%E9%9A%9C%E7%A4%99%E4%B9%8B%E5%AE%B6%E6%BA%AB%E9%A6%A8%E6%9C%8D%E5%8B%99%E7%A9%BA%E9%96%93-%E4%B8%96%E7%95%8C%E8%8F%AF%E4%BA%BA%E5%B7%A5%E5%95%86%E5%A9%A6%E5%A5%B3%E4%BC%81%E7%AE%A1%E5%8D%94%E6%9C%83%E8%8F%AF%E6%A8%82%E5%88%86%E6%9C%83%E6%8C%B9%E6%B3%A8%E4%BF%AE%E7%B9%95%E7%B6%93%E8%B2%BB-083445341.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo新聞",
+        "url": "https://tw.news.yahoo.com/%E6%89%93%E9%80%A0%E7%84%A1%E9%9A%9C%E7%A4%99%E4%B9%8B%E5%AE%B6%E6%BA%AB%E9%A6%A8%E6%9C%8D%E5%8B%99%E7%A9%BA%E9%96%93-%E4%B8%96%E7%95%8C%E8%8F%AF%E4%BA%BA%E5%B7%A5%E5%95%86%E5%A9%A6%E5%A5%B3%E4%BC%81%E7%AE%A1%E5%8D%94%E6%9C%83%E8%8F%AF%E6%A8%82%E5%88%86%E6%9C%83%E6%8C%B9%E6%B3%A8%E4%BF%AE%E7%B9%95%E7%B6%93%E8%B2%BB-083445341.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-07be2416",
+    "status": "published",
+    "translationOf": "creating-accessible-home-warm-service-space-world-chinese-business-women-entrepr-zh-07be2416",
+    "publishedAt": "2026-09-21T08:34:45.000Z",
+    "fetchedAt": "2026-09-22T04:08:35.898Z",
+    "body": "The Hua Yue branch of the World Chinese Business Women Entrepreneurs Association donated funds to renovate a home into an accessible warm service space, improving accessibility for people with disabilities.\n\nRead more from the original source: [Yahoo新聞](https://tw.news.yahoo.com/%E6%89%93%E9%80%A0%E7%84%A1%E9%9A%9C%E7%A4%99%E4%B9%8B%E5%AE%B6%E6%BA%AB%E9%A6%A8%E6%9C%8D%E5%8B%99%E7%A9%BA%E9%96%93-%E4%B8%96%E7%95%8C%E8%8F%AF%E4%BA%BA%E5%B7%A5%E5%95%86%E5%A9%A6%E5%A5%B3%E4%BC%81%E7%AE%A1%E5%8D%94%E6%9C%83%E8%8F%AF%E6%A8%82%E5%88%86%E6%9C%83%E6%8C%B9%E6%B3%A8%E4%BF%AE%E7%B9%95%E7%B6%93%E8%B2%BB-083445341.html)"
+  },
+  {
+    "title": "Electric Scooters Occupy Accessible Toilet for Charging at Wuling",
+    "slug": "electric-scooters-occupy-accessible-toilet-for-charging-at-wuling-41bf0536",
+    "lang": "en",
+    "summary": "At Wuling, electric scooters were found occupying an accessible toilet, allegedly for charging, highlighting misuse of disability-accessible facilities.",
+    "category": "physical-design",
+    "tags": [
+      "accessible toilet",
+      "misuse",
+      "electric scooter"
+    ],
+    "sourceName": "中時新聞網",
+    "sourceUrl": "https://www.chinatimes.com/realtimenews/20260921003854-260402",
+    "relatedSources": [
+      {
+        "name": "中時新聞網",
+        "url": "https://www.chinatimes.com/realtimenews/20260921003854-260402"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-41bf0536",
+    "status": "published",
+    "translationOf": "electric-scooters-occupy-accessible-toilet-for-charging-at-wuling-zh-41bf0536",
+    "publishedAt": "2026-09-21T11:00:30.000Z",
+    "fetchedAt": "2026-09-22T04:08:35.940Z",
+    "body": "At Wuling, electric scooters were found occupying an accessible toilet, allegedly for charging, highlighting misuse of disability-accessible facilities.\n\nRead more from the original source: [中時新聞網](https://www.chinatimes.com/realtimenews/20260921003854-260402)"
+  },
+  {
+    "title": "Second Look Laws and Disability-Inclusive Sentence Review",
+    "slug": "second-look-laws-and-disability-inclusive-sentence-review-c592ba0e",
+    "lang": "en",
+    "summary": "The Sentencing Project advocates for disability-inclusive second look laws, allowing courts to review extreme sentences of individuals whose disabilities influenced their cases.",
+    "category": "laws-rights",
+    "tags": [
+      "sentencing reform",
+      "disability rights",
+      "second look laws"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/disability/discrimination/second-look.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/disability/discrimination/second-look.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-c592ba0e",
+    "status": "published",
+    "translationOf": "second-look-laws-and-disability-inclusive-sentence-review-zh-c592ba0e",
+    "publishedAt": "2026-09-21T20:50:00.000Z",
+    "fetchedAt": "2026-09-22T04:08:35.974Z",
+    "body": "The Sentencing Project advocates for disability-inclusive second look laws, allowing courts to review extreme sentences of individuals whose disabilities influenced their cases.\n\nRead more from the original source: [Unknown source](https://www.disabled-world.com/disability/discrimination/second-look.php)"
+  },
+  {
+    "title": "‘Our culture is rich and we need our own space’: the fight to build a permanent centre for Deaf people",
+    "slug": "our-culture-is-rich-and-we-need-our-own-space-the-fight-to-build-a-permanent-cen-0195c760",
+    "lang": "en",
+    "summary": "In the UK, Deaf activist Amanprit Arnold advocates for a dedicated cultural centre for the Deaf community, noting that existing public spaces often have poor acoustics that hinder communication, and she is pushing for a purpose‑built venue in London.",
+    "category": "physical-design",
+    "tags": [
+      "Deaf",
+      "community centre",
+      "UK",
+      "accessibility"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/artanddesign/2026/sep/21/deaf-city-hub-cultural-centre",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/artanddesign/2026/sep/21/deaf-city-hub-cultural-centre"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-0195c760",
+    "status": "published",
+    "translationOf": "our-culture-is-rich-and-we-need-our-own-space-the-fight-to-build-a-permanent-cen-zh-0195c760",
+    "publishedAt": "2026-09-21T07:00:39.000Z",
+    "fetchedAt": "2026-09-22T04:08:54.991Z",
+    "body": "In the UK, Deaf activist Amanprit Arnold advocates for a dedicated cultural centre for the Deaf community, noting that existing public spaces often have poor acoustics that hinder communication, and she is pushing for a purpose‑built venue in London.\n\nRead more from the original source: [Unknown source](https://www.theguardian.com/artanddesign/2026/sep/21/deaf-city-hub-cultural-centre)"
+  },
+  {
+    "title": "Toyota Concept-i Ride brings accessible electric mobility to Tokyo",
+    "slug": "toyota-concept-i-ride-brings-accessible-electric-mobility-to-tokyo-2995dbe4",
+    "lang": "en",
+    "summary": "Toyota unveiled the Concept-i Ride at the Tokyo Motor Show, a city car with gullwing doors and a joystick control system specifically designed to provide wheelchair users with accessible electric mobility.",
+    "category": "assistive-tech",
+    "tags": [
+      "Toyota",
+      "Concept-i Ride",
+      "wheelchair",
+      "electric vehicle",
+      "Tokyo"
+    ],
+    "sourceName": "Inautonews.com",
+    "sourceUrl": "https://www.inautonews.com/toyota-concept-i-ride-reaches-tokyo-with-its-gullwing-doors",
+    "relatedSources": [
+      {
+        "name": "Inautonews.com",
+        "url": "https://www.inautonews.com/toyota-concept-i-ride-reaches-tokyo-with-its-gullwing-doors"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-2995dbe4",
+    "status": "published",
+    "translationOf": "toyota-concept-i-ride-brings-accessible-electric-mobility-to-tokyo-zh-2995dbe4",
+    "publishedAt": "2026-09-21T00:42:32.000Z",
+    "fetchedAt": "2026-09-22T04:08:55.039Z",
+    "body": "Toyota unveiled the Concept-i Ride at the Tokyo Motor Show, a city car with gullwing doors and a joystick control system specifically designed to provide wheelchair users with accessible electric mobility.\n\nRead more from the original source: [Inautonews.com](https://www.inautonews.com/toyota-concept-i-ride-reaches-tokyo-with-its-gullwing-doors)"
+  },
+  {
+    "title": "I stopped feeling sick on my bus commute after finding this Android 17 accessibility feature",
+    "slug": "i-stopped-feeling-sick-on-my-bus-commute-after-finding-this-android-17-accessibi-36eab9db",
+    "lang": "en",
+    "summary": "The author discovered Android 17's Motion Assist accessibility feature, which reduced motion sickness during bus rides, showing how mobile accessibility tools can help people with vestibular sensitivities.",
+    "category": "digital-a11y",
+    "tags": [
+      "Android",
+      "accessibility",
+      "motion sickness",
+      "bus commute"
+    ],
+    "sourceName": "Android Police",
+    "sourceUrl": "https://www.androidpolice.com/motion-assist-fixed-my-bus-commute",
+    "relatedSources": [
+      {
+        "name": "Android Police",
+        "url": "https://www.androidpolice.com/motion-assist-fixed-my-bus-commute"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-36eab9db",
+    "status": "published",
+    "translationOf": "i-stopped-feeling-sick-on-my-bus-commute-after-finding-this-android-17-accessibi-zh-36eab9db",
+    "publishedAt": "2026-09-20T16:23:35.000Z",
+    "fetchedAt": "2026-09-22T04:09:19.556Z",
+    "body": "The author discovered Android 17's Motion Assist accessibility feature, which reduced motion sickness during bus rides, showing how mobile accessibility tools can help people with vestibular sensitivities.\n\nRead more from the original source: [Android Police](https://www.androidpolice.com/motion-assist-fixed-my-bus-commute)"
+  },
+  {
+    "title": "Hand-crank bike event at Hsinchu's Emei Lake lets disabled persons enjoy accessible outdoor cycling",
+    "slug": "hand-crank-bike-event-at-hsinchus-emei-lake-lets-disabled-persons-enjoy-accessib-6bb59c11",
+    "lang": "en",
+    "summary": "A cycling festival in Hsinchu's Emei Lake invited people with disabilities and seniors to ride hand‑crank bikes on a 3.6 km universally accessible trail, promoting inclusive outdoor recreation and showcasing accessible tourism infrastructure.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "hand-crank bike",
+      "accessible tourism",
+      "disability",
+      "cycling",
+      "Hsinchu",
+      "Emei Lake"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%89%8B%E6%90%96%E8%BB%8A%E6%96%B0%E7%AB%B9%E5%B3%A8%E7%9C%89%E6%B9%96%E4%BA%AB%E5%8F%97%E6%88%B6%E5%A4%96%E9%A8%8E%E9%81%8A-%E8%BA%AB%E9%9A%9C%E4%BA%BA%E5%A3%AB%E9%AB%94%E9%A9%97%E6%AD%A5%E9%81%93%E7%84%A1%E7%A4%99%E6%97%85%E8%A1%8C-023344006.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E6%89%8B%E6%90%96%E8%BB%8A%E6%96%B0%E7%AB%B9%E5%B3%A8%E7%9C%89%E6%B9%96%E4%BA%AB%E5%8F%97%E6%88%B6%E5%A4%96%E9%A8%8E%E9%81%8A-%E8%BA%AB%E9%9A%9C%E4%BA%BA%E5%A3%AB%E9%AB%94%E9%A9%97%E6%AD%A5%E9%81%93%E7%84%A1%E7%A4%99%E6%97%85%E8%A1%8C-023344006.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-6bb59c11",
+    "status": "published",
+    "translationOf": "hand-crank-bike-event-at-hsinchus-emei-lake-lets-disabled-persons-enjoy-accessib-zh-6bb59c11",
+    "publishedAt": "2026-09-21T02:33:44.000Z",
+    "fetchedAt": "2026-09-22T04:09:19.605Z",
+    "body": "A cycling festival in Hsinchu's Emei Lake invited people with disabilities and seniors to ride hand‑crank bikes on a 3.6 km universally accessible trail, promoting inclusive outdoor recreation and showcasing accessible tourism infrastructure.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E6%89%8B%E6%90%96%E8%BB%8A%E6%96%B0%E7%AB%B9%E5%B3%A8%E7%9C%89%E6%B9%96%E4%BA%AB%E5%8F%97%E6%88%B6%E5%A4%96%E9%A8%8E%E9%81%8A-%E8%BA%AB%E9%9A%9C%E4%BA%BA%E5%A3%AB%E9%AB%94%E9%A9%97%E6%AD%A5%E9%81%93%E7%84%A1%E7%A4%99%E6%97%85%E8%A1%8C-023344006.html)"
+  },
+  {
+    "title": "Solution for 'Aging People and Aging Homes'? Executive Yuan Proposes 'Third Way' for Urban Renewal, Offering Up to 200% Floor Area Ratio Incentives",
+    "slug": "solution-for-aging-people-and-aging-homes-executive-yuan-proposes-third-way-for--099991e8",
+    "lang": "en",
+    "summary": "The Executive Yuan proposes a 'third way' urban renewal approach to address simultaneous aging of population and building stock, promoting functional renewal of old houses through pipeline and barrier‑free facility upgrades to extend their usable life without demolition.",
+    "category": "physical-design",
+    "tags": [
+      "aging population",
+      "urban renewal",
+      "barrier-free",
+      "elderly housing",
+      "floor area ratio"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.stock.yahoo.com/news/%E3%80%8C%E4%BA%BA%E5%B1%8B%E9%9B%99%E8%80%81%E3%80%8D%E6%9C%89%E8%A7%A3%EF%BC%9F%E6%94%BF%E9%99%A2%E6%8B%8B%E9%83%BD%E6%9B%B4%E3%80%8C%E7%AC%AC%E4%B8%89%E6%A2%9D%E8%B7%AF%E3%80%8D-%E5%AE%B9%E7%A9%8D%E7%8D%8E%E5%8B%B5%E6%9C%80%E9%AB%98%E8%A1%9D200%EF%BC%85-021541412.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.stock.yahoo.com/news/%E3%80%8C%E4%BA%BA%E5%B1%8B%E9%9B%99%E8%80%81%E3%80%8D%E6%9C%89%E8%A7%A3%EF%BC%9F%E6%94%BF%E9%99%A2%E6%8B%8B%E9%83%BD%E6%9B%B4%E3%80%8C%E7%AC%AC%E4%B8%89%E6%A2%9D%E8%B7%AF%E3%80%8D-%E5%AE%B9%E7%A9%8D%E7%8D%8E%E5%8B%B5%E6%9C%80%E9%AB%98%E8%A1%9D200%EF%BC%85-021541412.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-099991e8",
+    "status": "published",
+    "translationOf": "solution-for-aging-people-and-aging-homes-executive-yuan-proposes-third-way-for--zh-099991e8",
+    "publishedAt": "2026-09-21T02:15:41.000Z",
+    "fetchedAt": "2026-09-22T04:09:36.757Z",
+    "body": "The Executive Yuan proposes a 'third way' urban renewal approach to address simultaneous aging of population and building stock, promoting functional renewal of old houses through pipeline and barrier‑free facility upgrades to extend their usable life without demolition.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.stock.yahoo.com/news/%E3%80%8C%E4%BA%BA%E5%B1%8B%E9%9B%99%E8%80%81%E3%80%8D%E6%9C%89%E8%A7%A3%EF%BC%9F%E6%94%BF%E9%99%A2%E6%8B%8B%E9%83%BD%E6%9B%B4%E3%80%8C%E7%AC%AC%E4%B8%89%E6%A2%9D%E8%B7%AF%E3%80%8D-%E5%AE%B9%E7%A9%8D%E7%8D%8E%E5%8B%B5%E6%9C%80%E9%AB%98%E8%A1%9D200%EF%BC%85-021541412.html)"
+  },
+  {
+    "title": "Taiping Residents Succeed in Lobbying! NT$1.8 Billion New Library to Break Ground This Year, Scheduled for Completion by End of 2029",
+    "slug": "taiping-residents-succeed-in-lobbying-nt18-billion-new-library-to-break-ground-t-f4e58cd3",
+    "lang": "en",
+    "summary": "The Taiping District Library branch, which has been planned for over 30 years due to cramped space, leaks, and insufficient accessible facilities, will receive NT$1.8 billion in funding (including a NT$90 million subsidy from the Ministry of Education) to construct a new library on public land opposite the 921 Earthquake Memorial Park, with groundbreaking expected before year‑end and completion targeted for October 2029. The new facility aims to offer smart services, flexible spaces, local connections, energy‑saving and disaster‑resilience features.",
+    "category": "physical-design",
+    "tags": [
+      "library",
+      "accessibility",
+      "barrier-free",
+      "Taiping",
+      "urban infrastructure",
+      "disaster resilience"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%A4%AA%E5%B9%B3%E4%BA%BA%E6%95%B2%E7%A2%97%E6%88%90%E5%8A%9F-%E6%96%A5%E8%B3%871-8%E5%84%84%E6%96%B0%E5%9C%96%E6%9B%B8%E9%A4%A8%E5%B9%B4%E5%BA%95%E5%8B%95%E5%B7%A5-2029%E5%B9%B4%E5%BA%95%E5%AE%8C%E5%B7%A5-004734737.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E5%A4%AA%E5%B9%B3%E4%BA%BA%E6%95%B2%E7%A2%97%E6%88%90%E5%8A%9F-%E6%96%A5%E8%B3%871-8%E5%84%84%E6%96%B0%E5%9C%96%E6%9B%B8%E9%A4%A8%E5%B9%B4%E5%BA%95%E5%8B%95%E5%B7%A5-2029%E5%B9%B4%E5%BA%95%E5%AE%8C%E5%B7%A5-004734737.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-f4e58cd3",
+    "status": "published",
+    "translationOf": "taiping-residents-succeed-in-lobbying-nt18-billion-new-library-to-break-ground-t-zh-f4e58cd3",
+    "publishedAt": "2026-09-20T00:47:34.000Z",
+    "fetchedAt": "2026-09-22T04:09:36.813Z",
+    "body": "The Taiping District Library branch, which has been planned for over 30 years due to cramped space, leaks, and insufficient accessible facilities, will receive NT$1.8 billion in funding (including a NT$90 million subsidy from the Ministry of Education) to construct a new library on public land opposite the 921 Earthquake Memorial Park, with groundbreaking expected before year‑end and completion targeted for October 2029. The new facility aims to offer smart services, flexible spaces, local connections, energy‑saving and disaster‑resilience features.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%A4%AA%E5%B9%B3%E4%BA%BA%E6%95%B2%E7%A2%97%E6%88%90%E5%8A%9F-%E6%96%A5%E8%B3%871-8%E5%84%84%E6%96%B0%E5%9C%96%E6%9B%B8%E9%A4%A8%E5%B9%B4%E5%BA%95%E5%8B%95%E5%B7%A5-2029%E5%B9%B4%E5%BA%95%E5%AE%8C%E5%B7%A5-004734737.html)"
   }
 ]
