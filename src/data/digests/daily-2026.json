@@ -8318,26 +8318,176 @@
     }
   },
   "2026-09-20": {
-    "generatedAt": "2026-09-20T21:46:19.551Z",
+    "generatedAt": "2026-09-22T03:24:33.738Z",
     "en": {
-      "title": "Daily Accessibility Digest",
-      "summary": "",
+      "title": "Monthly Disability Allowances and Smart Accessibility Tech Lead the Day",
+      "summary": "A new rights law emphasizing monthly financial allowances and subsidized housing marks a major policy milestone for disability communities. Simultaneously, advances in assistive technology are highlighted by Google's screen-reader-friendly devices and AI-driven Alzheimer's care. Meanwhile, global institutions continue to expand physical and digital accessibility in urban transit and tourism hubs.",
       "highlights": [
+        {
+          "title": "Monthly Allowances and Subsidized Housing: Key Features of the Rights of Persons with Disabilities Law",
+          "slug": "monthly-allowances-and-subsidized-housing-key-features-of-the-rights-of-persons--79050044",
+          "url": "https://www.elwatannews.com/news/details/8362202"
+        },
         {
           "title": "Googlebooks, Aluminium OS and the Schlage Smart Lock That Opens Itself",
           "slug": "googlebooks-aluminium-os-and-the-schlage-smart-lock-that-opens-itself-5d4144ad",
           "url": "https://doubletaponair.com/googlebooks-aluminium-os-and-the-schlage-smart-lock-that-opens-itself-2"
+        },
+        {
+          "title": "AI Technologies Aid Alzheimer's Care in France",
+          "slug": "ai-technologies-aid-alzheimers-care-in-france-ac4d78f2",
+          "url": "https://twaslnews1.twaslnews.com/5128609"
+        },
+        {
+          "title": "Calls to Facilitate Voting for Persons with Disabilities Ahead of September 23 Polls",
+          "slug": "calls-to-facilitate-voting-for-persons-with-disabilities-ahead-of-september-23-p-d4750c07",
+          "url": "https://www.hespress.com/%D9%82%D8%A8%D9%84-%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%B9-23-%D8%B4%D8%AA%D9%86%D8%A8%D8%B1-%D9%85%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%AA%D9%8A%D8%B3%D9%8A%D8%B1-%D8%AA%D8%B5%D9%88%D9%8A%D8%AA-%D8%A7-1810311.html"
+        },
+        {
+          "title": "National Council for Persons with Disabilities Cooperates with Public Prosecution in Assault Case Involving Autistic Child",
+          "slug": "national-council-for-persons-with-disabilities-cooperates-with-public-prosecutio-d8763d9c",
+          "url": "https://www.elwatannews.com/news/details/8361983"
+        },
+        {
+          "title": "Orlando delivers on a cohesive accessible destination strategy",
+          "slug": "orlando-delivers-on-a-cohesive-accessible-destination-strategy-cb9b17a5",
+          "url": "https://www.hospitalityandcateringnews.com/2026/09/orlando-delivers-on-a-cohesive-accessible-destination-strategy"
+        },
+        {
+          "title": "Oklahoma State Fair is expanding its accessibility offerings for 2026",
+          "slug": "oklahoma-state-fair-is-expanding-its-accessibility-offerings-for-2026-00d78fbe",
+          "url": "https://www.oklahoman.com/videos/entertainment/events/2026/09/20/heres-how-the-oklahoma-state-fair-is-becoming-more-accessible-in-2026/91860739007"
+        },
+        {
+          "title": "Braille Navigation at Wuhan SkyTrain Station",
+          "slug": "braille-navigation-at-wuhan-skytrain-station-6c3665c0",
+          "url": "https://x.com/shamimzakaria/status/2101659460678627653"
+        },
+        {
+          "title": "Visual Door Indicators in Taiwan MRT",
+          "slug": "visual-door-indicators-in-taiwan-mrt-fc910c6d",
+          "url": "https://x.com/makoto_ueki/status/2101561340506870057"
+        },
+        {
+          "title": "DEAF, Inc. and WashU Provide Deaf Awareness Training for EMS",
+          "slug": "deaf-inc-and-washu-provide-deaf-awareness-training-for-ems-6197d4bf",
+          "url": "https://x.com/DEAF_Inc/status/2101658207147975042"
+        },
+        {
+          "title": "SeMA becomes first Korean art institution to win international award for accessibility program",
+          "slug": "sema-becomes-first-korean-art-institution-to-win-international-award-for-accessi-8e2f5d16",
+          "url": "https://www.koreajoongangdaily.com/lifestyle/sema-becomes-first-korean-art-institution-to-win-international-award-for-accessibility-program/12883721"
+        },
+        {
+          "title": "Jamilya Challenges Disability Toward Parliament",
+          "slug": "jamilya-challenges-disability-toward-parliament-db9c78c2",
+          "url": "https://www.hespress.com/%D8%AC%D9%85%D9%8A%D9%84%D8%A9-%D8%AA%D8%AA%D8%AD%D8%AF%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%86%D8%AD%D9%88-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-1810200.html"
+        },
+        {
+          "title": "Comparing Digital Accessibility Approaches in Taiwan and Japan",
+          "slug": "comparing-digital-accessibility-approaches-in-taiwan-and-japan-1c373f7c",
+          "url": "https://x.com/makoto_ueki/status/2101621020465742105"
+        },
+        {
+          "title": "Implementing Dark Mode in Gutenberg Without Compromising Accessibility",
+          "slug": "implementing-dark-mode-in-gutenberg-without-compromising-accessibility-76ad7bed",
+          "url": "https://x.com/b_plugins/status/2101658221329149967"
+        },
+        {
+          "title": "Long-term health impacts of heatwaves",
+          "slug": "long-term-health-impacts-of-heatwaves-8efcd133",
+          "url": "https://informations.handicap.fr/a-canicule-ces-effets-sur-la-sante-qui-restent-a-froid-39723.php"
+        },
+        {
+          "title": "Jordanian Theater Production for People with Disabilities Staged at Egyptian Opera House",
+          "slug": "jordanian-theater-production-for-people-with-disabilities-staged-at-egyptian-ope-90706fdb",
+          "url": "https://petra.gov.jo/ar/news/%D8%B9%D8%B1%D8%B6-%D9%85%D8%B3%D8%B1%D8%AD%D9%8A-%D8%A3%D8%B1%D8%AF%D9%86%D9%8A-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D9%88%D8%A8%D8%B1%D8%A7-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9"
         }
       ]
     },
     "zh-TW": {
-      "title": "每日無障礙摘要",
-      "summary": "",
+      "title": "殘障人士每月津貼新法與智慧輔助科技成焦點",
+      "summary": "《殘疾人士權利法》新增每月津貼與補貼住房條款，成為推動殘障人士福利的重要里程碑。同時，Google 推出支援螢幕閱讀器裝置及法國利用 AI 輔助阿爾茨海默病護理，展現輔助科技的最新進展。全球城市亦持續擴大實體與數位無障礙設施，提升殘障人士的生活品質。",
       "highlights": [
+        {
+          "title": "每月津貼與補貼住房：《殘疾人士權利法》的主要特點",
+          "slug": "monthly-allowances-and-subsidized-housing-key-features-of-the-rights-of-persons--zh-79050044",
+          "url": "https://www.elwatannews.com/news/details/8362202"
+        },
         {
           "title": "Googlebooks、Aluminium OS 與會自動開啟的 Schlage 智慧鎖",
           "slug": "googlebooks-aluminium-os-and-the-schlage-smart-lock-that-opens-itself-zh-5d4144ad",
           "url": "https://doubletaponair.com/googlebooks-aluminium-os-and-the-schlage-smart-lock-that-opens-itself-2"
+        },
+        {
+          "title": "法國利用AI技術輔助阿爾茨海默病護理",
+          "slug": "ai-technologies-aid-alzheimers-care-in-france-zh-ac4d78f2",
+          "url": "https://twaslnews1.twaslnews.com/5128609"
+        },
+        {
+          "title": "9月23日投票前，要求便利残障人士投票",
+          "slug": "calls-to-facilitate-voting-for-persons-with-disabilities-ahead-of-september-23-p-zh-d4750c07",
+          "url": "https://www.hespress.com/%D9%82%D8%A8%D9%84-%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%B9-23-%D8%B4%D8%AA%D9%86%D8%A8%D8%B1-%D9%85%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%AA%D9%8A%D8%B3%D9%8A%D8%B1-%D8%AA%D8%B5%D9%88%D9%8A%D8%AA-%D8%A7-1810311.html"
+        },
+        {
+          "title": "埃及残障人士国家委员会与公共检察机关合作调查对自闭症儿童的侵害案件",
+          "slug": "egypts-national-council-for-persons-with-disabilities-cooperates-with-public-pro-zh-a11fe434",
+          "url": "https://www.youm7.com/story/2026/9/20/%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D9%84%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%8A%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%85%D8%B9-%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82/7552315"
+        },
+        {
+          "title": "奧蘭多實現一致的無障礙目的地策略",
+          "slug": "orlando-delivers-on-a-cohesive-accessible-destination-strategy-zh-cb9b17a5",
+          "url": "https://www.hospitalityandcateringnews.com/2026/09/orlando-delivers-on-a-cohesive-accessible-destination-strategy"
+        },
+        {
+          "title": "奧克拉荷馬州博覽會將於 2026 年擴展其無障礙設施",
+          "slug": "oklahoma-state-fair-is-expanding-its-accessibility-offerings-for-2026-zh-00d78fbe",
+          "url": "https://www.oklahoman.com/videos/entertainment/events/2026/09/20/heres-how-the-oklahoma-state-fair-is-becoming-more-accessible-in-2026/91860739007"
+        },
+        {
+          "title": "武漢光谷天軌站的盲文導航",
+          "slug": "braille-navigation-at-wuhan-skytrain-station-zh-6c3665c0",
+          "url": "https://x.com/shamimzakaria/status/2101659460678627653"
+        },
+        {
+          "title": "台灣捷運的視覺門指示燈",
+          "slug": "visual-door-indicators-in-taiwan-mrt-zh-fc910c6d",
+          "url": "https://x.com/makoto_ueki/status/2101561340506870057"
+        },
+        {
+          "title": "DEAF, Inc. 與 華盛頓大學 為 EMS 提供 聾人 知覺 培訓",
+          "slug": "deaf-inc-and-washu-provide-deaf-awareness-training-for-ems-zh-6197d4bf",
+          "url": "https://x.com/DEAF_Inc/status/2101658207147975042"
+        },
+        {
+          "title": "SeMA 成為首個獲得國際無障礙獎項的韓國藝術機構",
+          "slug": "sema-becomes-first-korean-art-institution-to-win-international-award-for-accessi-zh-8e2f5d16",
+          "url": "https://www.koreajoongangdaily.com/lifestyle/sema-becomes-first-korean-art-institution-to-win-international-award-for-accessibility-program/12883721"
+        },
+        {
+          "title": "ジャミラが障害を乗り越えて議会を目指す",
+          "slug": "jamilya-challenges-disability-toward-parliament-zh-db9c78c2",
+          "url": "https://www.hespress.com/%D8%AC%D9%85%D9%8A%D9%84%D8%A9-%D8%AA%D8%AA%D8%AD%D8%AF%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%86%D8%AD%D9%88-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-1810200.html"
+        },
+        {
+          "title": "比較台灣與日本的數位無障礙做法",
+          "slug": "comparing-digital-accessibility-approaches-in-taiwan-and-japan-zh-1c373f7c",
+          "url": "https://x.com/makoto_ueki/status/2101621020465742105"
+        },
+        {
+          "title": "在不影響可及性的前提下，在古騰堡中實作深色模式",
+          "slug": "implementing-dark-mode-in-gutenberg-without-compromising-accessibility-zh-76ad7bed",
+          "url": "https://x.com/b_plugins/status/2101658221329149967"
+        },
+        {
+          "title": "熱浪的長期健康影響",
+          "slug": "long-term-health-impacts-of-heatwaves-zh-8efcd133",
+          "url": "https://informations.handicap.fr/a-canicule-ces-effets-sur-la-sante-qui-restent-a-froid-39723.php"
+        },
+        {
+          "title": "約旦殘疾人士劇目於埃及歌劇院上演",
+          "slug": "jordanian-theater-production-for-people-with-disabilities-staged-at-egyptian-ope-zh-90706fdb",
+          "url": "https://petra.gov.jo/ar/news/%D8%B9%D8%B1%D8%B6-%D9%85%D8%B3%D8%B1%D8%AD%D9%8A-%D8%A3%D8%B1%D8%AF%D9%86%D9%8A-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D9%88%D8%A8%D8%B1%D8%A7-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9"
         }
       ]
     }
