@@ -3,7 +3,7 @@ name: Twice-Daily Ingest FR/ES/AR Sources
 on:
   workflow_dispatch:
   schedule:
-    - cron: "45 10,18 * * *"
+    - cron: "35 10,18 * * *"
 
 permissions:
   contents: write
