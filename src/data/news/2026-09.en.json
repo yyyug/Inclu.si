@@ -63335,5 +63335,71 @@
     "publishedAt": "2026-09-22T16:36:18.000Z",
     "fetchedAt": "2026-09-23T20:24:26.934Z",
     "body": "An AX-first computer-use toolkit for AI agents on macOS that leverages the accessibility tree for targeting, provides process-scoped input, clipboard-safe paste, action read-back verification, visual feedback, and optional Jev semantic guards.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/macos-computer-use-kit/0.2.2)"
+  },
+  {
+    "title": "Transforming Accessibility | A Conversation with Carolyn T.",
+    "slug": "transforming-accessibility-a-conversation-with-carolyn-t-3f24bd66",
+    "lang": "en",
+    "summary": "The blog post discusses integrating document accessibility into routine content creation processes rather than retrofitting.",
+    "category": "digital-a11y",
+    "tags": [
+      "document accessibility",
+      "content creation",
+      "digital accessibility"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/transforming-accessibility-with-carolyn-t",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/transforming-accessibility-with-carolyn-t"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-3f24bd66",
+    "status": "published",
+    "translationOf": "transforming-accessibility-a-conversation-with-carolyn-t-zh-3f24bd66",
+    "publishedAt": "2026-09-23T14:00:16.000Z",
+    "fetchedAt": "2026-09-23T20:30:49.424Z",
+    "body": "The blog post discusses integrating document accessibility into routine content creation processes rather than retrofitting.\n\nRead more from the original source: [theaccessibilityguy.com](https://theaccessibilityguy.com/transforming-accessibility-with-carolyn-t)"
+  },
+  {
+    "title": "Ten Innovators, One Room: Accessible Tech Ideas From the Zero Project Technology Forum",
+    "slug": "ten-innovators-one-room-accessible-tech-ideas-from-the-zero-project-technology-f-f52e14c6",
+    "lang": "en",
+    "summary": "Highlights assistive tech innovations showcased at the Zero Project Technology Forum in Mumbai, including a phone‑accessible audiobook library, a home pregnancy test app designed for accessibility, and AI‑driven photo description tools that recognize family members.",
+    "category": "assistive-tech",
+    "tags": [
+      "assistive technology",
+      "Zero Project",
+      "audiobook library",
+      "pregnancy test app",
+      "AI photo description"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/ten-innovators-one-room-accessible-tech-ideas-from-the-zero-project-technology-forum-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/ten-innovators-one-room-accessible-tech-ideas-from-the-zero-project-technology-forum-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-f52e14c6",
+    "status": "published",
+    "translationOf": "ten-innovators-one-room-accessible-tech-ideas-from-the-zero-project-technology-f-zh-f52e14c6",
+    "publishedAt": "2026-09-23T16:00:22.000Z",
+    "fetchedAt": "2026-09-23T20:30:49.532Z",
+    "body": "Highlights assistive tech innovations showcased at the Zero Project Technology Forum in Mumbai, including a phone‑accessible audiobook library, a home pregnancy test app designed for accessibility, and AI‑driven photo description tools that recognize family members.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/ten-innovators-one-room-accessible-tech-ideas-from-the-zero-project-technology-forum-2)"
   }
 ]

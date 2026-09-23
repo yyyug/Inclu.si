@@ -63335,5 +63335,71 @@
     "publishedAt": "2026-09-22T16:36:18.000Z",
     "fetchedAt": "2026-09-23T20:24:26.934Z",
     "body": "一種以AX為先的macOS AI代理電腦使用工具包，利用無障礙樹進行定位，提供進程範圍輸入、剪貼板安全貼上、動作讀回驗證、視覺回饋以及可選的Jv語義守衛。\n\n原文來源： [Pypi.org](https://pypi.org/project/macos-computer-use-kit/0.2.2)"
+  },
+  {
+    "title": "轉變無障礙 | 與 Carolyn T. 的對話",
+    "slug": "transforming-accessibility-a-conversation-with-carolyn-t-zh-3f24bd66",
+    "lang": "zh-TW",
+    "summary": "該部落格文章探討如何將文件無障礙納入日常內容創作流程，而非事後補救。",
+    "category": "digital-a11y",
+    "tags": [
+      "document accessibility",
+      "content creation",
+      "digital accessibility"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/transforming-accessibility-with-carolyn-t",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/transforming-accessibility-with-carolyn-t"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-3f24bd66",
+    "status": "published",
+    "translationOf": "transforming-accessibility-a-conversation-with-carolyn-t-3f24bd66",
+    "publishedAt": "2026-09-23T14:00:16.000Z",
+    "fetchedAt": "2026-09-23T20:30:49.424Z",
+    "body": "該部落格文章探討如何將文件無障礙納入日常內容創作流程，而非事後補救。\n\n原文來源： [theaccessibilityguy.com](https://theaccessibilityguy.com/transforming-accessibility-with-carolyn-t)"
+  },
+  {
+    "title": "十位創新者，一個房間：零專案科技論壇的無障礙技術構想",
+    "slug": "ten-innovators-one-room-accessible-tech-ideas-from-the-zero-project-technology-f-zh-f52e14c6",
+    "lang": "zh-TW",
+    "summary": "突顯在孟買零專案科技論壇上展示的輔助技術創新，包括可透過任何手機使用的有聲書圖書館、專為無障礙設計的居家懷孕測試應用程式，以及能識別家庭成員的AI驅動照片描述工具。",
+    "category": "assistive-tech",
+    "tags": [
+      "assistive technology",
+      "Zero Project",
+      "audiobook library",
+      "pregnancy test app",
+      "AI photo description"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/ten-innovators-one-room-accessible-tech-ideas-from-the-zero-project-technology-forum-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/ten-innovators-one-room-accessible-tech-ideas-from-the-zero-project-technology-forum-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-f52e14c6",
+    "status": "published",
+    "translationOf": "ten-innovators-one-room-accessible-tech-ideas-from-the-zero-project-technology-f-f52e14c6",
+    "publishedAt": "2026-09-23T16:00:22.000Z",
+    "fetchedAt": "2026-09-23T20:30:49.532Z",
+    "body": "突顯在孟買零專案科技論壇上展示的輔助技術創新，包括可透過任何手機使用的有聲書圖書館、專為無障礙設計的居家懷孕測試應用程式，以及能識別家庭成員的AI驅動照片描述工具。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/ten-innovators-one-room-accessible-tech-ideas-from-the-zero-project-technology-forum-2)"
   }
 ]
