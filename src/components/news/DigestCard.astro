@@ -161,6 +161,13 @@ const {
     var LINK_LI = 'rounded-2xl border border-white/80 bg-white/70 p-4';
     var LINK_A = 'font-semibold text-slate-800 transition-all duration-300 hover:text-indigo-700';
 
+    function fmtUtcTime(iso) {
+      if (!iso) return '';
+      var t = new Date(iso);
+      if (isNaN(t.getTime())) return '';
+      return ' ' + String(t.getUTCHours()).padStart(2, '0') + ':' + String(t.getUTCMinutes()).padStart(2, '0');
+    }
+
     function renderList(el, links) {
       el.replaceChildren();
       var fragment = document.createDocumentFragment();
@@ -236,7 +243,7 @@ const {
           var day = daily[dayIndex];
           if (!day) return;
           heading.textContent = copy.digest || 'Daily Digest';
-          badge.textContent = (copy.digestUpdated || 'Updated') + (copy.digestColon || ': ') + day.date + ' (UTC+0)';
+          badge.textContent = (copy.digestUpdated || 'Updated') + (copy.digestColon || ': ') + day.date + fmtUtcTime(day.generatedAt) + ' (UTC+0)';
           summary.textContent = day.summary;
           renderList(list, day.highlights || []);
           current.textContent = day.date;
@@ -258,7 +265,7 @@ const {
             return;
           }
           heading.textContent = copy.digestWeek || 'Weekly Recap';
-          badge.textContent = (copy.digestUpdated || 'Updated') + (copy.digestColon || ': ') + w.range.start + ' \u2013 ' + w.range.end + ' (UTC+0)';
+          badge.textContent = (copy.digestUpdated || 'Updated') + (copy.digestColon || ': ') + w.range.start + ' \u2013 ' + w.range.end + fmtUtcTime(w.generatedAt) + ' (UTC+0)';
           summary.textContent = w.summary;
           renderList(list, w.highlights || []);
           current.textContent = w.range.start + ' \u2013 ' + w.range.end;
@@ -275,7 +282,7 @@ const {
         if (!item) return;
         var scope = mode === 'day' ? item.date : item.range.start + ' \u2013 ' + item.range.end;
         var summary = item.summary || item.title || '';
-        var msg = (copy.digestUpdated || 'Updated') + (copy.digestColon || ': ') + scope + ' (UTC+0). ' + summary;
+        var msg = (copy.digestUpdated || 'Updated') + (copy.digestColon || ': ') + scope + fmtUtcTime(item.generatedAt) + ' (UTC+0). ' + summary;
         live.textContent = '';
         setTimeout(function () {
           live.textContent = msg;

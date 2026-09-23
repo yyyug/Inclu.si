@@ -192,3 +192,12 @@ export function buildHighlightLinks(
     return { label: entry?.data.title ?? item.title, href, external };
   });
 }
+
+export function formatDigestTime(iso: string | undefined): string {
+  if (!iso) return '';
+  const t = new Date(iso);
+  if (Number.isNaN(t.getTime())) return '';
+  const hh = String(t.getUTCHours()).padStart(2, '0');
+  const mm = String(t.getUTCMinutes()).padStart(2, '0');
+  return `${hh}:${mm}`;
+}

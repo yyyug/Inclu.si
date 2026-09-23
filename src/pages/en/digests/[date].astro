@@ -1,5 +1,5 @@
 ---
-import { loadAllDailyDigests, getDailyDigest, getWeeklyDigestForDate, buildHighlightLinks } from '../../../lib/digests';
+import { loadAllDailyDigests, getDailyDigest, getWeeklyDigestForDate, buildHighlightLinks, formatDigestTime } from '../../../lib/digests';
 import { getPublishedNewsByLocale } from '../../../lib/news';
 import { localeBasePath, siteCopy } from '../../../lib/i18n';
 import DigestPage from '../../../components/news/DigestPage.astro';
@@ -25,7 +25,7 @@ const entries = await getPublishedNewsByLocale(locale);
 const entryBySlug = new Map(entries.map((e) => [e.data.slug, e]));
 const highlightLinks = buildHighlightLinks(localeDigest, entryBySlug, localeBasePath(locale));
 const heading = copy.digest;
-const updatedBadge = `${copy.digestUpdated}${copy.digestColon}${date} (UTC+0)`;
+const updatedBadge = `${copy.digestUpdated}${copy.digestColon}${date}${formatDigestTime(daily?.generatedAt) ? ' ' + formatDigestTime(daily?.generatedAt) : ''} (UTC+0)`;
 const containingWeek = await getWeeklyDigestForDate(date);
 const weekHref = containingWeek ? `${localeBasePath(locale)}/digests/week/${containingWeek.week}` : null;
 ---

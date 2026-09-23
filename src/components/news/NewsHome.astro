@@ -3,7 +3,7 @@ import Layout from '../../layouts/Layout.astro';
 import type { Locale } from '../../lib/i18n';
 import { localeBasePath, siteCopy } from '../../lib/i18n';
 import { collectCategoryCounts, getPublishedNewsByLocale } from '../../lib/news';
-import { buildHighlightLinks, getLatestDailyDigest, loadAllDailyDigests, loadAllWeeklyDigests } from '../../lib/digests';
+import { buildHighlightLinks, getLatestDailyDigest, loadAllDailyDigests, loadAllWeeklyDigests, formatDigestTime } from '../../lib/digests';
 import SiteHeader from './SiteHeader.astro';
 import NewsPaginated from './NewsPaginated.astro';
 import DigestCard from './DigestCard.astro';
@@ -97,7 +97,7 @@ const pageEntries = filteredEntries.slice((page - 1) * perPage, page * perPage);
       heading={copy.digest}
       updatedBadge={
         latestDigest
-          ? `${copy.digestUpdated}${copy.digestColon}${latestDigest.date} (UTC+0)`
+          ? `${copy.digestUpdated}${copy.digestColon}${latestDigest.date}${formatDigestTime(latestDigest.generatedAt) ? ' ' + formatDigestTime(latestDigest.generatedAt) : ''} (UTC+0)`
           : undefined
       }
       digest={localeDigest}
