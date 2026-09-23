@@ -67,5 +67,38 @@
     "publishedAt": "2025-11-17T13:37:05.000Z",
     "fetchedAt": "2026-09-20T07:35:43.715Z",
     "body": "巴黎將於2026年7月5日至11日在沙雷利球場舉辦融合足球世界盃。該賽事由智力障礙球員組成的隊伍參與，旨在促進殘障人士在體育領域的融合與無障礙體驗。\n\n原文來源： [franceinfo.fr](https://www.franceinfo.fr/sports/handicap-mental-paris-va-accueillir-la-coupe-du-monde-de-football-unifie-a-charlety-en-juillet-2026_7622090.html)"
+  },
+  {
+    "title": "沙特住建部批准活動及展覽場館監管要求",
+    "slug": "saudi-mohul-approves-regulatory-requirements-for-event-and-exhibition-halls-zh-7a25d7bd",
+    "lang": "zh-TW",
+    "summary": "沙特住房與城鎮規劃部批准了針對活動及展覽場館的監管要求，這些要求通常包括為残障人士提供的無障礙標準。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility-standards",
+      "saudi-arabia",
+      "regulatory"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://momah.gov.sa/ar/node/16216",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://momah.gov.sa/ar/node/16216"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84+%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-7a25d7bd",
+    "status": "published",
+    "translationOf": "saudi-mohul-approves-regulatory-requirements-for-event-and-exhibition-halls-7a25d7bd",
+    "publishedAt": "2025-11-27T11:21:25.000Z",
+    "fetchedAt": "2026-09-23T15:13:49.118Z",
+    "body": "沙特住房與城鎮規劃部批准了針對活動及展覽場館的監管要求，這些要求通常包括為残障人士提供的無障礙標準。\n\n原文來源： [news.google.com](https://momah.gov.sa/ar/node/16216)"
   }
 ]

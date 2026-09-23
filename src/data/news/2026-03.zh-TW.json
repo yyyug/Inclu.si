@@ -848,5 +848,39 @@
     "publishedAt": "2026-03-03T08:00:00.000Z",
     "fetchedAt": "2026-09-20T14:23:56.487Z",
     "body": "一款新的电子古兰经技术旨在帮助视障人士在虔诚的氛围中诵读古兰经，将辅助技术与宗教实践相结合。\n\n原文來源： [news.google.com](https://al3omk.com/1142220.html)"
+  },
+  {
+    "title": "阿聯酋啟動國家媒體計劃賦能身心障礙人士",
+    "slug": "uae-launches-national-media-program-to-empower-people-with-disabilities-zh-2acf6ba6",
+    "lang": "zh-TW",
+    "summary": "阿聯酋啟動了一項國家媒體計劃，旨在賦能身心障礙人士，側重於社會融入並展示他們的貢獻。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "UAE",
+      "media",
+      "inclusion",
+      "disability"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albayan.ae/news/uae/government/1165623",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albayan.ae/news/uae/government/1165623"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-2acf6ba6",
+    "status": "published",
+    "translationOf": "uae-launches-national-media-program-to-empower-people-with-disabilities-2acf6ba6",
+    "publishedAt": "2026-03-30T07:00:00.000Z",
+    "fetchedAt": "2026-09-23T15:11:58.624Z",
+    "body": "阿聯酋啟動了一項國家媒體計劃，旨在賦能身心障礙人士，側重於社會融入並展示他們的貢獻。\n\n原文來源： [news.google.com](https://www.albayan.ae/news/uae/government/1165623)"
   }
 ]
