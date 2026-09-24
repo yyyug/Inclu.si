@@ -66134,5 +66134,958 @@
     "publishedAt": "2026-09-24T04:26:40.000Z",
     "fetchedAt": "2026-09-24T13:50:33.185Z",
     "body": "Hidde de Vries 是 WCAG 3 編輯之一，於 Inclusive Design 24 的一次會議中討論了網頁內容無障礙指南的改進。\n推文來源： [MakotoUEKI 🇯🇵 (@makoto_ueki)](https://x.com/makoto_ueki/status/2102977997171269874)\n外部連結： [https://inclusivedesign24.org/2026/schedule](https://inclusivedesign24.org/2026/schedule)"
+  },
+  {
+    "title": "法國長期疾病每日津貼制度變革",
+    "slug": "changes-to-daily-allowances-for-long-term-conditions-in-france-zh-711a61e8",
+    "lang": "zh-TW",
+    "summary": "自 2026 年 10 月 15 日起，某些長期疾病的每日病假津貼上限將縮短為一年，而「免責」類長期疾病則維持三年的上限。此政策變更影響了慢性障礙人士的財務支援制度。",
+    "category": "laws-rights",
+    "tags": [
+      "France",
+      "health-insurance",
+      "financial-support",
+      "policy-change",
+      "ALD"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-ald-qui-verra-son-indemnisation-passer-de-3-a-1-an-39755.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-ald-qui-verra-son-indemnisation-passer-de-3-a-1-an-39755.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-711a61e8",
+    "status": "published",
+    "translationOf": "changes-to-daily-allowances-for-long-term-conditions-in-france-711a61e8",
+    "publishedAt": "2026-09-24T12:00:00.000Z",
+    "fetchedAt": "2026-09-24T15:30:15.919Z",
+    "body": "自 2026 年 10 月 15 日起，某些長期疾病的每日病假津貼上限將縮短為一年，而「免責」類長期疾病則維持三年的上限。此政策變更影響了慢性障礙人士的財務支援制度。\n\n原文來源： [handicap.fr](https://informations.handicap.fr/a-ald-qui-verra-son-indemnisation-passer-de-3-a-1-an-39755.php)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "sexualite-se-faire-vacciner-contre-les-papillomavirus-un-geste-de-prevention-imp-zh-b0bb6ff6",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "faire-face.fr",
+    "sourceUrl": "https://www.faire-face.fr/2026/09/24/sexualite-se-faire-vacciner-contre-les-papillomavirus-un-geste-de-prevention-important",
+    "relatedSources": [
+      {
+        "name": "faire-face.fr",
+        "url": "https://www.faire-face.fr/2026/09/24/sexualite-se-faire-vacciner-contre-les-papillomavirus-un-geste-de-prevention-important"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://faire-face.fr/feed",
+    "ingestProvider": "faire-face.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-b0bb6ff6",
+    "status": "draft",
+    "translationOf": "sexualite-se-faire-vacciner-contre-les-papillomavirus-un-geste-de-prevention-imp-b0bb6ff6",
+    "publishedAt": "2026-09-24T08:30:15.000Z",
+    "fetchedAt": "2026-09-24T15:30:16.011Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [faire-face.fr](https://www.faire-face.fr/2026/09/24/sexualite-se-faire-vacciner-contre-les-papillomavirus-un-geste-de-prevention-important)"
+  },
+  {
+    "title": "研究揭示障礙者手足被忽視的經歷",
+    "slug": "study-highlights-the-underrated-experience-of-siblings-of-people-with-disabiliti-zh-247cc3f7",
+    "lang": "zh-TW",
+    "summary": "新一項 Unapei 研究關注長期被忽視的障礙者手足角色。儘管他們不如父母顯眼，但這些手足參與度極高，且常將這種家庭狀況視為珍貴與責任的來源。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "siblings",
+      "family-dynamics",
+      "Unapei",
+      "social-aspects",
+      "disability-experience"
+    ],
+    "sourceName": "la-croix.com",
+    "sourceUrl": "https://www.la-croix.com/societe/handicap-entre-fierte-et-responsabilite-l-experience-meconnue-des-freres-et-sours-20260923",
+    "relatedSources": [
+      {
+        "name": "la-croix.com",
+        "url": "https://www.la-croix.com/societe/handicap-entre-fierte-et-responsabilite-l-experience-meconnue-des-freres-et-sours-20260923"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.la-croix.com/feeds/rss/Dossiers-Dynamiques/Handicap.xml",
+    "ingestProvider": "la-croix.com",
+    "originalLang": "fr",
+    "clusterId": "cluster-247cc3f7",
+    "status": "published",
+    "translationOf": "study-highlights-the-underrated-experience-of-siblings-of-people-with-disabiliti-247cc3f7",
+    "publishedAt": "2026-09-23T22:01:06.000Z",
+    "fetchedAt": "2026-09-24T15:30:16.080Z",
+    "body": "新一項 Unapei 研究關注長期被忽視的障礙者手足角色。儘管他們不如父母顯眼，但這些手足參與度極高，且常將這種家庭狀況視為珍貴與責任的來源。\n\n原文來源： [la-croix.com](https://www.la-croix.com/societe/handicap-entre-fierte-et-responsabilite-l-experience-meconnue-des-freres-et-sours-20260923)"
+  },
+  {
+    "title": "CRUE與ONCE基金會提供超過300項面向殘障大學生之實習獎助學金",
+    "slug": "crue-and-once-foundation-offer-over-300-internship-grants-for-university-student-zh-a2ecf40f",
+    "lang": "zh-TW",
+    "summary": "CRUE西班牙大學協會與ONCE基金會推出第十一屆大學生殘障實習獎助學金計劃。該計劃由歐洲社會基金Plus共同資助，為來自62所大學的316名殘障學生提供為期三個月的有償實習機會。旨在提升職業發展、促進學用銜接，並推動殘障人士的就業與社會融合。",
+    "category": "case-studies",
+    "tags": [
+      "employment",
+      "internships",
+      "Spain",
+      "inclusion",
+      "education",
+      "funding"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/crue-y-fundacion-once-ofrecen-mas-de-300-becas-para-universitarios-con-discapacidad",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/crue-y-fundacion-once-ofrecen-mas-de-300-becas-para-universitarios-con-discapacidad"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-a2ecf40f",
+    "status": "published",
+    "translationOf": "crue-and-once-foundation-offer-over-300-internship-grants-for-university-student-a2ecf40f",
+    "publishedAt": "2026-09-24T10:42:10.000Z",
+    "fetchedAt": "2026-09-24T15:30:29.553Z",
+    "body": "CRUE西班牙大學協會與ONCE基金會推出第十一屆大學生殘障實習獎助學金計劃。該計劃由歐洲社會基金Plus共同資助，為來自62所大學的316名殘障學生提供為期三個月的有償實習機會。旨在提升職業發展、促進學用銜接，並推動殘障人士的就業與社會融合。\n\n原文來源： [discapnet.es](https://www.discapnet.es/noticia/crue-y-fundacion-once-ofrecen-mas-de-300-becas-para-universitarios-con-discapacidad)"
+  },
+  {
+    "title": "殘障人士在找工作中是否面臨困難？",
+    "slug": "do-people-with-disabilities-face-difficulties-in-finding-jobs-zh-8be77d56",
+    "lang": "zh-TW",
+    "summary": "越南新聞網報導探討了殘障人士在就業市場上遭遇的挑戰，分析他們在尋求工作時為何常面臨重大障礙。",
+    "category": "case-studies",
+    "tags": [
+      "employment",
+      "barriers",
+      "Vietnam",
+      "job-search",
+      "challenges"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.vietnam.vn/ar/nguoi-khuyet-tat-co-kho-di-xin-viec",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.vietnam.vn/ar/nguoi-khuyet-tat-co-kho-di-xin-viec"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-8be77d56",
+    "status": "published",
+    "translationOf": "do-people-with-disabilities-face-difficulties-in-finding-jobs-8be77d56",
+    "publishedAt": "2026-09-23T23:44:37.000Z",
+    "fetchedAt": "2026-09-24T15:30:29.642Z",
+    "body": "越南新聞網報導探討了殘障人士在就業市場上遭遇的挑戰，分析他們在尋求工作時為何常面臨重大障礙。\n\n原文來源： [news.google.com](https://www.vietnam.vn/ar/nguoi-khuyet-tat-co-kho-di-xin-viec)"
+  },
+  {
+    "title": "阿提哈德航空与迪拜残障人士局携手加强社会融合与赋能",
+    "slug": "emirates-and-dubai-for-persons-with-disabilities-strengthen-inclusion-and-empowe-zh-5f47d264",
+    "lang": "zh-TW",
+    "summary": "报道指出，阿提哈德航空与迪拜残障人士局合作，旨在加强针对残障人士的社会融合与赋能项目。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "social-inclusion",
+      "UAE",
+      "empowerment"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alkhaleej.ae/2026-09-24/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%AF%D8%A8%D9%8A-%D9%84%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D9%8A%D8%B9%D8%B2%D8%B2%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%AF%D9%85%D8%AC-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9%D9%8A",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alkhaleej.ae/2026-09-24/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%AF%D8%A8%D9%8A-%D9%84%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D9%8A%D8%B9%D8%B2%D8%B2%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%AF%D9%85%D8%AC-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9%D9%8A"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-5f47d264",
+    "status": "published",
+    "translationOf": "emirates-and-dubai-for-persons-with-disabilities-strengthen-inclusion-and-empowe-5f47d264",
+    "publishedAt": "2026-09-24T07:22:22.000Z",
+    "fetchedAt": "2026-09-24T15:30:37.628Z",
+    "body": "报道指出，阿提哈德航空与迪拜残障人士局合作，旨在加强针对残障人士的社会融合与赋能项目。\n\n原文來源： [news.google.com](https://www.alkhaleej.ae/2026-09-24/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%AF%D8%A8%D9%8A-%D9%84%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D9%8A%D8%B9%D8%B2%D8%B2%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%AF%D9%85%D8%AC-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9%D9%8A)"
+  },
+  {
+    "title": "2026年 Inclusiv'Day：聚焦残障人士就業與創新",
+    "slug": "inclusivday-2026-focused-on-employment-and-innovation-for-people-with-disabiliti-zh-0c63790c",
+    "lang": "zh-TW",
+    "summary": "第10屆 Inclusiv'Day 將於2026年10月1日在巴黎舉行，匯集企業、公共機構及殘障界人士。活動重點關注殘障人士的就業、照護及工作場所健康，預計有6000名與會者。",
+    "category": "laws-rights",
+    "tags": [
+      "employment",
+      "workplace",
+      "awareness",
+      "events"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-inclusiv-day-2026-innover-pour-l-emploi-et-le-handicap-39751.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-inclusiv-day-2026-innover-pour-l-emploi-et-le-handicap-39751.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-0c63790c",
+    "status": "published",
+    "translationOf": "inclusivday-2026-focused-on-employment-and-innovation-for-people-with-disabiliti-0c63790c",
+    "publishedAt": "2026-09-24T10:00:29.000Z",
+    "fetchedAt": "2026-09-24T15:31:13.790Z",
+    "body": "第10屆 Inclusiv'Day 將於2026年10月1日在巴黎舉行，匯集企業、公共機構及殘障界人士。活動重點關注殘障人士的就業、照護及工作場所健康，預計有6000名與會者。\n\n原文來源： [handicap.fr](https://informations.handicap.fr/a-inclusiv-day-2026-innover-pour-l-emploi-et-le-handicap-39751.php)"
+  },
+  {
+    "title": "CERMI回顧西班牙組織化殘障運動歷史",
+    "slug": "cermi-reviews-history-of-organized-disability-movement-in-spain-zh-a8d6e6be",
+    "lang": "zh-TW",
+    "summary": "西班牙殘障人士代表委員會（CERMI）舉辦數位活動，發布關於西班牙殘障社會運動的首部綜合歷史。會議重點回顧了幾十年來的倡議活動、1982年LISMI法律等立法進展，以及落實權利和社會包容的持續需求。",
+    "category": "laws-rights",
+    "tags": [
+      "history",
+      "activism",
+      "legislation",
+      "social-movement"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/el-cermi-recorre-la-historia-de-la-discapacidad-organizada-y-llama-mantener-vivo-su",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/el-cermi-recorre-la-historia-de-la-discapacidad-organizada-y-llama-mantener-vivo-su"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-a8d6e6be",
+    "status": "published",
+    "translationOf": "cermi-reviews-history-of-organized-disability-movement-in-spain-a8d6e6be",
+    "publishedAt": "2026-09-24T09:02:15.000Z",
+    "fetchedAt": "2026-09-24T15:31:13.867Z",
+    "body": "西班牙殘障人士代表委員會（CERMI）舉辦數位活動，發布關於西班牙殘障社會運動的首部綜合歷史。會議重點回顧了幾十年來的倡議活動、1982年LISMI法律等立法進展，以及落實權利和社會包容的持續需求。\n\n原文來源： [discapnet.es](https://www.discapnet.es/noticia/el-cermi-recorre-la-historia-de-la-discapacidad-organizada-y-llama-mantener-vivo-su)"
+  },
+  {
+    "title": "「無界殘障運動會8」在沙特阿拉伯匯集奧運與殘奧運動員",
+    "slug": "para-games-without-limits-8-unites-olympic-and-paralympic-athletes-in-saudi-arab-zh-2656c3ff",
+    "lang": "zh-TW",
+    "summary": "活動「無界殘障運動會8」在阿爾塞爾菲特大型購物中心匯集了奧運會和殘奧會冠軍，慶祝殘障運動員的體育成就與包容性。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "sports",
+      "paralympics",
+      "inclusion",
+      "events"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.almowaten.net/2026/09/%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D9%84%D8%A7-%D9%82%D9%8A%D9%88%D8%AF-8-%D8%AA%D8%AC%D9%85%D8%B9-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%85%D8%A8%D9%8A%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.almowaten.net/2026/09/%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D9%84%D8%A7-%D9%82%D9%8A%D9%88%D8%AF-8-%D8%AA%D8%AC%D9%85%D8%B9-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%85%D8%A8%D9%8A%D8%A9"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-2656c3ff",
+    "status": "published",
+    "translationOf": "para-games-without-limits-8-unites-olympic-and-paralympic-athletes-in-saudi-arab-2656c3ff",
+    "publishedAt": "2026-09-23T16:27:44.000Z",
+    "fetchedAt": "2026-09-24T15:31:13.921Z",
+    "body": "活動「無界殘障運動會8」在阿爾塞爾菲特大型購物中心匯集了奧運會和殘奧會冠軍，慶祝殘障運動員的體育成就與包容性。\n\n原文來源： [news.google.com](https://www.almowaten.net/2026/09/%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D9%84%D8%A7-%D9%82%D9%8A%D9%88%D8%AF-8-%D8%AA%D8%AC%D9%85%D8%B9-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%85%D8%A8%D9%8A%D8%A9)"
+  },
+  {
+    "title": "越南啟動社會照護與身心障礙康復中心建設項目",
+    "slug": "vietnam-launches-project-for-social-care-and-rehabilitation-center-for-people-wi-zh-7fc21612",
+    "lang": "zh-TW",
+    "summary": "該項目旨在建立一個專門為省內身心障礙人士提供社會照護及功能康復服務的中心。",
+    "category": "physical-design",
+    "tags": [
+      "rehabilitation",
+      "social-care",
+      "infrastructure",
+      "Vietnam"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.vietnam.vn/ar/trien-khai-du-an-trung-tam-bao-tro-xa-hoi-va-phuc-hoi-chuc-nang-danh-cho-nguoi-khuyet-tat-tinh",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.vietnam.vn/ar/trien-khai-du-an-trung-tam-bao-tro-xa-hoi-va-phuc-hoi-chuc-nang-danh-cho-nguoi-khuyet-tat-tinh"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-7fc21612",
+    "status": "published",
+    "translationOf": "vietnam-launches-project-for-social-care-and-rehabilitation-center-for-people-wi-7fc21612",
+    "publishedAt": "2026-09-24T14:42:08.000Z",
+    "fetchedAt": "2026-09-24T15:31:39.413Z",
+    "body": "該項目旨在建立一個專門為省內身心障礙人士提供社會照護及功能康復服務的中心。\n\n原文來源： [news.google.com](https://www.vietnam.vn/ar/trien-khai-du-an-trung-tam-bao-tro-xa-hoi-va-phuc-hoi-chuc-nang-danh-cho-nguoi-khuyet-tat-tinh)"
+  },
+  {
+    "title": "阿聯酋與杜拜殘障人士俱樂部簽署備忘錄，促進賦權與社會融合",
+    "slug": "emirates-and-dubai-disability-club-sign-mou-to-promote-inclusion-and-empowerment-zh-78bac488",
+    "lang": "zh-TW",
+    "summary": "阿聯酋與杜拜「決意人士」（殘障人士）俱樂部簽署了備忘錄，旨在強化身心障礙人士的能力建設，並促進其社會融合。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "social-inclusion",
+      "partnership",
+      "UAE",
+      "empowerment"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.zawya.com/ar/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7-%D8%B5%D8%AD%D9%81%D9%8A%D8%A9/%D8%A7%D9%94%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA/%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D9%86%D8%A7%D8%AF%D9%8A-%D8%AF%D8%A8%D9%8A-%D9%84%D8%A7%D9%94%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D9%8A%D9%88%D9%82%D8%B9%D8%A7%D9%86-%D9%85%D8%B0%D9%83%D8%B1%D8%A9-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D8%A7%D9%94%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D9%88%D8%AF%D9%85%D8%AC%D9%87%D9%85-%D9%85%D8%AC%D8%AA%D9%85%D8%B9%D9%8A%D8%A7%D9%8B-1188631",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.zawya.com/ar/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7-%D8%B5%D8%AD%D9%81%D9%8A%D8%A9/%D8%A7%D9%94%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA/%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D9%86%D8%A7%D8%AF%D9%8A-%D8%AF%D8%A8%D9%8A-%D9%84%D8%A7%D9%94%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D9%8A%D9%88%D9%82%D8%B9%D8%A7%D9%86-%D9%85%D8%B0%D9%83%D8%B1%D8%A9-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D8%A7%D9%94%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D9%88%D8%AF%D9%85%D8%AC%D9%87%D9%85-%D9%85%D8%AC%D8%AA%D9%85%D8%B9%D9%8A%D8%A7%D9%8B-1188631"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-78bac488",
+    "status": "published",
+    "translationOf": "emirates-and-dubai-disability-club-sign-mou-to-promote-inclusion-and-empowerment-78bac488",
+    "publishedAt": "2026-09-24T05:21:00.000Z",
+    "fetchedAt": "2026-09-24T15:31:39.491Z",
+    "body": "阿聯酋與杜拜「決意人士」（殘障人士）俱樂部簽署了備忘錄，旨在強化身心障礙人士的能力建設，並促進其社會融合。\n\n原文來源： [news.google.com](https://www.zawya.com/ar/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7-%D8%B5%D8%AD%D9%81%D9%8A%D8%A9/%D8%A7%D9%94%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA/%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D9%86%D8%A7%D8%AF%D9%8A-%D8%AF%D8%A8%D9%8A-%D9%84%D8%A7%D9%94%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D9%8A%D9%88%D9%82%D8%B9%D8%A7%D9%86-%D9%85%D8%B0%D9%83%D8%B1%D8%A9-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D8%A7%D9%94%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D9%88%D8%AF%D9%85%D8%AC%D9%87%D9%85-%D9%85%D8%AC%D8%AA%D9%85%D8%B9%D9%8A%D8%A7%D9%8B-1188631)"
+  },
+  {
+    "title": "殘障人士的兄弟姐妹：被遺忘的集體課題",
+    "slug": "siblings-of-people-with-disabilities-the-unthought-collective-zh-1bc7d5b2",
+    "lang": "zh-TW",
+    "summary": "Unapei 的一項研究突出了殘障人士兄弟姐妹的經歷，指出他們往往在很小的時候就培養出強烈的責任感。研究指出這些兄弟姐妹所面臨的困難及其對未來的擔憂，並回應了殘障領域中很少被討論的一個方面。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "family",
+      "siblings",
+      "disability-support",
+      "unapei"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-fratries-et-handicap-un-impense-collectif-39759.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-fratries-et-handicap-un-impense-collectif-39759.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-1bc7d5b2",
+    "status": "published",
+    "translationOf": "siblings-of-people-with-disabilities-the-unthought-collective-1bc7d5b2",
+    "publishedAt": "2026-09-24T09:43:31.000Z",
+    "fetchedAt": "2026-09-24T15:31:51.524Z",
+    "body": "Unapei 的一項研究突出了殘障人士兄弟姐妹的經歷，指出他們往往在很小的時候就培養出強烈的責任感。研究指出這些兄弟姐妹所面臨的困難及其對未來的擔憂，並回應了殘障領域中很少被討論的一個方面。\n\n原文來源： [handicap.fr](https://informations.handicap.fr/a-fratries-et-handicap-un-impense-collectif-39759.php)"
+  },
+  {
+    "title": "A LA PAR 基金會警示智力障礙女性在性剝削和販運中的脆弱性",
+    "slug": "foundation-a-la-par-warns-of-vulnerability-of-women-with-intellectual-disabiliti-zh-0f6d0b33",
+    "lang": "zh-TW",
+    "summary": "在國際反對性剝削和販運日，A LA PAR 基金會强调了智力障礙女性所面臨的特殊脆弱性。其先驅性的 UAVDI 部門報告稱，在 2023 年至 2026 年間協助了 42 名女性並進行了 127 次專業行動。文章強調了專業支持以及「促進者」角色的必要性，該角色對司法程序進行調整，以確保這些女性能夠理解法律流程並平等參與，符合《聯合國殘障者權利公約》第 13 條的規定。",
+    "category": "laws-rights",
+    "tags": [
+      "intellectual-disability",
+      "justice-access",
+      "trafficking",
+      "vulnerability",
+      "facilitator"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/dia-internacional-contra-la-explotacion-sexual-y-el-trafico-de-mujeres-ninas-y-ninos-la",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/dia-internacional-contra-la-explotacion-sexual-y-el-trafico-de-mujeres-ninas-y-ninos-la"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-0f6d0b33",
+    "status": "published",
+    "translationOf": "foundation-a-la-par-warns-of-vulnerability-of-women-with-intellectual-disabiliti-0f6d0b33",
+    "publishedAt": "2026-09-24T08:21:00.000Z",
+    "fetchedAt": "2026-09-24T15:31:51.598Z",
+    "body": "在國際反對性剝削和販運日，A LA PAR 基金會强调了智力障礙女性所面臨的特殊脆弱性。其先驅性的 UAVDI 部門報告稱，在 2023 年至 2026 年間協助了 42 名女性並進行了 127 次專業行動。文章強調了專業支持以及「促進者」角色的必要性，該角色對司法程序進行調整，以確保這些女性能夠理解法律流程並平等參與，符合《聯合國殘障者權利公約》第 13 條的規定。\n\n原文來源： [discapnet.es](https://www.discapnet.es/noticia/dia-internacional-contra-la-explotacion-sexual-y-el-trafico-de-mujeres-ninas-y-ninos-la)"
+  },
+  {
+    "title": "巴哈州文協會舉辦國家日慶祝活動，邀請身心障礙人士參與",
+    "slug": "literary-association-in-al-baha-concludes-third-quarter-with-national-day-celebr-zh-f83dbd59",
+    "lang": "zh-TW",
+    "summary": "巴哈州文協會透過舉行第96個國慶日活動，邀請身心障礙人士參與，展示了對身心障礙者的社會包容與文化參與。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "inclusion",
+      "national-day",
+      "events",
+      "saudi-arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://aan-news.com/370919.html",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://aan-news.com/370919.html"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-f83dbd59",
+    "status": "published",
+    "translationOf": "literary-association-in-al-baha-concludes-third-quarter-with-national-day-celebr-f83dbd59",
+    "publishedAt": "2026-09-23T20:30:12.000Z",
+    "fetchedAt": "2026-09-24T15:32:09.348Z",
+    "body": "巴哈州文協會透過舉行第96個國慶日活動，邀請身心障礙人士參與，展示了對身心障礙者的社會包容與文化參與。\n\n原文來源： [news.google.com](https://aan-news.com/370919.html)"
+  },
+  {
+    "title": "聽障留學生赴約旦前的說明會詳情",
+    "slug": "details-of-orientation-meeting-for-hearing-impaired-students-sent-to-jordan-zh-81a5cb57",
+    "lang": "zh-TW",
+    "summary": "本新聞報導了為受資助赴約旦留學的聽障學生舉辦的說明會，重點在於支持他們的學術與社會過渡。",
+    "category": "case-studies",
+    "tags": [
+      "hearing-impairment",
+      "education",
+      "study-abroad",
+      "jordan"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://shabiba.com/article/211289-%D9%85%D8%A7-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D9%84%D9%82%D8%A7-%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D9%81%D9%8A-%D9%84%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B3%D9%85%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%B9%D8%AB%D9%8A%D9%86-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://shabiba.com/article/211289-%D9%85%D8%A7-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D9%84%D9%82%D8%A7-%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D9%81%D9%8A-%D9%84%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B3%D9%85%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%B9%D8%AB%D9%8A%D9%86-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-81a5cb57",
+    "status": "published",
+    "translationOf": "details-of-orientation-meeting-for-hearing-impaired-students-sent-to-jordan-81a5cb57",
+    "publishedAt": "2026-09-24T11:51:47.000Z",
+    "fetchedAt": "2026-09-24T15:32:09.423Z",
+    "body": "本新聞報導了為受資助赴約旦留學的聽障學生舉辦的說明會，重點在於支持他們的學術與社會過渡。\n\n原文來源： [news.google.com](https://shabiba.com/article/211289-%D9%85%D8%A7-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D9%84%D9%82%D8%A7-%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D9%81%D9%8A-%D9%84%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B3%D9%85%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%B9%D8%AB%D9%8A%D9%86-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86)"
+  },
+  {
+    "title": "Jalila基金會舉辦節目，提升身心障礙者家庭及照顧者之技能",
+    "slug": "jalila-foundation-organizes-program-to-develop-skills-of-families-of-people-with-zh-1938b8f5",
+    "lang": "zh-TW",
+    "summary": "Jalila基金會舉辦了一項課程，旨在提升照顧身心障礙者（決心人士）的家庭及照顧者的技能，以改善支持與生活質量。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "caregivers",
+      "families",
+      "training",
+      "foundation"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://25h.app/2026/09/24/%D9%85%D8%A4%D8%B3%D8%B3%D8%A9-%D8%A7%D9%84%D8%AC%D9%84%D9%8A%D9%84%D8%A9-%D8%AA%D9%86%D8%B8%D9%85-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC%D8%A7%D9%8B-%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D9%85",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://25h.app/2026/09/24/%D9%85%D8%A4%D8%B3%D8%B3%D8%A9-%D8%A7%D9%84%D8%AC%D9%84%D9%8A%D9%84%D8%A9-%D8%AA%D9%86%D8%B8%D9%85-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC%D8%A7%D9%8B-%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D9%85"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-1938b8f5",
+    "status": "published",
+    "translationOf": "jalila-foundation-organizes-program-to-develop-skills-of-families-of-people-with-1938b8f5",
+    "publishedAt": "2026-09-24T12:22:31.000Z",
+    "fetchedAt": "2026-09-24T15:32:09.476Z",
+    "body": "Jalila基金會舉辦了一項課程，旨在提升照顧身心障礙者（決心人士）的家庭及照顧者的技能，以改善支持與生活質量。\n\n原文來源： [news.google.com](https://25h.app/2026/09/24/%D9%85%D8%A4%D8%B3%D8%B3%D8%A9-%D8%A7%D9%84%D8%AC%D9%84%D9%8A%D9%84%D8%A9-%D8%AA%D9%86%D8%B8%D9%85-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC%D8%A7%D9%8B-%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D9%85)"
+  },
+  {
+    "title": "阿尔茨海默病血液检测简化护理路径",
+    "slug": "blood-test-for-alzheimers-disease-simplifies-care-pathway-zh-3c851e4d",
+    "lang": "zh-TW",
+    "summary": "研究人员开发了用于检测阿尔茨海默病的血液生物标志物，提供了一种更少侵入性且更简单的诊断方法。这一进展旨在减轻患者进行复杂医学检查的负担，并简化护理流程。",
+    "category": "assistive-tech",
+    "tags": [
+      "Alzheimer's",
+      "Medical",
+      "Diagnostics",
+      "Care Pathway"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-alzheimer-une-prise-de-sang-pour-alleger-le-parcours-39721.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-alzheimer-une-prise-de-sang-pour-alleger-le-parcours-39721.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-3c851e4d",
+    "status": "published",
+    "translationOf": "blood-test-for-alzheimers-disease-simplifies-care-pathway-3c851e4d",
+    "publishedAt": "2026-09-21T07:00:30.000Z",
+    "fetchedAt": "2026-09-24T15:32:13.481Z",
+    "body": "研究人员开发了用于检测阿尔茨海默病的血液生物标志物，提供了一种更少侵入性且更简单的诊断方法。这一进展旨在减轻患者进行复杂医学检查的负担，并简化护理流程。\n\n原文來源： [handicap.fr](https://informations.handicap.fr/a-alzheimer-une-prise-de-sang-pour-alleger-le-parcours-39721.php)"
+  },
+  {
+    "title": "「教育之橋」：數位平台致力協助加薩殘疾兒童持續接受教育",
+    "slug": "educational-bridge-digital-platform-aims-to-keep-gaza-children-with-disabilities-zh-9d753cc0",
+    "lang": "zh-TW",
+    "summary": "名為「教育之橋」的數位平台即將啟動，旨在確保加薩地帶的殘疾兒童能夠持續其教育歷程，並針對衝突受影響地區的無障礙需求提供支援。",
+    "category": "digital-a11y",
+    "tags": [
+      "Gaza",
+      "Digital Education",
+      "Children with Disabilities",
+      "Inclusive Education"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://felesteen.news/post/186963/%D8%AC%D8%B3%D8%B1-%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A-%D9%85%D9%86%D8%B5%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AA%D8%B3%D8%B9%D9%89-%D8%A5%D9%84%D9%89-%D8%A5%D8%A8%D9%82%D8%A7%D8%A1-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%BA%D8%B2%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%B9%D9%84%D9%89-%D9%85%D8%B3/amp",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://felesteen.news/post/186963/%D8%AC%D8%B3%D8%B1-%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A-%D9%85%D9%86%D8%B5%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AA%D8%B3%D8%B9%D9%89-%D8%A5%D9%84%D9%89-%D8%A5%D8%A8%D9%82%D8%A7%D8%A1-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%BA%D8%B2%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%B9%D9%84%D9%89-%D9%85%D8%B3/amp"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-9d753cc0",
+    "status": "published",
+    "translationOf": "educational-bridge-digital-platform-aims-to-keep-gaza-children-with-disabilities-9d753cc0",
+    "publishedAt": "2026-09-24T10:05:00.000Z",
+    "fetchedAt": "2026-09-24T15:32:46.536Z",
+    "body": "名為「教育之橋」的數位平台即將啟動，旨在確保加薩地帶的殘疾兒童能夠持續其教育歷程，並針對衝突受影響地區的無障礙需求提供支援。\n\n原文來源： [news.google.com](https://felesteen.news/post/186963/%D8%AC%D8%B3%D8%B1-%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A-%D9%85%D9%86%D8%B5%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AA%D8%B3%D8%B9%D9%89-%D8%A5%D9%84%D9%89-%D8%A5%D8%A8%D9%82%D8%A7%D8%A1-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%BA%D8%B2%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%B9%D9%84%D9%89-%D9%85%D8%B3/amp)"
+  },
+  {
+    "title": "阿瑪娜·穆拉：為聽障學生提供專業人員與輔具技術",
+    "slug": "amana-al-mulla-specialized-staff-and-assistive-technologies-for-students-with-he-zh-06066fdc",
+    "lang": "zh-TW",
+    "summary": "教育工作者阿瑪娜·穆拉強調部署專業人員與輔具技術，以支援聽障學生，並重視融合教育實務。",
+    "category": "assistive-tech",
+    "tags": [
+      "Hearing Impairment",
+      "Assistive Technology",
+      "Specialized Staff",
+      "Education"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.raya.com/2026/09/24/%D8%A2%D9%85%D9%86%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D8%A7-%D9%83%D9%88%D8%A7%D8%AF%D8%B1-%D9%85%D8%AA%D8%AE%D8%B5%D8%B5%D8%A9-%D9%88%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D9%85%D8%B3%D8%A7%D9%86%D8%AF%D8%A9-%D9%84%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B3%D9%85%D8%B9%D9%8A%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.raya.com/2026/09/24/%D8%A2%D9%85%D9%86%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D8%A7-%D9%83%D9%88%D8%A7%D8%AF%D8%B1-%D9%85%D8%AA%D8%AE%D8%B5%D8%B5%D8%A9-%D9%88%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D9%85%D8%B3%D8%A7%D9%86%D8%AF%D8%A9-%D9%84%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B3%D9%85%D8%B9%D9%8A%D8%A9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-06066fdc",
+    "status": "published",
+    "translationOf": "amana-al-mulla-specialized-staff-and-assistive-technologies-for-students-with-he-06066fdc",
+    "publishedAt": "2026-09-23T21:26:43.000Z",
+    "fetchedAt": "2026-09-24T15:32:46.616Z",
+    "body": "教育工作者阿瑪娜·穆拉強調部署專業人員與輔具技術，以支援聽障學生，並重視融合教育實務。\n\n原文來源： [news.google.com](https://www.raya.com/2026/09/24/%D8%A2%D9%85%D9%86%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D8%A7-%D9%83%D9%88%D8%A7%D8%AF%D8%B1-%D9%85%D8%AA%D8%AE%D8%B5%D8%B5%D8%A9-%D9%88%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D9%85%D8%B3%D8%A7%D9%86%D8%AF%D8%A9-%D9%84%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B3%D9%85%D8%B9%D9%8A%D8%A9)"
+  },
+  {
+    "title": "以眼神下棋：烏茲別克棋手挑戰身體極限",
+    "slug": "chess-through-eye-language-uzbek-man-defies-physical-limits-on-the-board-zh-ee8cdf01",
+    "lang": "zh-TW",
+    "summary": "一名烏茲別克Chess棋手因身體殘疾無法使用雙手，透過眼控輔助技術在棋盤上競技，展示了輔助科技如何讓重度運動障礙者參與複雜的智力運動。",
+    "category": "assistive-tech",
+    "tags": [
+      "assistive-tech",
+      "eye-tracking",
+      "inclusive-sport",
+      "disability",
+      "uzbekistan"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alaraby.co.uk/sport/%D8%A7%D9%84%D8%B4%D8%B7%D8%B1%D9%86%D8%AC-%D8%A8%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D9%8A%D9%88%D9%86-%D8%A3%D9%88%D8%B2%D8%A8%D9%83%D9%8A-%D9%8A%D8%AA%D8%AD%D8%AF%D9%89-%D9%82%D9%8A%D9%88%D8%AF-%D8%AC%D8%B3%D8%AF%D9%87-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B1%D9%82%D8%B9%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alaraby.co.uk/sport/%D8%A7%D9%84%D8%B4%D8%B7%D8%B1%D9%86%D8%AC-%D8%A8%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D9%8A%D9%88%D9%86-%D8%A3%D9%88%D8%B2%D8%A8%D9%83%D9%8A-%D9%8A%D8%AA%D8%AD%D8%AF%D9%89-%D9%82%D9%8A%D9%88%D8%AF-%D8%AC%D8%B3%D8%AF%D9%87-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B1%D9%82%D8%B9%D8%A9"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-ee8cdf01",
+    "status": "published",
+    "translationOf": "chess-through-eye-language-uzbek-man-defies-physical-limits-on-the-board-ee8cdf01",
+    "publishedAt": "2026-09-23T17:07:07.000Z",
+    "fetchedAt": "2026-09-24T15:33:00.696Z",
+    "body": "一名烏茲別克Chess棋手因身體殘疾無法使用雙手，透過眼控輔助技術在棋盤上競技，展示了輔助科技如何讓重度運動障礙者參與複雜的智力運動。\n\n原文來源： [news.google.com](https://www.alaraby.co.uk/sport/%D8%A7%D9%84%D8%B4%D8%B7%D8%B1%D9%86%D8%AC-%D8%A8%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D9%8A%D9%88%D9%86-%D8%A3%D9%88%D8%B2%D8%A8%D9%83%D9%8A-%D9%8A%D8%AA%D8%AD%D8%AF%D9%89-%D9%82%D9%8A%D9%88%D8%AF-%D8%AC%D8%B3%D8%AF%D9%87-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B1%D9%82%D8%B9%D8%A9)"
+  },
+  {
+    "title": "巴士拉開始向殘疾人分發2.1萬張免費醫療保險卡",
+    "slug": "basra-begins-distribution-of-21000-free-health-insurance-cards-for-persons-with--zh-3021745c",
+    "lang": "zh-TW",
+    "summary": "巴士拉市已開始向殘障人士分發2.1萬張免費醫療保險卡，擴大其醫療服務覆蓋範圍，並支持殘障群體的醫療權益。",
+    "category": "laws-rights",
+    "tags": [
+      "healthcare",
+      "insurance",
+      "disability-rights",
+      "basra",
+      "iraq"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.al-mirbad.com/detail/215967",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.al-mirbad.com/detail/215967"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-3021745c",
+    "status": "published",
+    "translationOf": "basra-begins-distribution-of-21000-free-health-insurance-cards-for-persons-with--3021745c",
+    "publishedAt": "2026-09-24T13:12:36.000Z",
+    "fetchedAt": "2026-09-24T15:33:00.784Z",
+    "body": "巴士拉市已開始向殘障人士分發2.1萬張免費醫療保險卡，擴大其醫療服務覆蓋範圍，並支持殘障群體的醫療權益。\n\n原文來源： [news.google.com](https://www.al-mirbad.com/detail/215967)"
+  },
+  {
+    "title": "阿斯旺在世界手语日培训200名政府员工手语沟通",
+    "slug": "aswan-trains-200-government-employees-in-sign-language-on-world-sign-language-da-zh-596da26a",
+    "lang": "zh-TW",
+    "summary": "为了纪念世界手语日，埃及阿斯旺市对200名政府员工进行了培训，以提高他们与聋人听力障碍人士沟通的能力。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "sign-language",
+      "training",
+      "government",
+      "egypt",
+      "inclusion"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://gate.ahram.org.eg/News/5932961.aspx",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://gate.ahram.org.eg/News/5932961.aspx"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-596da26a",
+    "status": "published",
+    "translationOf": "aswan-trains-200-government-employees-in-sign-language-on-world-sign-language-da-596da26a",
+    "publishedAt": "2026-09-24T11:38:00.000Z",
+    "fetchedAt": "2026-09-24T15:33:08.703Z",
+    "body": "为了纪念世界手语日，埃及阿斯旺市对200名政府员工进行了培训，以提高他们与聋人听力障碍人士沟通的能力。\n\n原文來源： [news.google.com](https://gate.ahram.org.eg/News/5932961.aspx)"
+  },
+  {
+    "title": "社会保障局阐明视觉残疾福利资格标准",
+    "slug": "social-security-clarifies-visual-disability-benefit-eligibility-criteria-zh-e6a47c07",
+    "lang": "zh-TW",
+    "summary": "社会保障局阐明，视觉残疾福利的资格条件要求双眼视力评分为60/2或更低，并概述了认定残疾的具体医疗标准。",
+    "category": "laws-rights",
+    "tags": [
+      "disability-benefits",
+      "visual-impairment",
+      "social-security",
+      "eligibility"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://shabiba.com/article/211075-602-%D9%81%D8%A3%D9%82%D9%84-%D9%81%D9%8A-%D9%83%D9%84%D8%AA%D8%A7-%D8%A7%D9%84%D8%B9%D9%8A%D9%86%D9%8A%D9%86-%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D8%AA%D9%88%D8%B6%D8%AD-%D8%B4%D8%B1%D8%B7-%D8%A7%D8%B3%D8%AA%D8%AD%D9%82%D8%A7%D9%82-%D9%85%D9%86%D9%81%D8%B9%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://shabiba.com/article/211075-602-%D9%81%D8%A3%D9%82%D9%84-%D9%81%D9%8A-%D9%83%D9%84%D8%AA%D8%A7-%D8%A7%D9%84%D8%B9%D9%8A%D9%86%D9%8A%D9%86-%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D8%AA%D9%88%D8%B6%D8%AD-%D8%B4%D8%B1%D8%B7-%D8%A7%D8%B3%D8%AA%D8%AD%D9%82%D8%A7%D9%82-%D9%85%D9%86%D9%81%D8%B9%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-e6a47c07",
+    "status": "published",
+    "translationOf": "social-security-clarifies-visual-disability-benefit-eligibility-criteria-e6a47c07",
+    "publishedAt": "2026-09-21T15:06:23.000Z",
+    "fetchedAt": "2026-09-24T15:33:11.827Z",
+    "body": "社会保障局阐明，视觉残疾福利的资格条件要求双眼视力评分为60/2或更低，并概述了认定残疾的具体医疗标准。\n\n原文來源： [news.google.com](https://shabiba.com/article/211075-602-%D9%81%D8%A3%D9%82%D9%84-%D9%81%D9%8A-%D9%83%D9%84%D8%AA%D8%A7-%D8%A7%D9%84%D8%B9%D9%8A%D9%86%D9%8A%D9%86-%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D8%AA%D9%88%D8%B6%D8%AD-%D8%B4%D8%B1%D8%B7-%D8%A7%D8%B3%D8%AA%D8%AD%D9%82%D8%A7%D9%82-%D9%85%D9%86%D9%81%D8%B9%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9)"
+  },
+  {
+    "title": "阿曼啟動實地普查，盤點對殘障人士友好的建築與設施",
+    "slug": "oman-launches-fieldwork-to-catalog-buildings-and-facilities-accessible-to-people-zh-eae29b79",
+    "lang": "zh-TW",
+    "summary": "阿曼馬斯喀特的一支團隊已開始實地作業，盤點具備殘障人士無障礙設施的建築和公共場所，以評估目前無障礙基礎設施的合規程度與可用性。",
+    "category": "physical-design",
+    "tags": [
+      "Oman",
+      "accessibility-audit",
+      "infrastructure",
+      "Muscat"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://shabiba.com/article/211278-%D9%81%D8%B1%D9%8A%D9%82-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%81%D9%82-%D8%A7%D9%84%D9%85%D9%87%D9%8A%D8%A3%D8%A9-%D9%84%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%8A%D8%A8%D8%AF%D8%A3-%D8%A3%D8%B9%D9%85%D8%A7%D9%84%D9%87-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%B3%D9%82%D8%B7",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://shabiba.com/article/211278-%D9%81%D8%B1%D9%8A%D9%82-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%81%D9%82-%D8%A7%D9%84%D9%85%D9%87%D9%8A%D8%A3%D8%A9-%D9%84%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%8A%D8%A8%D8%AF%D8%A3-%D8%A3%D8%B9%D9%85%D8%A7%D9%84%D9%87-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%B3%D9%82%D8%B7"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-eae29b79",
+    "status": "published",
+    "translationOf": "oman-launches-fieldwork-to-catalog-buildings-and-facilities-accessible-to-people-eae29b79",
+    "publishedAt": "2026-09-24T09:33:45.000Z",
+    "fetchedAt": "2026-09-24T15:33:24.789Z",
+    "body": "阿曼馬斯喀特的一支團隊已開始實地作業，盤點具備殘障人士無障礙設施的建築和公共場所，以評估目前無障礙基礎設施的合規程度與可用性。\n\n原文來源： [news.google.com](https://shabiba.com/article/211278-%D9%81%D8%B1%D9%8A%D9%82-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%81%D9%82-%D8%A7%D9%84%D9%85%D9%87%D9%8A%D8%A3%D8%A9-%D9%84%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%8A%D8%A8%D8%AF%D8%A3-%D8%A3%D8%B9%D9%85%D8%A7%D9%84%D9%87-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%B3%D9%82%D8%B7)"
+  },
+  {
+    "title": "巴格達殘障授權機構開始分發健康保險卡",
+    "slug": "disability-authority-in-basra-begins-distributing-health-insurance-cards-zh-197621d9",
+    "lang": "zh-TW",
+    "summary": "伊拉克巴士拉殘障授權機構已開始向殘障人士分發健康保險卡，作為改善該群體醫療服務准入的舉措之一。",
+    "category": "laws-rights",
+    "tags": [
+      "healthcare",
+      "insurance",
+      "basra",
+      "iraq"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.al-mirbad.com/detail/215974",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.al-mirbad.com/detail/215974"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-197621d9",
+    "status": "published",
+    "translationOf": "disability-authority-in-basra-begins-distributing-health-insurance-cards-197621d9",
+    "publishedAt": "2026-09-24T13:33:26.000Z",
+    "fetchedAt": "2026-09-24T15:33:33.410Z",
+    "body": "伊拉克巴士拉殘障授權機構已開始向殘障人士分發健康保險卡，作為改善該群體醫療服務准入的舉措之一。\n\n原文來源： [news.google.com](https://www.al-mirbad.com/detail/215974)"
+  },
+  {
+    "title": "殘疾人融合新路線圖：國家提案細節",
+    "slug": "new-roadmap-for-integrating-persons-with-disabilities-national-proposal-details-zh-e892d487",
+    "lang": "zh-TW",
+    "summary": "提出了新的路線圖，以增強殘疾人的融合，詳細說明了旨在改善无障碍和支持體系的國家措施。",
+    "category": "laws-rights",
+    "tags": [
+      "disability-integration",
+      "policy",
+      "roadmap"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://twaslnews1.twaslnews.com/5246856",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://twaslnews1.twaslnews.com/5246856"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-e892d487",
+    "status": "published",
+    "translationOf": "new-roadmap-for-integrating-persons-with-disabilities-national-proposal-details-e892d487",
+    "publishedAt": "2026-09-24T09:54:26.000Z",
+    "fetchedAt": "2026-09-24T15:33:45.087Z",
+    "body": "提出了新的路線圖，以增強殘疾人的融合，詳細說明了旨在改善无障碍和支持體系的國家措施。\n\n原文來源： [news.google.com](https://twaslnews1.twaslnews.com/5246856)"
+  },
+  {
+    "title": "巴士拉殘疾人當局宣布殘疾人健康保險卡抵達",
+    "slug": "basra-authority-announces-arrival-of-health-insurance-cards-for-persons-with-dis-zh-a41042f8",
+    "lang": "zh-TW",
+    "summary": "巴士拉殘疾人當局透過Al-Mirbad宣布，殘疾人的健康保險卡已抵達該省，並將於近期發放。",
+    "category": "laws-rights",
+    "tags": [
+      "health-insurance",
+      "basra",
+      "benefits"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.al-mirbad.com/detail/215926",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.al-mirbad.com/detail/215926"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-a41042f8",
+    "status": "published",
+    "translationOf": "basra-authority-announces-arrival-of-health-insurance-cards-for-persons-with-dis-a41042f8",
+    "publishedAt": "2026-09-23T22:44:34.000Z",
+    "fetchedAt": "2026-09-24T15:33:45.182Z",
+    "body": "巴士拉殘疾人當局透過Al-Mirbad宣布，殘疾人的健康保險卡已抵達該省，並將於近期發放。\n\n原文來源： [news.google.com](https://www.al-mirbad.com/detail/215926)"
+  },
+  {
+    "title": "社會團結部長下令迅速調查亞歷山大殘障人士申訴",
+    "slug": "minister-of-social-solidarity-orders-rapid-investigation-into-disability-grievan-zh-7095baad",
+    "lang": "zh-TW",
+    "summary": "社會團結部長指示當局緊急審查亞歷山大一名身心障礙人士提出的投訴，處理其關於服務或權益方面報告的疑慮。",
+    "category": "laws-rights",
+    "tags": [
+      "government",
+      "disability rights",
+      "complaints",
+      "Alexandria"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://daralmaref.com/News/2591407.aspx",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://daralmaref.com/News/2591407.aspx"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-7095baad",
+    "status": "published",
+    "translationOf": "minister-of-social-solidarity-orders-rapid-investigation-into-disability-grievan-7095baad",
+    "publishedAt": "2026-09-24T15:15:37.000Z",
+    "fetchedAt": "2026-09-24T15:33:52.029Z",
+    "body": "社會團結部長指示當局緊急審查亞歷山大一名身心障礙人士提出的投訴，處理其關於服務或權益方面報告的疑慮。\n\n原文來源： [news.google.com](https://daralmaref.com/News/2591407.aspx)"
   }
 ]
