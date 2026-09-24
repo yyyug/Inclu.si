@@ -8876,5 +8876,100 @@
         }
       ]
     }
+  },
+  "2026-09-24": {
+    "generatedAt": "2026-09-24T14:10:22.803Z",
+    "en": {
+      "title": "AudioEye Study and Federal Policy Moves Shape Accessibility Landscape",
+      "summary": "AudioEye's new study reveals a significant drop in AI task completion on inaccessible sites, highlighting the critical link between web standards and automated systems. Simultaneously, the NSW inquiry into supported decision-making and the GAO's report on federal accessibility complaints underscore growing policy scrutiny and rights-based protections for people with disabilities.",
+      "highlights": [
+        {
+          "title": "AudioEye Study Finds up to 68% Drop in AI Agent Task Completion on Inaccessible Websites",
+          "slug": "audioeye-study-finds-up-to-68-drop-in-ai-agent-task-completion-on-inaccessible-w-85aaea81",
+          "url": "https://www.prnewswire.com/news-releases/audioeye-study-finds-up-to-68-drop-in-ai-agent-task-completion-on-inaccessible-websites-302888585.html"
+        },
+        {
+          "title": "Supported decision-making for adults with disabilities and older people",
+          "slug": "supported-decision-making-for-adults-with-disabilities-and-older-people-6910a3f2",
+          "url": "https://disabilityinsider.com/2026/09/24/misc/supported-decision-making-for-adults-with-disabilities-and-older-people"
+        },
+        {
+          "title": "GAO Report on Federal Office Accessibility Complaints",
+          "slug": "gao-report-on-federal-office-accessibility-complaints-b28529cc",
+          "url": "https://x.com/DanHolbrook/status/2102859297004650647"
+        },
+        {
+          "title": "Aurora City Council Town Hall on ADA and Accessibility",
+          "slug": "aurora-city-council-town-hall-on-ada-and-accessibility-75b17c7b",
+          "url": "https://x.com/AuroraGov/status/2102858040441712783"
+        },
+        {
+          "title": "Edlio Launches PDF Accessibility Tool for School Websites",
+          "slug": "edlio-launches-pdf-accessibility-tool-for-school-websites-a277a767",
+          "url": "https://www.einnews.com/pr_news/944752035/edlio-launches-pdf-accessibility-tool-for-school-websites"
+        },
+        {
+          "title": "WSU invests in new enterprise tools, resources to support digital accessibility",
+          "slug": "wsu-invests-in-new-enterprise-tools-resources-to-support-digital-accessibility-ff78ecac",
+          "url": "https://news.wsu.edu/news/2026/09/24/wsu-invests-in-new-enterprise-tools-resources-to-support-digital-accessibility"
+        },
+        {
+          "title": "Demo of Using Remote Incident Manager RIM from iPhone with Bluetooth Keyboard to BrailleNote Evolve",
+          "slug": "demo-of-using-remote-incident-manager-rim-from-iphone-with-bluetooth-keyboard-to-216edcaf",
+          "url": "https://davidwoodbr.podbean.com/e/demo-of-using-remote-incident-manager-rim-from-your-iphone-with-a-bt-keyboard-to-your-braillenote-evolve"
+        },
+        {
+          "title": "Ohio state parks aim to bring more people into nature with accessibility features",
+          "slug": "ohio-state-parks-aim-to-bring-more-people-into-nature-with-accessibility-feature-c778ed1a",
+          "url": "https://www.ideastream.org/arts-culture/2026-09-24/ohio-state-parks-aim-to-bring-more-people-into-nature-with-accessibility-features"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "AudioEye研究與聯邦政策進展塑造無障礙環境",
+      "summary": "AudioEye新研究顯示無障礙網站導致AI任務完成率顯著下降，凸顯網頁標準與自動系統之間的關鍵聯繫。與此同時，新南威爾斯州支持決策調查及政府問責署關於聯邦無障礙申訴的報告，顯示政策審查與殘障者權利保護持續加強。",
+      "highlights": [
+        {
+          "title": "AudioEye 研究顯示無障礙網站導致 AI 代理任務完成率下降多達 68%",
+          "slug": "audioeye-study-finds-up-to-68-drop-in-ai-agent-task-completion-on-inaccessible-w-zh-85aaea81",
+          "url": "https://www.prnewswire.com/news-releases/audioeye-study-finds-up-to-68-drop-in-ai-agent-task-completion-on-inaccessible-websites-302888585.html"
+        },
+        {
+          "title": "殘障人士和老年人的支持決策",
+          "slug": "supported-decision-making-for-adults-with-disabilities-and-older-people-zh-6910a3f2",
+          "url": "https://disabilityinsider.com/2026/09/24/misc/supported-decision-making-for-adults-with-disabilities-and-older-people"
+        },
+        {
+          "title": "美國政府問責署關於聯邦辦公室無障礙申訴的報告",
+          "slug": "gao-report-on-federal-office-accessibility-complaints-zh-b28529cc",
+          "url": "https://x.com/DanHolbrook/status/2102859297004650647"
+        },
+        {
+          "title": "奧羅拉市議會關於美國殘疾人法案與無障礙的市政廳會議",
+          "slug": "aurora-city-council-town-hall-on-ada-and-accessibility-zh-75b17c7b",
+          "url": "https://x.com/AuroraGov/status/2102858040441712783"
+        },
+        {
+          "title": "Edlio 為學校網站推出 PDF 無障礙工具",
+          "slug": "edlio-launches-pdf-accessibility-tool-for-school-websites-zh-a277a767",
+          "url": "https://www.einnews.com/pr_news/944752035/edlio-launches-pdf-accessibility-tool-for-school-websites"
+        },
+        {
+          "title": "WSU 投資新企業工具與資源以支援數位無障礙",
+          "slug": "wsu-invests-in-new-enterprise-tools-resources-to-support-digital-accessibility-zh-ff78ecac",
+          "url": "https://news.wsu.edu/news/2026/09/24/wsu-invests-in-new-enterprise-tools-resources-to-support-digital-accessibility"
+        },
+        {
+          "title": "使用iPhone與藍牙鍵盤連接BrailleNote Evolve的Remote Incident Manager RIM示範",
+          "slug": "demo-of-using-remote-incident-manager-rim-from-iphone-with-bluetooth-keyboard-to-zh-216edcaf",
+          "url": "https://davidwoodbr.podbean.com/e/demo-of-using-remote-incident-manager-rim-from-your-iphone-with-a-bt-keyboard-to-your-braillenote-evolve"
+        },
+        {
+          "title": "俄亥俄州立公園旨在透過無障礙設施讓更多人親近自然",
+          "slug": "ohio-state-parks-aim-to-bring-more-people-into-nature-with-accessibility-feature-zh-c778ed1a",
+          "url": "https://www.ideastream.org/arts-culture/2026-09-24/ohio-state-parks-aim-to-bring-more-people-into-nature-with-accessibility-features"
+        }
+      ]
+    }
   }
 }
