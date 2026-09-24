@@ -65421,5 +65421,39 @@
     "publishedAt": "2026-09-23T11:31:20.000Z",
     "fetchedAt": "2026-09-24T13:36:42.926Z",
     "body": "SkynetA11y PDF 修復模組是一個 Drupal 外掛，提供 PDF 無障礙檢查與 AI 驅動的修復功能，直接在 Drupal 後端實現 WCAG 與 PDF/UA 合規。\n\n原文來源： [Drupal.org](https://www.drupal.org/project/skyneta11y_pdf_remediation)"
+  },
+  {
+    "title": "使用iPhone與藍牙鍵盤連接BrailleNote Evolve的Remote Incident Manager RIM示範",
+    "slug": "demo-of-using-remote-incident-manager-rim-from-iphone-with-bluetooth-keyboard-to-zh-216edcaf",
+    "lang": "zh-TW",
+    "summary": "此影片示範如何透過藍牙鍵盤將BrailleNote Evolve點字顯示器連接至iPhone，並使用Remote Incident Manager（RIM）應用程式，使視障使用者能夠遠端操作電腦。",
+    "category": "assistive-tech",
+    "tags": [
+      "braille",
+      "bluetooth",
+      "assistive technology",
+      "RIM",
+      "iPhone"
+    ],
+    "sourceName": "davidwoodbr.podbean.com",
+    "sourceUrl": "https://davidwoodbr.podbean.com/e/demo-of-using-remote-incident-manager-rim-from-your-iphone-with-a-bt-keyboard-to-your-braillenote-evolve",
+    "relatedSources": [
+      {
+        "name": "davidwoodbr.podbean.com",
+        "url": "https://davidwoodbr.podbean.com/e/demo-of-using-remote-incident-manager-rim-from-your-iphone-with-a-bt-keyboard-to-your-braillenote-evolve"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://davidwoodbr.podbean.com/rss",
+    "ingestProvider": "davidwoodbr.podbean.com",
+    "clusterId": "cluster-216edcaf",
+    "status": "published",
+    "translationOf": "demo-of-using-remote-incident-manager-rim-from-iphone-with-bluetooth-keyboard-to-216edcaf",
+    "publishedAt": "2026-09-24T03:29:51.000Z",
+    "fetchedAt": "2026-09-24T13:37:36.892Z",
+    "body": "此影片示範如何透過藍牙鍵盤將BrailleNote Evolve點字顯示器連接至iPhone，並使用Remote Incident Manager（RIM）應用程式，使視障使用者能夠遠端操作電腦。\n\n原文來源： [davidwoodbr.podbean.com](https://davidwoodbr.podbean.com/e/demo-of-using-remote-incident-manager-rim-from-your-iphone-with-a-bt-keyboard-to-your-braillenote-evolve)"
   }
 ]
