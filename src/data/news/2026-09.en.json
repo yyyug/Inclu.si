@@ -69233,5 +69233,330 @@
     "publishedAt": "2026-09-24T09:31:37.000Z",
     "fetchedAt": "2026-09-25T13:51:21.626Z",
     "body": "The cemetery reopened after €4 million of works that added 4,500 square metres of accessible ground, a second exit on Agion Asomaton Street, and a new visitor building with a café and shop.\n\nRead more from the original source: [Protothema.gr](https://en.protothema.gr/2026/09/24/athens-ancient-kerameikos-cemetery-reopens-to-visitors-after-major-overhaul)"
+  },
+  {
+    "title": "PDF Form Accessibility Applied | December 17 | 1 PM PT",
+    "slug": "pdf-form-accessibility-applied-december-17-1-pm-pt-d1f761b8",
+    "lang": "en",
+    "summary": "Learn to create and remediate accessible fillable PDF forms through hands‑on practice configuring form fields and ensuring compliance with accessibility standards.",
+    "category": "digital-a11y",
+    "tags": [
+      "PDF",
+      "forms",
+      "accessibility",
+      "training"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/pdf-form-accessibility-applied-december-17-1-pm-pt",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/pdf-form-accessibility-applied-december-17-1-pm-pt"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-d1f761b8",
+    "status": "published",
+    "translationOf": "pdf-form-accessibility-applied-december-17-1-pm-pt-zh-d1f761b8",
+    "publishedAt": "2026-09-25T12:22:14.000Z",
+    "fetchedAt": "2026-09-25T13:56:58.744Z",
+    "body": "Learn to create and remediate accessible fillable PDF forms through hands‑on practice configuring form fields and ensuring compliance with accessibility standards.\n\nRead more from the original source: [theaccessibilityguy.com](https://theaccessibilityguy.com/pdf-form-accessibility-applied-december-17-1-pm-pt)"
+  },
+  {
+    "title": "PDF Accessible Forms Fundamentals | December 8 | 9 AM PT",
+    "slug": "pdf-accessible-forms-fundamentals-december-8-9-am-pt-b95ffd3b",
+    "lang": "en",
+    "summary": "Fundamental principles for designing fillable PDF forms that are clear, understandable, and predictable for all users, especially those using assistive technology.",
+    "category": "digital-a11y",
+    "tags": [
+      "PDF",
+      "forms",
+      "fundamentals",
+      "assistive technology"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/pdf-accessible-forms-fundamentals-december-8-9-am-pt",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/pdf-accessible-forms-fundamentals-december-8-9-am-pt"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-b95ffd3b",
+    "status": "published",
+    "translationOf": "pdf-accessible-forms-fundamentals-december-8-9-am-pt-zh-b95ffd3b",
+    "publishedAt": "2026-09-25T12:08:51.000Z",
+    "fetchedAt": "2026-09-25T13:56:58.854Z",
+    "body": "Fundamental principles for designing fillable PDF forms that are clear, understandable, and predictable for all users, especially those using assistive technology.\n\nRead more from the original source: [theaccessibilityguy.com](https://theaccessibilityguy.com/pdf-accessible-forms-fundamentals-december-8-9-am-pt)"
+  },
+  {
+    "title": "PDF Accessibility Applied | December 3 | 1 PM PT",
+    "slug": "pdf-accessibility-applied-december-3-1-pm-pt-42e754e6",
+    "lang": "en",
+    "summary": "Develop the skills to evaluate PDFs with complex content and determine the most appropriate path to accessibility.",
+    "category": "digital-a11y",
+    "tags": [
+      "PDF accessibility",
+      "accessibility training",
+      "assistive technology"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/pdf-accessibility-applied-december-3-1-pm-pt",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/pdf-accessibility-applied-december-3-1-pm-pt"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-42e754e6",
+    "status": "published",
+    "translationOf": "pdf-accessibility-applied-december-3-1-pm-pt-zh-42e754e6",
+    "publishedAt": "2026-09-25T12:02:45.000Z",
+    "fetchedAt": "2026-09-25T13:57:18.475Z",
+    "body": "Develop the skills to evaluate PDFs with complex content and determine the most appropriate path to accessibility.\n\nRead more from the original source: [theaccessibilityguy.com](https://theaccessibilityguy.com/pdf-accessibility-applied-december-3-1-pm-pt)"
+  },
+  {
+    "title": "PDF Accessibility Fundamentals | December 1 | 9 AM PT",
+    "slug": "pdf-accessibility-fundamentals-december-1-9-am-pt-cd9b7def",
+    "lang": "en",
+    "summary": "Understand what’s happening beneath the surface of a PDF and why a document that looks accessible may still create barriers for people using assistive technology.",
+    "category": "digital-a11y",
+    "tags": [
+      "PDF fundamentals",
+      "accessibility barriers",
+      "assistive technology"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/pdf-accessibility-fundamentals-december-1-9-am-pt",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/pdf-accessibility-fundamentals-december-1-9-am-pt"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-cd9b7def",
+    "status": "published",
+    "translationOf": "pdf-accessibility-fundamentals-december-1-9-am-pt-zh-cd9b7def",
+    "publishedAt": "2026-09-25T11:47:59.000Z",
+    "fetchedAt": "2026-09-25T13:57:18.581Z",
+    "body": "Understand what’s happening beneath the surface of a PDF and why a document that looks accessible may still create barriers for people using assistive technology.\n\nRead more from the original source: [theaccessibilityguy.com](https://theaccessibilityguy.com/pdf-accessibility-fundamentals-december-1-9-am-pt)"
+  },
+  {
+    "title": "PDF Form Accessibility Applied | November 5 | 1 PM PT",
+    "slug": "pdf-form-accessibility-applied-november-5-1-pm-pt-a7efeb5c",
+    "lang": "en",
+    "summary": "Hands‑on session teaching how to create and remediate accessible fillable PDF forms, including configuring form fields and testing with assistive technology.",
+    "category": "digital-a11y",
+    "tags": [
+      "PDF",
+      "forms",
+      "accessibility",
+      "training"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/pdf-form-accessibility-applied-november-5-1-pm-pt",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/pdf-form-accessibility-applied-november-5-1-pm-pt"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-a7efeb5c",
+    "status": "published",
+    "translationOf": "pdf-form-accessibility-applied-november-5-1-pm-pt-zh-a7efeb5c",
+    "publishedAt": "2026-09-25T11:41:10.000Z",
+    "fetchedAt": "2026-09-25T13:57:31.520Z",
+    "body": "Hands‑on session teaching how to create and remediate accessible fillable PDF forms, including configuring form fields and testing with assistive technology.\n\nRead more from the original source: [theaccessibilityguy.com](https://theaccessibilityguy.com/pdf-form-accessibility-applied-november-5-1-pm-pt)"
+  },
+  {
+    "title": "PDF Accessible Form Fundamentals | November 3 | 9 AM PT",
+    "slug": "pdf-accessible-form-fundamentals-november-3-9-am-pt-9f3160b4",
+    "lang": "en",
+    "summary": "Introductory workshop covering the principles of clear, understandable, and predictable fillable PDF forms for all users, especially those using assistive technology.",
+    "category": "digital-a11y",
+    "tags": [
+      "PDF",
+      "forms",
+      "accessibility",
+      "fundamentals"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/pdf-accessible-form-fundamentals-november-3-9-am-pt",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/pdf-accessible-form-fundamentals-november-3-9-am-pt"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-9f3160b4",
+    "status": "published",
+    "translationOf": "pdf-accessible-form-fundamentals-november-3-9-am-pt-zh-9f3160b4",
+    "publishedAt": "2026-09-25T11:33:03.000Z",
+    "fetchedAt": "2026-09-25T13:57:31.608Z",
+    "body": "Introductory workshop covering the principles of clear, understandable, and predictable fillable PDF forms for all users, especially those using assistive technology.\n\nRead more from the original source: [theaccessibilityguy.com](https://theaccessibilityguy.com/pdf-accessible-form-fundamentals-november-3-9-am-pt)"
+  },
+  {
+    "title": "PDF Accessibility Applied | Oct 29 | 1 PM PT",
+    "slug": "pdf-accessibility-applied-oct-29-1-pm-pt-4ac5f4ac",
+    "lang": "en",
+    "summary": "Advanced session on evaluating PDFs with complex content and selecting the best remediation strategies for accessibility.",
+    "category": "digital-a11y",
+    "tags": [
+      "PDF",
+      "accessibility",
+      "advanced",
+      "evaluation"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/pdf-accessibility-applied-oct-29-1-pm-pt",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/pdf-accessibility-applied-oct-29-1-pm-pt"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-4ac5f4ac",
+    "status": "published",
+    "translationOf": "pdf-accessibility-applied-oct-29-1-pm-pt-zh-4ac5f4ac",
+    "publishedAt": "2026-09-25T07:06:01.000Z",
+    "fetchedAt": "2026-09-25T13:57:31.692Z",
+    "body": "Advanced session on evaluating PDFs with complex content and selecting the best remediation strategies for accessibility.\n\nRead more from the original source: [theaccessibilityguy.com](https://theaccessibilityguy.com/pdf-accessibility-applied-oct-29-1-pm-pt)"
+  },
+  {
+    "title": "PDF Accessibility Fundamentals",
+    "slug": "pdf-accessibility-fundamentals-e81f8695",
+    "lang": "en",
+    "summary": "Learn the basics of PDF accessibility, including how to identify hidden barriers that affect users of assistive technology and ensure documents are truly accessible.",
+    "category": "digital-a11y",
+    "tags": [
+      "PDF",
+      "accessibility fundamentals",
+      "assistive technology"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/pdf-accessibility-fundamentals-oct-27-9-am-pt",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/pdf-accessibility-fundamentals-oct-27-9-am-pt"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-e81f8695",
+    "status": "published",
+    "translationOf": "pdf-accessibility-fundamentals-zh-e81f8695",
+    "publishedAt": "2026-09-25T06:57:54.000Z",
+    "fetchedAt": "2026-09-25T13:57:46.714Z",
+    "body": "Learn the basics of PDF accessibility, including how to identify hidden barriers that affect users of assistive technology and ensure documents are truly accessible.\n\nRead more from the original source: [theaccessibilityguy.com](https://theaccessibilityguy.com/pdf-accessibility-fundamentals-oct-27-9-am-pt)"
+  },
+  {
+    "title": "Microsoft Word Accessibility Applied",
+    "slug": "microsoft-word-accessibility-applied-18f217be",
+    "lang": "en",
+    "summary": "Hands‑on training for creating accessible Microsoft Word documents, covering practical techniques and best practices for compliance.",
+    "category": "digital-a11y",
+    "tags": [
+      "Microsoft Word",
+      "document accessibility",
+      "hands-on"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/microsoft-word-applied-oct-22-1-pm-pt",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/microsoft-word-applied-oct-22-1-pm-pt"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-18f217be",
+    "status": "published",
+    "translationOf": "microsoft-word-accessibility-applied-zh-18f217be",
+    "publishedAt": "2026-09-25T06:49:25.000Z",
+    "fetchedAt": "2026-09-25T13:57:46.817Z",
+    "body": "Hands‑on training for creating accessible Microsoft Word documents, covering practical techniques and best practices for compliance.\n\nRead more from the original source: [theaccessibilityguy.com](https://theaccessibilityguy.com/microsoft-word-applied-oct-22-1-pm-pt)"
+  },
+  {
+    "title": "Accessibility No Matter the Platform",
+    "slug": "accessibility-no-matter-the-platform-a74d4a26",
+    "lang": "en",
+    "summary": "Foundational principles of digital accessibility that apply across tools, platforms, and content types, introducing essential requirements and practical strategies.",
+    "category": "digital-a11y",
+    "tags": [
+      "cross-platform",
+      "digital accessibility",
+      "foundations"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/accessibility-no-matter-the-platform-oct-20-9-am-pt",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/accessibility-no-matter-the-platform-oct-20-9-am-pt"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-a74d4a26",
+    "status": "published",
+    "translationOf": "accessibility-no-matter-the-platform-zh-a74d4a26",
+    "publishedAt": "2026-09-25T06:38:52.000Z",
+    "fetchedAt": "2026-09-25T13:57:46.889Z",
+    "body": "Foundational principles of digital accessibility that apply across tools, platforms, and content types, introducing essential requirements and practical strategies.\n\nRead more from the original source: [theaccessibilityguy.com](https://theaccessibilityguy.com/accessibility-no-matter-the-platform-oct-20-9-am-pt)"
   }
 ]
