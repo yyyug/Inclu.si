@@ -293,5 +293,39 @@
     "publishedAt": "2025-12-04T08:00:00.000Z",
     "fetchedAt": "2026-09-20T14:20:39.790Z",
     "body": "津公司發布了通用導則，旨在規範其建築和設施的改造，確保殘障人士的無障礙通行和使用。\n\n原文來源： [news.google.com](https://alawalnews.com/news/2025/12/04/263743-pimwkl)"
+  },
+  {
+    "title": "زين公司發布包容性无障碍指南，確保建築和設施服務殘疾人士",
+    "slug": "zain-company-launches-inclusive-accessibility-guide-for-facilities-serving-peopl-zh-e84bb977",
+    "lang": "zh-TW",
+    "summary": "「زين」公司發布了一份綜合指南，確保其建築和設施對殘疾人士完全無障礙並進行適配，促進包容性設計和無障礙標準。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "physical-design",
+      "corporate-responsibility",
+      "inclusion"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.sarahanews.net/1250406-%D8%B4%D8%B1%D9%83%D8%A9-%D8%B2%D9%8A%D9%86-%D8%AA%D8%B7%D9%84%D9%82-%D8%AF%D9%84%D9%8A%D9%84-%D8%A5%D9%85%D9%83%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D8%A7%D9%84%D8%B4%D8%A7",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.sarahanews.net/1250406-%D8%B4%D8%B1%D9%83%D8%A9-%D8%B2%D9%8A%D9%86-%D8%AA%D8%B7%D9%84%D9%82-%D8%AF%D9%84%D9%8A%D9%84-%D8%A5%D9%85%D9%83%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D8%A7%D9%84%D8%B4%D8%A7"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84+%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-e84bb977",
+    "status": "published",
+    "translationOf": "zain-company-launches-inclusive-accessibility-guide-for-facilities-serving-peopl-e84bb977",
+    "publishedAt": "2025-12-04T08:00:00.000Z",
+    "fetchedAt": "2026-09-25T21:49:47.968Z",
+    "body": "「زين」公司發布了一份綜合指南，確保其建築和設施對殘疾人士完全無障礙並進行適配，促進包容性設計和無障礙標準。\n\n原文來源： [news.google.com](https://www.sarahanews.net/1250406-%D8%B4%D8%B1%D9%83%D8%A9-%D8%B2%D9%8A%D9%86-%D8%AA%D8%B7%D9%84%D9%82-%D8%AF%D9%84%D9%8A%D9%84-%D8%A5%D9%85%D9%83%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D8%A7%D9%84%D8%B4%D8%A7)"
   }
 ]
