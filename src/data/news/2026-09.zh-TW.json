@@ -71807,5 +71807,71 @@
     "publishedAt": "2026-09-24T18:01:57.000Z",
     "fetchedAt": "2026-09-25T20:33:12.213Z",
     "body": "dsh-cua 0.3.0 版繼續保持無障礙優先設計的 Windows 電腦使用 MCP 伺服器，提供無障礙元素操作、螢幕擷取文字樹、受保護的原始輸入以及一個將控制權交給使用者的跨會話仲裁器。\n\n原文來源： [Pypi.org](https://pypi.org/project/dsh-cua/0.3.0)"
+  },
+  {
+    "title": "早期痴呆篩檢、包容性設計與就業：孟買零項目會議印度第二天",
+    "slug": "early-dementia-screening-inclusive-design-employment-mumbai-zero-project-confere-zh-c1144898",
+    "lang": "zh-TW",
+    "summary": "報導涵蓋使用消費者腦電圖耳機進行早期痴呆篩檢、探討完全包容世界的可行性，以及印度自身無障礙標準對殘疾工作者的意義，來自Zero Project會議印度站（孟買）第二天的內容。",
+    "category": "case-studies",
+    "tags": [
+      "dementia",
+      "inclusive design",
+      "employment",
+      "Zero Project"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/early-dementia-screening-inclusive-design-employment-mumbai-zero-project-conference-india-day-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/early-dementia-screening-inclusive-design-employment-mumbai-zero-project-conference-india-day-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-c1144898",
+    "status": "published",
+    "translationOf": "early-dementia-screening-inclusive-design-employment-mumbai-zero-project-confere-c1144898",
+    "publishedAt": "2026-09-25T16:14:15.000Z",
+    "fetchedAt": "2026-09-25T20:33:56.701Z",
+    "body": "報導涵蓋使用消費者腦電圖耳機進行早期痴呆篩檢、探討完全包容世界的可行性，以及印度自身無障礙標準對殘疾工作者的意義，來自Zero Project會議印度站（孟買）第二天的內容。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/early-dementia-screening-inclusive-design-employment-mumbai-zero-project-conference-india-day-2)"
+  },
+  {
+    "title": "蘋果 AirPods 5 表現優秀，但谷歌新筆電仍未解答無障礙問題",
+    "slug": "apples-airpods-5-impress-but-googles-new-laptops-leave-accessibility-unanswered-zh-1ee5325a",
+    "lang": "zh-TW",
+    "summary": "盲人用戶測試了 AirPods 5 的開放式降噪效果；同時，谷歌最新的 Android 筆電在無障礙功能上的說明仍然不足，顯示出輔助技術支援的缺口。",
+    "category": "assistive-tech",
+    "tags": [
+      "AirPods 5",
+      "blind users",
+      "Google laptops",
+      "accessibility"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/apples-airpods-5-impress-but-googles-new-laptops-leave-accessibility-unanswered",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/apples-airpods-5-impress-but-googles-new-laptops-leave-accessibility-unanswered"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-1ee5325a",
+    "status": "published",
+    "translationOf": "apples-airpods-5-impress-but-googles-new-laptops-leave-accessibility-unanswered-1ee5325a",
+    "publishedAt": "2026-09-22T16:00:00.000Z",
+    "fetchedAt": "2026-09-25T20:33:56.807Z",
+    "body": "盲人用戶測試了 AirPods 5 的開放式降噪效果；同時，谷歌最新的 Android 筆電在無障礙功能上的說明仍然不足，顯示出輔助技術支援的缺口。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/apples-airpods-5-impress-but-googles-new-laptops-leave-accessibility-unanswered)"
   }
 ]

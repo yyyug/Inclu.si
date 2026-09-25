@@ -71807,5 +71807,71 @@
     "publishedAt": "2026-09-24T18:01:57.000Z",
     "fetchedAt": "2026-09-25T20:33:12.213Z",
     "body": "Version 0.3.0 of the dsh-cua Windows computer-use MCP server is released, maintaining its accessibility-first approach with accessible element actions, skyshot text trees, guarded raw input, and a cross-session arbiter that yields to human control.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/dsh-cua/0.3.0)"
+  },
+  {
+    "title": "Early Dementia Screening, Inclusive Design & Employment Mumbai: Zero Project Conference India Day 2",
+    "slug": "early-dementia-screening-inclusive-design-employment-mumbai-zero-project-confere-c1144898",
+    "lang": "en",
+    "summary": "The report covers early dementia screening using consumer EEG headsets, discussions on inclusive design feasibility, and India's accessibility standards impact on disabled workers at the Zero Project Conference India in Mumbai.",
+    "category": "case-studies",
+    "tags": [
+      "dementia",
+      "inclusive design",
+      "employment",
+      "Zero Project"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/early-dementia-screening-inclusive-design-employment-mumbai-zero-project-conference-india-day-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/early-dementia-screening-inclusive-design-employment-mumbai-zero-project-conference-india-day-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-c1144898",
+    "status": "published",
+    "translationOf": "early-dementia-screening-inclusive-design-employment-mumbai-zero-project-confere-zh-c1144898",
+    "publishedAt": "2026-09-25T16:14:15.000Z",
+    "fetchedAt": "2026-09-25T20:33:56.701Z",
+    "body": "The report covers early dementia screening using consumer EEG headsets, discussions on inclusive design feasibility, and India's accessibility standards impact on disabled workers at the Zero Project Conference India in Mumbai.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/early-dementia-screening-inclusive-design-employment-mumbai-zero-project-conference-india-day-2)"
+  },
+  {
+    "title": "Apple's AirPods 5 Impress, But Google's New Laptops Leave Accessibility Unanswered",
+    "slug": "apples-airpods-5-impress-but-googles-new-laptops-leave-accessibility-unanswered-1ee5325a",
+    "lang": "en",
+    "summary": "Blind users test AirPods 5's open‑ear noise cancellation, while Google's new Android laptops still lack clear accessibility information, highlighting gaps in assistive technology support.",
+    "category": "assistive-tech",
+    "tags": [
+      "AirPods 5",
+      "blind users",
+      "Google laptops",
+      "accessibility"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/apples-airpods-5-impress-but-googles-new-laptops-leave-accessibility-unanswered",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/apples-airpods-5-impress-but-googles-new-laptops-leave-accessibility-unanswered"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-1ee5325a",
+    "status": "published",
+    "translationOf": "apples-airpods-5-impress-but-googles-new-laptops-leave-accessibility-unanswered-zh-1ee5325a",
+    "publishedAt": "2026-09-22T16:00:00.000Z",
+    "fetchedAt": "2026-09-25T20:33:56.807Z",
+    "body": "Blind users test AirPods 5's open‑ear noise cancellation, while Google's new Android laptops still lack clear accessibility information, highlighting gaps in assistive technology support.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/apples-airpods-5-impress-but-googles-new-laptops-leave-accessibility-unanswered)"
   }
 ]
