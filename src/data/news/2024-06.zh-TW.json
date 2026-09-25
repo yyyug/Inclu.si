@@ -31,5 +31,39 @@
     "publishedAt": "2024-06-15T07:00:00.000Z",
     "fetchedAt": "2026-09-23T21:47:13.284Z",
     "body": "概述中國旨在幫助長者應對日常困難（包括行動和認知挑戰）的輔助技術和數位創新。\n\n原文來源： [news.google.com](https://www.aljazeera.net/tech/2024/6/15/%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%AA%D8%B3%D8%A7%D8%B9%D8%AF-%D9%85%D8%B3%D9%86%D9%8A-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%B9%D9%84%D9%89)"
+  },
+  {
+    "title": "司法部長會見團隊以強化全民司法服務可及性",
+    "slug": "minister-of-justice-meets-with-team-to-strengthen-access-to-justice-for-all-zh-34668b82",
+    "lang": "zh-TW",
+    "summary": "司法部長與專案團隊會面，致力於強化全面司法服務的可及性，確保法律體系對殘障人士及其他邊緣化群體具有包容性。",
+    "category": "laws-rights",
+    "tags": [
+      "access-to-justice",
+      "legal-system",
+      "inclusion",
+      "minister-of-justice"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "http://sabanew.net/story/ar/112301",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "http://sabanew.net/story/ar/112301"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84+%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-34668b82",
+    "status": "published",
+    "translationOf": "minister-of-justice-meets-with-team-to-strengthen-access-to-justice-for-all-34668b82",
+    "publishedAt": "2024-06-05T07:00:00.000Z",
+    "fetchedAt": "2026-09-25T15:39:02.875Z",
+    "body": "司法部長與專案團隊會面，致力於強化全面司法服務的可及性，確保法律體系對殘障人士及其他邊緣化群體具有包容性。\n\n原文來源： [news.google.com](http://sabanew.net/story/ar/112301)"
   }
 ]
