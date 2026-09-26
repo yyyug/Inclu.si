@@ -9086,5 +9086,100 @@
         }
       ]
     }
+  },
+  "2026-09-26": {
+    "generatedAt": "2026-09-26T13:43:21.139Z",
+    "en": {
+      "title": "Milburn Recommends Fast-Track Benefits for Severely Disabled Youth",
+      "summary": "Alan Milburn's report urges guaranteed benefits for young people with severe lifelong disabilities to reduce bureaucracy. This policy push coincides with concerns over automated accessibility testing in the U.S. Web Design System. Meanwhile, Beijing upgrades tactile paving and audible signals to improve safe navigation for visually impaired residents.",
+      "highlights": [
+        {
+          "title": "Severely Disabled Young People Should Get Fast-Track Access to Benefits, Milburn Says",
+          "slug": "severely-disabled-young-people-should-get-fast-track-access-to-benefits-milburn--e261be12",
+          "url": "https://www.theguardian.com/society/2026/sep/26/severely-disabled-young-people-fast-track-benefits-milburn"
+        },
+        {
+          "title": "A Trump team wants to automate U.S. Web Design System accessibility testing. Experts are worried.",
+          "slug": "a-trump-team-wants-to-automate-us-web-design-system-accessibility-testing-expert-d4be896d",
+          "url": "https://fedscoop.com/trump-team-automate-uswds-accessibility-testing-ai"
+        },
+        {
+          "title": "Beijing upgrades accessibility facilities for visually impaired residents",
+          "slug": "beijing-upgrades-accessibility-facilities-for-visually-impaired-residents-6e5e8fc2",
+          "url": "https://www.bastillepost.com/hongkong/article/16852819-%E5%8C%97%E4%BA%AC%E6%94%B9%E5%96%84%E8%A6%96%E9%9A%9C%E4%BA%BA%E5%A3%AB%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A8%AD%E6%96%BD"
+        },
+        {
+          "title": "Man paralyzed from the neck down is rolling 351 miles along the Erie Canal to prove accessibility matters",
+          "slug": "man-paralyzed-from-the-neck-down-is-rolling-351-miles-along-the-erie-canal-to-pr-7ad15f4a",
+          "url": "https://www.whec.com/top-news/man-paralyzed-from-the-neck-down-is-rolling-351-miles-along-the-erie-canal-to-prove-accessibility-matters"
+        },
+        {
+          "title": "Just Hoops 2.0 Update Emphasizes Hand Tracking & Accessibility - UploadVR",
+          "slug": "just-hoops-20-update-emphasizes-hand-tracking-accessibility-uploadvr-7cd3fd5e",
+          "url": "https://www.uploadvr.com/just-hoops-update-emphasizes-hand-tracking-more-accessibility-options"
+        },
+        {
+          "title": "1,916 Vehicles Fined for Parking in Disabled Spots",
+          "slug": "1916-vehicles-fined-for-parking-in-disabled-spots-5020951f",
+          "url": "https://saudiauto.com.sa/%D8%B6%D8%A8%D8%B7-1916-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A9-%D8%A8%D9%85%D9%88%D8%A7%D9%82%D9%81-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8"
+        },
+        {
+          "title": "AI Smart Glasses for Visual Assistance",
+          "slug": "ai-smart-glasses-for-visual-assistance-8ddaf274",
+          "url": "https://x.com/UpHonestReal/status/2103837032892035294"
+        },
+        {
+          "title": "Challenges of Powerchair Use in Housing",
+          "slug": "challenges-of-powerchair-use-in-housing-f5d91279",
+          "url": "https://x.com/RFHunt1/status/2103835537928753445"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "Milburn 建議嚴重殘障青年應獲快速福利津貼",
+      "summary": "Alan Milburn 報告建議為具有嚴重終身殘障的青年提供保證福利，以簡化行政程序。同時，美國網頁設計系統的無障礙測試自動化引發專家憂慮。北京亦升級盲道與聲音提示，提升視障人士的出行安全。",
+      "highlights": [
+        {
+          "title": "嚴重殘障青年應獲快速通過福利津貼，Milburn 說",
+          "slug": "severely-disabled-young-people-should-get-fast-track-access-to-benefits-milburn--zh-e261be12",
+          "url": "https://www.theguardian.com/society/2026/sep/26/severely-disabled-young-people-fast-track-benefits-milburn"
+        },
+        {
+          "title": "特朗普團隊欲自動化美國網頁設計系統無障礙測試，專家憂慮",
+          "slug": "a-trump-team-wants-to-automate-us-web-design-system-accessibility-testing-expert-zh-d4be896d",
+          "url": "https://fedscoop.com/trump-team-automate-uswds-accessibility-testing-ai"
+        },
+        {
+          "title": "北京改善視障人士無障礙設施",
+          "slug": "beijing-upgrades-accessibility-facilities-for-visually-impaired-residents-zh-6e5e8fc2",
+          "url": "https://www.bastillepost.com/hongkong/article/16852819-%E5%8C%97%E4%BA%AC%E6%94%B9%E5%96%84%E8%A6%96%E9%9A%9C%E4%BA%BA%E5%A3%AB%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A8%AD%E6%96%BD"
+        },
+        {
+          "title": "頸部以下癱瘓男子沿伊利運河滾行351英里，以證明無障礙的重要性",
+          "slug": "man-paralyzed-from-the-neck-down-is-rolling-351-miles-along-the-erie-canal-to-pr-zh-7ad15f4a",
+          "url": "https://www.whec.com/top-news/man-paralyzed-from-the-neck-down-is-rolling-351-miles-along-the-erie-canal-to-prove-accessibility-matters"
+        },
+        {
+          "title": "和平紀念公園的觸覺體驗",
+          "slug": "tactile-experience-at-peace-memorial-park-zh-73602da1",
+          "url": "https://x.com/seinenkyou/status/2103743807179374933"
+        },
+        {
+          "title": "1916輛汽車因佔用無障礙車位被罰",
+          "slug": "1916-vehicles-fined-for-parking-in-disabled-spots-zh-5020951f",
+          "url": "https://saudiauto.com.sa/%D8%B6%D8%A8%D8%B7-1916-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A9-%D8%A8%D9%85%D9%88%D8%A7%D9%82%D9%81-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8"
+        },
+        {
+          "title": "人工智慧智慧眼鏡視覺輔助",
+          "slug": "ai-smart-glasses-for-visual-assistance-zh-8ddaf274",
+          "url": "https://x.com/UpHonestReal/status/2103837032892035294"
+        },
+        {
+          "title": "住宅中使用電動輪椅的挑戰",
+          "slug": "challenges-of-powerchair-use-in-housing-zh-f5d91279",
+          "url": "https://x.com/RFHunt1/status/2103835537928753445"
+        }
+      ]
+    }
   }
 }
