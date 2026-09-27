@@ -9201,5 +9201,130 @@
         }
       ]
     }
+  },
+  "2026-09-27": {
+    "generatedAt": "2026-09-27T14:40:04.890Z",
+    "en": {
+      "title": "SBA Guidelines and Insomniac Updates Mark Disability Accessibility Progress",
+      "summary": "The Student Bar Association established new accessibility guidelines for law student organizations, while Insomniac Games released improved accessibility options for its titles. These developments highlight institutional progress and consumer-facing product updates in the disability accessibility landscape.",
+      "highlights": [
+        {
+          "title": "SBA establishes accessibility guidelines for law student organizations",
+          "slug": "sba-establishes-accessibility-guidelines-for-law-student-organizations-b9d20dec",
+          "url": "https://gwhatchet.com/2026/09/26/sba-establishes-accessibility-guidelines-for-law-student-organizations"
+        },
+        {
+          "title": "Insomniac Games Accessibility Updates",
+          "slug": "insomniac-games-accessibility-updates-1f6a0bb2",
+          "url": "https://x.com/ZeoTGT/status/2103936312772297013"
+        },
+        {
+          "title": "Wheelchair users hit by shortage of accessible taxis - Yahoo",
+          "slug": "wheelchair-users-hit-by-shortage-of-accessible-taxis-yahoo-99b1a211",
+          "url": "https://www.yahoo.com/news/us/articles/wheelchair-users-hit-shortage-accessible-080907548.html"
+        },
+        {
+          "title": "Zoo Boise adds new accessibility system - KTVB",
+          "slug": "zoo-boise-adds-new-accessibility-system-ktvb-9319055c",
+          "url": "https://www.ktvb.com/article/news/community/zoo-boise-new-accessibility-system/277-4eacd362-80dd-4420-9f3f-514b2a907654"
+        },
+        {
+          "title": "Guiding with Sound: Hong Kong Enhances Barrier-Free Environment",
+          "slug": "guiding-with-sound-hong-kong-enhances-barrier-free-environment-6386e191",
+          "url": "http://hkcna.hk/docDetail.jsp?id=101433439&channel=2803"
+        },
+        {
+          "title": "Seattle Monorail Station Accessibility Upgrades",
+          "slug": "seattle-monorail-station-accessibility-upgrades-60ad560f",
+          "url": "https://x.com/KIRO7Seattle/status/2103936156450640077"
+        },
+        {
+          "title": "Nepali Text-to-Speech AI Model Released",
+          "slug": "nepali-text-to-speech-ai-model-released-a3500696",
+          "url": "https://x.com/HuggingModels/status/2104212720220553597"
+        },
+        {
+          "title": "Bonumark Stream v0.8.2 Release",
+          "slug": "bonumark-stream-v082-release-64fbc485",
+          "url": "https://x.com/jimlunsford/status/2103936025110192329"
+        },
+        {
+          "title": "Building Inclusive Mobile Experiences",
+          "slug": "building-inclusive-mobile-experiences-56c3a3d3",
+          "url": "https://x.com/Apress/status/2103937712789004564"
+        },
+        {
+          "title": "Challenges in Disability Welfare Service Provision",
+          "slug": "challenges-in-disability-welfare-service-provision-7e1e4ef2",
+          "url": "https://x.com/hiroichihome/status/2104212449012724084"
+        },
+        {
+          "title": "Free Admission for Disability Certificate Holders at Marie Antoinette Exhibition",
+          "slug": "free-admission-for-disability-certificate-holders-at-marie-antoinette-exhibition-3fe95365",
+          "url": "https://x.com/usa_fly_agaric/status/2104213492932726866"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "SBA 無障礙指引與 Insomniac 更新推動殘障無障礙進步",
+      "summary": "學生律師協會（SBA）為法學生組織發布了新的無障礙指引，同時 Insomniac Games 為其遊戲推出了改進後的無障礙選項。這些發展凸显了機構進度與消費端產品更新在殘障無障礙領域的意義。",
+      "highlights": [
+        {
+          "title": "SBA 為法學生組織制定無障礙指引",
+          "slug": "sba-establishes-accessibility-guidelines-for-law-student-organizations-zh-b9d20dec",
+          "url": "https://gwhatchet.com/2026/09/26/sba-establishes-accessibility-guidelines-for-law-student-organizations"
+        },
+        {
+          "title": "Insomniac Games 無障礙更新",
+          "slug": "insomniac-games-accessibility-updates-zh-1f6a0bb2",
+          "url": "https://x.com/ZeoTGT/status/2103936312772297013"
+        },
+        {
+          "title": "輪椅使用者因缺乏無障礙計程車而遇到困難 - Yahoo",
+          "slug": "wheelchair-users-hit-by-shortage-of-accessible-taxis-yahoo-zh-99b1a211",
+          "url": "https://www.yahoo.com/news/us/articles/wheelchair-users-hit-shortage-accessible-080907548.html"
+        },
+        {
+          "title": "動物園博伊斯新增無障礙系統 - KTVB",
+          "slug": "zoo-boise-adds-new-accessibility-system-ktvb-zh-9319055c",
+          "url": "https://www.ktvb.com/article/news/community/zoo-boise-new-accessibility-system/277-4eacd362-80dd-4420-9f3f-514b2a907654"
+        },
+        {
+          "title": "以聲引路 香港完善無障礙環境",
+          "slug": "guiding-with-sound-hong-kong-enhances-barrier-free-environment-zh-6386e191",
+          "url": "http://hkcna.hk/docDetail.jsp?id=101433439&channel=2803"
+        },
+        {
+          "title": "西雅圖單軌車站無障礙設施升級",
+          "slug": "seattle-monorail-station-accessibility-upgrades-zh-60ad560f",
+          "url": "https://x.com/KIRO7Seattle/status/2103936156450640077"
+        },
+        {
+          "title": "尼泊爾語文字轉語音 AI 模型發布",
+          "slug": "nepali-text-to-speech-ai-model-released-zh-a3500696",
+          "url": "https://x.com/HuggingModels/status/2104212720220553597"
+        },
+        {
+          "title": "Bonumark Stream v0.8.2 版本發布",
+          "slug": "bonumark-stream-v082-release-zh-64fbc485",
+          "url": "https://x.com/jimlunsford/status/2103936025110192329"
+        },
+        {
+          "title": "建構包容性的行動體驗",
+          "slug": "building-inclusive-mobile-experiences-zh-56c3a3d3",
+          "url": "https://x.com/Apress/status/2103937712789004564"
+        },
+        {
+          "title": "殘障福利服務提供的挑戰",
+          "slug": "challenges-in-disability-welfare-service-provision-zh-7e1e4ef2",
+          "url": "https://x.com/hiroichihome/status/2104212449012724084"
+        },
+        {
+          "title": "殘障證持有人免費參觀瑪麗·安托瓦內特展覽",
+          "slug": "free-admission-for-disability-certificate-holders-at-marie-antoinette-exhibition-zh-3fe95365",
+          "url": "https://x.com/usa_fly_agaric/status/2104213492932726866"
+        }
+      ]
+    }
   }
 }
