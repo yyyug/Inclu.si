@@ -78525,5 +78525,40 @@
     "publishedAt": "2026-09-26T17:17:46.000Z",
     "fetchedAt": "2026-09-27T20:10:30.985Z",
     "body": "有人申請授予羅馬尼語翻譯的 WP Accessibility 外掛 PTE 狀態，該外掛旨在提升網站無障礙性。\n\n原文來源： [Wordpress.org](https://make.wordpress.org/polyglots/2026/09/26/wp-accessibility)"
+  },
+  {
+    "title": "OOrion 在 Meta 眼鏡：免手操作物體尋找及 Meta Connect 對盲人使用者的意義",
+    "slug": "oorion-on-meta-glasses-hands-free-object-finding-and-what-meta-connect-means-for-zh-d988e4dd",
+    "lang": "zh-TW",
+    "summary": "Meta 的 Wearables Device Access Toolkit 已離開測試階段，Meta 以此展示無障礙應用。OOrion 聯合創辦人兼 CEO Stéphanie Robieux 說明該工具包如何為使用 Ray‑Ban Meta 眼鏡的盲人及低視力使用者提供免手操作的物體尋找功能。",
+    "category": "assistive-tech",
+    "tags": [
+      "Meta Glasses",
+      "assistive technology",
+      "blind",
+      "low vision",
+      "object finding",
+      "wearable accessibility"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/oorion-on-meta-glasses-hands-free-object-finding-and-what-meta-connect-means-for-blind-users-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/oorion-on-meta-glasses-hands-free-object-finding-and-what-meta-connect-means-for-blind-users-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-d988e4dd",
+    "status": "published",
+    "translationOf": "oorion-on-meta-glasses-hands-free-object-finding-and-what-meta-connect-means-for-d988e4dd",
+    "publishedAt": "2026-09-27T16:00:10.000Z",
+    "fetchedAt": "2026-09-27T20:13:47.522Z",
+    "body": "Meta 的 Wearables Device Access Toolkit 已離開測試階段，Meta 以此展示無障礙應用。OOrion 聯合創辦人兼 CEO Stéphanie Robieux 說明該工具包如何為使用 Ray‑Ban Meta 眼鏡的盲人及低視力使用者提供免手操作的物體尋找功能。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/oorion-on-meta-glasses-hands-free-object-finding-and-what-meta-connect-means-for-blind-users-2)"
   }
 ]

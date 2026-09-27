@@ -78525,5 +78525,40 @@
     "publishedAt": "2026-09-26T17:17:46.000Z",
     "fetchedAt": "2026-09-27T20:10:30.985Z",
     "body": "A request has been made to grant PTE status for Romanian translation of the WP Accessibility plugin, which helps improve website accessibility.\n\nRead more from the original source: [Wordpress.org](https://make.wordpress.org/polyglots/2026/09/26/wp-accessibility)"
+  },
+  {
+    "title": "OOrion on Meta Glasses: Hands-Free Object Finding and What Meta Connect Means for Blind Users",
+    "slug": "oorion-on-meta-glasses-hands-free-object-finding-and-what-meta-connect-means-for-d988e4dd",
+    "lang": "en",
+    "summary": "Meta's Wearables Device Access Toolkit has left beta and Meta showcased accessibility apps with it. Stéphanie Robieux, co‑founder and CEO of OOrion, explains how the toolkit enables hands‑free object finding for blind and low‑vision users of Ray‑Ban Meta glasses.",
+    "category": "assistive-tech",
+    "tags": [
+      "Meta Glasses",
+      "assistive technology",
+      "blind",
+      "low vision",
+      "object finding",
+      "wearable accessibility"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/oorion-on-meta-glasses-hands-free-object-finding-and-what-meta-connect-means-for-blind-users-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/oorion-on-meta-glasses-hands-free-object-finding-and-what-meta-connect-means-for-blind-users-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-d988e4dd",
+    "status": "published",
+    "translationOf": "oorion-on-meta-glasses-hands-free-object-finding-and-what-meta-connect-means-for-zh-d988e4dd",
+    "publishedAt": "2026-09-27T16:00:10.000Z",
+    "fetchedAt": "2026-09-27T20:13:47.522Z",
+    "body": "Meta's Wearables Device Access Toolkit has left beta and Meta showcased accessibility apps with it. Stéphanie Robieux, co‑founder and CEO of OOrion, explains how the toolkit enables hands‑free object finding for blind and low‑vision users of Ray‑Ban Meta glasses.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/oorion-on-meta-glasses-hands-free-object-finding-and-what-meta-connect-means-for-blind-users-2)"
   }
 ]
