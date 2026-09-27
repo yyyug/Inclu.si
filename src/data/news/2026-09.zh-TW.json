@@ -78292,5 +78292,238 @@
     "publishedAt": "2026-09-27T07:00:33.000Z",
     "fetchedAt": "2026-09-27T15:17:45.093Z",
     "body": "探討人類回聲定位及旨在刺激視力或大腦以服務視障使用者的超聲波技術研究。\n\n原文來源： [handicap.fr](https://informations.handicap.fr/a-l-echolocation-demain-verra-t-on-grace-aux-sons-39757.php)"
+  },
+  {
+    "title": "輪椅使用者因杜姆弗里斯和加洛威缺乏無障礙計程車而受影響 - BBC",
+    "slug": "wheelchair-users-hit-by-shortage-of-accessible-taxis-in-dumfries-and-galloway-bb-zh-4ee791d5",
+    "lang": "zh-TW",
+    "summary": "輪椅使用者因杜姆弗里斯和加洛威缺乏無障礙計程車而受影響",
+    "category": "physical-design",
+    "tags": [
+      "wheelchair",
+      "accessible taxis",
+      "transport",
+      "Dumfries and Galloway",
+      "BBC"
+    ],
+    "sourceName": "BBC",
+    "sourceUrl": "https://www.bbc.com/news/articles/ck3rey58yw80o",
+    "relatedSources": [
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/ck3rey58yw80o"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-4ee791d5",
+    "status": "published",
+    "translationOf": "wheelchair-users-hit-by-shortage-of-accessible-taxis-in-dumfries-and-galloway-bb-4ee791d5",
+    "publishedAt": "2026-09-27T08:09:01.000Z",
+    "fetchedAt": "2026-09-27T20:09:57.709Z",
+    "body": "輪椅使用者因杜姆弗里斯和加洛威缺乏無障礙計程車而受影響\n\n原文來源： [BBC](https://www.bbc.com/news/articles/ck3rey58yw80o)"
+  },
+  {
+    "title": "使用 CSS 設計無障礙鍵盤焦點狀態 - HackerNoon",
+    "slug": "designing-accessible-keyboard-focus-states-with-css-hackernoon-zh-63c8ee69",
+    "lang": "zh-TW",
+    "summary": "使用 CSS 設計無障礙鍵盤焦點狀態",
+    "category": "digital-a11y",
+    "tags": [
+      "CSS",
+      "keyboard focus",
+      "accessibility",
+      "web design",
+      "HackerNoon"
+    ],
+    "sourceName": "HackerNoon",
+    "sourceUrl": "https://hackernoon.com/designing-accessible-keyboard-focus-states-with-css",
+    "relatedSources": [
+      {
+        "name": "HackerNoon",
+        "url": "https://hackernoon.com/designing-accessible-keyboard-focus-states-with-css"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-63c8ee69",
+    "status": "published",
+    "translationOf": "designing-accessible-keyboard-focus-states-with-css-hackernoon-63c8ee69",
+    "publishedAt": "2026-09-27T17:48:23.000Z",
+    "fetchedAt": "2026-09-27T20:09:57.813Z",
+    "body": "使用 CSS 設計無障礙鍵盤焦點狀態\n\n原文來源： [HackerNoon](https://hackernoon.com/designing-accessible-keyboard-focus-states-with-css)"
+  },
+  {
+    "title": "Triangle 踏石揭示無障礙與安全改進 - Williamsburg Yorktown Daily",
+    "slug": "triangle-stepping-stones-unveils-accessibility-safety-improvements-williamsburg--zh-6596567c",
+    "lang": "zh-TW",
+    "summary": "Triangle 踏石揭示無障礙與安全改進",
+    "category": "physical-design",
+    "tags": [
+      "Triangle Stepping Stones",
+      "accessibility",
+      "safety improvements",
+      "Williamsburg",
+      "Yorktown Daily"
+    ],
+    "sourceName": "Williamsburg Yorktown Daily",
+    "sourceUrl": "https://wydaily.com/latest/health/2026/09/27/triangle-stepping-stones-unveils-accessibility-safety-improvements",
+    "relatedSources": [
+      {
+        "name": "Williamsburg Yorktown Daily",
+        "url": "https://wydaily.com/latest/health/2026/09/27/triangle-stepping-stones-unveils-accessibility-safety-improvements"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-6596567c",
+    "status": "published",
+    "translationOf": "triangle-stepping-stones-unveils-accessibility-safety-improvements-williamsburg--6596567c",
+    "publishedAt": "2026-09-27T14:00:46.000Z",
+    "fetchedAt": "2026-09-27T20:09:57.893Z",
+    "body": "Triangle 踏石揭示無障礙與安全改進\n\n原文來源： [Williamsburg Yorktown Daily](https://wydaily.com/latest/health/2026/09/27/triangle-stepping-stones-unveils-accessibility-safety-improvements)"
+  },
+  {
+    "title": "可及性ADU『未來防護』西雅圖地區住宅為長者房主所設計",
+    "slug": "accessible-adu-future-proofs-seattle-area-house-for-older-homeowners-zh-83d6c581",
+    "lang": "zh-TW",
+    "summary": "該文章說明一個具備無障礙設計的附屬住宅單元（ADU）如何讓長者房主能安全、獨立地居住，使住宅具備 ageing in place 的未來防護能力。",
+    "category": "physical-design",
+    "tags": [
+      "ADU",
+      "aging in place",
+      "universal design",
+      "older adults"
+    ],
+    "sourceName": "Forbes",
+    "sourceUrl": "https://www.forbes.com/sites/jamiegold/2026/09/27/accessible-adu-future-proofs-seattle-area-house-for-older-homeowners",
+    "relatedSources": [
+      {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/jamiegold/2026/09/27/accessible-adu-future-proofs-seattle-area-house-for-older-homeowners"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-83d6c581",
+    "status": "published",
+    "translationOf": "accessible-adu-future-proofs-seattle-area-house-for-older-homeowners-83d6c581",
+    "publishedAt": "2026-09-27T14:00:00.000Z",
+    "fetchedAt": "2026-09-27T20:10:18.213Z",
+    "body": "該文章說明一個具備無障礙設計的附屬住宅單元（ADU）如何讓長者房主能安全、獨立地居住，使住宅具備 ageing in place 的未來防護能力。\n\n原文來源： [Forbes](https://www.forbes.com/sites/jamiegold/2026/09/27/accessible-adu-future-proofs-seattle-area-house-for-older-homeowners)"
+  },
+  {
+    "title": "學徒計畫需要更具可及性 | 信件 - 衛報",
+    "slug": "apprenticeships-need-to-be-made-more-accessible-letters-the-guardian-zh-0a2f1c6a",
+    "lang": "zh-TW",
+    "summary": "衛報的來信指出，應改進學徒計畫以適應殘障人士的需求，確保他們在培訓、技能發展和就業機會上獲得平等機會。",
+    "category": "laws-rights",
+    "tags": [
+      "apprenticeships",
+      "disability inclusion",
+      "vocational training",
+      "accessibility"
+    ],
+    "sourceName": "The Guardian",
+    "sourceUrl": "https://www.theguardian.com/education/2026/sep/24/apprenticeships-need-to-be-made-more-accessible",
+    "relatedSources": [
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/education/2026/sep/24/apprenticeships-need-to-be-made-more-accessible"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-0a2f1c6a",
+    "status": "published",
+    "translationOf": "apprenticeships-need-to-be-made-more-accessible-letters-the-guardian-0a2f1c6a",
+    "publishedAt": "2026-09-24T17:55:00.000Z",
+    "fetchedAt": "2026-09-27T20:10:18.300Z",
+    "body": "衛報的來信指出，應改進學徒計畫以適應殘障人士的需求，確保他們在培訓、技能發展和就業機會上獲得平等機會。\n\n原文來源： [The Guardian](https://www.theguardian.com/education/2026/sep/24/apprenticeships-need-to-be-made-more-accessible)"
+  },
+  {
+    "title": "新報告發現無障礙是多代旅客的重要考量",
+    "slug": "new-report-finds-accessibility-is-a-key-consideration-for-multigenerational-trav-zh-4893eedf",
+    "lang": "zh-TW",
+    "summary": "新報告指出，無障礙設施是多代旅客（包括長者和殘障人士）選擇旅遊目的地的重要因素。",
+    "category": "physical-design",
+    "tags": [
+      "travel",
+      "multigenerational",
+      "accessibility"
+    ],
+    "sourceName": "TravelAge West",
+    "sourceUrl": "https://www.travelagewest.com/News/Industry/fora-2026-accessibility-report",
+    "relatedSources": [
+      {
+        "name": "TravelAge West",
+        "url": "https://www.travelagewest.com/News/Industry/fora-2026-accessibility-report"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-4893eedf",
+    "status": "published",
+    "translationOf": "new-report-finds-accessibility-is-a-key-consideration-for-multigenerational-trav-4893eedf",
+    "publishedAt": "2026-09-26T13:06:55.000Z",
+    "fetchedAt": "2026-09-27T20:10:30.898Z",
+    "body": "新報告指出，無障礙設施是多代旅客（包括長者和殘障人士）選擇旅遊目的地的重要因素。\n\n原文來源： [TravelAge West](https://www.travelagewest.com/News/Industry/fora-2026-accessibility-report)"
+  },
+  {
+    "title": "WP Accessibility 外掛",
+    "slug": "wp-accessibility-zh-48f9a267",
+    "lang": "zh-TW",
+    "summary": "有人申請授予羅馬尼語翻譯的 WP Accessibility 外掛 PTE 狀態，該外掛旨在提升網站無障礙性。",
+    "category": "digital-a11y",
+    "tags": [
+      "wordpress",
+      "plugin",
+      "accessibility",
+      "translation"
+    ],
+    "sourceName": "Wordpress.org",
+    "sourceUrl": "https://make.wordpress.org/polyglots/2026/09/26/wp-accessibility",
+    "relatedSources": [
+      {
+        "name": "Wordpress.org",
+        "url": "https://make.wordpress.org/polyglots/2026/09/26/wp-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-48f9a267",
+    "status": "published",
+    "translationOf": "wp-accessibility-48f9a267",
+    "publishedAt": "2026-09-26T17:17:46.000Z",
+    "fetchedAt": "2026-09-27T20:10:30.985Z",
+    "body": "有人申請授予羅馬尼語翻譯的 WP Accessibility 外掛 PTE 狀態，該外掛旨在提升網站無障礙性。\n\n原文來源： [Wordpress.org](https://make.wordpress.org/polyglots/2026/09/26/wp-accessibility)"
   }
 ]
