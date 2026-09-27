@@ -1,0 +1,35 @@
+[
+  {
+    "title": "World Bank Group Website Accessibility Statement",
+    "slug": "world-bank-group-website-accessibility-statement-d3ab9710",
+    "lang": "en",
+    "summary": "The World Bank Group provides a statement outlining its commitment to website accessibility and the measures in place to ensure the site is usable for individuals with disabilities.",
+    "category": "digital-a11y",
+    "tags": [
+      "web",
+      "WCAG",
+      "statement"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albankaldawli.org/ar/who-we-are/site-accessibility",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albankaldawli.org/ar/who-we-are/site-accessibility"
+      }
+    ],
+    "sourceCountry": "EG",
+    "queryRegion": "EG",
+    "region": "EG",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-d3ab9710",
+    "status": "published",
+    "translationOf": "world-bank-group-website-accessibility-statement-zh-d3ab9710",
+    "publishedAt": "2020-09-18T05:51:52.000Z",
+    "fetchedAt": "2026-09-27T21:35:42.480Z",
+    "body": "The World Bank Group provides a statement outlining its commitment to website accessibility and the measures in place to ensure the site is usable for individuals with disabilities.\n\nRead more from the original source: [news.google.com](https://www.albankaldawli.org/ar/who-we-are/site-accessibility)"
+  }
+]
