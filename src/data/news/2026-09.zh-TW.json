@@ -81040,5 +81040,169 @@
     "publishedAt": "2026-09-27T01:42:13.000Z",
     "fetchedAt": "2026-09-28T16:50:26.668Z",
     "body": "Google 無預警將 Gmail 經典的黃色星星與重要標記全改為藍色，聲稱符合無障礙標準。但外媒與用戶指出，兩個藍色撞色破壞視覺階層，導致信箱變得混亂，特別對色覺障礙者不友好，建議透過設定將星星改回黃色。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/gmail-2%E6%A8%99%E7%A4%BA-%E7%AA%81%E8%AE%8A%E8%97%8D-%E7%94%A8%E6%88%B6%E5%B4%A9%E6%BD%B0%E5%96%8A%E9%9B%A3%E7%94%A8-%E6%8B%9B%E7%A7%92%E6%95%91%E5%9B%9E-014213939.html)"
+  },
+  {
+    "title": "與 Colleen Gratzer 探討 InDesign 無障礙設計概覽",
+    "slug": "an-overview-of-indesign-accessibility-with-colleen-gratzer-zh-28c81576",
+    "lang": "zh-TW",
+    "summary": "本文說明如何在 Adobe InDesign 中加入無障礙功能，匯出為 PDF 時仍能供殘障人士使用。",
+    "category": "digital-a11y",
+    "tags": [
+      "Adobe InDesign",
+      "PDF accessibility",
+      "digital accessibility"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/an-overview-of-indesign-accessibility-with-colleen-gratzer",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/an-overview-of-indesign-accessibility-with-colleen-gratzer"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-28c81576",
+    "status": "published",
+    "translationOf": "an-overview-of-indesign-accessibility-with-colleen-gratzer-28c81576",
+    "publishedAt": "2026-09-28T14:00:26.000Z",
+    "fetchedAt": "2026-09-28T16:49:41.400Z",
+    "body": "本文說明如何在 Adobe InDesign 中加入無障礙功能，匯出為 PDF 時仍能供殘障人士使用。\n\n原文來源： [theaccessibilityguy.com](https://theaccessibilityguy.com/an-overview-of-indesign-accessibility-with-colleen-gratzer)"
+  },
+  {
+    "title": "回饋：Passkey 問題、Seeing AI 拯救與智慧眼鏡辯論",
+    "slug": "feedback-passkey-headaches-seeing-ai-rescues-and-the-smart-glasses-debate-zh-b885a814",
+    "lang": "zh-TW",
+    "summary": "此段落討論 Passkey 的使用困難，展示 Seeing AI 如何協助視障者，並探討 Meta Ray-Ban 智慧眼鏡引發的無障礙與盲人就業爭議。",
+    "category": "assistive-tech",
+    "tags": [
+      "passkeys",
+      "Seeing AI",
+      "smart glasses",
+      "blind employment"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/feedback-passkey-headaches-seeing-ai-rescues-and-the-smart-glasses-debate-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/feedback-passkey-headaches-seeing-ai-rescues-and-the-smart-glasses-debate-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-b885a814",
+    "status": "published",
+    "translationOf": "feedback-passkey-headaches-seeing-ai-rescues-and-the-smart-glasses-debate-b885a814",
+    "publishedAt": "2026-09-28T16:00:03.000Z",
+    "fetchedAt": "2026-09-28T16:49:41.517Z",
+    "body": "此段落討論 Passkey 的使用困難，展示 Seeing AI 如何協助視障者，並探討 Meta Ray-Ban 智慧眼鏡引發的無障礙與盲人就業爭議。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/feedback-passkey-headaches-seeing-ai-rescues-and-the-smart-glasses-debate-2)"
+  },
+  {
+    "title": "進行中 2026年9月28日",
+    "slug": "in-process-28th-september-2026-zh-af4e3eca",
+    "lang": "zh-TW",
+    "summary": "文章介紹 NVDA 2026.3 Beta 2 的最新變更，這是一款改善視障與低視力者使用體驗的螢幕閱讀器更新。",
+    "category": "assistive-tech",
+    "tags": [
+      "NVDA",
+      "screen reader",
+      "beta"
+    ],
+    "sourceName": "nvaccess.org",
+    "sourceUrl": "https://www.nvaccess.org/post/in-process-28th-september-2026",
+    "relatedSources": [
+      {
+        "name": "nvaccess.org",
+        "url": "https://www.nvaccess.org/post/in-process-28th-september-2026"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://nvaccess.org/rss",
+    "ingestProvider": "nvaccess.org",
+    "clusterId": "cluster-af4e3eca",
+    "status": "published",
+    "translationOf": "in-process-28th-september-2026-af4e3eca",
+    "publishedAt": "2026-09-28T10:53:32.000Z",
+    "fetchedAt": "2026-09-28T16:49:41.604Z",
+    "body": "文章介紹 NVDA 2026.3 Beta 2 的最新變更，這是一款改善視障與低視力者使用體驗的螢幕閱讀器更新。\n\n原文來源： [nvaccess.org](https://www.nvaccess.org/post/in-process-28th-september-2026)"
+  },
+  {
+    "title": "無障礙資訊新聞週報 2026年9月28日 第1086期",
+    "slug": "access-information-news-for-monday-september-28-2026-volume-1086-zh-6724fe0c",
+    "lang": "zh-TW",
+    "summary": "本期提供無障礙領域的一週新聞摘要，涵蓋最新發展與資訊。",
+    "category": "general",
+    "tags": [
+      "newsletter",
+      "accessibility",
+      "weekly"
+    ],
+    "sourceName": "accessinformationnews.com",
+    "sourceUrl": "https://accessinformationnews.com/newsletter-09-28-2026",
+    "relatedSources": [
+      {
+        "name": "accessinformationnews.com",
+        "url": "https://accessinformationnews.com/newsletter-09-28-2026"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://accessinformationnews.com/feed",
+    "ingestProvider": "accessinformationnews.com",
+    "clusterId": "cluster-6724fe0c",
+    "status": "published",
+    "translationOf": "access-information-news-for-monday-september-28-2026-volume-1086-6724fe0c",
+    "publishedAt": "2026-09-28T04:05:00.000Z",
+    "fetchedAt": "2026-09-28T16:50:19.018Z",
+    "body": "本期提供無障礙領域的一週新聞摘要，涵蓋最新發展與資訊。\n\n原文來源： [accessinformationnews.com](https://accessinformationnews.com/newsletter-09-28-2026)"
+  },
+  {
+    "title": "孟買Zero Project印度會議第二天：早期痴呆篩檢、無障礙設計與殘障就業",
+    "slug": "early-dementia-screening-inclusive-design-and-employment-in-mumbai-zero-project--zh-ccfe011e",
+    "lang": "zh-TW",
+    "summary": "報導Zero Project印度會議第二天內容，包括利用消費級EEG耳機進行早期痴呆篩檢、探討無障礙設計以及印度對殘障工作者的無障礙標準。",
+    "category": "case-studies",
+    "tags": [
+      "dementia screening",
+      "EEG headset",
+      "inclusive design",
+      "employment",
+      "Zero Project",
+      "Mumbai"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/early-dementia-screening-inclusive-design-and-employment-in-mumbai-zero-project-conference-india-day-two",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/early-dementia-screening-inclusive-design-and-employment-in-mumbai-zero-project-conference-india-day-two"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-ccfe011e",
+    "status": "published",
+    "translationOf": "early-dementia-screening-inclusive-design-and-employment-in-mumbai-zero-project--ccfe011e",
+    "publishedAt": "2026-09-25T16:00:00.000Z",
+    "fetchedAt": "2026-09-28T16:50:19.142Z",
+    "body": "報導Zero Project印度會議第二天內容，包括利用消費級EEG耳機進行早期痴呆篩檢、探討無障礙設計以及印度對殘障工作者的無障礙標準。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/early-dementia-screening-inclusive-design-and-employment-in-mumbai-zero-project-conference-india-day-two)"
   }
 ]
