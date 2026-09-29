@@ -84085,5 +84085,37 @@
     "publishedAt": "2026-09-28T21:00:08.000Z",
     "fetchedAt": "2026-09-28T23:30:29.967Z",
     "body": "阿爾杜斯特報報導了一則在拉沙伊法為視障兒童及身心障礙人士舉辦的嘉年華活動。\n\n原文來源： [news.google.com](https://www.addustour.com/articles/1593536-%D9%83%D8%B1%D9%86%D9%81%D8%A7%D9%84-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D9%83%D9%81%D9%88%D9%81%D9%8A%D9%86-%D9%88%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D8%B5%D9%8A%D9%81%D8%A9)"
+  },
+  {
+    "title": "統一英語盲文",
+    "slug": "unified-english-braille-zh-17995ea1",
+    "lang": "zh-TW",
+    "summary": "解釋統一英語盲文（UEB）是一種供視障人士使用的觸覺閱讀與寫作系統，並非語言，並說明其在英語國家的應用。",
+    "category": "assistive-tech",
+    "tags": [
+      "braille",
+      "UEB",
+      "tactile literacy"
+    ],
+    "sourceName": "brailleworks.com",
+    "sourceUrl": "https://brailleworks.com/unified-english-braille",
+    "relatedSources": [
+      {
+        "name": "brailleworks.com",
+        "url": "https://brailleworks.com/unified-english-braille"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://brailleworks.com/feed",
+    "ingestProvider": "brailleworks.com",
+    "clusterId": "cluster-17995ea1",
+    "status": "published",
+    "translationOf": "unified-english-braille-17995ea1",
+    "publishedAt": "2026-09-29T14:00:00.000Z",
+    "fetchedAt": "2026-09-29T14:54:10.626Z",
+    "body": "解釋統一英語盲文（UEB）是一種供視障人士使用的觸覺閱讀與寫作系統，並非語言，並說明其在英語國家的應用。\n\n原文來源： [brailleworks.com](https://brailleworks.com/unified-english-braille)"
   }
 ]
