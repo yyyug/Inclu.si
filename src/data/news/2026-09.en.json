@@ -87244,5 +87244,41 @@
     "publishedAt": "2026-09-28T17:10:54.000Z",
     "fetchedAt": "2026-09-29T21:26:27.208Z",
     "body": "A campaign launched by the Manitoba League of Persons with Disabilities aims to make Winnipeg more accessible and asks city council candidates what they would do to improve accessibility.\n\nRead more from the original source: [CBC News](https://www.cbc.ca/news/canada/manitoba/municipal-election-campaign-accessibility-disability-9.7360227)"
+  },
+  {
+    "title": "Feedback: Luna Glasses for Night Blindness, Claude Code Tips and Bricks for the Blind",
+    "slug": "feedback-luna-glasses-for-night-blindness-claude-code-tips-and-bricks-for-the-bl-9b85a26e",
+    "lang": "en",
+    "summary": "Double Tap Live launches a 24/7 radio channel for blind and visually impaired listeners, featuring listener stories about Luna night vision glasses, LEGO builds without sight, and Claude Code tips.",
+    "category": "assistive-tech",
+    "tags": [
+      "blind",
+      "visually impaired",
+      "assistive technology",
+      "night vision glasses",
+      "LEGO",
+      "Claude Code",
+      "radio"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/feedback-luna-glasses-for-night-blindness-claude-code-tips-and-bricks-for-the-blind-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/feedback-luna-glasses-for-night-blindness-claude-code-tips-and-bricks-for-the-blind-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-9b85a26e",
+    "status": "published",
+    "translationOf": "feedback-luna-glasses-for-night-blindness-claude-code-tips-and-bricks-for-the-bl-zh-9b85a26e",
+    "publishedAt": "2026-09-29T16:00:30.000Z",
+    "fetchedAt": "2026-09-29T21:27:29.131Z",
+    "body": "Double Tap Live launches a 24/7 radio channel for blind and visually impaired listeners, featuring listener stories about Luna night vision glasses, LEGO builds without sight, and Claude Code tips.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/feedback-luna-glasses-for-night-blindness-claude-code-tips-and-bricks-for-the-blind-2)"
   }
 ]

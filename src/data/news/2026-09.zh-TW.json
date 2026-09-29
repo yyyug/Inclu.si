@@ -87244,5 +87244,41 @@
     "publishedAt": "2026-09-28T17:10:54.000Z",
     "fetchedAt": "2026-09-29T21:26:27.208Z",
     "body": "曼尼托巴殘障人士聯盟發起的一項運動旨在讓溫尼伯更加無障礙，並向市議會候選人詢問他們將如何改善無障礙環境。\n\n原文來源： [CBC News](https://www.cbc.ca/news/canada/manitoba/municipal-election-campaign-accessibility-disability-9.7360227)"
+  },
+  {
+    "title": "回饋：盲人夜視眼鏡、Claude Code 技巧與盲人積木",
+    "slug": "feedback-luna-glasses-for-night-blindness-claude-code-tips-and-bricks-for-the-bl-zh-9b85a26e",
+    "lang": "zh-TW",
+    "summary": "Double Tap Live 推出全天候 24 小時廣播頻道，服務盲人與視障聽眾，節目內容包括盲人夜視眼鏡、無視覺積木搭建以及 Claude Code 使用技巧。",
+    "category": "assistive-tech",
+    "tags": [
+      "blind",
+      "visually impaired",
+      "assistive technology",
+      "night vision glasses",
+      "LEGO",
+      "Claude Code",
+      "radio"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/feedback-luna-glasses-for-night-blindness-claude-code-tips-and-bricks-for-the-blind-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/feedback-luna-glasses-for-night-blindness-claude-code-tips-and-bricks-for-the-blind-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-9b85a26e",
+    "status": "published",
+    "translationOf": "feedback-luna-glasses-for-night-blindness-claude-code-tips-and-bricks-for-the-bl-9b85a26e",
+    "publishedAt": "2026-09-29T16:00:30.000Z",
+    "fetchedAt": "2026-09-29T21:27:29.131Z",
+    "body": "Double Tap Live 推出全天候 24 小時廣播頻道，服務盲人與視障聽眾，節目內容包括盲人夜視眼鏡、無視覺積木搭建以及 Claude Code 使用技巧。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/feedback-luna-glasses-for-night-blindness-claude-code-tips-and-bricks-for-the-blind-2)"
   }
 ]
