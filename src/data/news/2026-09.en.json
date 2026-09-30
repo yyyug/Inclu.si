@@ -89738,5 +89738,947 @@
     "publishedAt": "2026-09-30T02:07:19.000Z",
     "fetchedAt": "2026-09-30T15:19:45.354Z",
     "body": "The GAAD Foundation has named the 2026 Gaady Award winners for organizations that integrated accessibility and people with disabilities into their digital product development.\nTweet source: [GlobalA11yAwarenessDay (@gbla11yday)](https://x.com/gbla11yday/status/2105117256732819759)\nExternal link: [https://gaad.foundation/what-we-do/gaadys](https://gaad.foundation/what-we-do/gaadys)"
+  },
+  {
+    "title": "Are Public Toilets Truly Accessible?",
+    "slug": "are-public-toilets-truly-accessible-660d6f67",
+    "lang": "en",
+    "summary": "During the Accessibility Fortnight in Paris, disabled users share their experiences with public toilets, questioning whether current accessibility standards (PMR) are sufficient, particularly regarding automatic opening mechanisms.",
+    "category": "physical-design",
+    "tags": [
+      "public-toilets",
+      "physical-accessibility",
+      "standards",
+      "france"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-toilettes-publiques-sont-elles-vraiment-accessibles-39783.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-toilettes-publiques-sont-elles-vraiment-accessibles-39783.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-660d6f67",
+    "status": "published",
+    "translationOf": "are-public-toilets-truly-accessible-zh-660d6f67",
+    "publishedAt": "2026-09-30T07:00:15.000Z",
+    "fetchedAt": "2026-09-30T16:31:02.676Z",
+    "body": "During the Accessibility Fortnight in Paris, disabled users share their experiences with public toilets, questioning whether current accessibility standards (PMR) are sufficient, particularly regarding automatic opening mechanisms.\n\nRead more from the original source: [handicap.fr](https://informations.handicap.fr/a-toilettes-publiques-sont-elles-vraiment-accessibles-39783.php)"
+  },
+  {
+    "title": "Digital Accessibility: Why Complement Compliance with User Research?",
+    "slug": "digital-accessibility-why-complement-compliance-with-user-research-1a8fe561",
+    "lang": "en",
+    "summary": "The article argues that while meeting legal accessibility standards is essential, usability testing with people with disabilities is necessary to evaluate the real user experience and beyond mere compliance.",
+    "category": "digital-a11y",
+    "tags": [
+      "web-accessibility",
+      "usability",
+      "user-testing",
+      "compliance"
+    ],
+    "sourceName": "access42.net",
+    "sourceUrl": "https://access42.net/accessibilite-numerique-completer-conformite-recherche-utilisateur",
+    "relatedSources": [
+      {
+        "name": "access42.net",
+        "url": "https://access42.net/accessibilite-numerique-completer-conformite-recherche-utilisateur"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://access42.net/feed",
+    "ingestProvider": "access42.net",
+    "originalLang": "fr",
+    "clusterId": "cluster-1a8fe561",
+    "status": "published",
+    "translationOf": "digital-accessibility-why-complement-compliance-with-user-research-zh-1a8fe561",
+    "publishedAt": "2026-09-30T06:42:44.000Z",
+    "fetchedAt": "2026-09-30T16:31:02.792Z",
+    "body": "The article argues that while meeting legal accessibility standards is essential, usability testing with people with disabilities is necessary to evaluate the real user experience and beyond mere compliance.\n\nRead more from the original source: [access42.net](https://access42.net/accessibilite-numerique-completer-conformite-recherche-utilisateur)"
+  },
+  {
+    "title": "Cannabis médical : « Ne pas publier les décrets, c’est ajouter à notre souffrance »",
+    "slug": "cannabis-medical-ne-pas-publier-les-decrets-cest-ajouter-a-notre-souffrance-03ee4c7c",
+    "lang": "en",
+    "summary": "Atteinte de sclérose en plaques, Pamela Le Meur, 56 ans, compte parmi les personnes incluses dans l’expérimentation du cannabis médical depuis 2021. Ce médicament soulage ses douleurs, auparavant réfractaires à tout traitement, et lui a permis de reprendre une vie sociale et des activités créatives. Mais les reports successifs des textes réglementaires ouvrant une prescription généralisée l’inquiètent. […]\nCet article Cannabis médical : « Ne pas publier les décrets, c’est ajouter à notre souffrance » est apparu en premier sur Faire Face - Toute l'actualité du handicap.",
+    "category": "general",
+    "tags": [],
+    "sourceName": "faire-face.fr",
+    "sourceUrl": "https://www.faire-face.fr/2026/09/30/cannabis-medical-ne-pas-publier-les-decrets-cest-ajouter-a-notre-souffrance",
+    "relatedSources": [
+      {
+        "name": "faire-face.fr",
+        "url": "https://www.faire-face.fr/2026/09/30/cannabis-medical-ne-pas-publier-les-decrets-cest-ajouter-a-notre-souffrance"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://faire-face.fr/feed",
+    "ingestProvider": "faire-face.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-03ee4c7c",
+    "status": "published",
+    "translationOf": "cannabis-medical-ne-pas-publier-les-decrets-cest-ajouter-a-notre-souffrance-zh-03ee4c7c",
+    "publishedAt": "2026-09-30T11:38:52.000Z",
+    "fetchedAt": "2026-09-30T16:31:02.892Z",
+    "body": "Atteinte de sclérose en plaques, Pamela Le Meur, 56 ans, compte parmi les personnes incluses dans l’expérimentation du cannabis médical depuis 2021. Ce médicament soulage ses douleurs, auparavant réfractaires à tout traitement, et lui a permis de reprendre une vie sociale et des activités créatives. Mais les reports successifs des textes réglementaires ouvrant une prescription généralisée l’inquiètent. […]\nCet article Cannabis médical : « Ne pas publier les décrets, c’est ajouter à notre souffrance » est apparu en premier sur Faire Face - Toute l'actualité du handicap.\n\nRead more from the original source: [faire-face.fr](https://www.faire-face.fr/2026/09/30/cannabis-medical-ne-pas-publier-les-decrets-cest-ajouter-a-notre-souffrance)"
+  },
+  {
+    "title": "France: Proposed Law to Mandate Workplace Adjustments for Employees with Disabilities",
+    "slug": "france-proposed-law-to-mandate-workplace-adjustments-for-employees-with-disabili-c4bf2ddd",
+    "lang": "en",
+    "summary": "Twenty years after the 2005 disability law, French courts still do not explicitly classify the refusal to adjust a workplace for an employee with a disability as discrimination. Legislative proposal led by APF France handicap aims to make reasonable accommodations legally mandatory rather than relying on managerial goodwill.",
+    "category": "laws-rights",
+    "tags": [
+      "employment",
+      "legislation",
+      "France",
+      "workplace",
+      "discrimination"
+    ],
+    "sourceName": "la-croix.com",
+    "sourceUrl": "https://www.la-croix.com/a-vif/l-amenagement-de-poste-dun-salarie-handicape-ne-doit-pas-reposer-sur-la-seule-bonne-volonte-manageriale-20260930",
+    "relatedSources": [
+      {
+        "name": "la-croix.com",
+        "url": "https://www.la-croix.com/a-vif/l-amenagement-de-poste-dun-salarie-handicape-ne-doit-pas-reposer-sur-la-seule-bonne-volonte-manageriale-20260930"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.la-croix.com/feeds/rss/Dossiers-Dynamiques/Handicap.xml",
+    "ingestProvider": "la-croix.com",
+    "originalLang": "fr",
+    "clusterId": "cluster-c4bf2ddd",
+    "status": "published",
+    "translationOf": "france-proposed-law-to-mandate-workplace-adjustments-for-employees-with-disabili-zh-c4bf2ddd",
+    "publishedAt": "2026-09-30T06:19:23.000Z",
+    "fetchedAt": "2026-09-30T16:31:08.656Z",
+    "body": "Twenty years after the 2005 disability law, French courts still do not explicitly classify the refusal to adjust a workplace for an employee with a disability as discrimination. Legislative proposal led by APF France handicap aims to make reasonable accommodations legally mandatory rather than relying on managerial goodwill.\n\nRead more from the original source: [la-croix.com](https://www.la-croix.com/a-vif/l-amenagement-de-poste-dun-salarie-handicape-ne-doit-pas-reposer-sur-la-seule-bonne-volonte-manageriale-20260930)"
+  },
+  {
+    "title": "Fundación Caser Awards Recognize Innovation in Autism Detection, Mental Health, and Rare Disease Awareness",
+    "slug": "fundacion-caser-awards-recognize-innovation-in-autism-detection-mental-health-an-e9cb6159",
+    "lang": "en",
+    "summary": "The Fundación Caser awards recognized several initiatives focused on social inclusion and disability. Winners included a project for early autism detection, a mental health initiative addressing loneliness, and special mentions for a film on deafness and advocacy for epidermolysis bullosa.",
+    "category": "assistive-tech",
+    "tags": [
+      "autism",
+      "mental-health",
+      "rare-disease",
+      "innovation",
+      "award"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/fundacion-caser-celebra-la-entrega-de-galardones-de-los-premios-dependencia-y-sociedad",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/fundacion-caser-celebra-la-entrega-de-galardones-de-los-premios-dependencia-y-sociedad"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-e9cb6159",
+    "status": "published",
+    "translationOf": "fundacion-caser-awards-recognize-innovation-in-autism-detection-mental-health-an-zh-e9cb6159",
+    "publishedAt": "2026-09-30T11:12:06.000Z",
+    "fetchedAt": "2026-09-30T16:31:08.761Z",
+    "body": "The Fundación Caser awards recognized several initiatives focused on social inclusion and disability. Winners included a project for early autism detection, a mental health initiative addressing loneliness, and special mentions for a film on deafness and advocacy for epidermolysis bullosa.\n\nRead more from the original source: [discapnet.es](https://www.discapnet.es/noticia/fundacion-caser-celebra-la-entrega-de-galardones-de-los-premios-dependencia-y-sociedad)"
+  },
+  {
+    "title": "Fabric Scrap Project Boosts Confidence and Self-Reliance for Persons with Disabilities",
+    "slug": "fabric-scrap-project-boosts-confidence-and-self-reliance-for-persons-with-disabi-99ef0e33",
+    "lang": "en",
+    "summary": "A report highlights a journey of confidence and self-reliance for individuals with disabilities, focusing on how engaging in crafting with fabric scraps serves as a therapeutic or vocational activity to enhance their quality of life and personal agency.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability-inclusion",
+      "vocational-training",
+      "mental-health"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.vietnam.vn/ar/khi-vai-vun-no-hoa-hanh-trinh-tu-tin-va-tu-chu-cua-nguoi-khuyet-tat",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.vietnam.vn/ar/khi-vai-vun-no-hoa-hanh-trinh-tu-tin-va-tu-chu-cua-nguoi-khuyet-tat"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-99ef0e33",
+    "status": "published",
+    "translationOf": "fabric-scrap-project-boosts-confidence-and-self-reliance-for-persons-with-disabi-zh-99ef0e33",
+    "publishedAt": "2026-09-30T09:05:00.000Z",
+    "fetchedAt": "2026-09-30T16:31:28.377Z",
+    "body": "A report highlights a journey of confidence and self-reliance for individuals with disabilities, focusing on how engaging in crafting with fabric scraps serves as a therapeutic or vocational activity to enhance their quality of life and personal agency.\n\nRead more from the original source: [news.google.com](https://www.vietnam.vn/ar/khi-vai-vun-no-hoa-hanh-trinh-tu-tin-va-tu-chu-cua-nguoi-khuyet-tat)"
+  },
+  {
+    "title": "'Tamaw' Program Enhances Quality of Life for 1,774 Beneficiaries with Disabilities Since 2020",
+    "slug": "tamaw-program-enhances-quality-of-life-for-1774-beneficiaries-with-disabilities--a26e6d4c",
+    "lang": "en",
+    "summary": "Since its launch in 2020, the 'Tamaw' initiative has improved the quality of life for 1,774 individuals with disabilities, focusing on social inclusion and support services.",
+    "category": "case-studies",
+    "tags": [
+      "policy-program",
+      "quality-of-life",
+      "uae"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.emaratalyoum.com/local-section/other/2026-09-30-1.2087899",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.emaratalyoum.com/local-section/other/2026-09-30-1.2087899"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-a26e6d4c",
+    "status": "published",
+    "translationOf": "tamaw-program-enhances-quality-of-life-for-1774-beneficiaries-with-disabilities--zh-a26e6d4c",
+    "publishedAt": "2026-09-30T00:05:00.000Z",
+    "fetchedAt": "2026-09-30T16:31:28.494Z",
+    "body": "Since its launch in 2020, the 'Tamaw' initiative has improved the quality of life for 1,774 individuals with disabilities, focusing on social inclusion and support services.\n\nRead more from the original source: [news.google.com](https://www.emaratalyoum.com/local-section/other/2026-09-30-1.2087899)"
+  },
+  {
+    "title": "National Reference Framework Measures Impact of Disability Actions in France",
+    "slug": "national-reference-framework-measures-impact-of-disability-actions-in-france-f0f3d468",
+    "lang": "en",
+    "summary": "Malakoff Humanis proposes a new national reference framework with over 250 indicators to harmonize the measurement of social impact and action effectiveness within the French disability sector.",
+    "category": "laws-rights",
+    "tags": [
+      "disability-sector",
+      "metrics",
+      "framework",
+      "france"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-referentiel-handicap-mesurer-enfin-l-impact-des-actions-39785.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-referentiel-handicap-mesurer-enfin-l-impact-des-actions-39785.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-f0f3d468",
+    "status": "published",
+    "translationOf": "national-reference-framework-measures-impact-of-disability-actions-in-france-zh-f0f3d468",
+    "publishedAt": "2026-09-30T07:00:00.000Z",
+    "fetchedAt": "2026-09-30T16:31:33.003Z",
+    "body": "Malakoff Humanis proposes a new national reference framework with over 250 indicators to harmonize the measurement of social impact and action effectiveness within the French disability sector.\n\nRead more from the original source: [handicap.fr](https://informations.handicap.fr/a-referentiel-handicap-mesurer-enfin-l-impact-des-actions-39785.php)"
+  },
+  {
+    "title": "Down Madrid Holds 16th Solidarity Run for Inclusion",
+    "slug": "down-madrid-holds-16th-solidarity-run-for-inclusion-ec805751",
+    "lang": "en",
+    "summary": "Down Madrid organized the 16th edition of its annual solidarity run, a sports event aimed at fostering the inclusion and autonomy of people with intellectual disabilities through physical activity and community engagement.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "intellectual-disability",
+      "sports",
+      "inclusion",
+      "espan"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/evento/down-madrid-celebra-la-16a-edicion-de-su-carrera-solidaria-por-la-inclusion",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/evento/down-madrid-celebra-la-16a-edicion-de-su-carrera-solidaria-por-la-inclusion"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-ec805751",
+    "status": "published",
+    "translationOf": "down-madrid-holds-16th-solidarity-run-for-inclusion-zh-ec805751",
+    "publishedAt": "2026-09-30T06:44:33.000Z",
+    "fetchedAt": "2026-09-30T16:31:33.109Z",
+    "body": "Down Madrid organized the 16th edition of its annual solidarity run, a sports event aimed at fostering the inclusion and autonomy of people with intellectual disabilities through physical activity and community engagement.\n\nRead more from the original source: [discapnet.es](https://www.discapnet.es/evento/down-madrid-celebra-la-16a-edicion-de-su-carrera-solidaria-por-la-inclusion)"
+  },
+  {
+    "title": "Egyptian Law Regulates Intellectual Property Protection for Persons with Disabilities",
+    "slug": "egyptian-law-regulates-intellectual-property-protection-for-persons-with-disabil-43b4184c",
+    "lang": "en",
+    "summary": "A new legal framework in Egypt establishes specific guidelines for protecting the intellectual property rights of individuals with disabilities, ensuring they have legal safeguards when creating works.",
+    "category": "laws-rights",
+    "tags": [
+      "Egypt",
+      "Intellectual Property",
+      "Disability Rights",
+      "Legislation"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.parlmany.com/News/7/616469/%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%8A%D9%86%D8%B8%D9%85-%D8%B6%D9%88%D8%A7%D8%A8%D8%B7-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%83%D8%B1%D9%8A%D8%A9-%D9%84%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.parlmany.com/News/7/616469/%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%8A%D9%86%D8%B8%D9%85-%D8%B6%D9%88%D8%A7%D8%A8%D8%B7-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%83%D8%B1%D9%8A%D8%A9-%D9%84%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-43b4184c",
+    "status": "published",
+    "translationOf": "egyptian-law-regulates-intellectual-property-protection-for-persons-with-disabil-zh-43b4184c",
+    "publishedAt": "2026-09-30T07:00:00.000Z",
+    "fetchedAt": "2026-09-30T16:31:45.469Z",
+    "body": "A new legal framework in Egypt establishes specific guidelines for protecting the intellectual property rights of individuals with disabilities, ensuring they have legal safeguards when creating works.\n\nRead more from the original source: [news.google.com](https://www.parlmany.com/News/7/616469/%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%8A%D9%86%D8%B8%D9%85-%D8%B6%D9%88%D8%A7%D8%A8%D8%B7-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%83%D8%B1%D9%8A%D8%A9-%D9%84%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84)"
+  },
+  {
+    "title": "Student in Al Ain Assists Classmate with Disabilities in Submitting Schoolwork",
+    "slug": "student-in-al-ain-assists-classmate-with-disabilities-in-submitting-schoolwork-07a18f1e",
+    "lang": "en",
+    "summary": "A heartwarming incident in Al Ain, UAE, involves a student helping a classmate with disabilities submit school assignments, highlighting peer support and inclusive culture in schools.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "UAE",
+      "Al Ain",
+      "Inclusion",
+      "Peer Support",
+      "Education"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alkhaleej.ae/2026-09-29/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%AD%D8%AF%D8%AB-%D8%A8%D8%A7%D9%84%D8%B9%D9%8A%D9%86-%D8%B7%D8%A7%D9%84%D8%A8-%D9%8A%D9%82%D8%AF%D9%85-%D9%88%D8%A7%D8%AC%D8%A8%D9%87-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A-%D9%84%D8%B2%D9%85%D9%8A%D9%84%D8%AA%D9%87-%D9%85%D9%86-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alkhaleej.ae/2026-09-29/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%AD%D8%AF%D8%AB-%D8%A8%D8%A7%D9%84%D8%B9%D9%8A%D9%86-%D8%B7%D8%A7%D9%84%D8%A8-%D9%8A%D9%82%D8%AF%D9%85-%D9%88%D8%A7%D8%AC%D8%A8%D9%87-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A-%D9%84%D8%B2%D9%85%D9%8A%D9%84%D8%AA%D9%87-%D9%85%D9%86-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-07a18f1e",
+    "status": "published",
+    "translationOf": "student-in-al-ain-assists-classmate-with-disabilities-in-submitting-schoolwork-zh-07a18f1e",
+    "publishedAt": "2026-09-29T20:48:56.000Z",
+    "fetchedAt": "2026-09-30T16:31:45.585Z",
+    "body": "A heartwarming incident in Al Ain, UAE, involves a student helping a classmate with disabilities submit school assignments, highlighting peer support and inclusive culture in schools.\n\nRead more from the original source: [news.google.com](https://www.alkhaleej.ae/2026-09-29/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%AD%D8%AF%D8%AB-%D8%A8%D8%A7%D9%84%D8%B9%D9%8A%D9%86-%D8%B7%D8%A7%D9%84%D8%A8-%D9%8A%D9%82%D8%AF%D9%85-%D9%88%D8%A7%D8%AC%D8%A8%D9%87-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A-%D9%84%D8%B2%D9%85%D9%8A%D9%84%D8%AA%D9%87-%D9%85%D9%86-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85)"
+  },
+  {
+    "title": "AI Technologies Assist in Caring for Alzheimer's Patients in France",
+    "slug": "ai-technologies-assist-in-caring-for-alzheimers-patients-in-france-a83d8732",
+    "lang": "en",
+    "summary": "AI-driven tools are being utilized in France to support the care and management of patients suffering from Alzheimer's disease, enhancing monitoring and patient support systems.",
+    "category": "assistive-tech",
+    "tags": [
+      "Alzheimer's",
+      "AI",
+      "Healthcare",
+      "Assistive Technology"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://sana.sy/miscellaneous/2585340",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://sana.sy/miscellaneous/2585340"
+      }
+    ],
+    "sourceCountry": "EG",
+    "queryRegion": "EG",
+    "region": "EG",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-a83d8732",
+    "status": "published",
+    "translationOf": "ai-technologies-assist-in-caring-for-alzheimers-patients-in-france-zh-a83d8732",
+    "publishedAt": "2026-09-20T13:05:00.000Z",
+    "fetchedAt": "2026-09-30T16:31:49.702Z",
+    "body": "AI-driven tools are being utilized in France to support the care and management of patients suffering from Alzheimer's disease, enhancing monitoring and patient support systems.\n\nRead more from the original source: [news.google.com](https://sana.sy/miscellaneous/2585340)"
+  },
+  {
+    "title": "CERMI Launches 'El sillón de la Europa Social' Series Featuring Enrique Barón Crespo",
+    "slug": "cermi-launches-el-sillon-de-la-europa-social-series-featuring-enrique-baron-cres-f1b7a073",
+    "lang": "en",
+    "summary": "The Spanish Committee of Representatives of Persons with Disabilities (CERMI) inaugurated a new audiovisual interview series focusing on the social dimension of the European Union. The series highlights the role of the disability movement and advocates for the preservation of the European Social Fund and social inclusion policies.",
+    "category": "laws-rights",
+    "tags": [
+      "CERMI",
+      "Disability Rights",
+      "EU Policy",
+      "Social Inclusion"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/el-cermi-estrena-el-sillon-de-la-europa-social-con-enrique-baron-crespo-que-llama-defender",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/el-cermi-estrena-el-sillon-de-la-europa-social-con-enrique-baron-crespo-que-llama-defender"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-f1b7a073",
+    "status": "published",
+    "translationOf": "cermi-launches-el-sillon-de-la-europa-social-series-featuring-enrique-baron-cres-zh-f1b7a073",
+    "publishedAt": "2026-09-30T06:19:33.000Z",
+    "fetchedAt": "2026-09-30T16:31:49.791Z",
+    "body": "The Spanish Committee of Representatives of Persons with Disabilities (CERMI) inaugurated a new audiovisual interview series focusing on the social dimension of the European Union. The series highlights the role of the disability movement and advocates for the preservation of the European Social Fund and social inclusion policies.\n\nRead more from the original source: [discapnet.es](https://www.discapnet.es/noticia/el-cermi-estrena-el-sillon-de-la-europa-social-con-enrique-baron-crespo-que-llama-defender)"
+  },
+  {
+    "title": "'Diya' Conference Gathers Specialists to Develop Services for Visually Impaired in Asir",
+    "slug": "diya-conference-gathers-specialists-to-develop-services-for-visually-impaired-in-0bf592e2",
+    "lang": "en",
+    "summary": "The 'Diya' conference brings together specialists to improve services and support for people with visual disabilities in the Asir region.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "visual-impairment",
+      "services"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://haqayq-news.com/72146",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://haqayq-news.com/72146"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-0bf592e2",
+    "status": "published",
+    "translationOf": "diya-conference-gathers-specialists-to-develop-services-for-visually-impaired-in-zh-0bf592e2",
+    "publishedAt": "2026-09-29T19:19:10.000Z",
+    "fetchedAt": "2026-09-30T16:31:52.664Z",
+    "body": "The 'Diya' conference brings together specialists to improve services and support for people with visual disabilities in the Asir region.\n\nRead more from the original source: [news.google.com](https://haqayq-news.com/72146)"
+  },
+  {
+    "title": "Egypt Allows Online Ticket Booking for People with Disabilities",
+    "slug": "egypt-allows-online-ticket-booking-for-people-with-disabilities-2c24e33e",
+    "lang": "en",
+    "summary": "In Egypt, it is now possible to book travel tickets online specifically for individuals with disabilities.",
+    "category": "digital-a11y",
+    "tags": [
+      "digital-accessibility",
+      "e-ticketing",
+      "disability"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alkhaleej.ae/2026-09-30/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA/%D9%85%D8%B5%D8%B1-%D8%A5%D8%AA%D8%A7%D8%AD%D8%A9-%D8%AD%D8%AC%D8%B2-%D8%AA%D8%B0%D8%A7%D9%83%D8%B1-%D8%A7%D9%84%D8%B3%D9%81%D8%B1-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A7",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alkhaleej.ae/2026-09-30/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA/%D9%85%D8%B5%D8%B1-%D8%A5%D8%AA%D8%A7%D8%AD%D8%A9-%D8%AD%D8%AC%D8%B2-%D8%AA%D8%B0%D8%A7%D9%83%D8%B1-%D8%A7%D9%84%D8%B3%D9%81%D8%B1-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A7"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-2c24e33e",
+    "status": "published",
+    "translationOf": "egypt-allows-online-ticket-booking-for-people-with-disabilities-zh-2c24e33e",
+    "publishedAt": "2026-09-30T06:36:18.000Z",
+    "fetchedAt": "2026-09-30T16:31:52.768Z",
+    "body": "In Egypt, it is now possible to book travel tickets online specifically for individuals with disabilities.\n\nRead more from the original source: [news.google.com](https://www.alkhaleej.ae/2026-09-30/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA/%D9%85%D8%B5%D8%B1-%D8%A5%D8%AA%D8%A7%D8%AD%D8%A9-%D8%AD%D8%AC%D8%B2-%D8%AA%D8%B0%D8%A7%D9%83%D8%B1-%D8%A7%D9%84%D8%B3%D9%81%D8%B1-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A7)"
+  },
+  {
+    "title": "Spanish Wheelchair Rugby Team Wins World Championship for the First Time",
+    "slug": "spanish-wheelchair-rugby-team-wins-world-championship-for-the-first-time-472900a0",
+    "lang": "en",
+    "summary": "The Spanish national wheelchair rugby team has won its first World Championship title, defeating Japan in a historic final. The victory highlights the progress and competitive spirit of disability sports, celebrating athletes who break barriers through sport.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "wheelchair-rugby",
+      "sports",
+      "disability-inclusion",
+      "paralympic-spirit"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/la-seleccion-espanola-de-rugby-en-silla-de-ruedas-se-proclama-campeona-del-mundo-por",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/la-seleccion-espanola-de-rugby-en-silla-de-ruedas-se-proclama-campeona-del-mundo-por"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-472900a0",
+    "status": "published",
+    "translationOf": "spanish-wheelchair-rugby-team-wins-world-championship-for-the-first-time-zh-472900a0",
+    "publishedAt": "2026-09-30T05:51:02.000Z",
+    "fetchedAt": "2026-09-30T16:32:19.862Z",
+    "body": "The Spanish national wheelchair rugby team has won its first World Championship title, defeating Japan in a historic final. The victory highlights the progress and competitive spirit of disability sports, celebrating athletes who break barriers through sport.\n\nRead more from the original source: [discapnet.es](https://www.discapnet.es/noticia/la-seleccion-espanola-de-rugby-en-silla-de-ruedas-se-proclama-campeona-del-mundo-por)"
+  },
+  {
+    "title": "Opening of a Special Education Center for Persons with Disabilities in Hasawi, Maharah",
+    "slug": "opening-of-a-special-education-center-for-persons-with-disabilities-in-hasawi-ma-a41baeb0",
+    "lang": "en",
+    "summary": "A new educational center specifically for individuals with disabilities has been opened in Hasawi, Maharah, aiming to provide accessible learning environments and resources for this demographic.",
+    "category": "physical-design",
+    "tags": [
+      "education",
+      "infrastructure",
+      "accessibility"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alayyam.info/news/ARRSYZ0V-T7M5I3-F9EC",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alayyam.info/news/ARRSYZ0V-T7M5I3-F9EC"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-a41baeb0",
+    "status": "published",
+    "translationOf": "opening-of-a-special-education-center-for-persons-with-disabilities-in-hasawi-ma-zh-a41baeb0",
+    "publishedAt": "2026-09-30T15:12:36.000Z",
+    "fetchedAt": "2026-09-30T16:32:23.138Z",
+    "body": "A new educational center specifically for individuals with disabilities has been opened in Hasawi, Maharah, aiming to provide accessible learning environments and resources for this demographic.\n\nRead more from the original source: [news.google.com](https://www.alayyam.info/news/ARRSYZ0V-T7M5I3-F9EC)"
+  },
+  {
+    "title": "Ministry of Education Directs Streamlining of Procedures for Persons with Disabilities",
+    "slug": "ministry-of-education-directs-streamlining-of-procedures-for-persons-with-disabi-caa6d63d",
+    "lang": "en",
+    "summary": "The Ministry of Education has issued directives to simplify administrative procedures and improve accessibility for students and citizens with disabilities and special needs.",
+    "category": "laws-rights",
+    "tags": [
+      "government",
+      "policy",
+      "administrative-accessibility"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://ina.iq/ar/local/274902-.html",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://ina.iq/ar/local/274902-.html"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-caa6d63d",
+    "status": "published",
+    "translationOf": "ministry-of-education-directs-streamlining-of-procedures-for-persons-with-disabi-zh-caa6d63d",
+    "publishedAt": "2026-09-30T09:54:18.000Z",
+    "fetchedAt": "2026-09-30T16:32:23.244Z",
+    "body": "The Ministry of Education has issued directives to simplify administrative procedures and improve accessibility for students and citizens with disabilities and special needs.\n\nRead more from the original source: [news.google.com](https://ina.iq/ar/local/274902-.html)"
+  },
+  {
+    "title": "Mada Launches Digital Platform for Disability Partnership",
+    "slug": "mada-launches-digital-platform-for-disability-partnership-01cad402",
+    "lang": "en",
+    "summary": "The Mada organization has launched a new digital platform dedicated to fostering partnerships and supporting individuals with disabilities, aiming to enhance accessibility and inclusion in the digital space.",
+    "category": "digital-a11y",
+    "tags": [
+      "digital-platform",
+      "disability-inclusion",
+      "partnership"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://al-sharq.com/article/30/09/2026/%D9%85%D8%AF%D9%89-%D9%8A%D8%AF%D8%B4%D9%86-%D9%85%D9%86%D8%B5%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://al-sharq.com/article/30/09/2026/%D9%85%D8%AF%D9%89-%D9%8A%D8%AF%D8%B4%D9%86-%D9%85%D9%86%D8%B5%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-01cad402",
+    "status": "published",
+    "translationOf": "mada-launches-digital-platform-for-disability-partnership-zh-01cad402",
+    "publishedAt": "2026-09-30T07:29:14.000Z",
+    "fetchedAt": "2026-09-30T16:32:27.890Z",
+    "body": "The Mada organization has launched a new digital platform dedicated to fostering partnerships and supporting individuals with disabilities, aiming to enhance accessibility and inclusion in the digital space.\n\nRead more from the original source: [news.google.com](https://al-sharq.com/article/30/09/2026/%D9%85%D8%AF%D9%89-%D9%8A%D8%AF%D8%B4%D9%86-%D9%85%D9%86%D8%B5%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9)"
+  },
+  {
+    "title": "Social Solidarity Agency Issues Free Identity Documents and Work Permits for Persons with Disabilities",
+    "slug": "social-solidarity-agency-issues-free-identity-documents-and-work-permits-for-per-e91ff10e",
+    "lang": "en",
+    "summary": "The Social Solidarity Agency announced the free issuance of identity documents, travel documents, and work permits for individuals with disabilities, aimed at enhancing their access to civil rights and opportunities.",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "rights",
+      "documentation",
+      "social-welfare"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.elwatannews.com/news/details/8363103",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.elwatannews.com/news/details/8363103"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-e91ff10e",
+    "status": "published",
+    "translationOf": "social-solidarity-agency-issues-free-identity-documents-and-work-permits-for-per-zh-e91ff10e",
+    "publishedAt": "2026-09-22T08:09:57.000Z",
+    "fetchedAt": "2026-09-30T16:32:48.117Z",
+    "body": "The Social Solidarity Agency announced the free issuance of identity documents, travel documents, and work permits for individuals with disabilities, aimed at enhancing their access to civil rights and opportunities.\n\nRead more from the original source: [news.google.com](https://www.elwatannews.com/news/details/8363103)"
+  },
+  {
+    "title": "Ministry of Education Issues New Directives to Facilitate Services for Individuals with Disabilities",
+    "slug": "ministry-of-education-issues-new-directives-to-facilitate-services-for-individua-1ea3ff24",
+    "lang": "en",
+    "summary": "The Ministry of Education has issued new guidelines aimed at streamlining administrative processes and facilitating services for students and individuals with disabilities and special needs.",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "policy",
+      "education",
+      "accessibility"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://alssaa.com/post/show/63121-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7-%D9%84%D8%AA%D8%B3%D9%87%D9%8A%D9%84-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://alssaa.com/post/show/63121-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7-%D9%84%D8%AA%D8%B3%D9%87%D9%8A%D9%84-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-1ea3ff24",
+    "status": "published",
+    "translationOf": "ministry-of-education-issues-new-directives-to-facilitate-services-for-individua-zh-1ea3ff24",
+    "publishedAt": "2026-09-30T09:14:41.000Z",
+    "fetchedAt": "2026-09-30T16:32:50.452Z",
+    "body": "The Ministry of Education has issued new guidelines aimed at streamlining administrative processes and facilitating services for students and individuals with disabilities and special needs.\n\nRead more from the original source: [news.google.com](https://alssaa.com/post/show/63121-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7-%D9%84%D8%AA%D8%B3%D9%87%D9%8A%D9%84-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9)"
+  },
+  {
+    "title": "Ministry of Education Facilitates Procedures for Persons with Disabilities",
+    "slug": "ministry-of-education-facilitates-procedures-for-persons-with-disabilities-87d541fb",
+    "lang": "en",
+    "summary": "The Ministry of Education has issued directives to facilitate administrative procedures for individuals with disabilities, including exempting them from waiting times to ensure better access to services.",
+    "category": "laws-rights",
+    "tags": [
+      "education",
+      "administrative-access",
+      "disability-rights"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.mawazin.net/Details.aspx?jimare=292119",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.mawazin.net/Details.aspx?jimare=292119"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-87d541fb",
+    "status": "published",
+    "translationOf": "ministry-of-education-facilitates-procedures-for-persons-with-disabilities-zh-87d541fb",
+    "publishedAt": "2026-09-30T09:08:53.000Z",
+    "fetchedAt": "2026-09-30T16:32:54.008Z",
+    "body": "The Ministry of Education has issued directives to facilitate administrative procedures for individuals with disabilities, including exempting them from waiting times to ensure better access to services.\n\nRead more from the original source: [news.google.com](https://www.mawazin.net/Details.aspx?jimare=292119)"
+  },
+  {
+    "title": "First Conference of Regional Association Supporting Persons with Disabilities in Khanh Hoa",
+    "slug": "first-conference-of-regional-association-supporting-persons-with-disabilities-in-f6bb8468",
+    "lang": "en",
+    "summary": "The first conference of the regional association dedicated to supporting persons with disabilities, poor patients, and children's rights in Khanh Hoa province has set goals for the 2026-2031 period.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "support-organizations",
+      "community",
+      "disability-rights"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.vietnam.vn/ar/dai-hoi-hoi-bao-tro-nguoi-khuyet-tat-benh-nhan-ngheo-va-quyen-tre-em-tinh-khanh-hoa-lan-thu-i-nhiem-ky-2026-2031",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.vietnam.vn/ar/dai-hoi-hoi-bao-tro-nguoi-khuyet-tat-benh-nhan-ngheo-va-quyen-tre-em-tinh-khanh-hoa-lan-thu-i-nhiem-ky-2026-2031"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-f6bb8468",
+    "status": "published",
+    "translationOf": "first-conference-of-regional-association-supporting-persons-with-disabilities-in-zh-f6bb8468",
+    "publishedAt": "2026-09-30T09:36:14.000Z",
+    "fetchedAt": "2026-09-30T16:32:54.110Z",
+    "body": "The first conference of the regional association dedicated to supporting persons with disabilities, poor patients, and children's rights in Khanh Hoa province has set goals for the 2026-2031 period.\n\nRead more from the original source: [news.google.com](https://www.vietnam.vn/ar/dai-hoi-hoi-bao-tro-nguoi-khuyet-tat-benh-nhan-ngheo-va-quyen-tre-em-tinh-khanh-hoa-lan-thu-i-nhiem-ky-2026-2031)"
+  },
+  {
+    "title": "First Congress of Khanh Hoa Provincial Association for People with Disabilities and Poor Patients",
+    "slug": "first-congress-of-khanh-hoa-provincial-association-for-people-with-disabilities--b3d0e910",
+    "lang": "en",
+    "summary": "The first congress of the Khanh Hoa Provincial Association to support people with disabilities, poor patients, and children's rights was held for the 2026-2031 term. The event aimed to establish a new framework for supporting vulnerable groups, emphasizing social welfare and rights advocacy for individuals with disabilities.",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "association",
+      "congress",
+      "support",
+      "vulnerable-groups",
+      "2026-2031"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.vietnam.vn/ar/chao-mung-dai-hoi-hoi-bao-tro-nguoi-khuyet-tat-benh-nhan-ngheo-va-quyen-tre-em-tinh-khanh-hoa-lan-thu-i-nhiem-ky-2026-2031-diem-tua-cho-nguoi-yeu-the",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.vietnam.vn/ar/chao-mung-dai-hoi-hoi-bao-tro-nguoi-khuyet-tat-benh-nhan-ngheo-va-quyen-tre-em-tinh-khanh-hoa-lan-thu-i-nhiem-ky-2026-2031-diem-tua-cho-nguoi-yeu-the"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-b3d0e910",
+    "status": "published",
+    "translationOf": "first-congress-of-khanh-hoa-provincial-association-for-people-with-disabilities--zh-b3d0e910",
+    "publishedAt": "2026-09-30T03:14:52.000Z",
+    "fetchedAt": "2026-09-30T16:33:20.845Z",
+    "body": "The first congress of the Khanh Hoa Provincial Association to support people with disabilities, poor patients, and children's rights was held for the 2026-2031 term. The event aimed to establish a new framework for supporting vulnerable groups, emphasizing social welfare and rights advocacy for individuals with disabilities.\n\nRead more from the original source: [news.google.com](https://www.vietnam.vn/ar/chao-mung-dai-hoi-hoi-bao-tro-nguoi-khuyet-tat-benh-nhan-ngheo-va-quyen-tre-em-tinh-khanh-hoa-lan-thu-i-nhiem-ky-2026-2031-diem-tua-cho-nguoi-yeu-the)"
+  },
+  {
+    "title": "Culture and Arts Open a Window on the Social Manifestations of People with Disabilities",
+    "slug": "culture-and-arts-open-a-window-on-the-social-manifestations-of-people-with-disab-0b37e39e",
+    "lang": "en",
+    "summary": "An article from Saudi newspaper Al Nahar highlights how culture and arts provide a platform to showcase the social contributions and experiences of people with disabilities, framing disability as 'inheritable capital' rather than a burden.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability-inclusion",
+      "arts-culture",
+      "social-rights",
+      "saudi-arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://annahar-news.com/news/single/38057",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://annahar-news.com/news/single/38057"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-0b37e39e",
+    "status": "published",
+    "translationOf": "culture-and-arts-open-a-window-on-the-social-manifestations-of-people-with-disab-zh-0b37e39e",
+    "publishedAt": "2026-09-30T05:35:18.000Z",
+    "fetchedAt": "2026-09-30T16:33:30.094Z",
+    "body": "An article from Saudi newspaper Al Nahar highlights how culture and arts provide a platform to showcase the social contributions and experiences of people with disabilities, framing disability as 'inheritable capital' rather than a burden.\n\nRead more from the original source: [news.google.com](https://annahar-news.com/news/single/38057)"
+  },
+  {
+    "title": "National Council for Persons with Disabilities Helps Student Ans Return to Regular School",
+    "slug": "national-council-for-persons-with-disabilities-helps-student-ans-return-to-regul-3cfa9f3a",
+    "lang": "en",
+    "summary": "The National Council for Persons with Disabilities successfully intervened to ensure that student Ans could return to his school and continue his education regularly, highlighting a success story in inclusive education and disability rights advocacy.",
+    "category": "laws-rights",
+    "tags": [
+      "inclusive-education",
+      "disability-rights",
+      "school-accommodation"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.akhbarelnaselyoum.com/archives/204805",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.akhbarelnaselyoum.com/archives/204805"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-3cfa9f3a",
+    "status": "published",
+    "translationOf": "national-council-for-persons-with-disabilities-helps-student-ans-return-to-regul-zh-3cfa9f3a",
+    "publishedAt": "2026-09-30T15:37:08.000Z",
+    "fetchedAt": "2026-09-30T16:33:30.213Z",
+    "body": "The National Council for Persons with Disabilities successfully intervened to ensure that student Ans could return to his school and continue his education regularly, highlighting a success story in inclusive education and disability rights advocacy.\n\nRead more from the original source: [news.google.com](https://www.akhbarelnaselyoum.com/archives/204805)"
+  },
+  {
+    "title": "Education Ministry Directs Facilitation of Procedures for Persons with Disabilities",
+    "slug": "education-ministry-directs-facilitation-of-procedures-for-persons-with-disabilit-30198bf3",
+    "lang": "en",
+    "summary": "The Ministry of Education has issued directives to streamline and facilitate administrative procedures for students and individuals with disabilities and special needs, aiming to enhance their access to educational services and reduce bureaucratic barriers.",
+    "category": "laws-rights",
+    "tags": [
+      "education",
+      "bureaucracy",
+      "rights",
+      "disability"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://baghdadtoday.news/306251-.html",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://baghdadtoday.news/306251-.html"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-30198bf3",
+    "status": "published",
+    "translationOf": "education-ministry-directs-facilitation-of-procedures-for-persons-with-disabilit-zh-30198bf3",
+    "publishedAt": "2026-09-30T07:20:09.000Z",
+    "fetchedAt": "2026-09-30T16:33:32.895Z",
+    "body": "The Ministry of Education has issued directives to streamline and facilitate administrative procedures for students and individuals with disabilities and special needs, aiming to enhance their access to educational services and reduce bureaucratic barriers.\n\nRead more from the original source: [news.google.com](https://baghdadtoday.news/306251-.html)"
+  },
+  {
+    "title": "Education Ministry Directs Easing Procedures for Individuals with Disabilities",
+    "slug": "education-ministry-directs-easing-procedures-for-individuals-with-disabilities-d5c2c516",
+    "lang": "en",
+    "summary": "The Ministry of Education has issued directives to simplify administrative procedures and transactions for individuals with disabilities and special needs, aiming to improve accessibility within the education sector.",
+    "category": "laws-rights",
+    "tags": [
+      "government",
+      "education",
+      "procedures",
+      "inclusion"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.aldaaenews.com/AR/Details/63959",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.aldaaenews.com/AR/Details/63959"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-d5c2c516",
+    "status": "published",
+    "translationOf": "education-ministry-directs-easing-procedures-for-individuals-with-disabilities-zh-d5c2c516",
+    "publishedAt": "2026-09-30T09:02:19.000Z",
+    "fetchedAt": "2026-09-30T16:33:35.475Z",
+    "body": "The Ministry of Education has issued directives to simplify administrative procedures and transactions for individuals with disabilities and special needs, aiming to improve accessibility within the education sector.\n\nRead more from the original source: [news.google.com](https://www.aldaaenews.com/AR/Details/63959)"
   }
 ]

@@ -89738,5 +89738,947 @@
     "publishedAt": "2026-09-30T02:07:19.000Z",
     "fetchedAt": "2026-09-30T15:19:45.354Z",
     "body": "全球無障礙意識日基金會已公布 2026 年 Gaady 獎得主，表彰將無障礙與殘障人士納入其數位產品開發的組織。\n推文來源： [GlobalA11yAwarenessDay (@gbla11yday)](https://x.com/gbla11yday/status/2105117256732819759)\n外部連結： [https://gaad.foundation/what-we-do/gaadys](https://gaad.foundation/what-we-do/gaadys)"
+  },
+  {
+    "title": "公共厕所是否真正无障碍？",
+    "slug": "are-public-toilets-truly-accessible-zh-660d6f67",
+    "lang": "zh-TW",
+    "summary": "在巴黎无障碍意识周期间，残障人士分享了使用公共厕所的经历，质疑现行的无障碍标准（PMR）是否足够，特别是关于自动开门机制的问题。",
+    "category": "physical-design",
+    "tags": [
+      "public-toilets",
+      "physical-accessibility",
+      "standards",
+      "france"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-toilettes-publiques-sont-elles-vraiment-accessibles-39783.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-toilettes-publiques-sont-elles-vraiment-accessibles-39783.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-660d6f67",
+    "status": "published",
+    "translationOf": "are-public-toilets-truly-accessible-660d6f67",
+    "publishedAt": "2026-09-30T07:00:15.000Z",
+    "fetchedAt": "2026-09-30T16:31:02.676Z",
+    "body": "在巴黎无障碍意识周期间，残障人士分享了使用公共厕所的经历，质疑现行的无障碍标准（PMR）是否足够，特别是关于自动开门机制的问题。\n\n原文來源： [handicap.fr](https://informations.handicap.fr/a-toilettes-publiques-sont-elles-vraiment-accessibles-39783.php)"
+  },
+  {
+    "title": "数字无障碍：为何要用用户研究来补充合规性？",
+    "slug": "digital-accessibility-why-complement-compliance-with-user-research-zh-1a8fe561",
+    "lang": "zh-TW",
+    "summary": "文章指出，虽然符合无障碍法律标准至关重要，但必须进行残障人士可用性测试，以评估真实的用户体验，而不仅仅是满足合规要求。",
+    "category": "digital-a11y",
+    "tags": [
+      "web-accessibility",
+      "usability",
+      "user-testing",
+      "compliance"
+    ],
+    "sourceName": "access42.net",
+    "sourceUrl": "https://access42.net/accessibilite-numerique-completer-conformite-recherche-utilisateur",
+    "relatedSources": [
+      {
+        "name": "access42.net",
+        "url": "https://access42.net/accessibilite-numerique-completer-conformite-recherche-utilisateur"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://access42.net/feed",
+    "ingestProvider": "access42.net",
+    "originalLang": "fr",
+    "clusterId": "cluster-1a8fe561",
+    "status": "published",
+    "translationOf": "digital-accessibility-why-complement-compliance-with-user-research-1a8fe561",
+    "publishedAt": "2026-09-30T06:42:44.000Z",
+    "fetchedAt": "2026-09-30T16:31:02.792Z",
+    "body": "文章指出，虽然符合无障碍法律标准至关重要，但必须进行残障人士可用性测试，以评估真实的用户体验，而不仅仅是满足合规要求。\n\n原文來源： [access42.net](https://access42.net/accessibilite-numerique-completer-conformite-recherche-utilisateur)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "cannabis-medical-ne-pas-publier-les-decrets-cest-ajouter-a-notre-souffrance-zh-03ee4c7c",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "faire-face.fr",
+    "sourceUrl": "https://www.faire-face.fr/2026/09/30/cannabis-medical-ne-pas-publier-les-decrets-cest-ajouter-a-notre-souffrance",
+    "relatedSources": [
+      {
+        "name": "faire-face.fr",
+        "url": "https://www.faire-face.fr/2026/09/30/cannabis-medical-ne-pas-publier-les-decrets-cest-ajouter-a-notre-souffrance"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://faire-face.fr/feed",
+    "ingestProvider": "faire-face.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-03ee4c7c",
+    "status": "draft",
+    "translationOf": "cannabis-medical-ne-pas-publier-les-decrets-cest-ajouter-a-notre-souffrance-03ee4c7c",
+    "publishedAt": "2026-09-30T11:38:52.000Z",
+    "fetchedAt": "2026-09-30T16:31:02.892Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [faire-face.fr](https://www.faire-face.fr/2026/09/30/cannabis-medical-ne-pas-publier-les-decrets-cest-ajouter-a-notre-souffrance)"
+  },
+  {
+    "title": "法國：擬議法律強制要求為殘疾員工調整工作場所",
+    "slug": "france-proposed-law-to-mandate-workplace-adjustments-for-employees-with-disabili-zh-c4bf2ddd",
+    "lang": "zh-TW",
+    "summary": "在2005年殘疾人法律實施二十年後，法國司法界仍未將拒絕為殘疾員工調整工作場所明確界定為歧視行為。由APF France handicap支持的立法提案旨在使合理的職場調整成為法律強制要求，而非僅依賴管理層自願.",
+    "category": "laws-rights",
+    "tags": [
+      "employment",
+      "legislation",
+      "France",
+      "workplace",
+      "discrimination"
+    ],
+    "sourceName": "la-croix.com",
+    "sourceUrl": "https://www.la-croix.com/a-vif/l-amenagement-de-poste-dun-salarie-handicape-ne-doit-pas-reposer-sur-la-seule-bonne-volonte-manageriale-20260930",
+    "relatedSources": [
+      {
+        "name": "la-croix.com",
+        "url": "https://www.la-croix.com/a-vif/l-amenagement-de-poste-dun-salarie-handicape-ne-doit-pas-reposer-sur-la-seule-bonne-volonte-manageriale-20260930"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.la-croix.com/feeds/rss/Dossiers-Dynamiques/Handicap.xml",
+    "ingestProvider": "la-croix.com",
+    "originalLang": "fr",
+    "clusterId": "cluster-c4bf2ddd",
+    "status": "published",
+    "translationOf": "france-proposed-law-to-mandate-workplace-adjustments-for-employees-with-disabili-c4bf2ddd",
+    "publishedAt": "2026-09-30T06:19:23.000Z",
+    "fetchedAt": "2026-09-30T16:31:08.656Z",
+    "body": "在2005年殘疾人法律實施二十年後，法國司法界仍未將拒絕為殘疾員工調整工作場所明確界定為歧視行為。由APF France handicap支持的立法提案旨在使合理的職場調整成為法律強制要求，而非僅依賴管理層自願.\n\n原文來源： [la-croix.com](https://www.la-croix.com/a-vif/l-amenagement-de-poste-dun-salarie-handicape-ne-doit-pas-reposer-sur-la-seule-bonne-volonte-manageriale-20260930)"
+  },
+  {
+    "title": "Fundación Caser 獎表彰自閉症檢測、心理健康及罕見疾病意識提升方面的創新",
+    "slug": "fundacion-caser-awards-recognize-innovation-in-autism-detection-mental-health-an-zh-e9cb6159",
+    "lang": "zh-TW",
+    "summary": "Fundación Caser 獎項表彰了多項關注社會包容與殘疾的計劃。獲獎項目包括自閉症早期檢測、應對心理健康孤獨問題以及對聽障電影和顯性魚鱗癬倡导的特別表彰.",
+    "category": "assistive-tech",
+    "tags": [
+      "autism",
+      "mental-health",
+      "rare-disease",
+      "innovation",
+      "award"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/fundacion-caser-celebra-la-entrega-de-galardones-de-los-premios-dependencia-y-sociedad",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/fundacion-caser-celebra-la-entrega-de-galardones-de-los-premios-dependencia-y-sociedad"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-e9cb6159",
+    "status": "published",
+    "translationOf": "fundacion-caser-awards-recognize-innovation-in-autism-detection-mental-health-an-e9cb6159",
+    "publishedAt": "2026-09-30T11:12:06.000Z",
+    "fetchedAt": "2026-09-30T16:31:08.761Z",
+    "body": "Fundación Caser 獎項表彰了多項關注社會包容與殘疾的計劃。獲獎項目包括自閉症早期檢測、應對心理健康孤獨問題以及對聽障電影和顯性魚鱗癬倡导的特別表彰.\n\n原文來源： [discapnet.es](https://www.discapnet.es/noticia/fundacion-caser-celebra-la-entrega-de-galardones-de-los-premios-dependencia-y-sociedad)"
+  },
+  {
+    "title": "布料剪裁项目增强残障人士的自信与自立",
+    "slug": "fabric-scrap-project-boosts-confidence-and-self-reliance-for-persons-with-disabi-zh-99ef0e33",
+    "lang": "zh-TW",
+    "summary": "报道展示了残障人士通过参与布料剪裁活动提升自信与自立能力的旅程，强调这一手工或职业活动作为治疗或职业手段，提升了他们的生活质量与自主性。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability-inclusion",
+      "vocational-training",
+      "mental-health"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.vietnam.vn/ar/khi-vai-vun-no-hoa-hanh-trinh-tu-tin-va-tu-chu-cua-nguoi-khuyet-tat",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.vietnam.vn/ar/khi-vai-vun-no-hoa-hanh-trinh-tu-tin-va-tu-chu-cua-nguoi-khuyet-tat"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-99ef0e33",
+    "status": "published",
+    "translationOf": "fabric-scrap-project-boosts-confidence-and-self-reliance-for-persons-with-disabi-99ef0e33",
+    "publishedAt": "2026-09-30T09:05:00.000Z",
+    "fetchedAt": "2026-09-30T16:31:28.377Z",
+    "body": "报道展示了残障人士通过参与布料剪裁活动提升自信与自立能力的旅程，强调这一手工或职业活动作为治疗或职业手段，提升了他们的生活质量与自主性。\n\n原文來源： [news.google.com](https://www.vietnam.vn/ar/khi-vai-vun-no-hoa-hanh-trinh-tu-tin-va-tu-chu-cua-nguoi-khuyet-tat)"
+  },
+  {
+    "title": "“塔茂”计划自2020年启动以来改善1774名残障人士生活质量",
+    "slug": "tamaw-program-enhances-quality-of-life-for-1774-beneficiaries-with-disabilities--zh-a26e6d4c",
+    "lang": "zh-TW",
+    "summary": "自2020年启动以来，“塔茂”计划已改善1774名残障人士的生活质量，重点关注社会包容与支持服务。",
+    "category": "case-studies",
+    "tags": [
+      "policy-program",
+      "quality-of-life",
+      "uae"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.emaratalyoum.com/local-section/other/2026-09-30-1.2087899",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.emaratalyoum.com/local-section/other/2026-09-30-1.2087899"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-a26e6d4c",
+    "status": "published",
+    "translationOf": "tamaw-program-enhances-quality-of-life-for-1774-beneficiaries-with-disabilities--a26e6d4c",
+    "publishedAt": "2026-09-30T00:05:00.000Z",
+    "fetchedAt": "2026-09-30T16:31:28.494Z",
+    "body": "自2020年启动以来，“塔茂”计划已改善1774名残障人士的生活质量，重点关注社会包容与支持服务。\n\n原文來源： [news.google.com](https://www.emaratalyoum.com/local-section/other/2026-09-30-1.2087899)"
+  },
+  {
+    "title": "法國推出全國性標準框架以衡量殘疾人服務計劃的影響",
+    "slug": "national-reference-framework-measures-impact-of-disability-actions-in-france-zh-f0f3d468",
+    "lang": "zh-TW",
+    "summary": "Malakoff Humanis 提出一項新的全國性參考框架，包含超過 250 個指標，旨在規範法國殘疾人領域中社會影響及行動有效性的衡量標準。",
+    "category": "laws-rights",
+    "tags": [
+      "disability-sector",
+      "metrics",
+      "framework",
+      "france"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-referentiel-handicap-mesurer-enfin-l-impact-des-actions-39785.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-referentiel-handicap-mesurer-enfin-l-impact-des-actions-39785.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-f0f3d468",
+    "status": "published",
+    "translationOf": "national-reference-framework-measures-impact-of-disability-actions-in-france-f0f3d468",
+    "publishedAt": "2026-09-30T07:00:00.000Z",
+    "fetchedAt": "2026-09-30T16:31:33.003Z",
+    "body": "Malakoff Humanis 提出一項新的全國性參考框架，包含超過 250 個指標，旨在規範法國殘疾人領域中社會影響及行動有效性的衡量標準。\n\n原文來源： [handicap.fr](https://informations.handicap.fr/a-referentiel-handicap-mesurer-enfin-l-impact-des-actions-39785.php)"
+  },
+  {
+    "title": "Down Madrid 舉辦第十六屆促進融合的慈善วิ่ง",
+    "slug": "down-madrid-holds-16th-solidarity-run-for-inclusion-zh-ec805751",
+    "lang": "zh-TW",
+    "summary": "Down Madrid 舉辦了第十六屆年度慈善跑活動，透過體育運動與社區參與，旨在促進智障人士的融合與自主能力。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "intellectual-disability",
+      "sports",
+      "inclusion",
+      "espan"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/evento/down-madrid-celebra-la-16a-edicion-de-su-carrera-solidaria-por-la-inclusion",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/evento/down-madrid-celebra-la-16a-edicion-de-su-carrera-solidaria-por-la-inclusion"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-ec805751",
+    "status": "published",
+    "translationOf": "down-madrid-holds-16th-solidarity-run-for-inclusion-ec805751",
+    "publishedAt": "2026-09-30T06:44:33.000Z",
+    "fetchedAt": "2026-09-30T16:31:33.109Z",
+    "body": "Down Madrid 舉辦了第十六屆年度慈善跑活動，透過體育運動與社區參與，旨在促進智障人士的融合與自主能力。\n\n原文來源： [discapnet.es](https://www.discapnet.es/evento/down-madrid-celebra-la-16a-edicion-de-su-carrera-solidaria-por-la-inclusion)"
+  },
+  {
+    "title": "埃及法律規範殘障人士的知識產權保護",
+    "slug": "egyptian-law-regulates-intellectual-property-protection-for-persons-with-disabil-zh-43b4184c",
+    "lang": "zh-TW",
+    "summary": "埃及新法律框架確立了具體指引，以保護殘障人士的知識產權，確保他們在創作作品時享有法律保障。",
+    "category": "laws-rights",
+    "tags": [
+      "Egypt",
+      "Intellectual Property",
+      "Disability Rights",
+      "Legislation"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.parlmany.com/News/7/616469/%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%8A%D9%86%D8%B8%D9%85-%D8%B6%D9%88%D8%A7%D8%A8%D8%B7-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%83%D8%B1%D9%8A%D8%A9-%D9%84%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.parlmany.com/News/7/616469/%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%8A%D9%86%D8%B8%D9%85-%D8%B6%D9%88%D8%A7%D8%A8%D8%B7-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%83%D8%B1%D9%8A%D8%A9-%D9%84%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-43b4184c",
+    "status": "published",
+    "translationOf": "egyptian-law-regulates-intellectual-property-protection-for-persons-with-disabil-43b4184c",
+    "publishedAt": "2026-09-30T07:00:00.000Z",
+    "fetchedAt": "2026-09-30T16:31:45.469Z",
+    "body": "埃及新法律框架確立了具體指引，以保護殘障人士的知識產權，確保他們在創作作品時享有法律保障。\n\n原文來源： [news.google.com](https://www.parlmany.com/News/7/616469/%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%8A%D9%86%D8%B8%D9%85-%D8%B6%D9%88%D8%A7%D8%A8%D8%B7-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%83%D8%B1%D9%8A%D8%A9-%D9%84%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84)"
+  },
+  {
+    "title": "阿爾艾因學生協助殘障同學遞交作業",
+    "slug": "student-in-al-ain-assists-classmate-with-disabilities-in-submitting-schoolwork-zh-07a18f1e",
+    "lang": "zh-TW",
+    "summary": "阿聯酋阿爾艾因發生了一起溫馨事件，一名學生幫助殘障同學遞交學校作業，突顯了學校中的同伴支持與包容文化。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "UAE",
+      "Al Ain",
+      "Inclusion",
+      "Peer Support",
+      "Education"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alkhaleej.ae/2026-09-29/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%AD%D8%AF%D8%AB-%D8%A8%D8%A7%D9%84%D8%B9%D9%8A%D9%86-%D8%B7%D8%A7%D9%84%D8%A8-%D9%8A%D9%82%D8%AF%D9%85-%D9%88%D8%A7%D8%AC%D8%A8%D9%87-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A-%D9%84%D8%B2%D9%85%D9%8A%D9%84%D8%AA%D9%87-%D9%85%D9%86-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alkhaleej.ae/2026-09-29/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%AD%D8%AF%D8%AB-%D8%A8%D8%A7%D9%84%D8%B9%D9%8A%D9%86-%D8%B7%D8%A7%D9%84%D8%A8-%D9%8A%D9%82%D8%AF%D9%85-%D9%88%D8%A7%D8%AC%D8%A8%D9%87-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A-%D9%84%D8%B2%D9%85%D9%8A%D9%84%D8%AA%D9%87-%D9%85%D9%86-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-07a18f1e",
+    "status": "published",
+    "translationOf": "student-in-al-ain-assists-classmate-with-disabilities-in-submitting-schoolwork-07a18f1e",
+    "publishedAt": "2026-09-29T20:48:56.000Z",
+    "fetchedAt": "2026-09-30T16:31:45.585Z",
+    "body": "阿聯酋阿爾艾因發生了一起溫馨事件，一名學生幫助殘障同學遞交學校作業，突顯了學校中的同伴支持與包容文化。\n\n原文來源： [news.google.com](https://www.alkhaleej.ae/2026-09-29/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%AD%D8%AF%D8%AB-%D8%A8%D8%A7%D9%84%D8%B9%D9%8A%D9%86-%D8%B7%D8%A7%D9%84%D8%A8-%D9%8A%D9%82%D8%AF%D9%85-%D9%88%D8%A7%D8%AC%D8%A8%D9%87-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A-%D9%84%D8%B2%D9%85%D9%8A%D9%84%D8%AA%D9%87-%D9%85%D9%86-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85)"
+  },
+  {
+    "title": "人工智慧技術幫助法國照護阿茲海默症患者",
+    "slug": "ai-technologies-assist-in-caring-for-alzheimers-patients-in-france-zh-a83d8732",
+    "lang": "zh-TW",
+    "summary": "在法國，人工智慧技術被用於輔助照護和管理阿茲海默症患者，透過監測與支持系統提升照護品質。",
+    "category": "assistive-tech",
+    "tags": [
+      "Alzheimer's",
+      "AI",
+      "Healthcare",
+      "Assistive Technology"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://sana.sy/miscellaneous/2585340",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://sana.sy/miscellaneous/2585340"
+      }
+    ],
+    "sourceCountry": "EG",
+    "queryRegion": "EG",
+    "region": "EG",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-a83d8732",
+    "status": "published",
+    "translationOf": "ai-technologies-assist-in-caring-for-alzheimers-patients-in-france-a83d8732",
+    "publishedAt": "2026-09-20T13:05:00.000Z",
+    "fetchedAt": "2026-09-30T16:31:49.702Z",
+    "body": "在法國，人工智慧技術被用於輔助照護和管理阿茲海默症患者，透過監測與支持系統提升照護品質。\n\n原文來源： [news.google.com](https://sana.sy/miscellaneous/2585340)"
+  },
+  {
+    "title": "CERMI 啟動《歐洲社會沙發》系列，由 Enrique Barón Crespo 發聲",
+    "slug": "cermi-launches-el-sillon-de-la-europa-social-series-featuring-enrique-baron-cres-zh-f1b7a073",
+    "lang": "zh-TW",
+    "summary": "西班牙殘疾人代表委員會 (CERMI) 啟動了一個新的音訊視覺訪談系列，關注歐盟的社會面向。該系列強調了殘疾運動的作用，並倡導維護歐洲社會基金和社會包容政策。",
+    "category": "laws-rights",
+    "tags": [
+      "CERMI",
+      "Disability Rights",
+      "EU Policy",
+      "Social Inclusion"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/el-cermi-estrena-el-sillon-de-la-europa-social-con-enrique-baron-crespo-que-llama-defender",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/el-cermi-estrena-el-sillon-de-la-europa-social-con-enrique-baron-crespo-que-llama-defender"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-f1b7a073",
+    "status": "published",
+    "translationOf": "cermi-launches-el-sillon-de-la-europa-social-series-featuring-enrique-baron-cres-f1b7a073",
+    "publishedAt": "2026-09-30T06:19:33.000Z",
+    "fetchedAt": "2026-09-30T16:31:49.791Z",
+    "body": "西班牙殘疾人代表委員會 (CERMI) 啟動了一個新的音訊視覺訪談系列，關注歐盟的社會面向。該系列強調了殘疾運動的作用，並倡導維護歐洲社會基金和社會包容政策。\n\n原文來源： [discapnet.es](https://www.discapnet.es/noticia/el-cermi-estrena-el-sillon-de-la-europa-social-con-enrique-baron-crespo-que-llama-defender)"
+  },
+  {
+    "title": "「Dua」會議匯聚專家以發展阿西爾地區視障人士服務",
+    "slug": "diya-conference-gathers-specialists-to-develop-services-for-visually-impaired-in-zh-0bf592e2",
+    "lang": "zh-TW",
+    "summary": "「Dua」會議匯聚專家，旨在改善阿西爾地區視障人士的服務與支持。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "visual-impairment",
+      "services"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://haqayq-news.com/72146",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://haqayq-news.com/72146"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-0bf592e2",
+    "status": "published",
+    "translationOf": "diya-conference-gathers-specialists-to-develop-services-for-visually-impaired-in-0bf592e2",
+    "publishedAt": "2026-09-29T19:19:10.000Z",
+    "fetchedAt": "2026-09-30T16:31:52.664Z",
+    "body": "「Dua」會議匯聚專家，旨在改善阿西爾地區視障人士的服務與支持。\n\n原文來源： [news.google.com](https://haqayq-news.com/72146)"
+  },
+  {
+    "title": "埃及允許殘障人士線上預訂門票",
+    "slug": "egypt-allows-online-ticket-booking-for-people-with-disabilities-zh-2c24e33e",
+    "lang": "zh-TW",
+    "summary": "在埃及，殘障人士現在可以專門通過線上渠道預訂旅行門票。",
+    "category": "digital-a11y",
+    "tags": [
+      "digital-accessibility",
+      "e-ticketing",
+      "disability"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alkhaleej.ae/2026-09-30/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA/%D9%85%D8%B5%D8%B1-%D8%A5%D8%AA%D8%A7%D8%AD%D8%A9-%D8%AD%D8%AC%D8%B2-%D8%AA%D8%B0%D8%A7%D9%83%D8%B1-%D8%A7%D9%84%D8%B3%D9%81%D8%B1-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A7",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alkhaleej.ae/2026-09-30/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA/%D9%85%D8%B5%D8%B1-%D8%A5%D8%AA%D8%A7%D8%AD%D8%A9-%D8%AD%D8%AC%D8%B2-%D8%AA%D8%B0%D8%A7%D9%83%D8%B1-%D8%A7%D9%84%D8%B3%D9%81%D8%B1-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A7"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-2c24e33e",
+    "status": "published",
+    "translationOf": "egypt-allows-online-ticket-booking-for-people-with-disabilities-2c24e33e",
+    "publishedAt": "2026-09-30T06:36:18.000Z",
+    "fetchedAt": "2026-09-30T16:31:52.768Z",
+    "body": "在埃及，殘障人士現在可以專門通過線上渠道預訂旅行門票。\n\n原文來源： [news.google.com](https://www.alkhaleej.ae/2026-09-30/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA/%D9%85%D8%B5%D8%B1-%D8%A5%D8%AA%D8%A7%D8%AD%D8%A9-%D8%AD%D8%AC%D8%B2-%D8%AA%D8%B0%D8%A7%D9%83%D8%B1-%D8%A7%D9%84%D8%B3%D9%81%D8%B1-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A7)"
+  },
+  {
+    "title": "西班牙轮椅橄榄球队首次夺得世界冠军",
+    "slug": "spanish-wheelchair-rugby-team-wins-world-championship-for-the-first-time-zh-472900a0",
+    "lang": "zh-TW",
+    "summary": "西班牙轮椅橄榄球国家队在决赛中以史诗般的胜利击败日本队，首次夺得世界冠军头衔。这一胜利突显了残疾人体育的进步与竞技精神，赞扬了运动员通过体育打破障碍的成就。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "wheelchair-rugby",
+      "sports",
+      "disability-inclusion",
+      "paralympic-spirit"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/la-seleccion-espanola-de-rugby-en-silla-de-ruedas-se-proclama-campeona-del-mundo-por",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/la-seleccion-espanola-de-rugby-en-silla-de-ruedas-se-proclama-campeona-del-mundo-por"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-472900a0",
+    "status": "published",
+    "translationOf": "spanish-wheelchair-rugby-team-wins-world-championship-for-the-first-time-472900a0",
+    "publishedAt": "2026-09-30T05:51:02.000Z",
+    "fetchedAt": "2026-09-30T16:32:19.862Z",
+    "body": "西班牙轮椅橄榄球国家队在决赛中以史诗般的胜利击败日本队，首次夺得世界冠军头衔。这一胜利突显了残疾人体育的进步与竞技精神，赞扬了运动员通过体育打破障碍的成就。\n\n原文來源： [discapnet.es](https://www.discapnet.es/noticia/la-seleccion-espanola-de-rugby-en-silla-de-ruedas-se-proclama-campeona-del-mundo-por)"
+  },
+  {
+    "title": "馬赫拉省哈薩維市為殘疾人士開設特殊教育中心",
+    "slug": "opening-of-a-special-education-center-for-persons-with-disabilities-in-hasawi-ma-zh-a41baeb0",
+    "lang": "zh-TW",
+    "summary": "一座專門服務殘疾人士的教育中心在馬赫拉省哈薩維市正式啟用，旨在為該群體提供無障礙學習環境及相關資源。",
+    "category": "physical-design",
+    "tags": [
+      "education",
+      "infrastructure",
+      "accessibility"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alayyam.info/news/ARRSYZ0V-T7M5I3-F9EC",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alayyam.info/news/ARRSYZ0V-T7M5I3-F9EC"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-a41baeb0",
+    "status": "published",
+    "translationOf": "opening-of-a-special-education-center-for-persons-with-disabilities-in-hasawi-ma-a41baeb0",
+    "publishedAt": "2026-09-30T15:12:36.000Z",
+    "fetchedAt": "2026-09-30T16:32:23.138Z",
+    "body": "一座專門服務殘疾人士的教育中心在馬赫拉省哈薩維市正式啟用，旨在為該群體提供無障礙學習環境及相關資源。\n\n原文來源： [news.google.com](https://www.alayyam.info/news/ARRSYZ0V-T7M5I3-F9EC)"
+  },
+  {
+    "title": "教育部長下令簡化殘疾人士及特殊需求者的行政程序",
+    "slug": "ministry-of-education-directs-streamlining-of-procedures-for-persons-with-disabi-zh-caa6d63d",
+    "lang": "zh-TW",
+    "summary": "教育部長發布指示，旨在簡化行政程序並改善殘疾人士及有特殊需求者的無障礙體驗與服務流程。",
+    "category": "laws-rights",
+    "tags": [
+      "government",
+      "policy",
+      "administrative-accessibility"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://ina.iq/ar/local/274902-.html",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://ina.iq/ar/local/274902-.html"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-caa6d63d",
+    "status": "published",
+    "translationOf": "ministry-of-education-directs-streamlining-of-procedures-for-persons-with-disabi-caa6d63d",
+    "publishedAt": "2026-09-30T09:54:18.000Z",
+    "fetchedAt": "2026-09-30T16:32:23.244Z",
+    "body": "教育部長發布指示，旨在簡化行政程序並改善殘疾人士及有特殊需求者的無障礙體驗與服務流程。\n\n原文來源： [news.google.com](https://ina.iq/ar/local/274902-.html)"
+  },
+  {
+    "title": "“ مدى ” 推出殘疾人夥伴關係數位平台",
+    "slug": "mada-launches-digital-platform-for-disability-partnership-zh-01cad402",
+    "lang": "zh-TW",
+    "summary": "「 مدى 」組織推出了專為促進與殘疾人士合作而設的數位平台，旨在提升數位空間的可及性與包容性。",
+    "category": "digital-a11y",
+    "tags": [
+      "digital-platform",
+      "disability-inclusion",
+      "partnership"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://al-sharq.com/article/30/09/2026/%D9%85%D8%AF%D9%89-%D9%8A%D8%AF%D8%B4%D9%86-%D9%85%D9%86%D8%B5%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://al-sharq.com/article/30/09/2026/%D9%85%D8%AF%D9%89-%D9%8A%D8%AF%D8%B4%D9%86-%D9%85%D9%86%D8%B5%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-01cad402",
+    "status": "published",
+    "translationOf": "mada-launches-digital-platform-for-disability-partnership-01cad402",
+    "publishedAt": "2026-09-30T07:29:14.000Z",
+    "fetchedAt": "2026-09-30T16:32:27.890Z",
+    "body": "「 مدى 」組織推出了專為促進與殘疾人士合作而設的數位平台，旨在提升數位空間的可及性與包容性。\n\n原文來源： [news.google.com](https://al-sharq.com/article/30/09/2026/%D9%85%D8%AF%D9%89-%D9%8A%D8%AF%D8%B4%D9%86-%D9%85%D9%86%D8%B5%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9)"
+  },
+  {
+    "title": "社會固體局為殘障人士免費辦理身份證明文件及工作許可",
+    "slug": "social-solidarity-agency-issues-free-identity-documents-and-work-permits-for-per-zh-e91ff10e",
+    "lang": "zh-TW",
+    "summary": "社會固體局宣布為殘障人士免費辦理身份證明文件、旅行文件和工牌照，旨在促進他們獲得公民權利和機會。",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "rights",
+      "documentation",
+      "social-welfare"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.elwatannews.com/news/details/8363103",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.elwatannews.com/news/details/8363103"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-e91ff10e",
+    "status": "published",
+    "translationOf": "social-solidarity-agency-issues-free-identity-documents-and-work-permits-for-per-e91ff10e",
+    "publishedAt": "2026-09-22T08:09:57.000Z",
+    "fetchedAt": "2026-09-30T16:32:48.117Z",
+    "body": "社會固體局宣布為殘障人士免費辦理身份證明文件、旅行文件和工牌照，旨在促進他們獲得公民權利和機會。\n\n原文來源： [news.google.com](https://www.elwatannews.com/news/details/8363103)"
+  },
+  {
+    "title": "教育部發布新指令，便利殘障人士服務",
+    "slug": "ministry-of-education-issues-new-directives-to-facilitate-services-for-individua-zh-1ea3ff24",
+    "lang": "zh-TW",
+    "summary": "教育部發布了新的指導方針，旨在簡化行政程序，並為殘障人士和特殊需求者提供更方便的服務。",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "policy",
+      "education",
+      "accessibility"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://alssaa.com/post/show/63121-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7-%D9%84%D8%AA%D8%B3%D9%87%D9%8A%D9%84-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://alssaa.com/post/show/63121-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7-%D9%84%D8%AA%D8%B3%D9%87%D9%8A%D9%84-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-1ea3ff24",
+    "status": "published",
+    "translationOf": "ministry-of-education-issues-new-directives-to-facilitate-services-for-individua-1ea3ff24",
+    "publishedAt": "2026-09-30T09:14:41.000Z",
+    "fetchedAt": "2026-09-30T16:32:50.452Z",
+    "body": "教育部發布了新的指導方針，旨在簡化行政程序，並為殘障人士和特殊需求者提供更方便的服務。\n\n原文來源： [news.google.com](https://alssaa.com/post/show/63121-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7-%D9%84%D8%AA%D8%B3%D9%87%D9%8A%D9%84-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9)"
+  },
+  {
+    "title": "教育部簡化殘障人士手續並免除等候",
+    "slug": "ministry-of-education-facilitates-procedures-for-persons-with-disabilities-zh-87d541fb",
+    "lang": "zh-TW",
+    "summary": "教育部發布指示，簡化殘障人士的行政手續，包括免除其等候時間，以確保他們能更好地獲得服務。",
+    "category": "laws-rights",
+    "tags": [
+      "education",
+      "administrative-access",
+      "disability-rights"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.mawazin.net/Details.aspx?jimare=292119",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.mawazin.net/Details.aspx?jimare=292119"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-87d541fb",
+    "status": "published",
+    "translationOf": "ministry-of-education-facilitates-procedures-for-persons-with-disabilities-87d541fb",
+    "publishedAt": "2026-09-30T09:08:53.000Z",
+    "fetchedAt": "2026-09-30T16:32:54.008Z",
+    "body": "教育部發布指示，簡化殘障人士的行政手續，包括免除其等候時間，以確保他們能更好地獲得服務。\n\n原文來源： [news.google.com](https://www.mawazin.net/Details.aspx?jimare=292119)"
+  },
+  {
+    "title": "支那加省支持殘障人士地區協會首次會議",
+    "slug": "first-conference-of-regional-association-supporting-persons-with-disabilities-in-zh-f6bb8468",
+    "lang": "zh-TW",
+    "summary": "支那加省支持殘障人士、貧困患者及兒童權利的地區協會召開首次會議，確立了2026-2031期間的目標。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "support-organizations",
+      "community",
+      "disability-rights"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.vietnam.vn/ar/dai-hoi-hoi-bao-tro-nguoi-khuyet-tat-benh-nhan-ngheo-va-quyen-tre-em-tinh-khanh-hoa-lan-thu-i-nhiem-ky-2026-2031",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.vietnam.vn/ar/dai-hoi-hoi-bao-tro-nguoi-khuyet-tat-benh-nhan-ngheo-va-quyen-tre-em-tinh-khanh-hoa-lan-thu-i-nhiem-ky-2026-2031"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-f6bb8468",
+    "status": "published",
+    "translationOf": "first-conference-of-regional-association-supporting-persons-with-disabilities-in-f6bb8468",
+    "publishedAt": "2026-09-30T09:36:14.000Z",
+    "fetchedAt": "2026-09-30T16:32:54.110Z",
+    "body": "支那加省支持殘障人士、貧困患者及兒童權利的地區協會召開首次會議，確立了2026-2031期間的目標。\n\n原文來源： [news.google.com](https://www.vietnam.vn/ar/dai-hoi-hoi-bao-tro-nguoi-khuyet-tat-benh-nhan-ngheo-va-quyen-tre-em-tinh-khanh-hoa-lan-thu-i-nhiem-ky-2026-2031)"
+  },
+  {
+    "title": "順化省殘疾人及貧困病患支援協會第一次大會",
+    "slug": "first-congress-of-khanh-hoa-provincial-association-for-people-with-disabilities--zh-b3d0e910",
+    "lang": "zh-TW",
+    "summary": "順化省支持殘疾人士、貧困病患及兒童權益的協會舉行了2026-2031屆第一次大會。此次會議旨在建立新的支援弱勢群體的框架，重點強調社會福利以及殘障人士的權益倡導。",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "association",
+      "congress",
+      "support",
+      "vulnerable-groups",
+      "2026-2031"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.vietnam.vn/ar/chao-mung-dai-hoi-hoi-bao-tro-nguoi-khuyet-tat-benh-nhan-ngheo-va-quyen-tre-em-tinh-khanh-hoa-lan-thu-i-nhiem-ky-2026-2031-diem-tua-cho-nguoi-yeu-the",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.vietnam.vn/ar/chao-mung-dai-hoi-hoi-bao-tro-nguoi-khuyet-tat-benh-nhan-ngheo-va-quyen-tre-em-tinh-khanh-hoa-lan-thu-i-nhiem-ky-2026-2031-diem-tua-cho-nguoi-yeu-the"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-b3d0e910",
+    "status": "published",
+    "translationOf": "first-congress-of-khanh-hoa-provincial-association-for-people-with-disabilities--b3d0e910",
+    "publishedAt": "2026-09-30T03:14:52.000Z",
+    "fetchedAt": "2026-09-30T16:33:20.845Z",
+    "body": "順化省支持殘疾人士、貧困病患及兒童權益的協會舉行了2026-2031屆第一次大會。此次會議旨在建立新的支援弱勢群體的框架，重點強調社會福利以及殘障人士的權益倡導。\n\n原文來源： [news.google.com](https://www.vietnam.vn/ar/chao-mung-dai-hoi-hoi-bao-tro-nguoi-khuyet-tat-benh-nhan-ngheo-va-quyen-tre-em-tinh-khanh-hoa-lan-thu-i-nhiem-ky-2026-2031-diem-tua-cho-nguoi-yeu-the)"
+  },
+  {
+    "title": "文化與藝術開啟一扇窗，呈現殘障人士的社會面向",
+    "slug": "culture-and-arts-open-a-window-on-the-social-manifestations-of-people-with-disab-zh-0b37e39e",
+    "lang": "zh-TW",
+    "summary": "沙烏地阿拉伯《晨報》刊文指出，文化與藝術為展現殘障人士的社会貢獻與經歷提供了平台，將殘障視為「可繼承的資本」而非負擔。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability-inclusion",
+      "arts-culture",
+      "social-rights",
+      "saudi-arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://annahar-news.com/news/single/38057",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://annahar-news.com/news/single/38057"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-0b37e39e",
+    "status": "published",
+    "translationOf": "culture-and-arts-open-a-window-on-the-social-manifestations-of-people-with-disab-0b37e39e",
+    "publishedAt": "2026-09-30T05:35:18.000Z",
+    "fetchedAt": "2026-09-30T16:33:30.094Z",
+    "body": "沙烏地阿拉伯《晨報》刊文指出，文化與藝術為展現殘障人士的社会貢獻與經歷提供了平台，將殘障視為「可繼承的資本」而非負擔。\n\n原文來源： [news.google.com](https://annahar-news.com/news/single/38057)"
+  },
+  {
+    "title": "殘障人士全國委員會協助學生安斯重返學校繼續正規就學",
+    "slug": "national-council-for-persons-with-disabilities-helps-student-ans-return-to-regul-zh-3cfa9f3a",
+    "lang": "zh-TW",
+    "summary": "殘障人士全國委員會成功介入，確保學生安斯能重返學校並繼續正規就學，突顯了融合教育與殘障權益倡議的成功案例。",
+    "category": "laws-rights",
+    "tags": [
+      "inclusive-education",
+      "disability-rights",
+      "school-accommodation"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.akhbarelnaselyoum.com/archives/204805",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.akhbarelnaselyoum.com/archives/204805"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-3cfa9f3a",
+    "status": "published",
+    "translationOf": "national-council-for-persons-with-disabilities-helps-student-ans-return-to-regul-3cfa9f3a",
+    "publishedAt": "2026-09-30T15:37:08.000Z",
+    "fetchedAt": "2026-09-30T16:33:30.213Z",
+    "body": "殘障人士全國委員會成功介入，確保學生安斯能重返學校並繼續正規就學，突顯了融合教育與殘障權益倡議的成功案例。\n\n原文來源： [news.google.com](https://www.akhbarelnaselyoum.com/archives/204805)"
+  },
+  {
+    "title": "教育部指示簡化殘障人士及特殊需求人士的程序",
+    "slug": "education-ministry-directs-facilitation-of-procedures-for-persons-with-disabilit-zh-30198bf3",
+    "lang": "zh-TW",
+    "summary": "教育部發布指示，旨在簡化和促進殘障人士及特殊需求人士的行政程序，以增強他們獲取教育服務的能力並減少官僚障礙。",
+    "category": "laws-rights",
+    "tags": [
+      "education",
+      "bureaucracy",
+      "rights",
+      "disability"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://baghdadtoday.news/306251-.html",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://baghdadtoday.news/306251-.html"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-30198bf3",
+    "status": "published",
+    "translationOf": "education-ministry-directs-facilitation-of-procedures-for-persons-with-disabilit-30198bf3",
+    "publishedAt": "2026-09-30T07:20:09.000Z",
+    "fetchedAt": "2026-09-30T16:33:32.895Z",
+    "body": "教育部發布指示，旨在簡化和促進殘障人士及特殊需求人士的行政程序，以增強他們獲取教育服務的能力並減少官僚障礙。\n\n原文來源： [news.google.com](https://baghdadtoday.news/306251-.html)"
+  },
+  {
+    "title": "教育部指示簡化残障人士及特殊需求人士的行政程序",
+    "slug": "education-ministry-directs-easing-procedures-for-individuals-with-disabilities-zh-d5c2c516",
+    "lang": "zh-TW",
+    "summary": "教育部頒布指令，旨在簡化殘障人士及特殊需求人士的行政手續與交易流程，以提升教育領域的可及性。",
+    "category": "laws-rights",
+    "tags": [
+      "government",
+      "education",
+      "procedures",
+      "inclusion"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.aldaaenews.com/AR/Details/63959",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.aldaaenews.com/AR/Details/63959"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-d5c2c516",
+    "status": "published",
+    "translationOf": "education-ministry-directs-easing-procedures-for-individuals-with-disabilities-d5c2c516",
+    "publishedAt": "2026-09-30T09:02:19.000Z",
+    "fetchedAt": "2026-09-30T16:33:35.475Z",
+    "body": "教育部頒布指令，旨在簡化殘障人士及特殊需求人士的行政手續與交易流程，以提升教育領域的可及性。\n\n原文來源： [news.google.com](https://www.aldaaenews.com/AR/Details/63959)"
   }
 ]
