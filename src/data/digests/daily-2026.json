@@ -9571,5 +9571,120 @@
         }
       ]
     }
+  },
+  "2026-09-30": {
+    "generatedAt": "2026-09-30T15:53:49.204Z",
+    "en": {
+      "title": "Audit Urges $14.5M ADA Upgrades Across Norwalk Facilities",
+      "summary": "An audit recommends $14.5 million in ADA improvements for Norwalk facilities to enhance accessibility. Meanwhile, NVDA 2026.3beta3 and BrailleNote Evolve QT demos highlight assistive tech advances, and student government pushes for greater accessibility on campus. Recent studies show AI tools still fail to produce accessible code, underscoring ongoing challenges.",
+      "highlights": [
+        {
+          "title": "Audit recommends $14.5 million in ADA improvements across Norwalk facilities",
+          "slug": "audit-recommends-145-million-in-ada-improvements-across-norwalk-facilities-6f6d1f41",
+          "url": "https://www.thehour.com/news/article/norwalk-ct-ada-audit-22447311.php"
+        },
+        {
+          "title": "Victims with disabilities must be at the centre of the EU victims’ rights strategy: join the EU public consultation!",
+          "slug": "victims-with-disabilities-must-be-at-the-centre-of-the-eu-victims-rights-strateg-734f69b5",
+          "url": "https://www.edf-feph.org/victims-with-disabilities-must-be-at-the-centre-of-the-eu-victims-rights-strategy-join-the-eu-public-consultation"
+        },
+        {
+          "title": "NVDA 2026.3beta3 available for testing",
+          "slug": "nvda-20263beta3-available-for-testing-26bca3b2",
+          "url": "https://www.nvaccess.org/post/nvda-2026-3beta3"
+        },
+        {
+          "title": "Demo overview of the BrailleNote Evolve QT (QWERTY) Windows Braille computer",
+          "slug": "demo-overview-of-the-braillenote-evolve-qt-qwerty-windows-braille-computer-c7ca535a",
+          "url": "https://davidwoodbr.podbean.com/e/demo-overview-of-the-braillenote-evolve-qt-qwerty-windows-braille-computer"
+        },
+        {
+          "title": "Student Government Advocates for Greater Senator Participation and Accessibility Initiatives",
+          "slug": "student-government-advocates-for-greater-senator-participation-and-accessibility-e29fd3ab",
+          "url": "https://dailyfreepress.com/09/29/20/221004/stugov-pushes-for-increased-senator-participation-accessibility-initiatives"
+        },
+        {
+          "title": "AI Tools Fail to Build Accessible Websites, Study Shows",
+          "slug": "ai-tools-fail-to-build-accessible-websites-study-shows-acf6e114",
+          "url": "https://venturebeat.com/technology/we-asked-five-ai-tools-to-build-accessible-websites-all-15-sites-failed"
+        },
+        {
+          "title": "AudioEye Study Finds AI Coding Tools Do Not Write Accessible Code - PR Newswire",
+          "slug": "audioeye-study-finds-ai-coding-tools-do-not-write-accessible-code-pr-newswire-6befc970",
+          "url": "https://www.prnewswire.com/news-releases/audioeye-study-finds-ai-coding-tools-do-not-write-accessible-code-302893917.html"
+        },
+        {
+          "title": "New Taipei City's outstanding accessible venues evaluation completed, Fu Jen University Hospital ranks first",
+          "slug": "new-taipei-citys-outstanding-accessible-venues-evaluation-completed-fu-jen-unive-64642e66",
+          "url": "https://udn.com/news/amp/story/7323/9786298"
+        },
+        {
+          "title": "New $690K home in Cumberland County blends accessibility, modern living",
+          "slug": "new-690k-home-in-cumberland-county-blends-accessibility-modern-living-1cc34993",
+          "url": "https://www.pennlive.com/life/2026/09/new-690k-home-in-cumberland-county-blends-accessibility-modern-living-cool-spaces.html"
+        },
+        {
+          "title": "2639 Rebuilding Independence After Midlife Vision Loss (Sep. 30, 2026)",
+          "slug": "2639-rebuilding-independence-after-midlife-vision-loss-sep-30-2026-b3e5084b",
+          "url": "https://podcast.eyesonsuccess.net/?p=2742"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "審計 建議 諾沃克 設施 投資 1450 萬美元 改善 無障礙",
+      "summary": "審計建議諾沃克設施需投資1450萬美元進行ADA無障礙改善，以提升殘障人士使用體驗。同時，NVDA 2026.3beta3測試版與BrailleNote Evolve QT示範顯示輔助技術進步，學生政府亦推動校園無障礙參與。最新研究指出AI工具仍難以產出符合無障礙標準的網站與程式碼，凸顯持續挑戰。",
+      "highlights": [
+        {
+          "title": "審計建議在諾沃克設施進行1450萬美元的ADA無障礙改善",
+          "slug": "audit-recommends-145-million-in-ada-improvements-across-norwalk-facilities-zh-6f6d1f41",
+          "url": "https://www.thehour.com/news/article/norwalk-ct-ada-audit-22447311.php"
+        },
+        {
+          "title": "加強政策與更好實施：歐洲殘障論壇與歐洲平等專員會面",
+          "slug": "stronger-policies-and-better-implementation-european-disability-forum-meets-eu-c-zh-50920724",
+          "url": "https://www.edf-feph.org/stronger-policies-and-better-implementation-european-disability-forum-meets-eu-commissioner-for-equality"
+        },
+        {
+          "title": "NVDA 2026.3beta3 可供測試",
+          "slug": "nvda-20263beta3-available-for-testing-zh-26bca3b2",
+          "url": "https://www.nvaccess.org/post/nvda-2026-3beta3"
+        },
+        {
+          "title": "BrailleNote Evolve QT (QWERTY) Windows 點字電腦示範",
+          "slug": "demo-overview-of-the-braillenote-evolve-qt-qwerty-windows-braille-computer-zh-c7ca535a",
+          "url": "https://davidwoodbr.podbean.com/e/demo-overview-of-the-braillenote-evolve-qt-qwerty-windows-braille-computer"
+        },
+        {
+          "title": "學生政府倡議提升參議員參與度及無障礙計畫",
+          "slug": "student-government-advocates-for-greater-senator-participation-and-accessibility-zh-e29fd3ab",
+          "url": "https://dailyfreepress.com/09/29/20/221004/stugov-pushes-for-increased-senator-participation-accessibility-initiatives"
+        },
+        {
+          "title": "AI 工具未能建構無障礙網站，研究顯示",
+          "slug": "ai-tools-fail-to-build-accessible-websites-study-shows-zh-acf6e114",
+          "url": "https://venturebeat.com/technology/we-asked-five-ai-tools-to-build-accessible-websites-all-15-sites-failed"
+        },
+        {
+          "title": "AudioEye 研究發現 AI 編程工具無法生成無障礙程式碼",
+          "slug": "audioeye-study-finds-ai-coding-tools-do-not-write-accessible-code-pr-newswire-zh-6befc970",
+          "url": "https://www.prnewswire.com/news-releases/audioeye-study-finds-ai-coding-tools-do-not-write-accessible-code-302893917.html"
+        },
+        {
+          "title": "新北無障礙優良場所評選出爐 輔大醫院奪第一",
+          "slug": "new-taipei-citys-outstanding-accessible-venues-evaluation-completed-fu-jen-unive-zh-64642e66",
+          "url": "https://udn.com/news/amp/story/7323/9786298"
+        },
+        {
+          "title": "Cumberland County 新建 69 萬美元住宅融合無障礙與現代生活",
+          "slug": "new-690k-home-in-cumberland-county-blends-accessibility-modern-living-zh-1cc34993",
+          "url": "https://www.pennlive.com/life/2026/09/new-690k-home-in-cumberland-county-blends-accessibility-modern-living-cool-spaces.html"
+        },
+        {
+          "title": "2639 中年視力喪失後重建獨立（2026 年 9 月 30 日）",
+          "slug": "2639-rebuilding-independence-after-midlife-vision-loss-sep-30-2026-zh-b3e5084b",
+          "url": "https://podcast.eyesonsuccess.net/?p=2742"
+        }
+      ]
+    }
   }
 }
