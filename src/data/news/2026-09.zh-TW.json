@@ -90680,5 +90680,38 @@
     "publishedAt": "2026-09-30T09:02:19.000Z",
     "fetchedAt": "2026-09-30T16:33:35.475Z",
     "body": "教育部頒布指令，旨在簡化殘障人士及特殊需求人士的行政手續與交易流程，以提升教育領域的可及性。\n\n原文來源： [news.google.com](https://www.aldaaenews.com/AR/Details/63959)"
+  },
+  {
+    "title": "Meta 眼鏡錯誤、智慧眼鏡隱私及 Double Tap Live 節目啟動",
+    "slug": "meta-glasses-bugs-smart-glasses-privacy-and-the-launch-of-double-tap-live-zh-72adccfb",
+    "lang": "zh-TW",
+    "summary": "討論 Meta 智慧眼鏡的錯誤與隱私問題，邀請盲人聽眾參與，並宣布新增 24 小時不間斷的 Double Tap Live 電台頻道。",
+    "category": "assistive-tech",
+    "tags": [
+      "smart glasses",
+      "blind accessibility",
+      "privacy",
+      "radio channel"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/meta-glasses-bugs-smart-glasses-privacy-and-the-launch-of-double-tap-live-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/meta-glasses-bugs-smart-glasses-privacy-and-the-launch-of-double-tap-live-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-72adccfb",
+    "status": "published",
+    "translationOf": "meta-glasses-bugs-smart-glasses-privacy-and-the-launch-of-double-tap-live-72adccfb",
+    "publishedAt": "2026-09-30T16:00:34.000Z",
+    "fetchedAt": "2026-09-30T21:29:08.854Z",
+    "body": "討論 Meta 智慧眼鏡的錯誤與隱私問題，邀請盲人聽眾參與，並宣布新增 24 小時不間斷的 Double Tap Live 電台頻道。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/meta-glasses-bugs-smart-glasses-privacy-and-the-launch-of-double-tap-live-2)"
   }
 ]
