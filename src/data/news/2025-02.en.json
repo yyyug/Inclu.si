@@ -99,5 +99,39 @@
     "publishedAt": "2025-02-27T08:00:00.000Z",
     "fetchedAt": "2026-09-22T21:40:15.753Z",
     "body": "The Royal Commission for Riyadh City announced the launch of a program aimed at ensuring universal access and accommodation for people with disabilities within the city infrastructure.\n\nRead more from the original source: [news.google.com](https://www.spa.gov.sa/N2271901)"
+  },
+  {
+    "title": "Eye Hospital in Alexandria Holds Workshop on World Disability Day",
+    "slug": "eye-hospital-in-alexandria-holds-workshop-on-world-disability-day-908b070c",
+    "lang": "en",
+    "summary": "A hospital in Alexandria organized a workshop coinciding with World Disability Day to support and raise awareness for individuals with disabilities, specifically focusing on eye care contexts.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "awareness",
+      "event",
+      "eye-care",
+      "disability-community"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.youm7.com/6873998",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.youm7.com/6873998"
+      }
+    ],
+    "sourceCountry": "EG",
+    "queryRegion": "EG",
+    "region": "EG",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-908b070c",
+    "status": "published",
+    "translationOf": "eye-hospital-in-alexandria-holds-workshop-on-world-disability-day-zh-908b070c",
+    "publishedAt": "2025-02-06T08:00:00.000Z",
+    "fetchedAt": "2026-10-01T17:10:46.142Z",
+    "body": "A hospital in Alexandria organized a workshop coinciding with World Disability Day to support and raise awareness for individuals with disabilities, specifically focusing on eye care contexts.\n\nRead more from the original source: [news.google.com](https://www.youm7.com/6873998)"
   }
 ]

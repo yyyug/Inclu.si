@@ -99,5 +99,39 @@
     "publishedAt": "2025-02-27T08:00:00.000Z",
     "fetchedAt": "2026-09-22T21:40:15.753Z",
     "body": "利雅得市皇家委員會宣布啟動一項旨在確保城市基礎設施中殘疾人士通用可及性的項目。\n\n原文來源： [news.google.com](https://www.spa.gov.sa/N2271901)"
+  },
+  {
+    "title": "亞歷山大眼醫院在國際殘障日舉辦研討會",
+    "slug": "eye-hospital-in-alexandria-holds-workshop-on-world-disability-day-zh-908b070c",
+    "lang": "zh-TW",
+    "summary": "亞歷山大的一家醫院在國際殘障日舉辦研討會，旨在支持和提高公眾對殘障人士的意識，特別關注眼科護理領域。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "awareness",
+      "event",
+      "eye-care",
+      "disability-community"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.youm7.com/6873998",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.youm7.com/6873998"
+      }
+    ],
+    "sourceCountry": "EG",
+    "queryRegion": "EG",
+    "region": "EG",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-908b070c",
+    "status": "published",
+    "translationOf": "eye-hospital-in-alexandria-holds-workshop-on-world-disability-day-908b070c",
+    "publishedAt": "2025-02-06T08:00:00.000Z",
+    "fetchedAt": "2026-10-01T17:10:46.142Z",
+    "body": "亞歷山大的一家醫院在國際殘障日舉辦研討會，旨在支持和提高公眾對殘障人士的意識，特別關注眼科護理領域。\n\n原文來源： [news.google.com](https://www.youm7.com/6873998)"
   }
 ]
