@@ -1744,5 +1744,254 @@
     "publishedAt": "2026-10-01T17:00:23.000Z",
     "fetchedAt": "2026-10-01T17:10:50.462Z",
     "body": "國家婦女委員會對內政部向視障人士提供免費警務服務的倡議表示讚賞，強調這是增強該群體可及性和支持的重要一步。\n\n原文來源： [news.google.com](https://twaslnews1.twaslnews.com/5478383)"
+  },
+  {
+    "title": "大聯盟如何讓球場對殘障球迷更友善",
+    "slug": "how-mlb-is-making-ballparks-more-accessible-for-fans-with-disabilities-zh-4c201c46",
+    "lang": "zh-TW",
+    "summary": "大聯盟正在球場內進行無障礙改善，以更好地容納殘障球迷，包括座位、洗手間和感官資源等。",
+    "category": "physical-design",
+    "tags": [
+      "MLB",
+      "ballpark",
+      "disability",
+      "accessibility"
+    ],
+    "sourceName": "MLB.com",
+    "sourceUrl": "https://www.mlb.com/news/mlb-commits-to-ballpark-accessibility-resources-for-fans",
+    "relatedSources": [
+      {
+        "name": "MLB.com",
+        "url": "https://www.mlb.com/news/mlb-commits-to-ballpark-accessibility-resources-for-fans"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-4c201c46",
+    "status": "published",
+    "translationOf": "how-mlb-is-making-ballparks-more-accessible-for-fans-with-disabilities-4c201c46",
+    "publishedAt": "2026-10-01T19:05:38.000Z",
+    "fetchedAt": "2026-10-01T21:50:39.472Z",
+    "body": "大聯盟正在球場內進行無障礙改善，以更好地容納殘障球迷，包括座位、洗手間和感官資源等。\n\n原文來源： [MLB.com](https://www.mlb.com/news/mlb-commits-to-ballpark-accessibility-resources-for-fans)"
+  },
+  {
+    "title": "蒙大拿州新行政官邸正規劃無障礙改善",
+    "slug": "accessibility-improvements-in-the-works-for-montanas-new-executive-residence-sta-zh-5d5538ab",
+    "lang": "zh-TW",
+    "summary": "蒙大拿州官員宣布將對新行政官邸進行無障礙升級，以確保殘障人士能夠使用。",
+    "category": "physical-design",
+    "tags": [
+      "Montana",
+      "executive residence",
+      "accessibility",
+      "disability"
+    ],
+    "sourceName": "montanafreepress.org",
+    "sourceUrl": "https://montanafreepress.org/2026/10/01/accessibility-improvements-montanas-new-executive-residence",
+    "relatedSources": [
+      {
+        "name": "montanafreepress.org",
+        "url": "https://montanafreepress.org/2026/10/01/accessibility-improvements-montanas-new-executive-residence"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5d5538ab",
+    "status": "published",
+    "translationOf": "accessibility-improvements-in-the-works-for-montanas-new-executive-residence-sta-5d5538ab",
+    "publishedAt": "2026-10-01T15:43:51.000Z",
+    "fetchedAt": "2026-10-01T21:50:39.477Z",
+    "body": "蒙大拿州官員宣布將對新行政官邸進行無障礙升級，以確保殘障人士能夠使用。\n\n原文來源： [montanafreepress.org](https://montanafreepress.org/2026/10/01/accessibility-improvements-montanas-new-executive-residence)"
+  },
+  {
+    "title": "在凱斯西儲大學（CWRU）參與數位無障礙探索活動",
+    "slug": "enroll-in-a-digital-accessibility-exploration-at-cwru-case-western-reserve-unive-zh-f71ab97f",
+    "lang": "zh-TW",
+    "summary": "在凱斯西儲大學（CWRU）參與數位無障礙探索活動",
+    "category": "digital-a11y",
+    "tags": [],
+    "sourceName": "Case Western Reserve University",
+    "sourceUrl": "https://case.edu/news/enroll-digital-accessibility-exploration-cwru",
+    "relatedSources": [
+      {
+        "name": "Case Western Reserve University",
+        "url": "https://case.edu/news/enroll-digital-accessibility-exploration-cwru"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f71ab97f",
+    "status": "published",
+    "translationOf": "enroll-in-a-digital-accessibility-exploration-at-cwru-case-western-reserve-unive-f71ab97f",
+    "publishedAt": "2026-10-01T11:00:00.000Z",
+    "fetchedAt": "2026-10-01T21:50:49.890Z",
+    "body": "在凱斯西儲大學（CWRU）參與數位無障礙探索活動\n\n原文來源： [Case Western Reserve University](https://case.edu/news/enroll-digital-accessibility-exploration-cwru)"
+  },
+  {
+    "title": "米爾頓電車站新設無障礙坡道落成 - 多切斯特記者報",
+    "slug": "new-accessible-ramp-dedicated-at-milton-trolley-station-dorchester-reporter-zh-0a3d35a2",
+    "lang": "zh-TW",
+    "summary": "米爾頓電車站新設無障礙坡道落成",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "Dorchester Reporter",
+    "sourceUrl": "https://www.dotnews.com/2026/10/01/new-accessible-ramp-dedicated-at-milton-trolley-station",
+    "relatedSources": [
+      {
+        "name": "Dorchester Reporter",
+        "url": "https://www.dotnews.com/2026/10/01/new-accessible-ramp-dedicated-at-milton-trolley-station"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-0a3d35a2",
+    "status": "published",
+    "translationOf": "new-accessible-ramp-dedicated-at-milton-trolley-station-dorchester-reporter-0a3d35a2",
+    "publishedAt": "2026-10-01T19:30:12.000Z",
+    "fetchedAt": "2026-10-01T21:50:49.896Z",
+    "body": "米爾頓電車站新設無障礙坡道落成\n\n原文來源： [Dorchester Reporter](https://www.dotnews.com/2026/10/01/new-accessible-ramp-dedicated-at-milton-trolley-station)"
+  },
+  {
+    "title": "瑞秋·澤格勒表示EVITA陽台場景開啟了『劇場無障礙』的討論 - BroadwayWorld",
+    "slug": "rachel-zegler-says-evita-balcony-scene-opened-up-accessibility-in-theater-conver-zh-e060478b",
+    "lang": "zh-TW",
+    "summary": "瑞秋·澤格勒表示EVITA陽台場景開啟了『劇場無障礙』的討論",
+    "category": "lifestyle-culture",
+    "tags": [],
+    "sourceName": "BroadwayWorld",
+    "sourceUrl": "https://www.broadwayworld.com/article/Rachel-Zegler-Says-EVITA-Balcony-Scene-Opened-Up-Accessibility-In-Theater-Conversation-20261001",
+    "relatedSources": [
+      {
+        "name": "BroadwayWorld",
+        "url": "https://www.broadwayworld.com/article/Rachel-Zegler-Says-EVITA-Balcony-Scene-Opened-Up-Accessibility-In-Theater-Conversation-20261001"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e060478b",
+    "status": "published",
+    "translationOf": "rachel-zegler-says-evita-balcony-scene-opened-up-accessibility-in-theater-conver-e060478b",
+    "publishedAt": "2026-10-01T18:55:01.000Z",
+    "fetchedAt": "2026-10-01T21:50:49.900Z",
+    "body": "瑞秋·澤格勒表示EVITA陽台場景開啟了『劇場無障礙』的討論\n\n原文來源： [BroadwayWorld](https://www.broadwayworld.com/article/Rachel-Zegler-Says-EVITA-Balcony-Scene-Opened-Up-Accessibility-In-Theater-Conversation-20261001)"
+  },
+  {
+    "title": "Gemini Live 的導引視覺功能：為無障礙而設計",
+    "slug": "guided-vision-in-gemini-live-built-for-accessibility-zh-fcfe0aaa",
+    "lang": "zh-TW",
+    "summary": "Google 的 Gemini Live 推出導引視覺功能，協助視障使用者透過即時視覺描述和導航協助來提升可及性。",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "accessibility",
+      "vision",
+      "Gemini Live"
+    ],
+    "sourceName": "blog.google",
+    "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live",
+    "relatedSources": [
+      {
+        "name": "blog.google",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-fcfe0aaa",
+    "status": "published",
+    "translationOf": "guided-vision-in-gemini-live-built-for-accessibility-fcfe0aaa",
+    "publishedAt": "2026-10-01T16:30:45.000Z",
+    "fetchedAt": "2026-10-01T21:50:59.039Z",
+    "body": "Google 的 Gemini Live 推出導引視覺功能，協助視障使用者透過即時視覺描述和導航協助來提升可及性。\n\n原文來源： [blog.google](https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live)"
+  },
+  {
+    "title": "原州市殘疾人綜合福祉中心與觀光協議會簽署無障礙觀光業務合作備忘錄",
+    "slug": "wonju-city-disability-welfare-center-signs-mou-with-tourism-council-for-barrier--zh-1a8f80a2",
+    "lang": "zh-TW",
+    "summary": "原州市殘疾人綜合福祉中心與觀光協議會簽署合作備忘錄，推動無障礙觀光。",
+    "category": "physical-design",
+    "tags": [
+      "barrier-free tourism",
+      "disability welfare",
+      "Wonju",
+      "tourism"
+    ],
+    "sourceName": "koreadisablednews.com",
+    "sourceUrl": "https://www.koreadisablednews.com/news/articleView.html?idxno=53181",
+    "relatedSources": [
+      {
+        "name": "koreadisablednews.com",
+        "url": "https://www.koreadisablednews.com/news/articleView.html?idxno=53181"
+      }
+    ],
+    "sourceCountry": "KR",
+    "queryRegion": "KR",
+    "region": "KR",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%EC%9E%A5%EC%95%A0%EC%9D%B8+%EC%A0%91%EA%B7%BC%EC%84%B1&hl=ko&gl=KR&ceid=KR%3Ako",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-1a8f80a2",
+    "status": "published",
+    "translationOf": "wonju-city-disability-welfare-center-signs-mou-with-tourism-council-for-barrier--1a8f80a2",
+    "publishedAt": "2026-10-01T05:53:32.000Z",
+    "fetchedAt": "2026-10-01T21:51:24.845Z",
+    "body": "原州市殘疾人綜合福祉中心與觀光協議會簽署合作備忘錄，推動無障礙觀光。\n\n原文來源： [koreadisablednews.com](https://www.koreadisablednews.com/news/articleView.html?idxno=53181)"
+  },
+  {
+    "title": "年輕殘疾人關鍵福利可能在主要福利改革中被取消",
+    "slug": "key-disability-benefit-for-young-people-may-be-axed-under-major-welfare-changes-zh-1496d3cd",
+    "lang": "zh-TW",
+    "summary": "獨家：討論中的計畫涉及密集支援，幫助年輕人就業；部長們正在制定廣泛的福利改革方案，包括取消25歲以下人士的關鍵殘疾福利，並用價值數十億英鎊的支援套餐取代，以協助他們就業。",
+    "category": "laws-rights",
+    "tags": [
+      "disability benefit",
+      "welfare reform",
+      "UK",
+      "young people"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/politics/2026/oct/01/welfare-changes-under-debate-disability-benefit-young-people-uk",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/politics/2026/oct/01/welfare-changes-under-debate-disability-benefit-young-people-uk"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-1496d3cd",
+    "status": "published",
+    "translationOf": "key-disability-benefit-for-young-people-may-be-axed-under-major-welfare-changes-1496d3cd",
+    "publishedAt": "2026-10-01T18:43:00.000Z",
+    "fetchedAt": "2026-10-01T21:51:24.849Z",
+    "body": "獨家：討論中的計畫涉及密集支援，幫助年輕人就業；部長們正在制定廣泛的福利改革方案，包括取消25歲以下人士的關鍵殘疾福利，並用價值數十億英鎊的支援套餐取代，以協助他們就業。\n\n原文來源： [Unknown source](https://www.theguardian.com/politics/2026/oct/01/welfare-changes-under-debate-disability-benefit-young-people-uk)"
   }
 ]
