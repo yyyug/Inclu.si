@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Supplemental follow-up demo for the Evolve QT demo",
+    "slug": "supplemental-follow-up-demo-for-the-evolve-qt-demo-8de8d38b",
+    "lang": "en",
+    "summary": "The demo covers Braille input on the Evolve QT using NVDA's PC Keyboard Braille Input add-on, how to bring up the drive list in Keysoft File Manager (Control+D), and how to access Keysoft application shortcuts to simplify ribbon use in Microsoft Office apps (Alt → down Arrow → Enter).",
+    "category": "assistive-tech",
+    "tags": [
+      "Braille input",
+      "NVDA",
+      "Evolve QT",
+      "Keysoft",
+      "accessibility demo"
+    ],
+    "sourceName": "davidwoodbr.podbean.com",
+    "sourceUrl": "https://davidwoodbr.podbean.com/e/supplemental-follow-up-demo-for-the-evolve-qt-demo",
+    "relatedSources": [
+      {
+        "name": "davidwoodbr.podbean.com",
+        "url": "https://davidwoodbr.podbean.com/e/supplemental-follow-up-demo-for-the-evolve-qt-demo"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://davidwoodbr.podbean.com/rss",
+    "ingestProvider": "davidwoodbr.podbean.com",
+    "clusterId": "cluster-8de8d38b",
+    "status": "published",
+    "translationOf": "supplemental-follow-up-demo-for-the-evolve-qt-demo-zh-8de8d38b",
+    "publishedAt": "2026-10-01T09:13:28.000Z",
+    "fetchedAt": "2026-10-01T15:32:12.529Z",
+    "body": "The demo covers Braille input on the Evolve QT using NVDA's PC Keyboard Braille Input add-on, how to bring up the drive list in Keysoft File Manager (Control+D), and how to access Keysoft application shortcuts to simplify ribbon use in Microsoft Office apps (Alt → down Arrow → Enter).\n\nRead more from the original source: [davidwoodbr.podbean.com](https://davidwoodbr.podbean.com/e/supplemental-follow-up-demo-for-the-evolve-qt-demo)"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Evolve QT 演示補充：盲文輸入、檔案管理與 Office 快捷鍵",
+    "slug": "supplemental-follow-up-demo-for-the-evolve-qt-demo-zh-8de8d38b",
+    "lang": "zh-TW",
+    "summary": "此段落說明如何在 Evolve QT 上使用 NVDA 的 PC Keyboard Braille Input 附加元件進行盲文輸入，利用 Control+D 叫出 Keysoft File Manager 的磁碟清單，以及透過 Alt、下箭頭、Enter 叫出 Keysoft 應用程式選單，以簡化 Excel、Outlook、PowerPoint、Word 的功能區使用。",
+    "category": "assistive-tech",
+    "tags": [
+      "Braille input",
+      "NVDA",
+      "Evolve QT",
+      "Keysoft",
+      "accessibility demo"
+    ],
+    "sourceName": "davidwoodbr.podbean.com",
+    "sourceUrl": "https://davidwoodbr.podbean.com/e/supplemental-follow-up-demo-for-the-evolve-qt-demo",
+    "relatedSources": [
+      {
+        "name": "davidwoodbr.podbean.com",
+        "url": "https://davidwoodbr.podbean.com/e/supplemental-follow-up-demo-for-the-evolve-qt-demo"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://davidwoodbr.podbean.com/rss",
+    "ingestProvider": "davidwoodbr.podbean.com",
+    "clusterId": "cluster-8de8d38b",
+    "status": "published",
+    "translationOf": "supplemental-follow-up-demo-for-the-evolve-qt-demo-8de8d38b",
+    "publishedAt": "2026-10-01T09:13:28.000Z",
+    "fetchedAt": "2026-10-01T15:32:12.529Z",
+    "body": "此段落說明如何在 Evolve QT 上使用 NVDA 的 PC Keyboard Braille Input 附加元件進行盲文輸入，利用 Control+D 叫出 Keysoft File Manager 的磁碟清單，以及透過 Alt、下箭頭、Enter 叫出 Keysoft 應用程式選單，以簡化 Excel、Outlook、PowerPoint、Word 的功能區使用。\n\n原文來源： [davidwoodbr.podbean.com](https://davidwoodbr.podbean.com/e/supplemental-follow-up-demo-for-the-evolve-qt-demo)"
+  }
+]
