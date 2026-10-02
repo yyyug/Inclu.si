@@ -5204,5 +5204,487 @@
     "publishedAt": "2026-10-02T16:00:24.000Z",
     "fetchedAt": "2026-10-02T21:22:37.201Z",
     "body": "盲人技術愛好者 Steven Scott 與 Shaun Preece 評論 NVDA 螢幕閱讀器錯誤、iOS 27 上的 Siri AI 問題、Android 上的 Gemini，並討論使用者關於 LiDAR、Mastodon 與智慧眼鏡的郵件。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/nvda-bugs-siri-ai-frustrations-and-your-emails-on-mastodon-and-lidar-2)"
+  },
+  {
+    "title": "德州海灘將增設新設備，使沙灘更易於輪椅使用者進入 - KHOU",
+    "slug": "texas-beaches-are-getting-new-equipment-to-make-the-sand-more-accessible-khou-zh-be373c87",
+    "lang": "zh-TW",
+    "summary": "德州海灘正鋪設移動墊和灘邊輪椅等設備，以提升殘障人士在沙灘上的可及性。",
+    "category": "physical-design",
+    "tags": [
+      "beach",
+      "mobility",
+      "wheelchair",
+      "accessibility"
+    ],
+    "sourceName": "KHOU",
+    "sourceUrl": "https://www.khou.com/article/news/local/texas/texas-beach-accessibility-wheelchairs-mobility-mats/285-10c7090f-b7b6-4681-b6ff-9bb99056ed89",
+    "relatedSources": [
+      {
+        "name": "KHOU",
+        "url": "https://www.khou.com/article/news/local/texas/texas-beach-accessibility-wheelchairs-mobility-mats/285-10c7090f-b7b6-4681-b6ff-9bb99056ed89"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-be373c87",
+    "status": "published",
+    "translationOf": "texas-beaches-are-getting-new-equipment-to-make-the-sand-more-accessible-khou-be373c87",
+    "publishedAt": "2026-10-02T15:27:00.000Z",
+    "fetchedAt": "2026-10-02T21:20:40.558Z",
+    "body": "德州海灘正鋪設移動墊和灘邊輪椅等設備，以提升殘障人士在沙灘上的可及性。\n\n原文來源： [KHOU](https://www.khou.com/article/news/local/texas/texas-beach-accessibility-wheelchairs-mobility-mats/285-10c7090f-b7b6-4681-b6ff-9bb99056ed89)"
+  },
+  {
+    "title": "《航空承運人無障礙法》四十週年：Delta 持續致力於無障礙旅行 - news.delta.com",
+    "slug": "40-years-after-the-air-carrier-access-act-deltas-ongoing-commitment-to-accessibl-zh-ac0834c8",
+    "lang": "zh-TW",
+    "summary": "Delta 在《航空承運人無障礙法》實施四十週年之際，重申其對改善殘障乘客航空旅行的持續承諾。",
+    "category": "laws-rights",
+    "tags": [
+      "Air Carrier Access Act",
+      "Delta",
+      "air travel",
+      "disability rights"
+    ],
+    "sourceName": "news.delta.com",
+    "sourceUrl": "https://news.delta.com/40-years-after-air-carrier-access-act-deltas-ongoing-commitment-accessible-travel",
+    "relatedSources": [
+      {
+        "name": "news.delta.com",
+        "url": "https://news.delta.com/40-years-after-air-carrier-access-act-deltas-ongoing-commitment-accessible-travel"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ac0834c8",
+    "status": "published",
+    "translationOf": "40-years-after-the-air-carrier-access-act-deltas-ongoing-commitment-to-accessibl-ac0834c8",
+    "publishedAt": "2026-10-01T15:12:25.000Z",
+    "fetchedAt": "2026-10-02T21:20:40.567Z",
+    "body": "Delta 在《航空承運人無障礙法》實施四十週年之際，重申其對改善殘障乘客航空旅行的持續承諾。\n\n原文來源： [news.delta.com](https://news.delta.com/40-years-after-air-carrier-access-act-deltas-ongoing-commitment-accessible-travel)"
+  },
+  {
+    "title": "格林威治小径项目获得122,250美元用于无障碍改善",
+    "slug": "greenwich-trail-project-awarded-122250-for-accessibility-improvements-zh-8d9fbcf2",
+    "lang": "zh-TW",
+    "summary": "格林威治小径项目获得122,250美元资助，用于进行无障碍改善，以提升残障人士的通行便利。",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "Patch",
+    "sourceUrl": "https://patch.com/connecticut/greenwich/greenwich-trail-project-awarded-122-250-accessibility-improvements",
+    "relatedSources": [
+      {
+        "name": "Patch",
+        "url": "https://patch.com/connecticut/greenwich/greenwich-trail-project-awarded-122-250-accessibility-improvements"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-8d9fbcf2",
+    "status": "published",
+    "translationOf": "greenwich-trail-project-awarded-122250-for-accessibility-improvements-8d9fbcf2",
+    "publishedAt": "2026-10-02T14:30:38.000Z",
+    "fetchedAt": "2026-10-02T21:21:02.927Z",
+    "body": "格林威治小径项目获得122,250美元资助，用于进行无障碍改善，以提升残障人士的通行便利。\n\n原文來源： [Patch](https://patch.com/connecticut/greenwich/greenwich-trail-project-awarded-122-250-accessibility-improvements)"
+  },
+  {
+    "title": "联合县提供免费文化无障碍培训工作坊",
+    "slug": "union-county-offers-free-cultural-accessibility-training-workshop-zh-eefc5e84",
+    "lang": "zh-TW",
+    "summary": "联合县提供免费工作坊，培训参与者关于文化无障碍，旨在让文化活动和场所对残障人士更具可及性。",
+    "category": "lifestyle-culture",
+    "tags": [],
+    "sourceName": "County of Union, New Jersey",
+    "sourceUrl": "https://ucnj.org/press-releases/public-info/2026/10/02/union-county-offers-free-cultural-accessibility-training-workshop",
+    "relatedSources": [
+      {
+        "name": "County of Union, New Jersey",
+        "url": "https://ucnj.org/press-releases/public-info/2026/10/02/union-county-offers-free-cultural-accessibility-training-workshop"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-eefc5e84",
+    "status": "published",
+    "translationOf": "union-county-offers-free-cultural-accessibility-training-workshop-eefc5e84",
+    "publishedAt": "2026-10-02T15:13:54.000Z",
+    "fetchedAt": "2026-10-02T21:21:02.935Z",
+    "body": "联合县提供免费工作坊，培训参与者关于文化无障碍，旨在让文化活动和场所对残障人士更具可及性。\n\n原文來源： [County of Union, New Jersey](https://ucnj.org/press-releases/public-info/2026/10/02/union-county-offers-free-cultural-accessibility-training-workshop)"
+  },
+  {
+    "title": "威斯康星州戏剧团体正在使演出对残障人士更具可及性",
+    "slug": "wisconsin-theater-groups-are-making-shows-more-accessible-for-people-with-disabi-zh-380a4411",
+    "lang": "zh-TW",
+    "summary": "威斯康星州的戏剧团体正在采取措施，使演出对残障观众更具可及性，包括提供字幕、音频描述和放松演出等便利措施。",
+    "category": "lifestyle-culture",
+    "tags": [],
+    "sourceName": "WPR",
+    "sourceUrl": "https://www.wpr.org/news/wisconsin-theater-groups-accessibility",
+    "relatedSources": [
+      {
+        "name": "WPR",
+        "url": "https://www.wpr.org/news/wisconsin-theater-groups-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-380a4411",
+    "status": "published",
+    "translationOf": "wisconsin-theater-groups-are-making-shows-more-accessible-for-people-with-disabi-380a4411",
+    "publishedAt": "2026-10-02T15:31:45.000Z",
+    "fetchedAt": "2026-10-02T21:21:02.942Z",
+    "body": "威斯康星州的戏剧团体正在采取措施，使演出对残障观众更具可及性，包括提供字幕、音频描述和放松演出等便利措施。\n\n原文來源： [WPR](https://www.wpr.org/news/wisconsin-theater-groups-accessibility)"
+  },
+  {
+    "title": "榮譽殿堂 - 無障礙時間線 - 得州理工紅色掠奪者",
+    "slug": "hall-of-honor-accessible-timeline-texas-tech-red-raiders-zh-a1b0e221",
+    "lang": "zh-TW",
+    "summary": "關於得州理工紅色掠奪者榮譽殿堂的無障礙時間線",
+    "category": "digital-a11y",
+    "tags": [
+      "university",
+      "sports",
+      "timeline",
+      "web accessibility"
+    ],
+    "sourceName": "Texas Tech Red Raiders",
+    "sourceUrl": "https://texastech.com/sports/2026/10/2/hall-of-honor-accessible-timeline",
+    "relatedSources": [
+      {
+        "name": "Texas Tech Red Raiders",
+        "url": "https://texastech.com/sports/2026/10/2/hall-of-honor-accessible-timeline"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a1b0e221",
+    "status": "published",
+    "translationOf": "hall-of-honor-accessible-timeline-texas-tech-red-raiders-a1b0e221",
+    "publishedAt": "2026-10-02T14:54:38.000Z",
+    "fetchedAt": "2026-10-02T21:21:22.043Z",
+    "body": "關於得州理工紅色掠奪者榮譽殿堂的無障礙時間線\n\n原文來源： [Texas Tech Red Raiders](https://texastech.com/sports/2026/10/2/hall-of-honor-accessible-timeline)"
+  },
+  {
+    "title": "Applause 和 Progress 軟體將在 M-Enabling Summit 2026 討論 AI 在無障礙合規中的角色",
+    "slug": "applause-and-progress-software-to-discuss-ais-role-in-accessibility-compliance-a-zh-1be0c71e",
+    "lang": "zh-TW",
+    "summary": "Applause 和 Progress 軟體將在 M-Enabling Summit 2026 討論 AI 在無障礙合規中的角色",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "accessibility compliance",
+      "M-Enabling Summit",
+      "software"
+    ],
+    "sourceName": "Business Wire",
+    "sourceUrl": "https://www.businesswire.com/news/home/20261002198763/en/Applause-and-Progress-Software-to-Discuss-AIs-Role-in-Accessibility-Compliance-at-M-Enabling-Summit-2026",
+    "relatedSources": [
+      {
+        "name": "Business Wire",
+        "url": "https://www.businesswire.com/news/home/20261002198763/en/Applause-and-Progress-Software-to-Discuss-AIs-Role-in-Accessibility-Compliance-at-M-Enabling-Summit-2026"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-1be0c71e",
+    "status": "published",
+    "translationOf": "applause-and-progress-software-to-discuss-ais-role-in-accessibility-compliance-a-1be0c71e",
+    "publishedAt": "2026-10-02T15:07:00.000Z",
+    "fetchedAt": "2026-10-02T21:21:22.051Z",
+    "body": "Applause 和 Progress 軟體將在 M-Enabling Summit 2026 討論 AI 在無障礙合規中的角色\n\n原文來源： [Business Wire](https://www.businesswire.com/news/home/20261002198763/en/Applause-and-Progress-Software-to-Discuss-AIs-Role-in-Accessibility-Compliance-at-M-Enabling-Summit-2026)"
+  },
+  {
+    "title": "下一個無障礙革命是時間 - OnlySky",
+    "slug": "the-next-accessibility-revolution-is-time-onlysky-zh-e5f59371",
+    "lang": "zh-TW",
+    "summary": "下一個無障礙革命是時間 - OnlySky",
+    "category": "general",
+    "tags": [
+      "time",
+      "accessibility revolution",
+      "OnlySky"
+    ],
+    "sourceName": "OnlySky",
+    "sourceUrl": "https://onlys.ky/the-next-accessibility-revolution",
+    "relatedSources": [
+      {
+        "name": "OnlySky",
+        "url": "https://onlys.ky/the-next-accessibility-revolution"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e5f59371",
+    "status": "published",
+    "translationOf": "the-next-accessibility-revolution-is-time-onlysky-e5f59371",
+    "publishedAt": "2026-10-02T16:02:58.000Z",
+    "fetchedAt": "2026-10-02T21:21:22.058Z",
+    "body": "下一個無障礙革命是時間 - OnlySky\n\n原文來源： [OnlySky](https://onlys.ky/the-next-accessibility-revolution)"
+  },
+  {
+    "title": "Google Maps 輪椅無障礙路線到底告訴你什麼",
+    "slug": "what-google-maps-wheelchair-accessible-routes-actually-tell-you-zh-778b5fb5",
+    "lang": "zh-TW",
+    "summary": "Google Maps 提供輪椅無障礙路線選項，但該功能的限制與準確度參差不齊，影響行動不便者的實用性。",
+    "category": "digital-a11y",
+    "tags": [
+      "wheelchair",
+      "Google Maps",
+      "accessibility",
+      "navigation"
+    ],
+    "sourceName": "bgr.com",
+    "sourceUrl": "https://www.bgr.com/2271448/google-maps-wheelchair-accessible-routes-what-they-show",
+    "relatedSources": [
+      {
+        "name": "bgr.com",
+        "url": "https://www.bgr.com/2271448/google-maps-wheelchair-accessible-routes-what-they-show"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-778b5fb5",
+    "status": "published",
+    "translationOf": "what-google-maps-wheelchair-accessible-routes-actually-tell-you-778b5fb5",
+    "publishedAt": "2026-10-02T15:47:00.000Z",
+    "fetchedAt": "2026-10-02T21:21:31.104Z",
+    "body": "Google Maps 提供輪椅無障礙路線選項，但該功能的限制與準確度參差不齊，影響行動不便者的實用性。\n\n原文來源： [bgr.com](https://www.bgr.com/2271448/google-maps-wheelchair-accessible-routes-what-they-show)"
+  },
+  {
+    "title": "視障朋友體驗西拉雅無障礙小旅",
+    "slug": "visually-impaired-friends-experience-accessible-small-trip-in-siraya-zh-98a734d0",
+    "lang": "zh-TW",
+    "summary": "一群視障參與者參加西拉雅地區的無障礙小旅行，測試設施並分享改善視障者旅遊的見解。",
+    "category": "case-studies",
+    "tags": [
+      "visual impairment",
+      "accessible tourism",
+      "Siraya",
+      "travel"
+    ],
+    "sourceName": "中華新聞雲",
+    "sourceUrl": "https://www.cdns.com.tw/articles/1468998",
+    "relatedSources": [
+      {
+        "name": "中華新聞雲",
+        "url": "https://www.cdns.com.tw/articles/1468998"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-98a734d0",
+    "status": "published",
+    "translationOf": "visually-impaired-friends-experience-accessible-small-trip-in-siraya-98a734d0",
+    "publishedAt": "2026-10-02T12:40:33.000Z",
+    "fetchedAt": "2026-10-02T21:21:31.118Z",
+    "body": "一群視障參與者參加西拉雅地區的無障礙小旅行，測試設施並分享改善視障者旅遊的見解。\n\n原文來源： [中華新聞雲](https://www.cdns.com.tw/articles/1468998)"
+  },
+  {
+    "title": "公東教堂無障礙大突破！金馬影后陳淑芳攜手企業捐贈助攻",
+    "slug": "gongdong-church-achieves-major-accessibility-breakthrough-with-support-from-gold-zh-b8ea81cc",
+    "lang": "zh-TW",
+    "summary": "公東教堂在金馬影后陳淑芳與企業捐助下實現無障礙大突破，提升殘障人士的使用便利。",
+    "category": "physical-design",
+    "tags": [
+      "church",
+      "accessibility",
+      "donations",
+      "Chen Shu-fang",
+      "physical access"
+    ],
+    "sourceName": "觀傳媒",
+    "sourceUrl": "https://www.watchmedia01.com/archives/554958",
+    "relatedSources": [
+      {
+        "name": "觀傳媒",
+        "url": "https://www.watchmedia01.com/archives/554958"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-b8ea81cc",
+    "status": "published",
+    "translationOf": "gongdong-church-achieves-major-accessibility-breakthrough-with-support-from-gold-b8ea81cc",
+    "publishedAt": "2026-10-02T09:44:40.000Z",
+    "fetchedAt": "2026-10-02T21:21:31.125Z",
+    "body": "公東教堂在金馬影后陳淑芳與企業捐助下實現無障礙大突破，提升殘障人士的使用便利。\n\n原文來源： [觀傳媒](https://www.watchmedia01.com/archives/554958)"
+  },
+  {
+    "title": "就像我的大哥哥們：腦性麻痹男孩利用眼動追蹤技術通過GCSE考試",
+    "slug": "just-like-my-big-brothers-boy-with-cerebral-palsy-passes-gcses-using-eye-trackin-zh-f5d7a7d1",
+    "lang": "zh-TW",
+    "summary": "十六歲的腦性麻痹少年Patrick McCabe利用眼動追蹤技術，花費四個月完成GCSE考試。他的成功展現了輔助技術在特殊教育中的潛力與限制，目前他已開始學習法國語、商業與媒體研究的A-level課程。",
+    "category": "assistive-tech",
+    "tags": [
+      "cerebral palsy",
+      "eye-tracking",
+      "assistive technology",
+      "GCSE",
+      "special education"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/education/2026/oct/02/patrick-mccabe-success-cheshire-reveals-limits-send-tech",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/education/2026/oct/02/patrick-mccabe-success-cheshire-reveals-limits-send-tech"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-f5d7a7d1",
+    "status": "published",
+    "translationOf": "just-like-my-big-brothers-boy-with-cerebral-palsy-passes-gcses-using-eye-trackin-f5d7a7d1",
+    "publishedAt": "2026-10-02T17:18:06.000Z",
+    "fetchedAt": "2026-10-02T21:22:16.169Z",
+    "body": "十六歲的腦性麻痹少年Patrick McCabe利用眼動追蹤技術，花費四個月完成GCSE考試。他的成功展現了輔助技術在特殊教育中的潛力與限制，目前他已開始學習法國語、商業與媒體研究的A-level課程。\n\n原文來源： [Unknown source](https://www.theguardian.com/education/2026/oct/02/patrick-mccabe-success-cheshire-reveals-limits-send-tech)"
+  },
+  {
+    "title": "佛羅里達州盲人服務處慶祝成立85週年，展望無限未來",
+    "slug": "florida-division-of-blind-services-celebrates-85-years-of-impact-and-a-future-be-zh-3ac99b89",
+    "lang": "zh-TW",
+    "summary": "佛羅里達州盲人服務處舉辦全州巡迴、區域慶祝活動，重新開放職業、科技與培訓中心，並紀念白杖日，以展示對盲人及視障居民的持續支援。",
+    "category": "case-studies",
+    "tags": [
+      "blind services",
+      "anniversary",
+      "Florida",
+      "assistive technology",
+      "advocacy"
+    ],
+    "sourceName": "PRNewswire",
+    "sourceUrl": "https://www.prnewswire.com/news-releases/florida-division-of-blind-services-celebrates-85-years-of-impact-and-a-future-beyond-limits-302896593.html",
+    "relatedSources": [
+      {
+        "name": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/florida-division-of-blind-services-celebrates-85-years-of-impact-and-a-future-beyond-limits-302896593.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-3ac99b89",
+    "status": "published",
+    "translationOf": "florida-division-of-blind-services-celebrates-85-years-of-impact-and-a-future-be-3ac99b89",
+    "publishedAt": "2026-10-01T20:35:00.000Z",
+    "fetchedAt": "2026-10-02T21:22:16.177Z",
+    "body": "佛羅里達州盲人服務處舉辦全州巡迴、區域慶祝活動，重新開放職業、科技與培訓中心，並紀念白杖日，以展示對盲人及視障居民的持續支援。\n\n原文來源： [PRNewswire](https://www.prnewswire.com/news-releases/florida-division-of-blind-services-celebrates-85-years-of-impact-and-a-future-beyond-limits-302896593.html)"
+  },
+  {
+    "title": "Google 在 Gemini Live 中推出 Guided Vision 以提升 Android 視障使用者的可及性",
+    "slug": "google-launches-guided-vision-in-gemini-live-for-android-zh-5d1a105d",
+    "lang": "zh-TW",
+    "summary": "Google 的 Guided Vision 功能在 Gemini Live 中提供即時攝影協助，幫助視障使用者在 Android 上獲得更好的無障礙體驗與包容性。",
+    "category": "digital-a11y",
+    "tags": [
+      "visual impairment",
+      "camera assistance",
+      "Android",
+      "Gemini Live"
+    ],
+    "sourceName": "Crypto Briefing",
+    "sourceUrl": "https://cryptobriefing.com/google-guided-vision-gemini-live-android",
+    "relatedSources": [
+      {
+        "name": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/google-guided-vision-gemini-live-android"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-5d1a105d",
+    "status": "published",
+    "translationOf": "google-launches-guided-vision-in-gemini-live-for-android-5d1a105d",
+    "publishedAt": "2026-10-01T19:51:53.000Z",
+    "fetchedAt": "2026-10-02T21:23:13.784Z",
+    "body": "Google 的 Guided Vision 功能在 Gemini Live 中提供即時攝影協助，幫助視障使用者在 Android 上獲得更好的無障礙體驗與包容性。\n\n原文來源： [Crypto Briefing](https://cryptobriefing.com/google-guided-vision-gemini-live-android)"
+  },
+  {
+    "title": "2017 年 Ford Transit 350 XLT 中型屋頂乘客車，配備輪椅升降機",
+    "slug": "2017-ford-transit-350-xlt-medium-roof-passenger-wagon-with-wheelchair-lift-zh-858ddbd6",
+    "lang": "zh-TW",
+    "summary": "此 2017 年 Ford Transit 350 已改裝為輪椅可及車輛，裝有動力操作的 BraunAbility 升降機及動力側滑門，可容納七名乘客。",
+    "category": "physical-design",
+    "tags": [
+      "wheelchair lift",
+      "vehicle modification",
+      "Ford Transit",
+      "accessibility"
+    ],
+    "sourceName": "Bringatrailer.com",
+    "sourceUrl": "https://bringatrailer.com/listing/2017-ford-transit-350",
+    "relatedSources": [
+      {
+        "name": "Bringatrailer.com",
+        "url": "https://bringatrailer.com/listing/2017-ford-transit-350"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-858ddbd6",
+    "status": "published",
+    "translationOf": "2017-ford-transit-350-xlt-medium-roof-passenger-wagon-with-wheelchair-lift-858ddbd6",
+    "publishedAt": "2026-10-01T19:10:04.000Z",
+    "fetchedAt": "2026-10-02T21:23:13.793Z",
+    "body": "此 2017 年 Ford Transit 350 已改裝為輪椅可及車輛，裝有動力操作的 BraunAbility 升降機及動力側滑門，可容納七名乘客。\n\n原文來源： [Bringatrailer.com](https://bringatrailer.com/listing/2017-ford-transit-350)"
   }
 ]

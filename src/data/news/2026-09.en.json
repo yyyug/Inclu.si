@@ -92748,5 +92748,38 @@
     "publishedAt": "2026-09-28T19:33:22.000Z",
     "fetchedAt": "2026-10-02T16:24:42.997Z",
     "body": "The Disability Club in Makkah, Saudi Arabia, organized a celebration for the National Day, showcasing values of national belonging and pride. The event highlights the social inclusion and cultural participation of individuals with disabilities in national festivities.\n\nRead more from the original source: [news.google.com](https://swiftnewz.com/archives/761653)"
+  },
+  {
+    "title": "Only 1,325 Accessible Universal Taxis Nationwide; Ministry of Transport Announces Increased Subsidy Up to NT$400,000",
+    "slug": "only-1325-accessible-universal-taxis-nationwide-ministry-of-transport-announces--c7a99947",
+    "lang": "en",
+    "summary": "Taiwan has just 1,325 accessible universal taxis serving the entire country. The Ministry of Transport plans to raise the maximum subsidy for these vehicles to NT$400,000 to encourage wider adoption.",
+    "category": "physical-design",
+    "tags": [
+      "accessible taxi",
+      "transportation",
+      "subsidy",
+      "universal design"
+    ],
+    "sourceName": "你的公共電視",
+    "sourceUrl": "https://news.pts.org.tw/article/741149",
+    "relatedSources": [
+      {
+        "name": "你的公共電視",
+        "url": "https://news.pts.org.tw/article/741149"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-c7a99947",
+    "status": "published",
+    "translationOf": "only-1325-accessible-universal-taxis-nationwide-ministry-of-transport-announces--zh-c7a99947",
+    "publishedAt": "2026-09-14T07:00:00.000Z",
+    "fetchedAt": "2026-10-02T21:22:16.058Z",
+    "body": "Taiwan has just 1,325 accessible universal taxis serving the entire country. The Ministry of Transport plans to raise the maximum subsidy for these vehicles to NT$400,000 to encourage wider adoption.\n\nRead more from the original source: [你的公共電視](https://news.pts.org.tw/article/741149)"
   }
 ]
