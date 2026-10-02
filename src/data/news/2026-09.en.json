@@ -92781,5 +92781,39 @@
     "publishedAt": "2026-09-14T07:00:00.000Z",
     "fetchedAt": "2026-10-02T21:22:16.058Z",
     "body": "Taiwan has just 1,325 accessible universal taxis serving the entire country. The Ministry of Transport plans to raise the maximum subsidy for these vehicles to NT$400,000 to encourage wider adoption.\n\nRead more from the original source: [你的公共電視](https://news.pts.org.tw/article/741149)"
+  },
+  {
+    "title": "International Expo for Persons with Disabilities Hosts First Domino Championship for Visually Impaired",
+    "slug": "international-expo-for-persons-with-disabilities-hosts-first-domino-championship-b9cea954",
+    "lang": "en",
+    "summary": "The International Expo for Persons with Disabilities organized the first-ever domino championship specifically for individuals with visual impairments, promoting inclusion in sports.",
+    "category": "case-studies",
+    "tags": [
+      "sports",
+      "visual-impairment",
+      "inclusion",
+      "gaming"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albayan.ae/sports/miscellaneous-news/1554797",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albayan.ae/sports/miscellaneous-news/1554797"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-b9cea954",
+    "status": "published",
+    "translationOf": "international-expo-for-persons-with-disabilities-hosts-first-domino-championship-zh-b9cea954",
+    "publishedAt": "2026-09-28T14:34:00.000Z",
+    "fetchedAt": "2026-10-02T22:32:11.453Z",
+    "body": "The International Expo for Persons with Disabilities organized the first-ever domino championship specifically for individuals with visual impairments, promoting inclusion in sports.\n\nRead more from the original source: [news.google.com](https://www.albayan.ae/sports/miscellaneous-news/1554797)"
   }
 ]
