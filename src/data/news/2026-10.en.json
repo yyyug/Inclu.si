@@ -5169,5 +5169,40 @@
     "publishedAt": "2026-10-02T15:21:46.000Z",
     "fetchedAt": "2026-10-02T16:24:32.174Z",
     "body": "A workshop was held in Aswan aimed at discovering talents among individuals with disabilities, highlighting efforts to support and showcase their capabilities.\n\nRead more from the original source: [news.google.com](https://twaslnews1.twaslnews.com/5508457)"
+  },
+  {
+    "title": "NVDA Bugs, Siri AI Frustrations and Your Emails on Mastodon and LiDAR",
+    "slug": "nvda-bugs-siri-ai-frustrations-and-your-emails-on-mastodon-and-lidar-603b1868",
+    "lang": "en",
+    "summary": "Blind tech enthusiasts Steven Scott and Shaun Preece review NVDA screen reader bugs, Siri AI issues on iOS 27, Gemini on Android, and discuss user emails about LiDAR, Mastodon, and smart glasses.",
+    "category": "assistive-tech",
+    "tags": [
+      "NVDA",
+      "Siri",
+      "Mastodon",
+      "LiDAR",
+      "screen reader",
+      "accessibility"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/nvda-bugs-siri-ai-frustrations-and-your-emails-on-mastodon-and-lidar-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/nvda-bugs-siri-ai-frustrations-and-your-emails-on-mastodon-and-lidar-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-603b1868",
+    "status": "published",
+    "translationOf": "nvda-bugs-siri-ai-frustrations-and-your-emails-on-mastodon-and-lidar-zh-603b1868",
+    "publishedAt": "2026-10-02T16:00:24.000Z",
+    "fetchedAt": "2026-10-02T21:22:37.201Z",
+    "body": "Blind tech enthusiasts Steven Scott and Shaun Preece review NVDA screen reader bugs, Siri AI issues on iOS 27, Gemini on Android, and discuss user emails about LiDAR, Mastodon, and smart glasses.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/nvda-bugs-siri-ai-frustrations-and-your-emails-on-mastodon-and-lidar-2)"
   }
 ]

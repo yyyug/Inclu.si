@@ -5169,5 +5169,40 @@
     "publishedAt": "2026-10-02T15:21:46.000Z",
     "fetchedAt": "2026-10-02T16:24:32.174Z",
     "body": "一場在阿斯萬舉辦的工作坊，旨在發掘殘障人士的天賦，突顯了支持並展示其能力的工作。\n\n原文來源： [news.google.com](https://twaslnews1.twaslnews.com/5508457)"
+  },
+  {
+    "title": "NVDA錯誤、Siri AI困擾以及您在Mastodon和LiDAR上的郵件",
+    "slug": "nvda-bugs-siri-ai-frustrations-and-your-emails-on-mastodon-and-lidar-zh-603b1868",
+    "lang": "zh-TW",
+    "summary": "盲人技術愛好者 Steven Scott 與 Shaun Preece 評論 NVDA 螢幕閱讀器錯誤、iOS 27 上的 Siri AI 問題、Android 上的 Gemini，並討論使用者關於 LiDAR、Mastodon 與智慧眼鏡的郵件。",
+    "category": "assistive-tech",
+    "tags": [
+      "NVDA",
+      "Siri",
+      "Mastodon",
+      "LiDAR",
+      "screen reader",
+      "accessibility"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/nvda-bugs-siri-ai-frustrations-and-your-emails-on-mastodon-and-lidar-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/nvda-bugs-siri-ai-frustrations-and-your-emails-on-mastodon-and-lidar-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-603b1868",
+    "status": "published",
+    "translationOf": "nvda-bugs-siri-ai-frustrations-and-your-emails-on-mastodon-and-lidar-603b1868",
+    "publishedAt": "2026-10-02T16:00:24.000Z",
+    "fetchedAt": "2026-10-02T21:22:37.201Z",
+    "body": "盲人技術愛好者 Steven Scott 與 Shaun Preece 評論 NVDA 螢幕閱讀器錯誤、iOS 27 上的 Siri AI 問題、Android 上的 Gemini，並討論使用者關於 LiDAR、Mastodon 與智慧眼鏡的郵件。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/nvda-bugs-siri-ai-frustrations-and-your-emails-on-mastodon-and-lidar-2)"
   }
 ]
