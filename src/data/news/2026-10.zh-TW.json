@@ -8411,5 +8411,414 @@
     "publishedAt": "2026-10-03T12:00:01.000Z",
     "fetchedAt": "2026-10-03T13:50:13.170Z",
     "body": "猶他州盲人協會正在徵求報名參加其新聞通訊《UCB Buzz》。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2106353576343678983)\n外部連結： [https://utahblind.org/chimp.html](https://utahblind.org/chimp.html)"
+  },
+  {
+    "title": "法國殘奧會發布可及性體育活動指南",
+    "slug": "french-paralympic-committee-releases-guide-for-accessible-sporting-events-zh-92c9e595",
+    "lang": "zh-TW",
+    "summary": "在巴黎2024年殘奧會之後，法國殘奧與體育委員會（CPSF）發布了一份指南，協助主辦單位從規劃階段開始，舉辦對所有身障人士皆可及的體育活動。",
+    "category": "laws-rights",
+    "tags": [
+      "accessibility",
+      "sports",
+      "guide",
+      "CPSF",
+      "inclusion"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-le-cpsf-devoile-son-guide-pour-des-evenements-accessibles-39795.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-le-cpsf-devoile-son-guide-pour-des-evenements-accessibles-39795.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-92c9e595",
+    "status": "published",
+    "translationOf": "french-paralympic-committee-releases-guide-for-accessible-sporting-events-92c9e595",
+    "publishedAt": "2026-10-03T12:00:00.000Z",
+    "fetchedAt": "2026-10-03T14:52:55.513Z",
+    "body": "在巴黎2024年殘奧會之後，法國殘奧與體育委員會（CPSF）發布了一份指南，協助主辦單位從規劃階段開始，舉辦對所有身障人士皆可及的體育活動。\n\n原文來源： [handicap.fr](https://informations.handicap.fr/a-le-cpsf-devoile-son-guide-pour-des-evenements-accessibles-39795.php)"
+  },
+  {
+    "title": "保障身障人士在教育領域的發展機會",
+    "slug": "ensuring-opportunities-for-people-with-disabilities-in-education-zh-147988c8",
+    "lang": "zh-TW",
+    "summary": "本文探討越南針對身障人士在教育領域中獲得平等發展與成長機會的措施。",
+    "category": "laws-rights",
+    "tags": [
+      "education",
+      "disability",
+      "Vietnam",
+      "rights",
+      "accessibility"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.vietnam.vn/ar/bao-dam-nguoi-khuyet-tat-co-co-hoi-phat-trien-trong-giao-duc",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.vietnam.vn/ar/bao-dam-nguoi-khuyet-tat-co-co-hoi-phat-trien-trong-giao-duc"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-147988c8",
+    "status": "published",
+    "translationOf": "ensuring-opportunities-for-people-with-disabilities-in-education-147988c8",
+    "publishedAt": "2026-10-03T10:35:02.000Z",
+    "fetchedAt": "2026-10-03T14:52:56.194Z",
+    "body": "本文探討越南針對身障人士在教育領域中獲得平等發展與成長機會的措施。\n\n原文來源： [news.google.com](https://www.vietnam.vn/ar/bao-dam-nguoi-khuyet-tat-co-co-hoi-phat-trien-trong-giao-duc)"
+  },
+  {
+    "title": "扎耶德殘障人士基金會與加拿大中心簽署脊柱側彎治療與康復合作備忘錄",
+    "slug": "zayed-foundation-for-people-with-disabilities-signs-mou-with-canadian-center-for-zh-fe73488b",
+    "lang": "zh-TW",
+    "summary": "扎耶德殘障人士基金會與加拿大醫療中心簽署諒解備忘錄，為身體殘障人士提供脊柱側彎治療與康復服務。",
+    "category": "assistive-tech",
+    "tags": [
+      "rehabilitation",
+      "medical-partnership",
+      "physical-disability"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://alwatan.ae/posts/1640042",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://alwatan.ae/posts/1640042"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-fe73488b",
+    "status": "published",
+    "translationOf": "zayed-foundation-for-people-with-disabilities-signs-mou-with-canadian-center-for-fe73488b",
+    "publishedAt": "2026-10-02T20:00:04.000Z",
+    "fetchedAt": "2026-10-03T14:53:02.235Z",
+    "body": "扎耶德殘障人士基金會與加拿大醫療中心簽署諒解備忘錄，為身體殘障人士提供脊柱側彎治療與康復服務。\n\n原文來源： [news.google.com](https://alwatan.ae/posts/1640042)"
+  },
+  {
+    "title": "職業訓練與安置機構退休準備解決方案",
+    "slug": "retirement-in-esat-solutions-for-preparing-for-the-end-of-professional-activity-zh-4e2c3166",
+    "lang": "zh-TW",
+    "summary": "本文探討了職業訓練與安置機構（ESAT）中殘障工作者，特別是提前退休者所面臨的諸多疑問。文中介紹了行業相關人士提出的工具與解決方案，旨在幫助這些人士更好地規劃職業生涯尾聲的過渡安排。",
+    "category": "laws-rights",
+    "tags": [
+      "ESAT",
+      "retirement",
+      "disability",
+      "transition",
+      "France"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-retraite-en-esat-quelles-solutions-pour-bien-la-preparer-39773.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-retraite-en-esat-quelles-solutions-pour-bien-la-preparer-39773.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-4e2c3166",
+    "status": "published",
+    "translationOf": "retirement-in-esat-solutions-for-preparing-for-the-end-of-professional-activity-4e2c3166",
+    "publishedAt": "2026-10-03T07:00:31.000Z",
+    "fetchedAt": "2026-10-03T14:53:06.711Z",
+    "body": "本文探討了職業訓練與安置機構（ESAT）中殘障工作者，特別是提前退休者所面臨的諸多疑問。文中介紹了行業相關人士提出的工具與解決方案，旨在幫助這些人士更好地規劃職業生涯尾聲的過渡安排。\n\n原文來源： [handicap.fr](https://informations.handicap.fr/a-retraite-en-esat-quelles-solutions-pour-bien-la-preparer-39773.php)"
+  },
+  {
+    "title": "身心障礙者權益：學期初錄取遭拒投訴案達35起",
+    "slug": "rights-of-persons-with-disabilities-35-complaints-of-rejection-in-admission-at-t-zh-5b3fec07",
+    "lang": "zh-TW",
+    "summary": "報告指出，在新學期錄取階段，身心障礙者因遭拒絕錄取而提出投訴的案例共有35起，凸顯出其法律權益及受教權保障方面所面臨的問題。",
+    "category": "laws-rights",
+    "tags": [
+      "disability rights",
+      "education",
+      "complaints",
+      "accessibility"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://twaslnews1.twaslnews.com/5522336",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://twaslnews1.twaslnews.com/5522336"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-5b3fec07",
+    "status": "published",
+    "translationOf": "rights-of-persons-with-disabilities-35-complaints-of-rejection-in-admission-at-t-5b3fec07",
+    "publishedAt": "2026-10-03T05:18:53.000Z",
+    "fetchedAt": "2026-10-03T14:53:06.724Z",
+    "body": "報告指出，在新學期錄取階段，身心障礙者因遭拒絕錄取而提出投訴的案例共有35起，凸顯出其法律權益及受教權保障方面所面臨的問題。\n\n原文來源： [news.google.com](https://twaslnews1.twaslnews.com/5522336)"
+  },
+  {
+    "title": "全國協 hội 要求將障礙人士議程納入新政府計畫",
+    "slug": "national-associations-demand-inclusion-of-disability-agenda-in-new-government-pr-zh-9a862065",
+    "lang": "zh-TW",
+    "summary": "國家障礙人士協會要求將障礙者權益議題納入摩洛哥新政府計畫的核心，旨在透過政策變革促進身心障礙者的權利與無障礙環境建設。",
+    "category": "laws-rights",
+    "tags": [
+      "Morocco",
+      "Disability Policy",
+      "Government Program"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://ihata.ma/politique/%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A7%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%A7%D9%84%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://ihata.ma/politique/%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A7%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%A7%D9%84%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-9a862065",
+    "status": "published",
+    "translationOf": "national-associations-demand-inclusion-of-disability-agenda-in-new-government-pr-9a862065",
+    "publishedAt": "2026-10-03T10:55:55.000Z",
+    "fetchedAt": "2026-10-03T14:53:22.780Z",
+    "body": "國家障礙人士協會要求將障礙者權益議題納入摩洛哥新政府計畫的核心，旨在透過政策變革促進身心障礙者的權利與無障礙環境建設。\n\n原文來源： [news.google.com](https://ihata.ma/politique/%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A7%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%A7%D9%84%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A)"
+  },
+  {
+    "title": "卡比爾地區-launching-兒童無障礙融合社會經濟整合項目",
+    "slug": "inclusive-socio-economic-integration-project-for-children-with-disabilities-laun-zh-014a50aa",
+    "lang": "zh-TW",
+    "summary": "一個旨在促進兒童無障礙融合社會經濟整合的項目在卡比爾地區正式啟動。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "inclusion",
+      "socio-economic",
+      "children",
+      "integration"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://diwanfm.net/news/%D8%AC%D9%87%D9%88%D9%8A%D8%A9/%D9%82%D8%A8%D9%84%D9%8A%3A-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%22%D8%A7%D9%84%D8%A5%D8%AF%D9%85%D8%A7%D8%AC-%D8%A7%D9%84%D8%B3%D9%88%D8%B3%D9%8A%D9%88-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A7%D8%B9%D8%A7%D9%82%D8%A9%22",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://diwanfm.net/news/%D8%AC%D9%87%D9%88%D9%8A%D8%A9/%D9%82%D8%A8%D9%84%D9%8A%3A-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%22%D8%A7%D9%84%D8%A5%D8%AF%D9%85%D8%A7%D8%AC-%D8%A7%D9%84%D8%B3%D9%88%D8%B3%D9%8A%D9%88-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A7%D8%B9%D8%A7%D9%82%D8%A9%22"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-014a50aa",
+    "status": "published",
+    "translationOf": "inclusive-socio-economic-integration-project-for-children-with-disabilities-laun-014a50aa",
+    "publishedAt": "2026-10-03T13:10:15.000Z",
+    "fetchedAt": "2026-10-03T14:53:33.444Z",
+    "body": "一個旨在促進兒童無障礙融合社會經濟整合的項目在卡比爾地區正式啟動。\n\n原文來源： [news.google.com](https://diwanfm.net/news/%D8%AC%D9%87%D9%88%D9%8A%D8%A9/%D9%82%D8%A8%D9%84%D9%8A%3A-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%22%D8%A7%D9%84%D8%A5%D8%AF%D9%85%D8%A7%D8%AC-%D8%A7%D9%84%D8%B3%D9%88%D8%B3%D9%8A%D9%88-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A7%D8%B9%D8%A7%D9%82%D8%A9%22)"
+  },
+  {
+    "title": "非政府組織要求將殘障人士權利納入政府計畫",
+    "slug": "ngos-call-for-integration-of-disability-rights-in-government-program-zh-0fbf2453",
+    "lang": "zh-TW",
+    "summary": "摩洛哥民間組織要求正式將殘障人士權利納入國家政府計畫，主張加強政策支持和無障礙標準。",
+    "category": "laws-rights",
+    "tags": [
+      "Morocco",
+      "government",
+      "rights",
+      "NGO",
+      "accessibility"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://inews.ma/news/8701271",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://inews.ma/news/8701271"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-0fbf2453",
+    "status": "published",
+    "translationOf": "ngos-call-for-integration-of-disability-rights-in-government-program-0fbf2453",
+    "publishedAt": "2026-10-03T09:50:05.000Z",
+    "fetchedAt": "2026-10-03T14:53:41.726Z",
+    "body": "摩洛哥民間組織要求正式將殘障人士權利納入國家政府計畫，主張加強政策支持和無障礙標準。\n\n原文來源： [news.google.com](https://inews.ma/news/8701271)"
+  },
+  {
+    "title": "「我的家庭就是我的力量」计划在南西奈地区为残障人士开通服务通道",
+    "slug": "family-and-strength-program-opens-service-doors-for-people-with-disabilities-in--zh-adbe7297",
+    "lang": "zh-TW",
+    "summary": "「我的家庭就是我的力量」计划正在扩大社会服务，并为符合条件的家庭提供紧急援助，特别关注南西奈地区残障人士的支持工作。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "social services",
+      "disability support",
+      "South Sinai",
+      "emergency aid"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "http://www.sada-elarab.com/821662",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "http://www.sada-elarab.com/821662"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-adbe7297",
+    "status": "published",
+    "translationOf": "family-and-strength-program-opens-service-doors-for-people-with-disabilities-in--adbe7297",
+    "publishedAt": "2026-10-03T07:58:00.000Z",
+    "fetchedAt": "2026-10-03T14:54:02.510Z",
+    "body": "「我的家庭就是我的力量」计划正在扩大社会服务，并为符合条件的家庭提供紧急援助，特别关注南西奈地区残障人士的支持工作。\n\n原文來源： [news.google.com](http://www.sada-elarab.com/821662)"
+  },
+  {
+    "title": "谢赫利亚社会团结机构完成培训以提升残障人士服务质量",
+    "slug": "sharqia-social-solidarity-concludes-training-program-to-improve-disability-servi-zh-ea0b9454",
+    "lang": "zh-TW",
+    "summary": "谢赫利亚社会团结机构完成了为期11个办公室的工作团队培训计划，旨在提升为残障人士提供服务的品质。",
+    "category": "general",
+    "tags": [
+      "training",
+      "social services",
+      "Sharqia",
+      "institutional improvement"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.elbalad.news/7128323",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.elbalad.news/7128323"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-ea0b9454",
+    "status": "published",
+    "translationOf": "sharqia-social-solidarity-concludes-training-program-to-improve-disability-servi-ea0b9454",
+    "publishedAt": "2026-10-03T09:45:00.000Z",
+    "fetchedAt": "2026-10-03T14:54:02.523Z",
+    "body": "谢赫利亚社会团结机构完成了为期11个办公室的工作团队培训计划，旨在提升为残障人士提供服务的品质。\n\n原文來源： [news.google.com](https://www.elbalad.news/7128323)"
+  },
+  {
+    "title": "開羅大學慶祝世界手語日並表彰聽障學生",
+    "slug": "cairo-university-honors-deaf-students-on-world-sign-language-day-zh-e177de92",
+    "lang": "zh-TW",
+    "summary": "開羅大學慶祝世界手語日，表彰並獎勵聽障學生，突显該機構對殘障融入及學術環境中手語可見性的承諾。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "sign-language",
+      "deaf-students",
+      "inclusion",
+      "university"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albawabhnews.com/5419156",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albawabhnews.com/5419156"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-e177de92",
+    "status": "published",
+    "translationOf": "cairo-university-honors-deaf-students-on-world-sign-language-day-e177de92",
+    "publishedAt": "2026-10-03T13:37:00.000Z",
+    "fetchedAt": "2026-10-03T14:54:05.023Z",
+    "body": "開羅大學慶祝世界手語日，表彰並獎勵聽障學生，突显該機構對殘障融入及學術環境中手語可見性的承諾。\n\n原文來源： [news.google.com](https://www.albawabhnews.com/5419156)"
+  },
+  {
+    "title": "社會團結部探討在上埃及為殘疾兒童設立融合托兒所的支持",
+    "slug": "social-solidarity-ministry-explores-support-for-inclusive-kindergarten-for-child-zh-de20d9ff",
+    "lang": "zh-TW",
+    "summary": "埃及社會團結部正在討論支持在上埃及為殘疾兒童設立融合托兒所，同時概述了他們可獲得的法律權益。",
+    "category": "laws-rights",
+    "tags": [
+      "inclusive-education",
+      "disability-rights",
+      "egypt"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://twaslnews1.twaslnews.com/5534349",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://twaslnews1.twaslnews.com/5534349"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-de20d9ff",
+    "status": "published",
+    "translationOf": "social-solidarity-ministry-explores-support-for-inclusive-kindergarten-for-child-de20d9ff",
+    "publishedAt": "2026-10-03T12:10:38.000Z",
+    "fetchedAt": "2026-10-03T14:54:15.835Z",
+    "body": "埃及社會團結部正在討論支持在上埃及為殘疾兒童設立融合托兒所，同時概述了他們可獲得的法律權益。\n\n原文來源： [news.google.com](https://twaslnews1.twaslnews.com/5534349)"
   }
 ]
