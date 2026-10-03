@@ -73532,5 +73532,38 @@
     "publishedAt": "2026-08-10T07:00:00.000Z",
     "fetchedAt": "2026-09-26T21:31:36.156Z",
     "body": "An individual with a disability in the UAE shares their personal story of resilience, explaining how their determination and willpower altered the course of their life and career.\n\nRead more from the original source: [news.google.com](https://www.emaratalyoum.com/life/four-sides/2026-08-10-1.2072648)"
+  },
+  {
+    "title": "Statistics: 52% of Disabled Individuals Are Female in Saudi Arabia",
+    "slug": "statistics-52-of-disabled-individuals-are-female-in-saudi-arabia-5a29e326",
+    "lang": "en",
+    "summary": "A Saudi newspaper reports that 52% of the registered disabled population consists of females, highlighting gender demographics within the disability community.",
+    "category": "general",
+    "tags": [
+      "statistics",
+      "gender",
+      "saudi-arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alwatan.com.sa/article/1184240",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alwatan.com.sa/article/1184240"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-5a29e326",
+    "status": "published",
+    "translationOf": "statistics-52-of-disabled-individuals-are-female-in-saudi-arabia-zh-5a29e326",
+    "publishedAt": "2026-08-15T07:00:00.000Z",
+    "fetchedAt": "2026-10-03T21:45:03.621Z",
+    "body": "A Saudi newspaper reports that 52% of the registered disabled population consists of females, highlighting gender demographics within the disability community.\n\nRead more from the original source: [news.google.com](https://www.alwatan.com.sa/article/1184240)"
   }
 ]

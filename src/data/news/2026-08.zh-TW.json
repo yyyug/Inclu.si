@@ -73532,5 +73532,38 @@
     "publishedAt": "2026-08-10T07:00:00.000Z",
     "fetchedAt": "2026-09-26T21:31:36.156Z",
     "body": "一位聯合國阿联酋的残障人士分享了他們堅韌不拔的个人故事，並解釋了他們的決心和意志力如何改變了其人生和職業發展。\n\n原文來源： [news.google.com](https://www.emaratalyoum.com/life/four-sides/2026-08-10-1.2072648)"
+  },
+  {
+    "title": "統計數據：沙烏地阿拉伯52%的身心障礙者為女性",
+    "slug": "statistics-52-of-disabled-individuals-are-female-in-saudi-arabia-zh-5a29e326",
+    "lang": "zh-TW",
+    "summary": "沙烏地阿拉伯《家報》報導指出，註冊身心障礙人口中有52%為女性，凸顯了身心障礙社群中的性別人口結構。",
+    "category": "general",
+    "tags": [
+      "statistics",
+      "gender",
+      "saudi-arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alwatan.com.sa/article/1184240",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alwatan.com.sa/article/1184240"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-5a29e326",
+    "status": "published",
+    "translationOf": "statistics-52-of-disabled-individuals-are-female-in-saudi-arabia-5a29e326",
+    "publishedAt": "2026-08-15T07:00:00.000Z",
+    "fetchedAt": "2026-10-03T21:45:03.621Z",
+    "body": "沙烏地阿拉伯《家報》報導指出，註冊身心障礙人口中有52%為女性，凸顯了身心障礙社群中的性別人口結構。\n\n原文來源： [news.google.com](https://www.alwatan.com.sa/article/1184240)"
   }
 ]
