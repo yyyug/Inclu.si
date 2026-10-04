@@ -12621,5 +12621,132 @@
     "publishedAt": "2026-10-04T15:00:00.000Z",
     "fetchedAt": "2026-10-04T15:32:03.439Z",
     "body": "「騎士」隊在「Qwa」組織於阿西爾地區舉辦的盲人門球聯賽中獲得冠軍，突顯了面向視障人士的文體運動。\n\n原文來源： [news.google.com](https://al-hadath.com/sport-news/101567/%C2%AB%D8%A7%D9%84%D9%81%D8%B1%D8%B3%D8%A7%D9%86%C2%BB-%D9%8A%D8%AA%D9%88%D9%91%D8%AC%D9%88%D9%86-%D8%A8%D8%A7%D9%84%D9%84%D9%82%D8%A8-%C2%AB%D9%82%D9%88%D9%89%C2%BB-%D8%AA%D8%AE%D8%AA%D8%AA%D9%85-%D8%AF%D9%88%D8%B1%D9%8A-%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%87%D8%AF%D9%81-%D9%84%D9%84%D9%85%D9%83%D9%81%D9%88%D9%81%D9%8A%D9%86-%D9%81%D9%8A-%D8%B9%D8%B3%D9%8A%D8%B1)"
+  },
+  {
+    "title": "社宅政策大轉彎 身心障礙者民間居住困境",
+    "slug": "public-housing-policy-shift-highlights-housing-challenges-for-persons-with-disab-zh-82d8621c",
+    "lang": "zh-TW",
+    "summary": "公共住房政策的重大轉變凸顯了身心障礙者在私人住房市場中遇到的困難。",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "peopo.org",
+    "sourceUrl": "https://www.peopo.org/news/859387",
+    "relatedSources": [
+      {
+        "name": "peopo.org",
+        "url": "https://www.peopo.org/news/859387"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-82d8621c",
+    "status": "published",
+    "translationOf": "public-housing-policy-shift-highlights-housing-challenges-for-persons-with-disab-82d8621c",
+    "publishedAt": "2026-10-04T16:35:00.000Z",
+    "fetchedAt": "2026-10-04T20:11:56.154Z",
+    "body": "公共住房政策的重大轉變凸顯了身心障礙者在私人住房市場中遇到的困難。\n\n原文來源： [peopo.org](https://www.peopo.org/news/859387)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "a11y-computer-use-0410-zh-257466e7",
+    "lang": "zh-TW",
+    "summary": "一個以無障礙為優先的電腦使用框架，為 macOS、Windows、Linux 和瀏覽器提供經修剪的無障礙樹快照、元素參照和安全層，以 MCP 伺服器 + CLI 的形式公開。",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility",
+      "computer-use",
+      "framework",
+      "MCP"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/a11y-computer-use/0.4.10",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/a11y-computer-use/0.4.10"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-257466e7",
+    "status": "draft",
+    "translationOf": "a11y-computer-use-0410-257466e7",
+    "publishedAt": "2026-10-03T19:43:19.000Z",
+    "fetchedAt": "2026-10-04T20:12:13.881Z",
+    "body": "一個以無障礙為優先的電腦使用框架，為 macOS、Windows、Linux 和瀏覽器提供經修剪的無障礙樹快照、元素參照和安全層，以 MCP 伺服器 + CLI 的形式公開。\n\n原文來源： [Pypi.org](https://pypi.org/project/a11y-computer-use/0.4.10)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "a11y-computer-use-049-zh-2a97396d",
+    "lang": "zh-TW",
+    "summary": "一個以無障礙為優先的電腦使用框架，為 macOS、Windows、Linux 和瀏覽器提供經修剪的無障礙樹快照、元素參照和安全層，以 MCP 伺服器 + CLI 的形式公開。",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility",
+      "computer-use",
+      "framework",
+      "MCP"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/a11y-computer-use/0.4.9",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/a11y-computer-use/0.4.9"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-2a97396d",
+    "status": "draft",
+    "translationOf": "a11y-computer-use-049-2a97396d",
+    "publishedAt": "2026-10-03T18:49:14.000Z",
+    "fetchedAt": "2026-10-04T20:12:13.905Z",
+    "body": "一個以無障礙為優先的電腦使用框架，為 macOS、Windows、Linux 和瀏覽器提供經修剪的無障礙樹快照、元素參照和安全層，以 MCP 伺服器 + CLI 的形式公開。\n\n原文來源： [Pypi.org](https://pypi.org/project/a11y-computer-use/0.4.9)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "macos-computer-use-kit-032-zh-09104f82",
+    "lang": "zh-TW",
+    "summary": "一個面向 AI 代理的 AX 優先 macOS 電腦使用套件，提供 MCP 伺服器 + CLI，適用於 Claude Code、Codex、Cursor 和任何 MCP 客戶端，具備穩定的無障礙樹定位、不會移動游標的背景輸入、Unicode 輸入以及對選單、視窗和應用程式的控制。",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility",
+      "macOS",
+      "AI agents",
+      "MCP"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/macos-computer-use-kit/0.3.2",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/macos-computer-use-kit/0.3.2"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-09104f82",
+    "status": "draft",
+    "translationOf": "macos-computer-use-kit-032-09104f82",
+    "publishedAt": "2026-10-03T14:33:28.000Z",
+    "fetchedAt": "2026-10-04T20:12:13.927Z",
+    "body": "一個面向 AI 代理的 AX 優先 macOS 電腦使用套件，提供 MCP 伺服器 + CLI，適用於 Claude Code、Codex、Cursor 和任何 MCP 客戶端，具備穩定的無障礙樹定位、不會移動游標的背景輸入、Unicode 輸入以及對選單、視窗和應用程式的控制。\n\n原文來源： [Pypi.org](https://pypi.org/project/macos-computer-use-kit/0.3.2)"
   }
 ]

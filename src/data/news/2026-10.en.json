@@ -12621,5 +12621,132 @@
     "publishedAt": "2026-10-04T15:00:00.000Z",
     "fetchedAt": "2026-10-04T15:32:03.439Z",
     "body": "The 'Knights' team won the championship as the 'Qwa' organization concluded the blind goal soccer league in the Asir region, highlighting recreational sports for visually impaired individuals.\n\nRead more from the original source: [news.google.com](https://al-hadath.com/sport-news/101567/%C2%AB%D8%A7%D9%84%D9%81%D8%B1%D8%B3%D8%A7%D9%86%C2%BB-%D9%8A%D8%AA%D9%88%D9%91%D8%AC%D9%88%D9%86-%D8%A8%D8%A7%D9%84%D9%84%D9%82%D8%A8-%C2%AB%D9%82%D9%88%D9%89%C2%BB-%D8%AA%D8%AE%D8%AA%D8%AA%D9%85-%D8%AF%D9%88%D8%B1%D9%8A-%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%87%D8%AF%D9%81-%D9%84%D9%84%D9%85%D9%83%D9%81%D9%88%D9%81%D9%8A%D9%86-%D9%81%D9%8A-%D8%B9%D8%B3%D9%8A%D8%B1)"
+  },
+  {
+    "title": "Public Housing Policy Shift Highlights Housing Challenges for Persons with Disabilities",
+    "slug": "public-housing-policy-shift-highlights-housing-challenges-for-persons-with-disab-82d8621c",
+    "lang": "en",
+    "summary": "A major shift in public housing policy has revealed the difficulties faced by persons with disabilities in securing private housing.",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "peopo.org",
+    "sourceUrl": "https://www.peopo.org/news/859387",
+    "relatedSources": [
+      {
+        "name": "peopo.org",
+        "url": "https://www.peopo.org/news/859387"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-82d8621c",
+    "status": "published",
+    "translationOf": "public-housing-policy-shift-highlights-housing-challenges-for-persons-with-disab-zh-82d8621c",
+    "publishedAt": "2026-10-04T16:35:00.000Z",
+    "fetchedAt": "2026-10-04T20:11:56.154Z",
+    "body": "A major shift in public housing policy has revealed the difficulties faced by persons with disabilities in securing private housing.\n\nRead more from the original source: [peopo.org](https://www.peopo.org/news/859387)"
+  },
+  {
+    "title": "a11y-computer-use 0.4.10",
+    "slug": "a11y-computer-use-0410-257466e7",
+    "lang": "en",
+    "summary": "An accessibility-first computer-use framework that provides pruned accessibility-tree snapshots, element references, and a safety layer for macOS, Windows, Linux, and browsers, exposed as an MCP server and CLI.",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility",
+      "computer-use",
+      "framework",
+      "MCP"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/a11y-computer-use/0.4.10",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/a11y-computer-use/0.4.10"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-257466e7",
+    "status": "published",
+    "translationOf": "a11y-computer-use-0410-zh-257466e7",
+    "publishedAt": "2026-10-03T19:43:19.000Z",
+    "fetchedAt": "2026-10-04T20:12:13.881Z",
+    "body": "An accessibility-first computer-use framework that provides pruned accessibility-tree snapshots, element references, and a safety layer for macOS, Windows, Linux, and browsers, exposed as an MCP server and CLI.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/a11y-computer-use/0.4.10)"
+  },
+  {
+    "title": "a11y-computer-use 0.4.9",
+    "slug": "a11y-computer-use-049-2a97396d",
+    "lang": "en",
+    "summary": "An accessibility-first computer-use framework that provides pruned accessibility-tree snapshots, element references, and a safety layer for macOS, Windows, Linux, and browsers, exposed as an MCP server and CLI.",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility",
+      "computer-use",
+      "framework",
+      "MCP"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/a11y-computer-use/0.4.9",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/a11y-computer-use/0.4.9"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-2a97396d",
+    "status": "published",
+    "translationOf": "a11y-computer-use-049-zh-2a97396d",
+    "publishedAt": "2026-10-03T18:49:14.000Z",
+    "fetchedAt": "2026-10-04T20:12:13.905Z",
+    "body": "An accessibility-first computer-use framework that provides pruned accessibility-tree snapshots, element references, and a safety layer for macOS, Windows, Linux, and browsers, exposed as an MCP server and CLI.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/a11y-computer-use/0.4.9)"
+  },
+  {
+    "title": "macos-computer-use-kit 0.3.2",
+    "slug": "macos-computer-use-kit-032-09104f82",
+    "lang": "en",
+    "summary": "An AX-first macOS computer-use kit for AI agents, offering an MCP server + CLI for Claude Code, Codex, Cursor and any MCP client, with stable accessibility-tree targeting, background input that does not move the cursor, Unicode typing, and control over menus, windows and apps.",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility",
+      "macOS",
+      "AI agents",
+      "MCP"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/macos-computer-use-kit/0.3.2",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/macos-computer-use-kit/0.3.2"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-09104f82",
+    "status": "published",
+    "translationOf": "macos-computer-use-kit-032-zh-09104f82",
+    "publishedAt": "2026-10-03T14:33:28.000Z",
+    "fetchedAt": "2026-10-04T20:12:13.927Z",
+    "body": "An AX-first macOS computer-use kit for AI agents, offering an MCP server + CLI for Claude Code, Codex, Cursor and any MCP client, with stable accessibility-tree targeting, background input that does not move the cursor, Unicode typing, and control over menus, windows and apps.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/macos-computer-use-kit/0.3.2)"
   }
 ]
