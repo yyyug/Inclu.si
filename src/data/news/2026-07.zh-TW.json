@@ -83484,5 +83484,39 @@
     "publishedAt": "2026-07-16T07:00:00.000Z",
     "fetchedAt": "2026-10-02T16:22:48.192Z",
     "body": "內政部副部長會晤「加強全面司法接入計劃」團隊，探討提升警察治理並確保法律程序的公平接入，符合殘疾人權與包容性司法框架。\n\n原文來源： [news.google.com](http://www.sabanew.net/viewstory/149463)"
+  },
+  {
+    "title": "技術專家解析「Basir」應用程式如何協助視障人士",
+    "slug": "tech-expert-explains-how-the-basir-app-works-for-visually-impaired-users-zh-bf3bb585",
+    "lang": "zh-TW",
+    "summary": "一位技術專家解釋了「Basir」應用程式的運作機制。該應用程序旨在協助視障人士，作為輔助科技以提升盲人及低視力用戶的可及性。",
+    "category": "assistive-tech",
+    "tags": [
+      "visually-impaired",
+      "app",
+      "assistive-technology",
+      "saudi-arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://ajel.sa/local/h79wtvshm",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://ajel.sa/local/h79wtvshm"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-bf3bb585",
+    "status": "published",
+    "translationOf": "tech-expert-explains-how-the-basir-app-works-for-visually-impaired-users-bf3bb585",
+    "publishedAt": "2026-07-12T07:00:00.000Z",
+    "fetchedAt": "2026-10-05T19:29:35.984Z",
+    "body": "一位技術專家解釋了「Basir」應用程式的運作機制。該應用程序旨在協助視障人士，作為輔助科技以提升盲人及低視力用戶的可及性。\n\n原文來源： [news.google.com](https://ajel.sa/local/h79wtvshm)"
   }
 ]

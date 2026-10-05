@@ -83484,5 +83484,39 @@
     "publishedAt": "2026-07-16T07:00:00.000Z",
     "fetchedAt": "2026-10-02T16:22:48.192Z",
     "body": "The Deputy Minister of Interior met with the 'Project for Strengthening Comprehensive Access to Justice' to discuss enhancing police governance and ensuring equitable access to legal processes, aligning with disability rights and inclusive justice frameworks.\n\nRead more from the original source: [news.google.com](http://www.sabanew.net/viewstory/149463)"
+  },
+  {
+    "title": "Tech Expert Explains How the 'Basir' App Works for Visually Impaired Users",
+    "slug": "tech-expert-explains-how-the-basir-app-works-for-visually-impaired-users-bf3bb585",
+    "lang": "en",
+    "summary": "A technical expert provides an explanation of the operational mechanism of the 'Basir' application, which is designed to assist individuals with visual impairments. The app serves as assistive technology to improve accessibility for blind and low-vision users.",
+    "category": "assistive-tech",
+    "tags": [
+      "visually-impaired",
+      "app",
+      "assistive-technology",
+      "saudi-arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://ajel.sa/local/h79wtvshm",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://ajel.sa/local/h79wtvshm"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-bf3bb585",
+    "status": "published",
+    "translationOf": "tech-expert-explains-how-the-basir-app-works-for-visually-impaired-users-zh-bf3bb585",
+    "publishedAt": "2026-07-12T07:00:00.000Z",
+    "fetchedAt": "2026-10-05T19:29:35.984Z",
+    "body": "A technical expert provides an explanation of the operational mechanism of the 'Basir' application, which is designed to assist individuals with visual impairments. The app serves as assistive technology to improve accessibility for blind and low-vision users.\n\nRead more from the original source: [news.google.com](https://ajel.sa/local/h79wtvshm)"
   }
 ]

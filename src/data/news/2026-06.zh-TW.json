@@ -127926,5 +127926,39 @@
     "publishedAt": "2026-06-23T07:00:00.000Z",
     "fetchedAt": "2026-09-21T21:14:15.566Z",
     "body": "阿布扎比社區發展局發行了紀念包容幣，以籌集資金支持促進殘障人士包容的可持續項目和倡議。\n\n原文來源： [news.google.com](https://www.mediaoffice.abudhabi/ar/community/department-of-community-development-launches-commemorative-inclucoin-for-sustainable-impact-to-fund-inclusive-projects-and-initiatives)"
+  },
+  {
+    "title": "加薩難民中殘障者堅持在街頭播誦古蘭經",
+    "slug": "displaced-person-with-disability-continues-quran-broadcasting-in-gaza-zh-8ffe4e39",
+    "lang": "zh-TW",
+    "summary": "儘管身處困境且有殘疾，加薩的一名居民仍繼續在街頭廣播古蘭經，展現出在衝突中堅韌不拔的精神與文化堅持。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "gaza",
+      "resilience",
+      "culture"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.aljazeera.net/politics/2026/6/8/%D8%AD%D8%A7%D9%85%D9%84-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D9%88%D9%84-%D9%82%D8%B5%D8%A9-%D8%B4%D8%A7%D8%A8-%D9%85%D9%86-%D8%BA%D8%B2%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.aljazeera.net/politics/2026/6/8/%D8%AD%D8%A7%D9%85%D9%84-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D9%88%D9%84-%D9%82%D8%B5%D8%A9-%D8%B4%D8%A7%D8%A8-%D9%85%D9%86-%D8%BA%D8%B2%D8%A9"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-8ffe4e39",
+    "status": "published",
+    "translationOf": "displaced-person-with-disability-continues-quran-broadcasting-in-gaza-8ffe4e39",
+    "publishedAt": "2026-06-08T07:00:00.000Z",
+    "fetchedAt": "2026-10-05T19:29:58.493Z",
+    "body": "儘管身處困境且有殘疾，加薩的一名居民仍繼續在街頭廣播古蘭經，展現出在衝突中堅韌不拔的精神與文化堅持。\n\n原文來源： [news.google.com](https://www.aljazeera.net/politics/2026/6/8/%D8%AD%D8%A7%D9%85%D9%84-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D9%88%D9%84-%D9%82%D8%B5%D8%A9-%D8%B4%D8%A7%D8%A8-%D9%85%D9%86-%D8%BA%D8%B2%D8%A9)"
   }
 ]
