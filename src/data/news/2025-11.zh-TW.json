@@ -100,5 +100,40 @@
     "publishedAt": "2025-11-27T11:21:25.000Z",
     "fetchedAt": "2026-09-23T15:13:49.118Z",
     "body": "沙特住房與城鎮規劃部批准了針對活動及展覽場館的監管要求，這些要求通常包括為残障人士提供的無障礙標準。\n\n原文來源： [news.google.com](https://momah.gov.sa/ar/node/16216)"
+  },
+  {
+    "title": "研發出全球首款能像人體皮膚一樣精確快速感知觸覺的裝置",
+    "slug": "worlds-first-device-developed-that-feels-touch-like-human-skin-with-precision-an-zh-a280e3f0",
+    "lang": "zh-TW",
+    "summary": "研究人員研發出全球首款能像人體皮膚一樣精確快速感知觸覺的裝置。這一觸覺技術突破對輔助技術具有重大意義，特別是用於感官障礙者或需要高級義肢和機器人界面的個體。",
+    "category": "assistive-tech",
+    "tags": [
+      "tactile",
+      "robotics",
+      "prosthetics",
+      "sensor",
+      "innovation"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://asharq.com/science/161256/%D8%A3%D9%88%D9%84-%D8%AC%D9%87%D8%A7%D8%B2-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%8A%D8%B4%D8%B9%D8%B1-%D8%A8%D8%A7%D9%84%D9%84%D9%85%D8%B3-%D9%85%D8%AB%D9%84-%D8%AC%D9%84%D8%AF-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86-%D8%A8%D8%AF%D9%82%D8%A9-%D9%88%D8%B3%D8%B1%D8%B9%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://asharq.com/science/161256/%D8%A3%D9%88%D9%84-%D8%AC%D9%87%D8%A7%D8%B2-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%8A%D8%B4%D8%B9%D8%B1-%D8%A8%D8%A7%D9%84%D9%84%D9%85%D8%B3-%D9%85%D8%AB%D9%84-%D8%AC%D9%84%D8%AF-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86-%D8%A8%D8%AF%D9%82%D8%A9-%D9%88%D8%B3%D8%B1%D8%B9%D8%A9"
+      }
+    ],
+    "sourceCountry": "EG",
+    "queryRegion": "EG",
+    "region": "EG",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-a280e3f0",
+    "status": "published",
+    "translationOf": "worlds-first-device-developed-that-feels-touch-like-human-skin-with-precision-an-a280e3f0",
+    "publishedAt": "2025-11-19T08:00:00.000Z",
+    "fetchedAt": "2026-10-06T17:00:38.398Z",
+    "body": "研究人員研發出全球首款能像人體皮膚一樣精確快速感知觸覺的裝置。這一觸覺技術突破對輔助技術具有重大意義，特別是用於感官障礙者或需要高級義肢和機器人界面的個體。\n\n原文來源： [news.google.com](https://asharq.com/science/161256/%D8%A3%D9%88%D9%84-%D8%AC%D9%87%D8%A7%D8%B2-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%8A%D8%B4%D8%B9%D8%B1-%D8%A8%D8%A7%D9%84%D9%84%D9%85%D8%B3-%D9%85%D8%AB%D9%84-%D8%AC%D9%84%D8%AF-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86-%D8%A8%D8%AF%D9%82%D8%A9-%D9%88%D8%B3%D8%B1%D8%B9%D8%A9)"
   }
 ]
