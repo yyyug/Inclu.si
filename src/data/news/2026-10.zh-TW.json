@@ -23133,5 +23133,70 @@
     "publishedAt": "2026-10-06T06:20:14.000Z",
     "fetchedAt": "2026-10-07T15:36:03.818Z",
     "body": "三溫飽餐飲有限公司捐贈120雙AI智慧定位鞋墊給南投縣府，協助長者及身心障礙者即時掌握位置，降低走失及意外風險，建構更完善的長者安全防護網。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d2976597-ef60-46ca-89f4-1b074628b45e)"
+  },
+  {
+    "title": "Genio Notes 的 Focus Mode",
+    "slug": "focus-mode-in-genio-notes-zh-ed296fa3",
+    "lang": "zh-TW",
+    "summary": "這篇部落格文章說明如何使用 Genio Notes 的 Focus Mode，在聆聽時記錄事件並建立有用的筆記。",
+    "category": "digital-a11y",
+    "tags": [
+      "focus-mode",
+      "note-taking",
+      "digital-accessibility"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/focus-mode-in-genio-notes",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/focus-mode-in-genio-notes"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-ed296fa3",
+    "status": "published",
+    "translationOf": "focus-mode-in-genio-notes-ed296fa3",
+    "publishedAt": "2026-10-07T14:00:31.000Z",
+    "fetchedAt": "2026-10-07T15:38:06.048Z",
+    "body": "這篇部落格文章說明如何使用 Genio Notes 的 Focus Mode，在聆聽時記錄事件並建立有用的筆記。\n\n原文來源： [theaccessibilityguy.com](https://theaccessibilityguy.com/focus-mode-in-genio-notes)"
+  },
+  {
+    "title": "2640 使用 vOICe 透過聲音看見 (2026年10月7日)",
+    "slug": "2640-seeing-with-sound-using-voice-oct-7-2026-zh-08a67357",
+    "lang": "zh-TW",
+    "summary": "此 podcast 節目探討 vOICe 技術如何將相機影像轉換為音訊訊號，協助視障人士感知環境，訪談創辦人 Peter Meijer 與使用者 Pranav Lal、Jacob Kruger。",
+    "category": "assistive-tech",
+    "tags": [
+      "vOICe",
+      "visual-impairment",
+      "assistive-technology",
+      "podcast"
+    ],
+    "sourceName": "Eyes On Success",
+    "sourceUrl": "https://podcast.eyesonsuccess.net/?p=2746",
+    "relatedSources": [
+      {
+        "name": "Eyes On Success",
+        "url": "https://podcast.eyesonsuccess.net/?p=2746"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "podcast",
+    "ingestSource": "http://podcast.eyesonsuccess.net/feed",
+    "ingestProvider": "podcast.eyesonsuccess.net",
+    "clusterId": "cluster-08a67357",
+    "status": "published",
+    "translationOf": "2640-seeing-with-sound-using-voice-oct-7-2026-08a67357",
+    "publishedAt": "2026-10-07T12:30:29.000Z",
+    "fetchedAt": "2026-10-07T15:38:06.091Z",
+    "body": "此 podcast 節目探討 vOICe 技術如何將相機影像轉換為音訊訊號，協助視障人士感知環境，訪談創辦人 Peter Meijer 與使用者 Pranav Lal、Jacob Kruger。\n\n原文來源： [Eyes On Success](https://podcast.eyesonsuccess.net/?p=2746)"
   }
 ]
