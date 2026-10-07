@@ -22470,5 +22470,668 @@
     "publishedAt": "2026-10-06T22:03:39.000Z",
     "fetchedAt": "2026-10-06T22:48:00.763Z",
     "body": "公告殘障生專科學位統一錄取名單，專注於教育接入與無障礙安排。\n\n原文來源： [news.google.com](https://www.ammonnews.net/article/1034865)"
+  },
+  {
+    "title": "5 值得注意的 Google Maps 無障礙功能（雖被忽略但對每個人都有幫助）",
+    "slug": "5-useful-google-maps-accessibility-features-most-people-overlook-and-they-help-e-zh-1d43dfaa",
+    "lang": "zh-TW",
+    "summary": "文章指出五個常被忽略的 Google Maps 無障礙功能，例如語音導航、輪椅可及路線及詳細大眾運輸資訊，這些功能雖旨在協助殘障人士，但也提升所有使用者的體驗。",
+    "category": "digital-a11y",
+    "tags": [
+      "Google Maps",
+      "accessibility features",
+      "voice navigation",
+      "wheelchair accessible routes"
+    ],
+    "sourceName": "How-To Geek",
+    "sourceUrl": "https://www.howtogeek.com/useful-google-maps-accessibility-features-overlook-they-help-everyone",
+    "relatedSources": [
+      {
+        "name": "How-To Geek",
+        "url": "https://www.howtogeek.com/useful-google-maps-accessibility-features-overlook-they-help-everyone"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-1d43dfaa",
+    "status": "published",
+    "translationOf": "5-useful-google-maps-accessibility-features-most-people-overlook-and-they-help-e-1d43dfaa",
+    "publishedAt": "2026-10-07T10:30:14.000Z",
+    "fetchedAt": "2026-10-07T15:34:18.476Z",
+    "body": "文章指出五個常被忽略的 Google Maps 無障礙功能，例如語音導航、輪椅可及路線及詳細大眾運輸資訊，這些功能雖旨在協助殘障人士，但也提升所有使用者的體驗。\n\n原文來源： [How-To Geek](https://www.howtogeek.com/useful-google-maps-accessibility-features-overlook-they-help-everyone)"
+  },
+  {
+    "title": "歐洲無障礙法案：STAR Neo 協助組織辨識網站無障礙障礙",
+    "slug": "european-accessibility-act-star-neo-helps-organisations-identify-website-accessi-zh-e714d7de",
+    "lang": "zh-TW",
+    "summary": "文章說明 STAR Neo 工具如何協助組織依據歐洲無障礙法案偵測影響殘障使用者的網站無障礙障礙，並提供補救建議。",
+    "category": "laws-rights",
+    "tags": [
+      "European Accessibility Act",
+      "STAR Neo",
+      "website accessibility",
+      "compliance"
+    ],
+    "sourceName": "The National Law Review",
+    "sourceUrl": "https://natlawreview.com/press-releases/european-accessibility-act-star-neo-helps-organisations-identify-website",
+    "relatedSources": [
+      {
+        "name": "The National Law Review",
+        "url": "https://natlawreview.com/press-releases/european-accessibility-act-star-neo-helps-organisations-identify-website"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e714d7de",
+    "status": "published",
+    "translationOf": "european-accessibility-act-star-neo-helps-organisations-identify-website-accessi-e714d7de",
+    "publishedAt": "2026-10-07T08:51:44.000Z",
+    "fetchedAt": "2026-10-07T15:34:18.510Z",
+    "body": "文章說明 STAR Neo 工具如何協助組織依據歐洲無障礙法案偵測影響殘障使用者的網站無障礙障礙，並提供補救建議。\n\n原文來源： [The National Law Review](https://natlawreview.com/press-releases/european-accessibility-act-star-neo-helps-organisations-identify-website)"
+  },
+  {
+    "title": "人權理事會通過中國提出的關於所有人無障礙的決議",
+    "slug": "human-rights-council-adopts-china-proposed-resolution-on-accessibility-for-all-zh-ece9ab7b",
+    "lang": "zh-TW",
+    "summary": "人權理事會通過中國提出的決議，推動殘障人士的無障礙環境，強調包容性設計與社會平等參與。",
+    "category": "laws-rights",
+    "tags": [
+      "Human Rights Council",
+      "China",
+      "accessibility resolution",
+      "disability rights"
+    ],
+    "sourceName": "Global Times",
+    "sourceUrl": "https://www.globaltimes.cn/page/202610/1371714.shtml",
+    "relatedSources": [
+      {
+        "name": "Global Times",
+        "url": "https://www.globaltimes.cn/page/202610/1371714.shtml"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ece9ab7b",
+    "status": "published",
+    "translationOf": "human-rights-council-adopts-china-proposed-resolution-on-accessibility-for-all-ece9ab7b",
+    "publishedAt": "2026-10-06T02:34:00.000Z",
+    "fetchedAt": "2026-10-07T15:34:18.533Z",
+    "body": "人權理事會通過中國提出的決議，推動殘障人士的無障礙環境，強調包容性設計與社會平等參與。\n\n原文來源： [Global Times](https://www.globaltimes.cn/page/202610/1371714.shtml)"
+  },
+  {
+    "title": "Powwow 舞蹈並不總是無障礙。這位 Puyallup 部落爸爸想要改變此狀況",
+    "slug": "powwow-dancing-isnt-always-accessible-this-puyallup-tribe-dad-wants-to-change-th-zh-864d55e4",
+    "lang": "zh-TW",
+    "summary": "一位 Puyallup 部落的爸爸倡導讓 powwow 舞蹈對殘障人士更具無障礙性，呼籲在部落活動中採納包容性做法與提供所需便利。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "powwow",
+      "indigenous culture",
+      "disability inclusion",
+      "event accessibility"
+    ],
+    "sourceName": "Oregon Public Broadcasting - OPB",
+    "sourceUrl": "https://www.opb.org/article/2026/10/04/powwow-dancing-isnt-always-accessible-this-puyallup-tribe-dad-wants-to-change-that",
+    "relatedSources": [
+      {
+        "name": "Oregon Public Broadcasting - OPB",
+        "url": "https://www.opb.org/article/2026/10/04/powwow-dancing-isnt-always-accessible-this-puyallup-tribe-dad-wants-to-change-that"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-864d55e4",
+    "status": "published",
+    "translationOf": "powwow-dancing-isnt-always-accessible-this-puyallup-tribe-dad-wants-to-change-th-864d55e4",
+    "publishedAt": "2026-10-04T13:02:50.000Z",
+    "fetchedAt": "2026-10-07T15:34:35.433Z",
+    "body": "一位 Puyallup 部落的爸爸倡導讓 powwow 舞蹈對殘障人士更具無障礙性，呼籲在部落活動中採納包容性做法與提供所需便利。\n\n原文來源： [Oregon Public Broadcasting - OPB](https://www.opb.org/article/2026/10/04/powwow-dancing-isnt-always-accessible-this-puyallup-tribe-dad-wants-to-change-that)"
+  },
+  {
+    "title": "歷史 Olsen Barn Meadow 保育區進行復原與無障礙升級，提升可及性",
+    "slug": "restoration-and-accessibility-upgrades-enhance-historic-olsen-barn-meadow-preser-zh-ba9a1e51",
+    "lang": "zh-TW",
+    "summary": "歷史 Olsen Barn Meadow 保育區在復原過程中加入坡道、拓寬步道及觸覺標誌等無障礙設施，以殘障訪客為對象提升可及性，同時保護其歷史價值。",
+    "category": "physical-design",
+    "tags": [
+      "historic preservation",
+      "accessibility upgrades",
+      "ramps",
+      "tactile signage",
+      "outdoor access"
+    ],
+    "sourceName": "SierraDailyNews.com",
+    "sourceUrl": "https://www.sierradailynews.com/local/restoration-and-accessibility-upgrades-enhance-historic-olsen-barn-meadow-preserve",
+    "relatedSources": [
+      {
+        "name": "SierraDailyNews.com",
+        "url": "https://www.sierradailynews.com/local/restoration-and-accessibility-upgrades-enhance-historic-olsen-barn-meadow-preserve"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ba9a1e51",
+    "status": "published",
+    "translationOf": "restoration-and-accessibility-upgrades-enhance-historic-olsen-barn-meadow-preser-ba9a1e51",
+    "publishedAt": "2026-10-07T15:21:21.000Z",
+    "fetchedAt": "2026-10-07T15:34:35.451Z",
+    "body": "歷史 Olsen Barn Meadow 保育區在復原過程中加入坡道、拓寬步道及觸覺標誌等無障礙設施，以殘障訪客為對象提升可及性，同時保護其歷史價值。\n\n原文來源： [SierraDailyNews.com](https://www.sierradailynews.com/local/restoration-and-accessibility-upgrades-enhance-historic-olsen-barn-meadow-preserve)"
+  },
+  {
+    "title": "Dig it! Coffee 在拉斯維加斯西南重新開張，致力提升無障礙性",
+    "slug": "dig-it-coffee-reopens-in-southwest-las-vegas-aiming-for-more-accessibility-zh-32e223db",
+    "lang": "zh-TW",
+    "summary": "Dig it! Coffee 在拉斯維加斯西南分店重開，新增輪椅友善座位、降低櫃檯及無障礙廁所等設施，以更好地服務殘障顧客。",
+    "category": "physical-design",
+    "tags": [
+      "coffee shop",
+      "wheelchair access",
+      "accessible design",
+      "customer service",
+      "Las Vegas"
+    ],
+    "sourceName": "FOX5 Vegas",
+    "sourceUrl": "https://www.fox5vegas.com/2026/10/07/dig-it-coffee-reopens-southwest-las-vegas-aiming-more-accessibility",
+    "relatedSources": [
+      {
+        "name": "FOX5 Vegas",
+        "url": "https://www.fox5vegas.com/2026/10/07/dig-it-coffee-reopens-southwest-las-vegas-aiming-more-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-32e223db",
+    "status": "published",
+    "translationOf": "dig-it-coffee-reopens-in-southwest-las-vegas-aiming-for-more-accessibility-32e223db",
+    "publishedAt": "2026-10-07T05:17:00.000Z",
+    "fetchedAt": "2026-10-07T15:34:35.475Z",
+    "body": "Dig it! Coffee 在拉斯維加斯西南分店重開，新增輪椅友善座位、降低櫃檯及無障礙廁所等設施，以更好地服務殘障顧客。\n\n原文來源： [FOX5 Vegas](https://www.fox5vegas.com/2026/10/07/dig-it-coffee-reopens-southwest-las-vegas-aiming-more-accessibility)"
+  },
+  {
+    "title": "奧克維爾印第安土墓公園及博物館正在改善無障礙設施",
+    "slug": "oakville-indian-mounds-park-museum-working-on-their-accessibility-zh-de60f8ac",
+    "lang": "zh-TW",
+    "summary": "奧克維爾印第安土墓公園及博物館正在進行改善，以提升殘障訪客的無障礙體驗。",
+    "category": "physical-design",
+    "tags": [
+      "museum",
+      "accessibility",
+      "outdoor"
+    ],
+    "sourceName": "The Moulton Advertiser",
+    "sourceUrl": "https://www.moultonadvertiser.com/news/article_760cf76e-df6b-421a-a988-8e10ba894ad1.html",
+    "relatedSources": [
+      {
+        "name": "The Moulton Advertiser",
+        "url": "https://www.moultonadvertiser.com/news/article_760cf76e-df6b-421a-a988-8e10ba894ad1.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-de60f8ac",
+    "status": "published",
+    "translationOf": "oakville-indian-mounds-park-museum-working-on-their-accessibility-de60f8ac",
+    "publishedAt": "2026-10-07T13:42:00.000Z",
+    "fetchedAt": "2026-10-07T15:35:00.094Z",
+    "body": "奧克維爾印第安土墓公園及博物館正在進行改善，以提升殘障訪客的無障礙體驗。\n\n原文來源： [The Moulton Advertiser](https://www.moultonadvertiser.com/news/article_760cf76e-df6b-421a-a988-8e10ba894ad1.html)"
+  },
+  {
+    "title": "黎巴嫩無障礙活動探討殘障障礙",
+    "slug": "access-lebanon-event-explores-disability-barriers-zh-150359d4",
+    "lang": "zh-TW",
+    "summary": "黎巴嫩無障礙活動召集利益相關者，討論並識別殘障人士在社區中面臨的障礙。",
+    "category": "general",
+    "tags": [
+      "event",
+      "disability barriers",
+      "community"
+    ],
+    "sourceName": "Valley News",
+    "sourceUrl": "https://vnews.com/2026/10/04/lebanon-accessibility-listening-session",
+    "relatedSources": [
+      {
+        "name": "Valley News",
+        "url": "https://vnews.com/2026/10/04/lebanon-accessibility-listening-session"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-150359d4",
+    "status": "published",
+    "translationOf": "access-lebanon-event-explores-disability-barriers-150359d4",
+    "publishedAt": "2026-10-04T18:45:37.000Z",
+    "fetchedAt": "2026-10-07T15:35:00.114Z",
+    "body": "黎巴嫩無障礙活動召集利益相關者，討論並識別殘障人士在社區中面臨的障礙。\n\n原文來源： [Valley News](https://vnews.com/2026/10/04/lebanon-accessibility-listening-session)"
+  },
+  {
+    "title": "喬治華盛頓大學持續在各校園改善無障礙設施",
+    "slug": "gw-continues-accessibility-improvements-across-campuses-zh-a0182fad",
+    "lang": "zh-TW",
+    "summary": "喬治華盛頓大學正在各校園推進無障礙改善，以更好地容納殘障學生、教職員和訪客。",
+    "category": "physical-design",
+    "tags": [
+      "university",
+      "campus",
+      "accessibility"
+    ],
+    "sourceName": "GW Today",
+    "sourceUrl": "https://gwtoday.gwu.edu/gw-continues-accessibility-improvements-across-campuses",
+    "relatedSources": [
+      {
+        "name": "GW Today",
+        "url": "https://gwtoday.gwu.edu/gw-continues-accessibility-improvements-across-campuses"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a0182fad",
+    "status": "published",
+    "translationOf": "gw-continues-accessibility-improvements-across-campuses-a0182fad",
+    "publishedAt": "2026-10-06T05:54:22.000Z",
+    "fetchedAt": "2026-10-07T15:35:00.137Z",
+    "body": "喬治華盛頓大學正在各校園推進無障礙改善，以更好地容納殘障學生、教職員和訪客。\n\n原文來源： [GW Today](https://gwtoday.gwu.edu/gw-continues-accessibility-improvements-across-campuses)"
+  },
+  {
+    "title": "FlightPath3D 發布 Accessibility Map 新功能",
+    "slug": "flightpath3d-releases-new-features-for-accessibility-map-zh-b1fe3404",
+    "lang": "zh-TW",
+    "summary": "FlightPath3D 為其 Accessibility Map 工具新增功能，提供更完善的飛機內部無障礙資訊，以協助殘障乘客。",
+    "category": "physical-design",
+    "tags": [
+      "aircraft interior",
+      "accessibility map",
+      "FlightPath3D",
+      "disability access"
+    ],
+    "sourceName": "Aircraft Interiors International",
+    "sourceUrl": "https://www.aircraftinteriorsinternational.com/news/inflight-entertainment/flightpath3d-releases-new-features-for-accessibility-map.html",
+    "relatedSources": [
+      {
+        "name": "Aircraft Interiors International",
+        "url": "https://www.aircraftinteriorsinternational.com/news/inflight-entertainment/flightpath3d-releases-new-features-for-accessibility-map.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-b1fe3404",
+    "status": "published",
+    "translationOf": "flightpath3d-releases-new-features-for-accessibility-map-b1fe3404",
+    "publishedAt": "2026-10-07T13:42:49.000Z",
+    "fetchedAt": "2026-10-07T15:35:17.579Z",
+    "body": "FlightPath3D 為其 Accessibility Map 工具新增功能，提供更完善的飛機內部無障礙資訊，以協助殘障乘客。\n\n原文來源： [Aircraft Interiors International](https://www.aircraftinteriorsinternational.com/news/inflight-entertainment/flightpath3d-releases-new-features-for-accessibility-map.html)"
+  },
+  {
+    "title": "新報告：78% 家庭願意為無障礙旅遊付更多費用",
+    "slug": "new-report-78-of-families-would-pay-more-for-accessible-travel-zh-cd3f5b37",
+    "lang": "zh-TW",
+    "summary": "一份最新報告顯示，78% 的家庭願意為無障礙旅遊選項支付更多費用，顯示對包容性旅遊的需求日益增長。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "accessible travel",
+      "family survey",
+      "travel industry",
+      "disability tourism"
+    ],
+    "sourceName": "News Channel 3-12",
+    "sourceUrl": "https://keyt.com/lifestyle/travel/stacker-travel/2026/10/07/new-report-78-of-families-would-pay-more-for-accessible-travel",
+    "relatedSources": [
+      {
+        "name": "News Channel 3-12",
+        "url": "https://keyt.com/lifestyle/travel/stacker-travel/2026/10/07/new-report-78-of-families-would-pay-more-for-accessible-travel"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-cd3f5b37",
+    "status": "published",
+    "translationOf": "new-report-78-of-families-would-pay-more-for-accessible-travel-cd3f5b37",
+    "publishedAt": "2026-10-07T09:46:24.000Z",
+    "fetchedAt": "2026-10-07T15:35:17.604Z",
+    "body": "一份最新報告顯示，78% 的家庭願意為無障礙旅遊選項支付更多費用，顯示對包容性旅遊的需求日益增長。\n\n原文來源： [News Channel 3-12](https://keyt.com/lifestyle/travel/stacker-travel/2026/10/07/new-report-78-of-families-would-pay-more-for-accessible-travel)"
+  },
+  {
+    "title": "歐洲無障礙法案：STAR Neo 協助組織識別網站無障礙障礙",
+    "slug": "european-accessibility-act-star-neo-helps-organisations-identify-website-accessi-zh-3f1859a0",
+    "lang": "zh-TW",
+    "summary": "在歐洲無障礙法案下，STAR Neo 工具協助組織偵測並解決網站無障礙障礙，以確保合規並提升殘障使用者的存取度。",
+    "category": "laws-rights",
+    "tags": [
+      "European Accessibility Act",
+      "STAR Neo",
+      "website accessibility",
+      "digital compliance",
+      "disability rights"
+    ],
+    "sourceName": "EIN Presswire",
+    "sourceUrl": "https://www.einpresswire.com/article/946912910/european-accessibility-act-star-neo-helps-organisations-identify-website-accessibility-barriers",
+    "relatedSources": [
+      {
+        "name": "EIN Presswire",
+        "url": "https://www.einpresswire.com/article/946912910/european-accessibility-act-star-neo-helps-organisations-identify-website-accessibility-barriers"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3f1859a0",
+    "status": "published",
+    "translationOf": "european-accessibility-act-star-neo-helps-organisations-identify-website-accessi-3f1859a0",
+    "publishedAt": "2026-10-07T07:00:00.000Z",
+    "fetchedAt": "2026-10-07T15:35:17.627Z",
+    "body": "在歐洲無障礙法案下，STAR Neo 工具協助組織偵測並解決網站無障礙障礙，以確保合規並提升殘障使用者的存取度。\n\n原文來源： [EIN Presswire](https://www.einpresswire.com/article/946912910/european-accessibility-act-star-neo-helps-organisations-identify-website-accessibility-barriers)"
+  },
+  {
+    "title": "基隆151家有愛店家獲認證「有愛旅圖」7條路線旅遊到消費無障礙| 生活 - 聯合影音",
+    "slug": "keelungs-151-friendly-stores-certified-for-love-travel-map-7-accessible-routes-f-zh-5c4e3719",
+    "lang": "zh-TW",
+    "summary": "基隆有151家友善店家獲得「有愛旅圖」認證，規劃7條無障礙旅遊路線，結合旅遊與消費，提升無障礙旅遊體驗。",
+    "category": "physical-design",
+    "tags": [
+      "accessible tourism",
+      "barrier-free",
+      "Keelung",
+      "travel"
+    ],
+    "sourceName": "聯合影音",
+    "sourceUrl": "https://video.udn.com/news/1330096",
+    "relatedSources": [
+      {
+        "name": "聯合影音",
+        "url": "https://video.udn.com/news/1330096"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5c4e3719",
+    "status": "published",
+    "translationOf": "keelungs-151-friendly-stores-certified-for-love-travel-map-7-accessible-routes-f-5c4e3719",
+    "publishedAt": "2026-10-07T00:50:00.000Z",
+    "fetchedAt": "2026-10-07T15:35:31.838Z",
+    "body": "基隆有151家友善店家獲得「有愛旅圖」認證，規劃7條無障礙旅遊路線，結合旅遊與消費，提升無障礙旅遊體驗。\n\n原文來源： [聯合影音](https://video.udn.com/news/1330096)"
+  },
+  {
+    "title": "基隆推7條無障礙「有愛旅圖」！串聯151家友善店家 設旅遊保姆最高補助2500元 - 基隆海嗨",
+    "slug": "keelung-launches-7-barrier-free-love-travel-map-routes-linking-151-friendly-stor-zh-3a2a72a8",
+    "lang": "zh-TW",
+    "summary": "基隆推出7條無障礙「有愛旅圖」路線，串聯151家友善店家，並提供旅遊保姆最高補助2500元，以提升無障礙旅遊服務。",
+    "category": "physical-design",
+    "tags": [
+      "accessible tourism",
+      "barrier-free",
+      "Keelung",
+      "travel",
+      "subsidy"
+    ],
+    "sourceName": "基隆海嗨",
+    "sourceUrl": "https://keelunghihi.com.tw/97661",
+    "relatedSources": [
+      {
+        "name": "基隆海嗨",
+        "url": "https://keelunghihi.com.tw/97661"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3a2a72a8",
+    "status": "published",
+    "translationOf": "keelung-launches-7-barrier-free-love-travel-map-routes-linking-151-friendly-stor-3a2a72a8",
+    "publishedAt": "2026-10-07T06:13:52.000Z",
+    "fetchedAt": "2026-10-07T15:35:31.855Z",
+    "body": "基隆推出7條無障礙「有愛旅圖」路線，串聯151家友善店家，並提供旅遊保姆最高補助2500元，以提升無障礙旅遊服務。\n\n原文來源： [基隆海嗨](https://keelunghihi.com.tw/97661)"
+  },
+  {
+    "title": "基隆151家有愛店家獲認證 「有愛旅圖」7條路線旅遊到消費無障礙 - UDN",
+    "slug": "keelungs-151-friendly-stores-certified-for-love-travel-map-7-accessible-routes-f-zh-74990df6",
+    "lang": "zh-TW",
+    "summary": "基隆有151家友善店家獲得「有愛旅圖」認證，規劃7條無障礙旅遊路線，結合旅遊與消費，提升無障礙旅遊體驗。",
+    "category": "physical-design",
+    "tags": [
+      "accessible tourism",
+      "barrier-free",
+      "Keelung",
+      "travel"
+    ],
+    "sourceName": "UDN",
+    "sourceUrl": "https://udn.com/news/story/7328/9799475",
+    "relatedSources": [
+      {
+        "name": "UDN",
+        "url": "https://udn.com/news/story/7328/9799475"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-74990df6",
+    "status": "published",
+    "translationOf": "keelungs-151-friendly-stores-certified-for-love-travel-map-7-accessible-routes-f-74990df6",
+    "publishedAt": "2026-10-07T00:50:36.000Z",
+    "fetchedAt": "2026-10-07T15:35:31.879Z",
+    "body": "基隆有151家友善店家獲得「有愛旅圖」認證，規劃7條無障礙旅遊路線，結合旅遊與消費，提升無障礙旅遊體驗。\n\n原文來源： [UDN](https://udn.com/news/story/7328/9799475)"
+  },
+  {
+    "title": "Show HN：Aether：從你的編程代理檢查並修復網頁無障礙問題",
+    "slug": "show-hn-aether-check-and-fix-web-accessibility-issues-from-your-coding-agent-zh-cf895a54",
+    "lang": "zh-TW",
+    "summary": "Aether 是一個 MCP 伺服器，讓工程師能在 IDE 中直接偵測、理解並修復網頁無障礙問題，使編程代理能掃描網頁以符合 WCAG 標準。",
+    "category": "digital-a11y",
+    "tags": [
+      "web accessibility",
+      "WCAG",
+      "IDE",
+      "coding agent",
+      "a11y"
+    ],
+    "sourceName": "Github.com",
+    "sourceUrl": "https://github.com/allchemylabs/aether-wcag-scanner",
+    "relatedSources": [
+      {
+        "name": "Github.com",
+        "url": "https://github.com/allchemylabs/aether-wcag-scanner"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-cf895a54",
+    "status": "published",
+    "translationOf": "show-hn-aether-check-and-fix-web-accessibility-issues-from-your-coding-agent-cf895a54",
+    "publishedAt": "2026-10-06T14:58:33.000Z",
+    "fetchedAt": "2026-10-07T15:35:38.319Z",
+    "body": "Aether 是一個 MCP 伺服器，讓工程師能在 IDE 中直接偵測、理解並修復網頁無障礙問題，使編程代理能掃描網頁以符合 WCAG 標準。\n\n原文來源： [Github.com](https://github.com/allchemylabs/aether-wcag-scanner)"
+  },
+  {
+    "title": "此色將通過｜Clearleft 的色彩對比檢查工具",
+    "slug": "this-hue-shall-pass-colour-contrast-checker-by-clearleft-zh-0fd84a33",
+    "lang": "zh-TW",
+    "summary": "Clearleft 提供的工具，用於檢查您的配色方案是否具備足夠的對比度以符合無障礙需求。",
+    "category": "digital-a11y",
+    "tags": [
+      "colour contrast",
+      "accessibility tool",
+      "WCAG",
+      "design"
+    ],
+    "sourceName": "Clearleft.com",
+    "sourceUrl": "https://thishueshallpass.clearleft.com/",
+    "relatedSources": [
+      {
+        "name": "Clearleft.com",
+        "url": "https://thishueshallpass.clearleft.com/"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-0fd84a33",
+    "status": "published",
+    "translationOf": "this-hue-shall-pass-colour-contrast-checker-by-clearleft-0fd84a33",
+    "publishedAt": "2026-10-06T14:03:14.000Z",
+    "fetchedAt": "2026-10-07T15:35:38.374Z",
+    "body": "Clearleft 提供的工具，用於檢查您的配色方案是否具備足夠的對比度以符合無障礙需求。\n\n原文來源： [Clearleft.com](https://thishueshallpass.clearleft.com/)"
+  },
+  {
+    "title": "讓孩子安心上學、長輩放心出門！張峻簽署「花蓮人本交通改善承諾書」",
+    "slug": "let-children-attend-school-peacefully-and-elders-go-out-safely-zhang-jun-signs-t-zh-fda35c61",
+    "lang": "zh-TW",
+    "summary": "張峻承諾優先改善學校、醫院及車站周邊步行環境，完善無障礙設施與施工替代動線，建立行人事故及道路缺口地圖，依風險分年改善並公開進度，結合台九線智慧號誌、道安教育與執法，守護通學及日常通行安全。",
+    "category": "physical-design",
+    "tags": [
+      "barrier-free",
+      "pedestrian safety",
+      "human-centered traffic",
+      "infrastructure"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E8%AE%93%E5%AD%A9%E5%AD%90%E5%AE%89%E5%BF%83%E4%B8%8A%E5%AD%B8-%E9%95%B7%E8%BC%A9%E6%94%BE%E5%BF%83%E5%87%BA%E9%96%80-%E5%BC%B5%E5%B3%BB%E7%B0%BD%E7%BD%B2-%E8%8A%B1%E8%93%AE%E4%BA%BA%E6%9C%AC%E4%BA%A4%E9%80%9A%E6%94%B9%E5%96%84%E6%89%BF%E8%AB%BE%E6%9B%B8-102605476.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E8%AE%93%E5%AD%A9%E5%AD%90%E5%AE%89%E5%BF%83%E4%B8%8A%E5%AD%B8-%E9%95%B7%E8%BC%A9%E6%94%BE%E5%BF%83%E5%87%BA%E9%96%80-%E5%BC%B5%E5%B3%BB%E7%B0%BD%E7%BD%B2-%E8%8A%B1%E8%93%AE%E4%BA%BA%E6%9C%AC%E4%BA%A4%E9%80%9A%E6%94%B9%E5%96%84%E6%89%BF%E8%AB%BE%E6%9B%B8-102605476.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-fda35c61",
+    "status": "published",
+    "translationOf": "let-children-attend-school-peacefully-and-elders-go-out-safely-zhang-jun-signs-t-fda35c61",
+    "publishedAt": "2026-10-06T10:26:05.000Z",
+    "fetchedAt": "2026-10-07T15:36:03.439Z",
+    "body": "張峻承諾優先改善學校、醫院及車站周邊步行環境，完善無障礙設施與施工替代動線，建立行人事故及道路缺口地圖，依風險分年改善並公開進度，結合台九線智慧號誌、道安教育與執法，守護通學及日常通行安全。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E8%AE%93%E5%AD%A9%E5%AD%90%E5%AE%89%E5%BF%83%E4%B8%8A%E5%AD%B8-%E9%95%B7%E8%BC%A9%E6%94%BE%E5%BF%83%E5%87%BA%E9%96%80-%E5%BC%B5%E5%B3%BB%E7%B0%BD%E7%BD%B2-%E8%8A%B1%E8%93%AE%E4%BA%BA%E6%9C%AC%E4%BA%A4%E9%80%9A%E6%94%B9%E5%96%84%E6%89%BF%E8%AB%BE%E6%9B%B8-102605476.html)"
+  },
+  {
+    "title": "太平五星級圖書館來了！議員黃佳恬成功爭取1.8億元　全館年底動工2029年完工",
+    "slug": "taipings-five-star-library-coming-councilor-huang-chia-ti-secures-nt180-million--zh-42e4e1b3",
+    "lang": "zh-TW",
+    "summary": "長期面臨空間不足、館藏偏少、環境老舊、漏水、停車不便及無障礙設施不足等問題，黃佳恬議員爭取中央與市府共同投入1.8億元，將於年底動工，預計2029年完工，提升圖書館無障礙設施與整體環境。",
+    "category": "physical-design",
+    "tags": [
+      "library",
+      "barrier-free",
+      "building renovation",
+      "accessibility"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_18d23a2f-1428-4709-9662-f2563cea9e81",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_18d23a2f-1428-4709-9662-f2563cea9e81"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-42e4e1b3",
+    "status": "published",
+    "translationOf": "taipings-five-star-library-coming-councilor-huang-chia-ti-secures-nt180-million--42e4e1b3",
+    "publishedAt": "2026-10-06T06:55:00.000Z",
+    "fetchedAt": "2026-10-07T15:36:03.791Z",
+    "body": "長期面臨空間不足、館藏偏少、環境老舊、漏水、停車不便及無障礙設施不足等問題，黃佳恬議員爭取中央與市府共同投入1.8億元，將於年底動工，預計2029年完工，提升圖書館無障礙設施與整體環境。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_18d23a2f-1428-4709-9662-f2563cea9e81)"
+  },
+  {
+    "title": "餐飲公司贈投縣府AI智慧定位鞋墊 協力完善長者安全防護",
+    "slug": "food-company-donates-ai-smart-insoles-to-nantou-county-government-to-enhance-eld-zh-4ab1149b",
+    "lang": "zh-TW",
+    "summary": "三溫飽餐飲有限公司捐贈120雙AI智慧定位鞋墊給南投縣府，協助長者及身心障礙者即時掌握位置，降低走失及意外風險，建構更完善的長者安全防護網。",
+    "category": "assistive-tech",
+    "tags": [
+      "AI",
+      "wearable",
+      "elderly safety",
+      "disability assistance",
+      "assistive technology"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d2976597-ef60-46ca-89f4-1b074628b45e",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d2976597-ef60-46ca-89f4-1b074628b45e"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-4ab1149b",
+    "status": "published",
+    "translationOf": "food-company-donates-ai-smart-insoles-to-nantou-county-government-to-enhance-eld-4ab1149b",
+    "publishedAt": "2026-10-06T06:20:14.000Z",
+    "fetchedAt": "2026-10-07T15:36:03.818Z",
+    "body": "三溫飽餐飲有限公司捐贈120雙AI智慧定位鞋墊給南投縣府，協助長者及身心障礙者即時掌握位置，降低走失及意外風險，建構更完善的長者安全防護網。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d2976597-ef60-46ca-89f4-1b074628b45e)"
   }
 ]
