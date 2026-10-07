@@ -25017,5 +25017,40 @@
     "publishedAt": "2026-10-06T18:12:21.000Z",
     "fetchedAt": "2026-10-07T22:00:21.737Z",
     "body": "英國能源部長刪除了之前在社交媒體上宣傳為佩克姆萊車站提供4500萬英鎊以提升無障礙設施的貼文，因遭到公眾反彈。\n\n原文來源： [Order-order.com](https://order-order.com/2026/10/06/energy-secretary-deletes-campaign-for-45-million-accessibility-train-station-funding)"
+  },
+  {
+    "title": "Gemini 導視功能測試、Siri 挫折與來自聽眾的 Android 說明",
+    "slug": "gemini-guided-vision-tested-siri-frustrations-and-android-help-from-listeners-zh-d40f4395",
+    "lang": "zh-TW",
+    "summary": "Google Gemini 新推出的導視功能，與 Aira 合作，為盲人和低視力 Android 用戶提供更詳細的視覺描述，透過 Gemini Live 實時呈現。主持人 Steven Scott 與 Shaun Preece 進行實測，並回應聽眾關於 Siri、iOS 27、Gemini 設定以及 Android 使用的問題。",
+    "category": "assistive-tech",
+    "tags": [
+      "blind",
+      "low vision",
+      "assistive technology",
+      "AI",
+      "Gemini",
+      "Aira"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/gemini-guided-vision-tested-siri-frustrations-and-android-help-from-listeners-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/gemini-guided-vision-tested-siri-frustrations-and-android-help-from-listeners-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-d40f4395",
+    "status": "published",
+    "translationOf": "gemini-guided-vision-tested-siri-frustrations-and-android-help-from-listeners-d40f4395",
+    "publishedAt": "2026-10-07T16:00:09.000Z",
+    "fetchedAt": "2026-10-07T22:05:29.502Z",
+    "body": "Google Gemini 新推出的導視功能，與 Aira 合作，為盲人和低視力 Android 用戶提供更詳細的視覺描述，透過 Gemini Live 實時呈現。主持人 Steven Scott 與 Shaun Preece 進行實測，並回應聽眾關於 Siri、iOS 27、Gemini 設定以及 Android 使用的問題。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/gemini-guided-vision-tested-siri-frustrations-and-android-help-from-listeners-2)"
   }
 ]
