@@ -93047,5 +93047,39 @@
     "publishedAt": "2026-09-30T07:42:58.000Z",
     "fetchedAt": "2026-10-05T23:12:09.220Z",
     "body": "竹北選舉中，候選人吳旭智提出運動平權與無障礙適應體育的新政策，以提升殘障人士參與運動的機會。\n\n原文來源： [udn.com](https://udn.com/news/story/124652/9786022)"
+  },
+  {
+    "title": "阿聯酋家庭部舉辦全國殘障策略研討會",
+    "slug": "uae-ministry-of-family-affairs-organizes-workshop-for-national-disability-strate-zh-e79fc2f4",
+    "lang": "zh-TW",
+    "summary": "在瑪麗亞姆·本特·穆罕默德·本·扎耶德的領導下，家庭部組織了一場研討會，旨在為針對阿聯酋殘障人士的全國策略確定優先級。",
+    "category": "laws-rights",
+    "tags": [
+      "UAE",
+      "Policy",
+      "Disability Strategy",
+      "Ministry of Family Affairs"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://alwatan.ae/posts/1638559",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://alwatan.ae/posts/1638559"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-e79fc2f4",
+    "status": "published",
+    "translationOf": "uae-ministry-of-family-affairs-organizes-workshop-for-national-disability-strate-e79fc2f4",
+    "publishedAt": "2026-09-27T20:13:03.000Z",
+    "fetchedAt": "2026-10-07T17:33:34.601Z",
+    "body": "在瑪麗亞姆·本特·穆罕默德·本·扎耶德的領導下，家庭部組織了一場研討會，旨在為針對阿聯酋殘障人士的全國策略確定優先級。\n\n原文來源： [news.google.com](https://alwatan.ae/posts/1638559)"
   }
 ]

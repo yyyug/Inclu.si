@@ -73565,5 +73565,39 @@
     "publishedAt": "2026-08-15T07:00:00.000Z",
     "fetchedAt": "2026-10-03T21:45:03.621Z",
     "body": "A Saudi newspaper reports that 52% of the registered disabled population consists of females, highlighting gender demographics within the disability community.\n\nRead more from the original source: [news.google.com](https://www.alwatan.com.sa/article/1184240)"
+  },
+  {
+    "title": "Least Restrictive Environment Prioritizes Student Needs in Inclusion",
+    "slug": "least-restrictive-environment-prioritizes-student-needs-in-inclusion-35f6db4f",
+    "lang": "en",
+    "summary": "A Saudi news report highlights that the 'Least Restrictive Environment' principle in special education focuses on meeting individual student needs rather than merely determining the form of educational integration.",
+    "category": "case-studies",
+    "tags": [
+      "Saudi Arabia",
+      "Special Education",
+      "Inclusion",
+      "Least Restrictive Environment"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.makkahnews.sa/5517508.html",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.makkahnews.sa/5517508.html"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84+%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-35f6db4f",
+    "status": "published",
+    "translationOf": "least-restrictive-environment-prioritizes-student-needs-in-inclusion-zh-35f6db4f",
+    "publishedAt": "2026-08-30T07:00:00.000Z",
+    "fetchedAt": "2026-10-07T17:33:34.696Z",
+    "body": "A Saudi news report highlights that the 'Least Restrictive Environment' principle in special education focuses on meeting individual student needs rather than merely determining the form of educational integration.\n\nRead more from the original source: [news.google.com](https://www.makkahnews.sa/5517508.html)"
   }
 ]
