@@ -26435,5 +26435,39 @@
     "publishedAt": "2026-10-06T11:12:14.000Z",
     "fetchedAt": "2026-10-08T15:40:55.570Z",
     "body": "新北市議會邀請多家社福單位（含身心障礙者日間照顧中心等）進行茶敘，並捐贈60萬元慰問金，以支持弱勢團體。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4ac06548-bdba-4d6b-a437-16d1d2d3dd46)"
+  },
+  {
+    "title": "另一種工具箱中的工具：AI、無障礙與隱私權",
+    "slug": "another-tool-in-the-toolbox-ai-accessibility-and-the-right-to-privacy-zh-e2d79823",
+    "lang": "zh-TW",
+    "summary": "討論 AI 驅動的 Meta Ray-Ban 眼鏡如何協助盲人或低視力者使用，並探討隱私議題。",
+    "category": "assistive-tech",
+    "tags": [
+      "AI",
+      "Meta Ray-Ban",
+      "blind",
+      "low vision",
+      "privacy"
+    ],
+    "sourceName": "brailleworks.com",
+    "sourceUrl": "https://brailleworks.com/ai-accessibility-and-the-right-to-privacy",
+    "relatedSources": [
+      {
+        "name": "brailleworks.com",
+        "url": "https://brailleworks.com/ai-accessibility-and-the-right-to-privacy"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://brailleworks.com/feed",
+    "ingestProvider": "brailleworks.com",
+    "clusterId": "cluster-e2d79823",
+    "status": "published",
+    "translationOf": "another-tool-in-the-toolbox-ai-accessibility-and-the-right-to-privacy-e2d79823",
+    "publishedAt": "2026-10-08T14:00:00.000Z",
+    "fetchedAt": "2026-10-08T15:43:38.398Z",
+    "body": "討論 AI 驅動的 Meta Ray-Ban 眼鏡如何協助盲人或低視力者使用，並探討隱私議題。\n\n原文來源： [brailleworks.com](https://brailleworks.com/ai-accessibility-and-the-right-to-privacy)"
   }
 ]
