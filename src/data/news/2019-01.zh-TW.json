@@ -1,0 +1,36 @@
+[
+  {
+    "title": "特殊教育總處舉辦殘疾人全面障礙消除工作坊",
+    "slug": "general-directorate-of-special-education-holds-workshop-on-comprehensive-accessi-zh-ec265f2c",
+    "lang": "zh-TW",
+    "summary": "教育部下屬特殊教育總處舉辦了一場以殘疾人士全面無障礙為主題的工作坊，旨在提升包容性教育環境。",
+    "category": "digital-a11y",
+    "tags": [
+      "workshop",
+      "special-education",
+      "accessibility",
+      "ministry-of-education"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.moe.gov.sa/ar/mediacenter/MOEnews/Pages/a-w-56321.aspx",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.moe.gov.sa/ar/mediacenter/MOEnews/Pages/a-w-56321.aspx"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84+%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-ec265f2c",
+    "status": "published",
+    "translationOf": "general-directorate-of-special-education-holds-workshop-on-comprehensive-accessi-ec265f2c",
+    "publishedAt": "2019-01-10T08:00:00.000Z",
+    "fetchedAt": "2026-10-08T23:33:34.035Z",
+    "body": "教育部下屬特殊教育總處舉辦了一場以殘疾人士全面無障礙為主題的工作坊，旨在提升包容性教育環境。\n\n原文來源： [news.google.com](https://www.moe.gov.sa/ar/mediacenter/MOEnews/Pages/a-w-56321.aspx)"
+  }
+]
