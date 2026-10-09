@@ -93116,5 +93116,33 @@
     "publishedAt": "2026-09-03T07:00:00.000Z",
     "fetchedAt": "2026-10-08T23:33:24.339Z",
     "body": "Prince Mraed and the Minister of Youth held discussions focused on improving accessibility and ensuring better access for individuals with disabilities to various facilities within Amman city, highlighting governmental efforts to support disability inclusion in public spaces.\n\nRead more from the original source: [news.google.com](https://www.jordanzad.com/index.php?page=article&id=757811)"
+  },
+  {
+    "title": "Taipei City Government to Open Applications for Accessible Ramps",
+    "slug": "taipei-city-government-to-open-applications-for-accessible-ramps-3914a9e9",
+    "lang": "en",
+    "summary": "The Taipei City Government announced it will open applications for installing accessible ramps, aiming to improve mobility for people with disabilities.",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "你的公共電視",
+    "sourceUrl": "https://news.pts.org.tw/article/35291",
+    "relatedSources": [
+      {
+        "name": "你的公共電視",
+        "url": "https://news.pts.org.tw/article/35291"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3914a9e9",
+    "status": "published",
+    "translationOf": "taipei-city-government-to-open-applications-for-accessible-ramps-zh-3914a9e9",
+    "publishedAt": "2026-09-14T07:00:00.000Z",
+    "fetchedAt": "2026-10-09T21:42:04.411Z",
+    "body": "The Taipei City Government announced it will open applications for installing accessible ramps, aiming to improve mobility for people with disabilities.\n\nRead more from the original source: [你的公共電視](https://news.pts.org.tw/article/35291)"
   }
 ]
