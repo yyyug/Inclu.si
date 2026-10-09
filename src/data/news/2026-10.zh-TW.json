@@ -31510,5 +31510,73 @@
     "publishedAt": "2026-10-08T17:35:14.000Z",
     "fetchedAt": "2026-10-09T21:42:04.521Z",
     "body": "roveapi 1.2.0 提供 Playwright-as-a-Service 的瀏覽器自動化工具包，內含無障礙樹功能，方便 AI 代理進行網頁操作。\n\n原文來源： [Pypi.org](https://pypi.org/project/roveapi/1.2.0)"
+  },
+  {
+    "title": "NASA 阿尔忒弥斯网络研讨会：面向盲人：RS-25 引擎、盲人工程师与无障碍太空",
+    "slug": "nasas-artemis-webinar-for-blind-people-rs-25-engines-blind-engineers-and-accessi-zh-c40fa428",
+    "lang": "zh-TW",
+    "summary": "NASA 举办了一场专为盲人和低视力人士设计的阿尔忒弥斯网络研讨会，两位盲人 NASA 工程师担任小组成员，讨论了 RS-25 火箭引擎、他们在 NASA 的职业生涯，以及如何让太空任务对盲人粉丝更具可访问性。",
+    "category": "digital-a11y",
+    "tags": [
+      "blind",
+      "low vision",
+      "NASA",
+      "webinar",
+      "accessibility"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/nasas-artemis-webinar-for-blind-people-rs-25-engines-blind-engineers-and-accessible-space-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/nasas-artemis-webinar-for-blind-people-rs-25-engines-blind-engineers-and-accessible-space-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-c40fa428",
+    "status": "published",
+    "translationOf": "nasas-artemis-webinar-for-blind-people-rs-25-engines-blind-engineers-and-accessi-c40fa428",
+    "publishedAt": "2026-10-09T16:00:37.000Z",
+    "fetchedAt": "2026-10-09T21:46:20.881Z",
+    "body": "NASA 举办了一场专为盲人和低视力人士设计的阿尔忒弥斯网络研讨会，两位盲人 NASA 工程师担任小组成员，讨论了 RS-25 火箭引擎、他们在 NASA 的职业生涯，以及如何让太空任务对盲人粉丝更具可访问性。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/nasas-artemis-webinar-for-blind-people-rs-25-engines-blind-engineers-and-accessible-space-2)"
+  },
+  {
+    "title": "NASA 阿尔忒弥斯网络研讨会：面向盲人：RS-25 引擎、盲人工程师与无障碍太空",
+    "slug": "nasas-artemis-webinar-for-blind-people-rs-25-engines-blind-engineers-and-accessi-zh-9152161e",
+    "lang": "zh-TW",
+    "summary": "NASA 举办了一场专为盲人和低视力人士设计的阿尔忒弥斯网络研讨会，两位盲人 NASA 工程师担任小组成员，讨论了 RS-25 火箭引擎、他们在 NASA 的职业生涯，以及如何让太空任务对盲人粉丝更具可访问性。",
+    "category": "digital-a11y",
+    "tags": [
+      "blind",
+      "low vision",
+      "NASA",
+      "webinar",
+      "accessibility"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/nasas-artemis-webinar-for-blind-people-rs-25-engines-blind-engineers-and-accessible-space",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/nasas-artemis-webinar-for-blind-people-rs-25-engines-blind-engineers-and-accessible-space"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-9152161e",
+    "status": "published",
+    "translationOf": "nasas-artemis-webinar-for-blind-people-rs-25-engines-blind-engineers-and-accessi-9152161e",
+    "publishedAt": "2026-10-09T16:00:00.000Z",
+    "fetchedAt": "2026-10-09T21:46:20.941Z",
+    "body": "NASA 举办了一场专为盲人和低视力人士设计的阿尔忒弥斯网络研讨会，两位盲人 NASA 工程师担任小组成员，讨论了 RS-25 火箭引擎、他们在 NASA 的职业生涯，以及如何让太空任务对盲人粉丝更具可访问性。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/nasas-artemis-webinar-for-blind-people-rs-25-engines-blind-engineers-and-accessible-space)"
   }
 ]

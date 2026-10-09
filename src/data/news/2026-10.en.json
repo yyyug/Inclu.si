@@ -31510,5 +31510,73 @@
     "publishedAt": "2026-10-08T17:35:14.000Z",
     "fetchedAt": "2026-10-09T21:42:04.521Z",
     "body": "The roveapi 1.2.0 package provides a Playwright-as-a-Service browser automation SDK that includes accessibility tree features for AI agents.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/roveapi/1.2.0)"
+  },
+  {
+    "title": "NASA’s Artemis Webinar for Blind People: RS-25 Engines, Blind Engineers and Accessible Space",
+    "slug": "nasas-artemis-webinar-for-blind-people-rs-25-engines-blind-engineers-and-accessi-c40fa428",
+    "lang": "en",
+    "summary": "NASA ran an Artemis webinar built for blind and low vision people, with two blind NASA engineers as panelists, discussing the RS-25 rocket engine, their careers at NASA, and how to make space missions accessible to blind fans.",
+    "category": "digital-a11y",
+    "tags": [
+      "blind",
+      "low vision",
+      "NASA",
+      "webinar",
+      "accessibility"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/nasas-artemis-webinar-for-blind-people-rs-25-engines-blind-engineers-and-accessible-space-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/nasas-artemis-webinar-for-blind-people-rs-25-engines-blind-engineers-and-accessible-space-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-c40fa428",
+    "status": "published",
+    "translationOf": "nasas-artemis-webinar-for-blind-people-rs-25-engines-blind-engineers-and-accessi-zh-c40fa428",
+    "publishedAt": "2026-10-09T16:00:37.000Z",
+    "fetchedAt": "2026-10-09T21:46:20.881Z",
+    "body": "NASA ran an Artemis webinar built for blind and low vision people, with two blind NASA engineers as panelists, discussing the RS-25 rocket engine, their careers at NASA, and how to make space missions accessible to blind fans.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/nasas-artemis-webinar-for-blind-people-rs-25-engines-blind-engineers-and-accessible-space-2)"
+  },
+  {
+    "title": "NASA’s Artemis Webinar for Blind People: RS-25 Engines, Blind Engineers and Accessible Space",
+    "slug": "nasas-artemis-webinar-for-blind-people-rs-25-engines-blind-engineers-and-accessi-9152161e",
+    "lang": "en",
+    "summary": "NASA ran an Artemis webinar built for blind and low vision people, with two blind NASA engineers as panelists, discussing the RS-25 rocket engine, their careers at NASA, and how to make space missions accessible to blind fans.",
+    "category": "digital-a11y",
+    "tags": [
+      "blind",
+      "low vision",
+      "NASA",
+      "webinar",
+      "accessibility"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/nasas-artemis-webinar-for-blind-people-rs-25-engines-blind-engineers-and-accessible-space",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/nasas-artemis-webinar-for-blind-people-rs-25-engines-blind-engineers-and-accessible-space"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-9152161e",
+    "status": "published",
+    "translationOf": "nasas-artemis-webinar-for-blind-people-rs-25-engines-blind-engineers-and-accessi-zh-9152161e",
+    "publishedAt": "2026-10-09T16:00:00.000Z",
+    "fetchedAt": "2026-10-09T21:46:20.941Z",
+    "body": "NASA ran an Artemis webinar built for blind and low vision people, with two blind NASA engineers as panelists, discussing the RS-25 rocket engine, their careers at NASA, and how to make space missions accessible to blind fans.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/nasas-artemis-webinar-for-blind-people-rs-25-engines-blind-engineers-and-accessible-space)"
   }
 ]
