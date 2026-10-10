@@ -6978,5 +6978,38 @@
     "publishedAt": "2026-04-10T07:00:00.000Z",
     "fetchedAt": "2026-09-21T21:15:01.282Z",
     "body": "社會發展部否認了有關停止資助殘疾人士物理治療和康復服務的報導，並重申其對這些項目持續承諾的態度。\n\n原文來源： [news.google.com](https://www.alriyadh.com/2183073)"
+  },
+  {
+    "title": "研究人員：科技正在打破聾人與社會之間的無聲壁壘",
+    "slug": "researcher-technology-breaking-silent-barriers-between-deaf-people-and-society-zh-0c2fb01d",
+    "lang": "zh-TW",
+    "summary": "一位研究人員探討了新興技術如何消除聾人社群的溝通障礙，改善其社會融合與无障碍性。",
+    "category": "assistive-tech",
+    "tags": [
+      "deaf-community",
+      "technology",
+      "communication-accessibility"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://annabaa.org/arabic/discussion/45824",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://annabaa.org/arabic/discussion/45824"
+      }
+    ],
+    "sourceCountry": "EG",
+    "queryRegion": "EG",
+    "region": "EG",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-0c2fb01d",
+    "status": "published",
+    "translationOf": "researcher-technology-breaking-silent-barriers-between-deaf-people-and-society-0c2fb01d",
+    "publishedAt": "2026-04-13T07:00:00.000Z",
+    "fetchedAt": "2026-10-10T22:01:08.446Z",
+    "body": "一位研究人員探討了新興技術如何消除聾人社群的溝通障礙，改善其社會融合與无障碍性。\n\n原文來源： [news.google.com](https://annabaa.org/arabic/discussion/45824)"
   }
 ]

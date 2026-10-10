@@ -6978,5 +6978,38 @@
     "publishedAt": "2026-04-10T07:00:00.000Z",
     "fetchedAt": "2026-09-21T21:15:01.282Z",
     "body": "The Ministry of Social Development denied reports that it stopped financial support for physical therapy and rehabilitation services for persons with disabilities, affirming its continued commitment to these programs.\n\nRead more from the original source: [news.google.com](https://www.alriyadh.com/2183073)"
+  },
+  {
+    "title": "Researcher: Technology Breaking Silent Barriers Between Deaf People and Society",
+    "slug": "researcher-technology-breaking-silent-barriers-between-deaf-people-and-society-0c2fb01d",
+    "lang": "en",
+    "summary": "A researcher discusses how emerging technologies are dismantling communication barriers for the deaf community, improving social integration and accessibility.",
+    "category": "assistive-tech",
+    "tags": [
+      "deaf-community",
+      "technology",
+      "communication-accessibility"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://annabaa.org/arabic/discussion/45824",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://annabaa.org/arabic/discussion/45824"
+      }
+    ],
+    "sourceCountry": "EG",
+    "queryRegion": "EG",
+    "region": "EG",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-0c2fb01d",
+    "status": "published",
+    "translationOf": "researcher-technology-breaking-silent-barriers-between-deaf-people-and-society-zh-0c2fb01d",
+    "publishedAt": "2026-04-13T07:00:00.000Z",
+    "fetchedAt": "2026-10-10T22:01:08.446Z",
+    "body": "A researcher discusses how emerging technologies are dismantling communication barriers for the deaf community, improving social integration and accessibility.\n\nRead more from the original source: [news.google.com](https://annabaa.org/arabic/discussion/45824)"
   }
 ]
