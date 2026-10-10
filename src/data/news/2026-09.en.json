@@ -93144,5 +93144,37 @@
     "publishedAt": "2026-09-14T07:00:00.000Z",
     "fetchedAt": "2026-10-09T21:42:04.411Z",
     "body": "The Taipei City Government announced it will open applications for installing accessible ramps, aiming to improve mobility for people with disabilities.\n\nRead more from the original source: [你的公共電視](https://news.pts.org.tw/article/35291)"
+  },
+  {
+    "title": "Hsinchu County's Accessible Environment Construction Achievements Shine, Retains Top Rating from Ministry of Interior, First Among Non-Six Major Cities",
+    "slug": "hsinchu-countys-accessible-environment-construction-achievements-shine-retains-t-a9d37a8d",
+    "lang": "en",
+    "summary": "Hsinchu County's accessible environment construction achievements are outstanding, having repeatedly received excellent ratings from the Ministry of Interior and ranking first among non-six major cities.",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "physical design",
+      "Hsinchu County"
+    ],
+    "sourceName": "新竹縣政府全球資訊網",
+    "sourceUrl": "https://www.hsinchu.gov.tw/News_Content.aspx?n=139&s=278437",
+    "relatedSources": [
+      {
+        "name": "新竹縣政府全球資訊網",
+        "url": "https://www.hsinchu.gov.tw/News_Content.aspx?n=139&s=278437"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a9d37a8d",
+    "status": "published",
+    "translationOf": "hsinchu-countys-accessible-environment-construction-achievements-shine-retains-t-zh-a9d37a8d",
+    "publishedAt": "2026-09-20T04:07:01.000Z",
+    "fetchedAt": "2026-10-10T20:34:49.783Z",
+    "body": "Hsinchu County's accessible environment construction achievements are outstanding, having repeatedly received excellent ratings from the Ministry of Interior and ranking first among non-six major cities.\n\nRead more from the original source: [新竹縣政府全球資訊網](https://www.hsinchu.gov.tw/News_Content.aspx?n=139&s=278437)"
   }
 ]
