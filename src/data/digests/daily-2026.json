@@ -10971,5 +10971,100 @@
         }
       ]
     }
+  },
+  "2026-10-11": {
+    "generatedAt": "2026-10-11T15:34:14.151Z",
+    "en": {
+      "title": "Daily Digest: Accessibility, Policy, and Tech Advances for Disabled Communities",
+      "summary": "Key policy shifts and advocacy efforts, including a call for wheelchair rights in public transport and warnings against restricting inclusive education, dominate the news. Digital accessibility continues to improve with new tools like Koa11y and an AI agent for screen reader users.",
+      "highlights": [
+        {
+          "title": "Petition for Wheelchair Rights on Public Transport",
+          "slug": "petition-for-wheelchair-rights-on-public-transport-309d3321",
+          "url": "https://x.com/busstop_kris10/status/2109019680836907230"
+        },
+        {
+          "title": "Rights Groups Warn Against Tightening Support for Inclusive Education of Children with Disabilities",
+          "slug": "rights-groups-warn-against-tightening-support-for-inclusive-education-of-childre-7d6f4a40",
+          "url": "https://alyaoum24.com/2049600.html"
+        },
+        {
+          "title": "Koa11y Automatically Scans Web Accessibility Issues for Developers",
+          "slug": "koa11y-automatically-scans-web-accessibility-issues-for-developers-c9a17c32",
+          "url": "https://www.techritual.com/2026/10/11/532159"
+        },
+        {
+          "title": "AI Agents to Mitigate Web Accessibility Barriers",
+          "slug": "ai-agents-to-mitigate-web-accessibility-barriers-b20685ee",
+          "url": "https://x.com/Denis_skripnik/status/2109298520523981082"
+        },
+        {
+          "title": "Criticism of Reiwa Shinsengumi Regarding People with Disabilities",
+          "slug": "criticism-of-reiwa-shinsengumi-regarding-people-with-disabilities-bcbdb6e4",
+          "url": "https://x.com/hanyama0067/status/2109296535704117338"
+        },
+        {
+          "title": "City panel wants District 65 to account for accessibility in school closures",
+          "slug": "city-panel-wants-district-65-to-account-for-accessibility-in-school-closures-4160f803",
+          "url": "https://evanstonroundtable.com/2026/10/10/city-panel-wants-district-65-to-account-for-accessibility-in-school-closures"
+        },
+        {
+          "title": "Discussion on Accessibility vs. Comedy",
+          "slug": "discussion-on-accessibility-vs-comedy-11b4fcb6",
+          "url": "https://x.com/cestmare/status/2109298733187826003"
+        },
+        {
+          "title": "Bradford City AFC Accessibility Survey",
+          "slug": "bradford-city-afc-accessibility-survey-d8ed06cb",
+          "url": "https://x.com/officialbantams/status/2109298597980463365"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "無障礙生活資訊：政策轉變、科技應用與社會倡議",
+      "summary": "本屆資訊聚焦於公共運輸無障礙權利請願及對融合教育資源削減的警告等政策議題。在數位無障礙領域，Koa11y 開發工具與 AI 代理應用持續推動網頁無障礙進度。",
+      "highlights": [
+        {
+          "title": "請願要求在公共交通上確保輪椅使用者的權利",
+          "slug": "petition-for-wheelchair-rights-on-public-transport-zh-309d3321",
+          "url": "https://x.com/busstop_kris10/status/2109019680836907230"
+        },
+        {
+          "title": "权利组织警告收紧残障儿童融合教育支持措施",
+          "slug": "rights-groups-warn-against-tightening-support-for-inclusive-education-of-childre-zh-7d6f4a40",
+          "url": "https://alyaoum24.com/2049600.html"
+        },
+        {
+          "title": "Koa11y 為 Web 開發者自動掃描網頁無障礙問題",
+          "slug": "koa11y-automatically-scans-web-accessibility-issues-for-developers-zh-c9a17c32",
+          "url": "https://www.techritual.com/2026/10/11/532159"
+        },
+        {
+          "title": "AI 代理以緩解網頁無障礙障礙",
+          "slug": "ai-agents-to-mitigate-web-accessibility-barriers-zh-b20685ee",
+          "url": "https://x.com/Denis_skripnik/status/2109298520523981082"
+        },
+        {
+          "title": "對殘障人士的令和新選組的批評",
+          "slug": "criticism-of-reiwa-shinsengumi-regarding-people-with-disabilities-zh-bcbdb6e4",
+          "url": "https://x.com/hanyama0067/status/2109296535704117338"
+        },
+        {
+          "title": "城市小組要求第65學區在學校關閉時考慮無障礙需求",
+          "slug": "city-panel-wants-district-65-to-account-for-accessibility-in-school-closures-zh-4160f803",
+          "url": "https://evanstonroundtable.com/2026/10/10/city-panel-wants-district-65-to-account-for-accessibility-in-school-closures"
+        },
+        {
+          "title": "無障礙與喜劇的討論",
+          "slug": "discussion-on-accessibility-vs-comedy-zh-11b4fcb6",
+          "url": "https://x.com/cestmare/status/2109298733187826003"
+        },
+        {
+          "title": "布拉德福德城AFC無障礙調查",
+          "slug": "bradford-city-afc-accessibility-survey-zh-d8ed06cb",
+          "url": "https://x.com/officialbantams/status/2109298597980463365"
+        }
+      ]
+    }
   }
 }
