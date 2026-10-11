@@ -38141,5 +38141,73 @@
     "publishedAt": "2026-10-10T20:20:10.000Z",
     "fetchedAt": "2026-10-11T20:59:38.692Z",
     "body": "Navigera, a native Rust CLI for driving headless Chrome via the Chrome DevTools Protocol, has been published on PyPI. It provides accessibility-tree references and supports AI agent workflows with a JSON-lines serve mode.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/navigera)"
+  },
+  {
+    "title": "Too Busy to Be Blind: An Apple Engineer’s Second Act",
+    "slug": "too-busy-to-be-blind-an-apple-engineers-second-act-2e3794de",
+    "lang": "en",
+    "summary": "After losing his sight completely in 2015 following twelve surgeries, a former Mac engineer describes learning to use VoiceOver, treating it like a video game, and emphasizing the importance of bug reports via Radar.",
+    "category": "assistive-tech",
+    "tags": [
+      "VoiceOver",
+      "blindness",
+      "Apple",
+      "accessibility",
+      "screen reader"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/too-busy-to-be-blind-an-apple-engineers-second-act-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/too-busy-to-be-blind-an-apple-engineers-second-act-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-2e3794de",
+    "status": "published",
+    "translationOf": "too-busy-to-be-blind-an-apple-engineers-second-act-zh-2e3794de",
+    "publishedAt": "2026-10-11T16:00:06.000Z",
+    "fetchedAt": "2026-10-11T21:00:07.101Z",
+    "body": "After losing his sight completely in 2015 following twelve surgeries, a former Mac engineer describes learning to use VoiceOver, treating it like a video game, and emphasizing the importance of bug reports via Radar.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/too-busy-to-be-blind-an-apple-engineers-second-act-2)"
+  },
+  {
+    "title": "Too Busy to Be Blind: An Apple Engineer’s Second Act",
+    "slug": "too-busy-to-be-blind-an-apple-engineers-second-act-71685f73",
+    "lang": "en",
+    "summary": "After losing his sight completely in 2015 following twelve surgeries, a former Mac engineer describes learning to use VoiceOver, treating it like a video game, and emphasizing the importance of bug reports via Radar.",
+    "category": "assistive-tech",
+    "tags": [
+      "VoiceOver",
+      "blindness",
+      "Apple",
+      "accessibility",
+      "screen reader"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/too-busy-to-be-blind-an-apple-engineers-second-act",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/too-busy-to-be-blind-an-apple-engineers-second-act"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-71685f73",
+    "status": "published",
+    "translationOf": "too-busy-to-be-blind-an-apple-engineers-second-act-zh-71685f73",
+    "publishedAt": "2026-10-11T16:00:00.000Z",
+    "fetchedAt": "2026-10-11T21:00:07.171Z",
+    "body": "After losing his sight completely in 2015 following twelve surgeries, a former Mac engineer describes learning to use VoiceOver, treating it like a video game, and emphasizing the importance of bug reports via Radar.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/too-busy-to-be-blind-an-apple-engineers-second-act)"
   }
 ]

@@ -38141,5 +38141,73 @@
     "publishedAt": "2026-10-10T20:20:10.000Z",
     "fetchedAt": "2026-10-11T20:59:38.692Z",
     "body": "Navigera 是一種原生 Rust 命令列工具，可透過 Chrome DevTools 協議驅動無頭 Chrome，已發布於 PyPI。該工具提供無障礙樹參考，並支援以 JSON‑lines 形式提供服務的 AI 代理工作流程。\n\n原文來源： [Pypi.org](https://pypi.org/project/navigera)"
+  },
+  {
+    "title": "太忙而無法失明：蘋果工程師的第二幕",
+    "slug": "too-busy-to-be-blind-an-apple-engineers-second-act-zh-2e3794de",
+    "lang": "zh-TW",
+    "summary": "2015 年經歷十二次手術後，Brett Halle 完全失明。這位曾在蘋果工作二十年的 Mac 工程師分享了他學習使用 VoiceOver 的過程，將其視為遊戲般的體驗，並解釋為何透過 Radar 提交錯誤報告對改進無障礙功能至關重要。",
+    "category": "assistive-tech",
+    "tags": [
+      "VoiceOver",
+      "blindness",
+      "Apple",
+      "accessibility",
+      "screen reader"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/too-busy-to-be-blind-an-apple-engineers-second-act-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/too-busy-to-be-blind-an-apple-engineers-second-act-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-2e3794de",
+    "status": "published",
+    "translationOf": "too-busy-to-be-blind-an-apple-engineers-second-act-2e3794de",
+    "publishedAt": "2026-10-11T16:00:06.000Z",
+    "fetchedAt": "2026-10-11T21:00:07.101Z",
+    "body": "2015 年經歷十二次手術後，Brett Halle 完全失明。這位曾在蘋果工作二十年的 Mac 工程師分享了他學習使用 VoiceOver 的過程，將其視為遊戲般的體驗，並解釋為何透過 Radar 提交錯誤報告對改進無障礙功能至關重要。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/too-busy-to-be-blind-an-apple-engineers-second-act-2)"
+  },
+  {
+    "title": "太忙而無法失明：蘋果工程師的第二幕",
+    "slug": "too-busy-to-be-blind-an-apple-engineers-second-act-zh-71685f73",
+    "lang": "zh-TW",
+    "summary": "2015 年經歷十二次手術後，Brett Halle 完全失明。這位曾在蘋果工作二十年的 Mac 工程師分享了他學習使用 VoiceOver 的過程，將其視為遊戲般的體驗，並解釋為何透過 Radar 提交錯誤報告對改進無障礙功能至關重要。",
+    "category": "assistive-tech",
+    "tags": [
+      "VoiceOver",
+      "blindness",
+      "Apple",
+      "accessibility",
+      "screen reader"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/too-busy-to-be-blind-an-apple-engineers-second-act",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/too-busy-to-be-blind-an-apple-engineers-second-act"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-71685f73",
+    "status": "published",
+    "translationOf": "too-busy-to-be-blind-an-apple-engineers-second-act-71685f73",
+    "publishedAt": "2026-10-11T16:00:00.000Z",
+    "fetchedAt": "2026-10-11T21:00:07.171Z",
+    "body": "2015 年經歷十二次手術後，Brett Halle 完全失明。這位曾在蘋果工作二十年的 Mac 工程師分享了他學習使用 VoiceOver 的過程，將其視為遊戲般的體驗，並解釋為何透過 Radar 提交錯誤報告對改進無障礙功能至關重要。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/too-busy-to-be-blind-an-apple-engineers-second-act)"
   }
 ]
