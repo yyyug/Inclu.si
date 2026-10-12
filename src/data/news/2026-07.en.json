@@ -83584,5 +83584,40 @@
     "publishedAt": "2026-07-19T07:00:00.000Z",
     "fetchedAt": "2026-10-08T23:33:15.278Z",
     "body": "A report highlights that FIFA's support updates for World Cup referees, which include total hours of assistance, are being misinterpreted or conflated with 'assistive technologies' usually associated with disability accommodations. However, given the context of 'assistive tech' in the headline referring to referee support systems (likely VAR or similar tools), this is NOT about disability accessibility but rather sports technology. Therefore, it is not relevant to disability accessibility.\n\nRead more from the original source: [news.google.com](https://gate.ahram.org.eg/News/5813786.aspx)"
+  },
+  {
+    "title": "Review of New Guide for Persons with Disabilities Programs",
+    "slug": "review-of-new-guide-for-persons-with-disabilities-programs-2476cc58",
+    "lang": "en",
+    "summary": "An editorial review of a newly published guide outlining programs and initiatives for persons with disabilities, highlighting policy developments and support structures in Saudi Arabia.",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "policy",
+      "guide",
+      "saudi-arabia",
+      "rights"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.al-jazirah.com/2026/20260729/en1.htm",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.al-jazirah.com/2026/20260729/en1.htm"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-2476cc58",
+    "status": "published",
+    "translationOf": "review-of-new-guide-for-persons-with-disabilities-programs-zh-2476cc58",
+    "publishedAt": "2026-07-29T07:00:00.000Z",
+    "fetchedAt": "2026-10-12T20:01:42.843Z",
+    "body": "An editorial review of a newly published guide outlining programs and initiatives for persons with disabilities, highlighting policy developments and support structures in Saudi Arabia.\n\nRead more from the original source: [news.google.com](https://www.al-jazirah.com/2026/20260729/en1.htm)"
   }
 ]
