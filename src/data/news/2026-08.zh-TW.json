@@ -73599,5 +73599,39 @@
     "publishedAt": "2026-08-30T07:00:00.000Z",
     "fetchedAt": "2026-10-07T17:33:34.696Z",
     "body": "沙烏地阿拉伯新聞報導指出，特殊教育中的「最小限制環境」原則著重於滿足個別學生的需求，而僅僅是確定教育融合的形態。\n\n原文來源： [news.google.com](https://www.makkahnews.sa/5517508.html)"
+  },
+  {
+    "title": "售价低于100美元的平价智能眼镜：配备摄像头、人工智能和即时翻译",
+    "slug": "affordable-smart-glasses-with-camera-ai-and-instant-translation-under-100-zh-7e39c8ab",
+    "lang": "zh-TW",
+    "summary": "新款售价低于100美元的平价智能眼镜配备集成摄像头、人工智能功能及即时翻译，为视障或听障用户提供潜在的辅助技术益处。",
+    "category": "assistive-tech",
+    "tags": [
+      "smart-glasses",
+      "assistive-tech",
+      "accessibility",
+      "AI"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.raialyoum.com/%D9%86%D8%B8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B0%D9%83%D9%8A%D8%A9-%D8%A8%D8%A3%D9%82%D9%84-%D9%85%D9%86-100-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7-%D9%88%D8%B0%D9%83%D8%A7",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.raialyoum.com/%D9%86%D8%B8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B0%D9%83%D9%8A%D8%A9-%D8%A8%D8%A3%D9%82%D9%84-%D9%85%D9%86-100-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7-%D9%88%D8%B0%D9%83%D8%A7"
+      }
+    ],
+    "sourceCountry": "EG",
+    "queryRegion": "EG",
+    "region": "EG",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-7e39c8ab",
+    "status": "published",
+    "translationOf": "affordable-smart-glasses-with-camera-ai-and-instant-translation-under-100-7e39c8ab",
+    "publishedAt": "2026-08-21T07:00:00.000Z",
+    "fetchedAt": "2026-10-13T17:49:19.052Z",
+    "body": "新款售价低于100美元的平价智能眼镜配备集成摄像头、人工智能功能及即时翻译，为视障或听障用户提供潜在的辅助技术益处。\n\n原文來源： [news.google.com](https://www.raialyoum.com/%D9%86%D8%B8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B0%D9%83%D9%8A%D8%A9-%D8%A8%D8%A3%D9%82%D9%84-%D9%85%D9%86-100-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7-%D9%88%D8%B0%D9%83%D8%A7)"
   }
 ]

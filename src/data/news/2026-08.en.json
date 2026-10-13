@@ -73599,5 +73599,39 @@
     "publishedAt": "2026-08-30T07:00:00.000Z",
     "fetchedAt": "2026-10-07T17:33:34.696Z",
     "body": "A Saudi news report highlights that the 'Least Restrictive Environment' principle in special education focuses on meeting individual student needs rather than merely determining the form of educational integration.\n\nRead more from the original source: [news.google.com](https://www.makkahnews.sa/5517508.html)"
+  },
+  {
+    "title": "Affordable Smart Glasses with Camera, AI, and Instant Translation Under $100",
+    "slug": "affordable-smart-glasses-with-camera-ai-and-instant-translation-under-100-7e39c8ab",
+    "lang": "en",
+    "summary": "New affordable smart glasses under $100 feature integrated cameras, AI capabilities, and instant translation, offering potential assistive technology benefits for users with visual or hearing impairments.",
+    "category": "assistive-tech",
+    "tags": [
+      "smart-glasses",
+      "assistive-tech",
+      "accessibility",
+      "AI"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.raialyoum.com/%D9%86%D8%B8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B0%D9%83%D9%8A%D8%A9-%D8%A8%D8%A3%D9%82%D9%84-%D9%85%D9%86-100-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7-%D9%88%D8%B0%D9%83%D8%A7",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.raialyoum.com/%D9%86%D8%B8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B0%D9%83%D9%8A%D8%A9-%D8%A8%D8%A3%D9%82%D9%84-%D9%85%D9%86-100-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7-%D9%88%D8%B0%D9%83%D8%A7"
+      }
+    ],
+    "sourceCountry": "EG",
+    "queryRegion": "EG",
+    "region": "EG",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-7e39c8ab",
+    "status": "published",
+    "translationOf": "affordable-smart-glasses-with-camera-ai-and-instant-translation-under-100-zh-7e39c8ab",
+    "publishedAt": "2026-08-21T07:00:00.000Z",
+    "fetchedAt": "2026-10-13T17:49:19.052Z",
+    "body": "New affordable smart glasses under $100 feature integrated cameras, AI capabilities, and instant translation, offering potential assistive technology benefits for users with visual or hearing impairments.\n\nRead more from the original source: [news.google.com](https://www.raialyoum.com/%D9%86%D8%B8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B0%D9%83%D9%8A%D8%A9-%D8%A8%D8%A3%D9%82%D9%84-%D9%85%D9%86-100-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7-%D9%88%D8%B0%D9%83%D8%A7)"
   }
 ]
