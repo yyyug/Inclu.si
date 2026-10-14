@@ -882,5 +882,39 @@
     "publishedAt": "2026-03-30T07:00:00.000Z",
     "fetchedAt": "2026-09-23T15:11:58.624Z",
     "body": "阿聯酋啟動了一項國家媒體計劃，旨在賦能身心障礙人士，側重於社會融入並展示他們的貢獻。\n\n原文來源： [news.google.com](https://www.albayan.ae/news/uae/government/1165623)"
+  },
+  {
+    "title": "115年度臺北市原有住宅無障礙設施改善補助即日起受理申請！ - 臺北市政府全球資訊網",
+    "slug": "taipei-city-2026-subsidy-for-improving-accessibility-facilities-in-existing-hous-zh-149f7754",
+    "lang": "zh-TW",
+    "summary": "115年度臺北市原有住宅無障礙設施改善補助即日起受理申請！",
+    "category": "physical-design",
+    "tags": [
+      "Taipei",
+      "housing",
+      "accessibility subsidy",
+      "grants",
+      "2026"
+    ],
+    "sourceName": "臺北市政府全球資訊網",
+    "sourceUrl": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=D48CDBFA70ECF8F1",
+    "relatedSources": [
+      {
+        "name": "臺北市政府全球資訊網",
+        "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=D48CDBFA70ECF8F1"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-149f7754",
+    "status": "published",
+    "translationOf": "taipei-city-2026-subsidy-for-improving-accessibility-facilities-in-existing-hous-149f7754",
+    "publishedAt": "2026-03-05T13:54:14.000Z",
+    "fetchedAt": "2026-10-14T13:45:57.608Z",
+    "body": "115年度臺北市原有住宅無障礙設施改善補助即日起受理申請！\n\n原文來源： [臺北市政府全球資訊網](https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=D48CDBFA70ECF8F1)"
   }
 ]

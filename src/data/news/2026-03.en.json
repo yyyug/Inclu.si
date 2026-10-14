@@ -882,5 +882,39 @@
     "publishedAt": "2026-03-30T07:00:00.000Z",
     "fetchedAt": "2026-09-23T15:11:58.624Z",
     "body": "The UAE has launched a national media program aimed at empowering people with disabilities, focusing on social inclusion and highlighting their contributions.\n\nRead more from the original source: [news.google.com](https://www.albayan.ae/news/uae/government/1165623)"
+  },
+  {
+    "title": "Taipei City 2026 Subsidy for Improving Accessibility Facilities in Existing Housing Now Accepting Applications",
+    "slug": "taipei-city-2026-subsidy-for-improving-accessibility-facilities-in-existing-hous-149f7754",
+    "lang": "en",
+    "summary": "Starting today, Taipei City is accepting applications for subsidies to improve accessibility facilities in existing residential buildings for the fiscal year 2026.",
+    "category": "physical-design",
+    "tags": [
+      "Taipei",
+      "housing",
+      "accessibility subsidy",
+      "grants",
+      "2026"
+    ],
+    "sourceName": "臺北市政府全球資訊網",
+    "sourceUrl": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=D48CDBFA70ECF8F1",
+    "relatedSources": [
+      {
+        "name": "臺北市政府全球資訊網",
+        "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=D48CDBFA70ECF8F1"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-149f7754",
+    "status": "published",
+    "translationOf": "taipei-city-2026-subsidy-for-improving-accessibility-facilities-in-existing-hous-zh-149f7754",
+    "publishedAt": "2026-03-05T13:54:14.000Z",
+    "fetchedAt": "2026-10-14T13:45:57.608Z",
+    "body": "Starting today, Taipei City is accepting applications for subsidies to improve accessibility facilities in existing residential buildings for the fiscal year 2026.\n\nRead more from the original source: [臺北市政府全球資訊網](https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=D48CDBFA70ECF8F1)"
   }
 ]
