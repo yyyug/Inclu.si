@@ -52083,5 +52083,351 @@
     "publishedAt": "2026-10-15T10:23:24.000Z",
     "fetchedAt": "2026-10-15T15:22:46.399Z",
     "body": "社會團結機構向殘障學生分發了300根白手杖和300台筆記型電腦，這些輔助設備旨在支持其行動能力和教育機會。\n\n原文來源： [news.google.com](https://www.masrawy.com/news/news_egypt/details/2026/10/15/3063174/%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D9%88%D8%B2%D8%B9-300-%D8%B9%D8%B5%D8%A7-%D8%A8%D9%8A%D8%B6%D8%A7%D8%A1-%D9%88300-%D9%84%D8%A7%D8%A8-%D8%AA%D9%88%D8%A8-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9)"
+  },
+  {
+    "title": "他不搬家。82歲格洛斯特居民如何打造無障礙的永久住宅",
+    "slug": "hes-not-moving-how-an-82-year-old-gloucester-resident-created-his-accessible-for-zh-eb3c631a",
+    "lang": "zh-TW",
+    "summary": "一位82歲的格洛斯特居民分享他如何翻新住宅，打造可長期居住的無障礙家屋，包括加寬門框、安裝扶手及無階梯入口，以支援老化在原地生活。",
+    "category": "physical-design",
+    "tags": [
+      "aging-in-place",
+      "home modification",
+      "accessible housing"
+    ],
+    "sourceName": "The Boston Globe",
+    "sourceUrl": "https://www.bostonglobe.com/2026/10/14/real-estate/hes-not-moving-how-an-82-year-old-gloucester-resident-created-his-accessible-forever-home",
+    "relatedSources": [
+      {
+        "name": "The Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/10/14/real-estate/hes-not-moving-how-an-82-year-old-gloucester-resident-created-his-accessible-forever-home"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-eb3c631a",
+    "status": "published",
+    "translationOf": "hes-not-moving-how-an-82-year-old-gloucester-resident-created-his-accessible-for-eb3c631a",
+    "publishedAt": "2026-10-14T05:30:00.000Z",
+    "fetchedAt": "2026-10-15T20:21:33.292Z",
+    "body": "一位82歲的格洛斯特居民分享他如何翻新住宅，打造可長期居住的無障礙家屋，包括加寬門框、安裝扶手及無階梯入口，以支援老化在原地生活。\n\n原文來源： [The Boston Globe](https://www.bostonglobe.com/2026/10/14/real-estate/hes-not-moving-how-an-82-year-old-gloucester-resident-created-his-accessible-forever-home)"
+  },
+  {
+    "title": "無障礙不僅是添加更多資訊",
+    "slug": "accessibility-isnt-about-adding-more-information-zh-385321ec",
+    "lang": "zh-TW",
+    "summary": "文章指出，真正的無障礙意味著從設計階段就讓內容和介面對殘障人士固有可用，而非僅僅額外添加資訊或提供替代版本。",
+    "category": "digital-a11y",
+    "tags": [
+      "digital accessibility",
+      "content design",
+      "WCAG"
+    ],
+    "sourceName": "Fast Company",
+    "sourceUrl": "https://www.fastcompany.com/91622998/accessibility-isnt-about-adding-more-information",
+    "relatedSources": [
+      {
+        "name": "Fast Company",
+        "url": "https://www.fastcompany.com/91622998/accessibility-isnt-about-adding-more-information"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-385321ec",
+    "status": "published",
+    "translationOf": "accessibility-isnt-about-adding-more-information-385321ec",
+    "publishedAt": "2026-10-15T13:28:56.000Z",
+    "fetchedAt": "2026-10-15T20:21:33.378Z",
+    "body": "文章指出，真正的無障礙意味著從設計階段就讓內容和介面對殘障人士固有可用，而非僅僅額外添加資訊或提供替代版本。\n\n原文來源： [Fast Company](https://www.fastcompany.com/91622998/accessibility-isnt-about-adding-more-information)"
+  },
+  {
+    "title": "芝加哥APTA博覽會展示AI、乘客通訊及無障礙創新",
+    "slug": "ai-rider-communications-and-accessibility-innovations-showcased-at-chicago-apta--zh-3f0537bf",
+    "lang": "zh-TW",
+    "summary": "在芝加哥APTA博覽會上，交通機構展示了新的人工智慧工具、改進的乘客通訊系統以及各項無障礙創新，旨在使大眾運輸對殘障人士更具包容性。",
+    "category": "assistive-tech",
+    "tags": [
+      "public transportation",
+      "AI",
+      "rider communication",
+      "accessibility innovation"
+    ],
+    "sourceName": "Smart Cities Dive",
+    "sourceUrl": "https://www.smartcitiesdive.com/news/apta-transportation-conference-expo-chicago/833088",
+    "relatedSources": [
+      {
+        "name": "Smart Cities Dive",
+        "url": "https://www.smartcitiesdive.com/news/apta-transportation-conference-expo-chicago/833088"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3f0537bf",
+    "status": "published",
+    "translationOf": "ai-rider-communications-and-accessibility-innovations-showcased-at-chicago-apta--3f0537bf",
+    "publishedAt": "2026-10-15T15:40:50.000Z",
+    "fetchedAt": "2026-10-15T20:21:33.445Z",
+    "body": "在芝加哥APTA博覽會上，交通機構展示了新的人工智慧工具、改進的乘客通訊系統以及各項無障礙創新，旨在使大眾運輸對殘障人士更具包容性。\n\n原文來源： [Smart Cities Dive](https://www.smartcitiesdive.com/news/apta-transportation-conference-expo-chicago/833088)"
+  },
+  {
+    "title": "無障礙正確理解後，能改善所有人的交通運輸 - Passenger Transport",
+    "slug": "accessibility-properly-understood-improves-transit-for-everyone-passenger-transp-zh-6e137651",
+    "lang": "zh-TW",
+    "summary": "無障礙正確理解後，能改善所有人的交通運輸",
+    "category": "physical-design",
+    "tags": [
+      "transit",
+      "accessibility"
+    ],
+    "sourceName": "Passenger Transport",
+    "sourceUrl": "https://aptapassengertransport.com/accessibility-properly-understood-improves-transit-for-everyone",
+    "relatedSources": [
+      {
+        "name": "Passenger Transport",
+        "url": "https://aptapassengertransport.com/accessibility-properly-understood-improves-transit-for-everyone"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-6e137651",
+    "status": "published",
+    "translationOf": "accessibility-properly-understood-improves-transit-for-everyone-passenger-transp-6e137651",
+    "publishedAt": "2026-10-15T18:07:07.000Z",
+    "fetchedAt": "2026-10-15T20:22:17.958Z",
+    "body": "無障礙正確理解後，能改善所有人的交通運輸\n\n原文來源： [Passenger Transport](https://aptapassengertransport.com/accessibility-properly-understood-improves-transit-for-everyone)"
+  },
+  {
+    "title": "Robbins Farm 遊樂場變得更易於使用，但有些家庭表示他們仍無法安全使用遊樂場 - YourArlington",
+    "slug": "robbins-farm-playground-more-accessible-but-some-families-say-they-still-cant-sa-zh-2e6e8bed",
+    "lang": "zh-TW",
+    "summary": "Robbins Farm 遊樂場變得更易於使用，但有些家庭表示他們仍無法安全使用遊樂場",
+    "category": "physical-design",
+    "tags": [
+      "playground",
+      "accessibility"
+    ],
+    "sourceName": "YourArlington",
+    "sourceUrl": "https://yourarlington.com/2026/10/robbins-farm-playground-parking-101526",
+    "relatedSources": [
+      {
+        "name": "YourArlington",
+        "url": "https://yourarlington.com/2026/10/robbins-farm-playground-parking-101526"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-2e6e8bed",
+    "status": "published",
+    "translationOf": "robbins-farm-playground-more-accessible-but-some-families-say-they-still-cant-sa-2e6e8bed",
+    "publishedAt": "2026-10-15T16:21:13.000Z",
+    "fetchedAt": "2026-10-15T20:22:18.037Z",
+    "body": "Robbins Farm 遊樂場變得更易於使用，但有些家庭表示他們仍無法安全使用遊樂場\n\n原文來源： [YourArlington](https://yourarlington.com/2026/10/robbins-farm-playground-parking-101526)"
+  },
+  {
+    "title": "Frontrunner 巴士集團推出具增強無障礙功能的 XF 低地板巴士 - Metro Magazine",
+    "slug": "frontrunner-bus-group-introduces-xf-low-floor-bus-with-enhanced-accessibility-me-zh-d8df19d4",
+    "lang": "zh-TW",
+    "summary": "Frontrunner 巴士集團推出具增強無障礙功能的 XF 低地板巴士 - Metro Magazine",
+    "category": "physical-design",
+    "tags": [
+      "bus",
+      "low-floor",
+      "accessibility"
+    ],
+    "sourceName": "Metro Magazine",
+    "sourceUrl": "https://www.metro-magazine.com/news/frontrunner-bus-group-introduces-xf-low-floor-bus-with-enhanced-accessibility",
+    "relatedSources": [
+      {
+        "name": "Metro Magazine",
+        "url": "https://www.metro-magazine.com/news/frontrunner-bus-group-introduces-xf-low-floor-bus-with-enhanced-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-d8df19d4",
+    "status": "published",
+    "translationOf": "frontrunner-bus-group-introduces-xf-low-floor-bus-with-enhanced-accessibility-me-d8df19d4",
+    "publishedAt": "2026-10-15T16:50:41.000Z",
+    "fetchedAt": "2026-10-15T20:22:18.104Z",
+    "body": "Frontrunner 巴士集團推出具增強無障礙功能的 XF 低地板巴士 - Metro Magazine\n\n原文來源： [Metro Magazine](https://www.metro-magazine.com/news/frontrunner-bus-group-introduces-xf-low-floor-bus-with-enhanced-accessibility)"
+  },
+  {
+    "title": "網站無障礙訴訟上升，中小企業成為常見目標",
+    "slug": "website-accessibility-lawsuits-are-rising-and-smaller-businesses-are-frequent-ta-zh-9a6d3a0f",
+    "lang": "zh-TW",
+    "summary": "網站無障礙訴訟上升，中小企業成為常見目標",
+    "category": "digital-a11y",
+    "tags": [],
+    "sourceName": "KMVU FOX 26 Medford",
+    "sourceUrl": "https://www.fox26medford.com/news/website-accessibility-lawsuits-are-rising-and-smaller-businesses-are-frequent-targets/article_24dca52c-c844-5fc0-9251-b304312121e1.html",
+    "relatedSources": [
+      {
+        "name": "KMVU FOX 26 Medford",
+        "url": "https://www.fox26medford.com/news/website-accessibility-lawsuits-are-rising-and-smaller-businesses-are-frequent-targets/article_24dca52c-c844-5fc0-9251-b304312121e1.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-9a6d3a0f",
+    "status": "published",
+    "translationOf": "website-accessibility-lawsuits-are-rising-and-smaller-businesses-are-frequent-ta-9a6d3a0f",
+    "publishedAt": "2026-10-15T14:00:10.000Z",
+    "fetchedAt": "2026-10-15T20:22:56.348Z",
+    "body": "網站無障礙訴訟上升，中小企業成為常見目標\n\n原文來源： [KMVU FOX 26 Medford](https://www.fox26medford.com/news/website-accessibility-lawsuits-are-rising-and-smaller-businesses-are-frequent-targets/article_24dca52c-c844-5fc0-9251-b304312121e1.html)"
+  },
+  {
+    "title": "​倡持續完善無障礙配套設施 提升視障人士生活品質 - 濠江日報",
+    "slug": "advocate-for-continuous-improvement-of-accessibility-facilities-to-enhance-quali-zh-7933e9c6",
+    "lang": "zh-TW",
+    "summary": "​倡持續完善無障礙配套設施 提升視障人士生活品質",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "濠江日報",
+    "sourceUrl": "https://www.houkongdailynews.com/instantNews/159390",
+    "relatedSources": [
+      {
+        "name": "濠江日報",
+        "url": "https://www.houkongdailynews.com/instantNews/159390"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-7933e9c6",
+    "status": "published",
+    "translationOf": "advocate-for-continuous-improvement-of-accessibility-facilities-to-enhance-quali-7933e9c6",
+    "publishedAt": "2026-10-15T10:40:27.000Z",
+    "fetchedAt": "2026-10-15T20:22:56.429Z",
+    "body": "​倡持續完善無障礙配套設施 提升視障人士生活品質\n\n原文來源： [濠江日報](https://www.houkongdailynews.com/instantNews/159390)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "navigera-041-zh-26c52e96",
+    "lang": "zh-TW",
+    "summary": "一个原生 Rust 命令行工具，可逐步驱动无头 Chrome，提供无障碍树引用以供 AI 代理使用，并支持 JSON‑lines 服务模式。",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility-tree",
+      "headless Chrome",
+      "Rust CLI",
+      "AI agents"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/navigera/0.4.1",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/navigera/0.4.1"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-26c52e96",
+    "status": "draft",
+    "translationOf": "navigera-041-26c52e96",
+    "publishedAt": "2026-10-14T20:04:25.000Z",
+    "fetchedAt": "2026-10-15T20:23:14.010Z",
+    "body": "一个原生 Rust 命令行工具，可逐步驱动无头 Chrome，提供无障碍树引用以供 AI 代理使用，并支持 JSON‑lines 服务模式。\n\n原文來源： [Pypi.org](https://pypi.org/project/navigera/0.4.1)"
+  },
+  {
+    "title": "無法到達的無障礙目的形同虛設",
+    "slug": "an-accessible-destination-means-nothing-if-you-cant-reach-it-zh-f0a6233f",
+    "lang": "zh-TW",
+    "summary": "該觀點文章指出，僅僅建造坡道或標示為無障礙的空間，若殘障人士仍無法真正到達目的地，則毫無意義，凸顯無障礙實施中的落差。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "physical infrastructure",
+      "ramps",
+      "disability rights"
+    ],
+    "sourceName": "Biztoc.com",
+    "sourceUrl": "https://biztoc.com/x/a5ce2aeeab03a83b",
+    "relatedSources": [
+      {
+        "name": "Biztoc.com",
+        "url": "https://biztoc.com/x/a5ce2aeeab03a83b"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-f0a6233f",
+    "status": "published",
+    "translationOf": "an-accessible-destination-means-nothing-if-you-cant-reach-it-f0a6233f",
+    "publishedAt": "2026-10-14T16:05:25.000Z",
+    "fetchedAt": "2026-10-15T20:23:41.491Z",
+    "body": "該觀點文章指出，僅僅建造坡道或標示為無障礙的空間，若殘障人士仍無法真正到達目的地，則毫無意義，凸顯無障礙實施中的落差。\n\n原文來源： [Biztoc.com](https://biztoc.com/x/a5ce2aeeab03a83b)"
+  },
+  {
+    "title": "Meta、米蘭布雷拉畫廊及EssilorLuxottica透過AI眼鏡擴大藝術無障礙",
+    "slug": "meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-throug-zh-61a2ef3c",
+    "lang": "zh-TW",
+    "summary": "Meta、米蘭布雷拉畫廊與EssilorLuxottica推出試點計畫，利用AI眼鏡協助盲人及低視力者欣賞藝術作品，展示輔助科技如何提升文化無障礙。",
+    "category": "assistive-tech",
+    "tags": [
+      "AI glasses",
+      "assistive technology",
+      "visual impairment",
+      "art accessibility"
+    ],
+    "sourceName": "Fb.com",
+    "sourceUrl": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses",
+    "relatedSources": [
+      {
+        "name": "Fb.com",
+        "url": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-61a2ef3c",
+    "status": "published",
+    "translationOf": "meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-throug-61a2ef3c",
+    "publishedAt": "2026-10-14T16:00:57.000Z",
+    "fetchedAt": "2026-10-15T20:23:41.580Z",
+    "body": "Meta、米蘭布雷拉畫廊與EssilorLuxottica推出試點計畫，利用AI眼鏡協助盲人及低視力者欣賞藝術作品，展示輔助科技如何提升文化無障礙。\n\n原文來源： [Fb.com](https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses)"
   }
 ]
