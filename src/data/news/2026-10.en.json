@@ -52429,5 +52429,74 @@
     "publishedAt": "2026-10-14T16:00:57.000Z",
     "fetchedAt": "2026-10-15T20:23:41.580Z",
     "body": "Meta, the Pinacoteca di Brera in Milan, and EssilorLuxottica launch a pilot program using AI-powered glasses to help blind and low‑vision visitors experience artworks, demonstrating how assistive technology can enhance cultural accessibility.\n\nRead more from the original source: [Fb.com](https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses)"
+  },
+  {
+    "title": "Section 504 Guide for Employers, Educators, and Service Providers",
+    "slug": "section-504-guide-for-employers-educators-and-service-providers-2e1b021e",
+    "lang": "en",
+    "summary": "A guide explaining how Section 504 of the Rehabilitation Act protects the rights of people with disabilities in federally funded programs, outlining responsibilities for employers, educators, and service providers to ensure accessibility and compliance.",
+    "category": "laws-rights",
+    "tags": [
+      "Section 504",
+      "disability rights",
+      "federal compliance",
+      "accessibility"
+    ],
+    "sourceName": "brailleworks.com",
+    "sourceUrl": "https://brailleworks.com/section-504-guide",
+    "relatedSources": [
+      {
+        "name": "brailleworks.com",
+        "url": "https://brailleworks.com/section-504-guide"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://brailleworks.com/feed",
+    "ingestProvider": "brailleworks.com",
+    "clusterId": "cluster-2e1b021e",
+    "status": "published",
+    "translationOf": "section-504-guide-for-employers-educators-and-service-providers-zh-2e1b021e",
+    "publishedAt": "2026-10-15T14:00:00.000Z",
+    "fetchedAt": "2026-10-15T20:25:21.067Z",
+    "body": "A guide explaining how Section 504 of the Rehabilitation Act protects the rights of people with disabilities in federally funded programs, outlining responsibilities for employers, educators, and service providers to ensure accessibility and compliance.\n\nRead more from the original source: [brailleworks.com](https://brailleworks.com/section-504-guide)"
+  },
+  {
+    "title": "Are We Relying on AI Too Much? Claude, KeyAble and Accessible Auphonic",
+    "slug": "are-we-relying-on-ai-too-much-claude-keyable-and-accessible-auphonic-1b9cd249",
+    "lang": "en",
+    "summary": "Discussion on blind users' reliance on AI tools like Claude via an accessible Cisco desk phone, plus updates on Meta glasses firmware for Aira calls, Facebook and Double Tap Live, and perspectives on the longevity of smart glasses.",
+    "category": "assistive-tech",
+    "tags": [
+      "AI accessibility",
+      "blind users",
+      "Claude",
+      "accessible phone",
+      "Meta glasses",
+      "Aira",
+      "smart glasses"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/are-we-relying-on-ai-too-much-claude-keyable-and-accessible-auphonic-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/are-we-relying-on-ai-too-much-claude-keyable-and-accessible-auphonic-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-1b9cd249",
+    "status": "published",
+    "translationOf": "are-we-relying-on-ai-too-much-claude-keyable-and-accessible-auphonic-zh-1b9cd249",
+    "publishedAt": "2026-10-15T16:00:22.000Z",
+    "fetchedAt": "2026-10-15T20:25:21.160Z",
+    "body": "Discussion on blind users' reliance on AI tools like Claude via an accessible Cisco desk phone, plus updates on Meta glasses firmware for Aira calls, Facebook and Double Tap Live, and perspectives on the longevity of smart glasses.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/are-we-relying-on-ai-too-much-claude-keyable-and-accessible-auphonic-2)"
   }
 ]

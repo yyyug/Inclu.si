@@ -52429,5 +52429,74 @@
     "publishedAt": "2026-10-14T16:00:57.000Z",
     "fetchedAt": "2026-10-15T20:23:41.580Z",
     "body": "Meta、米蘭布雷拉畫廊與EssilorLuxottica推出試點計畫，利用AI眼鏡協助盲人及低視力者欣賞藝術作品，展示輔助科技如何提升文化無障礙。\n\n原文來源： [Fb.com](https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses)"
+  },
+  {
+    "title": "第504條僱主、教育工作者和服務提供者指南",
+    "slug": "section-504-guide-for-employers-educators-and-service-providers-zh-2e1b021e",
+    "lang": "zh-TW",
+    "summary": "說明復原法第504條如何保護殘障人士在聯邦資助計畫中的權利，並闡明僱主、教育工作者和服務提供者應承擔的無障礙義務與合規要求。",
+    "category": "laws-rights",
+    "tags": [
+      "Section 504",
+      "disability rights",
+      "federal compliance",
+      "accessibility"
+    ],
+    "sourceName": "brailleworks.com",
+    "sourceUrl": "https://brailleworks.com/section-504-guide",
+    "relatedSources": [
+      {
+        "name": "brailleworks.com",
+        "url": "https://brailleworks.com/section-504-guide"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://brailleworks.com/feed",
+    "ingestProvider": "brailleworks.com",
+    "clusterId": "cluster-2e1b021e",
+    "status": "published",
+    "translationOf": "section-504-guide-for-employers-educators-and-service-providers-2e1b021e",
+    "publishedAt": "2026-10-15T14:00:00.000Z",
+    "fetchedAt": "2026-10-15T20:25:21.067Z",
+    "body": "說明復原法第504條如何保護殘障人士在聯邦資助計畫中的權利，並闡明僱主、教育工作者和服務提供者應承擔的無障礙義務與合規要求。\n\n原文來源： [brailleworks.com](https://brailleworks.com/section-504-guide)"
+  },
+  {
+    "title": "我們是否過度依賴 AI？Claude、KeyAble 與可訪問的 Auphonic",
+    "slug": "are-we-relying-on-ai-too-much-claude-keyable-and-accessible-auphonic-zh-1b9cd249",
+    "lang": "zh-TW",
+    "summary": "探討盲人使用透過無障礙思科桌機電話的 Claude AI 工具的依賴程度，並報導 Meta 眼鏡韌體更新以支援 Aira 通話、Facebook 與 Double Tap Live 的最新消息，以及對智慧眼鏡未來發展的看法。",
+    "category": "assistive-tech",
+    "tags": [
+      "AI accessibility",
+      "blind users",
+      "Claude",
+      "accessible phone",
+      "Meta glasses",
+      "Aira",
+      "smart glasses"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/are-we-relying-on-ai-too-much-claude-keyable-and-accessible-auphonic-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/are-we-relying-on-ai-too-much-claude-keyable-and-accessible-auphonic-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-1b9cd249",
+    "status": "published",
+    "translationOf": "are-we-relying-on-ai-too-much-claude-keyable-and-accessible-auphonic-1b9cd249",
+    "publishedAt": "2026-10-15T16:00:22.000Z",
+    "fetchedAt": "2026-10-15T20:25:21.160Z",
+    "body": "探討盲人使用透過無障礙思科桌機電話的 Claude AI 工具的依賴程度，並報導 Meta 眼鏡韌體更新以支援 Aira 通話、Facebook 與 Double Tap Live 的最新消息，以及對智慧眼鏡未來發展的看法。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/are-we-relying-on-ai-too-much-claude-keyable-and-accessible-auphonic-2)"
   }
 ]
