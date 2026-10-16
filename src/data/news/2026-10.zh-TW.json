@@ -55853,5 +55853,40 @@
     "publishedAt": "2026-10-16T11:20:00.000Z",
     "fetchedAt": "2026-10-16T15:03:29.385Z",
     "body": "報道提及迪拜划船挑戰賽，重點介紹了包含殘障人士參與的體育活動，推廣了體育文化中的無障礙與包容性。\n\n原文來源： [news.google.com](https://www.albayan.ae/sports/all-games/1558467)"
+  },
+  {
+    "title": "密碼、Passkeys 與盲人就業：Double Tap 來信信箱",
+    "slug": "passwords-passkeys-and-blind-employment-a-double-tap-listener-mailbag-zh-0e966b23",
+    "lang": "zh-TW",
+    "summary": "Steven Scott 與 Shaun Preece 在 Double Tap 來信信箱中討論 Meta Ray-Ban 電池壽命、密碼管理器、盲人就業以及適合單手打字的最佳鍵盤，並提供兩位盲人科技使用者的直率解答。",
+    "category": "assistive-tech",
+    "tags": [
+      "blind",
+      "employment",
+      "password managers",
+      "one-handed typing",
+      "assistive technology",
+      "Meta Ray-Ban"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/passwords-passkeys-and-blind-employment-a-double-tap-listener-mailbag-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/passwords-passkeys-and-blind-employment-a-double-tap-listener-mailbag-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-0e966b23",
+    "status": "published",
+    "translationOf": "passwords-passkeys-and-blind-employment-a-double-tap-listener-mailbag-0e966b23",
+    "publishedAt": "2026-10-16T16:00:15.000Z",
+    "fetchedAt": "2026-10-16T20:00:10.918Z",
+    "body": "Steven Scott 與 Shaun Preece 在 Double Tap 來信信箱中討論 Meta Ray-Ban 電池壽命、密碼管理器、盲人就業以及適合單手打字的最佳鍵盤，並提供兩位盲人科技使用者的直率解答。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/passwords-passkeys-and-blind-employment-a-double-tap-listener-mailbag-2)"
   }
 ]
