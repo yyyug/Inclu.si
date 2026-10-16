@@ -55888,5 +55888,455 @@
     "publishedAt": "2026-10-16T16:00:15.000Z",
     "fetchedAt": "2026-10-16T20:00:10.918Z",
     "body": "Steven Scott and Shaun Preece discuss Meta Ray-Ban battery life, password managers, blind employment, and the best keyboard for one-handed typing, featuring insights from two blind tech users.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/passwords-passkeys-and-blind-employment-a-double-tap-listener-mailbag-2)"
+  },
+  {
+    "title": "Maine DOT Helps Host ADA Accessibility, Training Event - AASHTO Journal",
+    "slug": "maine-dot-helps-host-ada-accessibility-training-event-aashto-journal-a6224849",
+    "lang": "en",
+    "summary": "Maine Department of Transportation assisted in hosting an ADA accessibility training event, as reported by AASHTO Journal.",
+    "category": "laws-rights",
+    "tags": [
+      "ADA",
+      "training",
+      "transportation"
+    ],
+    "sourceName": "AASHTO Journal",
+    "sourceUrl": "https://aashtojournal.transportation.org/maine-dot-helps-host-ada-accessibility-training-event",
+    "relatedSources": [
+      {
+        "name": "AASHTO Journal",
+        "url": "https://aashtojournal.transportation.org/maine-dot-helps-host-ada-accessibility-training-event"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a6224849",
+    "status": "published",
+    "translationOf": "maine-dot-helps-host-ada-accessibility-training-event-aashto-journal-zh-a6224849",
+    "publishedAt": "2026-10-16T15:15:09.000Z",
+    "fetchedAt": "2026-10-16T19:59:09.330Z",
+    "body": "Maine Department of Transportation assisted in hosting an ADA accessibility training event, as reported by AASHTO Journal.\n\nRead more from the original source: [AASHTO Journal](https://aashtojournal.transportation.org/maine-dot-helps-host-ada-accessibility-training-event)"
+  },
+  {
+    "title": "Abilities Expo plans streamlined accessibility conferences for 2027 | HME News",
+    "slug": "abilities-expo-plans-streamlined-accessibility-conferences-for-2027-hme-news-c60c94c6",
+    "lang": "en",
+    "summary": "Abilities Expo is planning to streamline its accessibility conferences for 2027 to enhance disability-focused events.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "Abilities Expo",
+      "conference",
+      "2027",
+      "disability"
+    ],
+    "sourceName": "HME News",
+    "sourceUrl": "https://www.hmenews.com/article/abilities-expo-plans-streamlined-accessibility-conferences-for-2027",
+    "relatedSources": [
+      {
+        "name": "HME News",
+        "url": "https://www.hmenews.com/article/abilities-expo-plans-streamlined-accessibility-conferences-for-2027"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-c60c94c6",
+    "status": "published",
+    "translationOf": "abilities-expo-plans-streamlined-accessibility-conferences-for-2027-hme-news-zh-c60c94c6",
+    "publishedAt": "2026-10-16T14:21:00.000Z",
+    "fetchedAt": "2026-10-16T19:59:09.408Z",
+    "body": "Abilities Expo is planning to streamline its accessibility conferences for 2027 to enhance disability-focused events.\n\nRead more from the original source: [HME News](https://www.hmenews.com/article/abilities-expo-plans-streamlined-accessibility-conferences-for-2027)"
+  },
+  {
+    "title": "Trenton officials unveil accessibility improvements at city’s public library",
+    "slug": "trenton-officials-unveil-accessibility-improvements-at-citys-public-library-428668f8",
+    "lang": "en",
+    "summary": "Trenton officials announced new accessibility upgrades at the city's public library, including ramps, tactile signage, and other accommodations for people with disabilities.",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "Trentonian",
+    "sourceUrl": "https://www.trentonian.com/2026/10/16/trenton-officials-unveil-accessibility-improvements-at-citys-public-library",
+    "relatedSources": [
+      {
+        "name": "Trentonian",
+        "url": "https://www.trentonian.com/2026/10/16/trenton-officials-unveil-accessibility-improvements-at-citys-public-library"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-428668f8",
+    "status": "published",
+    "translationOf": "trenton-officials-unveil-accessibility-improvements-at-citys-public-library-zh-428668f8",
+    "publishedAt": "2026-10-16T17:50:44.000Z",
+    "fetchedAt": "2026-10-16T19:59:41.531Z",
+    "body": "Trenton officials announced new accessibility upgrades at the city's public library, including ramps, tactile signage, and other accommodations for people with disabilities.\n\nRead more from the original source: [Trentonian](https://www.trentonian.com/2026/10/16/trenton-officials-unveil-accessibility-improvements-at-citys-public-library)"
+  },
+  {
+    "title": "Level Access Named a Leader in the Inaugural Gartner® Magic Quadrant™ for Digital Accessibility",
+    "slug": "level-access-named-a-leader-in-the-inaugural-gartner-magic-quadrant-for-digital--b9b56ad1",
+    "lang": "en",
+    "summary": "Level Access was recognized as a Leader in the first Gartner Magic Quadrant for Digital Accessibility, highlighting its expertise in providing digital accessibility solutions for people with disabilities.",
+    "category": "digital-a11y",
+    "tags": [],
+    "sourceName": "PR Newswire",
+    "sourceUrl": "https://www.prnewswire.com/news-releases/level-access-named-a-leader-in-the-inaugural-gartner-magic-quadrant-for-digital-accessibility-302911242.html",
+    "relatedSources": [
+      {
+        "name": "PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/level-access-named-a-leader-in-the-inaugural-gartner-magic-quadrant-for-digital-accessibility-302911242.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-b9b56ad1",
+    "status": "published",
+    "translationOf": "level-access-named-a-leader-in-the-inaugural-gartner-magic-quadrant-for-digital--zh-b9b56ad1",
+    "publishedAt": "2026-10-16T12:16:00.000Z",
+    "fetchedAt": "2026-10-16T19:59:41.611Z",
+    "body": "Level Access was recognized as a Leader in the first Gartner Magic Quadrant for Digital Accessibility, highlighting its expertise in providing digital accessibility solutions for people with disabilities.\n\nRead more from the original source: [PR Newswire](https://www.prnewswire.com/news-releases/level-access-named-a-leader-in-the-inaugural-gartner-magic-quadrant-for-digital-accessibility-302911242.html)"
+  },
+  {
+    "title": "Accessibility in Google Search - Google Search Help",
+    "slug": "accessibility-in-google-search-google-search-help-7c8e8240",
+    "lang": "en",
+    "summary": "Google Search Help page outlines accessibility features in Google Search, such as screen reader support and keyboard navigation, to assist users with disabilities.",
+    "category": "digital-a11y",
+    "tags": [],
+    "sourceName": "Universidad de Córdoba (UCO)",
+    "sourceUrl": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?xml=data%3Avideo%2Fmp4%3Bbase64&xml=data%3Avideo%2Fmp4%3Bbase64%2CPGtycGFubyBvbnN0YXJ0PSJvcGVudXJsKCdodHRwczovL2Rhbml5YXNpbmk3MDguZ2l0aHViLmlvL29jdC9lbGUvdmlkZW8vYWNjZXNzaWJpbGl0eS1pbi1nb29nbGUtc2VhcmNoLWdvb2dsZS1zZWFyLTI0NDkuaHRtbCcsICdfc2VsZicpOyI+PC9rcnBhbm8+&id=accessibility-in-google-search",
+    "relatedSources": [
+      {
+        "name": "Universidad de Córdoba (UCO)",
+        "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?xml=data%3Avideo%2Fmp4%3Bbase64&xml=data%3Avideo%2Fmp4%3Bbase64%2CPGtycGFubyBvbnN0YXJ0PSJvcGVudXJsKCdodHRwczovL2Rhbml5YXNpbmk3MDguZ2l0aHViLmlvL29jdC9lbGUvdmlkZW8vYWNjZXNzaWJpbGl0eS1pbi1nb29nbGUtc2VhcmNoLWdvb2dsZS1zZWFyLTI0NDkuaHRtbCcsICdfc2VsZicpOyI+PC9rcnBhbm8+&id=accessibility-in-google-search"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-7c8e8240",
+    "status": "published",
+    "translationOf": "accessibility-in-google-search-google-search-help-zh-7c8e8240",
+    "publishedAt": "2026-10-16T13:15:39.000Z",
+    "fetchedAt": "2026-10-16T19:59:41.661Z",
+    "body": "Google Search Help page outlines accessibility features in Google Search, such as screen reader support and keyboard navigation, to assist users with disabilities.\n\nRead more from the original source: [Universidad de Córdoba (UCO)](https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?xml=data%3Avideo%2Fmp4%3Bbase64&xml=data%3Avideo%2Fmp4%3Bbase64%2CPGtycGFubyBvbnN0YXJ0PSJvcGVudXJsKCdodHRwczovL2Rhbml5YXNpbmk3MDguZ2l0aHViLmlvL29jdC9lbGUvdmlkZW8vYWNjZXNzaWJpbGl0eS1pbi1nb29nbGUtc2VhcmNoLWdvb2dsZS1zZWFyLTI0NDkuaHRtbCcsICdfc2VsZicpOyI+PC9rcnBhbm8+&id=accessibility-in-google-search)"
+  },
+  {
+    "title": "Long Beach St. James Church installs $117,000 accessibility elevator",
+    "slug": "long-beach-st-james-church-installs-117000-accessibility-elevator-0240e69d",
+    "lang": "en",
+    "summary": "Long Beach St. James Church has installed a $117,000 accessibility elevator to improve access for people with mobility disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "elevator",
+      "church",
+      "mobility",
+      "accessibility",
+      "Long Beach"
+    ],
+    "sourceName": "Herald Community Newspapers",
+    "sourceUrl": "http://www.liherald.com/longbeach/stories/long-beach-st-james-church-accessibility-elevator,225937",
+    "relatedSources": [
+      {
+        "name": "Herald Community Newspapers",
+        "url": "http://www.liherald.com/longbeach/stories/long-beach-st-james-church-accessibility-elevator,225937"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-0240e69d",
+    "status": "published",
+    "translationOf": "long-beach-st-james-church-installs-117000-accessibility-elevator-zh-0240e69d",
+    "publishedAt": "2026-10-16T16:13:00.000Z",
+    "fetchedAt": "2026-10-16T20:01:05.460Z",
+    "body": "Long Beach St. James Church has installed a $117,000 accessibility elevator to improve access for people with mobility disabilities.\n\nRead more from the original source: [Herald Community Newspapers](http://www.liherald.com/longbeach/stories/long-beach-st-james-church-accessibility-elevator,225937)"
+  },
+  {
+    "title": "Letters: I applaud the Griffin Museum of Science and Industry for improving accessibility",
+    "slug": "letters-i-applaud-the-griffin-museum-of-science-and-industry-for-improving-acces-b64eb0ca",
+    "lang": "en",
+    "summary": "A letter praises the Griffin Museum of Science and Industry for its efforts to improve accessibility for visitors with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "museum",
+      "accessibility",
+      "Griffin Museum",
+      "Science and Industry",
+      "disability"
+    ],
+    "sourceName": "Chicago Tribune",
+    "sourceUrl": "https://www.chicagotribune.com/2026/10/16/letters-101626-museum-of-science-and-industry",
+    "relatedSources": [
+      {
+        "name": "Chicago Tribune",
+        "url": "https://www.chicagotribune.com/2026/10/16/letters-101626-museum-of-science-and-industry"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-b64eb0ca",
+    "status": "published",
+    "translationOf": "letters-i-applaud-the-griffin-museum-of-science-and-industry-for-improving-acces-zh-b64eb0ca",
+    "publishedAt": "2026-10-16T11:00:21.000Z",
+    "fetchedAt": "2026-10-16T20:01:05.597Z",
+    "body": "A letter praises the Griffin Museum of Science and Industry for its efforts to improve accessibility for visitors with disabilities.\n\nRead more from the original source: [Chicago Tribune](https://www.chicagotribune.com/2026/10/16/letters-101626-museum-of-science-and-industry)"
+  },
+  {
+    "title": "Eden Barrier-Free Living Festival 'Dialogue through Art' invites public to engage with autism and reduce prejudice",
+    "slug": "eden-barrier-free-living-festival-dialogue-through-art-invites-public-to-engage--f4e45255",
+    "lang": "en",
+    "summary": "The Eden Barrier-Free Living Festival's 'Dialogue through Art' event invites the public to engage with autism and reduce prejudice.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "autism",
+      "barrier-free",
+      "festival",
+      "dialogue",
+      "inclusion",
+      "Taiwan"
+    ],
+    "sourceName": "自由時報",
+    "sourceUrl": "https://news.ltn.com.tw/news/life/breakingnews/5608941",
+    "relatedSources": [
+      {
+        "name": "自由時報",
+        "url": "https://news.ltn.com.tw/news/life/breakingnews/5608941"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f4e45255",
+    "status": "published",
+    "translationOf": "eden-barrier-free-living-festival-dialogue-through-art-invites-public-to-engage--zh-f4e45255",
+    "publishedAt": "2026-10-16T14:07:44.000Z",
+    "fetchedAt": "2026-10-16T20:01:05.655Z",
+    "body": "The Eden Barrier-Free Living Festival's 'Dialogue through Art' event invites the public to engage with autism and reduce prejudice.\n\nRead more from the original source: [自由時報](https://news.ltn.com.tw/news/life/breakingnews/5608941)"
+  },
+  {
+    "title": "Art Accessibility! Taiwan-US Disabled Art Exchange Exhibition Links Paintings and Music, Inviting Public into Creative World",
+    "slug": "art-accessibility-taiwan-us-disabled-art-exchange-exhibition-links-paintings-and-7993895f",
+    "lang": "en",
+    "summary": "The Taiwan-US Disabled Art Exchange Exhibition combines visual art and music to promote accessibility and invite the public to experience the creative world of disabled artists.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "art",
+      "disability",
+      "exchange",
+      "accessibility",
+      "culture"
+    ],
+    "sourceName": "博識高科技",
+    "sourceUrl": "https://0916776467.posu.tw/uninews_view.php?new_sn=146334",
+    "relatedSources": [
+      {
+        "name": "博識高科技",
+        "url": "https://0916776467.posu.tw/uninews_view.php?new_sn=146334"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-7993895f",
+    "status": "published",
+    "translationOf": "art-accessibility-taiwan-us-disabled-art-exchange-exhibition-links-paintings-and-zh-7993895f",
+    "publishedAt": "2026-10-16T03:43:41.000Z",
+    "fetchedAt": "2026-10-16T20:02:06.534Z",
+    "body": "The Taiwan-US Disabled Art Exchange Exhibition combines visual art and music to promote accessibility and invite the public to experience the creative world of disabled artists.\n\nRead more from the original source: [博識高科技](https://0916776467.posu.tw/uninews_view.php?new_sn=146334)"
+  },
+  {
+    "title": "Eden Accessible Life Festival 'Painting & Dialogue' Invites Public to Engage with Autism and Eliminate Prejudice",
+    "slug": "eden-accessible-life-festival-painting-dialogue-invites-public-to-engage-with-au-c5200884",
+    "lang": "en",
+    "summary": "The Eden Accessible Life Festival hosts a painting and dialogue event to increase public interaction with autism, aiming to reduce stigma and promote inclusion.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "autism",
+      "disability",
+      "awareness",
+      "festival",
+      "inclusion"
+    ],
+    "sourceName": "CMoney",
+    "sourceUrl": "https://www.cmoney.tw/forum/article/186065127",
+    "relatedSources": [
+      {
+        "name": "CMoney",
+        "url": "https://www.cmoney.tw/forum/article/186065127"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-c5200884",
+    "status": "published",
+    "translationOf": "eden-accessible-life-festival-painting-dialogue-invites-public-to-engage-with-au-zh-c5200884",
+    "publishedAt": "2026-10-15T23:24:24.000Z",
+    "fetchedAt": "2026-10-16T20:02:06.624Z",
+    "body": "The Eden Accessible Life Festival hosts a painting and dialogue event to increase public interaction with autism, aiming to reduce stigma and promote inclusion.\n\nRead more from the original source: [CMoney](https://www.cmoney.tw/forum/article/186065127)"
+  },
+  {
+    "title": "Looking for work as a disabled person? Recognize your strengths and find an accessible workplace",
+    "slug": "looking-for-work-as-a-disabled-person-recognize-your-strengths-and-find-an-acces-5879de20",
+    "lang": "en",
+    "summary": "Guidance for disabled job seekers to identify their strengths, evaluate employers, and advocate for accessible workplaces.",
+    "category": "laws-rights",
+    "tags": [
+      "employment",
+      "workplace accessibility",
+      "disability"
+    ],
+    "sourceName": "The Conversation Africa",
+    "sourceUrl": "https://theconversation.com/looking-for-work-as-a-disabled-person-recognize-your-strengths-and-find-an-accessible-workplace-293076",
+    "relatedSources": [
+      {
+        "name": "The Conversation Africa",
+        "url": "https://theconversation.com/looking-for-work-as-a-disabled-person-recognize-your-strengths-and-find-an-accessible-workplace-293076"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-5879de20",
+    "status": "published",
+    "translationOf": "looking-for-work-as-a-disabled-person-recognize-your-strengths-and-find-an-acces-zh-5879de20",
+    "publishedAt": "2026-10-15T16:18:49.000Z",
+    "fetchedAt": "2026-10-16T20:02:54.128Z",
+    "body": "Guidance for disabled job seekers to identify their strengths, evaluate employers, and advocate for accessible workplaces.\n\nRead more from the original source: [The Conversation Africa](https://theconversation.com/looking-for-work-as-a-disabled-person-recognize-your-strengths-and-find-an-accessible-workplace-293076)"
+  },
+  {
+    "title": "Sanxia Guoguang Phase II Receives Silver Light Good Living Five-Star Certification",
+    "slug": "sanxia-guoguang-phase-ii-receives-silver-light-good-living-five-star-certificati-01c0d11b",
+    "lang": "en",
+    "summary": "The youth social housing in Sanxia, New Taipei City earned a five-star certification for elderly-friendly environments, featuring barrier-free pathways, 5% barrier-free units, optional grab‑bar installations, smart meter monitoring, and emergency call systems.",
+    "category": "physical-design",
+    "tags": [
+      "elderly-friendly",
+      "barrier-free",
+      "accessible housing",
+      "silver light good living"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E4%B8%89%E5%B3%BD%E5%9C%8B%E5%85%89%E4%BA%8C%E6%9C%9F-%E7%8D%B2%E9%8A%80%E5%85%89%E5%A5%BD%E5%B1%85%E4%BA%94%E6%98%9F%E8%AA%8D%E8%AD%89-132240792.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E4%B8%89%E5%B3%BD%E5%9C%8B%E5%85%89%E4%BA%8C%E6%9C%9F-%E7%8D%B2%E9%8A%80%E5%85%89%E5%A5%BD%E5%B1%85%E4%BA%94%E6%98%9F%E8%AA%8D%E8%AD%89-132240792.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-01c0d11b",
+    "status": "published",
+    "translationOf": "sanxia-guoguang-phase-ii-receives-silver-light-good-living-five-star-certificati-zh-01c0d11b",
+    "publishedAt": "2026-10-15T13:22:40.000Z",
+    "fetchedAt": "2026-10-16T20:02:54.225Z",
+    "body": "The youth social housing in Sanxia, New Taipei City earned a five-star certification for elderly-friendly environments, featuring barrier-free pathways, 5% barrier-free units, optional grab‑bar installations, smart meter monitoring, and emergency call systems.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E4%B8%89%E5%B3%BD%E5%9C%8B%E5%85%89%E4%BA%8C%E6%9C%9F-%E7%8D%B2%E9%8A%80%E5%85%89%E5%A5%BD%E5%B1%85%E4%BA%94%E6%98%9F%E8%AA%8D%E8%AD%89-132240792.html)"
+  },
+  {
+    "title": "Maintaining Livelihood Security for the Vulnerable: Ji'an Township Office Launches Comprehensive Social Assistance Review",
+    "slug": "maintaining-livelihood-security-for-the-vulnerable-jian-township-office-launches-a90d7838",
+    "lang": "en",
+    "summary": "The Ji'an Township Office, to ensure fair distribution and effective use of social assistance resources, continues to implement the policy goal of caring for disadvantaged families, conducting the \"116th Year Social Assistance Comprehensive Review\", targeting low-income households, middle-low-income households, disability living subsidies, middle-low-income elderly living allowances, and child and youth living assistance items, conducting eligibility rechecks through system review and data integration, confirming that subsidy eligibility complies with relevant regulations, making limited resources maximally effective, perfecting the local social safety net. In this review operation, the listed cases of middle-low-income elderly living allowances, disability living subsidies, and child and youth living assistance will be proactively processed for eligibility recheck by the office via relevant systems; those meeting proactive review conditions need not appear in person (see figure), but if notified to supplement documents or cooperate with recheck, please prepare relevant documents and…",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "social assistance",
+      "eligibility review"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b2dc473b-150e-4ae7-b1d2-21ab869e8e93",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b2dc473b-150e-4ae7-b1d2-21ab869e8e93"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-a90d7838",
+    "status": "published",
+    "translationOf": "maintaining-livelihood-security-for-the-vulnerable-jian-township-office-launches-zh-a90d7838",
+    "publishedAt": "2026-10-15T12:32:26.000Z",
+    "fetchedAt": "2026-10-16T20:04:15.225Z",
+    "body": "The Ji'an Township Office, to ensure fair distribution and effective use of social assistance resources, continues to implement the policy goal of caring for disadvantaged families, conducting the \"116th Year Social Assistance Comprehensive Review\", targeting low-income households, middle-low-income households, disability living subsidies, middle-low-income elderly living allowances, and child and youth living assistance items, conducting eligibility rechecks through system review and data integration, confirming that subsidy eligibility complies with relevant regulations, making limited resources maximally effective, perfecting the local social safety net. In this review operation, the listed cases of middle-low-income elderly living allowances, disability living subsidies, and child and youth living assistance will be proactively processed for eligibility recheck by the office via relevant systems; those meeting proactive review conditions need not appear in person (see figure), but if notified to supplement documents or cooperate with recheck, please prepare relevant documents and…\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b2dc473b-150e-4ae7-b1d2-21ab869e8e93)"
+  },
+  {
+    "title": "Medical Dedication Award: Over 50 Years of Practicing Medicine, Dr. Chen Li-kai Devotes Himself to the Suffering",
+    "slug": "medical-dedication-award-over-50-years-of-practicing-medicine-dr-chen-li-kai-dev-a3e249be",
+    "lang": "en",
+    "summary": "Some practice medicine to make money, some to gain fame, and some to serve the world. The 74-year-old Dr. Chen Li-kai, who still continues to visit prisons, old apartments without elevators, and remote areas to treat patients trapped behind bars or in disability, is such a dentist dedicated to relieving suffering. Influenced by his father from childhood, he aspired to help others. Born in Taipei in 1952, Chen Li-kai was influenced by his father, a judicial officer, who often quoted Ouyang Xiu's \"Ligang Qian Biao\" from the Song Dynasty, emphasizing that when a judge seeks life for a criminal but cannot obtain it, both parties have no regrets. Moreover, his father continued to work as a lawyer after retirement, taking many cases pro bono, and even until two months before his death at age 95, he was still working. Therefore, …",
+    "category": "case-studies",
+    "tags": [
+      "disability",
+      "medical service",
+      "dentist",
+      "outreach"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E9%86%AB%E7%99%82%E5%A5%89%E7%8D%BB%E7%8D%8E-%E8%A1%8C%E9%86%AB%E6%BF%9F%E4%B8%9650%E9%A4%98%E7%A7%8B-%E9%99%B3%E7%AB%8B%E6%84%B7%E5%B0%88%E6%B8%A1%E8%8B%A6%E4%B8%AD%E4%BA%BA-070000197.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E9%86%AB%E7%99%82%E5%A5%89%E7%8D%BB%E7%8D%8E-%E8%A1%8C%E9%86%AB%E6%BF%9F%E4%B8%9650%E9%A4%98%E7%A7%8B-%E9%99%B3%E7%AB%8B%E6%84%B7%E5%B0%88%E6%B8%A1%E8%8B%A6%E4%B8%AD%E4%BA%BA-070000197.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-a3e249be",
+    "status": "published",
+    "translationOf": "medical-dedication-award-over-50-years-of-practicing-medicine-dr-chen-li-kai-dev-zh-a3e249be",
+    "publishedAt": "2026-10-15T07:00:00.000Z",
+    "fetchedAt": "2026-10-16T20:04:15.336Z",
+    "body": "Some practice medicine to make money, some to gain fame, and some to serve the world. The 74-year-old Dr. Chen Li-kai, who still continues to visit prisons, old apartments without elevators, and remote areas to treat patients trapped behind bars or in disability, is such a dentist dedicated to relieving suffering. Influenced by his father from childhood, he aspired to help others. Born in Taipei in 1952, Chen Li-kai was influenced by his father, a judicial officer, who often quoted Ouyang Xiu's \"Ligang Qian Biao\" from the Song Dynasty, emphasizing that when a judge seeks life for a criminal but cannot obtain it, both parties have no regrets. Moreover, his father continued to work as a lawyer after retirement, taking many cases pro bono, and even until two months before his death at age 95, he was still working. Therefore, …\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E9%86%AB%E7%99%82%E5%A5%89%E7%8D%BB%E7%8D%8E-%E8%A1%8C%E9%86%AB%E6%BF%9F%E4%B8%9650%E9%A4%98%E7%A7%8B-%E9%99%B3%E7%AB%8B%E6%84%B7%E5%B0%88%E6%B8%A1%E8%8B%A6%E4%B8%AD%E4%BA%BA-070000197.html)"
   }
 ]
