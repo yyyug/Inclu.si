@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Call for Comprehensive Accessibility Preparation for Persons with Disabilities",
+    "slug": "call-for-comprehensive-accessibility-preparation-for-persons-with-disabilities-4ff5d995",
+    "lang": "en",
+    "summary": "A recent news article highlights calls for the implementation of comprehensive accessibility measures and preparations for persons with disabilities, focusing on ensuring equal access to public services and spaces.",
+    "category": "laws-rights",
+    "tags": [
+      "policy",
+      "accessibility",
+      "rights",
+      "saudi-arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alwatan.com.sa/article/1098820",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alwatan.com.sa/article/1098820"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84+%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-4ff5d995",
+    "status": "published",
+    "translationOf": "call-for-comprehensive-accessibility-preparation-for-persons-with-disabilities-zh-4ff5d995",
+    "publishedAt": "2022-01-26T08:00:00.000Z",
+    "fetchedAt": "2026-10-16T15:02:16.789Z",
+    "body": "A recent news article highlights calls for the implementation of comprehensive accessibility measures and preparations for persons with disabilities, focusing on ensuring equal access to public services and spaces.\n\nRead more from the original source: [news.google.com](https://www.alwatan.com.sa/article/1098820)"
+  }
+]
