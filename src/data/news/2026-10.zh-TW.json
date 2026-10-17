@@ -60475,5 +60475,34 @@
     "publishedAt": "2026-10-17T14:28:18.000Z",
     "fetchedAt": "2026-10-17T19:49:31.517Z",
     "body": "猶他州盲人協會提供預約制的每週陶藝課程，協助視障人士藉由藝術表達自我。\n推文來源： [UtahCouncil_Blind (@UCBInfo)](https://x.com/UCBInfo/status/2111464323654832629)\n外部連結： [https://utahblind.org/ceramics.html](https://utahblind.org/ceramics.html)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "story-65721603-zh-65721603",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/69054",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/69054"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-65721603",
+    "status": "draft",
+    "translationOf": "story-65721603-65721603",
+    "publishedAt": "2026-10-17T14:59:11.000Z",
+    "fetchedAt": "2026-10-17T20:55:41.840Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [asdmag.org](https://asdmag.org/archives/69054)"
   }
 ]
