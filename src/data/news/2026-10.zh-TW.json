@@ -59382,5 +59382,69 @@
     "publishedAt": "2026-10-16T15:01:17.000Z",
     "fetchedAt": "2026-10-17T19:25:47.043Z",
     "body": "TetraLogical 已發布開源無障礙元件庫，提供符合無障礙標準的 HTML、CSS、JavaScript 程式碼與文件，協助開發者構建包容性網頁介面。\n\n原文來源： [Tetralogical.com](https://tetralogical.com/blog/2026/10/14/accessible-components-library)"
+  },
+  {
+    "title": "Zero Project 東京 Part 1：OryLab 的 OriHime 機器人 與 Miruoto 的 可視化 體育 聲音",
+    "slug": "zero-project-tokyo-part-1-orylabs-orihime-robots-and-miruotos-visible-sports-sou-zh-6f474d95",
+    "lang": "zh-TW",
+    "summary": "OryLab 的 OriHime 機器人 讓 居家 殘障 人士 能 參與 工作 與 學校；Miruoto 將 體育 聲音 轉換 為 螢幕 上 的 文字，讓 聾人 球迷 可閱讀。",
+    "category": "assistive-tech",
+    "tags": [
+      "assistive technology",
+      "robotics",
+      "deaf accessibility"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/zero-project-tokyo-part-1-orylabs-orihime-robots-and-miruotos-visible-sports-sound-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/zero-project-tokyo-part-1-orylabs-orihime-robots-and-miruotos-visible-sports-sound-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-6f474d95",
+    "status": "published",
+    "translationOf": "zero-project-tokyo-part-1-orylabs-orihime-robots-and-miruotos-visible-sports-sou-6f474d95",
+    "publishedAt": "2026-10-17T16:00:18.000Z",
+    "fetchedAt": "2026-10-17T19:30:52.928Z",
+    "body": "OryLab 的 OriHime 機器人 讓 居家 殘障 人士 能 參與 工作 與 學校；Miruoto 將 體育 聲音 轉換 為 螢幕 上 的 文字，讓 聾人 球迷 可閱讀。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/zero-project-tokyo-part-1-orylabs-orihime-robots-and-miruotos-visible-sports-sound-2)"
+  },
+  {
+    "title": "Zero Project 東京 Part 1：OryLab 的 OriHime 機器人 與 Miruoto 的 可視化 體育 聲音",
+    "slug": "zero-project-tokyo-part-1-orylabs-orihime-robots-and-miruotos-visible-sports-sou-zh-6df76bdf",
+    "lang": "zh-TW",
+    "summary": "OryLab 的 OriHime 機器人 讓 居家 殘障 人士 能 參與 工作 與 學校；Miruoto 將 體育 聲音 轉換 為 螢幕 上 的 文字，讓 聾人 球迷 可閱讀。",
+    "category": "assistive-tech",
+    "tags": [
+      "assistive technology",
+      "robotics",
+      "deaf accessibility"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/zero-project-tokyo-part-1-orylabs-orihime-robots-and-miruotos-visible-sports-sound",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/zero-project-tokyo-part-1-orylabs-orihime-robots-and-miruotos-visible-sports-sound"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-6df76bdf",
+    "status": "published",
+    "translationOf": "zero-project-tokyo-part-1-orylabs-orihime-robots-and-miruotos-visible-sports-sou-6df76bdf",
+    "publishedAt": "2026-10-17T16:00:00.000Z",
+    "fetchedAt": "2026-10-17T19:30:52.990Z",
+    "body": "OryLab 的 OriHime 機器人 讓 居家 殘障 人士 能 參與 工作 與 學校；Miruoto 將 體育 聲音 轉換 為 螢幕 上 的 文字，讓 聾人 球迷 可閱讀。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/zero-project-tokyo-part-1-orylabs-orihime-robots-and-miruotos-visible-sports-sound)"
   }
 ]
