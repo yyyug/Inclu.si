@@ -65733,5 +65733,1453 @@
     "publishedAt": "2026-10-19T10:13:48.000Z",
     "fetchedAt": "2026-10-19T16:00:31.446Z",
     "body": "作者對為無障礙 API 進行映射表達了興趣。\n推文來源： [Rikiya Ihara / magi (@magi1125)](https://x.com/magi1125/status/2112125052263272668)"
+  },
+  {
+    "title": "CNCPH 開放兒童委員會更新報名",
+    "slug": "cncph-opens-applications-for-childrens-council-renewal-zh-46e1e416",
+    "lang": "zh-TW",
+    "summary": "CNCPH 正在接受報名，以更新其兒童委員會。該委員會由 12 名 8 至 12 歲的身障兒童組成。線上報名截止日為 2026 年 11 月 6 日。",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "council",
+      "youth",
+      "CNCPH"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-les-candidatures-pour-le-cncph-enfants-sont-ouvertes-39877.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-les-candidatures-pour-le-cncph-enfants-sont-ouvertes-39877.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-46e1e416",
+    "status": "published",
+    "translationOf": "cncph-opens-applications-for-childrens-council-renewal-46e1e416",
+    "publishedAt": "2026-10-19T16:34:18.000Z",
+    "fetchedAt": "2026-10-19T17:09:44.496Z",
+    "body": "CNCPH 正在接受報名，以更新其兒童委員會。該委員會由 12 名 8 至 12 歲的身障兒童組成。線上報名截止日為 2026 年 11 月 6 日。\n\n原文來源： [handicap.fr](https://informations.handicap.fr/a-les-candidatures-pour-le-cncph-enfants-sont-ouvertes-39877.php)"
+  },
+  {
+    "title": "身障工作者：無效退休領取者喪失活動獎金",
+    "slug": "disabled-workers-invalidity-pensioners-lose-activity-bonus-zh-ce7ba450",
+    "lang": "zh-TW",
+    "summary": "由於 2026 年的計算方式改革，許多領受無效退休金的弱勢工作者失去了活動獎金。對其中一人而言，這導致每月損失 240 歐元，約占其收入的 20%。",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "employment",
+      "benefits",
+      "pension"
+    ],
+    "sourceName": "faire-face.fr",
+    "sourceUrl": "https://www.faire-face.fr/2026/10/19/travailleurs-handicapes-les-pensionnes-dinvalidite-prives-de-prime-dactivite",
+    "relatedSources": [
+      {
+        "name": "faire-face.fr",
+        "url": "https://www.faire-face.fr/2026/10/19/travailleurs-handicapes-les-pensionnes-dinvalidite-prives-de-prime-dactivite"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://faire-face.fr/feed",
+    "ingestProvider": "faire-face.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-ce7ba450",
+    "status": "published",
+    "translationOf": "disabled-workers-invalidity-pensioners-lose-activity-bonus-ce7ba450",
+    "publishedAt": "2026-10-19T13:15:06.000Z",
+    "fetchedAt": "2026-10-19T17:09:44.582Z",
+    "body": "由於 2026 年的計算方式改革，許多領受無效退休金的弱勢工作者失去了活動獎金。對其中一人而言，這導致每月損失 240 歐元，約占其收入的 20%。\n\n原文來源： [faire-face.fr](https://www.faire-face.fr/2026/10/19/travailleurs-handicapes-les-pensionnes-dinvalidite-prives-de-prime-dactivite)"
+  },
+  {
+    "title": "馬德里市議會主辦第 7 屆普遍無障礙日",
+    "slug": "madrid-city-hall-hosts-7th-universal-accessibility-days-zh-0a65a6a0",
+    "lang": "zh-TW",
+    "summary": "馬德里市將於 2026 年 10 月 20 日至 21 日舉辦第 7 屆普遍無障礙日。該活動強調該市的無障礙行動計畫，並為殘障參與者提供手語翻譯、字幕及磁氣迴路等無障礙措施。",
+    "category": "physical-design",
+    "tags": [
+      "universal-design",
+      "accessibility",
+      "events",
+      "Madrid"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/evento/vii-jornadas-de-accesibilidad-universal-ayuntamiento-de-madrid-2026",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/evento/vii-jornadas-de-accesibilidad-universal-ayuntamiento-de-madrid-2026"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-0a65a6a0",
+    "status": "published",
+    "translationOf": "madrid-city-hall-hosts-7th-universal-accessibility-days-0a65a6a0",
+    "publishedAt": "2026-10-19T13:46:46.000Z",
+    "fetchedAt": "2026-10-19T17:09:44.660Z",
+    "body": "馬德里市將於 2026 年 10 月 20 日至 21 日舉辦第 7 屆普遍無障礙日。該活動強調該市的無障礙行動計畫，並為殘障參與者提供手語翻譯、字幕及磁氣迴路等無障礙措施。\n\n原文來源： [discapnet.es](https://www.discapnet.es/evento/vii-jornadas-de-accesibilidad-universal-ayuntamiento-de-madrid-2026)"
+  },
+  {
+    "title": "社會团结部：「尊嚴」計劃為130萬名殘疾人士提供支持",
+    "slug": "ministry-of-solidarity-dignity-program-supports-13-million-people-with-disabilit-zh-b857eb72",
+    "lang": "zh-TW",
+    "summary": "社會團結部在世界白手杖紀念日強調了為視障人士提供無障礙環境的重要性，涵蓋行動、教育及社區參與。該「尊嚴」計劃支持130萬名殘疾人士。",
+    "category": "laws-rights",
+    "tags": [
+      "support",
+      "visual-impairment",
+      "policy"
+    ],
+    "sourceName": "mo3akpress.com",
+    "sourceUrl": "https://www.mo3akpress.com/2026/10/%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d8%b6%d8%a7%d9%85%d9%86-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d9%83%d8%b1%d8%a7%d9%85%d8%a9-%d9%8a%d9%82%d8%af%d9%85-%d8%a7%d9%84%d8%af%d8%b9%d9%85",
+    "relatedSources": [
+      {
+        "name": "mo3akpress.com",
+        "url": "https://www.mo3akpress.com/2026/10/%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d8%b6%d8%a7%d9%85%d9%86-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d9%83%d8%b1%d8%a7%d9%85%d8%a9-%d9%8a%d9%82%d8%af%d9%85-%d8%a7%d9%84%d8%af%d8%b9%d9%85"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://mo3akpress.com/feed",
+    "ingestProvider": "mo3akpress.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-b857eb72",
+    "status": "published",
+    "translationOf": "ministry-of-solidarity-dignity-program-supports-13-million-people-with-disabilit-b857eb72",
+    "publishedAt": "2026-10-19T16:06:15.000Z",
+    "fetchedAt": "2026-10-19T17:10:02.808Z",
+    "body": "社會團結部在世界白手杖紀念日強調了為視障人士提供無障礙環境的重要性，涵蓋行動、教育及社區參與。該「尊嚴」計劃支持130萬名殘疾人士。\n\n原文來源： [mo3akpress.com](https://www.mo3akpress.com/2026/10/%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d8%b6%d8%a7%d9%85%d9%86-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d9%83%d8%b1%d8%a7%d9%85%d8%a9-%d9%8a%d9%82%d8%af%d9%85-%d8%a7%d9%84%d8%af%d8%b9%d9%85)"
+  },
+  {
+    "title": "戰爭對殘障兒童心理健康的隱性代價",
+    "slug": "the-hidden-cost-of-war-on-mental-health-of-children-with-disabilities-zh-e5f420d2",
+    "lang": "zh-TW",
+    "summary": "人權觀察報告揭示了戰爭對殘障兒童心理健康造成的嚴重且常被忽視的影響，強調了他們特殊的脆弱性及權利。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "mental-health",
+      "children",
+      "war",
+      "human-rights"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.hrw.org/ar/news/2026/10/19/wars-hidden-mental-health-toll-on-children-with-disabilities",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.hrw.org/ar/news/2026/10/19/wars-hidden-mental-health-toll-on-children-with-disabilities"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-e5f420d2",
+    "status": "published",
+    "translationOf": "the-hidden-cost-of-war-on-mental-health-of-children-with-disabilities-e5f420d2",
+    "publishedAt": "2026-10-19T14:31:55.000Z",
+    "fetchedAt": "2026-10-19T17:10:02.912Z",
+    "body": "人權觀察報告揭示了戰爭對殘障兒童心理健康造成的嚴重且常被忽視的影響，強調了他們特殊的脆弱性及權利。\n\n原文來源： [news.google.com](https://www.hrw.org/ar/news/2026/10/19/wars-hidden-mental-health-toll-on-children-with-disabilities)"
+  },
+  {
+    "title": "國家殘障人士委員會參與迪拜世界博覽會",
+    "slug": "national-council-for-persons-with-disabilities-participates-in-expo-dubai-zh-78e72f00",
+    "lang": "zh-TW",
+    "summary": "國家殘障人士委員會參加了第八屆迪拜世界博覽會，可能展示了包容性計劃或分享與殘障無障礙相關的經驗。",
+    "category": "general",
+    "tags": [
+      "expo",
+      "inclusion",
+      "disability-council"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://akhbarelyom.com/news/newdetails/4893827/1/-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D9%84%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%8A%D9%8F%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D8%A7%D9%84",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://akhbarelyom.com/news/newdetails/4893827/1/-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D9%84%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%8A%D9%8F%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D8%A7%D9%84"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-78e72f00",
+    "status": "published",
+    "translationOf": "national-council-for-persons-with-disabilities-participates-in-expo-dubai-78e72f00",
+    "publishedAt": "2026-10-19T14:16:35.000Z",
+    "fetchedAt": "2026-10-19T17:10:02.983Z",
+    "body": "國家殘障人士委員會參加了第八屆迪拜世界博覽會，可能展示了包容性計劃或分享與殘障無障礙相關的經驗。\n\n原文來源： [news.google.com](https://akhbarelyom.com/news/newdetails/4893827/1/-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D9%84%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%8A%D9%8F%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D8%A7%D9%84)"
+  },
+  {
+    "title": "杜拜警方為曼索里法拉利配備智慧袋服務身心障礙人士",
+    "slug": "dubai-police-equips-manorsari-ferrari-with-smart-bag-for-people-with-disabilitie-zh-aa296bd1",
+    "lang": "zh-TW",
+    "summary": "杜拜警方為一輛豪華車配備了智慧袋，旨在為身心障礙人士提供協助與服務。",
+    "category": "assistive-tech",
+    "tags": [
+      "Dubai",
+      "Disability",
+      "Assistive Tech",
+      "Smart Bag"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albayan.ae/news/uae/1559077",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albayan.ae/news/uae/1559077"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-aa296bd1",
+    "status": "published",
+    "translationOf": "dubai-police-equips-manorsari-ferrari-with-smart-bag-for-people-with-disabilitie-aa296bd1",
+    "publishedAt": "2026-10-19T15:55:58.000Z",
+    "fetchedAt": "2026-10-19T17:10:14.074Z",
+    "body": "杜拜警方為一輛豪華車配備了智慧袋，旨在為身心障礙人士提供協助與服務。\n\n原文來源： [news.google.com](https://www.albayan.ae/news/uae/1559077)"
+  },
+  {
+    "title": "杜拜市政廳在2026世博會展示賦能身心障礙人士的創新解決方案",
+    "slug": "dubai-municipality-showcases-innovative-solutions-for-empowering-people-with-dis-zh-8e330e9f",
+    "lang": "zh-TW",
+    "summary": "杜拜市政廳正在展示旨在賦能身心障礙人士的創新解決方案，以迎接2026年世博會。",
+    "category": "general",
+    "tags": [
+      "Dubai Municipality",
+      "Expo 2026",
+      "Inclusion",
+      "Innovation"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.wam.ae/ar/article/c2tl27u-%D8%A8%D9%84%D8%AF%D9%8A%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%AD%D9%84%D9%88%D9%84%D8%A7-%D9%85%D8%A8%D8%AA%D9%83%D8%B1%D8%A9-%D9%84%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.wam.ae/ar/article/c2tl27u-%D8%A8%D9%84%D8%AF%D9%8A%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%AD%D9%84%D9%88%D9%84%D8%A7-%D9%85%D8%A8%D8%AA%D9%83%D8%B1%D8%A9-%D9%84%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84+%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-8e330e9f",
+    "status": "published",
+    "translationOf": "dubai-municipality-showcases-innovative-solutions-for-empowering-people-with-dis-8e330e9f",
+    "publishedAt": "2026-10-19T14:21:21.000Z",
+    "fetchedAt": "2026-10-19T17:10:14.157Z",
+    "body": "杜拜市政廳正在展示旨在賦能身心障礙人士的創新解決方案，以迎接2026年世博會。\n\n原文來源： [news.google.com](https://www.wam.ae/ar/article/c2tl27u-%D8%A8%D9%84%D8%AF%D9%8A%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%AD%D9%84%D9%88%D9%84%D8%A7-%D9%85%D8%A8%D8%AA%D9%83%D8%B1%D8%A9-%D9%84%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85)"
+  },
+  {
+    "title": "杜拜警方為曼索里法拉利配備智慧袋服務身心障礙人士",
+    "slug": "dubai-police-equips-manorsari-ferrari-with-smart-bag-for-people-with-disabilitie-zh-6be0fa48",
+    "lang": "zh-TW",
+    "summary": "杜拜警方為一輛豪華車配備了智慧袋，旨在為身心障礙人士提供協助與服務。",
+    "category": "assistive-tech",
+    "tags": [
+      "Dubai",
+      "Disability",
+      "Assistive Tech",
+      "Smart Bag"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.wam.ae/ar/article/c2tl24q-%D8%B4%D8%B1%D8%B7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%AA%D8%AC%D9%87%D8%B2-%D9%81%D9%8A%D8%B1%D8%A7%D8%B1%D9%8A-%D9%85%D8%A7%D9%86%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D8%AD%D9%82%D9%8A%D8%A8%D8%A9-%D8%B0%D9%83%D9%8A%D8%A9-%D9%84%D8%AE%D8%AF%D9%85%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.wam.ae/ar/article/c2tl24q-%D8%B4%D8%B1%D8%B7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%AA%D8%AC%D9%87%D8%B2-%D9%81%D9%8A%D8%B1%D8%A7%D8%B1%D9%8A-%D9%85%D8%A7%D9%86%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D8%AD%D9%82%D9%8A%D8%A8%D8%A9-%D8%B0%D9%83%D9%8A%D8%A9-%D9%84%D8%AE%D8%AF%D9%85%D8%A9"
+      }
+    ],
+    "sourceCountry": "EG",
+    "queryRegion": "EG",
+    "region": "EG",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-6be0fa48",
+    "status": "published",
+    "translationOf": "dubai-police-equips-manorsari-ferrari-with-smart-bag-for-people-with-disabilitie-6be0fa48",
+    "publishedAt": "2026-10-19T13:44:56.000Z",
+    "fetchedAt": "2026-10-19T17:10:14.237Z",
+    "body": "杜拜警方為一輛豪華車配備了智慧袋，旨在為身心障礙人士提供協助與服務。\n\n原文來源： [news.google.com](https://www.wam.ae/ar/article/c2tl24q-%D8%B4%D8%B1%D8%B7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%AA%D8%AC%D9%87%D8%B2-%D9%81%D9%8A%D8%B1%D8%A7%D8%B1%D9%8A-%D9%85%D8%A7%D9%86%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D8%AD%D9%82%D9%8A%D8%A8%D8%A9-%D8%B0%D9%83%D9%8A%D8%A9-%D9%84%D8%AE%D8%AF%D9%85%D8%A9)"
+  },
+  {
+    "title": "远程医疗對殘疾人士是否真正便捷？",
+    "slug": "is-telemedicine-accessible-for-people-with-disabilities-zh-a5e2f206",
+    "lang": "zh-TW",
+    "summary": "文章探討了遠程醫療諮詢對殘疾人士的实际便利性，分析了旨在減少出行和解決醫療資源匱乏的遠程醫療服務是否真正有效地適應了他們的具体需求。",
+    "category": "digital-a11y",
+    "tags": [
+      "telemedicine",
+      "disability",
+      "accessibility",
+      "healthcare"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-handicap-la-telemedecine-est-elle-accessible-39873.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-handicap-la-telemedecine-est-elle-accessible-39873.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-a5e2f206",
+    "status": "published",
+    "translationOf": "is-telemedicine-accessible-for-people-with-disabilities-a5e2f206",
+    "publishedAt": "2026-10-19T10:40:10.000Z",
+    "fetchedAt": "2026-10-19T17:10:31.923Z",
+    "body": "文章探討了遠程醫療諮詢對殘疾人士的实际便利性，分析了旨在減少出行和解決醫療資源匱乏的遠程醫療服務是否真正有效地適應了他們的具体需求。\n\n原文來源： [handicap.fr](https://informations.handicap.fr/a-handicap-la-telemedecine-est-elle-accessible-39873.php)"
+  },
+  {
+    "title": "科技與人工智能成為第五屆國際無障礙旅遊大會TUR4all焦點",
+    "slug": "technology-and-ai-highlighted-at-the-5th-international-accessible-tourism-congre-zh-fad04b01",
+    "lang": "zh-TW",
+    "summary": "本次大會重點探討如何利用科技、人工智能及個性化數字工具（如基於AI的旅遊助手和無障礙出行服務）改善殘疾人士的旅遊體驗，旨在將無障礙性轉化為旅遊業的競爭優勢。",
+    "category": "assistive-tech",
+    "tags": [
+      "tourism",
+      "AI",
+      "accessible-tech",
+      "disability",
+      "mobility"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/la-tecnologia-y-la-ia-protagonistas-del-v-congreso-internacional-de-turismo-accesible",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/la-tecnologia-y-la-ia-protagonistas-del-v-congreso-internacional-de-turismo-accesible"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-fad04b01",
+    "status": "published",
+    "translationOf": "technology-and-ai-highlighted-at-the-5th-international-accessible-tourism-congre-fad04b01",
+    "publishedAt": "2026-10-19T08:46:07.000Z",
+    "fetchedAt": "2026-10-19T17:10:32.017Z",
+    "body": "本次大會重點探討如何利用科技、人工智能及個性化數字工具（如基於AI的旅遊助手和無障礙出行服務）改善殘疾人士的旅遊體驗，旨在將無障礙性轉化為旅遊業的競爭優勢。\n\n原文來源： [discapnet.es](https://www.discapnet.es/noticia/la-tecnologia-y-la-ia-protagonistas-del-v-congreso-internacional-de-turismo-accesible)"
+  },
+  {
+    "title": "蘇伊士市擲行白杖活動支持盲人障礙人士",
+    "slug": "white-cane-process-in-suez-supports-blind-persons-with-disabilities-zh-b8f3c0be",
+    "lang": "zh-TW",
+    "summary": "蘇伊士省在傑拉街組織了白杖擲行活動，以慶祝世界白杖日，展現當地政府賦能視力障礙人士並增強其社區參與度的承諾。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "visual-impairment",
+      "awareness",
+      "community-participation",
+      "white-cane"
+    ],
+    "sourceName": "mo3akpress.com",
+    "sourceUrl": "https://www.mo3akpress.com/2026/10/%d9%85%d8%b3%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d8%b5%d8%a7-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-%d9%84%d8%af%d8%b9%d9%85-%d8%b0%d9%88%d9%89-%d8%a7%d9%84%d9%87%d9%85%d9%85-%d9%85%d9%86-%d8%a7",
+    "relatedSources": [
+      {
+        "name": "mo3akpress.com",
+        "url": "https://www.mo3akpress.com/2026/10/%d9%85%d8%b3%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d8%b5%d8%a7-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-%d9%84%d8%af%d8%b9%d9%85-%d8%b0%d9%88%d9%89-%d8%a7%d9%84%d9%87%d9%85%d9%85-%d9%85%d9%86-%d8%a7"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://mo3akpress.com/feed",
+    "ingestProvider": "mo3akpress.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-b8f3c0be",
+    "status": "published",
+    "translationOf": "white-cane-process-in-suez-supports-blind-persons-with-disabilities-b8f3c0be",
+    "publishedAt": "2026-10-19T16:02:02.000Z",
+    "fetchedAt": "2026-10-19T17:10:32.089Z",
+    "body": "蘇伊士省在傑拉街組織了白杖擲行活動，以慶祝世界白杖日，展現當地政府賦能視力障礙人士並增強其社區參與度的承諾。\n\n原文來源： [mo3akpress.com](https://www.mo3akpress.com/2026/10/%d9%85%d8%b3%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d8%b5%d8%a7-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-%d9%84%d8%af%d8%b9%d9%85-%d8%b0%d9%88%d9%89-%d8%a7%d9%84%d9%87%d9%85%d9%85-%d9%85%d9%86-%d8%a7)"
+  },
+  {
+    "title": "當殘疾成為謀利手段：批判性分析",
+    "slug": "disability-as-a-means-of-profit-critical-analysis-zh-99f598e4",
+    "lang": "zh-TW",
+    "summary": "文章探討了殘疾如何被利用或商品化以謀取財務利益的負面趨勢，而非透過適當的無障礙措施獲得支持。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "exploitation",
+      "society",
+      "critique"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://aainnwes.com/news/%D8%AD%D9%8A%D9%86-%D8%AA%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A5%D9%84%D9%89-%D9%88%D8%B3%D9%8A%D9%84%D8%A9-%D9%84%D9%84%D9%83%D8%B3%D8%A8",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://aainnwes.com/news/%D8%AD%D9%8A%D9%86-%D8%AA%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A5%D9%84%D9%89-%D9%88%D8%B3%D9%8A%D9%84%D8%A9-%D9%84%D9%84%D9%83%D8%B3%D8%A8"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-99f598e4",
+    "status": "published",
+    "translationOf": "disability-as-a-means-of-profit-critical-analysis-99f598e4",
+    "publishedAt": "2026-10-16T10:48:07.000Z",
+    "fetchedAt": "2026-10-19T17:10:40.630Z",
+    "body": "文章探討了殘疾如何被利用或商品化以謀取財務利益的負面趨勢，而非透過適當的無障礙措施獲得支持。\n\n原文來源： [news.google.com](https://aainnwes.com/news/%D8%AD%D9%8A%D9%86-%D8%AA%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A5%D9%84%D9%89-%D9%88%D8%B3%D9%8A%D9%84%D8%A9-%D9%84%D9%84%D9%83%D8%B3%D8%A8)"
+  },
+  {
+    "title": "國家殘疾人管理局參與迪拜世博會",
+    "slug": "national-authority-for-persons-with-disabilities-participates-in-expo-dubai-zh-d8972314",
+    "lang": "zh-TW",
+    "summary": "埃及國家殘疾人管理局參加了第八屆迪拜國際世博會，展示包容性工作。",
+    "category": "laws-rights",
+    "tags": [
+      "government",
+      "event",
+      "inclusion"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.elbalad.news/7147741",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.elbalad.news/7147741"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-d8972314",
+    "status": "published",
+    "translationOf": "national-authority-for-persons-with-disabilities-participates-in-expo-dubai-d8972314",
+    "publishedAt": "2026-10-19T12:38:00.000Z",
+    "fetchedAt": "2026-10-19T17:10:40.711Z",
+    "body": "埃及國家殘疾人管理局參加了第八屆迪拜國際世博會，展示包容性工作。\n\n原文來源： [news.google.com](https://www.elbalad.news/7147741)"
+  },
+  {
+    "title": "阿聯酋社區發展部在2026世博會聚焦賦能殘障人士",
+    "slug": "uae-ministry-of-community-development-targets-empowerment-of-persons-with-disabi-zh-857e9bbc",
+    "lang": "zh-TW",
+    "summary": "阿聯酋社區發展部在與2026年世博會相關的事件中，概述了未來賦能殘障人士的戰略。",
+    "category": "laws-rights",
+    "tags": [
+      "policy",
+      "empowerment",
+      "government"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.emaratalyoum.com/local-section/other/2026-10-19-1.2094079",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.emaratalyoum.com/local-section/other/2026-10-19-1.2094079"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-857e9bbc",
+    "status": "published",
+    "translationOf": "uae-ministry-of-community-development-targets-empowerment-of-persons-with-disabi-857e9bbc",
+    "publishedAt": "2026-10-19T15:39:10.000Z",
+    "fetchedAt": "2026-10-19T17:10:40.789Z",
+    "body": "阿聯酋社區發展部在與2026年世博會相關的事件中，概述了未來賦能殘障人士的戰略。\n\n原文來源： [news.google.com](https://www.emaratalyoum.com/local-section/other/2026-10-19-1.2094079)"
+  },
+  {
+    "title": "術後疼痛：預防永久性障礙的新方法",
+    "slug": "post-operative-pain-new-approaches-to-preventing-lasting-disability-zh-1169aa04",
+    "lang": "zh-TW",
+    "summary": "文章指出，慢性術後疼痛可能演變為障礙。它圍繞世界疼痛日，探討了旨在防止疼痛長期化的新醫療方法和工具。",
+    "category": "assistive-tech",
+    "tags": [
+      "pain management",
+      "chronic pain",
+      "handicap",
+      "post-operative",
+      "lifestyle-culture"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-douleurs-post-operatoires-les-nouvelles-armes-39019.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-douleurs-post-operatoires-les-nouvelles-armes-39019.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-1169aa04",
+    "status": "published",
+    "translationOf": "post-operative-pain-new-approaches-to-preventing-lasting-disability-1169aa04",
+    "publishedAt": "2026-10-19T07:00:41.000Z",
+    "fetchedAt": "2026-10-19T17:10:44.069Z",
+    "body": "文章指出，慢性術後疼痛可能演變為障礙。它圍繞世界疼痛日，探討了旨在防止疼痛長期化的新醫療方法和工具。\n\n原文來源： [handicap.fr](https://informations.handicap.fr/a-douleurs-post-operatoires-les-nouvelles-armes-39019.php)"
+  },
+  {
+    "title": "研究顯示半數參與休閒活動的身心障礙青少年感到被排斥",
+    "slug": "study-reveals-half-of-disabled-youth-in-leisure-activities-feel-excluded-zh-8e164a24",
+    "lang": "zh-TW",
+    "summary": "西班牙國家失明者基金會的一項研究發現，雖然51.7%的身心障礙兒童和青少年參與了市政休閒活動，但只有46%的人感到自己真正被融合。報告強調了重大障礙，包括缺乏支援人員、招生被拒以及活動未針對多元性進行調整。它建議從被動的個人解決方案轉變為從一開始就設計的包容性政策。",
+    "category": "case-studies",
+    "tags": [
+      "disability",
+      "inclusion",
+      "leisure",
+      "youth",
+      "Spain"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/mas-de-la-mitad-de-los-chavales-con-discapacidad-que-participan-en-actividades-de-ocio-no",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/mas-de-la-mitad-de-los-chavales-con-discapacidad-que-participan-en-actividades-de-ocio-no"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-8e164a24",
+    "status": "published",
+    "translationOf": "study-reveals-half-of-disabled-youth-in-leisure-activities-feel-excluded-8e164a24",
+    "publishedAt": "2026-10-19T06:52:07.000Z",
+    "fetchedAt": "2026-10-19T17:10:51.001Z",
+    "body": "西班牙國家失明者基金會的一項研究發現，雖然51.7%的身心障礙兒童和青少年參與了市政休閒活動，但只有46%的人感到自己真正被融合。報告強調了重大障礙，包括缺乏支援人員、招生被拒以及活動未針對多元性進行調整。它建議從被動的個人解決方案轉變為從一開始就設計的包容性政策。\n\n原文來源： [discapnet.es](https://www.discapnet.es/noticia/mas-de-la-mitad-de-los-chavales-con-discapacidad-que-participan-en-actividades-de-ocio-no)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "story-2e5a43e4-zh-2e5a43e4",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "mo3akpress.com",
+    "sourceUrl": "https://www.mo3akpress.com/2026/10/%d8%a8%d9%86%d9%83-%d9%85%d8%b5%d8%b1-%d9%8a%d8%b4%d8%a7%d8%b1%d9%83-%d9%81%d9%8a-%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a-4",
+    "relatedSources": [
+      {
+        "name": "mo3akpress.com",
+        "url": "https://www.mo3akpress.com/2026/10/%d8%a8%d9%86%d9%83-%d9%85%d8%b5%d8%b1-%d9%8a%d8%b4%d8%a7%d8%b1%d9%83-%d9%81%d9%8a-%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a-4"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://mo3akpress.com/feed",
+    "ingestProvider": "mo3akpress.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-2e5a43e4",
+    "status": "draft",
+    "translationOf": "story-2e5a43e4-2e5a43e4",
+    "publishedAt": "2026-10-19T15:48:45.000Z",
+    "fetchedAt": "2026-10-19T17:10:51.087Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [mo3akpress.com](https://www.mo3akpress.com/2026/10/%d8%a8%d9%86%d9%83-%d9%85%d8%b5%d8%b1-%d9%8a%d8%b4%d8%a7%d8%b1%d9%83-%d9%81%d9%8a-%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a-4)"
+  },
+  {
+    "title": "國家身心障礙者委員會參展杜拜國際博覽會",
+    "slug": "national-council-for-people-with-disabilities-exhibits-at-dubai-international-ex-zh-a5557ff8",
+    "lang": "zh-TW",
+    "summary": "國家身心障礙者委員會（NPCPD）參加了第八屆杜拜國際博覽會。雖然摘要簡短，但國家身心障礙委員會參與重大國際展覽，通常旨在提高對身心障礙的認知、展示無障礙創新或賦權措施。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "exhibition",
+      "Dubai",
+      "awareness"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://twaslnews1.twaslnews.com/6226669",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://twaslnews1.twaslnews.com/6226669"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-a5557ff8",
+    "status": "published",
+    "translationOf": "national-council-for-people-with-disabilities-exhibits-at-dubai-international-ex-a5557ff8",
+    "publishedAt": "2026-10-19T12:47:15.000Z",
+    "fetchedAt": "2026-10-19T17:10:51.167Z",
+    "body": "國家身心障礙者委員會（NPCPD）參加了第八屆杜拜國際博覽會。雖然摘要簡短，但國家身心障礙委員會參與重大國際展覽，通常旨在提高對身心障礙的認知、展示無障礙創新或賦權措施。\n\n原文來源： [news.google.com](https://twaslnews1.twaslnews.com/6226669)"
+  },
+  {
+    "title": "艾哈迈德·本·薩依德出席國際殘障人士博覽會開幕儀式",
+    "slug": "ahmed-bin-saeid-opens-international-expo-for-people-with-disabilities-zh-07914606",
+    "lang": "zh-TW",
+    "summary": "艾哈邁德·本·薩依德為國際殘障人士博覽會揭幕，該活動旨在展示面向殘障人士的機會、支援服務及發展成就。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "exhibition",
+      "disability",
+      "events"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alkhaleej.ae/2026-10-19/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B3%D8%B9%D9%8A%D8%AF-%D9%8A%D9%81%D8%AA%D8%AA%D8%AD-%D9%85%D8%B9%D8%B1%D8%B6-%D8%A5%D9%83%D8%B3%D8%A8%D9%88-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alkhaleej.ae/2026-10-19/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B3%D8%B9%D9%8A%D8%AF-%D9%8A%D9%81%D8%AA%D8%AA%D8%AD-%D9%85%D8%B9%D8%B1%D8%B6-%D8%A5%D9%83%D8%B3%D8%A8%D9%88-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-07914606",
+    "status": "published",
+    "translationOf": "ahmed-bin-saeid-opens-international-expo-for-people-with-disabilities-07914606",
+    "publishedAt": "2026-10-19T15:59:13.000Z",
+    "fetchedAt": "2026-10-19T17:10:53.892Z",
+    "body": "艾哈邁德·本·薩依德為國際殘障人士博覽會揭幕，該活動旨在展示面向殘障人士的機會、支援服務及發展成就。\n\n原文來源： [news.google.com](https://www.alkhaleej.ae/2026-10-19/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B3%D8%B9%D9%8A%D8%AF-%D9%8A%D9%81%D8%AA%D8%AA%D8%AD-%D9%85%D8%B9%D8%B1%D8%B6-%D8%A5%D9%83%D8%B3%D8%A8%D9%88-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A)"
+  },
+  {
+    "title": "CERMI 婦女基金會加強婦女及女童殘疾權利的議程",
+    "slug": "cermi-women-foundation-strengthens-rights-agenda-for-women-and-girls-with-disabi-zh-47ac5a1d",
+    "lang": "zh-TW",
+    "summary": "CERMI 婦女基金會舉行了第 18 屆常務參與委員會會議，以確立 2027 年的優先事項。重點包括促進平等、社會與政治參與、自主性以及反歧視。該組織正規劃相關倡議，以影響立法議程和即將舉行的選舉，確保婦女及女童殘疾人的訴求成為公共政策的中心。",
+    "category": "laws-rights",
+    "tags": [
+      "women-with-disabilities",
+      "rights",
+      "advocacy",
+      "council",
+      "planning"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/fundacion-cermi-mujeres-refuerza-con-su-consejo-de-participacion-la-agenda-de-derechos-de",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/fundacion-cermi-mujeres-refuerza-con-su-consejo-de-participacion-la-agenda-de-derechos-de"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-47ac5a1d",
+    "status": "published",
+    "translationOf": "cermi-women-foundation-strengthens-rights-agenda-for-women-and-girls-with-disabi-47ac5a1d",
+    "publishedAt": "2026-10-19T06:14:23.000Z",
+    "fetchedAt": "2026-10-19T17:10:57.878Z",
+    "body": "CERMI 婦女基金會舉行了第 18 屆常務參與委員會會議，以確立 2027 年的優先事項。重點包括促進平等、社會與政治參與、自主性以及反歧視。該組織正規劃相關倡議，以影響立法議程和即將舉行的選舉，確保婦女及女童殘疾人的訴求成為公共政策的中心。\n\n原文來源： [discapnet.es](https://www.discapnet.es/noticia/fundacion-cermi-mujeres-refuerza-con-su-consejo-de-participacion-la-agenda-de-derechos-de)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "350-zh-b0514612",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "mo3akpress.com",
+    "sourceUrl": "https://www.mo3akpress.com/2026/10/%d9%84%d8%aa%d9%88%d9%81%d9%8a%d8%b1-%d8%a3%d9%83%d9%8a%d8%a7%d8%b3-%d8%a7%d9%84%d8%af%d9%85-%d9%84%d9%85%d8%b1%d8%b6%d9%89-%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%a7-%d8%a8%d8%b1",
+    "relatedSources": [
+      {
+        "name": "mo3akpress.com",
+        "url": "https://www.mo3akpress.com/2026/10/%d9%84%d8%aa%d9%88%d9%81%d9%8a%d8%b1-%d8%a3%d9%83%d9%8a%d8%a7%d8%b3-%d8%a7%d9%84%d8%af%d9%85-%d9%84%d9%85%d8%b1%d8%b6%d9%89-%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%a7-%d8%a8%d8%b1"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://mo3akpress.com/feed",
+    "ingestProvider": "mo3akpress.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-b0514612",
+    "status": "draft",
+    "translationOf": "350-b0514612",
+    "publishedAt": "2026-10-19T09:35:36.000Z",
+    "fetchedAt": "2026-10-19T17:10:57.950Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [mo3akpress.com](https://www.mo3akpress.com/2026/10/%d9%84%d8%aa%d9%88%d9%81%d9%8a%d8%b1-%d8%a3%d9%83%d9%8a%d8%a7%d8%b3-%d8%a7%d9%84%d8%af%d9%85-%d9%84%d9%85%d8%b1%d8%b6%d9%89-%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%a7-%d8%a8%d8%b1)"
+  },
+  {
+    "title": "埃及殘障人士在迪拜展示工藝品推廣融合綠色旅遊",
+    "slug": "inclusive-green-tourism-and-handicrafts-by-egyptian-people-with-disabilities-in--zh-493780de",
+    "lang": "zh-TW",
+    "summary": "埃及殘障工藝師在迪拜展示其手工藝品，作為融合綠色旅遊倡議的一部分，促進殘障人士的就業與社會參與。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "employment",
+      "tourism",
+      "arts"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://agri.ahram.org.eg/News/169631.aspx",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://agri.ahram.org.eg/News/169631.aspx"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-493780de",
+    "status": "published",
+    "translationOf": "inclusive-green-tourism-and-handicrafts-by-egyptian-people-with-disabilities-in--493780de",
+    "publishedAt": "2026-10-19T12:01:00.000Z",
+    "fetchedAt": "2026-10-19T17:11:04.267Z",
+    "body": "埃及殘障工藝師在迪拜展示其手工藝品，作為融合綠色旅遊倡議的一部分，促進殘障人士的就業與社會參與。\n\n原文來源： [news.google.com](https://agri.ahram.org.eg/News/169631.aspx)"
+  },
+  {
+    "title": "社會事務部門在瑪阿雷特安南開始頒發殘障人士身分證",
+    "slug": "social-affairs-department-begins-issuing-disability-id-cards-in-maaret-al-numan-zh-7b23eca8",
+    "lang": "zh-TW",
+    "summary": "社會事務部門開始在瑪阿雷特安南區為殘障人士頒發官方身份證，這是正式化支持服務和法律承認的重要一步。",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "government",
+      "identification",
+      "services"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://sana.sy/locals/2611655",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://sana.sy/locals/2611655"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-7b23eca8",
+    "status": "published",
+    "translationOf": "social-affairs-department-begins-issuing-disability-id-cards-in-maaret-al-numan-7b23eca8",
+    "publishedAt": "2026-10-19T14:49:35.000Z",
+    "fetchedAt": "2026-10-19T17:11:04.360Z",
+    "body": "社會事務部門開始在瑪阿雷特安南區為殘障人士頒發官方身份證，這是正式化支持服務和法律承認的重要一步。\n\n原文來源： [news.google.com](https://sana.sy/locals/2611655)"
+  },
+  {
+    "title": "迪拜衛生部門宣布三項計劃在2026年世博會中支持殘障人士",
+    "slug": "dubai-health-department-announces-three-initiatives-to-support-people-with-disab-zh-e961aa51",
+    "lang": "zh-TW",
+    "summary": "迪拜衛生部門概述了三項具體計劃，旨在支持和包容殘障人士參與2026年世界博覽會的規劃與執行。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "exhibition",
+      "health",
+      "inclusion"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albayan.ae/news/uae/health/1558981",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albayan.ae/news/uae/health/1558981"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-e961aa51",
+    "status": "published",
+    "translationOf": "dubai-health-department-announces-three-initiatives-to-support-people-with-disab-e961aa51",
+    "publishedAt": "2026-10-19T11:50:00.000Z",
+    "fetchedAt": "2026-10-19T17:11:04.437Z",
+    "body": "迪拜衛生部門概述了三項具體計劃，旨在支持和包容殘障人士參與2026年世界博覽會的規劃與執行。\n\n原文來源： [news.google.com](https://www.albayan.ae/news/uae/health/1558981)"
+  },
+  {
+    "title": "社會團固局將殘疾青年轉送至護理機構",
+    "slug": "social-solidarity-agency-transfers-disabled-young-man-to-care-facility-upon-elde-zh-c0027674",
+    "lang": "zh-TW",
+    "summary": "埃及社會團結部通報，格爾比耶省的快速應急團隊根據其八十歲父親的請求，將一名殘疾青年轉送至護理機構。此舉突顯了埃及對殘障人士社會支持機制。",
+    "category": "laws-rights",
+    "tags": [
+      "social-support",
+      "disability-services",
+      "egypt"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9-%D8%A8%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%8A%D9%86%D9%82%D9%84-%D8%B4%D8%A7%D8%A8%D8%A7-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%84%D8%A5%D8%AD%D8%AF%D9%89-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9-%D8%A8%D9%86%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%B7%D9%84%D8%A8-%D9%88%D8%A7%D9%84%D8%AF%D9%87-%D8%A7%D9%84%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D9%86%D9%8A",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9-%D8%A8%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%8A%D9%86%D9%82%D9%84-%D8%B4%D8%A7%D8%A8%D8%A7-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%84%D8%A5%D8%AD%D8%AF%D9%89-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9-%D8%A8%D9%86%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%B7%D9%84%D8%A8-%D9%88%D8%A7%D9%84%D8%AF%D9%87-%D8%A7%D9%84%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D9%86%D9%8A"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-c0027674",
+    "status": "published",
+    "translationOf": "social-solidarity-agency-transfers-disabled-young-man-to-care-facility-upon-elde-c0027674",
+    "publishedAt": "2026-10-19T05:47:01.000Z",
+    "fetchedAt": "2026-10-19T17:11:10.307Z",
+    "body": "埃及社會團結部通報，格爾比耶省的快速應急團隊根據其八十歲父親的請求，將一名殘疾青年轉送至護理機構。此舉突顯了埃及對殘障人士社會支持機制。\n\n原文來源： [news.google.com](https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9-%D8%A8%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%8A%D9%86%D9%82%D9%84-%D8%B4%D8%A7%D8%A8%D8%A7-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%84%D8%A5%D8%AD%D8%AF%D9%89-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9-%D8%A8%D9%86%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%B7%D9%84%D8%A8-%D9%88%D8%A7%D9%84%D8%AF%D9%87-%D8%A7%D9%84%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D9%86%D9%8A)"
+  },
+  {
+    "title": "阿曼「有志者如我們」倡議優化北巴提納工作場所無障礙設施",
+    "slug": "oman-initiative-to-adapt-work-facilities-for-people-with-disabilities-in-north-b-zh-b45787d0",
+    "lang": "zh-TW",
+    "summary": "阿曼「有志者如我們」倡議的一部分，北巴提納地區的工作場所正在進行適配，以更好地服務殘障人士，改善工作場所的物理無障礙環境。",
+    "category": "physical-design",
+    "tags": [
+      "workplace-accessibility",
+      "oman",
+      "infrastructure"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://shabiba.com/article/212843-%D8%B6%D9%85%D9%86-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D9%85%D9%86%D8%A7-%D9%88%D9%81%D9%8A%D9%86%D8%A7-%D8%AA%D9%87%D9%8A%D8%A6%D8%A9-%D9%85%D8%B1%D8%A7%D9%81%D9%82-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A8%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9-%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://shabiba.com/article/212843-%D8%B6%D9%85%D9%86-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D9%85%D9%86%D8%A7-%D9%88%D9%81%D9%8A%D9%86%D8%A7-%D8%AA%D9%87%D9%8A%D8%A6%D8%A9-%D9%85%D8%B1%D8%A7%D9%81%D9%82-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A8%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9-%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-b45787d0",
+    "status": "published",
+    "translationOf": "oman-initiative-to-adapt-work-facilities-for-people-with-disabilities-in-north-b-b45787d0",
+    "publishedAt": "2026-10-19T10:15:45.000Z",
+    "fetchedAt": "2026-10-19T17:11:10.388Z",
+    "body": "阿曼「有志者如我們」倡議的一部分，北巴提納地區的工作場所正在進行適配，以更好地服務殘障人士，改善工作場所的物理無障礙環境。\n\n原文來源： [news.google.com](https://shabiba.com/article/212843-%D8%B6%D9%85%D9%86-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D9%85%D9%86%D8%A7-%D9%88%D9%81%D9%8A%D9%86%D8%A7-%D8%AA%D9%87%D9%8A%D8%A6%D8%A9-%D9%85%D8%B1%D8%A7%D9%81%D9%82-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A8%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9-%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9)"
+  },
+  {
+    "title": "Dnata投資科技提升迪拜機場無障礙服務",
+    "slug": "dnata-invests-in-technology-to-serve-persons-with-disabilities-at-dubai-airport-zh-de8b16f0",
+    "lang": "zh-TW",
+    "summary": "Dnata投資技術解決方案，以改善迪拜機場為行動不便旅客提供的服務與無障礙體驗。",
+    "category": "assistive-tech",
+    "tags": [
+      "airport",
+      "technology",
+      "dnata"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alkhaleej.ae/2026-10-19/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%AF%D9%86%D8%A7%D8%AA%D8%A7-%D8%AA%D8%B3%D8%AA%D8%AB%D9%85%D8%B1-%D8%A8%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D9%81%D9%8A-%D9%85%D8%B7%D8%A7%D8%B1-%D8%AF%D8%A8%D9%8A",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alkhaleej.ae/2026-10-19/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%AF%D9%86%D8%A7%D8%AA%D8%A7-%D8%AA%D8%B3%D8%AA%D8%AB%D9%85%D8%B1-%D8%A8%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D9%81%D9%8A-%D9%85%D8%B7%D8%A7%D8%B1-%D8%AF%D8%A8%D9%8A"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-de8b16f0",
+    "status": "published",
+    "translationOf": "dnata-invests-in-technology-to-serve-persons-with-disabilities-at-dubai-airport-de8b16f0",
+    "publishedAt": "2026-10-19T12:08:47.000Z",
+    "fetchedAt": "2026-10-19T17:11:15.322Z",
+    "body": "Dnata投資技術解決方案，以改善迪拜機場為行動不便旅客提供的服務與無障礙體驗。\n\n原文來源： [news.google.com](https://www.alkhaleej.ae/2026-10-19/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%AF%D9%86%D8%A7%D8%AA%D8%A7-%D8%AA%D8%B3%D8%AA%D8%AB%D9%85%D8%B1-%D8%A8%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D9%81%D9%8A-%D9%85%D8%B7%D8%A7%D8%B1-%D8%AF%D8%A8%D9%8A)"
+  },
+  {
+    "title": "融合輕度身心障礙學生入學的條件：所需報告與檢測",
+    "slug": "conditions-for-integrating-students-with-mild-disabilities-in-schools-required-r-zh-8561d8be",
+    "lang": "zh-TW",
+    "summary": "文章列出了將輕度身心障礙學生納入普通學校所需的管理要求，包括醫療報告和測試。",
+    "category": "laws-rights",
+    "tags": [
+      "education",
+      "inclusion",
+      "policy"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://twaslnews1.twaslnews.com/6218124",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://twaslnews1.twaslnews.com/6218124"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-8561d8be",
+    "status": "published",
+    "translationOf": "conditions-for-integrating-students-with-mild-disabilities-in-schools-required-r-8561d8be",
+    "publishedAt": "2026-10-19T10:30:12.000Z",
+    "fetchedAt": "2026-10-19T17:11:20.433Z",
+    "body": "文章列出了將輕度身心障礙學生納入普通學校所需的管理要求，包括醫療報告和測試。\n\n原文來源： [news.google.com](https://twaslnews1.twaslnews.com/6218124)"
+  },
+  {
+    "title": "迪拜慈善會擴大對阿聯酋及20國身心障礙人士的支持",
+    "slug": "dubaikheeriya-expands-support-for-persons-with-disabilities-in-uae-and-20-countr-zh-a129edac",
+    "lang": "zh-TW",
+    "summary": "迪拜慈善組織正在擴大其在阿聯酋及其他20個國家支持身心障礙人士的倡議。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "charity",
+      "support",
+      "international"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albayan.ae/news/uae/1559010",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albayan.ae/news/uae/1559010"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-a129edac",
+    "status": "published",
+    "translationOf": "dubaikheeriya-expands-support-for-persons-with-disabilities-in-uae-and-20-countr-a129edac",
+    "publishedAt": "2026-10-19T12:09:00.000Z",
+    "fetchedAt": "2026-10-19T17:11:20.510Z",
+    "body": "迪拜慈善組織正在擴大其在阿聯酋及其他20個國家支持身心障礙人士的倡議。\n\n原文來源： [news.google.com](https://www.albayan.ae/news/uae/1559010)"
+  },
+  {
+    "title": "快速干預小組將殘障青年轉移至加爾比亞護理院",
+    "slug": "rapid-intervention-team-transfers-disabled-youth-to-care-home-in-gharbia-zh-f5e7cd74",
+    "lang": "zh-TW",
+    "summary": "埃及社會團結部報導，位於加爾比亞的快速干預小組應一名80歲父親的請求，將一名殘障青年轉移至住宅護理機構，凸顯政府對弱勢殘障人士的支援。",
+    "category": "case-studies",
+    "tags": [
+      "disability",
+      "Egypt",
+      "care services",
+      "government"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D9%85%D9%83%D8%AA%D8%A8%D8%A9-%D8%A7%D9%84%D8%B5%D9%88%D8%B1/%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9-%D8%A8%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%8A%D9%86%D9%82%D9%84-%D8%B4%D8%A7%D8%A8%D8%A7-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%84%D8%A5%D8%AD%D8%AF%D9%89-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9-%D8%A8%D9%86%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%B7%D9%84%D8%A8-%D9%88%D8%A7%D9%84%D8%AF%D9%87-%D8%A7%D9%84%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D9%86%D9%8A",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D9%85%D9%83%D8%AA%D8%A8%D8%A9-%D8%A7%D9%84%D8%B5%D9%88%D8%B1/%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9-%D8%A8%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%8A%D9%86%D9%82%D9%84-%D8%B4%D8%A7%D8%A8%D8%A7-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%84%D8%A5%D8%AD%D8%AF%D9%89-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9-%D8%A8%D9%86%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%B7%D9%84%D8%A8-%D9%88%D8%A7%D9%84%D8%AF%D9%87-%D8%A7%D9%84%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D9%86%D9%8A"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-f5e7cd74",
+    "status": "published",
+    "translationOf": "rapid-intervention-team-transfers-disabled-youth-to-care-home-in-gharbia-f5e7cd74",
+    "publishedAt": "2026-10-19T07:47:17.000Z",
+    "fetchedAt": "2026-10-19T17:11:29.583Z",
+    "body": "埃及社會團結部報導，位於加爾比亞的快速干預小組應一名80歲父親的請求，將一名殘障青年轉移至住宅護理機構，凸顯政府對弱勢殘障人士的支援。\n\n原文來源： [news.google.com](https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D9%85%D9%83%D8%AA%D8%A8%D8%A9-%D8%A7%D9%84%D8%B5%D9%88%D8%B1/%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9-%D8%A8%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%8A%D9%86%D9%82%D9%84-%D8%B4%D8%A7%D8%A8%D8%A7-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%84%D8%A5%D8%AD%D8%AF%D9%89-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9-%D8%A8%D9%86%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%B7%D9%84%D8%A8-%D9%88%D8%A7%D9%84%D8%AF%D9%87-%D8%A7%D9%84%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D9%86%D9%8A)"
+  },
+  {
+    "title": "白杖遊行在蘇伊士街道上支持盲人",
+    "slug": "white-cane-march-walks-suez-streets-in-support-of-the-blind-zh-72bf2b1a",
+    "lang": "zh-TW",
+    "summary": "「白杖」遊行在蘇伊士的阿爾賈拉街舉行，旨在提升對視障人士的關注並表達社會對殘障權益的支持，展現社區參與度。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "blind",
+      "Egypt",
+      "awareness",
+      "advocacy"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.youm7.com/story/2026/10/19/%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%B5%D8%A7-%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D8%A1-%D8%AA%D8%AC%D9%88%D8%A8-%D8%B4%D8%A7%D8%B1%D8%B9-%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D8%A1-%D9%81%D9%89-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3-%D8%AF%D8%B9%D9%85%D9%8B%D8%A7-%D9%84%D9%84%D9%85%D9%83%D9%81%D9%88%D9%81%D9%8A%D9%86/7585762",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.youm7.com/story/2026/10/19/%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%B5%D8%A7-%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D8%A1-%D8%AA%D8%AC%D9%88%D8%A8-%D8%B4%D8%A7%D8%B1%D8%B9-%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D8%A1-%D9%81%D9%89-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3-%D8%AF%D8%B9%D9%85%D9%8B%D8%A7-%D9%84%D9%84%D9%85%D9%83%D9%81%D9%88%D9%81%D9%8A%D9%86/7585762"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-72bf2b1a",
+    "status": "published",
+    "translationOf": "white-cane-march-walks-suez-streets-in-support-of-the-blind-72bf2b1a",
+    "publishedAt": "2026-10-19T12:35:00.000Z",
+    "fetchedAt": "2026-10-19T17:11:29.678Z",
+    "body": "「白杖」遊行在蘇伊士的阿爾賈拉街舉行，旨在提升對視障人士的關注並表達社會對殘障權益的支持，展現社區參與度。\n\n原文來源： [news.google.com](https://www.youm7.com/story/2026/10/19/%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%B5%D8%A7-%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D8%A1-%D8%AA%D8%AC%D9%88%D8%A8-%D8%B4%D8%A7%D8%B1%D8%B9-%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D8%A1-%D9%81%D9%89-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3-%D8%AF%D8%B9%D9%85%D9%8B%D8%A7-%D9%84%D9%84%D9%85%D9%83%D9%81%D9%88%D9%81%D9%8A%D9%86/7585762)"
+  },
+  {
+    "title": "迪拜土地在2026世博會展示為殘障人士打造的房地產解決方案",
+    "slug": "dubai-lands-showcases-realestate-solutions-for-people-of-determination-at-expo-2-zh-c8ed7cd1",
+    "lang": "zh-TW",
+    "summary": "迪拜土地推出旨在提升殘障人士生活品質的住宅與城市設計概念，展示包括無障礙技術與包容性設計的解決方案，於2026世博會亮相。",
+    "category": "assistive-tech",
+    "tags": [
+      "disability",
+      "UAE",
+      "accessible design",
+      "Expo 2026",
+      "assistive technology"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albayan.ae/economy/business/uae-economy/1559069",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albayan.ae/economy/business/uae-economy/1559069"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-c8ed7cd1",
+    "status": "published",
+    "translationOf": "dubai-lands-showcases-realestate-solutions-for-people-of-determination-at-expo-2-c8ed7cd1",
+    "publishedAt": "2026-10-19T14:58:00.000Z",
+    "fetchedAt": "2026-10-19T17:11:29.748Z",
+    "body": "迪拜土地推出旨在提升殘障人士生活品質的住宅與城市設計概念，展示包括無障礙技術與包容性設計的解決方案，於2026世博會亮相。\n\n原文來源： [news.google.com](https://www.albayan.ae/economy/business/uae-economy/1559069)"
+  },
+  {
+    "title": "民間聯盟呼籲政府成立殘疾人權利高級委員會",
+    "slug": "civil-alliance-urges-government-to-establish-a-high-commission-for-the-rights-of-zh-1fd064bc",
+    "lang": "zh-TW",
+    "summary": "民間聯盟呼籲政府成立負責殘疾人權利的高級委員會，以推動殘疾人士的權益保障。",
+    "category": "laws-rights",
+    "tags": [
+      "disability rights",
+      "advocacy",
+      "government"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://alyaoum24.com/2051454.html",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://alyaoum24.com/2051454.html"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-1fd064bc",
+    "status": "published",
+    "translationOf": "civil-alliance-urges-government-to-establish-a-high-commission-for-the-rights-of-1fd064bc",
+    "publishedAt": "2026-10-19T15:03:11.000Z",
+    "fetchedAt": "2026-10-19T17:12:32.976Z",
+    "body": "民間聯盟呼籲政府成立負責殘疾人權利的高級委員會，以推動殘疾人士的權益保障。\n\n原文來源： [news.google.com](https://alyaoum24.com/2051454.html)"
+  },
+  {
+    "title": "殘疾人奧運冠軍拉哈布· رضوان：將殘疾人士融入社會是發掘他們才能的必要條件",
+    "slug": "paralympic-champion-rahab-radwan-integrating-persons-with-disabilities-into-soci-zh-071336fd",
+    "lang": "zh-TW",
+    "summary": "殘疾人奧運冠軍拉哈布· رضwan指出，將殘疾人士融入社會才能發掘他們的才華，促進社會包容。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "Paralympic",
+      "inclusion",
+      "disability awareness"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://twaslnews1.twaslnews.com/6238212",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://twaslnews1.twaslnews.com/6238212"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-071336fd",
+    "status": "published",
+    "translationOf": "paralympic-champion-rahab-radwan-integrating-persons-with-disabilities-into-soci-071336fd",
+    "publishedAt": "2026-10-19T16:18:39.000Z",
+    "fetchedAt": "2026-10-19T17:12:33.076Z",
+    "body": "殘疾人奧運冠軍拉哈布· رضwan指出，將殘疾人士融入社會才能發掘他們的才華，促進社會包容。\n\n原文來源： [news.google.com](https://twaslnews1.twaslnews.com/6238212)"
+  },
+  {
+    "title": "迪拜警方在殘障人士博覽會上展示其創新與倡議",
+    "slug": "dubai-police-showcase-innovations-and-initiatives-at-expo-for-people-with-disabi-zh-17638602",
+    "lang": "zh-TW",
+    "summary": "迪拜警方在一場專為殘障人士舉辦的博覽會上展示了其創新倡議和服務，突顯了為有特殊需要的個體改進無障礙通行和安全方面的努力。",
+    "category": "general",
+    "tags": [
+      "dubai-police",
+      "innovations",
+      "special-needs",
+      "event"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.aletihad.ae/news/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/4699744/%D8%B4%D8%B1%D8%B7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1%D8%A7%D8%AA%D9%87%D8%A7-%D9%88%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%D9%87%D8%A7-%D9%81%D9%8A-%D8%A5%D9%83%D8%B3%D8%A8%D9%88-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.aletihad.ae/news/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/4699744/%D8%B4%D8%B1%D8%B7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1%D8%A7%D8%AA%D9%87%D8%A7-%D9%88%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%D9%87%D8%A7-%D9%81%D9%8A-%D8%A5%D9%83%D8%B3%D8%A8%D9%88-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-17638602",
+    "status": "published",
+    "translationOf": "dubai-police-showcase-innovations-and-initiatives-at-expo-for-people-with-disabi-17638602",
+    "publishedAt": "2026-10-18T21:33:06.000Z",
+    "fetchedAt": "2026-10-19T17:12:37.994Z",
+    "body": "迪拜警方在一場專為殘障人士舉辦的博覽會上展示了其創新倡議和服務，突顯了為有特殊需要的個體改進無障礙通行和安全方面的努力。\n\n原文來源： [news.google.com](https://www.aletihad.ae/news/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/4699744/%D8%B4%D8%B1%D8%B7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1%D8%A7%D8%AA%D9%87%D8%A7-%D9%88%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%D9%87%D8%A7-%D9%81%D9%8A-%D8%A5%D9%83%D8%B3%D8%A8%D9%88-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85)"
+  },
+  {
+    "title": "培養年輕人投身長者護理及殘障服務行業的重要性",
+    "slug": "importance-of-training-youth-for-careers-in-elder-care-and-disability-services-zh-2ee556f2",
+    "lang": "zh-TW",
+    "summary": "社會團結部強調了培養和準備年輕人從事長者護理及殘障服務行業職業的關鍵需求，旨在加強對這些弱勢群體的專業支持。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "youth-training",
+      "disability-care",
+      "elderly-care",
+      "workforce"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D9%85%D9%83%D8%AA%D8%A8%D8%A9-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA/%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8-%D9%88%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%87%D9%85-%D9%84%D9%84%D8%B9%D9%85%D9%84-%D9%81%D9%8A-%D9%85%D8%AC%D8%A7%D9%84%D9%8A-%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9-%D9%83%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B3%D9%86-%D9%88%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D9%85%D9%83%D8%AA%D8%A8%D8%A9-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA/%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8-%D9%88%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%87%D9%85-%D9%84%D9%84%D8%B9%D9%85%D9%84-%D9%81%D9%8A-%D9%85%D8%AC%D8%A7%D9%84%D9%8A-%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9-%D9%83%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B3%D9%86-%D9%88%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-2ee556f2",
+    "status": "published",
+    "translationOf": "importance-of-training-youth-for-careers-in-elder-care-and-disability-services-2ee556f2",
+    "publishedAt": "2026-10-19T08:37:29.000Z",
+    "fetchedAt": "2026-10-19T17:12:38.063Z",
+    "body": "社會團結部強調了培養和準備年輕人從事長者護理及殘障服務行業職業的關鍵需求，旨在加強對這些弱勢群體的專業支持。\n\n原文來源： [news.google.com](https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D9%85%D9%83%D8%AA%D8%A8%D8%A9-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA/%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8-%D9%88%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%87%D9%85-%D9%84%D9%84%D8%B9%D9%85%D9%84-%D9%81%D9%8A-%D9%85%D8%AC%D8%A7%D9%84%D9%8A-%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9-%D9%83%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B3%D9%86-%D9%88%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9)"
+  },
+  {
+    "title": "越南新聞網：利用人工智能為視障女性拓展教育和就業機會",
+    "slug": "vietnamvn-reports-on-using-ai-to-expand-educational-and-employment-opportunities-zh-9d6788cc",
+    "lang": "zh-TW",
+    "summary": "該文章討論了人工智能如何被用來為越南的失明或低視力女性創造新的教育與職業途徑。",
+    "category": "assistive-tech",
+    "tags": [
+      "AI",
+      "Visual Impairment",
+      "Education",
+      "Employment",
+      "Women"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.vietnam.vn/ar/dung-ai-mo-rong-co-hoi-hoc-tap-viec-lam-cho-phu-nu-khiem-thi",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.vietnam.vn/ar/dung-ai-mo-rong-co-hoi-hoc-tap-viec-lam-cho-phu-nu-khiem-thi"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-9d6788cc",
+    "status": "published",
+    "translationOf": "vietnamvn-reports-on-using-ai-to-expand-educational-and-employment-opportunities-9d6788cc",
+    "publishedAt": "2026-10-19T06:26:15.000Z",
+    "fetchedAt": "2026-10-19T17:12:51.008Z",
+    "body": "該文章討論了人工智能如何被用來為越南的失明或低視力女性創造新的教育與職業途徑。\n\n原文來源： [news.google.com](https://www.vietnam.vn/ar/dung-ai-mo-rong-co-hoi-hoc-tap-viec-lam-cho-phu-nu-khiem-thi)"
+  },
+  {
+    "title": "全國殘障事務委員會主任：埃及論壇是公民與官員對話的重要平台",
+    "slug": "head-of-national-council-for-persons-with-disabilities-egypt-forum-brings-citize-zh-bbd14e63",
+    "lang": "zh-TW",
+    "summary": "全國殘障事務委員會主任表示，埃及舉辦的論壇是一個促進公民與政府官員之間坦率對話的重要平台，有助於解決與殘障相關的問題。",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "policy",
+      "forum",
+      "dialogue"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.elbalad.news/7147916",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.elbalad.news/7147916"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-bbd14e63",
+    "status": "published",
+    "translationOf": "head-of-national-council-for-persons-with-disabilities-egypt-forum-brings-citize-bbd14e63",
+    "publishedAt": "2026-10-19T14:56:00.000Z",
+    "fetchedAt": "2026-10-19T17:12:56.121Z",
+    "body": "全國殘障事務委員會主任表示，埃及舉辦的論壇是一個促進公民與政府官員之間坦率對話的重要平台，有助於解決與殘障相關的問題。\n\n原文來源： [news.google.com](https://www.elbalad.news/7147916)"
+  },
+  {
+    "title": "多哈警務局在殘障人士博覽會展示相關倡議",
+    "slug": "dubai-police-showcase-initiatives-for-persons-with-disabilities-at-expo-zh-afbee573",
+    "lang": "zh-TW",
+    "summary": "多哈警務局在專門的殘障人士博覽會上展示了多項為殘障人士設計的倡議與服務，強調了執法部門在提升無障礙環境與支援方面的努力。",
+    "category": "digital-a11y",
+    "tags": [
+      "police",
+      "initatives",
+      "expo",
+      "accessibility"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.emaratalyoum.com/local-section/other/2026-10-19-1.2093829",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.emaratalyoum.com/local-section/other/2026-10-19-1.2093829"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-afbee573",
+    "status": "published",
+    "translationOf": "dubai-police-showcase-initiatives-for-persons-with-disabilities-at-expo-afbee573",
+    "publishedAt": "2026-10-19T00:01:00.000Z",
+    "fetchedAt": "2026-10-19T17:12:56.195Z",
+    "body": "多哈警務局在專門的殘障人士博覽會上展示了多項為殘障人士設計的倡議與服務，強調了執法部門在提升無障礙環境與支援方面的努力。\n\n原文來源： [news.google.com](https://www.emaratalyoum.com/local-section/other/2026-10-19-1.2093829)"
+  },
+  {
+    "title": "贝尼斯威夫学校启动白手杖重要性学生意识项目",
+    "slug": "beni-suef-schools-launch-awareness-program-on-the-importance-of-the-white-cane-f-zh-27ac3ab5",
+    "lang": "zh-TW",
+    "summary": "埃及贝尼斯威夫的学校实施了一项意识项目，向学生普及白手杖（盲人常用辅助工具及象征）的重要性。该倡议旨在培养普通学生对视障人士需求的同理心和理解。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "awareness",
+      "visually-impaired",
+      "white-cane",
+      "education",
+      "egypt"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.youm7.com/story/2026/10/19/%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A7%D9%84%D8%AA%D9%88%D8%B9%D9%8A%D8%A9-%D8%A8%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B5%D8%A7-%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D8%A1-%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D8%A8%D9%86%D9%89-%D8%B3%D9%88%D9%8A%D9%81/7585852",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.youm7.com/story/2026/10/19/%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A7%D9%84%D8%AA%D9%88%D8%B9%D9%8A%D8%A9-%D8%A8%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B5%D8%A7-%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D8%A1-%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D8%A8%D9%86%D9%89-%D8%B3%D9%88%D9%8A%D9%81/7585852"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-27ac3ab5",
+    "status": "published",
+    "translationOf": "beni-suef-schools-launch-awareness-program-on-the-importance-of-the-white-cane-f-27ac3ab5",
+    "publishedAt": "2026-10-19T13:30:00.000Z",
+    "fetchedAt": "2026-10-19T17:13:02.736Z",
+    "body": "埃及贝尼斯威夫的学校实施了一项意识项目，向学生普及白手杖（盲人常用辅助工具及象征）的重要性。该倡议旨在培养普通学生对视障人士需求的同理心和理解。\n\n原文來源： [news.google.com](https://www.youm7.com/story/2026/10/19/%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A7%D9%84%D8%AA%D9%88%D8%B9%D9%8A%D8%A9-%D8%A8%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B5%D8%A7-%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D8%A1-%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D8%A8%D9%86%D9%89-%D8%B3%D9%88%D9%8A%D9%81/7585852)"
+  },
+  {
+    "title": "迪拜警方为曼索里法拉利配备智能装置协助残障人士",
+    "slug": "dubai-police-equip-mansory-ferrari-with-smart-kit-for-people-with-disabilities-zh-e466f88e",
+    "lang": "zh-TW",
+    "summary": "迪拜警方为曼索里法拉利车辆配备了专为残障人士设计的智能装置。这一举措将专用技术整合到应急响应车辆中，以更好地支持有 accessibility 需求的人士。",
+    "category": "assistive-tech",
+    "tags": [
+      "smart-kit",
+      "ferrari",
+      "police",
+      "disability-assistance",
+      "dubai"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alkhaleej.ae/2026-10-19/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%B4%D8%B1%D8%B7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%AA%D8%AC%D9%87%D8%B2-%D9%81%D9%8A%D8%B1%D8%A7%D8%B1%D9%8A-%D9%85%D8%A7%D9%86%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D8%AD%D9%82%D9%8A%D8%A8%D8%A9-%D8%B0%D9%83%D9%8A%D8%A9-%D9%84%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alkhaleej.ae/2026-10-19/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%B4%D8%B1%D8%B7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%AA%D8%AC%D9%87%D8%B2-%D9%81%D9%8A%D8%B1%D8%A7%D8%B1%D9%8A-%D9%85%D8%A7%D9%86%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D8%AD%D9%82%D9%8A%D8%A8%D8%A9-%D8%B0%D9%83%D9%8A%D8%A9-%D9%84%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-e466f88e",
+    "status": "published",
+    "translationOf": "dubai-police-equip-mansory-ferrari-with-smart-kit-for-people-with-disabilities-e466f88e",
+    "publishedAt": "2026-10-19T14:40:21.000Z",
+    "fetchedAt": "2026-10-19T17:13:02.837Z",
+    "body": "迪拜警方为曼索里法拉利车辆配备了专为残障人士设计的智能装置。这一举措将专用技术整合到应急响应车辆中，以更好地支持有 accessibility 需求的人士。\n\n原文來源： [news.google.com](https://www.alkhaleej.ae/2026-10-19/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%B4%D8%B1%D8%B7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%AA%D8%AC%D9%87%D8%B2-%D9%81%D9%8A%D8%B1%D8%A7%D8%B1%D9%8A-%D9%85%D8%A7%D9%86%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D8%AD%D9%82%D9%8A%D8%A8%D8%A9-%D8%B0%D9%83%D9%8A%D8%A9-%D9%84%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85)"
+  },
+  {
+    "title": "海洲區青年聯盟推行「伙伴」模式支持殘疾青年",
+    "slug": "hai-chau-district-youth-union-implements-companion-model-to-support-youth-with-d-zh-b0c9d4d4",
+    "lang": "zh-TW",
+    "summary": "海洲區青年聯盟及協會正推行「伙伴」模式，旨在為殘疾青年提供直接支援及融入社會的機會。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability-support",
+      "community",
+      "youth",
+      "vietnam"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.vietnam.vn/ar/doan-hoi-phuong-hai-chau-trien-khai-mo-hinh-nguoi-ban-dong-hanh-ho-tro-thanh-nien-khuyet-tat",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.vietnam.vn/ar/doan-hoi-phuong-hai-chau-trien-khai-mo-hinh-nguoi-ban-dong-hanh-ho-tro-thanh-nien-khuyet-tat"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-b0c9d4d4",
+    "status": "published",
+    "translationOf": "hai-chau-district-youth-union-implements-companion-model-to-support-youth-with-d-b0c9d4d4",
+    "publishedAt": "2026-10-19T04:06:17.000Z",
+    "fetchedAt": "2026-10-19T17:13:09.538Z",
+    "body": "海洲區青年聯盟及協會正推行「伙伴」模式，旨在為殘疾青年提供直接支援及融入社會的機會。\n\n原文來源： [news.google.com](https://www.vietnam.vn/ar/doan-hoi-phuong-hai-chau-trien-khai-mo-hinh-nguoi-ban-dong-hanh-ho-tro-thanh-nien-khuyet-tat)"
   }
 ]
