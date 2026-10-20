@@ -236,5 +236,38 @@
     "publishedAt": "2025-10-01T07:00:00.000Z",
     "fetchedAt": "2026-10-07T23:18:59.429Z",
     "body": "羅徹斯特理工學院教授在會議上展示專為視障人士設計的輔助技術，旨在提升他們的生活品質與資訊存取。\n\n原文來源： [news.google.com](https://sharjah24.ae/ar/Articles/2025/10/01/RIT-prof-showcases-assistive-tech-for-VIPs-at-KF-conference)"
+  },
+  {
+    "title": "哈巴爾市建設73公里人行道強化無障礙通行",
+    "slug": "al-khobar-expands-pedestrian-walkways-for-comprehensive-access-zh-610a24c6",
+    "lang": "zh-TW",
+    "summary": "哈巴爾市透過總長73公里的人行道建設，強化無障礙通行與實體無障礙設計。",
+    "category": "physical-design",
+    "tags": [
+      "urban-planning",
+      "pedestrians",
+      "infrastructure"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://alraynews.net/6724932.htm",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://alraynews.net/6724932.htm"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84+%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-610a24c6",
+    "status": "published",
+    "translationOf": "al-khobar-expands-pedestrian-walkways-for-comprehensive-access-610a24c6",
+    "publishedAt": "2025-10-15T07:00:00.000Z",
+    "fetchedAt": "2026-10-20T21:51:21.035Z",
+    "body": "哈巴爾市透過總長73公里的人行道建設，強化無障礙通行與實體無障礙設計。\n\n原文來源： [news.google.com](https://alraynews.net/6724932.htm)"
   }
 ]
