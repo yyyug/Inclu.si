@@ -12151,5 +12151,140 @@
         }
       ]
     }
+  },
+  "2026-10-20": {
+    "generatedAt": "2026-10-20T14:15:39.617Z",
+    "en": {
+      "title": "Google Launches Guided Vision for Blind Users, Taichung Housing Subsidy Deadline",
+      "summary": "Google announced the launch of Guided Vision in Gemini Live for Android, a feature shaped by over 1,000 blind testers to improve real-time visual assistance for users with low vision. Additionally, the Taichung City government has reminded residents that the deadline for applying for accessibility subsidies for collective housing is October 31, with funding covering up to 45% of costs. The digest also highlights concerns regarding increased hate speech against people with disabilities and a major update to the Stepper app for accessibility.",
+      "highlights": [
+        {
+          "title": "How 1,000+ Blind Testers Shaped Gemini Live’s Vision Feature",
+          "slug": "how-1000-blind-testers-shaped-gemini-lives-vision-feature-d06010bf",
+          "url": "https://aira.io/how-1000-blind-testers-brought-gemini-lives-vision-into-focus"
+        },
+        {
+          "title": "Taichung Collective Housing Accessibility Subsidy Deadline October 31, Up to 45% or NT$360,000–2,160,000",
+          "slug": "taichung-collective-housing-accessibility-subsidy-deadline-october-31-up-to-45-o-e7b09c08",
+          "url": "https://news.org.tw/taichung-housing-accessibility-subsidy-oct31-2026"
+        },
+        {
+          "title": "Concerns Over Increased Hate Toward People with Disabilities",
+          "slug": "concerns-over-increased-hate-toward-people-with-disabilities-5187480d",
+          "url": "https://x.com/maimeropiano07/status/2112539957898387885"
+        },
+        {
+          "title": "Stepper App Accessibility Update",
+          "slug": "stepper-app-accessibility-update-443672fa",
+          "url": "https://x.com/_anaVy/status/2112541146580697458"
+        },
+        {
+          "title": "Input Lag Issues with Braille Keyboards on Apple Devices",
+          "slug": "input-lag-issues-with-braille-keyboards-on-apple-devices-bd3a0512",
+          "url": "https://x.com/omit_de_vomit/status/2112540916754030716"
+        },
+        {
+          "title": "Bus station accessibility facilities reported inconvenient; Yinchuan adjusts volume and adds special line",
+          "slug": "bus-station-accessibility-facilities-reported-inconvenient-yinchuan-adjusts-volu-8ce1e895",
+          "url": "http://nx.people.com.cn/BIG5/n2/2026/1020/c192493-41727003.html"
+        },
+        {
+          "title": "Boca Raton Launches Community Accessibility Program for Adaptive Recreation at Patch Reef Park",
+          "slug": "boca-raton-launches-community-accessibility-program-for-adaptive-recreation-at-p-ee7b7b30",
+          "url": "https://bocapost.com/boca-raton-news/boca-raton-community-accessibility-program-patch-reef-park"
+        },
+        {
+          "title": "Atech: A Hardware AppStore for Accessibility",
+          "slug": "atech-a-hardware-appstore-for-accessibility-54780a4d",
+          "url": "https://x.com/Gustav_Hugod/status/2112296747141853671"
+        },
+        {
+          "title": "National Disability Employment Awareness Month",
+          "slug": "national-disability-employment-awareness-month-341fb89b",
+          "url": "https://x.com/SenTimKaine/status/2112540239394930728"
+        },
+        {
+          "title": "Can AI Write Accessible Code?",
+          "slug": "can-ai-write-accessible-code-03d47944",
+          "url": "https://www.sitepoint.com/can-ai-write-accessible-code"
+        },
+        {
+          "title": "Accessible Dice for Diverse Player Needs",
+          "slug": "accessible-dice-for-diverse-player-needs-6efb9659",
+          "url": "https://x.com/BlindNewWorld/status/2112295611546665293"
+        },
+        {
+          "title": "50,000 JOD allocated for disability parking in Bani Ubaid",
+          "slug": "50000-jod-allocated-for-disability-parking-in-bani-ubaid-faab9bfc",
+          "url": "https://alrai.com/article/10982114/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/50-%D8%A3%D9%84%D9%81-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-%D9%84%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D8%B1%D9%85%D8%A8%D8%A7%D8%AA-%D9%84%D9%83%D8%B1%D8%A7%D8%B3%D9%8A-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%81%D9%8A-%D8%A8%D9%86%D9%8A-%D8%B9%D8%A8%D9%8A%D8%AF"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "Google推出盲人專用導引視覺功能，臺中無障礙住宅補助明起截止",
+      "summary": "Google 宣布在 Android 版 Gemini Live 推出「導引視覺」功能，該功能經過超過 1,000 名視障測試者回饋優化，旨在提升低視力使用者的即時視覺輔助體驗。同時，臺中市提醒居民集合住宅無障礙補助申請將於 10 月 31 日截止，最高補助比例達 45%。本期摘要亦關注社群媒體上針對殘障人士仇恨言論增加的憂慮，以及 Stepper 應用程式在無障礙設計上的重大更新。",
+      "highlights": [
+        {
+          "title": "超過1000位盲測試者如何塑造Gemini Live的視覺功能",
+          "slug": "how-1000-blind-testers-shaped-gemini-lives-vision-feature-zh-d06010bf",
+          "url": "https://aira.io/how-1000-blind-testers-brought-gemini-lives-vision-into-focus"
+        },
+        {
+          "title": "臺中集合住宅無障礙補助10月31日截止 最高45%、36萬至216萬",
+          "slug": "taichung-collective-housing-accessibility-subsidy-deadline-october-31-up-to-45-o-zh-e7b09c08",
+          "url": "https://news.org.tw/taichung-housing-accessibility-subsidy-oct31-2026"
+        },
+        {
+          "title": "對殘障人士仇恨增加的擔憂",
+          "slug": "concerns-over-increased-hate-toward-people-with-disabilities-zh-5187480d",
+          "url": "https://x.com/maimeropiano07/status/2112539957898387885"
+        },
+        {
+          "title": "Stepper 應用程式無障礙更新",
+          "slug": "stepper-app-accessibility-update-zh-443672fa",
+          "url": "https://x.com/_anaVy/status/2112541146580697458"
+        },
+        {
+          "title": "蘋果設備上點字鍵盤的輸入延遲問題",
+          "slug": "input-lag-issues-with-braille-keyboards-on-apple-devices-zh-bd3a0512",
+          "url": "https://x.com/omit_de_vomit/status/2112540916754030716"
+        },
+        {
+          "title": "有回音丨網友反映公交站台無障礙設施不便 寧夏銀川：已調試音量並增開專線",
+          "slug": "bus-station-accessibility-facilities-reported-inconvenient-yinchuan-adjusts-volu-zh-8ce1e895",
+          "url": "http://nx.people.com.cn/BIG5/n2/2026/1020/c192493-41727003.html"
+        },
+        {
+          "title": "博卡拉頓推出社區無障礙適應性休閒計畫，位於Patch Reef Park",
+          "slug": "boca-raton-launches-community-accessibility-program-for-adaptive-recreation-at-p-zh-ee7b7b30",
+          "url": "https://bocapost.com/boca-raton-news/boca-raton-community-accessibility-program-patch-reef-park"
+        },
+        {
+          "title": "Atech：無障礙硬體應用商店",
+          "slug": "atech-a-hardware-appstore-for-accessibility-zh-54780a4d",
+          "url": "https://x.com/Gustav_Hugod/status/2112296747141853671"
+        },
+        {
+          "title": "全國殘障就業宣導月",
+          "slug": "national-disability-employment-awareness-month-zh-341fb89b",
+          "url": "https://x.com/SenTimKaine/status/2112540239394930728"
+        },
+        {
+          "title": "AI 能寫出無障礙程式碼嗎？",
+          "slug": "can-ai-write-accessible-code-zh-03d47944",
+          "url": "https://www.sitepoint.com/can-ai-write-accessible-code"
+        },
+        {
+          "title": "適合多樣玩家需求的無障礙骰子",
+          "slug": "accessible-dice-for-diverse-player-needs-zh-6efb9659",
+          "url": "https://x.com/BlindNewWorld/status/2112295611546665293"
+        },
+        {
+          "title": "阿爾巴尼·烏貝德殘疾人停車位建設撥款5萬第納爾",
+          "slug": "50000-jod-allocated-for-disability-parking-in-bani-ubaid-zh-faab9bfc",
+          "url": "https://alrai.com/article/10982114/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/50-%D8%A3%D9%84%D9%81-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-%D9%84%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D8%B1%D9%85%D8%A8%D8%A7%D8%AA-%D9%84%D9%83%D8%B1%D8%A7%D8%B3%D9%8A-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%81%D9%8A-%D8%A8%D9%86%D9%8A-%D8%B9%D8%A8%D9%8A%D8%AF"
+        }
+      ]
+    }
   }
 }
