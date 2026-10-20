@@ -70801,5 +70801,854 @@
     "publishedAt": "2026-10-20T13:41:02.000Z",
     "fetchedAt": "2026-10-20T13:53:20.610Z",
     "body": "A post discussing the use of the internet as a space for interaction between University of Tokyo graduates and individuals with intellectual disabilities.\nTweet source: [とむ (@sarveltiger)](https://x.com/sarveltiger/status/2112539590389326182)"
+  },
+  {
+    "title": "Launch of Handi'Talents at Bercy: Supporting Employees with Disabilities",
+    "slug": "launch-of-handitalents-at-bercy-supporting-employees-with-disabilities-ba9c233f",
+    "lang": "en",
+    "summary": "The French Ministry of Economy and Finance has launched 'Handi'Talents,' a program designed to support 25 civil servants with disabilities. This initiative stems from the 2023 National Strategy for Disability (CNH 2023) and focuses on improving the professional integration and support for public sector employees with disabilities, though it is currently limited in the number of beneficiaries.",
+    "category": "laws-rights",
+    "tags": [
+      "employment",
+      "government-policy",
+      "inclusion",
+      "france"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-emploi-lancement-de-handi-talents-a-bercy-39879.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-emploi-lancement-de-handi-talents-a-bercy-39879.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-ba9c233f",
+    "status": "published",
+    "translationOf": "launch-of-handitalents-at-bercy-supporting-employees-with-disabilities-zh-ba9c233f",
+    "publishedAt": "2026-10-20T13:55:42.000Z",
+    "fetchedAt": "2026-10-20T15:21:51.924Z",
+    "body": "The French Ministry of Economy and Finance has launched 'Handi'Talents,' a program designed to support 25 civil servants with disabilities. This initiative stems from the 2023 National Strategy for Disability (CNH 2023) and focuses on improving the professional integration and support for public sector employees with disabilities, though it is currently limited in the number of beneficiaries.\n\nRead more from the original source: [handicap.fr](https://informations.handicap.fr/a-emploi-lancement-de-handi-talents-a-bercy-39879.php)"
+  },
+  {
+    "title": "Paris Web 2026: Preparing for RGAA 5 and WCAG 2.2 Integration",
+    "slug": "paris-web-2026-preparing-for-rgaa-5-and-wcag-22-integration-4d6e090a",
+    "lang": "en",
+    "summary": "The article discusses the upcoming Paris Web 2026 event and the need to update French accessibility standards (RGAA 4) to RGAA 5. It highlights that current standards do not fully transpose the European standard EN 301 549, which now includes the international WCAG 2.2 guidelines, emphasizing the importance of digital accessibility compliance for web professionals.",
+    "category": "digital-a11y",
+    "tags": [
+      "web-accessibility",
+      "wcag-2.2",
+      "rgaa",
+      "standards",
+      "france"
+    ],
+    "sourceName": "access42.net",
+    "sourceUrl": "https://access42.net/paris-web-2026-preparer-rgaa-5",
+    "relatedSources": [
+      {
+        "name": "access42.net",
+        "url": "https://access42.net/paris-web-2026-preparer-rgaa-5"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://access42.net/feed",
+    "ingestProvider": "access42.net",
+    "originalLang": "fr",
+    "clusterId": "cluster-4d6e090a",
+    "status": "published",
+    "translationOf": "paris-web-2026-preparing-for-rgaa-5-and-wcag-22-integration-zh-4d6e090a",
+    "publishedAt": "2026-10-20T06:42:05.000Z",
+    "fetchedAt": "2026-10-20T15:21:52.043Z",
+    "body": "The article discusses the upcoming Paris Web 2026 event and the need to update French accessibility standards (RGAA 4) to RGAA 5. It highlights that current standards do not fully transpose the European standard EN 301 549, which now includes the international WCAG 2.2 guidelines, emphasizing the importance of digital accessibility compliance for web professionals.\n\nRead more from the original source: [access42.net](https://access42.net/paris-web-2026-preparer-rgaa-5)"
+  },
+  {
+    "title": "Sixth Edition of 'When It's Time to Move': Supporting Young People with Intellectual Disabilities on the Camino de Santiago",
+    "slug": "sixth-edition-of-when-its-time-to-move-supporting-young-people-with-intellectual-a7b9b50c",
+    "lang": "en",
+    "summary": "The foundation A LA PAR, supported by company Alquiber, has launched the sixth edition of 'When It's Time to Move,' a solidarity project enabling young people with intellectual or developmental disabilities to pilgrimage from Madrid to Santiago de Compostela. The initiative focuses on inclusion, independence, and social visibility, providing logistical and mobility support for the 60-kilometer journey.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "intellectual-disability",
+      "inclusion",
+      "spiritual-tourism",
+      "social-responsibility",
+      "spain"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/ya-esta-en-marcha-la-sexta-edicion-de-cuando-hace-falta-moverse",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/ya-esta-en-marcha-la-sexta-edicion-de-cuando-hace-falta-moverse"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-a7b9b50c",
+    "status": "published",
+    "translationOf": "sixth-edition-of-when-its-time-to-move-supporting-young-people-with-intellectual-zh-a7b9b50c",
+    "publishedAt": "2026-10-20T10:33:56.000Z",
+    "fetchedAt": "2026-10-20T15:21:52.131Z",
+    "body": "The foundation A LA PAR, supported by company Alquiber, has launched the sixth edition of 'When It's Time to Move,' a solidarity project enabling young people with intellectual or developmental disabilities to pilgrimage from Madrid to Santiago de Compostela. The initiative focuses on inclusion, independence, and social visibility, providing logistical and mobility support for the 60-kilometer journey.\n\nRead more from the original source: [discapnet.es](https://www.discapnet.es/noticia/ya-esta-en-marcha-la-sexta-edicion-de-cuando-hace-falta-moverse)"
+  },
+  {
+    "title": "Calligrapher Fattana Chali: Creativity Does Not Recognize Disability But Competence and Contribution",
+    "slug": "calligrapher-fattana-chali-creativity-does-not-recognize-disability-but-competen-8644ea51",
+    "lang": "en",
+    "summary": "Calligrapher Fattana Chali shares her aspiration to copy the Holy Quran, emphasizing that creativity is defined by competence and contribution rather than disability. The article highlights her personal journey and achievement as an individual with a disability, serving as an inspirational case study.",
+    "category": "case-studies",
+    "tags": [
+      "disability-empowerment",
+      "art",
+      "calligraphy",
+      "inspiration"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://eldjanoubelkabir.dz/%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D8%B7%D8%A9-%D9%81%D8%A7%D8%B7%D9%86%D8%A9-%D8%B4%D9%84%D8%A7%D9%84%D9%8A-%D8%A3%D8%B7%D9%85%D8%AD-%D8%A5%D9%84%D9%89-%D9%83%D8%AA%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://eldjanoubelkabir.dz/%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D8%B7%D8%A9-%D9%81%D8%A7%D8%B7%D9%86%D8%A9-%D8%B4%D9%84%D8%A7%D9%84%D9%8A-%D8%A3%D8%B7%D9%85%D8%AD-%D8%A5%D9%84%D9%89-%D9%83%D8%AA%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-8644ea51",
+    "status": "published",
+    "translationOf": "calligrapher-fattana-chali-creativity-does-not-recognize-disability-but-competen-zh-8644ea51",
+    "publishedAt": "2026-10-20T13:38:17.000Z",
+    "fetchedAt": "2026-10-20T15:22:04.820Z",
+    "body": "Calligrapher Fattana Chali shares her aspiration to copy the Holy Quran, emphasizing that creativity is defined by competence and contribution rather than disability. The article highlights her personal journey and achievement as an individual with a disability, serving as an inspirational case study.\n\nRead more from the original source: [news.google.com](https://eldjanoubelkabir.dz/%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D8%B7%D8%A9-%D9%81%D8%A7%D8%B7%D9%86%D8%A9-%D8%B4%D9%84%D8%A7%D9%84%D9%8A-%D8%A3%D8%B7%D9%85%D8%AD-%D8%A5%D9%84%D9%89-%D9%83%D8%AA%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84)"
+  },
+  {
+    "title": "Northern Governor Meets with Chairman of the Bahraini Caretakers Society for Persons with Disabilities",
+    "slug": "northern-governor-meets-with-chairman-of-the-bahraini-caretakers-society-for-per-87b1db75",
+    "lang": "en",
+    "summary": "The Governor of the Northern Governorate in Bahrain met with the Chairman of the Board of Directors of the Bahraini Caretakers Society for Persons with Disabilities. The meeting likely discussed the needs of caregivers and support systems for individuals with disabilities, focusing on community and institutional support.",
+    "category": "general",
+    "tags": [
+      "caregivers",
+      "disability-rights",
+      "bahrain",
+      "government-meeting"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://twaslnews1.twaslnews.com/6280394",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://twaslnews1.twaslnews.com/6280394"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-87b1db75",
+    "status": "published",
+    "translationOf": "northern-governor-meets-with-chairman-of-the-bahraini-caretakers-society-for-per-zh-87b1db75",
+    "publishedAt": "2026-10-20T10:41:56.000Z",
+    "fetchedAt": "2026-10-20T15:22:04.931Z",
+    "body": "The Governor of the Northern Governorate in Bahrain met with the Chairman of the Board of Directors of the Bahraini Caretakers Society for Persons with Disabilities. The meeting likely discussed the needs of caregivers and support systems for individuals with disabilities, focusing on community and institutional support.\n\nRead more from the original source: [news.google.com](https://twaslnews1.twaslnews.com/6280394)"
+  },
+  {
+    "title": "Family Ministry: 49,000 Persons with Disabilities in UAE and 7 Early Intervention Centers",
+    "slug": "family-ministry-49000-persons-with-disabilities-in-uae-and-7-early-intervention--0136d3e6",
+    "lang": "en",
+    "summary": "The UAE Family Ministry reported that there are 49,000 persons with disabilities in the country. The report also highlighted the establishment of 7 early intervention centers designed to support children with disabilities from a young age, improving their developmental outcomes and accessibility to care services.",
+    "category": "laws-rights",
+    "tags": [
+      "uae",
+      "disability-statistics",
+      "early-intervention",
+      "policy"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.emaratalyoum.com/local-section/other/2026-10-20-1.2094185",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.emaratalyoum.com/local-section/other/2026-10-20-1.2094185"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-0136d3e6",
+    "status": "published",
+    "translationOf": "family-ministry-49000-persons-with-disabilities-in-uae-and-7-early-intervention--zh-0136d3e6",
+    "publishedAt": "2026-10-20T00:05:00.000Z",
+    "fetchedAt": "2026-10-20T15:22:05.018Z",
+    "body": "The UAE Family Ministry reported that there are 49,000 persons with disabilities in the country. The report also highlighted the establishment of 7 early intervention centers designed to support children with disabilities from a young age, improving their developmental outcomes and accessibility to care services.\n\nRead more from the original source: [news.google.com](https://www.emaratalyoum.com/local-section/other/2026-10-20-1.2094185)"
+  },
+  {
+    "title": "Caring Siblings: Cécilia and Emmanuelle's Mutual Support",
+    "slug": "caring-siblings-cecilia-and-emmanuelles-mutual-support-a5049e2e",
+    "lang": "en",
+    "summary": "A feature from Handicap.fr highlights the experiences of Cécilia and Emmanuelle, siblings supporting a family member with a disability, exploring the complex dynamics and mutual support within their family.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "caregiving",
+      "family-support",
+      "handicap.fr"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-fratrie-aidante-cecilia-et-emmanuelle-un-soutien-mutuel-39875.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-fratrie-aidante-cecilia-et-emmanuelle-un-soutien-mutuel-39875.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-a5049e2e",
+    "status": "published",
+    "translationOf": "caring-siblings-cecilia-and-emmanuelles-mutual-support-zh-a5049e2e",
+    "publishedAt": "2026-10-20T07:00:29.000Z",
+    "fetchedAt": "2026-10-20T15:22:37.022Z",
+    "body": "A feature from Handicap.fr highlights the experiences of Cécilia and Emmanuelle, siblings supporting a family member with a disability, exploring the complex dynamics and mutual support within their family.\n\nRead more from the original source: [handicap.fr](https://informations.handicap.fr/a-fratrie-aidante-cecilia-et-emmanuelle-un-soutien-mutuel-39875.php)"
+  },
+  {
+    "title": "Deaf People in Spain Advocate for Accessible Tourism and Leisure Rights",
+    "slug": "deaf-people-in-spain-advocate-for-accessible-tourism-and-leisure-rights-afea545a",
+    "lang": "en",
+    "summary": "100 deaf individuals from across Spain participated in a tourism program in Asturias, highlighting the need for sign language interpretation and autonomous access to cultural and leisure activities. The initiative, led by FESOPRAS and CNSE, references Spanish Law 27/2007 to demand that accessibility be a guaranteed right in tourism planning rather than an exception.",
+    "category": "laws-rights",
+    "tags": [
+      "deaf",
+      "sign-language",
+      "tourism",
+      "law",
+      "spain"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/las-personas-sordas-reivindican-su-derecho-un-ocio-accesible",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/las-personas-sordas-reivindican-su-derecho-un-ocio-accesible"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-afea545a",
+    "status": "published",
+    "translationOf": "deaf-people-in-spain-advocate-for-accessible-tourism-and-leisure-rights-zh-afea545a",
+    "publishedAt": "2026-10-20T09:59:59.000Z",
+    "fetchedAt": "2026-10-20T15:23:42.657Z",
+    "body": "100 deaf individuals from across Spain participated in a tourism program in Asturias, highlighting the need for sign language interpretation and autonomous access to cultural and leisure activities. The initiative, led by FESOPRAS and CNSE, references Spanish Law 27/2007 to demand that accessibility be a guaranteed right in tourism planning rather than an exception.\n\nRead more from the original source: [discapnet.es](https://www.discapnet.es/noticia/las-personas-sordas-reivindican-su-derecho-un-ocio-accesible)"
+  },
+  {
+    "title": "Disability Card in Morocco: Train Discounts Face Facility Limitations and Usage Timing Issues",
+    "slug": "disability-card-in-morocco-train-discounts-face-facility-limitations-and-usage-t-86b83701",
+    "lang": "en",
+    "summary": "This article discusses the practical challenges associated with the disability card in Morocco, specifically noting conflicts between discounted train fares, facility requirements, and the specific time windows during which benefits can be utilized.",
+    "category": "laws-rights",
+    "tags": [
+      "disability-card",
+      "morocco",
+      "transport",
+      "rights"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://madar21.com/460791.html",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://madar21.com/460791.html"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-86b83701",
+    "status": "published",
+    "translationOf": "disability-card-in-morocco-train-discounts-face-facility-limitations-and-usage-t-zh-86b83701",
+    "publishedAt": "2026-10-20T09:01:02.000Z",
+    "fetchedAt": "2026-10-20T15:23:42.769Z",
+    "body": "This article discusses the practical challenges associated with the disability card in Morocco, specifically noting conflicts between discounted train fares, facility requirements, and the specific time windows during which benefits can be utilized.\n\nRead more from the original source: [news.google.com](https://madar21.com/460791.html)"
+  },
+  {
+    "title": "Arab League Participates in Dubai International Expo for People with Disabilities to Promote Empowerment",
+    "slug": "arab-league-participates-in-dubai-international-expo-for-people-with-disabilitie-addb5c50",
+    "lang": "en",
+    "summary": "The Arab League is participating in the \"Expo of People with Determination International\" in Dubai, an event aimed at enhancing the empowerment and inclusion of individuals with disabilities through international collaboration and advocacy.",
+    "category": "general",
+    "tags": [
+      "arab-league",
+      "dubai",
+      "expo",
+      "empowerment",
+      "inclusion"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://gate.ahram.org.eg/News/5968643.aspx",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://gate.ahram.org.eg/News/5968643.aspx"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-addb5c50",
+    "status": "published",
+    "translationOf": "arab-league-participates-in-dubai-international-expo-for-people-with-disabilitie-zh-addb5c50",
+    "publishedAt": "2026-10-20T13:32:00.000Z",
+    "fetchedAt": "2026-10-20T15:23:42.855Z",
+    "body": "The Arab League is participating in the \"Expo of People with Determination International\" in Dubai, an event aimed at enhancing the empowerment and inclusion of individuals with disabilities through international collaboration and advocacy.\n\nRead more from the original source: [news.google.com](https://gate.ahram.org.eg/News/5968643.aspx)"
+  },
+  {
+    "title": "Database established to register individuals with disabilities in Dubai",
+    "slug": "database-established-to-register-individuals-with-disabilities-in-dubai-12ddc200",
+    "lang": "en",
+    "summary": "A new database has been launched in Dubai to census and register people of determination (individuals with disabilities), aiming to support them and improve service provision.",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "dubai",
+      "database",
+      "rights"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albayan.ae/news/uae/dubai/1559153",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albayan.ae/news/uae/dubai/1559153"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-12ddc200",
+    "status": "published",
+    "translationOf": "database-established-to-register-individuals-with-disabilities-in-dubai-zh-12ddc200",
+    "publishedAt": "2026-10-19T18:50:00.000Z",
+    "fetchedAt": "2026-10-20T15:23:47.984Z",
+    "body": "A new database has been launched in Dubai to census and register people of determination (individuals with disabilities), aiming to support them and improve service provision.\n\nRead more from the original source: [news.google.com](https://www.albayan.ae/news/uae/dubai/1559153)"
+  },
+  {
+    "title": "Cyclist Muhammad Valadli Wins Gold at 2026 Asian Para Games, Breaks China's Record",
+    "slug": "cyclist-muhammad-valadli-wins-gold-at-2026-asian-para-games-breaks-chinas-record-23b73b3d",
+    "lang": "en",
+    "summary": "Cyclist Muhammad Valadli secured a gold medal at the 2026 Asian Para Games, setting a new performance record that surpassed previous achievements by Chinese athletes. This highlight a high-level competitive sporting achievement within the disability community.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "sports",
+      "asian-para-games",
+      "achievement"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://voi.id/ar/sports/599277",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://voi.id/ar/sports/599277"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-23b73b3d",
+    "status": "published",
+    "translationOf": "cyclist-muhammad-valadli-wins-gold-at-2026-asian-para-games-breaks-chinas-record-zh-23b73b3d",
+    "publishedAt": "2026-10-20T15:08:51.000Z",
+    "fetchedAt": "2026-10-20T15:23:59.461Z",
+    "body": "Cyclist Muhammad Valadli secured a gold medal at the 2026 Asian Para Games, setting a new performance record that surpassed previous achievements by Chinese athletes. This highlight a high-level competitive sporting achievement within the disability community.\n\nRead more from the original source: [news.google.com](https://voi.id/ar/sports/599277)"
+  },
+  {
+    "title": "Sohag University Celebrates World White Cane Day to Empower Students with Disabilities",
+    "slug": "sohag-university-celebrates-world-white-cane-day-to-empower-students-with-disabi-e0928e60",
+    "lang": "en",
+    "summary": "Sohag University is holding events for World White Cane Day to support and empower students with disabilities, highlighting the importance of accessibility and inclusion in educational settings.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "World White Cane Day",
+      "University",
+      "Disability Empowerment"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.elwatannews.com/news/details/8380928",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.elwatannews.com/news/details/8380928"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-e0928e60",
+    "status": "published",
+    "translationOf": "sohag-university-celebrates-world-white-cane-day-to-empower-students-with-disabi-zh-e0928e60",
+    "publishedAt": "2026-10-20T11:48:00.000Z",
+    "fetchedAt": "2026-10-20T15:24:16.577Z",
+    "body": "Sohag University is holding events for World White Cane Day to support and empower students with disabilities, highlighting the importance of accessibility and inclusion in educational settings.\n\nRead more from the original source: [news.google.com](https://www.elwatannews.com/news/details/8380928)"
+  },
+  {
+    "title": "'Creating with Our Hands' Showcases the Talents of People with Disabilities",
+    "slug": "creating-with-our-hands-showcases-the-talents-of-people-with-disabilities-0188e464",
+    "lang": "en",
+    "summary": "An event titled 'Creating with Our Hands' highlights the artistic achievements and creativity of individuals with disabilities, promoting their capabilities and cultural participation.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "Art",
+      "Disability Advocacy",
+      "Inclusion"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.wam.ae/ar/article/c2u6hjr-%C2%AB%D8%A8%D8%A3%D9%86%D8%A7%D9%85%D9%84%D9%86%D8%A7-%D9%86%D8%A8%D8%AF%D8%B9%C2%BB-%D8%AA%D8%A8%D8%B1%D8%B2-%D8%A5%D8%A8%D8%AF%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.wam.ae/ar/article/c2u6hjr-%C2%AB%D8%A8%D8%A3%D9%86%D8%A7%D9%85%D9%84%D9%86%D8%A7-%D9%86%D8%A8%D8%AF%D8%B9%C2%BB-%D8%AA%D8%A8%D8%B1%D8%B2-%D8%A5%D8%A8%D8%AF%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-0188e464",
+    "status": "published",
+    "translationOf": "creating-with-our-hands-showcases-the-talents-of-people-with-disabilities-zh-0188e464",
+    "publishedAt": "2026-10-20T11:29:15.000Z",
+    "fetchedAt": "2026-10-20T15:24:16.693Z",
+    "body": "An event titled 'Creating with Our Hands' highlights the artistic achievements and creativity of individuals with disabilities, promoting their capabilities and cultural participation.\n\nRead more from the original source: [news.google.com](https://www.wam.ae/ar/article/c2u6hjr-%C2%AB%D8%A8%D8%A3%D9%86%D8%A7%D9%85%D9%84%D9%86%D8%A7-%D9%86%D8%A8%D8%AF%D8%B9%C2%BB-%D8%AA%D8%A8%D8%B1%D8%B2-%D8%A5%D8%A8%D8%AF%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85)"
+  },
+  {
+    "title": "Ministry of Labor Announces Continued Acceptance of Children with Intellectual Disabilities in Rehabilitation Institutes",
+    "slug": "ministry-of-labor-announces-continued-acceptance-of-children-with-intellectual-d-93332032",
+    "lang": "en",
+    "summary": "The Ministry of Labor confirmed that it will continue accepting children with intellectual disabilities in its rehabilitation institutes, highlighting ongoing support for this demographic.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "intellectual-disability",
+      "rehabilitation",
+      "policy",
+      "arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://almaalomah.me/news/147690/local/%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D9%82%D8%A8%D9%88%D9%84-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B0%D9%87%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%B9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://almaalomah.me/news/147690/local/%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D9%82%D8%A8%D9%88%D9%84-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B0%D9%87%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%B9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-93332032",
+    "status": "published",
+    "translationOf": "ministry-of-labor-announces-continued-acceptance-of-children-with-intellectual-d-zh-93332032",
+    "publishedAt": "2026-10-20T12:57:41.000Z",
+    "fetchedAt": "2026-10-20T15:25:13.110Z",
+    "body": "The Ministry of Labor confirmed that it will continue accepting children with intellectual disabilities in its rehabilitation institutes, highlighting ongoing support for this demographic.\n\nRead more from the original source: [news.google.com](https://almaalomah.me/news/147690/local/%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D9%82%D8%A8%D9%88%D9%84-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B0%D9%87%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%B9)"
+  },
+  {
+    "title": "Dubai Police Equip Mansory Ferrari with Smart Bag for People of Determination",
+    "slug": "dubai-police-equip-mansory-ferrari-with-smart-bag-for-people-of-determination-49a36e8d",
+    "lang": "en",
+    "summary": "Dubai Police has equipped a Mansory Ferrari with a smart bag designed to serve individuals with disabilities, referred to as 'People of Determination' in the UAE, enhancing accessibility and support for those in need.",
+    "category": "assistive-tech",
+    "tags": [
+      "dubai",
+      "ferrari",
+      "smart-bag",
+      "people-of-determination",
+      "accessibility"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.emaratalyoum.com/local-section/other/2026-10-20-1.2094118",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.emaratalyoum.com/local-section/other/2026-10-20-1.2094118"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-49a36e8d",
+    "status": "published",
+    "translationOf": "dubai-police-equip-mansory-ferrari-with-smart-bag-for-people-of-determination-zh-49a36e8d",
+    "publishedAt": "2026-10-19T20:28:17.000Z",
+    "fetchedAt": "2026-10-20T15:25:32.007Z",
+    "body": "Dubai Police has equipped a Mansory Ferrari with a smart bag designed to serve individuals with disabilities, referred to as 'People of Determination' in the UAE, enhancing accessibility and support for those in need.\n\nRead more from the original source: [news.google.com](https://www.emaratalyoum.com/local-section/other/2026-10-20-1.2094118)"
+  },
+  {
+    "title": "Disabled Persons Thanked for Participation in Egypt 2026 Forum",
+    "slug": "disabled-persons-thanked-for-participation-in-egypt-2026-forum-c3bbe878",
+    "lang": "en",
+    "summary": "Iman Kareem expressed gratitude to individuals with disabilities for their active participation in the Egypt 2026 Forum, highlighting their role in the event.",
+    "category": "laws-rights",
+    "tags": [
+      "participation",
+      "forum",
+      "gratitude"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://darelhilal.com/News/3327792.aspx",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://darelhilal.com/News/3327792.aspx"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-c3bbe878",
+    "status": "published",
+    "translationOf": "disabled-persons-thanked-for-participation-in-egypt-2026-forum-zh-c3bbe878",
+    "publishedAt": "2026-10-20T11:27:55.000Z",
+    "fetchedAt": "2026-10-20T15:25:39.278Z",
+    "body": "Iman Kareem expressed gratitude to individuals with disabilities for their active participation in the Egypt 2026 Forum, highlighting their role in the event.\n\nRead more from the original source: [news.google.com](https://darelhilal.com/News/3327792.aspx)"
+  },
+  {
+    "title": "Dubai Prosecution Launches Advisory Council to Enhance Disabled Participation in Service Development",
+    "slug": "dubai-prosecution-launches-advisory-council-to-enhance-disabled-participation-in-62e30303",
+    "lang": "en",
+    "summary": "The Dubai Public Prosecution has established an advisory council dedicated to increasing the involvement of people with disabilities (referenced as 'Awqab al-Humm') in the development and improvement of public services.",
+    "category": "laws-rights",
+    "tags": [
+      "advisory-council",
+      "inclusion",
+      "public-services"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albayan.ae/amp/news/1559131",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albayan.ae/amp/news/1559131"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-62e30303",
+    "status": "published",
+    "translationOf": "dubai-prosecution-launches-advisory-council-to-enhance-disabled-participation-in-zh-62e30303",
+    "publishedAt": "2026-10-19T19:20:07.000Z",
+    "fetchedAt": "2026-10-20T15:25:39.378Z",
+    "body": "The Dubai Public Prosecution has established an advisory council dedicated to increasing the involvement of people with disabilities (referenced as 'Awqab al-Humm') in the development and improvement of public services.\n\nRead more from the original source: [news.google.com](https://www.albayan.ae/amp/news/1559131)"
+  },
+  {
+    "title": "Maulana Rafiqi wins second gold medal at the 2026 Asian Para Games",
+    "slug": "maulana-rafiqi-wins-second-gold-medal-at-the-2026-asian-para-games-d71cae58",
+    "lang": "en",
+    "summary": "Maulana Rafiqi secured his second gold medal at the 2026 Asian Para Games, marking a significant achievement for athletes with disabilities in the region. The victory highlights the growing prominence of para-sports in Asia.",
+    "category": "case-studies",
+    "tags": [
+      "para-sports",
+      "gold-medal",
+      "asian-games",
+      "athletics"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://voi.id/ar/sports/599280",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://voi.id/ar/sports/599280"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-d71cae58",
+    "status": "published",
+    "translationOf": "maulana-rafiqi-wins-second-gold-medal-at-the-2026-asian-para-games-zh-d71cae58",
+    "publishedAt": "2026-10-20T15:03:53.000Z",
+    "fetchedAt": "2026-10-20T15:25:47.462Z",
+    "body": "Maulana Rafiqi secured his second gold medal at the 2026 Asian Para Games, marking a significant achievement for athletes with disabilities in the region. The victory highlights the growing prominence of para-sports in Asia.\n\nRead more from the original source: [news.google.com](https://voi.id/ar/sports/599280)"
+  },
+  {
+    "title": "Dhabi Municipality Marks Three Decades of Empowering People with Disabilities",
+    "slug": "dhabi-municipality-marks-three-decades-of-empowering-people-with-disabilities-608749e9",
+    "lang": "en",
+    "summary": "The article commemorates the 30th anniversary of Dubai Municipality's initiatives to support and empower people with disabilities (referred to as 'Ausbuh al-Humum'), highlighting efforts in inclusion and service provision over the past three decades.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "dubai",
+      "municipality",
+      "inclusion",
+      "annual-report",
+      "social-welfare"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albayan.ae/amp/news/1559139",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albayan.ae/amp/news/1559139"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-608749e9",
+    "status": "published",
+    "translationOf": "dhabi-municipality-marks-three-decades-of-empowering-people-with-disabilities-zh-608749e9",
+    "publishedAt": "2026-10-19T19:20:07.000Z",
+    "fetchedAt": "2026-10-20T15:25:47.550Z",
+    "body": "The article commemorates the 30th anniversary of Dubai Municipality's initiatives to support and empower people with disabilities (referred to as 'Ausbuh al-Humum'), highlighting efforts in inclusion and service provision over the past three decades.\n\nRead more from the original source: [news.google.com](https://www.albayan.ae/amp/news/1559139)"
+  },
+  {
+    "title": "Iman Kareem from Egypt Forum: Sports Facility Accessibility and Disability Empowerment are a Priority",
+    "slug": "iman-kareem-from-egypt-forum-sports-facility-accessibility-and-disability-empowe-cd98e8af",
+    "lang": "en",
+    "summary": "Iman Kareem stated at the Egypt Forum that making sports facilities accessible to people with disabilities and empowering them is a priority. This aligns with physical-design and inclusion goals.",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "sports",
+      "disability"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.elbalad.news/7148561",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.elbalad.news/7148561"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-cd98e8af",
+    "status": "published",
+    "translationOf": "iman-kareem-from-egypt-forum-sports-facility-accessibility-and-disability-empowe-zh-cd98e8af",
+    "publishedAt": "2026-10-20T04:14:00.000Z",
+    "fetchedAt": "2026-10-20T15:25:52.907Z",
+    "body": "Iman Kareem stated at the Egypt Forum that making sports facilities accessible to people with disabilities and empowering them is a priority. This aligns with physical-design and inclusion goals.\n\nRead more from the original source: [news.google.com](https://www.elbalad.news/7148561)"
+  },
+  {
+    "title": "Dubai Land Announces Real Estate Initiatives to Empower People with Disabilities",
+    "slug": "dubai-land-announces-real-estate-initiatives-to-empower-people-with-disabilities-38b6bb68",
+    "lang": "en",
+    "summary": "Dubai Land presented real estate initiatives and solutions aimed at empowering people with disabilities, focusing on inclusive housing and property access.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "housing",
+      "dubai",
+      "disability",
+      "empowerment"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albayan.ae/amp/news/1559135",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albayan.ae/amp/news/1559135"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-38b6bb68",
+    "status": "published",
+    "translationOf": "dubai-land-announces-real-estate-initiatives-to-empower-people-with-disabilities-zh-38b6bb68",
+    "publishedAt": "2026-10-19T19:20:07.000Z",
+    "fetchedAt": "2026-10-20T15:25:52.997Z",
+    "body": "Dubai Land presented real estate initiatives and solutions aimed at empowering people with disabilities, focusing on inclusive housing and property access.\n\nRead more from the original source: [news.google.com](https://www.albayan.ae/amp/news/1559135)"
+  },
+  {
+    "title": "Hashemite University Organizes White Cane Walk for Visually Impaired",
+    "slug": "hashemite-university-organizes-white-cane-walk-for-visually-impaired-c5023c17",
+    "lang": "en",
+    "summary": "Hashemite University organized a march on World White Cane Day to support and raise awareness for visually impaired individuals. This event highlights the role of the white cane as a symbol of independence and mobility for people with blindness or low vision.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "visually-impaired",
+      "awareness",
+      "university",
+      "white-cane"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.ammonnews.net/article/1038200",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.ammonnews.net/article/1038200"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-c5023c17",
+    "status": "published",
+    "translationOf": "hashemite-university-organizes-white-cane-walk-for-visually-impaired-zh-c5023c17",
+    "publishedAt": "2026-10-20T12:09:18.000Z",
+    "fetchedAt": "2026-10-20T15:26:23.931Z",
+    "body": "Hashemite University organized a march on World White Cane Day to support and raise awareness for visually impaired individuals. This event highlights the role of the white cane as a symbol of independence and mobility for people with blindness or low vision.\n\nRead more from the original source: [news.google.com](https://www.ammonnews.net/article/1038200)"
+  },
+  {
+    "title": "Dubai Police Use Ferrari Mansory to Serve People with Disabilities",
+    "slug": "dubai-police-use-ferrari-mansory-to-serve-people-with-disabilities-de8fc81f",
+    "lang": "en",
+    "summary": "Dubai Police have utilized a Ferrari Mansory vehicle to provide services and support for individuals with disabilities, integrating luxury resources into accessibility initiatives for the disabled community.",
+    "category": "general",
+    "tags": [
+      "dubai-police",
+      "disability-support",
+      "luxury-vehicle"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albayan.ae/amp/news/1559133",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albayan.ae/amp/news/1559133"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-de8fc81f",
+    "status": "published",
+    "translationOf": "dubai-police-use-ferrari-mansory-to-serve-people-with-disabilities-zh-de8fc81f",
+    "publishedAt": "2026-10-19T19:20:07.000Z",
+    "fetchedAt": "2026-10-20T15:26:24.047Z",
+    "body": "Dubai Police have utilized a Ferrari Mansory vehicle to provide services and support for individuals with disabilities, integrating luxury resources into accessibility initiatives for the disabled community.\n\nRead more from the original source: [news.google.com](https://www.albayan.ae/amp/news/1559133)"
+  },
+  {
+    "title": "National Network Participates in the 7th International Conference on Disability and Rehabilitation in Saudi Arabia",
+    "slug": "national-network-participates-in-the-7th-international-conference-on-disability--2f095875",
+    "lang": "en",
+    "summary": "A national network participated in the 7th International Conference on Disability and Rehabilitation held in Saudi Arabia, focusing on future-oriented strategies for disability inclusion and rehabilitation services.",
+    "category": "general",
+    "tags": [
+      "conference",
+      "rehabilitation",
+      "disability-inclusion",
+      "middle-east"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.adenobserver.com/150664",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.adenobserver.com/150664"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-2f095875",
+    "status": "published",
+    "translationOf": "national-network-participates-in-the-7th-international-conference-on-disability--zh-2f095875",
+    "publishedAt": "2026-10-20T11:37:55.000Z",
+    "fetchedAt": "2026-10-20T15:26:34.378Z",
+    "body": "A national network participated in the 7th International Conference on Disability and Rehabilitation held in Saudi Arabia, focusing on future-oriented strategies for disability inclusion and rehabilitation services.\n\nRead more from the original source: [news.google.com](https://www.adenobserver.com/150664)"
   }
 ]
