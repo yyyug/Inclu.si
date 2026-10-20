@@ -70032,5 +70032,39 @@
     "publishedAt": "2026-10-19T01:16:03.000Z",
     "fetchedAt": "2026-10-20T13:35:44.701Z",
     "body": "台中文心森林公園的無障礙廁所被一名男子佔用作免費住宿，他攜帶電蚊拍、充電器和隨身物品，在廁所內居住超過一個月，里長獲報後聯繫警方將其驅離。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_91b08c44-ecee-4142-8955-359da52bd3f6)"
+  },
+  {
+    "title": "超過1000位盲測試者如何塑造Gemini Live的視覺功能",
+    "slug": "how-1000-blind-testers-shaped-gemini-lives-vision-feature-zh-d06010bf",
+    "lang": "zh-TW",
+    "summary": "Google在Android上推出Gemini Live的導引視覺功能，經過超過1000位盲人測試者的回饋改進，提升低視力使用者的即時視覺協助。",
+    "category": "digital-a11y",
+    "tags": [
+      "blind users",
+      "Gemini Live",
+      "Guided Vision",
+      "accessibility testing",
+      "AI"
+    ],
+    "sourceName": "aira.io",
+    "sourceUrl": "https://aira.io/how-1000-blind-testers-brought-gemini-lives-vision-into-focus",
+    "relatedSources": [
+      {
+        "name": "aira.io",
+        "url": "https://aira.io/how-1000-blind-testers-brought-gemini-lives-vision-into-focus"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://aira.io/feed",
+    "ingestProvider": "aira.io",
+    "clusterId": "cluster-d06010bf",
+    "status": "published",
+    "translationOf": "how-1000-blind-testers-shaped-gemini-lives-vision-feature-d06010bf",
+    "publishedAt": "2026-10-20T09:00:55.000Z",
+    "fetchedAt": "2026-10-20T13:40:04.461Z",
+    "body": "Google在Android上推出Gemini Live的導引視覺功能，經過超過1000位盲人測試者的回饋改進，提升低視力使用者的即時視覺協助。\n\n原文來源： [aira.io](https://aira.io/how-1000-blind-testers-brought-gemini-lives-vision-into-focus)"
   }
 ]
