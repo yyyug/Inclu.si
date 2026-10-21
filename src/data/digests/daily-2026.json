@@ -12288,106 +12288,96 @@
     }
   },
   "2026-10-21": {
-    "generatedAt": "2026-10-21T14:27:14.084Z",
+    "generatedAt": "2026-10-21T22:00:27.665Z",
     "en": {
-      "title": "NVDA Screen Reader and Facility Legal Cases Lead Accessibility",
-      "summary": "The NVDA 2026.3 release candidate and a lawsuit involving a disability facility worker lead today's accessibility news. Major physical infrastructure upgrades in the US and policy debates in Japan also dominate the discussion.",
+      "title": "6th Circuit narrows ADA rule as Google launches AI for blind users",
+      "summary": "The US Sixth Circuit rejected a broad reading of an ADA accessibility regulation, a significant legal shift for disability rights. Meanwhile, blind testers from Aira helped train Google's new Guided Vision feature for Gemini, marking a major assistive tech launch.",
       "highlights": [
         {
-          "title": "NVDA 2026.3 Release Candidate Available for Testing",
-          "slug": "nvda-20263-release-candidate-available-for-testing-c2a5cb82",
-          "url": "https://www.nvaccess.org/post/nvda-2026-3rc1"
+          "title": "6th Circuit rejects broad reading of ADA accessibility rule",
+          "slug": "6th-circuit-rejects-broad-reading-of-ada-accessibility-rule-0bfd10fc",
+          "url": "https://milawyersweekly.com/news/2026/10/21/6th-circuit-ada-60-percent-rule"
         },
         {
-          "title": "Lawsuit Following Death of Disability Facility Worker",
-          "slug": "lawsuit-following-death-of-disability-facility-worker-94730194",
-          "url": "https://x.com/owarainews2026/status/2112906291446509656"
+          "title": "Aira, Google DeepMind and Guided Vision: How Blind Testers Trained Gemini",
+          "slug": "aira-google-deepmind-and-guided-vision-how-blind-testers-trained-gemini-d920fbfc",
+          "url": "https://doubletaponair.com/aira-google-deepmind-and-guided-vision-how-blind-testers-trained-gemini-2"
         },
         {
-          "title": "Death of 16-Year-Old Following Interrogation Regarding Disability Facility Bullying",
-          "slug": "death-of-16-year-old-following-interrogation-regarding-disability-facility-bully-3e541975",
-          "url": "https://x.com/taito8/status/2112906587241353541"
+          "title": "Sohag Governor Launches 'Disability-Friendly Hospital' Initiative",
+          "slug": "sohag-governor-launches-disability-friendly-hospital-initiative-6a57f164",
+          "url": "https://asdmag.org/archives/69235"
         },
         {
-          "title": "Citrus Heights City Council Approves Annual $11M Drainage, Accessibility Project",
-          "slug": "citrus-heights-city-council-approves-annual-11m-drainage-accessibility-project-7a9374f2",
-          "url": "https://citrusheightssentinel.com/2026/10/20/citrus-heights-city-council-approves-annual-11m-drainage-accessibility-project"
+          "title": "City Of Naperville's New Website Promises Better 'Accessibility, Usability, Performance'",
+          "slug": "city-of-napervilles-new-website-promises-better-accessibility-usability-performa-b5b872ee",
+          "url": "https://patch.com/illinois/naperville/city-napervilles-new-website-promises-better-accessibility-usability-performance"
         },
         {
-          "title": "He’s Adapted to a Wheelchair. He Wishes D.C. Would, Too.",
-          "slug": "hes-adapted-to-a-wheelchair-he-wishes-dc-would-too-7a499823",
-          "url": "https://www.notus.org/metro/dc-wheelchair-accessibility-hearing-metro-uber"
+          "title": "Pedestrian with White Cane Injured in Bus Collision",
+          "slug": "pedestrian-with-white-cane-injured-in-bus-collision-d7e9a79f",
+          "url": "https://x.com/smile_ga_eewaa/status/2113001365115166893"
         },
         {
-          "title": "Challenges of Public Assistance for People with Disabilities",
-          "slug": "challenges-of-public-assistance-for-people-with-disabilities-e442271c",
-          "url": "https://x.com/cat_luca15/status/2112907621145653314"
+          "title": "NYC Talent Supports 11th Annual Disability Pride Parade",
+          "slug": "nyc-talent-supports-11th-annual-disability-pride-parade-04777aea",
+          "url": "https://x.com/talent_nyc/status/2113008526306275651"
         },
         {
-          "title": "Perspectives on Disability in Japan",
-          "slug": "perspectives-on-disability-in-japan-c021202f",
-          "url": "https://x.com/tsushiro9jr/status/2112906861683065218"
+          "title": "Criticism of EA Regarding Game Accessibility",
+          "slug": "criticism-of-ea-regarding-game-accessibility-5b3ccd30",
+          "url": "https://x.com/stillinhospice/status/2113007702758887905"
         },
         {
-          "title": "Vic Mensa Promises Accessibility for All His Future Concerts - Yahoo",
-          "slug": "vic-mensa-promises-accessibility-for-all-his-future-concerts-yahoo-65f9cc8f",
-          "url": "https://www.yahoo.com/entertainment/music/articles/vic-mensa-promises-accessibility-future-233739924.html"
-        },
-        {
-          "title": "Hobby Airport fixes disabled parking issues at rideshare lot after 2 Helps You investigation",
-          "slug": "hobby-airport-fixes-disabled-parking-issues-at-rideshare-lot-after-2-helps-you-i-f6c62703",
-          "url": "https://www.click2houston.com/news/local/2026/10/20/hobby-airport-fixes-disabled-parking-issues-at-rideshare-lot-after-2-helps-you-investigation"
+          "title": "Disabled Adult Child: A Parent's Path to Residential Care",
+          "slug": "disabled-adult-child-a-parents-path-to-residential-care-eacf3e74",
+          "url": "https://www.disabled-world.com/disability/blogs/dac-care.php"
         }
       ]
     },
     "zh-TW": {
-      "title": "NVDA螢幕閱讀器與設施訴訟領銜無障礙動態",
-      "summary": "NVDA 2026.3 釋出候選版與一宗殘障設施工作人員相關訴訟成為今日無障礙新聞焦點。美國的實體基礎設施升級與日本的政令辯論同樣引人關注。",
+      "title": "第六巡迴法院限縮ADA無障礙規則，Google推出視障AI功能",
+      "summary": "美國第六巡迴上訴法院駁回對美國殘障人法（ADA）無障礙規則的廣泛解讀，對殘障權益產生重大法律影響。與此同時，Aira的視障測試員協助訓練Google Gemini新增的「導引視覺」功能，成為輔助科技的重要進展。",
       "highlights": [
         {
-          "title": "NVDA 2026.3 候選版可供測試",
-          "slug": "nvda-20263-release-candidate-available-for-testing-zh-c2a5cb82",
-          "url": "https://www.nvaccess.org/post/nvda-2026-3rc1"
+          "title": "第六巡迴法院駁回對ADA無障礙規則的廣泛解讀",
+          "slug": "6th-circuit-rejects-broad-reading-of-ada-accessibility-rule-zh-0bfd10fc",
+          "url": "https://milawyersweekly.com/news/2026/10/21/6th-circuit-ada-60-percent-rule"
         },
         {
-          "title": "殘疾設施工作員死亡後對州及兵庫縣提起的訴訟",
-          "slug": "lawsuit-following-death-of-disability-facility-worker-zh-94730194",
-          "url": "https://x.com/owarainews2026/status/2112906291446509656"
+          "title": "Aira、Google DeepMind 與導引視覺：盲人測試員如何訓練 Gemini",
+          "slug": "aira-google-deepmind-and-guided-vision-how-blind-testers-trained-gemini-zh-d920fbfc",
+          "url": "https://doubletaponair.com/aira-google-deepmind-and-guided-vision-how-blind-testers-trained-gemini-2"
         },
         {
-          "title": "16歲少女在殘障設施欺凌指控調查後，因壓力導致體重驟減而亡",
-          "slug": "death-of-16-year-old-following-interrogation-regarding-disability-facility-bully-zh-3e541975",
-          "url": "https://x.com/taito8/status/2112906587241353541"
+          "title": "蘇哈杰省長啟動「無障礙醫院」計劃",
+          "slug": "sohag-governor-launches-disability-friendly-hospital-initiative-zh-6a57f164",
+          "url": "https://asdmag.org/archives/69235"
         },
         {
-          "title": "Citrus Heights 市議會批准年度 1100 萬美元排水與無障礙工程",
-          "slug": "citrus-heights-city-council-approves-annual-11m-drainage-accessibility-project-zh-7a9374f2",
-          "url": "https://citrusheightssentinel.com/2026/10/20/citrus-heights-city-council-approves-annual-11m-drainage-accessibility-project"
+          "title": "納佩維爾市新網站承諾提供更佳的『無障礙、可用性、效能』",
+          "slug": "city-of-napervilles-new-website-promises-better-accessibility-usability-performa-zh-b5b872ee",
+          "url": "https://patch.com/illinois/naperville/city-napervilles-new-website-promises-better-accessibility-usability-performance"
         },
         {
-          "title": "他已適應輪椅生活，他希望華盛頓特區也能如此。",
-          "slug": "hes-adapted-to-a-wheelchair-he-wishes-dc-would-too-zh-7a499823",
-          "url": "https://www.notus.org/metro/dc-wheelchair-accessibility-hearing-metro-uber"
+          "title": "日本戲劇中自閉症描繪的辯論",
+          "slug": "debate-on-portrayal-of-autism-in-japanese-drama-zh-f34b268a",
+          "url": "https://x.com/kaien/status/2113009874225582345"
         },
         {
-          "title": "殘障人士公共扶助的挑戰",
-          "slug": "challenges-of-public-assistance-for-people-with-disabilities-zh-e442271c",
-          "url": "https://x.com/cat_luca15/status/2112907621145653314"
+          "title": "NYC Talent 支持第十一屆殘障自豪遊行",
+          "slug": "nyc-talent-supports-11th-annual-disability-pride-parade-zh-04777aea",
+          "url": "https://x.com/talent_nyc/status/2113008526306275651"
         },
         {
-          "title": "日本殘障觀點",
-          "slug": "perspectives-on-disability-in-japan-zh-c021202f",
-          "url": "https://x.com/tsushiro9jr/status/2112906861683065218"
+          "title": "針對藝電在遊戲無障礙方面的批評",
+          "slug": "criticism-of-ea-regarding-game-accessibility-zh-5b3ccd30",
+          "url": "https://x.com/stillinhospice/status/2113007702758887905"
         },
         {
-          "title": "Vic Mensa 承諾未來演唱會全面無障礙 - Yahoo",
-          "slug": "vic-mensa-promises-accessibility-for-all-his-future-concerts-yahoo-zh-65f9cc8f",
-          "url": "https://www.yahoo.com/entertainment/music/articles/vic-mensa-promises-accessibility-future-233739924.html"
-        },
-        {
-          "title": "霍比機場在 2 Helps You 調查後修復殘障停車位",
-          "slug": "hobby-airport-fixes-disabled-parking-issues-at-rideshare-lot-after-2-helps-you-i-zh-f6c62703",
-          "url": "https://www.click2houston.com/news/local/2026/10/20/hobby-airport-fixes-disabled-parking-issues-at-rideshare-lot-after-2-helps-you-investigation"
+          "title": "殘疾成年子女：父母進入住宿照顧之路",
+          "slug": "disabled-adult-child-a-parents-path-to-residential-care-zh-eacf3e74",
+          "url": "https://www.disabled-world.com/disability/blogs/dac-care.php"
         }
       ]
     }
