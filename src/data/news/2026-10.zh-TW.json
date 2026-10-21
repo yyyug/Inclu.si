@@ -74094,5 +74094,70 @@
     "publishedAt": "2026-10-20T07:50:35.000Z",
     "fetchedAt": "2026-10-21T13:51:18.778Z",
     "body": "桃園市長張善政出席桃園市會心15關懷協會舉辦的「千人關懷慈善餐會」，表示身心障礙及弱勢照顧需仰賴政府與民間攜手投入，感謝會心15關懷協會長期匯聚社會愛心、投入公益服務，為有需要的市民提供支持。市府將持續與民間團體合作，透過生活照顧及多元社會參與活動，拓展身障朋友的生活與交流機會，打造友善共融的支持環境。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%87%BA%E5%B8%AD%E6%A1%83%E5%9C%92%E5%8D%83%E4%BA%BA%E9%97%9C%E6%87%B7%E6%85%88%E5%96%84%E9%A4%90%E6%9C%83-%E5%BC%B5%E5%96%84%E6%94%BF-%E4%B8%B2%E8%81%AF%E6%B0%91%E9%96%93%E5%8A%9B%E9%87%8F%E6%93%B4%E5%A4%A7%E5%BC%B1%E5%8B%A2%E9%97%9C%E6%87%B7-075035528.html)"
+  },
+  {
+    "title": "NVDA 2026.3 候選版可供測試",
+    "slug": "nvda-20263-release-candidate-available-for-testing-zh-c2a5cb82",
+    "lang": "zh-TW",
+    "summary": "NVDA 2026.3 的 Release Candidate 版本現已提供下載與測試。這是一款免費的 Windows 螢幕閱讀器，鼓勵使用者下載並提供回饋，以協助最終版本的穩定性。",
+    "category": "assistive-tech",
+    "tags": [
+      "screen-reader",
+      "NVDA",
+      "assistive technology"
+    ],
+    "sourceName": "nvaccess.org",
+    "sourceUrl": "https://www.nvaccess.org/post/nvda-2026-3rc1",
+    "relatedSources": [
+      {
+        "name": "nvaccess.org",
+        "url": "https://www.nvaccess.org/post/nvda-2026-3rc1"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://nvaccess.org/rss",
+    "ingestProvider": "nvaccess.org",
+    "clusterId": "cluster-c2a5cb82",
+    "status": "published",
+    "translationOf": "nvda-20263-release-candidate-available-for-testing-c2a5cb82",
+    "publishedAt": "2026-10-21T00:08:57.000Z",
+    "fetchedAt": "2026-10-21T13:56:37.312Z",
+    "body": "NVDA 2026.3 的 Release Candidate 版本現已提供下載與測試。這是一款免費的 Windows 螢幕閱讀器，鼓勵使用者下載並提供回饋，以協助最終版本的穩定性。\n\n原文來源： [nvaccess.org](https://www.nvaccess.org/post/nvda-2026-3rc1)"
+  },
+  {
+    "title": "為視障者工程親民工具",
+    "slug": "engineering-affordable-tools-for-the-visually-impaired-zh-b16bb8bc",
+    "lang": "zh-TW",
+    "summary": "播客節目訪問 Orbit Research 創辦人 Venkatesh Chari，探討在開發點字顯示器、觸覺圖形及其他輔助技術時，如何平衡功能與成本，使視障者能夠負擔得起。",
+    "category": "assistive-tech",
+    "tags": [
+      "braille",
+      "tactile graphics",
+      "affordable assistive tech",
+      "visually impaired"
+    ],
+    "sourceName": "Eyes On Success",
+    "sourceUrl": "https://podcast.eyesonsuccess.net/?p=2757",
+    "relatedSources": [
+      {
+        "name": "Eyes On Success",
+        "url": "https://podcast.eyesonsuccess.net/?p=2757"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "podcast",
+    "ingestSource": "http://podcast.eyesonsuccess.net/feed",
+    "ingestProvider": "podcast.eyesonsuccess.net",
+    "clusterId": "cluster-b16bb8bc",
+    "status": "published",
+    "translationOf": "engineering-affordable-tools-for-the-visually-impaired-b16bb8bc",
+    "publishedAt": "2026-10-21T12:30:25.000Z",
+    "fetchedAt": "2026-10-21T13:56:37.434Z",
+    "body": "播客節目訪問 Orbit Research 創辦人 Venkatesh Chari，探討在開發點字顯示器、觸覺圖形及其他輔助技術時，如何平衡功能與成本，使視障者能夠負擔得起。\n\n原文來源： [Eyes On Success](https://podcast.eyesonsuccess.net/?p=2757)"
   }
 ]

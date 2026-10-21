@@ -74094,5 +74094,70 @@
     "publishedAt": "2026-10-20T07:50:35.000Z",
     "fetchedAt": "2026-10-21T13:51:18.778Z",
     "body": "Taoyuan Mayor Chang Shan-cheng attended a charity dinner hosted by the Hui Xin 15 Care Association, stressing that support for persons with disabilities and the disadvantaged requires government and private sector cooperation. He thanked the association for mobilizing social goodwill and pledged continued collaboration with NGOs to provide life care and diverse social participation activities, expanding life and communication opportunities for disabled individuals and fostering a friendly, inclusive environment. Legislators and council members also attended.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%87%BA%E5%B8%AD%E6%A1%83%E5%9C%92%E5%8D%83%E4%BA%BA%E9%97%9C%E6%87%B7%E6%85%88%E5%96%84%E9%A4%90%E6%9C%83-%E5%BC%B5%E5%96%84%E6%94%BF-%E4%B8%B2%E8%81%AF%E6%B0%91%E9%96%93%E5%8A%9B%E9%87%8F%E6%93%B4%E5%A4%A7%E5%BC%B1%E5%8B%A2%E9%97%9C%E6%87%B7-075035528.html)"
+  },
+  {
+    "title": "NVDA 2026.3 Release Candidate Available for Testing",
+    "slug": "nvda-20263-release-candidate-available-for-testing-c2a5cb82",
+    "lang": "en",
+    "summary": "The release candidate version of NVDA 2026.3, a free screen reader for Windows, is now downloadable for testing. Users are encouraged to try it and report feedback before the final release.",
+    "category": "assistive-tech",
+    "tags": [
+      "screen-reader",
+      "NVDA",
+      "assistive technology"
+    ],
+    "sourceName": "nvaccess.org",
+    "sourceUrl": "https://www.nvaccess.org/post/nvda-2026-3rc1",
+    "relatedSources": [
+      {
+        "name": "nvaccess.org",
+        "url": "https://www.nvaccess.org/post/nvda-2026-3rc1"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://nvaccess.org/rss",
+    "ingestProvider": "nvaccess.org",
+    "clusterId": "cluster-c2a5cb82",
+    "status": "published",
+    "translationOf": "nvda-20263-release-candidate-available-for-testing-zh-c2a5cb82",
+    "publishedAt": "2026-10-21T00:08:57.000Z",
+    "fetchedAt": "2026-10-21T13:56:37.312Z",
+    "body": "The release candidate version of NVDA 2026.3, a free screen reader for Windows, is now downloadable for testing. Users are encouraged to try it and report feedback before the final release.\n\nRead more from the original source: [nvaccess.org](https://www.nvaccess.org/post/nvda-2026-3rc1)"
+  },
+  {
+    "title": "Engineering Affordable Tools for the Visually Impaired",
+    "slug": "engineering-affordable-tools-for-the-visually-impaired-b16bb8bc",
+    "lang": "en",
+    "summary": "Podcast episode featuring Venkatesh Chari of Orbit Research discussing how to balance functionality and cost when developing braille displays, tactile graphics, and other assistive technologies for blind users.",
+    "category": "assistive-tech",
+    "tags": [
+      "braille",
+      "tactile graphics",
+      "affordable assistive tech",
+      "visually impaired"
+    ],
+    "sourceName": "Eyes On Success",
+    "sourceUrl": "https://podcast.eyesonsuccess.net/?p=2757",
+    "relatedSources": [
+      {
+        "name": "Eyes On Success",
+        "url": "https://podcast.eyesonsuccess.net/?p=2757"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "podcast",
+    "ingestSource": "http://podcast.eyesonsuccess.net/feed",
+    "ingestProvider": "podcast.eyesonsuccess.net",
+    "clusterId": "cluster-b16bb8bc",
+    "status": "published",
+    "translationOf": "engineering-affordable-tools-for-the-visually-impaired-zh-b16bb8bc",
+    "publishedAt": "2026-10-21T12:30:25.000Z",
+    "fetchedAt": "2026-10-21T13:56:37.434Z",
+    "body": "Podcast episode featuring Venkatesh Chari of Orbit Research discussing how to balance functionality and cost when developing braille displays, tactile graphics, and other assistive technologies for blind users.\n\nRead more from the original source: [Eyes On Success](https://podcast.eyesonsuccess.net/?p=2757)"
   }
 ]
