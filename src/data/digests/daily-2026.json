@@ -12286,5 +12286,110 @@
         }
       ]
     }
+  },
+  "2026-10-21": {
+    "generatedAt": "2026-10-21T14:27:14.084Z",
+    "en": {
+      "title": "NVDA Screen Reader and Facility Legal Cases Lead Accessibility",
+      "summary": "The NVDA 2026.3 release candidate and a lawsuit involving a disability facility worker lead today's accessibility news. Major physical infrastructure upgrades in the US and policy debates in Japan also dominate the discussion.",
+      "highlights": [
+        {
+          "title": "NVDA 2026.3 Release Candidate Available for Testing",
+          "slug": "nvda-20263-release-candidate-available-for-testing-c2a5cb82",
+          "url": "https://www.nvaccess.org/post/nvda-2026-3rc1"
+        },
+        {
+          "title": "Lawsuit Following Death of Disability Facility Worker",
+          "slug": "lawsuit-following-death-of-disability-facility-worker-94730194",
+          "url": "https://x.com/owarainews2026/status/2112906291446509656"
+        },
+        {
+          "title": "Death of 16-Year-Old Following Interrogation Regarding Disability Facility Bullying",
+          "slug": "death-of-16-year-old-following-interrogation-regarding-disability-facility-bully-3e541975",
+          "url": "https://x.com/taito8/status/2112906587241353541"
+        },
+        {
+          "title": "Citrus Heights City Council Approves Annual $11M Drainage, Accessibility Project",
+          "slug": "citrus-heights-city-council-approves-annual-11m-drainage-accessibility-project-7a9374f2",
+          "url": "https://citrusheightssentinel.com/2026/10/20/citrus-heights-city-council-approves-annual-11m-drainage-accessibility-project"
+        },
+        {
+          "title": "He’s Adapted to a Wheelchair. He Wishes D.C. Would, Too.",
+          "slug": "hes-adapted-to-a-wheelchair-he-wishes-dc-would-too-7a499823",
+          "url": "https://www.notus.org/metro/dc-wheelchair-accessibility-hearing-metro-uber"
+        },
+        {
+          "title": "Challenges of Public Assistance for People with Disabilities",
+          "slug": "challenges-of-public-assistance-for-people-with-disabilities-e442271c",
+          "url": "https://x.com/cat_luca15/status/2112907621145653314"
+        },
+        {
+          "title": "Perspectives on Disability in Japan",
+          "slug": "perspectives-on-disability-in-japan-c021202f",
+          "url": "https://x.com/tsushiro9jr/status/2112906861683065218"
+        },
+        {
+          "title": "Vic Mensa Promises Accessibility for All His Future Concerts - Yahoo",
+          "slug": "vic-mensa-promises-accessibility-for-all-his-future-concerts-yahoo-65f9cc8f",
+          "url": "https://www.yahoo.com/entertainment/music/articles/vic-mensa-promises-accessibility-future-233739924.html"
+        },
+        {
+          "title": "Hobby Airport fixes disabled parking issues at rideshare lot after 2 Helps You investigation",
+          "slug": "hobby-airport-fixes-disabled-parking-issues-at-rideshare-lot-after-2-helps-you-i-f6c62703",
+          "url": "https://www.click2houston.com/news/local/2026/10/20/hobby-airport-fixes-disabled-parking-issues-at-rideshare-lot-after-2-helps-you-investigation"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "NVDA螢幕閱讀器與設施訴訟領銜無障礙動態",
+      "summary": "NVDA 2026.3 釋出候選版與一宗殘障設施工作人員相關訴訟成為今日無障礙新聞焦點。美國的實體基礎設施升級與日本的政令辯論同樣引人關注。",
+      "highlights": [
+        {
+          "title": "NVDA 2026.3 候選版可供測試",
+          "slug": "nvda-20263-release-candidate-available-for-testing-zh-c2a5cb82",
+          "url": "https://www.nvaccess.org/post/nvda-2026-3rc1"
+        },
+        {
+          "title": "殘疾設施工作員死亡後對州及兵庫縣提起的訴訟",
+          "slug": "lawsuit-following-death-of-disability-facility-worker-zh-94730194",
+          "url": "https://x.com/owarainews2026/status/2112906291446509656"
+        },
+        {
+          "title": "16歲少女在殘障設施欺凌指控調查後，因壓力導致體重驟減而亡",
+          "slug": "death-of-16-year-old-following-interrogation-regarding-disability-facility-bully-zh-3e541975",
+          "url": "https://x.com/taito8/status/2112906587241353541"
+        },
+        {
+          "title": "Citrus Heights 市議會批准年度 1100 萬美元排水與無障礙工程",
+          "slug": "citrus-heights-city-council-approves-annual-11m-drainage-accessibility-project-zh-7a9374f2",
+          "url": "https://citrusheightssentinel.com/2026/10/20/citrus-heights-city-council-approves-annual-11m-drainage-accessibility-project"
+        },
+        {
+          "title": "他已適應輪椅生活，他希望華盛頓特區也能如此。",
+          "slug": "hes-adapted-to-a-wheelchair-he-wishes-dc-would-too-zh-7a499823",
+          "url": "https://www.notus.org/metro/dc-wheelchair-accessibility-hearing-metro-uber"
+        },
+        {
+          "title": "殘障人士公共扶助的挑戰",
+          "slug": "challenges-of-public-assistance-for-people-with-disabilities-zh-e442271c",
+          "url": "https://x.com/cat_luca15/status/2112907621145653314"
+        },
+        {
+          "title": "日本殘障觀點",
+          "slug": "perspectives-on-disability-in-japan-zh-c021202f",
+          "url": "https://x.com/tsushiro9jr/status/2112906861683065218"
+        },
+        {
+          "title": "Vic Mensa 承諾未來演唱會全面無障礙 - Yahoo",
+          "slug": "vic-mensa-promises-accessibility-for-all-his-future-concerts-yahoo-zh-65f9cc8f",
+          "url": "https://www.yahoo.com/entertainment/music/articles/vic-mensa-promises-accessibility-future-233739924.html"
+        },
+        {
+          "title": "霍比機場在 2 Helps You 調查後修復殘障停車位",
+          "slug": "hobby-airport-fixes-disabled-parking-issues-at-rideshare-lot-after-2-helps-you-i-zh-f6c62703",
+          "url": "https://www.click2houston.com/news/local/2026/10/20/hobby-airport-fixes-disabled-parking-issues-at-rideshare-lot-after-2-helps-you-investigation"
+        }
+      ]
+    }
   }
 }
