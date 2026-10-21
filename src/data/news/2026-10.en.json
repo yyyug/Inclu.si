@@ -76286,5 +76286,497 @@
     "publishedAt": "2026-10-20T21:26:43.000Z",
     "fetchedAt": "2026-10-21T15:40:19.779Z",
     "body": "The Arab League has highlighted the importance of integrating efforts and roles among various stakeholders to empower individuals with disabilities in the region.\n\nRead more from the original source: [news.google.com](https://alwakaai.com/article/758275)"
+  },
+  {
+    "title": "How we face scary accessibility challenges with ALS",
+    "slug": "how-we-face-scary-accessibility-challenges-with-als-c78c0837",
+    "lang": "en",
+    "summary": "Discusses personal experiences navigating accessibility barriers while living with ALS, highlighting strategies and community support.",
+    "category": "general",
+    "tags": [
+      "ALS",
+      "accessibility",
+      "personal experience"
+    ],
+    "sourceName": "ALS News Today",
+    "sourceUrl": "https://alsnewstoday.com/columns/how-face-scary-accessibility-challenges-als",
+    "relatedSources": [
+      {
+        "name": "ALS News Today",
+        "url": "https://alsnewstoday.com/columns/how-face-scary-accessibility-challenges-als"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-c78c0837",
+    "status": "published",
+    "translationOf": "how-we-face-scary-accessibility-challenges-with-als-zh-c78c0837",
+    "publishedAt": "2026-10-21T17:48:45.000Z",
+    "fetchedAt": "2026-10-21T20:38:52.088Z",
+    "body": "Discusses personal experiences navigating accessibility barriers while living with ALS, highlighting strategies and community support.\n\nRead more from the original source: [ALS News Today](https://alsnewstoday.com/columns/how-face-scary-accessibility-challenges-als)"
+  },
+  {
+    "title": "Disability inclusion and accessibility must become cultural practices",
+    "slug": "disability-inclusion-and-accessibility-must-become-cultural-practices-aa1d30bb",
+    "lang": "en",
+    "summary": "Argues that true disability inclusion requires embedding accessibility into everyday culture, beyond compliance, through education and societal attitudes.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability inclusion",
+      "accessibility",
+      "culture"
+    ],
+    "sourceName": "SMA News Today",
+    "sourceUrl": "https://smanewstoday.com/columns/disability-inclusion-accessibility-must-become-cultural-practices",
+    "relatedSources": [
+      {
+        "name": "SMA News Today",
+        "url": "https://smanewstoday.com/columns/disability-inclusion-accessibility-must-become-cultural-practices"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-aa1d30bb",
+    "status": "published",
+    "translationOf": "disability-inclusion-and-accessibility-must-become-cultural-practices-zh-aa1d30bb",
+    "publishedAt": "2026-10-21T14:05:59.000Z",
+    "fetchedAt": "2026-10-21T20:38:52.200Z",
+    "body": "Argues that true disability inclusion requires embedding accessibility into everyday culture, beyond compliance, through education and societal attitudes.\n\nRead more from the original source: [SMA News Today](https://smanewstoday.com/columns/disability-inclusion-accessibility-must-become-cultural-practices)"
+  },
+  {
+    "title": "Captions and transcripts: Why digital accessibility matters",
+    "slug": "captions-and-transcripts-why-digital-accessibility-matters-f5d1fe9a",
+    "lang": "en",
+    "summary": "Explains how captions and transcripts improve access for deaf and hard‑of‑hearing users, illustrating broader benefits of digital accessibility.",
+    "category": "digital-a11y",
+    "tags": [
+      "captions",
+      "transcripts",
+      "digital accessibility",
+      "deaf",
+      "hard of hearing"
+    ],
+    "sourceName": "University of Nebraska Medical Center",
+    "sourceUrl": "https://www.unmc.edu/newsroom/2026/10/21/captions-and-transcripts-why-digital-accessibility-matters",
+    "relatedSources": [
+      {
+        "name": "University of Nebraska Medical Center",
+        "url": "https://www.unmc.edu/newsroom/2026/10/21/captions-and-transcripts-why-digital-accessibility-matters"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f5d1fe9a",
+    "status": "published",
+    "translationOf": "captions-and-transcripts-why-digital-accessibility-matters-zh-f5d1fe9a",
+    "publishedAt": "2026-10-21T07:41:50.000Z",
+    "fetchedAt": "2026-10-21T20:38:52.282Z",
+    "body": "Explains how captions and transcripts improve access for deaf and hard‑of‑hearing users, illustrating broader benefits of digital accessibility.\n\nRead more from the original source: [University of Nebraska Medical Center](https://www.unmc.edu/newsroom/2026/10/21/captions-and-transcripts-why-digital-accessibility-matters)"
+  },
+  {
+    "title": "Cavs rank last in local broadcast accessibility report - Fear The Sword",
+    "slug": "cavs-rank-last-in-local-broadcast-accessibility-report-fear-the-sword-c91008bc",
+    "lang": "en",
+    "summary": "The Cleveland Cavaliers received the lowest score in a local broadcast accessibility report, indicating shortcomings in providing closed captioning and audio description for viewers with hearing or vision impairments.",
+    "category": "digital-a11y",
+    "tags": [
+      "broadcast",
+      "captioning",
+      "audio description",
+      "NBA",
+      "Cavaliers"
+    ],
+    "sourceName": "Fear The Sword",
+    "sourceUrl": "https://www.fearthesword.com/cavs-news/53293/cavs-local-tv-cleveland-cavaliers-dazn-nba-league-pass",
+    "relatedSources": [
+      {
+        "name": "Fear The Sword",
+        "url": "https://www.fearthesword.com/cavs-news/53293/cavs-local-tv-cleveland-cavaliers-dazn-nba-league-pass"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-c91008bc",
+    "status": "published",
+    "translationOf": "cavs-rank-last-in-local-broadcast-accessibility-report-fear-the-sword-zh-c91008bc",
+    "publishedAt": "2026-10-21T17:00:50.000Z",
+    "fetchedAt": "2026-10-21T20:39:07.096Z",
+    "body": "The Cleveland Cavaliers received the lowest score in a local broadcast accessibility report, indicating shortcomings in providing closed captioning and audio description for viewers with hearing or vision impairments.\n\nRead more from the original source: [Fear The Sword](https://www.fearthesword.com/cavs-news/53293/cavs-local-tv-cleveland-cavaliers-dazn-nba-league-pass)"
+  },
+  {
+    "title": "Stevens Point school unveils accessible outdoor classroom - WSAW",
+    "slug": "stevens-point-school-unveils-accessible-outdoor-classroom-wsaw-0792685b",
+    "lang": "en",
+    "summary": "A school in Stevens Point has opened an outdoor classroom designed with accessibility features such as ramps, tactile pathways, and sensory-friendly elements to support students with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "outdoor classroom",
+      "school",
+      "accessibility",
+      "disability",
+      "Wisconsin"
+    ],
+    "sourceName": "WSAW",
+    "sourceUrl": "https://www.wsaw.com/2026/10/21/stevens-point-school-unveils-accessible-outdoor-classroom",
+    "relatedSources": [
+      {
+        "name": "WSAW",
+        "url": "https://www.wsaw.com/2026/10/21/stevens-point-school-unveils-accessible-outdoor-classroom"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-0792685b",
+    "status": "published",
+    "translationOf": "stevens-point-school-unveils-accessible-outdoor-classroom-wsaw-zh-0792685b",
+    "publishedAt": "2026-10-21T14:21:00.000Z",
+    "fetchedAt": "2026-10-21T20:39:07.205Z",
+    "body": "A school in Stevens Point has opened an outdoor classroom designed with accessibility features such as ramps, tactile pathways, and sensory-friendly elements to support students with disabilities.\n\nRead more from the original source: [WSAW](https://www.wsaw.com/2026/10/21/stevens-point-school-unveils-accessible-outdoor-classroom)"
+  },
+  {
+    "title": "6th Circuit rejects broad reading of ADA accessibility rule",
+    "slug": "6th-circuit-rejects-broad-reading-of-ada-accessibility-rule-0bfd10fc",
+    "lang": "en",
+    "summary": "The United States Court of Appeals for the Sixth Circuit ruled that a proposed expansive interpretation of an Americans with Disabilities Act accessibility regulation is too broad, limiting its scope to specific contexts.",
+    "category": "laws-rights",
+    "tags": [
+      "ADA",
+      "court ruling",
+      "accessibility regulation"
+    ],
+    "sourceName": "Michigan Lawyers Weekly",
+    "sourceUrl": "https://milawyersweekly.com/news/2026/10/21/6th-circuit-ada-60-percent-rule",
+    "relatedSources": [
+      {
+        "name": "Michigan Lawyers Weekly",
+        "url": "https://milawyersweekly.com/news/2026/10/21/6th-circuit-ada-60-percent-rule"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-0bfd10fc",
+    "status": "published",
+    "translationOf": "6th-circuit-rejects-broad-reading-of-ada-accessibility-rule-zh-0bfd10fc",
+    "publishedAt": "2026-10-21T16:49:11.000Z",
+    "fetchedAt": "2026-10-21T20:39:22.677Z",
+    "body": "The United States Court of Appeals for the Sixth Circuit ruled that a proposed expansive interpretation of an Americans with Disabilities Act accessibility regulation is too broad, limiting its scope to specific contexts.\n\nRead more from the original source: [Michigan Lawyers Weekly](https://milawyersweekly.com/news/2026/10/21/6th-circuit-ada-60-percent-rule)"
+  },
+  {
+    "title": "Cleveland Cavaliers ranked last in NBA for TV broadcast accessibility",
+    "slug": "cleveland-cavaliers-ranked-last-in-nba-for-tv-broadcast-accessibility-f47329ff",
+    "lang": "en",
+    "summary": "A review of NBA teams’ television broadcasts found the Cleveland Cavaliers providing the least accessible viewing experience for fans with disabilities, lacking sufficient closed captioning and audio description.",
+    "category": "digital-a11y",
+    "tags": [
+      "TV broadcast",
+      "closed captioning",
+      "audio description",
+      "NBA"
+    ],
+    "sourceName": "Yahoo Sports",
+    "sourceUrl": "https://sports.yahoo.com/articles/cleveland-cavaliers-ranked-last-nba-144516378.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/articles/cleveland-cavaliers-ranked-last-nba-144516378.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f47329ff",
+    "status": "published",
+    "translationOf": "cleveland-cavaliers-ranked-last-in-nba-for-tv-broadcast-accessibility-zh-f47329ff",
+    "publishedAt": "2026-10-21T14:45:16.000Z",
+    "fetchedAt": "2026-10-21T20:39:22.784Z",
+    "body": "A review of NBA teams’ television broadcasts found the Cleveland Cavaliers providing the least accessible viewing experience for fans with disabilities, lacking sufficient closed captioning and audio description.\n\nRead more from the original source: [Yahoo Sports](https://sports.yahoo.com/articles/cleveland-cavaliers-ranked-last-nba-144516378.html)"
+  },
+  {
+    "title": "City Of Naperville's New Website Promises Better 'Accessibility, Usability, Performance'",
+    "slug": "city-of-napervilles-new-website-promises-better-accessibility-usability-performa-b5b872ee",
+    "lang": "en",
+    "summary": "Naperville’s newly launched municipal website emphasizes improved accessibility features aimed at complying with WCAG standards, alongside enhancements in usability and overall performance for all residents.",
+    "category": "digital-a11y",
+    "tags": [
+      "municipal website",
+      "WCAG",
+      "usability",
+      "performance"
+    ],
+    "sourceName": "Patch",
+    "sourceUrl": "https://patch.com/illinois/naperville/city-napervilles-new-website-promises-better-accessibility-usability-performance",
+    "relatedSources": [
+      {
+        "name": "Patch",
+        "url": "https://patch.com/illinois/naperville/city-napervilles-new-website-promises-better-accessibility-usability-performance"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-b5b872ee",
+    "status": "published",
+    "translationOf": "city-of-napervilles-new-website-promises-better-accessibility-usability-performa-zh-b5b872ee",
+    "publishedAt": "2026-10-21T19:43:52.000Z",
+    "fetchedAt": "2026-10-21T20:39:22.862Z",
+    "body": "Naperville’s newly launched municipal website emphasizes improved accessibility features aimed at complying with WCAG standards, alongside enhancements in usability and overall performance for all residents.\n\nRead more from the original source: [Patch](https://patch.com/illinois/naperville/city-napervilles-new-website-promises-better-accessibility-usability-performance)"
+  },
+  {
+    "title": "Build a safe and accessible home - WDBJ7",
+    "slug": "build-a-safe-and-accessible-home-wdbj7-e2756b7a",
+    "lang": "en",
+    "summary": "WDBJ7 reports on how to construct homes that are both safe and accessible, focusing on features that accommodate people with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "home",
+      "accessibility",
+      "design"
+    ],
+    "sourceName": "WDBJ7",
+    "sourceUrl": "https://www.wdbj7.com/2026/10/21/building-safe-accessible-home",
+    "relatedSources": [
+      {
+        "name": "WDBJ7",
+        "url": "https://www.wdbj7.com/2026/10/21/building-safe-accessible-home"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e2756b7a",
+    "status": "published",
+    "translationOf": "build-a-safe-and-accessible-home-wdbj7-zh-e2756b7a",
+    "publishedAt": "2026-10-21T13:00:00.000Z",
+    "fetchedAt": "2026-10-21T20:39:34.782Z",
+    "body": "WDBJ7 reports on how to construct homes that are both safe and accessible, focusing on features that accommodate people with disabilities.\n\nRead more from the original source: [WDBJ7](https://www.wdbj7.com/2026/10/21/building-safe-accessible-home)"
+  },
+  {
+    "title": "Daan Mazu Barrier-Free Travel! Creating an All-Age Shared Coastal Friendly Spot",
+    "slug": "daan-mazu-barrier-free-travel-creating-an-all-age-shared-coastal-friendly-spot-f9507a03",
+    "lang": "en",
+    "summary": "Taichung City Government highlights the development of barrier-free coastal attractions around Daan Mazu, designed for shared use by all ages and abilities.",
+    "category": "physical-design",
+    "tags": [
+      "tourism",
+      "barrier-free",
+      "coastal",
+      "inclusive"
+    ],
+    "sourceName": "臺中市政府全球資訊網",
+    "sourceUrl": "https://www.taichung.gov.tw/8868/8872/9962/3391252",
+    "relatedSources": [
+      {
+        "name": "臺中市政府全球資訊網",
+        "url": "https://www.taichung.gov.tw/8868/8872/9962/3391252"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f9507a03",
+    "status": "published",
+    "translationOf": "daan-mazu-barrier-free-travel-creating-an-all-age-shared-coastal-friendly-spot-zh-f9507a03",
+    "publishedAt": "2026-10-13T08:33:00.000Z",
+    "fetchedAt": "2026-10-21T20:39:34.890Z",
+    "body": "Taichung City Government highlights the development of barrier-free coastal attractions around Daan Mazu, designed for shared use by all ages and abilities.\n\nRead more from the original source: [臺中市政府全球資訊網](https://www.taichung.gov.tw/8868/8872/9962/3391252)"
+  },
+  {
+    "title": "Disabled Adult Child: A Parent's Path to Residential Care",
+    "slug": "disabled-adult-child-a-parents-path-to-residential-care-eacf3e74",
+    "lang": "en",
+    "summary": "A parent shares their experience navigating services for a daughter with multiple disabilities, from school programs to adult day care, respite, and residential placement.",
+    "category": "case-studies",
+    "tags": [
+      "disability",
+      "residential care",
+      "parenting"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/disability/blogs/dac-care.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/disability/blogs/dac-care.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-eacf3e74",
+    "status": "published",
+    "translationOf": "disabled-adult-child-a-parents-path-to-residential-care-zh-eacf3e74",
+    "publishedAt": "2026-10-21T19:21:00.000Z",
+    "fetchedAt": "2026-10-21T20:39:49.133Z",
+    "body": "A parent shares their experience navigating services for a daughter with multiple disabilities, from school programs to adult day care, respite, and residential placement.\n\nRead more from the original source: [Unknown source](https://www.disabled-world.com/disability/blogs/dac-care.php)"
+  },
+  {
+    "title": "Burnham backs mandatory suicide prevention training for social workers after parent-carer Matilda Davis’s death",
+    "slug": "burnham-backs-mandatory-suicide-prevention-training-for-social-workers-after-par-79c4c7c2",
+    "lang": "en",
+    "summary": "Following the suicide of Matilda Davis, a caregiver for her disabled son, UK politician Andy Burnham advocates compulsory suicide‑prevention training for social workers to address carer burnout.",
+    "category": "laws-rights",
+    "tags": [
+      "suicide prevention",
+      "social work",
+      "caregiver",
+      "disability"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/society/2026/oct/21/andy-burnham-backs-mandatory-suicide-prevention-training-after-matilda-davis-death",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/society/2026/oct/21/andy-burnham-backs-mandatory-suicide-prevention-training-after-matilda-davis-death"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-79c4c7c2",
+    "status": "published",
+    "translationOf": "burnham-backs-mandatory-suicide-prevention-training-for-social-workers-after-par-zh-79c4c7c2",
+    "publishedAt": "2026-10-21T14:46:41.000Z",
+    "fetchedAt": "2026-10-21T20:39:49.239Z",
+    "body": "Following the suicide of Matilda Davis, a caregiver for her disabled son, UK politician Andy Burnham advocates compulsory suicide‑prevention training for social workers to address carer burnout.\n\nRead more from the original source: [Unknown source](https://www.theguardian.com/society/2026/oct/21/andy-burnham-backs-mandatory-suicide-prevention-training-after-matilda-davis-death)"
+  },
+  {
+    "title": "ventriloquist-mcp 0.2.0",
+    "slug": "ventriloquist-mcp-020-3898ef61",
+    "lang": "en",
+    "summary": "A Python package that turns macOS applications into MCP servers via the accessibility API, enabling deterministic replay of tool calls without screenshots or per‑step models.",
+    "category": "assistive-tech",
+    "tags": [
+      "accessibility API",
+      "Mac",
+      "automation",
+      "MCP"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/ventriloquist-mcp/0.2.0",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/ventriloquist-mcp/0.2.0"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-3898ef61",
+    "status": "published",
+    "translationOf": "ventriloquist-mcp-020-zh-3898ef61",
+    "publishedAt": "2026-10-20T19:30:54.000Z",
+    "fetchedAt": "2026-10-21T20:39:49.319Z",
+    "body": "A Python package that turns macOS applications into MCP servers via the accessibility API, enabling deterministic replay of tool calls without screenshots or per‑step models.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/ventriloquist-mcp/0.2.0)"
+  },
+  {
+    "title": "Ventriloquist‑MCP Added to PyPI",
+    "slug": "ventriloquistmcp-added-to-pypi-f074cade",
+    "lang": "en",
+    "summary": "A new PyPI package lets developers turn macOS applications into MCP servers by leveraging the system accessibility API, enabling deterministic UI replay without screenshots or per‑step models.",
+    "category": "assistive-tech",
+    "tags": [
+      "accessibility API",
+      "automation",
+      "macOS"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/ventriloquist-mcp",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/ventriloquist-mcp"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-f074cade",
+    "status": "published",
+    "translationOf": "ventriloquistmcp-added-to-pypi-zh-f074cade",
+    "publishedAt": "2026-10-20T19:30:50.000Z",
+    "fetchedAt": "2026-10-21T20:40:10.090Z",
+    "body": "A new PyPI package lets developers turn macOS applications into MCP servers by leveraging the system accessibility API, enabling deterministic UI replay without screenshots or per‑step models.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/ventriloquist-mcp)"
+  },
+  {
+    "title": "Calibre Accessibility Tool for E‑Book Editing",
+    "slug": "calibre-accessibility-tool-for-ebook-editing-849576fe",
+    "lang": "en",
+    "summary": "An in‑editor tool for Calibre helps non‑technical users create accessible ebooks by checking and fixing common accessibility issues without needing external tools like ACE.",
+    "category": "digital-a11y",
+    "tags": [
+      "ebook",
+      "accessibility",
+      "Calibre",
+      "tool"
+    ],
+    "sourceName": "Mobileread.com",
+    "sourceUrl": "https://www.mobileread.com/forums/showthread.php?s=10bd9343186b999e238aa2eb553813d9&p=4617355",
+    "relatedSources": [
+      {
+        "name": "Mobileread.com",
+        "url": "https://www.mobileread.com/forums/showthread.php?s=10bd9343186b999e238aa2eb553813d9&p=4617355"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-849576fe",
+    "status": "published",
+    "translationOf": "calibre-accessibility-tool-for-ebook-editing-zh-849576fe",
+    "publishedAt": "2026-10-20T16:45:03.000Z",
+    "fetchedAt": "2026-10-21T20:40:10.198Z",
+    "body": "An in‑editor tool for Calibre helps non‑technical users create accessible ebooks by checking and fixing common accessibility issues without needing external tools like ACE.\n\nRead more from the original source: [Mobileread.com](https://www.mobileread.com/forums/showthread.php?s=10bd9343186b999e238aa2eb553813d9&p=4617355)"
   }
 ]
