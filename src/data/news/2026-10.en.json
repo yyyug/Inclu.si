@@ -76778,5 +76778,39 @@
     "publishedAt": "2026-10-20T16:45:03.000Z",
     "fetchedAt": "2026-10-21T20:40:10.198Z",
     "body": "An in‑editor tool for Calibre helps non‑technical users create accessible ebooks by checking and fixing common accessibility issues without needing external tools like ACE.\n\nRead more from the original source: [Mobileread.com](https://www.mobileread.com/forums/showthread.php?s=10bd9343186b999e238aa2eb553813d9&p=4617355)"
+  },
+  {
+    "title": "Aira, Google DeepMind and Guided Vision: How Blind Testers Trained Gemini",
+    "slug": "aira-google-deepmind-and-guided-vision-how-blind-testers-trained-gemini-d920fbfc",
+    "lang": "en",
+    "summary": "Blind testers from Aira collaborated with Google DeepMind to train the new Guided Vision feature in Gemini Live, sharing insights on how the AI assists blind users and discussing implications for Aira’s future.",
+    "category": "assistive-tech",
+    "tags": [
+      "blind",
+      "AI",
+      "Guided Vision",
+      "Gemini",
+      "accessibility"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/aira-google-deepmind-and-guided-vision-how-blind-testers-trained-gemini-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/aira-google-deepmind-and-guided-vision-how-blind-testers-trained-gemini-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-d920fbfc",
+    "status": "published",
+    "translationOf": "aira-google-deepmind-and-guided-vision-how-blind-testers-trained-gemini-zh-d920fbfc",
+    "publishedAt": "2026-10-21T16:00:27.000Z",
+    "fetchedAt": "2026-10-21T20:42:48.232Z",
+    "body": "Blind testers from Aira collaborated with Google DeepMind to train the new Guided Vision feature in Gemini Live, sharing insights on how the AI assists blind users and discussing implications for Aira’s future.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/aira-google-deepmind-and-guided-vision-how-blind-testers-trained-gemini-2)"
   }
 ]

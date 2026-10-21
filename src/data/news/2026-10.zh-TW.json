@@ -76778,5 +76778,39 @@
     "publishedAt": "2026-10-20T16:45:03.000Z",
     "fetchedAt": "2026-10-21T20:40:10.198Z",
     "body": "此內嵌於 Calibre 編輯器的工具讓非專業使用者能輕鬆製作無障礙電子書，自動檢查並修復常見問題，無需額外工具如 ACE。\n\n原文來源： [Mobileread.com](https://www.mobileread.com/forums/showthread.php?s=10bd9343186b999e238aa2eb553813d9&p=4617355)"
+  },
+  {
+    "title": "Aira、Google DeepMind 與導引視覺：盲人測試員如何訓練 Gemini",
+    "slug": "aira-google-deepmind-and-guided-vision-how-blind-testers-trained-gemini-zh-d920fbfc",
+    "lang": "zh-TW",
+    "summary": "來自 Aira 的盲人測試員與 Google DeepMind 合作，訓練了 Gemini Live 新增的導引視覺功能，說明盲人使用者如何從中受益，並探討對 Aira 未來發展的影響。",
+    "category": "assistive-tech",
+    "tags": [
+      "blind",
+      "AI",
+      "Guided Vision",
+      "Gemini",
+      "accessibility"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/aira-google-deepmind-and-guided-vision-how-blind-testers-trained-gemini-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/aira-google-deepmind-and-guided-vision-how-blind-testers-trained-gemini-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-d920fbfc",
+    "status": "published",
+    "translationOf": "aira-google-deepmind-and-guided-vision-how-blind-testers-trained-gemini-d920fbfc",
+    "publishedAt": "2026-10-21T16:00:27.000Z",
+    "fetchedAt": "2026-10-21T20:42:48.232Z",
+    "body": "來自 Aira 的盲人測試員與 Google DeepMind 合作，訓練了 Gemini Live 新增的導引視覺功能，說明盲人使用者如何從中受益，並探討對 Aira 未來發展的影響。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/aira-google-deepmind-and-guided-vision-how-blind-testers-trained-gemini-2)"
   }
 ]
