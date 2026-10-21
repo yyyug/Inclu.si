@@ -47064,5 +47064,38 @@
     "publishedAt": "2026-05-13T07:00:00.000Z",
     "fetchedAt": "2026-10-04T21:54:32.027Z",
     "body": "The Sharjah-based organization 'Humanity Sharjah' has started a campaign called 'Self-Advocates' aimed at empowering people with disabilities, encouraging self‑advocacy, and raising public awareness about accessibility and inclusion in the emirate.\n\nRead more from the original source: [news.google.com](https://sharjah24.ae/ar/Articles/2026/05/13/KMR12)"
+  },
+  {
+    "title": "Accessible Seaside Promotion – Outcomes of the Taiwan Accessible Ocean Day Event",
+    "slug": "accessible-seaside-promotion-outcomes-of-the-taiwan-accessible-ocean-day-event-008c95eb",
+    "lang": "en",
+    "summary": "The Ocean Affairs Council, together with the Taiwanese Association for Recreation and Sports of Persons with Disabilities, held Taiwan Accessible Ocean Day. The event offered beach wheelchairs, adaptive swimming aids and guided services, enabling people with disabilities to safely enjoy coastal activities.",
+    "category": "case-studies",
+    "tags": [
+      "accessible beach",
+      "disability recreation",
+      "Ocean Day",
+      "Taiwan"
+    ],
+    "sourceName": "海洋委員會",
+    "sourceUrl": "https://www.oac.gov.tw/ch/home.jsp?id=558&parentpath=0%2C513%2C533%2C541&mcustomize=onemessages_view.jsp&dataserno=202512150002",
+    "relatedSources": [
+      {
+        "name": "海洋委員會",
+        "url": "https://www.oac.gov.tw/ch/home.jsp?id=558&parentpath=0%2C513%2C533%2C541&mcustomize=onemessages_view.jsp&dataserno=202512150002"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-008c95eb",
+    "status": "published",
+    "translationOf": "accessible-seaside-promotion-outcomes-of-the-taiwan-accessible-ocean-day-event-zh-008c95eb",
+    "publishedAt": "2026-05-25T15:00:23.000Z",
+    "fetchedAt": "2026-10-21T13:51:07.832Z",
+    "body": "The Ocean Affairs Council, together with the Taiwanese Association for Recreation and Sports of Persons with Disabilities, held Taiwan Accessible Ocean Day. The event offered beach wheelchairs, adaptive swimming aids and guided services, enabling people with disabilities to safely enjoy coastal activities.\n\nRead more from the original source: [海洋委員會](https://www.oac.gov.tw/ch/home.jsp?id=558&parentpath=0%2C513%2C533%2C541&mcustomize=onemessages_view.jsp&dataserno=202512150002)"
   }
 ]
