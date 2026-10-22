@@ -81458,5 +81458,71 @@
     "publishedAt": "2026-10-21T17:47:56.000Z",
     "fetchedAt": "2026-10-22T20:35:09.680Z",
     "body": "The agenda outlines announcements including the release of WordPress 7.2 Beta 1, the upcoming Beta 2 schedule, the roadmap to version 7.2, and calls for testing assistance.\n\nRead more from the original source: [Wordpress.org](https://make.wordpress.org/accessibility/2026/10/21/accessibility-team-meeting-agenda-october-22-2026)"
+  },
+  {
+    "title": "Sky’s Premier League Audio Description, Freight Fate and Apple HomeView",
+    "slug": "skys-premier-league-audio-description-freight-fate-and-apple-homeview-2605c9cd",
+    "lang": "en",
+    "summary": "Sky Sports adds audio description and live captions to Premier League matches, while a listener expresses frustration with Sky Go, highlighting remaining gaps in TV accessibility.",
+    "category": "digital-a11y",
+    "tags": [
+      "audio description",
+      "live captions",
+      "Premier League",
+      "TV accessibility"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/skys-premier-league-audio-description-freight-fate-and-apple-homeview-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/skys-premier-league-audio-description-freight-fate-and-apple-homeview-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-2605c9cd",
+    "status": "published",
+    "translationOf": "skys-premier-league-audio-description-freight-fate-and-apple-homeview-zh-2605c9cd",
+    "publishedAt": "2026-10-22T16:00:14.000Z",
+    "fetchedAt": "2026-10-22T20:36:57.450Z",
+    "body": "Sky Sports adds audio description and live captions to Premier League matches, while a listener expresses frustration with Sky Go, highlighting remaining gaps in TV accessibility.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/skys-premier-league-audio-description-freight-fate-and-apple-homeview-2)"
+  },
+  {
+    "title": "Sky’s Premier League Audio Description, Freight Fate and Apple HomeView",
+    "slug": "skys-premier-league-audio-description-freight-fate-and-apple-homeview-a345949d",
+    "lang": "en",
+    "summary": "Sky Sports adds audio description and live captions to Premier League matches, while a listener expresses frustration with Sky Go, highlighting remaining gaps in TV accessibility.",
+    "category": "digital-a11y",
+    "tags": [
+      "audio description",
+      "live captions",
+      "Premier League",
+      "TV accessibility"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/skys-premier-league-audio-description-freight-fate-and-apple-homeview",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/skys-premier-league-audio-description-freight-fate-and-apple-homeview"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-a345949d",
+    "status": "published",
+    "translationOf": "skys-premier-league-audio-description-freight-fate-and-apple-homeview-zh-a345949d",
+    "publishedAt": "2026-10-22T16:00:00.000Z",
+    "fetchedAt": "2026-10-22T20:36:57.535Z",
+    "body": "Sky Sports adds audio description and live captions to Premier League matches, while a listener expresses frustration with Sky Go, highlighting remaining gaps in TV accessibility.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/skys-premier-league-audio-description-freight-fate-and-apple-homeview)"
   }
 ]

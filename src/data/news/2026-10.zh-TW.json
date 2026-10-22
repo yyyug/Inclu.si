@@ -81458,5 +81458,71 @@
     "publishedAt": "2026-10-21T17:47:56.000Z",
     "fetchedAt": "2026-10-22T20:35:09.680Z",
     "body": "議程包括宣布 WordPress 7.2 Beta 1 已發布、Beta 2 將於 10 月 27 日發行、版本 7.2 的路線圖，以及邀請參與測試的相關事項。\n\n原文來源： [Wordpress.org](https://make.wordpress.org/accessibility/2026/10/21/accessibility-team-meeting-agenda-october-22-2026)"
+  },
+  {
+    "title": "天空體育的英超音訊描述、貨運命運與 Apple HomeView",
+    "slug": "skys-premier-league-audio-description-freight-fate-and-apple-homeview-zh-2605c9cd",
+    "lang": "zh-TW",
+    "summary": "天空體育為英超比賽加入音訊描述與即時字幕，但一位聽眾對 Sky Go 的不滿表明廣播商在無障礙方面仍需努力。",
+    "category": "digital-a11y",
+    "tags": [
+      "audio description",
+      "live captions",
+      "Premier League",
+      "TV accessibility"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/skys-premier-league-audio-description-freight-fate-and-apple-homeview-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/skys-premier-league-audio-description-freight-fate-and-apple-homeview-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-2605c9cd",
+    "status": "published",
+    "translationOf": "skys-premier-league-audio-description-freight-fate-and-apple-homeview-2605c9cd",
+    "publishedAt": "2026-10-22T16:00:14.000Z",
+    "fetchedAt": "2026-10-22T20:36:57.450Z",
+    "body": "天空體育為英超比賽加入音訊描述與即時字幕，但一位聽眾對 Sky Go 的不滿表明廣播商在無障礙方面仍需努力。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/skys-premier-league-audio-description-freight-fate-and-apple-homeview-2)"
+  },
+  {
+    "title": "天空體育的英超音訊描述、貨運命運與 Apple HomeView",
+    "slug": "skys-premier-league-audio-description-freight-fate-and-apple-homeview-zh-a345949d",
+    "lang": "zh-TW",
+    "summary": "天空體育為英超比賽加入音訊描述與即時字幕，但一位聽眾對 Sky Go 的不滿表明廣播商在無障礙方面仍需努力。",
+    "category": "digital-a11y",
+    "tags": [
+      "audio description",
+      "live captions",
+      "Premier League",
+      "TV accessibility"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/skys-premier-league-audio-description-freight-fate-and-apple-homeview",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/skys-premier-league-audio-description-freight-fate-and-apple-homeview"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-a345949d",
+    "status": "published",
+    "translationOf": "skys-premier-league-audio-description-freight-fate-and-apple-homeview-a345949d",
+    "publishedAt": "2026-10-22T16:00:00.000Z",
+    "fetchedAt": "2026-10-22T20:36:57.535Z",
+    "body": "天空體育為英超比賽加入音訊描述與即時字幕，但一位聽眾對 Sky Go 的不滿表明廣播商在無障礙方面仍需努力。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/skys-premier-league-audio-description-freight-fate-and-apple-homeview)"
   }
 ]
