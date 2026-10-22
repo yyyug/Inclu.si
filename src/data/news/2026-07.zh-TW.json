@@ -83619,5 +83619,39 @@
     "publishedAt": "2026-07-29T07:00:00.000Z",
     "fetchedAt": "2026-10-12T20:01:42.843Z",
     "body": "一篇關於新發布的殘障人士項目與計劃指南的評論，重點介紹了沙烏地阿拉伯在政策發展與支持體系方面的進展。\n\n原文來源： [news.google.com](https://www.al-jazirah.com/2026/20260729/en1.htm)"
+  },
+  {
+    "title": "私立及國際學校殘障學生名額提高至40%",
+    "slug": "quota-for-students-with-disabilities-in-private-and-international-schools-increa-zh-7912ccf8",
+    "lang": "zh-TW",
+    "summary": "沙烏地阿拉伯已將私立及國際學校中殘障學生的強制錄取名額提高至40%，旨在增強包容性教育機會。",
+    "category": "laws-rights",
+    "tags": [
+      "education",
+      "policy",
+      "inclusive",
+      "saudi-arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.okaz.com.sa/local/na/2258072",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.okaz.com.sa/local/na/2258072"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-7912ccf8",
+    "status": "published",
+    "translationOf": "quota-for-students-with-disabilities-in-private-and-international-schools-increa-7912ccf8",
+    "publishedAt": "2026-07-22T07:00:00.000Z",
+    "fetchedAt": "2026-10-22T15:38:22.343Z",
+    "body": "沙烏地阿拉伯已將私立及國際學校中殘障學生的強制錄取名額提高至40%，旨在增強包容性教育機會。\n\n原文來源： [news.google.com](https://www.okaz.com.sa/local/na/2258072)"
   }
 ]
