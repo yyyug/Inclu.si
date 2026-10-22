@@ -78329,5 +78329,646 @@
     "publishedAt": "2026-10-21T09:49:00.000Z",
     "fetchedAt": "2026-10-21T21:59:47.132Z",
     "body": "埃及苏哈格市启动名为「友好医院」的新倡议，旨在改善医疗系统对残障人士的医疗可及性并保障其权益。\n\n原文來源： [news.google.com](https://gate.ahram.org.eg/News/5969137.aspx)"
+  },
+  {
+    "title": "克利夫兰骑士队在当地广播可及性报告中排名垫底",
+    "slug": "cavs-rank-last-in-local-broadcast-accessibility-report-yahoo-sports-zh-95e330ce",
+    "lang": "zh-TW",
+    "summary": "报告显示克利夫兰骑士队的当地电视转播在无障碍功能（如闭幕字幕和音频描述）方面得分最低，残疾观众观看受限。",
+    "category": "digital-a11y",
+    "tags": [
+      "broadcast",
+      "closed captioning",
+      "audio description",
+      "disability access"
+    ],
+    "sourceName": "Yahoo Sports",
+    "sourceUrl": "https://sports.yahoo.com/articles/cavs-rank-last-local-broadcast-170050672.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/articles/cavs-rank-last-local-broadcast-170050672.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-95e330ce",
+    "status": "published",
+    "translationOf": "cavs-rank-last-in-local-broadcast-accessibility-report-yahoo-sports-95e330ce",
+    "publishedAt": "2026-10-21T17:00:50.000Z",
+    "fetchedAt": "2026-10-22T13:48:42.314Z",
+    "body": "报告显示克利夫兰骑士队的当地电视转播在无障碍功能（如闭幕字幕和音频描述）方面得分最低，残疾观众观看受限。\n\n原文來源： [Yahoo Sports](https://sports.yahoo.com/articles/cavs-rank-last-local-broadcast-170050672.html)"
+  },
+  {
+    "title": "弗明顿农场安装坡道使干草车之旅对轮椅使用者无障碍",
+    "slug": "farmington-farm-installs-ramp-to-make-hayride-accessible-to-people-who-use-wheel-zh-989fd49f",
+    "lang": "zh-TW",
+    "summary": "弗明顿农场为其干草车之旅新建了轮椅可通行的坡道，使使用轮椅的游客也能充分体验活动。",
+    "category": "physical-design",
+    "tags": [
+      "ramp",
+      "wheelchair access",
+      "hayride",
+      "inclusive recreation"
+    ],
+    "sourceName": "CBS News",
+    "sourceUrl": "https://www.cbsnews.com/minnesota/news/farmington-farm-ramp-hayride-accessibility",
+    "relatedSources": [
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/minnesota/news/farmington-farm-ramp-hayride-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-989fd49f",
+    "status": "published",
+    "translationOf": "farmington-farm-installs-ramp-to-make-hayride-accessible-to-people-who-use-wheel-989fd49f",
+    "publishedAt": "2026-10-21T23:56:46.000Z",
+    "fetchedAt": "2026-10-22T13:48:42.459Z",
+    "body": "弗明顿农场为其干草车之旅新建了轮椅可通行的坡道，使使用轮椅的游客也能充分体验活动。\n\n原文來源： [CBS News](https://www.cbsnews.com/minnesota/news/farmington-farm-ramp-hayride-accessibility)"
+  },
+  {
+    "title": "他已适应轮椅生活。他希望华盛顿特区也能做到。",
+    "slug": "hes-adapted-to-a-wheelchair-he-wishes-dc-would-too-notus-zh-08b0771c",
+    "lang": "zh-TW",
+    "summary": "一位轮椅使用者分享了他如何适应出行挑战，并呼吁华盛顿特区改善基础设施与政策，以更好地容纳残障人士。",
+    "category": "case-studies",
+    "tags": [
+      "wheelchair",
+      "DC accessibility",
+      "advocacy",
+      "urban infrastructure"
+    ],
+    "sourceName": "NOTUS",
+    "sourceUrl": "https://www.washingtonsun.com/metro/dc-wheelchair-accessibility-hearing-metro-uber",
+    "relatedSources": [
+      {
+        "name": "NOTUS",
+        "url": "https://www.washingtonsun.com/metro/dc-wheelchair-accessibility-hearing-metro-uber"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-08b0771c",
+    "status": "published",
+    "translationOf": "hes-adapted-to-a-wheelchair-he-wishes-dc-would-too-notus-08b0771c",
+    "publishedAt": "2026-10-21T09:22:04.000Z",
+    "fetchedAt": "2026-10-22T13:48:42.567Z",
+    "body": "一位轮椅使用者分享了他如何适应出行挑战，并呼吁华盛顿特区改善基础设施与政策，以更好地容纳残障人士。\n\n原文來源： [NOTUS](https://www.washingtonsun.com/metro/dc-wheelchair-accessibility-hearing-metro-uber)"
+  },
+  {
+    "title": "學生與教職員在大學論壇中表達無障礙關切並提出改變建議",
+    "slug": "students-and-staff-voice-accessibility-concerns-propose-changes-in-university-fo-zh-ea986273",
+    "lang": "zh-TW",
+    "summary": "大學的學生與教職員在論壇上提出無障礙設施的問題，並建議相應的改進措施。",
+    "category": "physical-design",
+    "tags": [
+      "university",
+      "accessibility",
+      "forum"
+    ],
+    "sourceName": "The Daily Texan",
+    "sourceUrl": "https://thedailytexan.com/2026/10/21/students-and-staff-voice-accessibility-concerns-propose-changes-in-university-forum",
+    "relatedSources": [
+      {
+        "name": "The Daily Texan",
+        "url": "https://thedailytexan.com/2026/10/21/students-and-staff-voice-accessibility-concerns-propose-changes-in-university-forum"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ea986273",
+    "status": "published",
+    "translationOf": "students-and-staff-voice-accessibility-concerns-propose-changes-in-university-fo-ea986273",
+    "publishedAt": "2026-10-22T01:18:33.000Z",
+    "fetchedAt": "2026-10-22T13:48:55.504Z",
+    "body": "大學的學生與教職員在論壇上提出無障礙設施的問題，並建議相應的改進措施。\n\n原文來源： [The Daily Texan](https://thedailytexan.com/2026/10/21/students-and-staff-voice-accessibility-concerns-propose-changes-in-university-forum)"
+  },
+  {
+    "title": "城市提供財政援助用於房屋維修與無障礙升級",
+    "slug": "city-offers-financial-help-for-home-repairs-accessibility-upgrades-pointplover-m-zh-33d43035",
+    "lang": "zh-TW",
+    "summary": "城市提供財政補助，幫助居民進行房屋維修及安裝坡道、扶手等無障礙設施，以支援殘障人士。",
+    "category": "physical-design",
+    "tags": [
+      "city",
+      "financial aid",
+      "home repairs",
+      "accessibility"
+    ],
+    "sourceName": "Point/Plover Metro Wire",
+    "sourceUrl": "https://spmetrowire.com/city-offers-financial-help-for-home-repairs-accessibility-upgrades",
+    "relatedSources": [
+      {
+        "name": "Point/Plover Metro Wire",
+        "url": "https://spmetrowire.com/city-offers-financial-help-for-home-repairs-accessibility-upgrades"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-33d43035",
+    "status": "published",
+    "translationOf": "city-offers-financial-help-for-home-repairs-accessibility-upgrades-pointplover-m-33d43035",
+    "publishedAt": "2026-10-22T03:35:29.000Z",
+    "fetchedAt": "2026-10-22T13:48:55.619Z",
+    "body": "城市提供財政補助，幫助居民進行房屋維修及安裝坡道、扶手等無障礙設施，以支援殘障人士。\n\n原文來源： [Point/Plover Metro Wire](https://spmetrowire.com/city-offers-financial-help-for-home-repairs-accessibility-upgrades)"
+  },
+  {
+    "title": "蘋果 iPhone Duo 應在即將到來的更新中加入可達性功能",
+    "slug": "apples-iphone-duo-should-get-reachability-accessibility-in-an-upcoming-update-zh-f3ce3610",
+    "lang": "zh-TW",
+    "summary": "蘋果計畫在即將推出的 iPhone Duo 更新中加入「可達性」功能，讓運動障礙使用者更易觸及螢幕頂部。",
+    "category": "digital-a11y",
+    "tags": [
+      "iPhone",
+      "Reachability",
+      "accessibility"
+    ],
+    "sourceName": "CNET",
+    "sourceUrl": "https://www.cnet.com/tech/mobile/apples-iphone-duo-reachability-accessibility-upcoming-update",
+    "relatedSources": [
+      {
+        "name": "CNET",
+        "url": "https://www.cnet.com/tech/mobile/apples-iphone-duo-reachability-accessibility-upcoming-update"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f3ce3610",
+    "status": "published",
+    "translationOf": "apples-iphone-duo-should-get-reachability-accessibility-in-an-upcoming-update-f3ce3610",
+    "publishedAt": "2026-10-21T21:16:59.000Z",
+    "fetchedAt": "2026-10-22T13:49:06.698Z",
+    "body": "蘋果計畫在即將推出的 iPhone Duo 更新中加入「可達性」功能，讓運動障礙使用者更易觸及螢幕頂部。\n\n原文來源： [CNET](https://www.cnet.com/tech/mobile/apples-iphone-duo-reachability-accessibility-upcoming-update)"
+  },
+  {
+    "title": "縮小活動中的無障礙差距",
+    "slug": "closing-the-accessibility-gap-in-events-zh-46cb2dfa",
+    "lang": "zh-TW",
+    "summary": "事件產業領袖討論縮小無障礙差距的策略，確保場地與服務能適殘障參與者。",
+    "category": "physical-design",
+    "tags": [
+      "events",
+      "accessibility",
+      "ADA"
+    ],
+    "sourceName": "Event Industry News",
+    "sourceUrl": "https://www.eventindustrynews.com/news/closing-the-accessibility-gap-in-events",
+    "relatedSources": [
+      {
+        "name": "Event Industry News",
+        "url": "https://www.eventindustrynews.com/news/closing-the-accessibility-gap-in-events"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-46cb2dfa",
+    "status": "published",
+    "translationOf": "closing-the-accessibility-gap-in-events-46cb2dfa",
+    "publishedAt": "2026-10-22T09:00:00.000Z",
+    "fetchedAt": "2026-10-22T13:49:06.808Z",
+    "body": "事件產業領袖討論縮小無障礙差距的策略，確保場地與服務能適殘障參與者。\n\n原文來源： [Event Industry News](https://www.eventindustrynews.com/news/closing-the-accessibility-gap-in-events)"
+  },
+  {
+    "title": "STV 被選中負責曼哈頓中城地鐵站的 ADA 無障礙升級工程",
+    "slug": "stv-selected-to-manage-ada-accessibility-upgrades-at-midtown-manhattan-subway-st-zh-5cc66196",
+    "lang": "zh-TW",
+    "summary": "STV 已被選中負責曼哈頓中城地鐵站的 ADA 無障礙升級工程，如安裝電梯與坡道，以提升殘障乘客的流動性。",
+    "category": "physical-design",
+    "tags": [
+      "subway",
+      "ADA",
+      "accessibility",
+      "Manhattan"
+    ],
+    "sourceName": "American Journal of Transportation",
+    "sourceUrl": "https://www.ajot.com/news/stv-selected-to-manage-ada-accessibility-upgrades-at-midtown-manhattan-subway-stations",
+    "relatedSources": [
+      {
+        "name": "American Journal of Transportation",
+        "url": "https://www.ajot.com/news/stv-selected-to-manage-ada-accessibility-upgrades-at-midtown-manhattan-subway-stations"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5cc66196",
+    "status": "published",
+    "translationOf": "stv-selected-to-manage-ada-accessibility-upgrades-at-midtown-manhattan-subway-st-5cc66196",
+    "publishedAt": "2026-10-21T18:24:00.000Z",
+    "fetchedAt": "2026-10-22T13:49:06.916Z",
+    "body": "STV 已被選中負責曼哈頓中城地鐵站的 ADA 無障礙升級工程，如安裝電梯與坡道，以提升殘障乘客的流動性。\n\n原文來源： [American Journal of Transportation](https://www.ajot.com/news/stv-selected-to-manage-ada-accessibility-upgrades-at-midtown-manhattan-subway-stations)"
+  },
+  {
+    "title": "公園不只好玩、更要好走！ 中市建設局辦講習讓無障礙設計更貼近需求",
+    "slug": "parks-should-be-not-only-fun-but-also-easy-to-walk-taichung-city-bureau-of-const-zh-f84ec218",
+    "lang": "zh-TW",
+    "summary": "臺中市建設局舉辦講習，提升公園無障礙設計，使步道與設施更符合行動不便者的需求。",
+    "category": "physical-design",
+    "tags": [
+      "park",
+      "universal design",
+      "mobility",
+      "Taichung"
+    ],
+    "sourceName": "臺中市政府全球資訊網",
+    "sourceUrl": "https://www.taichung.gov.tw/8868/8872/9962/3390375",
+    "relatedSources": [
+      {
+        "name": "臺中市政府全球資訊網",
+        "url": "https://www.taichung.gov.tw/8868/8872/9962/3390375"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f84ec218",
+    "status": "published",
+    "translationOf": "parks-should-be-not-only-fun-but-also-easy-to-walk-taichung-city-bureau-of-const-f84ec218",
+    "publishedAt": "2026-10-12T07:00:00.000Z",
+    "fetchedAt": "2026-10-22T13:49:16.751Z",
+    "body": "臺中市建設局舉辦講習，提升公園無障礙設計，使步道與設施更符合行動不便者的需求。\n\n原文來源： [臺中市政府全球資訊網](https://www.taichung.gov.tw/8868/8872/9962/3390375)"
+  },
+  {
+    "title": "藝術無障礙！台美身心障礙藝術交流展 串聯畫作與音樂邀民眾走進創作世界",
+    "slug": "art-without-barriers-taiwanus-disabled-artists-exchange-exhibition-links-paintin-zh-90610403",
+    "lang": "zh-TW",
+    "summary": "台美身心障礙藝術交流展結合畫作與音樂，展示殘障藝術家作品，鼓勵大眾參與共融文化。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "art exhibition",
+      "disability arts",
+      "Taiwan-US",
+      "inclusive culture"
+    ],
+    "sourceName": "視傳媒",
+    "sourceUrl": "https://www.nvns.net/news_view.php?new_sn=146334&new_csn=1467",
+    "relatedSources": [
+      {
+        "name": "視傳媒",
+        "url": "https://www.nvns.net/news_view.php?new_sn=146334&new_csn=1467"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-90610403",
+    "status": "published",
+    "translationOf": "art-without-barriers-taiwanus-disabled-artists-exchange-exhibition-links-paintin-90610403",
+    "publishedAt": "2026-10-16T03:43:24.000Z",
+    "fetchedAt": "2026-10-22T13:49:16.887Z",
+    "body": "台美身心障礙藝術交流展結合畫作與音樂，展示殘障藝術家作品，鼓勵大眾參與共融文化。\n\n原文來源： [視傳媒](https://www.nvns.net/news_view.php?new_sn=146334&new_csn=1467)"
+  },
+  {
+    "title": "Jemima Abu：無障礙技能讓AI建置成本大減58%",
+    "slug": "jemima-abu-accessibility-skills-cut-ai-deployment-costs-by-58-zh-a52329be",
+    "lang": "zh-TW",
+    "summary": "Jemima Abu 指出，在 AI 開發中加入無障礙專業知識可將部署成本降低 58%，顯示無障礙設計的商業價值。",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "accessibility skills",
+      "cost reduction",
+      "Jemima Abu"
+    ],
+    "sourceName": "BigGo 財經",
+    "sourceUrl": "https://finance.biggo.com.tw/news/5464b38aefbb13a5",
+    "relatedSources": [
+      {
+        "name": "BigGo 財經",
+        "url": "https://finance.biggo.com.tw/news/5464b38aefbb13a5"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a52329be",
+    "status": "published",
+    "translationOf": "jemima-abu-accessibility-skills-cut-ai-deployment-costs-by-58-a52329be",
+    "publishedAt": "2026-10-14T15:56:50.000Z",
+    "fetchedAt": "2026-10-22T13:49:16.989Z",
+    "body": "Jemima Abu 指出，在 AI 開發中加入無障礙專業知識可將部署成本降低 58%，顯示無障礙設計的商業價值。\n\n原文來源： [BigGo 財經](https://finance.biggo.com.tw/news/5464b38aefbb13a5)"
+  },
+  {
+    "title": "澳洲政府撥款3000萬澳元用於殘障人士醫療保健研究",
+    "slug": "australian-government-allocates-30-million-for-disability-health-care-research-zh-3e0e618a",
+    "lang": "zh-TW",
+    "summary": "經由Medical Research Future Fund的資助，將支持改善殘障人士健康狀況與醫療服務可及性的研究。",
+    "category": "laws-rights",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/10/22/health/research-funding-to-improve-health-care-for-persons-with-disabilities",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/10/22/health/research-funding-to-improve-health-care-for-persons-with-disabilities"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-3e0e618a",
+    "status": "published",
+    "translationOf": "australian-government-allocates-30-million-for-disability-health-care-research-3e0e618a",
+    "publishedAt": "2026-10-22T02:49:29.000Z",
+    "fetchedAt": "2026-10-22T13:49:29.331Z",
+    "body": "經由Medical Research Future Fund的資助，將支持改善殘障人士健康狀況與醫療服務可及性的研究。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/10/22/health/research-funding-to-improve-health-care-for-persons-with-disabilities)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "the-experiment-review-easily-the-most-disturbing-thing-on-tv-zh-049975bd",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/oct/21/the-experiment-channel-four-tv-review-uk-nazi-disability",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/21/the-experiment-channel-four-tv-review-uk-nazi-disability"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-049975bd",
+    "status": "draft",
+    "translationOf": "the-experiment-review-easily-the-most-disturbing-thing-on-tv-049975bd",
+    "publishedAt": "2026-10-21T22:35:02.000Z",
+    "fetchedAt": "2026-10-22T13:49:29.443Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://www.theguardian.com/tv-and-radio/2026/oct/21/the-experiment-channel-four-tv-review-uk-nazi-disability)"
+  },
+  {
+    "title": "歐盟報告指出過時資金模式導致輔助技術難以取得",
+    "slug": "eu-paper-highlights-barriers-to-assistive-technology-due-to-outdated-funding-zh-d36f98c4",
+    "lang": "zh-TW",
+    "summary": "研究顯示歐盟各國法律與資金方案不一致，使許多殘障者無法獲得所需輔助設備，並在跨國移動時喪失原有使用權。",
+    "category": "assistive-tech",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.edf-feph.org/new-paper-assistive-technology-still-inaccessible-to-many-due-to-outdated-funding-models",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.edf-feph.org/new-paper-assistive-technology-still-inaccessible-to-many-due-to-outdated-funding-models"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.edf-feph.org/feed",
+    "ingestProvider": "edf-feph.org",
+    "clusterId": "cluster-d36f98c4",
+    "status": "published",
+    "translationOf": "eu-paper-highlights-barriers-to-assistive-technology-due-to-outdated-funding-d36f98c4",
+    "publishedAt": "2026-10-22T06:17:47.000Z",
+    "fetchedAt": "2026-10-22T13:49:29.551Z",
+    "body": "研究顯示歐盟各國法律與資金方案不一致，使許多殘障者無法獲得所需輔助設備，並在跨國移動時喪失原有使用權。\n\n原文來源： [Unknown source](https://www.edf-feph.org/new-paper-assistive-technology-still-inaccessible-to-many-due-to-outdated-funding-models)"
+  },
+  {
+    "title": "Ramplint 0.5.1 無障礙檢查工具",
+    "slug": "ramplint-051-accessibility-linter-zh-926b1c33",
+    "lang": "zh-TW",
+    "summary": "一個用於 Django 和 Jinja2 模板的開源 WCAG 無障礙檢查工具，可協助開發者在開發階段偵測並修正無障礙問題。",
+    "category": "digital-a11y",
+    "tags": [
+      "django",
+      "jinja2",
+      "wcag",
+      "linter"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/ramplint/0.5.1",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/ramplint/0.5.1"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-926b1c33",
+    "status": "published",
+    "translationOf": "ramplint-051-accessibility-linter-926b1c33",
+    "publishedAt": "2026-10-21T13:30:52.000Z",
+    "fetchedAt": "2026-10-22T13:49:40.447Z",
+    "body": "一個用於 Django 和 Jinja2 模板的開源 WCAG 無障礙檢查工具，可協助開發者在開發階段偵測並修正無障礙問題。\n\n原文來源： [Pypi.org](https://pypi.org/project/ramplint/0.5.1)"
+  },
+  {
+    "title": "「被排除在殘疾付款之外」被視為對殘疾人士的一記耳光",
+    "slug": "slap-in-the-face-to-be-excluded-from-disability-payment-zh-9b7c260f",
+    "lang": "zh-TW",
+    "summary": "一群有工作的殘疾人士表示，殘疾付費應該是普遍且不經收入審查的，批評目前的排除做法是對他們的一記耳光。",
+    "category": "laws-rights",
+    "tags": [
+      "disability benefits",
+      "means-test",
+      "universal support",
+      "advocacy"
+    ],
+    "sourceName": "RTE",
+    "sourceUrl": "https://www.rte.ie/news/ireland/2026/1021/1596284-disability-payment",
+    "relatedSources": [
+      {
+        "name": "RTE",
+        "url": "https://www.rte.ie/news/ireland/2026/1021/1596284-disability-payment"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-9b7c260f",
+    "status": "published",
+    "translationOf": "slap-in-the-face-to-be-excluded-from-disability-payment-9b7c260f",
+    "publishedAt": "2026-10-21T12:37:54.000Z",
+    "fetchedAt": "2026-10-22T13:49:40.561Z",
+    "body": "一群有工作的殘疾人士表示，殘疾付費應該是普遍且不經收入審查的，批評目前的排除做法是對他們的一記耳光。\n\n原文來源： [RTE](https://www.rte.ie/news/ireland/2026/1021/1596284-disability-payment)"
+  },
+  {
+    "title": "ADA 網站合規性 | Aquarius Designs & Marketing",
+    "slug": "ada-website-compliance-aquarius-designs-marketing-zh-ef68d187",
+    "lang": "zh-TW",
+    "summary": "文章解釋為何企業主應該確保其網站符合 ADA 無障礙設計標準，並提供實現合規的步驟。",
+    "category": "digital-a11y",
+    "tags": [
+      "ADA",
+      "website accessibility",
+      "compliance"
+    ],
+    "sourceName": "Aquariusdesignsinc.com",
+    "sourceUrl": "https://aquariusdesignsinc.com/ada-website-compliance",
+    "relatedSources": [
+      {
+        "name": "Aquariusdesignsinc.com",
+        "url": "https://aquariusdesignsinc.com/ada-website-compliance"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-ef68d187",
+    "status": "published",
+    "translationOf": "ada-website-compliance-aquarius-designs-marketing-ef68d187",
+    "publishedAt": "2026-10-21T12:22:11.000Z",
+    "fetchedAt": "2026-10-22T13:49:48.438Z",
+    "body": "文章解釋為何企業主應該確保其網站符合 ADA 無障礙設計標準，並提供實現合規的步驟。\n\n原文來源： [Aquariusdesignsinc.com](https://aquariusdesignsinc.com/ada-website-compliance)"
+  },
+  {
+    "title": "ramplint 0.4.1 版本發布",
+    "slug": "ramplint-041-released-zh-e60254b3",
+    "lang": "zh-TW",
+    "summary": "ramplint 是一個針對 Django 與 Jinja2 模板進行 WCAG 無障礙檢查的 linter 工具，最新版本 0.4.1 能協助開發者偵測並修正網頁無障礙問題。",
+    "category": "digital-a11y",
+    "tags": [
+      "WCAG",
+      "Django",
+      "Jinja2",
+      "linter",
+      "accessibility"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/ramplint/0.4.1",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/ramplint/0.4.1"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-e60254b3",
+    "status": "published",
+    "translationOf": "ramplint-041-released-e60254b3",
+    "publishedAt": "2026-10-21T12:04:35.000Z",
+    "fetchedAt": "2026-10-22T13:49:54.013Z",
+    "body": "ramplint 是一個針對 Django 與 Jinja2 模板進行 WCAG 無障礙檢查的 linter 工具，最新版本 0.4.1 能協助開發者偵測並修正網頁無障礙問題。\n\n原文來源： [Pypi.org](https://pypi.org/project/ramplint/0.4.1)"
+  },
+  {
+    "title": "Chrome 156正式推出，修補353個漏洞",
+    "slug": "chrome-156-released-patching-353-vulnerabilities-zh-c0b61edb",
+    "lang": "zh-TW",
+    "summary": "Google 於 10 月 20 日發布 Chrome 156 電腦版與 Android 版，共修補 353 個資安弱點，涵蓋瀏覽器圖形處理、無障礙功能、CSS 與即時通訊等元件；其中 6 個為重大等級、61 個為高風險等級。Windows 與 macOS 用戶應更新至 156.0.8078.47 或 156.0.8078.48，Linux 與 Android 用戶則更新至 156.0.8078.47。",
+    "category": "digital-a11y",
+    "tags": [
+      "chrome",
+      "accessibility",
+      "security-update"
+    ],
+    "sourceName": "Ithome.com.tw",
+    "sourceUrl": "https://www.ithome.com.tw/news/179848",
+    "relatedSources": [
+      {
+        "name": "Ithome.com.tw",
+        "url": "https://www.ithome.com.tw/news/179848"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-c0b61edb",
+    "status": "published",
+    "translationOf": "chrome-156-released-patching-353-vulnerabilities-c0b61edb",
+    "publishedAt": "2026-10-21T02:46:03.000Z",
+    "fetchedAt": "2026-10-22T13:50:05.065Z",
+    "body": "Google 於 10 月 20 日發布 Chrome 156 電腦版與 Android 版，共修補 353 個資安弱點，涵蓋瀏覽器圖形處理、無障礙功能、CSS 與即時通訊等元件；其中 6 個為重大等級、61 個為高風險等級。Windows 與 macOS 用戶應更新至 156.0.8078.47 或 156.0.8078.48，Linux 與 Android 用戶則更新至 156.0.8078.47。\n\n原文來源： [Ithome.com.tw](https://www.ithome.com.tw/news/179848)"
+  },
+  {
+    "title": "屏東身心障礙福利機構院長涉嫌猥褻教保員及至少五名女院生遭羈押禁見",
+    "slug": "director-of-pingtung-disability-welfare-institution-detained-on-suspicion-of-sex-zh-85a0340f",
+    "lang": "zh-TW",
+    "summary": "屏東縣某身心障礙福利機構院長被指控猥褻教保員及至少五名女院生，檢方認定犯罪嫌疑重大且有串證之虞，依法聲請並獲得羈押禁見。檢警正擴大調查，以查明是否有其他受害者。",
+    "category": "laws-rights",
+    "tags": [
+      "sexual harassment",
+      "disability welfare",
+      "detention",
+      "legal proceedings"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%B6%89%E7%8C%A5%E8%A4%BB%E6%95%99%E4%BF%9D%E5%93%A1%E5%8F%8A%E8%87%B3%E5%B0%915%E5%90%8D%E5%A5%B3%E9%99%A2%E7%94%9F-%E5%B1%8F%E6%9D%B1%E6%85%88%E5%96%84%E6%A9%9F%E6%A7%8B%E9%99%A2%E9%95%B7-%E7%BE%88%E6%8A%BC%E7%A6%81%E8%A6%8B-213000795.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E6%B6%89%E7%8C%A5%E8%A4%BB%E6%95%99%E4%BF%9D%E5%93%A1%E5%8F%8A%E8%87%B3%E5%B0%915%E5%90%8D%E5%A5%B3%E9%99%A2%E7%94%9F-%E5%B1%8F%E6%9D%B1%E6%85%88%E5%96%84%E6%A9%9F%E6%A7%8B%E9%99%A2%E9%95%B7-%E7%BE%88%E6%8A%BC%E7%A6%81%E8%A6%8B-213000795.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-85a0340f",
+    "status": "published",
+    "translationOf": "director-of-pingtung-disability-welfare-institution-detained-on-suspicion-of-sex-85a0340f",
+    "publishedAt": "2026-10-19T13:30:00.000Z",
+    "fetchedAt": "2026-10-22T13:50:15.020Z",
+    "body": "屏東縣某身心障礙福利機構院長被指控猥褻教保員及至少五名女院生，檢方認定犯罪嫌疑重大且有串證之虞，依法聲請並獲得羈押禁見。檢警正擴大調查，以查明是否有其他受害者。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E6%B6%89%E7%8C%A5%E8%A4%BB%E6%95%99%E4%BF%9D%E5%93%A1%E5%8F%8A%E8%87%B3%E5%B0%915%E5%90%8D%E5%A5%B3%E9%99%A2%E7%94%9F-%E5%B1%8F%E6%9D%B1%E6%85%88%E5%96%84%E6%A9%9F%E6%A7%8B%E9%99%A2%E9%95%B7-%E7%BE%88%E6%8A%BC%E7%A6%81%E8%A6%8B-213000795.html)"
   }
 ]

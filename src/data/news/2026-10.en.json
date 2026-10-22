@@ -78329,5 +78329,646 @@
     "publishedAt": "2026-10-21T09:49:00.000Z",
     "fetchedAt": "2026-10-21T21:59:47.132Z",
     "body": "A new initiative in Sohag, Egypt, titled 'Friendly Hospital' aims to improve healthcare access and uphold the rights of individuals with disabilities within the medical system.\n\nRead more from the original source: [news.google.com](https://gate.ahram.org.eg/News/5969137.aspx)"
+  },
+  {
+    "title": "Cavs rank last in local broadcast accessibility report - Yahoo Sports",
+    "slug": "cavs-rank-last-in-local-broadcast-accessibility-report-yahoo-sports-95e330ce",
+    "lang": "en",
+    "summary": "The Cleveland Cavaliers ranked lowest in a report assessing local television broadcast accessibility features such as closed captioning and audio description for viewers with disabilities.",
+    "category": "digital-a11y",
+    "tags": [
+      "broadcast",
+      "closed captioning",
+      "audio description",
+      "disability access"
+    ],
+    "sourceName": "Yahoo Sports",
+    "sourceUrl": "https://sports.yahoo.com/articles/cavs-rank-last-local-broadcast-170050672.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/articles/cavs-rank-last-local-broadcast-170050672.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-95e330ce",
+    "status": "published",
+    "translationOf": "cavs-rank-last-in-local-broadcast-accessibility-report-yahoo-sports-zh-95e330ce",
+    "publishedAt": "2026-10-21T17:00:50.000Z",
+    "fetchedAt": "2026-10-22T13:48:42.314Z",
+    "body": "The Cleveland Cavaliers ranked lowest in a report assessing local television broadcast accessibility features such as closed captioning and audio description for viewers with disabilities.\n\nRead more from the original source: [Yahoo Sports](https://sports.yahoo.com/articles/cavs-rank-last-local-broadcast-170050672.html)"
+  },
+  {
+    "title": "Farmington farm installs ramp to make hayride accessible to people who use wheelchairs - CBS News",
+    "slug": "farmington-farm-installs-ramp-to-make-hayride-accessible-to-people-who-use-wheel-989fd49f",
+    "lang": "en",
+    "summary": "A farm in Farmington added a wheelchair‑accessible ramp to its hayride attraction, enabling visitors who use wheelchairs to participate fully.",
+    "category": "physical-design",
+    "tags": [
+      "ramp",
+      "wheelchair access",
+      "hayride",
+      "inclusive recreation"
+    ],
+    "sourceName": "CBS News",
+    "sourceUrl": "https://www.cbsnews.com/minnesota/news/farmington-farm-ramp-hayride-accessibility",
+    "relatedSources": [
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/minnesota/news/farmington-farm-ramp-hayride-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-989fd49f",
+    "status": "published",
+    "translationOf": "farmington-farm-installs-ramp-to-make-hayride-accessible-to-people-who-use-wheel-zh-989fd49f",
+    "publishedAt": "2026-10-21T23:56:46.000Z",
+    "fetchedAt": "2026-10-22T13:48:42.459Z",
+    "body": "A farm in Farmington added a wheelchair‑accessible ramp to its hayride attraction, enabling visitors who use wheelchairs to participate fully.\n\nRead more from the original source: [CBS News](https://www.cbsnews.com/minnesota/news/farmington-farm-ramp-hayride-accessibility)"
+  },
+  {
+    "title": "He’s Adapted to a Wheelchair. He Wishes D.C. Would, Too. - NOTUS",
+    "slug": "hes-adapted-to-a-wheelchair-he-wishes-dc-would-too-notus-08b0771c",
+    "lang": "en",
+    "summary": "A wheelchair user describes his personal adaptation to mobility challenges and calls for Washington, D.C. to improve infrastructure and policies to better accommodate people with disabilities.",
+    "category": "case-studies",
+    "tags": [
+      "wheelchair",
+      "DC accessibility",
+      "advocacy",
+      "urban infrastructure"
+    ],
+    "sourceName": "NOTUS",
+    "sourceUrl": "https://www.washingtonsun.com/metro/dc-wheelchair-accessibility-hearing-metro-uber",
+    "relatedSources": [
+      {
+        "name": "NOTUS",
+        "url": "https://www.washingtonsun.com/metro/dc-wheelchair-accessibility-hearing-metro-uber"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-08b0771c",
+    "status": "published",
+    "translationOf": "hes-adapted-to-a-wheelchair-he-wishes-dc-would-too-notus-zh-08b0771c",
+    "publishedAt": "2026-10-21T09:22:04.000Z",
+    "fetchedAt": "2026-10-22T13:48:42.567Z",
+    "body": "A wheelchair user describes his personal adaptation to mobility challenges and calls for Washington, D.C. to improve infrastructure and policies to better accommodate people with disabilities.\n\nRead more from the original source: [NOTUS](https://www.washingtonsun.com/metro/dc-wheelchair-accessibility-hearing-metro-uber)"
+  },
+  {
+    "title": "Students and staff voice accessibility concerns, propose changes in University forum - The Daily Texan",
+    "slug": "students-and-staff-voice-accessibility-concerns-propose-changes-in-university-fo-ea986273",
+    "lang": "en",
+    "summary": "Students and staff at the university raised accessibility concerns and proposed changes during a forum.",
+    "category": "physical-design",
+    "tags": [
+      "university",
+      "accessibility",
+      "forum"
+    ],
+    "sourceName": "The Daily Texan",
+    "sourceUrl": "https://thedailytexan.com/2026/10/21/students-and-staff-voice-accessibility-concerns-propose-changes-in-university-forum",
+    "relatedSources": [
+      {
+        "name": "The Daily Texan",
+        "url": "https://thedailytexan.com/2026/10/21/students-and-staff-voice-accessibility-concerns-propose-changes-in-university-forum"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ea986273",
+    "status": "published",
+    "translationOf": "students-and-staff-voice-accessibility-concerns-propose-changes-in-university-fo-zh-ea986273",
+    "publishedAt": "2026-10-22T01:18:33.000Z",
+    "fetchedAt": "2026-10-22T13:48:55.504Z",
+    "body": "Students and staff at the university raised accessibility concerns and proposed changes during a forum.\n\nRead more from the original source: [The Daily Texan](https://thedailytexan.com/2026/10/21/students-and-staff-voice-accessibility-concerns-propose-changes-in-university-forum)"
+  },
+  {
+    "title": "City offers financial help for home repairs, accessibility upgrades - Point/Plover Metro Wire",
+    "slug": "city-offers-financial-help-for-home-repairs-accessibility-upgrades-pointplover-m-33d43035",
+    "lang": "en",
+    "summary": "City provides financial assistance for home repairs and accessibility improvements such as ramps and grab bars to support residents with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "city",
+      "financial aid",
+      "home repairs",
+      "accessibility"
+    ],
+    "sourceName": "Point/Plover Metro Wire",
+    "sourceUrl": "https://spmetrowire.com/city-offers-financial-help-for-home-repairs-accessibility-upgrades",
+    "relatedSources": [
+      {
+        "name": "Point/Plover Metro Wire",
+        "url": "https://spmetrowire.com/city-offers-financial-help-for-home-repairs-accessibility-upgrades"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-33d43035",
+    "status": "published",
+    "translationOf": "city-offers-financial-help-for-home-repairs-accessibility-upgrades-pointplover-m-zh-33d43035",
+    "publishedAt": "2026-10-22T03:35:29.000Z",
+    "fetchedAt": "2026-10-22T13:48:55.619Z",
+    "body": "City provides financial assistance for home repairs and accessibility improvements such as ramps and grab bars to support residents with disabilities.\n\nRead more from the original source: [Point/Plover Metro Wire](https://spmetrowire.com/city-offers-financial-help-for-home-repairs-accessibility-upgrades)"
+  },
+  {
+    "title": "Apple’s iPhone Duo Should Get Reachability Accessibility in an Upcoming Update",
+    "slug": "apples-iphone-duo-should-get-reachability-accessibility-in-an-upcoming-update-f3ce3610",
+    "lang": "en",
+    "summary": "Apple plans to add Reachability accessibility to its upcoming iPhone Duo update, making the top of the screen easier to reach for users with motor impairments.",
+    "category": "digital-a11y",
+    "tags": [
+      "iPhone",
+      "Reachability",
+      "accessibility"
+    ],
+    "sourceName": "CNET",
+    "sourceUrl": "https://www.cnet.com/tech/mobile/apples-iphone-duo-reachability-accessibility-upcoming-update",
+    "relatedSources": [
+      {
+        "name": "CNET",
+        "url": "https://www.cnet.com/tech/mobile/apples-iphone-duo-reachability-accessibility-upcoming-update"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f3ce3610",
+    "status": "published",
+    "translationOf": "apples-iphone-duo-should-get-reachability-accessibility-in-an-upcoming-update-zh-f3ce3610",
+    "publishedAt": "2026-10-21T21:16:59.000Z",
+    "fetchedAt": "2026-10-22T13:49:06.698Z",
+    "body": "Apple plans to add Reachability accessibility to its upcoming iPhone Duo update, making the top of the screen easier to reach for users with motor impairments.\n\nRead more from the original source: [CNET](https://www.cnet.com/tech/mobile/apples-iphone-duo-reachability-accessibility-upcoming-update)"
+  },
+  {
+    "title": "Closing the Accessibility Gap in Events",
+    "slug": "closing-the-accessibility-gap-in-events-46cb2dfa",
+    "lang": "en",
+    "summary": "Event industry leaders discuss strategies to close accessibility gaps, ensuring venues and services accommodate attendees with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "events",
+      "accessibility",
+      "ADA"
+    ],
+    "sourceName": "Event Industry News",
+    "sourceUrl": "https://www.eventindustrynews.com/news/closing-the-accessibility-gap-in-events",
+    "relatedSources": [
+      {
+        "name": "Event Industry News",
+        "url": "https://www.eventindustrynews.com/news/closing-the-accessibility-gap-in-events"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-46cb2dfa",
+    "status": "published",
+    "translationOf": "closing-the-accessibility-gap-in-events-zh-46cb2dfa",
+    "publishedAt": "2026-10-22T09:00:00.000Z",
+    "fetchedAt": "2026-10-22T13:49:06.808Z",
+    "body": "Event industry leaders discuss strategies to close accessibility gaps, ensuring venues and services accommodate attendees with disabilities.\n\nRead more from the original source: [Event Industry News](https://www.eventindustrynews.com/news/closing-the-accessibility-gap-in-events)"
+  },
+  {
+    "title": "STV selected to manage ADA accessibility upgrades at Midtown Manhattan subway stations",
+    "slug": "stv-selected-to-manage-ada-accessibility-upgrades-at-midtown-manhattan-subway-st-5cc66196",
+    "lang": "en",
+    "summary": "STV has been chosen to oversee ADA‑mandated accessibility improvements, such as elevators and ramps, at Midtown Manhattan subway stations to enhance mobility for disabled riders.",
+    "category": "physical-design",
+    "tags": [
+      "subway",
+      "ADA",
+      "accessibility",
+      "Manhattan"
+    ],
+    "sourceName": "American Journal of Transportation",
+    "sourceUrl": "https://www.ajot.com/news/stv-selected-to-manage-ada-accessibility-upgrades-at-midtown-manhattan-subway-stations",
+    "relatedSources": [
+      {
+        "name": "American Journal of Transportation",
+        "url": "https://www.ajot.com/news/stv-selected-to-manage-ada-accessibility-upgrades-at-midtown-manhattan-subway-stations"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5cc66196",
+    "status": "published",
+    "translationOf": "stv-selected-to-manage-ada-accessibility-upgrades-at-midtown-manhattan-subway-st-zh-5cc66196",
+    "publishedAt": "2026-10-21T18:24:00.000Z",
+    "fetchedAt": "2026-10-22T13:49:06.916Z",
+    "body": "STV has been chosen to oversee ADA‑mandated accessibility improvements, such as elevators and ramps, at Midtown Manhattan subway stations to enhance mobility for disabled riders.\n\nRead more from the original source: [American Journal of Transportation](https://www.ajot.com/news/stv-selected-to-manage-ada-accessibility-upgrades-at-midtown-manhattan-subway-stations)"
+  },
+  {
+    "title": "Parks Should Be Not Only Fun But Also Easy to Walk! Taichung City Bureau of Construction Holds Training to Make Accessible Design Closer to Needs",
+    "slug": "parks-should-be-not-only-fun-but-also-easy-to-walk-taichung-city-bureau-of-const-f84ec218",
+    "lang": "en",
+    "summary": "The Taichung City Construction Bureau organized a training session to improve barrier‑free park design, focusing on making pathways and facilities more usable for people with mobility challenges.",
+    "category": "physical-design",
+    "tags": [
+      "park",
+      "universal design",
+      "mobility",
+      "Taichung"
+    ],
+    "sourceName": "臺中市政府全球資訊網",
+    "sourceUrl": "https://www.taichung.gov.tw/8868/8872/9962/3390375",
+    "relatedSources": [
+      {
+        "name": "臺中市政府全球資訊網",
+        "url": "https://www.taichung.gov.tw/8868/8872/9962/3390375"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f84ec218",
+    "status": "published",
+    "translationOf": "parks-should-be-not-only-fun-but-also-easy-to-walk-taichung-city-bureau-of-const-zh-f84ec218",
+    "publishedAt": "2026-10-12T07:00:00.000Z",
+    "fetchedAt": "2026-10-22T13:49:16.751Z",
+    "body": "The Taichung City Construction Bureau organized a training session to improve barrier‑free park design, focusing on making pathways and facilities more usable for people with mobility challenges.\n\nRead more from the original source: [臺中市政府全球資訊網](https://www.taichung.gov.tw/8868/8872/9962/3390375)"
+  },
+  {
+    "title": "Art Without Barriers! Taiwan‑US Disabled Artists Exchange Exhibition Links Paintings and Music, Inviting the Public into the Creative World",
+    "slug": "art-without-barriers-taiwanus-disabled-artists-exchange-exhibition-links-paintin-90610403",
+    "lang": "en",
+    "summary": "A joint Taiwan‑US exhibition showcases works by artists with disabilities, combining visual art and music to promote inclusive cultural participation.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "art exhibition",
+      "disability arts",
+      "Taiwan-US",
+      "inclusive culture"
+    ],
+    "sourceName": "視傳媒",
+    "sourceUrl": "https://www.nvns.net/news_view.php?new_sn=146334&new_csn=1467",
+    "relatedSources": [
+      {
+        "name": "視傳媒",
+        "url": "https://www.nvns.net/news_view.php?new_sn=146334&new_csn=1467"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-90610403",
+    "status": "published",
+    "translationOf": "art-without-barriers-taiwanus-disabled-artists-exchange-exhibition-links-paintin-zh-90610403",
+    "publishedAt": "2026-10-16T03:43:24.000Z",
+    "fetchedAt": "2026-10-22T13:49:16.887Z",
+    "body": "A joint Taiwan‑US exhibition showcases works by artists with disabilities, combining visual art and music to promote inclusive cultural participation.\n\nRead more from the original source: [視傳媒](https://www.nvns.net/news_view.php?new_sn=146334&new_csn=1467)"
+  },
+  {
+    "title": "Jemima Abu: Accessibility Skills Cut AI Deployment Costs by 58%",
+    "slug": "jemima-abu-accessibility-skills-cut-ai-deployment-costs-by-58-a52329be",
+    "lang": "en",
+    "summary": "Expert Jemima Abu explains that incorporating accessibility expertise during AI development can reduce implementation expenses by over half, highlighting the business value of inclusive design.",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "accessibility skills",
+      "cost reduction",
+      "Jemima Abu"
+    ],
+    "sourceName": "BigGo 財經",
+    "sourceUrl": "https://finance.biggo.com.tw/news/5464b38aefbb13a5",
+    "relatedSources": [
+      {
+        "name": "BigGo 財經",
+        "url": "https://finance.biggo.com.tw/news/5464b38aefbb13a5"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a52329be",
+    "status": "published",
+    "translationOf": "jemima-abu-accessibility-skills-cut-ai-deployment-costs-by-58-zh-a52329be",
+    "publishedAt": "2026-10-14T15:56:50.000Z",
+    "fetchedAt": "2026-10-22T13:49:16.989Z",
+    "body": "Expert Jemima Abu explains that incorporating accessibility expertise during AI development can reduce implementation expenses by over half, highlighting the business value of inclusive design.\n\nRead more from the original source: [BigGo 財經](https://finance.biggo.com.tw/news/5464b38aefbb13a5)"
+  },
+  {
+    "title": "Australian Government allocates $30 million for disability health-care research",
+    "slug": "australian-government-allocates-30-million-for-disability-health-care-research-3e0e618a",
+    "lang": "en",
+    "summary": "Funding from the Medical Research Future Fund will support studies aimed at improving health outcomes and access to care for people with disabilities.",
+    "category": "laws-rights",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/10/22/health/research-funding-to-improve-health-care-for-persons-with-disabilities",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/10/22/health/research-funding-to-improve-health-care-for-persons-with-disabilities"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-3e0e618a",
+    "status": "published",
+    "translationOf": "australian-government-allocates-30-million-for-disability-health-care-research-zh-3e0e618a",
+    "publishedAt": "2026-10-22T02:49:29.000Z",
+    "fetchedAt": "2026-10-22T13:49:29.331Z",
+    "body": "Funding from the Medical Research Future Fund will support studies aimed at improving health outcomes and access to care for people with disabilities.\n\nRead more from the original source: [Unknown source](https://disabilityinsider.com/2026/10/22/health/research-funding-to-improve-health-care-for-persons-with-disabilities)"
+  },
+  {
+    "title": "The Experiment review – easily the most disturbing thing on TV",
+    "slug": "the-experiment-review-easily-the-most-disturbing-thing-on-tv-049975bd",
+    "lang": "en",
+    "summary": "As members of the public tour a fake ‘residential home’ for disabled people riddled with Nazi ideology, you desperately hope someone will speak up. Prepare for the most excruciating viewing of your life\nI have never had to pause a programme halfway through before to catch my breath. That is until The Experiment – Channel 4’s highly controversial social exercise designed to find out “how susceptible the British public are” to Nazi ideology about disabled people. This is a show so disturbing, timely and surreal that within 90 seconds of viewing it alone, I am looking around for confirmation from an empty room that any of this is happening.\nWe start with a clip of Hitler. Against a backdrop of growing anti-benefits and ableist rhetoric, presenters Mat Fraser and Sophie Morgan fear the disabled community globally are once again being framed as a financial burden. Their question is: can the British public be persuaded that disabled people should live in “money saving” segregated institutions and be given low-skilled jobs to be productive?\n Continue reading...",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/oct/21/the-experiment-channel-four-tv-review-uk-nazi-disability",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/21/the-experiment-channel-four-tv-review-uk-nazi-disability"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-049975bd",
+    "status": "published",
+    "translationOf": "the-experiment-review-easily-the-most-disturbing-thing-on-tv-zh-049975bd",
+    "publishedAt": "2026-10-21T22:35:02.000Z",
+    "fetchedAt": "2026-10-22T13:49:29.443Z",
+    "body": "As members of the public tour a fake ‘residential home’ for disabled people riddled with Nazi ideology, you desperately hope someone will speak up. Prepare for the most excruciating viewing of your life\nI have never had to pause a programme halfway through before to catch my breath. That is until The Experiment – Channel 4’s highly controversial social exercise designed to find out “how susceptible the British public are” to Nazi ideology about disabled people. This is a show so disturbing, timely and surreal that within 90 seconds of viewing it alone, I am looking around for confirmation from an empty room that any of this is happening.\nWe start with a clip of Hitler. Against a backdrop of growing anti-benefits and ableist rhetoric, presenters Mat Fraser and Sophie Morgan fear the disabled community globally are once again being framed as a financial burden. Their question is: can the British public be persuaded that disabled people should live in “money saving” segregated institutions and be given low-skilled jobs to be productive?\n Continue reading...\n\nRead more from the original source: [Unknown source](https://www.theguardian.com/tv-and-radio/2026/oct/21/the-experiment-channel-four-tv-review-uk-nazi-disability)"
+  },
+  {
+    "title": "EU paper highlights barriers to assistive technology due to outdated funding",
+    "slug": "eu-paper-highlights-barriers-to-assistive-technology-due-to-outdated-funding-d36f98c4",
+    "lang": "en",
+    "summary": "Research finds inconsistent EU laws and funding schemes prevent many disabled people from obtaining needed assistive devices, and cause loss of access when moving between member states.",
+    "category": "assistive-tech",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.edf-feph.org/new-paper-assistive-technology-still-inaccessible-to-many-due-to-outdated-funding-models",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.edf-feph.org/new-paper-assistive-technology-still-inaccessible-to-many-due-to-outdated-funding-models"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.edf-feph.org/feed",
+    "ingestProvider": "edf-feph.org",
+    "clusterId": "cluster-d36f98c4",
+    "status": "published",
+    "translationOf": "eu-paper-highlights-barriers-to-assistive-technology-due-to-outdated-funding-zh-d36f98c4",
+    "publishedAt": "2026-10-22T06:17:47.000Z",
+    "fetchedAt": "2026-10-22T13:49:29.551Z",
+    "body": "Research finds inconsistent EU laws and funding schemes prevent many disabled people from obtaining needed assistive devices, and cause loss of access when moving between member states.\n\nRead more from the original source: [Unknown source](https://www.edf-feph.org/new-paper-assistive-technology-still-inaccessible-to-many-due-to-outdated-funding-models)"
+  },
+  {
+    "title": "Ramplint 0.5.1 Accessibility Linter",
+    "slug": "ramplint-051-accessibility-linter-926b1c33",
+    "lang": "en",
+    "summary": "An open‑source WCAG linter for Django and Jinja2 templates that helps developers identify and fix accessibility issues early in the development cycle.",
+    "category": "digital-a11y",
+    "tags": [
+      "django",
+      "jinja2",
+      "wcag",
+      "linter"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/ramplint/0.5.1",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/ramplint/0.5.1"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-926b1c33",
+    "status": "published",
+    "translationOf": "ramplint-051-accessibility-linter-zh-926b1c33",
+    "publishedAt": "2026-10-21T13:30:52.000Z",
+    "fetchedAt": "2026-10-22T13:49:40.447Z",
+    "body": "An open‑source WCAG linter for Django and Jinja2 templates that helps developers identify and fix accessibility issues early in the development cycle.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/ramplint/0.5.1)"
+  },
+  {
+    "title": "'Slap in the face' to be excluded from disability payment",
+    "slug": "slap-in-the-face-to-be-excluded-from-disability-payment-9b7c260f",
+    "lang": "en",
+    "summary": "Working disabled individuals criticize the exclusion from disability payments, calling for universal, non‑means‑tested support and describing the current policy as a slap in the face.",
+    "category": "laws-rights",
+    "tags": [
+      "disability benefits",
+      "means-test",
+      "universal support",
+      "advocacy"
+    ],
+    "sourceName": "RTE",
+    "sourceUrl": "https://www.rte.ie/news/ireland/2026/1021/1596284-disability-payment",
+    "relatedSources": [
+      {
+        "name": "RTE",
+        "url": "https://www.rte.ie/news/ireland/2026/1021/1596284-disability-payment"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-9b7c260f",
+    "status": "published",
+    "translationOf": "slap-in-the-face-to-be-excluded-from-disability-payment-zh-9b7c260f",
+    "publishedAt": "2026-10-21T12:37:54.000Z",
+    "fetchedAt": "2026-10-22T13:49:40.561Z",
+    "body": "Working disabled individuals criticize the exclusion from disability payments, calling for universal, non‑means‑tested support and describing the current policy as a slap in the face.\n\nRead more from the original source: [RTE](https://www.rte.ie/news/ireland/2026/1021/1596284-disability-payment)"
+  },
+  {
+    "title": "ADA Website Compliance | Aquarius Designs & Marketing",
+    "slug": "ada-website-compliance-aquarius-designs-marketing-ef68d187",
+    "lang": "en",
+    "summary": "The article explains why business owners should ensure their websites meet ADA standards for accessible design, outlining steps to achieve compliance.",
+    "category": "digital-a11y",
+    "tags": [
+      "ADA",
+      "website accessibility",
+      "compliance"
+    ],
+    "sourceName": "Aquariusdesignsinc.com",
+    "sourceUrl": "https://aquariusdesignsinc.com/ada-website-compliance",
+    "relatedSources": [
+      {
+        "name": "Aquariusdesignsinc.com",
+        "url": "https://aquariusdesignsinc.com/ada-website-compliance"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-ef68d187",
+    "status": "published",
+    "translationOf": "ada-website-compliance-aquarius-designs-marketing-zh-ef68d187",
+    "publishedAt": "2026-10-21T12:22:11.000Z",
+    "fetchedAt": "2026-10-22T13:49:48.438Z",
+    "body": "The article explains why business owners should ensure their websites meet ADA standards for accessible design, outlining steps to achieve compliance.\n\nRead more from the original source: [Aquariusdesignsinc.com](https://aquariusdesignsinc.com/ada-website-compliance)"
+  },
+  {
+    "title": "ramplint 0.4.1 Released",
+    "slug": "ramplint-041-released-e60254b3",
+    "lang": "en",
+    "summary": "A new version of the ramplint linter tool that checks Django and Jinja2 templates against WCAG accessibility standards, helping developers identify and fix accessibility issues.",
+    "category": "digital-a11y",
+    "tags": [
+      "WCAG",
+      "Django",
+      "Jinja2",
+      "linter",
+      "accessibility"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/ramplint/0.4.1",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/ramplint/0.4.1"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-e60254b3",
+    "status": "published",
+    "translationOf": "ramplint-041-released-zh-e60254b3",
+    "publishedAt": "2026-10-21T12:04:35.000Z",
+    "fetchedAt": "2026-10-22T13:49:54.013Z",
+    "body": "A new version of the ramplint linter tool that checks Django and Jinja2 templates against WCAG accessibility standards, helping developers identify and fix accessibility issues.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/ramplint/0.4.1)"
+  },
+  {
+    "title": "Chrome 156 Released, Patching 353 Vulnerabilities",
+    "slug": "chrome-156-released-patching-353-vulnerabilities-c0b61edb",
+    "lang": "en",
+    "summary": "Google released Chrome 156 for desktop and Android, fixing 353 security issues across browser graphics processing, accessibility features, CSS, and real-time communication components. Six are critical and 61 are high risk. Users on Windows/macOS should update to 156.0.8078.47 or .48; Linux/Android to 156.0.8078.47.",
+    "category": "digital-a11y",
+    "tags": [
+      "chrome",
+      "accessibility",
+      "security-update"
+    ],
+    "sourceName": "Ithome.com.tw",
+    "sourceUrl": "https://www.ithome.com.tw/news/179848",
+    "relatedSources": [
+      {
+        "name": "Ithome.com.tw",
+        "url": "https://www.ithome.com.tw/news/179848"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-c0b61edb",
+    "status": "published",
+    "translationOf": "chrome-156-released-patching-353-vulnerabilities-zh-c0b61edb",
+    "publishedAt": "2026-10-21T02:46:03.000Z",
+    "fetchedAt": "2026-10-22T13:50:05.065Z",
+    "body": "Google released Chrome 156 for desktop and Android, fixing 353 security issues across browser graphics processing, accessibility features, CSS, and real-time communication components. Six are critical and 61 are high risk. Users on Windows/macOS should update to 156.0.8078.47 or .48; Linux/Android to 156.0.8078.47.\n\nRead more from the original source: [Ithome.com.tw](https://www.ithome.com.tw/news/179848)"
+  },
+  {
+    "title": "Director of Pingtung Disability Welfare Institution Detained on Suspicion of Sexual Harassment of Staff and Female Residents",
+    "slug": "director-of-pingtung-disability-welfare-institution-detained-on-suspicion-of-sex-85a0340f",
+    "lang": "en",
+    "summary": "The director of a disability welfare institution in Pingtung County was detained after allegations emerged that he sexually harassed at least five female residents and a staff member. Prosecutors deemed there was a substantial risk of collusion and approved detention; authorities are expanding the investigation to identify any additional victims.",
+    "category": "laws-rights",
+    "tags": [
+      "sexual harassment",
+      "disability welfare",
+      "detention",
+      "legal proceedings"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%B6%89%E7%8C%A5%E8%A4%BB%E6%95%99%E4%BF%9D%E5%93%A1%E5%8F%8A%E8%87%B3%E5%B0%915%E5%90%8D%E5%A5%B3%E9%99%A2%E7%94%9F-%E5%B1%8F%E6%9D%B1%E6%85%88%E5%96%84%E6%A9%9F%E6%A7%8B%E9%99%A2%E9%95%B7-%E7%BE%88%E6%8A%BC%E7%A6%81%E8%A6%8B-213000795.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E6%B6%89%E7%8C%A5%E8%A4%BB%E6%95%99%E4%BF%9D%E5%93%A1%E5%8F%8A%E8%87%B3%E5%B0%915%E5%90%8D%E5%A5%B3%E9%99%A2%E7%94%9F-%E5%B1%8F%E6%9D%B1%E6%85%88%E5%96%84%E6%A9%9F%E6%A7%8B%E9%99%A2%E9%95%B7-%E7%BE%88%E6%8A%BC%E7%A6%81%E8%A6%8B-213000795.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-85a0340f",
+    "status": "published",
+    "translationOf": "director-of-pingtung-disability-welfare-institution-detained-on-suspicion-of-sex-zh-85a0340f",
+    "publishedAt": "2026-10-19T13:30:00.000Z",
+    "fetchedAt": "2026-10-22T13:50:15.020Z",
+    "body": "The director of a disability welfare institution in Pingtung County was detained after allegations emerged that he sexually harassed at least five female residents and a staff member. Prosecutors deemed there was a substantial risk of collusion and approved detention; authorities are expanding the investigation to identify any additional victims.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E6%B6%89%E7%8C%A5%E8%A4%BB%E6%95%99%E4%BF%9D%E5%93%A1%E5%8F%8A%E8%87%B3%E5%B0%915%E5%90%8D%E5%A5%B3%E9%99%A2%E7%94%9F-%E5%B1%8F%E6%9D%B1%E6%85%88%E5%96%84%E6%A9%9F%E6%A7%8B%E9%99%A2%E9%95%B7-%E7%BE%88%E6%8A%BC%E7%A6%81%E8%A6%8B-213000795.html)"
   }
 ]
