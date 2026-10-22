@@ -81062,5 +81062,401 @@
     "publishedAt": "2026-10-22T11:22:00.000Z",
     "fetchedAt": "2026-10-22T15:40:56.230Z",
     "body": "在2026年埃及论坛上，社会团结部宣布向残障人士发放160万张综合服务卡，以提升其获取政府服务的便利性。\n\n原文來源： [news.google.com](https://www.youm7.com/story/2026/10/22/%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%A8%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D9%85%D8%B5%D8%B1-2026-1-6-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D9%85%D8%AA%D9%83%D8%A7%D9%85%D9%84%D8%A9/7589552)"
+  },
+  {
+    "title": "Myrtle Beach 將鋪設無障礙海灘墊並提供四個海灘輪椅租賃櫃",
+    "slug": "myrtle-beach-to-install-accessible-beach-mat-and-4-beach-wheelchair-rental-locke-zh-9d4fa7a9",
+    "lang": "zh-TW",
+    "summary": "Myrtle Beach 計畫鋪設無障礙海灘墊，並設置四個海灘輪椅租賃櫃，以提升行動不便訪客的海灘可及性。",
+    "category": "physical-design",
+    "tags": [
+      "beach access",
+      "wheelchair rental",
+      "mobility aid",
+      "coastal tourism"
+    ],
+    "sourceName": "WPDE",
+    "sourceUrl": "https://wpde.com/news/local/myrtle-beach-to-install-accessible-beach-mat-4-beach-wheelchair-rental-lockers-15tha-venue-south-second-details-city-government-south-carolina-department-environmental-services-10222026",
+    "relatedSources": [
+      {
+        "name": "WPDE",
+        "url": "https://wpde.com/news/local/myrtle-beach-to-install-accessible-beach-mat-4-beach-wheelchair-rental-lockers-15tha-venue-south-second-details-city-government-south-carolina-department-environmental-services-10222026"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-9d4fa7a9",
+    "status": "published",
+    "translationOf": "myrtle-beach-to-install-accessible-beach-mat-and-4-beach-wheelchair-rental-locke-9d4fa7a9",
+    "publishedAt": "2026-10-22T15:56:18.000Z",
+    "fetchedAt": "2026-10-22T20:34:30.890Z",
+    "body": "Myrtle Beach 計畫鋪設無障礙海灘墊，並設置四個海灘輪椅租賃櫃，以提升行動不便訪客的海灘可及性。\n\n原文來源： [WPDE](https://wpde.com/news/local/myrtle-beach-to-install-accessible-beach-mat-4-beach-wheelchair-rental-lockers-15tha-venue-south-second-details-city-government-south-carolina-department-environmental-services-10222026)"
+  },
+  {
+    "title": "殘疾峰會探討高等教育的無障礙性",
+    "slug": "disability-summit-explores-accessibility-in-higher-education-zh-2283615e",
+    "lang": "zh-TW",
+    "summary": "殘疾峰會匯聚教育工作者與倡議者，討論如何讓大學校園與線上學習對殘疾學生完全無障礙。",
+    "category": "general",
+    "tags": [
+      "higher education",
+      "accessibility policy",
+      "disability advocacy",
+      "campus inclusion"
+    ],
+    "sourceName": "MSUToday",
+    "sourceUrl": "https://msutoday.msu.edu/news/2026/10/disability-summit-explores-future-accessibility-higher-education",
+    "relatedSources": [
+      {
+        "name": "MSUToday",
+        "url": "https://msutoday.msu.edu/news/2026/10/disability-summit-explores-future-accessibility-higher-education"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-2283615e",
+    "status": "published",
+    "translationOf": "disability-summit-explores-accessibility-in-higher-education-2283615e",
+    "publishedAt": "2026-10-22T19:13:55.000Z",
+    "fetchedAt": "2026-10-22T20:34:30.995Z",
+    "body": "殘疾峰會匯聚教育工作者與倡議者，討論如何讓大學校園與線上學習對殘疾學生完全無障礙。\n\n原文來源： [MSUToday](https://msutoday.msu.edu/news/2026/10/disability-summit-explores-future-accessibility-higher-education)"
+  },
+  {
+    "title": "「無障礙設計」：萊斯大學加強措施以最大化數位體驗",
+    "slug": "accessibility-by-design-rice-bolsters-efforts-to-maximize-digital-experience-zh-140b70f7",
+    "lang": "zh-TW",
+    "summary": "萊斯大學正加強其「無障礙設計」計畫，確保數位平台、網站與課程材料對各種殘疾人士皆可使用。",
+    "category": "digital-a11y",
+    "tags": [
+      "digital accessibility",
+      "universal design",
+      "online learning",
+      "web accessibility"
+    ],
+    "sourceName": "Rice University",
+    "sourceUrl": "https://news.rice.edu/news/2026/accessibility-design-rice-bolsters-efforts-maximize-digital-experience",
+    "relatedSources": [
+      {
+        "name": "Rice University",
+        "url": "https://news.rice.edu/news/2026/accessibility-design-rice-bolsters-efforts-maximize-digital-experience"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-140b70f7",
+    "status": "published",
+    "translationOf": "accessibility-by-design-rice-bolsters-efforts-to-maximize-digital-experience-140b70f7",
+    "publishedAt": "2026-10-22T19:00:55.000Z",
+    "fetchedAt": "2026-10-22T20:34:31.054Z",
+    "body": "萊斯大學正加強其「無障礙設計」計畫，確保數位平台、網站與課程材料對各種殘疾人士皆可使用。\n\n原文來源： [Rice University](https://news.rice.edu/news/2026/accessibility-design-rice-bolsters-efforts-maximize-digital-experience)"
+  },
+  {
+    "title": "Prince’s Lakes 社區花園獲得 4,000 元獎金以擴充無障礙設施",
+    "slug": "princes-lakes-community-garden-earns-4000-award-to-expand-accessibility-zh-b63101bc",
+    "lang": "zh-TW",
+    "summary": "Prince’s Lakes 社區花園獲得 4,000 元補助金，用於提升殘障訪客的無障礙設施。",
+    "category": "physical-design",
+    "tags": [
+      "community garden",
+      "accessibility grant",
+      "disability inclusion"
+    ],
+    "sourceName": "Daily Journal",
+    "sourceUrl": "https://dailyjournal.net/2026/10/22/princes-lakes-community-garden-earns-4000-award-to-expand-accessibility",
+    "relatedSources": [
+      {
+        "name": "Daily Journal",
+        "url": "https://dailyjournal.net/2026/10/22/princes-lakes-community-garden-earns-4000-award-to-expand-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-b63101bc",
+    "status": "published",
+    "translationOf": "princes-lakes-community-garden-earns-4000-award-to-expand-accessibility-b63101bc",
+    "publishedAt": "2026-10-22T19:25:00.000Z",
+    "fetchedAt": "2026-10-22T20:34:39.003Z",
+    "body": "Prince’s Lakes 社區花園獲得 4,000 元補助金，用於提升殘障訪客的無障礙設施。\n\n原文來源： [Daily Journal](https://dailyjournal.net/2026/10/22/princes-lakes-community-garden-earns-4000-award-to-expand-accessibility)"
+  },
+  {
+    "title": "杜迪鄰里領導計畫讓奧馬哈紀念公園更無障礙",
+    "slug": "dundee-neighbor-leads-plan-to-make-omahas-memorial-park-more-accessible-zh-28332040",
+    "lang": "zh-TW",
+    "summary": "杜迪居民領導一項計畫，旨在改善奧馬哈紀念公園的步道與設施，以便殘障人士使用。",
+    "category": "physical-design",
+    "tags": [
+      "Memorial Park",
+      "accessibility plan",
+      "community advocacy"
+    ],
+    "sourceName": "KMTV 3 News Now Omaha",
+    "sourceUrl": "https://www.3newsnow.com/central-omaha/dundee-neighbor-leads-plan-to-make-omahas-memorial-park-more-accessible",
+    "relatedSources": [
+      {
+        "name": "KMTV 3 News Now Omaha",
+        "url": "https://www.3newsnow.com/central-omaha/dundee-neighbor-leads-plan-to-make-omahas-memorial-park-more-accessible"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-28332040",
+    "status": "published",
+    "translationOf": "dundee-neighbor-leads-plan-to-make-omahas-memorial-park-more-accessible-28332040",
+    "publishedAt": "2026-10-22T19:13:27.000Z",
+    "fetchedAt": "2026-10-22T20:34:39.072Z",
+    "body": "杜迪居民領導一項計畫，旨在改善奧馬哈紀念公園的步道與設施，以便殘障人士使用。\n\n原文來源： [KMTV 3 News Now Omaha](https://www.3newsnow.com/central-omaha/dundee-neighbor-leads-plan-to-make-omahas-memorial-park-more-accessible)"
+  },
+  {
+    "title": "萊特中心透過 TechA11y 擴展對無障礙的承諾",
+    "slug": "the-wright-center-expands-commitment-to-accessibility-with-techa11y-zh-d3264f54",
+    "lang": "zh-TW",
+    "summary": "萊特中心正透過 TechA11y 計畫加強無障礙承諾，提升殘障人士的數位存取。",
+    "category": "digital-a11y",
+    "tags": [
+      "TechA11y",
+      "digital accessibility",
+      "assistive technology"
+    ],
+    "sourceName": "Susquehanna County Independent",
+    "sourceUrl": "https://www.susqcoindy.com/news/whats-happening/the-wright-center-expands-commitment-to-accessibility-with-techa11y/article_71e79b66-7109-4097-b826-cc3253ee2e17.html",
+    "relatedSources": [
+      {
+        "name": "Susquehanna County Independent",
+        "url": "https://www.susqcoindy.com/news/whats-happening/the-wright-center-expands-commitment-to-accessibility-with-techa11y/article_71e79b66-7109-4097-b826-cc3253ee2e17.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-d3264f54",
+    "status": "published",
+    "translationOf": "the-wright-center-expands-commitment-to-accessibility-with-techa11y-d3264f54",
+    "publishedAt": "2026-10-22T17:00:00.000Z",
+    "fetchedAt": "2026-10-22T20:34:39.134Z",
+    "body": "萊特中心正透過 TechA11y 計畫加強無障礙承諾，提升殘障人士的數位存取。\n\n原文來源： [Susquehanna County Independent](https://www.susqcoindy.com/news/whats-happening/the-wright-center-expands-commitment-to-accessibility-with-techa11y/article_71e79b66-7109-4097-b826-cc3253ee2e17.html)"
+  },
+  {
+    "title": "藝術無障礙！台美身心障礙藝術交流展 串聯畫作與音樂邀民眾走進創作世界 - 視傳媒",
+    "slug": "art-without-barriers-taiwan-us-disabled-artists-exchange-exhibition-connects-pai-zh-31d62e46",
+    "lang": "zh-TW",
+    "summary": "此台美身心障礙藝術交流展結合畫作與音樂，推動藝術無障礙，邀請民眾走進殘障創作者的創作世界。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "art",
+      "disability",
+      "exchange",
+      "Taiwan-US",
+      "exhibition"
+    ],
+    "sourceName": "視傳媒",
+    "sourceUrl": "https://nvns.net/news_view.php?new_sn=146334&new_csn=1776",
+    "relatedSources": [
+      {
+        "name": "視傳媒",
+        "url": "https://nvns.net/news_view.php?new_sn=146334&new_csn=1776"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-31d62e46",
+    "status": "published",
+    "translationOf": "art-without-barriers-taiwan-us-disabled-artists-exchange-exhibition-connects-pai-31d62e46",
+    "publishedAt": "2026-10-16T03:43:24.000Z",
+    "fetchedAt": "2026-10-22T20:34:48.899Z",
+    "body": "此台美身心障礙藝術交流展結合畫作與音樂，推動藝術無障礙，邀請民眾走進殘障創作者的創作世界。\n\n原文來源： [視傳媒](https://nvns.net/news_view.php?new_sn=146334&new_csn=1776)"
+  },
+  {
+    "title": "勇敢前行：在家庭生活中選擇成長而非恐懼",
+    "slug": "being-brave-choosing-growth-over-fear-in-family-life-zh-45ab1f95",
+    "lang": "zh-TW",
+    "summary": "這篇個人敘述講述作者在有身心障礙兄弟姐妹的環境下長大，如何選擇勇氣而非恐懼，以及小小的勇敢選擇如何隨時間重塑育兒與家庭生活。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "family",
+      "personal essay",
+      "siblings",
+      "bravery"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.disabled-world.com/disability/blogs/tsara/brave.php",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.disabled-world.com/disability/blogs/tsara/brave.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.disabled-world.com/news.xml",
+    "ingestProvider": "disabled-world.com",
+    "clusterId": "cluster-45ab1f95",
+    "status": "published",
+    "translationOf": "being-brave-choosing-growth-over-fear-in-family-life-45ab1f95",
+    "publishedAt": "2026-10-22T16:04:00.000Z",
+    "fetchedAt": "2026-10-22T20:34:48.992Z",
+    "body": "這篇個人敘述講述作者在有身心障礙兄弟姐妹的環境下長大，如何選擇勇氣而非恐懼，以及小小的勇敢選擇如何隨時間重塑育兒與家庭生活。\n\n原文來源： [Unknown source](https://www.disabled-world.com/disability/blogs/tsara/brave.php)"
+  },
+  {
+    "title": "ramplint 0.6.0 版本發布",
+    "slug": "ramplint-060-released-zh-f1fdd687",
+    "lang": "zh-TW",
+    "summary": "一個新版本的 ramplint 檢查工具，可針對 Django 與 Jinja2 模板進行 WCAG 無障礙標準檢測。",
+    "category": "digital-a11y",
+    "tags": [
+      "WCAG",
+      "linter",
+      "Django",
+      "Jinja2"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/ramplint/0.6.0",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/ramplint/0.6.0"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-f1fdd687",
+    "status": "published",
+    "translationOf": "ramplint-060-released-f1fdd687",
+    "publishedAt": "2026-10-21T19:18:46.000Z",
+    "fetchedAt": "2026-10-22T20:34:55.954Z",
+    "body": "一個新版本的 ramplint 檢查工具，可針對 Django 與 Jinja2 模板進行 WCAG 無障礙標準檢測。\n\n原文來源： [Pypi.org](https://pypi.org/project/ramplint/0.6.0)"
+  },
+  {
+    "title": "彈出式調查與 CTA 的設計自訂包含無障礙考量",
+    "slug": "design-customization-for-popup-surveys-ctas-includes-accessibility-consideration-zh-b1098ca1",
+    "lang": "zh-TW",
+    "summary": "該文章說明如何自訂彈出式調查與呼籲行動按鈕的顏色、字體與樣式，同時確保其對殘障使用者仍具可及性。",
+    "category": "digital-a11y",
+    "tags": [
+      "popup",
+      "survey",
+      "CTA",
+      "design",
+      "accessibility"
+    ],
+    "sourceName": "Crazyegg.com",
+    "sourceUrl": "https://www.crazyegg.com/blog/surveys-ctas-design-customization",
+    "relatedSources": [
+      {
+        "name": "Crazyegg.com",
+        "url": "https://www.crazyegg.com/blog/surveys-ctas-design-customization"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-b1098ca1",
+    "status": "published",
+    "translationOf": "design-customization-for-popup-surveys-ctas-includes-accessibility-consideration-b1098ca1",
+    "publishedAt": "2026-10-21T18:58:18.000Z",
+    "fetchedAt": "2026-10-22T20:34:56.029Z",
+    "body": "該文章說明如何自訂彈出式調查與呼籲行動按鈕的顏色、字體與樣式，同時確保其對殘障使用者仍具可及性。\n\n原文來源： [Crazyegg.com](https://www.crazyegg.com/blog/surveys-ctas-design-customization)"
+  },
+  {
+    "title": "陳奈學生取得殘障證書的困難凸顯無障礙缺口",
+    "slug": "chennai-students-struggle-to-obtain-disability-certificate-exposes-gaps-in-acces-zh-b7d647c3",
+    "lang": "zh-TW",
+    "summary": "一名聽力障礙的陳奈十年級學生多次往返醫院申請殘障證明認證，暴露出系統性障礙，並引發要求接受UDID或州政府證書的呼聲。",
+    "category": "laws-rights",
+    "tags": [
+      "disability certificate",
+      "hearing impairment",
+      "Chennai",
+      "UDID",
+      "accessibility"
+    ],
+    "sourceName": "The Times of India",
+    "sourceUrl": "https://timesofindia.indiatimes.com/city/chennai/chennai-students-struggle-to-obtain-disability-certificate-exposes-gaps-in-accessibility/articleshow/135099293.cms",
+    "relatedSources": [
+      {
+        "name": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/chennai/chennai-students-struggle-to-obtain-disability-certificate-exposes-gaps-in-accessibility/articleshow/135099293.cms"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-b7d647c3",
+    "status": "published",
+    "translationOf": "chennai-students-struggle-to-obtain-disability-certificate-exposes-gaps-in-acces-b7d647c3",
+    "publishedAt": "2026-10-21T18:40:31.000Z",
+    "fetchedAt": "2026-10-22T20:35:04.581Z",
+    "body": "一名聽力障礙的陳奈十年級學生多次往返醫院申請殘障證明認證，暴露出系統性障礙，並引發要求接受UDID或州政府證書的呼聲。\n\n原文來源： [The Times of India](https://timesofindia.indiatimes.com/city/chennai/chennai-students-struggle-to-obtain-disability-certificate-exposes-gaps-in-accessibility/articleshow/135099293.cms)"
+  },
+  {
+    "title": "無障礙團隊會議議程：2026年10月22日",
+    "slug": "accessibility-team-meeting-agenda-october-22-2026-zh-0628f2e3",
+    "lang": "zh-TW",
+    "summary": "議程包括宣布 WordPress 7.2 Beta 1 已發布、Beta 2 將於 10 月 27 日發行、版本 7.2 的路線圖，以及邀請參與測試的相關事項。",
+    "category": "digital-a11y",
+    "tags": [
+      "WordPress",
+      "meeting",
+      "agenda"
+    ],
+    "sourceName": "Wordpress.org",
+    "sourceUrl": "https://make.wordpress.org/accessibility/2026/10/21/accessibility-team-meeting-agenda-october-22-2026",
+    "relatedSources": [
+      {
+        "name": "Wordpress.org",
+        "url": "https://make.wordpress.org/accessibility/2026/10/21/accessibility-team-meeting-agenda-october-22-2026"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-0628f2e3",
+    "status": "published",
+    "translationOf": "accessibility-team-meeting-agenda-october-22-2026-0628f2e3",
+    "publishedAt": "2026-10-21T17:47:56.000Z",
+    "fetchedAt": "2026-10-22T20:35:09.680Z",
+    "body": "議程包括宣布 WordPress 7.2 Beta 1 已發布、Beta 2 將於 10 月 27 日發行、版本 7.2 的路線圖，以及邀請參與測試的相關事項。\n\n原文來源： [Wordpress.org](https://make.wordpress.org/accessibility/2026/10/21/accessibility-team-meeting-agenda-october-22-2026)"
   }
 ]
