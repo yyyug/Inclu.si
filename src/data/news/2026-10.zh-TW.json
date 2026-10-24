@@ -87490,5 +87490,682 @@
     "publishedAt": "2026-10-24T02:34:00.000Z",
     "fetchedAt": "2026-10-24T12:57:34.369Z",
     "body": "一個組織因推廣包容性和服文化而在無障礙與 LGBTQ+ 類別中獲得獎項。\n推文來源： [A11yTokyoMeetup (@A11yTYO)](https://x.com/A11yTYO/status/2113821278012580167)\n外部連結： [https://a11ytyo.connpass.com/event/410268](https://a11ytyo.connpass.com/event/410268)"
+  },
+  {
+    "title": "MDPH對小個子障礙認定標準不一",
+    "slug": "inconsistent-disability-determinations-for-dwarfism-at-mdph-zh-296bdce3",
+    "lang": "zh-TW",
+    "summary": "APPT協會指出，法國MDPH辦公室在處理小個子人士（涉及CMI、PCH和RQTH）的障礙權利時標準不一，呼籲在國家層面統一認定標準以確保公平對待。",
+    "category": "laws-rights",
+    "tags": [
+      "dwarfism",
+      "MDPH",
+      "French law",
+      "inequality",
+      "APPT"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-nanisme-des-inegalites-de-traitement-a-la-mdph-39905.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-nanisme-des-inegalites-de-traitement-a-la-mdph-39905.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-296bdce3",
+    "status": "published",
+    "translationOf": "inconsistent-disability-determinations-for-dwarfism-at-mdph-296bdce3",
+    "publishedAt": "2026-10-24T10:03:39.000Z",
+    "fetchedAt": "2026-10-24T14:07:14.407Z",
+    "body": "APPT協會指出，法國MDPH辦公室在處理小個子人士（涉及CMI、PCH和RQTH）的障礙權利時標準不一，呼籲在國家層面統一認定標準以確保公平對待。\n\n原文來源： [handicap.fr](https://informations.handicap.fr/a-nanisme-des-inegalites-de-traitement-a-la-mdph-39905.php)"
+  },
+  {
+    "title": "埃及：國家殘障人士委員會推動數位融合與兒童保護",
+    "slug": "egypt-national-council-for-persons-with-disabilities-boosts-digital-inclusion-an-zh-10a8bd01",
+    "lang": "zh-TW",
+    "summary": "埃及國家殘障人士委員會（NCPD）與國家電信監管機構合作舉辦研討會，探討如何加強民間社會在將殘障人士納入電信領域中的作用，重點關注數位融合及殘障兒童保護。",
+    "category": "digital-a11y",
+    "tags": [
+      "Egypt",
+      "digital inclusion",
+      "telecom",
+      "NCPD",
+      "civil society"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/69308",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/69308"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-10a8bd01",
+    "status": "published",
+    "translationOf": "egypt-national-council-for-persons-with-disabilities-boosts-digital-inclusion-an-10a8bd01",
+    "publishedAt": "2026-10-23T19:38:00.000Z",
+    "fetchedAt": "2026-10-24T14:07:14.533Z",
+    "body": "埃及國家殘障人士委員會（NCPD）與國家電信監管機構合作舉辦研討會，探討如何加強民間社會在將殘障人士納入電信領域中的作用，重點關注數位融合及殘障兒童保護。\n\n原文來源： [asdmag.org](https://asdmag.org/archives/69308)"
+  },
+  {
+    "title": "統一正式溝通中關於殘障人士的術語",
+    "slug": "standardizing-terminology-for-people-with-disabilities-in-official-communication-zh-39aafa2e",
+    "lang": "zh-TW",
+    "summary": "一項擬議法規旨在統一正式溝通中關於殘障人士的術語，並禁止使用委婉或輕視性的描述，以促進尊重且標準化的語言使用。",
+    "category": "general",
+    "tags": [
+      "terminology",
+      "language",
+      "rights",
+      "policy"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alyaum.com/ampArticle/6688367",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alyaum.com/ampArticle/6688367"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-39aafa2e",
+    "status": "published",
+    "translationOf": "standardizing-terminology-for-people-with-disabilities-in-official-communication-39aafa2e",
+    "publishedAt": "2026-10-24T11:30:00.000Z",
+    "fetchedAt": "2026-10-24T14:07:14.633Z",
+    "body": "一項擬議法規旨在統一正式溝通中關於殘障人士的術語，並禁止使用委婉或輕視性的描述，以促進尊重且標準化的語言使用。\n\n原文來源： [news.google.com](https://www.alyaum.com/ampArticle/6688367)"
+  },
+  {
+    "title": "阿聯酋家庭部結束「國際能動展」展覽",
+    "slug": "uae-family-ministry-concludes-participation-in-international-capabilities-expo-zh-b2b8bcf4",
+    "lang": "zh-TW",
+    "summary": "阿聯酋社區發展部在「國際能動展」中展示了關於殘障融合與賦權的計劃與進步，並順利結束其展覽活動。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "expo",
+      "disability-rights",
+      "uae",
+      "inclusion"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.wam.ae/ar/article/3csppnzw-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D8%A9-%D8%AA%D8%AE%D8%AA%D8%AA%D9%85-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%AA%D9%87%D8%A7-%D8%A5%D9%83%D8%B3%D8%A8%D9%88-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.wam.ae/ar/article/3csppnzw-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D8%A9-%D8%AA%D8%AE%D8%AA%D8%AA%D9%85-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%AA%D9%87%D8%A7-%D8%A5%D9%83%D8%B3%D8%A8%D9%88-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-b2b8bcf4",
+    "status": "published",
+    "translationOf": "uae-family-ministry-concludes-participation-in-international-capabilities-expo-b2b8bcf4",
+    "publishedAt": "2026-10-22T17:18:08.000Z",
+    "fetchedAt": "2026-10-24T14:07:23.447Z",
+    "body": "阿聯酋社區發展部在「國際能動展」中展示了關於殘障融合與賦權的計劃與進步，並順利結束其展覽活動。\n\n原文來源： [news.google.com](https://www.wam.ae/ar/article/3csppnzw-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D8%A9-%D8%AA%D8%AE%D8%AA%D8%AA%D9%85-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%AA%D9%87%D8%A7-%D8%A5%D9%83%D8%B3%D8%A8%D9%88-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85)"
+  },
+  {
+    "title": "迪拜市政廳展示融合設施與賦能弱勢群體的計劃",
+    "slug": "dubai-municipality-showcases-inclusive-initiatives-and-facilities-for-people-wit-zh-8521dfe8",
+    "lang": "zh-TW",
+    "summary": "迪拜市政廳展示了多個旨在賦能殘障人士的融合性計劃與設施，重點關注無障礙環境與社會融合。",
+    "category": "physical-design",
+    "tags": [
+      "municipality",
+      "accessibility",
+      "dubai",
+      "inclusive-design"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albayan.ae/news/1559128",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albayan.ae/news/1559128"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84+%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-8521dfe8",
+    "status": "published",
+    "translationOf": "dubai-municipality-showcases-inclusive-initiatives-and-facilities-for-people-wit-8521dfe8",
+    "publishedAt": "2026-10-19T18:55:00.000Z",
+    "fetchedAt": "2026-10-24T14:07:23.550Z",
+    "body": "迪拜市政廳展示了多個旨在賦能殘障人士的融合性計劃與設施，重點關注無障礙環境與社會融合。\n\n原文來源： [news.google.com](https://www.albayan.ae/news/1559128)"
+  },
+  {
+    "title": "Handibloc：為複雜身心障礙者提供單一麻醉下的多重醫療照護",
+    "slug": "handibloc-combining-medical-procedures-under-a-single-anesthesia-for-people-with-zh-b53c3829",
+    "lang": "zh-TW",
+    "summary": "「Handibloc」醫療方案在全國範圍內的推廣進入新階段，該方案旨在調整手術流程以適應複雜障礙人士的需求。透過限制多次進入手術室，並在單一麻醉下進行多項必要手術，此舉旨在提升身心障礙者的醫療無障礙性，並減少其身體與心理壓力。",
+    "category": "laws-rights",
+    "tags": [
+      "medical-accessibility",
+      "healthcare",
+      "surgery",
+      "disability-rights"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-handibloc-plusieurs-soins-sous-une-seule-anesthesie-39891.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-handibloc-plusieurs-soins-sous-une-seule-anesthesie-39891.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-b53c3829",
+    "status": "published",
+    "translationOf": "handibloc-combining-medical-procedures-under-a-single-anesthesia-for-people-with-b53c3829",
+    "publishedAt": "2026-10-24T07:00:26.000Z",
+    "fetchedAt": "2026-10-24T14:07:46.005Z",
+    "body": "「Handibloc」醫療方案在全國範圍內的推廣進入新階段，該方案旨在調整手術流程以適應複雜障礙人士的需求。透過限制多次進入手術室，並在單一麻醉下進行多項必要手術，此舉旨在提升身心障礙者的醫療無障礙性，並減少其身體與心理壓力。\n\n原文來源： [handicap.fr](https://informations.handicap.fr/a-handibloc-plusieurs-soins-sous-une-seule-anesthesie-39891.php)"
+  },
+  {
+    "title": "違法取得身心障礙文件或證件者將面臨監禁與罰款",
+    "slug": "legal-penalties-for-fraudulently-obtaining-disability-documents-or-cards-zh-32386f2c",
+    "lang": "zh-TW",
+    "summary": "新法規規定，無正當權益而舞弊取得身心障礙證明文件或證件者，將面臨監禁及罰款。此立法措施旨在維護身心障礙認定制度的完整性，並確保福利與便利措施僅限於真正符合資格者使用。",
+    "category": "laws-rights",
+    "tags": [
+      "legislation",
+      "fraud",
+      "disability-cards",
+      "penalties"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://m.youm7.com/amp/2026/10/23/%D8%A7%D9%84%D8%AD%D8%A8%D8%B3-%D9%88%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D9%85%D8%A9-%D9%84%D9%85%D9%86-%D8%AA%D8%AD%D8%A7%D9%8A%D9%84-%D9%84%D9%84%D8%AD%D8%B5%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D9%88%D8%AB%D9%8A%D9%82%D8%A9-%D8%A3%D9%88-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D9%84%D8%B0%D9%88%D9%8A/7588390",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://m.youm7.com/amp/2026/10/23/%D8%A7%D9%84%D8%AD%D8%A8%D8%B3-%D9%88%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D9%85%D8%A9-%D9%84%D9%85%D9%86-%D8%AA%D8%AD%D8%A7%D9%8A%D9%84-%D9%84%D9%84%D8%AD%D8%B5%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D9%88%D8%AB%D9%8A%D9%82%D8%A9-%D8%A3%D9%88-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D9%84%D8%B0%D9%88%D9%8A/7588390"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-32386f2c",
+    "status": "published",
+    "translationOf": "legal-penalties-for-fraudulently-obtaining-disability-documents-or-cards-32386f2c",
+    "publishedAt": "2026-10-23T05:04:57.000Z",
+    "fetchedAt": "2026-10-24T14:07:46.122Z",
+    "body": "新法規規定，無正當權益而舞弊取得身心障礙證明文件或證件者，將面臨監禁及罰款。此立法措施旨在維護身心障礙認定制度的完整性，並確保福利與便利措施僅限於真正符合資格者使用。\n\n原文來源： [news.google.com](https://m.youm7.com/amp/2026/10/23/%D8%A7%D9%84%D8%AD%D8%A8%D8%B3-%D9%88%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D9%85%D8%A9-%D9%84%D9%85%D9%86-%D8%AA%D8%AD%D8%A7%D9%8A%D9%84-%D9%84%D9%84%D8%AD%D8%B5%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D9%88%D8%AB%D9%8A%D9%82%D8%A9-%D8%A3%D9%88-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D9%84%D8%B0%D9%88%D9%8A/7588390)"
+  },
+  {
+    "title": "阿塞拜疆在联合国发表关于地雷危害及残障人士权利的声明",
+    "slug": "azerbaijan-issues-un-statement-on-mine-hazards-and-rights-of-persons-with-disabi-zh-60c39092",
+    "lang": "zh-TW",
+    "summary": "阿塞拜疆在联合国发表声明，讨论地雷危险及受地雷事故影响的残障人士的权利和需求。",
+    "category": "laws-rights",
+    "tags": [
+      "UN",
+      "mines",
+      "disability-rights",
+      "Azerbaijan"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://azertag.az/ar/xeber/arabic-4478121",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://azertag.az/ar/xeber/arabic-4478121"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-60c39092",
+    "status": "published",
+    "translationOf": "azerbaijan-issues-un-statement-on-mine-hazards-and-rights-of-persons-with-disabi-60c39092",
+    "publishedAt": "2026-10-24T11:21:00.000Z",
+    "fetchedAt": "2026-10-24T14:07:52.611Z",
+    "body": "阿塞拜疆在联合国发表声明，讨论地雷危险及受地雷事故影响的残障人士的权利和需求。\n\n原文來源： [news.google.com](https://azertag.az/ar/xeber/arabic-4478121)"
+  },
+  {
+    "title": "迪拜警方在「我们的双手创造」展览中展示残障人士的创意",
+    "slug": "dubai-police-highlight-creativity-of-people-with-disabilities-in-art-exhibition-zh-7a6931f5",
+    "lang": "zh-TW",
+    "summary": "迪拜警方在一场名为「我们的双手创造」的展览中，展示了残障人士的艺术才华与创作，促进包容并认可他们的创造能力。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "Dubai",
+      "art",
+      "inclusion",
+      "creativity"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albayan.ae/news/1559328",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albayan.ae/news/1559328"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-7a6931f5",
+    "status": "published",
+    "translationOf": "dubai-police-highlight-creativity-of-people-with-disabilities-in-art-exhibition-7a6931f5",
+    "publishedAt": "2026-10-20T15:55:00.000Z",
+    "fetchedAt": "2026-10-24T14:07:52.719Z",
+    "body": "迪拜警方在一场名为「我们的双手创造」的展览中，展示了残障人士的艺术才华与创作，促进包容并认可他们的创造能力。\n\n原文來源： [news.google.com](https://www.albayan.ae/news/1559328)"
+  },
+  {
+    "title": "長官指示快速介入隊調查襲擊殘障女性案件",
+    "slug": "ministry-directs-rapid-intervention-team-to-investigate-assault-on-disabled-woma-zh-c745122f",
+    "lang": "zh-TW",
+    "summary": "社會福利長官指示殘障事務中央管理局及快速介入隊調查加爾比亞省一名殘障女性遭受襲擊的事件，並安排其轉入護理機構。",
+    "category": "laws-rights",
+    "tags": [
+      "disability-rights",
+      "social-services",
+      "case-study"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D8%AA%D9%88%D8%AC%D9%87-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D8%A9-%D9%84%D8%B4%D8%A6%D9%88%D9%86-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9-%D8%A8%D9%81%D8%AD%D8%B5-%D9%88%D8%A7%D9%82%D8%B9%D8%A9-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%B3%D9%8A%D8%AF%D8%A9-%D8%AA%D8%B9%D8%A7%D9%86%D9%8A-%D9%85%D9%86-%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D9%86%D9%82%D9%84%D9%87%D8%A7-%D9%84%D8%A5%D8%AD%D8%AF%D9%8A-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D8%AA%D9%88%D8%AC%D9%87-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D8%A9-%D9%84%D8%B4%D8%A6%D9%88%D9%86-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9-%D8%A8%D9%81%D8%AD%D8%B5-%D9%88%D8%A7%D9%82%D8%B9%D8%A9-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%B3%D9%8A%D8%AF%D8%A9-%D8%AA%D8%B9%D8%A7%D9%86%D9%8A-%D9%85%D9%86-%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D9%86%D9%82%D9%84%D9%87%D8%A7-%D9%84%D8%A5%D8%AD%D8%AF%D9%8A-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-c745122f",
+    "status": "published",
+    "translationOf": "ministry-directs-rapid-intervention-team-to-investigate-assault-on-disabled-woma-c745122f",
+    "publishedAt": "2026-10-23T22:49:35.000Z",
+    "fetchedAt": "2026-10-24T14:08:04.278Z",
+    "body": "社會福利長官指示殘障事務中央管理局及快速介入隊調查加爾比亞省一名殘障女性遭受襲擊的事件，並安排其轉入護理機構。\n\n原文來源： [news.google.com](https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D8%AA%D9%88%D8%AC%D9%87-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D8%A9-%D9%84%D8%B4%D8%A6%D9%88%D9%86-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9-%D8%A8%D9%81%D8%AD%D8%B5-%D9%88%D8%A7%D9%82%D8%B9%D8%A9-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%B3%D9%8A%D8%AF%D8%A9-%D8%AA%D8%B9%D8%A7%D9%86%D9%8A-%D9%85%D9%86-%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D9%86%D9%82%D9%84%D9%87%D8%A7-%D9%84%D8%A5%D8%AD%D8%AF%D9%8A-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9)"
+  },
+  {
+    "title": "部會展示支持殘障人士權利與賦權的努力",
+    "slug": "ministry-reviews-efforts-to-support-rights-and-empowerment-of-persons-with-disab-zh-e77cd86d",
+    "lang": "zh-TW",
+    "summary": "社會福利部展示了其在維護殘障人士權利及促進其社會與經濟賦權方面的持續努力。",
+    "category": "laws-rights",
+    "tags": [
+      "disability-rights",
+      "policy",
+      "empowerment"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.youm7.com/story/2026/10/24/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%AC%D9%87%D9%88%D8%AF-%D8%AF%D8%B9%D9%85-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%AA%D9%85%D9%83%D9%8A%D9%86%D9%87%D9%85/7591307",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.youm7.com/story/2026/10/24/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%AC%D9%87%D9%88%D8%AF-%D8%AF%D8%B9%D9%85-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%AA%D9%85%D9%83%D9%8A%D9%86%D9%87%D9%85/7591307"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-e77cd86d",
+    "status": "published",
+    "translationOf": "ministry-reviews-efforts-to-support-rights-and-empowerment-of-persons-with-disab-e77cd86d",
+    "publishedAt": "2026-10-24T07:47:00.000Z",
+    "fetchedAt": "2026-10-24T14:08:04.400Z",
+    "body": "社會福利部展示了其在維護殘障人士權利及促進其社會與經濟賦權方面的持續努力。\n\n原文來源： [news.google.com](https://www.youm7.com/story/2026/10/24/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%AC%D9%87%D9%88%D8%AF-%D8%AF%D8%B9%D9%85-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%AA%D9%85%D9%83%D9%8A%D9%86%D9%87%D9%85/7591307)"
+  },
+  {
+    "title": "身心障礙成為大學前途的障礙",
+    "slug": "disability-becomes-an-obstacle-to-university-prospects-zh-93c08d0a",
+    "lang": "zh-TW",
+    "summary": "文章探討了本應是獲得支持權利的身體障礙，反而成為身心障礙者大學機會的障礙。",
+    "category": "laws-rights",
+    "tags": [
+      "higher education",
+      "disability rights",
+      "systemic barriers"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.al-jazirah.com/2026/20261006/ed4.htm",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.al-jazirah.com/2026/20261006/ed4.htm"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-93c08d0a",
+    "status": "published",
+    "translationOf": "disability-becomes-an-obstacle-to-university-prospects-93c08d0a",
+    "publishedAt": "2026-10-06T01:09:04.000Z",
+    "fetchedAt": "2026-10-24T14:08:25.062Z",
+    "body": "文章探討了本應是獲得支持權利的身體障礙，反而成為身心障礙者大學機會的障礙。\n\n原文來源： [news.google.com](https://www.al-jazirah.com/2026/20261006/ed4.htm)"
+  },
+  {
+    "title": "社會凝聚部展示對身心障礙者的支持",
+    "slug": "ministry-of-solidarity-showcases-support-for-persons-with-disabilities-zh-6a01a2e5",
+    "lang": "zh-TW",
+    "summary": "社會凝聚部部長介紹了支持身心障礙者的努力，並強調法律賦予他們的众多權益和優待。",
+    "category": "laws-rights",
+    "tags": [
+      "government initiatives",
+      "legal benefits",
+      "social support"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://twaslnews1.twaslnews.com/6515211",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://twaslnews1.twaslnews.com/6515211"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-6a01a2e5",
+    "status": "published",
+    "translationOf": "ministry-of-solidarity-showcases-support-for-persons-with-disabilities-6a01a2e5",
+    "publishedAt": "2026-10-24T12:30:09.000Z",
+    "fetchedAt": "2026-10-24T14:08:25.184Z",
+    "body": "社會凝聚部部長介紹了支持身心障礙者的努力，並強調法律賦予他們的众多權益和優待。\n\n原文來源： [news.google.com](https://twaslnews1.twaslnews.com/6515211)"
+  },
+  {
+    "title": "艾哈邁德·本·薩伊德為第8屆國際身心障礙博覽會揭幕",
+    "slug": "ahmed-bin-saeed-opens-8th-international-expo-for-persons-with-disabilities-zh-3fb9f97c",
+    "lang": "zh-TW",
+    "summary": "艾哈邁德·本·薩伊德為第8屆國際身心障礙博覽會揭幕，重點展示專為身心障礙社群提供的解決方案和創新。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "exhibition",
+      "inclusive events",
+      "community engagement"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://25h.app/2026/10/19/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B3%D8%B9%D9%8A%D8%AF-%D9%8A%D9%81%D8%AA%D8%AA%D8%AD-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9-%D9%85%D9%86-%D9%85%D8%B9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://25h.app/2026/10/19/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B3%D8%B9%D9%8A%D8%AF-%D9%8A%D9%81%D8%AA%D8%AA%D8%AD-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9-%D9%85%D9%86-%D9%85%D8%B9"
+      }
+    ],
+    "sourceCountry": "EG",
+    "queryRegion": "EG",
+    "region": "EG",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-3fb9f97c",
+    "status": "published",
+    "translationOf": "ahmed-bin-saeed-opens-8th-international-expo-for-persons-with-disabilities-3fb9f97c",
+    "publishedAt": "2026-10-19T18:30:39.000Z",
+    "fetchedAt": "2026-10-24T14:08:25.278Z",
+    "body": "艾哈邁德·本·薩伊德為第8屆國際身心障礙博覽會揭幕，重點展示專為身心障礙社群提供的解決方案和創新。\n\n原文來源： [news.google.com](https://25h.app/2026/10/19/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B3%D8%B9%D9%8A%D8%AF-%D9%8A%D9%81%D8%AA%D8%AA%D8%AD-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9-%D9%85%D9%86-%D9%85%D8%B9)"
+  },
+  {
+    "title": "侵害殘疾人士的法律懲罰",
+    "slug": "legal-penalties-for-assaulting-people-with-disabilities-zh-f3d796a7",
+    "lang": "zh-TW",
+    "summary": "為強化對弱勢群體的保護，社會與國際關係部已針對襲擊殘疾人士的行爲制定新懲罰，包括監禁及罰款5,000埃及鎊。",
+    "category": "laws-rights",
+    "tags": [
+      "legal",
+      "penalties",
+      "assault",
+      "egypt"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.elbalad.news/7153686",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.elbalad.news/7153686"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-f3d796a7",
+    "status": "published",
+    "translationOf": "legal-penalties-for-assaulting-people-with-disabilities-f3d796a7",
+    "publishedAt": "2026-10-24T07:12:00.000Z",
+    "fetchedAt": "2026-10-24T14:08:36.083Z",
+    "body": "為強化對弱勢群體的保護，社會與國際關係部已針對襲擊殘疾人士的行爲制定新懲罰，包括監禁及罰款5,000埃及鎊。\n\n原文來源： [news.google.com](https://www.elbalad.news/7153686)"
+  },
+  {
+    "title": "全國殘疾人委員會討論2026-2030賦權戰略",
+    "slug": "national-council-for-persons-with-disabilities-discusses-2026-2030-empowerment-s-zh-fd604ee1",
+    "lang": "zh-TW",
+    "summary": "全國殘疾人委員會即將討論《2026-2030國家賦權戰略》的執行計劃，重點關注殘障人士權利及包容性的系統性改善。",
+    "category": "laws-rights",
+    "tags": [
+      "strategy",
+      "policy",
+      "empowerment",
+      "national-council"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://almalnews.com/2143022/%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D8%BA%D8%AF%D9%8B%D8%A7-%D8%A7%D9%84%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D9%8A%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://almalnews.com/2143022/%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D8%BA%D8%AF%D9%8B%D8%A7-%D8%A7%D9%84%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D9%8A%D8%A9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-fd604ee1",
+    "status": "published",
+    "translationOf": "national-council-for-persons-with-disabilities-discusses-2026-2030-empowerment-s-fd604ee1",
+    "publishedAt": "2026-10-24T09:00:11.000Z",
+    "fetchedAt": "2026-10-24T14:08:36.190Z",
+    "body": "全國殘疾人委員會即將討論《2026-2030國家賦權戰略》的執行計劃，重點關注殘障人士權利及包容性的系統性改善。\n\n原文來源： [news.google.com](https://almalnews.com/2143022/%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D8%BA%D8%AF%D9%8B%D8%A7-%D8%A7%D9%84%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D9%8A%D8%A9)"
+  },
+  {
+    "title": "埃及社會公益部長在2026埃及論壇介紹殘障人士及長者服務",
+    "slug": "egypts-minister-of-social-solidarity-highlights-services-for-people-with-disabil-zh-3b59b3f7",
+    "lang": "zh-TW",
+    "summary": "埃及社會公益部長在2026埃及論壇上，概述了為殘障人士和老年人提供的各項服務與支援。",
+    "category": "laws-rights",
+    "tags": [
+      "Egypt",
+      "Social Services",
+      "Disability Policy",
+      "Elderly Care"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://gate.ahram.org.eg/News/5970460.aspx",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://gate.ahram.org.eg/News/5970460.aspx"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-3b59b3f7",
+    "status": "published",
+    "translationOf": "egypts-minister-of-social-solidarity-highlights-services-for-people-with-disabil-3b59b3f7",
+    "publishedAt": "2026-10-23T13:05:00.000Z",
+    "fetchedAt": "2026-10-24T14:08:42.098Z",
+    "body": "埃及社會公益部長在2026埃及論壇上，概述了為殘障人士和老年人提供的各項服務與支援。\n\n原文來源： [news.google.com](https://gate.ahram.org.eg/News/5970460.aspx)"
+  },
+  {
+    "title": "越南殘障舉重選手參加第五屆亞殘會",
+    "slug": "vietnamese-para-powerlifters-conclude-their-competition-at-the-5th-asian-para-ga-zh-930e4ab6",
+    "lang": "zh-TW",
+    "summary": "參加第五屆亞洲殘疾人運動會的越南殘障舉重選手完成了其競賽項目。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "Sports",
+      "Asian Para Games",
+      "Vietnam",
+      "Para-athletics"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.vietnam.vn/ar/cu-ta-nguoi-khuyet-tat-viet-nam-ket-thuc-tranh-tai-tai-asian-para-games-5",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.vietnam.vn/ar/cu-ta-nguoi-khuyet-tat-viet-nam-ket-thuc-tranh-tai-tai-asian-para-games-5"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-930e4ab6",
+    "status": "published",
+    "translationOf": "vietnamese-para-powerlifters-conclude-their-competition-at-the-5th-asian-para-ga-930e4ab6",
+    "publishedAt": "2026-10-24T09:15:40.000Z",
+    "fetchedAt": "2026-10-24T14:08:42.204Z",
+    "body": "參加第五屆亞洲殘疾人運動會的越南殘障舉重選手完成了其競賽項目。\n\n原文來源： [news.google.com](https://www.vietnam.vn/ar/cu-ta-nguoi-khuyet-tat-viet-nam-ket-thuc-tranh-tai-tai-asian-para-games-5)"
+  },
+  {
+    "title": "社會互助部參加在迪拜舉行的2026國際能力博覽會",
+    "slug": "ministry-of-social-solidarity-joins-international-abilities-expo-2026-in-dubai-zh-118fc7fd",
+    "lang": "zh-TW",
+    "summary": "社會互助部將參加在迪拜舉行的第八屆國際能力博覽會，該活動專注於残障人士的技能培養、包容性服務與權益保障。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "event",
+      "inclusion",
+      "government",
+      "dubai"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9-%D9%85%D9%86-%D9%85%D8%B9%D8%B1%D8%B6-%D8%A5%D9%83%D8%B3%D8%A8%D9%88-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-2026-%D8%A8%D8%AF%D8%A8%D9%8A",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9-%D9%85%D9%86-%D9%85%D8%B9%D8%B1%D8%B6-%D8%A5%D9%83%D8%B3%D8%A8%D9%88-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-2026-%D8%A8%D8%AF%D8%A8%D9%8A"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-118fc7fd",
+    "status": "published",
+    "translationOf": "ministry-of-social-solidarity-joins-international-abilities-expo-2026-in-dubai-118fc7fd",
+    "publishedAt": "2026-10-24T08:42:49.000Z",
+    "fetchedAt": "2026-10-24T14:08:51.650Z",
+    "body": "社會互助部將參加在迪拜舉行的第八屆國際能力博覽會，該活動專注於残障人士的技能培養、包容性服務與權益保障。\n\n原文來源： [news.google.com](https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9-%D9%85%D9%86-%D9%85%D8%B9%D8%B1%D8%B6-%D8%A5%D9%83%D8%B3%D8%A8%D9%88-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-2026-%D8%A8%D8%AF%D8%A8%D9%8A)"
+  },
+  {
+    "title": "Webuy應用程式中殘障人士購票難題",
+    "slug": "ticketing-issues-for-persons-with-disabilities-on-webuy-app-zh-3c0fc4de",
+    "lang": "zh-TW",
+    "summary": "媒體報導指出，殘障人士在Webuy購票應用程式上長期面臨無法解決的問題，等待數月仍未獲得合適的通行方案。",
+    "category": "digital-a11y",
+    "tags": [
+      "ticketing",
+      "app",
+      "accessibility-barrier",
+      "saudi-arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://ahwal.sa/archives/281019",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://ahwal.sa/archives/281019"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-3c0fc4de",
+    "status": "published",
+    "translationOf": "ticketing-issues-for-persons-with-disabilities-on-webuy-app-3c0fc4de",
+    "publishedAt": "2026-10-24T12:44:20.000Z",
+    "fetchedAt": "2026-10-24T14:08:51.765Z",
+    "body": "媒體報導指出，殘障人士在Webuy購票應用程式上長期面臨無法解決的問題，等待數月仍未獲得合適的通行方案。\n\n原文來源： [news.google.com](https://ahwal.sa/archives/281019)"
   }
 ]

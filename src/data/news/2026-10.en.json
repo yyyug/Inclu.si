@@ -87490,5 +87490,682 @@
     "publishedAt": "2026-10-24T02:34:00.000Z",
     "fetchedAt": "2026-10-24T12:57:34.369Z",
     "body": "An organization received awards in the Accessible and LGBTQ+ categories for promoting inclusive kimono culture.\nTweet source: [A11yTokyoMeetup (@A11yTYO)](https://x.com/A11yTYO/status/2113821278012580167)\nExternal link: [https://a11ytyo.connpass.com/event/410268](https://a11ytyo.connpass.com/event/410268)"
+  },
+  {
+    "title": "Inconsistent Disability Determinations for Dwarfism at MDPH",
+    "slug": "inconsistent-disability-determinations-for-dwarfism-at-mdph-296bdce3",
+    "lang": "en",
+    "summary": "The association APPT highlights disparities in how French MDPH offices handle disability rights (such as CMI, PCH, and RQTH) for individuals with dwarfism, calling for national harmonization of criteria to ensure equal treatment.",
+    "category": "laws-rights",
+    "tags": [
+      "dwarfism",
+      "MDPH",
+      "French law",
+      "inequality",
+      "APPT"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-nanisme-des-inegalites-de-traitement-a-la-mdph-39905.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-nanisme-des-inegalites-de-traitement-a-la-mdph-39905.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-296bdce3",
+    "status": "published",
+    "translationOf": "inconsistent-disability-determinations-for-dwarfism-at-mdph-zh-296bdce3",
+    "publishedAt": "2026-10-24T10:03:39.000Z",
+    "fetchedAt": "2026-10-24T14:07:14.407Z",
+    "body": "The association APPT highlights disparities in how French MDPH offices handle disability rights (such as CMI, PCH, and RQTH) for individuals with dwarfism, calling for national harmonization of criteria to ensure equal treatment.\n\nRead more from the original source: [handicap.fr](https://informations.handicap.fr/a-nanisme-des-inegalites-de-traitement-a-la-mdph-39905.php)"
+  },
+  {
+    "title": "Egypt: National Council for Persons with Disabilities Boosts Digital Inclusion and Child Protection",
+    "slug": "egypt-national-council-for-persons-with-disabilities-boosts-digital-inclusion-an-10a8bd01",
+    "lang": "en",
+    "summary": "Egypt's National Council for Persons with Disabilities (NCPD) collaborated with the National Telecom Regulatory Authority to hold a workshop on enhancing civil society's role in integrating people with disabilities into the telecom sector, focusing on digital inclusion and the protection of disabled children.",
+    "category": "digital-a11y",
+    "tags": [
+      "Egypt",
+      "digital inclusion",
+      "telecom",
+      "NCPD",
+      "civil society"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/69308",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/69308"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-10a8bd01",
+    "status": "published",
+    "translationOf": "egypt-national-council-for-persons-with-disabilities-boosts-digital-inclusion-an-zh-10a8bd01",
+    "publishedAt": "2026-10-23T19:38:00.000Z",
+    "fetchedAt": "2026-10-24T14:07:14.533Z",
+    "body": "Egypt's National Council for Persons with Disabilities (NCPD) collaborated with the National Telecom Regulatory Authority to hold a workshop on enhancing civil society's role in integrating people with disabilities into the telecom sector, focusing on digital inclusion and the protection of disabled children.\n\nRead more from the original source: [asdmag.org](https://asdmag.org/archives/69308)"
+  },
+  {
+    "title": "Standardizing Terminology for People with Disabilities in Official Communication",
+    "slug": "standardizing-terminology-for-people-with-disabilities-in-official-communication-39aafa2e",
+    "lang": "en",
+    "summary": "A proposed regulation aims to unify terms used in official communications regarding people with disabilities and prohibit the use of euphemistic or patronizing descriptions, promoting respectful and standardized language.",
+    "category": "general",
+    "tags": [
+      "terminology",
+      "language",
+      "rights",
+      "policy"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alyaum.com/ampArticle/6688367",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alyaum.com/ampArticle/6688367"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-39aafa2e",
+    "status": "published",
+    "translationOf": "standardizing-terminology-for-people-with-disabilities-in-official-communication-zh-39aafa2e",
+    "publishedAt": "2026-10-24T11:30:00.000Z",
+    "fetchedAt": "2026-10-24T14:07:14.633Z",
+    "body": "A proposed regulation aims to unify terms used in official communications regarding people with disabilities and prohibit the use of euphemistic or patronizing descriptions, promoting respectful and standardized language.\n\nRead more from the original source: [news.google.com](https://www.alyaum.com/ampArticle/6688367)"
+  },
+  {
+    "title": "UAE Family Ministry concludes participation in International Capabilities Expo",
+    "slug": "uae-family-ministry-concludes-participation-in-international-capabilities-expo-b2b8bcf4",
+    "lang": "en",
+    "summary": "The UAE Ministry of Community Development concluded its participation in the International Capabilities Expo, highlighting initiatives and advancements related to disability inclusion and empowerment.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "expo",
+      "disability-rights",
+      "uae",
+      "inclusion"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.wam.ae/ar/article/3csppnzw-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D8%A9-%D8%AA%D8%AE%D8%AA%D8%AA%D9%85-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%AA%D9%87%D8%A7-%D8%A5%D9%83%D8%B3%D8%A8%D9%88-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.wam.ae/ar/article/3csppnzw-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D8%A9-%D8%AA%D8%AE%D8%AA%D8%AA%D9%85-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%AA%D9%87%D8%A7-%D8%A5%D9%83%D8%B3%D8%A8%D9%88-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-b2b8bcf4",
+    "status": "published",
+    "translationOf": "uae-family-ministry-concludes-participation-in-international-capabilities-expo-zh-b2b8bcf4",
+    "publishedAt": "2026-10-22T17:18:08.000Z",
+    "fetchedAt": "2026-10-24T14:07:23.447Z",
+    "body": "The UAE Ministry of Community Development concluded its participation in the International Capabilities Expo, highlighting initiatives and advancements related to disability inclusion and empowerment.\n\nRead more from the original source: [news.google.com](https://www.wam.ae/ar/article/3csppnzw-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D8%A9-%D8%AA%D8%AE%D8%AA%D8%AA%D9%85-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%AA%D9%87%D8%A7-%D8%A5%D9%83%D8%B3%D8%A8%D9%88-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85)"
+  },
+  {
+    "title": "Dubai Municipality showcases inclusive initiatives and facilities for people with disabilities",
+    "slug": "dubai-municipality-showcases-inclusive-initiatives-and-facilities-for-people-wit-8521dfe8",
+    "lang": "en",
+    "summary": "Dubai Municipality presented various inclusive initiatives and infrastructure designed to empower individuals with disabilities, focusing on accessibility and social integration.",
+    "category": "physical-design",
+    "tags": [
+      "municipality",
+      "accessibility",
+      "dubai",
+      "inclusive-design"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albayan.ae/news/1559128",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albayan.ae/news/1559128"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84+%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-8521dfe8",
+    "status": "published",
+    "translationOf": "dubai-municipality-showcases-inclusive-initiatives-and-facilities-for-people-wit-zh-8521dfe8",
+    "publishedAt": "2026-10-19T18:55:00.000Z",
+    "fetchedAt": "2026-10-24T14:07:23.550Z",
+    "body": "Dubai Municipality presented various inclusive initiatives and infrastructure designed to empower individuals with disabilities, focusing on accessibility and social integration.\n\nRead more from the original source: [news.google.com](https://www.albayan.ae/news/1559128)"
+  },
+  {
+    "title": "Handibloc: Combining Medical Procedures Under a Single Anesthesia for People with Complex Disabilities",
+    "slug": "handibloc-combining-medical-procedures-under-a-single-anesthesia-for-people-with-b53c3829",
+    "lang": "en",
+    "summary": "The national rollout of Handibloc, a medical protocol designed to adapt surgical pathways for individuals with complex disabilities, has entered a new phase. By limiting repeated visits to the operating room and performing multiple necessary procedures under a single anesthesia session, the initiative aims to improve healthcare accessibility and reduce physical and psychological stress for patients with significant disabilities.",
+    "category": "laws-rights",
+    "tags": [
+      "medical-accessibility",
+      "healthcare",
+      "surgery",
+      "disability-rights"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-handibloc-plusieurs-soins-sous-une-seule-anesthesie-39891.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-handibloc-plusieurs-soins-sous-une-seule-anesthesie-39891.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-b53c3829",
+    "status": "published",
+    "translationOf": "handibloc-combining-medical-procedures-under-a-single-anesthesia-for-people-with-zh-b53c3829",
+    "publishedAt": "2026-10-24T07:00:26.000Z",
+    "fetchedAt": "2026-10-24T14:07:46.005Z",
+    "body": "The national rollout of Handibloc, a medical protocol designed to adapt surgical pathways for individuals with complex disabilities, has entered a new phase. By limiting repeated visits to the operating room and performing multiple necessary procedures under a single anesthesia session, the initiative aims to improve healthcare accessibility and reduce physical and psychological stress for patients with significant disabilities.\n\nRead more from the original source: [handicap.fr](https://informations.handicap.fr/a-handibloc-plusieurs-soins-sous-une-seule-anesthesie-39891.php)"
+  },
+  {
+    "title": "Legal Penalties for Fraudulently Obtaining Disability Documents or Cards",
+    "slug": "legal-penalties-for-fraudulently-obtaining-disability-documents-or-cards-32386f2c",
+    "lang": "en",
+    "summary": "New regulations impose imprisonment and fines on individuals who fraudulently obtain disability certification documents or cards without legal entitlement. This legislative measure aims to protect the integrity of the disability identification system and ensure that benefits and accommodations are reserved for those who genuinely qualify.",
+    "category": "laws-rights",
+    "tags": [
+      "legislation",
+      "fraud",
+      "disability-cards",
+      "penalties"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://m.youm7.com/amp/2026/10/23/%D8%A7%D9%84%D8%AD%D8%A8%D8%B3-%D9%88%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D9%85%D8%A9-%D9%84%D9%85%D9%86-%D8%AA%D8%AD%D8%A7%D9%8A%D9%84-%D9%84%D9%84%D8%AD%D8%B5%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D9%88%D8%AB%D9%8A%D9%82%D8%A9-%D8%A3%D9%88-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D9%84%D8%B0%D9%88%D9%8A/7588390",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://m.youm7.com/amp/2026/10/23/%D8%A7%D9%84%D8%AD%D8%A8%D8%B3-%D9%88%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D9%85%D8%A9-%D9%84%D9%85%D9%86-%D8%AA%D8%AD%D8%A7%D9%8A%D9%84-%D9%84%D9%84%D8%AD%D8%B5%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D9%88%D8%AB%D9%8A%D9%82%D8%A9-%D8%A3%D9%88-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D9%84%D8%B0%D9%88%D9%8A/7588390"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-32386f2c",
+    "status": "published",
+    "translationOf": "legal-penalties-for-fraudulently-obtaining-disability-documents-or-cards-zh-32386f2c",
+    "publishedAt": "2026-10-23T05:04:57.000Z",
+    "fetchedAt": "2026-10-24T14:07:46.122Z",
+    "body": "New regulations impose imprisonment and fines on individuals who fraudulently obtain disability certification documents or cards without legal entitlement. This legislative measure aims to protect the integrity of the disability identification system and ensure that benefits and accommodations are reserved for those who genuinely qualify.\n\nRead more from the original source: [news.google.com](https://m.youm7.com/amp/2026/10/23/%D8%A7%D9%84%D8%AD%D8%A8%D8%B3-%D9%88%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D9%85%D8%A9-%D9%84%D9%85%D9%86-%D8%AA%D8%AD%D8%A7%D9%8A%D9%84-%D9%84%D9%84%D8%AD%D8%B5%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D9%88%D8%AB%D9%8A%D9%82%D8%A9-%D8%A3%D9%88-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D9%84%D8%B0%D9%88%D9%8A/7588390)"
+  },
+  {
+    "title": "Azerbaijan Issues UN Statement on Mine Hazards and Rights of Persons with Disabilities",
+    "slug": "azerbaijan-issues-un-statement-on-mine-hazards-and-rights-of-persons-with-disabi-60c39092",
+    "lang": "en",
+    "summary": "Azerbaijan issued a statement at the United Nations addressing the dangers of landmines and specifically focusing on the rights and needs of individuals with disabilities affected by mine incidents.",
+    "category": "laws-rights",
+    "tags": [
+      "UN",
+      "mines",
+      "disability-rights",
+      "Azerbaijan"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://azertag.az/ar/xeber/arabic-4478121",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://azertag.az/ar/xeber/arabic-4478121"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-60c39092",
+    "status": "published",
+    "translationOf": "azerbaijan-issues-un-statement-on-mine-hazards-and-rights-of-persons-with-disabi-zh-60c39092",
+    "publishedAt": "2026-10-24T11:21:00.000Z",
+    "fetchedAt": "2026-10-24T14:07:52.611Z",
+    "body": "Azerbaijan issued a statement at the United Nations addressing the dangers of landmines and specifically focusing on the rights and needs of individuals with disabilities affected by mine incidents.\n\nRead more from the original source: [news.google.com](https://azertag.az/ar/xeber/arabic-4478121)"
+  },
+  {
+    "title": "Dubai Police Highlight Creativity of People with Disabilities in Art Exhibition",
+    "slug": "dubai-police-highlight-creativity-of-people-with-disabilities-in-art-exhibition-7a6931f5",
+    "lang": "en",
+    "summary": "Dubai Police showcased the artistic talents and creations of individuals with disabilities (referred to as 'owners of hope' or 'people of determination' in the context) in an exhibition titled 'We Create with Our Fingers,' promoting inclusion and recognizing their creative abilities.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "Dubai",
+      "art",
+      "inclusion",
+      "creativity"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albayan.ae/news/1559328",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albayan.ae/news/1559328"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-7a6931f5",
+    "status": "published",
+    "translationOf": "dubai-police-highlight-creativity-of-people-with-disabilities-in-art-exhibition-zh-7a6931f5",
+    "publishedAt": "2026-10-20T15:55:00.000Z",
+    "fetchedAt": "2026-10-24T14:07:52.719Z",
+    "body": "Dubai Police showcased the artistic talents and creations of individuals with disabilities (referred to as 'owners of hope' or 'people of determination' in the context) in an exhibition titled 'We Create with Our Fingers,' promoting inclusion and recognizing their creative abilities.\n\nRead more from the original source: [news.google.com](https://www.albayan.ae/news/1559328)"
+  },
+  {
+    "title": "Ministry Directs Rapid Intervention Team to Investigate Assault on Disabled Woman",
+    "slug": "ministry-directs-rapid-intervention-team-to-investigate-assault-on-disabled-woma-c745122f",
+    "lang": "en",
+    "summary": "The Minister of Social Solidarity ordered the Central Administration for Persons with Disabilities and the rapid intervention team to investigate an assault incident involving a disabled woman in Gharbia and arrange for her transfer to a care facility.",
+    "category": "laws-rights",
+    "tags": [
+      "disability-rights",
+      "social-services",
+      "case-study"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D8%AA%D9%88%D8%AC%D9%87-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D8%A9-%D9%84%D8%B4%D8%A6%D9%88%D9%86-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9-%D8%A8%D9%81%D8%AD%D8%B5-%D9%88%D8%A7%D9%82%D8%B9%D8%A9-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%B3%D9%8A%D8%AF%D8%A9-%D8%AA%D8%B9%D8%A7%D9%86%D9%8A-%D9%85%D9%86-%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D9%86%D9%82%D9%84%D9%87%D8%A7-%D9%84%D8%A5%D8%AD%D8%AF%D9%8A-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D8%AA%D9%88%D8%AC%D9%87-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D8%A9-%D9%84%D8%B4%D8%A6%D9%88%D9%86-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9-%D8%A8%D9%81%D8%AD%D8%B5-%D9%88%D8%A7%D9%82%D8%B9%D8%A9-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%B3%D9%8A%D8%AF%D8%A9-%D8%AA%D8%B9%D8%A7%D9%86%D9%8A-%D9%85%D9%86-%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D9%86%D9%82%D9%84%D9%87%D8%A7-%D9%84%D8%A5%D8%AD%D8%AF%D9%8A-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-c745122f",
+    "status": "published",
+    "translationOf": "ministry-directs-rapid-intervention-team-to-investigate-assault-on-disabled-woma-zh-c745122f",
+    "publishedAt": "2026-10-23T22:49:35.000Z",
+    "fetchedAt": "2026-10-24T14:08:04.278Z",
+    "body": "The Minister of Social Solidarity ordered the Central Administration for Persons with Disabilities and the rapid intervention team to investigate an assault incident involving a disabled woman in Gharbia and arrange for her transfer to a care facility.\n\nRead more from the original source: [news.google.com](https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D8%AA%D9%88%D8%AC%D9%87-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D8%A9-%D9%84%D8%B4%D8%A6%D9%88%D9%86-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9-%D8%A8%D9%81%D8%AD%D8%B5-%D9%88%D8%A7%D9%82%D8%B9%D8%A9-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%B3%D9%8A%D8%AF%D8%A9-%D8%AA%D8%B9%D8%A7%D9%86%D9%8A-%D9%85%D9%86-%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D9%86%D9%82%D9%84%D9%87%D8%A7-%D9%84%D8%A5%D8%AD%D8%AF%D9%8A-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9)"
+  },
+  {
+    "title": "Ministry Reviews Efforts to Support Rights and Empowerment of Persons with Disabilities",
+    "slug": "ministry-reviews-efforts-to-support-rights-and-empowerment-of-persons-with-disab-e77cd86d",
+    "lang": "en",
+    "summary": "The Ministry of Social Solidarity presented its ongoing efforts to uphold the rights of persons with disabilities and promote their social and economic empowerment.",
+    "category": "laws-rights",
+    "tags": [
+      "disability-rights",
+      "policy",
+      "empowerment"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.youm7.com/story/2026/10/24/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%AC%D9%87%D9%88%D8%AF-%D8%AF%D8%B9%D9%85-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%AA%D9%85%D9%83%D9%8A%D9%86%D9%87%D9%85/7591307",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.youm7.com/story/2026/10/24/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%AC%D9%87%D9%88%D8%AF-%D8%AF%D8%B9%D9%85-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%AA%D9%85%D9%83%D9%8A%D9%86%D9%87%D9%85/7591307"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-e77cd86d",
+    "status": "published",
+    "translationOf": "ministry-reviews-efforts-to-support-rights-and-empowerment-of-persons-with-disab-zh-e77cd86d",
+    "publishedAt": "2026-10-24T07:47:00.000Z",
+    "fetchedAt": "2026-10-24T14:08:04.400Z",
+    "body": "The Ministry of Social Solidarity presented its ongoing efforts to uphold the rights of persons with disabilities and promote their social and economic empowerment.\n\nRead more from the original source: [news.google.com](https://www.youm7.com/story/2026/10/24/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%AC%D9%87%D9%88%D8%AF-%D8%AF%D8%B9%D9%85-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%AA%D9%85%D9%83%D9%8A%D9%86%D9%87%D9%85/7591307)"
+  },
+  {
+    "title": "Disability Becomes an Obstacle to University Prospects",
+    "slug": "disability-becomes-an-obstacle-to-university-prospects-93c08d0a",
+    "lang": "en",
+    "summary": "The article discusses how disability, which should be a right to support, is instead becoming a barrier to university opportunities for individuals with disabilities.",
+    "category": "laws-rights",
+    "tags": [
+      "higher education",
+      "disability rights",
+      "systemic barriers"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.al-jazirah.com/2026/20261006/ed4.htm",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.al-jazirah.com/2026/20261006/ed4.htm"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-93c08d0a",
+    "status": "published",
+    "translationOf": "disability-becomes-an-obstacle-to-university-prospects-zh-93c08d0a",
+    "publishedAt": "2026-10-06T01:09:04.000Z",
+    "fetchedAt": "2026-10-24T14:08:25.062Z",
+    "body": "The article discusses how disability, which should be a right to support, is instead becoming a barrier to university opportunities for individuals with disabilities.\n\nRead more from the original source: [news.google.com](https://www.al-jazirah.com/2026/20261006/ed4.htm)"
+  },
+  {
+    "title": "Ministry of Solidarity Showcases Support for Persons with Disabilities",
+    "slug": "ministry-of-solidarity-showcases-support-for-persons-with-disabilities-6a01a2e5",
+    "lang": "en",
+    "summary": "The Minister of Solidarity presents efforts to support people with disabilities and highlights numerous legal benefits and advantages granted to them by law.",
+    "category": "laws-rights",
+    "tags": [
+      "government initiatives",
+      "legal benefits",
+      "social support"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://twaslnews1.twaslnews.com/6515211",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://twaslnews1.twaslnews.com/6515211"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-6a01a2e5",
+    "status": "published",
+    "translationOf": "ministry-of-solidarity-showcases-support-for-persons-with-disabilities-zh-6a01a2e5",
+    "publishedAt": "2026-10-24T12:30:09.000Z",
+    "fetchedAt": "2026-10-24T14:08:25.184Z",
+    "body": "The Minister of Solidarity presents efforts to support people with disabilities and highlights numerous legal benefits and advantages granted to them by law.\n\nRead more from the original source: [news.google.com](https://twaslnews1.twaslnews.com/6515211)"
+  },
+  {
+    "title": "Ahmed bin Saeed Opens 8th International Expo for Persons with Disabilities",
+    "slug": "ahmed-bin-saeed-opens-8th-international-expo-for-persons-with-disabilities-3fb9f97c",
+    "lang": "en",
+    "summary": "Ahmed bin Saeed inaugurates the 8th International Expo for Persons with Disabilities, highlighting events dedicated to showcasing solutions and innovations for the disabled community.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "exhibition",
+      "inclusive events",
+      "community engagement"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://25h.app/2026/10/19/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B3%D8%B9%D9%8A%D8%AF-%D9%8A%D9%81%D8%AA%D8%AA%D8%AD-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9-%D9%85%D9%86-%D9%85%D8%B9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://25h.app/2026/10/19/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B3%D8%B9%D9%8A%D8%AF-%D9%8A%D9%81%D8%AA%D8%AA%D8%AD-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9-%D9%85%D9%86-%D9%85%D8%B9"
+      }
+    ],
+    "sourceCountry": "EG",
+    "queryRegion": "EG",
+    "region": "EG",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-3fb9f97c",
+    "status": "published",
+    "translationOf": "ahmed-bin-saeed-opens-8th-international-expo-for-persons-with-disabilities-zh-3fb9f97c",
+    "publishedAt": "2026-10-19T18:30:39.000Z",
+    "fetchedAt": "2026-10-24T14:08:25.278Z",
+    "body": "Ahmed bin Saeed inaugurates the 8th International Expo for Persons with Disabilities, highlighting events dedicated to showcasing solutions and innovations for the disabled community.\n\nRead more from the original source: [news.google.com](https://25h.app/2026/10/19/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B3%D8%B9%D9%8A%D8%AF-%D9%8A%D9%81%D8%AA%D8%AA%D8%AD-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9-%D9%85%D9%86-%D9%85%D8%B9)"
+  },
+  {
+    "title": "Legal Penalties for Assaulting People with Disabilities",
+    "slug": "legal-penalties-for-assaulting-people-with-disabilities-f3d796a7",
+    "lang": "en",
+    "summary": "The Ministry of Solidarity has introduced new penalties, including imprisonment and a fine of 5,000 EGP, for individuals who assault people with disabilities, reinforcing legal protections for this group.",
+    "category": "laws-rights",
+    "tags": [
+      "legal",
+      "penalties",
+      "assault",
+      "egypt"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.elbalad.news/7153686",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.elbalad.news/7153686"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-f3d796a7",
+    "status": "published",
+    "translationOf": "legal-penalties-for-assaulting-people-with-disabilities-zh-f3d796a7",
+    "publishedAt": "2026-10-24T07:12:00.000Z",
+    "fetchedAt": "2026-10-24T14:08:36.083Z",
+    "body": "The Ministry of Solidarity has introduced new penalties, including imprisonment and a fine of 5,000 EGP, for individuals who assault people with disabilities, reinforcing legal protections for this group.\n\nRead more from the original source: [news.google.com](https://www.elbalad.news/7153686)"
+  },
+  {
+    "title": "National Council for Persons with Disabilities Discusses 2026-2030 Empowerment Strategy",
+    "slug": "national-council-for-persons-with-disabilities-discusses-2026-2030-empowerment-s-fd604ee1",
+    "lang": "en",
+    "summary": "The National Council for Persons with Disabilities is set to discuss the executive plan for the National Empowerment Strategy for 2026-2030, focusing on systemic improvements for disability rights and inclusion.",
+    "category": "laws-rights",
+    "tags": [
+      "strategy",
+      "policy",
+      "empowerment",
+      "national-council"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://almalnews.com/2143022/%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D8%BA%D8%AF%D9%8B%D8%A7-%D8%A7%D9%84%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D9%8A%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://almalnews.com/2143022/%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D8%BA%D8%AF%D9%8B%D8%A7-%D8%A7%D9%84%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D9%8A%D8%A9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-fd604ee1",
+    "status": "published",
+    "translationOf": "national-council-for-persons-with-disabilities-discusses-2026-2030-empowerment-s-zh-fd604ee1",
+    "publishedAt": "2026-10-24T09:00:11.000Z",
+    "fetchedAt": "2026-10-24T14:08:36.190Z",
+    "body": "The National Council for Persons with Disabilities is set to discuss the executive plan for the National Empowerment Strategy for 2026-2030, focusing on systemic improvements for disability rights and inclusion.\n\nRead more from the original source: [news.google.com](https://almalnews.com/2143022/%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D8%BA%D8%AF%D9%8B%D8%A7-%D8%A7%D9%84%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D9%8A%D8%A9)"
+  },
+  {
+    "title": "Egypt's Minister of Social Solidarity highlights services for people with disabilities and the elderly at Egypt Forum 2026",
+    "slug": "egypts-minister-of-social-solidarity-highlights-services-for-people-with-disabil-3b59b3f7",
+    "lang": "en",
+    "summary": "The Minister of Social Solidarity of Egypt presented an overview of the services and support provided to people with disabilities and senior citizens during the Egypt Forum 2026.",
+    "category": "laws-rights",
+    "tags": [
+      "Egypt",
+      "Social Services",
+      "Disability Policy",
+      "Elderly Care"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://gate.ahram.org.eg/News/5970460.aspx",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://gate.ahram.org.eg/News/5970460.aspx"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-3b59b3f7",
+    "status": "published",
+    "translationOf": "egypts-minister-of-social-solidarity-highlights-services-for-people-with-disabil-zh-3b59b3f7",
+    "publishedAt": "2026-10-23T13:05:00.000Z",
+    "fetchedAt": "2026-10-24T14:08:42.098Z",
+    "body": "The Minister of Social Solidarity of Egypt presented an overview of the services and support provided to people with disabilities and senior citizens during the Egypt Forum 2026.\n\nRead more from the original source: [news.google.com](https://gate.ahram.org.eg/News/5970460.aspx)"
+  },
+  {
+    "title": "Vietnamese Para-powerlifters conclude their competition at the 5th Asian Para Games",
+    "slug": "vietnamese-para-powerlifters-conclude-their-competition-at-the-5th-asian-para-ga-930e4ab6",
+    "lang": "en",
+    "summary": "Vietnamese athletes with disabilities participating in para-powerlifting completed their events at the 5th Asian Para Games.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "Sports",
+      "Asian Para Games",
+      "Vietnam",
+      "Para-athletics"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.vietnam.vn/ar/cu-ta-nguoi-khuyet-tat-viet-nam-ket-thuc-tranh-tai-tai-asian-para-games-5",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.vietnam.vn/ar/cu-ta-nguoi-khuyet-tat-viet-nam-ket-thuc-tranh-tai-tai-asian-para-games-5"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-930e4ab6",
+    "status": "published",
+    "translationOf": "vietnamese-para-powerlifters-conclude-their-competition-at-the-5th-asian-para-ga-zh-930e4ab6",
+    "publishedAt": "2026-10-24T09:15:40.000Z",
+    "fetchedAt": "2026-10-24T14:08:42.204Z",
+    "body": "Vietnamese athletes with disabilities participating in para-powerlifting completed their events at the 5th Asian Para Games.\n\nRead more from the original source: [news.google.com](https://www.vietnam.vn/ar/cu-ta-nguoi-khuyet-tat-viet-nam-ket-thuc-tranh-tai-tai-asian-para-games-5)"
+  },
+  {
+    "title": "Ministry of Social Solidarity Joins International Abilities Expo 2026 in Dubai",
+    "slug": "ministry-of-social-solidarity-joins-international-abilities-expo-2026-in-dubai-118fc7fd",
+    "lang": "en",
+    "summary": "The Ministry of Social Solidarity is participating in the eighth edition of the International Abilities Expo 2026 in Dubai, an event focused on empowerment, inclusion, and services for people with disabilities.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "event",
+      "inclusion",
+      "government",
+      "dubai"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9-%D9%85%D9%86-%D9%85%D8%B9%D8%B1%D8%B6-%D8%A5%D9%83%D8%B3%D8%A8%D9%88-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-2026-%D8%A8%D8%AF%D8%A8%D9%8A",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9-%D9%85%D9%86-%D9%85%D8%B9%D8%B1%D8%B6-%D8%A5%D9%83%D8%B3%D8%A8%D9%88-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-2026-%D8%A8%D8%AF%D8%A8%D9%8A"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-118fc7fd",
+    "status": "published",
+    "translationOf": "ministry-of-social-solidarity-joins-international-abilities-expo-2026-in-dubai-zh-118fc7fd",
+    "publishedAt": "2026-10-24T08:42:49.000Z",
+    "fetchedAt": "2026-10-24T14:08:51.650Z",
+    "body": "The Ministry of Social Solidarity is participating in the eighth edition of the International Abilities Expo 2026 in Dubai, an event focused on empowerment, inclusion, and services for people with disabilities.\n\nRead more from the original source: [news.google.com](https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9-%D9%85%D9%86-%D9%85%D8%B9%D8%B1%D8%B6-%D8%A5%D9%83%D8%B3%D8%A8%D9%88-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-2026-%D8%A8%D8%AF%D8%A8%D9%8A)"
+  },
+  {
+    "title": "Ticketing Issues for Persons with Disabilities on Webuy App",
+    "slug": "ticketing-issues-for-persons-with-disabilities-on-webuy-app-3c0fc4de",
+    "lang": "en",
+    "summary": "Reporters highlight ongoing complaints from individuals with disabilities regarding the Webuy ticketing app, citing months of waiting without a resolution for accessible ticketing options.",
+    "category": "digital-a11y",
+    "tags": [
+      "ticketing",
+      "app",
+      "accessibility-barrier",
+      "saudi-arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://ahwal.sa/archives/281019",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://ahwal.sa/archives/281019"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-3c0fc4de",
+    "status": "published",
+    "translationOf": "ticketing-issues-for-persons-with-disabilities-on-webuy-app-zh-3c0fc4de",
+    "publishedAt": "2026-10-24T12:44:20.000Z",
+    "fetchedAt": "2026-10-24T14:08:51.765Z",
+    "body": "Reporters highlight ongoing complaints from individuals with disabilities regarding the Webuy ticketing app, citing months of waiting without a resolution for accessible ticketing options.\n\nRead more from the original source: [news.google.com](https://ahwal.sa/archives/281019)"
   }
 ]
