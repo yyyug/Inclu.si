@@ -95498,5 +95498,641 @@
     "publishedAt": "2026-10-26T15:13:42.000Z",
     "fetchedAt": "2026-10-26T15:29:53.483Z",
     "body": "一位為智力障礙者提供支援的服務提供者對該領域被感知為負面的方向表示擔憂。\n推文來源： [福祉屋あおい💙知的障害者支援力 (@team2003)](https://x.com/team2003/status/2114737239586726079)"
+  },
+  {
+    "title": "施工與殘障：如何確保安全與資訊無障礙",
+    "slug": "construction-work-and-disability-ensuring-safety-and-accessible-information-zh-240b721a",
+    "lang": "zh-TW",
+    "summary": "文章強調在公共工程期間為身障人士確保安全的持續挑戰，以及以各種殘障類型均可及的方式傳播資訊的特定困難。",
+    "category": "physical-design",
+    "tags": [
+      "public-works",
+      "safety",
+      "information-accessibility",
+      "barriers"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-travaux-et-handicap-comment-les-securiser-39913.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-travaux-et-handicap-comment-les-securiser-39913.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-240b721a",
+    "status": "published",
+    "translationOf": "construction-work-and-disability-ensuring-safety-and-accessible-information-240b721a",
+    "publishedAt": "2026-10-26T16:04:30.000Z",
+    "fetchedAt": "2026-10-26T16:58:27.904Z",
+    "body": "文章強調在公共工程期間為身障人士確保安全的持續挑戰，以及以各種殘障類型均可及的方式傳播資訊的特定困難。\n\n原文來源： [handicap.fr](https://informations.handicap.fr/a-travaux-et-handicap-comment-les-securiser-39913.php)"
+  },
+  {
+    "title": "西班牙平台強調腦外傷早期康復的重要性",
+    "slug": "spanish-platform-highlights-importance-of-early-rehabilitation-for-acquired-brai-zh-bb244833",
+    "lang": "zh-TW",
+    "summary": "西班牙腦外傷平台強調早期專門的神經康復在恢復中風和頭部創傷倖存者的自主性與生活品質方面的關鍵作用。其主張協同醫療服務、跨學科方法以及對家庭的支援，以解決生理與認知後遺症。",
+    "category": "case-studies",
+    "tags": [
+      "brain-injury",
+      "rehabilitation",
+      "neuroplasticity",
+      "healthcare-systems",
+      "family-support"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/la-plataforma-espanola-por-el-dano-cerebral-adquirido-destaca-la-importancia-de-la",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/la-plataforma-espanola-por-el-dano-cerebral-adquirido-destaca-la-importancia-de-la"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-bb244833",
+    "status": "published",
+    "translationOf": "spanish-platform-highlights-importance-of-early-rehabilitation-for-acquired-brai-bb244833",
+    "publishedAt": "2026-10-26T10:17:41.000Z",
+    "fetchedAt": "2026-10-26T16:58:28.007Z",
+    "body": "西班牙腦外傷平台強調早期專門的神經康復在恢復中風和頭部創傷倖存者的自主性與生活品質方面的關鍵作用。其主張協同醫療服務、跨學科方法以及對家庭的支援，以解決生理與認知後遺症。\n\n原文來源： [discapnet.es](https://www.discapnet.es/noticia/la-plataforma-espanola-por-el-dano-cerebral-adquirido-destaca-la-importancia-de-la)"
+  },
+  {
+    "title": "特需兒童特別班級：成功取決於實際融入與持續支持",
+    "slug": "specialized-sections-for-children-with-special-needs-success-depends-on-actual-i-zh-32bee990",
+    "lang": "zh-TW",
+    "summary": "文章討論了一項組織公立學校中特需兒童（如自閉譜系障礙兒童）特別班級的政令。其強調提供合適的教育環境、專業人員配置及支持的連續性，以確保教育的質量與公平性的重要性。",
+    "category": "laws-rights",
+    "tags": [
+      "special-education",
+      "autism",
+      "school-inclusion",
+      "policy",
+      "special-needs"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/69432",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/69432"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-32bee990",
+    "status": "published",
+    "translationOf": "specialized-sections-for-children-with-special-needs-success-depends-on-actual-i-32bee990",
+    "publishedAt": "2026-10-26T07:00:22.000Z",
+    "fetchedAt": "2026-10-26T16:58:28.086Z",
+    "body": "文章討論了一項組織公立學校中特需兒童（如自閉譜系障礙兒童）特別班級的政令。其強調提供合適的教育環境、專業人員配置及支持的連續性，以確保教育的質量與公平性的重要性。\n\n原文來源： [asdmag.org](https://asdmag.org/archives/69432)"
+  },
+  {
+    "title": "國家殘障者委員會參與文藝活動融合研討會",
+    "slug": "national-council-for-people-with-disabilities-participates-in-symposium-on-integ-zh-e2fc1497",
+    "lang": "zh-TW",
+    "summary": "國家殘障者委員會正在參與由最高委員會主辦的研討會，探討將殘障兒童融合到文化活動中的策略，並促進其社會融合。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "inclusion",
+      "culture",
+      "children",
+      "council"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://darelhilal.com/News/3331780.aspx",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://darelhilal.com/News/3331780.aspx"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-e2fc1497",
+    "status": "published",
+    "translationOf": "national-council-for-people-with-disabilities-participates-in-symposium-on-integ-e2fc1497",
+    "publishedAt": "2026-10-26T15:17:38.000Z",
+    "fetchedAt": "2026-10-26T16:58:33.879Z",
+    "body": "國家殘障者委員會正在參與由最高委員會主辦的研討會，探討將殘障兒童融合到文化活動中的策略，並促進其社會融合。\n\n原文來源： [news.google.com](https://darelhilal.com/News/3331780.aspx)"
+  },
+  {
+    "title": "「長存善跡」行動為老年聽障人士舉辦支援營",
+    "slug": "al-baqiyat-as-salihat-organizes-outreach-camp-to-support-elderly-people-with-hea-zh-6b1b1f43",
+    "lang": "zh-TW",
+    "summary": "「長存善跡」行動正在組織一個專門的支援營，旨在為老年聽障人士提供服務與支持，滿足其特定需求並提升生活質量。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "hearing-impairment",
+      "elderly",
+      "outreach",
+      "support"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.youm7.com/story/2026/10/26/%D8%A7%D9%84%D8%A8%D8%A7%D9%82%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%D8%A7%D8%AA-%D8%AA%D9%86%D8%B8%D9%85-%D9%82%D8%A7%D9%81%D9%84%D8%A9-%D9%86%D9%88%D8%B9%D9%8A%D8%A9-%D9%84%D8%AF%D8%B9%D9%85-%D9%83%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B3%D9%86-%D9%85%D9%86-%D8%B0%D9%88%D9%89/7593990",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.youm7.com/story/2026/10/26/%D8%A7%D9%84%D8%A8%D8%A7%D9%82%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%D8%A7%D8%AA-%D8%AA%D9%86%D8%B8%D9%85-%D9%82%D8%A7%D9%81%D9%84%D8%A9-%D9%86%D9%88%D8%B9%D9%8A%D8%A9-%D9%84%D8%AF%D8%B9%D9%85-%D9%83%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B3%D9%86-%D9%85%D9%86-%D8%B0%D9%88%D9%89/7593990"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-6b1b1f43",
+    "status": "published",
+    "translationOf": "al-baqiyat-as-salihat-organizes-outreach-camp-to-support-elderly-people-with-hea-6b1b1f43",
+    "publishedAt": "2026-10-26T09:20:00.000Z",
+    "fetchedAt": "2026-10-26T16:58:33.946Z",
+    "body": "「長存善跡」行動正在組織一個專門的支援營，旨在為老年聽障人士提供服務與支持，滿足其特定需求並提升生活質量。\n\n原文來源： [news.google.com](https://www.youm7.com/story/2026/10/26/%D8%A7%D9%84%D8%A8%D8%A7%D9%82%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%D8%A7%D8%AA-%D8%AA%D9%86%D8%B8%D9%85-%D9%82%D8%A7%D9%81%D9%84%D8%A9-%D9%86%D9%88%D8%B9%D9%8A%D8%A9-%D9%84%D8%AF%D8%B9%D9%85-%D9%83%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B3%D9%86-%D9%85%D9%86-%D8%B0%D9%88%D9%89/7593990)"
+  },
+  {
+    "title": "阿布達比市政局以「他們的能量創造我們的未來」為口號啟用障礙人士新領域",
+    "slug": "abu-dhabi-municipality-opens-new-horizons-for-empowering-people-with-disabilitie-zh-39c8e076",
+    "lang": "zh-TW",
+    "summary": "阿布達比市政局正在啟動一項行動，以賦能障礙人士，其口號為「他們的能量創造我們的未來」，重點在於幫助其更充分地參與社區及市政服務。",
+    "category": "general",
+    "tags": [
+      "empowerment",
+      "municipal",
+      "abudhabi",
+      "disability"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.wam.ae/ar/article/c2xr33h-%D8%A8%D9%84%D8%AF%D9%8A%D8%A9-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%AA%D9%81%D8%AA%D8%AD-%D8%A2%D9%81%D8%A7%D9%82%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.wam.ae/ar/article/c2xr33h-%D8%A8%D9%84%D8%AF%D9%8A%D8%A9-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%AA%D9%81%D8%AA%D8%AD-%D8%A2%D9%81%D8%A7%D9%82%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-39c8e076",
+    "status": "published",
+    "translationOf": "abu-dhabi-municipality-opens-new-horizons-for-empowering-people-with-disabilitie-39c8e076",
+    "publishedAt": "2026-10-26T10:33:21.000Z",
+    "fetchedAt": "2026-10-26T16:58:34.002Z",
+    "body": "阿布達比市政局正在啟動一項行動，以賦能障礙人士，其口號為「他們的能量創造我們的未來」，重點在於幫助其更充分地參與社區及市政服務。\n\n原文來源： [news.google.com](https://www.wam.ae/ar/article/c2xr33h-%D8%A8%D9%84%D8%AF%D9%8A%D8%A9-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%AA%D9%81%D8%AA%D8%AD-%D8%A2%D9%81%D8%A7%D9%82%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85)"
+  },
+  {
+    "title": "清真寺事務管理局展示「全面通達」項目，改善聖殿及設施的無障礙通行",
+    "slug": "the-authority-for-the-affairs-of-the-two-holy-mosques-presents-the-universal-acc-zh-bf989f59",
+    "lang": "zh-TW",
+    "summary": "沙特阿拉伯清真寺事務管理局展示了「全面通達」項目，旨在改善沙特阿拉伯聖殿及其周邊設施中為殘疾人士提供的無障礙基礎設施與通行便利性。",
+    "category": "physical-design",
+    "tags": [
+      "universal-design",
+      "religious-spaces",
+      "saudi-arabia",
+      "infrastructure"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.spa.gov.sa/N2709693",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.spa.gov.sa/N2709693"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84+%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-bf989f59",
+    "status": "published",
+    "translationOf": "the-authority-for-the-affairs-of-the-two-holy-mosques-presents-the-universal-acc-bf989f59",
+    "publishedAt": "2026-10-25T19:58:58.000Z",
+    "fetchedAt": "2026-10-26T16:58:40.396Z",
+    "body": "沙特阿拉伯清真寺事務管理局展示了「全面通達」項目，旨在改善沙特阿拉伯聖殿及其周邊設施中為殘疾人士提供的無障礙基礎設施與通行便利性。\n\n原文來源： [news.google.com](https://www.spa.gov.sa/N2709693)"
+  },
+  {
+    "title": "為何使用「TDL」而非「失語症」？理解語言障礙術語的轉變",
+    "slug": "why-use-the-term-tdl-instead-of-dysphasia-understanding-the-shift-in-language-di-zh-94b21856",
+    "lang": "zh-TW",
+    "summary": "「發展性語言障礙」（TDL）正逐漸取代「失語症」一詞，以更準確地識別需求並建立共同標準。本文探討了此術語變更如何影響家庭，並支持在障礙背景下更清晰的溝通。",
+    "category": "general",
+    "tags": [
+      "language-disorder",
+      "terminology",
+      "neurodevelopmental-disabilities",
+      "families"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-pourquoi-parler-de-tdl-plutot-que-de-dysphasie-39911.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-pourquoi-parler-de-tdl-plutot-que-de-dysphasie-39911.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-94b21856",
+    "status": "published",
+    "translationOf": "why-use-the-term-tdl-instead-of-dysphasia-understanding-the-shift-in-language-di-94b21856",
+    "publishedAt": "2026-10-26T12:49:43.000Z",
+    "fetchedAt": "2026-10-26T16:58:40.462Z",
+    "body": "「發展性語言障礙」（TDL）正逐漸取代「失語症」一詞，以更準確地識別需求並建立共同標準。本文探討了此術語變更如何影響家庭，並支持在障礙背景下更清晰的溝通。\n\n原文來源： [handicap.fr](https://informations.handicap.fr/a-pourquoi-parler-de-tdl-plutot-que-de-dysphasie-39911.php)"
+  },
+  {
+    "title": "a11yConf 2026：數位無障礙專家全國性活動",
+    "slug": "a11yconf-2026-national-event-for-digital-accessibility-experts-zh-4a89af3e",
+    "lang": "zh-TW",
+    "summary": "a11yConf 2026 是一項全國性活動，匯集技術專家與愛好者，學習如何創造就所有使用者而言可及的數位產品與服務，透過包容性、無障礙的技術促進自主性。",
+    "category": "digital-a11y",
+    "tags": [
+      "event",
+      "digital-inclusion",
+      "web-accessibility"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/evento/a11yconf-2026",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/evento/a11yconf-2026"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-4a89af3e",
+    "status": "published",
+    "translationOf": "a11yconf-2026-national-event-for-digital-accessibility-experts-4a89af3e",
+    "publishedAt": "2026-10-26T09:58:19.000Z",
+    "fetchedAt": "2026-10-26T16:58:49.370Z",
+    "body": "a11yConf 2026 是一項全國性活動，匯集技術專家與愛好者，學習如何創造就所有使用者而言可及的數位產品與服務，透過包容性、無障礙的技術促進自主性。\n\n原文來源： [discapnet.es](https://www.discapnet.es/evento/a11yconf-2026)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "16-zh-1398a771",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/69429",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/69429"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-1398a771",
+    "status": "draft",
+    "translationOf": "16-1398a771",
+    "publishedAt": "2026-10-26T06:51:51.000Z",
+    "fetchedAt": "2026-10-26T16:58:50.282Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [asdmag.org](https://asdmag.org/archives/69429)"
+  },
+  {
+    "title": "哈瑪大學舉辦促進身心障礙者融入社會的活動",
+    "slug": "event-at-hamah-university-to-promote-integration-of-people-with-disabilities-zh-0b352538",
+    "lang": "zh-TW",
+    "summary": "哈瑪大學舉辦一項活動，旨在促進身心障礙人士融入社會。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "inclusion",
+      "university",
+      "society"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://sana.sy/locals/2617850",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://sana.sy/locals/2617850"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-0b352538",
+    "status": "published",
+    "translationOf": "event-at-hamah-university-to-promote-integration-of-people-with-disabilities-0b352538",
+    "publishedAt": "2026-10-26T15:44:39.000Z",
+    "fetchedAt": "2026-10-26T16:58:50.341Z",
+    "body": "哈瑪大學舉辦一項活動，旨在促進身心障礙人士融入社會。\n\n原文來源： [news.google.com](https://sana.sy/locals/2617850)"
+  },
+  {
+    "title": "宗教基金會追蹤寺廟內的残障無障礙設施",
+    "slug": "waqf-authority-follows-up-on-disability-accessibility-features-in-mosques-zh-74a75a2f",
+    "lang": "zh-TW",
+    "summary": "該報導介紹了宗教基金會（Waqf）監督並確保在寺廟中安裝殘疾人士無障礙設施的舉措，以解決實體設計和包容性標準問題。",
+    "category": "physical-design",
+    "tags": [
+      "mosques",
+      "accessibility",
+      "infrastructure",
+      "arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.raya.com/2026/10/26/%D8%A7%D9%84%D8%A3%D9%88%D9%82%D8%A7%D9%81-%D8%AA%D8%AA%D8%A7%D8%A8%D8%B9-%D8%AA%D8%AC%D9%87%D9%8A%D8%B2%D8%A7%D8%AA-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AC%D8%AF",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.raya.com/2026/10/26/%D8%A7%D9%84%D8%A3%D9%88%D9%82%D8%A7%D9%81-%D8%AA%D8%AA%D8%A7%D8%A8%D8%B9-%D8%AA%D8%AC%D9%87%D9%8A%D8%B2%D8%A7%D8%AA-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AC%D8%AF"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-74a75a2f",
+    "status": "published",
+    "translationOf": "waqf-authority-follows-up-on-disability-accessibility-features-in-mosques-74a75a2f",
+    "publishedAt": "2026-10-25T21:00:17.000Z",
+    "fetchedAt": "2026-10-26T16:58:54.558Z",
+    "body": "該報導介紹了宗教基金會（Waqf）監督並確保在寺廟中安裝殘疾人士無障礙設施的舉措，以解決實體設計和包容性標準問題。\n\n原文來源： [news.google.com](https://www.raya.com/2026/10/26/%D8%A7%D9%84%D8%A3%D9%88%D9%82%D8%A7%D9%81-%D8%AA%D8%AA%D8%A7%D8%A8%D8%B9-%D8%AA%D8%AC%D9%87%D9%8A%D8%B2%D8%A7%D8%AA-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AC%D8%AF)"
+  },
+  {
+    "title": "殘障人士：專業人才應獲得機會而非憐憫",
+    "slug": "persons-with-disabilities-competent-professionals-deserve-opportunity-not-pity-zh-f81ad0a9",
+    "lang": "zh-TW",
+    "summary": "一篇挑戰社會對殘障人士誤解的特約文章，強調其專業能力，並主張他們在職場中應獲得平等機會而非慈善或憐憫，提倡文化觀念的轉變。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "society",
+      "employment",
+      "stigma",
+      "inclusion"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albayan.ae/amp/news/1560509",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albayan.ae/amp/news/1560509"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-f81ad0a9",
+    "status": "published",
+    "translationOf": "persons-with-disabilities-competent-professionals-deserve-opportunity-not-pity-f81ad0a9",
+    "publishedAt": "2026-10-25T18:09:40.000Z",
+    "fetchedAt": "2026-10-26T16:58:54.621Z",
+    "body": "一篇挑戰社會對殘障人士誤解的特約文章，強調其專業能力，並主張他們在職場中應獲得平等機會而非慈善或憐憫，提倡文化觀念的轉變。\n\n原文來源： [news.google.com](https://www.albayan.ae/amp/news/1560509)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "asi-afectan-las-its-a-la-fertilidad-de-los-jovenes-zh-71fd314f",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/asi-afectan-las-its-la-fertilidad-de-los-jovenes",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/asi-afectan-las-its-la-fertilidad-de-los-jovenes"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-71fd314f",
+    "status": "draft",
+    "translationOf": "asi-afectan-las-its-a-la-fertilidad-de-los-jovenes-71fd314f",
+    "publishedAt": "2026-10-26T07:51:13.000Z",
+    "fetchedAt": "2026-10-26T16:59:15.380Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [discapnet.es](https://www.discapnet.es/noticia/asi-afectan-las-its-la-fertilidad-de-los-jovenes)"
+  },
+  {
+    "title": "Hoa Cuong青年联合会2026年为残障青年举办的活动",
+    "slug": "hoa-cuong-youth-union-launches-2026-program-for-young-people-with-disabilities-zh-0d40609d",
+    "lang": "zh-TW",
+    "summary": "Hoa Cuong青年联合会组织了2026年的“伙伴”项目，专门为支持和参与残障青年而设计。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "youth",
+      "disability-inclusion",
+      "program"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.vietnam.vn/ar/doan-phuong-hoa-cuong-to-chuc-chuong-trinh-nguoi-ban-dong-hanh-danh-cho-thanh-nien-khuyet-tat-nam-2026",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.vietnam.vn/ar/doan-phuong-hoa-cuong-to-chuc-chuong-trinh-nguoi-ban-dong-hanh-danh-cho-thanh-nien-khuyet-tat-nam-2026"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-0d40609d",
+    "status": "published",
+    "translationOf": "hoa-cuong-youth-union-launches-2026-program-for-young-people-with-disabilities-0d40609d",
+    "publishedAt": "2026-10-26T09:10:28.000Z",
+    "fetchedAt": "2026-10-26T16:59:15.475Z",
+    "body": "Hoa Cuong青年联合会组织了2026年的“伙伴”项目，专门为支持和参与残障青年而设计。\n\n原文來源： [news.google.com](https://www.vietnam.vn/ar/doan-phuong-hoa-cuong-to-chuc-chuong-trinh-nguoi-ban-dong-hanh-danh-cho-thanh-nien-khuyet-tat-nam-2026)"
+  },
+  {
+    "title": "Stilantis 中東以 Citroén 面包車支援“希望英雄”計畫",
+    "slug": "stilantis-middle-east-supports-heroes-of-hope-with-citroen-van-for-people-with-d-zh-e0c11930",
+    "lang": "zh-TW",
+    "summary": "Stilantis 中東捐贈一輪 Citroén 面包車給「希望英雄」計畫，以提升毀離人士的出行與參與。",
+    "category": "case-studies",
+    "tags": [
+      "accessibility",
+      "transport",
+      "disability",
+      "corporate-social-responsibility",
+      "Middle-East"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.zawya.com/ar/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7-%D8%B5%D8%AD%D9%81%D9%8A%D8%A9/%D8%A7%D9%94%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA/%D8%B3%D8%AA%D9%8A%D9%84%D8%A7%D9%86%D8%AA%D9%8A%D8%B3-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A7%D9%94%D9%88%D8%B3%D8%B7-%D8%AA%D8%AF%D8%B9%D9%85-%D8%A7%D9%94%D8%A8%D8%B7%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D9%94%D9%85%D9%84-%D8%A8%D9%81%D8%A7%D9%86-%D8%B3%D9%8A%D8%AA%D8%B1%D9%88%D9%8A%D9%86-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%A7%D9%94%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-1851213",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.zawya.com/ar/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7-%D8%B5%D8%AD%D9%81%D9%8A%D8%A9/%D8%A7%D9%94%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA/%D8%B3%D8%AA%D9%8A%D9%84%D8%A7%D9%86%D8%AA%D9%8A%D8%B3-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A7%D9%94%D9%88%D8%B3%D8%B7-%D8%AA%D8%AF%D8%B9%D9%85-%D8%A7%D9%94%D8%A8%D8%B7%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D9%94%D9%85%D9%84-%D8%A8%D9%81%D8%A7%D9%86-%D8%B3%D9%8A%D8%AA%D8%B1%D9%88%D9%8A%D9%86-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%A7%D9%94%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-1851213"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-e0c11930",
+    "status": "published",
+    "translationOf": "stilantis-middle-east-supports-heroes-of-hope-with-citroen-van-for-people-with-d-e0c11930",
+    "publishedAt": "2026-10-26T10:36:14.000Z",
+    "fetchedAt": "2026-10-26T16:59:24.249Z",
+    "body": "Stilantis 中東捐贈一輪 Citroén 面包車給「希望英雄」計畫，以提升毀離人士的出行與參與。\n\n原文來源： [news.google.com](https://www.zawya.com/ar/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7-%D8%B5%D8%AD%D9%81%D9%8A%D8%A9/%D8%A7%D9%94%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA/%D8%B3%D8%AA%D9%8A%D9%84%D8%A7%D9%86%D8%AA%D9%8A%D8%B3-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A7%D9%94%D9%88%D8%B3%D8%B7-%D8%AA%D8%AF%D8%B9%D9%85-%D8%A7%D9%94%D8%A8%D8%B7%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D9%94%D9%85%D9%84-%D8%A8%D9%81%D8%A7%D9%86-%D8%B3%D9%8A%D8%AA%D8%B1%D9%88%D9%8A%D9%86-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%A7%D9%94%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-1851213)"
+  },
+  {
+    "title": "以色列空襲致殘疾青年死亡，敘利亞爆發抗議",
+    "slug": "protests-in-syria-following-death-of-disabled-youth-in-israeli-airstrike-zh-c4f5f662",
+    "lang": "zh-TW",
+    "summary": "敘利亞各地爆發抗議活動，起因是以色列對某村莊的空襲導致一名殘疾青年喪生，凸顯了衝突對弱勢群體的衝擊。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "syria",
+      "disability",
+      "conflict",
+      "protests"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.i24news.tv/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/middle-east/artc-6e0b7292",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.i24news.tv/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/middle-east/artc-6e0b7292"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-c4f5f662",
+    "status": "published",
+    "translationOf": "protests-in-syria-following-death-of-disabled-youth-in-israeli-airstrike-c4f5f662",
+    "publishedAt": "2026-10-24T13:18:28.000Z",
+    "fetchedAt": "2026-10-26T16:59:35.077Z",
+    "body": "敘利亞各地爆發抗議活動，起因是以色列對某村莊的空襲導致一名殘疾青年喪生，凸顯了衝突對弱勢群體的衝擊。\n\n原文來源： [news.google.com](https://www.i24news.tv/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/middle-east/artc-6e0b7292)"
+  },
+  {
+    "title": "埃及2026年论坛：社会团结部长展示残障人士及老年人服务",
+    "slug": "minister-of-social-solidarity-highlights-services-for-persons-with-disabilities--zh-0e15cb5a",
+    "lang": "zh-TW",
+    "summary": "社会团结部长在埃及2026年论坛上介绍了目前向残障人士和老年公民提供的服务与支持计划。",
+    "category": "general",
+    "tags": [
+      "disability",
+      "services",
+      "egypt",
+      "policy"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://elbaladtv.net/%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D9%85%D8%B5%D8%B1-2026-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D8%AE%D8%AF%D9%85",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://elbaladtv.net/%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D9%85%D8%B5%D8%B1-2026-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D8%AE%D8%AF%D9%85"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-0e15cb5a",
+    "status": "published",
+    "translationOf": "minister-of-social-solidarity-highlights-services-for-persons-with-disabilities--0e15cb5a",
+    "publishedAt": "2026-10-23T14:53:52.000Z",
+    "fetchedAt": "2026-10-26T16:59:47.853Z",
+    "body": "社会团结部长在埃及2026年论坛上介绍了目前向残障人士和老年公民提供的服务与支持计划。\n\n原文來源： [news.google.com](https://elbaladtv.net/%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D9%85%D8%B5%D8%B1-2026-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D8%AE%D8%AF%D9%85)"
+  },
+  {
+    "title": "卡塔尔基金会团队检查三座新清真寺的残障人士无障碍设施",
+    "slug": "waqf-team-inspects-accessibility-features-for-persons-with-disabilities-in-three-zh-21289e14",
+    "lang": "zh-TW",
+    "summary": "卡塔尔宗教事务部团队检查了三座新建清真寺中为残障人士安装的物理无障碍设施和装备，以确保其符合必要标准。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "mosques",
+      "qatar",
+      "physical-design"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://alarab.qa/article/26/10/2026/%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D9%82%D8%A7%D9%81-%D9%8A%D8%AA%D9%81%D9%82%D8%AF-%D8%AA%D8%AC%D9%87%D9%8A%D8%B2%D8%A7%D8%AA-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%81%D9%8A-3-%D9%85%D8%B3%D8%A7%D8%AC%D8%AF-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://alarab.qa/article/26/10/2026/%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D9%82%D8%A7%D9%81-%D9%8A%D8%AA%D9%81%D9%82%D8%AF-%D8%AA%D8%AC%D9%87%D9%8A%D8%B2%D8%A7%D8%AA-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%81%D9%8A-3-%D9%85%D8%B3%D8%A7%D8%AC%D8%AF-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-21289e14",
+    "status": "published",
+    "translationOf": "waqf-team-inspects-accessibility-features-for-persons-with-disabilities-in-three-21289e14",
+    "publishedAt": "2026-10-26T07:27:59.000Z",
+    "fetchedAt": "2026-10-26T16:59:47.944Z",
+    "body": "卡塔尔宗教事务部团队检查了三座新建清真寺中为残障人士安装的物理无障碍设施和装备，以确保其符合必要标准。\n\n原文來源： [news.google.com](https://alarab.qa/article/26/10/2026/%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D9%82%D8%A7%D9%81-%D9%8A%D8%AA%D9%81%D9%82%D8%AF-%D8%AA%D8%AC%D9%87%D9%8A%D8%B2%D8%A7%D8%AA-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%81%D9%8A-3-%D9%85%D8%B3%D8%A7%D8%AC%D8%AF-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9)"
   }
 ]
