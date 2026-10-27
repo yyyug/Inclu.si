@@ -99187,5 +99187,1214 @@
     "publishedAt": "2026-10-27T14:38:40.000Z",
     "fetchedAt": "2026-10-27T14:56:46.988Z",
     "body": "A user comments on the contradiction of a school festival presentation about universal design where a student is physically restrained on stage.\nTweet source: [キートン (@keaton2323)](https://x.com/keaton2323/status/2115090811239231857)"
+  },
+  {
+    "title": "Minister Meets MDPH Officials to Address Inconsistencies in Lifetime Disability Rights",
+    "slug": "minister-meets-mdph-officials-to-address-inconsistencies-in-lifetime-disability--90a27aba",
+    "lang": "en",
+    "summary": "French Minister Camille Galliard-Minier acknowledged disparities in the application of lifetime disability rights granted by MDPH (Departmental Platforms for Handicap) and announced visits to structures where this right is under-applied to address systemic inconsistencies.",
+    "category": "laws-rights",
+    "tags": [
+      "france",
+      "mdpH",
+      "ministry",
+      "rights-disparities"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-droits-a-vie-et-disparites-la-ministre-rencontrera-les-mdph-39917.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-droits-a-vie-et-disparites-la-ministre-rencontrera-les-mdph-39917.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-90a27aba",
+    "status": "published",
+    "translationOf": "minister-meets-mdph-officials-to-address-inconsistencies-in-lifetime-disability--zh-90a27aba",
+    "publishedAt": "2026-10-27T13:32:10.000Z",
+    "fetchedAt": "2026-10-27T16:01:14.182Z",
+    "body": "French Minister Camille Galliard-Minier acknowledged disparities in the application of lifetime disability rights granted by MDPH (Departmental Platforms for Handicap) and announced visits to structures where this right is under-applied to address systemic inconsistencies.\n\nRead more from the original source: [handicap.fr](https://informations.handicap.fr/a-droits-a-vie-et-disparites-la-ministre-rencontrera-les-mdph-39917.php)"
+  },
+  {
+    "title": "Budget : 3 millions de dépendants en 2030, et toujours pas de piste de financement",
+    "slug": "budget-3-millions-de-dependants-en-2030-et-toujours-pas-de-piste-de-financement-4becf060",
+    "lang": "en",
+    "summary": "Les députés se sont opposés, vendredi 23 octobre 2026, au transfert de 300 millions d’euros de la Caisse nationale de solidarité pour l’autonomie (CNSA) vers les départements. Alors que trois millions de personnes âgées seront dépendantes en 2030, cette question est quasiment absente du débat présidentiel.",
+    "category": "general",
+    "tags": [],
+    "sourceName": "la-croix.com",
+    "sourceUrl": "https://www.la-croix.com/economie/budget-3-millions-de-dependants-en-2030-et-toujours-pas-de-piste-de-financement-20261026",
+    "relatedSources": [
+      {
+        "name": "la-croix.com",
+        "url": "https://www.la-croix.com/economie/budget-3-millions-de-dependants-en-2030-et-toujours-pas-de-piste-de-financement-20261026"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.la-croix.com/feeds/rss/Dossiers-Dynamiques/Handicap.xml",
+    "ingestProvider": "la-croix.com",
+    "originalLang": "fr",
+    "clusterId": "cluster-4becf060",
+    "status": "published",
+    "translationOf": "budget-3-millions-de-dependants-en-2030-et-toujours-pas-de-piste-de-financement-zh-4becf060",
+    "publishedAt": "2026-10-27T05:35:17.000Z",
+    "fetchedAt": "2026-10-27T16:01:14.389Z",
+    "body": "Les députés se sont opposés, vendredi 23 octobre 2026, au transfert de 300 millions d’euros de la Caisse nationale de solidarité pour l’autonomie (CNSA) vers les départements. Alors que trois millions de personnes âgées seront dépendantes en 2030, cette question est quasiment absente du débat présidentiel.\n\nRead more from the original source: [la-croix.com](https://www.la-croix.com/economie/budget-3-millions-de-dependants-en-2030-et-toujours-pas-de-piste-de-financement-20261026)"
+  },
+  {
+    "title": "Princess Lalla Salma and Rwanda’s First Lady Inaugurate First Audiological Diagnostic and Rehabilitation Center",
+    "slug": "princess-lalla-salma-and-rwandas-first-lady-inaugurate-first-audiological-diagno-d219405f",
+    "lang": "en",
+    "summary": "Princess Lalla Salma and Janette Kagame launched the first audiological diagnostic and rehabilitation center in Kigali, Rwanda, as part of the 'United, We Hear Better' program, enhancing accessibility and services for individuals with hearing impairments.",
+    "category": "assistive-tech",
+    "tags": [
+      "rwanda",
+      "hearing-loss",
+      "rehabilitation",
+      "princess-lalla-salma"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/69506",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/69506"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-d219405f",
+    "status": "published",
+    "translationOf": "princess-lalla-salma-and-rwandas-first-lady-inaugurate-first-audiological-diagno-zh-d219405f",
+    "publishedAt": "2026-10-27T14:10:40.000Z",
+    "fetchedAt": "2026-10-27T16:01:14.519Z",
+    "body": "Princess Lalla Salma and Janette Kagame launched the first audiological diagnostic and rehabilitation center in Kigali, Rwanda, as part of the 'United, We Hear Better' program, enhancing accessibility and services for individuals with hearing impairments.\n\nRead more from the original source: [asdmag.org](https://asdmag.org/archives/69506)"
+  },
+  {
+    "title": "تحت رعاية السيدة الفاضلة انتصار السيسي ..  المهرجان القومي للمسرح المدرسي ينطلق 10 نوفمبر",
+    "slug": "10-16993541",
+    "lang": "en",
+    "summary": "الدكتور عبد العزيز قنصوة: – رعاية السيدة الفاضلة انتصار السيسى للمهرجان تؤكد اهتمام الدولة المصرية ببناء الإنسان ورعاية الأطفال والنشء واكتشاف مواهبهم – المهرجان يمثل خطوة مهمة نحو استعادة الدور التنويري والفني للمسرح داخل المدارس – التعاون والتنسيق مع وزارة التربية والتعليم والتعليم الفني كان سببا فى خروج فكرة المهرجان إلى النور تحت رعاية السيدة …",
+    "category": "general",
+    "tags": [],
+    "sourceName": "mo3akpress.com",
+    "sourceUrl": "https://www.mo3akpress.com/2026/10/%d8%aa%d8%ad%d8%aa-%d8%b1%d8%b9%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d9%8a%d8%af%d8%a9-%d8%a7%d9%84%d9%81%d8%a7%d8%b6%d9%84%d8%a9-%d8%a7%d9%86%d8%aa%d8%b5%d8%a7%d8%b1-%d8%a7%d9%84%d8%b3%d9%8a%d8%b3",
+    "relatedSources": [
+      {
+        "name": "mo3akpress.com",
+        "url": "https://www.mo3akpress.com/2026/10/%d8%aa%d8%ad%d8%aa-%d8%b1%d8%b9%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d9%8a%d8%af%d8%a9-%d8%a7%d9%84%d9%81%d8%a7%d8%b6%d9%84%d8%a9-%d8%a7%d9%86%d8%aa%d8%b5%d8%a7%d8%b1-%d8%a7%d9%84%d8%b3%d9%8a%d8%b3"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://mo3akpress.com/feed",
+    "ingestProvider": "mo3akpress.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-16993541",
+    "status": "published",
+    "translationOf": "10-zh-16993541",
+    "publishedAt": "2026-10-27T14:26:43.000Z",
+    "fetchedAt": "2026-10-27T16:01:19.133Z",
+    "body": "الدكتور عبد العزيز قنصوة: – رعاية السيدة الفاضلة انتصار السيسى للمهرجان تؤكد اهتمام الدولة المصرية ببناء الإنسان ورعاية الأطفال والنشء واكتشاف مواهبهم – المهرجان يمثل خطوة مهمة نحو استعادة الدور التنويري والفني للمسرح داخل المدارس – التعاون والتنسيق مع وزارة التربية والتعليم والتعليم الفني كان سببا فى خروج فكرة المهرجان إلى النور تحت رعاية السيدة …\n\nRead more from the original source: [mo3akpress.com](https://www.mo3akpress.com/2026/10/%d8%aa%d8%ad%d8%aa-%d8%b1%d8%b9%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d9%8a%d8%af%d8%a9-%d8%a7%d9%84%d9%81%d8%a7%d8%b6%d9%84%d8%a9-%d8%a7%d9%86%d8%aa%d8%b5%d8%a7%d8%b1-%d8%a7%d9%84%d8%b3%d9%8a%d8%b3)"
+  },
+  {
+    "title": "Real Madrid and ONCE Foundation Launch Accessibility Alliance at Santiago Bernabeu",
+    "slug": "real-madrid-and-once-foundation-launch-accessibility-alliance-at-santiago-bernab-ae4b58e4",
+    "lang": "en",
+    "summary": "The Real Madrid Foundation and the ONCE Foundation (a Spanish organization supporting people with visual disabilities) have announced a strategic alliance to enhance physical accessibility at the Santiago Bernabeu stadium. This partnership aims to improve infrastructure and remove barriers for fans with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "accessible stadium",
+      "ONCE",
+      "Real Madrid",
+      "visual impairment",
+      "infrastructure"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.realmadrid.com/ar-AE/news/club/foundation/la-fundacion-real-madrid-y-fundacion-once-presentan-su-alianza-por-la-accesibilidad-en-el-santiago-bernabeu-27-10-2026",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.realmadrid.com/ar-AE/news/club/foundation/la-fundacion-real-madrid-y-fundacion-once-presentan-su-alianza-por-la-accesibilidad-en-el-santiago-bernabeu-27-10-2026"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-ae4b58e4",
+    "status": "published",
+    "translationOf": "real-madrid-and-once-foundation-launch-accessibility-alliance-at-santiago-bernab-zh-ae4b58e4",
+    "publishedAt": "2026-10-27T13:27:00.000Z",
+    "fetchedAt": "2026-10-27T16:01:19.274Z",
+    "body": "The Real Madrid Foundation and the ONCE Foundation (a Spanish organization supporting people with visual disabilities) have announced a strategic alliance to enhance physical accessibility at the Santiago Bernabeu stadium. This partnership aims to improve infrastructure and remove barriers for fans with disabilities.\n\nRead more from the original source: [news.google.com](https://www.realmadrid.com/ar-AE/news/club/foundation/la-fundacion-real-madrid-y-fundacion-once-presentan-su-alianza-por-la-accesibilidad-en-el-santiago-bernabeu-27-10-2026)"
+  },
+  {
+    "title": "Zayed Authority for People of Determination Announces 'Lines and Threads' Community Art Initiative",
+    "slug": "zayed-authority-for-people-of-determination-announces-lines-and-threads-communit-655d2889",
+    "lang": "en",
+    "summary": "The Zayed Authority for People of Determination in the UAE will organize the 'Lines and Threads' community art initiative in November. This program aims to engage people with disabilities in artistic activities, promoting inclusion and social participation through creative expression.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "inclusive-art",
+      "community",
+      "uae",
+      "social-participation"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.wam.ae/ar/article/17hu1uc-%D9%87%D9%8A%D8%A6%D8%A9-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%84%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%AA%D9%86%D8%B8%D9%85-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%AE%D8%B7-%D9%88%D8%AE%D9%8A%D9%88%D8%B7-%D8%A7%D9%84%D9%81%D9%86%D9%8A%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.wam.ae/ar/article/17hu1uc-%D9%87%D9%8A%D8%A6%D8%A9-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%84%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%AA%D9%86%D8%B8%D9%85-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%AE%D8%B7-%D9%88%D8%AE%D9%8A%D9%88%D8%B7-%D8%A7%D9%84%D9%81%D9%86%D9%8A%D8%A9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-655d2889",
+    "status": "published",
+    "translationOf": "zayed-authority-for-people-of-determination-announces-lines-and-threads-communit-zh-655d2889",
+    "publishedAt": "2026-10-27T06:00:53.000Z",
+    "fetchedAt": "2026-10-27T16:01:32.307Z",
+    "body": "The Zayed Authority for People of Determination in the UAE will organize the 'Lines and Threads' community art initiative in November. This program aims to engage people with disabilities in artistic activities, promoting inclusion and social participation through creative expression.\n\nRead more from the original source: [news.google.com](https://www.wam.ae/ar/article/17hu1uc-%D9%87%D9%8A%D8%A6%D8%A9-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%84%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%AA%D9%86%D8%B8%D9%85-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%AE%D8%B7-%D9%88%D8%AE%D9%8A%D9%88%D8%B7-%D8%A7%D9%84%D9%81%D9%86%D9%8A%D8%A9)"
+  },
+  {
+    "title": "Supporting Sibling Caregivers: The Strong Bond Between Yvan and Eva",
+    "slug": "supporting-sibling-caregivers-the-strong-bond-between-yvan-and-eva-d9c2d57c",
+    "lang": "en",
+    "summary": "This article explores the complex role of siblings who care for a family member with a disability. It features a portrait series focusing on Yvan and Eva, highlighting the impact of caregiving responsibilities on their lives and the unique relationship they have built.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "family",
+      "caregiving",
+      "sibling",
+      "disability",
+      "support"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-fratrie-aidante-le-lien-fort-entre-yvan-et-eva-39915.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-fratrie-aidante-le-lien-fort-entre-yvan-et-eva-39915.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-d9c2d57c",
+    "status": "published",
+    "translationOf": "supporting-sibling-caregivers-the-strong-bond-between-yvan-and-eva-zh-d9c2d57c",
+    "publishedAt": "2026-10-27T11:18:13.000Z",
+    "fetchedAt": "2026-10-27T16:01:44.177Z",
+    "body": "This article explores the complex role of siblings who care for a family member with a disability. It features a portrait series focusing on Yvan and Eva, highlighting the impact of caregiving responsibilities on their lives and the unique relationship they have built.\n\nRead more from the original source: [handicap.fr](https://informations.handicap.fr/a-fratrie-aidante-le-lien-fort-entre-yvan-et-eva-39915.php)"
+  },
+  {
+    "title": "Open Days at the Alawiya Organization for Visually Impaired Promote Inclusive Education",
+    "slug": "open-days-at-the-alawiya-organization-for-visually-impaired-promote-inclusive-ed-bf200fc0",
+    "lang": "en",
+    "summary": "The Alawiya Organization for the Care of the Visually Impaired in Morocco is holding open days at its educational and training centers from October 27-30, 2026. The initiative aims to publicize services and programs supporting the education, training, and rehabilitation of blind and visually impaired individuals, under the slogan 'Together for Inclusive Education.'",
+    "category": "general",
+    "tags": [
+      "vision impairment",
+      "inclusive education",
+      "Morocco",
+      "organization",
+      "public awareness"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/69503",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/69503"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-bf200fc0",
+    "status": "published",
+    "translationOf": "open-days-at-the-alawiya-organization-for-visually-impaired-promote-inclusive-ed-zh-bf200fc0",
+    "publishedAt": "2026-10-27T14:05:15.000Z",
+    "fetchedAt": "2026-10-27T16:01:44.330Z",
+    "body": "The Alawiya Organization for the Care of the Visually Impaired in Morocco is holding open days at its educational and training centers from October 27-30, 2026. The initiative aims to publicize services and programs supporting the education, training, and rehabilitation of blind and visually impaired individuals, under the slogan 'Together for Inclusive Education.'\n\nRead more from the original source: [asdmag.org](https://asdmag.org/archives/69503)"
+  },
+  {
+    "title": "Lebanese University Exhibits Smart Prosthetic Arm in Dubai to Enhance Independence for Persons with Disabilities",
+    "slug": "lebanese-university-exhibits-smart-prosthetic-arm-in-dubai-to-enhance-independen-d765cd22",
+    "lang": "en",
+    "summary": "Lebanese Rafic Hariri University is displaying a smart prosthetic arm at an exhibition in Dubai. The device is designed to enhance the autonomy and independence of individuals with disabilities, representing an advancement in assistive technology.",
+    "category": "assistive-tech",
+    "tags": [
+      "prosthetics",
+      "independence",
+      "technology",
+      "exhibition"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://elsiyasa.com/article/434357",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://elsiyasa.com/article/434357"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-d765cd22",
+    "status": "published",
+    "translationOf": "lebanese-university-exhibits-smart-prosthetic-arm-in-dubai-to-enhance-independen-zh-d765cd22",
+    "publishedAt": "2026-10-27T11:04:08.000Z",
+    "fetchedAt": "2026-10-27T16:01:54.538Z",
+    "body": "Lebanese Rafic Hariri University is displaying a smart prosthetic arm at an exhibition in Dubai. The device is designed to enhance the autonomy and independence of individuals with disabilities, representing an advancement in assistive technology.\n\nRead more from the original source: [news.google.com](https://elsiyasa.com/article/434357)"
+  },
+  {
+    "title": "Abu Dhabi Municipality Opens New Avenues for Empowering Persons with Disabilities",
+    "slug": "abu-dhabi-municipality-opens-new-avenues-for-empowering-persons-with-disabilitie-fc7423ec",
+    "lang": "en",
+    "summary": "The Abu Dhabi Municipality is launching new initiatives under the slogan 'Their Energy Creates Our Future' to empower persons with disabilities. This effort focuses on opening new opportunities and enhancing support systems for the community.",
+    "category": "laws-rights",
+    "tags": [
+      "empowerment",
+      "municipality",
+      "inclusion",
+      "policy"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://alwatan.ae/posts/1644930",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://alwatan.ae/posts/1644930"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-fc7423ec",
+    "status": "published",
+    "translationOf": "abu-dhabi-municipality-opens-new-avenues-for-empowering-persons-with-disabilitie-zh-fc7423ec",
+    "publishedAt": "2026-10-26T22:05:08.000Z",
+    "fetchedAt": "2026-10-27T16:01:54.691Z",
+    "body": "The Abu Dhabi Municipality is launching new initiatives under the slogan 'Their Energy Creates Our Future' to empower persons with disabilities. This effort focuses on opening new opportunities and enhancing support systems for the community.\n\nRead more from the original source: [news.google.com](https://alwatan.ae/posts/1644930)"
+  },
+  {
+    "title": "Egypt Allocates 5% of 'Hayah Misr' Vehicles to People with Disabilities",
+    "slug": "egypt-allocates-5-of-hayah-misr-vehicles-to-people-with-disabilities-bd744676",
+    "lang": "en",
+    "summary": "A parliamentary committee in Egypt approved a proposal to designate 5% of vehicles under the 'Hayah Misr' national youth employment project for people with disabilities. The amendment explicitly includes this percentage in the law draft, aiming to promote economic integration and support for individuals with disabilities.",
+    "category": "laws-rights",
+    "tags": [
+      "Egypt",
+      "disability rights",
+      "economic inclusion",
+      "policy"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/69500",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/69500"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-bd744676",
+    "status": "published",
+    "translationOf": "egypt-allocates-5-of-hayah-misr-vehicles-to-people-with-disabilities-zh-bd744676",
+    "publishedAt": "2026-10-27T13:59:21.000Z",
+    "fetchedAt": "2026-10-27T16:02:06.721Z",
+    "body": "A parliamentary committee in Egypt approved a proposal to designate 5% of vehicles under the 'Hayah Misr' national youth employment project for people with disabilities. The amendment explicitly includes this percentage in the law draft, aiming to promote economic integration and support for individuals with disabilities.\n\nRead more from the original source: [asdmag.org](https://asdmag.org/archives/69500)"
+  },
+  {
+    "title": "Human Rights Organization Demands Removal of Offensive Phrase from Parliamentary Minutes",
+    "slug": "human-rights-organization-demands-removal-of-offensive-phrase-from-parliamentary-e026a4ab",
+    "lang": "en",
+    "summary": "Following the use of the term 'Mongolian marriage' by a speaker, a human rights organization in Morocco is calling for the phrase to be removed from parliamentary minutes. This action highlights ongoing efforts to combat ableist and xenophobic language in official legislative records.",
+    "category": "laws-rights",
+    "tags": [
+      "Morocco",
+      "inclusive language",
+      "human rights",
+      "parliament"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://24saa.com/%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D9%84-%D9%85%D9%8A%D8%AF%D8%A7%D9%88%D9%8A-%D8%B9%D8%A8%D8%A7%D8%B1%D8%A9-mariage-mongolien-%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%AD%D9%82",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://24saa.com/%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D9%84-%D9%85%D9%8A%D8%AF%D8%A7%D9%88%D9%8A-%D8%B9%D8%A8%D8%A7%D8%B1%D8%A9-mariage-mongolien-%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%AD%D9%82"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-e026a4ab",
+    "status": "published",
+    "translationOf": "human-rights-organization-demands-removal-of-offensive-phrase-from-parliamentary-zh-e026a4ab",
+    "publishedAt": "2026-10-27T14:00:39.000Z",
+    "fetchedAt": "2026-10-27T16:02:06.893Z",
+    "body": "Following the use of the term 'Mongolian marriage' by a speaker, a human rights organization in Morocco is calling for the phrase to be removed from parliamentary minutes. This action highlights ongoing efforts to combat ableist and xenophobic language in official legislative records.\n\nRead more from the original source: [news.google.com](https://24saa.com/%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D9%84-%D9%85%D9%8A%D8%AF%D8%A7%D9%88%D9%8A-%D8%B9%D8%A8%D8%A7%D8%B1%D8%A9-mariage-mongolien-%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%AD%D9%82)"
+  },
+  {
+    "title": "Launch of 'Ray of Hope' Festival to Empower Children with Disabilities",
+    "slug": "launch-of-ray-of-hope-festival-to-empower-children-with-disabilities-e66445bc",
+    "lang": "en",
+    "summary": "The 'Ray of Hope' festival has launched in Oman to empower children with disabilities, focusing on their participation and social inclusion.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "festival",
+      "children",
+      "inclusion",
+      "Oman"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.omandaily.om/article/1213579",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.omandaily.om/article/1213579"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-e66445bc",
+    "status": "published",
+    "translationOf": "launch-of-ray-of-hope-festival-to-empower-children-with-disabilities-zh-e66445bc",
+    "publishedAt": "2026-10-27T11:44:50.000Z",
+    "fetchedAt": "2026-10-27T16:02:16.840Z",
+    "body": "The 'Ray of Hope' festival has launched in Oman to empower children with disabilities, focusing on their participation and social inclusion.\n\nRead more from the original source: [news.google.com](https://www.omandaily.om/article/1213579)"
+  },
+  {
+    "title": "New Categories for Communities and People with Disabilities Expand Initiative's Reach in UAE",
+    "slug": "new-categories-for-communities-and-people-with-disabilities-expand-initiatives-r-67c241ef",
+    "lang": "en",
+    "summary": "An initiative in the UAE has introduced new categories for expatriate communities and people with disabilities (Ashab al-Humm), broadening its geographical scope and enhancing the visibility of these groups.",
+    "category": "general",
+    "tags": [
+      "UAE",
+      "inclusion",
+      "initiative",
+      "Ashab-al-Humm"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.emaratalyoum.com/local-section/other/2026-10-27-1.2096523",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.emaratalyoum.com/local-section/other/2026-10-27-1.2096523"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-67c241ef",
+    "status": "published",
+    "translationOf": "new-categories-for-communities-and-people-with-disabilities-expand-initiatives-r-zh-67c241ef",
+    "publishedAt": "2026-10-27T00:05:00.000Z",
+    "fetchedAt": "2026-10-27T16:02:17.004Z",
+    "body": "An initiative in the UAE has introduced new categories for expatriate communities and people with disabilities (Ashab al-Humm), broadening its geographical scope and enhancing the visibility of these groups.\n\nRead more from the original source: [news.google.com](https://www.emaratalyoum.com/local-section/other/2026-10-27-1.2096523)"
+  },
+  {
+    "title": "MoU Signed Between Aml Deaf Association and Tafaol Cancer Association",
+    "slug": "mou-signed-between-aml-deaf-association-and-tafaol-cancer-association-54f1a62d",
+    "lang": "en",
+    "summary": "A memorandum of understanding was signed between Aml Association for Deaf Disability in Al-Ahsa and Tafaol Cancer Fighting Association to enhance cooperation between non-profit organizations, marking a significant step in supporting the deaf community.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "deaf",
+      "association",
+      "partnership",
+      "non-profit"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/69494",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/69494"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-54f1a62d",
+    "status": "published",
+    "translationOf": "mou-signed-between-aml-deaf-association-and-tafaol-cancer-association-zh-54f1a62d",
+    "publishedAt": "2026-10-27T13:51:20.000Z",
+    "fetchedAt": "2026-10-27T16:02:26.037Z",
+    "body": "A memorandum of understanding was signed between Aml Association for Deaf Disability in Al-Ahsa and Tafaol Cancer Fighting Association to enhance cooperation between non-profit organizations, marking a significant step in supporting the deaf community.\n\nRead more from the original source: [asdmag.org](https://asdmag.org/archives/69494)"
+  },
+  {
+    "title": "Disability Card Simplifies Access to Services for Over 326,000 People in Syria",
+    "slug": "disability-card-simplifies-access-to-services-for-over-326000-people-in-syria-aaa83126",
+    "lang": "en",
+    "summary": "A disability card initiative in Syria has facilitated access to various public services for more than 326,000 individuals with disabilities, aiming to streamline their engagement with government and social services.",
+    "category": "laws-rights",
+    "tags": [
+      "disability-card",
+      "syria",
+      "public-services",
+      "access"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://sana.sy/locals/2618340",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://sana.sy/locals/2618340"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-aaa83126",
+    "status": "published",
+    "translationOf": "disability-card-simplifies-access-to-services-for-over-326000-people-in-syria-zh-aaa83126",
+    "publishedAt": "2026-10-27T08:02:04.000Z",
+    "fetchedAt": "2026-10-27T16:02:34.560Z",
+    "body": "A disability card initiative in Syria has facilitated access to various public services for more than 326,000 individuals with disabilities, aiming to streamline their engagement with government and social services.\n\nRead more from the original source: [news.google.com](https://sana.sy/locals/2618340)"
+  },
+  {
+    "title": "Dubai Municipality Leads Integrated System to Empower People with Disabilities",
+    "slug": "dubai-municipality-leads-integrated-system-to-empower-people-with-disabilities-97c318ee",
+    "lang": "en",
+    "summary": "The Dubai Municipality is spearheading a comprehensive framework designed to empower individuals with disabilities, focusing on inclusion and enabling full participation in community life and services.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "dubai",
+      "empowerment",
+      "integration",
+      "municipality"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albayan.ae/news/1560041",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albayan.ae/news/1560041"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-97c318ee",
+    "status": "published",
+    "translationOf": "dubai-municipality-leads-integrated-system-to-empower-people-with-disabilities-zh-97c318ee",
+    "publishedAt": "2026-10-23T13:11:00.000Z",
+    "fetchedAt": "2026-10-27T16:02:34.711Z",
+    "body": "The Dubai Municipality is spearheading a comprehensive framework designed to empower individuals with disabilities, focusing on inclusion and enabling full participation in community life and services.\n\nRead more from the original source: [news.google.com](https://www.albayan.ae/news/1560041)"
+  },
+  {
+    "title": "Deprivation of education mobilizes disability associations",
+    "slug": "deprivation-of-education-mobilizes-disability-associations-9d4ed1fc",
+    "lang": "en",
+    "summary": "Associations working in the field of disability are reacting to the issue of students with disabilities being deprived of education, highlighting the need for inclusive educational access.",
+    "category": "laws-rights",
+    "tags": [
+      "education",
+      "inclusion",
+      "rights"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alakhbar.press.ma/%D8%A7%D9%84%D8%AD%D8%B1%D9%85%D8%A7%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D9%8A%D8%B3%D8%AA%D9%86%D9%81%D8%B1-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84-302082.html",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alakhbar.press.ma/%D8%A7%D9%84%D8%AD%D8%B1%D9%85%D8%A7%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D9%8A%D8%B3%D8%AA%D9%86%D9%81%D8%B1-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84-302082.html"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-9d4ed1fc",
+    "status": "published",
+    "translationOf": "deprivation-of-education-mobilizes-disability-associations-zh-9d4ed1fc",
+    "publishedAt": "2026-10-27T11:11:26.000Z",
+    "fetchedAt": "2026-10-27T16:02:38.455Z",
+    "body": "Associations working in the field of disability are reacting to the issue of students with disabilities being deprived of education, highlighting the need for inclusive educational access.\n\nRead more from the original source: [news.google.com](https://www.alakhbar.press.ma/%D8%A7%D9%84%D8%AD%D8%B1%D9%85%D8%A7%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D9%8A%D8%B3%D8%AA%D9%86%D9%81%D8%B1-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84-302082.html)"
+  },
+  {
+    "title": "310 million VND provided to support livelihoods of 16 families of persons with disabilities",
+    "slug": "310-million-vnd-provided-to-support-livelihoods-of-16-families-of-persons-with-d-6a32a2f8",
+    "lang": "en",
+    "summary": "Funding has been provided to support the livelihoods of 16 families with members who have disabilities, aiming to improve their economic stability and quality of life.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "support",
+      "livelihood",
+      "disability"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.vietnam.vn/ar/trao-310-trieu-dong-von-ho-tro-sinh-ke-cho-16-ho-khuyet-tat",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.vietnam.vn/ar/trao-310-trieu-dong-von-ho-tro-sinh-ke-cho-16-ho-khuyet-tat"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-6a32a2f8",
+    "status": "published",
+    "translationOf": "310-million-vnd-provided-to-support-livelihoods-of-16-families-of-persons-with-d-zh-6a32a2f8",
+    "publishedAt": "2026-10-27T10:00:11.000Z",
+    "fetchedAt": "2026-10-27T16:02:38.583Z",
+    "body": "Funding has been provided to support the livelihoods of 16 families with members who have disabilities, aiming to improve their economic stability and quality of life.\n\nRead more from the original source: [news.google.com](https://www.vietnam.vn/ar/trao-310-trieu-dong-von-ho-tro-sinh-ke-cho-16-ho-khuyet-tat)"
+  },
+  {
+    "title": "Jeddah Disability Club Celebrates Champions at Nagoya 2026",
+    "slug": "jeddah-disability-club-celebrates-champions-at-nagoya-2026-79ac9674",
+    "lang": "en",
+    "summary": "The Jeddah Disability Club is celebrating its athletes who achieved victories in the Nagoya 2026 event, highlighting sports participation for individuals with disabilities.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability-sports",
+      "community",
+      "recognition"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://twaslnews1.twaslnews.com/6669878",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://twaslnews1.twaslnews.com/6669878"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-79ac9674",
+    "status": "published",
+    "translationOf": "jeddah-disability-club-celebrates-champions-at-nagoya-2026-zh-79ac9674",
+    "publishedAt": "2026-10-27T09:17:20.000Z",
+    "fetchedAt": "2026-10-27T16:02:44.916Z",
+    "body": "The Jeddah Disability Club is celebrating its athletes who achieved victories in the Nagoya 2026 event, highlighting sports participation for individuals with disabilities.\n\nRead more from the original source: [news.google.com](https://twaslnews1.twaslnews.com/6669878)"
+  },
+  {
+    "title": "Egyptian Student with Visual Impairment Reads 37 Books in Arabic Reading Challenge",
+    "slug": "egyptian-student-with-visual-impairment-reads-37-books-in-arabic-reading-challen-aa6eafb8",
+    "lang": "en",
+    "summary": "An Egyptian student with a visual disability participated in the Arabic Reading Challenge, reading 37 books and demonstrating resilience and inclusivity in educational settings.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "visual-impairment",
+      "education",
+      "inspiration"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albayan.ae/culture-art/culture/1560843",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albayan.ae/culture-art/culture/1560843"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-aa6eafb8",
+    "status": "published",
+    "translationOf": "egyptian-student-with-visual-impairment-reads-37-books-in-arabic-reading-challen-zh-aa6eafb8",
+    "publishedAt": "2026-10-27T07:36:00.000Z",
+    "fetchedAt": "2026-10-27T16:02:45.068Z",
+    "body": "An Egyptian student with a visual disability participated in the Arabic Reading Challenge, reading 37 books and demonstrating resilience and inclusivity in educational settings.\n\nRead more from the original source: [news.google.com](https://www.albayan.ae/culture-art/culture/1560843)"
+  },
+  {
+    "title": "Urgent government decision after woman with disability beaten by her sister",
+    "slug": "urgent-government-decision-after-woman-with-disability-beaten-by-her-sister-02097030",
+    "lang": "en",
+    "summary": "The Egyptian government has issued an urgent decision following an incident where a woman with a disability was physically assaulted by her sister. The case has drawn attention to the protection of rights and safety for individuals with disabilities against familial abuse.",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "rights",
+      "government-action",
+      "legal-protection"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.almasryalyoum.com/news/details/4391338",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.almasryalyoum.com/news/details/4391338"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-02097030",
+    "status": "published",
+    "translationOf": "urgent-government-decision-after-woman-with-disability-beaten-by-her-sister-zh-02097030",
+    "publishedAt": "2026-10-24T07:33:00.000Z",
+    "fetchedAt": "2026-10-27T16:03:00.045Z",
+    "body": "The Egyptian government has issued an urgent decision following an incident where a woman with a disability was physically assaulted by her sister. The case has drawn attention to the protection of rights and safety for individuals with disabilities against familial abuse.\n\nRead more from the original source: [news.google.com](https://www.almasryalyoum.com/news/details/4391338)"
+  },
+  {
+    "title": "Workshop in Dakahlia Promotes Inclusion of Persons with Disabilities in the Labor Market",
+    "slug": "workshop-in-dakahlia-promotes-inclusion-of-persons-with-disabilities-in-the-labo-79f30c60",
+    "lang": "en",
+    "summary": "A workshop held in Dakahlia aims to enhance the integration of people with disabilities into the job market and ensure equal opportunities for them.",
+    "category": "laws-rights",
+    "tags": [
+      "employment",
+      "inclusion",
+      "Dakahlia",
+      "rights"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://gate.ahram.org.eg/News/5973150.aspx",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://gate.ahram.org.eg/News/5973150.aspx"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-79f30c60",
+    "status": "published",
+    "translationOf": "workshop-in-dakahlia-promotes-inclusion-of-persons-with-disabilities-in-the-labo-zh-79f30c60",
+    "publishedAt": "2026-10-27T14:26:00.000Z",
+    "fetchedAt": "2026-10-27T16:03:32.142Z",
+    "body": "A workshop held in Dakahlia aims to enhance the integration of people with disabilities into the job market and ensure equal opportunities for them.\n\nRead more from the original source: [news.google.com](https://gate.ahram.org.eg/News/5973150.aspx)"
+  },
+  {
+    "title": "Human Rights Bodies Condemn Misleading Remarks About People with Disabilities, Demand Official Apology",
+    "slug": "human-rights-bodies-condemn-misleading-remarks-about-people-with-disabilities-de-24567fe8",
+    "lang": "en",
+    "summary": "Human rights activists expressed outrage at derogatory remarks describing people with disabilities as engaging in 'Mongolian marriage,' calling for an official apology from the speaker and demanding respect for the dignity of disabled individuals.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "human-rights",
+      "stigma",
+      "discrimination",
+      "dignity"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://lemaroc35.ma/136331",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://lemaroc35.ma/136331"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-24567fe8",
+    "status": "published",
+    "translationOf": "human-rights-bodies-condemn-misleading-remarks-about-people-with-disabilities-de-zh-24567fe8",
+    "publishedAt": "2026-10-27T14:44:41.000Z",
+    "fetchedAt": "2026-10-27T16:03:32.314Z",
+    "body": "Human rights activists expressed outrage at derogatory remarks describing people with disabilities as engaging in 'Mongolian marriage,' calling for an official apology from the speaker and demanding respect for the dignity of disabled individuals.\n\nRead more from the original source: [news.google.com](https://lemaroc35.ma/136331)"
+  },
+  {
+    "title": "Handover of Assemblies and Reconciliation Center in Burbal, Kafr El Sheikh to Support Persons with Disabilities",
+    "slug": "handover-of-assemblies-and-reconciliation-center-in-burbal-kafr-el-sheikh-to-sup-31e67e65",
+    "lang": "en",
+    "summary": "The Assemblies and Reconciliation Center in Burbal, Kafr El Sheikh, was officially handed over to provide support and services for individuals with disabilities in the region.",
+    "category": "general",
+    "tags": [
+      "facility",
+      "support",
+      "Egypt"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.youm7.com/story/2026/10/27/%D8%AA%D8%B3%D9%84%D9%8A%D9%85-%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%AA%D8%AC%D9%85%D9%8A%D8%B9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%A1%D9%85%D8%A9-%D8%A8%D8%A8%D8%B1%D9%85%D8%A8%D8%A7%D9%84-%D9%81%D9%89-%D9%83%D9%81%D8%B1-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%84%D8%AF%D8%B9%D9%85-%D8%B0%D9%88%D9%89/7595472",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.youm7.com/story/2026/10/27/%D8%AA%D8%B3%D9%84%D9%8A%D9%85-%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%AA%D8%AC%D9%85%D9%8A%D8%B9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%A1%D9%85%D8%A9-%D8%A8%D8%A8%D8%B1%D9%85%D8%A8%D8%A7%D9%84-%D9%81%D9%89-%D9%83%D9%81%D8%B1-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%84%D8%AF%D8%B9%D9%85-%D8%B0%D9%88%D9%89/7595472"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-31e67e65",
+    "status": "published",
+    "translationOf": "handover-of-assemblies-and-reconciliation-center-in-burbal-kafr-el-sheikh-to-sup-zh-31e67e65",
+    "publishedAt": "2026-10-27T10:18:00.000Z",
+    "fetchedAt": "2026-10-27T16:03:36.879Z",
+    "body": "The Assemblies and Reconciliation Center in Burbal, Kafr El Sheikh, was officially handed over to provide support and services for individuals with disabilities in the region.\n\nRead more from the original source: [news.google.com](https://www.youm7.com/story/2026/10/27/%D8%AA%D8%B3%D9%84%D9%8A%D9%85-%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%AA%D8%AC%D9%85%D9%8A%D8%B9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%A1%D9%85%D8%A9-%D8%A8%D8%A8%D8%B1%D9%85%D8%A8%D8%A7%D9%84-%D9%81%D9%89-%D9%83%D9%81%D8%B1-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%84%D8%AF%D8%B9%D9%85-%D8%B0%D9%88%D9%89/7595472)"
+  },
+  {
+    "title": "Rights Organization Demands Formal Apology for Minister's Remarks on People with Disabilities",
+    "slug": "rights-organization-demands-formal-apology-for-ministers-remarks-on-people-with--ccb81474",
+    "lang": "en",
+    "summary": "A rights-based organization condemned statements made by Minister Midaoui in parliament regarding people with disabilities and demanded a formal apology on their behalf.",
+    "category": "laws-rights",
+    "tags": [
+      "apology",
+      "rights",
+      "Morocco"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://kifache.com/%D8%B7%D8%A7%D9%84%D8%A8%D8%AA-%D8%A8%D9%80%D8%A7%D8%B9%D8%AA%D8%B0%D8%A7%D8%B1-%D8%B1%D8%B3%D9%85%D9%8A-%D9%84%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D9%81%D9%8A-%D9%88%D8%B6%D8%B9%D9%8A%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://kifache.com/%D8%B7%D8%A7%D9%84%D8%A8%D8%AA-%D8%A8%D9%80%D8%A7%D8%B9%D8%AA%D8%B0%D8%A7%D8%B1-%D8%B1%D8%B3%D9%85%D9%8A-%D9%84%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D9%81%D9%8A-%D9%88%D8%B6%D8%B9%D9%8A%D8%A9"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-ccb81474",
+    "status": "published",
+    "translationOf": "rights-organization-demands-formal-apology-for-ministers-remarks-on-people-with--zh-ccb81474",
+    "publishedAt": "2026-10-27T14:09:28.000Z",
+    "fetchedAt": "2026-10-27T16:03:37.030Z",
+    "body": "A rights-based organization condemned statements made by Minister Midaoui in parliament regarding people with disabilities and demanded a formal apology on their behalf.\n\nRead more from the original source: [news.google.com](https://kifache.com/%D8%B7%D8%A7%D9%84%D8%A8%D8%AA-%D8%A8%D9%80%D8%A7%D8%B9%D8%AA%D8%B0%D8%A7%D8%B1-%D8%B1%D8%B3%D9%85%D9%8A-%D9%84%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D9%81%D9%8A-%D9%88%D8%B6%D8%B9%D9%8A%D8%A9)"
+  },
+  {
+    "title": "Private Facilities Mandated to Employ Persons with Disabilities and Ensure Safety",
+    "slug": "private-facilities-mandated-to-employ-persons-with-disabilities-and-ensure-safet-4f0adaab",
+    "lang": "en",
+    "summary": "A report highlights measures requiring private establishments to employ individuals with disabilities, provide nurseries, and maintain occupational safety standards.",
+    "category": "laws-rights",
+    "tags": [
+      "employment",
+      "inclusion",
+      "safety"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://husna.fm/%D9%85%D8%AD%D9%84%D9%8A/%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://husna.fm/%D9%85%D8%AD%D9%84%D9%8A/%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-4f0adaab",
+    "status": "published",
+    "translationOf": "private-facilities-mandated-to-employ-persons-with-disabilities-and-ensure-safet-zh-4f0adaab",
+    "publishedAt": "2026-10-27T07:10:21.000Z",
+    "fetchedAt": "2026-10-27T16:03:43.197Z",
+    "body": "A report highlights measures requiring private establishments to employ individuals with disabilities, provide nurseries, and maintain occupational safety standards.\n\nRead more from the original source: [news.google.com](https://husna.fm/%D9%85%D8%AD%D9%84%D9%8A/%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9)"
+  },
+  {
+    "title": "Human Rights Organization Demands Apology for Minister of Higher Education's Remarks on Disabled Persons",
+    "slug": "human-rights-organization-demands-apology-for-minister-of-higher-educations-rema-6b39eb6a",
+    "lang": "en",
+    "summary": "A human rights organization condemned the Minister of Higher Education for remarks affecting people in disability situations and is calling for an official apology.",
+    "category": "laws-rights",
+    "tags": [
+      "rights",
+      "politics",
+      "apology"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://anfaspress.com/news/voir/181002-2026-10-27-11-54-11",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://anfaspress.com/news/voir/181002-2026-10-27-11-54-11"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-6b39eb6a",
+    "status": "published",
+    "translationOf": "human-rights-organization-demands-apology-for-minister-of-higher-educations-rema-zh-6b39eb6a",
+    "publishedAt": "2026-10-27T11:56:53.000Z",
+    "fetchedAt": "2026-10-27T16:03:44.098Z",
+    "body": "A human rights organization condemned the Minister of Higher Education for remarks affecting people in disability situations and is calling for an official apology.\n\nRead more from the original source: [news.google.com](https://anfaspress.com/news/voir/181002-2026-10-27-11-54-11)"
+  },
+  {
+    "title": "Egyptian House Committee Approves Allocating 5% of National Cars to Persons with Disabilities",
+    "slug": "egyptian-house-committee-approves-allocating-5-of-national-cars-to-persons-with--ebcdcf8c",
+    "lang": "en",
+    "summary": "The Planning Committee of the Egyptian House of Representatives voted to approve a proposal that designates 5% of 'Haiya Masr' (national vehicle project) cars for persons with disabilities, aiming to improve mobility access and independence.",
+    "category": "laws-rights",
+    "tags": [
+      "Egypt",
+      "disability",
+      "policy",
+      "transportation"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.masrawy.com/news/news_egypt/details/2026/10/27/3069285/-%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D8%AA%D8%A4%D9%8A%D8%AF-%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%AD-%D8%A7-%D8%A8%D8%AA%D8%AE%D8%B5%D9%8A%D8%B5-5-%D9%85%D9%86-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AD%D9%8A%D8%A7-%D9%85%D8%B5%D8%B1-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.masrawy.com/news/news_egypt/details/2026/10/27/3069285/-%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D8%AA%D8%A4%D9%8A%D8%AF-%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%AD-%D8%A7-%D8%A8%D8%AA%D8%AE%D8%B5%D9%8A%D8%B5-5-%D9%85%D9%86-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AD%D9%8A%D8%A7-%D9%85%D8%B5%D8%B1-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-ebcdcf8c",
+    "status": "published",
+    "translationOf": "egyptian-house-committee-approves-allocating-5-of-national-cars-to-persons-with--zh-ebcdcf8c",
+    "publishedAt": "2026-10-27T08:35:48.000Z",
+    "fetchedAt": "2026-10-27T16:03:57.894Z",
+    "body": "The Planning Committee of the Egyptian House of Representatives voted to approve a proposal that designates 5% of 'Haiya Masr' (national vehicle project) cars for persons with disabilities, aiming to improve mobility access and independence.\n\nRead more from the original source: [news.google.com](https://www.masrawy.com/news/news_egypt/details/2026/10/27/3069285/-%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D8%AA%D8%A4%D9%8A%D8%AF-%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%AD-%D8%A7-%D8%A8%D8%AA%D8%AE%D8%B5%D9%8A%D8%B5-5-%D9%85%D9%86-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AD%D9%8A%D8%A7-%D9%85%D8%B5%D8%B1-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9)"
+  },
+  {
+    "title": "Rights Organization Condemns Use of Discriminatory Term for Disability in Parliament",
+    "slug": "rights-organization-condemns-use-of-discriminatory-term-for-disability-in-parlia-5b989020",
+    "lang": "en",
+    "summary": "A human rights organization criticized a member of parliament for using the derogatory term 'Midani' (a dialectal word often used pejoratively for people with certain physical conditions) during a parliamentary session, highlighting ongoing stigmatization of persons with disabilities in public discourse.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "Morocco",
+      "disability",
+      "stigma",
+      "parliament"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://elmassae24.ma/110486",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://elmassae24.ma/110486"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-5b989020",
+    "status": "published",
+    "translationOf": "rights-organization-condemns-use-of-discriminatory-term-for-disability-in-parlia-zh-5b989020",
+    "publishedAt": "2026-10-27T12:31:53.000Z",
+    "fetchedAt": "2026-10-27T16:03:58.060Z",
+    "body": "A human rights organization criticized a member of parliament for using the derogatory term 'Midani' (a dialectal word often used pejoratively for people with certain physical conditions) during a parliamentary session, highlighting ongoing stigmatization of persons with disabilities in public discourse.\n\nRead more from the original source: [news.google.com](https://elmassae24.ma/110486)"
+  },
+  {
+    "title": "National Alliance Participates in Workshop for Executing Disability Empowerment Strategy",
+    "slug": "national-alliance-participates-in-workshop-for-executing-disability-empowerment--5d30c789",
+    "lang": "en",
+    "summary": "The National Alliance is participating in a workshop focused on preparing the executive plan for the strategy to empower people with disabilities, highlighting policy and rights-based accessibility efforts.",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "strategy",
+      "policy",
+      "workshop"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.elwatannews.com/news/details/8385486",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.elwatannews.com/news/details/8385486"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-5d30c789",
+    "status": "published",
+    "translationOf": "national-alliance-participates-in-workshop-for-executing-disability-empowerment--zh-5d30c789",
+    "publishedAt": "2026-10-27T15:23:23.000Z",
+    "fetchedAt": "2026-10-27T16:04:03.837Z",
+    "body": "The National Alliance is participating in a workshop focused on preparing the executive plan for the strategy to empower people with disabilities, highlighting policy and rights-based accessibility efforts.\n\nRead more from the original source: [news.google.com](https://www.elwatannews.com/news/details/8385486)"
+  },
+  {
+    "title": "Jeddah Disability Club Celebrates As champions in Nagoya 2026",
+    "slug": "jeddah-disability-club-celebrates-as-champions-in-nagoya-2026-aa744c49",
+    "lang": "en",
+    "summary": "The Disability Club in Jeddah is celebrating its athletes who secured first and second places in an Asian competition held in Nagoya 2026, showcasing achievement and lifestyle integration for people with disabilities.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "sports",
+      "athletics",
+      "inclusion",
+      "jeddah"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://al-hadath.com/exhibitions-events/102188/%D9%86%D8%A7%D8%AF%D9%8A-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%AC%D8%AF%D8%A9-%D9%8A%D8%AD%D8%AA%D9%81%D9%8A-%D8%A8%D8%A3%D8%A8%D8%B7%D8%A7%D9%84%D9%87-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%AC%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D9%88%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D8%A2%D8%B3%D9%8A%D9%88%D9%8A%D9%8B%D8%A7-%D9%81%D9%8A-%C2%AB%D9%86%D8%A7%D8%BA%D9%88%D9%8A%D8%A7-2026%C2%BB",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://al-hadath.com/exhibitions-events/102188/%D9%86%D8%A7%D8%AF%D9%8A-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%AC%D8%AF%D8%A9-%D9%8A%D8%AD%D8%AA%D9%81%D9%8A-%D8%A8%D8%A3%D8%A8%D8%B7%D8%A7%D9%84%D9%87-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%AC%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D9%88%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D8%A2%D8%B3%D9%8A%D9%88%D9%8A%D9%8B%D8%A7-%D9%81%D9%8A-%C2%AB%D9%86%D8%A7%D8%BA%D9%88%D9%8A%D8%A7-2026%C2%BB"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-aa744c49",
+    "status": "published",
+    "translationOf": "jeddah-disability-club-celebrates-as-champions-in-nagoya-2026-zh-aa744c49",
+    "publishedAt": "2026-10-27T09:36:36.000Z",
+    "fetchedAt": "2026-10-27T16:04:14.322Z",
+    "body": "The Disability Club in Jeddah is celebrating its athletes who secured first and second places in an Asian competition held in Nagoya 2026, showcasing achievement and lifestyle integration for people with disabilities.\n\nRead more from the original source: [news.google.com](https://al-hadath.com/exhibitions-events/102188/%D9%86%D8%A7%D8%AF%D9%8A-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%AC%D8%AF%D8%A9-%D9%8A%D8%AD%D8%AA%D9%81%D9%8A-%D8%A8%D8%A3%D8%A8%D8%B7%D8%A7%D9%84%D9%87-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%AC%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D9%88%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D8%A2%D8%B3%D9%8A%D9%88%D9%8A%D9%8B%D8%A7-%D9%81%D9%8A-%C2%AB%D9%86%D8%A7%D8%BA%D9%88%D9%8A%D8%A7-2026%C2%BB)"
+  },
+  {
+    "title": "Proposal to Review Disability Employment Quota in Teacher Competition",
+    "slug": "proposal-to-review-disability-employment-quota-in-teacher-competition-65ed395c",
+    "lang": "en",
+    "summary": "A parliamentary proposal suggests reviewing the quota for hiring individuals with disabilities in the fifth phase of the teacher recruitment competition.",
+    "category": "laws-rights",
+    "tags": [
+      "disability employment",
+      "quota",
+      "education",
+      "legislation"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.parlmany.com/News/3/618842/%D8%A7%D9%84%D8%B5%D9%81%D8%AA%D9%89-%D9%8A%D8%AA%D9%82%D8%AF%D9%85-%D8%A8%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%AD-%D8%A8%D8%B1%D8%BA%D8%A8%D8%A9-%D9%84%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9-%D9%86%D8%B3%D8%A8%D8%A9-%D8%AA%D8%B9%D9%8A%D9%8A%D9%86-%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%81%D9%8A",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.parlmany.com/News/3/618842/%D8%A7%D9%84%D8%B5%D9%81%D8%AA%D9%89-%D9%8A%D8%AA%D9%82%D8%AF%D9%85-%D8%A8%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%AD-%D8%A8%D8%B1%D8%BA%D8%A8%D8%A9-%D9%84%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9-%D9%86%D8%B3%D8%A8%D8%A9-%D8%AA%D8%B9%D9%8A%D9%8A%D9%86-%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%81%D9%8A"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-65ed395c",
+    "status": "published",
+    "translationOf": "proposal-to-review-disability-employment-quota-in-teacher-competition-zh-65ed395c",
+    "publishedAt": "2026-10-27T01:00:00.000Z",
+    "fetchedAt": "2026-10-27T16:04:30.255Z",
+    "body": "A parliamentary proposal suggests reviewing the quota for hiring individuals with disabilities in the fifth phase of the teacher recruitment competition.\n\nRead more from the original source: [news.google.com](https://www.parlmany.com/News/3/618842/%D8%A7%D9%84%D8%B5%D9%81%D8%AA%D9%89-%D9%8A%D8%AA%D9%82%D8%AF%D9%85-%D8%A8%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%AD-%D8%A8%D8%B1%D8%BA%D8%A8%D8%A9-%D9%84%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9-%D9%86%D8%B3%D8%A8%D8%A9-%D8%AA%D8%B9%D9%8A%D9%8A%D9%86-%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%81%D9%8A)"
+  },
+  {
+    "title": "Homs University Hosts Social Event Shifting Disability Perspective from Deficit to Ability",
+    "slug": "homs-university-hosts-social-event-shifting-disability-perspective-from-deficit--a9c7aa25",
+    "lang": "en",
+    "summary": "Homs University organized a social event focusing on disability inclusion, aiming to shift the societal perception of people with disabilities from seeing them as having deficits to recognizing their abilities and potential.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "inclusion",
+      "awareness",
+      "university",
+      "perspective-change"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://sana.sy/video/2618450",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://sana.sy/video/2618450"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-a9c7aa25",
+    "status": "published",
+    "translationOf": "homs-university-hosts-social-event-shifting-disability-perspective-from-deficit--zh-a9c7aa25",
+    "publishedAt": "2026-10-27T09:28:37.000Z",
+    "fetchedAt": "2026-10-27T16:04:36.183Z",
+    "body": "Homs University organized a social event focusing on disability inclusion, aiming to shift the societal perception of people with disabilities from seeing them as having deficits to recognizing their abilities and potential.\n\nRead more from the original source: [news.google.com](https://sana.sy/video/2618450)"
+  },
+  {
+    "title": "100 Students with Disabilities Participate in Sports Day at Ain Shams University",
+    "slug": "100-students-with-disabilities-participate-in-sports-day-at-ain-shams-university-9779bb80",
+    "lang": "en",
+    "summary": "Ain Shams University hosted a 'Go Active' Sports Day event where 100 students with disabilities actively participated, promoting physical activity and social inclusion for this demographic.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "sports",
+      "inclusion",
+      "university",
+      "physical-activity"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://twaslnews1.twaslnews.com/6663756",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://twaslnews1.twaslnews.com/6663756"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-9779bb80",
+    "status": "published",
+    "translationOf": "100-students-with-disabilities-participate-in-sports-day-at-ain-shams-university-zh-9779bb80",
+    "publishedAt": "2026-10-27T07:40:30.000Z",
+    "fetchedAt": "2026-10-27T16:04:36.351Z",
+    "body": "Ain Shams University hosted a 'Go Active' Sports Day event where 100 students with disabilities actively participated, promoting physical activity and social inclusion for this demographic.\n\nRead more from the original source: [news.google.com](https://twaslnews1.twaslnews.com/6663756)"
+  },
+  {
+    "title": "Jeddah Disability Club Celebrates Paralympic Athletes",
+    "slug": "jeddah-disability-club-celebrates-paralympic-athletes-0698ba66",
+    "lang": "en",
+    "summary": "The Jeddah Disability Club held a celebration event to honor its athletes who achieved success in the upcoming 2026 Nagoya Paralympic Games, highlighting the achievements of individuals with physical disabilities in international sports.",
+    "category": "case-studies",
+    "tags": [
+      "Paralympics",
+      "Sports",
+      "Saudi Arabia",
+      "Celebration"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://ahwal.sa/archives/282042",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://ahwal.sa/archives/282042"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-0698ba66",
+    "status": "published",
+    "translationOf": "jeddah-disability-club-celebrates-paralympic-athletes-zh-0698ba66",
+    "publishedAt": "2026-10-27T10:01:03.000Z",
+    "fetchedAt": "2026-10-27T16:04:43.361Z",
+    "body": "The Jeddah Disability Club held a celebration event to honor its athletes who achieved success in the upcoming 2026 Nagoya Paralympic Games, highlighting the achievements of individuals with physical disabilities in international sports.\n\nRead more from the original source: [news.google.com](https://ahwal.sa/archives/282042)"
   }
 ]

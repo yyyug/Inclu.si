@@ -199,5 +199,39 @@
     "publishedAt": "2026-01-01T05:01:00.000Z",
     "fetchedAt": "2026-09-18T15:24:03.163Z",
     "body": "文章說明企業遠端支援工具常假設操作者為視覺者，導致盲人及低視力IT人員被排除，延長解決時間，儘管有可及性承諾。\n\n原文來源： [at-newswire.com](https://at-newswire.com/remote-incident-manager-from-pneuma-solutions)"
+  },
+  {
+    "title": "安全通道中的障礙影響特殊需求人士的生活品質",
+    "slug": "barriers-in-safe-passages-affect-the-quality-of-life-of-people-with-special-need-zh-2258bf64",
+    "lang": "zh-TW",
+    "summary": "沙特報章報導指出，指定安全通道中的物理障礙負面影響了殘疾人的日常生活與行動能力。文章呼籲改善城市設計，以確保這些路線真正具備無障礙通行條件。",
+    "category": "physical-design",
+    "tags": [
+      "urban-design",
+      "mobility",
+      "barriers",
+      "saudi-arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alwatan.com.sa/article/1176537",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alwatan.com.sa/article/1176537"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84+%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-2258bf64",
+    "status": "published",
+    "translationOf": "barriers-in-safe-passages-affect-the-quality-of-life-of-people-with-special-need-2258bf64",
+    "publishedAt": "2026-01-29T08:00:00.000Z",
+    "fetchedAt": "2026-10-27T16:01:32.462Z",
+    "body": "沙特報章報導指出，指定安全通道中的物理障礙負面影響了殘疾人的日常生活與行動能力。文章呼籲改善城市設計，以確保這些路線真正具備無障礙通行條件。\n\n原文來源： [news.google.com](https://www.alwatan.com.sa/article/1176537)"
   }
 ]
