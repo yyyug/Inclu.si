@@ -32,5 +32,38 @@
     "publishedAt": "2019-01-10T08:00:00.000Z",
     "fetchedAt": "2026-10-08T23:33:34.035Z",
     "body": "The General Directorate of Special Education, under the Ministry of Education, has organized a workshop focused on ensuring comprehensive accessibility for individuals with disabilities, aiming to enhance inclusive educational environments.\n\nRead more from the original source: [news.google.com](https://www.moe.gov.sa/ar/mediacenter/MOEnews/Pages/a-w-56321.aspx)"
+  },
+  {
+    "title": "Pingtung County Launches Trial Accessible Independent Living Experience Room",
+    "slug": "pingtung-county-launches-trial-accessible-independent-living-experience-room-15eccc5f",
+    "lang": "en",
+    "summary": "The Social Affairs Bureau of Pingtung County opens a trial run of an accessible environment experience room where persons with disabilities can practice independent living.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "independent living",
+      "accessible environment",
+      "experience room",
+      "disability"
+    ],
+    "sourceName": "屏東縣政府全球資訊網",
+    "sourceUrl": "https://www.pthg.gov.tw/PlanJdp/Video_Content.aspx?n=EAB42FB8885FAD63&s=84902AF6B61258B3",
+    "relatedSources": [
+      {
+        "name": "屏東縣政府全球資訊網",
+        "url": "https://www.pthg.gov.tw/PlanJdp/Video_Content.aspx?n=EAB42FB8885FAD63&s=84902AF6B61258B3"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-15eccc5f",
+    "status": "published",
+    "translationOf": "pingtung-county-launches-trial-accessible-independent-living-experience-room-zh-15eccc5f",
+    "publishedAt": "2019-01-10T23:51:09.000Z",
+    "fetchedAt": "2026-10-27T14:32:39.493Z",
+    "body": "The Social Affairs Bureau of Pingtung County opens a trial run of an accessible environment experience room where persons with disabilities can practice independent living.\n\nRead more from the original source: [屏東縣政府全球資訊網](https://www.pthg.gov.tw/PlanJdp/Video_Content.aspx?n=EAB42FB8885FAD63&s=84902AF6B61258B3)"
   }
 ]

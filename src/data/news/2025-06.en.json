@@ -32,5 +32,38 @@
     "publishedAt": "2025-06-02T06:35:51.000Z",
     "fetchedAt": "2026-09-18T15:41:33.665Z",
     "body": "A webinar demonstrates how to use TactileView software with a screen reader to create tactile graphics, showcasing menu-driven design and built-in portals for accessible tactile images.\n\nRead more from the original source: [davidwoodbr.podbean.com](https://davidwoodbr.podbean.com/e/simplifying-tactile-images-with-tactileview)"
+  },
+  {
+    "title": "Ministry of Labor’s Six Calculation Web Pages Pass AA Accessibility Certification",
+    "slug": "ministry-of-labors-six-calculation-web-pages-pass-aa-accessibility-certification-37b04b92",
+    "lang": "en",
+    "summary": "The Ministry of Labor announced that its six major calculation web pages have obtained the AA level of the web accessibility symbol, ensuring zero‑distance access to labor rights information.",
+    "category": "digital-a11y",
+    "tags": [
+      "無障礙標章",
+      "AA認證",
+      "勞動部",
+      "網頁無障礙"
+    ],
+    "sourceName": "勞動部全球資訊網",
+    "sourceUrl": "https://www.mol.gov.tw/1607/1632/1633/80824",
+    "relatedSources": [
+      {
+        "name": "勞動部全球資訊網",
+        "url": "https://www.mol.gov.tw/1607/1632/1633/80824"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-37b04b92",
+    "status": "published",
+    "translationOf": "ministry-of-labors-six-calculation-web-pages-pass-aa-accessibility-certification-zh-37b04b92",
+    "publishedAt": "2025-06-17T07:00:00.000Z",
+    "fetchedAt": "2026-10-27T14:32:30.794Z",
+    "body": "The Ministry of Labor announced that its six major calculation web pages have obtained the AA level of the web accessibility symbol, ensuring zero‑distance access to labor rights information.\n\nRead more from the original source: [勞動部全球資訊網](https://www.mol.gov.tw/1607/1632/1633/80824)"
   }
 ]

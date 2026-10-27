@@ -1,0 +1,34 @@
+[
+  {
+    "title": "114年度無障礙住宅專區 - 內政部不動產資訊平台",
+    "slug": "2025-accessible-housing-special-zone-ministry-of-interior-real-estate-informatio-zh-e3ff2563",
+    "lang": "zh-TW",
+    "summary": "內政部不動產資訊平台推出114年度無障礙住宅專區，提供無障礙住宅資訊與房源，方便殘障者尋找適合的無障礙居所。",
+    "category": "physical-design",
+    "tags": [
+      "housing",
+      "accessibility",
+      "real-estate"
+    ],
+    "sourceName": "內政部不動產資訊平台",
+    "sourceUrl": "https://pip.moi.gov.tw/V3/J/SCRJ0102.aspx?k=B3&g=B3M2&p=27",
+    "relatedSources": [
+      {
+        "name": "內政部不動產資訊平台",
+        "url": "https://pip.moi.gov.tw/V3/J/SCRJ0102.aspx?k=B3&g=B3M2&p=27"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e3ff2563",
+    "status": "published",
+    "translationOf": "2025-accessible-housing-special-zone-ministry-of-interior-real-estate-informatio-e3ff2563",
+    "publishedAt": "2020-06-09T02:23:05.000Z",
+    "fetchedAt": "2026-10-27T14:32:46.585Z",
+    "body": "內政部不動產資訊平台推出114年度無障礙住宅專區，提供無障礙住宅資訊與房源，方便殘障者尋找適合的無障礙居所。\n\n原文來源： [內政部不動產資訊平台](https://pip.moi.gov.tw/V3/J/SCRJ0102.aspx?k=B3&g=B3M2&p=27)"
+  }
+]

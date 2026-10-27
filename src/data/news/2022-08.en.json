@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Government Website Accessibility Symbol Testing – Concrete Actions by the Digital Development Ministry",
+    "slug": "government-website-accessibility-symbol-testing-concrete-actions-by-the-digital--caaf9201",
+    "lang": "en",
+    "summary": "The Digital Development Ministry outlines concrete measures for testing and certifying government websites with the accessibility symbol, promoting inclusive online services.",
+    "category": "digital-a11y",
+    "tags": [
+      "無障礙標章",
+      "政府網站",
+      "數位發展部",
+      "可及性測試"
+    ],
+    "sourceName": "moda — 數位發展部",
+    "sourceUrl": "https://moda.gov.tw/digital-affairs/digital-service/operations/228",
+    "relatedSources": [
+      {
+        "name": "moda — 數位發展部",
+        "url": "https://moda.gov.tw/digital-affairs/digital-service/operations/228"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-caaf9201",
+    "status": "published",
+    "translationOf": "government-website-accessibility-symbol-testing-concrete-actions-by-the-digital--zh-caaf9201",
+    "publishedAt": "2022-08-27T07:00:00.000Z",
+    "fetchedAt": "2026-10-27T14:32:30.796Z",
+    "body": "The Digital Development Ministry outlines concrete measures for testing and certifying government websites with the accessibility symbol, promoting inclusive online services.\n\nRead more from the original source: [moda — 數位發展部](https://moda.gov.tw/digital-affairs/digital-service/operations/228)"
+  }
+]

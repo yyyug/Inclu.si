@@ -97595,5 +97595,531 @@
     "publishedAt": "2026-10-26T18:41:56.000Z",
     "fetchedAt": "2026-10-26T22:52:40.741Z",
     "body": "敘利亞高等教育部頒布法令，規定私立大學殘障學生可享有學費五折優惠。申請資格需提交由社會部核發之證明文件，以確認其殘障身分。\n\n原文來源： [asdmag.org](https://asdmag.org/archives/69455)"
+  },
+  {
+    "title": "騎士隊據報正與DirecTV談判達成協議，因球迷對DAZN無障礙功能感到不滿",
+    "slug": "cavaliers-reportedly-reach-deal-with-directv-amid-frustration-over-dazn-accessib-zh-a473b6b1",
+    "lang": "zh-TW",
+    "summary": "克利夫蘭騎士隊據報正與DirecTV談判達成協議，因球迷對DAZN缺乏無障礙功能（如閉合字幕和音頻描述）感到不滿，這些功能的缺失使殘疾觀眾難以觀看比賽。",
+    "category": "digital-a11y",
+    "tags": [
+      "DAZN",
+      "DirecTV",
+      "streaming",
+      "sports accessibility",
+      "closed captioning",
+      "audio description"
+    ],
+    "sourceName": "Awful Announcing",
+    "sourceUrl": "https://awfulannouncing.com/nba/cavaliers-reach-deal-directv-amid-frustration-dazn-accessibility.html",
+    "relatedSources": [
+      {
+        "name": "Awful Announcing",
+        "url": "https://awfulannouncing.com/nba/cavaliers-reach-deal-directv-amid-frustration-dazn-accessibility.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a473b6b1",
+    "status": "published",
+    "translationOf": "cavaliers-reportedly-reach-deal-with-directv-amid-frustration-over-dazn-accessib-a473b6b1",
+    "publishedAt": "2026-10-25T23:04:44.000Z",
+    "fetchedAt": "2026-10-27T14:31:59.311Z",
+    "body": "克利夫蘭騎士隊據報正與DirecTV談判達成協議，因球迷對DAZN缺乏無障礙功能（如閉合字幕和音頻描述）感到不滿，這些功能的缺失使殘疾觀眾難以觀看比賽。\n\n原文來源： [Awful Announcing](https://awfulannouncing.com/nba/cavaliers-reach-deal-directv-amid-frustration-dazn-accessibility.html)"
+  },
+  {
+    "title": "提前投票的無障礙",
+    "slug": "early-voting-accessibility-zh-d7941167",
+    "lang": "zh-TW",
+    "summary": "提前投票的無障礙指的是確保投票場所和設備在提前投票期間對殘疾人士可用，包括坡道、無障礙投票機和協助服務。",
+    "category": "laws-rights",
+    "tags": [
+      "early voting",
+      "voting accessibility",
+      "disability access",
+      "polling places",
+      "assistive voting technology"
+    ],
+    "sourceName": "KWQC",
+    "sourceUrl": "https://www.kwqc.com/video/2026/10/27/early-voting-accessibility",
+    "relatedSources": [
+      {
+        "name": "KWQC",
+        "url": "https://www.kwqc.com/video/2026/10/27/early-voting-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-d7941167",
+    "status": "published",
+    "translationOf": "early-voting-accessibility-d7941167",
+    "publishedAt": "2026-10-27T11:51:00.000Z",
+    "fetchedAt": "2026-10-27T14:31:59.453Z",
+    "body": "提前投票的無障礙指的是確保投票場所和設備在提前投票期間對殘疾人士可用，包括坡道、無障礙投票機和協助服務。\n\n原文來源： [KWQC](https://www.kwqc.com/video/2026/10/27/early-voting-accessibility)"
+  },
+  {
+    "title": "對於視障選民，麻薩諸塞州是投票最無障礙的州之一",
+    "slug": "for-blind-voters-massachusetts-is-one-of-the-most-accessible-states-for-voting-zh-836f71b5",
+    "lang": "zh-TW",
+    "summary": "麻薩諸塞州在視障選民的投票無障礙方面表現突出，提供點字選票、語音輔助投票機以及受訓的投票站工作人員，以支援視力障礙者參與選舉。",
+    "category": "assistive-tech",
+    "tags": [
+      "blind voters",
+      "Massachusetts",
+      "voting accessibility",
+      "braille ballots",
+      "audio-assisted voting",
+      "visual impairment"
+    ],
+    "sourceName": "WGBH",
+    "sourceUrl": "https://www.wgbh.org/news/local/2026-10-27/for-blind-voters-massachusetts-is-one-of-the-most-accessible-states-for-voting",
+    "relatedSources": [
+      {
+        "name": "WGBH",
+        "url": "https://www.wgbh.org/news/local/2026-10-27/for-blind-voters-massachusetts-is-one-of-the-most-accessible-states-for-voting"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-836f71b5",
+    "status": "published",
+    "translationOf": "for-blind-voters-massachusetts-is-one-of-the-most-accessible-states-for-voting-836f71b5",
+    "publishedAt": "2026-10-27T09:04:10.000Z",
+    "fetchedAt": "2026-10-27T14:31:59.556Z",
+    "body": "麻薩諸塞州在視障選民的投票無障礙方面表現突出，提供點字選票、語音輔助投票機以及受訓的投票站工作人員，以支援視力障礙者參與選舉。\n\n原文來源： [WGBH](https://www.wgbh.org/news/local/2026-10-27/for-blind-voters-massachusetts-is-one-of-the-most-accessible-states-for-voting)"
+  },
+  {
+    "title": "皇家馬德里基金會與Fundación ONCE宣布在聖地亞哥伯納烏球場的無障礙合作",
+    "slug": "real-madrid-foundation-and-fundacion-once-announce-accessibility-alliance-at-san-zh-e446535d",
+    "lang": "zh-TW",
+    "summary": "此合作旨在提升球場內殘疾人士的無障礙設施，包括座位、通道及服務。",
+    "category": "physical-design",
+    "tags": [
+      "stadium",
+      "disability access",
+      "football",
+      "Spain"
+    ],
+    "sourceName": "Real Madrid CF | Web Oficial",
+    "sourceUrl": "https://www.realmadrid.com/en-US/news/club/foundation/la-fundacion-real-madrid-y-fundacion-once-presentan-su-alianza-por-la-accesibilidad-en-el-santiago-bernabeu-27-10-2026",
+    "relatedSources": [
+      {
+        "name": "Real Madrid CF | Web Oficial",
+        "url": "https://www.realmadrid.com/en-US/news/club/foundation/la-fundacion-real-madrid-y-fundacion-once-presentan-su-alianza-por-la-accesibilidad-en-el-santiago-bernabeu-27-10-2026"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e446535d",
+    "status": "published",
+    "translationOf": "real-madrid-foundation-and-fundacion-once-announce-accessibility-alliance-at-san-e446535d",
+    "publishedAt": "2026-10-27T13:27:00.000Z",
+    "fetchedAt": "2026-10-27T14:32:07.526Z",
+    "body": "此合作旨在提升球場內殘疾人士的無障礙設施，包括座位、通道及服務。\n\n原文來源： [Real Madrid CF | Web Oficial](https://www.realmadrid.com/en-US/news/club/foundation/la-fundacion-real-madrid-y-fundacion-once-presentan-su-alianza-por-la-accesibilidad-en-el-santiago-bernabeu-27-10-2026)"
+  },
+  {
+    "title": "無障礙問題延伸至教室與宿舍",
+    "slug": "accessibility-concerns-extend-to-classrooms-and-dormitories-zh-a6b68188",
+    "lang": "zh-TW",
+    "summary": "學生與教職員反映大學教室與宿舍仍存在影響殘疾學生的障礙，要求改善無障礙設施。",
+    "category": "physical-design",
+    "tags": [
+      "university",
+      "classroom",
+      "dormitory",
+      "disability access"
+    ],
+    "sourceName": "www.thepostathens.com",
+    "sourceUrl": "https://www.thepostathens.com/article/2026/10/students-faculty-issues-student-accessibility",
+    "relatedSources": [
+      {
+        "name": "www.thepostathens.com",
+        "url": "https://www.thepostathens.com/article/2026/10/students-faculty-issues-student-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a6b68188",
+    "status": "published",
+    "translationOf": "accessibility-concerns-extend-to-classrooms-and-dormitories-a6b68188",
+    "publishedAt": "2026-10-27T04:00:00.000Z",
+    "fetchedAt": "2026-10-27T14:32:07.644Z",
+    "body": "學生與教職員反映大學教室與宿舍仍存在影響殘疾學生的障礙，要求改善無障礙設施。\n\n原文來源： [www.thepostathens.com](https://www.thepostathens.com/article/2026/10/students-faculty-issues-student-accessibility)"
+  },
+  {
+    "title": "Asmodee 推出新資源，使桌上遊戲對更多玩家可及",
+    "slug": "asmodee-launches-new-resources-to-make-tabletop-games-accessible-to-more-players-zh-3c191bfd",
+    "lang": "zh-TW",
+    "summary": "Asmodee 推出新資源，使桌上遊戲對殘障玩家更具可及性，提供包容性設計工具與適應方案。",
+    "category": "assistive-tech",
+    "tags": [
+      "tabletop",
+      "board games",
+      "inclusive design",
+      "disability"
+    ],
+    "sourceName": "TradingView",
+    "sourceUrl": "https://www.tradingview.com/news/modular_finance:c4e75c92d95bd:0-asmodee-launches-new-resources-to-make-tabletop-games-accessible-to-more-players",
+    "relatedSources": [
+      {
+        "name": "TradingView",
+        "url": "https://www.tradingview.com/news/modular_finance:c4e75c92d95bd:0-asmodee-launches-new-resources-to-make-tabletop-games-accessible-to-more-players"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3c191bfd",
+    "status": "published",
+    "translationOf": "asmodee-launches-new-resources-to-make-tabletop-games-accessible-to-more-players-3c191bfd",
+    "publishedAt": "2026-10-27T14:00:00.000Z",
+    "fetchedAt": "2026-10-27T14:32:23.742Z",
+    "body": "Asmodee 推出新資源，使桌上遊戲對殘障玩家更具可及性，提供包容性設計工具與適應方案。\n\n原文來源： [TradingView](https://www.tradingview.com/news/modular_finance:c4e75c92d95bd:0-asmodee-launches-new-resources-to-make-tabletop-games-accessible-to-more-players)"
+  },
+  {
+    "title": "「病人願意走出來，社會要接得住」—從一趟高鐵旅程，看見漸凍症病友的自主與無障礙支持",
+    "slug": "story-8b4576fc-zh-8b4576fc",
+    "lang": "zh-TW",
+    "summary": "報導描述一位漸凍症病友搭乘高鐵的旅程，展示社會支援與無障礙設計如何讓神經退化疾病患者獲得自主。",
+    "category": "physical-design",
+    "tags": [
+      "ALS",
+      "high-speed rail",
+      "barrier-free",
+      "transportation"
+    ],
+    "sourceName": "PeoPo 公民新聞",
+    "sourceUrl": "https://www.peopo.org/news/861751",
+    "relatedSources": [
+      {
+        "name": "PeoPo 公民新聞",
+        "url": "https://www.peopo.org/news/861751"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-8b4576fc",
+    "status": "published",
+    "translationOf": "story-8b4576fc-8b4576fc",
+    "publishedAt": "2026-10-27T12:16:00.000Z",
+    "fetchedAt": "2026-10-27T14:32:23.861Z",
+    "body": "報導描述一位漸凍症病友搭乘高鐵的旅程，展示社會支援與無障礙設計如何讓神經退化疾病患者獲得自主。\n\n原文來源： [PeoPo 公民新聞](https://www.peopo.org/news/861751)"
+  },
+  {
+    "title": "《足球經理 27》 功能詳解部落格「經理創建工具、生成球員與無障礙選項」現已公開",
+    "slug": "27-zh-3d57d767",
+    "lang": "zh-TW",
+    "summary": "《足球經理27》功能詳解部落格公開經理創建工具、生成球員以及新增的無障礙選項，以殘障玩家為設計對象。",
+    "category": "digital-a11y",
+    "tags": [
+      "football manager",
+      "video game",
+      "accessibility options",
+      "gaming"
+    ],
+    "sourceName": "NOVA資訊廣場",
+    "sourceUrl": "https://www.nova.com.tw/article/TVG/content/6ae071fc34c7c",
+    "relatedSources": [
+      {
+        "name": "NOVA資訊廣場",
+        "url": "https://www.nova.com.tw/article/TVG/content/6ae071fc34c7c"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3d57d767",
+    "status": "published",
+    "translationOf": "27-3d57d767",
+    "publishedAt": "2026-10-27T09:42:20.000Z",
+    "fetchedAt": "2026-10-27T14:32:23.964Z",
+    "body": "《足球經理27》功能詳解部落格公開經理創建工具、生成球員以及新增的無障礙選項，以殘障玩家為設計對象。\n\n原文來源： [NOVA資訊廣場](https://www.nova.com.tw/article/TVG/content/6ae071fc34c7c)"
+  },
+  {
+    "title": "林口再添3.8公頃休憩空間 滯洪公園動土納入無障礙設計 - Yahoo新聞",
+    "slug": "linkou-adds-38-hectares-of-rest-space-flood-detention-park-groundbreaking-includ-zh-3b5306b7",
+    "lang": "zh-TW",
+    "summary": "林口將新增3.8公頃休憩空間於滯洪公園，動土時納入無障礙設計，以確保殘障人士的無障礙使用。",
+    "category": "physical-design",
+    "tags": [
+      "無障礙設計",
+      "滯洪公園",
+      "林口",
+      "休憩空間"
+    ],
+    "sourceName": "Yahoo新聞",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%9E%97%E5%8F%A3%E5%86%8D%E6%B7%BB3-8%E5%85%AC%E9%A0%83%E4%BC%91%E6%86%A9%E7%A9%BA%E9%96%93-%E6%BB%AF%E6%B4%AA%E5%85%AC%E5%9C%92%E5%8B%95%E5%9C%9F%E7%B4%8D%E5%85%A5%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A8%AD%E8%A8%88-070544751.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo新聞",
+        "url": "https://tw.news.yahoo.com/%E6%9E%97%E5%8F%A3%E5%86%8D%E6%B7%BB3-8%E5%85%AC%E9%A0%83%E4%BC%91%E6%86%A9%E7%A9%BA%E9%96%93-%E6%BB%AF%E6%B4%AA%E5%85%AC%E5%9C%92%E5%8B%95%E5%9C%9F%E7%B4%8D%E5%85%A5%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A8%AD%E8%A8%88-070544751.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3b5306b7",
+    "status": "published",
+    "translationOf": "linkou-adds-38-hectares-of-rest-space-flood-detention-park-groundbreaking-includ-3b5306b7",
+    "publishedAt": "2026-10-27T07:05:44.000Z",
+    "fetchedAt": "2026-10-27T14:32:30.677Z",
+    "body": "林口將新增3.8公頃休憩空間於滯洪公園，動土時納入無障礙設計，以確保殘障人士的無障礙使用。\n\n原文來源： [Yahoo新聞](https://tw.news.yahoo.com/%E6%9E%97%E5%8F%A3%E5%86%8D%E6%B7%BB3-8%E5%85%AC%E9%A0%83%E4%BC%91%E6%86%A9%E7%A9%BA%E9%96%93-%E6%BB%AF%E6%B4%AA%E5%85%AC%E5%9C%92%E5%8B%95%E5%9C%9F%E7%B4%8D%E5%85%A5%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A8%AD%E8%A8%88-070544751.html)"
+  },
+  {
+    "title": "林口再添3.8公頃休憩空間 滯洪公園動土納入無障礙設計 - Life 生活網",
+    "slug": "linkou-adds-38-hectares-of-rest-space-detention-park-groundbreaking-includes-acc-zh-27da8e42",
+    "lang": "zh-TW",
+    "summary": "林口新增3.8公頃休憩空間，滯洪公園動工時已納入無障礙設計，確保公園設施對殘障者友善。",
+    "category": "physical-design",
+    "tags": [
+      "park",
+      "urban-planning",
+      "accessibility"
+    ],
+    "sourceName": "Life 生活網",
+    "sourceUrl": "https://life.tw/article/%E6%9E%97%E5%8F%A3%E5%86%8D%E6%B7%BB38%E5%85%AC%E9%A0%83%E4%BC%91%E6%86%A9%E7%A9%BA%E9%96%93-%E6%BB%AF%E6%B4%AA%E5%85%AC%E5%9C%92%E5%8B%95%E5%9C%9F%E7%B4%8D%E5%85%A5%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A8%AD%E8%A8%88-3194352",
+    "relatedSources": [
+      {
+        "name": "Life 生活網",
+        "url": "https://life.tw/article/%E6%9E%97%E5%8F%A3%E5%86%8D%E6%B7%BB38%E5%85%AC%E9%A0%83%E4%BC%91%E6%86%A9%E7%A9%BA%E9%96%93-%E6%BB%AF%E6%B4%AA%E5%85%AC%E5%9C%92%E5%8B%95%E5%9C%9F%E7%B4%8D%E5%85%A5%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A8%AD%E8%A8%88-3194352"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-27da8e42",
+    "status": "published",
+    "translationOf": "linkou-adds-38-hectares-of-rest-space-detention-park-groundbreaking-includes-acc-27da8e42",
+    "publishedAt": "2026-10-27T07:05:44.000Z",
+    "fetchedAt": "2026-10-27T14:32:46.587Z",
+    "body": "林口新增3.8公頃休憩空間，滯洪公園動工時已納入無障礙設計，確保公園設施對殘障者友善。\n\n原文來源： [Life 生活網](https://life.tw/article/%E6%9E%97%E5%8F%A3%E5%86%8D%E6%B7%BB38%E5%85%AC%E9%A0%83%E4%BC%91%E6%86%A9%E7%A9%BA%E9%96%93-%E6%BB%AF%E6%B4%AA%E5%85%AC%E5%9C%92%E5%8B%95%E5%9C%9F%E7%B4%8D%E5%85%A5%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A8%AD%E8%A8%88-3194352)"
+  },
+  {
+    "title": "投票指南發布，突顯殘障人士權利",
+    "slug": "voting-guide-released-highlighting-rights-for-persons-with-disabilities-zh-18fc0f68",
+    "lang": "zh-TW",
+    "summary": "Bazelon 心理健康法律中心與全國殘障權益網絡及麥德莫特威爾及舒爾特律師事務所合作，發布更新版投票權指南，著重於精神健康、智力障礙、自閉症及認知障礙人士的投票權利。",
+    "category": "laws-rights",
+    "tags": [
+      "voting",
+      "rights",
+      "disability"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/10/27/misc/voting-guide-released-highlighting-rights-for-persons-with-disabilities",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/10/27/misc/voting-guide-released-highlighting-rights-for-persons-with-disabilities"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-18fc0f68",
+    "status": "published",
+    "translationOf": "voting-guide-released-highlighting-rights-for-persons-with-disabilities-18fc0f68",
+    "publishedAt": "2026-10-27T05:25:59.000Z",
+    "fetchedAt": "2026-10-27T14:32:46.720Z",
+    "body": "Bazelon 心理健康法律中心與全國殘障權益網絡及麥德莫特威爾及舒爾特律師事務所合作，發布更新版投票權指南，著重於精神健康、智力障礙、自閉症及認知障礙人士的投票權利。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/10/27/misc/voting-guide-released-highlighting-rights-for-persons-with-disabilities)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-zh-1464ab84",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/news/ng-interactive/2026/oct/27/would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-human-perfection",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/27/would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-human-perfection"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-1464ab84",
+    "status": "draft",
+    "translationOf": "would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-1464ab84",
+    "publishedAt": "2026-10-27T05:00:04.000Z",
+    "fetchedAt": "2026-10-27T14:32:52.931Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://www.theguardian.com/news/ng-interactive/2026/oct/27/would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-human-perfection)"
+  },
+  {
+    "title": "EDF決議：捍衛AgoraEU預算",
+    "slug": "edf-resolution-defending-the-budget-of-agoraeu-zh-eb773742",
+    "lang": "zh-TW",
+    "summary": "歐洲殘疾人論壇在都柏林的理事會通過決議，捍衛AgoraEU的預算，確保殘疾人倡導與無障礙工作的資金。",
+    "category": "laws-rights",
+    "tags": [
+      "EDF",
+      "AgoraEU",
+      "budget",
+      "disability advocacy"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.edf-feph.org/edf-resolution-defending-the-budget-of-agoraeu",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.edf-feph.org/edf-resolution-defending-the-budget-of-agoraeu"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.edf-feph.org/feed",
+    "ingestProvider": "edf-feph.org",
+    "clusterId": "cluster-eb773742",
+    "status": "published",
+    "translationOf": "edf-resolution-defending-the-budget-of-agoraeu-eb773742",
+    "publishedAt": "2026-10-27T14:10:02.000Z",
+    "fetchedAt": "2026-10-27T14:32:53.053Z",
+    "body": "歐洲殘疾人論壇在都柏林的理事會通過決議，捍衛AgoraEU的預算，確保殘疾人倡導與無障礙工作的資金。\n\n原文來源： [Unknown source](https://www.edf-feph.org/edf-resolution-defending-the-budget-of-agoraeu)"
+  },
+  {
+    "title": "殘疾人跨黨派小組審視關鍵殘疾權利優先事項",
+    "slug": "disability-intergroup-reviews-key-disability-rights-priorities-zh-f6750503",
+    "lang": "zh-TW",
+    "summary": "殘疾人跨黨派小組成員開會，呼籲加強殘疾權利的執行，重點討論增強殘疾權利策略以及未來聯絡國老年人權利公約的進展。",
+    "category": "laws-rights",
+    "tags": [
+      "Disability Intergroup",
+      "disability rights",
+      "Enhanced Disability Rights Strategy",
+      "UN Convention",
+      "Older Persons"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.edf-feph.org/disability-intergroup-reviews-key-disability-rights-priorities",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.edf-feph.org/disability-intergroup-reviews-key-disability-rights-priorities"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.edf-feph.org/feed",
+    "ingestProvider": "edf-feph.org",
+    "clusterId": "cluster-f6750503",
+    "status": "published",
+    "translationOf": "disability-intergroup-reviews-key-disability-rights-priorities-f6750503",
+    "publishedAt": "2026-10-27T11:26:21.000Z",
+    "fetchedAt": "2026-10-27T14:32:53.154Z",
+    "body": "殘疾人跨黨派小組成員開會，呼籲加強殘疾權利的執行，重點討論增強殘疾權利策略以及未來聯絡國老年人權利公約的進展。\n\n原文來源： [Unknown source](https://www.edf-feph.org/disability-intergroup-reviews-key-disability-rights-priorities)"
+  },
+  {
+    "title": "泰米爾納杜將建築高度限制提高至19.5米，放寬陳奈含水層區的規定",
+    "slug": "tamil-nadu-raises-building-height-limit-to-195m-eases-norms-in-chennai-aquifer-z-zh-ab19d148",
+    "lang": "zh-TW",
+    "summary": "泰米爾納杜政府修訂建築法規，將可容許的建築高度提高至19.5公尺，並放寬陳奈含水層區的規範，同時新增對殘障人士、長者及兒童的無障礙設施條款。",
+    "category": "physical-design",
+    "tags": [
+      "building codes",
+      "disability access",
+      "urban planning"
+    ],
+    "sourceName": "The Times of India",
+    "sourceUrl": "https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-raises-building-height-limit-to-19-5m-eases-norms-in-chennai-aquifer-zone/articleshow/135213246.cms",
+    "relatedSources": [
+      {
+        "name": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-raises-building-height-limit-to-19-5m-eases-norms-in-chennai-aquifer-zone/articleshow/135213246.cms"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-ab19d148",
+    "status": "published",
+    "translationOf": "tamil-nadu-raises-building-height-limit-to-195m-eases-norms-in-chennai-aquifer-z-ab19d148",
+    "publishedAt": "2026-10-26T13:40:00.000Z",
+    "fetchedAt": "2026-10-27T14:32:59.351Z",
+    "body": "泰米爾納杜政府修訂建築法規，將可容許的建築高度提高至19.5公尺，並放寬陳奈含水層區的規範，同時新增對殘障人士、長者及兒童的無障礙設施條款。\n\n原文來源： [The Times of India](https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-raises-building-height-limit-to-19-5m-eases-norms-in-chennai-aquifer-zone/articleshow/135213246.cms)"
+  },
+  {
+    "title": "金鐘獎新增手勢傳語服務 協助視障者頒獎致詞",
+    "slug": "golden-bell-awards-introduces-handgesture-service-for-visually-impaired-speakers-zh-9c7a7fe5",
+    "lang": "zh-TW",
+    "summary": "在第61屆金鐘獎節目類頒獎典禮中，《極樂世界之好好出門》製作團隊在頒獎台側以雙手不斷指點的方式，將講稿即時傳達給視障講者，此為金鐘獎今年新增的無障礙服務。",
+    "category": "assistive-tech",
+    "tags": [
+      "visual impairment",
+      "Golden Bell Awards",
+      "accessibility service",
+      "hand gesture"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E5%9C%98%E9%9A%8A%E8%87%B4%E8%A9%9E-%E9%9B%99%E6%89%8B%E5%9C%A8%E8%83%8C%E5%BE%8C%E9%BB%9E%E9%BB%9E%E9%BB%9E-%E8%83%8C%E5%BE%8C%E6%84%9F%E4%BA%BA%E7%9C%9F%E7%9B%B8%E6%9B%9D%E5%85%89-%E7%B6%B2%E5%8F%8B%E5%85%A8%E7%9C%8B%E5%93%AD-020100489.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E5%9C%98%E9%9A%8A%E8%87%B4%E8%A9%9E-%E9%9B%99%E6%89%8B%E5%9C%A8%E8%83%8C%E5%BE%8C%E9%BB%9E%E9%BB%9E%E9%BB%9E-%E8%83%8C%E5%BE%8C%E6%84%9F%E4%BA%BA%E7%9C%9F%E7%9B%B8%E6%9B%9D%E5%85%89-%E7%B6%B2%E5%8F%8B%E5%85%A8%E7%9C%8B%E5%93%AD-020100489.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-9c7a7fe5",
+    "status": "published",
+    "translationOf": "golden-bell-awards-introduces-handgesture-service-for-visually-impaired-speakers-9c7a7fe5",
+    "publishedAt": "2026-10-26T02:01:00.000Z",
+    "fetchedAt": "2026-10-27T14:33:05.911Z",
+    "body": "在第61屆金鐘獎節目類頒獎典禮中，《極樂世界之好好出門》製作團隊在頒獎台側以雙手不斷指點的方式，將講稿即時傳達給視障講者，此為金鐘獎今年新增的無障礙服務。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%9C%98%E9%9A%8A%E8%87%B4%E8%A9%9E-%E9%9B%99%E6%89%8B%E5%9C%A8%E8%83%8C%E5%BE%8C%E9%BB%9E%E9%BB%9E%E9%BB%9E-%E8%83%8C%E5%BE%8C%E6%84%9F%E4%BA%BA%E7%9C%9F%E7%9B%B8%E6%9B%9D%E5%85%89-%E7%B6%B2%E5%8F%8B%E5%85%A8%E7%9C%8B%E5%93%AD-020100489.html)"
   }
 ]
