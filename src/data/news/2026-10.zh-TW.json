@@ -100892,5 +100892,368 @@
     "publishedAt": "2026-10-26T17:36:30.000Z",
     "fetchedAt": "2026-10-27T21:20:14.423Z",
     "body": "一個結合無頭瀏覽器會話橋接與無障礙 DOM 檢查工具的套件，旨在協助 AI 代理進行網頁無障礙測試與改進。\n\n原文來源： [Pypi.org](https://pypi.org/project/browserbridge-mcp/1.0.2)"
+  },
+  {
+    "title": "Ishaan Mehta 談四肢癱瘓、口控搖桿及在 LinkedIn 的職業生涯",
+    "slug": "ishaan-mehta-on-quadriplegia-a-mouth-joystick-and-a-career-at-linkedin-zh-59aa981c",
+    "lang": "zh-TW",
+    "summary": "Ishaan Mehta 在 2016 年一次意外導致四肢癱瘓，當時他在 Vodafone 工作。如今他在 LinkedIn 工作，使用口控式觸控筆操作手機，以及 sip‑and‑puff 口控搖桿操作筆記型電腦。他在維也納的 Zero Project 大會上分享了他的經驗。",
+    "category": "assistive-tech",
+    "tags": [
+      "quadriplegia",
+      "mouth joystick",
+      "assistive technology"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/ishaan-mehta-on-quadriplegia-a-mouth-joystick-and-a-career-at-linkedin",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/ishaan-mehta-on-quadriplegia-a-mouth-joystick-and-a-career-at-linkedin"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-59aa981c",
+    "status": "published",
+    "translationOf": "ishaan-mehta-on-quadriplegia-a-mouth-joystick-and-a-career-at-linkedin-59aa981c",
+    "publishedAt": "2026-10-27T18:49:18.000Z",
+    "fetchedAt": "2026-10-27T21:23:42.805Z",
+    "body": "Ishaan Mehta 在 2016 年一次意外導致四肢癱瘓，當時他在 Vodafone 工作。如今他在 LinkedIn 工作，使用口控式觸控筆操作手機，以及 sip‑and‑puff 口控搖桿操作筆記型電腦。他在維也納的 Zero Project 大會上分享了他的經驗。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/ishaan-mehta-on-quadriplegia-a-mouth-joystick-and-a-career-at-linkedin)"
+  },
+  {
+    "title": "d’Vinci Interactive 與 National Organization on Disability 因 EnAble Learning 獲獎",
+    "slug": "dvinci-interactive-and-the-national-organization-on-disability-receive-awards-fo-zh-8da3a2c5",
+    "lang": "zh-TW",
+    "summary": "d’Vinci Interactive 與 National Organization on Disability（NOD）憑藉 EnAble Learning 數位學習方案獲得銀色 W3 與 Davey 獎項，該方案協助組織打造更無障礙且具包容性的工作場所。",
+    "category": "digital-a11y",
+    "tags": [
+      "digital accessibility",
+      "workplace inclusion",
+      "awards"
+    ],
+    "sourceName": "nod.org",
+    "sourceUrl": "https://nod.org/news/dvinci-interactive-and-the-national-organization-on-disability-receive-awards",
+    "relatedSources": [
+      {
+        "name": "nod.org",
+        "url": "https://nod.org/news/dvinci-interactive-and-the-national-organization-on-disability-receive-awards"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://nod.org/feed",
+    "ingestProvider": "nod.org",
+    "clusterId": "cluster-8da3a2c5",
+    "status": "published",
+    "translationOf": "dvinci-interactive-and-the-national-organization-on-disability-receive-awards-fo-8da3a2c5",
+    "publishedAt": "2026-10-27T15:30:21.000Z",
+    "fetchedAt": "2026-10-27T21:23:42.928Z",
+    "body": "d’Vinci Interactive 與 National Organization on Disability（NOD）憑藉 EnAble Learning 數位學習方案獲得銀色 W3 與 Davey 獎項，該方案協助組織打造更無障礙且具包容性的工作場所。\n\n原文來源： [nod.org](https://nod.org/news/dvinci-interactive-and-the-national-organization-on-disability-receive-awards)"
+  },
+  {
+    "title": "NEMA AI 的 Nidhi 談 EEG 大腦篩檢用於痴呆、ADHD 與自閉症",
+    "slug": "nema-ais-nidhi-on-eeg-brain-screening-for-dementia-adhd-and-autism-zh-d04c3252",
+    "lang": "zh-TW",
+    "summary": "NEMA AI 創辦人 Nidhi 說明如何將 EEG 檢測與人工智慧結合，提前數年偵測失智症、ADHD 與自閉症的早期徵象，說明檢驗流程、成本，以及為何報告僅提供給醫師而不直接給受檢者。",
+    "category": "assistive-tech",
+    "tags": [
+      "EEG",
+      "AI",
+      "screening",
+      "dementia",
+      "ADHD",
+      "autism",
+      "brain mapping"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/nema-ais-nidhi-on-eeg-brain-screening-for-dementia-adhd-and-autism",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/nema-ais-nidhi-on-eeg-brain-screening-for-dementia-adhd-and-autism"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-d04c3252",
+    "status": "published",
+    "translationOf": "nema-ais-nidhi-on-eeg-brain-screening-for-dementia-adhd-and-autism-d04c3252",
+    "publishedAt": "2026-10-27T18:45:50.000Z",
+    "fetchedAt": "2026-10-27T21:23:53.899Z",
+    "body": "NEMA AI 創辦人 Nidhi 說明如何將 EEG 檢測與人工智慧結合，提前數年偵測失智症、ADHD 與自閉症的早期徵象，說明檢驗流程、成本，以及為何報告僅提供給醫師而不直接給受檢者。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/nema-ais-nidhi-on-eeg-brain-screening-for-dementia-adhd-and-autism)"
+  },
+  {
+    "title": "印度 Youth4Jobs：Nand Kishore 談殘障人士就業",
+    "slug": "youth4jobs-in-india-nand-kishore-on-getting-disabled-people-hired-zh-8bd4a34b",
+    "lang": "zh-TW",
+    "summary": "Youth4Jobs 基金會的 Nand Kishore 說明如何改變僱主對殘障的偏見，分享他自身在脊髓損傷後重返職場的經驗，並介紹職前培訓如何協助殘障求職者獲得工作。",
+    "category": "case-studies",
+    "tags": [
+      "disability employment",
+      "India",
+      "Youth4Jobs",
+      "spinal cord injury",
+      "job training",
+      "employer bias"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/youth4jobs-in-india-nand-kishore-on-getting-disabled-people-hired",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/youth4jobs-in-india-nand-kishore-on-getting-disabled-people-hired"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-8bd4a34b",
+    "status": "published",
+    "translationOf": "youth4jobs-in-india-nand-kishore-on-getting-disabled-people-hired-8bd4a34b",
+    "publishedAt": "2026-10-27T18:45:41.000Z",
+    "fetchedAt": "2026-10-27T21:23:54.039Z",
+    "body": "Youth4Jobs 基金會的 Nand Kishore 說明如何改變僱主對殘障的偏見，分享他自身在脊髓損傷後重返職場的經驗，並介紹職前培訓如何協助殘障求職者獲得工作。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/youth4jobs-in-india-nand-kishore-on-getting-disabled-people-hired)"
+  },
+  {
+    "title": "薩姆巴維·昌德拉謝卡談無障礙設計與印度無障礙發展熱潮",
+    "slug": "dr-sambhavi-chandrashekar-on-inclusive-design-and-indias-accessibility-boom-zh-fa483c7a",
+    "lang": "zh-TW",
+    "summary": "探討無障礙設計趨勢如何推動印度在各領域的無障礙發展。",
+    "category": "general",
+    "tags": [
+      "inclusive design",
+      "India"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/dr-sambhavi-chandrashekar-on-inclusive-design-and-indias-accessibility-boom",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/dr-sambhavi-chandrashekar-on-inclusive-design-and-indias-accessibility-boom"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-fa483c7a",
+    "status": "published",
+    "translationOf": "dr-sambhavi-chandrashekar-on-inclusive-design-and-indias-accessibility-boom-fa483c7a",
+    "publishedAt": "2026-10-27T18:44:58.000Z",
+    "fetchedAt": "2026-10-27T21:24:03.003Z",
+    "body": "探討無障礙設計趨勢如何推動印度在各領域的無障礙發展。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/dr-sambhavi-chandrashekar-on-inclusive-design-and-indias-accessibility-boom)"
+  },
+  {
+    "title": "切坦·夏爾馬談專為印度盲女性設計的無障礙孕測應用",
+    "slug": "chetan-sharma-on-an-accessible-pregnancy-test-app-for-blind-women-in-india-zh-6bb117d2",
+    "lang": "zh-TW",
+    "summary": "描述一款專為盲女性設計的孕測手機應用，提供語音引導和觸覺回饋，使其能夠獨立使用。",
+    "category": "assistive-tech",
+    "tags": [
+      "pregnancy test",
+      "blind",
+      "mobile app"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/chetan-sharma-on-an-accessible-pregnancy-test-app-for-blind-women-in-india",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/chetan-sharma-on-an-accessible-pregnancy-test-app-for-blind-women-in-india"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-6bb117d2",
+    "status": "published",
+    "translationOf": "chetan-sharma-on-an-accessible-pregnancy-test-app-for-blind-women-in-india-6bb117d2",
+    "publishedAt": "2026-10-27T18:43:23.000Z",
+    "fetchedAt": "2026-10-27T21:24:03.087Z",
+    "body": "描述一款專為盲女性設計的孕測手機應用，提供語音引導和觸覺回饋，使其能夠獨立使用。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/chetan-sharma-on-an-accessible-pregnancy-test-app-for-blind-women-in-india)"
+  },
+  {
+    "title": "大衛·班尼斯談人工智慧、輔助技術與零項目科技論壇",
+    "slug": "david-banes-on-ai-assistive-tech-and-the-zero-project-tech-forum-zh-b690e146",
+    "lang": "zh-TW",
+    "summary": "強調人工智慧與輔助技術的發展速度快於資金與採購系統，根據零項目科技論壇的見解。",
+    "category": "assistive-tech",
+    "tags": [
+      "AI",
+      "assistive technology",
+      "Zero Project"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/david-banes-on-ai-assistive-tech-and-the-zero-project-tech-forum",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/david-banes-on-ai-assistive-tech-and-the-zero-project-tech-forum"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-b690e146",
+    "status": "published",
+    "translationOf": "david-banes-on-ai-assistive-tech-and-the-zero-project-tech-forum-b690e146",
+    "publishedAt": "2026-10-27T18:43:06.000Z",
+    "fetchedAt": "2026-10-27T21:24:03.167Z",
+    "body": "強調人工智慧與輔助技術的發展速度快於資金與採購系統，根據零項目科技論壇的見解。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/david-banes-on-ai-assistive-tech-and-the-zero-project-tech-forum)"
+  },
+  {
+    "title": "Buddy Up Network：殘障與神經多樣人士的友誼應用程式",
+    "slug": "buddy-up-network-the-friendship-app-for-disabled-and-neurodivergent-people-zh-9aa483c8",
+    "lang": "zh-TW",
+    "summary": "由孟買兩位母親創建的友誼應用程式，旨在連結殘障與神經多樣人士，強調安全性以及常被忽視的殘障支援社會層面。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "friendship",
+      "disability",
+      "neurodivergent",
+      "app"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/buddy-up-network-the-friendship-app-for-disabled-and-neurodivergent-people",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/buddy-up-network-the-friendship-app-for-disabled-and-neurodivergent-people"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-9aa483c8",
+    "status": "published",
+    "translationOf": "buddy-up-network-the-friendship-app-for-disabled-and-neurodivergent-people-9aa483c8",
+    "publishedAt": "2026-10-27T18:38:31.000Z",
+    "fetchedAt": "2026-10-27T21:24:13.978Z",
+    "body": "由孟買兩位母親創建的友誼應用程式，旨在連結殘障與神經多樣人士，強調安全性以及常被忽視的殘障支援社會層面。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/buddy-up-network-the-friendship-app-for-disabled-and-neurodivergent-people)"
+  },
+  {
+    "title": "Picstry AI：使用姓名的照片描述，訪談 Sourabh Yadav",
+    "slug": "picstry-ai-photo-descriptions-that-use-names-with-sourabh-yadav-zh-11c40fbb",
+    "lang": "zh-TW",
+    "summary": "視障創辦人 Sourabh Yadav 說明 Picstry AI 如何在設備端進行人臉辨識，提供以個人姓名為基礎的照片描述，使視障使用者能重新瀏覽自己的相冊。",
+    "category": "assistive-tech",
+    "tags": [
+      "AI",
+      "photo description",
+      "visually impaired",
+      "accessibility"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/picstry-ai-photo-descriptions-that-use-names-with-sourabh-yadav",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/picstry-ai-photo-descriptions-that-use-names-with-sourabh-yadav"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-11c40fbb",
+    "status": "published",
+    "translationOf": "picstry-ai-photo-descriptions-that-use-names-with-sourabh-yadav-11c40fbb",
+    "publishedAt": "2026-10-27T18:36:33.000Z",
+    "fetchedAt": "2026-10-27T21:24:14.068Z",
+    "body": "視障創辦人 Sourabh Yadav 說明 Picstry AI 如何在設備端進行人臉辨識，提供以個人姓名為基礎的照片描述，使視障使用者能重新瀏覽自己的相冊。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/picstry-ai-photo-descriptions-that-use-names-with-sourabh-yadav)"
+  },
+  {
+    "title": "零計畫孟買：Neha Soneji 談協助輔具技術與資金對接",
+    "slug": "zero-project-mumbai-neha-soneji-on-pairing-assistive-tech-with-funders-zh-53ddd92e",
+    "lang": "zh-TW",
+    "summary": "Tech Mahindra 基金會的 Neha Soneji 說明 Zero Project 技術論壇在孟買如何將十位殘障創新者與二十五位潛在資金方配對，並敘述活動安排、展示內容及參與者獲得的成果。",
+    "category": "case-studies",
+    "tags": [
+      "Zero Project",
+      "assistive tech",
+      "funding",
+      "innovation"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/zero-project-mumbai-neha-soneji-on-pairing-assistive-tech-with-funders",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/zero-project-mumbai-neha-soneji-on-pairing-assistive-tech-with-funders"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-53ddd92e",
+    "status": "published",
+    "translationOf": "zero-project-mumbai-neha-soneji-on-pairing-assistive-tech-with-funders-53ddd92e",
+    "publishedAt": "2026-10-27T18:35:20.000Z",
+    "fetchedAt": "2026-10-27T21:24:14.148Z",
+    "body": "Tech Mahindra 基金會的 Neha Soneji 說明 Zero Project 技術論壇在孟買如何將十位殘障創新者與二十五位潛在資金方配對，並敘述活動安排、展示內容及參與者獲得的成果。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/zero-project-mumbai-neha-soneji-on-pairing-assistive-tech-with-funders)"
+  },
+  {
+    "title": "普拉尚特·蘭詹·維爾瑪談印度電話有聲書圖書館",
+    "slug": "prashant-ranjan-verma-on-shravan-indias-audiobook-library-over-a-phone-call-zh-347c6209",
+    "lang": "zh-TW",
+    "summary": "Shravan IVR 有聲圖書館透過任何電話提供約 4,000 本可供無障礙使用的有聲書、報刊及政府資訊，無需網路或智慧型手機。全盲人協會德里分會的普拉尚特·蘭詹·維爾瑪說明服務如何運作、其覆蓋範圍，並提到由盲女性經營的兩家德里咖啡館 Cafe Beyond Eyes。",
+    "category": "assistive-tech",
+    "tags": [
+      "audiobook",
+      "IVR",
+      "blind",
+      "telephone access",
+      "India"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/prashant-ranjan-verma-on-shravan-indias-audiobook-library-over-a-phone-call",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/prashant-ranjan-verma-on-shravan-indias-audiobook-library-over-a-phone-call"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-347c6209",
+    "status": "published",
+    "translationOf": "prashant-ranjan-verma-on-shravan-indias-audiobook-library-over-a-phone-call-347c6209",
+    "publishedAt": "2026-10-27T18:33:46.000Z",
+    "fetchedAt": "2026-10-27T21:24:20.558Z",
+    "body": "Shravan IVR 有聲圖書館透過任何電話提供約 4,000 本可供無障礙使用的有聲書、報刊及政府資訊，無需網路或智慧型手機。全盲人協會德里分會的普拉尚特·蘭詹·維爾瑪說明服務如何運作、其覆蓋範圍，並提到由盲女性經營的兩家德里咖啡館 Cafe Beyond Eyes。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/prashant-ranjan-verma-on-shravan-indias-audiobook-library-over-a-phone-call)"
   }
 ]
