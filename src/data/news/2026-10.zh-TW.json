@@ -100396,5 +100396,501 @@
     "publishedAt": "2026-10-27T10:01:03.000Z",
     "fetchedAt": "2026-10-27T16:04:43.361Z",
     "body": "吉達殘障俱樂部舉行慶祝活動，表彰在即將舉行的2026年名古屋帕林匹克運動會中取得佳績的運動員，展示了肢體殘障人士在國際體育競賽中的成就。\n\n原文來源： [news.google.com](https://ahwal.sa/archives/282042)"
+  },
+  {
+    "title": "2026 年內華達日遊行將提供無障礙停車、座位和廁所",
+    "slug": "accessible-parking-seating-and-restrooms-announced-for-2026-nevada-day-parade-zh-4af5abb3",
+    "lang": "zh-TW",
+    "summary": "官方宣布，2026 年內華達日遊行將設置無障礙停車場、座位區和廁所，以便殘障人士參與。",
+    "category": "physical-design",
+    "tags": [
+      "parking",
+      "seating",
+      "restrooms",
+      "Nevada Day Parade",
+      "accessibility"
+    ],
+    "sourceName": "Carson Now",
+    "sourceUrl": "https://www.carsonnow.org/10/27/2026/accessible-parking-seating-and-restrooms-announced-for-2026-nevada-day-parade",
+    "relatedSources": [
+      {
+        "name": "Carson Now",
+        "url": "https://www.carsonnow.org/10/27/2026/accessible-parking-seating-and-restrooms-announced-for-2026-nevada-day-parade"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-4af5abb3",
+    "status": "published",
+    "translationOf": "accessible-parking-seating-and-restrooms-announced-for-2026-nevada-day-parade-4af5abb3",
+    "publishedAt": "2026-10-27T16:30:06.000Z",
+    "fetchedAt": "2026-10-27T21:19:38.591Z",
+    "body": "官方宣布，2026 年內華達日遊行將設置無障礙停車場、座位區和廁所，以便殘障人士參與。\n\n原文來源： [Carson Now](https://www.carsonnow.org/10/27/2026/accessible-parking-seating-and-restrooms-announced-for-2026-nevada-day-parade)"
+  },
+  {
+    "title": "學生視角：如何改善學生無障礙環境",
+    "slug": "how-we-can-improve-student-accessibility-a-student-perspective-zh-581f8bc8",
+    "lang": "zh-TW",
+    "summary": "一名學生分享了改善校園無障礙設施的看法，著重於為有殘疾的同學提供便利。",
+    "category": "general",
+    "tags": [
+      "student",
+      "accessibility",
+      "campus",
+      "opinion",
+      "disability"
+    ],
+    "sourceName": "The Lion's Roar Newspaper",
+    "sourceUrl": "https://lionsroarnews.com/43140/opinion-how-we-can-improve-student-accessibility-a-student-perspective/opinion",
+    "relatedSources": [
+      {
+        "name": "The Lion's Roar Newspaper",
+        "url": "https://lionsroarnews.com/43140/opinion-how-we-can-improve-student-accessibility-a-student-perspective/opinion"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-581f8bc8",
+    "status": "published",
+    "translationOf": "how-we-can-improve-student-accessibility-a-student-perspective-581f8bc8",
+    "publishedAt": "2026-10-27T15:30:59.000Z",
+    "fetchedAt": "2026-10-27T21:19:38.733Z",
+    "body": "一名學生分享了改善校園無障礙設施的看法，著重於為有殘疾的同學提供便利。\n\n原文來源： [The Lion's Roar Newspaper](https://lionsroarnews.com/43140/opinion-how-we-can-improve-student-accessibility-a-student-perspective/opinion)"
+  },
+  {
+    "title": "學生對校巴士可靠性及無障礙設施提出關注",
+    "slug": "students-raise-concerns-about-campus-bus-reliability-accessibility-zh-be857d30",
+    "lang": "zh-TW",
+    "summary": "學生反映校巴士不穩定且缺乏適合殘障乘客的無障礙設施。",
+    "category": "physical-design",
+    "tags": [
+      "campus bus",
+      "transportation",
+      "accessibility",
+      "reliability",
+      "disability"
+    ],
+    "sourceName": "The Daily Beacon",
+    "sourceUrl": "https://utdailybeacon.com/215682/arts-and-culture/students-raise-concerns-about-campus-bus-reliability-accessibility",
+    "relatedSources": [
+      {
+        "name": "The Daily Beacon",
+        "url": "https://utdailybeacon.com/215682/arts-and-culture/students-raise-concerns-about-campus-bus-reliability-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-be857d30",
+    "status": "published",
+    "translationOf": "students-raise-concerns-about-campus-bus-reliability-accessibility-be857d30",
+    "publishedAt": "2026-10-27T20:06:45.000Z",
+    "fetchedAt": "2026-10-27T21:19:38.842Z",
+    "body": "學生反映校巴士不穩定且缺乏適合殘障乘客的無障礙設施。\n\n原文來源： [The Daily Beacon](https://utdailybeacon.com/215682/arts-and-culture/students-raise-concerns-about-campus-bus-reliability-accessibility)"
+  },
+  {
+    "title": "迪士尼郵輪公司展示了即將推出的無障礙改善措施",
+    "slug": "disney-cruise-line-shares-a-look-at-new-accessibility-enhancements-for-guests-zh-5879cbb8",
+    "lang": "zh-TW",
+    "summary": "迪士尼郵輪公司展示了即將推出的無障礙改善措施，包括升級輪椅友好客房、加強視聽輔助設備以及員工培訓，以更好地服務殘疾賓客。",
+    "category": "physical-design",
+    "tags": [
+      "Disney Cruise Line",
+      "ship accessibility",
+      "wheelchair access",
+      "visual aids",
+      "auditory aids",
+      "staff training"
+    ],
+    "sourceName": "The Disney Cruise Line Blog",
+    "sourceUrl": "https://disneycruiselineblog.com/2026/10/disney-cruise-line-shares-a-look-at-new-accessibility-enhancements-for-guests",
+    "relatedSources": [
+      {
+        "name": "The Disney Cruise Line Blog",
+        "url": "https://disneycruiselineblog.com/2026/10/disney-cruise-line-shares-a-look-at-new-accessibility-enhancements-for-guests"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5879cbb8",
+    "status": "published",
+    "translationOf": "disney-cruise-line-shares-a-look-at-new-accessibility-enhancements-for-guests-5879cbb8",
+    "publishedAt": "2026-10-27T15:06:04.000Z",
+    "fetchedAt": "2026-10-27T21:19:47.568Z",
+    "body": "迪士尼郵輪公司展示了即將推出的無障礙改善措施，包括升級輪椅友好客房、加強視聽輔助設備以及員工培訓，以更好地服務殘疾賓客。\n\n原文來源： [The Disney Cruise Line Blog](https://disneycruiselineblog.com/2026/10/disney-cruise-line-shares-a-look-at-new-accessibility-enhancements-for-guests)"
+  },
+  {
+    "title": "迪士尼郵輪宣布在全艦隊範圍內推出新無障礙功能",
+    "slug": "disney-cruise-line-adds-new-accessibility-features-fleetwide-zh-e03e75a9",
+    "lang": "zh-TW",
+    "summary": "迪士尼郵輪宣布在全艦隊範圍內推出新無障礙功能，包括較寬的門口、可調整床鋪、觸覺標誌及改進的助聽系統。",
+    "category": "physical-design",
+    "tags": [
+      "Disney Cruise Line",
+      "fleet‑wide",
+      "accessibility features",
+      "doorway width",
+      "adjustable beds",
+      "tactile signage",
+      "assistive listening"
+    ],
+    "sourceName": "DCL Fan",
+    "sourceUrl": "https://dclfan.com/news/disney-cruise-line-adds-new-accessibility-features-fleetwide",
+    "relatedSources": [
+      {
+        "name": "DCL Fan",
+        "url": "https://dclfan.com/news/disney-cruise-line-adds-new-accessibility-features-fleetwide"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e03e75a9",
+    "status": "published",
+    "translationOf": "disney-cruise-line-adds-new-accessibility-features-fleetwide-e03e75a9",
+    "publishedAt": "2026-10-27T16:15:41.000Z",
+    "fetchedAt": "2026-10-27T21:19:47.711Z",
+    "body": "迪士尼郵輪宣布在全艦隊範圍內推出新無障礙功能，包括較寬的門口、可調整床鋪、觸覺標誌及改進的助聽系統。\n\n原文來源： [DCL Fan](https://dclfan.com/news/disney-cruise-line-adds-new-accessibility-features-fleetwide)"
+  },
+  {
+    "title": "PHP2Shell 揭示數位無障礙的緊迫差距",
+    "slug": "what-php2shell-reveals-about-digital-accessibilitys-urgency-gap-zh-cc81d9ae",
+    "lang": "zh-TW",
+    "summary": "對 PHP2Shell 漏洞的分析凸顯了縮小數位無障礙落差的緊迫必要，呼籲開發者採用 WCAG 標準並優先考慮對殘疾使用者的包容性設計。",
+    "category": "digital-a11y",
+    "tags": [
+      "PHP2Shell",
+      "digital accessibility",
+      "urgency gap",
+      "WCAG",
+      "inclusive design",
+      "developers"
+    ],
+    "sourceName": "Caledonian Record",
+    "sourceUrl": "https://www.caledonianrecord.com/what-php2shell-reveals-about-digital-accessibility-s-urgency-gap/article_384d3ec2-e072-5fd7-aeca-c370a92c629e.html",
+    "relatedSources": [
+      {
+        "name": "Caledonian Record",
+        "url": "https://www.caledonianrecord.com/what-php2shell-reveals-about-digital-accessibility-s-urgency-gap/article_384d3ec2-e072-5fd7-aeca-c370a92c629e.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-cc81d9ae",
+    "status": "published",
+    "translationOf": "what-php2shell-reveals-about-digital-accessibilitys-urgency-gap-cc81d9ae",
+    "publishedAt": "2026-10-27T16:25:05.000Z",
+    "fetchedAt": "2026-10-27T21:19:47.817Z",
+    "body": "對 PHP2Shell 漏洞的分析凸顯了縮小數位無障礙落差的緊迫必要，呼籲開發者採用 WCAG 標準並優先考慮對殘疾使用者的包容性設計。\n\n原文來源： [Caledonian Record](https://www.caledonianrecord.com/what-php2shell-reveals-about-digital-accessibility-s-urgency-gap/article_384d3ec2-e072-5fd7-aeca-c370a92c629e.html)"
+  },
+  {
+    "title": "PRH 將升級電子書功能，提升後列圖書的可及性",
+    "slug": "prh-to-upgrade-e-book-features-improving-backlist-accessibility-zh-a2ffb958",
+    "lang": "zh-TW",
+    "summary": "企鵝隨機書屋計畫加強其電子書平台，添加新功能，使後列圖書對殘障讀者更具可及性。",
+    "category": "digital-a11y",
+    "tags": [
+      "ebook",
+      "digital accessibility"
+    ],
+    "sourceName": "Publishers Weekly",
+    "sourceUrl": "https://www.publishersweekly.com/pw/newsbrief/index.html?record=6073",
+    "relatedSources": [
+      {
+        "name": "Publishers Weekly",
+        "url": "https://www.publishersweekly.com/pw/newsbrief/index.html?record=6073"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a2ffb958",
+    "status": "published",
+    "translationOf": "prh-to-upgrade-e-book-features-improving-backlist-accessibility-a2ffb958",
+    "publishedAt": "2026-10-27T15:33:54.000Z",
+    "fetchedAt": "2026-10-27T21:19:53.492Z",
+    "body": "企鵝隨機書屋計畫加強其電子書平台，添加新功能，使後列圖書對殘障讀者更具可及性。\n\n原文來源： [Publishers Weekly](https://www.publishersweekly.com/pw/newsbrief/index.html?record=6073)"
+  },
+  {
+    "title": "迪士尼郵輪公司推出更多無障礙選項，以提升其業界領先的服務",
+    "slug": "disney-cruise-line-introduces-more-accessibility-options-to-their-already-indust-zh-b5b23ba6",
+    "lang": "zh-TW",
+    "summary": "迪士尼郵輪將增設改善客艙設計、岸上觀光支援和輔助技術等無障礙功能，以更好地服務殘障賓客。",
+    "category": "physical-design",
+    "tags": [
+      "cruise",
+      "travel accessibility"
+    ],
+    "sourceName": "LaughingPlace.com",
+    "sourceUrl": "https://www.laughingplace.com/disney-parks/dcl-accessibility-additions",
+    "relatedSources": [
+      {
+        "name": "LaughingPlace.com",
+        "url": "https://www.laughingplace.com/disney-parks/dcl-accessibility-additions"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-b5b23ba6",
+    "status": "published",
+    "translationOf": "disney-cruise-line-introduces-more-accessibility-options-to-their-already-indust-b5b23ba6",
+    "publishedAt": "2026-10-27T18:15:25.000Z",
+    "fetchedAt": "2026-10-27T21:19:53.622Z",
+    "body": "迪士尼郵輪將增設改善客艙設計、岸上觀光支援和輔助技術等無障礙功能，以更好地服務殘障賓客。\n\n原文來源： [LaughingPlace.com](https://www.laughingplace.com/disney-parks/dcl-accessibility-additions)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "the-guardian-view-on-supporting-carers-the-dwps-problem-is-deeper-than-it-editor-zh-95655e3d",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/27/the-guardian-view-on-supporting-carers-the-dwps-problem-is-deeper-than-it",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/27/the-guardian-view-on-supporting-carers-the-dwps-problem-is-deeper-than-it"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-95655e3d",
+    "status": "draft",
+    "translationOf": "the-guardian-view-on-supporting-carers-the-dwps-problem-is-deeper-than-it-editor-95655e3d",
+    "publishedAt": "2026-10-27T18:30:40.000Z",
+    "fetchedAt": "2026-10-27T21:20:00.499Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://www.theguardian.com/commentisfree/2026/oct/27/the-guardian-view-on-supporting-carers-the-dwps-problem-is-deeper-than-it)"
+  },
+  {
+    "title": "navigera 0.6.2 版本發布",
+    "slug": "navigera-062-released-zh-01a554c2",
+    "lang": "zh-TW",
+    "summary": "一個原生 Rust 命令列介面，用於驅動無頭 Chrome，提供存取無障礙樹、會話管理、分頁、iframe、對話框以及 JSON‑lines 服務模式，適合 AI 代理使用。",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility",
+      "headless",
+      "browser",
+      "AI",
+      "rust"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/navigera/0.6.2",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/navigera/0.6.2"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-01a554c2",
+    "status": "published",
+    "translationOf": "navigera-062-released-01a554c2",
+    "publishedAt": "2026-10-26T20:41:01.000Z",
+    "fetchedAt": "2026-10-27T21:20:00.623Z",
+    "body": "一個原生 Rust 命令列介面，用於驅動無頭 Chrome，提供存取無障礙樹、會話管理、分頁、iframe、對話框以及 JSON‑lines 服務模式，適合 AI 代理使用。\n\n原文來源： [Pypi.org](https://pypi.org/project/navigera/0.6.2)"
+  },
+  {
+    "title": "browserbridge-mcp 1.0.3 版本發布",
+    "slug": "browserbridge-mcp-103-released-zh-3d5f3800",
+    "lang": "zh-TW",
+    "summary": "一個無頭瀏覽器會話橋接工具，內含無障礙 DOM 檢查器，使 AI 代理能夠檢查並互動網頁的無障礙結構。",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility",
+      "headless",
+      "browser",
+      "AI",
+      "DOM"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/browserbridge-mcp/1.0.3",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/browserbridge-mcp/1.0.3"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-3d5f3800",
+    "status": "published",
+    "translationOf": "browserbridge-mcp-103-released-3d5f3800",
+    "publishedAt": "2026-10-26T19:15:51.000Z",
+    "fetchedAt": "2026-10-27T21:20:00.741Z",
+    "body": "一個無頭瀏覽器會話橋接工具，內含無障礙 DOM 檢查器，使 AI 代理能夠檢查並互動網頁的無障礙結構。\n\n原文來源： [Pypi.org](https://pypi.org/project/browserbridge-mcp/1.0.3)"
+  },
+  {
+    "title": "AirPods Pro 助聽器功能終於在加拿大推出，但僅限部分地區",
+    "slug": "airpods-pro-hearing-aid-finally-arrives-in-canada-but-not-everywhere-zh-57fcf0c3",
+    "lang": "zh-TW",
+    "summary": "加拿大擁有 AirPods Pro 的用戶現在可在五個省份使用耳機作為助聽器，此功能隨著蘋果聽力健康工具於 2024 年 12 月獲衛生部批准而上線。",
+    "category": "assistive-tech",
+    "tags": [
+      "hearing aid",
+      "AirPods",
+      "Canada"
+    ],
+    "sourceName": "iPhone in Canada",
+    "sourceUrl": "https://www.iphoneincanada.ca/2026/10/26/airpods-pro-hearing-aid-canada-five-provinces",
+    "relatedSources": [
+      {
+        "name": "iPhone in Canada",
+        "url": "https://www.iphoneincanada.ca/2026/10/26/airpods-pro-hearing-aid-canada-five-provinces"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-57fcf0c3",
+    "status": "published",
+    "translationOf": "airpods-pro-hearing-aid-finally-arrives-in-canada-but-not-everywhere-57fcf0c3",
+    "publishedAt": "2026-10-26T19:00:47.000Z",
+    "fetchedAt": "2026-10-27T21:20:07.551Z",
+    "body": "加拿大擁有 AirPods Pro 的用戶現在可在五個省份使用耳機作為助聽器，此功能隨著蘋果聽力健康工具於 2024 年 12 月獲衛生部批准而上線。\n\n原文來源： [iPhone in Canada](https://www.iphoneincanada.ca/2026/10/26/airpods-pro-hearing-aid-canada-five-provinces)"
+  },
+  {
+    "title": "Safari 27.2 的 WebKit 新功能",
+    "slug": "webkit-features-for-safari-272-zh-d4edb894",
+    "lang": "zh-TW",
+    "summary": "Safari 27.2 加入可自訂的選擇控件，重新命名 Grid Lanes 屬性，並修復 20 個錯誤，涵蓋無障礙、媒體、CSS 等領域。",
+    "category": "digital-a11y",
+    "tags": [
+      "Safari",
+      "WebKit",
+      "accessibility"
+    ],
+    "sourceName": "Webkit.org",
+    "sourceUrl": "https://webkit.org/blog/18515/webkit-features-for-safari-27-2",
+    "relatedSources": [
+      {
+        "name": "Webkit.org",
+        "url": "https://webkit.org/blog/18515/webkit-features-for-safari-27-2"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-d4edb894",
+    "status": "published",
+    "translationOf": "webkit-features-for-safari-272-d4edb894",
+    "publishedAt": "2026-10-26T18:30:01.000Z",
+    "fetchedAt": "2026-10-27T21:20:07.680Z",
+    "body": "Safari 27.2 加入可自訂的選擇控件，重新命名 Grid Lanes 屬性，並修復 20 個錯誤，涵蓋無障礙、媒體、CSS 等領域。\n\n原文來源： [Webkit.org](https://webkit.org/blog/18515/webkit-features-for-safari-27-2)"
+  },
+  {
+    "title": "德語和西班牙語翻譯審稿者徵求 — Accessibility Audio TTS",
+    "slug": "german-and-spanish-translation-reviewers-wanted-accessibility-audio-tts-zh-dc068465",
+    "lang": "zh-TW",
+    "summary": "App4You.dev 的 Accessibility Audio TTS 維護者 Wiktor Słomiński 正尋找流利的德語和西班牙語使用者來審查翻譯，以便提交至 GlotPress。",
+    "category": "assistive-tech",
+    "tags": [
+      "TTS",
+      "translation",
+      "accessibility",
+      "localization"
+    ],
+    "sourceName": "Wordpress.org",
+    "sourceUrl": "https://make.wordpress.org/polyglots/2026/10/26/german-and-spanish-translation-reviewers-wanted-accessibility-audio-tts",
+    "relatedSources": [
+      {
+        "name": "Wordpress.org",
+        "url": "https://make.wordpress.org/polyglots/2026/10/26/german-and-spanish-translation-reviewers-wanted-accessibility-audio-tts"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-dc068465",
+    "status": "published",
+    "translationOf": "german-and-spanish-translation-reviewers-wanted-accessibility-audio-tts-dc068465",
+    "publishedAt": "2026-10-26T18:04:50.000Z",
+    "fetchedAt": "2026-10-27T21:20:14.306Z",
+    "body": "App4You.dev 的 Accessibility Audio TTS 維護者 Wiktor Słomiński 正尋找流利的德語和西班牙語使用者來審查翻譯，以便提交至 GlotPress。\n\n原文來源： [Wordpress.org](https://make.wordpress.org/polyglots/2026/10/26/german-and-spanish-translation-reviewers-wanted-accessibility-audio-tts)"
+  },
+  {
+    "title": "browserbridge-mcp 1.0.2 無頭瀏覽器會話橋接及無障礙 DOM 檢查工具（適用於 AI 代理）",
+    "slug": "browserbridge-mcp-102-headless-browser-session-bridge-accessibility-dom-inspecto-zh-e880ee4d",
+    "lang": "zh-TW",
+    "summary": "一個結合無頭瀏覽器會話橋接與無障礙 DOM 檢查工具的套件，旨在協助 AI 代理進行網頁無障礙測試與改進。",
+    "category": "digital-a11y",
+    "tags": [
+      "headless-browser",
+      "DOM-inspector",
+      "AI-agents",
+      "accessibility-testing"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/browserbridge-mcp/1.0.2",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/browserbridge-mcp/1.0.2"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-e880ee4d",
+    "status": "published",
+    "translationOf": "browserbridge-mcp-102-headless-browser-session-bridge-accessibility-dom-inspecto-e880ee4d",
+    "publishedAt": "2026-10-26T17:36:30.000Z",
+    "fetchedAt": "2026-10-27T21:20:14.423Z",
+    "body": "一個結合無頭瀏覽器會話橋接與無障礙 DOM 檢查工具的套件，旨在協助 AI 代理進行網頁無障礙測試與改進。\n\n原文來源： [Pypi.org](https://pypi.org/project/browserbridge-mcp/1.0.2)"
   }
 ]
