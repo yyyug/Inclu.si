@@ -103263,5 +103263,110 @@
     "publishedAt": "2026-10-26T20:10:00.000Z",
     "fetchedAt": "2026-10-28T15:08:22.227Z",
     "body": "罹患失智症導致記憶障礙、認知功能退化的人，在無法控制的情況下易觸法，常見行為包括竊盜、公然侮辱、肢體衝突或交通違規。法界指出，應由司法、醫療與社會共同支持，司法應為最後手段；若不斷移送司法處罰，病人將持續被起訴、判刑，甚至可能被長期收容於司法精神醫院。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%A4%B1%E6%99%BA%E7%8A%AF%E7%BD%AA%E9%9D%9E%E6%83%A1%E6%84%8F-%E6%81%90%E9%99%B7%E5%8F%B8%E6%B3%95%E5%9B%B0%E5%A2%83-201000033.html)"
+  },
+  {
+    "title": "NDEAM 與 Aira：支援就業的無障礙優惠",
+    "slug": "ndeam-and-aira-access-offers-supporting-employment-zh-16dd9b72",
+    "lang": "zh-TW",
+    "summary": "在國家殘疾就業宣導月期間，Aira 強調其遠端視覺翻譯服務，協助盲人和低視力者在職場中導航並爭取就業機會。",
+    "category": "assistive-tech",
+    "tags": [
+      "NDEAM",
+      "Aira",
+      "blind",
+      "low vision",
+      "employment",
+      "remote interpreting"
+    ],
+    "sourceName": "aira.io",
+    "sourceUrl": "https://aira.io/ndeam-and-aira-access-offers-that-support-employment",
+    "relatedSources": [
+      {
+        "name": "aira.io",
+        "url": "https://aira.io/ndeam-and-aira-access-offers-that-support-employment"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://aira.io/feed",
+    "ingestProvider": "aira.io",
+    "clusterId": "cluster-16dd9b72",
+    "status": "published",
+    "translationOf": "ndeam-and-aira-access-offers-supporting-employment-16dd9b72",
+    "publishedAt": "2026-10-27T22:40:14.000Z",
+    "fetchedAt": "2026-10-28T15:13:24.865Z",
+    "body": "在國家殘疾就業宣導月期間，Aira 強調其遠端視覺翻譯服務，協助盲人和低視力者在職場中導航並爭取就業機會。\n\n原文來源： [aira.io](https://aira.io/ndeam-and-aira-access-offers-that-support-employment)"
+  },
+  {
+    "title": "Retro Reader、應急準備與 Withings 收費牆",
+    "slug": "retro-reader-emergency-preparedness-and-the-withings-paywall-zh-cb002717",
+    "lang": "zh-TW",
+    "summary": "Retro Reader 是一種開源口袋書閱讀器，為盲人提供經典語音輸出；文章亦討論了在斷電及網路中斷時，盲人的應急準備措施。",
+    "category": "assistive-tech",
+    "tags": [
+      "Retro Reader",
+      "speech voices",
+      "blind",
+      "emergency preparedness",
+      "power outage",
+      "internet outage"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/retro-reader-emergency-preparedness-and-the-withings-paywall-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/retro-reader-emergency-preparedness-and-the-withings-paywall-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-cb002717",
+    "status": "published",
+    "translationOf": "retro-reader-emergency-preparedness-and-the-withings-paywall-cb002717",
+    "publishedAt": "2026-10-27T16:00:28.000Z",
+    "fetchedAt": "2026-10-28T15:13:25.061Z",
+    "body": "Retro Reader 是一種開源口袋書閱讀器，為盲人提供經典語音輸出；文章亦討論了在斷電及網路中斷時，盲人的應急準備措施。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/retro-reader-emergency-preparedness-and-the-withings-paywall-2)"
+  },
+  {
+    "title": "協助盲人線上購物的虛擬試衣間",
+    "slug": "virtual-fitting-room-for-online-shopping-assists-blind-users-zh-24c6e3bd",
+    "lang": "zh-TW",
+    "summary": "Dress Aloud 是一項由 AI 驅動的虛擬試衣間，能描述服裝並匹配使用者身體照片，使盲人購物者能獨立選購衣物。",
+    "category": "assistive-tech",
+    "tags": [
+      "Dress Aloud",
+      "virtual fitting room",
+      "AI",
+      "blind",
+      "online shopping",
+      "independent shopping"
+    ],
+    "sourceName": "Eyes On Success",
+    "sourceUrl": "https://podcast.eyesonsuccess.net/?p=2762",
+    "relatedSources": [
+      {
+        "name": "Eyes On Success",
+        "url": "https://podcast.eyesonsuccess.net/?p=2762"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "podcast",
+    "ingestSource": "http://podcast.eyesonsuccess.net/feed",
+    "ingestProvider": "podcast.eyesonsuccess.net",
+    "clusterId": "cluster-24c6e3bd",
+    "status": "published",
+    "translationOf": "virtual-fitting-room-for-online-shopping-assists-blind-users-24c6e3bd",
+    "publishedAt": "2026-10-28T12:30:33.000Z",
+    "fetchedAt": "2026-10-28T15:13:25.215Z",
+    "body": "Dress Aloud 是一項由 AI 驅動的虛擬試衣間，能描述服裝並匹配使用者身體照片，使盲人購物者能獨立選購衣物。\n\n原文來源： [Eyes On Success](https://podcast.eyesonsuccess.net/?p=2762)"
   }
 ]
