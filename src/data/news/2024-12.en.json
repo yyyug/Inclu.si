@@ -32,5 +32,39 @@
     "publishedAt": "2024-12-08T00:22:15.000Z",
     "fetchedAt": "2026-09-23T15:15:50.348Z",
     "body": "The World Intellectual Property Organization (WIPO) highlights how innovative prosthetic technologies are enhancing performance and participation in Paralympic sports, showcasing advancements in disability assistive technology.\n\nRead more from the original source: [news.google.com](https://www.wipo.int/ar/web/wipo-magazine/articles/innovative-prostheses-positively-change-the-paralympics-42212)"
+  },
+  {
+    "title": "First Bank Launches Knee-Friendly ATM to Enhance Barrier-Free Living Experience",
+    "slug": "first-bank-launches-knee-friendly-atm-to-enhance-barrier-free-living-experience-706926a5",
+    "lang": "en",
+    "summary": "First Bank introduced a knee‑friendly ATM design to improve accessibility and provide a better barrier‑free experience for customers, especially wheelchair users.",
+    "category": "physical-design",
+    "tags": [
+      "ATM",
+      "無障礙",
+      "容膝式",
+      "輪椅",
+      "銀行服務"
+    ],
+    "sourceName": "firstbank.com.tw",
+    "sourceUrl": "https://www.firstbank.com.tw/sites/fcb/touch/zh_TW/1565705450652",
+    "relatedSources": [
+      {
+        "name": "firstbank.com.tw",
+        "url": "https://www.firstbank.com.tw/sites/fcb/touch/zh_TW/1565705450652"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-706926a5",
+    "status": "published",
+    "translationOf": "first-bank-launches-knee-friendly-atm-to-enhance-barrier-free-living-experience-zh-706926a5",
+    "publishedAt": "2024-12-13T08:00:00.000Z",
+    "fetchedAt": "2026-10-28T21:40:31.079Z",
+    "body": "First Bank introduced a knee‑friendly ATM design to improve accessibility and provide a better barrier‑free experience for customers, especially wheelchair users.\n\nRead more from the original source: [firstbank.com.tw](https://www.firstbank.com.tw/sites/fcb/touch/zh_TW/1565705450652)"
   }
 ]

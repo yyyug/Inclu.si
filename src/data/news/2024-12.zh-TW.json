@@ -32,5 +32,39 @@
     "publishedAt": "2024-12-08T00:22:15.000Z",
     "fetchedAt": "2026-09-23T15:15:50.348Z",
     "body": "世界知識產權組織（WIPO）指出，创新的假肢技術如何提升殘奧會運動參與度與表現，展示殘障輔助科技的最新進展。\n\n原文來源： [news.google.com](https://www.wipo.int/ar/web/wipo-magazine/articles/innovative-prostheses-positively-change-the-paralympics-42212)"
+  },
+  {
+    "title": "第一銀行推出「容膝式ATM」 精進無障礙友善生活體驗",
+    "slug": "first-bank-launches-knee-friendly-atm-to-enhance-barrier-free-living-experience-zh-706926a5",
+    "lang": "zh-TW",
+    "summary": "第一銀行推出「容膝式ATM」，旨在提升無障礙環境，提供更友善的使用體驗，特別適合輪椅使用者。",
+    "category": "physical-design",
+    "tags": [
+      "ATM",
+      "無障礙",
+      "容膝式",
+      "輪椅",
+      "銀行服務"
+    ],
+    "sourceName": "firstbank.com.tw",
+    "sourceUrl": "https://www.firstbank.com.tw/sites/fcb/touch/zh_TW/1565705450652",
+    "relatedSources": [
+      {
+        "name": "firstbank.com.tw",
+        "url": "https://www.firstbank.com.tw/sites/fcb/touch/zh_TW/1565705450652"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-706926a5",
+    "status": "published",
+    "translationOf": "first-bank-launches-knee-friendly-atm-to-enhance-barrier-free-living-experience-706926a5",
+    "publishedAt": "2024-12-13T08:00:00.000Z",
+    "fetchedAt": "2026-10-28T21:40:31.079Z",
+    "body": "第一銀行推出「容膝式ATM」，旨在提升無障礙環境，提供更友善的使用體驗，特別適合輪椅使用者。\n\n原文來源： [firstbank.com.tw](https://www.firstbank.com.tw/sites/fcb/touch/zh_TW/1565705450652)"
   }
 ]
