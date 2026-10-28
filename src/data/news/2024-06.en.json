@@ -65,5 +65,39 @@
     "publishedAt": "2024-06-05T07:00:00.000Z",
     "fetchedAt": "2026-09-25T15:39:02.875Z",
     "body": "The Minister of Justice held a meeting with a project team focused on enhancing comprehensive access to justice, ensuring that the legal system is inclusive and accessible to people with disabilities and other marginalized groups.\n\nRead more from the original source: [news.google.com](http://sabanew.net/story/ar/112301)"
+  },
+  {
+    "title": "Minister of Justice Meets Team to Enhance Universal Access to Justice",
+    "slug": "minister-of-justice-meets-team-to-enhance-universal-access-to-justice-a90c4d9e",
+    "lang": "en",
+    "summary": "The Minister of Justice met with the project team focused on strengthening universal access to the justice system, a core principle of disability rights ensuring that people with disabilities can effectively participate in legal proceedings.",
+    "category": "laws-rights",
+    "tags": [
+      "justice-system",
+      "universal-access",
+      "disability-rights",
+      "legal-access"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://pmo-ye.net/post/7511",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://pmo-ye.net/post/7511"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84+%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-a90c4d9e",
+    "status": "published",
+    "translationOf": "minister-of-justice-meets-team-to-enhance-universal-access-to-justice-zh-a90c4d9e",
+    "publishedAt": "2024-06-05T07:00:00.000Z",
+    "fetchedAt": "2026-10-28T22:50:54.075Z",
+    "body": "The Minister of Justice met with the project team focused on strengthening universal access to the justice system, a core principle of disability rights ensuring that people with disabilities can effectively participate in legal proceedings.\n\nRead more from the original source: [news.google.com](https://pmo-ye.net/post/7511)"
   }
 ]
