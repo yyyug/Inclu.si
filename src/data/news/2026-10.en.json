@@ -105800,5 +105800,160 @@
     "publishedAt": "2026-10-27T19:38:53.000Z",
     "fetchedAt": "2026-10-28T21:40:36.576Z",
     "body": "An accessibility-first computer-use framework for macOS, Windows, Linux, and browsers that provides pruned accessibility-tree snapshots, element references, and a safety layer via an MCP server and CLI.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/a11y-computer-use/0.4.79)"
+  },
+  {
+    "title": "Apple launches MacBook Pro with OLED and touch, plus M6 MacBook Pro, iMac and new iPad mini",
+    "slug": "apple-launches-macbook-pro-with-oled-and-touch-plus-m6-macbook-pro-imac-and-new--7c0ae29a",
+    "lang": "en",
+    "summary": "Apple has announced five things this week, led by a touchscreen MacBook Pro with a new OLED display, alongside M6 Macs, Creator Studio updates and a redesigned iPad mini.",
+    "category": "general",
+    "tags": [],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/apple-launches-macbook-pro-with-oled-and-touch-plus-m6-macbook-pro-imac-and-new-ipad-mini",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/apple-launches-macbook-pro-with-oled-and-touch-plus-m6-macbook-pro-imac-and-new-ipad-mini"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-7c0ae29a",
+    "status": "published",
+    "translationOf": "apple-launches-macbook-pro-with-oled-and-touch-plus-m6-macbook-pro-imac-and-new--zh-7c0ae29a",
+    "publishedAt": "2026-10-28T18:27:17.000Z",
+    "fetchedAt": "2026-10-28T21:44:25.553Z",
+    "body": "Apple has announced five things this week, led by a touchscreen MacBook Pro with a new OLED display, alongside M6 Macs, Creator Studio updates and a redesigned iPad mini.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/apple-launches-macbook-pro-with-oled-and-touch-plus-m6-macbook-pro-imac-and-new-ipad-mini)"
+  },
+  {
+    "title": "New OLED iPad mini, Braille Watches and an Accessible Samsung Soundbar",
+    "slug": "new-oled-ipad-mini-braille-watches-and-an-accessible-samsung-soundbar-e4717372",
+    "lang": "en",
+    "summary": "Discussion of Apple's new OLED iPad mini features beneficial for blind and low vision users, along with Braille watches and an accessible Samsung soundbar that provide tactile feedback and inclusive audio experiences.",
+    "category": "assistive-tech",
+    "tags": [
+      "iPad mini",
+      "Braille watch",
+      "accessible soundbar",
+      "blind",
+      "low vision"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/new-oled-ipad-mini-braille-watches-and-an-accessible-samsung-soundbar-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/new-oled-ipad-mini-braille-watches-and-an-accessible-samsung-soundbar-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-e4717372",
+    "status": "published",
+    "translationOf": "new-oled-ipad-mini-braille-watches-and-an-accessible-samsung-soundbar-zh-e4717372",
+    "publishedAt": "2026-10-28T16:00:13.000Z",
+    "fetchedAt": "2026-10-28T21:44:25.700Z",
+    "body": "Discussion of Apple's new OLED iPad mini features beneficial for blind and low vision users, along with Braille watches and an accessible Samsung soundbar that provide tactile feedback and inclusive audio experiences.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/new-oled-ipad-mini-braille-watches-and-an-accessible-samsung-soundbar-2)"
+  },
+  {
+    "title": "Amazon announces five Alexa devices, including Echo Show 16 and bedside Echo Time",
+    "slug": "amazon-announces-five-alexa-devices-including-echo-show-16-and-bedside-echo-time-6eb29025",
+    "lang": "en",
+    "summary": "Amazon has announced five new Alexa devices, with US prices from $99.99, but no UK prices, dates or accessibility detail.",
+    "category": "general",
+    "tags": [],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/amazon-announces-five-new-alexa-devices-with-us-prices-only",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/amazon-announces-five-new-alexa-devices-with-us-prices-only"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-6eb29025",
+    "status": "published",
+    "translationOf": "amazon-announces-five-alexa-devices-including-echo-show-16-and-bedside-echo-time-zh-6eb29025",
+    "publishedAt": "2026-10-28T15:42:08.000Z",
+    "fetchedAt": "2026-10-28T21:44:32.952Z",
+    "body": "Amazon has announced five new Alexa devices, with US prices from $99.99, but no UK prices, dates or accessibility detail.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/amazon-announces-five-new-alexa-devices-with-us-prices-only)"
+  },
+  {
+    "title": "Double Tap host tries audio‑only game Freight Fate",
+    "slug": "double-tap-host-tries-audioonly-game-freight-fate-2e4eddf1",
+    "lang": "en",
+    "summary": "The Double Tap host tested the fully audio‑accessible trucking game Freight Fate on PC, finding its sound design superior to expectations and highlighting its suitability for blind gamers.",
+    "category": "assistive-tech",
+    "tags": [
+      "audio game",
+      "blind accessibility",
+      "Freight Fate"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/double-tap-host-swaps-euro-truck-simulator-for-audio-only-game-freight-fate",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/double-tap-host-swaps-euro-truck-simulator-for-audio-only-game-freight-fate"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-2e4eddf1",
+    "status": "published",
+    "translationOf": "double-tap-host-tries-audioonly-game-freight-fate-zh-2e4eddf1",
+    "publishedAt": "2026-10-28T15:27:05.000Z",
+    "fetchedAt": "2026-10-28T21:44:33.089Z",
+    "body": "The Double Tap host tested the fully audio‑accessible trucking game Freight Fate on PC, finding its sound design superior to expectations and highlighting its suitability for blind gamers.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/double-tap-host-swaps-euro-truck-simulator-for-audio-only-game-freight-fate)"
+  },
+  {
+    "title": "Double Tap hosts split over an iPhone app that checks blind users after the bathroom",
+    "slug": "double-tap-hosts-split-over-an-iphone-app-that-checks-blind-users-after-the-bath-89927c33",
+    "lang": "en",
+    "summary": "The Double Tap podcast hosts debated an AppleVis app that uses the iPhone camera to verify whether blind individuals have used the bathroom, raising concerns about privacy and the appropriateness of such monitoring tools.",
+    "category": "assistive-tech",
+    "tags": [
+      "blindness",
+      "iPhone",
+      "privacy",
+      "app"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/double-tap-hosts-split-over-an-iphone-app-that-checks-blind-users-after-the-bathroom",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/double-tap-hosts-split-over-an-iphone-app-that-checks-blind-users-after-the-bathroom"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-89927c33",
+    "status": "published",
+    "translationOf": "double-tap-hosts-split-over-an-iphone-app-that-checks-blind-users-after-the-bath-zh-89927c33",
+    "publishedAt": "2026-10-28T15:25:48.000Z",
+    "fetchedAt": "2026-10-28T21:44:37.991Z",
+    "body": "The Double Tap podcast hosts debated an AppleVis app that uses the iPhone camera to verify whether blind individuals have used the bathroom, raising concerns about privacy and the appropriateness of such monitoring tools.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/double-tap-hosts-split-over-an-iphone-app-that-checks-blind-users-after-the-bathroom)"
   }
 ]

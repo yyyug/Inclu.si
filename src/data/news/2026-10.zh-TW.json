@@ -105800,5 +105800,160 @@
     "publishedAt": "2026-10-27T19:38:53.000Z",
     "fetchedAt": "2026-10-28T21:40:36.576Z",
     "body": "一個以無障礙為優先的跨平台電腦使用框架，支援 macOS、Windows、Linux 與瀏覽器，提供精簡的可存取樹快照、元素參照與安全層，透過 MCP 伺服器與命令列介面公開。\n\n原文來源： [Pypi.org](https://pypi.org/project/a11y-computer-use/0.4.79)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "apple-launches-macbook-pro-with-oled-and-touch-plus-m6-macbook-pro-imac-and-new--zh-7c0ae29a",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/apple-launches-macbook-pro-with-oled-and-touch-plus-m6-macbook-pro-imac-and-new-ipad-mini",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/apple-launches-macbook-pro-with-oled-and-touch-plus-m6-macbook-pro-imac-and-new-ipad-mini"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-7c0ae29a",
+    "status": "draft",
+    "translationOf": "apple-launches-macbook-pro-with-oled-and-touch-plus-m6-macbook-pro-imac-and-new--7c0ae29a",
+    "publishedAt": "2026-10-28T18:27:17.000Z",
+    "fetchedAt": "2026-10-28T21:44:25.553Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/apple-launches-macbook-pro-with-oled-and-touch-plus-m6-macbook-pro-imac-and-new-ipad-mini)"
+  },
+  {
+    "title": "全新 OLED iPad mini、盲文手錶及無障礙 Samsung 音響條",
+    "slug": "new-oled-ipad-mini-braille-watches-and-an-accessible-samsung-soundbar-zh-e4717372",
+    "lang": "zh-TW",
+    "summary": "節目探討 Apple 新款 OLED iPad mini 對低視力使用者的優點，並介紹盲文手錶與具備無障礙功能的 Samsung 音響條，這些產品透過觸覺回饋和友善音效提升殘障人士的使用體驗。",
+    "category": "assistive-tech",
+    "tags": [
+      "iPad mini",
+      "Braille watch",
+      "accessible soundbar",
+      "blind",
+      "low vision"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/new-oled-ipad-mini-braille-watches-and-an-accessible-samsung-soundbar-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/new-oled-ipad-mini-braille-watches-and-an-accessible-samsung-soundbar-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-e4717372",
+    "status": "published",
+    "translationOf": "new-oled-ipad-mini-braille-watches-and-an-accessible-samsung-soundbar-e4717372",
+    "publishedAt": "2026-10-28T16:00:13.000Z",
+    "fetchedAt": "2026-10-28T21:44:25.700Z",
+    "body": "節目探討 Apple 新款 OLED iPad mini 對低視力使用者的優點，並介紹盲文手錶與具備無障礙功能的 Samsung 音響條，這些產品透過觸覺回饋和友善音效提升殘障人士的使用體驗。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/new-oled-ipad-mini-braille-watches-and-an-accessible-samsung-soundbar-2)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "amazon-announces-five-alexa-devices-including-echo-show-16-and-bedside-echo-time-zh-6eb29025",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/amazon-announces-five-new-alexa-devices-with-us-prices-only",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/amazon-announces-five-new-alexa-devices-with-us-prices-only"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-6eb29025",
+    "status": "draft",
+    "translationOf": "amazon-announces-five-alexa-devices-including-echo-show-16-and-bedside-echo-time-6eb29025",
+    "publishedAt": "2026-10-28T15:42:08.000Z",
+    "fetchedAt": "2026-10-28T21:44:32.952Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/amazon-announces-five-new-alexa-devices-with-us-prices-only)"
+  },
+  {
+    "title": "Double Tap 主播嘗試純聲音遊戲 Freight Fate",
+    "slug": "double-tap-host-tries-audioonly-game-freight-fate-zh-2e4eddf1",
+    "lang": "zh-TW",
+    "summary": "Double Tap 主播在 PC 上測試了完全無障礙的聲音卡車遊戲 Freight Fate，發現其聲音設計優於預期，凸顯其適合盲玩家。",
+    "category": "assistive-tech",
+    "tags": [
+      "audio game",
+      "blind accessibility",
+      "Freight Fate"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/double-tap-host-swaps-euro-truck-simulator-for-audio-only-game-freight-fate",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/double-tap-host-swaps-euro-truck-simulator-for-audio-only-game-freight-fate"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-2e4eddf1",
+    "status": "published",
+    "translationOf": "double-tap-host-tries-audioonly-game-freight-fate-2e4eddf1",
+    "publishedAt": "2026-10-28T15:27:05.000Z",
+    "fetchedAt": "2026-10-28T21:44:33.089Z",
+    "body": "Double Tap 主播在 PC 上測試了完全無障礙的聲音卡車遊戲 Freight Fate，發現其聲音設計優於預期，凸顯其適合盲玩家。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/double-tap-host-swaps-euro-truck-simulator-for-audio-only-game-freight-fate)"
+  },
+  {
+    "title": "Double Tap 主持人就檢查盲人使用廁所的 iPhone 應用程式產生分歧",
+    "slug": "double-tap-hosts-split-over-an-iphone-app-that-checks-blind-users-after-the-bath-zh-89927c33",
+    "lang": "zh-TW",
+    "summary": "Double Tap 播客主持人就一款利用 iPhone 攝像頭檢查盲人是否已使用廁所的 AppleVis 應用程式進行辯論，引發對隱私及此類監控工具適切性的擔憂。",
+    "category": "assistive-tech",
+    "tags": [
+      "blindness",
+      "iPhone",
+      "privacy",
+      "app"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/double-tap-hosts-split-over-an-iphone-app-that-checks-blind-users-after-the-bathroom",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/double-tap-hosts-split-over-an-iphone-app-that-checks-blind-users-after-the-bathroom"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-89927c33",
+    "status": "published",
+    "translationOf": "double-tap-hosts-split-over-an-iphone-app-that-checks-blind-users-after-the-bath-89927c33",
+    "publishedAt": "2026-10-28T15:25:48.000Z",
+    "fetchedAt": "2026-10-28T21:44:37.991Z",
+    "body": "Double Tap 播客主持人就一款利用 iPhone 攝像頭檢查盲人是否已使用廁所的 AppleVis 應用程式進行辯論，引發對隱私及此類監控工具適切性的擔憂。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/double-tap-hosts-split-over-an-iphone-app-that-checks-blind-users-after-the-bathroom)"
   }
 ]
