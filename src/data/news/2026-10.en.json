@@ -107720,5 +107720,38 @@
     "publishedAt": "2026-10-27T23:56:00.000Z",
     "fetchedAt": "2026-10-29T15:15:44.850Z",
     "body": "The article uses the award-winning documentary \"Go Out Well\" to highlight the challenges faced by persons with disabilities in pursuing equality and autonomy; it argues that policies should go beyond subsidies and remove systemic barriers in transportation, housing, etc., to create a truly barrier‑free inclusive society.\n\nRead more from the original source: [Thenewslens.com](https://www.thenewslens.com/article/270835)"
+  },
+  {
+    "title": "Scribe for Documents Launches Mobile App",
+    "slug": "scribe-for-documents-launches-mobile-app-0cb307f3",
+    "lang": "en",
+    "summary": "Scribe for Documents releases a mobile version that lets users scan printed text and have it read aloud, improving access for people with visual impairments or reading difficulties.",
+    "category": "assistive-tech",
+    "tags": [
+      "OCR",
+      "mobile",
+      "text-to-speech",
+      "visual impairment"
+    ],
+    "sourceName": "pneumasolutions.com",
+    "sourceUrl": "https://pneumasolutions.com/scribe-for-documents-makes-its-mobile-debut",
+    "relatedSources": [
+      {
+        "name": "pneumasolutions.com",
+        "url": "https://pneumasolutions.com/scribe-for-documents-makes-its-mobile-debut"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://pneumasolutions.com/feed",
+    "ingestProvider": "pneumasolutions.com",
+    "clusterId": "cluster-0cb307f3",
+    "status": "published",
+    "translationOf": "scribe-for-documents-launches-mobile-app-zh-0cb307f3",
+    "publishedAt": "2026-10-28T13:28:12.000Z",
+    "fetchedAt": "2026-10-29T15:18:13.505Z",
+    "body": "Scribe for Documents releases a mobile version that lets users scan printed text and have it read aloud, improving access for people with visual impairments or reading difficulties.\n\nRead more from the original source: [pneumasolutions.com](https://pneumasolutions.com/scribe-for-documents-makes-its-mobile-debut)"
   }
 ]
