@@ -13338,96 +13338,196 @@
     }
   },
   "2026-10-30": {
-    "generatedAt": "2026-10-30T15:50:43.598Z",
+    "generatedAt": "2026-10-30T22:41:05.252Z",
     "en": {
-      "title": "Illinois Ends Disability Wage Exemption as Tech, Travel, and Community Drive Accessibility Forward",
-      "summary": "Illinois has abolished the federal minimum wage exemption for workers with disabilities, effective December 2029, marking a major step toward pay equity. Concurrently, the Japan Travel Awards 2026 introduced an Accessible category highlighting inclusive tourism, Amazon’s Echo Studio gained a low‑vision camera, and Sky rolled out audio description and live subtitles for Premier League matches. Meanwhile, Taiwan launched its first disability innovation base and Keelung opened a barrier‑friendly activity space, while a local city seeks public comment on accessibility plans and the Segerstrom Center conference stressed that inclusion surpasses mere accessibility.",
+      "title": "Assisted Ballot Markers and Foldable iPhone Accessibility Shape Voting and Tech",
+      "summary": "Assisted ballot markers are expanding independent voting for disabled Americans, while Apple's foldable iPhone introduces new VoiceOver and low-vision features. Museums are also embedding tactile and audio accessibility into immersive exhibits, signaling a broader push toward inclusive design in cultural spaces.",
       "highlights": [
         {
-          "title": "Illinois Abolishes Minimum Wage Exemption for People with Disabilities",
-          "slug": "illinois-abolishes-minimum-wage-exemption-for-people-with-disabilities-695e2b5d",
-          "url": "https://x.com/kozokubo/status/2115925616491192402"
+          "title": "Assisted ballot markers promote voter accessibility",
+          "slug": "assisted-ballot-markers-promote-voter-accessibility-14ff3fce",
+          "url": "https://eplocalnews.org/2026/10/30/assisted-ballot-markers-promote-voter-accessibility"
         },
         {
-          "title": "Japan Travel Awards 2026 Accessible Category",
-          "slug": "japan-travel-awards-2026-accessible-category-c24c28e9",
-          "url": "https://x.com/A11yTYO/status/2116086731933995476"
+          "title": "Duelling Duos: Review of Apple’s Foldable iPhone with VoiceOver",
+          "slug": "duelling-duos-review-of-apples-foldable-iphone-with-voiceover-9cbfa4ca",
+          "url": "https://doubletaponair.com/duelling-duos-two-new-iphone-duo-users-discuss-the-pros-and-cons-of-apples-new-foldable-phone-2"
         },
         {
-          "title": "Amazon's new Echo Studio adds a camera aimed at low-vision users",
-          "slug": "amazons-new-echo-studio-adds-a-camera-aimed-at-low-vision-users-9bca7f8b",
-          "url": "https://doubletaponair.com/amazons-new-echo-studio-adds-a-camera-and-is-pitched-partly-at-low-vision-users"
+          "title": "New immersive museum experience puts accessibility at the center of every exhibit",
+          "slug": "new-immersive-museum-experience-puts-accessibility-at-the-center-of-every-exhibi-54a75903",
+          "url": "https://www.whas11.com/article/news/local/new-immersive-museum-experience-puts-accessibility-at-the-center-of-every-exhibit/417-d6683afe-348e-422c-b56a-9d108d24ef72"
         },
         {
-          "title": "Sky adds audio description and live subtitles to Premier League football on Sky Sports",
-          "slug": "sky-adds-audio-description-and-live-subtitles-to-premier-league-football-on-sky--83c1a24d",
-          "url": "https://doubletaponair.com/sky-adds-audio-description-and-live-subtitles-to-premier-league-football-on-sky-sports"
+          "title": "Fact Check: Punch holes on California ballot envelopes are an accessibility feature, officials say",
+          "slug": "fact-check-punch-holes-on-california-ballot-envelopes-are-an-accessibility-featu-fca1d6b3",
+          "url": "https://www.reuters.com/fact-check/punch-holes-california-ballot-envelopes-are-an-accessibility-feature-officials-2026-10-30"
         },
         {
-          "title": "Taiwan's First Disability Innovation Base Established Based on Needs of Persons with Disabilities",
-          "slug": "taiwans-first-disability-innovation-base-established-based-on-needs-of-persons-w-bc36aa57",
-          "url": "https://www.epochtimes.com/b5/26/10/30/n14879799.htm"
+          "title": "2026 Asian Games and Paragames Prizes Total IDR 158.3 Billion",
+          "slug": "2026-asian-games-and-paragames-prizes-total-idr-1583-billion-67c43b5e",
+          "url": "https://voi.id/ar/sports/600579"
         },
         {
-          "title": "Keelung Disability Innovation Base Opens, Creating Barrier-Free Activity Space",
-          "slug": "keelung-disability-innovation-base-opens-creating-barrier-free-activity-space-c65aca8a",
-          "url": "https://news.ltn.com.tw/amp/news/life/breakingnews/5623893"
+          "title": "Da Shun Company donates accessible vehicle to boost Kinmen long‑term care transport capacity",
+          "slug": "da-shun-company-donates-accessible-vehicle-to-boost-kinmen-longterm-care-transpo-36b1f03b",
+          "url": "https://www.kmdn.gov.tw/1117/1271/1272/591346"
         },
         {
-          "title": "City seeks public comment on accessibility - Itemlive",
-          "slug": "city-seeks-public-comment-on-accessibility-itemlive-0ca21456",
-          "url": "https://itemlive.com/2026/10/29/city-seeks-public-comment-on-accessibility"
+          "title": "Casablanca Distributes Electric Wheelchairs to Students with Disabilities",
+          "slug": "casablanca-distributes-electric-wheelchairs-to-students-with-disabilities-dc8fe5b7",
+          "url": "https://anfaspress.com/videos/voir/30901-2026-10-30-03-22-39"
         },
         {
-          "title": "At Segerstrom Center’s Inaugural All-Abilities Conference, ‘Accessibility Is Good, but Inclusion Is Better’ - Culture OC",
-          "slug": "at-segerstrom-centers-inaugural-all-abilities-conference-accessibility-is-good-b-af16dbd5",
-          "url": "https://cultureoc.org/at-segerstrom-centers-inaugural-all-abilities-conference-accessibility-is-good-but-inclusion-is-better"
+          "title": "Council prepares for website accessibility - Bethany Republican-Clipper",
+          "slug": "council-prepares-for-website-accessibility-bethany-republican-clipper-229b5be3",
+          "url": "https://www.bethanyclipper.com/2026/10/30/council-prepares-for-website-accessibility"
+        },
+        {
+          "title": "On a 15-trail accessible challenge with my daughter with Rett syndrome",
+          "slug": "on-a-15-trail-accessible-challenge-with-my-daughter-with-rett-syndrome-a592f35b",
+          "url": "https://rettsyndromenews.com/columns/15-trail-accessible-challenge-daughter"
+        },
+        {
+          "title": "Nominations Open for Carol McGregor CLC Disability Rights Award",
+          "slug": "nominations-open-for-carol-mcgregor-clc-disability-rights-award-98fb72e9",
+          "url": "https://x.com/CanadianLabour/status/2116186817183485999"
+        },
+        {
+          "title": "Halloween 2026 Accessibility Issues",
+          "slug": "halloween-2026-accessibility-issues-9b09f7a1",
+          "url": "https://x.com/Usablenet/status/2116187349650391375"
+        },
+        {
+          "title": "Rethinking Disability Assumptions in the Workplace",
+          "slug": "rethinking-disability-assumptions-in-the-workplace-292ebf41",
+          "url": "https://x.com/BMO/status/2116282752156754328"
+        },
+        {
+          "title": "Funding for Campus Accessibility Upgrades",
+          "slug": "funding-for-campus-accessibility-upgrades-671ad1e1",
+          "url": "https://x.com/RepDavidKustoff/status/2116187563845128600"
+        },
+        {
+          "title": "Discussion on Escalator Walking and Barrier-Free Awareness",
+          "slug": "discussion-on-escalator-walking-and-barrier-free-awareness-61e20b6b",
+          "url": "https://x.com/aobajam/status/2116281880765214772"
+        },
+        {
+          "title": "Event Information for Visually Impaired Individuals",
+          "slug": "event-information-for-visually-impaired-individuals-9fe950ed",
+          "url": "https://x.com/WithBlind/status/2116281492145901853"
+        },
+        {
+          "title": "Critique of Ableism",
+          "slug": "critique-of-ableism-b29b6cad",
+          "url": "https://x.com/rion_hermit/status/2116281639949217974"
+        },
+        {
+          "title": "Legally Blind Veteran Shares Content Creation Success",
+          "slug": "legally-blind-veteran-shares-content-creation-success-207543e6",
+          "url": "https://x.com/RobertBrian_pod/status/2116187441887428804"
+        },
+        {
+          "title": "History of Accessibility in the US Congress",
+          "slug": "history-of-accessibility-in-the-us-congress-722609fe",
+          "url": "https://x.com/LegiStorm/status/2116186780949180652"
         }
       ]
     },
     "zh-TW": {
-      "title": "伊利諾伊廢除殘障最低工資豁免，旅遊獎、科技與創新基地共促無障礙進展",
-      "summary": "伊利諾伊州已廢除聯邦對殘障工作者的最低工資豁免，自2029年12月起生效，這是實現薪資公平的重要一步。同時，日本旅遊獎2026年新設無障礙類別，強調包容性觀光；Amazon Echo Studio 增添低視力攝影機，Sky 為英超聯賽加插音訊描述與即時字幕。台灣首座殘障創新基地成立，基隆啟用無障礙活動空間，此外某城市徵求公眾對無障礙規劃的意見，塞格斯特羅姆中心全能會議強調真正的包容勝過單純的無障礙。",
+      "title": "輔助選票標記與折疊iPhone無障礙重塑投票與科技",
+      "summary": "輔助選票標記裝置擴大美國殘障人士獨立投票權利，蘋果首款可折疊iPhone也新增VoiceOver及低視力功能。博物館同時將觸覺與音訊無障礙融入沉浸式展品，展現文化場域包容性設計的廣泛趨勢。",
       "highlights": [
         {
-          "title": "伊利諾伊州廢除殘障人士最低工資豁免",
-          "slug": "illinois-abolishes-minimum-wage-exemption-for-people-with-disabilities-zh-695e2b5d",
-          "url": "https://x.com/kozokubo/status/2115925616491192402"
+          "title": "輔助選票標記裝置提升選民無障礙投票",
+          "slug": "assisted-ballot-markers-promote-voter-accessibility-zh-14ff3fce",
+          "url": "https://eplocalnews.org/2026/10/30/assisted-ballot-markers-promote-voter-accessibility"
         },
         {
-          "title": "日本旅遊獎 2026 無障礙類別",
-          "slug": "japan-travel-awards-2026-accessible-category-zh-c24c28e9",
-          "url": "https://x.com/A11yTYO/status/2116086731933995476"
+          "title": "雙雄對決：評測蘋果可折疊 iPhone 的 VoiceOver 功能",
+          "slug": "duelling-duos-review-of-apples-foldable-iphone-with-voiceover-zh-9cbfa4ca",
+          "url": "https://doubletaponair.com/duelling-duos-two-new-iphone-duo-users-discuss-the-pros-and-cons-of-apples-new-foldable-phone-2"
         },
         {
-          "title": "Amazon 新款 Echo Studio 加入攝影機，針對低視力使用者",
-          "slug": "amazons-new-echo-studio-adds-a-camera-aimed-at-low-vision-users-zh-9bca7f8b",
-          "url": "https://doubletaponair.com/amazons-new-echo-studio-adds-a-camera-and-is-pitched-partly-at-low-vision-users"
+          "title": "新沉浸式博物館體驗將無障礙置於每個展品的中心",
+          "slug": "new-immersive-museum-experience-puts-accessibility-at-the-center-of-every-exhibi-zh-54a75903",
+          "url": "https://www.whas11.com/article/news/local/new-immersive-museum-experience-puts-accessibility-at-the-center-of-every-exhibit/417-d6683afe-348e-422c-b56a-9d108d24ef72"
         },
         {
-          "title": "Sky 在 Sky Sports 上為英超聯賽加插音訊描述與即時字幕",
-          "slug": "sky-adds-audio-description-and-live-subtitles-to-premier-league-football-on-sky--zh-83c1a24d",
-          "url": "https://doubletaponair.com/sky-adds-audio-description-and-live-subtitles-to-premier-league-football-on-sky-sports"
+          "title": "事實查核：加州選票信封上的打孔是無障礙功能，官員表示",
+          "slug": "fact-check-punch-holes-on-california-ballot-envelopes-are-an-accessibility-featu-zh-fca1d6b3",
+          "url": "https://www.reuters.com/fact-check/punch-holes-california-ballot-envelopes-are-an-accessibility-feature-officials-2026-10-30"
         },
         {
-          "title": "全台首座從身心障礙者的需求出發身障創新基地誕生",
-          "slug": "taiwans-first-disability-innovation-base-established-based-on-needs-of-persons-w-zh-bc36aa57",
-          "url": "https://www.epochtimes.com/b5/26/10/30/n14879799.htm"
+          "title": "2026年亞運及亞殘會獎金總額達1,583億印尼盧比",
+          "slug": "2026-asian-games-and-paragames-prizes-total-idr-1583-billion-zh-67c43b5e",
+          "url": "https://voi.id/ar/sports/600579"
         },
         {
-          "title": "基隆身障創新基地啟用 打造無障礙活動空間",
-          "slug": "keelung-disability-innovation-base-opens-creating-barrier-free-activity-space-zh-c65aca8a",
-          "url": "https://news.ltn.com.tw/amp/news/life/breakingnews/5623893"
+          "title": "達順公司捐贈無障礙車 金門長照交通服務添量能",
+          "slug": "da-shun-company-donates-accessible-vehicle-to-boost-kinmen-longterm-care-transpo-zh-36b1f03b",
+          "url": "https://www.kmdn.gov.tw/1117/1271/1272/591346"
         },
         {
-          "title": "城市征求公众对无障碍设施的意见 - Itemlive",
-          "slug": "city-seeks-public-comment-on-accessibility-itemlive-zh-0ca21456",
-          "url": "https://itemlive.com/2026/10/29/city-seeks-public-comment-on-accessibility"
+          "title": "卡萨布兰卡向残疾学生分发电动轮椅",
+          "slug": "casablanca-distributes-electric-wheelchairs-to-students-with-disabilities-zh-dc8fe5b7",
+          "url": "https://anfaspress.com/videos/voir/30901-2026-10-30-03-22-39"
         },
         {
-          "title": "在塞格斯特罗姆中心首届全能会议上，‘可及性很好，但包容更好’ - Culture OC",
-          "slug": "at-segerstrom-centers-inaugural-all-abilities-conference-accessibility-is-good-b-zh-af16dbd5",
-          "url": "https://cultureoc.org/at-segerstrom-centers-inaugural-all-abilities-conference-accessibility-is-good-but-inclusion-is-better"
+          "title": "議會準備網站無障礙 - Bethany Republican-Clipper",
+          "slug": "council-prepares-for-website-accessibility-bethany-republican-clipper-zh-229b5be3",
+          "url": "https://www.bethanyclipper.com/2026/10/30/council-prepares-for-website-accessibility"
+        },
+        {
+          "title": "與患有雷特症的女兒一起參與15條無障礙步道挑戰",
+          "slug": "on-a-15-trail-accessible-challenge-with-my-daughter-with-rett-syndrome-zh-a592f35b",
+          "url": "https://rettsyndromenews.com/columns/15-trail-accessible-challenge-daughter"
+        },
+        {
+          "title": "卡羅爾·麥格雷格 CLC 殘疾人權利獎提名開啟",
+          "slug": "nominations-open-for-carol-mcgregor-clc-disability-rights-award-zh-98fb72e9",
+          "url": "https://x.com/CanadianLabour/status/2116186817183485999"
+        },
+        {
+          "title": "2026 年萬聖節無障礙問題",
+          "slug": "halloween-2026-accessibility-issues-zh-9b09f7a1",
+          "url": "https://x.com/Usablenet/status/2116187349650391375"
+        },
+        {
+          "title": "重新思考職場中的殘障假設",
+          "slug": "rethinking-disability-assumptions-in-the-workplace-zh-292ebf41",
+          "url": "https://x.com/BMO/status/2116282752156754328"
+        },
+        {
+          "title": "校園無障礙升級經費",
+          "slug": "funding-for-campus-accessibility-upgrades-zh-671ad1e1",
+          "url": "https://x.com/RepDavidKustoff/status/2116187563845128600"
+        },
+        {
+          "title": "關於扶梯行走與無障礙意識的討論",
+          "slug": "discussion-on-escalator-walking-and-barrier-free-awareness-zh-61e20b6b",
+          "url": "https://x.com/aobajam/status/2116281880765214772"
+        },
+        {
+          "title": "視障人士的活動資訊",
+          "slug": "event-information-for-visually-impaired-individuals-zh-9fe950ed",
+          "url": "https://x.com/WithBlind/status/2116281492145901853"
+        },
+        {
+          "title": "批判能力主義",
+          "slug": "critique-of-ableism-zh-b29b6cad",
+          "url": "https://x.com/rion_hermit/status/2116281639949217974"
+        },
+        {
+          "title": "合法失明的退伍軍人分享內容創作的成功經驗",
+          "slug": "legally-blind-veteran-shares-content-creation-success-zh-207543e6",
+          "url": "https://x.com/RobertBrian_pod/status/2116187441887428804"
+        },
+        {
+          "title": "美國國會無障礙設施的歷史",
+          "slug": "history-of-accessibility-in-the-us-congress-zh-722609fe",
+          "url": "https://x.com/LegiStorm/status/2116186780949180652"
         }
       ]
     }
