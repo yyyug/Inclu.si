@@ -13336,5 +13336,100 @@
         }
       ]
     }
+  },
+  "2026-10-30": {
+    "generatedAt": "2026-10-30T15:50:43.598Z",
+    "en": {
+      "title": "Illinois Ends Disability Wage Exemption as Tech, Travel, and Community Drive Accessibility Forward",
+      "summary": "Illinois has abolished the federal minimum wage exemption for workers with disabilities, effective December 2029, marking a major step toward pay equity. Concurrently, the Japan Travel Awards 2026 introduced an Accessible category highlighting inclusive tourism, Amazon’s Echo Studio gained a low‑vision camera, and Sky rolled out audio description and live subtitles for Premier League matches. Meanwhile, Taiwan launched its first disability innovation base and Keelung opened a barrier‑friendly activity space, while a local city seeks public comment on accessibility plans and the Segerstrom Center conference stressed that inclusion surpasses mere accessibility.",
+      "highlights": [
+        {
+          "title": "Illinois Abolishes Minimum Wage Exemption for People with Disabilities",
+          "slug": "illinois-abolishes-minimum-wage-exemption-for-people-with-disabilities-695e2b5d",
+          "url": "https://x.com/kozokubo/status/2115925616491192402"
+        },
+        {
+          "title": "Japan Travel Awards 2026 Accessible Category",
+          "slug": "japan-travel-awards-2026-accessible-category-c24c28e9",
+          "url": "https://x.com/A11yTYO/status/2116086731933995476"
+        },
+        {
+          "title": "Amazon's new Echo Studio adds a camera aimed at low-vision users",
+          "slug": "amazons-new-echo-studio-adds-a-camera-aimed-at-low-vision-users-9bca7f8b",
+          "url": "https://doubletaponair.com/amazons-new-echo-studio-adds-a-camera-and-is-pitched-partly-at-low-vision-users"
+        },
+        {
+          "title": "Sky adds audio description and live subtitles to Premier League football on Sky Sports",
+          "slug": "sky-adds-audio-description-and-live-subtitles-to-premier-league-football-on-sky--83c1a24d",
+          "url": "https://doubletaponair.com/sky-adds-audio-description-and-live-subtitles-to-premier-league-football-on-sky-sports"
+        },
+        {
+          "title": "Taiwan's First Disability Innovation Base Established Based on Needs of Persons with Disabilities",
+          "slug": "taiwans-first-disability-innovation-base-established-based-on-needs-of-persons-w-bc36aa57",
+          "url": "https://www.epochtimes.com/b5/26/10/30/n14879799.htm"
+        },
+        {
+          "title": "Keelung Disability Innovation Base Opens, Creating Barrier-Free Activity Space",
+          "slug": "keelung-disability-innovation-base-opens-creating-barrier-free-activity-space-c65aca8a",
+          "url": "https://news.ltn.com.tw/amp/news/life/breakingnews/5623893"
+        },
+        {
+          "title": "City seeks public comment on accessibility - Itemlive",
+          "slug": "city-seeks-public-comment-on-accessibility-itemlive-0ca21456",
+          "url": "https://itemlive.com/2026/10/29/city-seeks-public-comment-on-accessibility"
+        },
+        {
+          "title": "At Segerstrom Center’s Inaugural All-Abilities Conference, ‘Accessibility Is Good, but Inclusion Is Better’ - Culture OC",
+          "slug": "at-segerstrom-centers-inaugural-all-abilities-conference-accessibility-is-good-b-af16dbd5",
+          "url": "https://cultureoc.org/at-segerstrom-centers-inaugural-all-abilities-conference-accessibility-is-good-but-inclusion-is-better"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "伊利諾伊廢除殘障最低工資豁免，旅遊獎、科技與創新基地共促無障礙進展",
+      "summary": "伊利諾伊州已廢除聯邦對殘障工作者的最低工資豁免，自2029年12月起生效，這是實現薪資公平的重要一步。同時，日本旅遊獎2026年新設無障礙類別，強調包容性觀光；Amazon Echo Studio 增添低視力攝影機，Sky 為英超聯賽加插音訊描述與即時字幕。台灣首座殘障創新基地成立，基隆啟用無障礙活動空間，此外某城市徵求公眾對無障礙規劃的意見，塞格斯特羅姆中心全能會議強調真正的包容勝過單純的無障礙。",
+      "highlights": [
+        {
+          "title": "伊利諾伊州廢除殘障人士最低工資豁免",
+          "slug": "illinois-abolishes-minimum-wage-exemption-for-people-with-disabilities-zh-695e2b5d",
+          "url": "https://x.com/kozokubo/status/2115925616491192402"
+        },
+        {
+          "title": "日本旅遊獎 2026 無障礙類別",
+          "slug": "japan-travel-awards-2026-accessible-category-zh-c24c28e9",
+          "url": "https://x.com/A11yTYO/status/2116086731933995476"
+        },
+        {
+          "title": "Amazon 新款 Echo Studio 加入攝影機，針對低視力使用者",
+          "slug": "amazons-new-echo-studio-adds-a-camera-aimed-at-low-vision-users-zh-9bca7f8b",
+          "url": "https://doubletaponair.com/amazons-new-echo-studio-adds-a-camera-and-is-pitched-partly-at-low-vision-users"
+        },
+        {
+          "title": "Sky 在 Sky Sports 上為英超聯賽加插音訊描述與即時字幕",
+          "slug": "sky-adds-audio-description-and-live-subtitles-to-premier-league-football-on-sky--zh-83c1a24d",
+          "url": "https://doubletaponair.com/sky-adds-audio-description-and-live-subtitles-to-premier-league-football-on-sky-sports"
+        },
+        {
+          "title": "全台首座從身心障礙者的需求出發身障創新基地誕生",
+          "slug": "taiwans-first-disability-innovation-base-established-based-on-needs-of-persons-w-zh-bc36aa57",
+          "url": "https://www.epochtimes.com/b5/26/10/30/n14879799.htm"
+        },
+        {
+          "title": "基隆身障創新基地啟用 打造無障礙活動空間",
+          "slug": "keelung-disability-innovation-base-opens-creating-barrier-free-activity-space-zh-c65aca8a",
+          "url": "https://news.ltn.com.tw/amp/news/life/breakingnews/5623893"
+        },
+        {
+          "title": "城市征求公众对无障碍设施的意见 - Itemlive",
+          "slug": "city-seeks-public-comment-on-accessibility-itemlive-zh-0ca21456",
+          "url": "https://itemlive.com/2026/10/29/city-seeks-public-comment-on-accessibility"
+        },
+        {
+          "title": "在塞格斯特罗姆中心首届全能会议上，‘可及性很好，但包容更好’ - Culture OC",
+          "slug": "at-segerstrom-centers-inaugural-all-abilities-conference-accessibility-is-good-b-zh-af16dbd5",
+          "url": "https://cultureoc.org/at-segerstrom-centers-inaugural-all-abilities-conference-accessibility-is-good-but-inclusion-is-better"
+        }
+      ]
+    }
   }
 }
