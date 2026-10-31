@@ -13531,5 +13531,110 @@
         }
       ]
     }
+  },
+  "2026-10-31": {
+    "generatedAt": "2026-10-31T15:15:37.034Z",
+    "en": {
+      "title": "Daily Digest: New Accessibility Laws, Tesla Updates, and Voter Tools",
+      "summary": "The 2026 election map prioritizes accessibility for disabled voters, while Tesla introduces screen reader support in its robotaxi app. Policy shifts are highlighted by the Maru-yu tax exemption and ANA flight discounts for persons with disabilities.",
+      "highlights": [
+        {
+          "title": "New election map puts accessibility at the center of election night",
+          "slug": "new-election-map-puts-accessibility-at-the-center-of-election-night-874a7634",
+          "url": "https://www.fox43.com/article/news/politics/elections/new-election-map-puts-accessibility-at-the-center-of-election-night/521-5c3833b1-77ae-418e-adbd-537f2377848d"
+        },
+        {
+          "title": "Tesla Updates Robotaxi App Accessibility",
+          "slug": "tesla-updates-robotaxi-app-accessibility-246c80e8",
+          "url": "https://x.com/yaesakura2019/status/2116540571385049306"
+        },
+        {
+          "title": "Assisted ballot markers promote voter accessibility",
+          "slug": "assisted-ballot-markers-promote-voter-accessibility-14ff3fce",
+          "url": "https://eplocalnews.org/2026/10/30/assisted-ballot-markers-promote-voter-accessibility"
+        },
+        {
+          "title": "UPDATE: TVA celebrates new accessible boat dock, kayak launch by Chickamauga Dam",
+          "slug": "update-tva-celebrates-new-accessible-boat-dock-kayak-launch-by-chickamauga-dam-bdbf0b96",
+          "url": "https://www.local3news.com/local-news/update-tva-celebrates-new-accessible-boat-dock-kayak-launch-by-chickamauga-dam/article_8bf18818-628b-41b4-80c7-2f2fa4eaa98e.html"
+        },
+        {
+          "title": "Criticism of Japanese Government Welfare Support",
+          "slug": "criticism-of-japanese-government-welfare-support-57a5bfeb",
+          "url": "https://x.com/rka7se/status/2116541404147327440"
+        },
+        {
+          "title": "Petition Against School Disability Inclusion Funding Cuts",
+          "slug": "petition-against-school-disability-inclusion-funding-cuts-411aae4c",
+          "url": "https://x.com/sunnysandeel/status/2116282661841039665"
+        },
+        {
+          "title": "Accessibility Checklist for Screen Readers and AI Agents",
+          "slug": "accessibility-checklist-for-screen-readers-and-ai-agents-02751e37",
+          "url": "https://x.com/preetsuthar17/status/2116540957269336301"
+        },
+        {
+          "title": "ANA Domestic Flight Discounts for Persons with Disabilities",
+          "slug": "ana-domestic-flight-discounts-for-persons-with-disabilities-8507ae07",
+          "url": "https://x.com/8338519khkh7/status/2116538728193876110"
+        },
+        {
+          "title": "Top 10 Accessible Park Trails Not to Miss – Enjoy Flowers, Plane Watching, Coastal Lakeside Wetlands, Easy Hiking",
+          "slug": "top-10-accessible-park-trails-not-to-miss-enjoy-flowers-plane-watching-coastal-l-de40b276",
+          "url": "https://today.line.me/tw/v3/article/vXGgp58?referral=TOPIC-flowering"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "無障礙選舉地圖、特斯拉更新及殘障福利新政",
+      "summary": "2026年選舉地圖以無障礙設計置於核心，特斯拉亦在應用程式中加入螢幕閱讀器功能。本日摘要涵蓋丸優免稅制度及全日空航班折扣等重要福利政策。",
+      "highlights": [
+        {
+          "title": "新選舉地圖將無障礙置於選舉之夜的中心",
+          "slug": "new-election-map-puts-accessibility-at-the-center-of-election-night-zh-874a7634",
+          "url": "https://www.fox43.com/article/news/politics/elections/new-election-map-puts-accessibility-at-the-center-of-election-night/521-5c3833b1-77ae-418e-adbd-537f2377848d"
+        },
+        {
+          "title": "特斯拉更新機器人計程車應用程式的無障礙功能",
+          "slug": "tesla-updates-robotaxi-app-accessibility-zh-246c80e8",
+          "url": "https://x.com/yaesakura2019/status/2116540571385049306"
+        },
+        {
+          "title": "輔助選票標記裝置提升選民無障礙投票",
+          "slug": "assisted-ballot-markers-promote-voter-accessibility-zh-14ff3fce",
+          "url": "https://eplocalnews.org/2026/10/30/assisted-ballot-markers-promote-voter-accessibility"
+        },
+        {
+          "title": "更新：TVA 慶祝 Chickamauga Dam 新設無障礙船塢與皮艇發射台",
+          "slug": "update-tva-celebrates-new-accessible-boat-dock-kayak-launch-by-chickamauga-dam-zh-bdbf0b96",
+          "url": "https://www.local3news.com/local-news/update-tva-celebrates-new-accessible-boat-dock-kayak-launch-by-chickamauga-dam/article_8bf18818-628b-41b4-80c7-2f2fa4eaa98e.html"
+        },
+        {
+          "title": "對日本政府福利支持的批評",
+          "slug": "criticism-of-japanese-government-welfare-support-zh-57a5bfeb",
+          "url": "https://x.com/rka7se/status/2116541404147327440"
+        },
+        {
+          "title": "反對學校殘障融入經費削減的請願",
+          "slug": "petition-against-school-disability-inclusion-funding-cuts-zh-411aae4c",
+          "url": "https://x.com/sunnysandeel/status/2116282661841039665"
+        },
+        {
+          "title": "螢幕閱讀器與 AI 代理的無障礙檢查清單",
+          "slug": "accessibility-checklist-for-screen-readers-and-ai-agents-zh-02751e37",
+          "url": "https://x.com/preetsuthar17/status/2116540957269336301"
+        },
+        {
+          "title": "全日空國內航班對殘障人士的折扣",
+          "slug": "ana-domestic-flight-discounts-for-persons-with-disabilities-zh-8507ae07",
+          "url": "https://x.com/8338519khkh7/status/2116538728193876110"
+        },
+        {
+          "title": "10大不能錯過友善無障礙公園步道｜賞花看飛機、海濱湖岸濕地美景，健走流汗非難事！ | 銀髮一起玩 - LINE TODAY",
+          "slug": "top-10-accessible-park-trails-not-to-miss-enjoy-flowers-plane-watching-coastal-l-zh-de40b276",
+          "url": "https://today.line.me/tw/v3/article/vXGgp58?referral=TOPIC-flowering"
+        }
+      ]
+    }
   }
 }
