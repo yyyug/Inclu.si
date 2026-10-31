@@ -117172,5 +117172,73 @@
     "publishedAt": "2026-10-30T16:17:00.000Z",
     "fetchedAt": "2026-10-31T20:27:56.118Z",
     "body": "基隆市政府啟用全台首座身障創新基地，活化原中正區行政大樓，提供運動、餐飲、展覽、培力共學、共享辦公等一站式服務，打造身心障礙者與市民皆可參與的共融空間。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E9%A6%96%E5%BA%A7%E8%BA%AB%E9%9A%9C%E5%89%B5%E6%96%B0%E5%9F%BA%E5%9C%B0%E5%9C%A8%E5%9F%BA%E9%9A%86%E8%AA%95%E7%94%9F-%E8%AC%9D%E5%9C%8B%E6%A8%91%E6%89%93%E9%80%A0%E5%9F%8E%E5%B8%82%E5%85%B1%E8%9E%8D%E6%96%B0%E5%9C%B0%E6%A8%99-161700242.html)"
+  },
+  {
+    "title": "David Nason 对 iPhone Duo 的评测：外形如 mini 般小巧，但合上时手感较重",
+    "slug": "david-nason-on-the-iphone-duo-as-compact-as-the-mini-but-heavy-in-the-hand-when--zh-a6a8d513",
+    "lang": "zh-TW",
+    "summary": "盲人用户描述了 iPhone Duo 的触感体验，指出打开和关闭状态感觉像两部不同的设备，凸显了对视障用户的无障碍考量。",
+    "category": "assistive-tech",
+    "tags": [
+      "blind",
+      "iPhone Duo",
+      "tactile",
+      "VoiceOver",
+      "accessibility"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/david-nason-on-the-iphone-duo-as-compact-as-the-mini-but-heavy-in-the-hand-when-closed",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/david-nason-on-the-iphone-duo-as-compact-as-the-mini-but-heavy-in-the-hand-when-closed"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-a6a8d513",
+    "status": "published",
+    "translationOf": "david-nason-on-the-iphone-duo-as-compact-as-the-mini-but-heavy-in-the-hand-when--a6a8d513",
+    "publishedAt": "2026-10-31T17:28:45.000Z",
+    "fetchedAt": "2026-10-31T20:29:35.334Z",
+    "body": "盲人用户描述了 iPhone Duo 的触感体验，指出打开和关闭状态感觉像两部不同的设备，凸显了对视障用户的无障碍考量。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/david-nason-on-the-iphone-duo-as-compact-as-the-mini-but-heavy-in-the-hand-when-closed)"
+  },
+  {
+    "title": "iPhone Duo 的分屏视图让每个应用拥有独立的 VoiceOver 导航",
+    "slug": "split-view-on-the-iphone-duo-gives-each-app-its-own-voiceover-navigation-zh-cf266d61",
+    "lang": "zh-TW",
+    "summary": "Steven Scott 说明 iPhone Duo 的分屏视图让每个应用都能拥有独立的 VoiceOver 导航，为需要多任务处理的盲人用户提供无障碍优势。",
+    "category": "assistive-tech",
+    "tags": [
+      "VoiceOver",
+      "Split View",
+      "iPhone Duo",
+      "blind",
+      "multitasking"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/split-view-on-the-iphone-duo-gives-each-app-its-own-voiceover-navigation",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/split-view-on-the-iphone-duo-gives-each-app-its-own-voiceover-navigation"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-cf266d61",
+    "status": "published",
+    "translationOf": "split-view-on-the-iphone-duo-gives-each-app-its-own-voiceover-navigation-cf266d61",
+    "publishedAt": "2026-10-31T15:13:08.000Z",
+    "fetchedAt": "2026-10-31T20:29:35.515Z",
+    "body": "Steven Scott 说明 iPhone Duo 的分屏视图让每个应用都能拥有独立的 VoiceOver 导航，为需要多任务处理的盲人用户提供无障碍优势。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/split-view-on-the-iphone-duo-gives-each-app-its-own-voiceover-navigation)"
   }
 ]
