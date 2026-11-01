@@ -1827,5 +1827,39 @@
     "publishedAt": "2026-11-01T10:10:00.000Z",
     "fetchedAt": "2026-11-01T16:58:10.654Z",
     "body": "Egyptian Minister of Social Solidarity Maya Morsi announced the launch of a new platform called 'Nokta' aimed at empowering individuals with disabilities economically and socially.\n\nRead more from the original source: [news.google.com](https://www.almasryalyoum.com/news/details/4398325)"
+  },
+  {
+    "title": "Official attends Chiayi County International Day of Persons with Disabilities event, focusing on rural disability services and equal participation",
+    "slug": "official-attends-chiayi-county-international-day-of-persons-with-disabilities-ev-a0e8a031",
+    "lang": "en",
+    "summary": "The official participated in the event marking International Day of Persons with Disabilities in Chiayi County, highlighting concerns about disability services in rural areas and promoting equal participation.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "International Day of Persons with Disabilities",
+      "Chiayi County",
+      "rural disability services",
+      "equal participation",
+      "Taiwan"
+    ],
+    "sourceName": "17news民生好報",
+    "sourceUrl": "https://17news.net/archives/344165",
+    "relatedSources": [
+      {
+        "name": "17news民生好報",
+        "url": "https://17news.net/archives/344165"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a0e8a031",
+    "status": "published",
+    "translationOf": "official-attends-chiayi-county-international-day-of-persons-with-disabilities-ev-zh-a0e8a031",
+    "publishedAt": "2026-11-01T13:17:16.000Z",
+    "fetchedAt": "2026-11-01T21:12:04.336Z",
+    "body": "The official participated in the event marking International Day of Persons with Disabilities in Chiayi County, highlighting concerns about disability services in rural areas and promoting equal participation.\n\nRead more from the original source: [17news民生好報](https://17news.net/archives/344165)"
   }
 ]

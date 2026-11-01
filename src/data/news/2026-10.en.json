@@ -119472,5 +119472,172 @@
     "publishedAt": "2026-10-31T22:41:11.000Z",
     "fetchedAt": "2026-11-01T16:58:10.658Z",
     "body": "The Ministry of Interior established a dedicated hot line to receive complaints and requests specifically from individuals with disabilities, improving their access to support services.\n\nRead more from the original source: [news.google.com](https://gate.ahram.org.eg/daily/News/205758/25/1034193/%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89/%D8%AE%D8%B7-%D8%B3%D8%A7%D8%AE%D9%86-%D8%A8%D9%80-%C2%AB%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9%C2%BB-%D9%84%D8%AA%D9%84%D9%82%D9%89-%D8%B4%D9%83%D8%A7%D9%88%D9%89-%D9%88%D8%B7%D9%84%D8%A8%D8%A7%D8%AA-%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7.aspx)"
+  },
+  {
+    "title": "navigera 0.6.5 released – headless Chrome driver with accessibility‑tree support for AI agents",
+    "slug": "navigera-065-released-headless-chrome-driver-with-accessibilitytree-support-for--6a095766",
+    "lang": "en",
+    "summary": "The navigera tool version 0.6.5 enables driving headless Chrome from the command line, providing access to the Chrome accessibility tree for use by AI agents, along with a JSON‑lines serve mode for session handling.",
+    "category": "digital-a11y",
+    "tags": [
+      "navigera",
+      "headless Chrome",
+      "accessibility tree",
+      "AI agents",
+      "CDP CLI",
+      "digital accessibility"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/navigera/0.6.5",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/navigera/0.6.5"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-6a095766",
+    "status": "published",
+    "translationOf": "navigera-065-released-headless-chrome-driver-with-accessibilitytree-support-for--zh-6a095766",
+    "publishedAt": "2026-10-31T18:41:03.000Z",
+    "fetchedAt": "2026-11-01T21:12:04.341Z",
+    "body": "The navigera tool version 0.6.5 enables driving headless Chrome from the command line, providing access to the Chrome accessibility tree for use by AI agents, along with a JSON‑lines serve mode for session handling.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/navigera/0.6.5)"
+  },
+  {
+    "title": "Subtitles for Corporate Videos: A Practical Guide for Marketing and Training Teams",
+    "slug": "subtitles-for-corporate-videos-a-practical-guide-for-marketing-and-training-team-3319f301",
+    "lang": "en",
+    "summary": "Provides a practical guide on adding subtitles to corporate videos to improve accessibility for diverse audiences, especially those with hearing impairments.",
+    "category": "digital-a11y",
+    "tags": [
+      "subtitles",
+      "corporate videos",
+      "deaf",
+      "hard of hearing"
+    ],
+    "sourceName": "Parikhinfosolutions.com",
+    "sourceUrl": "https://www.parikhinfosolutions.com/blog/subtitles-for-corporate-videos-a-practical-guide-for-marketing-and-training-teams",
+    "relatedSources": [
+      {
+        "name": "Parikhinfosolutions.com",
+        "url": "https://www.parikhinfosolutions.com/blog/subtitles-for-corporate-videos-a-practical-guide-for-marketing-and-training-teams"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-3319f301",
+    "status": "published",
+    "translationOf": "subtitles-for-corporate-videos-a-practical-guide-for-marketing-and-training-team-zh-3319f301",
+    "publishedAt": "2026-10-31T17:10:22.000Z",
+    "fetchedAt": "2026-11-01T21:12:09.884Z",
+    "body": "Provides a practical guide on adding subtitles to corporate videos to improve accessibility for diverse audiences, especially those with hearing impairments.\n\nRead more from the original source: [Parikhinfosolutions.com](https://www.parikhinfosolutions.com/blog/subtitles-for-corporate-videos-a-practical-guide-for-marketing-and-training-teams)"
+  },
+  {
+    "title": "lite-locator-mcp 0.1.7.post1",
+    "slug": "lite-locator-mcp-017post1-4c0201e4",
+    "lang": "en",
+    "summary": "Lite-locator-mcp provides a semantic element finder for Playwright MCP, allowing LLMs to receive a shortlist of candidates instead of processing the full accessibility tree, streamlining accessibility-focused test automation.",
+    "category": "digital-a11y",
+    "tags": [
+      "Playwright",
+      "MCP",
+      "accessibility tree",
+      "automated testing"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/lite-locator-mcp/0.1.7.post1",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/lite-locator-mcp/0.1.7.post1"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-4c0201e4",
+    "status": "published",
+    "translationOf": "lite-locator-mcp-017post1-zh-4c0201e4",
+    "publishedAt": "2026-10-31T14:12:08.000Z",
+    "fetchedAt": "2026-11-01T21:12:10.059Z",
+    "body": "Lite-locator-mcp provides a semantic element finder for Playwright MCP, allowing LLMs to receive a shortlist of candidates instead of processing the full accessibility tree, streamlining accessibility-focused test automation.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/lite-locator-mcp/0.1.7.post1)"
+  },
+  {
+    "title": "lite-locator-mcp 0.1.7",
+    "slug": "lite-locator-mcp-017-a12448c0",
+    "lang": "en",
+    "summary": "Lite-locator-mcp provides a semantic element finder for Playwright MCP, allowing LLMs to receive a shortlist of candidates instead of processing the full accessibility tree, streamlining accessibility-focused test automation.",
+    "category": "digital-a11y",
+    "tags": [
+      "Playwright",
+      "MCP",
+      "accessibility tree",
+      "automated testing"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/lite-locator-mcp/0.1.7",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/lite-locator-mcp/0.1.7"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-a12448c0",
+    "status": "published",
+    "translationOf": "lite-locator-mcp-017-zh-a12448c0",
+    "publishedAt": "2026-10-31T13:52:23.000Z",
+    "fetchedAt": "2026-11-01T21:12:10.207Z",
+    "body": "Lite-locator-mcp provides a semantic element finder for Playwright MCP, allowing LLMs to receive a shortlist of candidates instead of processing the full accessibility tree, streamlining accessibility-focused test automation.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/lite-locator-mcp/0.1.7)"
+  },
+  {
+    "title": "A billionaire gave $160 million to transform a 158-year-old dinosaur museum; in 2024, it reopened with bigger galleries and free entry",
+    "slug": "a-billionaire-gave-160-million-to-transform-a-158-year-old-dinosaur-museum-in-20-96234b51",
+    "lang": "en",
+    "summary": "The Yale Peabody Museum underwent a $160 million renovation funded by a billionaire, reopening in 2024 with larger galleries, free admission, and upgrades aimed at improving physical accessibility for visitors with disabilities, including expanded classroom areas and interactive exhibits.",
+    "category": "physical-design",
+    "tags": [
+      "museum",
+      "accessibility",
+      "renovation",
+      "physical design"
+    ],
+    "sourceName": "The Times of India",
+    "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/a-billionaire-gave-160-million-to-transform-a-158-year-old-dinosaur-museum-in-2024-it-reopened-with-bigger-galleries-and-free-entry/articleshow/135397851.cms",
+    "relatedSources": [
+      {
+        "name": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/a-billionaire-gave-160-million-to-transform-a-158-year-old-dinosaur-museum-in-2024-it-reopened-with-bigger-galleries-and-free-entry/articleshow/135397851.cms"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-96234b51",
+    "status": "published",
+    "translationOf": "a-billionaire-gave-160-million-to-transform-a-158-year-old-dinosaur-museum-in-20-zh-96234b51",
+    "publishedAt": "2026-10-31T12:29:32.000Z",
+    "fetchedAt": "2026-11-01T21:12:14.518Z",
+    "body": "The Yale Peabody Museum underwent a $160 million renovation funded by a billionaire, reopening in 2024 with larger galleries, free admission, and upgrades aimed at improving physical accessibility for visitors with disabilities, including expanded classroom areas and interactive exhibits.\n\nRead more from the original source: [The Times of India](https://timesofindia.indiatimes.com/world/rest-of-world/a-billionaire-gave-160-million-to-transform-a-158-year-old-dinosaur-museum-in-2024-it-reopened-with-bigger-galleries-and-free-entry/articleshow/135397851.cms)"
   }
 ]

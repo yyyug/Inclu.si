@@ -119472,5 +119472,172 @@
     "publishedAt": "2026-10-31T22:41:11.000Z",
     "fetchedAt": "2026-11-01T16:58:10.658Z",
     "body": "內政部設立了專門的熱線，以接收來自殘障人士的投訴和請求，從而改善其獲得支持服務的路徑。\n\n原文來源： [news.google.com](https://gate.ahram.org.eg/daily/News/205758/25/1034193/%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89/%D8%AE%D8%B7-%D8%B3%D8%A7%D8%AE%D9%86-%D8%A8%D9%80-%C2%AB%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9%C2%BB-%D9%84%D8%AA%D9%84%D9%82%D9%89-%D8%B4%D9%83%D8%A7%D9%88%D9%89-%D9%88%D8%B7%D9%84%D8%A8%D8%A7%D8%AA-%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7.aspx)"
+  },
+  {
+    "title": "navigera 0.6.5 發布 – 支援無頭瀏覽器的可存取性樹，適合 AI 代理使用",
+    "slug": "navigera-065-released-headless-chrome-driver-with-accessibilitytree-support-for--zh-6a095766",
+    "lang": "zh-TW",
+    "summary": "navigera 0.6.5 版本提供從命令列驅動無頭 Chrome 的功能，包含可存取性樹（accessibility‑tree）的參考，方便 AI 代理進行網頁無障礙測試，同時支援 JSON‑lines 服務模式以管理會話與分頁。",
+    "category": "digital-a11y",
+    "tags": [
+      "navigera",
+      "headless Chrome",
+      "accessibility tree",
+      "AI agents",
+      "CDP CLI",
+      "digital accessibility"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/navigera/0.6.5",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/navigera/0.6.5"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-6a095766",
+    "status": "published",
+    "translationOf": "navigera-065-released-headless-chrome-driver-with-accessibilitytree-support-for--6a095766",
+    "publishedAt": "2026-10-31T18:41:03.000Z",
+    "fetchedAt": "2026-11-01T21:12:04.341Z",
+    "body": "navigera 0.6.5 版本提供從命令列驅動無頭 Chrome 的功能，包含可存取性樹（accessibility‑tree）的參考，方便 AI 代理進行網頁無障礙測試，同時支援 JSON‑lines 服務模式以管理會話與分頁。\n\n原文來源： [Pypi.org](https://pypi.org/project/navigera/0.6.5)"
+  },
+  {
+    "title": "企業影片字幕：行銷與訓練團隊的實用指南",
+    "slug": "subtitles-for-corporate-videos-a-practical-guide-for-marketing-and-training-team-zh-3319f301",
+    "lang": "zh-TW",
+    "summary": "提供實用指南，說明如何為企業影片加入字幕，以提升對聽障人士等多元觀眾的可及性。",
+    "category": "digital-a11y",
+    "tags": [
+      "subtitles",
+      "corporate videos",
+      "deaf",
+      "hard of hearing"
+    ],
+    "sourceName": "Parikhinfosolutions.com",
+    "sourceUrl": "https://www.parikhinfosolutions.com/blog/subtitles-for-corporate-videos-a-practical-guide-for-marketing-and-training-teams",
+    "relatedSources": [
+      {
+        "name": "Parikhinfosolutions.com",
+        "url": "https://www.parikhinfosolutions.com/blog/subtitles-for-corporate-videos-a-practical-guide-for-marketing-and-training-teams"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-3319f301",
+    "status": "published",
+    "translationOf": "subtitles-for-corporate-videos-a-practical-guide-for-marketing-and-training-team-3319f301",
+    "publishedAt": "2026-10-31T17:10:22.000Z",
+    "fetchedAt": "2026-11-01T21:12:09.884Z",
+    "body": "提供實用指南，說明如何為企業影片加入字幕，以提升對聽障人士等多元觀眾的可及性。\n\n原文來源： [Parikhinfosolutions.com](https://www.parikhinfosolutions.com/blog/subtitles-for-corporate-videos-a-practical-guide-for-marketing-and-training-teams)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "lite-locator-mcp-017post1-zh-4c0201e4",
+    "lang": "zh-TW",
+    "summary": "lite‑locator‑mcp 為 Playwright MCP 提供語義元素查找器，使 LLM 能僅接收候選清單而非完整的無障礙樹，從而簡化無障礙測試自動化。",
+    "category": "digital-a11y",
+    "tags": [
+      "Playwright",
+      "MCP",
+      "accessibility tree",
+      "automated testing"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/lite-locator-mcp/0.1.7.post1",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/lite-locator-mcp/0.1.7.post1"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-4c0201e4",
+    "status": "draft",
+    "translationOf": "lite-locator-mcp-017post1-4c0201e4",
+    "publishedAt": "2026-10-31T14:12:08.000Z",
+    "fetchedAt": "2026-11-01T21:12:10.059Z",
+    "body": "lite‑locator‑mcp 為 Playwright MCP 提供語義元素查找器，使 LLM 能僅接收候選清單而非完整的無障礙樹，從而簡化無障礙測試自動化。\n\n原文來源： [Pypi.org](https://pypi.org/project/lite-locator-mcp/0.1.7.post1)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "lite-locator-mcp-017-zh-a12448c0",
+    "lang": "zh-TW",
+    "summary": "lite‑locator‑mcp 為 Playwright MCP 提供語義元素查找器，使 LLM 能僅接收候選清單而非完整的無障礙樹，從而簡化無障礙測試自動化。",
+    "category": "digital-a11y",
+    "tags": [
+      "Playwright",
+      "MCP",
+      "accessibility tree",
+      "automated testing"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/lite-locator-mcp/0.1.7",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/lite-locator-mcp/0.1.7"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-a12448c0",
+    "status": "draft",
+    "translationOf": "lite-locator-mcp-017-a12448c0",
+    "publishedAt": "2026-10-31T13:52:23.000Z",
+    "fetchedAt": "2026-11-01T21:12:10.207Z",
+    "body": "lite‑locator‑mcp 為 Playwright MCP 提供語義元素查找器，使 LLM 能僅接收候選清單而非完整的無障礙樹，從而簡化無障礙測試自動化。\n\n原文來源： [Pypi.org](https://pypi.org/project/lite-locator-mcp/0.1.7)"
+  },
+  {
+    "title": "億萬富翁捐贈1.6億美元改造158年歷史的恐龍博物館；2024年重新開放，擴大展廳並免費入場",
+    "slug": "a-billionaire-gave-160-million-to-transform-a-158-year-old-dinosaur-museum-in-20-zh-96234b51",
+    "lang": "zh-TW",
+    "summary": "耶魯皮博迪博物館獲億萬富翁注資1.6億美元進行翻修，2024年重新開放。新館提供更大的展覽空間、免費參觀，並加強無障礙設施，如擴充教室區域和互動展覽，以方便殘障參觀者。",
+    "category": "physical-design",
+    "tags": [
+      "museum",
+      "accessibility",
+      "renovation",
+      "physical design"
+    ],
+    "sourceName": "The Times of India",
+    "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/a-billionaire-gave-160-million-to-transform-a-158-year-old-dinosaur-museum-in-2024-it-reopened-with-bigger-galleries-and-free-entry/articleshow/135397851.cms",
+    "relatedSources": [
+      {
+        "name": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/a-billionaire-gave-160-million-to-transform-a-158-year-old-dinosaur-museum-in-2024-it-reopened-with-bigger-galleries-and-free-entry/articleshow/135397851.cms"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-96234b51",
+    "status": "published",
+    "translationOf": "a-billionaire-gave-160-million-to-transform-a-158-year-old-dinosaur-museum-in-20-96234b51",
+    "publishedAt": "2026-10-31T12:29:32.000Z",
+    "fetchedAt": "2026-11-01T21:12:14.518Z",
+    "body": "耶魯皮博迪博物館獲億萬富翁注資1.6億美元進行翻修，2024年重新開放。新館提供更大的展覽空間、免費參觀，並加強無障礙設施，如擴充教室區域和互動展覽，以方便殘障參觀者。\n\n原文來源： [The Times of India](https://timesofindia.indiatimes.com/world/rest-of-world/a-billionaire-gave-160-million-to-transform-a-158-year-old-dinosaur-museum-in-2024-it-reopened-with-bigger-galleries-and-free-entry/articleshow/135397851.cms)"
   }
 ]
