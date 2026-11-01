@@ -119128,5 +119128,178 @@
     "publishedAt": "2026-10-31T13:21:06.000Z",
     "fetchedAt": "2026-10-31T21:52:34.809Z",
     "body": "Egypt’s Interior Ministry inaugurated the 18888 hotline to receive complaints and requests for assistance from people with disabilities, aiming to improve service response and protect their rights.\n\nRead more from the original source: [news.google.com](https://twaslnews1.twaslnews.com/6909999)"
+  },
+  {
+    "title": "New election map centers accessibility for voters with disabilities",
+    "slug": "new-election-map-centers-accessibility-for-voters-with-disabilities-32f233a1",
+    "lang": "en",
+    "summary": "Fox43 reports that a new election map highlights accessibility features such as wheelchair‑accessible polling places, tactile ballots and sign‑language support, aiming to ensure voters with disabilities can participate fully on election night.",
+    "category": "physical-design",
+    "tags": [
+      "election",
+      "voting",
+      "accessibility",
+      "disability"
+    ],
+    "sourceName": "fox43.com",
+    "sourceUrl": "https://www.fox43.com/video/news/local/york-county/new-election-map-puts-accessibility-at-the-center-of-election-night/521-4dbbd358-080b-4eff-8058-d3d95400f918",
+    "relatedSources": [
+      {
+        "name": "fox43.com",
+        "url": "https://www.fox43.com/video/news/local/york-county/new-election-map-puts-accessibility-at-the-center-of-election-night/521-4dbbd358-080b-4eff-8058-d3d95400f918"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-32f233a1",
+    "status": "published",
+    "translationOf": "new-election-map-centers-accessibility-for-voters-with-disabilities-zh-32f233a1",
+    "publishedAt": "2026-10-31T20:37:00.000Z",
+    "fetchedAt": "2026-11-01T15:08:42.113Z",
+    "body": "Fox43 reports that a new election map highlights accessibility features such as wheelchair‑accessible polling places, tactile ballots and sign‑language support, aiming to ensure voters with disabilities can participate fully on election night.\n\nRead more from the original source: [fox43.com](https://www.fox43.com/video/news/local/york-county/new-election-map-puts-accessibility-at-the-center-of-election-night/521-4dbbd358-080b-4eff-8058-d3d95400f918)"
+  },
+  {
+    "title": "lite-locator-mcp 0.1.6 – Semantic Element Finder for Playwright MCP",
+    "slug": "lite-locator-mcp-016-semantic-element-finder-for-playwright-mcp-0c1123c6",
+    "lang": "en",
+    "summary": "A Playwright MCP plugin that provides a semantic element finder, allowing LLMs to receive a shortlist of candidate elements rather than the full accessibility tree, improving efficiency in accessibility‑focused testing.",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility",
+      "Playwright",
+      "MCP",
+      "LLM",
+      "semantic element"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/lite-locator-mcp/0.1.6",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/lite-locator-mcp/0.1.6"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-0c1123c6",
+    "status": "published",
+    "translationOf": "lite-locator-mcp-016-semantic-element-finder-for-playwright-mcp-zh-0c1123c6",
+    "publishedAt": "2026-10-31T07:31:37.000Z",
+    "fetchedAt": "2026-11-01T15:08:48.513Z",
+    "body": "A Playwright MCP plugin that provides a semantic element finder, allowing LLMs to receive a shortlist of candidate elements rather than the full accessibility tree, improving efficiency in accessibility‑focused testing.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/lite-locator-mcp/0.1.6)"
+  },
+  {
+    "title": "a11y-toolkit 5.25.2 – Accessibility Layer for AI Coding Agents with WCAG 2.2 Support",
+    "slug": "a11y-toolkit-5252-accessibility-layer-for-ai-coding-agents-with-wcag-22-support-ef99af51",
+    "lang": "en",
+    "summary": "An MCP server and CLI toolkit that serves as an accessibility layer for AI coding agents, offering static and rendered audits (contrast, target size 2.5.8, focus), contrast calculations, and compliance declarations for EAA/RD 1112/2018, helping developers ensure WCAG 2.2 conformance.",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility",
+      "WCAG 2.2",
+      "MCP",
+      "CLI",
+      "AI coding agents",
+      "contrast",
+      "target size",
+      "focus"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/a11y-toolkit/5.25.2",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/a11y-toolkit/5.25.2"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-ef99af51",
+    "status": "published",
+    "translationOf": "a11y-toolkit-5252-accessibility-layer-for-ai-coding-agents-with-wcag-22-support-zh-ef99af51",
+    "publishedAt": "2026-10-31T07:05:13.000Z",
+    "fetchedAt": "2026-11-01T15:08:48.688Z",
+    "body": "An MCP server and CLI toolkit that serves as an accessibility layer for AI coding agents, offering static and rendered audits (contrast, target size 2.5.8, focus), contrast calculations, and compliance declarations for EAA/RD 1112/2018, helping developers ensure WCAG 2.2 conformance.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/a11y-toolkit/5.25.2)"
+  },
+  {
+    "title": "Chiayi City Honors Outstanding Disabled Individuals on International Day of Persons with Disabilities",
+    "slug": "chiayi-city-honors-outstanding-disabled-individuals-on-international-day-of-pers-b324a47a",
+    "lang": "en",
+    "summary": "On December 31, Chiayi City held its International Day of Persons with Disabilities celebration at Central Plaza, where Mayor Huang Min-hui presented awards to outstanding disabled individuals and exemplary organizations, emphasizing understanding and barrier-free dreams.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "event",
+      "awards",
+      "Chiayi",
+      "International Day of Persons with Disabilities"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E7%94%9F%E5%91%BD%E5%BD%B1%E9%9F%BF%E7%94%9F%E5%91%BD-%E5%98%89%E5%B8%82%E8%BA%AB%E9%9A%9C%E6%97%A5%E8%A1%A8%E6%8F%9A%E5%82%91%E5%87%BA%E8%BA%AB%E9%9A%9C%E4%BA%BA%E5%A3%AB-%E7%B8%BE%E5%84%AA%E5%96%AE%E4%BD%8D-%E9%BB%83%E6%95%8F%E6%83%A0-%E7%90%86%E8%A7%A3%E7%9B%B8%E4%BC%B4%E5%A4%A2%E6%83%B3%E7%84%A1%E7%A4%99-120655246.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E7%94%9F%E5%91%BD%E5%BD%B1%E9%9F%BF%E7%94%9F%E5%91%BD-%E5%98%89%E5%B8%82%E8%BA%AB%E9%9A%9C%E6%97%A5%E8%A1%A8%E6%8F%9A%E5%82%91%E5%87%BA%E8%BA%AB%E9%9A%9C%E4%BA%BA%E5%A3%AB-%E7%B8%BE%E5%84%AA%E5%96%AE%E4%BD%8D-%E9%BB%83%E6%95%8F%E6%83%A0-%E7%90%86%E8%A7%A3%E7%9B%B8%E4%BC%B4%E5%A4%A2%E6%83%B3%E7%84%A1%E7%A4%99-120655246.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-b324a47a",
+    "status": "published",
+    "translationOf": "chiayi-city-honors-outstanding-disabled-individuals-on-international-day-of-pers-zh-b324a47a",
+    "publishedAt": "2026-10-31T12:06:55.000Z",
+    "fetchedAt": "2026-11-01T15:09:01.440Z",
+    "body": "On December 31, Chiayi City held its International Day of Persons with Disabilities celebration at Central Plaza, where Mayor Huang Min-hui presented awards to outstanding disabled individuals and exemplary organizations, emphasizing understanding and barrier-free dreams.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E7%94%9F%E5%91%BD%E5%BD%B1%E9%9F%BF%E7%94%9F%E5%91%BD-%E5%98%89%E5%B8%82%E8%BA%AB%E9%9A%9C%E6%97%A5%E8%A1%A8%E6%8F%9A%E5%82%91%E5%87%BA%E8%BA%AB%E9%9A%9C%E4%BA%BA%E5%A3%AB-%E7%B8%BE%E5%84%AA%E5%96%AE%E4%BD%8D-%E9%BB%83%E6%95%8F%E6%83%A0-%E7%90%86%E8%A7%A3%E7%9B%B8%E4%BC%B4%E5%A4%A2%E6%83%B3%E7%84%A1%E7%A4%99-120655246.html)"
+  },
+  {
+    "title": "New Accessible Green Space Benefits Wheelchair Users and Parents with Strollers, Also Police Officers",
+    "slug": "new-accessible-green-space-benefits-wheelchair-users-and-parents-with-strollers--d562573b",
+    "lang": "en",
+    "summary": "The renovated Shuang Lun Plaza in Hsinchu County now features a barrier-free green environment that accommodates wheelchair users and parents with baby strollers, while also providing a relaxing spot for nearby police officers from the Beitun precinct.",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "wheelchair",
+      "stroller",
+      "park",
+      "police",
+      "green space"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E8%AE%93%E8%AD%A6%E5%AF%9F%E5%90%8C%E4%BB%81%E4%B9%9F%E8%83%BD-%E6%A3%AE%E5%91%BC%E5%90%B8-%E9%84%AD%E6%9C%9D%E6%96%B9%E7%8E%87%E7%99%BE%E4%BD%8D%E5%B8%82%E6%B0%91%E8%B5%B0%E8%AE%80-053032459.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E8%AE%93%E8%AD%A6%E5%AF%9F%E5%90%8C%E4%BB%81%E4%B9%9F%E8%83%BD-%E6%A3%AE%E5%91%BC%E5%90%B8-%E9%84%AD%E6%9C%9D%E6%96%B9%E7%8E%87%E7%99%BE%E4%BD%8D%E5%B8%82%E6%B0%91%E8%B5%B0%E8%AE%80-053032459.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-d562573b",
+    "status": "published",
+    "translationOf": "new-accessible-green-space-benefits-wheelchair-users-and-parents-with-strollers--zh-d562573b",
+    "publishedAt": "2026-10-31T05:30:32.000Z",
+    "fetchedAt": "2026-11-01T15:09:01.639Z",
+    "body": "The renovated Shuang Lun Plaza in Hsinchu County now features a barrier-free green environment that accommodates wheelchair users and parents with baby strollers, while also providing a relaxing spot for nearby police officers from the Beitun precinct.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E8%AE%93%E8%AD%A6%E5%AF%9F%E5%90%8C%E4%BB%81%E4%B9%9F%E8%83%BD-%E6%A3%AE%E5%91%BC%E5%90%B8-%E9%84%AD%E6%9C%9D%E6%96%B9%E7%8E%87%E7%99%BE%E4%BD%8D%E5%B8%82%E6%B0%91%E8%B5%B0%E8%AE%80-053032459.html)"
   }
 ]

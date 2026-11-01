@@ -119128,5 +119128,178 @@
     "publishedAt": "2026-10-31T13:21:06.000Z",
     "fetchedAt": "2026-10-31T21:52:34.809Z",
     "body": "埃及內政部開通 18888 熱線，專門受理身障人士的投訴與協助請求，旨在提升服務回應並保障其權益。\n\n原文來源： [news.google.com](https://twaslnews1.twaslnews.com/6909999)"
+  },
+  {
+    "title": "新選舉地圖以殘障選民的可及性為核心",
+    "slug": "new-election-map-centers-accessibility-for-voters-with-disabilities-zh-32f233a1",
+    "lang": "zh-TW",
+    "summary": "Fox43 報導，新選舉地圖突顯輪椅可進入投票站、觸覺 ballot 及手語支援等無障礙功能，確保殘障選民能在選舉之夜充分參與。",
+    "category": "physical-design",
+    "tags": [
+      "election",
+      "voting",
+      "accessibility",
+      "disability"
+    ],
+    "sourceName": "fox43.com",
+    "sourceUrl": "https://www.fox43.com/video/news/local/york-county/new-election-map-puts-accessibility-at-the-center-of-election-night/521-4dbbd358-080b-4eff-8058-d3d95400f918",
+    "relatedSources": [
+      {
+        "name": "fox43.com",
+        "url": "https://www.fox43.com/video/news/local/york-county/new-election-map-puts-accessibility-at-the-center-of-election-night/521-4dbbd358-080b-4eff-8058-d3d95400f918"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-32f233a1",
+    "status": "published",
+    "translationOf": "new-election-map-centers-accessibility-for-voters-with-disabilities-32f233a1",
+    "publishedAt": "2026-10-31T20:37:00.000Z",
+    "fetchedAt": "2026-11-01T15:08:42.113Z",
+    "body": "Fox43 報導，新選舉地圖突顯輪椅可進入投票站、觸覺 ballot 及手語支援等無障礙功能，確保殘障選民能在選舉之夜充分參與。\n\n原文來源： [fox43.com](https://www.fox43.com/video/news/local/york-county/new-election-map-puts-accessibility-at-the-center-of-election-night/521-4dbbd358-080b-4eff-8058-d3d95400f918)"
+  },
+  {
+    "title": "lite-locator-mcp 0.1.6 – Playwright MCP 的語義元素查找器",
+    "slug": "lite-locator-mcp-016-semantic-element-finder-for-playwright-mcp-zh-0c1123c6",
+    "lang": "zh-TW",
+    "summary": "一個 Playwright MCP 外掛，提供語義元素查找功能，使大型語言模型僅獲得候選元素的簡短列表，而非完整的可訪問樹，提升無障礙測試效率。",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility",
+      "Playwright",
+      "MCP",
+      "LLM",
+      "semantic element"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/lite-locator-mcp/0.1.6",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/lite-locator-mcp/0.1.6"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-0c1123c6",
+    "status": "published",
+    "translationOf": "lite-locator-mcp-016-semantic-element-finder-for-playwright-mcp-0c1123c6",
+    "publishedAt": "2026-10-31T07:31:37.000Z",
+    "fetchedAt": "2026-11-01T15:08:48.513Z",
+    "body": "一個 Playwright MCP 外掛，提供語義元素查找功能，使大型語言模型僅獲得候選元素的簡短列表，而非完整的可訪問樹，提升無障礙測試效率。\n\n原文來源： [Pypi.org](https://pypi.org/project/lite-locator-mcp/0.1.6)"
+  },
+  {
+    "title": "a11y-toolkit 5.25.2 – 支援 WCAG 2.2 的 AI 編碼代理無障礙層",
+    "slug": "a11y-toolkit-5252-accessibility-layer-for-ai-coding-agents-with-wcag-22-support-zh-ef99af51",
+    "lang": "zh-TW",
+    "summary": "一個 MCP 伺服器與命令列工具包，作為 AI 編碼代理的無障礙層，提供靜態與渲染審核（對比度、目標尺寸 2.5.8、焦點）、對比計算以及 EAA/RD 1112/2018 合規聲明，協助開發者確保符合 WCAG 2.2 標準。",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility",
+      "WCAG 2.2",
+      "MCP",
+      "CLI",
+      "AI coding agents",
+      "contrast",
+      "target size",
+      "focus"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/a11y-toolkit/5.25.2",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/a11y-toolkit/5.25.2"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-ef99af51",
+    "status": "published",
+    "translationOf": "a11y-toolkit-5252-accessibility-layer-for-ai-coding-agents-with-wcag-22-support-ef99af51",
+    "publishedAt": "2026-10-31T07:05:13.000Z",
+    "fetchedAt": "2026-11-01T15:08:48.688Z",
+    "body": "一個 MCP 伺服器與命令列工具包，作為 AI 編碼代理的無障礙層，提供靜態與渲染審核（對比度、目標尺寸 2.5.8、焦點）、對比計算以及 EAA/RD 1112/2018 合規聲明，協助開發者確保符合 WCAG 2.2 標準。\n\n原文來源： [Pypi.org](https://pypi.org/project/a11y-toolkit/5.25.2)"
+  },
+  {
+    "title": "生命影響生命！嘉市身障日表揚傑出身障人士、績優單位　黃敏惠：理解相伴夢想無礙",
+    "slug": "chiayi-city-honors-outstanding-disabled-individuals-on-international-day-of-pers-zh-b324a47a",
+    "lang": "zh-TW",
+    "summary": "嘉義市於12月31日在中央廣場舉辦2026年國際身心障礙者日活動，市長黃敏惠表揚傑出身障人士及績優單位，強調理解相伴，夢想無礙。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "event",
+      "awards",
+      "Chiayi",
+      "International Day of Persons with Disabilities"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E7%94%9F%E5%91%BD%E5%BD%B1%E9%9F%BF%E7%94%9F%E5%91%BD-%E5%98%89%E5%B8%82%E8%BA%AB%E9%9A%9C%E6%97%A5%E8%A1%A8%E6%8F%9A%E5%82%91%E5%87%BA%E8%BA%AB%E9%9A%9C%E4%BA%BA%E5%A3%AB-%E7%B8%BE%E5%84%AA%E5%96%AE%E4%BD%8D-%E9%BB%83%E6%95%8F%E6%83%A0-%E7%90%86%E8%A7%A3%E7%9B%B8%E4%BC%B4%E5%A4%A2%E6%83%B3%E7%84%A1%E7%A4%99-120655246.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E7%94%9F%E5%91%BD%E5%BD%B1%E9%9F%BF%E7%94%9F%E5%91%BD-%E5%98%89%E5%B8%82%E8%BA%AB%E9%9A%9C%E6%97%A5%E8%A1%A8%E6%8F%9A%E5%82%91%E5%87%BA%E8%BA%AB%E9%9A%9C%E4%BA%BA%E5%A3%AB-%E7%B8%BE%E5%84%AA%E5%96%AE%E4%BD%8D-%E9%BB%83%E6%95%8F%E6%83%A0-%E7%90%86%E8%A7%A3%E7%9B%B8%E4%BC%B4%E5%A4%A2%E6%83%B3%E7%84%A1%E7%A4%99-120655246.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-b324a47a",
+    "status": "published",
+    "translationOf": "chiayi-city-honors-outstanding-disabled-individuals-on-international-day-of-pers-b324a47a",
+    "publishedAt": "2026-10-31T12:06:55.000Z",
+    "fetchedAt": "2026-11-01T15:09:01.440Z",
+    "body": "嘉義市於12月31日在中央廣場舉辦2026年國際身心障礙者日活動，市長黃敏惠表揚傑出身障人士及績優單位，強調理解相伴，夢想無礙。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E7%94%9F%E5%91%BD%E5%BD%B1%E9%9F%BF%E7%94%9F%E5%91%BD-%E5%98%89%E5%B8%82%E8%BA%AB%E9%9A%9C%E6%97%A5%E8%A1%A8%E6%8F%9A%E5%82%91%E5%87%BA%E8%BA%AB%E9%9A%9C%E4%BA%BA%E5%A3%AB-%E7%B8%BE%E5%84%AA%E5%96%AE%E4%BD%8D-%E9%BB%83%E6%95%8F%E6%83%A0-%E7%90%86%E8%A7%A3%E7%9B%B8%E4%BC%B4%E5%A4%A2%E6%83%B3%E7%84%A1%E7%A4%99-120655246.html)"
+  },
+  {
+    "title": "讓警察同仁也能「森呼吸」　鄭朝方率百位市民走讀",
+    "slug": "new-accessible-green-space-benefits-wheelchair-users-and-parents-with-strollers--zh-d562573b",
+    "lang": "zh-TW",
+    "summary": "新竹縣警局竹北分局附近的雙崙廣場完成整體空間重造，提供無障礙綠意環境，方便推嬰兒車家長與輪椅族通行，亦成為鄰里及竹北分局警察同仁休閒去處。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility",
+      "wheelchair",
+      "stroller",
+      "park",
+      "police",
+      "green space"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E8%AE%93%E8%AD%A6%E5%AF%9F%E5%90%8C%E4%BB%81%E4%B9%9F%E8%83%BD-%E6%A3%AE%E5%91%BC%E5%90%B8-%E9%84%AD%E6%9C%9D%E6%96%B9%E7%8E%87%E7%99%BE%E4%BD%8D%E5%B8%82%E6%B0%91%E8%B5%B0%E8%AE%80-053032459.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E8%AE%93%E8%AD%A6%E5%AF%9F%E5%90%8C%E4%BB%81%E4%B9%9F%E8%83%BD-%E6%A3%AE%E5%91%BC%E5%90%B8-%E9%84%AD%E6%9C%9D%E6%96%B9%E7%8E%87%E7%99%BE%E4%BD%8D%E5%B8%82%E6%B0%91%E8%B5%B0%E8%AE%80-053032459.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-d562573b",
+    "status": "published",
+    "translationOf": "new-accessible-green-space-benefits-wheelchair-users-and-parents-with-strollers--d562573b",
+    "publishedAt": "2026-10-31T05:30:32.000Z",
+    "fetchedAt": "2026-11-01T15:09:01.639Z",
+    "body": "新竹縣警局竹北分局附近的雙崙廣場完成整體空間重造，提供無障礙綠意環境，方便推嬰兒車家長與輪椅族通行，亦成為鄰里及竹北分局警察同仁休閒去處。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E8%AE%93%E8%AD%A6%E5%AF%9F%E5%90%8C%E4%BB%81%E4%B9%9F%E8%83%BD-%E6%A3%AE%E5%91%BC%E5%90%B8-%E9%84%AD%E6%9C%9D%E6%96%B9%E7%8E%87%E7%99%BE%E4%BD%8D%E5%B8%82%E6%B0%91%E8%B5%B0%E8%AE%80-053032459.html)"
   }
 ]
