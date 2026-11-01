@@ -13706,5 +13706,115 @@
         }
       ]
     }
+  },
+  "2026-11-01": {
+    "generatedAt": "2026-11-01T15:56:47.932Z",
+    "en": {
+      "title": "W3C TPAC Concludes, Election Accessibility Surveys Launched, and Fan Advocacy Grows",
+      "summary": "The W3C annual TPAC meeting in Dublin has concluded, with upcoming drafts expected to shape web accessibility standards. Concurrently, accessibility surveys for general elections have been launched in multiple jurisdictions to address voting barriers. In the live-music sector, disabled fans are pushing for stricter ADA compliance, asserting that venues must accommodate their access needs.",
+      "highlights": [
+        {
+          "title": "Discussion on Holocaust and Disability",
+          "slug": "discussion-on-holocaust-and-disability-457ca693",
+          "url": "https://x.com/mofu_mayu/status/2116914680203776243"
+        },
+        {
+          "title": "FanLympics 2026 Charity Event",
+          "slug": "fanlympics-2026-charity-event-28fdd23b",
+          "url": "https://x.com/GeminiCrePH/status/2116914659098067414"
+        },
+        {
+          "title": "Anant Ashray Inclusion Initiative",
+          "slug": "anant-ashray-inclusion-initiative-3e3dfd36",
+          "url": "https://x.com/GemsOfCricket/status/2116914658670264686"
+        },
+        {
+          "title": "Ecommerce Checkout Performance and Accessibility",
+          "slug": "ecommerce-checkout-performance-and-accessibility-663c36f2",
+          "url": "https://x.com/statusisup/status/2116914629708321192"
+        },
+        {
+          "title": "Labor Conditions for People with Disabilities",
+          "slug": "labor-conditions-for-people-with-disabilities-8d2a4767",
+          "url": "https://x.com/Furuhashi_n/status/2116914452373405753"
+        },
+        {
+          "title": "Criticism of White Cane Information Page",
+          "slug": "criticism-of-white-cane-information-page-bc477df1",
+          "url": "https://x.com/xxx00705/status/2116914164266569968"
+        },
+        {
+          "title": "Discussion on Disability Welfare and Political Support",
+          "slug": "discussion-on-disability-welfare-and-political-support-c9f1a452",
+          "url": "https://x.com/HereToBeHeardd/status/2116913934188110298"
+        },
+        {
+          "title": "Discussion on Employment for People with Disabilities",
+          "slug": "discussion-on-employment-for-people-with-disabilities-3bde5a91",
+          "url": "https://x.com/watani_y/status/2116913782261989468"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "W3C TPAC 會議結束，選舉無障礙調查啟動，粉絲倡議成長",
+      "summary": "W3C 在都柏林舉行的年度 TPAC 會議已結束，預計即將發布的草案將制定網絡無障礙標準。與此同時，多個管轄區啟動了一般選舉的無障礙調查，以解決投票障礙。在現場音樂領域，殘障歌迷正推動更嚴格的 ADA 合規，並堅稱場地必須適應其通行需求。",
+      "highlights": [
+        {
+          "title": "Vercel Labs Agent Desktop 使用作業系統無障礙樹",
+          "slug": "vercel-labs-agent-desktop-utilizes-os-accessibility-tree-zh-ad495fcf",
+          "url": "https://x.com/mano_sec/status/2116628778453741871"
+        },
+        {
+          "title": "澤西島大選無障礙調查啟動",
+          "slug": "jersey-general-election-accessibility-survey-launched-zh-acace06e",
+          "url": "https://www.bbc.com/news/articles/cxm23dnzv49do?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D"
+        },
+        {
+          "title": "大選無障礙調查已啟動",
+          "slug": "general-election-accessibility-survey-launched-zh-d58214a6",
+          "url": "https://www.yahoo.com/news/world/articles/general-election-accessibility-survey-launched-071105954.html"
+        },
+        {
+          "title": "W3C TPAC 會議在都柏林結束",
+          "slug": "w3c-tpac-meeting-concludes-in-dublin-zh-854a3cae",
+          "url": "https://x.com/makoto_ueki/status/2116820121868009806"
+        },
+        {
+          "title": "漫畫因宣傳殘障歧視而受到批評",
+          "slug": "criticism-of-manga-for-promoting-disability-discrimination-zh-b88323cb",
+          "url": "https://x.com/kittyandR/status/2116629939042852977"
+        },
+        {
+          "title": "不列顛哥倫比亞社區將萬聖節搬到人行道，讓不給糖就搗蛋更無障礙",
+          "slug": "bc-communities-bring-halloween-to-the-sidewalks-to-make-trick-or-treating-more-a-zh-908d33d3",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/accessible-halloween-in-b-c-9.7404644"
+        },
+        {
+          "title": "殘障粉絲說現場音樂業界可以做得更好：我們不是麻煩",
+          "slug": "disabled-fans-say-the-live-music-industry-can-do-better-we-are-not-a-pain-in-the-zh-fa24c289",
+          "url": "https://www.rollingstone.com/music/music-features/disabled-fans-live-music-industry-ada-compliance-1235566027"
+        },
+        {
+          "title": "倡導殘障成人性健康權益",
+          "slug": "advocating-for-sexual-health-rights-for-disabled-adults-zh-1a03e9d1",
+          "url": "https://x.com/theLITDJNIV/status/2116630856424960076"
+        },
+        {
+          "title": "安南阿什雷專注於以人為中心的照護",
+          "slug": "anant-ashray-focuses-on-person-centered-care-zh-4d114bfb",
+          "url": "https://x.com/krishnaeyee/status/2116912575078355394"
+        },
+        {
+          "title": "殘障人士的勞動條件",
+          "slug": "labor-conditions-for-people-with-disabilities-zh-8d2a4767",
+          "url": "https://x.com/Furuhashi_n/status/2116914452373405753"
+        },
+        {
+          "title": "白色手杖資訊頁面的批評",
+          "slug": "criticism-of-white-cane-information-page-zh-bc477df1",
+          "url": "https://x.com/xxx00705/status/2116914164266569968"
+        }
+      ]
+    }
   }
 }
