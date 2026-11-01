@@ -83688,5 +83688,38 @@
     "publishedAt": "2026-07-22T07:00:00.000Z",
     "fetchedAt": "2026-10-29T22:57:22.971Z",
     "body": "一場工作會議舉行，旨在回顧並展示馬斯喀特市政廳為殘障人士提供的服務及無障礙便利設施。\n\n原文來源： [news.google.com](https://www.omandaily.om/ampArticle/1207225)"
+  },
+  {
+    "title": "沙特人力資源及社會發展部強調面向殘疾人士的数字服務",
+    "slug": "saudi-ministry-of-human-resources-spotlights-digital-services-for-people-with-di-zh-17394146",
+    "lang": "zh-TW",
+    "summary": "在「紫色星期六」期間，沙特人力資源及社會發展部重點介紹了其專為殘疾人士設計的數字服務體系。",
+    "category": "digital-a11y",
+    "tags": [
+      "Saudi Arabia",
+      "Digital Services",
+      "Purple Saturday"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.spa.gov.sa/N2641304",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.spa.gov.sa/N2641304"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-17394146",
+    "status": "published",
+    "translationOf": "saudi-ministry-of-human-resources-spotlights-digital-services-for-people-with-di-17394146",
+    "publishedAt": "2026-07-25T07:00:00.000Z",
+    "fetchedAt": "2026-11-01T16:56:52.767Z",
+    "body": "在「紫色星期六」期間，沙特人力資源及社會發展部重點介紹了其專為殘疾人士設計的數字服務體系。\n\n原文來源： [news.google.com](https://www.spa.gov.sa/N2641304)"
   }
 ]

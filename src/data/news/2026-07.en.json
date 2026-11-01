@@ -83688,5 +83688,38 @@
     "publishedAt": "2026-07-22T07:00:00.000Z",
     "fetchedAt": "2026-10-29T22:57:22.971Z",
     "body": "A working session was held to review and showcase the services and accessibility facilities provided by the Muscat Municipality for persons with disabilities.\n\nRead more from the original source: [news.google.com](https://www.omandaily.om/ampArticle/1207225)"
+  },
+  {
+    "title": "Saudi Ministry of Human Resources Spotlights Digital Services for People with Disabilities",
+    "slug": "saudi-ministry-of-human-resources-spotlights-digital-services-for-people-with-di-17394146",
+    "lang": "en",
+    "summary": "In conjunction with Purple Saturday, the Saudi Ministry of Human Resources and Social Development highlighted its digital service system designed specifically for people with disabilities.",
+    "category": "digital-a11y",
+    "tags": [
+      "Saudi Arabia",
+      "Digital Services",
+      "Purple Saturday"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.spa.gov.sa/N2641304",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.spa.gov.sa/N2641304"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-17394146",
+    "status": "published",
+    "translationOf": "saudi-ministry-of-human-resources-spotlights-digital-services-for-people-with-di-zh-17394146",
+    "publishedAt": "2026-07-25T07:00:00.000Z",
+    "fetchedAt": "2026-11-01T16:56:52.767Z",
+    "body": "In conjunction with Purple Saturday, the Saudi Ministry of Human Resources and Social Development highlighted its digital service system designed specifically for people with disabilities.\n\nRead more from the original source: [news.google.com](https://www.spa.gov.sa/N2641304)"
   }
 ]
