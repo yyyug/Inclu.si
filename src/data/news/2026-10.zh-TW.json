@@ -119812,5 +119812,38 @@
     "publishedAt": "2026-10-30T07:04:00.000Z",
     "fetchedAt": "2026-11-02T18:23:19.255Z",
     "body": "基隆身障創新基地已正式啟用，提供無障礙的活動空間，以提升身障人士參與各項活動的便利性與無障礙環境。\n\n原文來源： [自由時報](https://news.ltn.com.tw/amp/news/Keelung/breakingnews/5623893)"
+  },
+  {
+    "title": "雙雄對決：兩位新 iPhone Duo 用戶討論蘋果新款可摺疊手機的優缺點",
+    "slug": "duelling-duos-two-new-iphone-duo-users-discuss-the-pros-and-cons-of-apples-new-f-zh-20a4b06f",
+    "lang": "zh-TW",
+    "summary": "Steven Scott、Shaun Preece 與 AppleVis 的 David Nason 評估 iPhone Duo 對盲人和低視力使用者的無障礙性，測試 VoiceOver、螢幕形狀變化以及 Split View 功能。",
+    "category": "digital-a11y",
+    "tags": [
+      "iPhone",
+      "VoiceOver",
+      "low vision",
+      "foldable"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/duelling-duos-two-new-iphone-duo-users-discuss-the-pros-and-cons-of-apples-new-foldable-phone",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/duelling-duos-two-new-iphone-duo-users-discuss-the-pros-and-cons-of-apples-new-foldable-phone"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-20a4b06f",
+    "status": "published",
+    "translationOf": "duelling-duos-two-new-iphone-duo-users-discuss-the-pros-and-cons-of-apples-new-f-20a4b06f",
+    "publishedAt": "2026-10-30T16:00:00.000Z",
+    "fetchedAt": "2026-11-02T18:32:38.586Z",
+    "body": "Steven Scott、Shaun Preece 與 AppleVis 的 David Nason 評估 iPhone Duo 對盲人和低視力使用者的無障礙性，測試 VoiceOver、螢幕形狀變化以及 Split View 功能。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/duelling-duos-two-new-iphone-duo-users-discuss-the-pros-and-cons-of-apples-new-foldable-phone)"
   }
 ]
