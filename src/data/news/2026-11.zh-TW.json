@@ -3119,5 +3119,635 @@
     "publishedAt": "2026-11-01T08:01:53.000Z",
     "fetchedAt": "2026-11-01T22:24:12.939Z",
     "body": "宗教部部長宣布，將發展宗教意識形態與教育方法，以更好地服務身心障礙者，確保宗教服務與教育材料對該群體具有可及性。\n\n原文來源： [news.google.com](https://sarmad.com/351067)"
+  },
+  {
+    "title": "威斯康辛州倡導者稱外展與教育是提升投票無障礙的關鍵",
+    "slug": "outreach-education-are-key-to-voting-accessibility-wisconsin-advocates-say-pbs-w-zh-9d739138",
+    "lang": "zh-TW",
+    "summary": "威斯康辛州的倡導者強調，外展與教育是改善殘障人士投票無障礙的關鍵，確保他們能夠充分參與選舉。",
+    "category": "laws-rights",
+    "tags": [
+      "voting",
+      "disability",
+      "outreach",
+      "education"
+    ],
+    "sourceName": "PBS Wisconsin",
+    "sourceUrl": "https://pbswisconsin.org/news-item/outreach-education-are-key-to-voting-accessibility-wisconsin-advocates-say",
+    "relatedSources": [
+      {
+        "name": "PBS Wisconsin",
+        "url": "https://pbswisconsin.org/news-item/outreach-education-are-key-to-voting-accessibility-wisconsin-advocates-say"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-9d739138",
+    "status": "published",
+    "translationOf": "outreach-education-are-key-to-voting-accessibility-wisconsin-advocates-say-pbs-w-9d739138",
+    "publishedAt": "2026-11-02T17:37:24.000Z",
+    "fetchedAt": "2026-11-02T18:22:30.935Z",
+    "body": "威斯康辛州的倡導者強調，外展與教育是改善殘障人士投票無障礙的關鍵，確保他們能夠充分參與選舉。\n\n原文來源： [PBS Wisconsin](https://pbswisconsin.org/news-item/outreach-education-are-key-to-voting-accessibility-wisconsin-advocates-say)"
+  },
+  {
+    "title": "賓州州立大學教師研究系列探討物理動畫的無障礙性",
+    "slug": "faculty-research-series-explores-accessibility-in-physics-animations-the-pennsyl-zh-c6dbb36d",
+    "lang": "zh-TW",
+    "summary": "賓州州立大學的研究人員正在探索如何讓物理動畫對殘障學生更具可及性，例如加入音頻描述和與螢幕閱讀器相容的格式。",
+    "category": "digital-a11y",
+    "tags": [
+      "physics",
+      "animation",
+      "digital accessibility",
+      "assistive technology"
+    ],
+    "sourceName": "The Pennsylvania State University",
+    "sourceUrl": "https://www.psu.edu/news/schuylkill/story/faculty-research-series-explores-accessibility-physics-animations",
+    "relatedSources": [
+      {
+        "name": "The Pennsylvania State University",
+        "url": "https://www.psu.edu/news/schuylkill/story/faculty-research-series-explores-accessibility-physics-animations"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-c6dbb36d",
+    "status": "published",
+    "translationOf": "faculty-research-series-explores-accessibility-in-physics-animations-the-pennsyl-c6dbb36d",
+    "publishedAt": "2026-11-02T14:55:59.000Z",
+    "fetchedAt": "2026-11-02T18:22:30.955Z",
+    "body": "賓州州立大學的研究人員正在探索如何讓物理動畫對殘障學生更具可及性，例如加入音頻描述和與螢幕閱讀器相容的格式。\n\n原文來源： [The Pennsylvania State University](https://www.psu.edu/news/schuylkill/story/faculty-research-series-explores-accessibility-physics-animations)"
+  },
+  {
+    "title": "家居無障礙從危機應對轉向長期規劃",
+    "slug": "home-accessibility-moves-from-crisis-response-to-long-term-planning-hme-news-zh-3dd669de",
+    "lang": "zh-TW",
+    "summary": "行業專家指出，家居無障礙改善正從被動的危機應對轉向主動的長期規劃，以更好地支援殘障人士的日常生活。",
+    "category": "physical-design",
+    "tags": [
+      "home modification",
+      "aging in place",
+      "disability",
+      "universal design"
+    ],
+    "sourceName": "HME News",
+    "sourceUrl": "https://www.hmenews.com/article/home-accessibility-moves-from-crisis-response-to-long-term-planning",
+    "relatedSources": [
+      {
+        "name": "HME News",
+        "url": "https://www.hmenews.com/article/home-accessibility-moves-from-crisis-response-to-long-term-planning"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3dd669de",
+    "status": "published",
+    "translationOf": "home-accessibility-moves-from-crisis-response-to-long-term-planning-hme-news-3dd669de",
+    "publishedAt": "2026-11-02T17:28:24.000Z",
+    "fetchedAt": "2026-11-02T18:22:30.961Z",
+    "body": "行業專家指出，家居無障礙改善正從被動的危機應對轉向主動的長期規劃，以更好地支援殘障人士的日常生活。\n\n原文來源： [HME News](https://www.hmenews.com/article/home-accessibility-moves-from-crisis-response-to-long-term-planning)"
+  },
+  {
+    "title": "六家公司採用可及性遊戲倡議標籤，幫助玩家在熱門視訊遊戲中尋找無障礙功能",
+    "slug": "six-companies-adopt-the-accessible-games-initiative-tags-helping-players-find-ac-zh-0da9ed2e",
+    "lang": "zh-TW",
+    "summary": "六家公司採用可及性遊戲倡議標籤，幫助玩家在熱門視訊遊戲中尋找無障礙功能",
+    "category": "digital-a11y",
+    "tags": [
+      "video games",
+      "accessibility tags",
+      "gaming"
+    ],
+    "sourceName": "Morningstar",
+    "sourceUrl": "https://www.morningstar.com/news/pr-newswire/20261102dc85742/six-companies-adopt-the-accessible-games-initiative-tags-helping-players-find-accessibility-features-in-popular-video-games",
+    "relatedSources": [
+      {
+        "name": "Morningstar",
+        "url": "https://www.morningstar.com/news/pr-newswire/20261102dc85742/six-companies-adopt-the-accessible-games-initiative-tags-helping-players-find-accessibility-features-in-popular-video-games"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-0da9ed2e",
+    "status": "published",
+    "translationOf": "six-companies-adopt-the-accessible-games-initiative-tags-helping-players-find-ac-0da9ed2e",
+    "publishedAt": "2026-11-02T18:00:00.000Z",
+    "fetchedAt": "2026-11-02T18:22:45.344Z",
+    "body": "六家公司採用可及性遊戲倡議標籤，幫助玩家在熱門視訊遊戲中尋找無障礙功能\n\n原文來源： [Morningstar](https://www.morningstar.com/news/pr-newswire/20261102dc85742/six-companies-adopt-the-accessible-games-initiative-tags-helping-players-find-accessibility-features-in-popular-video-games)"
+  },
+  {
+    "title": "威斯康辛殘疾權益提醒選民週二選舉的投票站無障礙選項",
+    "slug": "disability-rights-wisconsin-reminds-voters-of-polling-place-accessibility-option-zh-d0fd13d7",
+    "lang": "zh-TW",
+    "summary": "威斯康辛殘疾權益提醒選民週二選舉的投票站無障礙選項",
+    "category": "laws-rights",
+    "tags": [
+      "polling place",
+      "voting",
+      "accessibility",
+      "disability rights"
+    ],
+    "sourceName": "WKOW",
+    "sourceUrl": "https://www.wkow.com/news/disability-rights-wisconsin-reminds-voters-of-polling-place-accessibility-options-for-tuesdays-election/article_dc221853-717c-4b41-b1e6-4022128cd852.html",
+    "relatedSources": [
+      {
+        "name": "WKOW",
+        "url": "https://www.wkow.com/news/disability-rights-wisconsin-reminds-voters-of-polling-place-accessibility-options-for-tuesdays-election/article_dc221853-717c-4b41-b1e6-4022128cd852.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-d0fd13d7",
+    "status": "published",
+    "translationOf": "disability-rights-wisconsin-reminds-voters-of-polling-place-accessibility-option-d0fd13d7",
+    "publishedAt": "2026-11-02T17:54:00.000Z",
+    "fetchedAt": "2026-11-02T18:22:45.349Z",
+    "body": "威斯康辛殘疾權益提醒選民週二選舉的投票站無障礙選項\n\n原文來源： [WKOW](https://www.wkow.com/news/disability-rights-wisconsin-reminds-voters-of-polling-place-accessibility-options-for-tuesdays-election/article_dc221853-717c-4b41-b1e6-4022128cd852.html)"
+  },
+  {
+    "title": "‘你很重要’：殘疾權益倡導者闡明聖路易斯的路邊投票與無障礙",
+    "slug": "you-matter-disability-rights-advocate-illuminates-curbside-voting-accessibility--zh-ac546a7b",
+    "lang": "zh-TW",
+    "summary": "‘你很重要’：殘疾權益倡導者闡明聖路易斯的路邊投票與無障礙",
+    "category": "laws-rights",
+    "tags": [
+      "curbside voting",
+      "St. Louis",
+      "voting accessibility"
+    ],
+    "sourceName": "STLPR",
+    "sourceUrl": "https://www.stlpr.org/government-politics-issues/2026-11-02/missouri-voters-disabilities-curbside-voting-accessibility",
+    "relatedSources": [
+      {
+        "name": "STLPR",
+        "url": "https://www.stlpr.org/government-politics-issues/2026-11-02/missouri-voters-disabilities-curbside-voting-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ac546a7b",
+    "status": "published",
+    "translationOf": "you-matter-disability-rights-advocate-illuminates-curbside-voting-accessibility--ac546a7b",
+    "publishedAt": "2026-11-02T11:00:46.000Z",
+    "fetchedAt": "2026-11-02T18:22:45.354Z",
+    "body": "‘你很重要’：殘疾權益倡導者闡明聖路易斯的路邊投票與無障礙\n\n原文來源： [STLPR](https://www.stlpr.org/government-politics-issues/2026-11-02/missouri-voters-disabilities-curbside-voting-accessibility)"
+  },
+  {
+    "title": "無障礙遊戲計畫如何協助玩家找到合適的遊戲",
+    "slug": "how-the-accessible-games-initiative-is-helping-gamers-find-the-right-games-zh-73ec863b",
+    "lang": "zh-TW",
+    "summary": "該計畫提供資源與建議，幫助殘障玩家尋找具備無障礙功能的遊戲，促進包容性遊戲體驗。",
+    "category": "assistive-tech",
+    "tags": [
+      "gaming",
+      "accessibility",
+      "initiative"
+    ],
+    "sourceName": "GamesIndustry.biz",
+    "sourceUrl": "https://www.gamesindustry.biz/how-the-accessible-games-initiative-is-helping-gamers-find-the-right-games",
+    "relatedSources": [
+      {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/how-the-accessible-games-initiative-is-helping-gamers-find-the-right-games"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-73ec863b",
+    "status": "published",
+    "translationOf": "how-the-accessible-games-initiative-is-helping-gamers-find-the-right-games-73ec863b",
+    "publishedAt": "2026-11-02T18:00:00.000Z",
+    "fetchedAt": "2026-11-02T18:22:54.031Z",
+    "body": "該計畫提供資源與建議，幫助殘障玩家尋找具備無障礙功能的遊戲，促進包容性遊戲體驗。\n\n原文來源： [GamesIndustry.biz](https://www.gamesindustry.biz/how-the-accessible-games-initiative-is-helping-gamers-find-the-right-games)"
+  },
+  {
+    "title": "威爾士教會就殘障人士無障礙設施展開諮詢",
+    "slug": "church-in-wales-opens-consultation-on-disability-accessibility-zh-f4a38af3",
+    "lang": "zh-TW",
+    "summary": "威爾士教會發起諮詢，收集意見以改善其建築和服務對殘障人士的無障礙可及性。",
+    "category": "physical-design",
+    "tags": [
+      "church",
+      "disability",
+      "consultation",
+      "accessibility"
+    ],
+    "sourceName": "Premier Christian News",
+    "sourceUrl": "https://premierchristian.news/en/news/article/church-in-wales-opens-consultation-on-accessibility-for-disabled-people",
+    "relatedSources": [
+      {
+        "name": "Premier Christian News",
+        "url": "https://premierchristian.news/en/news/article/church-in-wales-opens-consultation-on-accessibility-for-disabled-people"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-f4a38af3",
+    "status": "published",
+    "translationOf": "church-in-wales-opens-consultation-on-disability-accessibility-f4a38af3",
+    "publishedAt": "2026-11-02T14:37:00.000Z",
+    "fetchedAt": "2026-11-02T18:22:54.037Z",
+    "body": "威爾士教會發起諮詢，收集意見以改善其建築和服務對殘障人士的無障礙可及性。\n\n原文來源： [Premier Christian News](https://premierchristian.news/en/news/article/church-in-wales-opens-consultation-on-accessibility-for-disabled-people)"
+  },
+  {
+    "title": "真實對話：與Epiphany Davis-Dondle談無障礙",
+    "slug": "real-conversations-accessibility-with-epiphany-davis-dondle-zh-74272b67",
+    "lang": "zh-TW",
+    "summary": "KWQC的訪談節目，探討殘疾人士無障礙議題及倡導，嘉賓為Epiphany Davis-Dondle。",
+    "category": "general",
+    "tags": [
+      "accessibility",
+      "interview",
+      "disability"
+    ],
+    "sourceName": "KWQC",
+    "sourceUrl": "https://www.kwqc.com/2026/11/01/real-conversations-accessibility-with-epiphany-davis-dondle",
+    "relatedSources": [
+      {
+        "name": "KWQC",
+        "url": "https://www.kwqc.com/2026/11/01/real-conversations-accessibility-with-epiphany-davis-dondle"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-74272b67",
+    "status": "published",
+    "translationOf": "real-conversations-accessibility-with-epiphany-davis-dondle-74272b67",
+    "publishedAt": "2026-11-01T17:59:00.000Z",
+    "fetchedAt": "2026-11-02T18:23:00.449Z",
+    "body": "KWQC的訪談節目，探討殘疾人士無障礙議題及倡導，嘉賓為Epiphany Davis-Dondle。\n\n原文來源： [KWQC](https://www.kwqc.com/2026/11/01/real-conversations-accessibility-with-epiphany-davis-dondle)"
+  },
+  {
+    "title": "麻薩諸塞州車站3900萬美元無障礙升級將在原定完工日期後啟動",
+    "slug": "massachusetts-stations-39m-accessibility-upgrade-now-set-to-start-after-its-old--zh-6039af57",
+    "lang": "zh-TW",
+    "summary": "麻薩諸塞州一個交通車站將於原定完工日期之後，開始耗資3900萬美元的無障礙改善工程，以提升殘疾人士的使用便利性。",
+    "category": "physical-design",
+    "tags": [
+      "station",
+      "upgrade",
+      "accessibility",
+      "disability"
+    ],
+    "sourceName": "Yahoo",
+    "sourceUrl": "https://www.yahoo.com/news/us/articles/massachusetts-stations-39m-accessibility-upgrade-060100818.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/massachusetts-stations-39m-accessibility-upgrade-060100818.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-6039af57",
+    "status": "published",
+    "translationOf": "massachusetts-stations-39m-accessibility-upgrade-now-set-to-start-after-its-old--6039af57",
+    "publishedAt": "2026-11-02T06:01:00.000Z",
+    "fetchedAt": "2026-11-02T18:23:00.456Z",
+    "body": "麻薩諸塞州一個交通車站將於原定完工日期之後，開始耗資3900萬美元的無障礙改善工程，以提升殘疾人士的使用便利性。\n\n原文來源： [Yahoo](https://www.yahoo.com/news/us/articles/massachusetts-stations-39m-accessibility-upgrade-060100818.html)"
+  },
+  {
+    "title": "保護我們北卡：學生主導的投票可及性推動",
+    "slug": "protect-ours-nc-a-student-led-push-for-voter-accessibility-zh-e090e508",
+    "lang": "zh-TW",
+    "summary": "學生主導的倡議，致力於改善投票可及性，移除殘障人士在投票站的障礙，確保符合ADA規定並提供輔助投票工具。",
+    "category": "laws-rights",
+    "tags": [
+      "voter accessibility",
+      "disability rights",
+      "ADA",
+      "student activism"
+    ],
+    "sourceName": "The A&T Register",
+    "sourceUrl": "https://ncatregister.com/24268/the-yard/protect-ours-nc-a-student-led-push-for-voter-accessibility",
+    "relatedSources": [
+      {
+        "name": "The A&T Register",
+        "url": "https://ncatregister.com/24268/the-yard/protect-ours-nc-a-student-led-push-for-voter-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e090e508",
+    "status": "published",
+    "translationOf": "protect-ours-nc-a-student-led-push-for-voter-accessibility-e090e508",
+    "publishedAt": "2026-11-01T22:14:05.000Z",
+    "fetchedAt": "2026-11-02T18:23:10.144Z",
+    "body": "學生主導的倡議，致力於改善投票可及性，移除殘障人士在投票站的障礙，確保符合ADA規定並提供輔助投票工具。\n\n原文來源： [The A&T Register](https://ncatregister.com/24268/the-yard/protect-ours-nc-a-student-led-push-for-voter-accessibility)"
+  },
+  {
+    "title": "【營建】一條好路，幸福全家！考評不是為了排名，而是讓每一步都安全！從無障礙人行道、校園通學路到共同管線整合，看見全台街道改善新進展，打造長輩安心、孩子安全、輪椅暢行的友善城市。",
+    "slug": "good-road-happy-family-evaluations-aim-for-safety-not-rankings-from-accessible-s-zh-ccc0d0c3",
+    "lang": "zh-TW",
+    "summary": "文章報導台灣街道改善新進展，包括無障礙人行道、安全校園通學路與共同管線整合，目標是打造長輩安心、孩子安全、輪椅暢行的友善城市。",
+    "category": "physical-design",
+    "tags": [
+      "accessible sidewalk",
+      "universal design",
+      "elderly mobility",
+      "wheelchair access",
+      "street infrastructure"
+    ],
+    "sourceName": "正聲廣播電台",
+    "sourceUrl": "https://www.csbc.com.tw/156353",
+    "relatedSources": [
+      {
+        "name": "正聲廣播電台",
+        "url": "https://www.csbc.com.tw/156353"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ccc0d0c3",
+    "status": "published",
+    "translationOf": "good-road-happy-family-evaluations-aim-for-safety-not-rankings-from-accessible-s-ccc0d0c3",
+    "publishedAt": "2026-11-02T04:51:15.000Z",
+    "fetchedAt": "2026-11-02T18:23:10.149Z",
+    "body": "文章報導台灣街道改善新進展，包括無障礙人行道、安全校園通學路與共同管線整合，目標是打造長輩安心、孩子安全、輪椅暢行的友善城市。\n\n原文來源： [正聲廣播電台](https://www.csbc.com.tw/156353)"
+  },
+  {
+    "title": "加拿大組織籲請撥款十億美元 支援殘障人士經濟適住",
+    "slug": "canadian-organizations-call-for-1-billion-to-support-affordable-housing-for-pers-zh-60d07490",
+    "lang": "zh-TW",
+    "summary": "加拿大多個殘障權益組織要求政府提供十億美元資金，用於興建和改善無障礙、經濟適住的住房，以提升殘障人士的居住品質。",
+    "category": "laws-rights",
+    "tags": [
+      "housing",
+      "disability",
+      "advocacy",
+      "Canada"
+    ],
+    "sourceName": "arabcanadanews.ca",
+    "sourceUrl": "https://arabcanadanews.ca/article/mnthmat-kndy-ttalb-bmlyar-dolar-ldaam-alaskan-almysr-lthoy-alaaaak",
+    "relatedSources": [
+      {
+        "name": "arabcanadanews.ca",
+        "url": "https://arabcanadanews.ca/article/mnthmat-kndy-ttalb-bmlyar-dolar-ldaam-alaskan-almysr-lthoy-alaaaak"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-60d07490",
+    "status": "published",
+    "translationOf": "canadian-organizations-call-for-1-billion-to-support-affordable-housing-for-pers-60d07490",
+    "publishedAt": "2026-11-02T16:43:51.000Z",
+    "fetchedAt": "2026-11-02T18:23:19.449Z",
+    "body": "加拿大多個殘障權益組織要求政府提供十億美元資金，用於興建和改善無障礙、經濟適住的住房，以提升殘障人士的居住品質。\n\n原文來源： [arabcanadanews.ca](https://arabcanadanews.ca/article/mnthmat-kndy-ttalb-bmlyar-dolar-ldaam-alaskan-almysr-lthoy-alaaaak)"
+  },
+  {
+    "title": "veduis-wcag-audit 套件發布於 PyPI，提供 WCAG 2.2 AA 無障礙檢查與 ADA 合規期限檢測",
+    "slug": "veduis-wcag-audit-package-released-on-pypi-for-wcag-22-aa-compliance-checking-zh-af0001d4",
+    "lang": "zh-TW",
+    "summary": "此 Python 套件可進行決定性的 WCAG 2.2 Level AA 無障礙 linting，並檢查美國 ADA Title II 與 Section 504 的合規截止日期，協助開發者確保數位內容符合無障礙標準。",
+    "category": "digital-a11y",
+    "tags": [
+      "WCAG",
+      "accessibility",
+      "audit",
+      "Python",
+      "ADA"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/veduis-wcag-audit",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/veduis-wcag-audit"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-af0001d4",
+    "status": "published",
+    "translationOf": "veduis-wcag-audit-package-released-on-pypi-for-wcag-22-aa-compliance-checking-af0001d4",
+    "publishedAt": "2026-11-01T18:14:07.000Z",
+    "fetchedAt": "2026-11-02T18:23:19.454Z",
+    "body": "此 Python 套件可進行決定性的 WCAG 2.2 Level AA 無障礙 linting，並檢查美國 ADA Title II 與 Section 504 的合規截止日期，協助開發者確保數位內容符合無障礙標準。\n\n原文來源： [Pypi.org](https://pypi.org/project/veduis-wcag-audit)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "veduis-wcag-audit-100-zh-a42966ae",
+    "lang": "zh-TW",
+    "summary": "一個確定性的 WCAG 2.2 Level AA 無障礙檢查工具，同時可檢查美國 ADA Title II 與 Section 504 的合規期限。",
+    "category": "digital-a11y",
+    "tags": [
+      "WCAG",
+      "ADA",
+      "Section 504",
+      "accessibility linter"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/veduis-wcag-audit/1.0.0",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/veduis-wcag-audit/1.0.0"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-a42966ae",
+    "status": "draft",
+    "translationOf": "veduis-wcag-audit-100-a42966ae",
+    "publishedAt": "2026-11-01T18:14:07.000Z",
+    "fetchedAt": "2026-11-02T18:23:25.647Z",
+    "body": "一個確定性的 WCAG 2.2 Level AA 無障礙檢查工具，同時可檢查美國 ADA Title II 與 Section 504 的合規期限。\n\n原文來源： [Pypi.org](https://pypi.org/project/veduis-wcag-audit/1.0.0)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "a11yviz-019-zh-16ee7685",
+    "lang": "zh-TW",
+    "summary": "一個 Python 套件，可讓 plotnine、plotly 與 Quarto 中的圖表和文件無障礙化，符合 WCAG 2.1 指引。",
+    "category": "digital-a11y",
+    "tags": [
+      "WCAG",
+      "accessibility",
+      "charts",
+      "documents",
+      "Python"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/a11yviz/0.1.9",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/a11yviz/0.1.9"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-16ee7685",
+    "status": "draft",
+    "translationOf": "a11yviz-019-16ee7685",
+    "publishedAt": "2026-11-01T15:00:51.000Z",
+    "fetchedAt": "2026-11-02T18:23:25.652Z",
+    "body": "一個 Python 套件，可讓 plotnine、plotly 與 Quarto 中的圖表和文件無障礙化，符合 WCAG 2.1 指引。\n\n原文來源： [Pypi.org](https://pypi.org/project/a11yviz/0.1.9)"
+  },
+  {
+    "title": "頁面驗證 0.12.1",
+    "slug": "page-validation-0121-zh-6e5c7a47",
+    "lang": "zh-TW",
+    "summary": "提供 Python 綁定的『page』工具，快速檢查 PDF 的無障礙性與符合度，協助開發者確保 PDF 檔案符合無障礙標準。",
+    "category": "digital-a11y",
+    "tags": [
+      "PDF",
+      "accessibility",
+      "conformance",
+      "Python",
+      "bindings"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/page-validation/0.12.1",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/page-validation/0.12.1"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-6e5c7a47",
+    "status": "published",
+    "translationOf": "page-validation-0121-6e5c7a47",
+    "publishedAt": "2026-11-01T13:29:34.000Z",
+    "fetchedAt": "2026-11-02T18:23:41.522Z",
+    "body": "提供 Python 綁定的『page』工具，快速檢查 PDF 的無障礙性與符合度，協助開發者確保 PDF 檔案符合無障礙標準。\n\n原文來源： [Pypi.org](https://pypi.org/project/page-validation/0.12.1)"
+  },
+  {
+    "title": "身心障礙者車輛免牌照稅放寬",
+    "slug": "vehicle-license-tax-exemption-relaxed-for-persons-with-disabilities-zh-f10a5641",
+    "lang": "zh-TW",
+    "summary": "財政部為擴大對身心障礙者的照顧，今年逐步放寬供身心障礙者使用車輛免牌照稅規定。基隆市稅務局提醒符合規定的車主留意。凡持有身心障礙手冊或證明的民眾，無論其有無駕駛執照，只要本人名下無車輛，其配偶、二親等以內親屬所有的車輛（除配偶外），車主的戶籍地址、車籍地址或監理機關登載的住居所地址與身障者戶籍地址相同，均可申請免徵使用牌照稅。",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "vehicle tax",
+      "tax exemption",
+      "Taiwan",
+      "policy"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E8%BA%AB%E5%BF%83%E9%9A%9C%E7%A4%99%E8%80%85%E8%BB%8A%E8%BC%9B%E5%85%8D%E7%89%8C%E7%85%A7%E7%A8%85%E6%94%BE%E5%AF%AC-114217399.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E8%BA%AB%E5%BF%83%E9%9A%9C%E7%A4%99%E8%80%85%E8%BB%8A%E8%BC%9B%E5%85%8D%E7%89%8C%E7%85%A7%E7%A8%85%E6%94%BE%E5%AF%AC-114217399.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-f10a5641",
+    "status": "published",
+    "translationOf": "vehicle-license-tax-exemption-relaxed-for-persons-with-disabilities-f10a5641",
+    "publishedAt": "2026-11-01T11:42:17.000Z",
+    "fetchedAt": "2026-11-02T18:23:41.529Z",
+    "body": "財政部為擴大對身心障礙者的照顧，今年逐步放寬供身心障礙者使用車輛免牌照稅規定。基隆市稅務局提醒符合規定的車主留意。凡持有身心障礙手冊或證明的民眾，無論其有無駕駛執照，只要本人名下無車輛，其配偶、二親等以內親屬所有的車輛（除配偶外），車主的戶籍地址、車籍地址或監理機關登載的住居所地址與身障者戶籍地址相同，均可申請免徵使用牌照稅。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E8%BA%AB%E5%BF%83%E9%9A%9C%E7%A4%99%E8%80%85%E8%BB%8A%E8%BC%9B%E5%85%8D%E7%89%8C%E7%85%A7%E7%A8%85%E6%94%BE%E5%AF%AC-114217399.html)"
+  },
+  {
+    "title": "基市稅局：身障者免使用牌照稅條件放寬 同性婚姻親屬同樣適用",
+    "slug": "keelung-tax-bureau-disabled-vehicle-tax-exemption-extended-to-same-sex-marriage--zh-81488b83",
+    "lang": "zh-TW",
+    "summary": "財政部為擴大對身心障礙者的照顧，今年逐步放寬供身心障礙者使用車輛免牌照稅規定。鑑此，基隆市稅務局提醒符合規定的車主留意。基隆市稅務局表示，凡持有身心障礙手冊或證明的民眾，無論其有無駕駛執照，只要本人名下無車輛，其配偶、二親等以內親屬所有的車輛，除配偶外，車主的戶籍地址、車籍地址或監理機關登載的住居所地址與身障者戶籍地址相同，均可申請免徵使用牌照稅；目前僅身心障礙者有駕照且有車輛，仍限身障者本人車輛可免稅，若身心障礙者無駕照且有車輛，仍可選擇以本人、配偶或二親等以內親屬所有的車輛辦理免稅。基隆市稅務局提醒，符合免稅…",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "vehicle tax",
+      "tax exemption",
+      "same-sex marriage",
+      "Taiwan",
+      "policy"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_005dae6d-880a-4388-9bfc-37d085bb9409",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_005dae6d-880a-4388-9bfc-37d085bb9409"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-81488b83",
+    "status": "published",
+    "translationOf": "keelung-tax-bureau-disabled-vehicle-tax-exemption-extended-to-same-sex-marriage--81488b83",
+    "publishedAt": "2026-11-01T08:16:33.000Z",
+    "fetchedAt": "2026-11-02T18:23:41.535Z",
+    "body": "財政部為擴大對身心障礙者的照顧，今年逐步放寬供身心障礙者使用車輛免牌照稅規定。鑑此，基隆市稅務局提醒符合規定的車主留意。基隆市稅務局表示，凡持有身心障礙手冊或證明的民眾，無論其有無駕駛執照，只要本人名下無車輛，其配偶、二親等以內親屬所有的車輛，除配偶外，車主的戶籍地址、車籍地址或監理機關登載的住居所地址與身障者戶籍地址相同，均可申請免徵使用牌照稅；目前僅身心障礙者有駕照且有車輛，仍限身障者本人車輛可免稅，若身心障礙者無駕照且有車輛，仍可選擇以本人、配偶或二親等以內親屬所有的車輛辦理免稅。基隆市稅務局提醒，符合免稅…\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_005dae6d-880a-4388-9bfc-37d085bb9409)"
   }
 ]
