@@ -13938,35 +13938,60 @@
     }
   },
   "2026-11-03": {
-    "generatedAt": "2026-11-03T01:21:13.332Z",
+    "generatedAt": "2026-11-03T17:00:15.905Z",
     "en": {
-      "title": "Gaming Access Tags Launch as Canada Seeks Disability Housing Funding",
-      "summary": "Major gaming companies including EA and Xbox have adopted standardized accessibility tags to help players find inclusive features. Simultaneously, Canadian advocacy groups are urging the federal government to allocate one billion dollars for accessible housing. These developments highlight a broader push for systemic inclusion in both digital and physical environments.",
+      "title": "Disability Accessibility Digest: Voting Rights, AI Tools, and Inclusive Spaces",
+      "summary": "Colorado details voting accommodations for voters with disabilities, while Algeria issues a decree for inclusive school sections and exam access. BrowsAble secures £300K for AI web accessibility testing, and YouTube adds accessibility tags to Playables. Additional progress includes West Ham United’s stadium commitments and Taiwan’s first disability innovation base.",
       "highlights": [
         {
-          "title": "Six Companies Adopt the Accessible Games Initiative Tags, Helping Players Find Accessibility Features in Popular Video Games",
-          "slug": "six-companies-adopt-the-accessible-games-initiative-tags-helping-players-find-ac-0da9ed2e",
-          "url": "https://www.morningstar.com/news/pr-newswire/20261102dc85742/six-companies-adopt-the-accessible-games-initiative-tags-helping-players-find-accessibility-features-in-popular-video-games"
+          "title": "How accessibility voting works in Colorado",
+          "slug": "how-accessibility-voting-works-in-colorado-c3105347",
+          "url": "https://www.cpr.org/2026/11/02/colorado-accessibility-voting-explained"
         },
         {
-          "title": "Canadian Organizations Call for $1 Billion to Support Affordable Housing for Persons with Disabilities",
-          "slug": "canadian-organizations-call-for-1-billion-to-support-affordable-housing-for-pers-60d07490",
-          "url": "https://arabcanadanews.ca/article/mnthmat-kndy-ttalb-bmlyar-dolar-ldaam-alaskan-almysr-lthoy-alaaaak"
+          "title": "Algerian Regulation on Special Sections in Regular Schools",
+          "slug": "algerian-regulation-on-special-sections-in-regular-schools-adcc4cef",
+          "url": "https://asdmag.org/archives/69743"
         },
         {
-          "title": "Disability Rights Wisconsin reminds voters of polling place accessibility options for Tuesday's election",
-          "slug": "disability-rights-wisconsin-reminds-voters-of-polling-place-accessibility-option-d0fd13d7",
-          "url": "https://www.wkow.com/news/disability-rights-wisconsin-reminds-voters-of-polling-place-accessibility-options-for-tuesdays-election/article_dc221853-717c-4b41-b1e6-4022128cd852.html"
+          "title": "BrowsAble raises £300K to test AI web-accessibility tool - Dealroom",
+          "slug": "browsable-raises-300k-to-test-ai-web-accessibility-tool-dealroom-227b0b3d",
+          "url": "https://app.dealroom.co/news/note/browsable-raises-300k-to-test-ai-web-accessibility-tool"
         },
         {
-          "title": "Yerech: Rising Risks Threaten Women, Children, Elderly, and People with Disabilities in Yemen's Displacement Areas",
-          "slug": "yerech-rising-risks-threaten-women-children-elderly-and-people-with-disabilities-8ff7019f",
-          "url": "https://www.altreeq.com/549955"
+          "title": "New accessibility tags come to YouTube Playables",
+          "slug": "new-accessibility-tags-come-to-youtube-playables-7a1cc46f",
+          "url": "https://blog.youtube/news-and-events/new-accessibility-tags-youtube-playables"
         },
         {
-          "title": "Nintendo Adds Accessibility Tags to Product Listings",
-          "slug": "nintendo-adds-accessibility-tags-to-product-listings-be7e65dd",
-          "url": "https://x.com/GoNintendoTweet/status/2117326278949007822"
+          "title": "West Ham United shows continued commitment to accessibility by honouring legacy of Purple Tuesday - West Ham United",
+          "slug": "west-ham-united-shows-continued-commitment-to-accessibility-by-honouring-legacy--a793f16e",
+          "url": "https://www.whufc.com/en/news/west-ham-united-shows-continued-commitment-to-accessibility-by-honouring-legacy-of-purple-tuesday"
+        },
+        {
+          "title": "Keelung Zhengbin New Landmark Launches Taiwan’s First Disability Innovation Base – Barrier‑Free Inclusive Space Highlights - ETtoday News Cloud",
+          "slug": "keelung-zhengbin-new-landmark-launches-taiwans-first-disability-innovation-base--e370e7c5",
+          "url": "https://www.ettoday.net/news/20261103/3265618.htm"
+        },
+        {
+          "title": "Egypt Launches 'NUQTA' Platform for Disability Economic Empowerment",
+          "slug": "egypt-launches-nuqta-platform-for-disability-economic-empowerment-52499d7e",
+          "url": "https://asdmag.org/archives/69720"
+        },
+        {
+          "title": "Outreach, education key to voting accessibility, Wisconsin advocates say",
+          "slug": "outreach-education-key-to-voting-accessibility-wisconsin-advocates-say-0db7e42c",
+          "url": "https://milwaukeenns.org/2026/11/02/wisconsin-election-voting-ballot-disabilities-accessibility-requirements-advocates-outreach-education"
+        },
+        {
+          "title": "Qatar Charity Establishes Inclusion Village for Children with Disabilities in Nouakchott, Mauritania",
+          "slug": "qatar-charity-establishes-inclusion-village-for-children-with-disabilities-in-no-cfcb6695",
+          "url": "https://asdmag.org/archives/69737"
+        },
+        {
+          "title": "Qassim Club Wins Kingdom Youth and Junior Athletics Championship for Persons with Disabilities",
+          "slug": "qassim-club-wins-kingdom-youth-and-junior-athletics-championship-for-persons-wit-401afbb1",
+          "url": "https://asdmag.org/archives/69725"
         },
         {
           "title": "Advocacy for Adult-Sized Changing Tables in South Texas",
@@ -13974,95 +13999,65 @@
           "url": "https://x.com/710KURV/status/2117327206959505888"
         },
         {
-          "title": "Home accessibility moves from crisis response to long-term planning | - HME News",
-          "slug": "home-accessibility-moves-from-crisis-response-to-long-term-planning-hme-news-3dd669de",
-          "url": "https://www.hmenews.com/article/home-accessibility-moves-from-crisis-response-to-long-term-planning"
-        },
-        {
-          "title": "Church in Wales opens consultation on disability accessibility",
-          "slug": "church-in-wales-opens-consultation-on-disability-accessibility-f4a38af3",
-          "url": "https://premierchristian.news/en/news/article/church-in-wales-opens-consultation-on-accessibility-for-disabled-people"
-        },
-        {
-          "title": "AI Assists Blind People in Idlib Amid Concerns for 'Village of Light'",
-          "slug": "ai-assists-blind-people-in-idlib-amid-concerns-for-village-of-light-5fe124d5",
-          "url": "https://twaslnews1.twaslnews.com/7023012"
-        },
-        {
-          "title": "Can Every Game Be Accessible? Stefan Wilhelm on Inclusive Gaming",
-          "slug": "can-every-game-be-accessible-stefan-wilhelm-on-inclusive-gaming-e7066060",
-          "url": "https://doubletaponair.com/can-every-game-be-accessible-stefan-wilhelm-on-inclusive-gaming-2"
-        },
-        {
-          "title": "Faculty Research Series explores accessibility in physics animations - The Pennsylvania State University",
-          "slug": "faculty-research-series-explores-accessibility-in-physics-animations-the-pennsyl-c6dbb36d",
-          "url": "https://www.psu.edu/news/schuylkill/story/faculty-research-series-explores-accessibility-physics-animations"
-        },
-        {
-          "title": "How to convert PDF math to an accessible Canvas page using MathPix",
-          "slug": "how-to-convert-pdf-math-to-an-accessible-canvas-page-using-mathpix-21f22068",
-          "url": "https://theaccessibilityguy.com/how-to-convert-pdf-math-to-an-accessible-canvas-page-using-mathpix"
-        },
-        {
-          "title": "Outreach, education are key to voting accessibility, Wisconsin advocates say - PBS Wisconsin",
-          "slug": "outreach-education-are-key-to-voting-accessibility-wisconsin-advocates-say-pbs-w-9d739138",
-          "url": "https://pbswisconsin.org/news-item/outreach-education-are-key-to-voting-accessibility-wisconsin-advocates-say"
-        },
-        {
-          "title": "Shirif: Private Sector Employment of Persons with Disabilities Does Not Exceed 13%",
-          "slug": "shirif-private-sector-employment-of-persons-with-disabilities-does-not-exceed-13-97f26f14",
-          "url": "https://radioexpressfm.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%86%D8%A7%D8%AC%D8%AD-%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81-%D9%86%D8%B3%D8%A8%D8%A9-%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5"
-        },
-        {
-          "title": "Discussion on Employment Support Type B",
-          "slug": "discussion-on-employment-support-type-b-717077c2",
-          "url": "https://x.com/killme_1963/status/2117319878713720906"
-        },
-        {
-          "title": "Reflection on Inclusive Childhood Friendships",
-          "slug": "reflection-on-inclusive-childhood-friendships-aa5db2b0",
-          "url": "https://x.com/riochipi_/status/2117323515141775770"
-        },
-        {
           "title": "App Readability Improvements",
           "slug": "app-readability-improvements-9a374a46",
           "url": "https://x.com/zihnelo/status/2117327143688622471"
-        },
-        {
-          "title": "Kuwait Winter Games Aims to Train 20 Athletes with Disabilities for Almaty 2029 Asian Games",
-          "slug": "kuwait-winter-games-aims-to-train-20-athletes-with-disabilities-for-almaty-2029--3b7b1643",
-          "url": "https://asdmag.org/archives/69717"
         }
       ]
     },
     "zh-TW": {
-      "title": "遊戲業界推出無障礙標籤 加拿大籲請撥款十億改善殘障安居",
-      "summary": "EA與Xbox等六大遊戲公司正式採用無障礙標籤，協助玩家辨識遊戲中的無障礙功能。同時，加拿大多個殘障權益組織呼籲政府撥款十億美元，以改善殘障人士的無障礙與經濟適住問題。這兩項進展體現了數位與實體環境中推動包容性的廣泛趨勢。",
+      "title": "無障礙每日：投票、AI與包容空間",
+      "summary": "科羅拉多州說明殘障選民如何獨立投票，阿爾及利亞頒布新法令規定普通學校特殊教育班及考試便利措施。BrowsAble 獲得 30 萬英鎊開發 AI 網頁無障礙工具，YouTube 為 Playables 新增無障礙標籤。此外，西漢聯隊與基隆身障創新基地等亦推動實體與數位無障礙進展。",
       "highlights": [
         {
-          "title": "六家公司採用可及性遊戲倡議標籤，幫助玩家在熱門視訊遊戲中尋找無障礙功能",
-          "slug": "six-companies-adopt-the-accessible-games-initiative-tags-helping-players-find-ac-zh-0da9ed2e",
-          "url": "https://www.morningstar.com/news/pr-newswire/20261102dc85742/six-companies-adopt-the-accessible-games-initiative-tags-helping-players-find-accessibility-features-in-popular-video-games"
+          "title": "科羅拉多州無障礙投票方式說明",
+          "slug": "how-accessibility-voting-works-in-colorado-zh-c3105347",
+          "url": "https://www.cpr.org/2026/11/02/colorado-accessibility-voting-explained"
         },
         {
-          "title": "加拿大組織籲請撥款十億美元 支援殘障人士經濟適住",
-          "slug": "canadian-organizations-call-for-1-billion-to-support-affordable-housing-for-pers-zh-60d07490",
-          "url": "https://arabcanadanews.ca/article/mnthmat-kndy-ttalb-bmlyar-dolar-ldaam-alaskan-almysr-lthoy-alaaaak"
+          "title": "阿爾及利亞頒布普通學校特殊教育班相關規定",
+          "slug": "algerian-regulation-on-special-sections-in-regular-schools-zh-adcc4cef",
+          "url": "https://asdmag.org/archives/69743"
         },
         {
-          "title": "威斯康辛殘疾權益提醒選民週二選舉的投票站無障礙選項",
-          "slug": "disability-rights-wisconsin-reminds-voters-of-polling-place-accessibility-option-zh-d0fd13d7",
-          "url": "https://www.wkow.com/news/disability-rights-wisconsin-reminds-voters-of-polling-place-accessibility-options-for-tuesdays-election/article_dc221853-717c-4b41-b1e6-4022128cd852.html"
+          "title": "BrowsAble 募得 30 萬英鎊 測試 AI 網頁無障礙工具。",
+          "slug": "browsable-raises-300k-to-test-ai-web-accessibility-tool-dealroom-zh-227b0b3d",
+          "url": "https://app.dealroom.co/news/note/browsable-raises-300k-to-test-ai-web-accessibility-tool"
         },
         {
-          "title": "葉雷克：也門流離失所地區弱勢群體面臨風險",
-          "slug": "yerech-rising-risks-threaten-women-children-elderly-and-people-with-disabilities-zh-8ff7019f",
-          "url": "https://www.altreeq.com/549955"
+          "title": "YouTube Playables 新增無障礙標籤",
+          "slug": "new-accessibility-tags-come-to-youtube-playables-zh-7a1cc46f",
+          "url": "https://blog.youtube/news-and-events/new-accessibility-tags-youtube-playables"
         },
         {
-          "title": "任天堂為產品列表新增無障礙標籤",
-          "slug": "nintendo-adds-accessibility-tags-to-product-listings-zh-be7e65dd",
-          "url": "https://x.com/GoNintendoTweet/status/2117326278949007822"
+          "title": "西漢聯隊以紀念 Purple Tuesday 傳承展現對無障礙的持續承諾。",
+          "slug": "west-ham-united-shows-continued-commitment-to-accessibility-by-honouring-legacy--zh-a793f16e",
+          "url": "https://www.whufc.com/en/news/west-ham-united-shows-continued-commitment-to-accessibility-by-honouring-legacy-of-purple-tuesday"
+        },
+        {
+          "title": "基隆正濱新地標！全台首座身障創新基地啟用　無障礙共融空間亮點一次看 - ETtoday新聞雲",
+          "slug": "keelung-zhengbin-new-landmark-launches-taiwans-first-disability-innovation-base--zh-e370e7c5",
+          "url": "https://www.ettoday.net/news/20261103/3265618.htm"
+        },
+        {
+          "title": "埃及推出「NUQTA」平台助力殘障人士經濟賦權",
+          "slug": "egypt-launches-nuqta-platform-for-disability-economic-empowerment-zh-52499d7e",
+          "url": "https://asdmag.org/archives/69720"
+        },
+        {
+          "title": "威斯康辛州倡導者稱外展與教育是提升投票無障礙的關鍵",
+          "slug": "outreach-education-key-to-voting-accessibility-wisconsin-advocates-say-zh-0db7e42c",
+          "url": "https://milwaukeenns.org/2026/11/02/wisconsin-election-voting-ballot-disabilities-accessibility-requirements-advocates-outreach-education"
+        },
+        {
+          "title": "卡塔爾慈善機構在毛里塔尼亞努瓦克肖特建立殘障兒童融合村",
+          "slug": "qatar-charity-establishes-inclusion-village-for-children-with-disabilities-in-no-zh-cfcb6695",
+          "url": "https://asdmag.org/archives/69737"
+        },
+        {
+          "title": "蓋西姆殘障人士俱樂部贏得王國青年與青少年田徑錦標賽冠軍",
+          "slug": "qassim-club-wins-kingdom-youth-and-junior-athletics-championship-for-persons-wit-zh-401afbb1",
+          "url": "https://asdmag.org/archives/69725"
         },
         {
           "title": "南德州成人尺寸換衣台倡議",
@@ -14070,74 +14065,9 @@
           "url": "https://x.com/710KURV/status/2117327206959505888"
         },
         {
-          "title": "家居無障礙從危機應對轉向長期規劃",
-          "slug": "home-accessibility-moves-from-crisis-response-to-long-term-planning-hme-news-zh-3dd669de",
-          "url": "https://www.hmenews.com/article/home-accessibility-moves-from-crisis-response-to-long-term-planning"
-        },
-        {
-          "title": "威爾士教會就殘障人士無障礙設施展開諮詢",
-          "slug": "church-in-wales-opens-consultation-on-disability-accessibility-zh-f4a38af3",
-          "url": "https://premierchristian.news/en/news/article/church-in-wales-opens-consultation-on-accessibility-for-disabled-people"
-        },
-        {
-          "title": "人工智慧協助阿勒頗視障人士…對「光明村」的擔憂",
-          "slug": "ai-assists-blind-people-in-idlib-amid-concerns-for-village-of-light-zh-5fe124d5",
-          "url": "https://twaslnews1.twaslnews.com/7023012"
-        },
-        {
-          "title": "每款遊戲都能無障礙嗎？Stefan Wilhelm 談包容性遊戲",
-          "slug": "can-every-game-be-accessible-stefan-wilhelm-on-inclusive-gaming-zh-e7066060",
-          "url": "https://doubletaponair.com/can-every-game-be-accessible-stefan-wilhelm-on-inclusive-gaming-2"
-        },
-        {
-          "title": "賓州州立大學教師研究系列探討物理動畫的無障礙性",
-          "slug": "faculty-research-series-explores-accessibility-in-physics-animations-the-pennsyl-zh-c6dbb36d",
-          "url": "https://www.psu.edu/news/schuylkill/story/faculty-research-series-explores-accessibility-physics-animations"
-        },
-        {
-          "title": "如何使用 MathPix 將 PDF 數學轉換為可存取的 Canvas 頁面",
-          "slug": "how-to-convert-pdf-math-to-an-accessible-canvas-page-using-mathpix-zh-21f22068",
-          "url": "https://theaccessibilityguy.com/how-to-convert-pdf-math-to-an-accessible-canvas-page-using-mathpix"
-        },
-        {
-          "title": "威斯康辛州倡導者稱外展與教育是提升投票無障礙的關鍵",
-          "slug": "outreach-education-are-key-to-voting-accessibility-wisconsin-advocates-say-pbs-w-zh-9d739138",
-          "url": "https://pbswisconsin.org/news-item/outreach-education-are-key-to-voting-accessibility-wisconsin-advocates-say"
-        },
-        {
-          "title": "沙里夫：私营部門殘疾人士僱用率未達13%",
-          "slug": "shirif-private-sector-employment-of-persons-with-disabilities-does-not-exceed-13-zh-97f26f14",
-          "url": "https://radioexpressfm.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%86%D8%A7%D8%AC%D8%AD-%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81-%D9%86%D8%B3%D8%A8%D8%A9-%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5"
-        },
-        {
-          "title": "關於就業支援B型的討論",
-          "slug": "discussion-on-employment-support-type-b-zh-717077c2",
-          "url": "https://x.com/killme_1963/status/2117319878713720906"
-        },
-        {
-          "title": "包容性童年友誼的反思",
-          "slug": "reflection-on-inclusive-childhood-friendships-zh-aa5db2b0",
-          "url": "https://x.com/riochipi_/status/2117323515141775770"
-        },
-        {
-          "title": "應用程式可讀性改進",
-          "slug": "app-readability-improvements-zh-9a374a46",
-          "url": "https://x.com/zihnelo/status/2117327143688622471"
-        },
-        {
-          "title": "科威特冬季運動旨在培訓20名殘障運動員參加2029年阿拉木圖亞洲冬季運動會",
-          "slug": "kuwait-winter-games-aims-to-train-20-athletes-with-disabilities-for-almaty-2029--zh-3b7b1643",
-          "url": "https://asdmag.org/archives/69717"
-        },
-        {
-          "title": "‘你很重要’：殘疾權益倡導者闡明聖路易斯的路邊投票與無障礙",
-          "slug": "you-matter-disability-rights-advocate-illuminates-curbside-voting-accessibility--zh-ac546a7b",
-          "url": "https://www.stlpr.org/government-politics-issues/2026-11-02/missouri-voters-disabilities-curbside-voting-accessibility"
-        },
-        {
-          "title": "向家庭補貼機構申報無障礙身份以確保福利資格",
-          "slug": "informing-family-allowance-funds-of-disability-status-zh-9d0a4409",
-          "url": "https://www.faire-face.fr/2026/11/02/vous-avez-la-cmi-invalidite-dites-le-a-votre-caf"
+          "title": "日本精神健康醫療費用減免制度",
+          "slug": "medical-expense-reduction-system-for-mental-health-in-japan-zh-ae4982a9",
+          "url": "https://x.com/Pink_Suzune/status/2117653419632853257"
         }
       ]
     }
