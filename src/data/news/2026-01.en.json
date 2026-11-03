@@ -233,5 +233,39 @@
     "publishedAt": "2026-01-29T08:00:00.000Z",
     "fetchedAt": "2026-10-27T16:01:32.462Z",
     "body": "A Saudi newspaper report highlights how physical obstacles in designated safe passages negatively impact the daily lives and mobility of people with disabilities. The article calls for improvements in urban design to ensure these routes are genuinely accessible.\n\nRead more from the original source: [news.google.com](https://www.alwatan.com.sa/article/1176537)"
+  },
+  {
+    "title": "Minister of Education: Plans to Expand Use of Assistive Technology and AI in Inclusive Classrooms",
+    "slug": "minister-of-education-plans-to-expand-use-of-assistive-technology-and-ai-in-incl-683db6f2",
+    "lang": "en",
+    "summary": "The Minister of Education announced plans to expand the integration of assistive technologies and artificial intelligence within inclusive education settings, specifically in classes designed for students with disabilities, in response to parliamentary inquiries.",
+    "category": "assistive-tech",
+    "tags": [
+      "education",
+      "AI",
+      "inclusive-classrooms",
+      "assistive-tech"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://akhbar-alkhaleej.com/news/article/1427118",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://akhbar-alkhaleej.com/news/article/1427118"
+      }
+    ],
+    "sourceCountry": "EG",
+    "queryRegion": "EG",
+    "region": "EG",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-683db6f2",
+    "status": "published",
+    "translationOf": "minister-of-education-plans-to-expand-use-of-assistive-technology-and-ai-in-incl-zh-683db6f2",
+    "publishedAt": "2026-01-29T08:00:00.000Z",
+    "fetchedAt": "2026-11-03T18:03:31.883Z",
+    "body": "The Minister of Education announced plans to expand the integration of assistive technologies and artificial intelligence within inclusive education settings, specifically in classes designed for students with disabilities, in response to parliamentary inquiries.\n\nRead more from the original source: [news.google.com](https://akhbar-alkhaleej.com/news/article/1427118)"
   }
 ]

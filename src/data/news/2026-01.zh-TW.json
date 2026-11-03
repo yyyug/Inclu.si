@@ -233,5 +233,39 @@
     "publishedAt": "2026-01-29T08:00:00.000Z",
     "fetchedAt": "2026-10-27T16:01:32.462Z",
     "body": "沙特報章報導指出，指定安全通道中的物理障礙負面影響了殘疾人的日常生活與行動能力。文章呼籲改善城市設計，以確保這些路線真正具備無障礙通行條件。\n\n原文來源： [news.google.com](https://www.alwatan.com.sa/article/1176537)"
+  },
+  {
+    "title": "教育部長：計劃在融合課堂中擴大使用輔助科技與人工智能",
+    "slug": "minister-of-education-plans-to-expand-use-of-assistive-technology-and-ai-in-incl-zh-683db6f2",
+    "lang": "zh-TW",
+    "summary": "教育部長回應議會質詢，宣佈計劃在特別為殘障學生設計的融合教育課堂中，擴大整合輔助科技與人工智能，以促進教育包容性。",
+    "category": "assistive-tech",
+    "tags": [
+      "education",
+      "AI",
+      "inclusive-classrooms",
+      "assistive-tech"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://akhbar-alkhaleej.com/news/article/1427118",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://akhbar-alkhaleej.com/news/article/1427118"
+      }
+    ],
+    "sourceCountry": "EG",
+    "queryRegion": "EG",
+    "region": "EG",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-683db6f2",
+    "status": "published",
+    "translationOf": "minister-of-education-plans-to-expand-use-of-assistive-technology-and-ai-in-incl-683db6f2",
+    "publishedAt": "2026-01-29T08:00:00.000Z",
+    "fetchedAt": "2026-11-03T18:03:31.883Z",
+    "body": "教育部長回應議會質詢，宣佈計劃在特別為殘障學生設計的融合教育課堂中，擴大整合輔助科技與人工智能，以促進教育包容性。\n\n原文來源： [news.google.com](https://akhbar-alkhaleej.com/news/article/1427118)"
   }
 ]
