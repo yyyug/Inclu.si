@@ -916,5 +916,39 @@
     "publishedAt": "2026-03-05T13:54:14.000Z",
     "fetchedAt": "2026-10-14T13:45:57.608Z",
     "body": "115年度臺北市原有住宅無障礙設施改善補助即日起受理申請！\n\n原文來源： [臺北市政府全球資訊網](https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=D48CDBFA70ECF8F1)"
+  },
+  {
+    "title": "黎巴嫩流離失所加劇無障礙人士困境",
+    "slug": "displacement-exacerbates-suffering-of-people-with-disabilities-in-lebanon-zh-71d8688e",
+    "lang": "zh-TW",
+    "summary": "Al Jazeera新聞報導指出，黎巴嫩的被迫流離失所加劇了身心障礙人士的困境。文章探討了該社群在持續危機中面臨的疊加挑戰與悲劇。",
+    "category": "case-studies",
+    "tags": [
+      "displacement",
+      "lebanon",
+      "vulnerable-groups",
+      "human-rights"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.aljazeera.net/politics/2026/3/8/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%AA%D8%B6%D8%A7%D8%B9%D9%81-%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.aljazeera.net/politics/2026/3/8/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%AA%D8%B6%D8%A7%D8%B9%D9%81-%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-71d8688e",
+    "status": "published",
+    "translationOf": "displacement-exacerbates-suffering-of-people-with-disabilities-in-lebanon-71d8688e",
+    "publishedAt": "2026-03-08T08:00:00.000Z",
+    "fetchedAt": "2026-11-03T23:40:55.940Z",
+    "body": "Al Jazeera新聞報導指出，黎巴嫩的被迫流離失所加劇了身心障礙人士的困境。文章探討了該社群在持續危機中面臨的疊加挑戰與悲劇。\n\n原文來源： [news.google.com](https://www.aljazeera.net/politics/2026/3/8/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%AA%D8%B6%D8%A7%D8%B9%D9%81-%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA)"
   }
 ]

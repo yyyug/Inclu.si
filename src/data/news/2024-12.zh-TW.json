@@ -66,5 +66,38 @@
     "publishedAt": "2024-12-13T08:00:00.000Z",
     "fetchedAt": "2026-10-28T21:40:31.079Z",
     "body": "第一銀行推出「容膝式ATM」，旨在提升無障礙環境，提供更友善的使用體驗，特別適合輪椅使用者。\n\n原文來源： [firstbank.com.tw](https://www.firstbank.com.tw/sites/fcb/touch/zh_TW/1565705450652)"
+  },
+  {
+    "title": "殘障人士交通設施數位證書",
+    "slug": "digital-certificates-for-traffic-facilities-for-persons-with-disabilities-zh-394a56c8",
+    "lang": "zh-TW",
+    "summary": "沙烏地阿拉伯政府提供數位證書服務，專門為殘障人士提供交通設施的便利，協助他們更便利地使用交通系統。",
+    "category": "digital-a11y",
+    "tags": [
+      "government",
+      "digital-services",
+      "mobility"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.hrsd.gov.sa/ministry-services/services/%D8%A7%D9%84%D8%B4%D9%87%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%B3%D9%87%D9%8A%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B1%D9%8A%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.hrsd.gov.sa/ministry-services/services/%D8%A7%D9%84%D8%B4%D9%87%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%B3%D9%87%D9%8A%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B1%D9%8A%D8%A9"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-394a56c8",
+    "status": "published",
+    "translationOf": "digital-certificates-for-traffic-facilities-for-persons-with-disabilities-394a56c8",
+    "publishedAt": "2024-12-10T08:21:48.000Z",
+    "fetchedAt": "2026-11-03T23:40:49.983Z",
+    "body": "沙烏地阿拉伯政府提供數位證書服務，專門為殘障人士提供交通設施的便利，協助他們更便利地使用交通系統。\n\n原文來源： [news.google.com](https://www.hrsd.gov.sa/ministry-services/services/%D8%A7%D9%84%D8%B4%D9%87%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%B3%D9%87%D9%8A%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B1%D9%8A%D8%A9)"
   }
 ]
