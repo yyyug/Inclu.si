@@ -5646,5 +5646,548 @@
     "publishedAt": "2026-11-02T13:36:41.000Z",
     "fetchedAt": "2026-11-02T20:33:51.699Z",
     "body": "文章探討了人工智慧如何支援敘利亞阿勒頗的視障人士，同時提及對「光明村」專案（支持視障居民）永續性的擔憂。\n\n原文來源： [news.google.com](https://twaslnews1.twaslnews.com/7023012)"
+  },
+  {
+    "title": "兩位長期室友需要無障礙住宅。殘疾倡導者稱林德赫斯特在阻撓",
+    "slug": "two-longtime-roommates-need-an-accessible-home-disability-advocates-say-lyndhurs-zh-6a6f6160",
+    "lang": "zh-TW",
+    "summary": "兩位有殘疾的長期室友正尋找可無障礙居住的租屋，但殘疾倡導者指林德赫斯特市政府在阻礙他們的努力。",
+    "category": "physical-design",
+    "tags": [
+      "housing",
+      "disability",
+      "accessibility"
+    ],
+    "sourceName": "Cleveland.com",
+    "sourceUrl": "https://www.cleveland.com/news/2026/11/two-longtime-roommates-need-an-accessible-home-disability-advocates-say-lyndhurst-is-standing-in-the-way.html",
+    "relatedSources": [
+      {
+        "name": "Cleveland.com",
+        "url": "https://www.cleveland.com/news/2026/11/two-longtime-roommates-need-an-accessible-home-disability-advocates-say-lyndhurst-is-standing-in-the-way.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-6a6f6160",
+    "status": "published",
+    "translationOf": "two-longtime-roommates-need-an-accessible-home-disability-advocates-say-lyndhurs-6a6f6160",
+    "publishedAt": "2026-11-02T21:31:00.000Z",
+    "fetchedAt": "2026-11-03T16:15:16.489Z",
+    "body": "兩位有殘疾的長期室友正尋找可無障礙居住的租屋，但殘疾倡導者指林德赫斯特市政府在阻礙他們的努力。\n\n原文來源： [Cleveland.com](https://www.cleveland.com/news/2026/11/two-longtime-roommates-need-an-accessible-home-disability-advocates-say-lyndhurst-is-standing-in-the-way.html)"
+  },
+  {
+    "title": "Amtrak 拉特羅布車站無障礙翻新工程延遲至 2027 年秋季",
+    "slug": "amtrak-accessibility-renovations-at-latrobe-station-delayed-until-fall-2027-zh-d8630b06",
+    "lang": "zh-TW",
+    "summary": "原計畫讓拉特羅布車站成為全面無障礙的鐵路站點的改善工程被延後，預計將於 2027 年秋季完成。",
+    "category": "physical-design",
+    "tags": [
+      "transport",
+      "station",
+      "accessibility"
+    ],
+    "sourceName": "TribLIVE.com",
+    "sourceUrl": "https://triblive.com/local/westmoreland/amtrak-accessibility-renovations-at-latrobe-station-delayed-until-fall-2027",
+    "relatedSources": [
+      {
+        "name": "TribLIVE.com",
+        "url": "https://triblive.com/local/westmoreland/amtrak-accessibility-renovations-at-latrobe-station-delayed-until-fall-2027"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-d8630b06",
+    "status": "published",
+    "translationOf": "amtrak-accessibility-renovations-at-latrobe-station-delayed-until-fall-2027-d8630b06",
+    "publishedAt": "2026-11-03T15:34:45.000Z",
+    "fetchedAt": "2026-11-03T16:15:16.502Z",
+    "body": "原計畫讓拉特羅布車站成為全面無障礙的鐵路站點的改善工程被延後，預計將於 2027 年秋季完成。\n\n原文來源： [TribLIVE.com](https://triblive.com/local/westmoreland/amtrak-accessibility-renovations-at-latrobe-station-delayed-until-fall-2027)"
+  },
+  {
+    "title": "YouTube Playables 新增無障礙標籤",
+    "slug": "new-accessibility-tags-come-to-youtube-playables-zh-7a1cc46f",
+    "lang": "zh-TW",
+    "summary": "YouTube 為其 Playables 功能推出新的無障礙標籤，讓創作者能為影片加上字幕、聲音描述等適合殘障觀眾的選項。",
+    "category": "digital-a11y",
+    "tags": [
+      "YouTube",
+      "captions",
+      "audio description"
+    ],
+    "sourceName": "blog.youtube",
+    "sourceUrl": "https://blog.youtube/news-and-events/new-accessibility-tags-youtube-playables",
+    "relatedSources": [
+      {
+        "name": "blog.youtube",
+        "url": "https://blog.youtube/news-and-events/new-accessibility-tags-youtube-playables"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-7a1cc46f",
+    "status": "published",
+    "translationOf": "new-accessibility-tags-come-to-youtube-playables-7a1cc46f",
+    "publishedAt": "2026-11-03T02:25:10.000Z",
+    "fetchedAt": "2026-11-03T16:15:16.511Z",
+    "body": "YouTube 為其 Playables 功能推出新的無障礙標籤，讓創作者能為影片加上字幕、聲音描述等適合殘障觀眾的選項。\n\n原文來源： [blog.youtube](https://blog.youtube/news-and-events/new-accessibility-tags-youtube-playables)"
+  },
+  {
+    "title": "TVA 揭曉增強後符合 ADA 無障礙的奇卡馬加湖公共進入點",
+    "slug": "tva-unveils-enhanced-ada-accessible-chickamauga-lake-public-access-site-zh-6045a233",
+    "lang": "zh-TW",
+    "summary": "田納西河谷管理局揭曉奇卡馬加湖的升級公共進入點，符合 ADA 標準，提供改善的步道、無障礙皮艇發射區、碼頭等設施，以提升殘障人士的可及性。",
+    "category": "physical-design",
+    "tags": [
+      "ADA",
+      "lake access",
+      "outdoor recreation"
+    ],
+    "sourceName": "WTVC",
+    "sourceUrl": "https://newschannel9.com/news/local/arc-chattanooga/gallery/tva-unveils-enhanced-ada-accessible-chickamauga-lake-public-access-site-tennessee-environmental-resource-stewardship-boardsafe-kayak-launch-pier-kings-point-road",
+    "relatedSources": [
+      {
+        "name": "WTVC",
+        "url": "https://newschannel9.com/news/local/arc-chattanooga/gallery/tva-unveils-enhanced-ada-accessible-chickamauga-lake-public-access-site-tennessee-environmental-resource-stewardship-boardsafe-kayak-launch-pier-kings-point-road"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-6045a233",
+    "status": "published",
+    "translationOf": "tva-unveils-enhanced-ada-accessible-chickamauga-lake-public-access-site-6045a233",
+    "publishedAt": "2026-11-03T14:51:37.000Z",
+    "fetchedAt": "2026-11-03T16:15:23.924Z",
+    "body": "田納西河谷管理局揭曉奇卡馬加湖的升級公共進入點，符合 ADA 標準，提供改善的步道、無障礙皮艇發射區、碼頭等設施，以提升殘障人士的可及性。\n\n原文來源： [WTVC](https://newschannel9.com/news/local/arc-chattanooga/gallery/tva-unveils-enhanced-ada-accessible-chickamauga-lake-public-access-site-tennessee-environmental-resource-stewardship-boardsafe-kayak-launch-pier-kings-point-road)"
+  },
+  {
+    "title": "黑五特賣隨處可見。無障礙購物網站？卻不多見。",
+    "slug": "black-friday-deals-are-everywhere-accessible-shopping-websites-not-so-much-zh-b52dce30",
+    "lang": "zh-TW",
+    "summary": "許多零售商在線上提供黑五特賣，但他們的網站常缺乏適當的無障礙功能，導致殘障人士難以購物。",
+    "category": "digital-a11y",
+    "tags": [
+      "Black Friday",
+      "e-commerce",
+      "web accessibility"
+    ],
+    "sourceName": "WHIO TV",
+    "sourceUrl": "https://www.whio.com/news/black-friday-deals/P6KZVTCLMI5J7MSLHNWNVX7G4U",
+    "relatedSources": [
+      {
+        "name": "WHIO TV",
+        "url": "https://www.whio.com/news/black-friday-deals/P6KZVTCLMI5J7MSLHNWNVX7G4U"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-b52dce30",
+    "status": "published",
+    "translationOf": "black-friday-deals-are-everywhere-accessible-shopping-websites-not-so-much-b52dce30",
+    "publishedAt": "2026-11-03T14:00:10.000Z",
+    "fetchedAt": "2026-11-03T16:15:23.934Z",
+    "body": "許多零售商在線上提供黑五特賣，但他們的網站常缺乏適當的無障礙功能，導致殘障人士難以購物。\n\n原文來源： [WHIO TV](https://www.whio.com/news/black-friday-deals/P6KZVTCLMI5J7MSLHNWNVX7G4U)"
+  },
+  {
+    "title": "科羅拉多州無障礙投票方式說明",
+    "slug": "how-accessibility-voting-works-in-colorado-zh-c3105347",
+    "lang": "zh-TW",
+    "summary": "說明科羅拉多州為殘疾選民提供的投票便利措施，包括無障礙投票站、標記設備及協助服務，以確保他們能獨立完成投票。",
+    "category": "laws-rights",
+    "tags": [
+      "voting",
+      "disability rights",
+      "Colorado",
+      "accessible polling"
+    ],
+    "sourceName": "Colorado Public Radio",
+    "sourceUrl": "https://www.cpr.org/2026/11/02/colorado-accessibility-voting-explained",
+    "relatedSources": [
+      {
+        "name": "Colorado Public Radio",
+        "url": "https://www.cpr.org/2026/11/02/colorado-accessibility-voting-explained"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-c3105347",
+    "status": "published",
+    "translationOf": "how-accessibility-voting-works-in-colorado-c3105347",
+    "publishedAt": "2026-11-02T23:54:00.000Z",
+    "fetchedAt": "2026-11-03T16:15:33.765Z",
+    "body": "說明科羅拉多州為殘疾選民提供的投票便利措施，包括無障礙投票站、標記設備及協助服務，以確保他們能獨立完成投票。\n\n原文來源： [Colorado Public Radio](https://www.cpr.org/2026/11/02/colorado-accessibility-voting-explained)"
+  },
+  {
+    "title": "普渡大學西北分校數位無障礙資源",
+    "slug": "digital-accessibility-resources-purdue-university-northwest-zh-e8d720e2",
+    "lang": "zh-TW",
+    "summary": "普渡大學西北分校提供指引、工具與培訓，協助教職員製作適合殘障學生的無障礙數位內容。",
+    "category": "digital-a11y",
+    "tags": [
+      "digital accessibility",
+      "university",
+      "resources",
+      "WCAG"
+    ],
+    "sourceName": "Purdue University Northwest",
+    "sourceUrl": "https://www.pnw.edu/digital-accessibility-resources",
+    "relatedSources": [
+      {
+        "name": "Purdue University Northwest",
+        "url": "https://www.pnw.edu/digital-accessibility-resources"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e8d720e2",
+    "status": "published",
+    "translationOf": "digital-accessibility-resources-purdue-university-northwest-e8d720e2",
+    "publishedAt": "2026-11-03T00:38:47.000Z",
+    "fetchedAt": "2026-11-03T16:15:33.774Z",
+    "body": "普渡大學西北分校提供指引、工具與培訓，協助教職員製作適合殘障學生的無障礙數位內容。\n\n原文來源： [Purdue University Northwest](https://www.pnw.edu/digital-accessibility-resources)"
+  },
+  {
+    "title": "威斯康辛州倡導者稱外展與教育是提升投票無障礙的關鍵",
+    "slug": "outreach-education-key-to-voting-accessibility-wisconsin-advocates-say-zh-0db7e42c",
+    "lang": "zh-TW",
+    "summary": "威斯康辛州殘障倡導者指出，社區外展與選民教育對改善投票無障礙、確保殘障人士充分參與選舉至關重要。",
+    "category": "case-studies",
+    "tags": [
+      "voting accessibility",
+      "advocacy",
+      "Wisconsin",
+      "outreach",
+      "education"
+    ],
+    "sourceName": "Milwaukee Neighborhood News Service",
+    "sourceUrl": "https://milwaukeenns.org/2026/11/02/wisconsin-election-voting-ballot-disabilities-accessibility-requirements-advocates-outreach-education",
+    "relatedSources": [
+      {
+        "name": "Milwaukee Neighborhood News Service",
+        "url": "https://milwaukeenns.org/2026/11/02/wisconsin-election-voting-ballot-disabilities-accessibility-requirements-advocates-outreach-education"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-0db7e42c",
+    "status": "published",
+    "translationOf": "outreach-education-key-to-voting-accessibility-wisconsin-advocates-say-0db7e42c",
+    "publishedAt": "2026-11-02T22:00:00.000Z",
+    "fetchedAt": "2026-11-03T16:15:33.791Z",
+    "body": "威斯康辛州殘障倡導者指出，社區外展與選民教育對改善投票無障礙、確保殘障人士充分參與選舉至關重要。\n\n原文來源： [Milwaukee Neighborhood News Service](https://milwaukeenns.org/2026/11/02/wisconsin-election-voting-ballot-disabilities-accessibility-requirements-advocates-outreach-education)"
+  },
+  {
+    "title": "黑五購物盛行，但可無障礙購物網站卻稀少。",
+    "slug": "black-friday-deals-are-everywhere-accessible-shopping-websites-not-so-much-wbkb1-zh-e6aefbb0",
+    "lang": "zh-TW",
+    "summary": "儘管黑色星期五線上優惠眾多，許多購物網站對殘障人士仍缺乏無障礙設計，凸顯大型促銷期間網頁無障礙的不足。",
+    "category": "digital-a11y",
+    "tags": [],
+    "sourceName": "WBKB11.com",
+    "sourceUrl": "https://www.wbkb11.com/news/money/black-friday-deals-are-everywhere-accessible-shopping-websites-not-so-much/article_8fbc85f7-e7b3-5ab3-b2c4-bb02b37fd37a.html",
+    "relatedSources": [
+      {
+        "name": "WBKB11.com",
+        "url": "https://www.wbkb11.com/news/money/black-friday-deals-are-everywhere-accessible-shopping-websites-not-so-much/article_8fbc85f7-e7b3-5ab3-b2c4-bb02b37fd37a.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e6aefbb0",
+    "status": "published",
+    "translationOf": "black-friday-deals-are-everywhere-accessible-shopping-websites-not-so-much-wbkb1-e6aefbb0",
+    "publishedAt": "2026-11-03T14:00:10.000Z",
+    "fetchedAt": "2026-11-03T16:15:43.078Z",
+    "body": "儘管黑色星期五線上優惠眾多，許多購物網站對殘障人士仍缺乏無障礙設計，凸顯大型促銷期間網頁無障礙的不足。\n\n原文來源： [WBKB11.com](https://www.wbkb11.com/news/money/black-friday-deals-are-everywhere-accessible-shopping-websites-not-so-much/article_8fbc85f7-e7b3-5ab3-b2c4-bb02b37fd37a.html)"
+  },
+  {
+    "title": "BrowsAble 募得 30 萬英鎊 測試 AI 網頁無障礙工具。",
+    "slug": "browsable-raises-300k-to-test-ai-web-accessibility-tool-dealroom-zh-227b0b3d",
+    "lang": "zh-TW",
+    "summary": "英國新創公司 BrowsAble 獲得 30 萬英鎊資金，用於開發和測試一種基於人工智慧的工具，能自動評估並提升網站對殘障使用者的無障礙性。",
+    "category": "digital-a11y",
+    "tags": [],
+    "sourceName": "Dealroom",
+    "sourceUrl": "https://app.dealroom.co/news/note/browsable-raises-300k-to-test-ai-web-accessibility-tool",
+    "relatedSources": [
+      {
+        "name": "Dealroom",
+        "url": "https://app.dealroom.co/news/note/browsable-raises-300k-to-test-ai-web-accessibility-tool"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-227b0b3d",
+    "status": "published",
+    "translationOf": "browsable-raises-300k-to-test-ai-web-accessibility-tool-dealroom-227b0b3d",
+    "publishedAt": "2026-11-03T15:47:33.000Z",
+    "fetchedAt": "2026-11-03T16:15:43.088Z",
+    "body": "英國新創公司 BrowsAble 獲得 30 萬英鎊資金，用於開發和測試一種基於人工智慧的工具，能自動評估並提升網站對殘障使用者的無障礙性。\n\n原文來源： [Dealroom](https://app.dealroom.co/news/note/browsable-raises-300k-to-test-ai-web-accessibility-tool)"
+  },
+  {
+    "title": "西漢聯隊以紀念 Purple Tuesday 傳承展現對無障礙的持續承諾。",
+    "slug": "west-ham-united-shows-continued-commitment-to-accessibility-by-honouring-legacy--zh-a793f16e",
+    "lang": "zh-TW",
+    "summary": "西漢聯隊透過支持 Purple Tuesday 倡議，再次承諾改善比賽日對殘障球迷的無障礙設施，推動殘障共融與實體環境的改善。",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "West Ham United",
+    "sourceUrl": "https://www.whufc.com/en/news/west-ham-united-shows-continued-commitment-to-accessibility-by-honouring-legacy-of-purple-tuesday",
+    "relatedSources": [
+      {
+        "name": "West Ham United",
+        "url": "https://www.whufc.com/en/news/west-ham-united-shows-continued-commitment-to-accessibility-by-honouring-legacy-of-purple-tuesday"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a793f16e",
+    "status": "published",
+    "translationOf": "west-ham-united-shows-continued-commitment-to-accessibility-by-honouring-legacy--a793f16e",
+    "publishedAt": "2026-11-03T16:00:13.000Z",
+    "fetchedAt": "2026-11-03T16:15:43.097Z",
+    "body": "西漢聯隊透過支持 Purple Tuesday 倡議，再次承諾改善比賽日對殘障球迷的無障礙設施，推動殘障共融與實體環境的改善。\n\n原文來源： [West Ham United](https://www.whufc.com/en/news/west-ham-united-shows-continued-commitment-to-accessibility-by-honouring-legacy-of-purple-tuesday)"
+  },
+  {
+    "title": "有影響力的女性：Hillary Goldthwait‑Fowles，從頭開始設計包容性學習，無障礙內建 - Bergen Record",
+    "slug": "influential-women-hillary-goldthwait-fowles-designs-inclusive-learning-with-acce-zh-b91d8967",
+    "lang": "zh-TW",
+    "summary": "Hillary Goldthwait‑Fowles 強調在學習設計一開始就融入無障礙概念，以促進殘障學生的包容教育。",
+    "category": "physical-design",
+    "tags": [
+      "inclusive learning",
+      "accessibility",
+      "education",
+      "universal design"
+    ],
+    "sourceName": "Bergen Record",
+    "sourceUrl": "https://www.northjersey.com/press-release/story/261234/influential-women-hillary-goldthwait-fowles-designs-inclusive-learning-with-accessibility-built-in-from-the-start",
+    "relatedSources": [
+      {
+        "name": "Bergen Record",
+        "url": "https://www.northjersey.com/press-release/story/261234/influential-women-hillary-goldthwait-fowles-designs-inclusive-learning-with-accessibility-built-in-from-the-start"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-b91d8967",
+    "status": "published",
+    "translationOf": "influential-women-hillary-goldthwait-fowles-designs-inclusive-learning-with-acce-b91d8967",
+    "publishedAt": "2026-11-03T13:31:05.000Z",
+    "fetchedAt": "2026-11-03T16:15:51.722Z",
+    "body": "Hillary Goldthwait‑Fowles 強調在學習設計一開始就融入無障礙概念，以促進殘障學生的包容教育。\n\n原文來源： [Bergen Record](https://www.northjersey.com/press-release/story/261234/influential-women-hillary-goldthwait-fowles-designs-inclusive-learning-with-accessibility-built-in-from-the-start)"
+  },
+  {
+    "title": "基隆正濱新地標！全台首座身障創新基地啟用　無障礙共融空間亮點一次看 - ETtoday新聞雲",
+    "slug": "keelung-zhengbin-new-landmark-launches-taiwans-first-disability-innovation-base--zh-e370e7c5",
+    "lang": "zh-TW",
+    "summary": "基隆正濱新地標啟用全台首座身障創新基地，提供無障礙共融空間，展示身障友善設施與創新資源。",
+    "category": "physical-design",
+    "tags": [
+      "disability innovation",
+      "barrier-free",
+      "inclusive space",
+      "Keelung"
+    ],
+    "sourceName": "ETtoday新聞雲",
+    "sourceUrl": "https://www.ettoday.net/news/20261103/3265618.htm",
+    "relatedSources": [
+      {
+        "name": "ETtoday新聞雲",
+        "url": "https://www.ettoday.net/news/20261103/3265618.htm"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e370e7c5",
+    "status": "published",
+    "translationOf": "keelung-zhengbin-new-landmark-launches-taiwans-first-disability-innovation-base--e370e7c5",
+    "publishedAt": "2026-11-03T09:26:00.000Z",
+    "fetchedAt": "2026-11-03T16:15:51.732Z",
+    "body": "基隆正濱新地標啟用全台首座身障創新基地，提供無障礙共融空間，展示身障友善設施與創新資源。\n\n原文來源： [ETtoday新聞雲](https://www.ettoday.net/news/20261103/3265618.htm)"
+  },
+  {
+    "title": "約少女見面竟伸狼爪！惡男無障礙廁所性侵 判賠80萬",
+    "slug": "man-sexually-assaults-teen-girl-in-accessible-toilet-ordered-to-pay-nt800000-zh-658c1899",
+    "lang": "zh-TW",
+    "summary": "男子約少女見面後在無障礙公廁內進行性侵，法院判決賠償新台幣80萬元。",
+    "category": "physical-design",
+    "tags": [
+      "sexual assault",
+      "accessible toilet",
+      "Taiwan",
+      "court ruling"
+    ],
+    "sourceName": "東森新聞",
+    "sourceUrl": "https://news.ebc.net.tw/news/society/578764",
+    "relatedSources": [
+      {
+        "name": "東森新聞",
+        "url": "https://news.ebc.net.tw/news/society/578764"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-658c1899",
+    "status": "published",
+    "translationOf": "man-sexually-assaults-teen-girl-in-accessible-toilet-ordered-to-pay-nt800000-658c1899",
+    "publishedAt": "2026-11-03T00:54:00.000Z",
+    "fetchedAt": "2026-11-03T16:16:02.720Z",
+    "body": "男子約少女見面後在無障礙公廁內進行性侵，法院判決賠償新台幣80萬元。\n\n原文來源： [東森新聞](https://news.ebc.net.tw/news/society/578764)"
+  },
+  {
+    "title": "a11yguard 0.1.0 發布 – 用於 Playwright 與 Selenium 的 Python 無障礙測試工具",
+    "slug": "a11yguard-010-released-accessibility-testing-for-playwright-and-selenium-in-pyth-zh-38132a85",
+    "lang": "zh-TW",
+    "summary": "a11yguard 是一個新推出的 Python 套件，提供 Playwright 與 Selenium 自動化測試的無障礙測試功能。",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility testing",
+      "Playwright",
+      "Selenium",
+      "Python",
+      "a11yguard"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/a11yguard/0.1.0",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/a11yguard/0.1.0"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-38132a85",
+    "status": "published",
+    "translationOf": "a11yguard-010-released-accessibility-testing-for-playwright-and-selenium-in-pyth-38132a85",
+    "publishedAt": "2026-11-02T15:06:40.000Z",
+    "fetchedAt": "2026-11-03T16:16:02.941Z",
+    "body": "a11yguard 是一個新推出的 Python 套件，提供 Playwright 與 Selenium 自動化測試的無障礙測試功能。\n\n原文來源： [Pypi.org](https://pypi.org/project/a11yguard/0.1.0)"
+  },
+  {
+    "title": "a11yguard 套件已發布至 PyPI",
+    "slug": "a11yguard-package-released-on-pypi-zh-52406ba5",
+    "lang": "zh-TW",
+    "summary": "a11yguard 是一個提供 Playwright 與 Selenium 無障礙測試功能的 Python 套件，現已上架 Python Package Index (PyPI)。",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility testing",
+      "Playwright",
+      "Selenium",
+      "Python"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/a11yguard",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/a11yguard"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-52406ba5",
+    "status": "published",
+    "translationOf": "a11yguard-package-released-on-pypi-52406ba5",
+    "publishedAt": "2026-11-02T15:06:36.000Z",
+    "fetchedAt": "2026-11-03T16:16:09.128Z",
+    "body": "a11yguard 是一個提供 Playwright 與 Selenium 無障礙測試功能的 Python 套件，現已上架 Python Package Index (PyPI)。\n\n原文來源： [Pypi.org](https://pypi.org/project/a11yguard)"
+  },
+  {
+    "title": "Ruth Madeley 談論在《Being Heumann》中飾演殘疾權利傳奇人物",
+    "slug": "ruth-madeley-discusses-portraying-disability-rights-legend-in-being-heumann-zh-b73b6d96",
+    "lang": "zh-TW",
+    "summary": "在接受 IndieWire 訪問時，女演員 Ruth Madeley 分享她在奧斯卡級電影《Being Heumann》中飾演殘疾權利活動家的經驗，並談及真實殘疾表現的重要性。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability rights",
+      "film representation",
+      "interview",
+      "Being Heumann"
+    ],
+    "sourceName": "IndieWire",
+    "sourceUrl": "https://www.indiewire.com/features/interviews/being-heumann-ruth-madeley-interview-1235224957",
+    "relatedSources": [
+      {
+        "name": "IndieWire",
+        "url": "https://www.indiewire.com/features/interviews/being-heumann-ruth-madeley-interview-1235224957"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-b73b6d96",
+    "status": "published",
+    "translationOf": "ruth-madeley-discusses-portraying-disability-rights-legend-in-being-heumann-b73b6d96",
+    "publishedAt": "2026-11-02T14:00:00.000Z",
+    "fetchedAt": "2026-11-03T16:16:09.138Z",
+    "body": "在接受 IndieWire 訪問時，女演員 Ruth Madeley 分享她在奧斯卡級電影《Being Heumann》中飾演殘疾權利活動家的經驗，並談及真實殘疾表現的重要性。\n\n原文來源： [IndieWire](https://www.indiewire.com/features/interviews/being-heumann-ruth-madeley-interview-1235224957)"
   }
 ]

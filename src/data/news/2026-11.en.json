@@ -5646,5 +5646,548 @@
     "publishedAt": "2026-11-02T13:36:41.000Z",
     "fetchedAt": "2026-11-02T20:33:51.699Z",
     "body": "The article discusses how artificial intelligence is being used to support blind individuals in Idlib, Syria, while raising concerns about the sustainability of the 'Village of Light' project which supports visually impaired residents.\n\nRead more from the original source: [news.google.com](https://twaslnews1.twaslnews.com/7023012)"
+  },
+  {
+    "title": "Two longtime roommates need an accessible home. Disability advocates say Lyndhurst is standing in the way",
+    "slug": "two-longtime-roommates-need-an-accessible-home-disability-advocates-say-lyndhurs-6a6f6160",
+    "lang": "en",
+    "summary": "Two long‑time roommates with disabilities are seeking an accessible rental home, but disability advocates claim the town of Lyndhurst is obstructing their efforts.",
+    "category": "physical-design",
+    "tags": [
+      "housing",
+      "disability",
+      "accessibility"
+    ],
+    "sourceName": "Cleveland.com",
+    "sourceUrl": "https://www.cleveland.com/news/2026/11/two-longtime-roommates-need-an-accessible-home-disability-advocates-say-lyndhurst-is-standing-in-the-way.html",
+    "relatedSources": [
+      {
+        "name": "Cleveland.com",
+        "url": "https://www.cleveland.com/news/2026/11/two-longtime-roommates-need-an-accessible-home-disability-advocates-say-lyndhurst-is-standing-in-the-way.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-6a6f6160",
+    "status": "published",
+    "translationOf": "two-longtime-roommates-need-an-accessible-home-disability-advocates-say-lyndhurs-zh-6a6f6160",
+    "publishedAt": "2026-11-02T21:31:00.000Z",
+    "fetchedAt": "2026-11-03T16:15:16.489Z",
+    "body": "Two long‑time roommates with disabilities are seeking an accessible rental home, but disability advocates claim the town of Lyndhurst is obstructing their efforts.\n\nRead more from the original source: [Cleveland.com](https://www.cleveland.com/news/2026/11/two-longtime-roommates-need-an-accessible-home-disability-advocates-say-lyndhurst-is-standing-in-the-way.html)"
+  },
+  {
+    "title": "Amtrak accessibility renovations at Latrobe station delayed until fall 2027",
+    "slug": "amtrak-accessibility-renovations-at-latrobe-station-delayed-until-fall-2027-d8630b06",
+    "lang": "en",
+    "summary": "Planned upgrades to make Latrobe train station fully accessible for passengers with disabilities have been postponed, with completion now expected in autumn 2027.",
+    "category": "physical-design",
+    "tags": [
+      "transport",
+      "station",
+      "accessibility"
+    ],
+    "sourceName": "TribLIVE.com",
+    "sourceUrl": "https://triblive.com/local/westmoreland/amtrak-accessibility-renovations-at-latrobe-station-delayed-until-fall-2027",
+    "relatedSources": [
+      {
+        "name": "TribLIVE.com",
+        "url": "https://triblive.com/local/westmoreland/amtrak-accessibility-renovations-at-latrobe-station-delayed-until-fall-2027"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-d8630b06",
+    "status": "published",
+    "translationOf": "amtrak-accessibility-renovations-at-latrobe-station-delayed-until-fall-2027-zh-d8630b06",
+    "publishedAt": "2026-11-03T15:34:45.000Z",
+    "fetchedAt": "2026-11-03T16:15:16.502Z",
+    "body": "Planned upgrades to make Latrobe train station fully accessible for passengers with disabilities have been postponed, with completion now expected in autumn 2027.\n\nRead more from the original source: [TribLIVE.com](https://triblive.com/local/westmoreland/amtrak-accessibility-renovations-at-latrobe-station-delayed-until-fall-2027)"
+  },
+  {
+    "title": "New accessibility tags come to YouTube Playables",
+    "slug": "new-accessibility-tags-come-to-youtube-playables-7a1cc46f",
+    "lang": "en",
+    "summary": "YouTube has introduced new accessibility tags for its Playables feature, allowing creators to label content with captions, audio description, and other disability‑friendly options.",
+    "category": "digital-a11y",
+    "tags": [
+      "YouTube",
+      "captions",
+      "audio description"
+    ],
+    "sourceName": "blog.youtube",
+    "sourceUrl": "https://blog.youtube/news-and-events/new-accessibility-tags-youtube-playables",
+    "relatedSources": [
+      {
+        "name": "blog.youtube",
+        "url": "https://blog.youtube/news-and-events/new-accessibility-tags-youtube-playables"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-7a1cc46f",
+    "status": "published",
+    "translationOf": "new-accessibility-tags-come-to-youtube-playables-zh-7a1cc46f",
+    "publishedAt": "2026-11-03T02:25:10.000Z",
+    "fetchedAt": "2026-11-03T16:15:16.511Z",
+    "body": "YouTube has introduced new accessibility tags for its Playables feature, allowing creators to label content with captions, audio description, and other disability‑friendly options.\n\nRead more from the original source: [blog.youtube](https://blog.youtube/news-and-events/new-accessibility-tags-youtube-playables)"
+  },
+  {
+    "title": "TVA Unveils Enhanced, ADA Accessible Chickamauga Lake Public Access Site",
+    "slug": "tva-unveils-enhanced-ada-accessible-chickamauga-lake-public-access-site-6045a233",
+    "lang": "en",
+    "summary": "The Tennessee Valley Authority unveiled an upgraded public access site at Chickamauga Lake that meets ADA standards, featuring improved pathways, kayak launch, pier, and other enhancements to improve accessibility for people with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "ADA",
+      "lake access",
+      "outdoor recreation"
+    ],
+    "sourceName": "WTVC",
+    "sourceUrl": "https://newschannel9.com/news/local/arc-chattanooga/gallery/tva-unveils-enhanced-ada-accessible-chickamauga-lake-public-access-site-tennessee-environmental-resource-stewardship-boardsafe-kayak-launch-pier-kings-point-road",
+    "relatedSources": [
+      {
+        "name": "WTVC",
+        "url": "https://newschannel9.com/news/local/arc-chattanooga/gallery/tva-unveils-enhanced-ada-accessible-chickamauga-lake-public-access-site-tennessee-environmental-resource-stewardship-boardsafe-kayak-launch-pier-kings-point-road"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-6045a233",
+    "status": "published",
+    "translationOf": "tva-unveils-enhanced-ada-accessible-chickamauga-lake-public-access-site-zh-6045a233",
+    "publishedAt": "2026-11-03T14:51:37.000Z",
+    "fetchedAt": "2026-11-03T16:15:23.924Z",
+    "body": "The Tennessee Valley Authority unveiled an upgraded public access site at Chickamauga Lake that meets ADA standards, featuring improved pathways, kayak launch, pier, and other enhancements to improve accessibility for people with disabilities.\n\nRead more from the original source: [WTVC](https://newschannel9.com/news/local/arc-chattanooga/gallery/tva-unveils-enhanced-ada-accessible-chickamauga-lake-public-access-site-tennessee-environmental-resource-stewardship-boardsafe-kayak-launch-pier-kings-point-road)"
+  },
+  {
+    "title": "Black Friday deals are everywhere. Accessible shopping websites? Not so much.",
+    "slug": "black-friday-deals-are-everywhere-accessible-shopping-websites-not-so-much-b52dce30",
+    "lang": "en",
+    "summary": "Many retailers offer Black Friday deals online, but their websites often lack proper accessibility features, making it difficult for people with disabilities to shop.",
+    "category": "digital-a11y",
+    "tags": [
+      "Black Friday",
+      "e-commerce",
+      "web accessibility"
+    ],
+    "sourceName": "WHIO TV",
+    "sourceUrl": "https://www.whio.com/news/black-friday-deals/P6KZVTCLMI5J7MSLHNWNVX7G4U",
+    "relatedSources": [
+      {
+        "name": "WHIO TV",
+        "url": "https://www.whio.com/news/black-friday-deals/P6KZVTCLMI5J7MSLHNWNVX7G4U"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-b52dce30",
+    "status": "published",
+    "translationOf": "black-friday-deals-are-everywhere-accessible-shopping-websites-not-so-much-zh-b52dce30",
+    "publishedAt": "2026-11-03T14:00:10.000Z",
+    "fetchedAt": "2026-11-03T16:15:23.934Z",
+    "body": "Many retailers offer Black Friday deals online, but their websites often lack proper accessibility features, making it difficult for people with disabilities to shop.\n\nRead more from the original source: [WHIO TV](https://www.whio.com/news/black-friday-deals/P6KZVTCLMI5J7MSLHNWNVX7G4U)"
+  },
+  {
+    "title": "How accessibility voting works in Colorado",
+    "slug": "how-accessibility-voting-works-in-colorado-c3105347",
+    "lang": "en",
+    "summary": "Explains Colorado's procedures and accommodations that enable voters with disabilities to cast ballots independently, including accessible polling places, ballot marking devices, and voter assistance.",
+    "category": "laws-rights",
+    "tags": [
+      "voting",
+      "disability rights",
+      "Colorado",
+      "accessible polling"
+    ],
+    "sourceName": "Colorado Public Radio",
+    "sourceUrl": "https://www.cpr.org/2026/11/02/colorado-accessibility-voting-explained",
+    "relatedSources": [
+      {
+        "name": "Colorado Public Radio",
+        "url": "https://www.cpr.org/2026/11/02/colorado-accessibility-voting-explained"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-c3105347",
+    "status": "published",
+    "translationOf": "how-accessibility-voting-works-in-colorado-zh-c3105347",
+    "publishedAt": "2026-11-02T23:54:00.000Z",
+    "fetchedAt": "2026-11-03T16:15:33.765Z",
+    "body": "Explains Colorado's procedures and accommodations that enable voters with disabilities to cast ballots independently, including accessible polling places, ballot marking devices, and voter assistance.\n\nRead more from the original source: [Colorado Public Radio](https://www.cpr.org/2026/11/02/colorado-accessibility-voting-explained)"
+  },
+  {
+    "title": "Digital Accessibility Resources - Purdue University Northwest",
+    "slug": "digital-accessibility-resources-purdue-university-northwest-e8d720e2",
+    "lang": "en",
+    "summary": "Purdue University Northwest provides guidelines, tools, and training to help faculty and staff create accessible digital content for students with disabilities.",
+    "category": "digital-a11y",
+    "tags": [
+      "digital accessibility",
+      "university",
+      "resources",
+      "WCAG"
+    ],
+    "sourceName": "Purdue University Northwest",
+    "sourceUrl": "https://www.pnw.edu/digital-accessibility-resources",
+    "relatedSources": [
+      {
+        "name": "Purdue University Northwest",
+        "url": "https://www.pnw.edu/digital-accessibility-resources"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e8d720e2",
+    "status": "published",
+    "translationOf": "digital-accessibility-resources-purdue-university-northwest-zh-e8d720e2",
+    "publishedAt": "2026-11-03T00:38:47.000Z",
+    "fetchedAt": "2026-11-03T16:15:33.774Z",
+    "body": "Purdue University Northwest provides guidelines, tools, and training to help faculty and staff create accessible digital content for students with disabilities.\n\nRead more from the original source: [Purdue University Northwest](https://www.pnw.edu/digital-accessibility-resources)"
+  },
+  {
+    "title": "Outreach, education key to voting accessibility, Wisconsin advocates say",
+    "slug": "outreach-education-key-to-voting-accessibility-wisconsin-advocates-say-0db7e42c",
+    "lang": "en",
+    "summary": "Wisconsin disability advocates stress that community outreach and voter education are essential to improve voting accessibility and ensure people with disabilities can participate fully in elections.",
+    "category": "case-studies",
+    "tags": [
+      "voting accessibility",
+      "advocacy",
+      "Wisconsin",
+      "outreach",
+      "education"
+    ],
+    "sourceName": "Milwaukee Neighborhood News Service",
+    "sourceUrl": "https://milwaukeenns.org/2026/11/02/wisconsin-election-voting-ballot-disabilities-accessibility-requirements-advocates-outreach-education",
+    "relatedSources": [
+      {
+        "name": "Milwaukee Neighborhood News Service",
+        "url": "https://milwaukeenns.org/2026/11/02/wisconsin-election-voting-ballot-disabilities-accessibility-requirements-advocates-outreach-education"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-0db7e42c",
+    "status": "published",
+    "translationOf": "outreach-education-key-to-voting-accessibility-wisconsin-advocates-say-zh-0db7e42c",
+    "publishedAt": "2026-11-02T22:00:00.000Z",
+    "fetchedAt": "2026-11-03T16:15:33.791Z",
+    "body": "Wisconsin disability advocates stress that community outreach and voter education are essential to improve voting accessibility and ensure people with disabilities can participate fully in elections.\n\nRead more from the original source: [Milwaukee Neighborhood News Service](https://milwaukeenns.org/2026/11/02/wisconsin-election-voting-ballot-disabilities-accessibility-requirements-advocates-outreach-education)"
+  },
+  {
+    "title": "Black Friday deals are everywhere. Accessible shopping websites? Not so much. - WBKB11.com",
+    "slug": "black-friday-deals-are-everywhere-accessible-shopping-websites-not-so-much-wbkb1-e6aefbb0",
+    "lang": "en",
+    "summary": "Article discusses how despite numerous Black Friday deals online, many shopping websites remain inaccessible to people with disabilities, highlighting gaps in web accessibility during major sales events.",
+    "category": "digital-a11y",
+    "tags": [],
+    "sourceName": "WBKB11.com",
+    "sourceUrl": "https://www.wbkb11.com/news/money/black-friday-deals-are-everywhere-accessible-shopping-websites-not-so-much/article_8fbc85f7-e7b3-5ab3-b2c4-bb02b37fd37a.html",
+    "relatedSources": [
+      {
+        "name": "WBKB11.com",
+        "url": "https://www.wbkb11.com/news/money/black-friday-deals-are-everywhere-accessible-shopping-websites-not-so-much/article_8fbc85f7-e7b3-5ab3-b2c4-bb02b37fd37a.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e6aefbb0",
+    "status": "published",
+    "translationOf": "black-friday-deals-are-everywhere-accessible-shopping-websites-not-so-much-wbkb1-zh-e6aefbb0",
+    "publishedAt": "2026-11-03T14:00:10.000Z",
+    "fetchedAt": "2026-11-03T16:15:43.078Z",
+    "body": "Article discusses how despite numerous Black Friday deals online, many shopping websites remain inaccessible to people with disabilities, highlighting gaps in web accessibility during major sales events.\n\nRead more from the original source: [WBKB11.com](https://www.wbkb11.com/news/money/black-friday-deals-are-everywhere-accessible-shopping-websites-not-so-much/article_8fbc85f7-e7b3-5ab3-b2c4-bb02b37fd37a.html)"
+  },
+  {
+    "title": "BrowsAble raises £300K to test AI web-accessibility tool - Dealroom",
+    "slug": "browsable-raises-300k-to-test-ai-web-accessibility-tool-dealroom-227b0b3d",
+    "lang": "en",
+    "summary": "UK startup BrowsAble secured £300,000 funding to develop and test an AI‑driven tool that automatically evaluates and improves website accessibility for users with disabilities.",
+    "category": "digital-a11y",
+    "tags": [],
+    "sourceName": "Dealroom",
+    "sourceUrl": "https://app.dealroom.co/news/note/browsable-raises-300k-to-test-ai-web-accessibility-tool",
+    "relatedSources": [
+      {
+        "name": "Dealroom",
+        "url": "https://app.dealroom.co/news/note/browsable-raises-300k-to-test-ai-web-accessibility-tool"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-227b0b3d",
+    "status": "published",
+    "translationOf": "browsable-raises-300k-to-test-ai-web-accessibility-tool-dealroom-zh-227b0b3d",
+    "publishedAt": "2026-11-03T15:47:33.000Z",
+    "fetchedAt": "2026-11-03T16:15:43.088Z",
+    "body": "UK startup BrowsAble secured £300,000 funding to develop and test an AI‑driven tool that automatically evaluates and improves website accessibility for users with disabilities.\n\nRead more from the original source: [Dealroom](https://app.dealroom.co/news/note/browsable-raises-300k-to-test-ai-web-accessibility-tool)"
+  },
+  {
+    "title": "West Ham United shows continued commitment to accessibility by honouring legacy of Purple Tuesday - West Ham United",
+    "slug": "west-ham-united-shows-continued-commitment-to-accessibility-by-honouring-legacy--a793f16e",
+    "lang": "en",
+    "summary": "The football club reaffirms its dedication to making matchdays accessible for disabled fans by supporting Purple Tuesday, an initiative encouraging businesses to improve disability inclusion and physical access.",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "West Ham United",
+    "sourceUrl": "https://www.whufc.com/en/news/west-ham-united-shows-continued-commitment-to-accessibility-by-honouring-legacy-of-purple-tuesday",
+    "relatedSources": [
+      {
+        "name": "West Ham United",
+        "url": "https://www.whufc.com/en/news/west-ham-united-shows-continued-commitment-to-accessibility-by-honouring-legacy-of-purple-tuesday"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a793f16e",
+    "status": "published",
+    "translationOf": "west-ham-united-shows-continued-commitment-to-accessibility-by-honouring-legacy--zh-a793f16e",
+    "publishedAt": "2026-11-03T16:00:13.000Z",
+    "fetchedAt": "2026-11-03T16:15:43.097Z",
+    "body": "The football club reaffirms its dedication to making matchdays accessible for disabled fans by supporting Purple Tuesday, an initiative encouraging businesses to improve disability inclusion and physical access.\n\nRead more from the original source: [West Ham United](https://www.whufc.com/en/news/west-ham-united-shows-continued-commitment-to-accessibility-by-honouring-legacy-of-purple-tuesday)"
+  },
+  {
+    "title": "Influential Women: Hillary Goldthwait-Fowles, Designs Inclusive Learning With Accessibility Built In From the Start - Bergen Record",
+    "slug": "influential-women-hillary-goldthwait-fowles-designs-inclusive-learning-with-acce-b91d8967",
+    "lang": "en",
+    "summary": "Hillary Goldthwait-Fowles discusses integrating accessibility into learning design from the outset, promoting inclusive education for students with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "inclusive learning",
+      "accessibility",
+      "education",
+      "universal design"
+    ],
+    "sourceName": "Bergen Record",
+    "sourceUrl": "https://www.northjersey.com/press-release/story/261234/influential-women-hillary-goldthwait-fowles-designs-inclusive-learning-with-accessibility-built-in-from-the-start",
+    "relatedSources": [
+      {
+        "name": "Bergen Record",
+        "url": "https://www.northjersey.com/press-release/story/261234/influential-women-hillary-goldthwait-fowles-designs-inclusive-learning-with-accessibility-built-in-from-the-start"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-b91d8967",
+    "status": "published",
+    "translationOf": "influential-women-hillary-goldthwait-fowles-designs-inclusive-learning-with-acce-zh-b91d8967",
+    "publishedAt": "2026-11-03T13:31:05.000Z",
+    "fetchedAt": "2026-11-03T16:15:51.722Z",
+    "body": "Hillary Goldthwait-Fowles discusses integrating accessibility into learning design from the outset, promoting inclusive education for students with disabilities.\n\nRead more from the original source: [Bergen Record](https://www.northjersey.com/press-release/story/261234/influential-women-hillary-goldthwait-fowles-designs-inclusive-learning-with-accessibility-built-in-from-the-start)"
+  },
+  {
+    "title": "Keelung Zhengbin New Landmark Launches Taiwan’s First Disability Innovation Base – Barrier‑Free Inclusive Space Highlights - ETtoday News Cloud",
+    "slug": "keelung-zhengbin-new-landmark-launches-taiwans-first-disability-innovation-base--e370e7c5",
+    "lang": "en",
+    "summary": "The newly opened disability innovation base in Keelung’s Zhengbin district offers Taiwan’s first dedicated space for disability-focused innovation, featuring barrier‑free facilities that promote inclusive community use.",
+    "category": "physical-design",
+    "tags": [
+      "disability innovation",
+      "barrier-free",
+      "inclusive space",
+      "Keelung"
+    ],
+    "sourceName": "ETtoday新聞雲",
+    "sourceUrl": "https://www.ettoday.net/news/20261103/3265618.htm",
+    "relatedSources": [
+      {
+        "name": "ETtoday新聞雲",
+        "url": "https://www.ettoday.net/news/20261103/3265618.htm"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e370e7c5",
+    "status": "published",
+    "translationOf": "keelung-zhengbin-new-landmark-launches-taiwans-first-disability-innovation-base--zh-e370e7c5",
+    "publishedAt": "2026-11-03T09:26:00.000Z",
+    "fetchedAt": "2026-11-03T16:15:51.732Z",
+    "body": "The newly opened disability innovation base in Keelung’s Zhengbin district offers Taiwan’s first dedicated space for disability-focused innovation, featuring barrier‑free facilities that promote inclusive community use.\n\nRead more from the original source: [ETtoday新聞雲](https://www.ettoday.net/news/20261103/3265618.htm)"
+  },
+  {
+    "title": "Man Sexually Assaults Teen Girl in Accessible Toilet, Ordered to Pay NT$800,000",
+    "slug": "man-sexually-assaults-teen-girl-in-accessible-toilet-ordered-to-pay-nt800000-658c1899",
+    "lang": "en",
+    "summary": "A man lured a teenage girl to meet, then sexually assaulted her in a barrier‑free restroom. The court ruled he must pay 800,000 New Taiwan dollars in compensation.",
+    "category": "physical-design",
+    "tags": [
+      "sexual assault",
+      "accessible toilet",
+      "Taiwan",
+      "court ruling"
+    ],
+    "sourceName": "東森新聞",
+    "sourceUrl": "https://news.ebc.net.tw/news/society/578764",
+    "relatedSources": [
+      {
+        "name": "東森新聞",
+        "url": "https://news.ebc.net.tw/news/society/578764"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-658c1899",
+    "status": "published",
+    "translationOf": "man-sexually-assaults-teen-girl-in-accessible-toilet-ordered-to-pay-nt800000-zh-658c1899",
+    "publishedAt": "2026-11-03T00:54:00.000Z",
+    "fetchedAt": "2026-11-03T16:16:02.720Z",
+    "body": "A man lured a teenage girl to meet, then sexually assaulted her in a barrier‑free restroom. The court ruled he must pay 800,000 New Taiwan dollars in compensation.\n\nRead more from the original source: [東森新聞](https://news.ebc.net.tw/news/society/578764)"
+  },
+  {
+    "title": "a11yguard 0.1.0 Released – Accessibility Testing for Playwright and Selenium in Python",
+    "slug": "a11yguard-010-released-accessibility-testing-for-playwright-and-selenium-in-pyth-38132a85",
+    "lang": "en",
+    "summary": "a11yguard is a new Python package that provides accessibility testing utilities for Playwright and Selenium automated tests.",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility testing",
+      "Playwright",
+      "Selenium",
+      "Python",
+      "a11yguard"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/a11yguard/0.1.0",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/a11yguard/0.1.0"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-38132a85",
+    "status": "published",
+    "translationOf": "a11yguard-010-released-accessibility-testing-for-playwright-and-selenium-in-pyth-zh-38132a85",
+    "publishedAt": "2026-11-02T15:06:40.000Z",
+    "fetchedAt": "2026-11-03T16:16:02.941Z",
+    "body": "a11yguard is a new Python package that provides accessibility testing utilities for Playwright and Selenium automated tests.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/a11yguard/0.1.0)"
+  },
+  {
+    "title": "a11yguard package released on PyPI",
+    "slug": "a11yguard-package-released-on-pypi-52406ba5",
+    "lang": "en",
+    "summary": "The a11yguard library, providing accessibility testing utilities for Playwright and Selenium in Python projects, has been published to the Python Package Index.",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility testing",
+      "Playwright",
+      "Selenium",
+      "Python"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/a11yguard",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/a11yguard"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-52406ba5",
+    "status": "published",
+    "translationOf": "a11yguard-package-released-on-pypi-zh-52406ba5",
+    "publishedAt": "2026-11-02T15:06:36.000Z",
+    "fetchedAt": "2026-11-03T16:16:09.128Z",
+    "body": "The a11yguard library, providing accessibility testing utilities for Playwright and Selenium in Python projects, has been published to the Python Package Index.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/a11yguard)"
+  },
+  {
+    "title": "Ruth Madeley Discusses Portraying Disability Rights Legend in ‘Being Heumann’",
+    "slug": "ruth-madeley-discusses-portraying-disability-rights-legend-in-being-heumann-b73b6d96",
+    "lang": "en",
+    "summary": "In an interview with IndieWire, actress Ruth Madeley shares her experience playing a disability rights activist in the Oscar‑contending film ‘Being Heumann,’ reflecting on the significance of authentic disability representation.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability rights",
+      "film representation",
+      "interview",
+      "Being Heumann"
+    ],
+    "sourceName": "IndieWire",
+    "sourceUrl": "https://www.indiewire.com/features/interviews/being-heumann-ruth-madeley-interview-1235224957",
+    "relatedSources": [
+      {
+        "name": "IndieWire",
+        "url": "https://www.indiewire.com/features/interviews/being-heumann-ruth-madeley-interview-1235224957"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-b73b6d96",
+    "status": "published",
+    "translationOf": "ruth-madeley-discusses-portraying-disability-rights-legend-in-being-heumann-zh-b73b6d96",
+    "publishedAt": "2026-11-02T14:00:00.000Z",
+    "fetchedAt": "2026-11-03T16:16:09.138Z",
+    "body": "In an interview with IndieWire, actress Ruth Madeley shares her experience playing a disability rights activist in the Oscar‑contending film ‘Being Heumann,’ reflecting on the significance of authentic disability representation.\n\nRead more from the original source: [IndieWire](https://www.indiewire.com/features/interviews/being-heumann-ruth-madeley-interview-1235224957)"
   }
 ]

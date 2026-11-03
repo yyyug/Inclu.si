@@ -119845,5 +119845,39 @@
     "publishedAt": "2026-10-30T16:00:00.000Z",
     "fetchedAt": "2026-11-02T18:32:38.586Z",
     "body": "Steven Scott、Shaun Preece 與 AppleVis 的 David Nason 評估 iPhone Duo 對盲人和低視力使用者的無障礙性，測試 VoiceOver、螢幕形狀變化以及 Split View 功能。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/duelling-duos-two-new-iphone-duo-users-discuss-the-pros-and-cons-of-apples-new-foldable-phone)"
+  },
+  {
+    "title": "殘障青年必須參與氣候行動",
+    "slug": "youth-with-disabilities-must-be-included-in-climate-action-zh-27b0e7c4",
+    "lang": "zh-TW",
+    "summary": "歐洲殘障論壇與青年談判學院呼吁讓殘障青年有意義地參與氣候談判與行動，並發表題為《處於氣候行動前線的殘障青年》的聯合報告。",
+    "category": "general",
+    "tags": [
+      "youth",
+      "disability",
+      "climate action",
+      "European Disability Forum",
+      "advocacy"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.edf-feph.org/youth-with-disabilities-must-be-part-of-the-climate-action",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.edf-feph.org/youth-with-disabilities-must-be-part-of-the-climate-action"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.edf-feph.org/feed",
+    "ingestProvider": "edf-feph.org",
+    "clusterId": "cluster-27b0e7c4",
+    "status": "published",
+    "translationOf": "youth-with-disabilities-must-be-included-in-climate-action-27b0e7c4",
+    "publishedAt": "2026-10-30T14:06:36.000Z",
+    "fetchedAt": "2026-11-03T16:16:02.738Z",
+    "body": "歐洲殘障論壇與青年談判學院呼吁讓殘障青年有意義地參與氣候談判與行動，並發表題為《處於氣候行動前線的殘障青年》的聯合報告。\n\n原文來源： [Unknown source](https://www.edf-feph.org/youth-with-disabilities-must-be-part-of-the-climate-action)"
   }
 ]
