@@ -11417,5 +11417,108 @@
     "publishedAt": "2026-11-03T20:10:00.000Z",
     "fetchedAt": "2026-11-04T22:38:50.310Z",
     "body": "高雄捷運黃線Y8、Y18站聯開案經內政部都委會審議通過。Y8站將串聯高科大與高雄高工，規畫興建3棟大樓及科技產學中心；Y18站則以地下聯通系統串聯捷運橘線O10站、衛武營及三井LaLaport高雄。市議員提醒Y18應完善轉乘、人行、無障礙及停車配套。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5fb43b0d-41f7-4f59-a958-070b5275423a)"
+  },
+  {
+    "title": "NV Access 發布 NVDA 2026.3.1 候選版本以修復安全漏洞",
+    "slug": "nv-access-releases-nvda-202631-release-candidate-to-fix-security-flaws-zh-cdff8850",
+    "lang": "zh-TW",
+    "summary": "NV Access 發布了 NVDA 2026.3.1 的測試版本，修復了三個安全問題，包括一個洩露遠程訪問密鑰的問題，以及來自 2026.3 版本的兩個錯誤。NVDA 是一款供盲人和視障使用者使用的免費開源螢幕閱讀器。",
+    "category": "assistive-tech",
+    "tags": [
+      "NVDA",
+      "screen reader",
+      "security",
+      "NV Access",
+      "assistive technology"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/nv-access-puts-out-nvda-2026-3-1-release-candidate-to-fix-security-flaws",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/nv-access-puts-out-nvda-2026-3-1-release-candidate-to-fix-security-flaws"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-cdff8850",
+    "status": "published",
+    "translationOf": "nv-access-releases-nvda-202631-release-candidate-to-fix-security-flaws-cdff8850",
+    "publishedAt": "2026-11-04T22:27:14.000Z",
+    "fetchedAt": "2026-11-04T22:41:43.280Z",
+    "body": "NV Access 發布了 NVDA 2026.3.1 的測試版本，修復了三個安全問題，包括一個洩露遠程訪問密鑰的問題，以及來自 2026.3 版本的兩個錯誤。NVDA 是一款供盲人和視障使用者使用的免費開源螢幕閱讀器。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/nv-access-puts-out-nvda-2026-3-1-release-candidate-to-fix-security-flaws)"
+  },
+  {
+    "title": "聽眾詢問「氛圍編碼」是否讓開發者脫鉤，Steven 說他不再等待",
+    "slug": "listener-asks-if-vibe-coding-lets-developers-off-the-hook-steven-says-he-is-done-zh-cd20d7d1",
+    "lang": "zh-TW",
+    "summary": "一位聽眾質疑「氛圍編碼」是否讓開發者可以逃避無障礙責任，而 Double Tap 主持人 Steven Scott 解釋為什麼他不再等待業界優先考慮殘障人士的存取需求。",
+    "category": "digital-a11y",
+    "tags": [
+      "vibe coding",
+      "developer responsibility",
+      "digital accessibility",
+      "Double Tap",
+      "Steven Scott"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/listener-asks-if-vibe-coding-lets-developers-off-the-hook-steven-says-he-is-done-waiting",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/listener-asks-if-vibe-coding-lets-developers-off-the-hook-steven-says-he-is-done-waiting"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-cd20d7d1",
+    "status": "published",
+    "translationOf": "listener-asks-if-vibe-coding-lets-developers-off-the-hook-steven-says-he-is-done-cd20d7d1",
+    "publishedAt": "2026-11-04T22:27:08.000Z",
+    "fetchedAt": "2026-11-04T22:41:43.312Z",
+    "body": "一位聽眾質疑「氛圍編碼」是否讓開發者可以逃避無障礙責任，而 Double Tap 主持人 Steven Scott 解釋為什麼他不再等待業界優先考慮殘障人士的存取需求。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/listener-asks-if-vibe-coding-lets-developers-off-the-hook-steven-says-he-is-done-waiting)"
+  },
+  {
+    "title": "Amazon 新 Echo 裝置、Siri 回顧與無障礙 WhatsApp 風險",
+    "slug": "amazons-new-echo-devices-siri-recap-and-accessible-whatsapp-risks-zh-66b8acb9",
+    "lang": "zh-TW",
+    "summary": "一則面向盲人及視障用戶的科技新聞摘要，涵蓋 Amazon 新 Echo 裝置、iOS Siri 回顧功能，以及第三方 WhatsApp 應用程式的安全風險，重點在於輔助技術的無障礙性。",
+    "category": "assistive-tech",
+    "tags": [
+      "amazon-echo",
+      "siri",
+      "blind",
+      "visually-impaired",
+      "whatsapp",
+      "assistive-technology"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/amazons-new-echo-devices-siri-recap-and-accessible-whatsapp-risks-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/amazons-new-echo-devices-siri-recap-and-accessible-whatsapp-risks-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-66b8acb9",
+    "status": "published",
+    "translationOf": "amazons-new-echo-devices-siri-recap-and-accessible-whatsapp-risks-66b8acb9",
+    "publishedAt": "2026-11-04T17:00:27.000Z",
+    "fetchedAt": "2026-11-04T22:41:49.300Z",
+    "body": "一則面向盲人及視障用戶的科技新聞摘要，涵蓋 Amazon 新 Echo 裝置、iOS Siri 回顧功能，以及第三方 WhatsApp 應用程式的安全風險，重點在於輔助技術的無障礙性。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/amazons-new-echo-devices-siri-recap-and-accessible-whatsapp-risks-2)"
   }
 ]
