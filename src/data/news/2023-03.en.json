@@ -32,5 +32,39 @@
     "publishedAt": "2023-03-14T20:28:41.000Z",
     "fetchedAt": "2026-09-18T02:45:30.757Z",
     "body": "FSCompanion helps users quickly locate JAWS screen reader and Microsoft Office keyboard shortcuts, reducing the need to search help files and maintain workflow.\n\nRead more from the original source: [freedomscientific.com](https://www.freedomscientific.com/meet-fscompanion-the-fastest-way-find-jaws)"
+  },
+  {
+    "title": "Disability Assessment – Human Resources and Social Development",
+    "slug": "disability-assessment-human-resources-and-social-development-c8d50886",
+    "lang": "en",
+    "summary": "The article from Saudi Arabia’s Human Resources and Social Development Ministry discusses methods for evaluating disability status within HR and social development contexts.",
+    "category": "laws-rights",
+    "tags": [
+      "disability assessment",
+      "human resources",
+      "social development",
+      "Saudi Arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.hrsd.gov.sa/media-center/media/11091444",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.hrsd.gov.sa/media-center/media/11091444"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-c8d50886",
+    "status": "published",
+    "translationOf": "disability-assessment-human-resources-and-social-development-zh-c8d50886",
+    "publishedAt": "2023-03-22T10:40:29.000Z",
+    "fetchedAt": "2026-11-04T18:15:44.837Z",
+    "body": "The article from Saudi Arabia’s Human Resources and Social Development Ministry discusses methods for evaluating disability status within HR and social development contexts.\n\nRead more from the original source: [news.google.com](https://www.hrsd.gov.sa/media-center/media/11091444)"
   }
 ]

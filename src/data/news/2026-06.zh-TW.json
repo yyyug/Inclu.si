@@ -128028,5 +128028,38 @@
     "publishedAt": "2026-06-27T07:00:00.000Z",
     "fetchedAt": "2026-10-28T16:52:25.758Z",
     "body": "聯合國新聞報道指出，加沙持續的衝突已顯著加劇殘障人士的孤立狀態，導致其獲取基本服務的危機日益嚴重。\n\n原文來源： [news.google.com](https://news.un.org/ar/story/2026/06/1144940)"
+  },
+  {
+    "title": "阿联酋发行“马斯瓦卡”以支持残障人士",
+    "slug": "uae-issues-masawakka-to-support-people-of-determination-zh-08f0e383",
+    "lang": "zh-TW",
+    "summary": "阿布扎比推出“马斯瓦卡”以支持残障人士，在阿联酋被称为“坚定者”（People of Determination）。",
+    "category": "general",
+    "tags": [
+      "UAE",
+      "Abu Dhabi",
+      "Disability Support"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albayan.ae/news/uae/abu-dhabi/1431436",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albayan.ae/news/uae/abu-dhabi/1431436"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-08f0e383",
+    "status": "published",
+    "translationOf": "uae-issues-masawakka-to-support-people-of-determination-08f0e383",
+    "publishedAt": "2026-06-24T07:00:00.000Z",
+    "fetchedAt": "2026-11-04T18:15:11.811Z",
+    "body": "阿布扎比推出“马斯瓦卡”以支持残障人士，在阿联酋被称为“坚定者”（People of Determination）。\n\n原文來源： [news.google.com](https://www.albayan.ae/news/uae/abu-dhabi/1431436)"
   }
 ]

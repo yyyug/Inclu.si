@@ -128028,5 +128028,38 @@
     "publishedAt": "2026-06-27T07:00:00.000Z",
     "fetchedAt": "2026-10-28T16:52:25.758Z",
     "body": "UN News reports that the ongoing conflict in Gaza has significantly deepened the isolation of people with disabilities, creating a severe crisis in their access to essential services.\n\nRead more from the original source: [news.google.com](https://news.un.org/ar/story/2026/06/1144940)"
+  },
+  {
+    "title": "UAE Issues 'Masawakka' to Support People of Determination",
+    "slug": "uae-issues-masawakka-to-support-people-of-determination-08f0e383",
+    "lang": "en",
+    "summary": "Abu Dhabi has launched 'Masawakka' (a coin/token or platform) to support people with disabilities, often referred to as 'People of Determination' in the UAE.",
+    "category": "general",
+    "tags": [
+      "UAE",
+      "Abu Dhabi",
+      "Disability Support"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albayan.ae/news/uae/abu-dhabi/1431436",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albayan.ae/news/uae/abu-dhabi/1431436"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-08f0e383",
+    "status": "published",
+    "translationOf": "uae-issues-masawakka-to-support-people-of-determination-zh-08f0e383",
+    "publishedAt": "2026-06-24T07:00:00.000Z",
+    "fetchedAt": "2026-11-04T18:15:11.811Z",
+    "body": "Abu Dhabi has launched 'Masawakka' (a coin/token or platform) to support people with disabilities, often referred to as 'People of Determination' in the UAE.\n\nRead more from the original source: [news.google.com](https://www.albayan.ae/news/uae/abu-dhabi/1431436)"
   }
 ]

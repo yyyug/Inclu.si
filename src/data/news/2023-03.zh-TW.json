@@ -32,5 +32,39 @@
     "publishedAt": "2023-03-14T20:28:41.000Z",
     "fetchedAt": "2026-09-18T02:45:30.757Z",
     "body": "FSCompanion 協助使用者快速定位 JAWS 螢幕閱讀器與 Microsoft Office 鍵盤快捷鍵，減少查詢說明檔案的需求，保持工作流程。\n\n原文來源： [freedomscientific.com](https://www.freedomscientific.com/meet-fscompanion-the-fastest-way-find-jaws)"
+  },
+  {
+    "title": "残障评估 – 人力资源与社会发展",
+    "slug": "disability-assessment-human-resources-and-social-development-zh-c8d50886",
+    "lang": "zh-TW",
+    "summary": "文章探讨在沙特人力资源与社会发展框架下的残障评估方法与政策。",
+    "category": "laws-rights",
+    "tags": [
+      "disability assessment",
+      "human resources",
+      "social development",
+      "Saudi Arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.hrsd.gov.sa/media-center/media/11091444",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.hrsd.gov.sa/media-center/media/11091444"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-c8d50886",
+    "status": "published",
+    "translationOf": "disability-assessment-human-resources-and-social-development-c8d50886",
+    "publishedAt": "2023-03-22T10:40:29.000Z",
+    "fetchedAt": "2026-11-04T18:15:44.837Z",
+    "body": "文章探讨在沙特人力资源与社会发展框架下的残障评估方法与政策。\n\n原文來源： [news.google.com](https://www.hrsd.gov.sa/media-center/media/11091444)"
   }
 ]
