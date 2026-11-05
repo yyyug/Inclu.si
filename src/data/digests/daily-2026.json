@@ -14156,5 +14156,125 @@
         }
       ]
     }
+  },
+  "2026-11-05": {
+    "generatedAt": "2026-11-05T17:18:59.792Z",
+    "en": {
+      "title": "EU Markers 20th Anniversary of UN Disability Rights Convention",
+      "summary": "European Union presidencies commemorated the 20th anniversary of the UN Convention on the Rights of Persons with Disabilities, reviewing global progress and future policy commitments. Meanwhile, major game publishers including Nintendo and EA adopted new accessibility labeling standards to assist consumers in purchasing software. Other updates include GitHub hosting accessibility statements and iOS 27.3 adding per-site dark mode controls.",
+      "highlights": [
+        {
+          "title": "Moving forward on disability rights: EU Presidencies take stock of 20 years on UN Convention",
+          "slug": "moving-forward-on-disability-rights-eu-presidencies-take-stock-of-20-years-on-un-df229b30",
+          "url": "https://www.edf-feph.org/moving-forward-on-disability-rights-eu-presidencies-take-stock-of-20-years-on-un-convention"
+        },
+        {
+          "title": "US Nintendo, EA and six other firms adopt ESA’s common accessibility label with 24 descriptors",
+          "slug": "us-nintendo-ea-and-six-other-firms-adopt-esas-common-accessibility-label-with-24-fe4762ef",
+          "url": "https://www.ludens.com.tw/esa-accessible-games-initiative-tags"
+        },
+        {
+          "title": "Accessibility statements now have a home on GitHub",
+          "slug": "accessibility-statements-now-have-a-home-on-github-12fa902d",
+          "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github"
+        },
+        {
+          "title": "Safari Gains Per‑Site Dark Mode Control in iOS 27.3 Beta",
+          "slug": "safari-gains-persite-dark-mode-control-in-ios-273-beta-a1a17228",
+          "url": "https://doubletaponair.com/safari-to-let-you-force-dark-mode-on-individual-websites-in-ios-27-3-beta"
+        },
+        {
+          "title": "Being Heumann review – stirring biopic of a pioneering disability rights campaigner",
+          "slug": "being-heumann-review-stirring-biopic-of-a-pioneering-disability-rights-campaigne-20b0aa20",
+          "url": "https://www.theguardian.com/film/2026/nov/05/being-heumann-review-disability-rights-judy-heumann"
+        },
+        {
+          "title": "Milburn review to call for jobs ’revolution’ for young people with disabilities",
+          "slug": "milburn-review-to-call-for-jobs-revolution-for-young-people-with-disabilities-5a94466b",
+          "url": "https://www.theguardian.com/society/2026/nov/05/milburn-review-jobs-revolution-young-people-disabilities-neets"
+        },
+        {
+          "title": "Accessibility law helps, but some issues persist",
+          "slug": "accessibility-law-helps-but-some-issues-persist-77b8a225",
+          "url": "https://www.chinadaily.com.cn/a/202611/05/WS6aebdeede4b0aac4cf1ee514.html"
+        },
+        {
+          "title": "Digital Accessibility Guide for Social Media from University of Maryland, Baltimore",
+          "slug": "digital-accessibility-guide-for-social-media-from-university-of-maryland-baltimo-bdb998db",
+          "url": "https://elm.umaryland.edu/elm-stories/2026/Digital-Accessibility-for-All-Make-Your-Social-Media-More-Accessible.php"
+        },
+        {
+          "title": "Investigation into Disability Abuse Death in Kochi",
+          "slug": "investigation-into-disability-abuse-death-in-kochi-655b6ab1",
+          "url": "https://x.com/nankai4go/status/2118383403133550772"
+        },
+        {
+          "title": "Traffic Rules for Electric Wheelchairs",
+          "slug": "traffic-rules-for-electric-wheelchairs-43a8c24b",
+          "url": "https://x.com/LIFEHUB_Inc/status/2118113296125657498"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "歐盟回顧《殘障者權利公約》二十週年與遊戲無障礙標籤",
+      "summary": "歐盟輪值主席國回顧《聯合國殘障者權利公約》實施二十週年，檢視全球進展與未來政策承諾。同時，任天堂與EA等主要遊戲廠商導入無障礙標籤標準，協助消費者辨識遊戲輔助功能。其他更新包括GitHub啟用無障礙聲明功能及iOS 27.3新增網站專屬深色模式控制。",
+      "highlights": [
+        {
+          "title": "推進殘障權益：歐盟輪值主席國回顧《殘疾人權利公約》二十年",
+          "slug": "moving-forward-on-disability-rights-eu-presidencies-take-stock-of-20-years-on-un-zh-df229b30",
+          "url": "https://www.edf-feph.org/moving-forward-on-disability-rights-eu-presidencies-take-stock-of-20-years-on-un-convention"
+        },
+        {
+          "title": "美國任天堂與 EA 等六家公司導入無障礙共通標籤 ESA 制定 24 種標示讓玩家購買前查詢",
+          "slug": "us-nintendo-ea-and-six-other-firms-adopt-esas-common-accessibility-label-with-24-zh-fe4762ef",
+          "url": "https://www.ludens.com.tw/esa-accessible-games-initiative-tags"
+        },
+        {
+          "title": "任天堂、EA、Riot 等六大遊戲廠商推動「無障礙標籤」！買遊戲前就能確認是否需要連打、體感操作",
+          "slug": "nintendo-ea-riot-and-six-major-game-studios-push-accessibility-tags-check-before-zh-6a450446",
+          "url": "https://news.para-daily.com/2026/11/05/gaming-accessibility-tags"
+        },
+        {
+          "title": "无障碍声明现已在 GitHub 上有专属位置",
+          "slug": "accessibility-statements-now-have-a-home-on-github-zh-12fa902d",
+          "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github"
+        },
+        {
+          "title": "Safari 在 iOS 27.3 Beta 中新增每網站深色模式控制",
+          "slug": "safari-gains-persite-dark-mode-control-in-ios-273-beta-zh-a1a17228",
+          "url": "https://doubletaponair.com/safari-to-let-you-force-dark-mode-on-individual-websites-in-ios-27-3-beta"
+        },
+        {
+          "title": "《被Heumann評論－感人傳記片描繪開創殘疾權利先驅朱迪·休曼》",
+          "slug": "being-heumann-review-stirring-biopic-of-a-pioneering-disability-rights-campaigne-zh-20b0aa20",
+          "url": "https://www.theguardian.com/film/2026/nov/05/being-heumann-review-disability-rights-judy-heumann"
+        },
+        {
+          "title": "《米爾本審閱呼籲為殘疾青年帶來工作革命》",
+          "slug": "milburn-review-to-call-for-jobs-revolution-for-young-people-with-disabilities-zh-5a94466b",
+          "url": "https://www.theguardian.com/society/2026/nov/05/milburn-review-jobs-revolution-young-people-disabilities-neets"
+        },
+        {
+          "title": "無障礙法有所幫助，但仍有問題存在",
+          "slug": "accessibility-law-helps-but-some-issues-persist-zh-77b8a225",
+          "url": "https://www.chinadaily.com.cn/a/202611/05/WS6aebdeede4b0aac4cf1ee514.html"
+        },
+        {
+          "title": "馬里蘭大學巴爾的摩分校社交媒體無障礙指南",
+          "slug": "digital-accessibility-guide-for-social-media-from-university-of-maryland-baltimo-zh-bdb998db",
+          "url": "https://elm.umaryland.edu/elm-stories/2026/Digital-Accessibility-for-All-Make-Your-Social-Media-More-Accessible.php"
+        },
+        {
+          "title": "使用者難以看清工作管理員",
+          "slug": "user-struggles-with-task-manager-visibility-zh-cf3d6960",
+          "url": "https://x.com/Edge_Fund/status/2118113461884657995"
+        },
+        {
+          "title": "電動輪椅交通規則",
+          "slug": "traffic-rules-for-electric-wheelchairs-zh-43a8c24b",
+          "url": "https://x.com/LIFEHUB_Inc/status/2118113296125657498"
+        }
+      ]
+    }
   }
 }
