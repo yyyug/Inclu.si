@@ -15644,5 +15644,37 @@
     "publishedAt": "2026-11-04T17:40:20.000Z",
     "fetchedAt": "2026-11-05T22:42:07.474Z",
     "body": "Canada Post will replace door-to-door mail service with community mailboxes in the Greater Toronto Area by 2031, affecting thousands of households. Advocates warn this change may hinder seniors and people with disabilities who rely on home delivery.\n\nRead more from the original source: [CBC News](https://www.cbc.ca/news/canada/toronto/community-mailboxes-mail-delivery-canada-post-disability-challenges-gta-2031-9.7408997)"
+  },
+  {
+    "title": "Braille Literacy, Siri Blunders and Meta’s Muse Agent: Your Feedback",
+    "slug": "braille-literacy-siri-blunders-and-metas-muse-agent-your-feedback-ea4ff85e",
+    "lang": "en",
+    "summary": "Discussion on whether braille reading defines literacy for blind individuals, covering experiences of learning braille later in life and shortcomings of AI assistants like Siri, Gemini and Meta's Muse in handling simple requests.",
+    "category": "assistive-tech",
+    "tags": [
+      "braille",
+      "AI",
+      "voice assistant"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/braille-literacy-siri-blunders-and-metas-muse-agent-your-feedback-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/braille-literacy-siri-blunders-and-metas-muse-agent-your-feedback-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-ea4ff85e",
+    "status": "published",
+    "translationOf": "braille-literacy-siri-blunders-and-metas-muse-agent-your-feedback-zh-ea4ff85e",
+    "publishedAt": "2026-11-05T17:00:01.000Z",
+    "fetchedAt": "2026-11-05T22:43:30.444Z",
+    "body": "Discussion on whether braille reading defines literacy for blind individuals, covering experiences of learning braille later in life and shortcomings of AI assistants like Siri, Gemini and Meta's Muse in handling simple requests.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/braille-literacy-siri-blunders-and-metas-muse-agent-your-feedback-2)"
   }
 ]
