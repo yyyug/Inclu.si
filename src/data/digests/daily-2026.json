@@ -14158,121 +14158,196 @@
     }
   },
   "2026-11-05": {
-    "generatedAt": "2026-11-05T17:18:59.792Z",
+    "generatedAt": "2026-11-05T23:52:40.168Z",
     "en": {
-      "title": "EU Markers 20th Anniversary of UN Disability Rights Convention",
-      "summary": "European Union presidencies commemorated the 20th anniversary of the UN Convention on the Rights of Persons with Disabilities, reviewing global progress and future policy commitments. Meanwhile, major game publishers including Nintendo and EA adopted new accessibility labeling standards to assist consumers in purchasing software. Other updates include GitHub hosting accessibility statements and iOS 27.3 adding per-site dark mode controls.",
+      "title": "Global Disability News: Major Policy Changes, Tech Updates",
+      "summary": "Leading stories include Saudi Arabia's new education voucher program and Kuwait's inter-ministerial collaboration to improve service accessibility for people with disabilities. Additionally, iPhone Duo introduces a new accessibility feature in iOS 27.3 Beta, while the Omni Accessibility organization launches a service to support families with evolving needs.",
       "highlights": [
         {
-          "title": "Moving forward on disability rights: EU Presidencies take stock of 20 years on UN Convention",
-          "slug": "moving-forward-on-disability-rights-eu-presidencies-take-stock-of-20-years-on-un-df229b30",
-          "url": "https://www.edf-feph.org/moving-forward-on-disability-rights-eu-presidencies-take-stock-of-20-years-on-un-convention"
+          "title": "Saudi Ministry of Education Launches Voucher Program for Students with Disabilities",
+          "slug": "saudi-ministry-of-education-launches-voucher-program-for-students-with-disabilit-65a72495",
+          "url": "https://asdmag.org/archives/69850"
         },
         {
-          "title": "US Nintendo, EA and six other firms adopt ESA’s common accessibility label with 24 descriptors",
-          "slug": "us-nintendo-ea-and-six-other-firms-adopt-esas-common-accessibility-label-with-24-fe4762ef",
-          "url": "https://www.ludens.com.tw/esa-accessible-games-initiative-tags"
+          "title": "Kuwait's Disability Authority collaborates with Interior Ministry to streamline services for people with disabilities",
+          "slug": "kuwaits-disability-authority-collaborates-with-interior-ministry-to-streamline-s-10ac541f",
+          "url": "http://alwatan.kuwait.tt/articledetails.aspx?id=836445&yearquarter=20264"
         },
         {
-          "title": "Accessibility statements now have a home on GitHub",
-          "slug": "accessibility-statements-now-have-a-home-on-github-12fa902d",
-          "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github"
+          "title": "Gaza Disability Committee Meets to Enhance Institutional Coordination and Services",
+          "slug": "gaza-disability-committee-meets-to-enhance-institutional-coordination-and-servic-e4350318",
+          "url": "https://asdmag.org/archives/69838"
         },
         {
-          "title": "Safari Gains Per‑Site Dark Mode Control in iOS 27.3 Beta",
-          "slug": "safari-gains-persite-dark-mode-control-in-ios-273-beta-a1a17228",
-          "url": "https://doubletaponair.com/safari-to-let-you-force-dark-mode-on-individual-websites-in-ios-27-3-beta"
+          "title": "Rights awaiting implementation to empower people with disabilities in Iraq",
+          "slug": "rights-awaiting-implementation-to-empower-people-with-disabilities-in-iraq-50e396cd",
+          "url": "https://asdmag.org/archives/69841"
         },
         {
-          "title": "Being Heumann review – stirring biopic of a pioneering disability rights campaigner",
-          "slug": "being-heumann-review-stirring-biopic-of-a-pioneering-disability-rights-campaigne-20b0aa20",
-          "url": "https://www.theguardian.com/film/2026/nov/05/being-heumann-review-disability-rights-judy-heumann"
+          "title": "Rep. Martin continues commitment to accessibility with November office hours - Michigan House Republicans",
+          "slug": "rep-martin-continues-commitment-to-accessibility-with-november-office-hours-mich-365a4e16",
+          "url": "https://gophouse.org/posts/rep-martin-continues-commitment-to-accessibility-with-november-office-hours"
         },
         {
-          "title": "Milburn review to call for jobs ’revolution’ for young people with disabilities",
-          "slug": "milburn-review-to-call-for-jobs-revolution-for-young-people-with-disabilities-5a94466b",
-          "url": "https://www.theguardian.com/society/2026/nov/05/milburn-review-jobs-revolution-young-people-disabilities-neets"
+          "title": "Accessibility Advocacy Group Implements Inclusion Initiatives at University of North Georgia",
+          "slug": "accessibility-advocacy-group-implements-inclusion-initiatives-at-university-of-n-92d3b926",
+          "url": "https://ungvanguard.org/47266/life/accessibility-advocacy-group-puts-inclusion-into-action-at-ung"
         },
         {
-          "title": "Accessibility law helps, but some issues persist",
-          "slug": "accessibility-law-helps-but-some-issues-persist-77b8a225",
-          "url": "https://www.chinadaily.com.cn/a/202611/05/WS6aebdeede4b0aac4cf1ee514.html"
+          "title": "iPhone Duo Just Got A New Accessibility Feature In iOS 27.3 Beta",
+          "slug": "iphone-duo-just-got-a-new-accessibility-feature-in-ios-273-beta-91d26a57",
+          "url": "https://www.engadget.com/2308154/iphone-duo-new-accessibility-feature-ios-27-3-beta-reachability"
         },
         {
-          "title": "Digital Accessibility Guide for Social Media from University of Maryland, Baltimore",
-          "slug": "digital-accessibility-guide-for-social-media-from-university-of-maryland-baltimo-bdb998db",
-          "url": "https://elm.umaryland.edu/elm-stories/2026/Digital-Accessibility-for-All-Make-Your-Social-Media-More-Accessible.php"
+          "title": "Policies Analyzed by USU's National Center on Accessible Digital Educational Materials & Instruction - Utah State University",
+          "slug": "policies-analyzed-by-usus-national-center-on-accessible-digital-educational-mate-5048258e",
+          "url": "https://www.usu.edu/today/story/policies-analyzed-by-usus-national-center-on-accessible-digital-educational-materials-amp-instruction"
         },
         {
-          "title": "Investigation into Disability Abuse Death in Kochi",
-          "slug": "investigation-into-disability-abuse-death-in-kochi-655b6ab1",
-          "url": "https://x.com/nankai4go/status/2118383403133550772"
+          "title": "Omni Accessibility Launches Service to Assist Families with Evolving Accessibility Needs",
+          "slug": "omni-accessibility-launches-service-to-assist-families-with-evolving-accessibili-1eb388a5",
+          "url": "https://www.woodlandsonline.com/npps/story.cfm?nppage=85143"
         },
         {
-          "title": "Traffic Rules for Electric Wheelchairs",
-          "slug": "traffic-rules-for-electric-wheelchairs-43a8c24b",
-          "url": "https://x.com/LIFEHUB_Inc/status/2118113296125657498"
+          "title": "Braille Literacy, Siri Blunders and Meta’s Muse Agent: Your Feedback",
+          "slug": "braille-literacy-siri-blunders-and-metas-muse-agent-your-feedback-ea4ff85e",
+          "url": "https://doubletaponair.com/braille-literacy-siri-blunders-and-metas-muse-agent-your-feedback-2"
+        },
+        {
+          "title": "New Playground, Accessible Pathways and Restroom Planned for Liberty Park in Boise",
+          "slug": "new-playground-accessible-pathways-and-restroom-planned-for-liberty-park-in-bois-967fe83b",
+          "url": "https://www.cityofboise.org/news/parks-and-recreation/2026/november/new-playground-accessible-pathways-and-restroom-coming-to-central-benchs-liberty-park"
+        },
+        {
+          "title": "National honor for Udac and the Duluth Community Garden Program comes with funding for accessibility - WDIO.com",
+          "slug": "national-honor-for-udac-and-the-duluth-community-garden-program-comes-with-fundi-9e441248",
+          "url": "https://www.wdio.com/top-stories/national-honor-for-udac-and-the-duluth-community-garden-program-comes-with-funding-for-accessibility"
+        },
+        {
+          "title": "Accessibility challenges at Hard Rock Stadium - The Miami Hurricane",
+          "slug": "accessibility-challenges-at-hard-rock-stadium-the-miami-hurricane-80d6e4fa",
+          "url": "https://themiamihurricane.com/2026/11/05/accessibility-challenges-at-hard-rock-stadium"
+        },
+        {
+          "title": "Lyndhurst City Council votes unanimously to deny variance for accessibility home renovations; mayor defends decision",
+          "slug": "lyndhurst-city-council-votes-unanimously-to-deny-variance-for-accessibility-home-2595d5a5",
+          "url": "https://www.cleveland.com/news/2026/11/lyndhurst-city-council-votes-unanimously-to-deny-variance-for-accessibility-home-renovations-mayor-defends-decision.html"
+        },
+        {
+          "title": "Proposal for Hard of Hearing Awareness Week in Japan",
+          "slug": "proposal-for-hard-of-hearing-awareness-week-in-japan-ba494f3e",
+          "url": "https://x.com/akinokozo/status/2118474509129060489"
+        },
+        {
+          "title": "Casandra's Journey from Isolation to Advocacy",
+          "slug": "casandras-journey-from-isolation-to-advocacy-93b5d255",
+          "url": "https://x.com/BlindNewWorld/status/2118399468517413361"
+        },
+        {
+          "title": "Global Digital Accessibility Salary Survey",
+          "slug": "global-digital-accessibility-salary-survey-d64bb78a",
+          "url": "https://x.com/gbla11yday/status/2118393898099953839"
+        },
+        {
+          "title": "Ten Wheelchairs Donated to Underprivileged People with Disabilities in Cam Ranh",
+          "slug": "ten-wheelchairs-donated-to-underprivileged-people-with-disabilities-in-cam-ranh-fc649c6c",
+          "url": "https://www.vietnam.vn/ar/tang-10-xe-lan-cho-nguoi-khuyet-tat-co-hoan-canh-kho-khan-phuong-cam-ranh"
         }
       ]
     },
     "zh-TW": {
-      "title": "歐盟回顧《殘障者權利公約》二十週年與遊戲無障礙標籤",
-      "summary": "歐盟輪值主席國回顧《聯合國殘障者權利公約》實施二十週年，檢視全球進展與未來政策承諾。同時，任天堂與EA等主要遊戲廠商導入無障礙標籤標準，協助消費者辨識遊戲輔助功能。其他更新包括GitHub啟用無障礙聲明功能及iOS 27.3新增網站專屬深色模式控制。",
+      "title": "全球残障新闻：政策重大变革与科技更新",
+      "summary": "主要新闻包括沙特阿拉伯新推出的教育消费券计划，以及科威特跨部门合作以提升残障人士的行政服务无障碍性。此外，iPhone Duo 在 iOS 27.3 测试版中新增无障碍功能，Omni 无障碍机构亦推出服务协助家庭应对不断变化的无障碍需求。",
       "highlights": [
         {
-          "title": "推進殘障權益：歐盟輪值主席國回顧《殘疾人權利公約》二十年",
-          "slug": "moving-forward-on-disability-rights-eu-presidencies-take-stock-of-20-years-on-un-zh-df229b30",
-          "url": "https://www.edf-feph.org/moving-forward-on-disability-rights-eu-presidencies-take-stock-of-20-years-on-un-convention"
+          "title": "沙特教育部启动针对残障学生之教育券计划",
+          "slug": "saudi-ministry-of-education-launches-voucher-program-for-students-with-disabilit-zh-65a72495",
+          "url": "https://asdmag.org/archives/69850"
         },
         {
-          "title": "美國任天堂與 EA 等六家公司導入無障礙共通標籤 ESA 制定 24 種標示讓玩家購買前查詢",
-          "slug": "us-nintendo-ea-and-six-other-firms-adopt-esas-common-accessibility-label-with-24-zh-fe4762ef",
-          "url": "https://www.ludens.com.tw/esa-accessible-games-initiative-tags"
+          "title": "科威特殘疾局與內政部合作，為殘障人士簡化行政服務",
+          "slug": "kuwaits-disability-authority-collaborates-with-interior-ministry-to-streamline-s-zh-10ac541f",
+          "url": "http://alwatan.kuwait.tt/articledetails.aspx?id=836445&yearquarter=20264"
         },
         {
-          "title": "任天堂、EA、Riot 等六大遊戲廠商推動「無障礙標籤」！買遊戲前就能確認是否需要連打、體感操作",
-          "slug": "nintendo-ea-riot-and-six-major-game-studios-push-accessibility-tags-check-before-zh-6a450446",
-          "url": "https://news.para-daily.com/2026/11/05/gaming-accessibility-tags"
+          "title": "加薩殘障委員會召開會議，強化機構協同與服務",
+          "slug": "gaza-disability-committee-meets-to-enhance-institutional-coordination-and-servic-zh-e4350318",
+          "url": "https://asdmag.org/archives/69838"
         },
         {
-          "title": "无障碍声明现已在 GitHub 上有专属位置",
-          "slug": "accessibility-statements-now-have-a-home-on-github-zh-12fa902d",
-          "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github"
+          "title": "伊拉克殘疾人權益：等待落實以賦能",
+          "slug": "rights-awaiting-implementation-to-empower-people-with-disabilities-in-iraq-zh-50e396cd",
+          "url": "https://asdmag.org/archives/69841"
         },
         {
-          "title": "Safari 在 iOS 27.3 Beta 中新增每網站深色模式控制",
-          "slug": "safari-gains-persite-dark-mode-control-in-ios-273-beta-zh-a1a17228",
-          "url": "https://doubletaponair.com/safari-to-let-you-force-dark-mode-on-individual-websites-in-ios-27-3-beta"
+          "title": "Martin 代表繼續透過十一月辦公時間致力於無障礙 - Michigan House Republicans",
+          "slug": "rep-martin-continues-commitment-to-accessibility-with-november-office-hours-mich-zh-365a4e16",
+          "url": "https://gophouse.org/posts/rep-martin-continues-commitment-to-accessibility-with-november-office-hours"
         },
         {
-          "title": "《被Heumann評論－感人傳記片描繪開創殘疾權利先驅朱迪·休曼》",
-          "slug": "being-heumann-review-stirring-biopic-of-a-pioneering-disability-rights-campaigne-zh-20b0aa20",
-          "url": "https://www.theguardian.com/film/2026/nov/05/being-heumann-review-disability-rights-judy-heumann"
+          "title": "UNG 無障礙倡導團體落實包容行動",
+          "slug": "accessibility-advocacy-group-implements-inclusion-initiatives-at-university-of-n-zh-92d3b926",
+          "url": "https://ungvanguard.org/47266/life/accessibility-advocacy-group-puts-inclusion-into-action-at-ung"
         },
         {
-          "title": "《米爾本審閱呼籲為殘疾青年帶來工作革命》",
-          "slug": "milburn-review-to-call-for-jobs-revolution-for-young-people-with-disabilities-zh-5a94466b",
-          "url": "https://www.theguardian.com/society/2026/nov/05/milburn-review-jobs-revolution-young-people-disabilities-neets"
+          "title": "iPhone Duo 在 iOS 27.3 Beta 中獲得新增無障礙功能",
+          "slug": "iphone-duo-just-got-a-new-accessibility-feature-in-ios-273-beta-zh-91d26a57",
+          "url": "https://www.engadget.com/2308154/iphone-duo-new-accessibility-feature-ios-27-3-beta-reachability"
         },
         {
-          "title": "無障礙法有所幫助，但仍有問題存在",
-          "slug": "accessibility-law-helps-but-some-issues-persist-zh-77b8a225",
-          "url": "https://www.chinadaily.com.cn/a/202611/05/WS6aebdeede4b0aac4cf1ee514.html"
+          "title": "美國州立大學國家無障礙數位教育材料與教學中心分析相關政策",
+          "slug": "policies-analyzed-by-usus-national-center-on-accessible-digital-educational-mate-zh-5048258e",
+          "url": "https://www.usu.edu/today/story/policies-analyzed-by-usus-national-center-on-accessible-digital-educational-materials-amp-instruction"
         },
         {
-          "title": "馬里蘭大學巴爾的摩分校社交媒體無障礙指南",
-          "slug": "digital-accessibility-guide-for-social-media-from-university-of-maryland-baltimo-zh-bdb998db",
-          "url": "https://elm.umaryland.edu/elm-stories/2026/Digital-Accessibility-for-All-Make-Your-Social-Media-More-Accessible.php"
+          "title": "Omni 無障礙服務啟動，協助家庭應對變化的無障礙需求",
+          "slug": "omni-accessibility-launches-service-to-assist-families-with-evolving-accessibili-zh-1eb388a5",
+          "url": "https://www.woodlandsonline.com/npps/story.cfm?nppage=85143"
         },
         {
-          "title": "使用者難以看清工作管理員",
-          "slug": "user-struggles-with-task-manager-visibility-zh-cf3d6960",
-          "url": "https://x.com/Edge_Fund/status/2118113461884657995"
+          "title": "盲文識字、Siri錯誤與Meta的Muse代理：您的回饋",
+          "slug": "braille-literacy-siri-blunders-and-metas-muse-agent-your-feedback-zh-ea4ff85e",
+          "url": "https://doubletaponair.com/braille-literacy-siri-blunders-and-metas-muse-agent-your-feedback-2"
         },
         {
-          "title": "電動輪椅交通規則",
-          "slug": "traffic-rules-for-electric-wheelchairs-zh-43a8c24b",
-          "url": "https://x.com/LIFEHUB_Inc/status/2118113296125657498"
+          "title": "博伊斯自由公園將新增無障礙遊樂場、步道和廁所",
+          "slug": "new-playground-accessible-pathways-and-restroom-planned-for-liberty-park-in-bois-zh-967fe83b",
+          "url": "https://www.cityofboise.org/news/parks-and-recreation/2026/november/new-playground-accessible-pathways-and-restroom-coming-to-central-benchs-liberty-park"
+        },
+        {
+          "title": "乌达克和杜鲁斯社区花园项目荣获国家荣誉，附带无障碍改善资金 - WDIO.com",
+          "slug": "national-honor-for-udac-and-the-duluth-community-garden-program-comes-with-fundi-zh-9e441248",
+          "url": "https://www.wdio.com/top-stories/national-honor-for-udac-and-the-duluth-community-garden-program-comes-with-funding-for-accessibility"
+        },
+        {
+          "title": "Hard Rock Stadium 的無障礙挑戰 - The Miami Hurricane",
+          "slug": "accessibility-challenges-at-hard-rock-stadium-the-miami-hurricane-zh-80d6e4fa",
+          "url": "https://themiamihurricane.com/2026/11/05/accessibility-challenges-at-hard-rock-stadium"
+        },
+        {
+          "title": "萊恩赫斯特市議會一致否決無障礙住宅翻新變更申請；市長為決策辯護",
+          "slug": "lyndhurst-city-council-votes-unanimously-to-deny-variance-for-accessibility-home-zh-2595d5a5",
+          "url": "https://www.cleveland.com/news/2026/11/lyndhurst-city-council-votes-unanimously-to-deny-variance-for-accessibility-home-renovations-mayor-defends-decision.html"
+        },
+        {
+          "title": "日本聽力障礙意識週提案",
+          "slug": "proposal-for-hard-of-hearing-awareness-week-in-japan-zh-ba494f3e",
+          "url": "https://x.com/akinokozo/status/2118474509129060489"
+        },
+        {
+          "title": "Casandra 的從孤立到倡導之旅",
+          "slug": "casandras-journey-from-isolation-to-advocacy-zh-93b5d255",
+          "url": "https://x.com/BlindNewWorld/status/2118399468517413361"
+        },
+        {
+          "title": "全球數位無障礙薪資調查",
+          "slug": "global-digital-accessibility-salary-survey-zh-d64bb78a",
+          "url": "https://x.com/gbla11yday/status/2118393898099953839"
+        },
+        {
+          "title": "向坎籬區弱勢殘疾人士捐贈十輛輪椅",
+          "slug": "ten-wheelchairs-donated-to-underprivileged-people-with-disabilities-in-cam-ranh-zh-fc649c6c",
+          "url": "https://www.vietnam.vn/ar/tang-10-xe-lan-cho-nguoi-khuyet-tat-co-hoan-canh-kho-khan-phuong-cam-ranh"
         }
       ]
     }
