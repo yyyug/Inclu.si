@@ -17177,5 +17177,39 @@
     "publishedAt": "2026-11-05T00:44:01.000Z",
     "fetchedAt": "2026-11-06T15:56:41.633Z",
     "body": "Safari Technology Preview 256 加入無障礙相關改進，並修復多項網頁技術問題，提升效能，供開發者測試未來 Safari 功能。\n\n原文來源： [Newmobilelife.com](https://www.newmobilelife.com/2026/11/05/safari-technology-preview-256-released)"
+  },
+  {
+    "title": "暗室芭蕾提供免費的視障學生美術訓練",
+    "slug": "dark-room-ballet-offers-free-fine-arts-training-for-blind-and-visually-impaired--zh-9fecba36",
+    "lang": "zh-TW",
+    "summary": "由盲人芭蕾舞者 C. Krishna Washburn 創立的獲得資助、免學費的項目，提供芭蕾、爵士、編舞、舞者解剖、聲樂訓練等大學程度課程，全部由盲人或視障藝術家授課。",
+    "category": "case-studies",
+    "tags": [
+      "blind",
+      "visually impaired",
+      "dance",
+      "arts education",
+      "accessible programming"
+    ],
+    "sourceName": "accessinformationnews.com",
+    "sourceUrl": "https://accessinformationnews.com/welcome-dark-room-ballet",
+    "relatedSources": [
+      {
+        "name": "accessinformationnews.com",
+        "url": "https://accessinformationnews.com/welcome-dark-room-ballet"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://accessinformationnews.com/feed",
+    "ingestProvider": "accessinformationnews.com",
+    "clusterId": "cluster-9fecba36",
+    "status": "published",
+    "translationOf": "dark-room-ballet-offers-free-fine-arts-training-for-blind-and-visually-impaired--9fecba36",
+    "publishedAt": "2026-11-06T05:01:00.000Z",
+    "fetchedAt": "2026-11-06T16:00:21.062Z",
+    "body": "由盲人芭蕾舞者 C. Krishna Washburn 創立的獲得資助、免學費的項目，提供芭蕾、爵士、編舞、舞者解剖、聲樂訓練等大學程度課程，全部由盲人或視障藝術家授課。\n\n原文來源： [accessinformationnews.com](https://accessinformationnews.com/welcome-dark-room-ballet)"
   }
 ]
