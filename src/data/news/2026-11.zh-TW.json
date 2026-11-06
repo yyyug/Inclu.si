@@ -18582,5 +18582,39 @@
     "publishedAt": "2026-11-05T03:30:51.000Z",
     "fetchedAt": "2026-11-06T22:11:08.986Z",
     "body": "澎湖縣政府建管科因建築物無障礙設施督導考核成績不佳再受關注，此前建造執照與雜項執照核發考核僅44.5分列為「戊等」，違章建築及廣告物考核更僅17.56分。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a1f7f08e-45f7-4fd9-ad33-8bbd5e71fa31)"
+  },
+  {
+    "title": "macOS 的困擾、TurnOver 螢幕閱讀器與盲人離線 GPS",
+    "slug": "macos-frustrations-the-turnover-screen-reader-and-offline-gps-for-blind-users-zh-3dded4ef",
+    "lang": "zh-TW",
+    "summary": "討論盲人用戶從 Windows 轉用 macOS VoiceOver 時遇到的挑戰，介紹適用於 Mac 的開源螢幕閱讀器 TurnOver，並涵蓋盲人用戶的離線 GPS 解決方案。",
+    "category": "assistive-tech",
+    "tags": [
+      "screen-reader",
+      "blind",
+      "macOS",
+      "VoiceOver",
+      "GPS"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/macos-frustrations-the-turnover-screen-reader-and-offline-gps-for-blind-users-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/macos-frustrations-the-turnover-screen-reader-and-offline-gps-for-blind-users-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-3dded4ef",
+    "status": "published",
+    "translationOf": "macos-frustrations-the-turnover-screen-reader-and-offline-gps-for-blind-users-3dded4ef",
+    "publishedAt": "2026-11-06T17:00:03.000Z",
+    "fetchedAt": "2026-11-06T22:11:54.514Z",
+    "body": "討論盲人用戶從 Windows 轉用 macOS VoiceOver 時遇到的挑戰，介紹適用於 Mac 的開源螢幕閱讀器 TurnOver，並涵蓋盲人用戶的離線 GPS 解決方案。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/macos-frustrations-the-turnover-screen-reader-and-offline-gps-for-blind-users-2)"
   }
 ]

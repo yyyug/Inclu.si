@@ -18582,5 +18582,39 @@
     "publishedAt": "2026-11-05T03:30:51.000Z",
     "fetchedAt": "2026-11-06T22:11:08.986Z",
     "body": "The Penghu County Government's Building Management Division faces criticism over low assessment scores, including poor supervision of building accessibility facilities. Previously scored only 44.5 points for building and miscellaneous permit issuance and was rated 'E', and now scores just 17.56 points for illegal construction and advertising management.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a1f7f08e-45f7-4fd9-ad33-8bbd5e71fa31)"
+  },
+  {
+    "title": "macOS Frustrations, the TurnOver Screen Reader and Offline GPS for Blind Users",
+    "slug": "macos-frustrations-the-turnover-screen-reader-and-offline-gps-for-blind-users-3dded4ef",
+    "lang": "en",
+    "summary": "Discusses challenges blind users face with macOS VoiceOver compared to Windows, introduces the TurnOver open-source screen reader for Mac, and covers offline GPS solutions for blind users.",
+    "category": "assistive-tech",
+    "tags": [
+      "screen-reader",
+      "blind",
+      "macOS",
+      "VoiceOver",
+      "GPS"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/macos-frustrations-the-turnover-screen-reader-and-offline-gps-for-blind-users-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/macos-frustrations-the-turnover-screen-reader-and-offline-gps-for-blind-users-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-3dded4ef",
+    "status": "published",
+    "translationOf": "macos-frustrations-the-turnover-screen-reader-and-offline-gps-for-blind-users-zh-3dded4ef",
+    "publishedAt": "2026-11-06T17:00:03.000Z",
+    "fetchedAt": "2026-11-06T22:11:54.514Z",
+    "body": "Discusses challenges blind users face with macOS VoiceOver compared to Windows, introduces the TurnOver open-source screen reader for Mac, and covers offline GPS solutions for blind users.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/macos-frustrations-the-turnover-screen-reader-and-offline-gps-for-blind-users-2)"
   }
 ]
