@@ -22276,5 +22276,261 @@
     "publishedAt": "2026-11-06T19:02:16.000Z",
     "fetchedAt": "2026-11-07T16:39:26.347Z",
     "body": "Following a tragedy in Silla, an alliance of autism associations has called for stronger psychological and social support systems to protect families affected by autism. The organization advocates for improved mental health resources and social safeguards to support the well-being of these communities.\n\nRead more from the original source: [news.google.com](https://albalad.ma/90762.html)"
+  },
+  {
+    "title": "Cass County redesigns website to allow for better accessibility",
+    "slug": "cass-county-redesigns-website-to-allow-for-better-accessibility-42f78f74",
+    "lang": "en",
+    "summary": "Cass County has updated its website to improve accessibility, aiming to meet WCAG standards and provide easier navigation for people with disabilities.",
+    "category": "digital-a11y",
+    "tags": [
+      "website redesign",
+      "web accessibility",
+      "WCAG"
+    ],
+    "sourceName": "News/Talk/Sports 94.9 WSJM",
+    "sourceUrl": "https://www.wsjm.com/2026/11/07/cass-county-redesigns-website-to-allow-for-better-accessibility",
+    "relatedSources": [
+      {
+        "name": "News/Talk/Sports 94.9 WSJM",
+        "url": "https://www.wsjm.com/2026/11/07/cass-county-redesigns-website-to-allow-for-better-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-42f78f74",
+    "status": "published",
+    "translationOf": "cass-county-redesigns-website-to-allow-for-better-accessibility-zh-42f78f74",
+    "publishedAt": "2026-11-07T18:03:16.000Z",
+    "fetchedAt": "2026-11-07T20:53:06.267Z",
+    "body": "Cass County has updated its website to improve accessibility, aiming to meet WCAG standards and provide easier navigation for people with disabilities.\n\nRead more from the original source: [News/Talk/Sports 94.9 WSJM](https://www.wsjm.com/2026/11/07/cass-county-redesigns-website-to-allow-for-better-accessibility)"
+  },
+  {
+    "title": "Are Lexington's boards and commissions accessible enough? Council group wants to make changes",
+    "slug": "are-lexingtons-boards-and-commissions-accessible-enough-council-group-wants-to-m-3520bd4f",
+    "lang": "en",
+    "summary": "A council group is reviewing the accessibility of Lexington's boards and commissions, planning changes to ensure full participation by people with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "public meetings",
+      "accessibility",
+      "disability inclusion"
+    ],
+    "sourceName": "CivicLex",
+    "sourceUrl": "https://news.civiclex.org/are-lexingtons-boards-and-commissions-accessible-enough-council-group-wants-to-make-changes",
+    "relatedSources": [
+      {
+        "name": "CivicLex",
+        "url": "https://news.civiclex.org/are-lexingtons-boards-and-commissions-accessible-enough-council-group-wants-to-make-changes"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3520bd4f",
+    "status": "published",
+    "translationOf": "are-lexingtons-boards-and-commissions-accessible-enough-council-group-wants-to-m-zh-3520bd4f",
+    "publishedAt": "2026-11-07T16:07:18.000Z",
+    "fetchedAt": "2026-11-07T20:53:06.296Z",
+    "body": "A council group is reviewing the accessibility of Lexington's boards and commissions, planning changes to ensure full participation by people with disabilities.\n\nRead more from the original source: [CivicLex](https://news.civiclex.org/are-lexingtons-boards-and-commissions-accessible-enough-council-group-wants-to-make-changes)"
+  },
+  {
+    "title": "‘Life-changing’: parents welcome £10m UK play centre for disabled children",
+    "slug": "life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children-d165bac6",
+    "lang": "en",
+    "summary": "Gympanzees near Bristol will be the first UK site of its type, catering for children unable to use regular playgrounds. Over the past decade, Stephanie Wheen and her team have raised millions of pounds, researched inclusivity, and trialled sessions with disabled children. The centre is set to open soon.",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/world/2026/nov/07/life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/world/2026/nov/07/life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-d165bac6",
+    "status": "published",
+    "translationOf": "life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children-zh-d165bac6",
+    "publishedAt": "2026-11-07T15:00:13.000Z",
+    "fetchedAt": "2026-11-07T20:53:15.054Z",
+    "body": "Gympanzees near Bristol will be the first UK site of its type, catering for children unable to use regular playgrounds. Over the past decade, Stephanie Wheen and her team have raised millions of pounds, researched inclusivity, and trialled sessions with disabled children. The centre is set to open soon.\n\nRead more from the original source: [Unknown source](https://www.theguardian.com/world/2026/nov/07/life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children)"
+  },
+  {
+    "title": "Isoken Ibizugbe: Seeing Accessibility in Debian",
+    "slug": "isoken-ibizugbe-seeing-accessibility-in-debian-8fbb09c9",
+    "lang": "en",
+    "summary": "The author notices Braille dots on medicine cartons and embossed markings on body‑cream containers, highlighting growing tactile accessibility features for blind and visually impaired users in everyday products. This reflects broader accessibility considerations in software such as Debian.",
+    "category": "digital-a11y",
+    "tags": [],
+    "sourceName": "Wordpress.com",
+    "sourceUrl": "https://isokenibizugbe.wordpress.com/2026/11/06/seeing-accessibility-in-debian",
+    "relatedSources": [
+      {
+        "name": "Wordpress.com",
+        "url": "https://isokenibizugbe.wordpress.com/2026/11/06/seeing-accessibility-in-debian"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-8fbb09c9",
+    "status": "published",
+    "translationOf": "isoken-ibizugbe-seeing-accessibility-in-debian-zh-8fbb09c9",
+    "publishedAt": "2026-11-06T20:25:58.000Z",
+    "fetchedAt": "2026-11-07T20:53:15.082Z",
+    "body": "The author notices Braille dots on medicine cartons and embossed markings on body‑cream containers, highlighting growing tactile accessibility features for blind and visually impaired users in everyday products. This reflects broader accessibility considerations in software such as Debian.\n\nRead more from the original source: [Wordpress.com](https://isokenibizugbe.wordpress.com/2026/11/06/seeing-accessibility-in-debian)"
+  },
+  {
+    "title": "If you use Magnifier across multiple screens, this Windows 11 update could make a huge difference",
+    "slug": "if-you-use-magnifier-across-multiple-screens-this-windows-11-update-could-make-a-8ea1e875",
+    "lang": "en",
+    "summary": "Windows 11 Insider preview adds improvements to Magnifier for multi‑screen use, enhancing usability for low‑vision users.",
+    "category": "assistive-tech",
+    "tags": [
+      "windows",
+      "magnifier",
+      "accessibility",
+      "vision"
+    ],
+    "sourceName": "Windows Central",
+    "sourceUrl": "https://www.windowscentral.com/microsoft/windows-11/microsoft-starts-testing-massive-update-to-windows-11s-magnifier",
+    "relatedSources": [
+      {
+        "name": "Windows Central",
+        "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-starts-testing-massive-update-to-windows-11s-magnifier"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-8ea1e875",
+    "status": "published",
+    "translationOf": "if-you-use-magnifier-across-multiple-screens-this-windows-11-update-could-make-a-zh-8ea1e875",
+    "publishedAt": "2026-11-06T19:00:58.000Z",
+    "fetchedAt": "2026-11-07T20:53:22.269Z",
+    "body": "Windows 11 Insider preview adds improvements to Magnifier for multi‑screen use, enhancing usability for low‑vision users.\n\nRead more from the original source: [Windows Central](https://www.windowscentral.com/microsoft/windows-11/microsoft-starts-testing-massive-update-to-windows-11s-magnifier)"
+  },
+  {
+    "title": "Guía Completa sobre Generadores de Paletas de Colores y Teoría Cromática",
+    "slug": "guia-completa-sobre-generadores-de-paletas-de-colores-y-teoria-cromatica-9bdbbe77",
+    "lang": "en",
+    "summary": "Guide teaches how to create professional color palettes, mastering color wheel, color psychology, and WCAG standards to produce accessible designs.",
+    "category": "digital-a11y",
+    "tags": [
+      "color",
+      "WCAG",
+      "design",
+      "accessibility"
+    ],
+    "sourceName": "Creativosonline.org",
+    "sourceUrl": "https://www.creativosonline.org/guia-completa-sobre-generadores-de-paletas-de-colores-y-teoria-cromatica.html",
+    "relatedSources": [
+      {
+        "name": "Creativosonline.org",
+        "url": "https://www.creativosonline.org/guia-completa-sobre-generadores-de-paletas-de-colores-y-teoria-cromatica.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-9bdbbe77",
+    "status": "published",
+    "translationOf": "guia-completa-sobre-generadores-de-paletas-de-colores-y-teoria-cromatica-zh-9bdbbe77",
+    "publishedAt": "2026-11-06T18:56:04.000Z",
+    "fetchedAt": "2026-11-07T20:53:22.294Z",
+    "body": "Guide teaches how to create professional color palettes, mastering color wheel, color psychology, and WCAG standards to produce accessible designs.\n\nRead more from the original source: [Creativosonline.org](https://www.creativosonline.org/guia-completa-sobre-generadores-de-paletas-de-colores-y-teoria-cromatica.html)"
+  },
+  {
+    "title": "locum 0.3.0 Released – Desktop Automation Library with Accessibility Selectors",
+    "slug": "locum-030-released-desktop-automation-library-with-accessibility-selectors-4a751434",
+    "lang": "en",
+    "summary": "Version 0.3.0 of locum adds enhanced accessibility selectors for UI automation on Windows, macOS, Linux/X11 and experimental Wayland, supporting input handling, vision processing, RPA workflows and LLM agent control.",
+    "category": "assistive-tech",
+    "tags": [
+      "locum",
+      "desktop automation",
+      "Python",
+      "accessibility selectors",
+      "RPA",
+      "LLM"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/locum/0.3.0",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/locum/0.3.0"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-4a751434",
+    "status": "published",
+    "translationOf": "locum-030-released-desktop-automation-library-with-accessibility-selectors-zh-4a751434",
+    "publishedAt": "2026-11-06T18:22:33.000Z",
+    "fetchedAt": "2026-11-07T20:53:28.715Z",
+    "body": "Version 0.3.0 of locum adds enhanced accessibility selectors for UI automation on Windows, macOS, Linux/X11 and experimental Wayland, supporting input handling, vision processing, RPA workflows and LLM agent control.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/locum/0.3.0)"
+  },
+  {
+    "title": "locum 0.2.0 Released – Desktop Automation Library with Accessibility Selectors",
+    "slug": "locum-020-released-desktop-automation-library-with-accessibility-selectors-e24eeb99",
+    "lang": "en",
+    "summary": "Version 0.2.0 of locum introduces accessibility selectors for UI automation across Windows, macOS and Linux/X11, enabling input, vision, RPA workflows and LLM agent control.",
+    "category": "assistive-tech",
+    "tags": [
+      "locum",
+      "desktop automation",
+      "Python",
+      "accessibility selectors",
+      "RPA",
+      "LLM"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/locum/0.2.0",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/locum/0.2.0"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-e24eeb99",
+    "status": "published",
+    "translationOf": "locum-020-released-desktop-automation-library-with-accessibility-selectors-zh-e24eeb99",
+    "publishedAt": "2026-11-06T16:40:45.000Z",
+    "fetchedAt": "2026-11-07T20:53:28.740Z",
+    "body": "Version 0.2.0 of locum introduces accessibility selectors for UI automation across Windows, macOS and Linux/X11, enabling input, vision, RPA workflows and LLM agent control.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/locum/0.2.0)"
   }
 ]

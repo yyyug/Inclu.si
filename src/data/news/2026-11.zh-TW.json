@@ -22276,5 +22276,261 @@
     "publishedAt": "2026-11-06T19:02:16.000Z",
     "fetchedAt": "2026-11-07T16:39:26.347Z",
     "body": "塞拉地區發生悲劇後，自閉症協會聯盟呼籲加強心理與社會支援體系，以保護受影響的家庭。該組織主張改善心理健康資源與社會保障措施，以支持這些社群的身心健康。\n\n原文來源： [news.google.com](https://albalad.ma/90762.html)"
+  },
+  {
+    "title": "卡斯縣重新設計網站以提供更好的無障礙瀏覽",
+    "slug": "cass-county-redesigns-website-to-allow-for-better-accessibility-zh-42f78f74",
+    "lang": "zh-TW",
+    "summary": "卡斯縣已更新其網站，以提升無障礙性，旨在符合WCAG標準，為殘障人士提供更易導航的體驗。",
+    "category": "digital-a11y",
+    "tags": [
+      "website redesign",
+      "web accessibility",
+      "WCAG"
+    ],
+    "sourceName": "News/Talk/Sports 94.9 WSJM",
+    "sourceUrl": "https://www.wsjm.com/2026/11/07/cass-county-redesigns-website-to-allow-for-better-accessibility",
+    "relatedSources": [
+      {
+        "name": "News/Talk/Sports 94.9 WSJM",
+        "url": "https://www.wsjm.com/2026/11/07/cass-county-redesigns-website-to-allow-for-better-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-42f78f74",
+    "status": "published",
+    "translationOf": "cass-county-redesigns-website-to-allow-for-better-accessibility-42f78f74",
+    "publishedAt": "2026-11-07T18:03:16.000Z",
+    "fetchedAt": "2026-11-07T20:53:06.267Z",
+    "body": "卡斯縣已更新其網站，以提升無障礙性，旨在符合WCAG標準，為殘障人士提供更易導航的體驗。\n\n原文來源： [News/Talk/Sports 94.9 WSJM](https://www.wsjm.com/2026/11/07/cass-county-redesigns-website-to-allow-for-better-accessibility)"
+  },
+  {
+    "title": "列克星敦的議會和委員會是否足夠無障礙？議會小組希望作出改變",
+    "slug": "are-lexingtons-boards-and-commissions-accessible-enough-council-group-wants-to-m-zh-3520bd4f",
+    "lang": "zh-TW",
+    "summary": "列克星敦議會小組正在評估該市議會和委員會的無障礙程度，並計畫進行改變，以確保殘障人士能夠充分參與。",
+    "category": "physical-design",
+    "tags": [
+      "public meetings",
+      "accessibility",
+      "disability inclusion"
+    ],
+    "sourceName": "CivicLex",
+    "sourceUrl": "https://news.civiclex.org/are-lexingtons-boards-and-commissions-accessible-enough-council-group-wants-to-make-changes",
+    "relatedSources": [
+      {
+        "name": "CivicLex",
+        "url": "https://news.civiclex.org/are-lexingtons-boards-and-commissions-accessible-enough-council-group-wants-to-make-changes"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3520bd4f",
+    "status": "published",
+    "translationOf": "are-lexingtons-boards-and-commissions-accessible-enough-council-group-wants-to-m-3520bd4f",
+    "publishedAt": "2026-11-07T16:07:18.000Z",
+    "fetchedAt": "2026-11-07T20:53:06.296Z",
+    "body": "列克星敦議會小組正在評估該市議會和委員會的無障礙程度，並計畫進行改變，以確保殘障人士能夠充分參與。\n\n原文來源： [CivicLex](https://news.civiclex.org/are-lexingtons-boards-and-commissions-accessible-enough-council-group-wants-to-make-changes)"
+  },
+  {
+    "title": "「改變生活」：父母歡迎英國1000萬鎊殘障兒童遊樂中心",
+    "slug": "life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children-zh-d165bac6",
+    "lang": "zh-TW",
+    "summary": "Gympanzees 位於布里斯托爾附近，將成為英國首家專門為無法使用一般遊樂場的殘障兒童設計的遊樂與休閒中心。超過十年來，Stephanie Wheen 與團隊籌集數百萬鎊，進行深入研究以盡可能包容，並與殘障兒童試行多次課程。中心即將開幕。",
+    "category": "physical-design",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/world/2026/nov/07/life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/world/2026/nov/07/life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-d165bac6",
+    "status": "published",
+    "translationOf": "life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children-d165bac6",
+    "publishedAt": "2026-11-07T15:00:13.000Z",
+    "fetchedAt": "2026-11-07T20:53:15.054Z",
+    "body": "Gympanzees 位於布里斯托爾附近，將成為英國首家專門為無法使用一般遊樂場的殘障兒童設計的遊樂與休閒中心。超過十年來，Stephanie Wheen 與團隊籌集數百萬鎊，進行深入研究以盡可能包容，並與殘障兒童試行多次課程。中心即將開幕。\n\n原文來源： [Unknown source](https://www.theguardian.com/world/2026/nov/07/life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children)"
+  },
+  {
+    "title": "Isoken Ibizugbe：在 Debian 中看到的可及性",
+    "slug": "isoken-ibizugbe-seeing-accessibility-in-debian-zh-8fbb09c9",
+    "lang": "zh-TW",
+    "summary": "作者發現藥盒上有凸點點字、身體乳霜容器上有凸起標記，這些觸覺無障礙設計正日益普及，盲人和低視力者能更易辨識產品，也反映出像 Debian 這類軟體在可及性方面的持續關注。",
+    "category": "digital-a11y",
+    "tags": [],
+    "sourceName": "Wordpress.com",
+    "sourceUrl": "https://isokenibizugbe.wordpress.com/2026/11/06/seeing-accessibility-in-debian",
+    "relatedSources": [
+      {
+        "name": "Wordpress.com",
+        "url": "https://isokenibizugbe.wordpress.com/2026/11/06/seeing-accessibility-in-debian"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-8fbb09c9",
+    "status": "published",
+    "translationOf": "isoken-ibizugbe-seeing-accessibility-in-debian-8fbb09c9",
+    "publishedAt": "2026-11-06T20:25:58.000Z",
+    "fetchedAt": "2026-11-07T20:53:15.082Z",
+    "body": "作者發現藥盒上有凸點點字、身體乳霜容器上有凸起標記，這些觸覺無障礙設計正日益普及，盲人和低視力者能更易辨識產品，也反映出像 Debian 這類軟體在可及性方面的持續關注。\n\n原文來源： [Wordpress.com](https://isokenibizugbe.wordpress.com/2026/11/06/seeing-accessibility-in-debian)"
+  },
+  {
+    "title": "如果您在多螢幕上使用放大鏡，此 Windows 11 更新可能帶來巨大差異",
+    "slug": "if-you-use-magnifier-across-multiple-screens-this-windows-11-update-could-make-a-zh-8ea1e875",
+    "lang": "zh-TW",
+    "summary": "Windows 11 內部預覽版為多螢幕使用的放大鏡帶來顯著改進，提升低視力使用者的易用性。",
+    "category": "assistive-tech",
+    "tags": [
+      "windows",
+      "magnifier",
+      "accessibility",
+      "vision"
+    ],
+    "sourceName": "Windows Central",
+    "sourceUrl": "https://www.windowscentral.com/microsoft/windows-11/microsoft-starts-testing-massive-update-to-windows-11s-magnifier",
+    "relatedSources": [
+      {
+        "name": "Windows Central",
+        "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-starts-testing-massive-update-to-windows-11s-magnifier"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-8ea1e875",
+    "status": "published",
+    "translationOf": "if-you-use-magnifier-across-multiple-screens-this-windows-11-update-could-make-a-8ea1e875",
+    "publishedAt": "2026-11-06T19:00:58.000Z",
+    "fetchedAt": "2026-11-07T20:53:22.269Z",
+    "body": "Windows 11 內部預覽版為多螢幕使用的放大鏡帶來顯著改進，提升低視力使用者的易用性。\n\n原文來源： [Windows Central](https://www.windowscentral.com/microsoft/windows-11/microsoft-starts-testing-massive-update-to-windows-11s-magnifier)"
+  },
+  {
+    "title": "關於顏色調色板生成器和色彩理論的完整指南",
+    "slug": "guia-completa-sobre-generadores-de-paletas-de-colores-y-teoria-cromatica-zh-9bdbbe77",
+    "lang": "zh-TW",
+    "summary": "本指南教導如何建立專業配色盤，掌握色環、色彩心理與 WCAG 標準，以製作無障礙設計。",
+    "category": "digital-a11y",
+    "tags": [
+      "color",
+      "WCAG",
+      "design",
+      "accessibility"
+    ],
+    "sourceName": "Creativosonline.org",
+    "sourceUrl": "https://www.creativosonline.org/guia-completa-sobre-generadores-de-paletas-de-colores-y-teoria-cromatica.html",
+    "relatedSources": [
+      {
+        "name": "Creativosonline.org",
+        "url": "https://www.creativosonline.org/guia-completa-sobre-generadores-de-paletas-de-colores-y-teoria-cromatica.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-9bdbbe77",
+    "status": "published",
+    "translationOf": "guia-completa-sobre-generadores-de-paletas-de-colores-y-teoria-cromatica-9bdbbe77",
+    "publishedAt": "2026-11-06T18:56:04.000Z",
+    "fetchedAt": "2026-11-07T20:53:22.294Z",
+    "body": "本指南教導如何建立專業配色盤，掌握色環、色彩心理與 WCAG 標準，以製作無障礙設計。\n\n原文來源： [Creativosonline.org](https://www.creativosonline.org/guia-completa-sobre-generadores-de-paletas-de-colores-y-teoria-cromatica.html)"
+  },
+  {
+    "title": "locum 0.3.0 發布 – 桌面自動化庫，支援可存取選擇器",
+    "slug": "locum-030-released-desktop-automation-library-with-accessibility-selectors-zh-4a751434",
+    "lang": "zh-TW",
+    "summary": "locum 0.3.0 版本加強了可存取選擇器功能，適用於 Windows、macOS、Linux/X11 及實驗性 Wayland 平台，提供輸入、視覺、RPA 工作流程與 LLM 代理控制。",
+    "category": "assistive-tech",
+    "tags": [
+      "locum",
+      "desktop automation",
+      "Python",
+      "accessibility selectors",
+      "RPA",
+      "LLM"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/locum/0.3.0",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/locum/0.3.0"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-4a751434",
+    "status": "published",
+    "translationOf": "locum-030-released-desktop-automation-library-with-accessibility-selectors-4a751434",
+    "publishedAt": "2026-11-06T18:22:33.000Z",
+    "fetchedAt": "2026-11-07T20:53:28.715Z",
+    "body": "locum 0.3.0 版本加強了可存取選擇器功能，適用於 Windows、macOS、Linux/X11 及實驗性 Wayland 平台，提供輸入、視覺、RPA 工作流程與 LLM 代理控制。\n\n原文來源： [Pypi.org](https://pypi.org/project/locum/0.3.0)"
+  },
+  {
+    "title": "locum 0.2.0 發布 – 桌面自動化庫，支援可存取選擇器",
+    "slug": "locum-020-released-desktop-automation-library-with-accessibility-selectors-zh-e24eeb99",
+    "lang": "zh-TW",
+    "summary": "locum 0.2.0 版本加入可存取選擇器功能，適用於 Windows、macOS 與 Linux/X11，支援輸入、視覺、RPA 工作流程與 LLM 代理控制。",
+    "category": "assistive-tech",
+    "tags": [
+      "locum",
+      "desktop automation",
+      "Python",
+      "accessibility selectors",
+      "RPA",
+      "LLM"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/locum/0.2.0",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/locum/0.2.0"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-e24eeb99",
+    "status": "published",
+    "translationOf": "locum-020-released-desktop-automation-library-with-accessibility-selectors-e24eeb99",
+    "publishedAt": "2026-11-06T16:40:45.000Z",
+    "fetchedAt": "2026-11-07T20:53:28.740Z",
+    "body": "locum 0.2.0 版本加入可存取選擇器功能，適用於 Windows、macOS 與 Linux/X11，支援輸入、視覺、RPA 工作流程與 LLM 代理控制。\n\n原文來源： [Pypi.org](https://pypi.org/project/locum/0.2.0)"
   }
 ]
