@@ -32,5 +32,39 @@
     "publishedAt": "2023-08-09T07:00:00.000Z",
     "fetchedAt": "2026-10-23T15:33:06.856Z",
     "body": "沙特阿拉伯「Tawasal」殘障輔助技術協會已向2000名受益者提供600件輔助設備，擴大殘障人士對必要工具的獲取途徑。\n\n原文來源： [news.google.com](https://www.spa.gov.sa/en/5b940403dae)"
+  },
+  {
+    "title": "輔助科技協會為兩千名使用者提供六百項技術",
+    "slug": "assistive-technology-association-provides-600-devices-to-2000-beneficiaries-zh-db37db05",
+    "lang": "zh-TW",
+    "summary": "沙特阿拉伯輔助科技協會報告指出，該協會已提供六百項輔助科技設備給超過兩千名受益者，支援身心障礙者的日常生活。",
+    "category": "assistive-tech",
+    "tags": [
+      "assistive-technology",
+      "saudi-arabia",
+      "non-profit",
+      "accessibility-tools"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.spa.gov.sa/5b940403dae",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.spa.gov.sa/5b940403dae"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "EG",
+    "region": "EG",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-db37db05",
+    "status": "published",
+    "translationOf": "assistive-technology-association-provides-600-devices-to-2000-beneficiaries-db37db05",
+    "publishedAt": "2023-08-09T07:00:00.000Z",
+    "fetchedAt": "2026-11-07T16:39:06.364Z",
+    "body": "沙特阿拉伯輔助科技協會報告指出，該協會已提供六百項輔助科技設備給超過兩千名受益者，支援身心障礙者的日常生活。\n\n原文來源： [news.google.com](https://www.spa.gov.sa/5b940403dae)"
   }
 ]

@@ -390,5 +390,39 @@
     "publishedAt": "2026-02-08T08:00:00.000Z",
     "fetchedAt": "2026-10-04T15:30:59.796Z",
     "body": "A project in Hadramout focused on enhancing comprehensive access to justice was discussed, including the launch of the 'Mithaq' application to improve accessibility for various demographics.\n\nRead more from the original source: [news.google.com](https://www.sabanew.net/story/ar/141958)"
+  },
+  {
+    "title": "New Eligibility Conditions for Financial Support for Children with Disabilities in UAE",
+    "slug": "new-eligibility-conditions-for-financial-support-for-children-with-disabilities--c17ef6ec",
+    "lang": "en",
+    "summary": "A report from Emaratalyoum outlines updated eligibility criteria for children with disabilities (Awal al-Humum) to receive financial support from the 'Society Empowerment' program.",
+    "category": "laws-rights",
+    "tags": [
+      "UAE",
+      "financial-support",
+      "disability-rights",
+      "policy"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.emaratalyoum.com/local-section/other/2026-02-11-1.2014866",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.emaratalyoum.com/local-section/other/2026-02-11-1.2014866"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-c17ef6ec",
+    "status": "published",
+    "translationOf": "new-eligibility-conditions-for-financial-support-for-children-with-disabilities--zh-c17ef6ec",
+    "publishedAt": "2026-02-11T08:00:00.000Z",
+    "fetchedAt": "2026-11-07T16:37:54.020Z",
+    "body": "A report from Emaratalyoum outlines updated eligibility criteria for children with disabilities (Awal al-Humum) to receive financial support from the 'Society Empowerment' program.\n\nRead more from the original source: [news.google.com](https://www.emaratalyoum.com/local-section/other/2026-02-11-1.2014866)"
   }
 ]

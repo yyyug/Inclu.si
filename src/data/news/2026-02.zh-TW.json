@@ -390,5 +390,39 @@
     "publishedAt": "2026-02-08T08:00:00.000Z",
     "fetchedAt": "2026-10-04T15:30:59.796Z",
     "body": "哈德拉毛地區討論了一個旨在增強全面司法公正可及性的項目，包括發布「米薩克」應用程序，以改善各階層的訪問體驗。\n\n原文來源： [news.google.com](https://www.sabanew.net/story/ar/141958)"
+  },
+  {
+    "title": "中東聯：兒童障礙者財務援助新標準",
+    "slug": "new-eligibility-conditions-for-financial-support-for-children-with-disabilities--zh-c17ef6ec",
+    "lang": "zh-TW",
+    "summary": "《聯合日報》報導了「社會賦權」計劃中，兒童障礙者（Awal al-Humum）獲得財務援助的新資格標準。",
+    "category": "laws-rights",
+    "tags": [
+      "UAE",
+      "financial-support",
+      "disability-rights",
+      "policy"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.emaratalyoum.com/local-section/other/2026-02-11-1.2014866",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.emaratalyoum.com/local-section/other/2026-02-11-1.2014866"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-c17ef6ec",
+    "status": "published",
+    "translationOf": "new-eligibility-conditions-for-financial-support-for-children-with-disabilities--c17ef6ec",
+    "publishedAt": "2026-02-11T08:00:00.000Z",
+    "fetchedAt": "2026-11-07T16:37:54.020Z",
+    "body": "《聯合日報》報導了「社會賦權」計劃中，兒童障礙者（Awal al-Humum）獲得財務援助的新資格標準。\n\n原文來源： [news.google.com](https://www.emaratalyoum.com/local-section/other/2026-02-11-1.2014866)"
   }
 ]

@@ -32,5 +32,39 @@
     "publishedAt": "2023-08-09T07:00:00.000Z",
     "fetchedAt": "2026-10-23T15:33:06.856Z",
     "body": "The Saudi-based Tawasal Association for Assistive Technology for People with Disabilities has provided 600 assistive devices to 2,000 beneficiaries, expanding access to essential tools for individuals with disabilities.\n\nRead more from the original source: [news.google.com](https://www.spa.gov.sa/en/5b940403dae)"
+  },
+  {
+    "title": "Assistive Technology Association Provides 600 Devices to 2,000 Beneficiaries",
+    "slug": "assistive-technology-association-provides-600-devices-to-2000-beneficiaries-db37db05",
+    "lang": "en",
+    "summary": "The Saudi Association for Assistive Technology reported that it has provided 600 assistive technology devices to over 2,000 beneficiaries, supporting individuals with disabilities in their daily lives.",
+    "category": "assistive-tech",
+    "tags": [
+      "assistive-technology",
+      "saudi-arabia",
+      "non-profit",
+      "accessibility-tools"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.spa.gov.sa/5b940403dae",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.spa.gov.sa/5b940403dae"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "EG",
+    "region": "EG",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-db37db05",
+    "status": "published",
+    "translationOf": "assistive-technology-association-provides-600-devices-to-2000-beneficiaries-zh-db37db05",
+    "publishedAt": "2023-08-09T07:00:00.000Z",
+    "fetchedAt": "2026-11-07T16:39:06.364Z",
+    "body": "The Saudi Association for Assistive Technology reported that it has provided 600 assistive technology devices to over 2,000 beneficiaries, supporting individuals with disabilities in their daily lives.\n\nRead more from the original source: [news.google.com](https://www.spa.gov.sa/5b940403dae)"
   }
 ]
