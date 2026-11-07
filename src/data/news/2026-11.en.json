@@ -22532,5 +22532,38 @@
     "publishedAt": "2026-11-06T16:40:45.000Z",
     "fetchedAt": "2026-11-07T20:53:28.740Z",
     "body": "Version 0.2.0 of locum introduces accessibility selectors for UI automation across Windows, macOS and Linux/X11, enabling input, vision, RPA workflows and LLM agent control.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/locum/0.2.0)"
+  },
+  {
+    "title": "Amazon's New Echo Devices, Siri Recap and Accessible WhatsApp Risks",
+    "slug": "amazons-new-echo-devices-siri-recap-and-accessible-whatsapp-risks-ddbd715e",
+    "lang": "en",
+    "summary": "Amazon’s latest Echo devices are pricier; iOS 27.3 adds Siri Recap and Safari dark mode. The show highlights new features for blind tech users, warns about risks of third‑party WhatsApp apps, and discusses running AI locally on a laptop without cloud reliance.",
+    "category": "assistive-tech",
+    "tags": [
+      "blind",
+      "voice assistant",
+      "WhatsApp security",
+      "AI offline"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/amazons-new-echo-devices-siri-recap-and-accessible-whatsapp-risks",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/amazons-new-echo-devices-siri-recap-and-accessible-whatsapp-risks"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-ddbd715e",
+    "status": "published",
+    "translationOf": "amazons-new-echo-devices-siri-recap-and-accessible-whatsapp-risks-zh-ddbd715e",
+    "publishedAt": "2026-11-04T17:00:00.000Z",
+    "fetchedAt": "2026-11-07T20:58:43.135Z",
+    "body": "Amazon’s latest Echo devices are pricier; iOS 27.3 adds Siri Recap and Safari dark mode. The show highlights new features for blind tech users, warns about risks of third‑party WhatsApp apps, and discusses running AI locally on a laptop without cloud reliance.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/amazons-new-echo-devices-siri-recap-and-accessible-whatsapp-risks)"
   }
 ]

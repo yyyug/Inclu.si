@@ -22532,5 +22532,38 @@
     "publishedAt": "2026-11-06T16:40:45.000Z",
     "fetchedAt": "2026-11-07T20:53:28.740Z",
     "body": "locum 0.2.0 版本加入可存取選擇器功能，適用於 Windows、macOS 與 Linux/X11，支援輸入、視覺、RPA 工作流程與 LLM 代理控制。\n\n原文來源： [Pypi.org](https://pypi.org/project/locum/0.2.0)"
+  },
+  {
+    "title": "Amazon 新款 Echo 裝置、Siri 回顧及可訪問 WhatsApp 風險",
+    "slug": "amazons-new-echo-devices-siri-recap-and-accessible-whatsapp-risks-zh-ddbd715e",
+    "lang": "zh-TW",
+    "summary": "亞馬遜最新 Echo 裝置售價上漲；iOS 27.3 加入 Siri 回顧與 Safari 深色模式。節目介紹盲人使用者的新功能，警告第三方 WhatsApp 應用的風險，並探討在筆電上本地運行 AI 而不依賴雲端的可能性。",
+    "category": "assistive-tech",
+    "tags": [
+      "blind",
+      "voice assistant",
+      "WhatsApp security",
+      "AI offline"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/amazons-new-echo-devices-siri-recap-and-accessible-whatsapp-risks",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/amazons-new-echo-devices-siri-recap-and-accessible-whatsapp-risks"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-ddbd715e",
+    "status": "published",
+    "translationOf": "amazons-new-echo-devices-siri-recap-and-accessible-whatsapp-risks-ddbd715e",
+    "publishedAt": "2026-11-04T17:00:00.000Z",
+    "fetchedAt": "2026-11-07T20:58:43.135Z",
+    "body": "亞馬遜最新 Echo 裝置售價上漲；iOS 27.3 加入 Siri 回顧與 Safari 深色模式。節目介紹盲人使用者的新功能，警告第三方 WhatsApp 應用的風險，並探討在筆電上本地運行 AI 而不依賴雲端的可能性。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/amazons-new-echo-devices-siri-recap-and-accessible-whatsapp-risks)"
   }
 ]
