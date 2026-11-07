@@ -14496,5 +14496,100 @@
         }
       ]
     }
+  },
+  "2026-11-07": {
+    "generatedAt": "2026-11-07T15:37:00.028Z",
+    "en": {
+      "title": "Disabled Voters Face Barriers; Calls for Accessible Polling Places Grow",
+      "summary": "Disabled voters face significant barriers in the 2026 midterm elections, prompting calls for improved polling place accessibility and mail-in options. Meanwhile, new accessibility tools like Vercel’s Agent Desktop and Pallyfi’s workflow platform launch, and advocates highlight trail access improvements and personal journeys from isolation to advocacy. Additional resources include hotel accessibility revenue reports, board game adaptation guides, and physiotherapy accessibility tips for Nairobi.",
+      "highlights": [
+        {
+          "title": "Children's Book 'Eyce and Phineas' Promotes Inclusion",
+          "slug": "childrens-book-eyce-and-phineas-promotes-inclusion-91e9f4f6",
+          "url": "https://x.com/KatieJohnsbooks/status/2119083753301581990"
+        },
+        {
+          "title": "Adapting Board Games for Accessibility",
+          "slug": "adapting-board-games-for-accessibility-5fa127de",
+          "url": "https://x.com/playBGT/status/2119083527115518196"
+        },
+        {
+          "title": "Experience of Priority Seating on Trains",
+          "slug": "experience-of-priority-seating-on-trains-39f5d859",
+          "url": "https://x.com/rnozatta/status/2119083501182161352"
+        },
+        {
+          "title": "Study Strategies for Students with Bipolar Disorder and ADHD",
+          "slug": "study-strategies-for-students-with-bipolar-disorder-and-adhd-3599c279",
+          "url": "https://x.com/dolphin_note_/status/2119083453274825000"
+        },
+        {
+          "title": "Vercel Agent Desktop Uses Accessibility APIs",
+          "slug": "vercel-agent-desktop-uses-accessibility-apis-da7da3df",
+          "url": "https://x.com/RavinderSync/status/2119083419300995199"
+        },
+        {
+          "title": "ADA-Accessible EV Charging Station in Albany",
+          "slug": "ada-accessible-ev-charging-station-in-albany-84c44c19",
+          "url": "https://x.com/AbbottEnergy/status/2119083355337523528"
+        },
+        {
+          "title": "Improving Hotel Accessibility for Revenue Growth",
+          "slug": "improving-hotel-accessibility-for-revenue-growth-37d5d03e",
+          "url": "https://x.com/AreMorch/status/2119083328275890329"
+        },
+        {
+          "title": "Personal Reflection on Developmental Disabilities",
+          "slug": "personal-reflection-on-developmental-disabilities-048b0c43",
+          "url": "https://x.com/ccaarrrr00llll/status/2119083281887219810"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "殘障選民投票困難重重，呼籲改善無障礙投票站",
+      "summary": "殘障選民在2026年中期選舉中遇到投票障礙，文章呼籲改善投票站無障礙設施及增加郵寄投票選項。同時，Vercel Agent 桌面與 Pallyfi 無障礙工作流程平台等新產品發布，倡導者分享小徑無障礙進展與從孤立到倡導的個人經驗。此外，報告指出提升酒店無障礙可帶來收益成長，並提供桌遊適配指南與奈洛比物理治療無障礙資訊。",
+      "highlights": [
+        {
+          "title": "《Eyce 與 Phineas》兒童書推動包容",
+          "slug": "childrens-book-eyce-and-phineas-promotes-inclusion-zh-91e9f4f6",
+          "url": "https://x.com/KatieJohnsbooks/status/2119083753301581990"
+        },
+        {
+          "title": "適應桌上遊戲以提升可及性",
+          "slug": "adapting-board-games-for-accessibility-zh-5fa127de",
+          "url": "https://x.com/playBGT/status/2119083527115518196"
+        },
+        {
+          "title": "在火車上使用優先座位的體驗",
+          "slug": "experience-of-priority-seating-on-trains-zh-39f5d859",
+          "url": "https://x.com/rnozatta/status/2119083501182161352"
+        },
+        {
+          "title": "雙極性情緒障礙與 ADHD 學生的學習策略",
+          "slug": "study-strategies-for-students-with-bipolar-disorder-and-adhd-zh-3599c279",
+          "url": "https://x.com/dolphin_note_/status/2119083453274825000"
+        },
+        {
+          "title": "Vercel Agent 桌面使用無障礙 API",
+          "slug": "vercel-agent-desktop-uses-accessibility-apis-zh-da7da3df",
+          "url": "https://x.com/RavinderSync/status/2119083419300995199"
+        },
+        {
+          "title": "奧爾巴尼符合美國殘疾人法案的電動車充電站",
+          "slug": "ada-accessible-ev-charging-station-in-albany-zh-84c44c19",
+          "url": "https://x.com/AbbottEnergy/status/2119083355337523528"
+        },
+        {
+          "title": "提升酒店無障礙設施以促進收益增長",
+          "slug": "improving-hotel-accessibility-for-revenue-growth-zh-37d5d03e",
+          "url": "https://x.com/AreMorch/status/2119083328275890329"
+        },
+        {
+          "title": "發展障礙的個人反思",
+          "slug": "personal-reflection-on-developmental-disabilities-zh-048b0c43",
+          "url": "https://x.com/ccaarrrr00llll/status/2119083281887219810"
+        }
+      ]
+    }
   }
 }
