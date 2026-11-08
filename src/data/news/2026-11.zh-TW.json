@@ -25540,5 +25540,176 @@
     "publishedAt": "2026-11-08T08:26:00.000Z",
     "fetchedAt": "2026-11-08T16:55:03.106Z",
     "body": "一項議會倡議旨在評估殘障人士的實際就業狀況及其可獲得工作機會的品質。\n\n原文來源： [news.google.com](https://www.elbalad.news/7172255)"
+  },
+  {
+    "title": "「不管發生什麼，他都不放棄」：殘疾摔跤手從擂台 alter ego 中汲取力量",
+    "slug": "no-matter-what-he-doesnt-quit-disabled-wrestlers-draw-strength-from-ring-alter-e-zh-6ac10f6d",
+    "lang": "zh-TW",
+    "summary": "德雷的計畫鼓勵有學習和身體障礙的人參與摔跤，透過擂台上的別名角色建立自信與社群，如在Foyle Rumble活動中所示。",
+    "category": "case-studies",
+    "tags": [
+      "disability",
+      "wrestling",
+      "inclusion",
+      "physical activity",
+      "Derry"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/08/disabled-wrestlers-derry-foyle-rumble",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/08/disabled-wrestlers-derry-foyle-rumble"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-6ac10f6d",
+    "status": "published",
+    "translationOf": "no-matter-what-he-doesnt-quit-disabled-wrestlers-draw-strength-from-ring-alter-e-6ac10f6d",
+    "publishedAt": "2026-11-08T15:37:54.000Z",
+    "fetchedAt": "2026-11-08T21:11:58.750Z",
+    "body": "德雷的計畫鼓勵有學習和身體障礙的人參與摔跤，透過擂台上的別名角色建立自信與社群，如在Foyle Rumble活動中所示。\n\n原文來源： [Unknown source](https://www.theguardian.com/uk-news/2026/nov/08/disabled-wrestlers-derry-foyle-rumble)"
+  },
+  {
+    "title": "Tesserae 引擎 0.6.5 版本發布",
+    "slug": "tesserae-engine-065-release-zh-613a2c81",
+    "lang": "zh-TW",
+    "summary": "Tesserae 引擎 0.6.5 版本推出以 Rust 為後端、GPU 渲染的 Python 保留模式 UI 庫，支援節點、Flexbox/Grid 佈局、繪製、動畫、輸入、文字及透過 Vello 的無障礙功能。",
+    "category": "digital-a11y",
+    "tags": [
+      "tesserae-engine",
+      "UI",
+      "accessibility",
+      "Python",
+      "Rust",
+      "Vello"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/tesserae-engine/0.6.5",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/tesserae-engine/0.6.5"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-613a2c81",
+    "status": "published",
+    "translationOf": "tesserae-engine-065-release-613a2c81",
+    "publishedAt": "2026-11-07T20:09:52.000Z",
+    "fetchedAt": "2026-11-08T21:12:06.964Z",
+    "body": "Tesserae 引擎 0.6.5 版本推出以 Rust 為後端、GPU 渲染的 Python 保留模式 UI 庫，支援節點、Flexbox/Grid 佈局、繪製、動畫、輸入、文字及透過 Vello 的無障礙功能。\n\n原文來源： [Pypi.org](https://pypi.org/project/tesserae-engine/0.6.5)"
+  },
+  {
+    "title": "保險查詢：包容性是關鍵",
+    "slug": "insurance-query-inclusivity-is-key-zh-50dd7d02",
+    "lang": "zh-TW",
+    "summary": "文章探討如何透過多種無障礙溝通渠道（如手語視訊中繼、字幕電話服務、無障礙線上平台），讓聽障人士能夠尊嚴地取得保險保障並提出理賠。",
+    "category": "laws-rights",
+    "tags": [
+      "insurance",
+      "hearing impaired",
+      "accessibility",
+      "inclusivity",
+      "claims"
+    ],
+    "sourceName": "BusinessLine",
+    "sourceUrl": "https://www.thehindubusinessline.com/portfolio/personal-finance/insurance-query-inclusivity-is-key/article71674622.ece",
+    "relatedSources": [
+      {
+        "name": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/insurance-query-inclusivity-is-key/article71674622.ece"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-50dd7d02",
+    "status": "published",
+    "translationOf": "insurance-query-inclusivity-is-key-50dd7d02",
+    "publishedAt": "2026-11-07T17:30:48.000Z",
+    "fetchedAt": "2026-11-08T21:12:07.015Z",
+    "body": "文章探討如何透過多種無障礙溝通渠道（如手語視訊中繼、字幕電話服務、無障礙線上平台），讓聽障人士能夠尊嚴地取得保險保障並提出理賠。\n\n原文來源： [BusinessLine](https://www.thehindubusinessline.com/portfolio/personal-finance/insurance-query-inclusivity-is-key/article71674622.ece)"
+  },
+  {
+    "title": "Tesserae 引擎 0.6.4 版本發布",
+    "slug": "tesserae-engine-064-release-zh-4abdf7d2",
+    "lang": "zh-TW",
+    "summary": "Tesserae 引擎 0.6.4 版本提供以 Rust 為後端、GPU 渲染的 Python 保留模式 UI 工具套件，包含節點、Flexbox/Grid 佈局、繪製、動畫、輸入、文字及由 Vello 支援的無障礙功能。",
+    "category": "digital-a11y",
+    "tags": [
+      "tesserae-engine",
+      "UI",
+      "accessibility",
+      "Python",
+      "Rust",
+      "Vello"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/tesserae-engine/0.6.4",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/tesserae-engine/0.6.4"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-4abdf7d2",
+    "status": "published",
+    "translationOf": "tesserae-engine-064-release-4abdf7d2",
+    "publishedAt": "2026-11-07T16:25:46.000Z",
+    "fetchedAt": "2026-11-08T21:12:07.044Z",
+    "body": "Tesserae 引擎 0.6.4 版本提供以 Rust 為後端、GPU 渲染的 Python 保留模式 UI 工具套件，包含節點、Flexbox/Grid 佈局、繪製、動畫、輸入、文字及由 Vello 支援的無障礙功能。\n\n原文來源： [Pypi.org](https://pypi.org/project/tesserae-engine/0.6.4)"
+  },
+  {
+    "title": "沒有欄杆的自然教室！日本 4 座體驗型動物園巡禮，朝聖元組水豚溫泉到猛禽飛行",
+    "slug": "barrierfree-natural-classroom-tour-of-4-experiential-zoos-in-japan-from-capybara-zh-54e0827a",
+    "lang": "zh-TW",
+    "summary": "文章介紹日本四座體驗型動物園，採用無障礙開放式棲地設計，移除欄杆，讓殘障遊客也能近距離接觸水豚溫泉、猛禽飛行等動物。",
+    "category": "physical-design",
+    "tags": [
+      "barrier-free",
+      "zoo",
+      "animal habitat",
+      "disability access"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1892c5ec-a504-420e-8a86-1bc6781796d1",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1892c5ec-a504-420e-8a86-1bc6781796d1"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-54e0827a",
+    "status": "published",
+    "translationOf": "barrierfree-natural-classroom-tour-of-4-experiential-zoos-in-japan-from-capybara-54e0827a",
+    "publishedAt": "2026-11-05T00:30:00.000Z",
+    "fetchedAt": "2026-11-08T21:12:12.358Z",
+    "body": "文章介紹日本四座體驗型動物園，採用無障礙開放式棲地設計，移除欄杆，讓殘障遊客也能近距離接觸水豚溫泉、猛禽飛行等動物。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1892c5ec-a504-420e-8a86-1bc6781796d1)"
   }
 ]

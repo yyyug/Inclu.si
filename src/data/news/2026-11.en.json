@@ -25540,5 +25540,176 @@
     "publishedAt": "2026-11-08T08:26:00.000Z",
     "fetchedAt": "2026-11-08T16:55:03.106Z",
     "body": "A parliamentary initiative aims to assess the actual employment status and quality of job opportunities available to individuals with disabilities.\n\nRead more from the original source: [news.google.com](https://www.elbalad.news/7172255)"
+  },
+  {
+    "title": "‘No matter what, he doesn’t quit’: disabled wrestlers draw strength from ring alter egos",
+    "slug": "no-matter-what-he-doesnt-quit-disabled-wrestlers-draw-strength-from-ring-alter-e-6ac10f6d",
+    "lang": "en",
+    "summary": "A program in Derry encourages people with learning and physical disabilities to participate in wrestling, using alter egos to build confidence and community, as demonstrated at the Foyle Rumble event.",
+    "category": "case-studies",
+    "tags": [
+      "disability",
+      "wrestling",
+      "inclusion",
+      "physical activity",
+      "Derry"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/08/disabled-wrestlers-derry-foyle-rumble",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/08/disabled-wrestlers-derry-foyle-rumble"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-6ac10f6d",
+    "status": "published",
+    "translationOf": "no-matter-what-he-doesnt-quit-disabled-wrestlers-draw-strength-from-ring-alter-e-zh-6ac10f6d",
+    "publishedAt": "2026-11-08T15:37:54.000Z",
+    "fetchedAt": "2026-11-08T21:11:58.750Z",
+    "body": "A program in Derry encourages people with learning and physical disabilities to participate in wrestling, using alter egos to build confidence and community, as demonstrated at the Foyle Rumble event.\n\nRead more from the original source: [Unknown source](https://www.theguardian.com/uk-news/2026/nov/08/disabled-wrestlers-derry-foyle-rumble)"
+  },
+  {
+    "title": "Tesserae Engine 0.6.5 Release",
+    "slug": "tesserae-engine-065-release-613a2c81",
+    "lang": "en",
+    "summary": "Version 0.6.5 of the Tesserae engine introduces a GPU‑rendered retained‑mode UI library for Python (Rust backend) featuring nodes, flexbox/grid layout, painting, animation, input handling, text rendering, and accessibility support via Vello.",
+    "category": "digital-a11y",
+    "tags": [
+      "tesserae-engine",
+      "UI",
+      "accessibility",
+      "Python",
+      "Rust",
+      "Vello"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/tesserae-engine/0.6.5",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/tesserae-engine/0.6.5"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-613a2c81",
+    "status": "published",
+    "translationOf": "tesserae-engine-065-release-zh-613a2c81",
+    "publishedAt": "2026-11-07T20:09:52.000Z",
+    "fetchedAt": "2026-11-08T21:12:06.964Z",
+    "body": "Version 0.6.5 of the Tesserae engine introduces a GPU‑rendered retained‑mode UI library for Python (Rust backend) featuring nodes, flexbox/grid layout, painting, animation, input handling, text rendering, and accessibility support via Vello.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/tesserae-engine/0.6.5)"
+  },
+  {
+    "title": "Insurance Query: Inclusivity is Key",
+    "slug": "insurance-query-inclusivity-is-key-50dd7d02",
+    "lang": "en",
+    "summary": "The article discusses how providing multiple accessible communication channels—such as sign‑language video relay, captioned phone services, and accessible online portals—enables hearing‑impaired individuals to obtain insurance coverage and file claims with dignity.",
+    "category": "laws-rights",
+    "tags": [
+      "insurance",
+      "hearing impaired",
+      "accessibility",
+      "inclusivity",
+      "claims"
+    ],
+    "sourceName": "BusinessLine",
+    "sourceUrl": "https://www.thehindubusinessline.com/portfolio/personal-finance/insurance-query-inclusivity-is-key/article71674622.ece",
+    "relatedSources": [
+      {
+        "name": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/insurance-query-inclusivity-is-key/article71674622.ece"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-50dd7d02",
+    "status": "published",
+    "translationOf": "insurance-query-inclusivity-is-key-zh-50dd7d02",
+    "publishedAt": "2026-11-07T17:30:48.000Z",
+    "fetchedAt": "2026-11-08T21:12:07.015Z",
+    "body": "The article discusses how providing multiple accessible communication channels—such as sign‑language video relay, captioned phone services, and accessible online portals—enables hearing‑impaired individuals to obtain insurance coverage and file claims with dignity.\n\nRead more from the original source: [BusinessLine](https://www.thehindubusinessline.com/portfolio/personal-finance/insurance-query-inclusivity-is-key/article71674622.ece)"
+  },
+  {
+    "title": "Tesserae Engine 0.6.4 Release",
+    "slug": "tesserae-engine-064-release-4abdf7d2",
+    "lang": "en",
+    "summary": "Version 0.6.4 of the Tesserae engine provides a GPU‑rendered retained‑mode UI toolkit for Python (built in Rust) with nodes, flexbox/grid layout, paint, animation, input, text, and accessibility features powered by Vello.",
+    "category": "digital-a11y",
+    "tags": [
+      "tesserae-engine",
+      "UI",
+      "accessibility",
+      "Python",
+      "Rust",
+      "Vello"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/tesserae-engine/0.6.4",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/tesserae-engine/0.6.4"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-4abdf7d2",
+    "status": "published",
+    "translationOf": "tesserae-engine-064-release-zh-4abdf7d2",
+    "publishedAt": "2026-11-07T16:25:46.000Z",
+    "fetchedAt": "2026-11-08T21:12:07.044Z",
+    "body": "Version 0.6.4 of the Tesserae engine provides a GPU‑rendered retained‑mode UI toolkit for Python (built in Rust) with nodes, flexbox/grid layout, paint, animation, input, text, and accessibility features powered by Vello.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/tesserae-engine/0.6.4)"
+  },
+  {
+    "title": "Barrier‑Free Natural Classroom! Tour of 4 Experiential Zoos in Japan, from Capybara Hot Springs to Raptor Flights",
+    "slug": "barrierfree-natural-classroom-tour-of-4-experiential-zoos-in-japan-from-capybara-54e0827a",
+    "lang": "en",
+    "summary": "The article highlights Japanese experiential zoos that have removed fences and implemented barrier‑free, open‑habitat designs, enabling visitors—including people with disabilities—to observe animals such as capybaras in hot springs and raptors in flight up close.",
+    "category": "physical-design",
+    "tags": [
+      "barrier-free",
+      "zoo",
+      "animal habitat",
+      "disability access"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1892c5ec-a504-420e-8a86-1bc6781796d1",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1892c5ec-a504-420e-8a86-1bc6781796d1"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-54e0827a",
+    "status": "published",
+    "translationOf": "barrierfree-natural-classroom-tour-of-4-experiential-zoos-in-japan-from-capybara-zh-54e0827a",
+    "publishedAt": "2026-11-05T00:30:00.000Z",
+    "fetchedAt": "2026-11-08T21:12:12.358Z",
+    "body": "The article highlights Japanese experiential zoos that have removed fences and implemented barrier‑free, open‑habitat designs, enabling visitors—including people with disabilities—to observe animals such as capybaras in hot springs and raptors in flight up close.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1892c5ec-a504-420e-8a86-1bc6781796d1)"
   }
 ]
