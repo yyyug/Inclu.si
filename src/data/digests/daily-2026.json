@@ -14621,5 +14621,100 @@
         }
       ]
     }
+  },
+  "2026-11-08": {
+    "generatedAt": "2026-11-08T15:55:03.830Z",
+    "en": {
+      "title": "Global Updates: Somalia Sign Dictionary, Accessibility Taxis Decline",
+      "summary": "Somalia has launched its first sign language dictionary to support inclusive education for the Deaf community. Meanwhile, a new report reveals a concerning decline in wheelchair-accessible taxis in Taipei despite a rapidly growing senior population. Additionally, developers are improving accessibility for AI agents through new tools like Playwright MCP.",
+      "highlights": [
+        {
+          "title": "Somalia Launches First Somali Sign Language Dictionary",
+          "slug": "somalia-launches-first-somali-sign-language-dictionary-c96bb8ea",
+          "url": "https://x.com/moechesomalia/status/2119452255049179345"
+        },
+        {
+          "title": "Taipei sees decline in accessible taxis despite growing senior population",
+          "slug": "taipei-sees-decline-in-accessible-taxis-despite-growing-senior-population-6a566550",
+          "url": "https://www.chinatimes.com/realtimenews/20261108001863-260407"
+        },
+        {
+          "title": "Playwright MCP Accessibility Snapshots",
+          "slug": "playwright-mcp-accessibility-snapshots-ccdb2ad4",
+          "url": "https://x.com/thanhmam/status/2119452499212144738"
+        },
+        {
+          "title": "Governor of Menoufia Responds to Medical Cases and Orders Provision of Assistive Device for Disabled Child",
+          "slug": "governor-of-menoufia-responds-to-medical-cases-and-orders-provision-of-assistive-eadf2fc2",
+          "url": "https://asdmag.org/archives/69939"
+        },
+        {
+          "title": "Alexandria Governor Orders Full Support and Integration for Persons with Disabilities",
+          "slug": "alexandria-governor-orders-full-support-and-integration-for-persons-with-disabil-a90d4286",
+          "url": "https://asdmag.org/archives/69921"
+        },
+        {
+          "title": "In Egypt, disabled artists lead a theater production for the first time",
+          "slug": "in-egypt-disabled-artists-lead-a-theater-production-for-the-first-time-4c350a89",
+          "url": "https://asdmag.org/archives/69918"
+        },
+        {
+          "title": "Accessibility Mod for Stellar Blade",
+          "slug": "accessibility-mod-for-stellar-blade-bcfc9eb9",
+          "url": "https://x.com/VictorAndre87/status/2119172635682804076"
+        },
+        {
+          "title": "Discussion on Stigma and Ableist Language",
+          "slug": "discussion-on-stigma-and-ableist-language-6f53fb35",
+          "url": "https://x.com/N__s2nd/status/2119448937543385144"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "全球無障礙動態：索馬里手語詞典與北市無障礙車衰退",
+      "summary": "索馬里正式推出首部手語詞典，以支持聾人社群的包容性教育。同時，最新報告顯示，台北市的無障礙計程車數量在過去七年間下降超過5%，儘管當地高齡化人口持續增加。此外，開發人員透過 Playwright MCP 等新工具，進一步提升了 AI 代理對無障礙元素的支援。",
+      "highlights": [
+        {
+          "title": "索馬里推出首部索馬里手語詞典",
+          "slug": "somalia-launches-first-somali-sign-language-dictionary-zh-c96bb8ea",
+          "url": "https://x.com/moechesomalia/status/2119452255049179345"
+        },
+        {
+          "title": "北市近60萬長者！無障礙計程車7年少逾5成陳怡潔揭警訊- 政治 - 中時新聞網",
+          "slug": "taipei-sees-decline-in-accessible-taxis-despite-growing-senior-population-zh-6a566550",
+          "url": "https://www.chinatimes.com/realtimenews/20261108001863-260407"
+        },
+        {
+          "title": "Playwright MCP 無障礙快照",
+          "slug": "playwright-mcp-accessibility-snapshots-zh-ccdb2ad4",
+          "url": "https://x.com/thanhmam/status/2119452499212144738"
+        },
+        {
+          "title": "孟菲斯州長回應醫療案例，下令為殘障兒童提供輔助裝置",
+          "slug": "governor-of-menoufia-responds-to-medical-cases-and-orders-provision-of-assistive-zh-eadf2fc2",
+          "url": "https://asdmag.org/archives/69939"
+        },
+        {
+          "title": "亞歷山大 губернатор 指示全力支持並融合身障者",
+          "slug": "alexandria-governor-orders-full-support-and-integration-for-persons-with-disabil-zh-a90d4286",
+          "url": "https://asdmag.org/archives/69921"
+        },
+        {
+          "title": "埃及殘疾藝術家首度領銜劇目演出",
+          "slug": "in-egypt-disabled-artists-lead-a-theater-production-for-the-first-time-zh-4c350a89",
+          "url": "https://asdmag.org/archives/69918"
+        },
+        {
+          "title": "Stellar Blade 無障礙模組",
+          "slug": "accessibility-mod-for-stellar-blade-zh-bcfc9eb9",
+          "url": "https://x.com/VictorAndre87/status/2119172635682804076"
+        },
+        {
+          "title": "關於污名和能力主義語言的討論",
+          "slug": "discussion-on-stigma-and-ableist-language-zh-6f53fb35",
+          "url": "https://x.com/N__s2nd/status/2119448937543385144"
+        }
+      ]
+    }
   }
 }
