@@ -14623,91 +14623,121 @@
     }
   },
   "2026-11-08": {
-    "generatedAt": "2026-11-08T15:55:03.830Z",
+    "generatedAt": "2026-11-08T22:32:07.628Z",
     "en": {
-      "title": "Global Updates: Somalia Sign Dictionary, Accessibility Taxis Decline",
-      "summary": "Somalia has launched its first sign language dictionary to support inclusive education for the Deaf community. Meanwhile, a new report reveals a concerning decline in wheelchair-accessible taxis in Taipei despite a rapidly growing senior population. Additionally, developers are improving accessibility for AI agents through new tools like Playwright MCP.",
+      "title": "UK Opens £10M Leisure Center, 95% of Top Sites Fail WCAG",
+      "summary": "The UK has launched its first dedicated integrated leisure center for disabled children at a cost of £10 million. Meanwhile, a major accessibility study reveals that 95.9% of the top million web home pages still fail WCAG 2 standards.",
       "highlights": [
+        {
+          "title": "UK opens first integrated leisure center for disabled children at £10 million",
+          "slug": "uk-opens-first-integrated-leisure-center-for-disabled-children-at-10-million-92a6b105",
+          "url": "https://twaslnews1.twaslnews.com/7328514"
+        },
+        {
+          "title": "WCAG Failures in Top Million Home Pages",
+          "slug": "wcag-failures-in-top-million-home-pages-c5997a02",
+          "url": "https://x.com/ashnallawalla/status/2119536778436907400"
+        },
+        {
+          "title": "Parliamentary Proposal to Extend Renewal Period for Integrated Services Card for Persons with Disabilities",
+          "slug": "parliamentary-proposal-to-extend-renewal-period-for-integrated-services-card-for-69a7f083",
+          "url": "https://www.parlmany.com/News/4/619865/%D8%AA%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D9%83%D9%84-7-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%A8%D8%AF%D9%84%D9%8B%D8%A7-%D9%85%D9%86-3"
+        },
+        {
+          "title": "Parliamentary Committees Address Disability Rights and Service Facilitation",
+          "slug": "parliamentary-committees-address-disability-rights-and-service-facilitation-609e9546",
+          "url": "https://www.parlmany.com/News/2/619840/%D8%BA%D8%AF%D8%A7-%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%AA%D9%85%D8%B3-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D8%B9%D9%84%D9%89-%D8%B7%D8%A7%D9%88%D9%84%D8%A9-%D9%84%D8%AC%D8%A7%D9%86-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%A7%D9%84%D8%BA%D9%84%D8%A7%D8%A1-%D9%88%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1"
+        },
+        {
+          "title": "Russian Center in Alexandria Concludes 'Mission of Goodness' for Persons with Disabilities in 4 Provinces",
+          "slug": "russian-center-in-alexandria-concludes-mission-of-goodness-for-persons-with-disa-881c43f0",
+          "url": "https://www.almasryalyoum.com/news/details/4404986"
+        },
+        {
+          "title": "Charity Mission Hosts Celebration for Children with Disabilities in Egypt",
+          "slug": "charity-mission-hosts-celebration-for-children-with-disabilities-in-egypt-a603661b",
+          "url": "https://www.youm7.com/story/2026/11/8/%C2%AB%D8%A8%D8%B9%D8%AB%D8%A9-%D8%A7%D9%84%D8%AE%D9%8A%D8%B1%C2%BB-%D8%AA%D8%AE%D8%AA%D8%AA%D9%85-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA%D9%87%D8%A7-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D8%A8%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85/7610831"
+        },
+        {
+          "title": "National Shorqi Council Honors Persons with Disabilities in Homs",
+          "slug": "national-shorqi-council-honors-persons-with-disabilities-in-homs-0593aa94",
+          "url": "https://syriacpress.com/ar/2026/11/08/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82%D9%8A-%D9%8A%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A9"
+        },
+        {
+          "title": "Coquitlam Express Hosts 5th Annual Autism Acceptance Game",
+          "slug": "coquitlam-express-hosts-5th-annual-autism-acceptance-game-72b89339",
+          "url": "https://x.com/BCHLExpress/status/2119538119246745722"
+        },
         {
           "title": "Somalia Launches First Somali Sign Language Dictionary",
           "slug": "somalia-launches-first-somali-sign-language-dictionary-c96bb8ea",
           "url": "https://x.com/moechesomalia/status/2119452255049179345"
         },
         {
-          "title": "Taipei sees decline in accessible taxis despite growing senior population",
-          "slug": "taipei-sees-decline-in-accessible-taxis-despite-growing-senior-population-6a566550",
-          "url": "https://www.chinatimes.com/realtimenews/20261108001863-260407"
+          "title": "Call for Basic Accessibility in Game Controllers",
+          "slug": "call-for-basic-accessibility-in-game-controllers-7fcc81f9",
+          "url": "https://x.com/shiba_seto/status/2119453111228010508"
         },
         {
-          "title": "Playwright MCP Accessibility Snapshots",
-          "slug": "playwright-mcp-accessibility-snapshots-ccdb2ad4",
-          "url": "https://x.com/thanhmam/status/2119452499212144738"
-        },
-        {
-          "title": "Governor of Menoufia Responds to Medical Cases and Orders Provision of Assistive Device for Disabled Child",
-          "slug": "governor-of-menoufia-responds-to-medical-cases-and-orders-provision-of-assistive-eadf2fc2",
-          "url": "https://asdmag.org/archives/69939"
-        },
-        {
-          "title": "Alexandria Governor Orders Full Support and Integration for Persons with Disabilities",
-          "slug": "alexandria-governor-orders-full-support-and-integration-for-persons-with-disabil-a90d4286",
-          "url": "https://asdmag.org/archives/69921"
-        },
-        {
-          "title": "In Egypt, disabled artists lead a theater production for the first time",
-          "slug": "in-egypt-disabled-artists-lead-a-theater-production-for-the-first-time-4c350a89",
-          "url": "https://asdmag.org/archives/69918"
-        },
-        {
-          "title": "Accessibility Mod for Stellar Blade",
-          "slug": "accessibility-mod-for-stellar-blade-bcfc9eb9",
-          "url": "https://x.com/VictorAndre87/status/2119172635682804076"
-        },
-        {
-          "title": "Discussion on Stigma and Ableist Language",
-          "slug": "discussion-on-stigma-and-ableist-language-6f53fb35",
-          "url": "https://x.com/N__s2nd/status/2119448937543385144"
+          "title": "Personal Experience with ADHD and Bipolar Disorder in Writing",
+          "slug": "personal-experience-with-adhd-and-bipolar-disorder-in-writing-ca13ea25",
+          "url": "https://x.com/bbugyossy/status/2119536260343804154"
         }
       ]
     },
     "zh-TW": {
-      "title": "全球無障礙動態：索馬里手語詞典與北市無障礙車衰退",
-      "summary": "索馬里正式推出首部手語詞典，以支持聾人社群的包容性教育。同時，最新報告顯示，台北市的無障礙計程車數量在過去七年間下降超過5%，儘管當地高齡化人口持續增加。此外，開發人員透過 Playwright MCP 等新工具，進一步提升了 AI 代理對無障礙元素的支援。",
+      "title": "英國千萬元兒童休閒中心啟用，百萬網站僅4%符合無障礙標準",
+      "summary": "英國耗資千萬英鎊開設全國首個殘障兒童專屬綜合休閒中心，標誌無障礙設施的重要進步。同時，最新研究指出排名前百萬的網站中95.9%未能通過WCAG 2無障礙標準，揭示數位無障礙仍屬落後。",
       "highlights": [
+        {
+          "title": "英國斥資1000萬英鎊開幕全國首個残障兒童綜合休閒中心",
+          "slug": "uk-opens-first-integrated-leisure-center-for-disabled-children-at-10-million-zh-92a6b105",
+          "url": "https://twaslnews1.twaslnews.com/7328514"
+        },
+        {
+          "title": "排名前一百萬的網站首頁出現 WCAG 失敗",
+          "slug": "wcag-failures-in-top-million-home-pages-zh-c5997a02",
+          "url": "https://x.com/ashnallawalla/status/2119536778436907400"
+        },
+        {
+          "title": "埃及議會提案：將殘障人士綜合服務卡續期時間從3年延長至7年",
+          "slug": "parliamentary-proposal-to-extend-renewal-period-for-integrated-services-card-for-zh-69a7f083",
+          "url": "https://www.parlmany.com/News/4/619865/%D8%AA%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D9%83%D9%84-7-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%A8%D8%AF%D9%84%D9%8B%D8%A7-%D9%85%D9%86-3"
+        },
+        {
+          "title": "埃及亞歷山大俄中「行善使團」活動落幕，惠及4省障礙人士",
+          "slug": "russian-center-in-alexandria-concludes-mission-of-goodness-for-persons-with-disa-zh-881c43f0",
+          "url": "https://www.almasryalyoum.com/news/details/4404986"
+        },
+        {
+          "title": "慈善任務在埃及為殘障兒童舉辦慶祝活動",
+          "slug": "charity-mission-hosts-celebration-for-children-with-disabilities-in-egypt-zh-a603661b",
+          "url": "https://www.youm7.com/story/2026/11/8/%C2%AB%D8%A8%D8%B9%D8%AB%D8%A9-%D8%A7%D9%84%D8%AE%D9%8A%D8%B1%C2%BB-%D8%AA%D8%AE%D8%AA%D8%AA%D9%85-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA%D9%87%D8%A7-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D8%A8%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85/7610831"
+        },
+        {
+          "title": "東部國民委員會在霍姆斯表彰殘障人士",
+          "slug": "national-shorqi-council-honors-persons-with-disabilities-in-homs-zh-0593aa94",
+          "url": "https://syriacpress.com/ar/2026/11/08/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82%D9%8A-%D9%8A%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A9"
+        },
+        {
+          "title": "Coquitlam Express 主辦第五屆自閉症接納賽",
+          "slug": "coquitlam-express-hosts-5th-annual-autism-acceptance-game-zh-72b89339",
+          "url": "https://x.com/BCHLExpress/status/2119538119246745722"
+        },
         {
           "title": "索馬里推出首部索馬里手語詞典",
           "slug": "somalia-launches-first-somali-sign-language-dictionary-zh-c96bb8ea",
           "url": "https://x.com/moechesomalia/status/2119452255049179345"
         },
         {
-          "title": "北市近60萬長者！無障礙計程車7年少逾5成陳怡潔揭警訊- 政治 - 中時新聞網",
-          "slug": "taipei-sees-decline-in-accessible-taxis-despite-growing-senior-population-zh-6a566550",
-          "url": "https://www.chinatimes.com/realtimenews/20261108001863-260407"
+          "title": "呼籲遊戲控制器提供基本無障礙功能",
+          "slug": "call-for-basic-accessibility-in-game-controllers-zh-7fcc81f9",
+          "url": "https://x.com/shiba_seto/status/2119453111228010508"
         },
         {
-          "title": "Playwright MCP 無障礙快照",
-          "slug": "playwright-mcp-accessibility-snapshots-zh-ccdb2ad4",
-          "url": "https://x.com/thanhmam/status/2119452499212144738"
-        },
-        {
-          "title": "孟菲斯州長回應醫療案例，下令為殘障兒童提供輔助裝置",
-          "slug": "governor-of-menoufia-responds-to-medical-cases-and-orders-provision-of-assistive-zh-eadf2fc2",
-          "url": "https://asdmag.org/archives/69939"
-        },
-        {
-          "title": "亞歷山大 губернатор 指示全力支持並融合身障者",
-          "slug": "alexandria-governor-orders-full-support-and-integration-for-persons-with-disabil-zh-a90d4286",
-          "url": "https://asdmag.org/archives/69921"
-        },
-        {
-          "title": "埃及殘疾藝術家首度領銜劇目演出",
-          "slug": "in-egypt-disabled-artists-lead-a-theater-production-for-the-first-time-zh-4c350a89",
-          "url": "https://asdmag.org/archives/69918"
-        },
-        {
-          "title": "Stellar Blade 無障礙模組",
-          "slug": "accessibility-mod-for-stellar-blade-zh-bcfc9eb9",
-          "url": "https://x.com/VictorAndre87/status/2119172635682804076"
+          "title": "川崎巴士鬥爭與無障礙起源",
+          "slug": "the-kawasaki-bus-struggle-and-barrier-free-origins-zh-0bb222cb",
+          "url": "https://x.com/doracatjapanof/status/2119449682351190464"
         },
         {
           "title": "關於污名和能力主義語言的討論",
