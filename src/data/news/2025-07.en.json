@@ -65,5 +65,39 @@
     "publishedAt": "2025-07-04T07:00:00.000Z",
     "fetchedAt": "2026-10-31T21:51:48.328Z",
     "body": "The article reports on new qualified pathways and urban design measures in Medina aimed at creating universally accessible and safe public spaces, with a focus on accommodating people with disabilities.\n\nRead more from the original source: [news.google.com](https://www.sayidaty.net/%D8%A8%D9%84%D8%B3/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/1815230-%D8%AA%D8%AE%D8%B5%D9%8A%D8%B5-%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A2%D9%85%D9%86%D8%A9-%D9%84%D9%84%D9%85%D8%B4%D8%A7%D8%A9-%D8%A8%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D9%88%D8%B1%D8%A9)"
+  },
+  {
+    "title": "Al-Hilal Club Official Website Introduces Comprehensive Accessibility Section",
+    "slug": "al-hilal-club-official-website-introduces-comprehensive-accessibility-section-710e6e2c",
+    "lang": "en",
+    "summary": "The official Al-Hilal Saudi FC website features a 'Comprehensive Accessibility' section, dedicated to ensuring digital and physical access for fans with disabilities.",
+    "category": "digital-a11y",
+    "tags": [
+      "sports",
+      "website-accessibility",
+      "Al-Hilal",
+      "Saudi Arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://alhilal.com/ar/alwswl-alshaml",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://alhilal.com/ar/alwswl-alshaml"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84+%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-710e6e2c",
+    "status": "published",
+    "translationOf": "al-hilal-club-official-website-introduces-comprehensive-accessibility-section-zh-710e6e2c",
+    "publishedAt": "2025-07-15T11:13:13.000Z",
+    "fetchedAt": "2026-11-08T16:48:53.099Z",
+    "body": "The official Al-Hilal Saudi FC website features a 'Comprehensive Accessibility' section, dedicated to ensuring digital and physical access for fans with disabilities.\n\nRead more from the original source: [news.google.com](https://alhilal.com/ar/alwswl-alshaml)"
   }
 ]

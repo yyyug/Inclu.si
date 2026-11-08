@@ -65,5 +65,39 @@
     "publishedAt": "2025-07-04T07:00:00.000Z",
     "fetchedAt": "2026-10-31T21:51:48.328Z",
     "body": "報導介紹麥地那推出的合格路徑與城市設計措施，旨在打造對身心障礙者友善的無障礙與安全公共空間。\n\n原文來源： [news.google.com](https://www.sayidaty.net/%D8%A8%D9%84%D8%B3/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/1815230-%D8%AA%D8%AE%D8%B5%D9%8A%D8%B5-%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A2%D9%85%D9%86%D8%A9-%D9%84%D9%84%D9%85%D8%B4%D8%A7%D8%A9-%D8%A8%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D9%88%D8%B1%D8%A9)"
+  },
+  {
+    "title": "利雅得希爾薩德足球俱樂部官網推出「全面無障礙」專區",
+    "slug": "al-hilal-club-official-website-introduces-comprehensive-accessibility-section-zh-710e6e2c",
+    "lang": "zh-TW",
+    "summary": "利雅得希爾薩德足球俱樂部（Al-Hilal）官方網站設有「全面無障礙」專區，致力於為殘障球迷提供數位及實體環境的無障礙體驗。",
+    "category": "digital-a11y",
+    "tags": [
+      "sports",
+      "website-accessibility",
+      "Al-Hilal",
+      "Saudi Arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://alhilal.com/ar/alwswl-alshaml",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://alhilal.com/ar/alwswl-alshaml"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84+%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-710e6e2c",
+    "status": "published",
+    "translationOf": "al-hilal-club-official-website-introduces-comprehensive-accessibility-section-710e6e2c",
+    "publishedAt": "2025-07-15T11:13:13.000Z",
+    "fetchedAt": "2026-11-08T16:48:53.099Z",
+    "body": "利雅得希爾薩德足球俱樂部（Al-Hilal）官方網站設有「全面無障礙」專區，致力於為殘障球迷提供數位及實體環境的無障礙體驗。\n\n原文來源： [news.google.com](https://alhilal.com/ar/alwswl-alshaml)"
   }
 ]
