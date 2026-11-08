@@ -25711,5 +25711,41 @@
     "publishedAt": "2026-11-05T00:30:00.000Z",
     "fetchedAt": "2026-11-08T21:12:12.358Z",
     "body": "文章介紹日本四座體驗型動物園，採用無障礙開放式棲地設計，移除欄杆，讓殘障遊客也能近距離接觸水豚溫泉、猛禽飛行等動物。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1892c5ec-a504-420e-8a86-1bc6781796d1)"
+  },
+  {
+    "title": "盲文識字、Siri錯誤與Meta的Muse代理：您的回饋",
+    "slug": "braille-literacy-siri-blunders-and-metas-muse-agent-your-feedback-zh-120052c9",
+    "lang": "zh-TW",
+    "summary": "探討盲人閱讀盲文是否構成識別能力，涵蓋聽眾對晚年學習盲文、識字概念的回饋，以及Siri、Gemini和Meta的Muse等AI助理在處理簡單請求時的不足。",
+    "category": "assistive-tech",
+    "tags": [
+      "braille",
+      "blindness",
+      "literacy",
+      "AI assistant",
+      "Siri",
+      "Gemini",
+      "Meta Muse"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/braille-literacy-siri-blunders-and-metas-muse-agent-your-feedback",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/braille-literacy-siri-blunders-and-metas-muse-agent-your-feedback"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-120052c9",
+    "status": "published",
+    "translationOf": "braille-literacy-siri-blunders-and-metas-muse-agent-your-feedback-120052c9",
+    "publishedAt": "2026-11-05T17:00:00.000Z",
+    "fetchedAt": "2026-11-08T21:15:05.013Z",
+    "body": "探討盲人閱讀盲文是否構成識別能力，涵蓋聽眾對晚年學習盲文、識字概念的回饋，以及Siri、Gemini和Meta的Muse等AI助理在處理簡單請求時的不足。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/braille-literacy-siri-blunders-and-metas-muse-agent-your-feedback)"
   }
 ]
