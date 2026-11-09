@@ -14746,5 +14746,120 @@
         }
       ]
     }
+  },
+  "2026-11-09": {
+    "generatedAt": "2026-11-09T19:44:11.064Z",
+    "en": {
+      "title": "Accessibility Gaps, Policy Pushes, and Tech Innovations Shape November 9",
+      "summary": "Today's top stories highlight the gap between built accessibility infrastructure and actual use, as local authorities in China investigate unused elevators. Major industry updates include NV Access releasing the latest NVDA screen reader and a leading veterans' group launching a comprehensive hotel accessibility guide.",
+      "highlights": [
+        {
+          "title": "Tampa Bay’s Accessibility Crisis: Wheelchair Users Face Daily Travel Barriers",
+          "slug": "tampa-bays-accessibility-crisis-wheelchair-users-face-daily-travel-barriers-8b237637",
+          "url": "https://wild941.com/2026/11/09/tampa-bays-accessibility-crisis-wheelchair-users-face-daily-travel-barriers"
+        },
+        {
+          "title": "NVDA 2026.3.1 Released",
+          "slug": "nvda-202631-released-a580585c",
+          "url": "https://www.nvaccess.org/post/nvda-2026-3-1"
+        },
+        {
+          "title": "Paralyzed Veterans of America Launches Hotel Accessibility Guide for Guests with Mobility Disabilities",
+          "slug": "paralyzed-veterans-of-america-launches-hotel-accessibility-guide-for-guests-with-984dfcbb",
+          "url": "https://www.morningstar.com/news/pr-newswire/20261109ph92615/paralyzed-veterans-of-america-hits-the-road-with-first-of-two-part-hotel-accessibility-guide-series-to-help-hospitality-industry-better-serve-guests-with-mobility-disabilities"
+        },
+        {
+          "title": "Portland Stage introduces open captions to make theater more accessible",
+          "slug": "portland-stage-introduces-open-captions-to-make-theater-more-accessible-201a4059",
+          "url": "https://www.pressherald.com/2026/11/09/portland-stage-introduces-open-captions-to-make-theater-more-accessible"
+        },
+        {
+          "title": "US Voting Machine Accessibility Distribution",
+          "slug": "us-voting-machine-accessibility-distribution-94857b32",
+          "url": "https://x.com/PootDibou/status/2119868792880689660"
+        },
+        {
+          "title": "Pope Leo XIV Advocates for Disability Inclusion",
+          "slug": "pope-leo-xiv-advocates-for-disability-inclusion-0fcd53fe",
+          "url": "https://x.com/GujaratiPulse/status/2119868892466270222"
+        },
+        {
+          "title": "CAIS Product Engineer Jemima Abu Integrates Accessibility into AI Agent Prompts, Reducing Code Generation Cost by 58%",
+          "slug": "cais-product-engineer-jemima-abu-integrates-accessibility-into-ai-agent-prompts--c4cbdc87",
+          "url": "https://finance.biggo.com.tw/news/668545a3f7146015"
+        },
+        {
+          "title": "Barrier-free elevator built but unused; local authorities verify after state media callout",
+          "slug": "barrier-free-elevator-built-but-unused-local-authorities-verify-after-state-medi-c5aeead8",
+          "url": "https://hk.on.cc/hk/bkn/cnt/news/20261109/bkn-20261109190300629-1109_00822_001.html"
+        },
+        {
+          "title": "How to Make Live Training More Accessible",
+          "slug": "how-to-make-live-training-more-accessible-dced3be5",
+          "url": "https://theaccessibilityguy.com/how-to-make-a-live-training-more-accessible"
+        },
+        {
+          "title": "Libsyn.com: A Case Study in How Accessibility Requests Get Politely Buried",
+          "slug": "libsyncom-a-case-study-in-how-accessibility-requests-get-politely-buried-eeeafe13",
+          "url": "https://accessinformationnews.com/libsyn-accessibility-requests-politely-buried"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "無障礙落差、政策推動與科技創新主導 11 月 9 日",
+      "summary": "今日焦點探討已建無障礙設施與實際使用之間的落差，中國地方當局調查未啟用的電梯。業界重大更新包括 NV Access 發布最新 NVDA 螢幕閱讀器，以及退伍軍人協會推出綜合酒店無障礙指南。",
+      "highlights": [
+        {
+          "title": "坦帕灣無障礙危機：輪椅使用者面臨每日出行障礙",
+          "slug": "tampa-bays-accessibility-crisis-wheelchair-users-face-daily-travel-barriers-zh-8b237637",
+          "url": "https://wild941.com/2026/11/09/tampa-bays-accessibility-crisis-wheelchair-users-face-daily-travel-barriers"
+        },
+        {
+          "title": "NVDA 2026.3.1 發布",
+          "slug": "nvda-202631-released-zh-a580585c",
+          "url": "https://www.nvaccess.org/post/nvda-2026-3-1"
+        },
+        {
+          "title": "美國癱瘓退伍軍人協會推出行動不便賓客酒店無障礙指南",
+          "slug": "paralyzed-veterans-of-america-launches-hotel-accessibility-guide-for-guests-with-zh-984dfcbb",
+          "url": "https://www.morningstar.com/news/pr-newswire/20261109ph92615/paralyzed-veterans-of-america-hits-the-road-with-first-of-two-part-hotel-accessibility-guide-series-to-help-hospitality-industry-better-serve-guests-with-mobility-disabilities"
+        },
+        {
+          "title": "Portland Stage 引入開放式字幕，讓劇場更具無障礙性",
+          "slug": "portland-stage-introduces-open-captions-to-make-theater-more-accessible-zh-201a4059",
+          "url": "https://www.pressherald.com/2026/11/09/portland-stage-introduces-open-captions-to-make-theater-more-accessible"
+        },
+        {
+          "title": "美國投票機可及性分布",
+          "slug": "us-voting-machine-accessibility-distribution-zh-94857b32",
+          "url": "https://x.com/PootDibou/status/2119868792880689660"
+        },
+        {
+          "title": "教宗利奧十四世倡導殘障人士包容",
+          "slug": "pope-leo-xiv-advocates-for-disability-inclusion-zh-0fcd53fe",
+          "url": "https://x.com/GujaratiPulse/status/2119868892466270222"
+        },
+        {
+          "title": "CAIS產品工程師Jemima Abu將無障礙寫入AI代理提示詞，程式碼生成成本下降58%",
+          "slug": "cais-product-engineer-jemima-abu-integrates-accessibility-into-ai-agent-prompts--zh-c4cbdc87",
+          "url": "https://finance.biggo.com.tw/news/668545a3f7146015"
+        },
+        {
+          "title": "無障礙升降機建而不用 官媒點名後地方核查",
+          "slug": "barrier-free-elevator-built-but-unused-local-authorities-verify-after-state-medi-zh-c5aeead8",
+          "url": "https://hk.on.cc/hk/bkn/cnt/news/20261109/bkn-20261109190300629-1109_00822_001.html"
+        },
+        {
+          "title": "如何讓現場培訓更無障礙",
+          "slug": "how-to-make-live-training-more-accessible-zh-dced3be5",
+          "url": "https://theaccessibilityguy.com/how-to-make-a-live-training-more-accessible"
+        },
+        {
+          "title": "Libsyn.com：無障礙請求如何被客氣地掩蓋的案例研究",
+          "slug": "libsyncom-a-case-study-in-how-accessibility-requests-get-politely-buried-zh-eeeafe13",
+          "url": "https://accessinformationnews.com/libsyn-accessibility-requests-politely-buried"
+        }
+      ]
+    }
   }
 }
