@@ -9115,5 +9115,524 @@
         }
       ]
     }
+  },
+  "2026-W45": {
+    "range": {
+      "start": "2026-11-02",
+      "end": "2026-11-08"
+    },
+    "generatedAt": "2026-11-09T18:51:28.316Z",
+    "en": {
+      "title": "Global Policy Advances Contrast With Widespread Web Accessibility Failures in Weekly Recap",
+      "summary": "A new UK leisure center for disabled children highlighted institutional progress, though a major study revealed that nearly 96% of top websites still fail WCAG 2 standards. This week also saw significant legal victories in Egypt and India alongside sweeping education mandates for inclusive schooling. Meanwhile, new national strategies in Lebanon and Saudi Arabia marked a broader push toward digital and physical inclusion.",
+      "highlights": [
+        {
+          "title": "Cass County redesigns website to allow for better accessibility",
+          "slug": "cass-county-redesigns-website-to-allow-for-better-accessibility-42f78f74",
+          "url": "https://www.wsjm.com/2026/11/07/cass-county-redesigns-website-to-allow-for-better-accessibility"
+        },
+        {
+          "title": "Disability Rights Wisconsin reminds voters of polling place accessibility options for Tuesday's election",
+          "slug": "disability-rights-wisconsin-reminds-voters-of-polling-place-accessibility-option-d0fd13d7",
+          "url": "https://www.wkow.com/news/disability-rights-wisconsin-reminds-voters-of-polling-place-accessibility-options-for-tuesdays-election/article_dc221853-717c-4b41-b1e6-4022128cd852.html"
+        },
+        {
+          "title": "Launch of National Strategy to Entrench Rights and Integration of Persons with Disabilities",
+          "slug": "launch-of-national-strategy-to-entrench-rights-and-integration-of-persons-with-d-6f767d5a",
+          "url": "https://www.mtv.com.lb/news/1754760"
+        },
+        {
+          "title": "Ministry of Education Bans Refusal of Students with Disabilities and Proposes Full Inclusion in Schools",
+          "slug": "ministry-of-education-bans-refusal-of-students-with-disabilities-and-proposes-fu-df7c4608",
+          "url": "https://www.alyaum.com/articles/6689934/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%83%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85/%D8%B9%D8%A7%D8%AC%D9%84-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%AA%D8%AD%D8%B8%D8%B1-%D8%B1%D9%81%D8%B6-%D9%82%D8%A8%D9%88%D9%84-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%AA%D8%B7%D8%B1%D8%AD-%D8%A7%D9%84%D8%AF%D9%85%D8%AC-%D8%A7%D9%84%D9%83%D9%84%D9%8A-%D8%A8%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D8%B1%D8%B3"
+        },
+        {
+          "title": "Ministry of Labor Explores Enhancing Employment of Persons with Disabilities",
+          "slug": "ministry-of-labor-explores-enhancing-employment-of-persons-with-disabilities-fe080967",
+          "url": "https://www.ammonnews.net/article/1042315"
+        },
+        {
+          "title": "Saudi Ministry of Education Launches Voucher Program for Students with Disabilities",
+          "slug": "saudi-ministry-of-education-launches-voucher-program-for-students-with-disabilit-65a72495",
+          "url": "https://asdmag.org/archives/69850"
+        },
+        {
+          "title": "UK opens first integrated leisure center for disabled children at £10 million",
+          "slug": "uk-opens-first-integrated-leisure-center-for-disabled-children-at-10-million-92a6b105",
+          "url": "https://twaslnews1.twaslnews.com/7328514"
+        },
+        {
+          "title": "Are Lexington's boards and commissions accessible enough? Council group wants to make changes",
+          "slug": "are-lexingtons-boards-and-commissions-accessible-enough-council-group-wants-to-m-3520bd4f",
+          "url": "https://news.civiclex.org/are-lexingtons-boards-and-commissions-accessible-enough-council-group-wants-to-make-changes"
+        },
+        {
+          "title": "Kuwait's Disability Authority collaborates with Interior Ministry to streamline services for people with disabilities",
+          "slug": "kuwaits-disability-authority-collaborates-with-interior-ministry-to-streamline-s-10ac541f",
+          "url": "http://alwatan.kuwait.tt/articledetails.aspx?id=836445&yearquarter=20264"
+        },
+        {
+          "title": "Massachusetts station's $39M accessibility upgrade now set to start after its old finish date",
+          "slug": "massachusetts-stations-39m-accessibility-upgrade-now-set-to-start-after-its-old--6039af57",
+          "url": "https://www.yahoo.com/news/us/articles/massachusetts-stations-39m-accessibility-upgrade-060100818.html"
+        },
+        {
+          "title": "NV Access releases NVDA 2026.3.1 release candidate to fix security flaws",
+          "slug": "nv-access-releases-nvda-202631-release-candidate-to-fix-security-flaws-cdff8850",
+          "url": "https://doubletaponair.com/nv-access-puts-out-nvda-2026-3-1-release-candidate-to-fix-security-flaws"
+        },
+        {
+          "title": "Senate Gains a New Accessibility Advocate",
+          "slug": "senate-gains-a-new-accessibility-advocate-f405b1ab",
+          "url": "https://enotrans.org/article/senate-gains-a-new-accessibility-advocate"
+        },
+        {
+          "title": "UNDP presents guide to improve accessibility of official information in Ukraine",
+          "slug": "undp-presents-guide-to-improve-accessibility-of-official-information-in-ukraine-a2a9ef83",
+          "url": "https://dig.watch/updates/undp-guide-accessibility-information-ukraine"
+        },
+        {
+          "title": "WCAG Failures in Top Million Home Pages",
+          "slug": "wcag-failures-in-top-million-home-pages-c5997a02",
+          "url": "https://x.com/ashnallawalla/status/2119536778436907400"
+        },
+        {
+          "title": "Amazon’s New Echo Devices, Siri Recap and Accessible WhatsApp Risks",
+          "slug": "amazons-new-echo-devices-siri-recap-and-accessible-whatsapp-risks-66b8acb9",
+          "url": "https://doubletaponair.com/amazons-new-echo-devices-siri-recap-and-accessible-whatsapp-risks-2"
+        },
+        {
+          "title": "Egypt: Customized Assessment Books for Inclusive Students Aim to Ensure Fair Educational Opportunities",
+          "slug": "egypt-customized-assessment-books-for-inclusive-students-aim-to-ensure-fair-educ-9a690848",
+          "url": "https://asdmag.org/archives/69805"
+        },
+        {
+          "title": "Gaza Disability Committee Meets to Enhance Institutional Coordination and Services",
+          "slug": "gaza-disability-committee-meets-to-enhance-institutional-coordination-and-servic-e4350318",
+          "url": "https://asdmag.org/archives/69838"
+        },
+        {
+          "title": "In-Process Update: NVDA Release Announced for 2nd November 2026",
+          "slug": "in-process-update-nvda-release-announced-for-2nd-november-2026-d1134d5f",
+          "url": "https://www.nvaccess.org/post/in-process-2nd-november-2026"
+        },
+        {
+          "title": "‘Life-changing’: parents welcome £10m UK play centre for disabled children",
+          "slug": "life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children-d165bac6",
+          "url": "https://www.theguardian.com/world/2026/nov/07/life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children"
+        },
+        {
+          "title": "Parliamentary Proposal to Extend Renewal Period for Integrated Services Card for Persons with Disabilities",
+          "slug": "parliamentary-proposal-to-extend-renewal-period-for-integrated-services-card-for-69a7f083",
+          "url": "https://www.parlmany.com/News/4/619865/%D8%AA%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D9%83%D9%84-7-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%A8%D8%AF%D9%84%D9%8B%D8%A7-%D9%85%D9%86-3"
+        },
+        {
+          "title": "Workshop in Casablanca highlights conditions of women and girls with disabilities and ways to strengthen their rights",
+          "slug": "workshop-in-casablanca-highlights-conditions-of-women-and-girls-with-disabilitie-8cd49495",
+          "url": "https://anfaspress.com/news/voir/181710-2026-11-06-05-38-50"
+        },
+        {
+          "title": "Appellate Court Orders Disability Authority to Register Citizen as Permanently Visually Impaired",
+          "slug": "appellate-court-orders-disability-authority-to-register-citizen-as-permanently-v-835cea0d",
+          "url": "https://alseyassah.com/article/475014/%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D8%AA%D9%84%D8%B2%D9%85-%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%A5%D8%AF%D8%B1%D8%A7%D8%AC-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D8%A9-%D8%B6%D9%85%D9%86-%D9%81%D8%A6%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%A6%D9%85%D8%A9"
+        },
+        {
+          "title": "Celebrating Tom Harkin's ADA Legacy",
+          "slug": "celebrating-tom-harkins-ada-legacy-da204b91",
+          "url": "https://x.com/geriwithetc/status/2118112327736184975"
+        },
+        {
+          "title": "Egypt | Sohag Governor Oversees Implementation of 'Disability-Friendly Hospital': Training 80 Medical Staff in Sign Language",
+          "slug": "egypt-sohag-governor-oversees-implementation-of-disability-friendly-hospital-tra-6a58ade2",
+          "url": "https://asdmag.org/archives/69790"
+        },
+        {
+          "title": "Parliamentary Committees Address Disability Rights and Service Facilitation",
+          "slug": "parliamentary-committees-address-disability-rights-and-service-facilitation-609e9546",
+          "url": "https://www.parlmany.com/News/2/619840/%D8%BA%D8%AF%D8%A7-%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%AA%D9%85%D8%B3-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D8%B9%D9%84%D9%89-%D8%B7%D8%A7%D9%88%D9%84%D8%A9-%D9%84%D8%AC%D8%A7%D9%86-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%A7%D9%84%D8%BA%D9%84%D8%A7%D8%A1-%D9%88%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1"
+        },
+        {
+          "title": "Rights awaiting implementation to empower people with disabilities in Iraq",
+          "slug": "rights-awaiting-implementation-to-empower-people-with-disabilities-in-iraq-50e396cd",
+          "url": "https://asdmag.org/archives/69841"
+        },
+        {
+          "title": "Ticketmaster, NHL Expand OneCourt Accessibility Technology to Four Teams and Major Events",
+          "slug": "ticketmaster-nhl-expand-onecourt-accessibility-technology-to-four-teams-and-majo-30e8881c",
+          "url": "https://www.ticketnews.com/2026/11/ticketmaster-nhl-onecourt-accessibility-expansion"
+        },
+        {
+          "title": "Why Google DeepMind Chose Aira: Troy Otillio on Project Astra",
+          "slug": "why-google-deepmind-chose-aira-troy-otillio-on-project-astra-7250809e",
+          "url": "https://aira.io/why-google-deepmind-chose-aira-troy-otillio-on-project-astra"
+        },
+        {
+          "title": "Advocacy for Adult-Sized Changing Tables in South Texas",
+          "slug": "advocacy-for-adult-sized-changing-tables-in-south-texas-a79a26f8",
+          "url": "https://x.com/710KURV/status/2117327206959505888"
+        },
+        {
+          "title": "Georgetown and Smithsonian Launch Disability History Internship",
+          "slug": "georgetown-and-smithsonian-launch-disability-history-internship-f66bcf0a",
+          "url": "https://x.com/BlindNewWorld/status/2117680390794358894"
+        },
+        {
+          "title": "Inclusive Education Support from Learning Catalyst Africa",
+          "slug": "inclusive-education-support-from-learning-catalyst-africa-e2d882fe",
+          "url": "https://x.com/learningcataly/status/2118109577015427226"
+        },
+        {
+          "title": "Institutional Failure to Shelter Woman with Disability Suspected of Sexual Assault in Al-Hoceima",
+          "slug": "institutional-failure-to-shelter-woman-with-disability-suspected-of-sexual-assau-1d772413",
+          "url": "https://www.hibazoom.com/article-217905"
+        },
+        {
+          "title": "macOS Frustrations, the TurnOver Screen Reader and Offline GPS for Blind Users",
+          "slug": "macos-frustrations-the-turnover-screen-reader-and-offline-gps-for-blind-users-3dded4ef",
+          "url": "https://doubletaponair.com/macos-frustrations-the-turnover-screen-reader-and-offline-gps-for-blind-users-2"
+        },
+        {
+          "title": "Rep. Martin continues commitment to accessibility with November office hours - Michigan House Republicans",
+          "slug": "rep-martin-continues-commitment-to-accessibility-with-november-office-hours-mich-365a4e16",
+          "url": "https://gophouse.org/posts/rep-martin-continues-commitment-to-accessibility-with-november-office-hours"
+        },
+        {
+          "title": "Russian Center in Alexandria Concludes 'Mission of Goodness' for Persons with Disabilities in 4 Provinces",
+          "slug": "russian-center-in-alexandria-concludes-mission-of-goodness-for-persons-with-disa-881c43f0",
+          "url": "https://www.almasryalyoum.com/news/details/4404986"
+        },
+        {
+          "title": "Accessibility Advocacy Group Implements Inclusion Initiatives at University of North Georgia",
+          "slug": "accessibility-advocacy-group-implements-inclusion-initiatives-at-university-of-n-92d3b926",
+          "url": "https://ungvanguard.org/47266/life/accessibility-advocacy-group-puts-inclusion-into-action-at-ung"
+        },
+        {
+          "title": "Arrest in Cold-Case Assault of Disabled Teen",
+          "slug": "arrest-in-cold-case-assault-of-disabled-teen-8201c61b",
+          "url": "https://x.com/UCBInfo/status/2119091069560443036"
+        },
+        {
+          "title": "Charity Mission Hosts Celebration for Children with Disabilities in Egypt",
+          "slug": "charity-mission-hosts-celebration-for-children-with-disabilities-in-egypt-a603661b",
+          "url": "https://www.youm7.com/story/2026/11/8/%C2%AB%D8%A8%D8%B9%D8%AB%D8%A9-%D8%A7%D9%84%D8%AE%D9%8A%D8%B1%C2%BB-%D8%AA%D8%AE%D8%AA%D8%AA%D9%85-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA%D9%87%D8%A7-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D8%A8%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85/7610831"
+        },
+        {
+          "title": "Europe Accessiway Acquires Subly Accessibility Platform",
+          "slug": "europe-accessiway-acquires-subly-accessibility-platform-74b268e3",
+          "url": "https://www.postregister.com/news/world/europe-accessiway-acquires-subly-accessibility-platform/image_24d9f50b-5e0c-5708-978f-78d64fb5ecf8.html"
+        },
+        {
+          "title": "Outreach, education are key to voting accessibility, Wisconsin advocates say - PBS Wisconsin",
+          "slug": "outreach-education-are-key-to-voting-accessibility-wisconsin-advocates-say-pbs-w-9d739138",
+          "url": "https://pbswisconsin.org/news-item/outreach-education-are-key-to-voting-accessibility-wisconsin-advocates-say"
+        },
+        {
+          "title": "Saudi Arabia Launches Seven Digital Features for People with Disabilities and Elderly Tourists",
+          "slug": "saudi-arabia-launches-seven-digital-features-for-people-with-disabilities-and-el-200adc85",
+          "url": "https://asdmag.org/archives/69780"
+        },
+        {
+          "title": "Vercel Labs Releases Agent-Desktop Tool",
+          "slug": "vercel-labs-releases-agent-desktop-tool-ad52d790",
+          "url": "https://x.com/E1ev3n1/status/2118737816238891187"
+        },
+        {
+          "title": "Accessibility improvements coming to Liberty Park in Boise",
+          "slug": "accessibility-improvements-coming-to-liberty-park-in-boise-49c206f3",
+          "url": "https://idahonews.com/news/local/accessibility-improvements-coming-to-liberty-park-in-boise"
+        },
+        {
+          "title": "Black Friday deals are everywhere. Accessible shopping websites? Not so much.",
+          "slug": "black-friday-deals-are-everywhere-accessible-shopping-websites-not-so-much-b79201c3",
+          "url": "https://krdo.com/stacker-technology/2026/11/03/black-friday-deals-are-everywhere-accessible-shopping-websites-not-so-much"
+        },
+        {
+          "title": "Church in Wales opens consultation on disability accessibility",
+          "slug": "church-in-wales-opens-consultation-on-disability-accessibility-f4a38af3",
+          "url": "https://premierchristian.news/en/news/article/church-in-wales-opens-consultation-on-accessibility-for-disabled-people"
+        },
+        {
+          "title": "Frederick County Schools Considers Separate School for Students with Disabilities",
+          "slug": "frederick-county-schools-considers-separate-school-for-students-with-disabilitie-625e154e",
+          "url": "https://x.com/MDBayNews/status/2118738559599276513"
+        },
+        {
+          "title": "iPhone Duo Just Got A New Accessibility Feature In iOS 27.3 Beta",
+          "slug": "iphone-duo-just-got-a-new-accessibility-feature-in-ios-273-beta-91d26a57",
+          "url": "https://www.engadget.com/2308154/iphone-duo-new-accessibility-feature-ios-27-3-beta-reachability"
+        },
+        {
+          "title": "National Shorqi Council Honors Persons with Disabilities in Homs",
+          "slug": "national-shorqi-council-honors-persons-with-disabilities-in-homs-0593aa94",
+          "url": "https://syriacpress.com/ar/2026/11/08/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82%D9%8A-%D9%8A%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A9"
+        },
+        {
+          "title": "Vercel Agent Desktop Uses Accessibility APIs",
+          "slug": "vercel-agent-desktop-uses-accessibility-apis-da7da3df",
+          "url": "https://x.com/RavinderSync/status/2119083419300995199"
+        },
+        {
+          "title": "ADA-Accessible EV Charging Station in Albany",
+          "slug": "ada-accessible-ev-charging-station-in-albany-84c44c19",
+          "url": "https://x.com/AbbottEnergy/status/2119083355337523528"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "全球無障礙政策進展與網站合規困境並存，本週重點回顧",
+      "summary": "英國新啟用專屬兒童休閒中心展現制度進步，但最新研究顯示前百萬大網站中近96%仍未通過WCAG 2標準。本週埃及與印度出現重大司法判決，且多国推動教育融合與國家戰略。同時，黎巴嫩與沙烏地阿拉伯發布新政策，展現數位與實體無障礙的廣泛推動。",
+      "highlights": [
+        {
+          "title": "卡斯縣重新設計網站以提供更好的無障礙瀏覽",
+          "slug": "cass-county-redesigns-website-to-allow-for-better-accessibility-zh-42f78f74",
+          "url": "https://www.wsjm.com/2026/11/07/cass-county-redesigns-website-to-allow-for-better-accessibility"
+        },
+        {
+          "title": "威斯康辛殘疾權益提醒選民週二選舉的投票站無障礙選項",
+          "slug": "disability-rights-wisconsin-reminds-voters-of-polling-place-accessibility-option-zh-d0fd13d7",
+          "url": "https://www.wkow.com/news/disability-rights-wisconsin-reminds-voters-of-polling-place-accessibility-options-for-tuesdays-election/article_dc221853-717c-4b41-b1e6-4022128cd852.html"
+        },
+        {
+          "title": "啟動國家戰略以鞏固殘障人士權利與融合",
+          "slug": "launch-of-national-strategy-to-entrench-rights-and-integration-of-persons-with-d-zh-6f767d5a",
+          "url": "https://www.mtv.com.lb/news/1754760"
+        },
+        {
+          "title": "教育部禁止拒絕接收身心障礙人士並提出學校全面融合方案",
+          "slug": "ministry-of-education-bans-refusal-of-students-with-disabilities-and-proposes-fu-zh-df7c4608",
+          "url": "https://www.alyaum.com/articles/6689934/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%83%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85/%D8%B9%D8%A7%D8%AC%D9%84-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%AA%D8%AD%D8%B8%D8%B1-%D8%B1%D9%81%D8%B6-%D9%82%D8%A8%D9%88%D9%84-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%AA%D8%B7%D8%B1%D8%AD-%D8%A7%D9%84%D8%AF%D9%85%D8%AC-%D8%A7%D9%84%D9%83%D9%84%D9%8A-%D8%A8%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D8%B1%D8%B3"
+        },
+        {
+          "title": "勞工部探討強化殘障人士就業措施",
+          "slug": "ministry-of-labor-explores-enhancing-employment-of-persons-with-disabilities-zh-fe080967",
+          "url": "https://www.ammonnews.net/article/1042315"
+        },
+        {
+          "title": "沙特教育部启动针对残障学生之教育券计划",
+          "slug": "saudi-ministry-of-education-launches-voucher-program-for-students-with-disabilit-zh-65a72495",
+          "url": "https://asdmag.org/archives/69850"
+        },
+        {
+          "title": "英國斥資1000萬英鎊開幕全國首個残障兒童綜合休閒中心",
+          "slug": "uk-opens-first-integrated-leisure-center-for-disabled-children-at-10-million-zh-92a6b105",
+          "url": "https://twaslnews1.twaslnews.com/7328514"
+        },
+        {
+          "title": "列克星敦的議會和委員會是否足夠無障礙？議會小組希望作出改變",
+          "slug": "are-lexingtons-boards-and-commissions-accessible-enough-council-group-wants-to-m-zh-3520bd4f",
+          "url": "https://news.civiclex.org/are-lexingtons-boards-and-commissions-accessible-enough-council-group-wants-to-make-changes"
+        },
+        {
+          "title": "科威特殘疾局與內政部合作，為殘障人士簡化行政服務",
+          "slug": "kuwaits-disability-authority-collaborates-with-interior-ministry-to-streamline-s-zh-10ac541f",
+          "url": "http://alwatan.kuwait.tt/articledetails.aspx?id=836445&yearquarter=20264"
+        },
+        {
+          "title": "麻薩諸塞州車站3900萬美元無障礙升級將在原定完工日期後啟動",
+          "slug": "massachusetts-stations-39m-accessibility-upgrade-now-set-to-start-after-its-old--zh-6039af57",
+          "url": "https://www.yahoo.com/news/us/articles/massachusetts-stations-39m-accessibility-upgrade-060100818.html"
+        },
+        {
+          "title": "NV Access 發布 NVDA 2026.3.1 候選版本以修復安全漏洞",
+          "slug": "nv-access-releases-nvda-202631-release-candidate-to-fix-security-flaws-zh-cdff8850",
+          "url": "https://doubletaponair.com/nv-access-puts-out-nvda-2026-3-1-release-candidate-to-fix-security-flaws"
+        },
+        {
+          "title": "參議院新增無障礙倡導者",
+          "slug": "senate-gains-a-new-accessibility-advocate-zh-f405b1ab",
+          "url": "https://enotrans.org/article/senate-gains-a-new-accessibility-advocate"
+        },
+        {
+          "title": "聯合國開發計畫署發布改善烏克蘭官方資訊無障礙指南",
+          "slug": "undp-presents-guide-to-improve-accessibility-of-official-information-in-ukraine-zh-a2a9ef83",
+          "url": "https://dig.watch/updates/undp-guide-accessibility-information-ukraine"
+        },
+        {
+          "title": "排名前一百萬的網站首頁出現 WCAG 失敗",
+          "slug": "wcag-failures-in-top-million-home-pages-zh-c5997a02",
+          "url": "https://x.com/ashnallawalla/status/2119536778436907400"
+        },
+        {
+          "title": "Amazon 新 Echo 裝置、Siri 回顧與無障礙 WhatsApp 風險",
+          "slug": "amazons-new-echo-devices-siri-recap-and-accessible-whatsapp-risks-zh-66b8acb9",
+          "url": "https://doubletaponair.com/amazons-new-echo-devices-siri-recap-and-accessible-whatsapp-risks-2"
+        },
+        {
+          "title": "埃及：為融合教育學生編制專屬評測書籍，以確保教育機會均等",
+          "slug": "egypt-customized-assessment-books-for-inclusive-students-aim-to-ensure-fair-educ-zh-9a690848",
+          "url": "https://asdmag.org/archives/69805"
+        },
+        {
+          "title": "加薩殘障委員會召開會議，強化機構協同與服務",
+          "slug": "gaza-disability-committee-meets-to-enhance-institutional-coordination-and-servic-zh-e4350318",
+          "url": "https://asdmag.org/archives/69838"
+        },
+        {
+          "title": "進行中更新：NVDA 於 2026 年 11 月 2 日發布公告",
+          "slug": "in-process-update-nvda-release-announced-for-2nd-november-2026-zh-d1134d5f",
+          "url": "https://www.nvaccess.org/post/in-process-2nd-november-2026"
+        },
+        {
+          "title": "「改變生活」：父母歡迎英國1000萬鎊殘障兒童遊樂中心",
+          "slug": "life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children-zh-d165bac6",
+          "url": "https://www.theguardian.com/world/2026/nov/07/life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children"
+        },
+        {
+          "title": "埃及議會提案：將殘障人士綜合服務卡續期時間從3年延長至7年",
+          "slug": "parliamentary-proposal-to-extend-renewal-period-for-integrated-services-card-for-zh-69a7f083",
+          "url": "https://www.parlmany.com/News/4/619865/%D8%AA%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D9%83%D9%84-7-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%A8%D8%AF%D9%84%D9%8B%D8%A7-%D9%85%D9%86-3"
+        },
+        {
+          "title": "卡萨布兰卡研讨会聚焦残障女性和女童的状况及权利增强途径",
+          "slug": "workshop-in-casablanca-highlights-conditions-of-women-and-girls-with-disabilitie-zh-8cd49495",
+          "url": "https://anfaspress.com/news/voir/181710-2026-11-06-05-38-50"
+        },
+        {
+          "title": "上訴法院命令残障機構將一名公民歸入永久性視覺障礙類別",
+          "slug": "appellate-court-orders-disability-authority-to-register-citizen-as-permanently-v-zh-835cea0d",
+          "url": "https://alseyassah.com/article/475014/%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D8%AA%D9%84%D8%B2%D9%85-%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%A5%D8%AF%D8%B1%D8%A7%D8%AC-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D8%A9-%D8%B6%D9%85%D9%86-%D9%81%D8%A6%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%A6%D9%85%D8%A9"
+        },
+        {
+          "title": "慶祝湯姆·哈金的ADA遺產",
+          "slug": "celebrating-tom-harkins-ada-legacy-zh-da204b91",
+          "url": "https://x.com/geriwithetc/status/2118112327736184975"
+        },
+        {
+          "title": "埃及｜蘇哈格省長監督「友善殘障醫院」計畫：培訓80名醫護人員手語",
+          "slug": "egypt-sohag-governor-oversees-implementation-of-disability-friendly-hospital-tra-zh-6a58ade2",
+          "url": "https://asdmag.org/archives/69790"
+        },
+        {
+          "title": "伊拉克殘疾人權益：等待落實以賦能",
+          "slug": "rights-awaiting-implementation-to-empower-people-with-disabilities-in-iraq-zh-50e396cd",
+          "url": "https://asdmag.org/archives/69841"
+        },
+        {
+          "title": "埃及亞歷山大俄中「行善使團」活動落幕，惠及4省障礙人士",
+          "slug": "russian-center-in-alexandria-concludes-mission-of-goodness-for-persons-with-disa-zh-881c43f0",
+          "url": "https://www.almasryalyoum.com/news/details/4404986"
+        },
+        {
+          "title": "Ticketmaster 與 NHL 將 OneCourt 無障礙技術擴展至四支球隊及重大賽事",
+          "slug": "ticketmaster-nhl-expand-onecourt-accessibility-technology-to-four-teams-and-majo-zh-30e8881c",
+          "url": "https://www.ticketnews.com/2026/11/ticketmaster-nhl-onecourt-accessibility-expansion"
+        },
+        {
+          "title": "為何Google DeepMind選擇了Aira：Troy Otillio談Project Astra",
+          "slug": "why-google-deepmind-chose-aira-troy-otillio-on-project-astra-zh-7250809e",
+          "url": "https://aira.io/why-google-deepmind-chose-aira-troy-otillio-on-project-astra"
+        },
+        {
+          "title": "南德州成人尺寸換衣台倡議",
+          "slug": "advocacy-for-adult-sized-changing-tables-in-south-texas-zh-a79a26f8",
+          "url": "https://x.com/710KURV/status/2117327206959505888"
+        },
+        {
+          "title": "慈善任務在埃及為殘障兒童舉辦慶祝活動",
+          "slug": "charity-mission-hosts-celebration-for-children-with-disabilities-in-egypt-zh-a603661b",
+          "url": "https://www.youm7.com/story/2026/11/8/%C2%AB%D8%A8%D8%B9%D8%AB%D8%A9-%D8%A7%D9%84%D8%AE%D9%8A%D8%B1%C2%BB-%D8%AA%D8%AE%D8%AA%D8%AA%D9%85-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA%D9%87%D8%A7-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D8%A8%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85/7610831"
+        },
+        {
+          "title": "喬治敦大學與史密森尼啟動殘疾歷史實習計畫",
+          "slug": "georgetown-and-smithsonian-launch-disability-history-internship-zh-f66bcf0a",
+          "url": "https://x.com/BlindNewWorld/status/2117680390794358894"
+        },
+        {
+          "title": "非洲學習催化劑提供的包容性教育支援",
+          "slug": "inclusive-education-support-from-learning-catalyst-africa-zh-e2d882fe",
+          "url": "https://x.com/learningcataly/status/2118109577015427226"
+        },
+        {
+          "title": "阿爾霍塞瑪地區疑似遭性侵的殘障女性尋求庇護受阻，引發機構質疑",
+          "slug": "institutional-failure-to-shelter-woman-with-disability-suspected-of-sexual-assau-zh-1d772413",
+          "url": "https://www.hibazoom.com/article-217905"
+        },
+        {
+          "title": "macOS 的困擾、TurnOver 螢幕閱讀器與盲人離線 GPS",
+          "slug": "macos-frustrations-the-turnover-screen-reader-and-offline-gps-for-blind-users-zh-3dded4ef",
+          "url": "https://doubletaponair.com/macos-frustrations-the-turnover-screen-reader-and-offline-gps-for-blind-users-2"
+        },
+        {
+          "title": "Martin 代表繼續透過十一月辦公時間致力於無障礙 - Michigan House Republicans",
+          "slug": "rep-martin-continues-commitment-to-accessibility-with-november-office-hours-mich-zh-365a4e16",
+          "url": "https://gophouse.org/posts/rep-martin-continues-commitment-to-accessibility-with-november-office-hours"
+        },
+        {
+          "title": "UNG 無障礙倡導團體落實包容行動",
+          "slug": "accessibility-advocacy-group-implements-inclusion-initiatives-at-university-of-n-zh-92d3b926",
+          "url": "https://ungvanguard.org/47266/life/accessibility-advocacy-group-puts-inclusion-into-action-at-ung"
+        },
+        {
+          "title": "殘障青少年懸案襲擊案嫌疑人被捕",
+          "slug": "arrest-in-cold-case-assault-of-disabled-teen-zh-8201c61b",
+          "url": "https://x.com/UCBInfo/status/2119091069560443036"
+        },
+        {
+          "title": "歐洲無障礙公司 Accessiway 收購無障礙平台 Subly",
+          "slug": "europe-accessiway-acquires-subly-accessibility-platform-zh-74b268e3",
+          "url": "https://www.postregister.com/news/world/europe-accessiway-acquires-subly-accessibility-platform/image_24d9f50b-5e0c-5708-978f-78d64fb5ecf8.html"
+        },
+        {
+          "title": "東部國民委員會在霍姆斯表彰殘障人士",
+          "slug": "national-shorqi-council-honors-persons-with-disabilities-in-homs-zh-0593aa94",
+          "url": "https://syriacpress.com/ar/2026/11/08/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82%D9%8A-%D9%8A%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A9"
+        },
+        {
+          "title": "威斯康辛州倡導者稱外展與教育是提升投票無障礙的關鍵",
+          "slug": "outreach-education-are-key-to-voting-accessibility-wisconsin-advocates-say-pbs-w-zh-9d739138",
+          "url": "https://pbswisconsin.org/news-item/outreach-education-are-key-to-voting-accessibility-wisconsin-advocates-say"
+        },
+        {
+          "title": "沙烏地阿拉伯推出七項數位輔助功能服務無障礙旅遊",
+          "slug": "saudi-arabia-launches-seven-digital-features-for-people-with-disabilities-and-el-zh-200adc85",
+          "url": "https://asdmag.org/archives/69780"
+        },
+        {
+          "title": "Vercel Labs 發佈 Agent 桌面工具",
+          "slug": "vercel-labs-releases-agent-desktop-tool-zh-ad52d790",
+          "url": "https://x.com/E1ev3n1/status/2118737816238891187"
+        },
+        {
+          "title": "博伊西自由公園將推出無障礙改善措施",
+          "slug": "accessibility-improvements-coming-to-liberty-park-in-boise-zh-49c206f3",
+          "url": "https://idahonews.com/news/local/accessibility-improvements-coming-to-liberty-park-in-boise"
+        },
+        {
+          "title": "黑五折扣隨處可見。購物網站無障礙？並不多見。",
+          "slug": "black-friday-deals-are-everywhere-accessible-shopping-websites-not-so-much-zh-b79201c3",
+          "url": "https://krdo.com/stacker-technology/2026/11/03/black-friday-deals-are-everywhere-accessible-shopping-websites-not-so-much"
+        },
+        {
+          "title": "威爾士教會就殘障人士無障礙設施展開諮詢",
+          "slug": "church-in-wales-opens-consultation-on-disability-accessibility-zh-f4a38af3",
+          "url": "https://premierchristian.news/en/news/article/church-in-wales-opens-consultation-on-accessibility-for-disabled-people"
+        },
+        {
+          "title": "Coquitlam Express 主辦第五屆自閉症接納賽",
+          "slug": "coquitlam-express-hosts-5th-annual-autism-acceptance-game-zh-72b89339",
+          "url": "https://x.com/BCHLExpress/status/2119538119246745722"
+        },
+        {
+          "title": "弗雷德里克縣學校考慮為殘障學生設立獨立學校",
+          "slug": "frederick-county-schools-considers-separate-school-for-students-with-disabilitie-zh-625e154e",
+          "url": "https://x.com/MDBayNews/status/2118738559599276513"
+        },
+        {
+          "title": "iPhone Duo 在 iOS 27.3 Beta 中獲得新增無障礙功能",
+          "slug": "iphone-duo-just-got-a-new-accessibility-feature-in-ios-273-beta-zh-91d26a57",
+          "url": "https://www.engadget.com/2308154/iphone-duo-new-accessibility-feature-ios-27-3-beta-reachability"
+        },
+        {
+          "title": "Vercel Agent 桌面使用無障礙 API",
+          "slug": "vercel-agent-desktop-uses-accessibility-apis-zh-da7da3df",
+          "url": "https://x.com/RavinderSync/status/2119083419300995199"
+        },
+        {
+          "title": "AutoCua 利用無障礙元素協助電腦使用代理人",
+          "slug": "autocua-utilizes-accessibility-elements-for-computer-use-agents-zh-6c6c6816",
+          "url": "https://x.com/FReza1984/status/2119173749987787131"
+        }
+      ]
+    }
   }
 }
