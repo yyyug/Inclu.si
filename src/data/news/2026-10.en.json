@@ -120081,5 +120081,39 @@
     "publishedAt": "2026-10-21T07:00:00.000Z",
     "fetchedAt": "2026-11-06T23:29:50.286Z",
     "body": "The 8th edition of the International Expo of People with Disabilities 2026 has successfully concluded in Dubai. The event focused on promoting full inclusivity and showcasing solutions for individuals with disabilities.\n\nRead more from the original source: [news.google.com](https://mediaoffice.ae/ar/news/2026/october/21-10/accessabilities-expo-2025-concludes-with-determination-for-full-inclusivity)"
+  },
+  {
+    "title": "Al-Haramain Administration Highlights Universal Access at the Noble Holy Places",
+    "slug": "al-haramain-administration-highlights-universal-access-at-the-noble-holy-places-212d77d4",
+    "lang": "en",
+    "summary": "The Al-Haramain General Affairs reports on efforts to ensure comprehensive accessibility and inclusive design at the Haramain in Makkah and Madinah, focusing on physical infrastructure and services that accommodate visitors with disabilities and mobility issues.",
+    "category": "physical-design",
+    "tags": [
+      "universal-access",
+      "haramain",
+      "physical-infrastructure",
+      "religious-sites"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://makkahnewspaper.com/article/1636507",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://makkahnewspaper.com/article/1636507"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84+%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-212d77d4",
+    "status": "published",
+    "translationOf": "al-haramain-administration-highlights-universal-access-at-the-noble-holy-places-zh-212d77d4",
+    "publishedAt": "2026-10-25T07:00:00.000Z",
+    "fetchedAt": "2026-11-09T21:03:11.481Z",
+    "body": "The Al-Haramain General Affairs reports on efforts to ensure comprehensive accessibility and inclusive design at the Haramain in Makkah and Madinah, focusing on physical infrastructure and services that accommodate visitors with disabilities and mobility issues.\n\nRead more from the original source: [news.google.com](https://makkahnewspaper.com/article/1636507)"
   }
 ]
