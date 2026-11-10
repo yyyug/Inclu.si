@@ -31978,5 +31978,608 @@
     "publishedAt": "2026-11-09T19:28:26.000Z",
     "fetchedAt": "2026-11-10T22:28:04.828Z",
     "body": "Turnover 是由 vibe coding 開發的 Mac 螢幕閱讀器，已開源並交由社群維護，作為 Apple VoiceOver 的替代方案，提供視障使用者可客製化且免費的閱讀工具。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/turnover-an-open-source-mac-screen-reader-built-by-vibe-coding-goes-to-the-community)"
+  },
+  {
+    "title": "新型CAR-T療法治癒「僵硬人綜合症」患者助於重新行走",
+    "slug": "new-car-t-therapy-shows-promise-for-stiff-person-syndrome-patients-zh-fb942565",
+    "lang": "zh-TW",
+    "summary": "一項近期臨床試驗顯示，使用CAR-T免疫療法治療「僵硬人綜合症」（SPS，歌手席琳·狄詠所患疾病）取得了巨大成功。該治療訓練免疫系統識別並摧毀致病細胞，有望幫助患者恢復行走能力。",
+    "category": "assistive-tech",
+    "tags": [
+      "stiff-person-syndrome",
+      "CAR-T",
+      "treatment",
+      "Celine-Dion",
+      "rehabilitation"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70035",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70035"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-fb942565",
+    "status": "published",
+    "translationOf": "new-car-t-therapy-shows-promise-for-stiff-person-syndrome-patients-fb942565",
+    "publishedAt": "2026-11-10T19:25:21.000Z",
+    "fetchedAt": "2026-11-10T23:41:54.462Z",
+    "body": "一項近期臨床試驗顯示，使用CAR-T免疫療法治療「僵硬人綜合症」（SPS，歌手席琳·狄詠所患疾病）取得了巨大成功。該治療訓練免疫系統識別並摧毀致病細胞，有望幫助患者恢復行走能力。\n\n原文來源： [asdmag.org](https://asdmag.org/archives/70035)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "cairo-ict-2026-zh-53af2c9f",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "mo3akpress.com",
+    "sourceUrl": "https://www.mo3akpress.com/2026/11/%d8%b1%d8%a7%d9%8a%d8%a9-%d9%84%d8%aa%d9%83%d9%86%d9%88%d9%84%d9%88%d8%ac%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d9%88%d8%b3%d9%8a%d8%b3%d9%83%d9%88-%d8%aa%d8%b3%d8%aa",
+    "relatedSources": [
+      {
+        "name": "mo3akpress.com",
+        "url": "https://www.mo3akpress.com/2026/11/%d8%b1%d8%a7%d9%8a%d8%a9-%d9%84%d8%aa%d9%83%d9%86%d9%88%d9%84%d9%88%d8%ac%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d9%88%d8%b3%d9%8a%d8%b3%d9%83%d9%88-%d8%aa%d8%b3%d8%aa"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://mo3akpress.com/feed",
+    "ingestProvider": "mo3akpress.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-53af2c9f",
+    "status": "draft",
+    "translationOf": "cairo-ict-2026-53af2c9f",
+    "publishedAt": "2026-11-10T20:03:44.000Z",
+    "fetchedAt": "2026-11-10T23:41:54.507Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [mo3akpress.com](https://www.mo3akpress.com/2026/11/%d8%b1%d8%a7%d9%8a%d8%a9-%d9%84%d8%aa%d9%83%d9%86%d9%88%d9%84%d9%88%d8%ac%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d9%88%d8%b3%d9%8a%d8%b3%d9%83%d9%88-%d8%aa%d8%b3%d8%aa)"
+  },
+  {
+    "title": "合作協定支持帕拉林匹克運動及殘障人士照護",
+    "slug": "cooperation-protocol-supports-paralympic-sports-and-care-for-persons-with-disabi-zh-4fce7d57",
+    "lang": "zh-TW",
+    "summary": "一項合作協定已成立，旨在支持帕拉林匹克運動並為殘障人士提供照護，以提升該群體的運動參與度和可及性。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "paralympics",
+      "disability",
+      "cooperation",
+      "sports",
+      "care"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://gate.ahram.org.eg/News/5981854.aspx",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://gate.ahram.org.eg/News/5981854.aspx"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-4fce7d57",
+    "status": "published",
+    "translationOf": "cooperation-protocol-supports-paralympic-sports-and-care-for-persons-with-disabi-4fce7d57",
+    "publishedAt": "2026-11-10T11:12:00.000Z",
+    "fetchedAt": "2026-11-10T23:41:54.558Z",
+    "body": "一項合作協定已成立，旨在支持帕拉林匹克運動並為殘障人士提供照護，以提升該群體的運動參與度和可及性。\n\n原文來源： [news.google.com](https://gate.ahram.org.eg/News/5981854.aspx)"
+  },
+  {
+    "title": "約旦殘疾人高等委員會針對兩個不合规中心作出說明",
+    "slug": "jordans-higher-council-for-persons-with-disabilities-addresses-non-compliance-by-zh-6e2eee9e",
+    "lang": "zh-TW",
+    "summary": "約旦殘疾人高等委員會詳細说明了兩個未達標準或不符合規章制度的中心的轉介情況，強調了確保無障礙包容性基礎設施的努力。",
+    "category": "laws-rights",
+    "tags": [
+      "Jordan",
+      "Disability Council",
+      "Compliance",
+      "Accessibility Standards"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://alghad.com/Section-199/%D8%A7%D9%84%D8%BA%D8%AF-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A/%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%8A%D9%88%D8%B6%D8%AD-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D8%A8-%D8%A8%D8%B4%D8%A3%D9%86-%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D9%86-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D9%8A%D9%86-2103082",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://alghad.com/Section-199/%D8%A7%D9%84%D8%BA%D8%AF-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A/%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%8A%D9%88%D8%B6%D8%AD-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D8%A8-%D8%A8%D8%B4%D8%A3%D9%86-%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D9%86-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D9%8A%D9%86-2103082"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-6e2eee9e",
+    "status": "published",
+    "translationOf": "jordans-higher-council-for-persons-with-disabilities-addresses-non-compliance-by-6e2eee9e",
+    "publishedAt": "2026-11-10T18:57:13.000Z",
+    "fetchedAt": "2026-11-10T23:41:57.707Z",
+    "body": "約旦殘疾人高等委員會詳細说明了兩個未達標準或不符合規章制度的中心的轉介情況，強調了確保無障礙包容性基礎設施的努力。\n\n原文來源： [news.google.com](https://alghad.com/Section-199/%D8%A7%D9%84%D8%BA%D8%AF-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A/%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%8A%D9%88%D8%B6%D8%AD-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D8%A8-%D8%A8%D8%B4%D8%A3%D9%86-%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D9%86-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D9%8A%D9%86-2103082)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "story-33223ba1-zh-33223ba1",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70031",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70031"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-33223ba1",
+    "status": "draft",
+    "translationOf": "story-33223ba1-33223ba1",
+    "publishedAt": "2026-11-10T19:20:04.000Z",
+    "fetchedAt": "2026-11-10T23:42:01.304Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [asdmag.org](https://asdmag.org/archives/70031)"
+  },
+  {
+    "title": "瑪雅·馬爾西：合作協議推動帕拉林匹克運動發展並支持埃及殘疾運動員",
+    "slug": "maya-marsei-protocol-for-developing-paralympic-sports-and-supporting-egyptian-at-zh-95f104db",
+    "lang": "zh-TW",
+    "summary": "瑪雅·馬爾西宣布一項合作協議，旨在推進埃及帕拉林匹克運動發展並為殘疾運動員提供支持，突顯政府對包容性體育發展的承諾。",
+    "category": "laws-rights",
+    "tags": [
+      "paralympics",
+      "egypt",
+      "athletes",
+      "inclusive-sports"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.youlyou.com/91107",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.youlyou.com/91107"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-95f104db",
+    "status": "published",
+    "translationOf": "maya-marsei-protocol-for-developing-paralympic-sports-and-supporting-egyptian-at-95f104db",
+    "publishedAt": "2026-11-10T11:17:56.000Z",
+    "fetchedAt": "2026-11-10T23:42:01.351Z",
+    "body": "瑪雅·馬爾西宣布一項合作協議，旨在推進埃及帕拉林匹克運動發展並為殘疾運動員提供支持，突顯政府對包容性體育發展的承諾。\n\n原文來源： [news.google.com](https://www.youlyou.com/91107)"
+  },
+  {
+    "title": "部長簽署合作協議支持帕拉林匹克運動及殘疾人士照護",
+    "slug": "ministers-sign-cooperation-protocol-to-support-paralympic-sports-and-care-for-pe-zh-0cabf48c",
+    "lang": "zh-TW",
+    "summary": "社會固連部長與青年及體育部長見證「能差異」基金會與體育部簽署合作協議。此舉遵循總統指示及埃及2026年論壇成果，旨在支持帕拉林匹克運動，並為殘疾人士提供照護與支持。",
+    "category": "laws-rights",
+    "tags": [
+      "government",
+      "protocol",
+      "paralympics",
+      "social-services",
+      "egypt"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D8%A7-%D9%84%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D8%A7%D8%AA-%D9%81%D8%AE%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%B6%D9%85%D9%86-%D9%85%D8%AE%D8%B1%D8%AC%D8%A7%D8%AA-%D9%85%D9%86%D8%AA%D8%AF%D9%8A-%D9%85%D8%B5%D8%B1-2026-%D9%88%D8%B2%D9%8A%D8%B1%D8%A7-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D9%88%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D9%8A%D8%B4%D9%87%D8%AF%D8%A7%D9%86-%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84-%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A8%D9%8A%D9%86-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%82%D8%A7%D8%AF%D8%B1%D9%88%D9%86-%D8%A8%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81-%D9%88%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%A8%D9%8A%D8%A9-%D9%88%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D8%A7-%D9%84%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D8%A7%D8%AA-%D9%81%D8%AE%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%B6%D9%85%D9%86-%D9%85%D8%AE%D8%B1%D8%AC%D8%A7%D8%AA-%D9%85%D9%86%D8%AA%D8%AF%D9%8A-%D9%85%D8%B5%D8%B1-2026-%D9%88%D8%B2%D9%8A%D8%B1%D8%A7-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D9%88%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D9%8A%D8%B4%D9%87%D8%AF%D8%A7%D9%86-%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84-%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A8%D9%8A%D9%86-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%82%D8%A7%D8%AF%D8%B1%D9%88%D9%86-%D8%A8%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81-%D9%88%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%A8%D9%8A%D8%A9-%D9%88%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-0cabf48c",
+    "status": "published",
+    "translationOf": "ministers-sign-cooperation-protocol-to-support-paralympic-sports-and-care-for-pe-0cabf48c",
+    "publishedAt": "2026-11-10T20:20:06.000Z",
+    "fetchedAt": "2026-11-10T23:42:01.403Z",
+    "body": "社會固連部長與青年及體育部長見證「能差異」基金會與體育部簽署合作協議。此舉遵循總統指示及埃及2026年論壇成果，旨在支持帕拉林匹克運動，並為殘疾人士提供照護與支持。\n\n原文來源： [news.google.com](https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D8%A7-%D9%84%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D8%A7%D8%AA-%D9%81%D8%AE%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%B6%D9%85%D9%86-%D9%85%D8%AE%D8%B1%D8%AC%D8%A7%D8%AA-%D9%85%D9%86%D8%AA%D8%AF%D9%8A-%D9%85%D8%B5%D8%B1-2026-%D9%88%D8%B2%D9%8A%D8%B1%D8%A7-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D9%88%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D9%8A%D8%B4%D9%87%D8%AF%D8%A7%D9%86-%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84-%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A8%D9%8A%D9%86-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%82%D8%A7%D8%AF%D8%B1%D9%88%D9%86-%D8%A8%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81-%D9%88%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%A8%D9%8A%D8%A9-%D9%88%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9)"
+  },
+  {
+    "title": "婦女教育指導團隊探訪哈德拉姆特希姆中心聽力障礙部門",
+    "slug": "womens-educational-guidance-team-visits-hearing-impairment-department-at-himm-ce-zh-fbcb3a4f",
+    "lang": "zh-TW",
+    "summary": "也門哈德拉姆特省迪斯東區婦女教育指導團隊探訪了希姆殘障人員培訓與康復中心的聽力障礙部門，以了解教學進度並監督教育及行政績效，該團隊獲技術管理處長及聽力障礙部門負責人接待。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "hearing-impairment",
+      "yemen",
+      "education",
+      "rehabilitation-center"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70028",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70028"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-fbcb3a4f",
+    "status": "published",
+    "translationOf": "womens-educational-guidance-team-visits-hearing-impairment-department-at-himm-ce-fbcb3a4f",
+    "publishedAt": "2026-11-10T19:10:45.000Z",
+    "fetchedAt": "2026-11-10T23:42:04.392Z",
+    "body": "也門哈德拉姆特省迪斯東區婦女教育指導團隊探訪了希姆殘障人員培訓與康復中心的聽力障礙部門，以了解教學進度並監督教育及行政績效，該團隊獲技術管理處長及聽力障礙部門負責人接待。\n\n原文來源： [asdmag.org](https://asdmag.org/archives/70028)"
+  },
+  {
+    "title": "haji 會議為長者及殘疾人士提供高級服務",
+    "slug": "advanced-services-for-elderly-and-disabled-persons-at-hajj-conference-zh-44b5dca7",
+    "lang": "zh-TW",
+    "summary": "新聞報導指出，hajj 會議期間為長者及殘疾人士提供了專門設計的高級服務與便利設施，重點在於該群體的无障碍支持與照顧。",
+    "category": "physical-design",
+    "tags": [
+      "disability",
+      "elderly",
+      "services",
+      "hajj",
+      "accessibility"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://twaslnews1.twaslnews.com/7453651",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://twaslnews1.twaslnews.com/7453651"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-44b5dca7",
+    "status": "published",
+    "translationOf": "advanced-services-for-elderly-and-disabled-persons-at-hajj-conference-44b5dca7",
+    "publishedAt": "2026-11-10T16:07:43.000Z",
+    "fetchedAt": "2026-11-10T23:42:06.548Z",
+    "body": "新聞報導指出，hajj 會議期間為長者及殘疾人士提供了專門設計的高級服務與便利設施，重點在於該群體的无障碍支持與照顧。\n\n原文來源： [news.google.com](https://twaslnews1.twaslnews.com/7453651)"
+  },
+  {
+    "title": "沙國護照安全部署電動自行車服務長者及殘疾朝聖者",
+    "slug": "saudi-passport-security-deploying-electric-bicycles-to-serve-elderly-and-disable-zh-d98452ba",
+    "lang": "zh-TW",
+    "summary": "在吉達舉行的第六屆朝觐會議及展覽會期間，沙護照總局展示用於基里·法赫橋護照檢查站的電動自行車。這些車輛旨在提升服務質量，特別方便長者及殘疾朝聖者，體現內政部的包容性服務承諾。",
+    "category": "assistive-tech",
+    "tags": [
+      "electric-bicycle",
+      "mobility",
+      "hudud",
+      "elderly",
+      "disability"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70023",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70023"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-d98452ba",
+    "status": "published",
+    "translationOf": "saudi-passport-security-deploying-electric-bicycles-to-serve-elderly-and-disable-d98452ba",
+    "publishedAt": "2026-11-10T18:57:16.000Z",
+    "fetchedAt": "2026-11-10T23:42:09.666Z",
+    "body": "在吉達舉行的第六屆朝觐會議及展覽會期間，沙護照總局展示用於基里·法赫橋護照檢查站的電動自行車。這些車輛旨在提升服務質量，特別方便長者及殘疾朝聖者，體現內政部的包容性服務承諾。\n\n原文來源： [asdmag.org](https://asdmag.org/archives/70023)"
+  },
+  {
+    "title": "約旦拉塞法為殘障人士啟動水耕灌溉項目",
+    "slug": "hydroponic-project-inaugurated-for-persons-with-disabilities-in-russeifa-zh-409a1508",
+    "lang": "zh-TW",
+    "summary": "約旦社會發展部長在拉塞法的「希望中心」為殘障人士啟動了一項聯合水耕灌溉營運項目。該計劃由國家救助基金、協作基金、職業訓練機構及「希望之光」特殊需求協會合作執行，旨在為殘障人士提供生產性和可持續的就業機會。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "employment",
+      "Jordan",
+      "vocational-training",
+      "inclusive-economy"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.addustour.com/articles/1603257-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%AA%D8%B4%D8%BA%D9%8A%D9%84%D9%8A-%D9%84%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D8%B5%D9%8A%D9%81%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.addustour.com/articles/1603257-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%AA%D8%B4%D8%BA%D9%8A%D9%84%D9%8A-%D9%84%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D8%B5%D9%8A%D9%81%D8%A9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-409a1508",
+    "status": "published",
+    "translationOf": "hydroponic-project-inaugurated-for-persons-with-disabilities-in-russeifa-409a1508",
+    "publishedAt": "2026-11-10T21:00:35.000Z",
+    "fetchedAt": "2026-11-10T23:42:18.561Z",
+    "body": "約旦社會發展部長在拉塞法的「希望中心」為殘障人士啟動了一項聯合水耕灌溉營運項目。該計劃由國家救助基金、協作基金、職業訓練機構及「希望之光」特殊需求協會合作執行，旨在為殘障人士提供生產性和可持續的就業機會。\n\n原文來源： [news.google.com](https://www.addustour.com/articles/1603257-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%AA%D8%B4%D8%BA%D9%8A%D9%84%D9%8A-%D9%84%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D8%B5%D9%8A%D9%81%D8%A9)"
+  },
+  {
+    "title": "約旦啟動水耕灌溉營運項目，賦能拉塞法殘障人士",
+    "slug": "jordan-launches-operational-hydroponic-project-to-empower-persons-with-disabilit-zh-7be90d2a",
+    "lang": "zh-TW",
+    "summary": "約旦社會發展部長瓦法·巴尼·穆斯塔法在拉塞法的「希望中心」為殘障人士啟動了聯合水耕灌溉項目。該項目由國家救助基金、協作支持基金、職業訓練機構及「希望之光」特殊需求協會合作推動，旨在提供可持續且有生產力的工作機會，並促進殘障人士的社會參與。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "employment",
+      "Jordan",
+      "vocational-training",
+      "social-inclusion"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70020",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70020"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-7be90d2a",
+    "status": "published",
+    "translationOf": "jordan-launches-operational-hydroponic-project-to-empower-persons-with-disabilit-7be90d2a",
+    "publishedAt": "2026-11-10T18:35:41.000Z",
+    "fetchedAt": "2026-11-10T23:42:18.621Z",
+    "body": "約旦社會發展部長瓦法·巴尼·穆斯塔法在拉塞法的「希望中心」為殘障人士啟動了聯合水耕灌溉項目。該項目由國家救助基金、協作支持基金、職業訓練機構及「希望之光」特殊需求協會合作推動，旨在提供可持續且有生產力的工作機會，並促進殘障人士的社會參與。\n\n原文來源： [asdmag.org](https://asdmag.org/archives/70020)"
+  },
+  {
+    "title": "教育部決定免除身心障礙學生考級外部考試的等待年限",
+    "slug": "education-ministry-exempts-students-with-disabilities-from-waiting-periods-for-e-zh-533a6e23",
+    "lang": "zh-TW",
+    "summary": "教育部決定免除身心障礙及特殊需求學生參加外部考試時的強制等待年限，此舉旨在為身心障礙學生提供更大的便利性與彈性。",
+    "category": "laws-rights",
+    "tags": [
+      "education",
+      "exams",
+      "accommodations",
+      "disability-rights"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.mawazin.net/Details.aspx?jimare=295204",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.mawazin.net/Details.aspx?jimare=295204"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-533a6e23",
+    "status": "published",
+    "translationOf": "education-ministry-exempts-students-with-disabilities-from-waiting-periods-for-e-533a6e23",
+    "publishedAt": "2026-11-10T12:19:30.000Z",
+    "fetchedAt": "2026-11-10T23:42:20.518Z",
+    "body": "教育部決定免除身心障礙及特殊需求學生參加外部考試時的強制等待年限，此舉旨在為身心障礙學生提供更大的便利性與彈性。\n\n原文來源： [news.google.com](https://www.mawazin.net/Details.aspx?jimare=295204)"
+  },
+  {
+    "title": "約旦殘疾人權利用高 council 報告監管與基礎設施更新",
+    "slug": "jordan-high-council-for-the-rights-of-persons-with-disabilities-reports-regulato-zh-92eb22ee",
+    "lang": "zh-TW",
+    "summary": "約旦殘障人士權利高等委員會報告關閉了兩處設施，對1,366名個人進行診斷，並培訓了超過1,000名參與者。該委員會還強調了三部法律的頒布，這些法律增強了殘障人士在市政、教育和職業部門的代表性和可及性，並持續推進公共設施和投票中心對殘障人士的可及性項目。",
+    "category": "laws-rights",
+    "tags": [
+      "Jordan",
+      "Disability Rights",
+      "Accessibility",
+      "Legislation"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70017",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70017"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-92eb22ee",
+    "status": "published",
+    "translationOf": "jordan-high-council-for-the-rights-of-persons-with-disabilities-reports-regulato-92eb22ee",
+    "publishedAt": "2026-11-10T18:29:49.000Z",
+    "fetchedAt": "2026-11-10T23:42:29.785Z",
+    "body": "約旦殘障人士權利高等委員會報告關閉了兩處設施，對1,366名個人進行診斷，並培訓了超過1,000名參與者。該委員會還強調了三部法律的頒布，這些法律增強了殘障人士在市政、教育和職業部門的代表性和可及性，並持續推進公共設施和投票中心對殘障人士的可及性項目。\n\n原文來源： [asdmag.org](https://asdmag.org/archives/70017)"
+  },
+  {
+    "title": "埃及殘障人士國家委員會推出賦權女性舉措",
+    "slug": "egypt-national-council-for-persons-with-disabilities-launches-initiatives-for-wo-zh-f2ba4170",
+    "lang": "zh-TW",
+    "summary": "埃及殘障人士國家委員會展示了其專注於賦權女性殘障人士和支持家庭穩定的舉措，突出了社會支持項目和融合策略。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "Egypt",
+      "Women with Disabilities",
+      "Social Inclusion",
+      "Empowerment"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://mwq3masr.com/%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D9%84%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D9%85%D8%A8%D8%A7",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://mwq3masr.com/%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D9%84%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D9%85%D8%A8%D8%A7"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-f2ba4170",
+    "status": "published",
+    "translationOf": "egypt-national-council-for-persons-with-disabilities-launches-initiatives-for-wo-f2ba4170",
+    "publishedAt": "2026-11-10T17:44:58.000Z",
+    "fetchedAt": "2026-11-10T23:42:29.835Z",
+    "body": "埃及殘障人士國家委員會展示了其專注於賦權女性殘障人士和支持家庭穩定的舉措，突出了社會支持項目和融合策略。\n\n原文來源： [news.google.com](https://mwq3masr.com/%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D9%84%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D9%85%D8%A8%D8%A7)"
+  },
+  {
+    "title": "伊拉克免除残障生參加外部考試的等待年限",
+    "slug": "iraq-exempts-students-with-disabilities-from-waiting-periods-for-external-exams-zh-ee1c7181",
+    "lang": "zh-TW",
+    "summary": "伊拉克教育部宣布，免除殘疾及特殊需求學生參加外部（預備）部長級考試的年齡等待年限限制，允許該類學生在17歲時應考此類考試。",
+    "category": "laws-rights",
+    "tags": [
+      "Iraq",
+      "Education",
+      "Disability",
+      "Exam Access",
+      "Policy"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70013",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70013"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-ee1c7181",
+    "status": "published",
+    "translationOf": "iraq-exempts-students-with-disabilities-from-waiting-periods-for-external-exams-ee1c7181",
+    "publishedAt": "2026-11-10T18:25:15.000Z",
+    "fetchedAt": "2026-11-10T23:42:32.152Z",
+    "body": "伊拉克教育部宣布，免除殘疾及特殊需求學生參加外部（預備）部長級考試的年齡等待年限限制，允許該類學生在17歲時應考此類考試。\n\n原文來源： [asdmag.org](https://asdmag.org/archives/70013)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "story-9becd46e-zh-9becd46e",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70010",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70010"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-9becd46e",
+    "status": "draft",
+    "translationOf": "story-9becd46e-9becd46e",
+    "publishedAt": "2026-11-10T18:14:06.000Z",
+    "fetchedAt": "2026-11-10T23:43:00.583Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [asdmag.org](https://asdmag.org/archives/70010)"
+  },
+  {
+    "title": "埃及撥款2800萬埃及鎊支持7個殘奧會聯合會",
+    "slug": "egypt-allocates-28-million-egp-to-support-7-paralympic-federations-zh-d6340b31",
+    "lang": "zh-TW",
+    "summary": "埃及政府宣布撥出2800萬埃及鎊，以支持7個殘疾人奧林匹克聯合會，旨在改善基礎設施、訓練體系，並提高殘疾運動員的參與度。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "sports",
+      "paralympic",
+      "government-funding",
+      "athletes-with-disabilities"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.akhbrna.ae/sports/28-mlywn-jnyh-ldam-7",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.akhbrna.ae/sports/28-mlywn-jnyh-ldam-7"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-d6340b31",
+    "status": "published",
+    "translationOf": "egypt-allocates-28-million-egp-to-support-7-paralympic-federations-d6340b31",
+    "publishedAt": "2026-11-10T12:48:06.000Z",
+    "fetchedAt": "2026-11-10T23:43:02.604Z",
+    "body": "埃及政府宣布撥出2800萬埃及鎊，以支持7個殘疾人奧林匹克聯合會，旨在改善基礎設施、訓練體系，並提高殘疾運動員的參與度。\n\n原文來源： [news.google.com](https://www.akhbrna.ae/sports/28-mlywn-jnyh-ldam-7)"
   }
 ]
