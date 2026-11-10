@@ -14863,25 +14863,25 @@
     }
   },
   "2026-11-10": {
-    "generatedAt": "2026-11-10T01:46:57.104Z",
+    "generatedAt": "2026-11-10T16:58:19.659Z",
     "en": {
-      "title": "Global Push: Legislative Reviews, Digital Rights, and Papal Advocacy Advance Disability Accessibility",
-      "summary": "Vietnamese legislators are reviewing major amendments to disability and health laws, while advocates globally demand digital accessibility be recognized as a fundamental right. Meanwhile, Pope Leo XIV visited a disability center in Argentina, urging governments to safeguard the most vulnerable communities.",
+      "title": "Apple TV Sign Language and Waymo Accessible Transport Lead",
+      "summary": "Apple TV rolled out a dedicated sign language interpretation feature for deaf users, while Waymo launched a UK Accessibility Network to co-design autonomous vehicles with people with disabilities. These moves sit alongside a wave of physical accessibility upgrades in local governments and new digital tools.",
       "highlights": [
+        {
+          "title": "Apple TV launches new sign language accessibility feature",
+          "slug": "apple-tv-launches-new-sign-language-accessibility-feature-b8775504",
+          "url": "https://9to5mac.com/2026/11/10/apple-tv-new-sign-language-accessibility"
+        },
+        {
+          "title": "Introducing the Waymo Accessibility Network UK: Co-Designing the Future of Autonomous Mobility",
+          "slug": "introducing-the-waymo-accessibility-network-uk-co-designing-the-future-of-autono-ff533b7b",
+          "url": "https://waymo.com/blog/2026/11/uk-accessibility-network"
+        },
         {
           "title": "Vietnamese Legislator Reviews Amendments to Laws on Persons with Disabilities and Health",
           "slug": "vietnamese-legislator-reviews-amendments-to-laws-on-persons-with-disabilities-an-9e8152c8",
           "url": "https://www.vietnam.vn/ar/thuong-toa-ly-minh-duc-dai-bieu-quoc-hoi-don-vi-tp-can-tho-gop-y-du-an-luat-sua-doi-bo-sung-mot-so-dieu-cua-luat-tre-em-luat-nguoi-khuyet-tat-luat-kham-benh-chua-benh-luat-duoc-luat-nguoi-cao-tuoi-va-luat-bao-hiem-y-te"
-        },
-        {
-          "title": "Digital Accessibility is a Right for People with Disabilities, Not a Luxury",
-          "slug": "digital-accessibility-is-a-right-for-people-with-disabilities-not-a-luxury-bda2bed9",
-          "url": "https://www.rosaelyoussef.com/1449875"
-        },
-        {
-          "title": "Pope Leo XIV Urges Argentina to Protect Most Vulnerable Groups During Visit to Disability Care Home",
-          "slug": "pope-leo-xiv-urges-argentina-to-protect-most-vulnerable-groups-during-visit-to-d-8ebc6b92",
-          "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=09112026&id=b455bbaf-7f03-4387-8c47-03a3ae60e096"
         },
         {
           "title": "Egypt National Center for Disability: Economic Empowerment and Digital Transformation Key to 2026-2030 Strategy",
@@ -14889,19 +14889,29 @@
           "url": "https://www.almasryalyoum.com/news/details/4405915"
         },
         {
-          "title": "Egypt's Minister of Social Solidarity Attends Third Vodafone Accessibility and Inclusion Conference",
-          "slug": "egypts-minister-of-social-solidarity-attends-third-vodafone-accessibility-and-in-274eb4c7",
-          "url": "https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D8%AA%D8%B4%D9%87%D8%AF-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%B3%D9%86%D9%88%D9%8A-%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D9%81%D9%88%D8%AF%D8%A7%D9%83%D9%88%D9%85-%D8%AD%D9%88%D9%84-%D8%A7%D8%AA%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D9%88%D8%AF%D9%85%D8%AC-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9"
+          "title": "McNay Art Museum ensures a 'place of belonging' with $500,000 grant to expand accessibility",
+          "slug": "mcnay-art-museum-ensures-a-place-of-belonging-with-500000-grant-to-expand-access-765d1132",
+          "url": "https://www.tpr.org/disability-access/2026-11-09/mcnay-art-museum-ensures-a-place-of-belonging-with-500-000-grant-to-expand-accessibility"
         },
         {
-          "title": "Nvidia’s Jensen Huang Makes Headlines and a Conversation with The Blind Life’s Sam Seavey",
-          "slug": "nvidias-jensen-huang-makes-headlines-and-a-conversation-with-the-blind-lifes-sam-ad8b384f",
-          "url": "https://doubletaponair.com/nvidias-jensen-huang-makes-headlines-and-a-conversation-with-the-blind-lifes-sam-seavey-2"
+          "title": "Kensington teen earns Gold Award for championing accessibility at town library",
+          "slug": "kensington-teen-earns-gold-award-for-championing-accessibility-at-town-library-53861ea7",
+          "url": "https://www.seacoastonline.com/story/news/local/2026/11/10/kensington-teen-earns-gold-award-for-championing-accessibility-at-town-library/92647667007"
         },
         {
-          "title": "Tampa Bay’s Accessibility Crisis: Wheelchair Users Face Daily Travel Barriers",
-          "slug": "tampa-bays-accessibility-crisis-wheelchair-users-face-daily-travel-barriers-8b237637",
-          "url": "https://wild941.com/2026/11/09/tampa-bays-accessibility-crisis-wheelchair-users-face-daily-travel-barriers"
+          "title": "Pope Leo XIV Advocates for Disability Inclusion",
+          "slug": "pope-leo-xiv-advocates-for-disability-inclusion-0fcd53fe",
+          "url": "https://x.com/GujaratiPulse/status/2119868892466270222"
+        },
+        {
+          "title": "OriHime Avatar Robots Featured in NHK Programs",
+          "slug": "orihime-avatar-robots-featured-in-nhk-programs-6a624dc5",
+          "url": "https://x.com/zhang_jia51835/status/2119855641426899055"
+        },
+        {
+          "title": "StepNavigation, a free indoor turn-by-turn app, arrives on the App Store",
+          "slug": "stepnavigation-a-free-indoor-turn-by-turn-app-arrives-on-the-app-store-7827163e",
+          "url": "https://doubletaponair.com/stepnavigation-a-free-indoor-turn-by-turn-app-arrives-on-the-app-store"
         },
         {
           "title": "JAWS for Kiosk Enhances Public Kiosk Accessibility",
@@ -14909,35 +14919,70 @@
           "url": "https://x.com/Vispero_HQ/status/2119867895631008162"
         },
         {
-          "title": "Paralyzed Veterans of America Launches Hotel Accessibility Guide for Guests with Mobility Disabilities",
-          "slug": "paralyzed-veterans-of-america-launches-hotel-accessibility-guide-for-guests-with-984dfcbb",
-          "url": "https://www.morningstar.com/news/pr-newswire/20261109ph92615/paralyzed-veterans-of-america-hits-the-road-with-first-of-two-part-hotel-accessibility-guide-series-to-help-hospitality-industry-better-serve-guests-with-mobility-disabilities"
+          "title": "Back to Back Theater Company at Autumn Festival",
+          "slug": "back-to-back-theater-company-at-autumn-festival-b741f62f",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/09/au-festival-d-automne-le-theatre-en-dehors-des-cadres-de-la-compagnie-back-to-back_6808677_3246.html"
         },
         {
-          "title": "How to Make Live Training More Accessible",
-          "slug": "how-to-make-live-training-more-accessible-dced3be5",
-          "url": "https://theaccessibilityguy.com/how-to-make-a-live-training-more-accessible"
+          "title": "Funding for Home Accessibility Modifications",
+          "slug": "funding-for-home-accessibility-modifications-dce64677",
+          "url": "https://x.com/liftandcare/status/2119867687094399420"
+        },
+        {
+          "title": "Park Accessibility Compliance Checklist",
+          "slug": "park-accessibility-compliance-checklist-5b2b50b4",
+          "url": "https://x.com/BlueDAG1/status/2119867663795265758"
+        },
+        {
+          "title": "Pope Leo XIV Visits Disability Center in Argentina",
+          "slug": "pope-leo-xiv-visits-disability-center-in-argentina-6093ee44",
+          "url": "https://arabic.euronews.com/video/2026/11/09/argentina-pope-leo-xiv-receives-warm-welcome-in-claypole"
+        },
+        {
+          "title": "Pope Leo XIV Urges Argentina to Protect Most Vulnerable Groups During Visit to Disability Care Home",
+          "slug": "pope-leo-xiv-urges-argentina-to-protect-most-vulnerable-groups-during-visit-to-d-8ebc6b92",
+          "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=09112026&id=b455bbaf-7f03-4387-8c47-03a3ae60e096"
+        },
+        {
+          "title": "Aurora lawmakers reviewing $1.5 million council chambers accessibility upgrade Monday",
+          "slug": "aurora-lawmakers-reviewing-15-million-council-chambers-accessibility-upgrade-mon-0a503ce0",
+          "url": "https://sentinelcolorado.com/metro/aurora-lawmakers-reviewing-1-5-million-council-chambers-accessibility-upgrade-monday"
+        },
+        {
+          "title": "Ottawa County voters approve parks millage increase for trails, accessibility and conservation",
+          "slug": "ottawa-county-voters-approve-parks-millage-increase-for-trails-accessibility-and-483e0d54",
+          "url": "https://www.fox17online.com/news/local-news/holland-zeeland-grand-haven/ottawa-county-voters-approve-parks-millage-increase-for-trails-accessibility-and-conservation"
+        },
+        {
+          "title": "MP Urges Accessibility Upgrades at Brunswick Centre",
+          "slug": "mp-urges-accessibility-upgrades-at-brunswick-centre-0feb514b",
+          "url": "https://x.com/ThisCoast/status/2119868722278236291"
+        },
+        {
+          "title": "Challenges of Masking Disabilities",
+          "slug": "challenges-of-masking-disabilities-14241153",
+          "url": "https://x.com/scrr432/status/2119859955260170681"
         }
       ]
     },
     "zh-TW": {
-      "title": "全球行動：立法審查、數位權利與教宗倡導推動無障礙發展",
-      "summary": "越南立法者正審查殘障與健康法的重大修正案，全球倡議者要求將數位無障礙確立為基本權利。同時，教宗利奧十四世拜訪了阿根廷的身心障礙中心，敦促政府保護最弱勢的群體。",
+      "title": "Apple TV 手語功能與 Waymo 無障礙網路領跑",
+      "summary": "Apple TV 推出手語翻譯功能以服務聽障使用者，Waymo 則在英國成立無障礙網路，邀請身心障礙者共同設計自動駕駛車輛。此舉與各地政府推動實體無障礙升級及新數位工具並行，展現多面向的進步。",
       "highlights": [
+        {
+          "title": "Apple TV 推出全新手語無障礙功能",
+          "slug": "apple-tv-launches-new-sign-language-accessibility-feature-zh-b8775504",
+          "url": "https://9to5mac.com/2026/11/10/apple-tv-new-sign-language-accessibility"
+        },
+        {
+          "title": "推出 Waymo 無障礙網路（英國）：共同設計自動駕駛未來",
+          "slug": "introducing-the-waymo-accessibility-network-uk-co-designing-the-future-of-autono-zh-ff533b7b",
+          "url": "https://waymo.com/blog/2026/11/uk-accessibility-network"
+        },
         {
           "title": "越南立法者審查殘障人士法律及健康法修正案",
           "slug": "vietnamese-legislator-reviews-amendments-to-laws-on-persons-with-disabilities-an-zh-9e8152c8",
           "url": "https://www.vietnam.vn/ar/thuong-toa-ly-minh-duc-dai-bieu-quoc-hoi-don-vi-tp-can-tho-gop-y-du-an-luat-sua-doi-bo-sung-mot-so-dieu-cua-luat-tre-em-luat-nguoi-khuyet-tat-luat-kham-benh-chua-benh-luat-duoc-luat-nguoi-cao-tuoi-va-luat-bao-hiem-y-te"
-        },
-        {
-          "title": "數位無障礙是残障人士的固有權利，而非科技奢侈品",
-          "slug": "digital-accessibility-is-a-right-for-people-with-disabilities-not-a-luxury-zh-bda2bed9",
-          "url": "https://www.rosaelyoussef.com/1449875"
-        },
-        {
-          "title": "教宗良十四世拜訪殘障護理機構期間呼籲阿根廷保護最弱勢群體",
-          "slug": "pope-leo-xiv-urges-argentina-to-protect-most-vulnerable-groups-during-visit-to-d-zh-8ebc6b92",
-          "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=09112026&id=b455bbaf-7f03-4387-8c47-03a3ae60e096"
         },
         {
           "title": "埃及國立殘障中心：經濟賦權與數位轉型為2026-2030年國家戰略重點",
@@ -14945,9 +14990,19 @@
           "url": "https://www.almasryalyoum.com/news/details/4405915"
         },
         {
-          "title": "埃及社會團結部部長出席第三屆沃達康无障碍與融合會議",
-          "slug": "egypts-minister-of-social-solidarity-attends-third-vodafone-accessibility-and-in-zh-274eb4c7",
-          "url": "https://www.moss.gov.eg/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D8%AA%D8%B4%D9%87%D8%AF-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%B3%D9%86%D9%88%D9%8A-%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D9%81%D9%88%D8%AF%D8%A7%D9%83%D9%88%D9%85-%D8%AD%D9%88%D9%84-%D8%A7%D8%AA%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D9%88%D8%AF%D9%85%D8%AC-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9"
+          "title": "肯辛頓青少年因在鎮圖書館推動無障礙獲得金獎",
+          "slug": "kensington-teen-earns-gold-award-for-championing-accessibility-at-town-library-zh-53861ea7",
+          "url": "https://www.seacoastonline.com/story/news/local/2026/11/10/kensington-teen-earns-gold-award-for-championing-accessibility-at-town-library/92647667007"
+        },
+        {
+          "title": "麥凱藝術博物館獲得50萬美元補助擴大無障礙設施，打造『屬於每個人』的空間",
+          "slug": "mcnay-art-museum-ensures-a-place-of-belonging-with-500000-grant-to-expand-access-zh-765d1132",
+          "url": "https://www.tpr.org/disability-access/2026-11-09/mcnay-art-museum-ensures-a-place-of-belonging-with-500-000-grant-to-expand-accessibility"
+        },
+        {
+          "title": "教宗利奧十四世倡導殘障人士包容",
+          "slug": "pope-leo-xiv-advocates-for-disability-inclusion-zh-0fcd53fe",
+          "url": "https://x.com/GujaratiPulse/status/2119868892466270222"
         },
         {
           "title": "OriHime 頭像機器人於 NHK 節目中登場",
@@ -14955,24 +15010,64 @@
           "url": "https://x.com/zhang_jia51835/status/2119855641426899055"
         },
         {
-          "title": "坦帕灣無障礙危機：輪椅使用者面臨每日出行障礙",
-          "slug": "tampa-bays-accessibility-crisis-wheelchair-users-face-daily-travel-barriers-zh-8b237637",
-          "url": "https://wild941.com/2026/11/09/tampa-bays-accessibility-crisis-wheelchair-users-face-daily-travel-barriers"
+          "title": "JAWS for Kiosk 提升公共自助終端機的可及性",
+          "slug": "jaws-for-kiosk-enhances-public-kiosk-accessibility-zh-de1eab40",
+          "url": "https://x.com/Vispero_HQ/status/2119867895631008162"
         },
         {
-          "title": "Nvidia 執行長黃仁勳登上新聞頭條，並與「盲人生活」的 Sam Seavey 對談",
-          "slug": "nvidias-jensen-huang-makes-headlines-and-a-conversation-with-the-blind-lifes-sam-zh-ad8b384f",
-          "url": "https://doubletaponair.com/nvidias-jensen-huang-makes-headlines-and-a-conversation-with-the-blind-lifes-sam-seavey-2"
+          "title": "Back to Back劇團參加秋季節",
+          "slug": "back-to-back-theater-company-at-autumn-festival-zh-b741f62f",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/09/au-festival-d-automne-le-theatre-en-dehors-des-cadres-de-la-compagnie-back-to-back_6808677_3246.html"
         },
         {
-          "title": "美國癱瘓退伍軍人協會推出行動不便賓客酒店無障礙指南",
-          "slug": "paralyzed-veterans-of-america-launches-hotel-accessibility-guide-for-guests-with-zh-984dfcbb",
-          "url": "https://www.morningstar.com/news/pr-newswire/20261109ph92615/paralyzed-veterans-of-america-hits-the-road-with-first-of-two-part-hotel-accessibility-guide-series-to-help-hospitality-industry-better-serve-guests-with-mobility-disabilities"
+          "title": "居家無障礙改造的資助",
+          "slug": "funding-for-home-accessibility-modifications-zh-dce64677",
+          "url": "https://x.com/liftandcare/status/2119867687094399420"
         },
         {
-          "title": "如何讓現場培訓更無障礙",
-          "slug": "how-to-make-live-training-more-accessible-zh-dced3be5",
-          "url": "https://theaccessibilityguy.com/how-to-make-a-live-training-more-accessible"
+          "title": "公園無障礙合規檢查表",
+          "slug": "park-accessibility-compliance-checklist-zh-5b2b50b4",
+          "url": "https://x.com/BlueDAG1/status/2119867663795265758"
+        },
+        {
+          "title": "教宗良十四世訪問阿根廷身心障礙中心",
+          "slug": "pope-leo-xiv-visits-disability-center-in-argentina-zh-6093ee44",
+          "url": "https://arabic.euronews.com/video/2026/11/09/argentina-pope-leo-xiv-receives-warm-welcome-in-claypole"
+        },
+        {
+          "title": "教宗良十四世拜訪殘障護理機構期間呼籲阿根廷保護最弱勢群體",
+          "slug": "pope-leo-xiv-urges-argentina-to-protect-most-vulnerable-groups-during-visit-to-d-zh-8ebc6b92",
+          "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=09112026&id=b455bbaf-7f03-4387-8c47-03a3ae60e096"
+        },
+        {
+          "title": "奧羅拉立法者審查 150 萬美元議會大廳無障礙升級計畫",
+          "slug": "aurora-lawmakers-reviewing-15-million-council-chambers-accessibility-upgrade-mon-zh-0a503ce0",
+          "url": "https://sentinelcolorado.com/metro/aurora-lawmakers-reviewing-1-5-million-council-chambers-accessibility-upgrade-monday"
+        },
+        {
+          "title": "奧塔瓦縣選民批准公園稅金增幅以提升步道、無障礙與保育",
+          "slug": "ottawa-county-voters-approve-parks-millage-increase-for-trails-accessibility-and-zh-483e0d54",
+          "url": "https://www.fox17online.com/news/local-news/holland-zeeland-grand-haven/ottawa-county-voters-approve-parks-millage-increase-for-trails-accessibility-and-conservation"
+        },
+        {
+          "title": "國會議員呼籲在布倫瑞克中心提升無障礙設施",
+          "slug": "mp-urges-accessibility-upgrades-at-brunswick-centre-zh-0feb514b",
+          "url": "https://x.com/ThisCoast/status/2119868722278236291"
+        },
+        {
+          "title": "掩飾殘障的挑戰",
+          "slug": "challenges-of-masking-disabilities-zh-14241153",
+          "url": "https://x.com/scrr432/status/2119859955260170681"
+        },
+        {
+          "title": "身心障礙證明與搬遷",
+          "slug": "disability-certificate-and-relocation-zh-66390453",
+          "url": "https://x.com/university_zen/status/2119863871947354431"
+        },
+        {
+          "title": "對殘障人士之個案工作者行為的批評",
+          "slug": "criticism-of-caseworker-conduct-toward-person-with-disability-zh-7a617cff",
+          "url": "https://x.com/expiation_end/status/2119857434311414204"
         }
       ]
     }
