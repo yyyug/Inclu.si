@@ -29433,5 +29433,416 @@
     "publishedAt": "2026-11-09T12:15:00.000Z",
     "fetchedAt": "2026-11-09T21:05:13.461Z",
     "body": "為解決聽障學生在課堂內容獲取上持續面臨的挑戰，開發了一個數位模型，旨在支援其學術理解與教育融合。\n\n原文來源： [news.google.com](https://voi.id/ar/news/601827)"
+  },
+  {
+    "title": "肯辛頓青少年因在鎮圖書館推動無障礙獲得金獎",
+    "slug": "kensington-teen-earns-gold-award-for-championing-accessibility-at-town-library-zh-53861ea7",
+    "lang": "zh-TW",
+    "summary": "一名肯辛頓的青少年因領導提升當地圖書館無障礙環境的工作，包括實體改造與包容性計畫，獲得金獎。",
+    "category": "case-studies",
+    "tags": [
+      "library",
+      "teen",
+      "award",
+      "accessibility",
+      "community"
+    ],
+    "sourceName": "Seacoastonline.com",
+    "sourceUrl": "https://www.seacoastonline.com/story/news/local/2026/11/10/kensington-teen-earns-gold-award-for-championing-accessibility-at-town-library/92647667007",
+    "relatedSources": [
+      {
+        "name": "Seacoastonline.com",
+        "url": "https://www.seacoastonline.com/story/news/local/2026/11/10/kensington-teen-earns-gold-award-for-championing-accessibility-at-town-library/92647667007"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-53861ea7",
+    "status": "published",
+    "translationOf": "kensington-teen-earns-gold-award-for-championing-accessibility-at-town-library-53861ea7",
+    "publishedAt": "2026-11-10T10:00:00.000Z",
+    "fetchedAt": "2026-11-10T16:26:39.032Z",
+    "body": "一名肯辛頓的青少年因領導提升當地圖書館無障礙環境的工作，包括實體改造與包容性計畫，獲得金獎。\n\n原文來源： [Seacoastonline.com](https://www.seacoastonline.com/story/news/local/2026/11/10/kensington-teen-earns-gold-award-for-championing-accessibility-at-town-library/92647667007)"
+  },
+  {
+    "title": "麥凱藝術博物館獲得50萬美元補助擴大無障礙設施，打造『屬於每個人』的空間",
+    "slug": "mcnay-art-museum-ensures-a-place-of-belonging-with-500000-grant-to-expand-access-zh-765d1132",
+    "lang": "zh-TW",
+    "summary": "麥凱藝術博物館獲得50萬美元補助，用於提升無障礙設施，致力為有障礙的參觀者打造包容環境。",
+    "category": "physical-design",
+    "tags": [
+      "museum",
+      "grant",
+      "accessibility",
+      "inclusion",
+      "disability"
+    ],
+    "sourceName": "Texas Public Radio | TPR",
+    "sourceUrl": "https://www.tpr.org/disability-access/2026-11-09/mcnay-art-museum-ensures-a-place-of-belonging-with-500-000-grant-to-expand-accessibility",
+    "relatedSources": [
+      {
+        "name": "Texas Public Radio | TPR",
+        "url": "https://www.tpr.org/disability-access/2026-11-09/mcnay-art-museum-ensures-a-place-of-belonging-with-500-000-grant-to-expand-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-765d1132",
+    "status": "published",
+    "translationOf": "mcnay-art-museum-ensures-a-place-of-belonging-with-500000-grant-to-expand-access-765d1132",
+    "publishedAt": "2026-11-09T20:50:22.000Z",
+    "fetchedAt": "2026-11-10T16:26:39.086Z",
+    "body": "麥凱藝術博物館獲得50萬美元補助，用於提升無障礙設施，致力為有障礙的參觀者打造包容環境。\n\n原文來源： [Texas Public Radio | TPR](https://www.tpr.org/disability-access/2026-11-09/mcnay-art-museum-ensures-a-place-of-belonging-with-500-000-grant-to-expand-accessibility)"
+  },
+  {
+    "title": "Apple TV 推出全新手語無障礙功能",
+    "slug": "apple-tv-launches-new-sign-language-accessibility-feature-zh-b8775504",
+    "lang": "zh-TW",
+    "summary": "Apple TV 為部分內容加入手語翻譯功能，提升聽障使用者的數位無障礙體驗。",
+    "category": "digital-a11y",
+    "tags": [
+      "Apple TV",
+      "sign language",
+      "accessibility",
+      "deaf",
+      "digital"
+    ],
+    "sourceName": "9to5Mac",
+    "sourceUrl": "https://9to5mac.com/2026/11/10/apple-tv-new-sign-language-accessibility",
+    "relatedSources": [
+      {
+        "name": "9to5Mac",
+        "url": "https://9to5mac.com/2026/11/10/apple-tv-new-sign-language-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-b8775504",
+    "status": "published",
+    "translationOf": "apple-tv-launches-new-sign-language-accessibility-feature-b8775504",
+    "publishedAt": "2026-11-10T16:06:00.000Z",
+    "fetchedAt": "2026-11-10T16:26:39.116Z",
+    "body": "Apple TV 為部分內容加入手語翻譯功能，提升聽障使用者的數位無障礙體驗。\n\n原文來源： [9to5Mac](https://9to5mac.com/2026/11/10/apple-tv-new-sign-language-accessibility)"
+  },
+  {
+    "title": "推出 Waymo 無障礙網路（英國）：共同設計自動駕駛未來",
+    "slug": "introducing-the-waymo-accessibility-network-uk-co-designing-the-future-of-autono-zh-ff533b7b",
+    "lang": "zh-TW",
+    "summary": "Waymo 在英國成立無障礙網路，邀請身心障礙者共同設計自動駕駛車輛功能，致力讓自駕車更符合各類行動需求。",
+    "category": "assistive-tech",
+    "tags": [
+      "Waymo",
+      "autonomous vehicles",
+      "accessibility network",
+      "co‑design",
+      "UK"
+    ],
+    "sourceName": "Waymo",
+    "sourceUrl": "https://waymo.com/blog/2026/11/uk-accessibility-network",
+    "relatedSources": [
+      {
+        "name": "Waymo",
+        "url": "https://waymo.com/blog/2026/11/uk-accessibility-network"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ff533b7b",
+    "status": "published",
+    "translationOf": "introducing-the-waymo-accessibility-network-uk-co-designing-the-future-of-autono-ff533b7b",
+    "publishedAt": "2026-11-10T14:37:30.000Z",
+    "fetchedAt": "2026-11-10T16:26:48.040Z",
+    "body": "Waymo 在英國成立無障礙網路，邀請身心障礙者共同設計自動駕駛車輛功能，致力讓自駕車更符合各類行動需求。\n\n原文來源： [Waymo](https://waymo.com/blog/2026/11/uk-accessibility-network)"
+  },
+  {
+    "title": "奧塔瓦縣選民批准公園稅金增幅以提升步道、無障礙與保育",
+    "slug": "ottawa-county-voters-approve-parks-millage-increase-for-trails-accessibility-and-zh-483e0d54",
+    "lang": "zh-TW",
+    "summary": "密西根州奧塔瓦縣選民通過稅金增幅，用於資助步道改善，包含符合身心障礙者無障礙標準的升級，同時推動自然保育。",
+    "category": "physical-design",
+    "tags": [
+      "Ottawa County",
+      "trail accessibility",
+      "parks millage",
+      "conservation",
+      "disability access"
+    ],
+    "sourceName": "FOX 17 West Michigan News",
+    "sourceUrl": "https://www.fox17online.com/news/local-news/holland-zeeland-grand-haven/ottawa-county-voters-approve-parks-millage-increase-for-trails-accessibility-and-conservation",
+    "relatedSources": [
+      {
+        "name": "FOX 17 West Michigan News",
+        "url": "https://www.fox17online.com/news/local-news/holland-zeeland-grand-haven/ottawa-county-voters-approve-parks-millage-increase-for-trails-accessibility-and-conservation"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-483e0d54",
+    "status": "published",
+    "translationOf": "ottawa-county-voters-approve-parks-millage-increase-for-trails-accessibility-and-483e0d54",
+    "publishedAt": "2026-11-10T03:32:33.000Z",
+    "fetchedAt": "2026-11-10T16:26:48.082Z",
+    "body": "密西根州奧塔瓦縣選民通過稅金增幅，用於資助步道改善，包含符合身心障礙者無障礙標準的升級，同時推動自然保育。\n\n原文來源： [FOX 17 West Michigan News](https://www.fox17online.com/news/local-news/holland-zeeland-grand-haven/ottawa-county-voters-approve-parks-millage-increase-for-trails-accessibility-and-conservation)"
+  },
+  {
+    "title": "奧羅拉立法者審查 150 萬美元議會大廳無障礙升級計畫",
+    "slug": "aurora-lawmakers-reviewing-15-million-council-chambers-accessibility-upgrade-mon-zh-0a503ce0",
+    "lang": "zh-TW",
+    "summary": "奧羅拉市官員正在審議一項 150 萬美元的計畫，為議會大廳增設坡道、升降機等設施，以符合身心障礙者無障礙規範。",
+    "category": "physical-design",
+    "tags": [
+      "Aurora",
+      "council chambers",
+      "accessibility upgrade",
+      "ramps",
+      "lifts",
+      "disability compliance"
+    ],
+    "sourceName": "Sentinel Colorado",
+    "sourceUrl": "https://sentinelcolorado.com/metro/aurora-lawmakers-reviewing-1-5-million-council-chambers-accessibility-upgrade-monday",
+    "relatedSources": [
+      {
+        "name": "Sentinel Colorado",
+        "url": "https://sentinelcolorado.com/metro/aurora-lawmakers-reviewing-1-5-million-council-chambers-accessibility-upgrade-monday"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-0a503ce0",
+    "status": "published",
+    "translationOf": "aurora-lawmakers-reviewing-15-million-council-chambers-accessibility-upgrade-mon-0a503ce0",
+    "publishedAt": "2026-11-09T22:17:48.000Z",
+    "fetchedAt": "2026-11-10T16:26:48.157Z",
+    "body": "奧羅拉市官員正在審議一項 150 萬美元的計畫，為議會大廳增設坡道、升降機等設施，以符合身心障礙者無障礙規範。\n\n原文來源： [Sentinel Colorado](https://sentinelcolorado.com/metro/aurora-lawmakers-reviewing-1-5-million-council-chambers-accessibility-upgrade-monday)"
+  },
+  {
+    "title": "LINE Chrome版退場有譜？電腦版無障礙功能曝光",
+    "slug": "potential-discontinuation-of-line-chrome-version-and-reveal-of-desktop-accessibi-zh-5286eea4",
+    "lang": "zh-TW",
+    "summary": "報導指出LINE Chrome版可能將被終止，同時揭露電腦版新增的無障礙功能，提升對身障使用者的支援。",
+    "category": "digital-a11y",
+    "tags": [
+      "LINE",
+      "Chrome",
+      "desktop",
+      "accessibility",
+      "software"
+    ],
+    "sourceName": "自由時報",
+    "sourceUrl": "https://stock.ltn.com.tw/article/rashtr3asssq",
+    "relatedSources": [
+      {
+        "name": "自由時報",
+        "url": "https://stock.ltn.com.tw/article/rashtr3asssq"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5286eea4",
+    "status": "published",
+    "translationOf": "potential-discontinuation-of-line-chrome-version-and-reveal-of-desktop-accessibi-5286eea4",
+    "publishedAt": "2026-11-10T07:50:46.000Z",
+    "fetchedAt": "2026-11-10T16:27:05.910Z",
+    "body": "報導指出LINE Chrome版可能將被終止，同時揭露電腦版新增的無障礙功能，提升對身障使用者的支援。\n\n原文來源： [自由時報](https://stock.ltn.com.tw/article/rashtr3asssq)"
+  },
+  {
+    "title": "叫車平台拚高齡友善！Uber送近250萬點數助公益 Bolt推無障礙服務",
+    "slug": "ridehailing-platforms-vie-for-seniorfriendly-services-uber-donates-25-million-po-zh-68c843ca",
+    "lang": "zh-TW",
+    "summary": "Uber 捐出近250萬點數支援公益，Bolt 則推出無障礙叫車服務，兩者競爭提供更友善高齡與身障人士的交通選項，顯示平台在提升無障礙交通上的努力。",
+    "category": "physical-design",
+    "tags": [
+      "ride‑hailing",
+      "Uber",
+      "Bolt",
+      "barrier‑free",
+      "senior‑friendly",
+      "disability",
+      "transportation"
+    ],
+    "sourceName": "中時新聞網",
+    "sourceUrl": "https://www.chinatimes.com/realtimenews/20261110003376-260405",
+    "relatedSources": [
+      {
+        "name": "中時新聞網",
+        "url": "https://www.chinatimes.com/realtimenews/20261110003376-260405"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-68c843ca",
+    "status": "published",
+    "translationOf": "ridehailing-platforms-vie-for-seniorfriendly-services-uber-donates-25-million-po-68c843ca",
+    "publishedAt": "2026-11-10T07:27:26.000Z",
+    "fetchedAt": "2026-11-10T16:27:57.312Z",
+    "body": "Uber 捐出近250萬點數支援公益，Bolt 則推出無障礙叫車服務，兩者競爭提供更友善高齡與身障人士的交通選項，顯示平台在提升無障礙交通上的努力。\n\n原文來源： [中時新聞網](https://www.chinatimes.com/realtimenews/20261110003376-260405)"
+  },
+  {
+    "title": "微軟讓 Windows 更容易關閉「黏性鍵」彈出視窗",
+    "slug": "microsoft-makes-it-easier-to-banish-sticky-keys-pop-up-in-windows-zh-4e84a5b3",
+    "lang": "zh-TW",
+    "summary": "微軟更新 Windows，使使用者更容易關閉在連按五次 Shift 後出現的「黏性鍵」提示，減少對不需要此功能的使用者的干擾，提升了數位無障礙，讓使用者可自行管理輔助功能。",
+    "category": "digital-a11y",
+    "tags": [
+      "Sticky Keys",
+      "Windows",
+      "accessibility",
+      "pop-up",
+      "keyboard"
+    ],
+    "sourceName": "PCMag.com",
+    "sourceUrl": "https://uk.pcmag.com/migrated-3765-windows-10/168307/microsoft-makes-it-easier-to-banish-sticky-keys-pop-up-in-windows",
+    "relatedSources": [
+      {
+        "name": "PCMag.com",
+        "url": "https://uk.pcmag.com/migrated-3765-windows-10/168307/microsoft-makes-it-easier-to-banish-sticky-keys-pop-up-in-windows"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-4e84a5b3",
+    "status": "published",
+    "translationOf": "microsoft-makes-it-easier-to-banish-sticky-keys-pop-up-in-windows-4e84a5b3",
+    "publishedAt": "2026-11-09T16:07:33.000Z",
+    "fetchedAt": "2026-11-10T16:29:05.437Z",
+    "body": "微軟更新 Windows，使使用者更容易關閉在連按五次 Shift 後出現的「黏性鍵」提示，減少對不需要此功能的使用者的干擾，提升了數位無障礙，讓使用者可自行管理輔助功能。\n\n原文來源： [PCMag.com](https://uk.pcmag.com/migrated-3765-windows-10/168307/microsoft-makes-it-easier-to-banish-sticky-keys-pop-up-in-windows)"
+  },
+  {
+    "title": "適應性服裝市場預計到2032年突破100億美元，因無障礙與包容性服飾需求增長",
+    "slug": "adaptive-clothing-market-to-cross-usd-10-bn-by-2032-as-demand-for-accessible-and-zh-e444b639",
+    "lang": "zh-TW",
+    "summary": "Mordor Intelligence 表示，2026 年適應性服裝市場規模為 65.2 億美元，預計到 2032 年將達 103.9 億美元，主要受對能滿足身心障礙者需求的無障礙、包容性服飾的需求推動。",
+    "category": "assistive-tech",
+    "tags": [
+      "adaptive clothing",
+      "market",
+      "accessibility",
+      "inclusive apparel",
+      "disability"
+    ],
+    "sourceName": "PR Newswire UK",
+    "sourceUrl": "https://www.prnewswire.co.uk/news-releases/adaptive-clothing-market-to-cross-usd-10-bn-by-2032-as-demand-for-accessible-and-inclusive-apparel-grows-says-mordor-intelligence-302933498.html",
+    "relatedSources": [
+      {
+        "name": "PR Newswire UK",
+        "url": "https://www.prnewswire.co.uk/news-releases/adaptive-clothing-market-to-cross-usd-10-bn-by-2032-as-demand-for-accessible-and-inclusive-apparel-grows-says-mordor-intelligence-302933498.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-e444b639",
+    "status": "published",
+    "translationOf": "adaptive-clothing-market-to-cross-usd-10-bn-by-2032-as-demand-for-accessible-and-e444b639",
+    "publishedAt": "2026-11-09T15:09:00.000Z",
+    "fetchedAt": "2026-11-10T16:29:15.100Z",
+    "body": "Mordor Intelligence 表示，2026 年適應性服裝市場規模為 65.2 億美元，預計到 2032 年將達 103.9 億美元，主要受對能滿足身心障礙者需求的無障礙、包容性服飾的需求推動。\n\n原文來源： [PR Newswire UK](https://www.prnewswire.co.uk/news-releases/adaptive-clothing-market-to-cross-usd-10-bn-by-2032-as-demand-for-accessible-and-inclusive-apparel-grows-says-mordor-intelligence-302933498.html)"
+  },
+  {
+    "title": "桃園龍潭大池環境優化 動工",
+    "slug": "taoyuan-longtan-reservoir-environment-optimization-construction-zh-d6543d91",
+    "lang": "zh-TW",
+    "summary": "桃園市長主持龍潭大池步道暨燈光改善工程開工，投入約新臺幣六千萬元，整合步道、夜間照明、親水設施及無障礙環境優化，預計 13 個月完成，打造全齡水岸空間。",
+    "category": "physical-design",
+    "tags": [
+      "無障礙",
+      "步道",
+      "照明",
+      "水岸空間",
+      "環境優化"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E9%BE%8D%E6%BD%AD%E5%A4%A7%E6%B1%A0%E7%92%B0%E5%A2%83%E5%84%AA%E5%8C%96-%E5%8B%95%E5%B7%A5-142329165.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E9%BE%8D%E6%BD%AD%E5%A4%A7%E6%B1%A0%E7%92%B0%E5%A2%83%E5%84%AA%E5%8C%96-%E5%8B%95%E5%B7%A5-142329165.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-d6543d91",
+    "status": "published",
+    "translationOf": "taoyuan-longtan-reservoir-environment-optimization-construction-d6543d91",
+    "publishedAt": "2026-11-09T14:23:29.000Z",
+    "fetchedAt": "2026-11-10T16:29:15.140Z",
+    "body": "桃園市長主持龍潭大池步道暨燈光改善工程開工，投入約新臺幣六千萬元，整合步道、夜間照明、親水設施及無障礙環境優化，預計 13 個月完成，打造全齡水岸空間。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E9%BE%8D%E6%BD%AD%E5%A4%A7%E6%B1%A0%E7%92%B0%E5%A2%83%E5%84%AA%E5%8C%96-%E5%8B%95%E5%B7%A5-142329165.html)"
+  },
+  {
+    "title": "愛心跨越縣市！臺中創業夫妻捐贈復康巴士　臺東無障礙交通注入暖心力量",
+    "slug": "heartfelt-crosscounty-donation-taichung-entrepreneur-couple-gives-rehab-bus-boos-zh-7026a0b8",
+    "lang": "zh-TW",
+    "summary": "臺中創業夫妻捐贈復康巴士至臺東，提升身心障礙者與行動不便長者的交通接送服務量能，為無障礙交通注入暖心力量。",
+    "category": "case-studies",
+    "tags": [
+      "復康巴士",
+      "無障礙交通",
+      "捐贈",
+      "身心障礙",
+      "長者"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%84%9B%E5%BF%83%E8%B7%A8%E8%B6%8A%E7%B8%A3%E5%B8%82-%E8%87%BA%E4%B8%AD%E5%89%B5%E6%A5%AD%E5%A4%AB%E5%A6%BB%E6%8D%90%E8%B4%88%E5%BE%A9%E5%BA%B7%E5%B7%B4%E5%A3%AB-%E8%87%BA%E6%9D%B1%E7%84%A1%E9%9A%9C%E7%A4%99%E4%BA%A4%E9%80%9A%E6%B3%A8%E5%85%A5%E6%9A%96%E5%BF%83%E5%8A%9B%E9%87%8F-125408634.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E6%84%9B%E5%BF%83%E8%B7%A8%E8%B6%8A%E7%B8%A3%E5%B8%82-%E8%87%BA%E4%B8%AD%E5%89%B5%E6%A5%AD%E5%A4%AB%E5%A6%BB%E6%8D%90%E8%B4%88%E5%BE%A9%E5%BA%B7%E5%B7%B4%E5%A3%AB-%E8%87%BA%E6%9D%B1%E7%84%A1%E9%9A%9C%E7%A4%99%E4%BA%A4%E9%80%9A%E6%B3%A8%E5%85%A5%E6%9A%96%E5%BF%83%E5%8A%9B%E9%87%8F-125408634.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-7026a0b8",
+    "status": "published",
+    "translationOf": "heartfelt-crosscounty-donation-taichung-entrepreneur-couple-gives-rehab-bus-boos-7026a0b8",
+    "publishedAt": "2026-11-09T12:54:08.000Z",
+    "fetchedAt": "2026-11-10T16:29:15.351Z",
+    "body": "臺中創業夫妻捐贈復康巴士至臺東，提升身心障礙者與行動不便長者的交通接送服務量能，為無障礙交通注入暖心力量。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E6%84%9B%E5%BF%83%E8%B7%A8%E8%B6%8A%E7%B8%A3%E5%B8%82-%E8%87%BA%E4%B8%AD%E5%89%B5%E6%A5%AD%E5%A4%AB%E5%A6%BB%E6%8D%90%E8%B4%88%E5%BE%A9%E5%BA%B7%E5%B7%B4%E5%A3%AB-%E8%87%BA%E6%9D%B1%E7%84%A1%E9%9A%9C%E7%A4%99%E4%BA%A4%E9%80%9A%E6%B3%A8%E5%85%A5%E6%9A%96%E5%BF%83%E5%8A%9B%E9%87%8F-125408634.html)"
   }
 ]
