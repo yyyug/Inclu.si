@@ -73667,5 +73667,39 @@
     "publishedAt": "2026-08-28T07:00:00.000Z",
     "fetchedAt": "2026-11-10T18:15:41.235Z",
     "body": "《今日第七》的一篇文章重點介紹了被稱為「有能力者」的殘障人士，他們成為團結的明星，強調了他們在關懷、創意和社會參與中的核心作用。該文章讚美了他們的成就以及社會對其融入和賦權的重視。\n\n原文來源： [news.google.com](https://www.youm7.com/story/2026/8/28/%D9%86%D8%AC%D9%88%D9%85-%D8%B5%D9%86%D8%B9%D8%AA%D9%87%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D9%81%D9%8A-%D9%82%D9%84%D8%A8-%D8%A7%D9%84%D8%A7%D9%87%D8%AA%D9%85%D8%A7%D9%85-%D9%88%D8%A7%D9%84%D8%A5%D8%A8%D8%AF%D8%A7%D8%B9/7529021)"
+  },
+  {
+    "title": "勞動部全球資訊網查詢系統無障礙升級",
+    "slug": "labor-ministrys-query-system-upgraded-for-web-accessibility-zh-a7717f39",
+    "lang": "zh-TW",
+    "summary": "勞動部升級查詢系統，符合無障礙網頁標準，提升身障者查詢勞動法令的便利性。",
+    "category": "digital-a11y",
+    "tags": [
+      "web accessibility",
+      "government website",
+      "labor law",
+      "Taiwan",
+      "assistive technology"
+    ],
+    "sourceName": "勞動部全球資訊網",
+    "sourceUrl": "https://www.mol.gov.tw/1607/1632/1633/96629?cprint=pt",
+    "relatedSources": [
+      {
+        "name": "勞動部全球資訊網",
+        "url": "https://www.mol.gov.tw/1607/1632/1633/96629?cprint=pt"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a7717f39",
+    "status": "published",
+    "translationOf": "labor-ministrys-query-system-upgraded-for-web-accessibility-a7717f39",
+    "publishedAt": "2026-08-18T07:00:00.000Z",
+    "fetchedAt": "2026-11-10T22:26:02.704Z",
+    "body": "勞動部升級查詢系統，符合無障礙網頁標準，提升身障者查詢勞動法令的便利性。\n\n原文來源： [勞動部全球資訊網](https://www.mol.gov.tw/1607/1632/1633/96629?cprint=pt)"
   }
 ]
