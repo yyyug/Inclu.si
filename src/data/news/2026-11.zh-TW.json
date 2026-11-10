@@ -31943,5 +31943,40 @@
     "publishedAt": "2026-11-09T20:31:29.000Z",
     "fetchedAt": "2026-11-10T22:26:11.581Z",
     "body": "OpenHear BM420 骨傳導助聽器在 CES 2027 創新獎的「無障礙與長壽」類別中獲得表彰，突顯 Shokz 在開放式耳機與聽力護理技術方面的進步。\n\n原文來源： [Biztoc.com](https://biztoc.com/x/a9623eb7c542ca32)"
+  },
+  {
+    "title": "Turnover：由 vibe coding 開發的開源 Mac 螢幕閱讀器交由社群",
+    "slug": "turnover-an-open-source-mac-screen-reader-built-by-vibe-coding-goes-to-the-commu-zh-f23c54db",
+    "lang": "zh-TW",
+    "summary": "Turnover 是由 vibe coding 開發的 Mac 螢幕閱讀器，已開源並交由社群維護，作為 Apple VoiceOver 的替代方案，提供視障使用者可客製化且免費的閱讀工具。",
+    "category": "assistive-tech",
+    "tags": [
+      "screen reader",
+      "macOS",
+      "open source",
+      "assistive technology",
+      "VoiceOver",
+      "community"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/turnover-an-open-source-mac-screen-reader-built-by-vibe-coding-goes-to-the-community",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/turnover-an-open-source-mac-screen-reader-built-by-vibe-coding-goes-to-the-community"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-f23c54db",
+    "status": "published",
+    "translationOf": "turnover-an-open-source-mac-screen-reader-built-by-vibe-coding-goes-to-the-commu-f23c54db",
+    "publishedAt": "2026-11-09T19:28:26.000Z",
+    "fetchedAt": "2026-11-10T22:28:04.828Z",
+    "body": "Turnover 是由 vibe coding 開發的 Mac 螢幕閱讀器，已開源並交由社群維護，作為 Apple VoiceOver 的替代方案，提供視障使用者可客製化且免費的閱讀工具。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/turnover-an-open-source-mac-screen-reader-built-by-vibe-coding-goes-to-the-community)"
   }
 ]

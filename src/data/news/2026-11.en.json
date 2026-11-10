@@ -31943,5 +31943,40 @@
     "publishedAt": "2026-11-09T20:31:29.000Z",
     "fetchedAt": "2026-11-10T22:26:11.581Z",
     "body": "The OpenHear BM420 bone‑conduction hearing aid was honored at the CES 2027 Innovation Awards in the Accessibility & Longevity category, highlighting Shokz’s advances in open‑ear audio and hearing‑care technology.\n\nRead more from the original source: [Biztoc.com](https://biztoc.com/x/a9623eb7c542ca32)"
+  },
+  {
+    "title": "Turnover, an open-source Mac screen reader built by vibe coding, goes to the community",
+    "slug": "turnover-an-open-source-mac-screen-reader-built-by-vibe-coding-goes-to-the-commu-f23c54db",
+    "lang": "en",
+    "summary": "Turnover is a newly open‑sourced Mac screen reader created by vibe coding, positioned as a community‑driven alternative to Apple’s VoiceOver, aiming to provide a customizable, free screen‑reading solution for visually impaired users.",
+    "category": "assistive-tech",
+    "tags": [
+      "screen reader",
+      "macOS",
+      "open source",
+      "assistive technology",
+      "VoiceOver",
+      "community"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/turnover-an-open-source-mac-screen-reader-built-by-vibe-coding-goes-to-the-community",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/turnover-an-open-source-mac-screen-reader-built-by-vibe-coding-goes-to-the-community"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-f23c54db",
+    "status": "published",
+    "translationOf": "turnover-an-open-source-mac-screen-reader-built-by-vibe-coding-goes-to-the-commu-zh-f23c54db",
+    "publishedAt": "2026-11-09T19:28:26.000Z",
+    "fetchedAt": "2026-11-10T22:28:04.828Z",
+    "body": "Turnover is a newly open‑sourced Mac screen reader created by vibe coding, positioned as a community‑driven alternative to Apple’s VoiceOver, aiming to provide a customizable, free screen‑reading solution for visually impaired users.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/turnover-an-open-source-mac-screen-reader-built-by-vibe-coding-goes-to-the-community)"
   }
 ]
