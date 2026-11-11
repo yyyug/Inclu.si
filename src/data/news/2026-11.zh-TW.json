@@ -32581,5 +32581,236 @@
     "publishedAt": "2026-11-10T12:48:06.000Z",
     "fetchedAt": "2026-11-10T23:43:02.604Z",
     "body": "埃及政府宣布撥出2800萬埃及鎊，以支持7個殘疾人奧林匹克聯合會，旨在改善基礎設施、訓練體系，並提高殘疾運動員的參與度。\n\n原文來源： [news.google.com](https://www.akhbrna.ae/sports/28-mlywn-jnyh-ldam-7)"
+  },
+  {
+    "title": "網路研討會：監獄系統的 ADA 無障礙：改善可及性與降低營運風險的實務步驟",
+    "slug": "webinar-ada-accessibility-in-corrections-practical-steps-to-improve-access-and-r-zh-8cd5293e",
+    "lang": "zh-TW",
+    "summary": "Police1 主辦的研討會說明監獄機構如何依據《美國殘障法》提升建築、計畫與服務的無障礙，提供降低法律與營運風險的實務建議。",
+    "category": "laws-rights",
+    "tags": [
+      "ADA",
+      "corrections",
+      "accessibility",
+      "legal",
+      "operational-risk"
+    ],
+    "sourceName": "Police1",
+    "sourceUrl": "https://www.police1.com/legal/webinar-ada-accessibility-in-corrections-practical-steps-to-improve-access-and-reduce-operational-risk",
+    "relatedSources": [
+      {
+        "name": "Police1",
+        "url": "https://www.police1.com/legal/webinar-ada-accessibility-in-corrections-practical-steps-to-improve-access-and-reduce-operational-risk"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-8cd5293e",
+    "status": "published",
+    "translationOf": "webinar-ada-accessibility-in-corrections-practical-steps-to-improve-access-and-r-8cd5293e",
+    "publishedAt": "2026-11-11T05:11:48.000Z",
+    "fetchedAt": "2026-11-11T16:11:48.880Z",
+    "body": "Police1 主辦的研討會說明監獄機構如何依據《美國殘障法》提升建築、計畫與服務的無障礙，提供降低法律與營運風險的實務建議。\n\n原文來源： [Police1](https://www.police1.com/legal/webinar-ada-accessibility-in-corrections-practical-steps-to-improve-access-and-reduce-operational-risk)"
+  },
+  {
+    "title": "微軟優化 Windows 鍵盤無障礙功能",
+    "slug": "microsoft-improves-windows-keyboard-accessibility-features-zh-fa047293",
+    "lang": "zh-TW",
+    "summary": "TechSpot 報導微軟調整 Windows 鍵盤無障礙設定，減少使用輔助鍵盤快捷鍵的使用者的困擾，提升使用體驗。",
+    "category": "assistive-tech",
+    "tags": [
+      "Microsoft",
+      "Windows",
+      "keyboard",
+      "assistive-tech",
+      "accessibility"
+    ],
+    "sourceName": "TechSpot",
+    "sourceUrl": "https://www.techspot.com/news/114493-microsoft-making-windows-keyboard-accessibility-features-less-annoying.html",
+    "relatedSources": [
+      {
+        "name": "TechSpot",
+        "url": "https://www.techspot.com/news/114493-microsoft-making-windows-keyboard-accessibility-features-less-annoying.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-fa047293",
+    "status": "published",
+    "translationOf": "microsoft-improves-windows-keyboard-accessibility-features-fa047293",
+    "publishedAt": "2026-11-09T19:04:08.000Z",
+    "fetchedAt": "2026-11-11T16:11:48.950Z",
+    "body": "TechSpot 報導微軟調整 Windows 鍵盤無障礙設定，減少使用輔助鍵盤快捷鍵的使用者的困擾，提升使用體驗。\n\n原文來源： [TechSpot](https://www.techspot.com/news/114493-microsoft-making-windows-keyboard-accessibility-features-less-annoying.html)"
+  },
+  {
+    "title": "支持殘障運動員突破障礙",
+    "slug": "supporting-para-athletes-to-break-down-barriers-zh-6ac5fd7e",
+    "lang": "zh-TW",
+    "summary": "澳洲政府的Para Uplift AIS殘障運動員障礙基金向144名參與22項運動的殘奧選手提供最高4,000美元的補助，協助他們克服個人障礙。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "para-athletes",
+      "funding",
+      "barriers",
+      "sports"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/11/11/sports/supporting-para-athletes-to-break-down-barriers",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/11/11/sports/supporting-para-athletes-to-break-down-barriers"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-6ac5fd7e",
+    "status": "published",
+    "translationOf": "supporting-para-athletes-to-break-down-barriers-6ac5fd7e",
+    "publishedAt": "2026-11-11T03:01:10.000Z",
+    "fetchedAt": "2026-11-11T16:14:10.478Z",
+    "body": "澳洲政府的Para Uplift AIS殘障運動員障礙基金向144名參與22項運動的殘奧選手提供最高4,000美元的補助，協助他們克服個人障礙。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/11/11/sports/supporting-para-athletes-to-break-down-barriers)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "uganda-launches-new-financial-literacy-strategy-for-inclusive-growth-zh-f00c75a7",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/11/11/misc/uganda-launches-new-financial-literacy-strategy-for-inclusive-growth",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/11/11/misc/uganda-launches-new-financial-literacy-strategy-for-inclusive-growth"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-f00c75a7",
+    "status": "draft",
+    "translationOf": "uganda-launches-new-financial-literacy-strategy-for-inclusive-growth-f00c75a7",
+    "publishedAt": "2026-11-11T02:53:20.000Z",
+    "fetchedAt": "2026-11-11T16:14:10.535Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://disabilityinsider.com/2026/11/11/misc/uganda-launches-new-financial-literacy-strategy-for-inclusive-growth)"
+  },
+  {
+    "title": "英格蘭殘障人士等待輪椅長達兩年",
+    "slug": "disabled-people-in-england-have-to-wait-up-to-two-years-for-wheelchairs-zh-ba2c982f",
+    "lang": "zh-TW",
+    "summary": "公共服務監察員報告指出，NHS及私營製造商導致輪椅交付延遲最長可達兩年，嚴重限制使用者的獨立生活。",
+    "category": "laws-rights",
+    "tags": [
+      "wheelchair",
+      "NHS",
+      "delays",
+      "accessibility"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/society/2026/nov/11/disabled-people-in-england-have-to-wait-up-to-two-years-for-wheelchairs",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/society/2026/nov/11/disabled-people-in-england-have-to-wait-up-to-two-years-for-wheelchairs"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-ba2c982f",
+    "status": "published",
+    "translationOf": "disabled-people-in-england-have-to-wait-up-to-two-years-for-wheelchairs-ba2c982f",
+    "publishedAt": "2026-11-11T00:01:23.000Z",
+    "fetchedAt": "2026-11-11T16:14:10.599Z",
+    "body": "公共服務監察員報告指出，NHS及私營製造商導致輪椅交付延遲最長可達兩年，嚴重限制使用者的獨立生活。\n\n原文來源： [Unknown source](https://www.theguardian.com/society/2026/nov/11/disabled-people-in-england-have-to-wait-up-to-two-years-for-wheelchairs)"
+  },
+  {
+    "title": "東大附特15週年校慶 適性運動展現平權",
+    "slug": "15th-anniversary-celebration-of-ntu-taitung-special-education-school-showcases-i-zh-91e047b8",
+    "lang": "zh-TW",
+    "summary": "國立臺東大學附屬特殊教育學校舉辦15週年校慶運動會，設計適性競賽與無障礙體驗，包括短跑、拔河、大隊接力及為行動不便學生設計的「跑三競速」，使用三輪車與助行器等輔具，展現共融教育與平等參與的理念。",
+    "category": "case-studies",
+    "tags": [
+      "inclusive sports",
+      "adaptive competition",
+      "assistive devices",
+      "special education",
+      "accessibility"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7cdf7973-6e9a-4187-8545-dd1cbeca14d2",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7cdf7973-6e9a-4187-8545-dd1cbeca14d2"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-91e047b8",
+    "status": "published",
+    "translationOf": "15th-anniversary-celebration-of-ntu-taitung-special-education-school-showcases-i-91e047b8",
+    "publishedAt": "2026-11-09T09:00:30.000Z",
+    "fetchedAt": "2026-11-11T16:15:43.060Z",
+    "body": "國立臺東大學附屬特殊教育學校舉辦15週年校慶運動會，設計適性競賽與無障礙體驗，包括短跑、拔河、大隊接力及為行動不便學生設計的「跑三競速」，使用三輪車與助行器等輔具，展現共融教育與平等參與的理念。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7cdf7973-6e9a-4187-8545-dd1cbeca14d2)"
+  },
+  {
+    "title": "龍潭大池周邊步道及燈光改善工程開工　張善政：融合在地文化打造全齡友善水岸空間",
+    "slug": "construction-of-path-and-lighting-improvements-around-longtan-reservoir-begins-a-zh-367987cf",
+    "lang": "zh-TW",
+    "summary": "桃園市長張善政出席龍潭大池周邊步道暨燈光改善工程開工典禮，投入約6,000萬元改善步道動線、夜間照明、親水設施及無障礙環境，保留龍形石，提升夜間通行安全，打造兼具文化與休憩功能的全齡友善水岸空間。",
+    "category": "physical-design",
+    "tags": [
+      "Longtan Reservoir",
+      "waterfront",
+      "accessible design",
+      "barrier‑free",
+      "public space",
+      "Taiwan"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E9%BE%8D%E6%BD%AD%E5%A4%A7%E6%B1%A0%E5%91%A8%E9%82%8A%E6%AD%A5%E9%81%93%E5%8F%8A%E7%87%88%E5%85%89%E6%94%B9%E5%96%84%E5%B7%A5%E7%A8%8B%E9%96%8B%E5%B7%A5-%E5%BC%B5%E5%96%84%E6%94%BF-%E8%9E%8D%E5%90%88%E5%9C%A8%E5%9C%B0%E6%96%87%E5%8C%96%E6%89%93%E9%80%A0%E5%85%A8%E9%BD%A1%E5%8F%8B%E5%96%84%E6%B0%B4%E5%B2%B8%E7%A9%BA%E9%96%93-070308804.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E9%BE%8D%E6%BD%AD%E5%A4%A7%E6%B1%A0%E5%91%A8%E9%82%8A%E6%AD%A5%E9%81%93%E5%8F%8A%E7%87%88%E5%85%89%E6%94%B9%E5%96%84%E5%B7%A5%E7%A8%8B%E9%96%8B%E5%B7%A5-%E5%BC%B5%E5%96%84%E6%94%BF-%E8%9E%8D%E5%90%88%E5%9C%A8%E5%9C%B0%E6%96%87%E5%8C%96%E6%89%93%E9%80%A0%E5%85%A8%E9%BD%A1%E5%8F%8B%E5%96%84%E6%B0%B4%E5%B2%B8%E7%A9%BA%E9%96%93-070308804.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-367987cf",
+    "status": "published",
+    "translationOf": "construction-of-path-and-lighting-improvements-around-longtan-reservoir-begins-a-367987cf",
+    "publishedAt": "2026-11-09T07:03:08.000Z",
+    "fetchedAt": "2026-11-11T16:16:00.899Z",
+    "body": "桃園市長張善政出席龍潭大池周邊步道暨燈光改善工程開工典禮，投入約6,000萬元改善步道動線、夜間照明、親水設施及無障礙環境，保留龍形石，提升夜間通行安全，打造兼具文化與休憩功能的全齡友善水岸空間。\n\n原文來源： [Yahoo Entertainment](https://tw.news.yahoo.com/%E9%BE%8D%E6%BD%AD%E5%A4%A7%E6%B1%A0%E5%91%A8%E9%82%8A%E6%AD%A5%E9%81%93%E5%8F%8A%E7%87%88%E5%85%89%E6%94%B9%E5%96%84%E5%B7%A5%E7%A8%8B%E9%96%8B%E5%B7%A5-%E5%BC%B5%E5%96%84%E6%94%BF-%E8%9E%8D%E5%90%88%E5%9C%A8%E5%9C%B0%E6%96%87%E5%8C%96%E6%89%93%E9%80%A0%E5%85%A8%E9%BD%A1%E5%8F%8B%E5%96%84%E6%B0%B4%E5%B2%B8%E7%A9%BA%E9%96%93-070308804.html)"
   }
 ]
