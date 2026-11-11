@@ -34034,5 +34034,68 @@
     "publishedAt": "2026-11-10T22:10:35.000Z",
     "fetchedAt": "2026-11-11T23:31:11.173Z",
     "body": "Apple TV app will offer sign‑language interpretation for selected titles starting 13 Nov, supporting ASL and BSL, created with Deaf community input, enhancing accessibility for Deaf viewers.\n\nRead more from the original source: [Gori.me](https://gori.me/apple/apple-news/172277)"
+  },
+  {
+    "title": "Glidance delays Glide pre-orders past Christmas as rollout becomes gradual pilot expansion",
+    "slug": "glidance-delays-glide-pre-orders-past-christmas-as-rollout-becomes-gradual-pilot-8878ad7d",
+    "lang": "en",
+    "summary": "Amos Miller told Double Tap that pre-order customers have been notified their Glide devices will not arrive before Christmas, with the rollout now expanding gradually.",
+    "category": "general",
+    "tags": [],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/glidance-delays-glide-pre-orders-past-christmas-as-rollout-becomes-gradual-pilot-expansion",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/glidance-delays-glide-pre-orders-past-christmas-as-rollout-becomes-gradual-pilot-expansion"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-8878ad7d",
+    "status": "published",
+    "translationOf": "glidance-delays-glide-pre-orders-past-christmas-as-rollout-becomes-gradual-pilot-zh-8878ad7d",
+    "publishedAt": "2026-11-11T22:07:54.000Z",
+    "fetchedAt": "2026-11-11T23:31:12.942Z",
+    "body": "Amos Miller told Double Tap that pre-order customers have been notified their Glide devices will not arrive before Christmas, with the rollout now expanding gradually.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/glidance-delays-glide-pre-orders-past-christmas-as-rollout-becomes-gradual-pilot-expansion)"
+  },
+  {
+    "title": "Listener Barry on ten days with Turnover for Mac, with JAWS and NVDA keys and a VoiceOver fallback",
+    "slug": "listener-barry-on-ten-days-with-turnover-for-mac-with-jaws-and-nvda-keys-and-a-v-e1a28dc4",
+    "lang": "en",
+    "summary": "A discussion about the new Mac screen reader Turnover, its compatibility with JAWS and NVDA key bindings, and its ability to fall back to VoiceOver if it crashes.",
+    "category": "assistive-tech",
+    "tags": [
+      "Mac",
+      "Turnover",
+      "JAWS",
+      "NVDA",
+      "VoiceOver",
+      "screen reader"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/listener-barry-on-ten-days-with-turnover-for-mac-with-jaws-and-nvda-keys-and-a-voiceover-fallback",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/listener-barry-on-ten-days-with-turnover-for-mac-with-jaws-and-nvda-keys-and-a-voiceover-fallback"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-e1a28dc4",
+    "status": "published",
+    "translationOf": "listener-barry-on-ten-days-with-turnover-for-mac-with-jaws-and-nvda-keys-and-a-v-zh-e1a28dc4",
+    "publishedAt": "2026-11-11T22:07:34.000Z",
+    "fetchedAt": "2026-11-11T23:31:22.688Z",
+    "body": "A discussion about the new Mac screen reader Turnover, its compatibility with JAWS and NVDA key bindings, and its ability to fall back to VoiceOver if it crashes.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/listener-barry-on-ten-days-with-turnover-for-mac-with-jaws-and-nvda-keys-and-a-voiceover-fallback)"
   }
 ]

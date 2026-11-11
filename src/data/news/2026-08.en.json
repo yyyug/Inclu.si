@@ -73701,5 +73701,40 @@
     "publishedAt": "2026-08-18T07:00:00.000Z",
     "fetchedAt": "2026-11-10T22:26:02.704Z",
     "body": "The Ministry of Labor upgraded its legal query platform to meet web accessibility standards, making it easier for users with disabilities to search labor regulations.\n\nRead more from the original source: [勞動部全球資訊網](https://www.mol.gov.tw/1607/1632/1633/96629?cprint=pt)"
+  },
+  {
+    "title": "Pathways to Disability Empowerment: Continuing to Navigate the Job Search with the Mac",
+    "slug": "pathways-to-disability-empowerment-continuing-to-navigate-the-job-search-with-th-1c3f4c92",
+    "lang": "en",
+    "summary": "A free Lighthouse webinar explains how blind and low‑vision job seekers can use macOS accessibility features to browse job sites such as Indeed and LinkedIn, fill online applications, and manage the employment search.",
+    "category": "assistive-tech",
+    "tags": [
+      "blind",
+      "low vision",
+      "Mac",
+      "job search",
+      "webinar",
+      "assistive technology"
+    ],
+    "sourceName": "lhblind.org",
+    "sourceUrl": "https://lhblind.org/mac-job-search-blind-job-seekers",
+    "relatedSources": [
+      {
+        "name": "lhblind.org",
+        "url": "https://lhblind.org/mac-job-search-blind-job-seekers"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://lhblind.org/feed",
+    "ingestProvider": "lhblind.org",
+    "clusterId": "cluster-1c3f4c92",
+    "status": "published",
+    "translationOf": "pathways-to-disability-empowerment-continuing-to-navigate-the-job-search-with-th-zh-1c3f4c92",
+    "publishedAt": "2026-08-21T22:01:39.000Z",
+    "fetchedAt": "2026-11-11T23:31:54.436Z",
+    "body": "A free Lighthouse webinar explains how blind and low‑vision job seekers can use macOS accessibility features to browse job sites such as Indeed and LinkedIn, fill online applications, and manage the employment search.\n\nRead more from the original source: [lhblind.org](https://lhblind.org/mac-job-search-blind-job-seekers)"
   }
 ]

@@ -73701,5 +73701,40 @@
     "publishedAt": "2026-08-18T07:00:00.000Z",
     "fetchedAt": "2026-11-10T22:26:02.704Z",
     "body": "勞動部升級查詢系統，符合無障礙網頁標準，提升身障者查詢勞動法令的便利性。\n\n原文來源： [勞動部全球資訊網](https://www.mol.gov.tw/1607/1632/1633/96629?cprint=pt)"
+  },
+  {
+    "title": "通往殘障賦權之路：持續使用 Mac 進行求職導航",
+    "slug": "pathways-to-disability-empowerment-continuing-to-navigate-the-job-search-with-th-zh-1c3f4c92",
+    "lang": "zh-TW",
+    "summary": "本次免費 Lighthouse 網路研討會說明盲人與低視力求職者如何利用 macOS 輔助功能，瀏覽 Indeed、LinkedIn 等求職網站、填寫線上申請，並管理求職過程。",
+    "category": "assistive-tech",
+    "tags": [
+      "blind",
+      "low vision",
+      "Mac",
+      "job search",
+      "webinar",
+      "assistive technology"
+    ],
+    "sourceName": "lhblind.org",
+    "sourceUrl": "https://lhblind.org/mac-job-search-blind-job-seekers",
+    "relatedSources": [
+      {
+        "name": "lhblind.org",
+        "url": "https://lhblind.org/mac-job-search-blind-job-seekers"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://lhblind.org/feed",
+    "ingestProvider": "lhblind.org",
+    "clusterId": "cluster-1c3f4c92",
+    "status": "published",
+    "translationOf": "pathways-to-disability-empowerment-continuing-to-navigate-the-job-search-with-th-1c3f4c92",
+    "publishedAt": "2026-08-21T22:01:39.000Z",
+    "fetchedAt": "2026-11-11T23:31:54.436Z",
+    "body": "本次免費 Lighthouse 網路研討會說明盲人與低視力求職者如何利用 macOS 輔助功能，瀏覽 Indeed、LinkedIn 等求職網站、填寫線上申請，並管理求職過程。\n\n原文來源： [lhblind.org](https://lhblind.org/mac-job-search-blind-job-seekers)"
   }
 ]

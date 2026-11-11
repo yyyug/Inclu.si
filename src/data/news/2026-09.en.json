@@ -93408,5 +93408,39 @@
     "publishedAt": "2026-09-28T07:09:40.000Z",
     "fetchedAt": "2026-11-05T16:33:53.927Z",
     "body": "Live workshop demonstrating how to apply accessibility features in Google Docs to support users with disabilities, covering screen‑reader navigation, alt text, and collaborative editing.\n\nRead more from the original source: [theaccessibilityguy.com](https://theaccessibilityguy.com/google-docs-accessibility-applied-december-10-1-pm-pt)"
+  },
+  {
+    "title": "Pathways to Disability Empowerment: Learn from the Success of Blind and DeafBlind Professionals",
+    "slug": "pathways-to-disability-empowerment-learn-from-the-success-of-blind-and-deafblind-5df9555f",
+    "lang": "en",
+    "summary": "A webinar hosted by The Lighthouse for the Blind on Oct 20 2026 featuring blind and DeafBlind professionals sharing job‑search experiences, workplace accommodations, and includes ASL interpretation.",
+    "category": "case-studies",
+    "tags": [
+      "webinar",
+      "blind",
+      "DeafBlind",
+      "workplace accommodations",
+      "empowerment"
+    ],
+    "sourceName": "lhblind.org",
+    "sourceUrl": "https://lhblind.org/blind-and-deafblind-professionals-webinar",
+    "relatedSources": [
+      {
+        "name": "lhblind.org",
+        "url": "https://lhblind.org/blind-and-deafblind-professionals-webinar"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://lhblind.org/feed",
+    "ingestProvider": "lhblind.org",
+    "clusterId": "cluster-5df9555f",
+    "status": "published",
+    "translationOf": "pathways-to-disability-empowerment-learn-from-the-success-of-blind-and-deafblind-zh-5df9555f",
+    "publishedAt": "2026-09-23T23:43:42.000Z",
+    "fetchedAt": "2026-11-11T23:31:22.527Z",
+    "body": "A webinar hosted by The Lighthouse for the Blind on Oct 20 2026 featuring blind and DeafBlind professionals sharing job‑search experiences, workplace accommodations, and includes ASL interpretation.\n\nRead more from the original source: [lhblind.org](https://lhblind.org/blind-and-deafblind-professionals-webinar)"
   }
 ]

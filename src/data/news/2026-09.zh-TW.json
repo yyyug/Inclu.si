@@ -93408,5 +93408,39 @@
     "publishedAt": "2026-09-28T07:09:40.000Z",
     "fetchedAt": "2026-11-05T16:33:53.927Z",
     "body": "現場工作坊示範如何在 Google Docs 中應用無障礙功能，協助殘障使用者，包括螢幕閱讀器導航、替代文字及共同編輯。\n\n原文來源： [theaccessibilityguy.com](https://theaccessibilityguy.com/google-docs-accessibility-applied-december-10-1-pm-pt)"
+  },
+  {
+    "title": "通往殘障賦權之路：向盲人與失明聽障專業人士學習成功經驗",
+    "slug": "pathways-to-disability-empowerment-learn-from-the-success-of-blind-and-deafblind-zh-5df9555f",
+    "lang": "zh-TW",
+    "summary": "2026年10月20日，盲人之光舉辦線上研討會，邀請盲人與失明聽障專業人士分享求職經驗、工作場所調適，並提供美國手語口譯。",
+    "category": "case-studies",
+    "tags": [
+      "webinar",
+      "blind",
+      "DeafBlind",
+      "workplace accommodations",
+      "empowerment"
+    ],
+    "sourceName": "lhblind.org",
+    "sourceUrl": "https://lhblind.org/blind-and-deafblind-professionals-webinar",
+    "relatedSources": [
+      {
+        "name": "lhblind.org",
+        "url": "https://lhblind.org/blind-and-deafblind-professionals-webinar"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://lhblind.org/feed",
+    "ingestProvider": "lhblind.org",
+    "clusterId": "cluster-5df9555f",
+    "status": "published",
+    "translationOf": "pathways-to-disability-empowerment-learn-from-the-success-of-blind-and-deafblind-5df9555f",
+    "publishedAt": "2026-09-23T23:43:42.000Z",
+    "fetchedAt": "2026-11-11T23:31:22.527Z",
+    "body": "2026年10月20日，盲人之光舉辦線上研討會，邀請盲人與失明聽障專業人士分享求職經驗、工作場所調適，並提供美國手語口譯。\n\n原文來源： [lhblind.org](https://lhblind.org/blind-and-deafblind-professionals-webinar)"
   }
 ]

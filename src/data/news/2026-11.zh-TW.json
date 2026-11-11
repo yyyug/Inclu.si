@@ -34034,5 +34034,68 @@
     "publishedAt": "2026-11-10T22:10:35.000Z",
     "fetchedAt": "2026-11-11T23:31:11.173Z",
     "body": "Apple TV 應用程式將於11月13日起為部分影片提供手語翻譯，支援美國手語（ASL）與英國手語（BSL），由聾啞社群原生手語者監製，提升聽障觀眾的可及性。\n\n原文來源： [Gori.me](https://gori.me/apple/apple-news/172277)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "glidance-delays-glide-pre-orders-past-christmas-as-rollout-becomes-gradual-pilot-zh-8878ad7d",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/glidance-delays-glide-pre-orders-past-christmas-as-rollout-becomes-gradual-pilot-expansion",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/glidance-delays-glide-pre-orders-past-christmas-as-rollout-becomes-gradual-pilot-expansion"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-8878ad7d",
+    "status": "draft",
+    "translationOf": "glidance-delays-glide-pre-orders-past-christmas-as-rollout-becomes-gradual-pilot-8878ad7d",
+    "publishedAt": "2026-11-11T22:07:54.000Z",
+    "fetchedAt": "2026-11-11T23:31:12.942Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/glidance-delays-glide-pre-orders-past-christmas-as-rollout-becomes-gradual-pilot-expansion)"
+  },
+  {
+    "title": "聽眾 Barry 試用十天 Mac 版 Turnover：結合 JAWS、NVDA 按鍵與 VoiceOver 後備",
+    "slug": "listener-barry-on-ten-days-with-turnover-for-mac-with-jaws-and-nvda-keys-and-a-v-zh-e1a28dc4",
+    "lang": "zh-TW",
+    "summary": "討論全新 Mac 螢幕閱讀器 Turnover，支援 JAWS 與 NVDA 鍵位配置，且在當機時可切換回 VoiceOver。",
+    "category": "assistive-tech",
+    "tags": [
+      "Mac",
+      "Turnover",
+      "JAWS",
+      "NVDA",
+      "VoiceOver",
+      "screen reader"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/listener-barry-on-ten-days-with-turnover-for-mac-with-jaws-and-nvda-keys-and-a-voiceover-fallback",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/listener-barry-on-ten-days-with-turnover-for-mac-with-jaws-and-nvda-keys-and-a-voiceover-fallback"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-e1a28dc4",
+    "status": "published",
+    "translationOf": "listener-barry-on-ten-days-with-turnover-for-mac-with-jaws-and-nvda-keys-and-a-v-e1a28dc4",
+    "publishedAt": "2026-11-11T22:07:34.000Z",
+    "fetchedAt": "2026-11-11T23:31:22.688Z",
+    "body": "討論全新 Mac 螢幕閱讀器 Turnover，支援 JAWS 與 NVDA 鍵位配置，且在當機時可切換回 VoiceOver。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/listener-barry-on-ten-days-with-turnover-for-mac-with-jaws-and-nvda-keys-and-a-voiceover-fallback)"
   }
 ]
