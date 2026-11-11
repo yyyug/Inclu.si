@@ -33730,5 +33730,309 @@
     "publishedAt": "2026-11-11T08:12:54.000Z",
     "fetchedAt": "2026-11-11T18:04:03.289Z",
     "body": "本次黑客松展示了利用音頻工具與數位平台協助聽障者的專案，推廣包容性技術解決方案，提升技術學生對無障礙的認識。\n\n原文來源： [news.google.com](https://www.elwatannews.com/news/details/8394333)"
+  },
+  {
+    "title": "Apple TV 內建手語翻譯功能",
+    "slug": "apple-tv-adds-builtin-sign-language-interpretation-zh-2910000d",
+    "lang": "zh-TW",
+    "summary": "Apple TV 現已加入原生手語翻譯功能，於串流內容上疊手語影片，提升聽障與聾人觀眾的可及性。",
+    "category": "digital-a11y",
+    "tags": [
+      "Apple TV",
+      "sign language",
+      "accessibility feature",
+      "Deaf",
+      "streaming"
+    ],
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature",
+    "relatedSources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-2910000d",
+    "status": "published",
+    "translationOf": "apple-tv-adds-builtin-sign-language-interpretation-2910000d",
+    "publishedAt": "2026-11-10T16:00:00.000Z",
+    "fetchedAt": "2026-11-11T23:28:41.041Z",
+    "body": "Apple TV 現已加入原生手語翻譯功能，於串流內容上疊手語影片，提升聽障與聾人觀眾的可及性。\n\n原文來源： [TechCrunch](https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature)"
+  },
+  {
+    "title": "由於排水與無障礙問題，懷俄明州切yenne 碎石停車場計畫被否決",
+    "slug": "cheyenne-gravel-parking-lot-proposal-blocked-over-runoff-and-accessibility-conce-zh-4fdbeca0",
+    "lang": "zh-TW",
+    "summary": "切yenne 的碎石停車場提案因雨水徑流與未符合無障礙設計標準，對殘障人士的使用產生重大疑慮，最終被否決。",
+    "category": "physical-design",
+    "tags": [
+      "Cheyenne",
+      "parking lot",
+      "runoff",
+      "accessibility",
+      "ADA",
+      "physical design"
+    ],
+    "sourceName": "Cap City News",
+    "sourceUrl": "https://capcity.news/community/city/2026/11/10/runoff-accessibility-concerns-doom-cheyenne-gravel-parking-lot-proposal",
+    "relatedSources": [
+      {
+        "name": "Cap City News",
+        "url": "https://capcity.news/community/city/2026/11/10/runoff-accessibility-concerns-doom-cheyenne-gravel-parking-lot-proposal"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-4fdbeca0",
+    "status": "published",
+    "translationOf": "cheyenne-gravel-parking-lot-proposal-blocked-over-runoff-and-accessibility-conce-4fdbeca0",
+    "publishedAt": "2026-11-10T18:41:04.000Z",
+    "fetchedAt": "2026-11-11T23:28:41.108Z",
+    "body": "切yenne 的碎石停車場提案因雨水徑流與未符合無障礙設計標準，對殘障人士的使用產生重大疑慮，最終被否決。\n\n原文來源： [Cap City News](https://capcity.news/community/city/2026/11/10/runoff-accessibility-concerns-doom-cheyenne-gravel-parking-lot-proposal)"
+  },
+  {
+    "title": "Aurora市議會會議將改為線上舉行以提升無障礙設施",
+    "slug": "aurora-city-council-meetings-will-moving-to-online-only-allowing-for-accessibili-zh-17a4bdac",
+    "lang": "zh-TW",
+    "summary": "奧羅拉市議會將改為線上會議，以提升殘障人士的參與便利，提供遠端參與與數位無障礙功能。",
+    "category": "digital-a11y",
+    "tags": [
+      "online meetings",
+      "civic engagement",
+      "accessibility upgrades",
+      "Aurora"
+    ],
+    "sourceName": "Sentinel Colorado",
+    "sourceUrl": "https://sentinelcolorado.com/metro/aurora-city-council-meetings-will-moving-to-online-only-allowing-for-accessibility-upgrades",
+    "relatedSources": [
+      {
+        "name": "Sentinel Colorado",
+        "url": "https://sentinelcolorado.com/metro/aurora-city-council-meetings-will-moving-to-online-only-allowing-for-accessibility-upgrades"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-17a4bdac",
+    "status": "published",
+    "translationOf": "aurora-city-council-meetings-will-moving-to-online-only-allowing-for-accessibili-17a4bdac",
+    "publishedAt": "2026-11-11T13:34:44.000Z",
+    "fetchedAt": "2026-11-11T23:29:20.566Z",
+    "body": "奧羅拉市議會將改為線上會議，以提升殘障人士的參與便利，提供遠端參與與數位無障礙功能。\n\n原文來源： [Sentinel Colorado](https://sentinelcolorado.com/metro/aurora-city-council-meetings-will-moving-to-online-only-allowing-for-accessibility-upgrades)"
+  },
+  {
+    "title": "殘障人士的住宿無障礙現實",
+    "slug": "the-reality-of-hospitality-accessibility-for-persons-with-disabilities-zh-d7bf02d4",
+    "lang": "zh-TW",
+    "summary": "探討酒店、餐廳及旅遊業對殘障人士的實際無障礙現況，指出障礙與最佳實踐。",
+    "category": "physical-design",
+    "tags": [
+      "hospitality",
+      "accessibility",
+      "disability rights",
+      "inclusive design"
+    ],
+    "sourceName": "Hospitality Net",
+    "sourceUrl": "https://www.hospitalitynet.org/whitepaper/4135402/the-reality-of-hospitality-accessibility-for-persons-with-disabilities",
+    "relatedSources": [
+      {
+        "name": "Hospitality Net",
+        "url": "https://www.hospitalitynet.org/whitepaper/4135402/the-reality-of-hospitality-accessibility-for-persons-with-disabilities"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-d7bf02d4",
+    "status": "published",
+    "translationOf": "the-reality-of-hospitality-accessibility-for-persons-with-disabilities-d7bf02d4",
+    "publishedAt": "2026-11-11T11:25:09.000Z",
+    "fetchedAt": "2026-11-11T23:29:20.628Z",
+    "body": "探討酒店、餐廳及旅遊業對殘障人士的實際無障礙現況，指出障礙與最佳實踐。\n\n原文來源： [Hospitality Net](https://www.hospitalitynet.org/whitepaper/4135402/the-reality-of-hospitality-accessibility-for-persons-with-disabilities)"
+  },
+  {
+    "title": "最無障礙的醫護人員——但對誰無障礙？",
+    "slug": "the-most-accessible-healthcare-professionalbut-accessible-to-whom-zh-a430fd03",
+    "lang": "zh-TW",
+    "summary": "分析醫護人員如何為殘障患者提供無障礙服務，討論溝通、實體進入與法律責任。",
+    "category": "laws-rights",
+    "tags": [
+      "healthcare",
+      "disability access",
+      "patient rights",
+      "accessibility law"
+    ],
+    "sourceName": "Pharmacy Times",
+    "sourceUrl": "https://www.pharmacytimes.com/view/the-most-accessible-healthcare-professional-but-accessible-to-whom-",
+    "relatedSources": [
+      {
+        "name": "Pharmacy Times",
+        "url": "https://www.pharmacytimes.com/view/the-most-accessible-healthcare-professional-but-accessible-to-whom-"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a430fd03",
+    "status": "published",
+    "translationOf": "the-most-accessible-healthcare-professionalbut-accessible-to-whom-a430fd03",
+    "publishedAt": "2026-11-11T21:11:42.000Z",
+    "fetchedAt": "2026-11-11T23:29:20.685Z",
+    "body": "分析醫護人員如何為殘障患者提供無障礙服務，討論溝通、實體進入與法律責任。\n\n原文來源： [Pharmacy Times](https://www.pharmacytimes.com/view/the-most-accessible-healthcare-professional-but-accessible-to-whom-)"
+  },
+  {
+    "title": "坦帕會議中心將獲得無障礙認證",
+    "slug": "tampa-convention-center-to-earn-accessibility-accreditation-zh-44367e85",
+    "lang": "zh-TW",
+    "summary": "坦帕會議中心即將取得無障礙認證，表明其設施符合殘障人士的可及性標準。",
+    "category": "physical-design",
+    "tags": [
+      "accessibility accreditation",
+      "Tampa Convention Center",
+      "ADA",
+      "building design"
+    ],
+    "sourceName": "St Pete Catalyst",
+    "sourceUrl": "https://stpetecatalyst.com/zaps/tampa-convention-center-to-earn-accessibility-accreditation",
+    "relatedSources": [
+      {
+        "name": "St Pete Catalyst",
+        "url": "https://stpetecatalyst.com/zaps/tampa-convention-center-to-earn-accessibility-accreditation"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-44367e85",
+    "status": "published",
+    "translationOf": "tampa-convention-center-to-earn-accessibility-accreditation-44367e85",
+    "publishedAt": "2026-11-11T17:03:07.000Z",
+    "fetchedAt": "2026-11-11T23:29:53.811Z",
+    "body": "坦帕會議中心即將取得無障礙認證，表明其設施符合殘障人士的可及性標準。\n\n原文來源： [St Pete Catalyst](https://stpetecatalyst.com/zaps/tampa-convention-center-to-earn-accessibility-accreditation)"
+  },
+  {
+    "title": "雙截肢馬拉松選手批評巴登諾克「武器化」他的成功",
+    "slug": "double-amputee-marathon-runner-criticises-badenoch-for-weaponising-his-success-zh-e31a6b81",
+    "lang": "zh-TW",
+    "summary": "雙截肢馬拉松選手理查德·懷特黑德批評凱米·巴登諾克利用他的成功來為36億英鎊的殘疾福利削減辯護，認為這是在「武器化」他的成就，對殘障人士不公。",
+    "category": "laws-rights",
+    "tags": [
+      "disability benefits",
+      "politics",
+      "UK",
+      "welfare cuts",
+      "Paralympian"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/sport/2026/nov/11/double-amputee-runner-richard-whitehead-badenoch-weaponising-success-welfare",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/sport/2026/nov/11/double-amputee-runner-richard-whitehead-badenoch-weaponising-success-welfare"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-e31a6b81",
+    "status": "published",
+    "translationOf": "double-amputee-marathon-runner-criticises-badenoch-for-weaponising-his-success-e31a6b81",
+    "publishedAt": "2026-11-11T19:07:36.000Z",
+    "fetchedAt": "2026-11-11T23:31:11.043Z",
+    "body": "雙截肢馬拉松選手理查德·懷特黑德批評凱米·巴登諾克利用他的成功來為36億英鎊的殘疾福利削減辯護，認為這是在「武器化」他的成就，對殘障人士不公。\n\n原文來源： [Unknown source](https://www.theguardian.com/sport/2026/nov/11/double-amputee-runner-richard-whitehead-badenoch-weaponising-success-welfare)"
+  },
+  {
+    "title": "美司法部起訴 Lyft 拒絕為殘障乘客提供服務",
+    "slug": "us-justice-department-sues-lyft-over-alleged-refusal-to-serve-passengers-with-di-zh-5356250c",
+    "lang": "zh-TW",
+    "summary": "美國司法部在加州起訴Lyft，指控其司機經常拒絕載運使用服務動物或輪椅等輔助設備的乘客，違反《美國殘疾人法案》。",
+    "category": "laws-rights",
+    "tags": [
+      "ADA",
+      "Lyft",
+      "legal action",
+      "transportation",
+      "disability discrimination"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/technology/2026/nov/10/doj-lyft-discrimination-disability-lawsuit",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/technology/2026/nov/10/doj-lyft-discrimination-disability-lawsuit"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-5356250c",
+    "status": "published",
+    "translationOf": "us-justice-department-sues-lyft-over-alleged-refusal-to-serve-passengers-with-di-5356250c",
+    "publishedAt": "2026-11-10T22:45:42.000Z",
+    "fetchedAt": "2026-11-11T23:31:11.118Z",
+    "body": "美國司法部在加州起訴Lyft，指控其司機經常拒絕載運使用服務動物或輪椅等輔助設備的乘客，違反《美國殘疾人法案》。\n\n原文來源： [Unknown source](https://www.theguardian.com/technology/2026/nov/10/doj-lyft-discrimination-disability-lawsuit)"
+  },
+  {
+    "title": "Apple TV 應用程式新增手語翻譯，11月13日上線",
+    "slug": "apple-tv-app-adds-signlanguage-interpretation-available-from-nov-13-zh-f0406bf4",
+    "lang": "zh-TW",
+    "summary": "Apple TV 應用程式將於11月13日起為部分影片提供手語翻譯，支援美國手語（ASL）與英國手語（BSL），由聾啞社群原生手語者監製，提升聽障觀眾的可及性。",
+    "category": "digital-a11y",
+    "tags": [
+      "sign language",
+      "Apple TV",
+      "digital accessibility",
+      "Deaf community",
+      "ASL",
+      "BSL"
+    ],
+    "sourceName": "Gori.me",
+    "sourceUrl": "https://gori.me/apple/apple-news/172277",
+    "relatedSources": [
+      {
+        "name": "Gori.me",
+        "url": "https://gori.me/apple/apple-news/172277"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-f0406bf4",
+    "status": "published",
+    "translationOf": "apple-tv-app-adds-signlanguage-interpretation-available-from-nov-13-f0406bf4",
+    "publishedAt": "2026-11-10T22:10:35.000Z",
+    "fetchedAt": "2026-11-11T23:31:11.173Z",
+    "body": "Apple TV 應用程式將於11月13日起為部分影片提供手語翻譯，支援美國手語（ASL）與英國手語（BSL），由聾啞社群原生手語者監製，提升聽障觀眾的可及性。\n\n原文來源： [Gori.me](https://gori.me/apple/apple-news/172277)"
   }
 ]
