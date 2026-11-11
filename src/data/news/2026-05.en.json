@@ -47165,5 +47165,40 @@
     "publishedAt": "2026-05-14T07:00:00.000Z",
     "fetchedAt": "2026-11-04T23:56:46.626Z",
     "body": "Dubai Roads has improved accessibility and services for people with disabilities in service provider centres, customer happiness centres and public transport stations.\n\nRead more from the original source: [news.google.com](https://mediaoffice.ae/ar/news/2026/may/14-05/rta-enhances-pod-accessibility-across-service-centres-and-stations)"
+  },
+  {
+    "title": "Dubai Health Authority Launches Unified Medical Reference to Enhance Services for People of Determination",
+    "slug": "dubai-health-authority-launches-unified-medical-reference-to-enhance-services-fo-2e64b419",
+    "lang": "en",
+    "summary": "The Dubai Health Authority (DHA) has introduced a unified medical report project designed to standardize and improve healthcare services specifically for people of determination, a term used in the UAE for individuals with disabilities.",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "healthcare",
+      "UAE",
+      "Dubai",
+      "services"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://mediaoffice.ae/ar/news/2026/may/04-05/dha-launches-unified-medical-report-project-to-enhance-services-for-people-of-determination",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://mediaoffice.ae/ar/news/2026/may/04-05/dha-launches-unified-medical-report-project-to-enhance-services-for-people-of-determination"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-2e64b419",
+    "status": "published",
+    "translationOf": "dubai-health-authority-launches-unified-medical-reference-to-enhance-services-fo-zh-2e64b419",
+    "publishedAt": "2026-05-04T07:00:00.000Z",
+    "fetchedAt": "2026-11-11T18:02:51.413Z",
+    "body": "The Dubai Health Authority (DHA) has introduced a unified medical report project designed to standardize and improve healthcare services specifically for people of determination, a term used in the UAE for individuals with disabilities.\n\nRead more from the original source: [news.google.com](https://mediaoffice.ae/ar/news/2026/may/04-05/dha-launches-unified-medical-report-project-to-enhance-services-for-people-of-determination)"
   }
 ]
