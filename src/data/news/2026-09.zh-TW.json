@@ -93442,5 +93442,39 @@
     "publishedAt": "2026-09-23T23:43:42.000Z",
     "fetchedAt": "2026-11-11T23:31:22.527Z",
     "body": "2026年10月20日，盲人之光舉辦線上研討會，邀請盲人與失明聽障專業人士分享求職經驗、工作場所調適，並提供美國手語口譯。\n\n原文來源： [lhblind.org](https://lhblind.org/blind-and-deafblind-professionals-webinar)"
+  },
+  {
+    "title": "2026 白杖日：在西雅圖慶祝盲人社群的獨立",
+    "slug": "white-cane-day-2026-celebrating-independence-and-the-blind-community-in-seattle-zh-296dbae2",
+    "lang": "zh-TW",
+    "summary": "盲人之光協會將於2026年10月17日在華盛頓語音書與點字圖書館舉辦白杖日活動，說明白杖對盲人與低視力者獨立出行的重要性及象徵意義。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "white cane",
+      "blind community",
+      "Seattle",
+      "independence",
+      "Lighthouse for the Blind"
+    ],
+    "sourceName": "lhblind.org",
+    "sourceUrl": "https://lhblind.org/white-cane-day-seattle-2026",
+    "relatedSources": [
+      {
+        "name": "lhblind.org",
+        "url": "https://lhblind.org/white-cane-day-seattle-2026"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://lhblind.org/feed",
+    "ingestProvider": "lhblind.org",
+    "clusterId": "cluster-296dbae2",
+    "status": "published",
+    "translationOf": "white-cane-day-2026-celebrating-independence-and-the-blind-community-in-seattle-296dbae2",
+    "publishedAt": "2026-09-10T20:30:42.000Z",
+    "fetchedAt": "2026-11-12T22:47:08.055Z",
+    "body": "盲人之光協會將於2026年10月17日在華盛頓語音書與點字圖書館舉辦白杖日活動，說明白杖對盲人與低視力者獨立出行的重要性及象徵意義。\n\n原文來源： [lhblind.org](https://lhblind.org/white-cane-day-seattle-2026)"
   }
 ]

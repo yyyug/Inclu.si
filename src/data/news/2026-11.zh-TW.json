@@ -36073,5 +36073,40 @@
     "publishedAt": "2026-11-12T09:17:00.000Z",
     "fetchedAt": "2026-11-12T18:37:01.701Z",
     "body": "在南西奈舉行的研討會探討了與肢體障礙者的口頭溝通技巧與互動策略，旨在提升對此族群的理解與支持。\n\n原文來源： [news.google.com](https://www.almasryalyoum.com/news/details/4408361)"
+  },
+  {
+    "title": "Lumin 停運、SpeakTab 讓音樂更易取得，Good Vibes 即將上線",
+    "slug": "lumin-shuts-down-speaktab-makes-music-accessible-and-good-vibes-is-coming-zh-a992923f",
+    "lang": "zh-TW",
+    "summary": "報導 Lumin 這款為盲人設計的語音電郵應用停止服務，同時介紹 SpeakTab，利用震動編碼讓音樂與吉他譜可被無障礙使用。",
+    "category": "assistive-tech",
+    "tags": [
+      "Lumin",
+      "voice‑first email",
+      "blind users",
+      "SpeakTab",
+      "music accessibility",
+      "vibe coding"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/lumin-shuts-down-speaktab-makes-music-accessible-and-good-vibes-is-coming-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/lumin-shuts-down-speaktab-makes-music-accessible-and-good-vibes-is-coming-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-a992923f",
+    "status": "published",
+    "translationOf": "lumin-shuts-down-speaktab-makes-music-accessible-and-good-vibes-is-coming-a992923f",
+    "publishedAt": "2026-11-12T17:00:34.000Z",
+    "fetchedAt": "2026-11-12T22:47:08.221Z",
+    "body": "報導 Lumin 這款為盲人設計的語音電郵應用停止服務，同時介紹 SpeakTab，利用震動編碼讓音樂與吉他譜可被無障礙使用。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/lumin-shuts-down-speaktab-makes-music-accessible-and-good-vibes-is-coming-2)"
   }
 ]
