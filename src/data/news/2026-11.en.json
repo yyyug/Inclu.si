@@ -36108,5 +36108,72 @@
     "publishedAt": "2026-11-12T17:00:34.000Z",
     "fetchedAt": "2026-11-12T22:47:08.221Z",
     "body": "The article reports the closure of Lumin, a voice‑first email app for blind users, and introduces SpeakTab, a tool that uses vibe coding to provide accessible music and guitar tab reading.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/lumin-shuts-down-speaktab-makes-music-accessible-and-good-vibes-is-coming-2)"
+  },
+  {
+    "title": "Students grapple with accessibility challenges",
+    "slug": "students-grapple-with-accessibility-challenges-6566967e",
+    "lang": "en",
+    "summary": "The article discusses how students encounter various accessibility obstacles in educational settings, highlighting the need for improved accommodations and inclusive practices.",
+    "category": "case-studies",
+    "tags": [
+      "education",
+      "accessibility",
+      "students",
+      "higher-education"
+    ],
+    "sourceName": "The Brown and White",
+    "sourceUrl": "https://thebrownandwhite.com/2026/11/12/students-grapple-with-accessibility-challenges",
+    "relatedSources": [
+      {
+        "name": "The Brown and White",
+        "url": "https://thebrownandwhite.com/2026/11/12/students-grapple-with-accessibility-challenges"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-6566967e",
+    "status": "published",
+    "translationOf": "students-grapple-with-accessibility-challenges-zh-6566967e",
+    "publishedAt": "2026-11-12T18:43:31.000Z",
+    "fetchedAt": "2026-11-12T22:45:07.103Z",
+    "body": "The article discusses how students encounter various accessibility obstacles in educational settings, highlighting the need for improved accommodations and inclusive practices.\n\nRead more from the original source: [The Brown and White](https://thebrownandwhite.com/2026/11/12/students-grapple-with-accessibility-challenges)"
+  },
+  {
+    "title": "New Taipei Wins Four \"China Architecture Gold Stone Awards\" – Water Resources Bureau Presents Awards at Municipal Meeting",
+    "slug": "new-taipei-wins-four-china-architecture-gold-stone-awards-water-resources-bureau-0136b455",
+    "lang": "en",
+    "summary": "The New Taipei City Water Resources Bureau and Gaotan area won four awards at the 34th China Architecture Gold Stone Awards. The awards evaluate sustainability, low‑carbon, healthy environment and include criteria such as space planning, aesthetics, universal (accessible) design, structural resilience and innovative construction. The bureau’s projects, which combine flood control with ecological waterfront spaces, were praised for their inclusive design and resilience to extreme weather.",
+    "category": "physical-design",
+    "tags": [
+      "architecture",
+      "awards",
+      "accessibility",
+      "water infrastructure",
+      "sustainable design"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E7%8D%B24%E9%A0%85-%E4%B8%AD%E8%8F%AF%E5%BB%BA%E7%AF%89%E9%87%91%E7%9F%B3%E7%8D%8E-%E6%B0%B4%E5%88%A9%E5%B1%80%E5%B8%82%E6%94%BF%E6%9C%83%E8%AD%B0%E7%8D%BB%E7%8D%8E-094320873.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E7%8D%B24%E9%A0%85-%E4%B8%AD%E8%8F%AF%E5%BB%BA%E7%AF%89%E9%87%91%E7%9F%B3%E7%8D%8E-%E6%B0%B4%E5%88%A9%E5%B1%80%E5%B8%82%E6%94%BF%E6%9C%83%E8%AD%B0%E7%8D%BB%E7%8D%8E-094320873.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-0136b455",
+    "status": "published",
+    "translationOf": "new-taipei-wins-four-china-architecture-gold-stone-awards-water-resources-bureau-zh-0136b455",
+    "publishedAt": "2026-11-11T09:43:20.000Z",
+    "fetchedAt": "2026-11-12T22:47:59.736Z",
+    "body": "The New Taipei City Water Resources Bureau and Gaotan area won four awards at the 34th China Architecture Gold Stone Awards. The awards evaluate sustainability, low‑carbon, healthy environment and include criteria such as space planning, aesthetics, universal (accessible) design, structural resilience and innovative construction. The bureau’s projects, which combine flood control with ecological waterfront spaces, were praised for their inclusive design and resilience to extreme weather.\n\nRead more from the original source: [Yahoo Entertainment](https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E7%8D%B24%E9%A0%85-%E4%B8%AD%E8%8F%AF%E5%BB%BA%E7%AF%89%E9%87%91%E7%9F%B3%E7%8D%8E-%E6%B0%B4%E5%88%A9%E5%B1%80%E5%B8%82%E6%94%BF%E6%9C%83%E8%AD%B0%E7%8D%BB%E7%8D%8E-094320873.html)"
   }
 ]
