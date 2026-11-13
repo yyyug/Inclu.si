@@ -36940,5 +36940,42 @@
     "publishedAt": "2026-11-12T09:09:24.000Z",
     "fetchedAt": "2026-11-13T16:27:46.471Z",
     "body": "Google 推出 A2UI 1.0，讓 AI 代理透過雙向函式呼叫產生互動介面，並加入無障礙與中繼資料支援，提升數位可及性與安全性。\n\n原文來源： [Ithome.com.tw](https://www.ithome.com.tw/news/180453)"
+  },
+  {
+    "title": "Google Gemini 智慧眼鏡 12 月 10 日發售，亦支援 iPhone——但有條件",
+    "slug": "googles-gemini-glasses-ship-10-december-and-they-work-with-iphone-too-but-theres-zh-86183327",
+    "lang": "zh-TW",
+    "summary": "Google 將於 12 月 10 日推出 Gemini XR 智慧眼鏡，售價 395 美元。眼鏡內建 Guided Vision 與 Aira，為視障人士提供即時視覺輔助，且支援 iPhone 連接。",
+    "category": "assistive-tech",
+    "tags": [
+      "Google",
+      "Gemini glasses",
+      "XR",
+      "Guided Vision",
+      "Aira",
+      "assistive technology",
+      "visual impairment",
+      "iPhone"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/googles-gemini-glasses-ship-10-december-and-they-work-with-iphone-too-but-theres-a-catch",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/googles-gemini-glasses-ship-10-december-and-they-work-with-iphone-too-but-theres-a-catch"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-86183327",
+    "status": "published",
+    "translationOf": "googles-gemini-glasses-ship-10-december-and-they-work-with-iphone-too-but-theres-86183327",
+    "publishedAt": "2026-11-12T19:56:16.000Z",
+    "fetchedAt": "2026-11-13T16:33:52.029Z",
+    "body": "Google 將於 12 月 10 日推出 Gemini XR 智慧眼鏡，售價 395 美元。眼鏡內建 Guided Vision 與 Aira，為視障人士提供即時視覺輔助，且支援 iPhone 連接。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/googles-gemini-glasses-ship-10-december-and-they-work-with-iphone-too-but-theres-a-catch)"
   }
 ]

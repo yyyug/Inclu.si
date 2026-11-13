@@ -36940,5 +36940,42 @@
     "publishedAt": "2026-11-12T09:09:24.000Z",
     "fetchedAt": "2026-11-13T16:27:46.471Z",
     "body": "Google introduced A2UI 1.0, enabling AI agents to invoke functions across platforms to generate interactive UI components; the protocol adds accessibility metadata and safeguards, fostering more inclusive digital experiences.\n\nRead more from the original source: [Ithome.com.tw](https://www.ithome.com.tw/news/180453)"
+  },
+  {
+    "title": "Google’s Gemini glasses ship 10 December, and they work with iPhone too – but there’s a catch",
+    "slug": "googles-gemini-glasses-ship-10-december-and-they-work-with-iphone-too-but-theres-86183327",
+    "lang": "en",
+    "summary": "Google is launching its Gemini XR Intelligent Eyewear on 10 December for $395. The glasses include Guided Vision and Aira integration, providing real‑time visual assistance for people with low vision, and they also support iPhone connectivity.",
+    "category": "assistive-tech",
+    "tags": [
+      "Google",
+      "Gemini glasses",
+      "XR",
+      "Guided Vision",
+      "Aira",
+      "assistive technology",
+      "visual impairment",
+      "iPhone"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/googles-gemini-glasses-ship-10-december-and-they-work-with-iphone-too-but-theres-a-catch",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/googles-gemini-glasses-ship-10-december-and-they-work-with-iphone-too-but-theres-a-catch"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-86183327",
+    "status": "published",
+    "translationOf": "googles-gemini-glasses-ship-10-december-and-they-work-with-iphone-too-but-theres-zh-86183327",
+    "publishedAt": "2026-11-12T19:56:16.000Z",
+    "fetchedAt": "2026-11-13T16:33:52.029Z",
+    "body": "Google is launching its Gemini XR Intelligent Eyewear on 10 December for $395. The glasses include Guided Vision and Aira integration, providing real‑time visual assistance for people with low vision, and they also support iPhone connectivity.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/googles-gemini-glasses-ship-10-december-and-they-work-with-iphone-too-but-theres-a-catch)"
   }
 ]
