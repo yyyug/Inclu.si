@@ -15251,5 +15251,100 @@
         }
       ]
     }
+  },
+  "2026-11-13": {
+    "generatedAt": "2026-11-13T17:07:37.464Z",
+    "en": {
+      "title": "Legal Action and Product Launches Advance Disability Accessibility",
+      "summary": "A major class action lawsuit against the French state highlights critical shortages in educational support for disabled children. Meanwhile, a significant outage affecting Microsoft's US apps disrupted essential accessibility features, drawing attention to the reliance of users on digital assistive technologies.",
+      "highlights": [
+        {
+          "title": "40,000 Disabled Children Lack AESH Support at 2026 School Start, Leading to Legal Action",
+          "slug": "40000-disabled-children-lack-aesh-support-at-2026-school-start-leading-to-legal--c9047234",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/12/pres-de-40-000-enfants-handicapes-sans-aesh-a-la-rentree-2026-une-action-de-groupe-en-cours-pour-ouvrir-une-breche_6809160_3224.html"
+        },
+        {
+          "title": "Microsoft apps down in US, impacting customer accessibility - DW.com",
+          "slug": "microsoft-apps-down-in-us-impacting-customer-accessibility-dwcom-cc0beb89",
+          "url": "https://www.dw.com/en/microsoft-reports-mass-outages-in-us-impacting-customer-accessibility/a-79935611"
+        },
+        {
+          "title": "Google’s Gemini glasses ship 10 December, and they work with iPhone too – but there’s a catch",
+          "slug": "googles-gemini-glasses-ship-10-december-and-they-work-with-iphone-too-but-theres-86183327",
+          "url": "https://doubletaponair.com/googles-gemini-glasses-ship-10-december-and-they-work-with-iphone-too-but-theres-a-catch"
+        },
+        {
+          "title": "Some young disabled people to lose Pip in Milburn plan – but can apply to local fund",
+          "slug": "some-young-disabled-people-to-lose-pip-in-milburn-plan-but-can-apply-to-local-fu-aa1fb91b",
+          "url": "https://www.theguardian.com/politics/2026/nov/12/local-fund-pip-personal-independence-payments-young-disabled-people-milburn"
+        },
+        {
+          "title": "Deaf patients get poor NHS care, case history suggests",
+          "slug": "deaf-patients-get-poor-nhs-care-case-history-suggests-b68fd4cb",
+          "url": "https://disabilityinsider.com/2026/11/13/health/deaf-patients-get-poor-nhs-care-case-history-suggests"
+        },
+        {
+          "title": "ITV reveals I'm a Celebrity 2026 changes - including an accessible camp and a new look for Kiosk Kev - Radio Times",
+          "slug": "itv-reveals-im-a-celebrity-2026-changes-including-an-accessible-camp-and-a-new-l-190dbcfc",
+          "url": "https://www.radiotimes.com/tv/entertainment/reality-tv/im-a-celebrity-2026-accessibility-changes-newsupdate"
+        },
+        {
+          "title": "Saudi Arabia Enforces Parking Rules for Disability Spaces",
+          "slug": "saudi-arabia-enforces-parking-rules-for-disability-spaces-37a1d457",
+          "url": "https://asdmag.org/archives/70069"
+        },
+        {
+          "title": "Traffic Police Confiscate 2,169 Vehicles Parked in Reserved Disability Spaces",
+          "slug": "traffic-police-confiscate-2169-vehicles-parked-in-reserved-disability-spaces-d6557275",
+          "url": "https://ajel.sa/local/rjxklpdah"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "集體訴訟與產品發布推動無障礙權益",
+      "summary": "針對法國政府集體訴訟揭露了殘障兒童教育支援的嚴重短缺。同時，微軟美國應用程式停機導致輔助功能中斷，凸顯了數位無障礙技術對使用者的重要性。",
+      "highlights": [
+        {
+          "title": "4萬名殘障兒童在2026學年缺乏AESH支持，集體訴訟正在進行",
+          "slug": "40000-disabled-children-lack-aesh-support-at-2026-school-start-leading-to-legal--zh-c9047234",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/12/pres-de-40-000-enfants-handicapes-sans-aesh-a-la-rentree-2026-une-action-de-groupe-en-cours-pour-ouvrir-une-breche_6809160_3224.html"
+        },
+        {
+          "title": "Microsoft 應用程式在美國停機，影響客戶無障礙使用 - DW.com",
+          "slug": "microsoft-apps-down-in-us-impacting-customer-accessibility-dwcom-zh-cc0beb89",
+          "url": "https://www.dw.com/en/microsoft-reports-mass-outages-in-us-impacting-customer-accessibility/a-79935611"
+        },
+        {
+          "title": "Google Gemini 智慧眼鏡 12 月 10 日發售，亦支援 iPhone——但有條件",
+          "slug": "googles-gemini-glasses-ship-10-december-and-they-work-with-iphone-too-but-theres-zh-86183327",
+          "url": "https://doubletaponair.com/googles-gemini-glasses-ship-10-december-and-they-work-with-iphone-too-but-theres-a-catch"
+        },
+        {
+          "title": "年輕殘障人士將失去PIP，改由地方基金申請",
+          "slug": "some-young-disabled-people-to-lose-pip-in-milburn-plan-but-can-apply-to-local-fu-zh-aa1fb91b",
+          "url": "https://www.theguardian.com/politics/2026/nov/12/local-fund-pip-personal-independence-payments-young-disabled-people-milburn"
+        },
+        {
+          "title": "聾人患者在 NHS 獲得不佳的護理，個案歷史顯示",
+          "slug": "deaf-patients-get-poor-nhs-care-case-history-suggests-zh-b68fd4cb",
+          "url": "https://disabilityinsider.com/2026/11/13/health/deaf-patients-get-poor-nhs-care-case-history-suggests"
+        },
+        {
+          "title": "ITV 公布《我是名人》2026 年變更 - 包含無障礙營地與全新資訊站設計 - Radio Times",
+          "slug": "itv-reveals-im-a-celebrity-2026-changes-including-an-accessible-camp-and-a-new-l-zh-190dbcfc",
+          "url": "https://www.radiotimes.com/tv/entertainment/reality-tv/im-a-celebrity-2026-accessibility-changes-newsupdate"
+        },
+        {
+          "title": "沙烏地阿拉伯執法保障身障人士專屬停車位",
+          "slug": "saudi-arabia-enforces-parking-rules-for-disability-spaces-zh-37a1d457",
+          "url": "https://asdmag.org/archives/70069"
+        },
+        {
+          "title": "交通警察查處2,169輛停放在殘障人士專用車位的車輛",
+          "slug": "traffic-police-confiscate-2169-vehicles-parked-in-reserved-disability-spaces-zh-d6557275",
+          "url": "https://ajel.sa/local/rjxklpdah"
+        }
+      ]
+    }
   }
 }
