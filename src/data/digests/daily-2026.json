@@ -15253,30 +15253,20 @@
     }
   },
   "2026-11-13": {
-    "generatedAt": "2026-11-13T17:07:37.464Z",
+    "generatedAt": "2026-11-13T23:56:36.822Z",
     "en": {
-      "title": "Legal Action and Product Launches Advance Disability Accessibility",
-      "summary": "A major class action lawsuit against the French state highlights critical shortages in educational support for disabled children. Meanwhile, a significant outage affecting Microsoft's US apps disrupted essential accessibility features, drawing attention to the reliance of users on digital assistive technologies.",
+      "title": "UK Benefits Overhaul and Adobe Accessibility Plugin Lead Major Updates",
+      "summary": "The UK government is considering expanding a controversial benefits overhaul affecting under-25s to older adults. Simultaneously, Adobe launched a new Photoshop plugin for color universal design. These developments highlight significant shifts in policy and digital accessibility tools.",
       "highlights": [
         {
-          "title": "40,000 Disabled Children Lack AESH Support at 2026 School Start, Leading to Legal Action",
-          "slug": "40000-disabled-children-lack-aesh-support-at-2026-school-start-leading-to-legal--c9047234",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/12/pres-de-40-000-enfants-handicapes-sans-aesh-a-la-rentree-2026-une-action-de-groupe-en-cours-pour-ouvrir-une-breche_6809160_3224.html"
+          "title": "No 10 considering expanding under-25s benefits overhaul to older age groups",
+          "slug": "no-10-considering-expanding-under-25s-benefits-overhaul-to-older-age-groups-224bb8b9",
+          "url": "https://www.theguardian.com/society/2026/nov/13/no-10-considering-expanding-under-25s-benefits-overhaul-to-older-age-groups"
         },
         {
-          "title": "Microsoft apps down in US, impacting customer accessibility - DW.com",
-          "slug": "microsoft-apps-down-in-us-impacting-customer-accessibility-dwcom-cc0beb89",
-          "url": "https://www.dw.com/en/microsoft-reports-mass-outages-in-us-impacting-customer-accessibility/a-79935611"
-        },
-        {
-          "title": "Google’s Gemini glasses ship 10 December, and they work with iPhone too – but there’s a catch",
-          "slug": "googles-gemini-glasses-ship-10-december-and-they-work-with-iphone-too-but-theres-86183327",
-          "url": "https://doubletaponair.com/googles-gemini-glasses-ship-10-december-and-they-work-with-iphone-too-but-theres-a-catch"
-        },
-        {
-          "title": "Some young disabled people to lose Pip in Milburn plan – but can apply to local fund",
-          "slug": "some-young-disabled-people-to-lose-pip-in-milburn-plan-but-can-apply-to-local-fu-aa1fb91b",
-          "url": "https://www.theguardian.com/politics/2026/nov/12/local-fund-pip-personal-independence-payments-young-disabled-people-milburn"
+          "title": "Adobe Photoshop Plugin “CUD & Accessibility Suite” Launches to Support Verification and Adjustment of Color Universal Design and Accessibility",
+          "slug": "adobe-photoshop-plugin-cud-accessibility-suite-launches-to-support-verification--e9647156",
+          "url": "https://www.jiji.com/jc/article?k=000000049.000070745&g=prt"
         },
         {
           "title": "Deaf patients get poor NHS care, case history suggests",
@@ -15284,45 +15274,60 @@
           "url": "https://disabilityinsider.com/2026/11/13/health/deaf-patients-get-poor-nhs-care-case-history-suggests"
         },
         {
-          "title": "ITV reveals I'm a Celebrity 2026 changes - including an accessible camp and a new look for Kiosk Kev - Radio Times",
-          "slug": "itv-reveals-im-a-celebrity-2026-changes-including-an-accessible-camp-and-a-new-l-190dbcfc",
-          "url": "https://www.radiotimes.com/tv/entertainment/reality-tv/im-a-celebrity-2026-accessibility-changes-newsupdate"
+          "title": "In-Process 13th November 2026",
+          "slug": "in-process-13th-november-2026-1a45ce36",
+          "url": "https://www.nvaccess.org/post/in-process-13th-november-2026"
         },
         {
-          "title": "Saudi Arabia Enforces Parking Rules for Disability Spaces",
-          "slug": "saudi-arabia-enforces-parking-rules-for-disability-spaces-37a1d457",
-          "url": "https://asdmag.org/archives/70069"
+          "title": "Assessing the 'Academy of Usage Experts': Training Complex Disabled Individuals as Social Work Trainers",
+          "slug": "assessing-the-academy-of-usage-experts-training-complex-disabled-individuals-as--e90f4619",
+          "url": "https://informations.handicap.fr/a-academie-des-experts-d-usages-quel-bilan-40005.php"
         },
         {
-          "title": "Traffic Police Confiscate 2,169 Vehicles Parked in Reserved Disability Spaces",
-          "slug": "traffic-police-confiscate-2169-vehicles-parked-in-reserved-disability-spaces-d6557275",
-          "url": "https://ajel.sa/local/rjxklpdah"
+          "title": "Vietnam to Ensure Social Support for Disabled Children by 2030",
+          "slug": "vietnam-to-ensure-social-support-for-disabled-children-by-2030-30df6bed",
+          "url": "https://www.vietnam.vn/ar/den-nam-2030-100-tre-em-khuyet-tat-co-du-dieu-kien-duoc-huong-tro-cap-xa-hoi-bao-hiem-y-te"
+        },
+        {
+          "title": "Parliamentary Action Addresses Challenges in Inclusive Education for Children with Disabilities",
+          "slug": "parliamentary-action-addresses-challenges-in-inclusive-education-for-children-wi-8acf62bf",
+          "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=13112026&id=b5c5e0dc-cbdc-4e27-9b8a-70af4889a84f"
+        },
+        {
+          "title": "Only 19% of Dallas restaurants are wheelchair accessible",
+          "slug": "only-19-of-dallas-restaurants-are-wheelchair-accessible-6d78d853",
+          "url": "https://cw33.com/news/local/only-19-of-dallas-restaurants-are-wheelchair-accessible"
+        },
+        {
+          "title": "Davies Memorial Receives Up to $155,000 for Accessibility Improvements",
+          "slug": "davies-memorial-receives-up-to-155000-for-accessibility-improvements-908e51bd",
+          "url": "https://www.northstarmonthly.com/news/local/davies-memorial-gets-up-to-155-000-for-accessibility/article_2016677a-c298-4513-90d3-4adf3a2623bb.html"
+        },
+        {
+          "title": "Netflix’s “Stranger Things,” “Happy Gilmore 2” earn accessibility honors",
+          "slug": "netflixs-stranger-things-happy-gilmore-2-earn-accessibility-honors-5e660a7e",
+          "url": "https://www.imdb.com/news/ni66110059?ref_=ttnw_art_perm"
         }
       ]
     },
     "zh-TW": {
-      "title": "集體訴訟與產品發布推動無障礙權益",
-      "summary": "針對法國政府集體訴訟揭露了殘障兒童教育支援的嚴重短缺。同時，微軟美國應用程式停機導致輔助功能中斷，凸顯了數位無障礙技術對使用者的重要性。",
+      "title": "英國福利改革擴大與Adobe無障礙插件發布",
+      "summary": "英國政府正考慮將針對25歲以下的福利改革擴大至年長群體。同時，Adobe推出了新的Photoshop無障礙插件。這些進展突顯了政策與數位無障礙工具的重大變化。",
       "highlights": [
         {
-          "title": "4萬名殘障兒童在2026學年缺乏AESH支持，集體訴訟正在進行",
-          "slug": "40000-disabled-children-lack-aesh-support-at-2026-school-start-leading-to-legal--zh-c9047234",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/12/pres-de-40-000-enfants-handicapes-sans-aesh-a-la-rentree-2026-une-action-de-groupe-en-cours-pour-ouvrir-une-breche_6809160_3224.html"
+          "title": "英國首相考慮將25歲以下福利改革擴大至更年長族群",
+          "slug": "no-10-considering-expanding-under-25s-benefits-overhaul-to-older-age-groups-zh-224bb8b9",
+          "url": "https://www.theguardian.com/society/2026/nov/13/no-10-considering-expanding-under-25s-benefits-overhaul-to-older-age-groups"
         },
         {
-          "title": "Microsoft 應用程式在美國停機，影響客戶無障礙使用 - DW.com",
-          "slug": "microsoft-apps-down-in-us-impacting-customer-accessibility-dwcom-zh-cc0beb89",
-          "url": "https://www.dw.com/en/microsoft-reports-mass-outages-in-us-impacting-customer-accessibility/a-79935611"
+          "title": "Adobe Photoshop 插件「CUD & Accessibility Suite」發售，協助檢查與調整色彩通用設計與無障礙性",
+          "slug": "adobe-photoshop-plugin-cud-accessibility-suite-launches-to-support-verification--zh-e9647156",
+          "url": "https://www.jiji.com/jc/article?k=000000049.000070745&g=prt"
         },
         {
-          "title": "Google Gemini 智慧眼鏡 12 月 10 日發售，亦支援 iPhone——但有條件",
-          "slug": "googles-gemini-glasses-ship-10-december-and-they-work-with-iphone-too-but-theres-zh-86183327",
-          "url": "https://doubletaponair.com/googles-gemini-glasses-ship-10-december-and-they-work-with-iphone-too-but-theres-a-catch"
-        },
-        {
-          "title": "年輕殘障人士將失去PIP，改由地方基金申請",
-          "slug": "some-young-disabled-people-to-lose-pip-in-milburn-plan-but-can-apply-to-local-fu-zh-aa1fb91b",
-          "url": "https://www.theguardian.com/politics/2026/nov/12/local-fund-pip-personal-independence-payments-young-disabled-people-milburn"
+          "title": "2026年11月13日進度更新",
+          "slug": "in-process-13th-november-2026-zh-1a45ce36",
+          "url": "https://www.nvaccess.org/post/in-process-13th-november-2026"
         },
         {
           "title": "聾人患者在 NHS 獲得不佳的護理，個案歷史顯示",
@@ -15330,19 +15335,34 @@
           "url": "https://disabilityinsider.com/2026/11/13/health/deaf-patients-get-poor-nhs-care-case-history-suggests"
         },
         {
-          "title": "ITV 公布《我是名人》2026 年變更 - 包含無障礙營地與全新資訊站設計 - Radio Times",
-          "slug": "itv-reveals-im-a-celebrity-2026-changes-including-an-accessible-camp-and-a-new-l-zh-190dbcfc",
-          "url": "https://www.radiotimes.com/tv/entertainment/reality-tv/im-a-celebrity-2026-accessibility-changes-newsupdate"
+          "title": "评估“使用专家学院”：培训复杂残障人士担任社工培训师",
+          "slug": "assessing-the-academy-of-usage-experts-training-complex-disabled-individuals-as--zh-e90f4619",
+          "url": "https://informations.handicap.fr/a-academie-des-experts-d-usages-quel-bilan-40005.php"
         },
         {
-          "title": "沙烏地阿拉伯執法保障身障人士專屬停車位",
-          "slug": "saudi-arabia-enforces-parking-rules-for-disability-spaces-zh-37a1d457",
-          "url": "https://asdmag.org/archives/70069"
+          "title": "越南將在2030年前為殘障兒童提供全面社會支持",
+          "slug": "vietnam-to-ensure-social-support-for-disabled-children-by-2030-zh-30df6bed",
+          "url": "https://www.vietnam.vn/ar/den-nam-2030-100-tre-em-khuyet-tat-co-du-dieu-kien-duoc-huong-tro-cap-xa-hoi-bao-hiem-y-te"
         },
         {
-          "title": "交通警察查處2,169輛停放在殘障人士專用車位的車輛",
-          "slug": "traffic-police-confiscate-2169-vehicles-parked-in-reserved-disability-spaces-zh-d6557275",
-          "url": "https://ajel.sa/local/rjxklpdah"
+          "title": "议会行动应对残障儿童融合教育体系的实施挑战",
+          "slug": "parliamentary-action-addresses-challenges-in-inclusive-education-for-children-wi-zh-8acf62bf",
+          "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=13112026&id=b5c5e0dc-cbdc-4e27-9b8a-70af4889a84f"
+        },
+        {
+          "title": "僅19%的達拉斯餐廳符合輪椅無障礙標準",
+          "slug": "only-19-of-dallas-restaurants-are-wheelchair-accessible-zh-6d78d853",
+          "url": "https://cw33.com/news/local/only-19-of-dallas-restaurants-are-wheelchair-accessible"
+        },
+        {
+          "title": "Davies Memorial 獲得最高 155,000 美元的無障礙改造資金",
+          "slug": "davies-memorial-receives-up-to-155000-for-accessibility-improvements-zh-908e51bd",
+          "url": "https://www.northstarmonthly.com/news/local/davies-memorial-gets-up-to-155-000-for-accessibility/article_2016677a-c298-4513-90d3-4adf3a2623bb.html"
+        },
+        {
+          "title": "Netflix《怪奇物語》與《快樂的吉爾莫2》獲得無障礙榮譽",
+          "slug": "netflixs-stranger-things-happy-gilmore-2-earn-accessibility-honors-zh-5e660a7e",
+          "url": "https://www.imdb.com/news/ni66110059?ref_=ttnw_art_perm"
         }
       ]
     }
