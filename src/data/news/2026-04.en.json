@@ -7011,5 +7011,39 @@
     "publishedAt": "2026-04-13T07:00:00.000Z",
     "fetchedAt": "2026-10-10T22:01:08.446Z",
     "body": "A researcher discusses how emerging technologies are dismantling communication barriers for the deaf community, improving social integration and accessibility.\n\nRead more from the original source: [news.google.com](https://annabaa.org/arabic/discussion/45824)"
+  },
+  {
+    "title": "Dubai Launches Sign Language Pledge for Persons with Disabilities",
+    "slug": "dubai-launches-sign-language-pledge-for-persons-with-disabilities-c7ee8d84",
+    "lang": "en",
+    "summary": "The High Committee for the Protection of the Rights of Persons with Disabilities in Dubai adopted the 'Dubai Sign Language Charter,' a pledge to promote sign language communication as a key accessibility accommodation for Deaf and hard-of-hearing individuals in the emirate.",
+    "category": "laws-rights",
+    "tags": [
+      "sign-language",
+      "deaf-accessibility",
+      "dubai",
+      "policy"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://mediaoffice.ae/ar/news/2026/april/27-04/cda-launches-dubai-communicates-in-sign-language-pledge",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://mediaoffice.ae/ar/news/2026/april/27-04/cda-launches-dubai-communicates-in-sign-language-pledge"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-c7ee8d84",
+    "status": "published",
+    "translationOf": "dubai-launches-sign-language-pledge-for-persons-with-disabilities-zh-c7ee8d84",
+    "publishedAt": "2026-04-27T07:00:00.000Z",
+    "fetchedAt": "2026-11-13T23:50:54.101Z",
+    "body": "The High Committee for the Protection of the Rights of Persons with Disabilities in Dubai adopted the 'Dubai Sign Language Charter,' a pledge to promote sign language communication as a key accessibility accommodation for Deaf and hard-of-hearing individuals in the emirate.\n\nRead more from the original source: [news.google.com](https://mediaoffice.ae/ar/news/2026/april/27-04/cda-launches-dubai-communicates-in-sign-language-pledge)"
   }
 ]

@@ -7011,5 +7011,39 @@
     "publishedAt": "2026-04-13T07:00:00.000Z",
     "fetchedAt": "2026-10-10T22:01:08.446Z",
     "body": "一位研究人員探討了新興技術如何消除聾人社群的溝通障礙，改善其社會融合與无障碍性。\n\n原文來源： [news.google.com](https://annabaa.org/arabic/discussion/45824)"
+  },
+  {
+    "title": "迪拜推出殘障人士手語承諾",
+    "slug": "dubai-launches-sign-language-pledge-for-persons-with-disabilities-zh-c7ee8d84",
+    "lang": "zh-TW",
+    "summary": "迪拜保護殘障人士權利高級委員會通過了《迪拜手語憲章》，承諾推廣手語交流，作為對聽障和重聽人士的重要無障礙措施。",
+    "category": "laws-rights",
+    "tags": [
+      "sign-language",
+      "deaf-accessibility",
+      "dubai",
+      "policy"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://mediaoffice.ae/ar/news/2026/april/27-04/cda-launches-dubai-communicates-in-sign-language-pledge",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://mediaoffice.ae/ar/news/2026/april/27-04/cda-launches-dubai-communicates-in-sign-language-pledge"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-c7ee8d84",
+    "status": "published",
+    "translationOf": "dubai-launches-sign-language-pledge-for-persons-with-disabilities-c7ee8d84",
+    "publishedAt": "2026-04-27T07:00:00.000Z",
+    "fetchedAt": "2026-11-13T23:50:54.101Z",
+    "body": "迪拜保護殘障人士權利高級委員會通過了《迪拜手語憲章》，承諾推廣手語交流，作為對聽障和重聽人士的重要無障礙措施。\n\n原文來源： [news.google.com](https://mediaoffice.ae/ar/news/2026/april/27-04/cda-launches-dubai-communicates-in-sign-language-pledge)"
   }
 ]
