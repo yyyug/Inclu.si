@@ -38474,5 +38474,38 @@
     "publishedAt": "2026-11-13T22:08:16.000Z",
     "fetchedAt": "2026-11-14T15:07:15.233Z",
     "body": "King County is undertaking initiatives to make its information and services more accessible, implementing measures to meet the needs of people with disabilities, including improvements to websites, online platforms, and physical service delivery.\n\nRead more from the original source: [KIRO 7 News Seattle](https://www.kiro7.com/news/local/efforts-are-being-made-king-county-info-service-be-more-accessible/HT4DCPNZLVA3VKAOZIERAHIQOE)"
+  },
+  {
+    "title": "TurnOver for Mac and the Latest on Glidance’s Glide",
+    "slug": "turnover-for-mac-and-the-latest-on-glidances-glide-1be1165d",
+    "lang": "en",
+    "summary": "TurnOver, an open‑source screen reader for macOS, is being re‑engineered by Steven Scott and Shaun Preece; Glidance CEO Amos Miller shares feedback from over 30 pilot users of Glide and its upcoming release timeline.",
+    "category": "assistive-tech",
+    "tags": [
+      "screen reader",
+      "macOS",
+      "Glide",
+      "assistive technology"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/turnover-for-mac-and-the-latest-on-glidances-glide-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/turnover-for-mac-and-the-latest-on-glidances-glide-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-1be1165d",
+    "status": "published",
+    "translationOf": "turnover-for-mac-and-the-latest-on-glidances-glide-zh-1be1165d",
+    "publishedAt": "2026-11-10T17:00:13.000Z",
+    "fetchedAt": "2026-11-14T15:11:33.673Z",
+    "body": "TurnOver, an open‑source screen reader for macOS, is being re‑engineered by Steven Scott and Shaun Preece; Glidance CEO Amos Miller shares feedback from over 30 pilot users of Glide and its upcoming release timeline.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/turnover-for-mac-and-the-latest-on-glidances-glide-2)"
   }
 ]

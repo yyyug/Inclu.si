@@ -38474,5 +38474,38 @@
     "publishedAt": "2026-11-13T22:08:16.000Z",
     "fetchedAt": "2026-11-14T15:07:15.233Z",
     "body": "金郡正致力於提升其資訊與服務的可及性，採取措施符合殘障人士的需求，包括改善網站、線上平台及實體服務的無障礙設計。\n\n原文來源： [KIRO 7 News Seattle](https://www.kiro7.com/news/local/efforts-are-being-made-king-county-info-service-be-more-accessible/HT4DCPNZLVA3VKAOZIERAHIQOE)"
+  },
+  {
+    "title": "TurnOver 螢幕閱讀器與 Glidance Glide 最新資訊",
+    "slug": "turnover-for-mac-and-the-latest-on-glidances-glide-zh-1be1165d",
+    "lang": "zh-TW",
+    "summary": "TurnOver 為開源 macOS 螢幕閱讀器，由 Steven Scott 與 Shaun Preece 重新開發；Glidance CEO Amos Miller 分享超過 30 位試用者對 Glide 的使用回饋與未來上線時間。",
+    "category": "assistive-tech",
+    "tags": [
+      "screen reader",
+      "macOS",
+      "Glide",
+      "assistive technology"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/turnover-for-mac-and-the-latest-on-glidances-glide-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/turnover-for-mac-and-the-latest-on-glidances-glide-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-1be1165d",
+    "status": "published",
+    "translationOf": "turnover-for-mac-and-the-latest-on-glidances-glide-1be1165d",
+    "publishedAt": "2026-11-10T17:00:13.000Z",
+    "fetchedAt": "2026-11-14T15:11:33.673Z",
+    "body": "TurnOver 為開源 macOS 螢幕閱讀器，由 Steven Scott 與 Shaun Preece 重新開發；Glidance CEO Amos Miller 分享超過 30 位試用者對 Glide 的使用回饋與未來上線時間。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/turnover-for-mac-and-the-latest-on-glidances-glide-2)"
   }
 ]

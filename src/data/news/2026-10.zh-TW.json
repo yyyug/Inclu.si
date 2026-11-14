@@ -120115,5 +120115,38 @@
     "publishedAt": "2026-10-25T07:00:00.000Z",
     "fetchedAt": "2026-11-09T21:03:11.481Z",
     "body": "麥加與麥地那的兩聖寺總務局報告了其確保全面無障礙與包容性設計的努力，重點關注針對殘疾人及行動不便者設施的物理基礎建設與服務。\n\n原文來源： [news.google.com](https://makkahnewspaper.com/article/1636507)"
+  },
+  {
+    "title": "視障人士虛擬招聘會",
+    "slug": "virtual-job-fair-for-people-who-are-blind-zh-779cc337",
+    "lang": "zh-TW",
+    "summary": "1月20日舉行的虛擬招聘會，為視障人士連結就業機會，由 Lighthouse for the Blind 主辦，提供公司概況與職位資訊。",
+    "category": "case-studies",
+    "tags": [
+      "blind",
+      "employment",
+      "virtual",
+      "job fair"
+    ],
+    "sourceName": "lhblind.org",
+    "sourceUrl": "https://lhblind.org/virtual-job-fair-for-people-who-are-blind",
+    "relatedSources": [
+      {
+        "name": "lhblind.org",
+        "url": "https://lhblind.org/virtual-job-fair-for-people-who-are-blind"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://lhblind.org/feed",
+    "ingestProvider": "lhblind.org",
+    "clusterId": "cluster-779cc337",
+    "status": "published",
+    "translationOf": "virtual-job-fair-for-people-who-are-blind-779cc337",
+    "publishedAt": "2026-10-13T20:47:30.000Z",
+    "fetchedAt": "2026-11-14T15:11:33.490Z",
+    "body": "1月20日舉行的虛擬招聘會，為視障人士連結就業機會，由 Lighthouse for the Blind 主辦，提供公司概況與職位資訊。\n\n原文來源： [lhblind.org](https://lhblind.org/virtual-job-fair-for-people-who-are-blind)"
   }
 ]

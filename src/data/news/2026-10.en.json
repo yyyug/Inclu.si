@@ -120115,5 +120115,38 @@
     "publishedAt": "2026-10-25T07:00:00.000Z",
     "fetchedAt": "2026-11-09T21:03:11.481Z",
     "body": "The Al-Haramain General Affairs reports on efforts to ensure comprehensive accessibility and inclusive design at the Haramain in Makkah and Madinah, focusing on physical infrastructure and services that accommodate visitors with disabilities and mobility issues.\n\nRead more from the original source: [news.google.com](https://makkahnewspaper.com/article/1636507)"
+  },
+  {
+    "title": "Virtual Job Fair for People Who Are Blind",
+    "slug": "virtual-job-fair-for-people-who-are-blind-779cc337",
+    "lang": "en",
+    "summary": "A virtual job fair on January 20 connects blind and visually impaired job seekers with employers, organized by Lighthouse for the Blind, featuring company overviews and employment opportunities.",
+    "category": "case-studies",
+    "tags": [
+      "blind",
+      "employment",
+      "virtual",
+      "job fair"
+    ],
+    "sourceName": "lhblind.org",
+    "sourceUrl": "https://lhblind.org/virtual-job-fair-for-people-who-are-blind",
+    "relatedSources": [
+      {
+        "name": "lhblind.org",
+        "url": "https://lhblind.org/virtual-job-fair-for-people-who-are-blind"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://lhblind.org/feed",
+    "ingestProvider": "lhblind.org",
+    "clusterId": "cluster-779cc337",
+    "status": "published",
+    "translationOf": "virtual-job-fair-for-people-who-are-blind-zh-779cc337",
+    "publishedAt": "2026-10-13T20:47:30.000Z",
+    "fetchedAt": "2026-11-14T15:11:33.490Z",
+    "body": "A virtual job fair on January 20 connects blind and visually impaired job seekers with employers, organized by Lighthouse for the Blind, featuring company overviews and employment opportunities.\n\nRead more from the original source: [lhblind.org](https://lhblind.org/virtual-job-fair-for-people-who-are-blind)"
   }
 ]
