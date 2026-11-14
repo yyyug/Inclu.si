@@ -267,5 +267,39 @@
     "publishedAt": "2026-01-29T08:00:00.000Z",
     "fetchedAt": "2026-11-03T18:03:31.883Z",
     "body": "教育部長回應議會質詢，宣佈計劃在特別為殘障學生設計的融合教育課堂中，擴大整合輔助科技與人工智能，以促進教育包容性。\n\n原文來源： [news.google.com](https://akhbar-alkhaleej.com/news/article/1427118)"
+  },
+  {
+    "title": "扎耶德機構增強阿布扎比身心障礙人士的生活品質",
+    "slug": "zayed-authority-enhances-quality-of-life-for-persons-with-disabilities-in-abu-dh-zh-21e5793c",
+    "lang": "zh-TW",
+    "summary": "扎耶德意志人士機構正通過各種支持計劃和服務，致力於改善阿布扎比身心障礙受助人的生活品質。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "quality-of-life",
+      "Abu-Dhabi",
+      "support"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.mediaoffice.abudhabi/ar/community/zayed-authority-for-people-of-determination-enhances-quality-of-life-for-beneficiaries-across-abu-dhabi",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.mediaoffice.abudhabi/ar/community/zayed-authority-for-people-of-determination-enhances-quality-of-life-for-beneficiaries-across-abu-dhabi"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-21e5793c",
+    "status": "published",
+    "translationOf": "zayed-authority-enhances-quality-of-life-for-persons-with-disabilities-in-abu-dh-21e5793c",
+    "publishedAt": "2026-01-08T08:00:00.000Z",
+    "fetchedAt": "2026-11-14T16:43:32.693Z",
+    "body": "扎耶德意志人士機構正通過各種支持計劃和服務，致力於改善阿布扎比身心障礙受助人的生活品質。\n\n原文來源： [news.google.com](https://www.mediaoffice.abudhabi/ar/community/zayed-authority-for-people-of-determination-enhances-quality-of-life-for-beneficiaries-across-abu-dhabi)"
   }
 ]
