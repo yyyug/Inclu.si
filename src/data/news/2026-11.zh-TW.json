@@ -42259,5 +42259,37 @@
     "publishedAt": "2026-11-13T10:53:26.000Z",
     "fetchedAt": "2026-11-16T18:37:04.592Z",
     "body": "南投啟動無障礙踩線團，讓身障朋友共遊南投，感受運動觀光魅力。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_67fe4fb7-9f68-4d1b-9205-e83a8129accb)"
+  },
+  {
+    "title": "Access Information新聞 – 2026年11月16日",
+    "slug": "access-information-news-november-16-2026-zh-7da3ccb2",
+    "lang": "zh-TW",
+    "summary": "一份每週的《Access Information News》電子報，彙整最新的身心障礙無障礙相關新聞與資訊。",
+    "category": "general",
+    "tags": [
+      "newsletter",
+      "accessibility",
+      "weekly"
+    ],
+    "sourceName": "accessinformationnews.com",
+    "sourceUrl": "https://accessinformationnews.com/newsletter-11-16-2026",
+    "relatedSources": [
+      {
+        "name": "accessinformationnews.com",
+        "url": "https://accessinformationnews.com/newsletter-11-16-2026"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://accessinformationnews.com/feed",
+    "ingestProvider": "accessinformationnews.com",
+    "clusterId": "cluster-7da3ccb2",
+    "status": "published",
+    "translationOf": "access-information-news-november-16-2026-7da3ccb2",
+    "publishedAt": "2026-11-16T05:05:00.000Z",
+    "fetchedAt": "2026-11-16T18:41:29.963Z",
+    "body": "一份每週的《Access Information News》電子報，彙整最新的身心障礙無障礙相關新聞與資訊。\n\n原文來源： [accessinformationnews.com](https://accessinformationnews.com/newsletter-11-16-2026)"
   }
 ]
