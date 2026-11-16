@@ -42291,5 +42291,1198 @@
     "publishedAt": "2026-11-16T05:05:00.000Z",
     "fetchedAt": "2026-11-16T18:41:29.963Z",
     "body": "A weekly newsletter titled “Access Information News” that aggregates recent disability accessibility news and updates.\n\nRead more from the original source: [accessinformationnews.com](https://accessinformationnews.com/newsletter-11-16-2026)"
+  },
+  {
+    "title": "Work and Disability: 50% Have Already Given Up on Aid",
+    "slug": "work-and-disability-50-have-already-given-up-on-aid-7aa158e9",
+    "lang": "en",
+    "summary": "A study presented at the 30th SEEPH reveals that despite existing support, one in two workers with disabilities has abandoned claiming their rights due to overly complex procedures.",
+    "category": "laws-rights",
+    "tags": [
+      "employment",
+      "rights",
+      "barriers"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-emploi-et-handicap-50-ont-deja-renonce-a-une-aide-40019.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-emploi-et-handicap-50-ont-deja-renonce-a-une-aide-40019.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-7aa158e9",
+    "status": "published",
+    "translationOf": "work-and-disability-50-have-already-given-up-on-aid-zh-7aa158e9",
+    "publishedAt": "2026-11-16T17:57:32.000Z",
+    "fetchedAt": "2026-11-16T20:40:24.537Z",
+    "body": "A study presented at the 30th SEEPH reveals that despite existing support, one in two workers with disabilities has abandoned claiming their rights due to overly complex procedures.\n\nRead more from the original source: [handicap.fr](https://informations.handicap.fr/a-emploi-et-handicap-50-ont-deja-renonce-a-une-aide-40019.php)"
+  },
+  {
+    "title": "Disability in the Workplace: Loan of Adapted Equipment Expands Across France",
+    "slug": "disability-in-the-workplace-loan-of-adapted-equipment-expands-across-france-c9961d4d",
+    "lang": "en",
+    "summary": "Platforms funded by FIPH and Agefiph are offering free loans of adapted equipment, such as dictation software and large-key keyboards, to facilitate access to employment and training for people with disabilities.",
+    "category": "assistive-tech",
+    "tags": [
+      "assistive-technology",
+      "employment",
+      "equipment"
+    ],
+    "sourceName": "faire-face.fr",
+    "sourceUrl": "https://www.faire-face.fr/2026/11/16/emploi-et-handicap-le-pret-de-materiel-de-travail-adapte-se-deploie-partout-en-france",
+    "relatedSources": [
+      {
+        "name": "faire-face.fr",
+        "url": "https://www.faire-face.fr/2026/11/16/emploi-et-handicap-le-pret-de-materiel-de-travail-adapte-se-deploie-partout-en-france"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://faire-face.fr/feed",
+    "ingestProvider": "faire-face.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-c9961d4d",
+    "status": "published",
+    "translationOf": "disability-in-the-workplace-loan-of-adapted-equipment-expands-across-france-zh-c9961d4d",
+    "publishedAt": "2026-11-16T11:14:10.000Z",
+    "fetchedAt": "2026-11-16T20:40:24.588Z",
+    "body": "Platforms funded by FIPH and Agefiph are offering free loans of adapted equipment, such as dictation software and large-key keyboards, to facilitate access to employment and training for people with disabilities.\n\nRead more from the original source: [faire-face.fr](https://www.faire-face.fr/2026/11/16/emploi-et-handicap-le-pret-de-materiel-de-travail-adapte-se-deploie-partout-en-france)"
+  },
+  {
+    "title": "Public Sector Faces Disability Challenge",
+    "slug": "public-sector-faces-disability-challenge-fff8bb95",
+    "lang": "en",
+    "summary": "The public sector reached a historic 6.36% inclusion rate for agents with disabilities in 2025, yet challenges in workplace accommodation and career retraining persist, highlighted during the 30th European Week for Disability Employment.",
+    "category": "case-studies",
+    "tags": [
+      "public-sector",
+      "inclusion",
+      "employment"
+    ],
+    "sourceName": "lemonde.fr",
+    "sourceUrl": "https://www.lemonde.fr/le-monde-et-vous/article/2026/11/16/la-fonction-publique-face-au-defi-du-handicap_6812296_6065879.html",
+    "relatedSources": [
+      {
+        "name": "lemonde.fr",
+        "url": "https://www.lemonde.fr/le-monde-et-vous/article/2026/11/16/la-fonction-publique-face-au-defi-du-handicap_6812296_6065879.html"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.lemonde.fr/handicap/rss_full.xml",
+    "ingestProvider": "lemonde.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-fff8bb95",
+    "status": "published",
+    "translationOf": "public-sector-faces-disability-challenge-zh-fff8bb95",
+    "publishedAt": "2026-11-16T19:00:21.000Z",
+    "fetchedAt": "2026-11-16T20:40:24.632Z",
+    "body": "The public sector reached a historic 6.36% inclusion rate for agents with disabilities in 2025, yet challenges in workplace accommodation and career retraining persist, highlighted during the 30th European Week for Disability Employment.\n\nRead more from the original source: [lemonde.fr](https://www.lemonde.fr/le-monde-et-vous/article/2026/11/16/la-fonction-publique-face-au-defi-du-handicap_6812296_6065879.html)"
+  },
+  {
+    "title": "Partnaire Group Accelerates Recruitment and Support of Employees with Disabilities",
+    "slug": "partnaire-group-accelerates-recruitment-and-support-of-employees-with-disabiliti-9bcda93d",
+    "lang": "en",
+    "summary": "Partnaire, a major staffing agency near Orléans, France, has intensified its efforts since 2008 to recruit and support employees with disabilities, marking a significant commitment to workplace inclusion.",
+    "category": "laws-rights",
+    "tags": [
+      "employment",
+      "corporate-responsibility",
+      "inclusion",
+      "france"
+    ],
+    "sourceName": "la-croix.com",
+    "sourceUrl": "https://www.la-croix.com/societe/comment-un-groupe-d-interim-sest-investi-dans-lembauche-de-salaries-en-situation-de-handicap-20261116",
+    "relatedSources": [
+      {
+        "name": "la-croix.com",
+        "url": "https://www.la-croix.com/societe/comment-un-groupe-d-interim-sest-investi-dans-lembauche-de-salaries-en-situation-de-handicap-20261116"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.la-croix.com/feeds/rss/Dossiers-Dynamiques/Handicap.xml",
+    "ingestProvider": "la-croix.com",
+    "originalLang": "fr",
+    "clusterId": "cluster-9bcda93d",
+    "status": "published",
+    "translationOf": "partnaire-group-accelerates-recruitment-and-support-of-employees-with-disabiliti-zh-9bcda93d",
+    "publishedAt": "2026-11-16T07:36:53.000Z",
+    "fetchedAt": "2026-11-16T20:40:27.937Z",
+    "body": "Partnaire, a major staffing agency near Orléans, France, has intensified its efforts since 2008 to recruit and support employees with disabilities, marking a significant commitment to workplace inclusion.\n\nRead more from the original source: [la-croix.com](https://www.la-croix.com/societe/comment-un-groupe-d-interim-sest-investi-dans-lembauche-de-salaries-en-situation-de-handicap-20261116)"
+  },
+  {
+    "title": "Autism Spain Celebrates New Funding for Inclusive Education of Autistic Students",
+    "slug": "autism-spain-celebrates-new-funding-for-inclusive-education-of-autistic-students-df41767b",
+    "lang": "en",
+    "summary": "The allocation of 8 million euros will enhance specialized educational support and accessibility for students with autism in public schools during the 2026-2027 academic year, focusing on sensory regulation, communication, and transition to adult life.",
+    "category": "laws-rights",
+    "tags": [
+      "education",
+      "funding",
+      "autism",
+      "spain",
+      "inclusive-education"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/autismo-espana-celebra-la-llegada-de-nuevos-fondos-para-reforzar-la-inclusion-educativa-del",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/autismo-espana-celebra-la-llegada-de-nuevos-fondos-para-reforzar-la-inclusion-educativa-del"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-df41767b",
+    "status": "published",
+    "translationOf": "autism-spain-celebrates-new-funding-for-inclusive-education-of-autistic-students-zh-df41767b",
+    "publishedAt": "2026-11-16T15:15:53.000Z",
+    "fetchedAt": "2026-11-16T20:40:27.980Z",
+    "body": "The allocation of 8 million euros will enhance specialized educational support and accessibility for students with autism in public schools during the 2026-2027 academic year, focusing on sensory regulation, communication, and transition to adult life.\n\nRead more from the original source: [discapnet.es](https://www.discapnet.es/noticia/autismo-espana-celebra-la-llegada-de-nuevos-fondos-para-reforzar-la-inclusion-educativa-del)"
+  },
+  {
+    "title": "Young Deaf Child Becomes Sign Language Translator for Parents in Training Course",
+    "slug": "young-deaf-child-becomes-sign-language-translator-for-parents-in-training-course-4e53b4ea",
+    "lang": "en",
+    "summary": "Mohamed Al-Jneidi, a young child in Yemen, demonstrated early talent in sign language by acting as a translator for his parents during a training course, highlighting a unique family communication dynamic.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "sign-language",
+      "deaf-community",
+      "family",
+      "yemen"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70205",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70205"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-4e53b4ea",
+    "status": "published",
+    "translationOf": "young-deaf-child-becomes-sign-language-translator-for-parents-in-training-course-zh-4e53b4ea",
+    "publishedAt": "2026-11-16T19:21:51.000Z",
+    "fetchedAt": "2026-11-16T20:40:28.018Z",
+    "body": "Mohamed Al-Jneidi, a young child in Yemen, demonstrated early talent in sign language by acting as a translator for his parents during a training course, highlighting a unique family communication dynamic.\n\nRead more from the original source: [asdmag.org](https://asdmag.org/archives/70205)"
+  },
+  {
+    "title": "بتوقيع المخرج ناصر عبد الحفيظ.. أسما الكردي تفتح ملف السموم الرقمية في الحلقة السابعة من «كود بشري»",
+    "slug": "story-45261e9f-45261e9f",
+    "lang": "en",
+    "summary": "في معالجة إعلامية تمزج بين الوعي النفسي والمفاهيم التكنولوجية، تفتح الإعلامية أسما الكردي ملفاً من أخطر الملفات التي تهدد استقرار العلاقات الإنسانية في العصر الحديث، وذلك من خلال الحلقة السابعة من برنامج «كود بشري»، التي تحمل عنوان «حماية النظام والتعامل مع الضغوط»، من إعداد وتقديم أسما الكردي، وإخراج ناصر عبد الحفيظ. وتناقش الحلقة ظاهرة …",
+    "category": "general",
+    "tags": [],
+    "sourceName": "mo3akpress.com",
+    "sourceUrl": "https://www.mo3akpress.com/2026/11/%d8%a8%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d9%84%d9%85%d8%ae%d8%b1%d8%ac-%d9%86%d8%a7%d8%b5%d8%b1-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%ad%d9%81%d9%8a%d8%b8-%d8%a3%d8%b3%d9%85%d8%a7-%d8%a7%d9%84%d9%83",
+    "relatedSources": [
+      {
+        "name": "mo3akpress.com",
+        "url": "https://www.mo3akpress.com/2026/11/%d8%a8%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d9%84%d9%85%d8%ae%d8%b1%d8%ac-%d9%86%d8%a7%d8%b5%d8%b1-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%ad%d9%81%d9%8a%d8%b8-%d8%a3%d8%b3%d9%85%d8%a7-%d8%a7%d9%84%d9%83"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://mo3akpress.com/feed",
+    "ingestProvider": "mo3akpress.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-45261e9f",
+    "status": "published",
+    "translationOf": "story-45261e9f-zh-45261e9f",
+    "publishedAt": "2026-11-16T05:09:27.000Z",
+    "fetchedAt": "2026-11-16T20:40:29.721Z",
+    "body": "في معالجة إعلامية تمزج بين الوعي النفسي والمفاهيم التكنولوجية، تفتح الإعلامية أسما الكردي ملفاً من أخطر الملفات التي تهدد استقرار العلاقات الإنسانية في العصر الحديث، وذلك من خلال الحلقة السابعة من برنامج «كود بشري»، التي تحمل عنوان «حماية النظام والتعامل مع الضغوط»، من إعداد وتقديم أسما الكردي، وإخراج ناصر عبد الحفيظ. وتناقش الحلقة ظاهرة …\n\nRead more from the original source: [mo3akpress.com](https://www.mo3akpress.com/2026/11/%d8%a8%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d9%84%d9%85%d8%ae%d8%b1%d8%ac-%d9%86%d8%a7%d8%b5%d8%b1-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%ad%d9%81%d9%8a%d8%b8-%d8%a3%d8%b3%d9%85%d8%a7-%d8%a7%d9%84%d9%83)"
+  },
+  {
+    "title": "Parliamentary Question Highlights Five-Year Stagnation of National Disability Monitoring Center",
+    "slug": "parliamentary-question-highlights-five-year-stagnation-of-national-disability-mo-0d1b1b8a",
+    "lang": "en",
+    "summary": "A parliamentary question raises concerns about the stalled progress of the national center responsible for monitoring disability issues, which has been delayed for five years.",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "government",
+      "policy",
+      "monitoring"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://anfaspress.com/news/voir/182344-2026-11-16-10-36-39",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://anfaspress.com/news/voir/182344-2026-11-16-10-36-39"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-0d1b1b8a",
+    "status": "published",
+    "translationOf": "parliamentary-question-highlights-five-year-stagnation-of-national-disability-mo-zh-0d1b1b8a",
+    "publishedAt": "2026-11-16T10:40:38.000Z",
+    "fetchedAt": "2026-11-16T20:40:29.767Z",
+    "body": "A parliamentary question raises concerns about the stalled progress of the national center responsible for monitoring disability issues, which has been delayed for five years.\n\nRead more from the original source: [news.google.com](https://anfaspress.com/news/voir/182344-2026-11-16-10-36-39)"
+  },
+  {
+    "title": "Greater Opportunities for Inclusion of People with Disabilities",
+    "slug": "greater-opportunities-for-inclusion-of-people-with-disabilities-dbba91c0",
+    "lang": "en",
+    "summary": "The report discusses expanding opportunities and initiatives aimed at the social and economic inclusion of people with disabilities.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "inclusion",
+      "society",
+      "disability",
+      "rights"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.vietnam.vn/ar/them-co-hoi-hoa-nhap-cho-nguoi-khuyet-tat",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.vietnam.vn/ar/them-co-hoi-hoa-nhap-cho-nguoi-khuyet-tat"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-dbba91c0",
+    "status": "published",
+    "translationOf": "greater-opportunities-for-inclusion-of-people-with-disabilities-zh-dbba91c0",
+    "publishedAt": "2026-11-16T11:30:19.000Z",
+    "fetchedAt": "2026-11-16T20:40:29.802Z",
+    "body": "The report discusses expanding opportunities and initiatives aimed at the social and economic inclusion of people with disabilities.\n\nRead more from the original source: [news.google.com](https://www.vietnam.vn/ar/them-co-hoi-hoa-nhap-cho-nguoi-khuyet-tat)"
+  },
+  {
+    "title": "Fazaa Championships for Persons with Disabilities Introduces International Cycling Event",
+    "slug": "fazaa-championships-for-persons-with-disabilities-introduces-international-cycli-d2d58733",
+    "lang": "en",
+    "summary": "The Fazaa Championships for Persons with Disabilities, under the patronage of Mansour bin Mohammed, has introduced a new international cycling category. This initiative aims to expand sports opportunities and accessibility for individuals with disabilities in the UAE.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability-sports",
+      "uae",
+      "inclusion",
+      "cycling"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.emaratalyoum.com/sports/local/2026-11-16-1.2103443",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.emaratalyoum.com/sports/local/2026-11-16-1.2103443"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-d2d58733",
+    "status": "published",
+    "translationOf": "fazaa-championships-for-persons-with-disabilities-introduces-international-cycli-zh-d2d58733",
+    "publishedAt": "2026-11-16T16:16:52.000Z",
+    "fetchedAt": "2026-11-16T20:40:32.895Z",
+    "body": "The Fazaa Championships for Persons with Disabilities, under the patronage of Mansour bin Mohammed, has introduced a new international cycling category. This initiative aims to expand sports opportunities and accessibility for individuals with disabilities in the UAE.\n\nRead more from the original source: [news.google.com](https://www.emaratalyoum.com/sports/local/2026-11-16-1.2103443)"
+  },
+  {
+    "title": "Damien Seguin: The Challenge of a Life in Sailing",
+    "slug": "damien-seguin-the-challenge-of-a-life-in-sailing-358ebd50",
+    "lang": "en",
+    "summary": "Damien Seguin, born without a left hand, became the first sailor with a disability to win the Route du Rhum in the Vintage Multi category. Eric Cintas retraces his exceptional journey in a new book.",
+    "category": "case-studies",
+    "tags": [
+      "sailing",
+      "disability",
+      "achievement",
+      "biography"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-damien-seguin-defi-vie-livre-tout-feu-voile-13229.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-damien-seguin-defi-vie-livre-tout-feu-voile-13229.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-358ebd50",
+    "status": "published",
+    "translationOf": "damien-seguin-the-challenge-of-a-life-in-sailing-zh-358ebd50",
+    "publishedAt": "2026-11-16T13:00:48.000Z",
+    "fetchedAt": "2026-11-16T20:40:38.949Z",
+    "body": "Damien Seguin, born without a left hand, became the first sailor with a disability to win the Route du Rhum in the Vintage Multi category. Eric Cintas retraces his exceptional journey in a new book.\n\nRead more from the original source: [handicap.fr](https://informations.handicap.fr/a-damien-seguin-defi-vie-livre-tout-feu-voile-13229.php)"
+  },
+  {
+    "title": "Employment of People with Disabilities: How Telework Changed the Game",
+    "slug": "employment-of-people-with-disabilities-how-telework-changed-the-game-244689e8",
+    "lang": "en",
+    "summary": "In observance of the European Week for the Employment of People with Disabilities, La Croix examines the impact of remote work on professional integration. While it often improves quality of life for disabled employees, it can also increase their social isolation.",
+    "category": "laws-rights",
+    "tags": [
+      "employment",
+      "telework",
+      "integration",
+      "work-life-balance"
+    ],
+    "sourceName": "la-croix.com",
+    "sourceUrl": "https://www.la-croix.com/societe/emploi-des-personnes-handicapees-comment-le-teletravail-a-change-la-donne-20261116",
+    "relatedSources": [
+      {
+        "name": "la-croix.com",
+        "url": "https://www.la-croix.com/societe/emploi-des-personnes-handicapees-comment-le-teletravail-a-change-la-donne-20261116"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.la-croix.com/feeds/rss/Dossiers-Dynamiques/Handicap.xml",
+    "ingestProvider": "la-croix.com",
+    "originalLang": "fr",
+    "clusterId": "cluster-244689e8",
+    "status": "published",
+    "translationOf": "employment-of-people-with-disabilities-how-telework-changed-the-game-zh-244689e8",
+    "publishedAt": "2026-11-16T07:04:20.000Z",
+    "fetchedAt": "2026-11-16T20:40:38.988Z",
+    "body": "In observance of the European Week for the Employment of People with Disabilities, La Croix examines the impact of remote work on professional integration. While it often improves quality of life for disabled employees, it can also increase their social isolation.\n\nRead more from the original source: [la-croix.com](https://www.la-croix.com/societe/emploi-des-personnes-handicapees-comment-le-teletravail-a-change-la-donne-20261116)"
+  },
+  {
+    "title": "La Maratón Pa Tós convierte Vallehermoso en una fiesta solidaria por la inclusión",
+    "slug": "la-maraton-pa-tos-convierte-vallehermoso-en-una-fiesta-solidaria-por-la-inclusio-b68254e6",
+    "lang": "en",
+    "summary": "Deporte, humor, solidaridad e inclusión se dieron cita este fin de semana en el Estadio Vallehermoso durante la celebración de la IV Maratón Pa Tós, organizada por la Fundación Gomaespuma. El encuentro reunió a 700 participantes de todas las edades y permitió recaudar 36.000 euros que se destinarán a proyectos socioeducativos impulsados por la entidad.\nLa jornada se desarrolló en un ambiente festivo y participativo, con actividades pensadas para fomentar la convivencia y la implicación de familias, organizaciones sociales y personas comprometidas con una sociedad más inclusiva.\nUna carrera diferente donde lo importante es participar\nUno de los momentos más esperados fue la tradicional carrera de 42 metros y 19 centímetros, una prueba que se ha convertido en el sello distintivo de este evento solidario. Lejos de centrarse en el rendimiento deportivo, la actividad apuesta por la diversión y la participación como herramientas para sensibilizar y generar impacto social.\nLa iniciativa demuestra que una pequeña distancia puede servir para movilizar a cientos de personas en favor de una misma causa.\nDurante la mañana, participantes y asistentes disfrutaron también de diversas carreras inclusivas protagonizadas por deportistas, representantes de entidades sociales y embajadores comprometidos con la diversidad y la inclusión.\nJuegos, actividades y propuestas para toda la familia\nEl programa incorporó numerosas pruebas lúdicas diseñadas para promover la participación de personas de todas las edades. Las actividades combinaron ingenio, trabajo en equipo y mucho sentido del humor, convirtiendo el estadio en un espacio de encuentro para disfrutar en familia.\nAdemás de los juegos, las personas asistentes pudieron participar en talleres, actividades infantiles, propuestas educativas y exhibiciones que completaron una programación variada y accesible para todos los públicos.\nLa cita volvió a apostar por un formato inclusivo en el que la diversión se convierte en una herramienta para acercar valores como la empatía, la solidaridad y el respeto a la diversidad.\nUna recaudación destinada a proyectos socioeducativos\nLos fondos obtenidos durante el evento permitirán seguir desarrollando iniciativas impulsadas por la Fundación Gomaespuma en el ámbito educativo y social. Estos programas buscan generar oportunidades para niños, niñas y jóvenes, contribuyendo a mejorar su desarrollo personal y su acceso a recursos formativos.\nLa recaudación alcanzada en esta edición refleja el respaldo que la ciudadanía continúa mostrando a este tipo de propuestas solidarias.\nUna cita consolidada en favor de la inclusión\nCon esta cuarta edición, la Maratón Pa Tós reafirma su papel como un encuentro que va más allá del deporte. El evento se ha consolidado como un espacio para compartir experiencias, fortalecer la participación comunitaria y visibilizar la importancia de construir una sociedad más inclusiva.\nLa combinación de humor, compromiso social y participación ciudadana ha vuelto a demostrar que la solidaridad puede expresarse de muchas formas y convertirse en motor de cambio.\nLa elevada participación y la respuesta del público confirman el éxito de una iniciativa que continúa creciendo y sumando apoyos en cada edición.",
+    "category": "general",
+    "tags": [],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/la-maraton-pa-tos-convierte-vallehermoso-en-una-fiesta-solidaria-por-la-inclusion",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/la-maraton-pa-tos-convierte-vallehermoso-en-una-fiesta-solidaria-por-la-inclusion"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-b68254e6",
+    "status": "published",
+    "translationOf": "la-maraton-pa-tos-convierte-vallehermoso-en-una-fiesta-solidaria-por-la-inclusio-zh-b68254e6",
+    "publishedAt": "2026-11-16T15:08:36.000Z",
+    "fetchedAt": "2026-11-16T20:40:39.021Z",
+    "body": "Deporte, humor, solidaridad e inclusión se dieron cita este fin de semana en el Estadio Vallehermoso durante la celebración de la IV Maratón Pa Tós, organizada por la Fundación Gomaespuma. El encuentro reunió a 700 participantes de todas las edades y permitió recaudar 36.000 euros que se destinarán a proyectos socioeducativos impulsados por la entidad.\nLa jornada se desarrolló en un ambiente festivo y participativo, con actividades pensadas para fomentar la convivencia y la implicación de familias, organizaciones sociales y personas comprometidas con una sociedad más inclusiva.\nUna carrera diferente donde lo importante es participar\nUno de los momentos más esperados fue la tradicional carrera de 42 metros y 19 centímetros, una prueba que se ha convertido en el sello distintivo de este evento solidario. Lejos de centrarse en el rendimiento deportivo, la actividad apuesta por la diversión y la participación como herramientas para sensibilizar y generar impacto social.\nLa iniciativa demuestra que una pequeña distancia puede servir para movilizar a cientos de personas en favor de una misma causa.\nDurante la mañana, participantes y asistentes disfrutaron también de diversas carreras inclusivas protagonizadas por deportistas, representantes de entidades sociales y embajadores comprometidos con la diversidad y la inclusión.\nJuegos, actividades y propuestas para toda la familia\nEl programa incorporó numerosas pruebas lúdicas diseñadas para promover la participación de personas de todas las edades. Las actividades combinaron ingenio, trabajo en equipo y mucho sentido del humor, convirtiendo el estadio en un espacio de encuentro para disfrutar en familia.\nAdemás de los juegos, las personas asistentes pudieron participar en talleres, actividades infantiles, propuestas educativas y exhibiciones que completaron una programación variada y accesible para todos los públicos.\nLa cita volvió a apostar por un formato inclusivo en el que la diversión se convierte en una herramienta para acercar valores como la empatía, la solidaridad y el respeto a la diversidad.\nUna recaudación destinada a proyectos socioeducativos\nLos fondos obtenidos durante el evento permitirán seguir desarrollando iniciativas impulsadas por la Fundación Gomaespuma en el ámbito educativo y social. Estos programas buscan generar oportunidades para niños, niñas y jóvenes, contribuyendo a mejorar su desarrollo personal y su acceso a recursos formativos.\nLa recaudación alcanzada en esta edición refleja el respaldo que la ciudadanía continúa mostrando a este tipo de propuestas solidarias.\nUna cita consolidada en favor de la inclusión\nCon esta cuarta edición, la Maratón Pa Tós reafirma su papel como un encuentro que va más allá del deporte. El evento se ha consolidado como un espacio para compartir experiencias, fortalecer la participación comunitaria y visibilizar la importancia de construir una sociedad más inclusiva.\nLa combinación de humor, compromiso social y participación ciudadana ha vuelto a demostrar que la solidaridad puede expresarse de muchas formas y convertirse en motor de cambio.\nLa elevada participación y la respuesta del público confirman el éxito de una iniciativa que continúa creciendo y sumando apoyos en cada edición.\n\nRead more from the original source: [discapnet.es](https://www.discapnet.es/noticia/la-maraton-pa-tos-convierte-vallehermoso-en-una-fiesta-solidaria-por-la-inclusion)"
+  },
+  {
+    "title": "مصر | المجلس القومي للأشخاص ذوي الإعاقة يرعى مشاركة مؤسسة دليل الخير في فعاليات الاقتصاد الأخضر والأزرق بجناح سلطنة عُمان غدًا",
+    "slug": "story-50f038b2-50f038b2",
+    "lang": "en",
+    "summary": "سنابل الأمل/ متابعات تحت رعاية المجلس القومي للأشخاص ذوي الإعاقة، برئاسة الدكتورة إيمان كريم، تشارك مؤسسة دليل الخير للتنمية لذوي الهمم، غدًا، في فعاليات جناح سلطنة عُمان، بمشاركة المهندسة سمر حسب الله، والدكتورة منال متولي. ومن المقرر أن تقدم عضوتا المؤسسة ياسمين حسان ورحمة خالد، في تمام الساعة الحادية عشرة صباحًا، كلمتين حول الاقتصاد الأخضر […]",
+    "category": "general",
+    "tags": [],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70202",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70202"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-50f038b2",
+    "status": "published",
+    "translationOf": "story-50f038b2-zh-50f038b2",
+    "publishedAt": "2026-11-16T15:54:39.000Z",
+    "fetchedAt": "2026-11-16T20:40:41.636Z",
+    "body": "سنابل الأمل/ متابعات تحت رعاية المجلس القومي للأشخاص ذوي الإعاقة، برئاسة الدكتورة إيمان كريم، تشارك مؤسسة دليل الخير للتنمية لذوي الهمم، غدًا، في فعاليات جناح سلطنة عُمان، بمشاركة المهندسة سمر حسب الله، والدكتورة منال متولي. ومن المقرر أن تقدم عضوتا المؤسسة ياسمين حسان ورحمة خالد، في تمام الساعة الحادية عشرة صباحًا، كلمتين حول الاقتصاد الأخضر […]\n\nRead more from the original source: [asdmag.org](https://asdmag.org/archives/70202)"
+  },
+  {
+    "title": "Bahraini Ambassador Meets with Omani-Bahraini Friendship Association and Disability Empowerment Committee",
+    "slug": "bahraini-ambassador-meets-with-omani-bahraini-friendship-association-and-disabil-a0dd9750",
+    "lang": "en",
+    "summary": "The Ambassador of the Kingdom of Bahrain to the Sultanate of Oman met with the head of the Omani-Bahraini Friendship Association and members of the Omani-Bahraini Committee for the Empowerment of Persons with Disabilities. The meeting focuses on strengthening ties and advancing inclusion initiatives for people with disabilities in the region.",
+    "category": "laws-rights",
+    "tags": [
+      "diplomatic",
+      "empowerment",
+      "regional-cooperation",
+      "inclusion"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alayam.com/online/local/1152103/News.html",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alayam.com/online/local/1152103/News.html"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-a0dd9750",
+    "status": "published",
+    "translationOf": "bahraini-ambassador-meets-with-omani-bahraini-friendship-association-and-disabil-zh-a0dd9750",
+    "publishedAt": "2026-11-16T15:46:15.000Z",
+    "fetchedAt": "2026-11-16T20:40:41.678Z",
+    "body": "The Ambassador of the Kingdom of Bahrain to the Sultanate of Oman met with the head of the Omani-Bahraini Friendship Association and members of the Omani-Bahraini Committee for the Empowerment of Persons with Disabilities. The meeting focuses on strengthening ties and advancing inclusion initiatives for people with disabilities in the region.\n\nRead more from the original source: [news.google.com](https://www.alayam.com/online/local/1152103/News.html)"
+  },
+  {
+    "title": "Fazaa Disability Championships Launches 'International Cycling' Event",
+    "slug": "fazaa-disability-championships-launches-international-cycling-event-7a2c9d0b",
+    "lang": "en",
+    "summary": "The Fazaa Championships for Persons with Disabilities has announced the launch of its international cycling competition. This event provides a dedicated platform for athletes with disabilities to compete at a high level in cycling, promoting sports participation and physical accessibility in competitive environments.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "sports",
+      "athletics",
+      "inclusion",
+      "cycling"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albayan.ae/sports/all-games/1565492",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albayan.ae/sports/all-games/1565492"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-7a2c9d0b",
+    "status": "published",
+    "translationOf": "fazaa-disability-championships-launches-international-cycling-event-zh-7a2c9d0b",
+    "publishedAt": "2026-11-16T13:29:00.000Z",
+    "fetchedAt": "2026-11-16T20:40:41.713Z",
+    "body": "The Fazaa Championships for Persons with Disabilities has announced the launch of its international cycling competition. This event provides a dedicated platform for athletes with disabilities to compete at a high level in cycling, promoting sports participation and physical accessibility in competitive environments.\n\nRead more from the original source: [news.google.com](https://www.albayan.ae/sports/all-games/1565492)"
+  },
+  {
+    "title": "SNCF extends Lourdes pilgrimage agreements to 2029 for disabled access",
+    "slug": "sncf-extends-lourdes-pilgrimage-agreements-to-2029-for-disabled-access-505da02e",
+    "lang": "en",
+    "summary": "The SNCF railway has renewed its agreements for the Lourdes pilgrimage until 2029, providing special trains to facilitate access for people with disabilities to the sanctuary.",
+    "category": "physical-design",
+    "tags": [
+      "transportation",
+      "railway",
+      "pilgrimage",
+      "accessibility",
+      "SNCF"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-la-sncf-renouvelle-ses-accords-de-lourdes-jusqu-en-2029-40007.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-la-sncf-renouvelle-ses-accords-de-lourdes-jusqu-en-2029-40007.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-505da02e",
+    "status": "published",
+    "translationOf": "sncf-extends-lourdes-pilgrimage-agreements-to-2029-for-disabled-access-zh-505da02e",
+    "publishedAt": "2026-11-16T12:00:30.000Z",
+    "fetchedAt": "2026-11-16T20:40:43.109Z",
+    "body": "The SNCF railway has renewed its agreements for the Lourdes pilgrimage until 2029, providing special trains to facilitate access for people with disabilities to the sanctuary.\n\nRead more from the original source: [handicap.fr](https://informations.handicap.fr/a-la-sncf-renouvelle-ses-accords-de-lourdes-jusqu-en-2029-40007.php)"
+  },
+  {
+    "title": "Escofet and ONCE Foundation Publish Guide for Accessible Public Spaces",
+    "slug": "escofet-and-once-foundation-publish-guide-for-accessible-public-spaces-dfe10062",
+    "lang": "en",
+    "summary": "A new guide by Escofet and the ONCE Foundation provides practical tools for integrating universal accessibility into urban design. It focuses on ergonomics, street furniture, and spatial planning to ensure public spaces are usable by people with physical, sensory, and cognitive disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "urban-planning",
+      "universal-design",
+      "street-furniture",
+      "es"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/escofet-y-fundacion-once-publican-una-guia-para-promover-espacios-publicos-mas-accesibles-e",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/escofet-y-fundacion-once-publican-una-guia-para-promover-espacios-publicos-mas-accesibles-e"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-dfe10062",
+    "status": "published",
+    "translationOf": "escofet-and-once-foundation-publish-guide-for-accessible-public-spaces-zh-dfe10062",
+    "publishedAt": "2026-11-16T14:57:45.000Z",
+    "fetchedAt": "2026-11-16T20:40:45.539Z",
+    "body": "A new guide by Escofet and the ONCE Foundation provides practical tools for integrating universal accessibility into urban design. It focuses on ergonomics, street furniture, and spatial planning to ensure public spaces are usable by people with physical, sensory, and cognitive disabilities.\n\nRead more from the original source: [discapnet.es](https://www.discapnet.es/noticia/escofet-y-fundacion-once-publican-una-guia-para-promover-espacios-publicos-mas-accesibles-e)"
+  },
+  {
+    "title": "مصر | توقيع بروتوكول تعاون لتأهيل جامعة القاهرة لتصبح أول جامعة مصرية صديقة لذوي الإعاقة",
+    "slug": "story-356b4c3d-356b4c3d",
+    "lang": "en",
+    "summary": "سنابل الأمل/ متابعات وقعت جامعة القاهرة وصندوق تطوير التعليم التابع لرئاسة مجلس الوزراء بروتوكول تعاون مشترك، يستهدف تنفيذ حزمة من البرامج والمبادرات النوعية في مجالات التدريب الرقمي والتكنولوجيا واللغات والتأهيل لسوق العمل، في مقدمتها إتاحة 300 ألف فرصة تدريب رقمي لمنسوبي الجامعة من أعضاء هيئة التدريس والهيئة المعاونة والعاملين والطلاب، وتوفير 500 رخصة دولية في […]",
+    "category": "general",
+    "tags": [],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70196",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70196"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-356b4c3d",
+    "status": "published",
+    "translationOf": "story-356b4c3d-zh-356b4c3d",
+    "publishedAt": "2026-11-16T15:49:52.000Z",
+    "fetchedAt": "2026-11-16T20:40:45.577Z",
+    "body": "سنابل الأمل/ متابعات وقعت جامعة القاهرة وصندوق تطوير التعليم التابع لرئاسة مجلس الوزراء بروتوكول تعاون مشترك، يستهدف تنفيذ حزمة من البرامج والمبادرات النوعية في مجالات التدريب الرقمي والتكنولوجيا واللغات والتأهيل لسوق العمل، في مقدمتها إتاحة 300 ألف فرصة تدريب رقمي لمنسوبي الجامعة من أعضاء هيئة التدريس والهيئة المعاونة والعاملين والطلاب، وتوفير 500 رخصة دولية في […]\n\nRead more from the original source: [asdmag.org](https://asdmag.org/archives/70196)"
+  },
+  {
+    "title": "Italian Blind Tourists Explore Red Sea Depths in Inclusive Tourism Experience",
+    "slug": "italian-blind-tourists-explore-red-sea-depths-in-inclusive-tourism-experience-15dd0f3f",
+    "lang": "en",
+    "summary": "A group of Italian tourists with visual impairments participated in a special diving tour in Marsa Matruh, Egypt, exploring coral reefs and marine life using their other senses. The initiative highlights inclusive tourism opportunities for people with disabilities.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "inclusive-tourism",
+      "visual-impairment",
+      "egypt",
+      "italy"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.youm7.com/story/2026/11/16/%D9%88%D9%81%D8%AF-%D8%B3%D9%8A%D8%A7%D8%AD%D9%8A-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9-%D9%8A%D8%AE%D9%88%D8%B6-%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9/7619859",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.youm7.com/story/2026/11/16/%D9%88%D9%81%D8%AF-%D8%B3%D9%8A%D8%A7%D8%AD%D9%8A-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9-%D9%8A%D8%AE%D9%88%D8%B6-%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9/7619859"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-15dd0f3f",
+    "status": "published",
+    "translationOf": "italian-blind-tourists-explore-red-sea-depths-in-inclusive-tourism-experience-zh-15dd0f3f",
+    "publishedAt": "2026-11-16T14:45:00.000Z",
+    "fetchedAt": "2026-11-16T20:40:45.619Z",
+    "body": "A group of Italian tourists with visual impairments participated in a special diving tour in Marsa Matruh, Egypt, exploring coral reefs and marine life using their other senses. The initiative highlights inclusive tourism opportunities for people with disabilities.\n\nRead more from the original source: [news.google.com](https://www.youm7.com/story/2026/11/16/%D9%88%D9%81%D8%AF-%D8%B3%D9%8A%D8%A7%D8%AD%D9%8A-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9-%D9%8A%D8%AE%D9%88%D8%B6-%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9/7619859)"
+  },
+  {
+    "title": "Fazaa Championships for Persons with Disabilities Introduces International Cycling Event",
+    "slug": "fazaa-championships-for-persons-with-disabilities-introduces-international-cycli-904261a6",
+    "lang": "en",
+    "summary": "The Fazaa Championships for persons with disabilities in the UAE have launched a new international cycling category, highlighting advancements in accessible sports infrastructure and inclusive athletic opportunities for individuals with disabilities.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "sports",
+      "inclusivity",
+      "UAE",
+      "cycling"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alkhaleej.ae/2026-11-16/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A8%D8%B7%D9%88%D9%84%D8%A7%D8%AA-%D9%81%D8%B2%D8%A7%D8%B9-%D9%84%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%AA%D8%B3%D8%AA%D8%AD%D8%AF%D8%AB-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%AC%D8%A7%D8%AA",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alkhaleej.ae/2026-11-16/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A8%D8%B7%D9%88%D9%84%D8%A7%D8%AA-%D9%81%D8%B2%D8%A7%D8%B9-%D9%84%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%AA%D8%B3%D8%AA%D8%AD%D8%AF%D8%AB-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%AC%D8%A7%D8%AA"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-904261a6",
+    "status": "published",
+    "translationOf": "fazaa-championships-for-persons-with-disabilities-introduces-international-cycli-zh-904261a6",
+    "publishedAt": "2026-11-16T20:02:59.000Z",
+    "fetchedAt": "2026-11-16T20:40:47.664Z",
+    "body": "The Fazaa Championships for persons with disabilities in the UAE have launched a new international cycling category, highlighting advancements in accessible sports infrastructure and inclusive athletic opportunities for individuals with disabilities.\n\nRead more from the original source: [news.google.com](https://www.alkhaleej.ae/2026-11-16/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A8%D8%B7%D9%88%D9%84%D8%A7%D8%AA-%D9%81%D8%B2%D8%A7%D8%B9-%D9%84%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%AA%D8%B3%D8%AA%D8%AD%D8%AF%D8%AB-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%AC%D8%A7%D8%AA)"
+  },
+  {
+    "title": "Preventing D malnutrition in People with Disabilities",
+    "slug": "preventing-d-malnutrition-in-people-with-disabilities-140974d6",
+    "lang": "en",
+    "summary": "During the National Malnutrition Week, the article discusses the high rates of undetected malnutrition among French individuals with disabilities, emphasizing specific challenges and proposing targeted solutions for prevention and care.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "health",
+      "malnutrition",
+      "disability",
+      "France",
+      "care"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-handicap-quelles-solutions-pour-prevenir-la-denutrition-37555.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-handicap-quelles-solutions-pour-prevenir-la-denutrition-37555.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-140974d6",
+    "status": "published",
+    "translationOf": "preventing-d-malnutrition-in-people-with-disabilities-zh-140974d6",
+    "publishedAt": "2026-11-16T09:11:28.000Z",
+    "fetchedAt": "2026-11-16T20:40:47.706Z",
+    "body": "During the National Malnutrition Week, the article discusses the high rates of undetected malnutrition among French individuals with disabilities, emphasizing specific challenges and proposing targeted solutions for prevention and care.\n\nRead more from the original source: [handicap.fr](https://informations.handicap.fr/a-handicap-quelles-solutions-pour-prevenir-la-denutrition-37555.php)"
+  },
+  {
+    "title": "National Police and UAVDIS Establish Protocol for Accessible Support to People with Intellectual Disabilities",
+    "slug": "national-police-and-uavdis-establish-protocol-for-accessible-support-to-people-w-4f78a362",
+    "lang": "en",
+    "summary": "The Spanish National Police and the UAVDIS association have formalized a collaboration protocol to improve how police procedures handle individuals with intellectual disabilities. The initiative aims to ensure these individuals can comprehend processes and exercise their rights effectively, utilizing specialized support such as procedural facilitation to remove cognitive and communication barriers.",
+    "category": "laws-rights",
+    "tags": [
+      "intellectual-disability",
+      "police-procedures",
+      "accessibility",
+      "espana"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/policia-nacional-y-uavdis-refuerzan-la-atencion-accesible-personas-con-discapacidad",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/policia-nacional-y-uavdis-refuerzan-la-atencion-accesible-personas-con-discapacidad"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-4f78a362",
+    "status": "published",
+    "translationOf": "national-police-and-uavdis-establish-protocol-for-accessible-support-to-people-w-zh-4f78a362",
+    "publishedAt": "2026-11-16T14:47:28.000Z",
+    "fetchedAt": "2026-11-16T20:40:51.004Z",
+    "body": "The Spanish National Police and the UAVDIS association have formalized a collaboration protocol to improve how police procedures handle individuals with intellectual disabilities. The initiative aims to ensure these individuals can comprehend processes and exercise their rights effectively, utilizing specialized support such as procedural facilitation to remove cognitive and communication barriers.\n\nRead more from the original source: [discapnet.es](https://www.discapnet.es/noticia/policia-nacional-y-uavdis-refuerzan-la-atencion-accesible-personas-con-discapacidad)"
+  },
+  {
+    "title": "Egyptian Statistics Agency Joins National Consultative Meeting on Empowering People with Disabilities",
+    "slug": "egyptian-statistics-agency-joins-national-consultative-meeting-on-empowering-peo-21e4b161",
+    "lang": "en",
+    "summary": "A senior official from Egypt's Central Agency for Public Mobilization and Statistics participated in a national consultative meeting organized by the Ministry of Social Solidarity. The focus was on unifying national efforts in the field of disability, utilizing official data and statistics to support the empowerment of people with disabilities.",
+    "category": "general",
+    "tags": [
+      "disability-data",
+      "empowerment",
+      "egypt",
+      "policy"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70191",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70191"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-21e4b161",
+    "status": "published",
+    "translationOf": "egyptian-statistics-agency-joins-national-consultative-meeting-on-empowering-peo-zh-21e4b161",
+    "publishedAt": "2026-11-16T15:34:35.000Z",
+    "fetchedAt": "2026-11-16T20:40:51.041Z",
+    "body": "A senior official from Egypt's Central Agency for Public Mobilization and Statistics participated in a national consultative meeting organized by the Ministry of Social Solidarity. The focus was on unifying national efforts in the field of disability, utilizing official data and statistics to support the empowerment of people with disabilities.\n\nRead more from the original source: [asdmag.org](https://asdmag.org/archives/70191)"
+  },
+  {
+    "title": "Ghada Al-Taher: Disability Inclusion is a Key Pillar for Investing in Human Capital",
+    "slug": "ghada-al-taher-disability-inclusion-is-a-key-pillar-for-investing-in-human-capit-c7c2287f",
+    "lang": "en",
+    "summary": "In a statement published by Kuna, Ghada Al-Taher emphasized that the inclusion of people with disabilities is a fundamental pillar for investing in human capital and building strong communities in Kuwait.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "inclusion",
+      "kuwait",
+      "social-policy",
+      "empowerment"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alanba.com.kw/1385279",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alanba.com.kw/1385279"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-c7c2287f",
+    "status": "published",
+    "translationOf": "ghada-al-taher-disability-inclusion-is-a-key-pillar-for-investing-in-human-capit-zh-c7c2287f",
+    "publishedAt": "2026-11-16T19:38:19.000Z",
+    "fetchedAt": "2026-11-16T20:40:51.082Z",
+    "body": "In a statement published by Kuna, Ghada Al-Taher emphasized that the inclusion of people with disabilities is a fundamental pillar for investing in human capital and building strong communities in Kuwait.\n\nRead more from the original source: [news.google.com](https://www.alanba.com.kw/1385279)"
+  },
+  {
+    "title": "Basque Country Leads Spain in Residential Accessibility Improvements for Older Adults and People with Mobility Impairments",
+    "slug": "basque-country-leads-spain-in-residential-accessibility-improvements-for-older-a-0952dff4",
+    "lang": "en",
+    "summary": "A study by TK Elevator highlights that the Basque Country leads in Spain regarding residential accessibility adaptations, with 28.7% of residents reporting improvements in their homes or buildings in the last five years. The article emphasizes how removing architectural barriers, such as installing stair lifts and elevators, enhances autonomy, quality of life, and social participation for elderly individuals and those with mobility limitations.",
+    "category": "physical-design",
+    "tags": [
+      "architectural-barriers",
+      "stair-lifts",
+      "elevators",
+      "aging-in-place",
+      "universal-design",
+      "residential-accessibility"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/el-pais-vasco-lidera-las-mejoras-de-accesibilidad-en-viviendas-y-edificios-residenciales-en",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/el-pais-vasco-lidera-las-mejoras-de-accesibilidad-en-viviendas-y-edificios-residenciales-en"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-0952dff4",
+    "status": "published",
+    "translationOf": "basque-country-leads-spain-in-residential-accessibility-improvements-for-older-a-zh-0952dff4",
+    "publishedAt": "2026-11-16T14:41:36.000Z",
+    "fetchedAt": "2026-11-16T20:41:26.698Z",
+    "body": "A study by TK Elevator highlights that the Basque Country leads in Spain regarding residential accessibility adaptations, with 28.7% of residents reporting improvements in their homes or buildings in the last five years. The article emphasizes how removing architectural barriers, such as installing stair lifts and elevators, enhances autonomy, quality of life, and social participation for elderly individuals and those with mobility limitations.\n\nRead more from the original source: [discapnet.es](https://www.discapnet.es/noticia/el-pais-vasco-lidera-las-mejoras-de-accesibilidad-en-viviendas-y-edificios-residenciales-en)"
+  },
+  {
+    "title": "Entertainment Festival for Children with Disabilities Held in Al-Muthanna, Iraq",
+    "slug": "entertainment-festival-for-children-with-disabilities-held-in-al-muthanna-iraq-7b06869f",
+    "lang": "en",
+    "summary": "A recreational festival specifically designed for children with disabilities was organized in the Al-Muthanna region of Iraq, highlighting inclusive social activities and support for this community.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "children",
+      "disability",
+      "festival",
+      "inclusion",
+      "iraq"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70187",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70187"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-7b06869f",
+    "status": "published",
+    "translationOf": "entertainment-festival-for-children-with-disabilities-held-in-al-muthanna-iraq-zh-7b06869f",
+    "publishedAt": "2026-11-16T15:23:27.000Z",
+    "fetchedAt": "2026-11-16T20:41:30.650Z",
+    "body": "A recreational festival specifically designed for children with disabilities was organized in the Al-Muthanna region of Iraq, highlighting inclusive social activities and support for this community.\n\nRead more from the original source: [asdmag.org](https://asdmag.org/archives/70187)"
+  },
+  {
+    "title": "Statistics Ministry Partners with Solidarity Ministry to Empower Persons with Disabilities",
+    "slug": "statistics-ministry-partners-with-solidarity-ministry-to-empower-persons-with-di-accb2a5f",
+    "lang": "en",
+    "summary": "The Statistics Ministry participated in a meeting with the Ministry of Social Solidarity to discuss unifying efforts in the field of empowering people with disabilities, focusing on policy coordination and data-driven support.",
+    "category": "laws-rights",
+    "tags": [
+      "policy",
+      "government",
+      "empowerment",
+      "coordination"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.parlmany.com/News/6/620632/%D8%A7%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%8A%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%89-%D9%84%D9%82%D8%A7%D8%A1-%D8%A8%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AD%D9%88%D9%84-%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7%D9%84%D8%AC%D9%87%D9%88%D8%AF-%D9%81%D9%89",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.parlmany.com/News/6/620632/%D8%A7%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%8A%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%89-%D9%84%D9%82%D8%A7%D8%A1-%D8%A8%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AD%D9%88%D9%84-%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7%D9%84%D8%AC%D9%87%D9%88%D8%AF-%D9%81%D9%89"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-accb2a5f",
+    "status": "published",
+    "translationOf": "statistics-ministry-partners-with-solidarity-ministry-to-empower-persons-with-di-zh-accb2a5f",
+    "publishedAt": "2026-11-16T11:12:00.000Z",
+    "fetchedAt": "2026-11-16T20:41:30.695Z",
+    "body": "The Statistics Ministry participated in a meeting with the Ministry of Social Solidarity to discuss unifying efforts in the field of empowering people with disabilities, focusing on policy coordination and data-driven support.\n\nRead more from the original source: [news.google.com](https://www.parlmany.com/News/6/620632/%D8%A7%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%8A%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%89-%D9%84%D9%82%D8%A7%D8%A1-%D8%A8%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AD%D9%88%D9%84-%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7%D9%84%D8%AC%D9%87%D9%88%D8%AF-%D9%81%D9%89)"
+  },
+  {
+    "title": "Bilbao Hosts 5th International Congress on Accessible Tourism to Promote Inclusive Industry Growth",
+    "slug": "bilbao-hosts-5th-international-congress-on-accessible-tourism-to-promote-inclusi-50992048",
+    "lang": "en",
+    "summary": "Bilbao is hosting the 5th International Congress of Accessible Tourism, bringing together experts, companies, and travel agencies to advance inclusive tourism practices. The event features 39 speakers discussing accessible accommodations, smart destinations, and AI applications, along with the launch of TUR4all Connect, an international marketplace for accessible travel products. The congress venue is equipped with live subtitles and sign language interpretation to ensure accessibility for all attendees.",
+    "category": "general",
+    "tags": [
+      "accessible-tourism",
+      "inclusive-design",
+      "conference"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/bilbao-reune-expertos-y-empresas-para-impulsar-un-turismo-mas-accesible-e-inclusivo",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/bilbao-reune-expertos-y-empresas-para-impulsar-un-turismo-mas-accesible-e-inclusivo"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-50992048",
+    "status": "published",
+    "translationOf": "bilbao-hosts-5th-international-congress-on-accessible-tourism-to-promote-inclusi-zh-50992048",
+    "publishedAt": "2026-11-16T13:26:50.000Z",
+    "fetchedAt": "2026-11-16T20:41:37.020Z",
+    "body": "Bilbao is hosting the 5th International Congress of Accessible Tourism, bringing together experts, companies, and travel agencies to advance inclusive tourism practices. The event features 39 speakers discussing accessible accommodations, smart destinations, and AI applications, along with the launch of TUR4all Connect, an international marketplace for accessible travel products. The congress venue is equipped with live subtitles and sign language interpretation to ensure accessibility for all attendees.\n\nRead more from the original source: [discapnet.es](https://www.discapnet.es/noticia/bilbao-reune-expertos-y-empresas-para-impulsar-un-turismo-mas-accesible-e-inclusivo)"
+  },
+  {
+    "title": "Kuwaiti Minister Celebrates Achievements of Paralympic Athletes, Highlights Collaborative Support for Persons with Disabilities",
+    "slug": "kuwaiti-minister-celebrates-achievements-of-paralympic-athletes-highlights-colla-eb6d51ea",
+    "lang": "en",
+    "summary": "The Kuwaiti Minister of Social Affairs stated that the achievements of Kuwait's Paralympic athletes reflect the integrated efforts and shared work of relevant entities in supporting disabled athletes. The minister highlighted the importance of collaborative action in promoting sports and inclusion for persons with disabilities.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "paralympics",
+      "disability-advocacy",
+      "government-support"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70184",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70184"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-eb6d51ea",
+    "status": "published",
+    "translationOf": "kuwaiti-minister-celebrates-achievements-of-paralympic-athletes-highlights-colla-zh-eb6d51ea",
+    "publishedAt": "2026-11-16T15:12:30.000Z",
+    "fetchedAt": "2026-11-16T20:41:37.064Z",
+    "body": "The Kuwaiti Minister of Social Affairs stated that the achievements of Kuwait's Paralympic athletes reflect the integrated efforts and shared work of relevant entities in supporting disabled athletes. The minister highlighted the importance of collaborative action in promoting sports and inclusion for persons with disabilities.\n\nRead more from the original source: [asdmag.org](https://asdmag.org/archives/70184)"
+  },
+  {
+    "title": "Supervisor of Egypt's National Council for Persons with Disabilities Attends COP31 in Turkey",
+    "slug": "supervisor-of-egypts-national-council-for-persons-with-disabilities-attends-cop3-1787092b",
+    "lang": "en",
+    "summary": "The General Supervisor of Egypt's National Council for Persons with Disabilities is participating in the events of the COP31 climate summit in Turkey. Her presence highlights the intersection of climate change policy and disability rights, ensuring that the voices of persons with disabilities are included in international environmental discussions.",
+    "category": "laws-rights",
+    "tags": [
+      "disability-rights",
+      "climate-change",
+      "international-conference"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.eldyar.net/644296",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.eldyar.net/644296"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-1787092b",
+    "status": "published",
+    "translationOf": "supervisor-of-egypts-national-council-for-persons-with-disabilities-attends-cop3-zh-1787092b",
+    "publishedAt": "2026-11-16T17:35:41.000Z",
+    "fetchedAt": "2026-11-16T20:41:37.100Z",
+    "body": "The General Supervisor of Egypt's National Council for Persons with Disabilities is participating in the events of the COP31 climate summit in Turkey. Her presence highlights the intersection of climate change policy and disability rights, ensuring that the voices of persons with disabilities are included in international environmental discussions.\n\nRead more from the original source: [news.google.com](https://www.eldyar.net/644296)"
+  },
+  {
+    "title": "Santander hosts gathering of deaf advocacy groups to advance inclusion priorities",
+    "slug": "santander-hosts-gathering-of-deaf-advocacy-groups-to-advance-inclusion-prioritie-b7019054",
+    "lang": "en",
+    "summary": "Deaf associations from across Spain convened in Santander for the Statewide Council of the National Confederation of Deaf People. The meeting focused on coordinating regional efforts, advancing sign language rights, and ensuring universal accessibility in public services.",
+    "category": "laws-rights",
+    "tags": [
+      "deaf-community",
+      "advocacy",
+      "accessibility",
+      "sign-language"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/santander-reune-al-movimiento-asociativo-de-personas-sordas-para-impulsar-sus-prioridades",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/santander-reune-al-movimiento-asociativo-de-personas-sordas-para-impulsar-sus-prioridades"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-b7019054",
+    "status": "published",
+    "translationOf": "santander-hosts-gathering-of-deaf-advocacy-groups-to-advance-inclusion-prioritie-zh-b7019054",
+    "publishedAt": "2026-11-16T13:19:51.000Z",
+    "fetchedAt": "2026-11-16T20:41:43.505Z",
+    "body": "Deaf associations from across Spain convened in Santander for the Statewide Council of the National Confederation of Deaf People. The meeting focused on coordinating regional efforts, advancing sign language rights, and ensuring universal accessibility in public services.\n\nRead more from the original source: [discapnet.es](https://www.discapnet.es/noticia/santander-reune-al-movimiento-asociativo-de-personas-sordas-para-impulsar-sus-prioridades)"
+  },
+  {
+    "title": "Yemen's Disability Fund supports deaf association in Al Hudah Governorate",
+    "slug": "yemens-disability-fund-supports-deaf-association-in-al-hudah-governorate-abf5c648",
+    "lang": "en",
+    "summary": "The Executive Director of Yemen's Disability Care and Rehabilitation Fund met with students and teachers from the Al Hudah Deaf Association to discuss educational and rehabilitation challenges, reaffirming the fund's commitment to supporting disability organizations.",
+    "category": "case-studies",
+    "tags": [
+      "yemen",
+      "deaf-association",
+      "rehabilitation",
+      "funding"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70178",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70178"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-abf5c648",
+    "status": "published",
+    "translationOf": "yemens-disability-fund-supports-deaf-association-in-al-hudah-governorate-zh-abf5c648",
+    "publishedAt": "2026-11-16T13:36:17.000Z",
+    "fetchedAt": "2026-11-16T20:41:43.551Z",
+    "body": "The Executive Director of Yemen's Disability Care and Rehabilitation Fund met with students and teachers from the Al Hudah Deaf Association to discuss educational and rehabilitation challenges, reaffirming the fund's commitment to supporting disability organizations.\n\nRead more from the original source: [asdmag.org](https://asdmag.org/archives/70178)"
+  },
+  {
+    "title": "Blind Artist Noura Al-Majrashi Showcases Her Fartific Talent",
+    "slug": "blind-artist-noura-al-majrashi-showcases-her-fartific-talent-eae02000",
+    "lang": "en",
+    "summary": "Noura Al-Majrashi, an artist with a visual disability, is highlighting her artistic skills and creative works, contributing to the representation of artists with disabilities in the cultural sphere.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "visual disability",
+      "art",
+      "culture"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alarabiya.net/saudi-today/social/2026/11/14/%D9%86%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AC%D8%B1%D8%B4%D9%8A-%D9%81%D9%86%D8%A7%D9%86%D8%A9-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A7%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D9%85%D9%88%D9%87%D8%A8%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D9%81%D9%86%D9%8A%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alarabiya.net/saudi-today/social/2026/11/14/%D9%86%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AC%D8%B1%D8%B4%D9%8A-%D9%81%D9%86%D8%A7%D9%86%D8%A9-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A7%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D9%85%D9%88%D9%87%D8%A8%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D9%81%D9%86%D9%8A%D8%A9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-eae02000",
+    "status": "published",
+    "translationOf": "blind-artist-noura-al-majrashi-showcases-her-fartific-talent-zh-eae02000",
+    "publishedAt": "2026-11-14T08:18:00.000Z",
+    "fetchedAt": "2026-11-16T20:41:50.168Z",
+    "body": "Noura Al-Majrashi, an artist with a visual disability, is highlighting her artistic skills and creative works, contributing to the representation of artists with disabilities in the cultural sphere.\n\nRead more from the original source: [news.google.com](https://www.alarabiya.net/saudi-today/social/2026/11/14/%D9%86%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AC%D8%B1%D8%B4%D9%8A-%D9%81%D9%86%D8%A7%D9%86%D8%A9-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A7%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D9%85%D9%88%D9%87%D8%A8%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D9%81%D9%86%D9%8A%D8%A9)"
+  },
+  {
+    "title": "La Unión Europea amplía las opciones de tratamiento para la espondiloartritis axial con filgotinib",
+    "slug": "la-union-europea-amplia-las-opciones-de-tratamiento-para-la-espondiloartritis-ax-b543b45f",
+    "lang": "en",
+    "summary": "La Comisión Europea ha ampliado la autorización de comercialización de filgotinib para el tratamiento de personas adultas con espondiloartritis axial activa (EspAax), tanto en su forma radiográfica como no radiográfica, cuando no han respondido adecuadamente al tratamiento convencional.\nLa decisión supone un nuevo avance para las personas que conviven con esta enfermedad inflamatoria crónica, que puede causar dolor persistente, rigidez y fatiga, afectando de forma importante a la calidad de vida, la actividad laboral y el bienestar emocional.\nLa ampliación de la autorización se produce tras la valoración positiva de los datos de eficacia y seguridad disponibles, incluidos los resultados del ensayo clínico de fase 3 OLINGUITO, publicados en la revista científica Annals of the Rheumatic Diseases. Mientras tanto, la solicitud presentada ante la Agencia Reguladora de Medicamentos y Productos Sanitarios del Reino Unido (MHRA) continúa en evaluación.\nMás alternativas para una enfermedad con necesidades aún no cubiertas\nLa espondiloartritis axial es una enfermedad compleja y heterogénea cuyo abordaje requiere adaptar las decisiones terapéuticas a las características y necesidades de cada paciente. Aunque existen diferentes tratamientos disponibles, una parte de las personas afectadas no logra un control adecuado de la enfermedad.\nSegún explica la Dra. Victoria Navarro-Compán, reumatóloga del Hospital Universitario La Paz y presidenta del grupo internacional ASAS, disponer de distintas alternativas terapéuticas puede facilitar una atención más personalizada y ajustada a cada situación clínica.\nPor su parte, Richard Azencoth, director global de cartera y responsable de estrategia médica de Alfasigma, ha destacado que esta autorización ofrece una nueva opción para las personas con EspAax y amplía las herramientas disponibles para afrontar una enfermedad que continúa planteando desafíos en su manejo a largo plazo.\nResultados del ensayo OLINGUITO\nLa decisión regulatoria se apoya, entre otros datos, en los resultados del programa clínico OLINGUITO, integrado por dos estudios internacionales, aleatorizados, doble ciego y controlados con placebo.\nEl objetivo principal fue evaluar la proporción de pacientes que alcanzaban una respuesta ASAS40 a las 16 semanas de tratamiento.\n\nEn pacientes con espondiloartritis axial radiográfica, el 39,5 % de quienes recibieron filgotinib alcanzó una respuesta ASAS40, frente al 20,9 % de quienes recibieron placebo.\nEn pacientes con espondiloartritis axial no radiográfica, la respuesta fue del 34,5 % con filgotinib y del 17,8 % con placebo.\n\nEl estudio también evaluó variables comunicadas directamente por los pacientes, incluyendo el dolor de espalda total y el dolor nocturno, aspectos especialmente relevantes para quienes conviven con esta enfermedad.\n¿Qué es la espondiloartritis axial?\nLa espondiloartritis axial (EspAax) es una enfermedad inflamatoria crónica que afecta principalmente a la columna vertebral y a las articulaciones sacroilíacas. Entre sus síntomas más frecuentes se encuentran el dolor lumbar inflamatorio y la rigidez, aunque también puede presentarse con artritis, entesitis, dactilitis o manifestaciones fuera del aparato locomotor, como psoriasis, uveítis o enfermedad inflamatoria intestinal.\nLa enfermedad suele comenzar en adultos jóvenes y engloba tanto la forma radiográfica, también conocida como espondilitis anquilosante, como la forma no radiográfica, en la que aún no existen cambios visibles en las pruebas radiológicas.",
+    "category": "general",
+    "tags": [],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/la-union-europea-amplia-las-opciones-de-tratamiento-para-la-espondiloartritis-axial-con",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/la-union-europea-amplia-las-opciones-de-tratamiento-para-la-espondiloartritis-axial-con"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-b543b45f",
+    "status": "published",
+    "translationOf": "la-union-europea-amplia-las-opciones-de-tratamiento-para-la-espondiloartritis-ax-zh-b543b45f",
+    "publishedAt": "2026-11-16T13:08:52.000Z",
+    "fetchedAt": "2026-11-16T20:41:50.212Z",
+    "body": "La Comisión Europea ha ampliado la autorización de comercialización de filgotinib para el tratamiento de personas adultas con espondiloartritis axial activa (EspAax), tanto en su forma radiográfica como no radiográfica, cuando no han respondido adecuadamente al tratamiento convencional.\nLa decisión supone un nuevo avance para las personas que conviven con esta enfermedad inflamatoria crónica, que puede causar dolor persistente, rigidez y fatiga, afectando de forma importante a la calidad de vida, la actividad laboral y el bienestar emocional.\nLa ampliación de la autorización se produce tras la valoración positiva de los datos de eficacia y seguridad disponibles, incluidos los resultados del ensayo clínico de fase 3 OLINGUITO, publicados en la revista científica Annals of the Rheumatic Diseases. Mientras tanto, la solicitud presentada ante la Agencia Reguladora de Medicamentos y Productos Sanitarios del Reino Unido (MHRA) continúa en evaluación.\nMás alternativas para una enfermedad con necesidades aún no cubiertas\nLa espondiloartritis axial es una enfermedad compleja y heterogénea cuyo abordaje requiere adaptar las decisiones terapéuticas a las características y necesidades de cada paciente. Aunque existen diferentes tratamientos disponibles, una parte de las personas afectadas no logra un control adecuado de la enfermedad.\nSegún explica la Dra. Victoria Navarro-Compán, reumatóloga del Hospital Universitario La Paz y presidenta del grupo internacional ASAS, disponer de distintas alternativas terapéuticas puede facilitar una atención más personalizada y ajustada a cada situación clínica.\nPor su parte, Richard Azencoth, director global de cartera y responsable de estrategia médica de Alfasigma, ha destacado que esta autorización ofrece una nueva opción para las personas con EspAax y amplía las herramientas disponibles para afrontar una enfermedad que continúa planteando desafíos en su manejo a largo plazo.\nResultados del ensayo OLINGUITO\nLa decisión regulatoria se apoya, entre otros datos, en los resultados del programa clínico OLINGUITO, integrado por dos estudios internacionales, aleatorizados, doble ciego y controlados con placebo.\nEl objetivo principal fue evaluar la proporción de pacientes que alcanzaban una respuesta ASAS40 a las 16 semanas de tratamiento.\n\nEn pacientes con espondiloartritis axial radiográfica, el 39,5 % de quienes recibieron filgotinib alcanzó una respuesta ASAS40, frente al 20,9 % de quienes recibieron placebo.\nEn pacientes con espondiloartritis axial no radiográfica, la respuesta fue del 34,5 % con filgotinib y del 17,8 % con placebo.\n\nEl estudio también evaluó variables comunicadas directamente por los pacientes, incluyendo el dolor de espalda total y el dolor nocturno, aspectos especialmente relevantes para quienes conviven con esta enfermedad.\n¿Qué es la espondiloartritis axial?\nLa espondiloartritis axial (EspAax) es una enfermedad inflamatoria crónica que afecta principalmente a la columna vertebral y a las articulaciones sacroilíacas. Entre sus síntomas más frecuentes se encuentran el dolor lumbar inflamatorio y la rigidez, aunque también puede presentarse con artritis, entesitis, dactilitis o manifestaciones fuera del aparato locomotor, como psoriasis, uveítis o enfermedad inflamatoria intestinal.\nLa enfermedad suele comenzar en adultos jóvenes y engloba tanto la forma radiográfica, también conocida como espondilitis anquilosante, como la forma no radiográfica, en la que aún no existen cambios visibles en las pruebas radiológicas.\n\nRead more from the original source: [discapnet.es](https://www.discapnet.es/noticia/la-union-europea-amplia-las-opciones-de-tratamiento-para-la-espondiloartritis-axial-con)"
+  },
+  {
+    "title": "شاب سعودي كفيف يصل إلى قمة إيفرست في إنجاز غير مسبوق",
+    "slug": "story-59ef7bb3-59ef7bb3",
+    "lang": "en",
+    "summary": "سنابل الأمل / متابعات     نجح الشاب السعودي الكفيف رشاد نقيب في الوصول إلى معسكر قاعدة جبل إيفرست في نيبال، على ارتفاع 5364 متراً فوق سطح البحر، برفقة المستكشف السعودي الدكتور بدر الشيباني، في إنجاز يُعتقد أنه الأول من نوعه لشاب سعودي كفيف.   واستغرقت الرحلة تسعة أيام من السير عبر مسارات جبال الهيمالايا، […]",
+    "category": "general",
+    "tags": [],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70173",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70173"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-59ef7bb3",
+    "status": "published",
+    "translationOf": "story-59ef7bb3-zh-59ef7bb3",
+    "publishedAt": "2026-11-16T11:23:54.000Z",
+    "fetchedAt": "2026-11-16T20:41:50.918Z",
+    "body": "سنابل الأمل / متابعات     نجح الشاب السعودي الكفيف رشاد نقيب في الوصول إلى معسكر قاعدة جبل إيفرست في نيبال، على ارتفاع 5364 متراً فوق سطح البحر، برفقة المستكشف السعودي الدكتور بدر الشيباني، في إنجاز يُعتقد أنه الأول من نوعه لشاب سعودي كفيف.   واستغرقت الرحلة تسعة أيام من السير عبر مسارات جبال الهيمالايا، […]\n\nRead more from the original source: [asdmag.org](https://asdmag.org/archives/70173)"
   }
 ]
