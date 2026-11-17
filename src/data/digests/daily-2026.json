@@ -15811,5 +15811,115 @@
         }
       ]
     }
+  },
+  "2026-11-17": {
+    "generatedAt": "2026-11-17T02:08:15.404Z",
+    "en": {
+      "title": "European Week Highlights Disability Employment Gaps and Inclusive Policy Milestones",
+      "summary": "As the 30th European Week for Disability Employment concludes, new data reveals that half of disabled workers have abandoned claiming rights due to complex procedures. Simultaneously, Spain allocates €8 million for inclusive education while the National Police establishes a protocol to support those with intellectual disabilities.",
+      "highlights": [
+        {
+          "title": "Work and Disability: 50% Have Already Given Up on Aid",
+          "slug": "work-and-disability-50-have-already-given-up-on-aid-7aa158e9",
+          "url": "https://informations.handicap.fr/a-emploi-et-handicap-50-ont-deja-renonce-a-une-aide-40019.php"
+        },
+        {
+          "title": "Autism Spain Celebrates New Funding for Inclusive Education of Autistic Students",
+          "slug": "autism-spain-celebrates-new-funding-for-inclusive-education-of-autistic-students-df41767b",
+          "url": "https://www.discapnet.es/noticia/autismo-espana-celebra-la-llegada-de-nuevos-fondos-para-reforzar-la-inclusion-educativa-del"
+        },
+        {
+          "title": "Public Sector Faces Disability Challenge",
+          "slug": "public-sector-faces-disability-challenge-fff8bb95",
+          "url": "https://www.lemonde.fr/le-monde-et-vous/article/2026/11/16/la-fonction-publique-face-au-defi-du-handicap_6812296_6065879.html"
+        },
+        {
+          "title": "Death in a Croatian psychiatric hospital shows the horrifying consequences of use of coercion",
+          "slug": "death-in-a-croatian-psychiatric-hospital-shows-the-horrifying-consequences-of-us-0457e440",
+          "url": "https://www.edf-feph.org/death-in-a-croatian-psychiatric-hospital-shows-the-horrifying-consequences-of-use-of-coercion"
+        },
+        {
+          "title": "National Police and UAVDIS Establish Protocol for Accessible Support to People with Intellectual Disabilities",
+          "slug": "national-police-and-uavdis-establish-protocol-for-accessible-support-to-people-w-4f78a362",
+          "url": "https://www.discapnet.es/noticia/policia-nacional-y-uavdis-refuerzan-la-atencion-accesible-personas-con-discapacidad"
+        },
+        {
+          "title": "Nearly half of deaths among adults with Down syndrome are from avoidable causes",
+          "slug": "nearly-half-of-deaths-among-adults-with-down-syndrome-are-from-avoidable-causes-cdc0a4ac",
+          "url": "https://disabilityinsider.com/2026/11/16/health/nearly-half-of-deaths-among-adults-with-down-syndrome-are-from-avoidable-causes"
+        },
+        {
+          "title": "MVRPC redesigns website to enhance accessibility - Spectrum News",
+          "slug": "mvrpc-redesigns-website-to-enhance-accessibility-spectrum-news-dc18d12e",
+          "url": "https://spectrumnews1.com/oh/cincinnati/news/2026/11/16/mvrpc-updates-website"
+        },
+        {
+          "title": "SNCF extends Lourdes pilgrimage agreements to 2029 for disabled access",
+          "slug": "sncf-extends-lourdes-pilgrimage-agreements-to-2029-for-disabled-access-505da02e",
+          "url": "https://informations.handicap.fr/a-la-sncf-renouvelle-ses-accords-de-lourdes-jusqu-en-2029-40007.php"
+        },
+        {
+          "title": "Escofet and ONCE Foundation Publish Guide for Accessible Public Spaces",
+          "slug": "escofet-and-once-foundation-publish-guide-for-accessible-public-spaces-dfe10062",
+          "url": "https://www.discapnet.es/noticia/escofet-y-fundacion-once-publican-una-guia-para-promover-espacios-publicos-mas-accesibles-e"
+        },
+        {
+          "title": "Bilbao Hosts 5th International Congress on Accessible Tourism to Promote Inclusive Industry Growth",
+          "slug": "bilbao-hosts-5th-international-congress-on-accessible-tourism-to-promote-inclusi-50992048",
+          "url": "https://www.discapnet.es/noticia/bilbao-reune-expertos-y-empresas-para-impulsar-un-turismo-mas-accesible-e-inclusivo"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "歐洲殘障就業週揭顯權益申請困境與包容性政策里程碑",
+      "summary": "第30屆歐洲殘障就業週期間，數據顯示因程序複雜，半數身障工作者放棄主張權益。同時，西班牙撥款800萬歐元強化融合教育，國家警察局亦建立協作機制以支持智力障礙者。",
+      "highlights": [
+        {
+          "title": "工作与残障：50%的人已放弃申请援助",
+          "slug": "work-and-disability-50-have-already-given-up-on-aid-zh-7aa158e9",
+          "url": "https://informations.handicap.fr/a-emploi-et-handicap-50-ont-deja-renonce-a-une-aide-40019.php"
+        },
+        {
+          "title": "西班牙自閉症協會慶祝獲得用於自閉症學生融合教育的新資金",
+          "slug": "autism-spain-celebrates-new-funding-for-inclusive-education-of-autistic-students-zh-df41767b",
+          "url": "https://www.discapnet.es/noticia/autismo-espana-celebra-la-llegada-de-nuevos-fondos-para-reforzar-la-inclusion-educativa-del"
+        },
+        {
+          "title": "公共部门面对残障挑战",
+          "slug": "public-sector-faces-disability-challenge-zh-fff8bb95",
+          "url": "https://www.lemonde.fr/le-monde-et-vous/article/2026/11/16/la-fonction-publique-face-au-defi-du-handicap_6812296_6065879.html"
+        },
+        {
+          "title": "克羅地亞精神病院死亡事件揭示強制措施的可怕後果",
+          "slug": "death-in-a-croatian-psychiatric-hospital-shows-the-horrifying-consequences-of-us-zh-0457e440",
+          "url": "https://www.edf-feph.org/death-in-a-croatian-psychiatric-hospital-shows-the-horrifying-consequences-of-use-of-coercion"
+        },
+        {
+          "title": "國家警察局與UAVDIS建立協作機制，為智力障礙人士提供可及性支持",
+          "slug": "national-police-and-uavdis-establish-protocol-for-accessible-support-to-people-w-zh-4f78a362",
+          "url": "https://www.discapnet.es/noticia/policia-nacional-y-uavdis-refuerzan-la-atencion-accesible-personas-con-discapacidad"
+        },
+        {
+          "title": "MVRPC 重新設計網站以提升無障礙性 - Spectrum News",
+          "slug": "mvrpc-redesigns-website-to-enhance-accessibility-spectrum-news-zh-dc18d12e",
+          "url": "https://spectrumnews1.com/oh/cincinnati/news/2026/11/16/mvrpc-updates-website"
+        },
+        {
+          "title": "SNCF延長盧德 pilgrimage 協定至2029年以利身障人士進出",
+          "slug": "sncf-extends-lourdes-pilgrimage-agreements-to-2029-for-disabled-access-zh-505da02e",
+          "url": "https://informations.handicap.fr/a-la-sncf-renouvelle-ses-accords-de-lourdes-jusqu-en-2029-40007.php"
+        },
+        {
+          "title": "Escofet 和 ONCE 基金會發布公眾空間無障礙設計指南",
+          "slug": "escofet-and-once-foundation-publish-guide-for-accessible-public-spaces-zh-dfe10062",
+          "url": "https://www.discapnet.es/noticia/escofet-y-fundacion-once-publican-una-guia-para-promover-espacios-publicos-mas-accesibles-e"
+        },
+        {
+          "title": "畢爾包舉辦第五屆國際無障礙旅遊大會，促進包容性產業發展",
+          "slug": "bilbao-hosts-5th-international-congress-on-accessible-tourism-to-promote-inclusi-zh-50992048",
+          "url": "https://www.discapnet.es/noticia/bilbao-reune-expertos-y-empresas-para-impulsar-un-turismo-mas-accesible-e-inclusivo"
+        }
+      ]
+    }
   }
 }
