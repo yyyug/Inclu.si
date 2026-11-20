@@ -48266,5 +48266,175 @@
     "publishedAt": "2026-11-16T10:26:00.000Z",
     "fetchedAt": "2026-11-19T19:11:44.039Z",
     "body": "國家統計機構參與了一場國家諮詢會議，旨在統一促進残障人士賦權的努力，重點在於政策協調和數據驅動的舉措。\n\n原文來源： [news.google.com](https://www.youm7.com/story/2026/11/16/%D8%AC%D9%87%D8%A7%D8%B2-%D8%A7%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%8A%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D9%82%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D8%B4%D8%A7%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D8%AC%D9%87%D9%88%D8%AF-%D8%AA%D9%85%D9%83%D9%8A%D9%86/7620399)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "introducing-auracast-technology-for-enhanced-hearing-accessibility-boothbay-regi-zh-4193cdd1",
+    "lang": "zh-TW",
+    "summary": "本文介紹 Auracast 技術，一種 Bluetooth LE Audio 廣播，可讓助聽器與人工耳蝸使用者直接接收音訊，提升公共場所的聽力無障礙。",
+    "category": "assistive-tech",
+    "tags": [
+      "auracast",
+      "hearing",
+      "accessibility",
+      "bluetooth"
+    ],
+    "sourceName": "Boothbay Register",
+    "sourceUrl": "https://www.boothbayregister.com/article/introducing-auracast-technology-enhanced-hearing-accessibility/276541",
+    "relatedSources": [
+      {
+        "name": "Boothbay Register",
+        "url": "https://www.boothbayregister.com/article/introducing-auracast-technology-enhanced-hearing-accessibility/276541"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-4193cdd1",
+    "status": "draft",
+    "translationOf": "introducing-auracast-technology-for-enhanced-hearing-accessibility-boothbay-regi-4193cdd1",
+    "publishedAt": "2026-11-20T13:10:59.000Z",
+    "fetchedAt": "2026-11-20T17:00:27.954Z",
+    "body": "本文介紹 Auracast 技術，一種 Bluetooth LE Audio 廣播，可讓助聽器與人工耳蝸使用者直接接收音訊，提升公共場所的聽力無障礙。\n\n原文來源： [Boothbay Register](https://www.boothbayregister.com/article/introducing-auracast-technology-enhanced-hearing-accessibility/276541)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "servants-at-work-honors-bowen-school-of-construction-for-building-accessibility--zh-dcc562b7",
+    "lang": "zh-TW",
+    "summary": "普渡理工大學報導，Bowen 建築學院因在印第安納州多處安裝無障礙坡道而獲表彰，提升行動不便者的實體通行。",
+    "category": "physical-design",
+    "tags": [
+      "ramps",
+      "construction",
+      "Indiana",
+      "mobility"
+    ],
+    "sourceName": "Purdue Polytechnic",
+    "sourceUrl": "https://polytechnic.purdue.edu/newsroom/servants-work-honors-bowen-school-construction-building-accessibility-ramps-across-indiana",
+    "relatedSources": [
+      {
+        "name": "Purdue Polytechnic",
+        "url": "https://polytechnic.purdue.edu/newsroom/servants-work-honors-bowen-school-construction-building-accessibility-ramps-across-indiana"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-dcc562b7",
+    "status": "draft",
+    "translationOf": "servants-at-work-honors-bowen-school-of-construction-for-building-accessibility--dcc562b7",
+    "publishedAt": "2026-11-19T22:12:08.000Z",
+    "fetchedAt": "2026-11-20T17:00:28.059Z",
+    "body": "普渡理工大學報導，Bowen 建築學院因在印第安納州多處安裝無障礙坡道而獲表彰，提升行動不便者的實體通行。\n\n原文來源： [Purdue Polytechnic](https://polytechnic.purdue.edu/newsroom/servants-work-honors-bowen-school-construction-building-accessibility-ramps-across-indiana)"
+  },
+  {
+    "title": "OpenAI 在全球所有方案推出 ChatGPT 即時口述功能",
+    "slug": "openai-rolls-out-live-dictation-for-chatgpt-across-all-plans-worldwide-zh-40d1c1ff",
+    "lang": "zh-TW",
+    "summary": "OpenAI 推出 Live Dictation，即時語音轉文字功能，現已在全球所有 ChatGPT 訂閱方案中提供。此功能允許使用者口述指令並以語音回覆，提升免手操作體驗，增進對有肢體、語言或視覺障礙者的數位無障礙性。",
+    "category": "digital-a11y",
+    "tags": [
+      "OpenAI",
+      "Live Dictation",
+      "ChatGPT",
+      "speech-to-text",
+      "accessibility",
+      "AI"
+    ],
+    "sourceName": "Crypto Briefing",
+    "sourceUrl": "https://cryptobriefing.com/openai-chatgpt-live-dictation-global-rollout",
+    "relatedSources": [
+      {
+        "name": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/openai-chatgpt-live-dictation-global-rollout"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-40d1c1ff",
+    "status": "published",
+    "translationOf": "openai-rolls-out-live-dictation-for-chatgpt-across-all-plans-worldwide-40d1c1ff",
+    "publishedAt": "2026-11-19T15:21:37.000Z",
+    "fetchedAt": "2026-11-20T17:04:39.268Z",
+    "body": "OpenAI 推出 Live Dictation，即時語音轉文字功能，現已在全球所有 ChatGPT 訂閱方案中提供。此功能允許使用者口述指令並以語音回覆，提升免手操作體驗，增進對有肢體、語言或視覺障礙者的數位無障礙性。\n\n原文來源： [Crypto Briefing](https://cryptobriefing.com/openai-chatgpt-live-dictation-global-rollout)"
+  },
+  {
+    "title": "文大宿舍玻璃破近1個月！視障生遭碎屑割傷「縫5針」險傷神經　校方致歉",
+    "slug": "wenza-university-dormitory-glass-breaks-for-nearly-a-month-visually-impaired-stu-zh-08ed2ff4",
+    "lang": "zh-TW",
+    "summary": "文大宿舍浴廁玻璃門破裂近一個月未修復，殘留碎屑割傷一名視障學生右手，傷口2.5公分、縫5針，甚至有神經受損風險。校方承認未為視障生設置完善防護，致歉並已清除碎屑、全面檢查宿舍設施與無障礙動線，以防類似事故再發。",
+    "category": "physical-design",
+    "tags": [
+      "visual impairment",
+      "dormitory safety",
+      "physical accessibility",
+      "university",
+      "injury"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_13184dae-9dfc-43a1-86e8-6e9210e4c230",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_13184dae-9dfc-43a1-86e8-6e9210e4c230"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-08ed2ff4",
+    "status": "published",
+    "translationOf": "wenza-university-dormitory-glass-breaks-for-nearly-a-month-visually-impaired-stu-08ed2ff4",
+    "publishedAt": "2026-11-19T08:32:00.000Z",
+    "fetchedAt": "2026-11-20T17:05:59.742Z",
+    "body": "文大宿舍浴廁玻璃門破裂近一個月未修復，殘留碎屑割傷一名視障學生右手，傷口2.5公分、縫5針，甚至有神經受損風險。校方承認未為視障生設置完善防護，致歉並已清除碎屑、全面檢查宿舍設施與無障礙動線，以防類似事故再發。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_13184dae-9dfc-43a1-86e8-6e9210e4c230)"
+  },
+  {
+    "title": "保留舊營區綠意 台中潭子「森林中的活動中心」落成",
+    "slug": "preserving-old-camp-greenery-taichung-tanshi-forest-activity-center-completed-zh-d35aa88d",
+    "lang": "zh-TW",
+    "summary": "台中市潭子區聚興里市民活動中心完工啟用，投入1840萬元打造全市首座「森林中的活動中心」，保留原新興營區綠意，採光窗引入自然光，結合無障礙與親子友善設計，提供舒適多功能公共空間。",
+    "category": "physical-design",
+    "tags": [
+      "Taiwan",
+      "Taichung",
+      "public space",
+      "barrier-free",
+      "inclusive design",
+      "community center"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e263ea70-1909-4573-9ffb-ef9fd37f01c3",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e263ea70-1909-4573-9ffb-ef9fd37f01c3"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-d35aa88d",
+    "status": "published",
+    "translationOf": "preserving-old-camp-greenery-taichung-tanshi-forest-activity-center-completed-d35aa88d",
+    "publishedAt": "2026-11-18T04:31:39.000Z",
+    "fetchedAt": "2026-11-20T17:07:11.793Z",
+    "body": "台中市潭子區聚興里市民活動中心完工啟用，投入1840萬元打造全市首座「森林中的活動中心」，保留原新興營區綠意，採光窗引入自然光，結合無障礙與親子友善設計，提供舒適多功能公共空間。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e263ea70-1909-4573-9ffb-ef9fd37f01c3)"
   }
 ]
