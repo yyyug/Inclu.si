@@ -49976,5 +49976,111 @@
     "publishedAt": "2026-11-20T06:58:18.000Z",
     "fetchedAt": "2026-11-20T23:10:52.690Z",
     "body": "Pingtung County partners with the Ocean Affairs Council to create barrier‑free coastal facilities and programs, aiming to provide people with disabilities equal access to marine recreation and promote marine equality.\n\nRead more from the original source: [Yahoo新聞](https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E6%8E%A8%E5%8B%95%E6%B5%B7%E6%B4%8B%E5%B9%B3%E6%AC%8A-%E6%94%9C%E6%89%8B%E6%B5%B7%E5%A7%94%E6%9C%83%E6%89%93%E9%80%A0%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A6%AA%E6%B5%B7%E9%AB%94%E9%A9%97-065556410.html)"
+  },
+  {
+    "title": "The Scribe for Documents API is open",
+    "slug": "the-scribe-for-documents-api-is-open-dd35b165",
+    "lang": "en",
+    "summary": "Pneuma Solutions launched an API called Scribe for Documents that converts PDFs, images, Office files and e‑books into accessible formats such as tagged PDF, Word, EPUB, MOBI, HTML, DAISY and MP3, enabling easier consumption by people with disabilities.",
+    "category": "digital-a11y",
+    "tags": [
+      "API",
+      "document conversion",
+      "tagged PDF",
+      "EPUB",
+      "DAISY",
+      "MP3",
+      "accessibility"
+    ],
+    "sourceName": "pneumasolutions.com",
+    "sourceUrl": "https://pneumasolutions.com/the-scribe-for-documents-api-is-open",
+    "relatedSources": [
+      {
+        "name": "pneumasolutions.com",
+        "url": "https://pneumasolutions.com/the-scribe-for-documents-api-is-open"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://pneumasolutions.com/feed",
+    "ingestProvider": "pneumasolutions.com",
+    "clusterId": "cluster-dd35b165",
+    "status": "published",
+    "translationOf": "the-scribe-for-documents-api-is-open-zh-dd35b165",
+    "publishedAt": "2026-11-21T02:16:03.000Z",
+    "fetchedAt": "2026-11-21T16:13:51.587Z",
+    "body": "Pneuma Solutions launched an API called Scribe for Documents that converts PDFs, images, Office files and e‑books into accessible formats such as tagged PDF, Word, EPUB, MOBI, HTML, DAISY and MP3, enabling easier consumption by people with disabilities.\n\nRead more from the original source: [pneumasolutions.com](https://pneumasolutions.com/the-scribe-for-documents-api-is-open)"
+  },
+  {
+    "title": "Finding Your Accessibility Champion | A Conversation with Sherri Smith",
+    "slug": "finding-your-accessibility-champion-a-conversation-with-sherri-smith-1364dee3",
+    "lang": "en",
+    "summary": "The Accessibility Guy interviews Sherri Smith about establishing an Accessibility Champion program, emphasizing practical training, human review, and better source files to embed document accessibility into daily workflows.",
+    "category": "case-studies",
+    "tags": [
+      "Accessibility Champion",
+      "training",
+      "document accessibility",
+      "workflow",
+      "best practices"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/finding-your-accessibility-champion-a-conversation-with-sherri-smith",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/finding-your-accessibility-champion-a-conversation-with-sherri-smith"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-1364dee3",
+    "status": "published",
+    "translationOf": "finding-your-accessibility-champion-a-conversation-with-sherri-smith-zh-1364dee3",
+    "publishedAt": "2026-11-18T15:00:10.000Z",
+    "fetchedAt": "2026-11-21T16:13:51.675Z",
+    "body": "The Accessibility Guy interviews Sherri Smith about establishing an Accessibility Champion program, emphasizing practical training, human review, and better source files to embed document accessibility into daily workflows.\n\nRead more from the original source: [theaccessibilityguy.com](https://theaccessibilityguy.com/finding-your-accessibility-champion-a-conversation-with-sherri-smith)"
+  },
+  {
+    "title": "Audible route back for one listener, but RNIB books still off the Victor Reader Stream",
+    "slug": "audible-route-back-for-one-listener-but-rnib-books-still-off-the-victor-reader-s-ae8d1b7a",
+    "lang": "en",
+    "summary": "Two Audible Double Tap users report difficulties adding RNIB talking books to the Victor Reader Stream, highlighting the lack of industry‑wide standards for accessible audio‑book delivery.",
+    "category": "assistive-tech",
+    "tags": [
+      "Audible",
+      "Double Tap",
+      "RNIB",
+      "Victor Reader Stream",
+      "talking books",
+      "industry standards",
+      "assistive technology"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/audible-route-back-for-one-listener-but-rnib-books-still-off-the-victor-reader-stream",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/audible-route-back-for-one-listener-but-rnib-books-still-off-the-victor-reader-stream"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-ae8d1b7a",
+    "status": "published",
+    "translationOf": "audible-route-back-for-one-listener-but-rnib-books-still-off-the-victor-reader-s-zh-ae8d1b7a",
+    "publishedAt": "2026-11-21T09:01:28.000Z",
+    "fetchedAt": "2026-11-21T16:13:51.771Z",
+    "body": "Two Audible Double Tap users report difficulties adding RNIB talking books to the Victor Reader Stream, highlighting the lack of industry‑wide standards for accessible audio‑book delivery.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/audible-route-back-for-one-listener-but-rnib-books-still-off-the-victor-reader-stream)"
   }
 ]
