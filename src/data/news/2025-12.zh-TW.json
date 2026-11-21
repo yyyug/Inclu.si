@@ -360,5 +360,39 @@
     "publishedAt": "2025-12-15T08:00:00.000Z",
     "fetchedAt": "2026-10-08T17:38:52.250Z",
     "body": "stc擔任第二屆國際輔助科技論壇的主要贊助商，該論壇專注於透過適配科技支持身心障礙人士。\n\n原文來源： [news.google.com](https://kuwaitnews.com/119011)"
+  },
+  {
+    "title": "聯合國關注國際殘疾人士日",
+    "slug": "un-observance-of-the-international-day-of-persons-with-disabilities-zh-5a7ed297",
+    "lang": "zh-TW",
+    "summary": "聯合國推廣12月3日國際殘疾人士日，旨在全球範圍內提高對殘疾人士權利和需求的關注。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "un",
+      "awareness",
+      "international-day"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.un.org/ar/observances/day-of-persons-with-disabilities",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.un.org/ar/observances/day-of-persons-with-disabilities"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-5a7ed297",
+    "status": "published",
+    "translationOf": "un-observance-of-the-international-day-of-persons-with-disabilities-5a7ed297",
+    "publishedAt": "2025-12-03T08:00:00.000Z",
+    "fetchedAt": "2026-11-21T17:46:34.181Z",
+    "body": "聯合國推廣12月3日國際殘疾人士日，旨在全球範圍內提高對殘疾人士權利和需求的關注。\n\n原文來源： [news.google.com](https://www.un.org/ar/observances/day-of-persons-with-disabilities)"
   }
 ]

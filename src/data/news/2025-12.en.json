@@ -360,5 +360,39 @@
     "publishedAt": "2025-12-15T08:00:00.000Z",
     "fetchedAt": "2026-10-08T17:38:52.250Z",
     "body": "stc is serving as the principal sponsor for the second International Assistive Technology Forum, an event focused on supporting individuals with disabilities through adaptive technologies.\n\nRead more from the original source: [news.google.com](https://kuwaitnews.com/119011)"
+  },
+  {
+    "title": "UN Observance of the International Day of Persons with Disabilities",
+    "slug": "un-observance-of-the-international-day-of-persons-with-disabilities-5a7ed297",
+    "lang": "en",
+    "summary": "The United Nations highlights the International Day of Persons with Disabilities, celebrated on December 3, to promote awareness and the rights of individuals with disabilities globally.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "un",
+      "awareness",
+      "international-day"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.un.org/ar/observances/day-of-persons-with-disabilities",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.un.org/ar/observances/day-of-persons-with-disabilities"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-5a7ed297",
+    "status": "published",
+    "translationOf": "un-observance-of-the-international-day-of-persons-with-disabilities-zh-5a7ed297",
+    "publishedAt": "2025-12-03T08:00:00.000Z",
+    "fetchedAt": "2026-11-21T17:46:34.181Z",
+    "body": "The United Nations highlights the International Day of Persons with Disabilities, celebrated on December 3, to promote awareness and the rights of individuals with disabilities globally.\n\nRead more from the original source: [news.google.com](https://www.un.org/ar/observances/day-of-persons-with-disabilities)"
   }
 ]
