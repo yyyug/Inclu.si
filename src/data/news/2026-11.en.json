@@ -52157,5 +52157,965 @@
     "publishedAt": "2026-11-22T09:01:26.000Z",
     "fetchedAt": "2026-11-22T16:27:17.710Z",
     "body": "Steven Scott and Shaun Preece work through a run of failures that took down email, flights, banks and Apple services, and conclude aging systems and routine updates are to blame.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/double-tap-tracks-a-week-of-outages-hitting-microsoft-365-us-flights-and-banks)"
+  },
+  {
+    "title": "Pediatric Palliative Care Access in France",
+    "slug": "pediatric-palliative-care-access-in-france-a307067f",
+    "lang": "en",
+    "summary": "A new guide by the French High Authority for Health aims to improve access to palliative care for children, noting that currently only 30% of children in need have access. The guide calls for earlier, better-coordinated, and family-centered care.",
+    "category": "general",
+    "tags": [
+      "palliative-care",
+      "pediatric",
+      "health-access",
+      "france"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-soins-palliatifs-pediatriques-comment-mieux-accompagner-40041.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-soins-palliatifs-pediatriques-comment-mieux-accompagner-40041.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-a307067f",
+    "status": "published",
+    "translationOf": "pediatric-palliative-care-access-in-france-zh-a307067f",
+    "publishedAt": "2026-11-22T10:12:50.000Z",
+    "fetchedAt": "2026-11-22T18:01:08.299Z",
+    "body": "A new guide by the French High Authority for Health aims to improve access to palliative care for children, noting that currently only 30% of children in need have access. The guide calls for earlier, better-coordinated, and family-centered care.\n\nRead more from the original source: [handicap.fr](https://informations.handicap.fr/a-soins-palliatifs-pediatriques-comment-mieux-accompagner-40041.php)"
+  },
+  {
+    "title": "Egyptian Senate Debates Inclusive Education for Students with Disabilities",
+    "slug": "egyptian-senate-debates-inclusive-education-for-students-with-disabilities-10b530f9",
+    "lang": "en",
+    "summary": "The Education, Research, and Communications Committee of the Egyptian Senate is discussing a proposal to review the inclusive education system for students with disabilities, aiming to develop the system with government representatives present.",
+    "category": "laws-rights",
+    "tags": [
+      "inclusive-education",
+      "disability",
+      "egypt",
+      "legislation"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70390",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70390"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-10b530f9",
+    "status": "published",
+    "translationOf": "egyptian-senate-debates-inclusive-education-for-students-with-disabilities-zh-10b530f9",
+    "publishedAt": "2026-11-22T10:16:07.000Z",
+    "fetchedAt": "2026-11-22T18:01:08.367Z",
+    "body": "The Education, Research, and Communications Committee of the Egyptian Senate is discussing a proposal to review the inclusive education system for students with disabilities, aiming to develop the system with government representatives present.\n\nRead more from the original source: [asdmag.org](https://asdmag.org/archives/70390)"
+  },
+  {
+    "title": "Obstacles to Syrian Disabled Individuals Accessing Basic Rights",
+    "slug": "obstacles-to-syrian-disabled-individuals-accessing-basic-rights-fe2e29e3",
+    "lang": "en",
+    "summary": "The Syrian Human Rights Observatory highlights the gap between legal texts and reality, detailing the obstacles that prevent people with disabilities in Syria from accessing their basic rights.",
+    "category": "laws-rights",
+    "tags": [
+      "human-rights",
+      "syria",
+      "disability",
+      "barriers"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.syriahr.com/%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%86%D8%B5%D9%88%D8%B5-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D9%88%D8%A7%D8%A6%D9%82-%D8%AA%D8%AD",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.syriahr.com/%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%86%D8%B5%D9%88%D8%B5-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D9%88%D8%A7%D8%A6%D9%82-%D8%AA%D8%AD"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-fe2e29e3",
+    "status": "published",
+    "translationOf": "obstacles-to-syrian-disabled-individuals-accessing-basic-rights-zh-fe2e29e3",
+    "publishedAt": "2026-11-22T15:21:31.000Z",
+    "fetchedAt": "2026-11-22T18:01:08.435Z",
+    "body": "The Syrian Human Rights Observatory highlights the gap between legal texts and reality, detailing the obstacles that prevent people with disabilities in Syria from accessing their basic rights.\n\nRead more from the original source: [news.google.com](https://www.syriahr.com/%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%86%D8%B5%D9%88%D8%B5-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D9%88%D8%A7%D8%A6%D9%82-%D8%AA%D8%AD)"
+  },
+  {
+    "title": "'Arabic for the Sense of People of Determination' Shines in Theatrical Performance at Al Ain Book Festival",
+    "slug": "arabic-for-the-sense-of-people-of-determination-shines-in-theatrical-performance-183f6bd8",
+    "lang": "en",
+    "summary": "A theatrical performance titled 'Arabic for the Sense of People of Determination' (a play featuring or targeting individuals with disabilities) was staged at the Al Ain Book Festival, highlighting inclusive arts and cultural representation for people with disabilities.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "inclusion",
+      "arts",
+      "theater",
+      "Al Ain Book Festival",
+      "people with disabilities"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albayan.ae/culture-art/culture/1566912",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albayan.ae/culture-art/culture/1566912"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-183f6bd8",
+    "status": "published",
+    "translationOf": "arabic-for-the-sense-of-people-of-determination-shines-in-theatrical-performance-zh-183f6bd8",
+    "publishedAt": "2026-11-22T14:10:00.000Z",
+    "fetchedAt": "2026-11-22T18:01:13.133Z",
+    "body": "A theatrical performance titled 'Arabic for the Sense of People of Determination' (a play featuring or targeting individuals with disabilities) was staged at the Al Ain Book Festival, highlighting inclusive arts and cultural representation for people with disabilities.\n\nRead more from the original source: [news.google.com](https://www.albayan.ae/culture-art/culture/1566912)"
+  },
+  {
+    "title": "Gaza: Disabled People Face Forced Isolation Due to Broken Wheelchairs and Lack of Assistive Devices",
+    "slug": "gaza-disabled-people-face-forced-isolation-due-to-broken-wheelchairs-and-lack-of-2c51207f",
+    "lang": "en",
+    "summary": "Thousands of people with disabilities in the Gaza Strip are suffering from forced isolation as basic tasks, such as leaving their tents or visiting a hospital, have become nearly impossible. The breakdown of wheelchairs, coupled with a critical shortage of spare parts and assistive technologies, has left many trapped in displacement sites, desperately waiting for means to regain their mobility.",
+    "category": "assistive-tech",
+    "tags": [
+      "wheelchairs",
+      "Gaza",
+      "assistive-technology",
+      "crisis",
+      "mobility"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70387",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70387"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-2c51207f",
+    "status": "published",
+    "translationOf": "gaza-disabled-people-face-forced-isolation-due-to-broken-wheelchairs-and-lack-of-zh-2c51207f",
+    "publishedAt": "2026-11-22T10:12:15.000Z",
+    "fetchedAt": "2026-11-22T18:01:15.587Z",
+    "body": "Thousands of people with disabilities in the Gaza Strip are suffering from forced isolation as basic tasks, such as leaving their tents or visiting a hospital, have become nearly impossible. The breakdown of wheelchairs, coupled with a critical shortage of spare parts and assistive technologies, has left many trapped in displacement sites, desperately waiting for means to regain their mobility.\n\nRead more from the original source: [asdmag.org](https://asdmag.org/archives/70387)"
+  },
+  {
+    "title": "Senate Opens Investigation into Delays in Releasing Vehicles for Persons with Disabilities and \"Floor Fees\"",
+    "slug": "senate-opens-investigation-into-delays-in-releasing-vehicles-for-persons-with-di-c906350e",
+    "lang": "en",
+    "summary": "The Senate is set to investigate the delayed release of vehicles allocated to individuals with disabilities and the controversial charging of \"floor fees\" to this group.",
+    "category": "laws-rights",
+    "tags": [
+      "disability-accessibility",
+      "vehicles",
+      "policy",
+      "arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.parlmany.com/News/4/621218/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D9%8A%D9%81%D8%AA%D8%AD-%D9%85%D9%84%D9%81-%D8%AA%D8%A3%D8%AE%D8%B1-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.parlmany.com/News/4/621218/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D9%8A%D9%81%D8%AA%D8%AD-%D9%85%D9%84%D9%81-%D8%AA%D8%A3%D8%AE%D8%B1-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-c906350e",
+    "status": "published",
+    "translationOf": "senate-opens-investigation-into-delays-in-releasing-vehicles-for-persons-with-di-zh-c906350e",
+    "publishedAt": "2026-11-22T14:00:00.000Z",
+    "fetchedAt": "2026-11-22T18:01:20.992Z",
+    "body": "The Senate is set to investigate the delayed release of vehicles allocated to individuals with disabilities and the controversial charging of \"floor fees\" to this group.\n\nRead more from the original source: [news.google.com](https://www.parlmany.com/News/4/621218/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D9%8A%D9%81%D8%AA%D8%AD-%D9%85%D9%84%D9%81-%D8%AA%D8%A3%D8%AE%D8%B1-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9)"
+  },
+  {
+    "title": "Egyptian Political Party Offers Umrah Trips and Assistive Devices to People with Disabilities",
+    "slug": "egyptian-political-party-offers-umrah-trips-and-assistive-devices-to-people-with-7c81fe07",
+    "lang": "en",
+    "summary": "The 'Future of Egypt' party in Alexandria celebrated International Day of Persons with Disabilities by donating Umrah trips to families of individuals with disabilities and distributing wheelchairs and white canes for blind persons, highlighting social inclusion and support.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "EGYPT",
+      "disability-rights",
+      "assistive-tech",
+      "social-inclusion"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70368",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70368"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-7c81fe07",
+    "status": "published",
+    "translationOf": "egyptian-political-party-offers-umrah-trips-and-assistive-devices-to-people-with-zh-7c81fe07",
+    "publishedAt": "2026-11-22T04:50:35.000Z",
+    "fetchedAt": "2026-11-22T18:01:23.478Z",
+    "body": "The 'Future of Egypt' party in Alexandria celebrated International Day of Persons with Disabilities by donating Umrah trips to families of individuals with disabilities and distributing wheelchairs and white canes for blind persons, highlighting social inclusion and support.\n\nRead more from the original source: [asdmag.org](https://asdmag.org/archives/70368)"
+  },
+  {
+    "title": "Oman Launches Interactive Exhibition Accessible via Sign Language and Braille",
+    "slug": "oman-launches-interactive-exhibition-accessible-via-sign-language-and-braille-d6c96cfc",
+    "lang": "en",
+    "summary": "An interactive exhibition in the Sultanate of Oman allows people with disabilities to explore the country's history through accommodations including sign language and Braille, promoting cultural accessibility for the visually and hearing impaired.",
+    "category": "digital-a11y",
+    "tags": [
+      "OMAN",
+      "accessibility",
+      "braille",
+      "sign-language",
+      "cultural-access"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://shabiba.com/article/214900-%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A5%D8%B4%D8%A7%D8%B1%D8%A9-%D9%88%D8%A8%D8%B1%D8%A7%D9%8A%D9%84-%D9%85%D8%B9%D8%B1%D8%B6-%D8%AA%D9%81%D8%A7%D8%B9%D9%84%D9%8A-%D9%8A%D8%AA%D9%8A%D8%AD-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D8%A7%D9%81-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://shabiba.com/article/214900-%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A5%D8%B4%D8%A7%D8%B1%D8%A9-%D9%88%D8%A8%D8%B1%D8%A7%D9%8A%D9%84-%D9%85%D8%B9%D8%B1%D8%B6-%D8%AA%D9%81%D8%A7%D8%B9%D9%84%D9%8A-%D9%8A%D8%AA%D9%8A%D8%AD-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D8%A7%D9%81-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-d6c96cfc",
+    "status": "published",
+    "translationOf": "oman-launches-interactive-exhibition-accessible-via-sign-language-and-braille-zh-d6c96cfc",
+    "publishedAt": "2026-11-22T10:39:41.000Z",
+    "fetchedAt": "2026-11-22T18:01:23.539Z",
+    "body": "An interactive exhibition in the Sultanate of Oman allows people with disabilities to explore the country's history through accommodations including sign language and Braille, promoting cultural accessibility for the visually and hearing impaired.\n\nRead more from the original source: [news.google.com](https://shabiba.com/article/214900-%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A5%D8%B4%D8%A7%D8%B1%D8%A9-%D9%88%D8%A8%D8%B1%D8%A7%D9%8A%D9%84-%D9%85%D8%B9%D8%B1%D8%B6-%D8%AA%D9%81%D8%A7%D8%B9%D9%84%D9%8A-%D9%8A%D8%AA%D9%8A%D8%AD-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D8%A7%D9%81-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86)"
+  },
+  {
+    "title": "Egypt: Proposal to Allow Disabled Individuals to Choose Housing Units",
+    "slug": "egypt-proposal-to-allow-disabled-individuals-to-choose-housing-units-c5b46c41",
+    "lang": "en",
+    "summary": "In Egypt, a proposal has been submitted to the Ministry of Housing suggesting that individuals with disabilities be granted the right to select their own housing units, rather than relying solely on the existing automated allocation mechanism. This measure aims to empower disabled residents by allowing them to choose floors and units that better suit their specific health conditions and mobility needs.",
+    "category": "physical-design",
+    "tags": [
+      "disability",
+      "housing",
+      "egypt",
+      "policy",
+      "accessibility"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70365",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70365"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-c5b46c41",
+    "status": "published",
+    "translationOf": "egypt-proposal-to-allow-disabled-individuals-to-choose-housing-units-zh-c5b46c41",
+    "publishedAt": "2026-11-22T04:36:55.000Z",
+    "fetchedAt": "2026-11-22T18:01:25.118Z",
+    "body": "In Egypt, a proposal has been submitted to the Ministry of Housing suggesting that individuals with disabilities be granted the right to select their own housing units, rather than relying solely on the existing automated allocation mechanism. This measure aims to empower disabled residents by allowing them to choose floors and units that better suit their specific health conditions and mobility needs.\n\nRead more from the original source: [asdmag.org](https://asdmag.org/archives/70365)"
+  },
+  {
+    "title": "Two training workshops held in preparation for the Festival of People with Disabilities",
+    "slug": "two-training-workshops-held-in-preparation-for-the-festival-of-people-with-disab-f15d34eb",
+    "lang": "en",
+    "summary": "Oman Daily reports on the organization of two training workshops to prepare for a festival dedicated to individuals with disabilities, focusing on inclusion and readiness for the event.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "event",
+      "oman",
+      "inclusion"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.omandaily.om/article/1215448",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.omandaily.om/article/1215448"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-f15d34eb",
+    "status": "published",
+    "translationOf": "two-training-workshops-held-in-preparation-for-the-festival-of-people-with-disab-zh-f15d34eb",
+    "publishedAt": "2026-11-22T10:51:26.000Z",
+    "fetchedAt": "2026-11-22T18:01:26.947Z",
+    "body": "Oman Daily reports on the organization of two training workshops to prepare for a festival dedicated to individuals with disabilities, focusing on inclusion and readiness for the event.\n\nRead more from the original source: [news.google.com](https://www.omandaily.om/article/1215448)"
+  },
+  {
+    "title": "Abu Dhabi Arabic Language Center Transforms Publications into Theatrical Experience Performed by People with Disabilities",
+    "slug": "abu-dhabi-arabic-language-center-transforms-publications-into-theatrical-experie-72729391",
+    "lang": "en",
+    "summary": "The Abu Dhabi Arabic Language Center has adapted its publications into a theatrical performance featuring individuals with disabilities, promoting cultural inclusion and showcasing the talents of people with disabilities in arts.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "arts",
+      "inclusion",
+      "abu-dhabi",
+      "theatre"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.youm7.com/story/2026/11/22/%D9%85%D8%B1%D9%83%D8%B2-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%89-%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%8A%D8%AD%D9%88%D9%91%D9%84-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B3%D8%B1%D8%AD%D9%8A%D8%A9-%D8%A8%D8%A3%D8%AF%D8%A7%D8%A1/7628006",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.youm7.com/story/2026/11/22/%D9%85%D8%B1%D9%83%D8%B2-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%89-%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%8A%D8%AD%D9%88%D9%91%D9%84-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B3%D8%B1%D8%AD%D9%8A%D8%A9-%D8%A8%D8%A3%D8%AF%D8%A7%D8%A1/7628006"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-72729391",
+    "status": "published",
+    "translationOf": "abu-dhabi-arabic-language-center-transforms-publications-into-theatrical-experie-zh-72729391",
+    "publishedAt": "2026-11-22T15:30:00.000Z",
+    "fetchedAt": "2026-11-22T18:01:27.004Z",
+    "body": "The Abu Dhabi Arabic Language Center has adapted its publications into a theatrical performance featuring individuals with disabilities, promoting cultural inclusion and showcasing the talents of people with disabilities in arts.\n\nRead more from the original source: [news.google.com](https://www.youm7.com/story/2026/11/22/%D9%85%D8%B1%D9%83%D8%B2-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%89-%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%8A%D8%AD%D9%88%D9%91%D9%84-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B3%D8%B1%D8%AD%D9%8A%D8%A9-%D8%A8%D8%A3%D8%AF%D8%A7%D8%A1/7628006)"
+  },
+  {
+    "title": "Egypt Proposes Integrated Vision to Improve Educational Paths for Students with Disabilities",
+    "slug": "egypt-proposes-integrated-vision-to-improve-educational-paths-for-students-with--f05f0a7c",
+    "lang": "en",
+    "summary": "Dr. Amany Fakhr proposed a comprehensive strategy to reform the educational integration system for students with disabilities. The initiative aims to develop tailored educational pathways that align with students' capabilities, ensuring inclusive access and enhancing the quality of education for individuals with disabilities.",
+    "category": "laws-rights",
+    "tags": [
+      "education",
+      "inclusion",
+      "policy",
+      "Egypt"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70362",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70362"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-f05f0a7c",
+    "status": "published",
+    "translationOf": "egypt-proposes-integrated-vision-to-improve-educational-paths-for-students-with--zh-f05f0a7c",
+    "publishedAt": "2026-11-22T04:33:03.000Z",
+    "fetchedAt": "2026-11-22T18:01:29.593Z",
+    "body": "Dr. Amany Fakhr proposed a comprehensive strategy to reform the educational integration system for students with disabilities. The initiative aims to develop tailored educational pathways that align with students' capabilities, ensuring inclusive access and enhancing the quality of education for individuals with disabilities.\n\nRead more from the original source: [asdmag.org](https://asdmag.org/archives/70362)"
+  },
+  {
+    "title": "Young Man with Disability Uses Cane to Climb Scaffolding in Search of Livelihood",
+    "slug": "young-man-with-disability-uses-cane-to-climb-scaffolding-in-search-of-livelihood-0b7bfe3c",
+    "lang": "en",
+    "summary": "A young man with a physical disability challenges his condition by using a cane for support to climb scaffolding while working to earn a living. The story highlights personal resilience and the lack of accessible infrastructure, showcasing a real-life case of disability in the workforce.",
+    "category": "case-studies",
+    "tags": [
+      "workforce",
+      "resilience",
+      "physical-disability",
+      "real-life"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.elbalad.news/7190331",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.elbalad.news/7190331"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-0b7bfe3c",
+    "status": "published",
+    "translationOf": "young-man-with-disability-uses-cane-to-climb-scaffolding-in-search-of-livelihood-zh-0b7bfe3c",
+    "publishedAt": "2026-11-22T16:33:00.000Z",
+    "fetchedAt": "2026-11-22T18:01:29.665Z",
+    "body": "A young man with a physical disability challenges his condition by using a cane for support to climb scaffolding while working to earn a living. The story highlights personal resilience and the lack of accessible infrastructure, showcasing a real-life case of disability in the workforce.\n\nRead more from the original source: [news.google.com](https://www.elbalad.news/7190331)"
+  },
+  {
+    "title": "MP praises inclusive culture for people with disabilities in Egypt",
+    "slug": "mp-praises-inclusive-culture-for-people-with-disabilities-in-egypt-41c000d8",
+    "lang": "en",
+    "summary": "Member of Parliament Mohamed Mostacli emphasized that supporting people with disabilities should be a continuous cultural commitment to ensure inclusion and equal opportunities, rather than a one-day celebration. He highlighted a recent event in Alexandria organized by the 'Mostaqbal Watan' party to mark the International Day of Persons with Disabilities, noting the significant participation and joy among disabled individuals and their families.",
+    "category": "laws-rights",
+    "tags": [
+      "disability-rights",
+      "social-inclusion",
+      "egypt",
+      "policy"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70357",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70357"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-41c000d8",
+    "status": "published",
+    "translationOf": "mp-praises-inclusive-culture-for-people-with-disabilities-in-egypt-zh-41c000d8",
+    "publishedAt": "2026-11-22T04:18:13.000Z",
+    "fetchedAt": "2026-11-22T18:02:11.525Z",
+    "body": "Member of Parliament Mohamed Mostacli emphasized that supporting people with disabilities should be a continuous cultural commitment to ensure inclusion and equal opportunities, rather than a one-day celebration. He highlighted a recent event in Alexandria organized by the 'Mostaqbal Watan' party to mark the International Day of Persons with Disabilities, noting the significant participation and joy among disabled individuals and their families.\n\nRead more from the original source: [asdmag.org](https://asdmag.org/archives/70357)"
+  },
+  {
+    "title": "Senate Economics Committee Discusses Freezing Parking Fees for Disabled Vehicles",
+    "slug": "senate-economics-committee-discusses-freezing-parking-fees-for-disabled-vehicles-b6599633",
+    "lang": "en",
+    "summary": "The Economics Committee of the Senate is reviewing a proposal to freeze parking fees for vehicles registered by individuals with disabilities, aiming to reduce financial burdens on disabled drivers.",
+    "category": "laws-rights",
+    "tags": [
+      "parking-fees",
+      "disability-rights",
+      "legislation",
+      "egypt"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://almalnews.com/2148752/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%AA%D9%86%D8%A7%D9%82%D8%B4-%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%AD%D8%A7%D9%8B-%D8%A8%D8%AA%D8%AC%D9%85%D9%8A%D8%AF-%D8%B1%D8%B3%D9%88%D9%85-%D8%A3%D8%B1%D8%B6%D9%8A%D8%A7%D8%AA",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://almalnews.com/2148752/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%AA%D9%86%D8%A7%D9%82%D8%B4-%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%AD%D8%A7%D9%8B-%D8%A8%D8%AA%D8%AC%D9%85%D9%8A%D8%AF-%D8%B1%D8%B3%D9%88%D9%85-%D8%A3%D8%B1%D8%B6%D9%8A%D8%A7%D8%AA"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-b6599633",
+    "status": "published",
+    "translationOf": "senate-economics-committee-discusses-freezing-parking-fees-for-disabled-vehicles-zh-b6599633",
+    "publishedAt": "2026-11-22T07:33:08.000Z",
+    "fetchedAt": "2026-11-22T18:02:15.183Z",
+    "body": "The Economics Committee of the Senate is reviewing a proposal to freeze parking fees for vehicles registered by individuals with disabilities, aiming to reduce financial burdens on disabled drivers.\n\nRead more from the original source: [news.google.com](https://almalnews.com/2148752/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%AA%D9%86%D8%A7%D9%82%D8%B4-%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%AD%D8%A7%D9%8B-%D8%A8%D8%AA%D8%AC%D9%85%D9%8A%D8%AF-%D8%B1%D8%B3%D9%88%D9%85-%D8%A3%D8%B1%D8%B6%D9%8A%D8%A7%D8%AA)"
+  },
+  {
+    "title": "Senate Finance Committee Discusses Burden of Releasing Vehicles for People with Disabilities",
+    "slug": "senate-finance-committee-discusses-burden-of-releasing-vehicles-for-people-with--981862f3",
+    "lang": "en",
+    "summary": "The Senate Finance Committee is discussing the financial burdens and logistical challenges associated with the customs release of vehicles intended for individuals with disabilities, aiming to streamline the process for eligible beneficiaries.",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "vehicles",
+      "policy",
+      "finance"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.youm7.com/story/2026/11/22/%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%AA%D9%86%D8%A7%D9%82%D8%B4-%D8%A3%D8%B9%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9/7628272",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.youm7.com/story/2026/11/22/%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%AA%D9%86%D8%A7%D9%82%D8%B4-%D8%A3%D8%B9%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9/7628272"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-981862f3",
+    "status": "published",
+    "translationOf": "senate-finance-committee-discusses-burden-of-releasing-vehicles-for-people-with--zh-981862f3",
+    "publishedAt": "2026-11-22T13:41:00.000Z",
+    "fetchedAt": "2026-11-22T18:02:18.740Z",
+    "body": "The Senate Finance Committee is discussing the financial burdens and logistical challenges associated with the customs release of vehicles intended for individuals with disabilities, aiming to streamline the process for eligible beneficiaries.\n\nRead more from the original source: [news.google.com](https://www.youm7.com/story/2026/11/22/%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%AA%D9%86%D8%A7%D9%82%D8%B4-%D8%A3%D8%B9%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9/7628272)"
+  },
+  {
+    "title": "Modern Technologies Enhance Independence of Students with Visual Impairments",
+    "slug": "modern-technologies-enhance-independence-of-students-with-visual-impairments-0ccb0b28",
+    "lang": "en",
+    "summary": "This article discusses how new technological tools are empowering students with visual disabilities to achieve greater independence in their daily lives and education.",
+    "category": "assistive-tech",
+    "tags": [
+      "visual-impairment",
+      "students",
+      "technology",
+      "independence"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.raya.com/2026/11/22/%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D8%AD%D8%AF%D9%8A%D8%AB%D8%A9-%D8%AA%D8%B9%D8%B2%D8%B2-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.raya.com/2026/11/22/%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D8%AD%D8%AF%D9%8A%D8%AB%D8%A9-%D8%AA%D8%B9%D8%B2%D8%B2-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-0ccb0b28",
+    "status": "published",
+    "translationOf": "modern-technologies-enhance-independence-of-students-with-visual-impairments-zh-0ccb0b28",
+    "publishedAt": "2026-11-21T21:14:16.000Z",
+    "fetchedAt": "2026-11-22T18:02:22.239Z",
+    "body": "This article discusses how new technological tools are empowering students with visual disabilities to achieve greater independence in their daily lives and education.\n\nRead more from the original source: [news.google.com](https://www.raya.com/2026/11/22/%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D8%AD%D8%AF%D9%8A%D8%AB%D8%A9-%D8%AA%D8%B9%D8%B2%D8%B2-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9)"
+  },
+  {
+    "title": "Ministry Confirms Continued Tuition Discounts for University Students with Disabilities",
+    "slug": "ministry-confirms-continued-tuition-discounts-for-university-students-with-disab-12648387",
+    "lang": "en",
+    "summary": "A ministry has confirmed the ongoing policy of providing tuition fee reductions for university students with disabilities, ensuring continued educational support and accessibility for individuals facing challenges in academic environments.",
+    "category": "laws-rights",
+    "tags": [
+      "education",
+      "disability",
+      "tuition-fees",
+      "policy"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.al-mirbad.com/detail/220293",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.al-mirbad.com/detail/220293"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-12648387",
+    "status": "published",
+    "translationOf": "ministry-confirms-continued-tuition-discounts-for-university-students-with-disab-zh-12648387",
+    "publishedAt": "2026-11-22T06:43:54.000Z",
+    "fetchedAt": "2026-11-22T18:02:31.424Z",
+    "body": "A ministry has confirmed the ongoing policy of providing tuition fee reductions for university students with disabilities, ensuring continued educational support and accessibility for individuals facing challenges in academic environments.\n\nRead more from the original source: [news.google.com](https://www.al-mirbad.com/detail/220293)"
+  },
+  {
+    "title": "319 Integrated Service Cards Issued to Persons with Disabilities in Eastern Egypt",
+    "slug": "319-integrated-service-cards-issued-to-persons-with-disabilities-in-eastern-egyp-a593545b",
+    "lang": "en",
+    "summary": "Local authorities in Eastern Egypt have distributed 319 integrated service cards to individuals with disabilities, aiming to streamline access to various social services and benefits for this demographic.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability-services",
+      "government-initiatives",
+      "accessibility",
+      "egypt"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://agri.ahram.org.eg/News/170602.aspx",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://agri.ahram.org.eg/News/170602.aspx"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-a593545b",
+    "status": "published",
+    "translationOf": "319-integrated-service-cards-issued-to-persons-with-disabilities-in-eastern-egyp-zh-a593545b",
+    "publishedAt": "2026-11-22T11:47:00.000Z",
+    "fetchedAt": "2026-11-22T18:02:31.599Z",
+    "body": "Local authorities in Eastern Egypt have distributed 319 integrated service cards to individuals with disabilities, aiming to streamline access to various social services and benefits for this demographic.\n\nRead more from the original source: [news.google.com](https://agri.ahram.org.eg/News/170602.aspx)"
+  },
+  {
+    "title": "Sharqia Social Solidarity Agency Distributes 319 Integrated Service Cards to People with Disabilities",
+    "slug": "sharqia-social-solidarity-agency-distributes-319-integrated-service-cards-to-peo-d31c01af",
+    "lang": "en",
+    "summary": "The Sharqia Social Solidarity Agency distributed 319 integrated service cards to individuals with disabilities, aimed at providing them with comprehensive support and access to various social services.",
+    "category": "laws-rights",
+    "tags": [
+      "social-welfare",
+      "service-access",
+      "government"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=22112026&id=103f2078-de69-4ffc-a55e-42240710eb02",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=22112026&id=103f2078-de69-4ffc-a55e-42240710eb02"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-d31c01af",
+    "status": "published",
+    "translationOf": "sharqia-social-solidarity-agency-distributes-319-integrated-service-cards-to-peo-zh-d31c01af",
+    "publishedAt": "2026-11-22T10:07:07.000Z",
+    "fetchedAt": "2026-11-22T18:02:37.216Z",
+    "body": "The Sharqia Social Solidarity Agency distributed 319 integrated service cards to individuals with disabilities, aimed at providing them with comprehensive support and access to various social services.\n\nRead more from the original source: [news.google.com](https://www.shorouknews.com/mobile/news/view.aspx?cdate=22112026&id=103f2078-de69-4ffc-a55e-42240710eb02)"
+  },
+  {
+    "title": "Social Solidarity Ministry Honors Substitute Fathers and Parents of Individuals with Disabilities",
+    "slug": "social-solidarity-ministry-honors-substitute-fathers-and-parents-of-individuals--cc8e0cfe",
+    "lang": "en",
+    "summary": "The Ministry of Social Solidarity honored four fathers, recognizing their contributions in the categories of substitute fatherhood and parenting children with disabilities. The ceremony aims to acknowledge the role of caregivers in supporting families affected by disability.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "parenting",
+      "social-support",
+      "Egypt"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://akhbarelyom.com/news/newdetails/4911038/1/%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D9%8F%D9%83%D8%B1%D9%85-4-%D8%A2%D8%A8%D8%A7%D8%A1-%D8%B6%D9%85%D9%86-%D9%81%D8%A6%D8%AA%D9%8A-%D8%A7%D9%84%D8%A3%D8%A8-%D8%A7%D9%84%D8%A8%D8%AF%D9%8A",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://akhbarelyom.com/news/newdetails/4911038/1/%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D9%8F%D9%83%D8%B1%D9%85-4-%D8%A2%D8%A8%D8%A7%D8%A1-%D8%B6%D9%85%D9%86-%D9%81%D8%A6%D8%AA%D9%8A-%D8%A7%D9%84%D8%A3%D8%A8-%D8%A7%D9%84%D8%A8%D8%AF%D9%8A"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-cc8e0cfe",
+    "status": "published",
+    "translationOf": "social-solidarity-ministry-honors-substitute-fathers-and-parents-of-individuals--zh-cc8e0cfe",
+    "publishedAt": "2026-11-22T16:50:03.000Z",
+    "fetchedAt": "2026-11-22T18:02:40.123Z",
+    "body": "The Ministry of Social Solidarity honored four fathers, recognizing their contributions in the categories of substitute fatherhood and parenting children with disabilities. The ceremony aims to acknowledge the role of caregivers in supporting families affected by disability.\n\nRead more from the original source: [news.google.com](https://akhbarelyom.com/news/newdetails/4911038/1/%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D9%8F%D9%83%D8%B1%D9%85-4-%D8%A2%D8%A8%D8%A7%D8%A1-%D8%B6%D9%85%D9%86-%D9%81%D8%A6%D8%AA%D9%8A-%D8%A7%D9%84%D8%A3%D8%A8-%D8%A7%D9%84%D8%A8%D8%AF%D9%8A)"
+  },
+  {
+    "title": "Egypt Moves Closer to Manufacturing Prosthetics as Government Proposes Law for Assistive Device Industrial Complex",
+    "slug": "egypt-moves-closer-to-manufacturing-prosthetics-as-government-proposes-law-for-a-b55e9b19",
+    "lang": "en",
+    "summary": "The Egyptian government submitted a draft law to establish an industrial complex for assistive devices, including prosthetics, with funding exceeding 2.5 billion EGP. The initiative aims to support and protect individuals with physical disabilities and promote their social inclusion.",
+    "category": "assistive-tech",
+    "tags": [
+      "prosthetics",
+      "assistive-tech",
+      "policy",
+      "manufacturing",
+      "Egypt"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.parlmany.com/News/2/621213/%D9%85%D8%B5%D8%B1-%D8%B9%D9%84%D9%89-%D8%A8%D8%B9%D8%AF-%D8%AE%D8%B7%D9%88%D8%A9-%D9%85%D9%86-%D8%AA%D8%B5%D9%86%D9%8A%D8%B9-%D8%A7%D9%84%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%AA%D9%82%D8%AF%D9%85",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.parlmany.com/News/2/621213/%D9%85%D8%B5%D8%B1-%D8%B9%D9%84%D9%89-%D8%A8%D8%B9%D8%AF-%D8%AE%D8%B7%D9%88%D8%A9-%D9%85%D9%86-%D8%AA%D8%B5%D9%86%D9%8A%D8%B9-%D8%A7%D9%84%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%AA%D9%82%D8%AF%D9%85"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-b55e9b19",
+    "status": "published",
+    "translationOf": "egypt-moves-closer-to-manufacturing-prosthetics-as-government-proposes-law-for-a-zh-b55e9b19",
+    "publishedAt": "2026-11-22T13:00:00.000Z",
+    "fetchedAt": "2026-11-22T18:02:40.193Z",
+    "body": "The Egyptian government submitted a draft law to establish an industrial complex for assistive devices, including prosthetics, with funding exceeding 2.5 billion EGP. The initiative aims to support and protect individuals with physical disabilities and promote their social inclusion.\n\nRead more from the original source: [news.google.com](https://www.parlmany.com/News/2/621213/%D9%85%D8%B5%D8%B1-%D8%B9%D9%84%D9%89-%D8%A8%D8%B9%D8%AF-%D8%AE%D8%B7%D9%88%D8%A9-%D9%85%D9%86-%D8%AA%D8%B5%D9%86%D9%8A%D8%B9-%D8%A7%D9%84%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%AA%D9%82%D8%AF%D9%85)"
+  },
+  {
+    "title": "Sharqia Social Solidarity Department Issues 319 Integrated Service Cards for People with Disabilities",
+    "slug": "sharqia-social-solidarity-department-issues-319-integrated-service-cards-for-peo-443f411a",
+    "lang": "en",
+    "summary": "The Social Solidarity Department in Sharqia, Egypt, distributed 319 integrated service cards to individuals with disabilities. These cards are designed to streamline access to various social services and benefits for this demographic.",
+    "category": "laws-rights",
+    "tags": [
+      "service-cards",
+      "social-security",
+      "access",
+      "Egypt"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://gate.ahram.org.eg/News/5989370.aspx",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://gate.ahram.org.eg/News/5989370.aspx"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-443f411a",
+    "status": "published",
+    "translationOf": "sharqia-social-solidarity-department-issues-319-integrated-service-cards-for-peo-zh-443f411a",
+    "publishedAt": "2026-11-22T10:23:00.000Z",
+    "fetchedAt": "2026-11-22T18:02:40.268Z",
+    "body": "The Social Solidarity Department in Sharqia, Egypt, distributed 319 integrated service cards to individuals with disabilities. These cards are designed to streamline access to various social services and benefits for this demographic.\n\nRead more from the original source: [news.google.com](https://gate.ahram.org.eg/News/5989370.aspx)"
+  },
+  {
+    "title": "Hanoi Center for the Disabled to be Transformed into a Caring Home",
+    "slug": "hanoi-center-for-the-disabled-to-be-transformed-into-a-caring-home-4ff5c052",
+    "lang": "en",
+    "summary": "A news report from Vietnam details the initiative to transform the Hanoi Center for the Disabled into a more compassionate and supportive living environment for residents with disabilities, focusing on care and quality of life.",
+    "category": "case-studies",
+    "tags": [
+      "care",
+      "housing",
+      "vietnam",
+      "disability-support"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.vietnam.vn/ar/xay-dung-trung-tam-cham-soc-nguoi-khuyet-tat-ha-noi-thanh-mai-nha-chung-giau-tinh-yeu-thuong",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.vietnam.vn/ar/xay-dung-trung-tam-cham-soc-nguoi-khuyet-tat-ha-noi-thanh-mai-nha-chung-giau-tinh-yeu-thuong"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-4ff5c052",
+    "status": "published",
+    "translationOf": "hanoi-center-for-the-disabled-to-be-transformed-into-a-caring-home-zh-4ff5c052",
+    "publishedAt": "2026-11-22T08:15:10.000Z",
+    "fetchedAt": "2026-11-22T18:02:42.304Z",
+    "body": "A news report from Vietnam details the initiative to transform the Hanoi Center for the Disabled into a more compassionate and supportive living environment for residents with disabilities, focusing on care and quality of life.\n\nRead more from the original source: [news.google.com](https://www.vietnam.vn/ar/xay-dung-trung-tam-cham-soc-nguoi-khuyet-tat-ha-noi-thanh-mai-nha-chung-giau-tinh-yeu-thuong)"
+  },
+  {
+    "title": "Senate Education Committee Reviews Integration and Educational Pathways for Persons with Disabilities",
+    "slug": "senate-education-committee-reviews-integration-and-educational-pathways-for-pers-8ccdcea4",
+    "lang": "en",
+    "summary": "The Senate Education Committee has opened a discussion on the integration of persons with disabilities and the review of existing educational pathways, aiming to improve accessibility and inclusive education policies.",
+    "category": "laws-rights",
+    "tags": [
+      "education",
+      "policy",
+      "integration",
+      "accessibility"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.parlmany.com/News/3/621061/%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%AA%D9%81%D8%AA%D8%AD-%D9%85%D9%84%D9%81-%D8%AF%D9%85%D8%AC-%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.parlmany.com/News/3/621061/%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%AA%D9%81%D8%AA%D8%AD-%D9%85%D9%84%D9%81-%D8%AF%D9%85%D8%AC-%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-8ccdcea4",
+    "status": "published",
+    "translationOf": "senate-education-committee-reviews-integration-and-educational-pathways-for-pers-zh-8ccdcea4",
+    "publishedAt": "2026-11-22T09:00:00.000Z",
+    "fetchedAt": "2026-11-22T18:02:42.379Z",
+    "body": "The Senate Education Committee has opened a discussion on the integration of persons with disabilities and the review of existing educational pathways, aiming to improve accessibility and inclusive education policies.\n\nRead more from the original source: [news.google.com](https://www.parlmany.com/News/3/621061/%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%AA%D9%81%D8%AA%D8%AD-%D9%85%D9%84%D9%81-%D8%AF%D9%85%D8%AC-%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9)"
+  },
+  {
+    "title": "Delivery of 319 Integrated Service Cards to Persons with Disabilities in Sharqia, Egypt",
+    "slug": "delivery-of-319-integrated-service-cards-to-persons-with-disabilities-in-sharqia-d1366245",
+    "lang": "en",
+    "summary": "The General Organization for Empowerment of Persons with Disabilities in Sharqia Governorate distributed 319 integrated service cards to individuals with disabilities across various centers and cities. These cards likely facilitate access to social services, medical benefits, or legal rights, representing a systemic accommodation for disability accessibility.",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "services",
+      "egypt",
+      "sharqia",
+      "cards"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.almasryalyoum.com/news/details/4416974",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.almasryalyoum.com/news/details/4416974"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-d1366245",
+    "status": "published",
+    "translationOf": "delivery-of-319-integrated-service-cards-to-persons-with-disabilities-in-sharqia-zh-d1366245",
+    "publishedAt": "2026-11-22T09:11:00.000Z",
+    "fetchedAt": "2026-11-22T18:02:45.506Z",
+    "body": "The General Organization for Empowerment of Persons with Disabilities in Sharqia Governorate distributed 319 integrated service cards to individuals with disabilities across various centers and cities. These cards likely facilitate access to social services, medical benefits, or legal rights, representing a systemic accommodation for disability accessibility.\n\nRead more from the original source: [news.google.com](https://www.almasryalyoum.com/news/details/4416974)"
+  },
+  {
+    "title": "Irbid Private University Hosts Delegation from Higher Council for the Rights of Persons with Disabilities",
+    "slug": "irbid-private-university-hosts-delegation-from-higher-council-for-the-rights-of--e7bb218d",
+    "lang": "en",
+    "summary": "Irbid Private University in Jordan hosted a delegation from the Higher Council for the Rights of Persons with Disabilities to enhance partnership and institutional integration. This initiative aims to promote accessibility standards and inclusive policies within the educational institution for students and staff with disabilities.",
+    "category": "general",
+    "tags": [
+      "jordan",
+      "education",
+      "inclusion",
+      "partnership",
+      "accessibility"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.ammonnews.net/article/1047098",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.ammonnews.net/article/1047098"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-e7bb218d",
+    "status": "published",
+    "translationOf": "irbid-private-university-hosts-delegation-from-higher-council-for-the-rights-of--zh-e7bb218d",
+    "publishedAt": "2026-11-22T15:03:18.000Z",
+    "fetchedAt": "2026-11-22T18:02:45.589Z",
+    "body": "Irbid Private University in Jordan hosted a delegation from the Higher Council for the Rights of Persons with Disabilities to enhance partnership and institutional integration. This initiative aims to promote accessibility standards and inclusive policies within the educational institution for students and staff with disabilities.\n\nRead more from the original source: [news.google.com](https://www.ammonnews.net/article/1047098)"
+  },
+  {
+    "title": "Sharqia Social Solidarity Organization Delivers Integrated Service Cards to Persons with Disabilities",
+    "slug": "sharqia-social-solidarity-organization-delivers-integrated-service-cards-to-pers-03b3a9d7",
+    "lang": "en",
+    "summary": "The Social Solidarity Organization in Sharqia reported the distribution of 319 integrated service cards to people with disabilities. This administrative action supports disability accessibility by consolidating access to multiple government services, ensuring equitable support for individuals with disabilities.",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "services",
+      "egypt",
+      "sharqia",
+      "social-solidarity"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "http://www.sada-elarab.com/827847",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "http://www.sada-elarab.com/827847"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-03b3a9d7",
+    "status": "published",
+    "translationOf": "sharqia-social-solidarity-organization-delivers-integrated-service-cards-to-pers-zh-03b3a9d7",
+    "publishedAt": "2026-11-22T11:05:00.000Z",
+    "fetchedAt": "2026-11-22T18:02:45.652Z",
+    "body": "The Social Solidarity Organization in Sharqia reported the distribution of 319 integrated service cards to people with disabilities. This administrative action supports disability accessibility by consolidating access to multiple government services, ensuring equitable support for individuals with disabilities.\n\nRead more from the original source: [news.google.com](http://www.sada-elarab.com/827847)"
   }
 ]

@@ -52157,5 +52157,965 @@
     "publishedAt": "2026-11-22T09:01:26.000Z",
     "fetchedAt": "2026-11-22T16:27:17.710Z",
     "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/double-tap-tracks-a-week-of-outages-hitting-microsoft-365-us-flights-and-banks)"
+  },
+  {
+    "title": "法國小兒科緩和療護之可及性",
+    "slug": "pediatric-palliative-care-access-in-france-zh-a307067f",
+    "lang": "zh-TW",
+    "summary": "法國衛生高級當局發布新指南，指出目前僅有30%有需要的小兒能獲取緩和療護。該指南呼籲提供更早期、協調更好且以兒童和家庭為中心的照護。",
+    "category": "general",
+    "tags": [
+      "palliative-care",
+      "pediatric",
+      "health-access",
+      "france"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-soins-palliatifs-pediatriques-comment-mieux-accompagner-40041.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-soins-palliatifs-pediatriques-comment-mieux-accompagner-40041.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-a307067f",
+    "status": "published",
+    "translationOf": "pediatric-palliative-care-access-in-france-a307067f",
+    "publishedAt": "2026-11-22T10:12:50.000Z",
+    "fetchedAt": "2026-11-22T18:01:08.299Z",
+    "body": "法國衛生高級當局發布新指南，指出目前僅有30%有需要的小兒能獲取緩和療護。該指南呼籲提供更早期、協調更好且以兒童和家庭為中心的照護。\n\n原文來源： [handicap.fr](https://informations.handicap.fr/a-soins-palliatifs-pediatriques-comment-mieux-accompagner-40041.php)"
+  },
+  {
+    "title": "埃及參議院探討身障學生之融合教育",
+    "slug": "egyptian-senate-debates-inclusive-education-for-students-with-disabilities-zh-10b530f9",
+    "lang": "zh-TW",
+    "summary": "埃及參議院教育、研究與傳播委員會正在討論一項關於重新檢視身障學生融合教育系統的提案，旨在與政府代表協同發展該系統。",
+    "category": "laws-rights",
+    "tags": [
+      "inclusive-education",
+      "disability",
+      "egypt",
+      "legislation"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70390",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70390"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-10b530f9",
+    "status": "published",
+    "translationOf": "egyptian-senate-debates-inclusive-education-for-students-with-disabilities-10b530f9",
+    "publishedAt": "2026-11-22T10:16:07.000Z",
+    "fetchedAt": "2026-11-22T18:01:08.367Z",
+    "body": "埃及參議院教育、研究與傳播委員會正在討論一項關於重新檢視身障學生融合教育系統的提案，旨在與政府代表協同發展該系統。\n\n原文來源： [asdmag.org](https://asdmag.org/archives/70390)"
+  },
+  {
+    "title": "敘利亞身障人士獲取基本權益之障礙",
+    "slug": "obstacles-to-syrian-disabled-individuals-accessing-basic-rights-zh-fe2e29e3",
+    "lang": "zh-TW",
+    "summary": "敘利亞人權觀察指出法律條文與現實之間的落差，詳細說明身障人士在敘利亞獲取基本權益時所面臨的障礙。",
+    "category": "laws-rights",
+    "tags": [
+      "human-rights",
+      "syria",
+      "disability",
+      "barriers"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.syriahr.com/%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%86%D8%B5%D9%88%D8%B5-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D9%88%D8%A7%D8%A6%D9%82-%D8%AA%D8%AD",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.syriahr.com/%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%86%D8%B5%D9%88%D8%B5-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D9%88%D8%A7%D8%A6%D9%82-%D8%AA%D8%AD"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-fe2e29e3",
+    "status": "published",
+    "translationOf": "obstacles-to-syrian-disabled-individuals-accessing-basic-rights-fe2e29e3",
+    "publishedAt": "2026-11-22T15:21:31.000Z",
+    "fetchedAt": "2026-11-22T18:01:08.435Z",
+    "body": "敘利亞人權觀察指出法律條文與現實之間的落差，詳細說明身障人士在敘利亞獲取基本權益時所面臨的障礙。\n\n原文來源： [news.google.com](https://www.syriahr.com/%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%86%D8%B5%D9%88%D8%B5-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D9%88%D8%A7%D8%A6%D9%82-%D8%AA%D8%AD)"
+  },
+  {
+    "title": "《障礙人士版阿拉伯語》在海濱灣書展的戲劇表演中脫穎而出",
+    "slug": "arabic-for-the-sense-of-people-of-determination-shines-in-theatrical-performance-zh-183f6bd8",
+    "lang": "zh-TW",
+    "summary": "一部名為《障礙人士版阿拉伯語》（面向或針對殘障人士的戲劇）在海濱灣書展上演，突出了包容性藝術及殘障人士的文化代表性。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "inclusion",
+      "arts",
+      "theater",
+      "Al Ain Book Festival",
+      "people with disabilities"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.albayan.ae/culture-art/culture/1566912",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.albayan.ae/culture-art/culture/1566912"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-183f6bd8",
+    "status": "published",
+    "translationOf": "arabic-for-the-sense-of-people-of-determination-shines-in-theatrical-performance-183f6bd8",
+    "publishedAt": "2026-11-22T14:10:00.000Z",
+    "fetchedAt": "2026-11-22T18:01:13.133Z",
+    "body": "一部名為《障礙人士版阿拉伯語》（面向或針對殘障人士的戲劇）在海濱灣書展上演，突出了包容性藝術及殘障人士的文化代表性。\n\n原文來源： [news.google.com](https://www.albayan.ae/culture-art/culture/1566912)"
+  },
+  {
+    "title": "加薩：因輪椅損壞及輔助器具短缺，身心障礙者面臨強制孤立",
+    "slug": "gaza-disabled-people-face-forced-isolation-due-to-broken-wheelchairs-and-lack-of-zh-2c51207f",
+    "lang": "zh-TW",
+    "summary": "加薩地帶數以萬計的身心障礙者正遭受強制孤立的痛苦。由於輪椅損壞且急需的零件與輔助器具嚴重短缺，離開帳篷、使用衛生間或前往醫院等基本活動變得幾乎不可能。許多流離失所者被困於安置點，渴望恢復行動能力。",
+    "category": "assistive-tech",
+    "tags": [
+      "wheelchairs",
+      "Gaza",
+      "assistive-technology",
+      "crisis",
+      "mobility"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70387",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70387"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-2c51207f",
+    "status": "published",
+    "translationOf": "gaza-disabled-people-face-forced-isolation-due-to-broken-wheelchairs-and-lack-of-2c51207f",
+    "publishedAt": "2026-11-22T10:12:15.000Z",
+    "fetchedAt": "2026-11-22T18:01:15.587Z",
+    "body": "加薩地帶數以萬計的身心障礙者正遭受強制孤立的痛苦。由於輪椅損壞且急需的零件與輔助器具嚴重短缺，離開帳篷、使用衛生間或前往醫院等基本活動變得幾乎不可能。許多流離失所者被困於安置點，渴望恢復行動能力。\n\n原文來源： [asdmag.org](https://asdmag.org/archives/70387)"
+  },
+  {
+    "title": "參議院將調查殘疾人車輛發放延遲及「地面費」爭議",
+    "slug": "senate-opens-investigation-into-delays-in-releasing-vehicles-for-persons-with-di-zh-c906350e",
+    "lang": "zh-TW",
+    "summary": "參議院即將調查分配給殘障人士的車輛發放延遲問題，以及向該群體收取有争议的「地面費」現象。",
+    "category": "laws-rights",
+    "tags": [
+      "disability-accessibility",
+      "vehicles",
+      "policy",
+      "arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.parlmany.com/News/4/621218/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D9%8A%D9%81%D8%AA%D8%AD-%D9%85%D9%84%D9%81-%D8%AA%D8%A3%D8%AE%D8%B1-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.parlmany.com/News/4/621218/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D9%8A%D9%81%D8%AA%D8%AD-%D9%85%D9%84%D9%81-%D8%AA%D8%A3%D8%AE%D8%B1-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-c906350e",
+    "status": "published",
+    "translationOf": "senate-opens-investigation-into-delays-in-releasing-vehicles-for-persons-with-di-c906350e",
+    "publishedAt": "2026-11-22T14:00:00.000Z",
+    "fetchedAt": "2026-11-22T18:01:20.992Z",
+    "body": "參議院即將調查分配給殘障人士的車輛發放延遲問題，以及向該群體收取有争议的「地面費」現象。\n\n原文來源： [news.google.com](https://www.parlmany.com/News/4/621218/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D9%8A%D9%81%D8%AA%D8%AD-%D9%85%D9%84%D9%81-%D8%AA%D8%A3%D8%AE%D8%B1-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9)"
+  },
+  {
+    "title": "埃及政治黨派向殘疾人士捐贈朝聖之旅及輔助器具",
+    "slug": "egyptian-political-party-offers-umrah-trips-and-assistive-devices-to-people-with-zh-7c81fe07",
+    "lang": "zh-TW",
+    "summary": "埃及「未來黨」亞歷山大省分會在世界殘疾人日當天，向殘疾人士家庭捐贈20次免費朝聖之旅，並分發15張輪椅和12根白手杖給視障人士，強調社會包容與支持。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "EGYPT",
+      "disability-rights",
+      "assistive-tech",
+      "social-inclusion"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70368",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70368"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-7c81fe07",
+    "status": "published",
+    "translationOf": "egyptian-political-party-offers-umrah-trips-and-assistive-devices-to-people-with-7c81fe07",
+    "publishedAt": "2026-11-22T04:50:35.000Z",
+    "fetchedAt": "2026-11-22T18:01:23.478Z",
+    "body": "埃及「未來黨」亞歷山大省分會在世界殘疾人日當天，向殘疾人士家庭捐贈20次免費朝聖之旅，並分發15張輪椅和12根白手杖給視障人士，強調社會包容與支持。\n\n原文來源： [asdmag.org](https://asdmag.org/archives/70368)"
+  },
+  {
+    "title": "阿曼推出通過手語和盲文可存取互動展覽",
+    "slug": "oman-launches-interactive-exhibition-accessible-via-sign-language-and-braille-zh-d6c96cfc",
+    "lang": "zh-TW",
+    "summary": "阿曼蘇丹國舉辦了一場互動展覽，透過手語和盲文等無障礙設施，讓視障和聽障人士得以探索該國歷史，促進文化的可及性。",
+    "category": "digital-a11y",
+    "tags": [
+      "OMAN",
+      "accessibility",
+      "braille",
+      "sign-language",
+      "cultural-access"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://shabiba.com/article/214900-%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A5%D8%B4%D8%A7%D8%B1%D8%A9-%D9%88%D8%A8%D8%B1%D8%A7%D9%8A%D9%84-%D9%85%D8%B9%D8%B1%D8%B6-%D8%AA%D9%81%D8%A7%D8%B9%D9%84%D9%8A-%D9%8A%D8%AA%D9%8A%D8%AD-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D8%A7%D9%81-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://shabiba.com/article/214900-%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A5%D8%B4%D8%A7%D8%B1%D8%A9-%D9%88%D8%A8%D8%B1%D8%A7%D9%8A%D9%84-%D9%85%D8%B9%D8%B1%D8%B6-%D8%AA%D9%81%D8%A7%D8%B9%D9%84%D9%8A-%D9%8A%D8%AA%D9%8A%D8%AD-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D8%A7%D9%81-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-d6c96cfc",
+    "status": "published",
+    "translationOf": "oman-launches-interactive-exhibition-accessible-via-sign-language-and-braille-d6c96cfc",
+    "publishedAt": "2026-11-22T10:39:41.000Z",
+    "fetchedAt": "2026-11-22T18:01:23.539Z",
+    "body": "阿曼蘇丹國舉辦了一場互動展覽，透過手語和盲文等無障礙設施，讓視障和聽障人士得以探索該國歷史，促進文化的可及性。\n\n原文來源： [news.google.com](https://shabiba.com/article/214900-%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A5%D8%B4%D8%A7%D8%B1%D8%A9-%D9%88%D8%A8%D8%B1%D8%A7%D9%8A%D9%84-%D9%85%D8%B9%D8%B1%D8%B6-%D8%AA%D9%81%D8%A7%D8%B9%D9%84%D9%8A-%D9%8A%D8%AA%D9%8A%D8%AD-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D8%A7%D9%81-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86)"
+  },
+  {
+    "title": "埃及：建议允许残障人士自行选择住房单位",
+    "slug": "egypt-proposal-to-allow-disabled-individuals-to-choose-housing-units-zh-c5b46c41",
+    "lang": "zh-TW",
+    "summary": "埃及向住房部提交了一份提案，建议允许残障人士自行选择住房单位，而非完全依赖现有的自动分配机制。此举旨在赋权残障居民，使他们能够选择符合自身健康状况和行动需求的楼层及单位，从而提升其居住便利性。",
+    "category": "physical-design",
+    "tags": [
+      "disability",
+      "housing",
+      "egypt",
+      "policy",
+      "accessibility"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70365",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70365"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-c5b46c41",
+    "status": "published",
+    "translationOf": "egypt-proposal-to-allow-disabled-individuals-to-choose-housing-units-c5b46c41",
+    "publishedAt": "2026-11-22T04:36:55.000Z",
+    "fetchedAt": "2026-11-22T18:01:25.118Z",
+    "body": "埃及向住房部提交了一份提案，建议允许残障人士自行选择住房单位，而非完全依赖现有的自动分配机制。此举旨在赋权残障居民，使他们能够选择符合自身健康状况和行动需求的楼层及单位，从而提升其居住便利性。\n\n原文來源： [asdmag.org](https://asdmag.org/archives/70365)"
+  },
+  {
+    "title": "为残疾人节举办两场训练工作坊",
+    "slug": "two-training-workshops-held-in-preparation-for-the-festival-of-people-with-disab-zh-f15d34eb",
+    "lang": "zh-TW",
+    "summary": "阿曼日报报道了为举办残疾人节日而组织的两场训练工作坊，重点关注包容性及活动筹备。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "event",
+      "oman",
+      "inclusion"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.omandaily.om/article/1215448",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.omandaily.om/article/1215448"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-f15d34eb",
+    "status": "published",
+    "translationOf": "two-training-workshops-held-in-preparation-for-the-festival-of-people-with-disab-f15d34eb",
+    "publishedAt": "2026-11-22T10:51:26.000Z",
+    "fetchedAt": "2026-11-22T18:01:26.947Z",
+    "body": "阿曼日报报道了为举办残疾人节日而组织的两场训练工作坊，重点关注包容性及活动筹备。\n\n原文來源： [news.google.com](https://www.omandaily.om/article/1215448)"
+  },
+  {
+    "title": "阿布扎比阿拉伯语中心将其出版物转化为由残障人士主演的戏剧体验",
+    "slug": "abu-dhabi-arabic-language-center-transforms-publications-into-theatrical-experie-zh-72729391",
+    "lang": "zh-TW",
+    "summary": "阿布扎比阿拉伯语中心将其出版物改编为戏剧表演，由残障人士主演，旨在促进文化包容并展示残障人士的艺术才华。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "arts",
+      "inclusion",
+      "abu-dhabi",
+      "theatre"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.youm7.com/story/2026/11/22/%D9%85%D8%B1%D9%83%D8%B2-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%89-%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%8A%D8%AD%D9%88%D9%91%D9%84-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B3%D8%B1%D8%AD%D9%8A%D8%A9-%D8%A8%D8%A3%D8%AF%D8%A7%D8%A1/7628006",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.youm7.com/story/2026/11/22/%D9%85%D8%B1%D9%83%D8%B2-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%89-%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%8A%D8%AD%D9%88%D9%91%D9%84-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B3%D8%B1%D8%AD%D9%8A%D8%A9-%D8%A8%D8%A3%D8%AF%D8%A7%D8%A1/7628006"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-72729391",
+    "status": "published",
+    "translationOf": "abu-dhabi-arabic-language-center-transforms-publications-into-theatrical-experie-72729391",
+    "publishedAt": "2026-11-22T15:30:00.000Z",
+    "fetchedAt": "2026-11-22T18:01:27.004Z",
+    "body": "阿布扎比阿拉伯语中心将其出版物改编为戏剧表演，由残障人士主演，旨在促进文化包容并展示残障人士的艺术才华。\n\n原文來源： [news.google.com](https://www.youm7.com/story/2026/11/22/%D9%85%D8%B1%D9%83%D8%B2-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%89-%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%8A%D8%AD%D9%88%D9%91%D9%84-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B3%D8%B1%D8%AD%D9%8A%D8%A9-%D8%A8%D8%A3%D8%AF%D8%A7%D8%A1/7628006)"
+  },
+  {
+    "title": "埃及提出綜合視圖以改進殘障學生的教育路徑",
+    "slug": "egypt-proposes-integrated-vision-to-improve-educational-paths-for-students-with--zh-f05f0a7c",
+    "lang": "zh-TW",
+    "summary": "阿曼尼·法赫爾博士提出了改革殘障學生教育融合系統的綜合戰略。該計劃旨在開發與學生能力相適應的教育路徑，確保包容性准入並提高殘障人士的教育質量。",
+    "category": "laws-rights",
+    "tags": [
+      "education",
+      "inclusion",
+      "policy",
+      "Egypt"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70362",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70362"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-f05f0a7c",
+    "status": "published",
+    "translationOf": "egypt-proposes-integrated-vision-to-improve-educational-paths-for-students-with--f05f0a7c",
+    "publishedAt": "2026-11-22T04:33:03.000Z",
+    "fetchedAt": "2026-11-22T18:01:29.593Z",
+    "body": "阿曼尼·法赫爾博士提出了改革殘障學生教育融合系統的綜合戰略。該計劃旨在開發與學生能力相適應的教育路徑，確保包容性准入並提高殘障人士的教育質量。\n\n原文來源： [asdmag.org](https://asdmag.org/archives/70362)"
+  },
+  {
+    "title": "身有殘疾的青年依靠柺杖攀登腳手架尋求生計",
+    "slug": "young-man-with-disability-uses-cane-to-climb-scaffolding-in-search-of-livelihood-zh-0b7bfe3c",
+    "lang": "zh-TW",
+    "summary": "一名身體殘疾的青年利用柺杖作為支撐，攀登腳手架工作以謀生。故事強調了個人的韌性以及缺乏無障礙設施的問題，展示了職場中殘障人士的真实案例。",
+    "category": "case-studies",
+    "tags": [
+      "workforce",
+      "resilience",
+      "physical-disability",
+      "real-life"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.elbalad.news/7190331",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.elbalad.news/7190331"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-0b7bfe3c",
+    "status": "published",
+    "translationOf": "young-man-with-disability-uses-cane-to-climb-scaffolding-in-search-of-livelihood-0b7bfe3c",
+    "publishedAt": "2026-11-22T16:33:00.000Z",
+    "fetchedAt": "2026-11-22T18:01:29.665Z",
+    "body": "一名身體殘疾的青年利用柺杖作為支撐，攀登腳手架工作以謀生。故事強調了個人的韌性以及缺乏無障礙設施的問題，展示了職場中殘障人士的真实案例。\n\n原文來源： [news.google.com](https://www.elbalad.news/7190331)"
+  },
+  {
+    "title": "埃及議員讚揚殘障人士融合的社會文化",
+    "slug": "mp-praises-inclusive-culture-for-people-with-disabilities-in-egypt-zh-41c000d8",
+    "lang": "zh-TW",
+    "summary": "埃及下議院議員穆罕默德·穆斯塔赫利（Mohamed Mostacli）強調，支持殘障人士不應僅是单日慶祝活動，而應成為確保融合與機會平等的社會文化承諾。他特別提及由「未來家國黨」在亞歷山大舉辦的世界殘障人士日大型活動，指出該活動展現了殘障人士及其家庭的廣泛參與與歡樂氛圍。",
+    "category": "laws-rights",
+    "tags": [
+      "disability-rights",
+      "social-inclusion",
+      "egypt",
+      "policy"
+    ],
+    "sourceName": "asdmag.org",
+    "sourceUrl": "https://asdmag.org/archives/70357",
+    "relatedSources": [
+      {
+        "name": "asdmag.org",
+        "url": "https://asdmag.org/archives/70357"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://asdmag.org/feed",
+    "ingestProvider": "asdmag.org",
+    "originalLang": "ar",
+    "clusterId": "cluster-41c000d8",
+    "status": "published",
+    "translationOf": "mp-praises-inclusive-culture-for-people-with-disabilities-in-egypt-41c000d8",
+    "publishedAt": "2026-11-22T04:18:13.000Z",
+    "fetchedAt": "2026-11-22T18:02:11.525Z",
+    "body": "埃及下議院議員穆罕默德·穆斯塔赫利（Mohamed Mostacli）強調，支持殘障人士不應僅是单日慶祝活動，而應成為確保融合與機會平等的社會文化承諾。他特別提及由「未來家國黨」在亞歷山大舉辦的世界殘障人士日大型活動，指出該活動展現了殘障人士及其家庭的廣泛參與與歡樂氛圍。\n\n原文來源： [asdmag.org](https://asdmag.org/archives/70357)"
+  },
+  {
+    "title": "參議院經濟委員會討論凍結殘障人士車輛停車費",
+    "slug": "senate-economics-committee-discusses-freezing-parking-fees-for-disabled-vehicles-zh-b6599633",
+    "lang": "zh-TW",
+    "summary": "參議院經濟委員會正在審議一項提案，旨在凍結殘障人士車輛的停車費，以減輕殘障駕駛者的財務負擔。",
+    "category": "laws-rights",
+    "tags": [
+      "parking-fees",
+      "disability-rights",
+      "legislation",
+      "egypt"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://almalnews.com/2148752/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%AA%D9%86%D8%A7%D9%82%D8%B4-%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%AD%D8%A7%D9%8B-%D8%A8%D8%AA%D8%AC%D9%85%D9%8A%D8%AF-%D8%B1%D8%B3%D9%88%D9%85-%D8%A3%D8%B1%D8%B6%D9%8A%D8%A7%D8%AA",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://almalnews.com/2148752/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%AA%D9%86%D8%A7%D9%82%D8%B4-%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%AD%D8%A7%D9%8B-%D8%A8%D8%AA%D8%AC%D9%85%D9%8A%D8%AF-%D8%B1%D8%B3%D9%88%D9%85-%D8%A3%D8%B1%D8%B6%D9%8A%D8%A7%D8%AA"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-b6599633",
+    "status": "published",
+    "translationOf": "senate-economics-committee-discusses-freezing-parking-fees-for-disabled-vehicles-b6599633",
+    "publishedAt": "2026-11-22T07:33:08.000Z",
+    "fetchedAt": "2026-11-22T18:02:15.183Z",
+    "body": "參議院經濟委員會正在審議一項提案，旨在凍結殘障人士車輛的停車費，以減輕殘障駕駛者的財務負擔。\n\n原文來源： [news.google.com](https://almalnews.com/2148752/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%AA%D9%86%D8%A7%D9%82%D8%B4-%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%AD%D8%A7%D9%8B-%D8%A8%D8%AA%D8%AC%D9%85%D9%8A%D8%AF-%D8%B1%D8%B3%D9%88%D9%85-%D8%A3%D8%B1%D8%B6%D9%8A%D8%A7%D8%AA)"
+  },
+  {
+    "title": "參議院財務委員會討論放行殘疾人車輛的負擔",
+    "slug": "senate-finance-committee-discusses-burden-of-releasing-vehicles-for-people-with--zh-981862f3",
+    "lang": "zh-TW",
+    "summary": "參議院財務委員會正在討論與向殘疾人士放行車輛相關的財務負擔和物流挑戰，旨在簡化合資格受益者的流程。",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "vehicles",
+      "policy",
+      "finance"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.youm7.com/story/2026/11/22/%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%AA%D9%86%D8%A7%D9%82%D8%B4-%D8%A3%D8%B9%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9/7628272",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.youm7.com/story/2026/11/22/%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%AA%D9%86%D8%A7%D9%82%D8%B4-%D8%A3%D8%B9%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9/7628272"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-981862f3",
+    "status": "published",
+    "translationOf": "senate-finance-committee-discusses-burden-of-releasing-vehicles-for-people-with--981862f3",
+    "publishedAt": "2026-11-22T13:41:00.000Z",
+    "fetchedAt": "2026-11-22T18:02:18.740Z",
+    "body": "參議院財務委員會正在討論與向殘疾人士放行車輛相關的財務負擔和物流挑戰，旨在簡化合資格受益者的流程。\n\n原文來源： [news.google.com](https://www.youm7.com/story/2026/11/22/%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%AA%D9%86%D8%A7%D9%82%D8%B4-%D8%A3%D8%B9%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9/7628272)"
+  },
+  {
+    "title": "現代科技提升視障學生的獨立性",
+    "slug": "modern-technologies-enhance-independence-of-students-with-visual-impairments-zh-0ccb0b28",
+    "lang": "zh-TW",
+    "summary": "本文探討了新興科技如何賦能視障學生，讓他們在日常生活中和學習中獲得更大的獨立性。",
+    "category": "assistive-tech",
+    "tags": [
+      "visual-impairment",
+      "students",
+      "technology",
+      "independence"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.raya.com/2026/11/22/%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D8%AD%D8%AF%D9%8A%D8%AB%D8%A9-%D8%AA%D8%B9%D8%B2%D8%B2-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.raya.com/2026/11/22/%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D8%AD%D8%AF%D9%8A%D8%AB%D8%A9-%D8%AA%D8%B9%D8%B2%D8%B2-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-0ccb0b28",
+    "status": "published",
+    "translationOf": "modern-technologies-enhance-independence-of-students-with-visual-impairments-0ccb0b28",
+    "publishedAt": "2026-11-21T21:14:16.000Z",
+    "fetchedAt": "2026-11-22T18:02:22.239Z",
+    "body": "本文探討了新興科技如何賦能視障學生，讓他們在日常生活中和學習中獲得更大的獨立性。\n\n原文來源： [news.google.com](https://www.raya.com/2026/11/22/%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D8%AD%D8%AF%D9%8A%D8%AB%D8%A9-%D8%AA%D8%B9%D8%B2%D8%B2-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9)"
+  },
+  {
+    "title": "部委確認大學殘障生學費減免政策延續",
+    "slug": "ministry-confirms-continued-tuition-discounts-for-university-students-with-disab-zh-12648387",
+    "lang": "zh-TW",
+    "summary": "某部委確認延續為大學生中的殘障人士提供學費減免的政策，確保為在學術環境中面臨挑戰的個人持續提供教育支持和可及性。",
+    "category": "laws-rights",
+    "tags": [
+      "education",
+      "disability",
+      "tuition-fees",
+      "policy"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.al-mirbad.com/detail/220293",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.al-mirbad.com/detail/220293"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-12648387",
+    "status": "published",
+    "translationOf": "ministry-confirms-continued-tuition-discounts-for-university-students-with-disab-12648387",
+    "publishedAt": "2026-11-22T06:43:54.000Z",
+    "fetchedAt": "2026-11-22T18:02:31.424Z",
+    "body": "某部委確認延續為大學生中的殘障人士提供學費減免的政策，確保為在學術環境中面臨挑戰的個人持續提供教育支持和可及性。\n\n原文來源： [news.google.com](https://www.al-mirbad.com/detail/220293)"
+  },
+  {
+    "title": "埃及東部向殘障人士發出319張綜合服務卡",
+    "slug": "319-integrated-service-cards-issued-to-persons-with-disabilities-in-eastern-egyp-zh-a593545b",
+    "lang": "zh-TW",
+    "summary": "埃及東部地方當局向殘障人士分發了319張綜合服務卡，旨在簡化該群體獲取各種社會服務和福利的途徑。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability-services",
+      "government-initiatives",
+      "accessibility",
+      "egypt"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://agri.ahram.org.eg/News/170602.aspx",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://agri.ahram.org.eg/News/170602.aspx"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-a593545b",
+    "status": "published",
+    "translationOf": "319-integrated-service-cards-issued-to-persons-with-disabilities-in-eastern-egyp-a593545b",
+    "publishedAt": "2026-11-22T11:47:00.000Z",
+    "fetchedAt": "2026-11-22T18:02:31.599Z",
+    "body": "埃及東部地方當局向殘障人士分發了319張綜合服務卡，旨在簡化該群體獲取各種社會服務和福利的途徑。\n\n原文來源： [news.google.com](https://agri.ahram.org.eg/News/170602.aspx)"
+  },
+  {
+    "title": "沙爾基亞社會團結局向身心障礙者分發319張綜合服務卡",
+    "slug": "sharqia-social-solidarity-agency-distributes-319-integrated-service-cards-to-peo-zh-d31c01af",
+    "lang": "zh-TW",
+    "summary": "沙爾基亞社會團結局向身心障礙者分發了319張綜合服務卡，旨在為他們提供全面支持並促進其使用各項社會服務。",
+    "category": "laws-rights",
+    "tags": [
+      "social-welfare",
+      "service-access",
+      "government"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=22112026&id=103f2078-de69-4ffc-a55e-42240710eb02",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=22112026&id=103f2078-de69-4ffc-a55e-42240710eb02"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-d31c01af",
+    "status": "published",
+    "translationOf": "sharqia-social-solidarity-agency-distributes-319-integrated-service-cards-to-peo-d31c01af",
+    "publishedAt": "2026-11-22T10:07:07.000Z",
+    "fetchedAt": "2026-11-22T18:02:37.216Z",
+    "body": "沙爾基亞社會團結局向身心障礙者分發了319張綜合服務卡，旨在為他們提供全面支持並促進其使用各項社會服務。\n\n原文來源： [news.google.com](https://www.shorouknews.com/mobile/news/view.aspx?cdate=22112026&id=103f2078-de69-4ffc-a55e-42240710eb02)"
+  },
+  {
+    "title": "社會連帶部表揚代父及殘障兒童父母",
+    "slug": "social-solidarity-ministry-honors-substitute-fathers-and-parents-of-individuals--zh-cc8e0cfe",
+    "lang": "zh-TW",
+    "summary": "社會連帶部表揚了四位父親，表彰他們在代父角色及照顧殘障兒童方面的貢獻。此頒獎典禮旨在肯定照顧者在支持受殘障影響家庭中的角色。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "parenting",
+      "social-support",
+      "Egypt"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://akhbarelyom.com/news/newdetails/4911038/1/%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D9%8F%D9%83%D8%B1%D9%85-4-%D8%A2%D8%A8%D8%A7%D8%A1-%D8%B6%D9%85%D9%86-%D9%81%D8%A6%D8%AA%D9%8A-%D8%A7%D9%84%D8%A3%D8%A8-%D8%A7%D9%84%D8%A8%D8%AF%D9%8A",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://akhbarelyom.com/news/newdetails/4911038/1/%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D9%8F%D9%83%D8%B1%D9%85-4-%D8%A2%D8%A8%D8%A7%D8%A1-%D8%B6%D9%85%D9%86-%D9%81%D8%A6%D8%AA%D9%8A-%D8%A7%D9%84%D8%A3%D8%A8-%D8%A7%D9%84%D8%A8%D8%AF%D9%8A"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-cc8e0cfe",
+    "status": "published",
+    "translationOf": "social-solidarity-ministry-honors-substitute-fathers-and-parents-of-individuals--cc8e0cfe",
+    "publishedAt": "2026-11-22T16:50:03.000Z",
+    "fetchedAt": "2026-11-22T18:02:40.123Z",
+    "body": "社會連帶部表揚了四位父親，表彰他們在代父角色及照顧殘障兒童方面的貢獻。此頒獎典禮旨在肯定照顧者在支持受殘障影響家庭中的角色。\n\n原文來源： [news.google.com](https://akhbarelyom.com/news/newdetails/4911038/1/%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D9%8F%D9%83%D8%B1%D9%85-4-%D8%A2%D8%A8%D8%A7%D8%A1-%D8%B6%D9%85%D9%86-%D9%81%D8%A6%D8%AA%D9%8A-%D8%A7%D9%84%D8%A3%D8%A8-%D8%A7%D9%84%D8%A8%D8%AF%D9%8A)"
+  },
+  {
+    "title": "埃及邁向製造假肢：政府提出建立輔助器具工業園區法案",
+    "slug": "egypt-moves-closer-to-manufacturing-prosthetics-as-government-proposes-law-for-a-zh-b55e9b19",
+    "lang": "zh-TW",
+    "summary": "埃及政府提交了一項法案草案，旨在建立一個輔助器具（包括假肢）工業園區，資金超過25億埃及鎊。該倡議旨在支持和保護肢體殘障人士，並促進其社會融合。",
+    "category": "assistive-tech",
+    "tags": [
+      "prosthetics",
+      "assistive-tech",
+      "policy",
+      "manufacturing",
+      "Egypt"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.parlmany.com/News/2/621213/%D9%85%D8%B5%D8%B1-%D8%B9%D9%84%D9%89-%D8%A8%D8%B9%D8%AF-%D8%AE%D8%B7%D9%88%D8%A9-%D9%85%D9%86-%D8%AA%D8%B5%D9%86%D9%8A%D8%B9-%D8%A7%D9%84%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%AA%D9%82%D8%AF%D9%85",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.parlmany.com/News/2/621213/%D9%85%D8%B5%D8%B1-%D8%B9%D9%84%D9%89-%D8%A8%D8%B9%D8%AF-%D8%AE%D8%B7%D9%88%D8%A9-%D9%85%D9%86-%D8%AA%D8%B5%D9%86%D9%8A%D8%B9-%D8%A7%D9%84%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%AA%D9%82%D8%AF%D9%85"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-b55e9b19",
+    "status": "published",
+    "translationOf": "egypt-moves-closer-to-manufacturing-prosthetics-as-government-proposes-law-for-a-b55e9b19",
+    "publishedAt": "2026-11-22T13:00:00.000Z",
+    "fetchedAt": "2026-11-22T18:02:40.193Z",
+    "body": "埃及政府提交了一項法案草案，旨在建立一個輔助器具（包括假肢）工業園區，資金超過25億埃及鎊。該倡議旨在支持和保護肢體殘障人士，並促進其社會融合。\n\n原文來源： [news.google.com](https://www.parlmany.com/News/2/621213/%D9%85%D8%B5%D8%B1-%D8%B9%D9%84%D9%89-%D8%A8%D8%B9%D8%AF-%D8%AE%D8%B7%D9%88%D8%A9-%D9%85%D9%86-%D8%AA%D8%B5%D9%86%D9%8A%D8%B9-%D8%A7%D9%84%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%AA%D9%82%D8%AF%D9%85)"
+  },
+  {
+    "title": "東部省社會連帶部向殘障人士發放319張綜合服務卡",
+    "slug": "sharqia-social-solidarity-department-issues-319-integrated-service-cards-for-peo-zh-443f411a",
+    "lang": "zh-TW",
+    "summary": "埃及東部省社會連帶部向殘障人士發放了319張綜合服務卡。這些卡旨在簡化該群體獲取各種社會服務和福利的流程。",
+    "category": "laws-rights",
+    "tags": [
+      "service-cards",
+      "social-security",
+      "access",
+      "Egypt"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://gate.ahram.org.eg/News/5989370.aspx",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://gate.ahram.org.eg/News/5989370.aspx"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-443f411a",
+    "status": "published",
+    "translationOf": "sharqia-social-solidarity-department-issues-319-integrated-service-cards-for-peo-443f411a",
+    "publishedAt": "2026-11-22T10:23:00.000Z",
+    "fetchedAt": "2026-11-22T18:02:40.268Z",
+    "body": "埃及東部省社會連帶部向殘障人士發放了319張綜合服務卡。這些卡旨在簡化該群體獲取各種社會服務和福利的流程。\n\n原文來源： [news.google.com](https://gate.ahram.org.eg/News/5989370.aspx)"
+  },
+  {
+    "title": "河內殘障人士關懷中心轉型為充滿愛心的居所",
+    "slug": "hanoi-center-for-the-disabled-to-be-transformed-into-a-caring-home-zh-4ff5c052",
+    "lang": "zh-TW",
+    "summary": "來自越南的新聞報導指出，河內殘障人士關懷中心正計劃轉型為一個更具同理心和照護性的居住環境，旨在提升殘障居住者的生活品質。",
+    "category": "case-studies",
+    "tags": [
+      "care",
+      "housing",
+      "vietnam",
+      "disability-support"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.vietnam.vn/ar/xay-dung-trung-tam-cham-soc-nguoi-khuyet-tat-ha-noi-thanh-mai-nha-chung-giau-tinh-yeu-thuong",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.vietnam.vn/ar/xay-dung-trung-tam-cham-soc-nguoi-khuyet-tat-ha-noi-thanh-mai-nha-chung-giau-tinh-yeu-thuong"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-4ff5c052",
+    "status": "published",
+    "translationOf": "hanoi-center-for-the-disabled-to-be-transformed-into-a-caring-home-4ff5c052",
+    "publishedAt": "2026-11-22T08:15:10.000Z",
+    "fetchedAt": "2026-11-22T18:02:42.304Z",
+    "body": "來自越南的新聞報導指出，河內殘障人士關懷中心正計劃轉型為一個更具同理心和照護性的居住環境，旨在提升殘障居住者的生活品質。\n\n原文來源： [news.google.com](https://www.vietnam.vn/ar/xay-dung-trung-tam-cham-soc-nguoi-khuyet-tat-ha-noi-thanh-mai-nha-chung-giau-tinh-yeu-thuong)"
+  },
+  {
+    "title": "參議院教育委員會審查身心障礙者融合與教育路径",
+    "slug": "senate-education-committee-reviews-integration-and-educational-pathways-for-pers-zh-8ccdcea4",
+    "lang": "zh-TW",
+    "summary": "參議院教育委員會開啟了關於身心障礙者融合及現有教育路径審查的討論，旨在改善無障礙及融合教育政策。",
+    "category": "laws-rights",
+    "tags": [
+      "education",
+      "policy",
+      "integration",
+      "accessibility"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.parlmany.com/News/3/621061/%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%AA%D9%81%D8%AA%D8%AD-%D9%85%D9%84%D9%81-%D8%AF%D9%85%D8%AC-%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.parlmany.com/News/3/621061/%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%AA%D9%81%D8%AA%D8%AD-%D9%85%D9%84%D9%81-%D8%AF%D9%85%D8%AC-%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-8ccdcea4",
+    "status": "published",
+    "translationOf": "senate-education-committee-reviews-integration-and-educational-pathways-for-pers-8ccdcea4",
+    "publishedAt": "2026-11-22T09:00:00.000Z",
+    "fetchedAt": "2026-11-22T18:02:42.379Z",
+    "body": "參議院教育委員會開啟了關於身心障礙者融合及現有教育路径審查的討論，旨在改善無障礙及融合教育政策。\n\n原文來源： [news.google.com](https://www.parlmany.com/News/3/621061/%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%AA%D9%81%D8%AA%D8%AD-%D9%85%D9%84%D9%81-%D8%AF%D9%85%D8%AC-%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9)"
+  },
+  {
+    "title": "埃及塞赫耶夫省向残障人士发放319张综合服务卡",
+    "slug": "delivery-of-319-integrated-service-cards-to-persons-with-disabilities-in-sharqia-zh-d1366245",
+    "lang": "zh-TW",
+    "summary": "塞赫耶夫省残障人士赋能总组织向全省各中心及城市的残障人士发放了319张综合服务卡。这些卡片旨在促进残障人士获取社会服务、医疗福利或法律权益，属于制度性的残障无障碍便利措施。",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "services",
+      "egypt",
+      "sharqia",
+      "cards"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.almasryalyoum.com/news/details/4416974",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.almasryalyoum.com/news/details/4416974"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-d1366245",
+    "status": "published",
+    "translationOf": "delivery-of-319-integrated-service-cards-to-persons-with-disabilities-in-sharqia-d1366245",
+    "publishedAt": "2026-11-22T09:11:00.000Z",
+    "fetchedAt": "2026-11-22T18:02:45.506Z",
+    "body": "塞赫耶夫省残障人士赋能总组织向全省各中心及城市的残障人士发放了319张综合服务卡。这些卡片旨在促进残障人士获取社会服务、医疗福利或法律权益，属于制度性的残障无障碍便利措施。\n\n原文來源： [news.google.com](https://www.almasryalyoum.com/news/details/4416974)"
+  },
+  {
+    "title": "伊比德私立大学接待残障人士权利高级理事会代表团以加强合作与机构融合",
+    "slug": "irbid-private-university-hosts-delegation-from-higher-council-for-the-rights-of--zh-e7bb218d",
+    "lang": "zh-TW",
+    "summary": "约旦伊比德私立大学接待了残障人士权利高级理事会的代表团，旨在加强合作伙伴关系并促进机构融合。此举旨在推动教育机构内部针对残障学生和员工的无障碍标准及包容性政策。",
+    "category": "general",
+    "tags": [
+      "jordan",
+      "education",
+      "inclusion",
+      "partnership",
+      "accessibility"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.ammonnews.net/article/1047098",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.ammonnews.net/article/1047098"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-e7bb218d",
+    "status": "published",
+    "translationOf": "irbid-private-university-hosts-delegation-from-higher-council-for-the-rights-of--e7bb218d",
+    "publishedAt": "2026-11-22T15:03:18.000Z",
+    "fetchedAt": "2026-11-22T18:02:45.589Z",
+    "body": "约旦伊比德私立大学接待了残障人士权利高级理事会的代表团，旨在加强合作伙伴关系并促进机构融合。此举旨在推动教育机构内部针对残障学生和员工的无障碍标准及包容性政策。\n\n原文來源： [news.google.com](https://www.ammonnews.net/article/1047098)"
+  },
+  {
+    "title": "塞赫耶夫社会团结组织向残障人士发放综合服务卡",
+    "slug": "sharqia-social-solidarity-organization-delivers-integrated-service-cards-to-pers-zh-03b3a9d7",
+    "lang": "zh-TW",
+    "summary": "塞赫耶夫社会团结组织报道向残障人士发放了319张综合服务卡。这一行政举措通过整合多项政府服务的获取渠道，确保残障人士获得公平的支持，从而支持残障无障碍服务。",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "services",
+      "egypt",
+      "sharqia",
+      "social-solidarity"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "http://www.sada-elarab.com/827847",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "http://www.sada-elarab.com/827847"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-03b3a9d7",
+    "status": "published",
+    "translationOf": "sharqia-social-solidarity-organization-delivers-integrated-service-cards-to-pers-03b3a9d7",
+    "publishedAt": "2026-11-22T11:05:00.000Z",
+    "fetchedAt": "2026-11-22T18:02:45.652Z",
+    "body": "塞赫耶夫社会团结组织报道向残障人士发放了319张综合服务卡。这一行政举措通过整合多项政府服务的获取渠道，确保残障人士获得公平的支持，从而支持残障无障碍服务。\n\n原文來源： [news.google.com](http://www.sada-elarab.com/827847)"
   }
 ]
