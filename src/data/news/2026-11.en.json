@@ -53117,5 +53117,508 @@
     "publishedAt": "2026-11-22T11:05:00.000Z",
     "fetchedAt": "2026-11-22T18:02:45.652Z",
     "body": "The Social Solidarity Organization in Sharqia reported the distribution of 319 integrated service cards to people with disabilities. This administrative action supports disability accessibility by consolidating access to multiple government services, ensuring equitable support for individuals with disabilities.\n\nRead more from the original source: [news.google.com](http://www.sada-elarab.com/827847)"
+  },
+  {
+    "title": "Parent raises accessibility concerns at Harte Elementary",
+    "slug": "parent-raises-accessibility-concerns-at-harte-elementary-2a998ae7",
+    "lang": "en",
+    "summary": "A parent voiced concerns about the accessibility of Harte Elementary School, highlighting potential barriers for students with disabilities and urging the district to improve physical accommodations.",
+    "category": "physical-design",
+    "tags": [
+      "school",
+      "accessibility",
+      "parents",
+      "disability",
+      "education"
+    ],
+    "sourceName": "South Jersey Media",
+    "sourceUrl": "https://southjersey.media/cherry-hill-news/parent-raises-accessibility-concerns-at-harte-elementary",
+    "relatedSources": [
+      {
+        "name": "South Jersey Media",
+        "url": "https://southjersey.media/cherry-hill-news/parent-raises-accessibility-concerns-at-harte-elementary"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-2a998ae7",
+    "status": "published",
+    "translationOf": "parent-raises-accessibility-concerns-at-harte-elementary-zh-2a998ae7",
+    "publishedAt": "2026-11-22T21:33:51.000Z",
+    "fetchedAt": "2026-11-22T22:29:24.394Z",
+    "body": "A parent voiced concerns about the accessibility of Harte Elementary School, highlighting potential barriers for students with disabilities and urging the district to improve physical accommodations.\n\nRead more from the original source: [South Jersey Media](https://southjersey.media/cherry-hill-news/parent-raises-accessibility-concerns-at-harte-elementary)"
+  },
+  {
+    "title": "Westport adds five accessible parking spaces downtown",
+    "slug": "westport-adds-five-accessible-parking-spaces-downtown-b91ef593",
+    "lang": "en",
+    "summary": "Westport has added five parking spaces designated for people with disabilities in its downtown area, improving physical accessibility for disabled drivers and passengers.",
+    "category": "physical-design",
+    "tags": [
+      "parking",
+      "accessible parking",
+      "urban design",
+      "disability"
+    ],
+    "sourceName": "Westport Journal",
+    "sourceUrl": "https://westportjournal.com/business/westport-adds-five-accessible-parking-spaces-downtown",
+    "relatedSources": [
+      {
+        "name": "Westport Journal",
+        "url": "https://westportjournal.com/business/westport-adds-five-accessible-parking-spaces-downtown"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-b91ef593",
+    "status": "published",
+    "translationOf": "westport-adds-five-accessible-parking-spaces-downtown-zh-b91ef593",
+    "publishedAt": "2026-11-22T18:55:51.000Z",
+    "fetchedAt": "2026-11-22T22:29:40.131Z",
+    "body": "Westport has added five parking spaces designated for people with disabilities in its downtown area, improving physical accessibility for disabled drivers and passengers.\n\nRead more from the original source: [Westport Journal](https://westportjournal.com/business/westport-adds-five-accessible-parking-spaces-downtown)"
+  },
+  {
+    "title": "Roundup: Accessibility Update, Cribari Comments Extended, Food Drive Today",
+    "slug": "roundup-accessibility-update-cribari-comments-extended-food-drive-today-a87ec465",
+    "lang": "en",
+    "summary": "A roundup article covering recent accessibility updates, extended comments from Cribari, and a food‑drive event.",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility",
+      "update",
+      "news"
+    ],
+    "sourceName": "06880 | Where Westport meets the world",
+    "sourceUrl": "https://06880danwoog.com/2026/11/21/roundup-accessibility-update-food-drive-wasa-dogs",
+    "relatedSources": [
+      {
+        "name": "06880 | Where Westport meets the world",
+        "url": "https://06880danwoog.com/2026/11/21/roundup-accessibility-update-food-drive-wasa-dogs"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-a87ec465",
+    "status": "published",
+    "translationOf": "roundup-accessibility-update-cribari-comments-extended-food-drive-today-zh-a87ec465",
+    "publishedAt": "2026-11-21T15:00:27.000Z",
+    "fetchedAt": "2026-11-22T22:29:47.787Z",
+    "body": "A roundup article covering recent accessibility updates, extended comments from Cribari, and a food‑drive event.\n\nRead more from the original source: [06880 | Where Westport meets the world](https://06880danwoog.com/2026/11/21/roundup-accessibility-update-food-drive-wasa-dogs)"
+  },
+  {
+    "title": "Take accessible PDFs further with ArcGIS Pro 3.8 - Esri",
+    "slug": "take-accessible-pdfs-further-with-arcgis-pro-38-esri-64774035",
+    "lang": "en",
+    "summary": "Esri’s blog outlines new features in ArcGIS Pro 3.8 that help creators produce PDFs meeting WCAG and PDF/UA standards, including automatic tagging, alt‑text prompts, reading‑order tools and built‑in validation.",
+    "category": "digital-a11y",
+    "tags": [
+      "ArcGIS Pro",
+      "PDF",
+      "WCAG",
+      "PDF/UA",
+      "digital accessibility"
+    ],
+    "sourceName": "Esri",
+    "sourceUrl": "https://www.esri.com/arcgis-blog/products/mapping/mapping/take-accessible-pdfs-further-with-arcgis-pro-3-8",
+    "relatedSources": [
+      {
+        "name": "Esri",
+        "url": "https://www.esri.com/arcgis-blog/products/mapping/mapping/take-accessible-pdfs-further-with-arcgis-pro-3-8"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-64774035",
+    "status": "published",
+    "translationOf": "take-accessible-pdfs-further-with-arcgis-pro-38-esri-zh-64774035",
+    "publishedAt": "2026-11-19T17:49:21.000Z",
+    "fetchedAt": "2026-11-22T22:30:03.895Z",
+    "body": "Esri’s blog outlines new features in ArcGIS Pro 3.8 that help creators produce PDFs meeting WCAG and PDF/UA standards, including automatic tagging, alt‑text prompts, reading‑order tools and built‑in validation.\n\nRead more from the original source: [Esri](https://www.esri.com/arcgis-blog/products/mapping/mapping/take-accessible-pdfs-further-with-arcgis-pro-3-8)"
+  },
+  {
+    "title": "New Northeast Portland mural celebrates city’s accessible waterfront - OregonLive.com",
+    "slug": "new-northeast-portland-mural-celebrates-citys-accessible-waterfront-oregonliveco-5bf37c94",
+    "lang": "en",
+    "summary": "The article reports on a newly unveiled mural in Northeast Portland that highlights recent waterfront upgrades—ramps, tactile paving and other universal‑design elements—making the area more navigable for wheelchair users and other people with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "public art",
+      "waterfront",
+      "universal design",
+      "accessibility",
+      "Portland"
+    ],
+    "sourceName": "OregonLive.com",
+    "sourceUrl": "https://www.oregonlive.com/portland/2026/11/new-northeast-portland-mural-celebrates-citys-accessible-waterfront.html",
+    "relatedSources": [
+      {
+        "name": "OregonLive.com",
+        "url": "https://www.oregonlive.com/portland/2026/11/new-northeast-portland-mural-celebrates-citys-accessible-waterfront.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5bf37c94",
+    "status": "published",
+    "translationOf": "new-northeast-portland-mural-celebrates-citys-accessible-waterfront-oregonliveco-zh-5bf37c94",
+    "publishedAt": "2026-11-22T14:00:00.000Z",
+    "fetchedAt": "2026-11-22T22:30:03.974Z",
+    "body": "The article reports on a newly unveiled mural in Northeast Portland that highlights recent waterfront upgrades—ramps, tactile paving and other universal‑design elements—making the area more navigable for wheelchair users and other people with disabilities.\n\nRead more from the original source: [OregonLive.com](https://www.oregonlive.com/portland/2026/11/new-northeast-portland-mural-celebrates-citys-accessible-waterfront.html)"
+  },
+  {
+    "title": "‘Piecing Together a Whole Sea’: Pingtung County Teams Up with the Ocean Affairs Council to Create an Accessible Beach Experience",
+    "slug": "piecing-together-a-whole-sea-pingtung-county-teams-up-with-the-ocean-affairs-cou-d4a5ebd5",
+    "lang": "en",
+    "summary": "Pingtung County collaborates with the Ocean Affairs Council to develop facilities and services that allow people with disabilities to enjoy a barrier‑free seaside experience.",
+    "category": "physical-design",
+    "tags": [
+      "無障礙",
+      "海岸",
+      "屏東",
+      "海委會",
+      "親海體驗"
+    ],
+    "sourceName": "Yahoo新聞",
+    "sourceUrl": "https://tw.news.yahoo.com/%E6%8B%BC%E5%87%BA-%E7%89%87%E5%AE%8C%E6%95%B4%E7%9A%84%E6%B5%B7-%E5%B1%8F%E7%B8%A3%E6%94%9C%E6%89%8B%E6%B5%B7%E5%A7%94%E6%9C%83%E6%89%93%E9%80%A0%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A6%AA%E6%B5%B7%E9%AB%94%E9%A9%97-064824461.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo新聞",
+        "url": "https://tw.news.yahoo.com/%E6%8B%BC%E5%87%BA-%E7%89%87%E5%AE%8C%E6%95%B4%E7%9A%84%E6%B5%B7-%E5%B1%8F%E7%B8%A3%E6%94%9C%E6%89%8B%E6%B5%B7%E5%A7%94%E6%9C%83%E6%89%93%E9%80%A0%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A6%AA%E6%B5%B7%E9%AB%94%E9%A9%97-064824461.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-d4a5ebd5",
+    "status": "published",
+    "translationOf": "piecing-together-a-whole-sea-pingtung-county-teams-up-with-the-ocean-affairs-cou-zh-d4a5ebd5",
+    "publishedAt": "2026-11-20T06:48:24.000Z",
+    "fetchedAt": "2026-11-22T22:32:22.532Z",
+    "body": "Pingtung County collaborates with the Ocean Affairs Council to develop facilities and services that allow people with disabilities to enjoy a barrier‑free seaside experience.\n\nRead more from the original source: [Yahoo新聞](https://tw.news.yahoo.com/%E6%8B%BC%E5%87%BA-%E7%89%87%E5%AE%8C%E6%95%B4%E7%9A%84%E6%B5%B7-%E5%B1%8F%E7%B8%A3%E6%94%9C%E6%89%8B%E6%B5%B7%E5%A7%94%E6%9C%83%E6%89%93%E9%80%A0%E7%84%A1%E9%9A%9C%E7%A4%99%E8%A6%AA%E6%B5%B7%E9%AB%94%E9%A9%97-064824461.html)"
+  },
+  {
+    "title": "Accessible Seaside Experience Upgraded: Pingtung County Government Partners with Ocean Affairs Council to Build a Friendly Marine Experience",
+    "slug": "accessible-seaside-experience-upgraded-pingtung-county-government-partners-with--3dc53126",
+    "lang": "en",
+    "summary": "The Pingtung County government and the Ocean Affairs Council upgrade existing accessible seaside facilities, providing a more inclusive and friendly marine experience for people with disabilities.",
+    "category": "physical-design",
+    "tags": [
+      "無障礙",
+      "親海",
+      "屏東",
+      "海委會",
+      "友善體驗"
+    ],
+    "sourceName": "蕃新聞",
+    "sourceUrl": "https://n.yam.com/Article/20261120777147",
+    "relatedSources": [
+      {
+        "name": "蕃新聞",
+        "url": "https://n.yam.com/Article/20261120777147"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3dc53126",
+    "status": "published",
+    "translationOf": "accessible-seaside-experience-upgraded-pingtung-county-government-partners-with--zh-3dc53126",
+    "publishedAt": "2026-11-20T12:18:40.000Z",
+    "fetchedAt": "2026-11-22T22:32:22.608Z",
+    "body": "The Pingtung County government and the Ocean Affairs Council upgrade existing accessible seaside facilities, providing a more inclusive and friendly marine experience for people with disabilities.\n\nRead more from the original source: [蕃新聞](https://n.yam.com/Article/20261120777147)"
+  },
+  {
+    "title": "University of Montana to launch Neurodevelopmental Disability Training Program",
+    "slug": "university-of-montana-to-launch-neurodevelopmental-disability-training-program-874744e0",
+    "lang": "en",
+    "summary": "University of Montana graduate students and community members began a yearlong comprehensive training program focused on improving healthcare outcomes for people with autism and other neurodevelopmental disabilities.   Thanks to a $2.3 million federal grant secured this fall by a multidisciplinary team at the Rural Institute and the College of Health, UM’s campus is now home … Continue reading \"University of Montana to launch Neurodevelopmental Disability Training Program\"\nThe post University of Montana to launch Neurodevelopmental Disability Training Program appeared first on Disability Insider.",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/11/19/education-and-employment/university-of-montana-to-launch-neurodevelopmental-disability-training-program",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/11/19/education-and-employment/university-of-montana-to-launch-neurodevelopmental-disability-training-program"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-874744e0",
+    "status": "published",
+    "translationOf": "university-of-montana-to-launch-neurodevelopmental-disability-training-program-zh-874744e0",
+    "publishedAt": "2026-11-19T07:52:50.000Z",
+    "fetchedAt": "2026-11-22T22:32:22.660Z",
+    "body": "University of Montana graduate students and community members began a yearlong comprehensive training program focused on improving healthcare outcomes for people with autism and other neurodevelopmental disabilities.   Thanks to a $2.3 million federal grant secured this fall by a multidisciplinary team at the Rural Institute and the College of Health, UM’s campus is now home … Continue reading \"University of Montana to launch Neurodevelopmental Disability Training Program\"\nThe post University of Montana to launch Neurodevelopmental Disability Training Program appeared first on Disability Insider.\n\nRead more from the original source: [Unknown source](https://disabilityinsider.com/2026/11/19/education-and-employment/university-of-montana-to-launch-neurodevelopmental-disability-training-program)"
+  },
+  {
+    "title": "Report calls for human rights at heart of emergency response",
+    "slug": "report-calls-for-human-rights-at-heart-of-emergency-response-44762211",
+    "lang": "en",
+    "summary": "New research on Australia’s disaster response finds major gaps in communication, support and recovery for people with disabilities and urges that human rights be embedded in preparedness, response and recovery phases.",
+    "category": "laws-rights",
+    "tags": [
+      "disaster response",
+      "human rights",
+      "disability inclusion",
+      "Australia",
+      "policy"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/11/18/disaster/report-calls-for-human-rights-at-heart-of-emergency-response",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/11/18/disaster/report-calls-for-human-rights-at-heart-of-emergency-response"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-44762211",
+    "status": "published",
+    "translationOf": "report-calls-for-human-rights-at-heart-of-emergency-response-zh-44762211",
+    "publishedAt": "2026-11-18T06:17:35.000Z",
+    "fetchedAt": "2026-11-22T22:32:32.205Z",
+    "body": "New research on Australia’s disaster response finds major gaps in communication, support and recovery for people with disabilities and urges that human rights be embedded in preparedness, response and recovery phases.\n\nRead more from the original source: [Unknown source](https://disabilityinsider.com/2026/11/18/disaster/report-calls-for-human-rights-at-heart-of-emergency-response)"
+  },
+  {
+    "title": "Courts win national award for advancing neurodiversity inclusion",
+    "slug": "courts-win-national-award-for-advancing-neurodiversity-inclusion-7252ecf3",
+    "lang": "en",
+    "summary": "Australia’s Federal Circuit and Family Courts received the Corporate Collaborator Award for their work to improve accessibility and inclusion for neurodivergent people through a Diversity and Inclusion Working Group.",
+    "category": "case-studies",
+    "tags": [
+      "neurodiversity",
+      "court",
+      "inclusion",
+      "award",
+      "Australia"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://disabilityinsider.com/2026/11/18/accessibility/courts-win-national-award-for-advancing-neurodiversity-inclusion",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://disabilityinsider.com/2026/11/18/accessibility/courts-win-national-award-for-advancing-neurodiversity-inclusion"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://disabilityinsider.com/feed",
+    "ingestProvider": "disabilityinsider.com",
+    "clusterId": "cluster-7252ecf3",
+    "status": "published",
+    "translationOf": "courts-win-national-award-for-advancing-neurodiversity-inclusion-zh-7252ecf3",
+    "publishedAt": "2026-11-18T06:10:31.000Z",
+    "fetchedAt": "2026-11-22T22:32:32.285Z",
+    "body": "Australia’s Federal Circuit and Family Courts received the Corporate Collaborator Award for their work to improve accessibility and inclusion for neurodivergent people through a Diversity and Inclusion Working Group.\n\nRead more from the original source: [Unknown source](https://disabilityinsider.com/2026/11/18/accessibility/courts-win-national-award-for-advancing-neurodiversity-inclusion)"
+  },
+  {
+    "title": "navigera 0.17.0",
+    "slug": "navigera-0170-e8fdae51",
+    "lang": "en",
+    "summary": "Navigera 0.17.0 is a Rust‑based command‑line tool that drives headless Chrome/Electron, exposing the accessibility tree and related session data for developers building AI agents or testing web accessibility.",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility tree",
+      "Rust",
+      "CLI",
+      "headless Chrome",
+      "AI agents"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/navigera/0.17.0",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/navigera/0.17.0"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-e8fdae51",
+    "status": "published",
+    "translationOf": "navigera-0170-zh-e8fdae51",
+    "publishedAt": "2026-11-21T22:20:48.000Z",
+    "fetchedAt": "2026-11-22T22:32:32.336Z",
+    "body": "Navigera 0.17.0 is a Rust‑based command‑line tool that drives headless Chrome/Electron, exposing the accessibility tree and related session data for developers building AI agents or testing web accessibility.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/navigera/0.17.0)"
+  },
+  {
+    "title": "deskpilot 0.9.0",
+    "slug": "deskpilot-090-be8fa617",
+    "lang": "en",
+    "summary": "Deskpilot 0.9.0 is a cross‑platform desktop automation tool that captures screenshots, accessibility trees, and records clicks and keystrokes on Linux (Hyprland), Windows and macOS, enabling developers to test and improve UI accessibility.",
+    "category": "digital-a11y",
+    "tags": [
+      "desktop automation",
+      "accessibility testing",
+      "cross‑platform",
+      "Linux",
+      "Windows",
+      "macOS"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/deskpilot/0.9.0",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/deskpilot/0.9.0"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-be8fa617",
+    "status": "published",
+    "translationOf": "deskpilot-090-zh-be8fa617",
+    "publishedAt": "2026-11-21T19:56:38.000Z",
+    "fetchedAt": "2026-11-22T22:32:41.181Z",
+    "body": "Deskpilot 0.9.0 is a cross‑platform desktop automation tool that captures screenshots, accessibility trees, and records clicks and keystrokes on Linux (Hyprland), Windows and macOS, enabling developers to test and improve UI accessibility.\n\nRead more from the original source: [Pypi.org](https://pypi.org/project/deskpilot/0.9.0)"
+  },
+  {
+    "title": "SCP Glassmorphism Restaurant",
+    "slug": "scp-glassmorphism-restaurant-1f70d4aa",
+    "lang": "en",
+    "summary": "The SCP Glassmorphism Restaurant WordPress theme includes built‑in accessibility enhancements such as skip links, ARIA labels, visible keyboard focus outlines and reduced‑motion options, making restaurant sites more usable for people with disabilities.",
+    "category": "digital-a11y",
+    "tags": [
+      "WordPress",
+      "theme",
+      "ARIA",
+      "keyboard navigation",
+      "skip link",
+      "reduced motion"
+    ],
+    "sourceName": "Wordpress.org",
+    "sourceUrl": "https://wordpress.org/themes/scp-glassmorphism-restaurant",
+    "relatedSources": [
+      {
+        "name": "Wordpress.org",
+        "url": "https://wordpress.org/themes/scp-glassmorphism-restaurant"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-1f70d4aa",
+    "status": "published",
+    "translationOf": "scp-glassmorphism-restaurant-zh-1f70d4aa",
+    "publishedAt": "2026-11-21T18:08:27.000Z",
+    "fetchedAt": "2026-11-22T22:32:41.255Z",
+    "body": "The SCP Glassmorphism Restaurant WordPress theme includes built‑in accessibility enhancements such as skip links, ARIA labels, visible keyboard focus outlines and reduced‑motion options, making restaurant sites more usable for people with disabilities.\n\nRead more from the original source: [Wordpress.org](https://wordpress.org/themes/scp-glassmorphism-restaurant)"
+  },
+  {
+    "title": "Kaohsiung Social Bureau Hosts Disability Experience Event for Inclusion",
+    "slug": "kaohsiung-social-bureau-hosts-disability-experience-event-for-inclusion-fc9155ff",
+    "lang": "en",
+    "summary": "On International Day of Persons with Disabilities, the Kaohsiung Social Bureau organized an event at the Kaohsiung Family Playground featuring obstacle‑experience games such as an inclusive Monopoly, single‑hand dressing, blind‑folded object retrieval, sound localisation, a voting role‑play, performances by visually‑impaired musicians, and wheelchair dance, aiming to foster empathy, respect and cooperation among the public.",
+    "category": "lifestyle-culture",
+    "tags": [
+      "inclusion",
+      "disability-awareness",
+      "public-event",
+      "experience",
+      "Kaohsiung"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7d015396-7fcc-4a90-8093-3dbb29cfa30b",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7d015396-7fcc-4a90-8093-3dbb29cfa30b"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-fc9155ff",
+    "status": "published",
+    "translationOf": "kaohsiung-social-bureau-hosts-disability-experience-event-for-inclusion-zh-fc9155ff",
+    "publishedAt": "2026-11-21T21:30:00.000Z",
+    "fetchedAt": "2026-11-22T22:32:50.408Z",
+    "body": "On International Day of Persons with Disabilities, the Kaohsiung Social Bureau organized an event at the Kaohsiung Family Playground featuring obstacle‑experience games such as an inclusive Monopoly, single‑hand dressing, blind‑folded object retrieval, sound localisation, a voting role‑play, performances by visually‑impaired musicians, and wheelchair dance, aiming to foster empathy, respect and cooperation among the public.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7d015396-7fcc-4a90-8093-3dbb29cfa30b)"
+  },
+  {
+    "title": "Visitor Criticizes Taipei 101 for Poor Accessibility",
+    "slug": "visitor-criticizes-taipei-101-for-poor-accessibility-e504eb46",
+    "lang": "en",
+    "summary": "A social media post by Sun Der‑Rong describes his disappointment with Taipei 101, noting that elevator locations are hard to find, the circulation is confusing, and accessible restrooms are difficult to locate, highlighting shortcomings in the building’s physical accessibility.",
+    "category": "physical-design",
+    "tags": [
+      "elevator",
+      "wayfinding",
+      "accessible-toilet",
+      "physical-accessibility",
+      "Taipei101"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6d302be0-c9bc-4bd6-915d-cd628b38e7f0",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6d302be0-c9bc-4bd6-915d-cd628b38e7f0"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-e504eb46",
+    "status": "published",
+    "translationOf": "visitor-criticizes-taipei-101-for-poor-accessibility-zh-e504eb46",
+    "publishedAt": "2026-11-21T07:28:23.000Z",
+    "fetchedAt": "2026-11-22T22:32:50.483Z",
+    "body": "A social media post by Sun Der‑Rong describes his disappointment with Taipei 101, noting that elevator locations are hard to find, the circulation is confusing, and accessible restrooms are difficult to locate, highlighting shortcomings in the building’s physical accessibility.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6d302be0-c9bc-4bd6-915d-cd628b38e7f0)"
   }
 ]
