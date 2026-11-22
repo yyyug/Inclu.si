@@ -52067,5 +52067,95 @@
     "publishedAt": "2026-11-20T09:33:25.000Z",
     "fetchedAt": "2026-11-22T16:24:04.727Z",
     "body": "The article reports that a counterfeit “Hong Guo” short‑video app popular in Taiwan was found to contain Android malware that exploits the device’s Accessibility Service to intercept bank verification codes and remotely control the phone. The attack led to unauthorized transfers at four banks, costing about NT$560,000. Security experts warn users not to download APKs from unknown sources and to avoid enabling “restricted settings” and “accessibility services” for untrusted apps.\n\nRead more from the original source: [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e6aded42-ca5a-41d5-a415-0dd827a3e84b)"
+  },
+  {
+    "title": "Singapore’s I’m Soul Inc prescribes music, not medication, using Soundbeam technology",
+    "slug": "singapores-im-soul-inc-prescribes-music-not-medication-using-soundbeam-technolog-4b0a974f",
+    "lang": "en",
+    "summary": "Michelle Lee's Singapore social enterprise uses Soundbeam music technology to treat loneliness as a health problem, and now trains facilitators to take the programme across Asia.",
+    "category": "general",
+    "tags": [],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/singapores-im-soul-inc-prescribes-music-not-medication-using-soundbeam-technology",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/singapores-im-soul-inc-prescribes-music-not-medication-using-soundbeam-technology"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-4b0a974f",
+    "status": "published",
+    "translationOf": "singapores-im-soul-inc-prescribes-music-not-medication-using-soundbeam-technolog-zh-4b0a974f",
+    "publishedAt": "2026-11-22T15:00:44.000Z",
+    "fetchedAt": "2026-11-22T16:26:20.653Z",
+    "body": "Michelle Lee's Singapore social enterprise uses Soundbeam music technology to treat loneliness as a health problem, and now trains facilitators to take the programme across Asia.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/singapores-im-soul-inc-prescribes-music-not-medication-using-soundbeam-technology)"
+  },
+  {
+    "title": "Blind Therapist Sees More by Not Seeing",
+    "slug": "blind-therapist-sees-more-by-not-seeing-0b9300ee",
+    "lang": "en",
+    "summary": "In a podcast episode, blind psychotherapist Amy Ruell discusses her career, a pioneering program that pairs blind therapists with clients who have lost vision, and the benefits of disability‑inclusive mental health services.",
+    "category": "case-studies",
+    "tags": [
+      "blindness",
+      "therapy",
+      "mental health",
+      "disability inclusion",
+      "peer support"
+    ],
+    "sourceName": "Eyes On Success",
+    "sourceUrl": "https://podcast.eyesonsuccess.net/?p=2777",
+    "relatedSources": [
+      {
+        "name": "Eyes On Success",
+        "url": "https://podcast.eyesonsuccess.net/?p=2777"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "podcast",
+    "ingestSource": "http://podcast.eyesonsuccess.net/feed",
+    "ingestProvider": "podcast.eyesonsuccess.net",
+    "clusterId": "cluster-0b9300ee",
+    "status": "published",
+    "translationOf": "blind-therapist-sees-more-by-not-seeing-zh-0b9300ee",
+    "publishedAt": "2026-11-18T13:30:08.000Z",
+    "fetchedAt": "2026-11-22T16:26:28.610Z",
+    "body": "In a podcast episode, blind psychotherapist Amy Ruell discusses her career, a pioneering program that pairs blind therapists with clients who have lost vision, and the benefits of disability‑inclusive mental health services.\n\nRead more from the original source: [Eyes On Success](https://podcast.eyesonsuccess.net/?p=2777)"
+  },
+  {
+    "title": "Double Tap tracks a week of outages hitting Microsoft 365, US flights and banks",
+    "slug": "double-tap-tracks-a-week-of-outages-hitting-microsoft-365-us-flights-and-banks-74ab7c78",
+    "lang": "en",
+    "summary": "Steven Scott and Shaun Preece work through a run of failures that took down email, flights, banks and Apple services, and conclude aging systems and routine updates are to blame.",
+    "category": "general",
+    "tags": [],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/double-tap-tracks-a-week-of-outages-hitting-microsoft-365-us-flights-and-banks",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/double-tap-tracks-a-week-of-outages-hitting-microsoft-365-us-flights-and-banks"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-74ab7c78",
+    "status": "published",
+    "translationOf": "double-tap-tracks-a-week-of-outages-hitting-microsoft-365-us-flights-and-banks-zh-74ab7c78",
+    "publishedAt": "2026-11-22T09:01:26.000Z",
+    "fetchedAt": "2026-11-22T16:27:17.710Z",
+    "body": "Steven Scott and Shaun Preece work through a run of failures that took down email, flights, banks and Apple services, and conclude aging systems and routine updates are to blame.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/double-tap-tracks-a-week-of-outages-hitting-microsoft-365-us-flights-and-banks)"
   }
 ]
