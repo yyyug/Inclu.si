@@ -51897,5 +51897,175 @@
     "publishedAt": "2026-11-21T19:06:08.000Z",
     "fetchedAt": "2026-11-21T23:35:37.789Z",
     "body": "利雅得正在採取措施，加強對身心障礙人士及受自閉症譜系障礙影響家庭的權益保護。\n\n原文來源： [news.google.com](https://alhqyq.com/news/s/28829)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "locum-060-zh-1f0c71a3",
+    "lang": "zh-TW",
+    "summary": "locum 0.6.0 是一個 Python 桌面自動化函式庫，支援 Windows、macOS、Linux 以及 Wayland。它提供輸入模擬、視覺辨識與無障礙選取器，可用於構建 RPA 工作流程與 LLM 驅動的代理。",
+    "category": "digital-a11y",
+    "tags": [
+      "Python",
+      "desktop automation",
+      "accessibility selectors",
+      "RPA"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/locum/0.6.0",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/locum/0.6.0"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-1f0c71a3",
+    "status": "draft",
+    "translationOf": "locum-060-1f0c71a3",
+    "publishedAt": "2026-11-21T16:07:05.000Z",
+    "fetchedAt": "2026-11-22T16:22:19.513Z",
+    "body": "locum 0.6.0 是一個 Python 桌面自動化函式庫，支援 Windows、macOS、Linux 以及 Wayland。它提供輸入模擬、視覺辨識與無障礙選取器，可用於構建 RPA 工作流程與 LLM 驅動的代理。\n\n原文來源： [Pypi.org](https://pypi.org/project/locum/0.6.0)"
+  },
+  {
+    "title": "孫德榮坐輪椅逛101！怒批電梯難找、廁所不方便",
+    "slug": "sun-derong-rolls-in-wheelchair-through-taipei-101-criticizes-hard-to-find-elevat-zh-3901ad81",
+    "lang": "zh-TW",
+    "summary": "資深經紀人孫德榮坐輪椅逛台北101，批評電梯難找、無障礙廁所不便，稱設施混亂。董事長賈永婕回應說明空間設計與設施分布，表示常巡視並邀請他再來。",
+    "category": "physical-design",
+    "tags": [
+      "wheelchair",
+      "elevator",
+      "restroom",
+      "Taipei 101",
+      "accessibility",
+      "building design"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_adcf8b80-37fe-42ad-a93e-2b03d88e0c04",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_adcf8b80-37fe-42ad-a93e-2b03d88e0c04"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-3901ad81",
+    "status": "published",
+    "translationOf": "sun-derong-rolls-in-wheelchair-through-taipei-101-criticizes-hard-to-find-elevat-3901ad81",
+    "publishedAt": "2026-11-21T06:31:00.000Z",
+    "fetchedAt": "2026-11-22T16:22:52.002Z",
+    "body": "資深經紀人孫德榮坐輪椅逛台北101，批評電梯難找、無障礙廁所不便，稱設施混亂。董事長賈永婕回應說明空間設計與設施分布，表示常巡視並邀請他再來。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_adcf8b80-37fe-42ad-a93e-2b03d88e0c04)"
+  },
+  {
+    "title": "孫德榮批評台北101無障礙設施失望",
+    "slug": "sun-derong-criticizes-taipei-101-accessibility-calls-it-disappointing-zh-c374b8d6",
+    "lang": "zh-TW",
+    "summary": "資深經紀人孫德榮在社群平台表示，台北101的無障礙設施不如LaLaport，對輪椅使用者不友善，呼籲改善。",
+    "category": "physical-design",
+    "tags": [
+      "Taipei 101",
+      "accessibility",
+      "wheelchair",
+      "building design",
+      "disability rights"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6ac31336-2fed-42f7-a7d0-cf878473e6e2",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6ac31336-2fed-42f7-a7d0-cf878473e6e2"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-c374b8d6",
+    "status": "published",
+    "translationOf": "sun-derong-criticizes-taipei-101-accessibility-calls-it-disappointing-c374b8d6",
+    "publishedAt": "2026-11-21T05:56:00.000Z",
+    "fetchedAt": "2026-11-22T16:23:00.799Z",
+    "body": "資深經紀人孫德榮在社群平台表示，台北101的無障礙設施不如LaLaport，對輪椅使用者不友善，呼籲改善。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6ac31336-2fed-42f7-a7d0-cf878473e6e2)"
+  },
+  {
+    "title": "孫德榮怒嗆台北101董事長，指責電梯與無障礙廁所難找",
+    "slug": "sun-derong-angrily-calls-out-taipei-101-chairperson-over-inaccessible-elevators--zh-532dba05",
+    "lang": "zh-TW",
+    "summary": "坐輪椅的孫德榮在社群平台抱怨台北101電梯與無障礙廁所位置不明，怒批董事長賈永婕，雙方互動引發關注，賈永婕回應將持續改善。",
+    "category": "physical-design",
+    "tags": [
+      "Taipei 101",
+      "wheelchair",
+      "accessibility",
+      "elevator",
+      "restroom"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e92fa9fc-e377-4309-bd43-df427d3fed26",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e92fa9fc-e377-4309-bd43-df427d3fed26"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-532dba05",
+    "status": "published",
+    "translationOf": "sun-derong-angrily-calls-out-taipei-101-chairperson-over-inaccessible-elevators--532dba05",
+    "publishedAt": "2026-11-21T05:51:45.000Z",
+    "fetchedAt": "2026-11-22T16:23:00.888Z",
+    "body": "坐輪椅的孫德榮在社群平台抱怨台北101電梯與無障礙廁所位置不明，怒批董事長賈永婕，雙方互動引發關注，賈永婕回應將持續改善。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e92fa9fc-e377-4309-bd43-df427d3fed26)"
+  },
+  {
+    "title": "免費追劇恐掏空存款！假「紅果」木馬攔截驗證碼 4銀行爆盜轉56萬",
+    "slug": "fake-hong-guo-app-malware-hijacks-verification-codes-causing-bank-fraud-of-nt560-zh-63d9adbe",
+    "lang": "zh-TW",
+    "summary": "報導指出，冒用台灣熱播短劇App「紅果」名稱的假Android安裝檔內含木馬，利用 Android 的「無障礙服務」攔截銀行驗證碼並遠端操控手機，導致四家銀行共計約新台幣56萬元被盜轉。資安專家提醒民眾勿從不明網站下載APK，且不要為不信任的應用開啟「受限制設定」與「無障礙服務」。",
+    "category": "assistive-tech",
+    "tags": [
+      "malware",
+      "Android",
+      "accessibility-service",
+      "bank-fraud",
+      "cybersecurity"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e6aded42-ca5a-41d5-a415-0dd827a3e84b",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e6aded42-ca5a-41d5-a415-0dd827a3e84b"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-63d9adbe",
+    "status": "published",
+    "translationOf": "fake-hong-guo-app-malware-hijacks-verification-codes-causing-bank-fraud-of-nt560-63d9adbe",
+    "publishedAt": "2026-11-20T09:33:25.000Z",
+    "fetchedAt": "2026-11-22T16:24:04.727Z",
+    "body": "報導指出，冒用台灣熱播短劇App「紅果」名稱的假Android安裝檔內含木馬，利用 Android 的「無障礙服務」攔截銀行驗證碼並遠端操控手機，導致四家銀行共計約新台幣56萬元被盜轉。資安專家提醒民眾勿從不明網站下載APK，且不要為不信任的應用開啟「受限制設定」與「無障礙服務」。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e6aded42-ca5a-41d5-a415-0dd827a3e84b)"
   }
 ]
