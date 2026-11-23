@@ -16496,5 +16496,70 @@
         }
       ]
     }
+  },
+  "2026-11-23": {
+    "generatedAt": "2026-11-23T21:11:52.650Z",
+    "en": {
+      "title": "ADA Compliance and Tech Accessibility Trends",
+      "summary": "Cochran-Bleckley Recreation Department agrees to federal ADA mandates while new smart locks and Siri AI features are evaluated for blind users. Community task forces in Wheeling and local schools highlight ongoing physical barrier concerns.",
+      "highlights": [
+        {
+          "title": "Cochran-Bleckley Recreation Department Agrees to Accessibility Improvements Following Federal ADA Investigation",
+          "slug": "cochran-bleckley-recreation-department-agrees-to-accessibility-improvements-foll-b1b392de",
+          "url": "https://www.thegeorgiavirtue.com/local-government-south-georgia/cochran-bleckley-recreation-department-agrees-to-accessibility-improvements-following-federal-ada-investigation"
+        },
+        {
+          "title": "Your Feedback: Smart Locks, Siri AI and the Real Cost of Accessible Tech",
+          "slug": "your-feedback-smart-locks-siri-ai-and-the-real-cost-of-accessible-tech-f500e457",
+          "url": "https://doubletaponair.com/your-feedback-smart-locks-siri-ai-and-the-real-cost-of-accessible-tech-2"
+        },
+        {
+          "title": "Wheeling accessibility task force highlights barriers in downtown streets and sidewalks",
+          "slug": "wheeling-accessibility-task-force-highlights-barriers-in-downtown-streets-and-si-e5d3d859",
+          "url": "https://wtov9.com/news/local/wheeling-accessibility-task-force-highlights-barriers-in-downtown-streets-and-sidewalks"
+        },
+        {
+          "title": "Inclusive Marine Water Activities in Dapeng Bay",
+          "slug": "inclusive-marine-water-activities-in-dapeng-bay-de019555",
+          "url": "https://www.merit-times.com.tw/NewsPage.aspx?unid=947045"
+        },
+        {
+          "title": "Parent raises accessibility concerns at Harte Elementary",
+          "slug": "parent-raises-accessibility-concerns-at-harte-elementary-2a998ae7",
+          "url": "https://southjersey.media/cherry-hill-news/parent-raises-accessibility-concerns-at-harte-elementary"
+        }
+      ]
+    },
+    "zh-TW": {
+      "title": "ADA 合规进展与辅助科技趋势",
+      "summary": "科克蘭-布萊克利休閒部門同意聯邦 ADA 合規要求，同時評估 Siri AI 功能及智慧鎖對盲人用戶的實用性。惠靈市工作小組與當地學校持續關注實體環境障礙問題。",
+      "highlights": [
+        {
+          "title": "科克蘭‑布萊克利休閒部門同意在聯邦 ADA 調查後進行無障礙改進",
+          "slug": "cochran-bleckley-recreation-department-agrees-to-accessibility-improvements-foll-zh-b1b392de",
+          "url": "https://www.thegeorgiavirtue.com/local-government-south-georgia/cochran-bleckley-recreation-department-agrees-to-accessibility-improvements-following-federal-ada-investigation"
+        },
+        {
+          "title": "您的回饋：智慧鎖、Siri AI 與可及科技的真實成本",
+          "slug": "your-feedback-smart-locks-siri-ai-and-the-real-cost-of-accessible-tech-zh-f500e457",
+          "url": "https://doubletaponair.com/your-feedback-smart-locks-siri-ai-and-the-real-cost-of-accessible-tech-2"
+        },
+        {
+          "title": "惠靈無障礙工作小組突顯市中心街道與人行道的障礙",
+          "slug": "wheeling-accessibility-task-force-highlights-barriers-in-downtown-streets-and-si-zh-e5d3d859",
+          "url": "https://wtov9.com/news/local/wheeling-accessibility-task-force-highlights-barriers-in-downtown-streets-and-sidewalks"
+        },
+        {
+          "title": "大鵬灣水上活動 海洋無障礙共好",
+          "slug": "inclusive-marine-water-activities-in-dapeng-bay-zh-de019555",
+          "url": "https://www.merit-times.com.tw/NewsPage.aspx?unid=947045"
+        },
+        {
+          "title": "家長在哈特小學提出無障礙問題",
+          "slug": "parent-raises-accessibility-concerns-at-harte-elementary-zh-2a998ae7",
+          "url": "https://southjersey.media/cherry-hill-news/parent-raises-accessibility-concerns-at-harte-elementary"
+        }
+      ]
+    }
   }
 }
