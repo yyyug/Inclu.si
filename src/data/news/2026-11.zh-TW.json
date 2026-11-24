@@ -55159,5 +55159,140 @@
     "publishedAt": "2026-11-23T21:41:00.000Z",
     "fetchedAt": "2026-11-23T22:15:33.621Z",
     "body": "開羅省堅韌機構正對30名視覺障礙者進行重新醫學鑑定，以確保殘障福利和支持服務能準確發放給符合資格的受領者。\n\n原文來源： [news.google.com](https://www.almasryalyoum.com/news/details/4418553)"
+  },
+  {
+    "title": "多媒體無障礙概述",
+    "slug": "an-overview-of-multimedia-accessibility-zh-457b9070",
+    "lang": "zh-TW",
+    "summary": "本文說明如何透過為影片加入字幕、音訊說明、文字稿與可操作的播放控制，提升多媒體的無障礙性。",
+    "category": "digital-a11y",
+    "tags": [
+      "captions",
+      "audio description",
+      "transcripts",
+      "playback controls",
+      "multimedia"
+    ],
+    "sourceName": "theaccessibilityguy.com",
+    "sourceUrl": "https://theaccessibilityguy.com/an-overview-of-multimedia-accessibility",
+    "relatedSources": [
+      {
+        "name": "theaccessibilityguy.com",
+        "url": "https://theaccessibilityguy.com/an-overview-of-multimedia-accessibility"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://theaccessibilityguy.com/feed",
+    "ingestProvider": "theaccessibilityguy.com",
+    "clusterId": "cluster-457b9070",
+    "status": "published",
+    "translationOf": "an-overview-of-multimedia-accessibility-457b9070",
+    "publishedAt": "2026-11-23T15:00:34.000Z",
+    "fetchedAt": "2026-11-24T19:34:18.233Z",
+    "body": "本文說明如何透過為影片加入字幕、音訊說明、文字稿與可操作的播放控制，提升多媒體的無障礙性。\n\n原文來源： [theaccessibilityguy.com](https://theaccessibilityguy.com/an-overview-of-multimedia-accessibility)"
+  },
+  {
+    "title": "Senso 為全球南部帶來震動手環與色碼聲音感測器",
+    "slug": "senso-brings-a-vibrating-wristband-and-colour-coded-sound-sensors-to-the-global--zh-114d0b8e",
+    "lang": "zh-TW",
+    "summary": "Senso 推出的震動手環與色碼聲音感測器，讓全球南部的聾人能在無網路環境下透過震動與顏色提示接收聲音警示，說明功能與價格。",
+    "category": "assistive-tech",
+    "tags": [
+      "deaf",
+      "wearable",
+      "vibration",
+      "sound sensors",
+      "global south"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/senso-brings-a-vibrating-wristband-and-colour-coded-sound-sensors-to-the-global-south",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/senso-brings-a-vibrating-wristband-and-colour-coded-sound-sensors-to-the-global-south"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-114d0b8e",
+    "status": "published",
+    "translationOf": "senso-brings-a-vibrating-wristband-and-colour-coded-sound-sensors-to-the-global--114d0b8e",
+    "publishedAt": "2026-11-22T13:01:03.000Z",
+    "fetchedAt": "2026-11-24T19:35:29.348Z",
+    "body": "Senso 推出的震動手環與色碼聲音感測器，讓全球南部的聾人能在無網路環境下透過震動與顏色提示接收聲音警示，說明功能與價格。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/senso-brings-a-vibrating-wristband-and-colour-coded-sound-sensors-to-the-global-south)"
+  },
+  {
+    "title": "Ottitor 使用 AI 進行網站無障礙稽核，並支援螢幕閱讀器",
+    "slug": "ottitor-uses-ai-to-audit-websites-for-accessibility-and-works-with-a-screen-read-zh-ab7d4d5a",
+    "lang": "zh-TW",
+    "summary": "Ottitor 是一款利用 AI 檢測網站是否符合無障礙標準的瀏覽器擴充功能，且可與螢幕閱讀器一起操作，協助開發者提升數位包容性。",
+    "category": "digital-a11y",
+    "tags": [
+      "AI",
+      "accessibility audit",
+      "browser extension",
+      "screen reader"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/ottitor-uses-ai-to-audit-websites-for-accessibility-and-works-with-a-screen-reader",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/ottitor-uses-ai-to-audit-websites-for-accessibility-and-works-with-a-screen-reader"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-ab7d4d5a",
+    "status": "published",
+    "translationOf": "ottitor-uses-ai-to-audit-websites-for-accessibility-and-works-with-a-screen-read-ab7d4d5a",
+    "publishedAt": "2026-11-22T11:00:26.000Z",
+    "fetchedAt": "2026-11-24T19:35:29.449Z",
+    "body": "Ottitor 是一款利用 AI 檢測網站是否符合無障礙標準的瀏覽器擴充功能，且可與螢幕閱讀器一起操作，協助開發者提升數位包容性。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/ottitor-uses-ai-to-audit-websites-for-accessibility-and-works-with-a-screen-reader)"
+  },
+  {
+    "title": "LLVision 的 Leion Hearing 眼鏡在鏡片內顯示即時字幕，且不使用相機",
+    "slug": "llvisions-leion-hearing-glasses-show-live-captions-in-the-lens-with-no-camera-zh-054b598e",
+    "lang": "zh-TW",
+    "summary": "LLVision 的 Leion Hearing 智慧眼鏡在鏡片內直接顯示即時字幕與翻譯，且不使用相機，為聽障使用者提供隱密的輔助解決方案。",
+    "category": "assistive-tech",
+    "tags": [
+      "smart glasses",
+      "live captions",
+      "translation",
+      "no camera",
+      "hearing impaired"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/llvisions-leion-hearing-glasses-show-live-captions-in-the-lens-with-no-camera",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/llvisions-leion-hearing-glasses-show-live-captions-in-the-lens-with-no-camera"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-054b598e",
+    "status": "published",
+    "translationOf": "llvisions-leion-hearing-glasses-show-live-captions-in-the-lens-with-no-camera-054b598e",
+    "publishedAt": "2026-11-22T09:01:54.000Z",
+    "fetchedAt": "2026-11-24T19:35:29.521Z",
+    "body": "LLVision 的 Leion Hearing 智慧眼鏡在鏡片內直接顯示即時字幕與翻譯，且不使用相機，為聽障使用者提供隱密的輔助解決方案。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/llvisions-leion-hearing-glasses-show-live-captions-in-the-lens-with-no-camera)"
   }
 ]
