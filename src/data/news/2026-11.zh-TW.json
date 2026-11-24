@@ -55294,5 +55294,380 @@
     "publishedAt": "2026-11-22T09:01:54.000Z",
     "fetchedAt": "2026-11-24T19:35:29.521Z",
     "body": "LLVision 的 Leion Hearing 智慧眼鏡在鏡片內直接顯示即時字幕與翻譯，且不使用相機，為聽障使用者提供隱密的輔助解決方案。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/llvisions-leion-hearing-glasses-show-live-captions-in-the-lens-with-no-camera)"
+  },
+  {
+    "title": "VGM Live at Home 幫助打造無障礙住宅的堅實基礎 - HME News",
+    "slug": "vgm-live-at-home-helps-build-strong-foundation-for-home-accessibility-hme-news-zh-e62ce365",
+    "lang": "zh-TW",
+    "summary": "VGM Live at Home 計畫透過提供通用設計原則、改造選項與資源指導，協助家庭打造更具無障礙性的住宅。",
+    "category": "physical-design",
+    "tags": [
+      "home",
+      "accessibility",
+      "universal-design",
+      "housing"
+    ],
+    "sourceName": "HME News",
+    "sourceUrl": "https://www.hmenews.com/article/vgm-live-at-home-helps-build-strong-foundation-for-home-accessibility",
+    "relatedSources": [
+      {
+        "name": "HME News",
+        "url": "https://www.hmenews.com/article/vgm-live-at-home-helps-build-strong-foundation-for-home-accessibility"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-e62ce365",
+    "status": "published",
+    "translationOf": "vgm-live-at-home-helps-build-strong-foundation-for-home-accessibility-hme-news-e62ce365",
+    "publishedAt": "2026-11-24T16:57:08.000Z",
+    "fetchedAt": "2026-11-24T19:31:40.637Z",
+    "body": "VGM Live at Home 計畫透過提供通用設計原則、改造選項與資源指導，協助家庭打造更具無障礙性的住宅。\n\n原文來源： [HME News](https://www.hmenews.com/article/vgm-live-at-home-helps-build-strong-foundation-for-home-accessibility)"
+  },
+  {
+    "title": "伯克利法學院學生因遠端監考軟體無障礙問題要求終止合約 - Daily Cal",
+    "slug": "berkeley-law-students-demand-contract-termination-with-proctoring-software-over--zh-3c1f894b",
+    "lang": "zh-TW",
+    "summary": "伯克利法學院的學生要求學校終止與遠端監考軟體的合約，因該平台未能為身心障礙學生提供必要的便利措施。",
+    "category": "digital-a11y",
+    "tags": [
+      "proctoring",
+      "software",
+      "accessibility",
+      "students",
+      "disability-rights"
+    ],
+    "sourceName": "Daily Cal",
+    "sourceUrl": "https://www.dailycal.org/news/campus/academics/berkeley-law-students-demand-contract-termination-with-proctoring-software-over-accessibility/article_c50187c5-c82b-4e12-b9df-2b0d55a9e040.html",
+    "relatedSources": [
+      {
+        "name": "Daily Cal",
+        "url": "https://www.dailycal.org/news/campus/academics/berkeley-law-students-demand-contract-termination-with-proctoring-software-over-accessibility/article_c50187c5-c82b-4e12-b9df-2b0d55a9e040.html"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-3c1f894b",
+    "status": "published",
+    "translationOf": "berkeley-law-students-demand-contract-termination-with-proctoring-software-over--3c1f894b",
+    "publishedAt": "2026-11-24T14:00:00.000Z",
+    "fetchedAt": "2026-11-24T19:31:40.745Z",
+    "body": "伯克利法學院的學生要求學校終止與遠端監考軟體的合約，因該平台未能為身心障礙學生提供必要的便利措施。\n\n原文來源： [Daily Cal](https://www.dailycal.org/news/campus/academics/berkeley-law-students-demand-contract-termination-with-proctoring-software-over-accessibility/article_c50187c5-c82b-4e12-b9df-2b0d55a9e040.html)"
+  },
+  {
+    "title": "賓州州立大學圖書館領導推動全校數位無障礙策略",
+    "slug": "university-libraries-leads-push-for-strategic-digital-accessibility-for-all-the--zh-ff6d9088",
+    "lang": "zh-TW",
+    "summary": "賓州州立大學圖書館率先推動在所有服務中嵌入數位無障礙，制定指引、培訓計畫與工具，確保所有數位資源皆可供身障人士使用。",
+    "category": "digital-a11y",
+    "tags": [
+      "digital-accessibility",
+      "libraries",
+      "higher-education",
+      "guidelines",
+      "training"
+    ],
+    "sourceName": "The Pennsylvania State University",
+    "sourceUrl": "https://www.psu.edu/news/university-libraries/story/university-libraries-leads-push-strategic-digital-accessibility-all",
+    "relatedSources": [
+      {
+        "name": "The Pennsylvania State University",
+        "url": "https://www.psu.edu/news/university-libraries/story/university-libraries-leads-push-strategic-digital-accessibility-all"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-ff6d9088",
+    "status": "published",
+    "translationOf": "university-libraries-leads-push-for-strategic-digital-accessibility-for-all-the--ff6d9088",
+    "publishedAt": "2026-11-23T17:08:34.000Z",
+    "fetchedAt": "2026-11-24T19:31:40.816Z",
+    "body": "賓州州立大學圖書館率先推動在所有服務中嵌入數位無障礙，制定指引、培訓計畫與工具，確保所有數位資源皆可供身障人士使用。\n\n原文來源： [The Pennsylvania State University](https://www.psu.edu/news/university-libraries/story/university-libraries-leads-push-strategic-digital-accessibility-all)"
+  },
+  {
+    "title": "星期二簡報：關於PIP的爭論——兩項審查意見不合時會發生什麼？",
+    "slug": "tuesday-briefing-the-fight-over-pip-what-happens-when-two-reviews-want-different-zh-cadd2385",
+    "lang": "zh-TW",
+    "summary": "本文報導了英國個人獨立付款（PIP）制度的兩項相互衝突的審查：預計將呼籲大幅改革殘障福利評估的史蒂芬·蒂姆斯（Stephen Timms）審查，以及艾倫·米爾本（Alan Milburn）提出的取消25歲以下成年人PIP的建議。這些不同的建議在殘障倡導團體中引發爭議，並凸顯了關於殘障人士支援成本與提供方式的持續政治辯論。",
+    "category": "laws-rights",
+    "tags": [
+      "PIP",
+      "disability benefits",
+      "UK policy",
+      "Stephen Timms",
+      "Alan Milburn"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/world/2026/nov/24/tuesday-briefing-the-fight-over-pip-what-happens-when-two-reviews-want-different-things",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/world/2026/nov/24/tuesday-briefing-the-fight-over-pip-what-happens-when-two-reviews-want-different-things"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-cadd2385",
+    "status": "published",
+    "translationOf": "tuesday-briefing-the-fight-over-pip-what-happens-when-two-reviews-want-different-cadd2385",
+    "publishedAt": "2026-11-24T06:46:07.000Z",
+    "fetchedAt": "2026-11-24T19:36:23.413Z",
+    "body": "本文報導了英國個人獨立付款（PIP）制度的兩項相互衝突的審查：預計將呼籲大幅改革殘障福利評估的史蒂芬·蒂姆斯（Stephen Timms）審查，以及艾倫·米爾本（Alan Milburn）提出的取消25歲以下成年人PIP的建議。這些不同的建議在殘障倡導團體中引發爭議，並凸顯了關於殘障人士支援成本與提供方式的持續政治辯論。\n\n原文來源： [Unknown source](https://www.theguardian.com/world/2026/nov/24/tuesday-briefing-the-fight-over-pip-what-happens-when-two-reviews-want-different-things)"
+  },
+  {
+    "title": "我們還會期待多少次針對殘障人士的「里程碑」福利改革？",
+    "slug": "how-many-more-landmark-reforms-of-benefits-for-disabled-people-are-we-expected-t-zh-aa0ea33e",
+    "lang": "zh-TW",
+    "summary": "本文批評即將進行的 Timms 評估對個人獨立支付（PIP）的改革，指出此舉被描述為減少納稅人負擔的成本控制，卻可能加劇殘障申請者的困境，並質疑此類重大福利改革的頻率。",
+    "category": "laws-rights",
+    "tags": [
+      "benefits",
+      "PIP",
+      "Timms review",
+      "disability rights",
+      "welfare reform"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/commentisfree/2026/nov/23/landmark-reforms-benefits-disabled-people-timms-review-pip",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/commentisfree/2026/nov/23/landmark-reforms-benefits-disabled-people-timms-review-pip"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-aa0ea33e",
+    "status": "published",
+    "translationOf": "how-many-more-landmark-reforms-of-benefits-for-disabled-people-are-we-expected-t-aa0ea33e",
+    "publishedAt": "2026-11-23T15:07:03.000Z",
+    "fetchedAt": "2026-11-24T19:36:32.041Z",
+    "body": "本文批評即將進行的 Timms 評估對個人獨立支付（PIP）的改革，指出此舉被描述為減少納稅人負擔的成本控制，卻可能加劇殘障申請者的困境，並質疑此類重大福利改革的頻率。\n\n原文來源： [Unknown source](https://www.theguardian.com/commentisfree/2026/nov/23/landmark-reforms-benefits-disabled-people-timms-review-pip)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "axe-playwright-python-019-zh-981d5292",
+    "lang": "zh-TW",
+    "summary": "一個將 axe-core 可及性引擎與 Playwright 整合的 Python 函式庫，用於自動化網站可及性測試。",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility testing",
+      "axe-core",
+      "Playwright",
+      "Python",
+      "web"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/axe-playwright-python/0.1.9",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/axe-playwright-python/0.1.9"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-981d5292",
+    "status": "draft",
+    "translationOf": "axe-playwright-python-019-981d5292",
+    "publishedAt": "2026-11-23T15:44:06.000Z",
+    "fetchedAt": "2026-11-24T19:37:29.412Z",
+    "body": "一個將 axe-core 可及性引擎與 Playwright 整合的 Python 函式庫，用於自動化網站可及性測試。\n\n原文來源： [Pypi.org](https://pypi.org/project/axe-playwright-python/0.1.9)"
+  },
+  {
+    "title": "基隆市政府舉辦身障職業重建成果發表會暨徵才活動（11月25日）",
+    "slug": "keelung-city-government-holds-disability-employment-reconstruction-service-prese-zh-1467d1be",
+    "lang": "zh-TW",
+    "summary": "市府法制及勞動處於11月25日於彭園基隆館3樓星海B廳舉辦「基隆有愛共融無礙│身心障礙者職業重建服務成果發表會」，結合績優企業及員工表揚、身障藝文表演、生命歷程分享、服務成果展示及現場聯合徵才，邀請市民、企業雇主及有求職需求的身心障礙者共襄盛舉，推動職場共融。",
+    "category": "case-studies",
+    "tags": [
+      "disability employment",
+      "job fair",
+      "inclusive workplace",
+      "Keelung",
+      "employment reconstruction"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f3f0deb5-3064-4231-a5e1-965a20bdf1d6",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f3f0deb5-3064-4231-a5e1-965a20bdf1d6"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-1467d1be",
+    "status": "published",
+    "translationOf": "keelung-city-government-holds-disability-employment-reconstruction-service-prese-1467d1be",
+    "publishedAt": "2026-11-23T11:24:49.000Z",
+    "fetchedAt": "2026-11-24T19:37:38.296Z",
+    "body": "市府法制及勞動處於11月25日於彭園基隆館3樓星海B廳舉辦「基隆有愛共融無礙│身心障礙者職業重建服務成果發表會」，結合績優企業及員工表揚、身障藝文表演、生命歷程分享、服務成果展示及現場聯合徵才，邀請市民、企業雇主及有求職需求的身心障礙者共襄盛舉，推動職場共融。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f3f0deb5-3064-4231-a5e1-965a20bdf1d6)"
+  },
+  {
+    "title": "親海無礙、友愛同行 打造友善親海體驗",
+    "slug": "barrier-free-sea-experience-friendly-together-creating-an-inclusive-ocean-activi-zh-45c4c5f9",
+    "lang": "zh-TW",
+    "summary": "為讓高齡長者、身心障礙者及其家屬能安全參與海上活動，屏東縣政府與海洋委員會在大鵬灣舉辦「海洋無障礙友愛共好親海計畫」，規劃獨木舟、SUP龍舟、漂浮胎及水療等四項體驗，結合高雄科大與水中運動協會專業團隊，提供無障礙海洋體驗。",
+    "category": "physical-design",
+    "tags": [
+      "sea",
+      "inclusive",
+      "accessibility",
+      "Pingtung",
+      "water sports",
+      "senior",
+      "disability"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0fa66598-17da-4f2c-a72f-ea0084cf2080",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0fa66598-17da-4f2c-a72f-ea0084cf2080"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-45c4c5f9",
+    "status": "published",
+    "translationOf": "barrier-free-sea-experience-friendly-together-creating-an-inclusive-ocean-activi-45c4c5f9",
+    "publishedAt": "2026-11-22T08:34:15.000Z",
+    "fetchedAt": "2026-11-24T19:38:17.318Z",
+    "body": "為讓高齡長者、身心障礙者及其家屬能安全參與海上活動，屏東縣政府與海洋委員會在大鵬灣舉辦「海洋無障礙友愛共好親海計畫」，規劃獨木舟、SUP龍舟、漂浮胎及水療等四項體驗，結合高雄科大與水中運動協會專業團隊，提供無障礙海洋體驗。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0fa66598-17da-4f2c-a72f-ea0084cf2080)"
+  },
+  {
+    "title": "批台北101只會放煙火！孫德榮遭酸「假身障」　怒公開身障證明反擊",
+    "slug": "criticizing-taipei-101s-accessibility-sun-derong-shows-disability-certificate-zh-091a9650",
+    "lang": "zh-TW",
+    "summary": "孫德榮以輪椅前往台北101，批評該商場無障礙設施不足，指責董事長未巡視，並因被質疑「假身障」而公開身障證明，呼籲改善無障礙環境。",
+    "category": "laws-rights",
+    "tags": [
+      "Taipei 101",
+      "accessibility",
+      "wheelchair",
+      "disability rights",
+      "advocacy"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f7e4a7d5-b917-42fb-ac69-838e81abeaf6",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f7e4a7d5-b917-42fb-ac69-838e81abeaf6"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-091a9650",
+    "status": "published",
+    "translationOf": "criticizing-taipei-101s-accessibility-sun-derong-shows-disability-certificate-091a9650",
+    "publishedAt": "2026-11-22T08:05:40.000Z",
+    "fetchedAt": "2026-11-24T19:38:17.430Z",
+    "body": "孫德榮以輪椅前往台北101，批評該商場無障礙設施不足，指責董事長未巡視，並因被質疑「假身障」而公開身障證明，呼籲改善無障礙環境。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f7e4a7d5-b917-42fb-ac69-838e81abeaf6)"
+  },
+  {
+    "title": "為聽障兒考取竹縣首張手語證照 康銖允母女分任通譯、聽打獲獎",
+    "slug": "mother-and-daughter-earn-first-sign-language-certification-in-hsinchu-county-bui-zh-b23cb60f",
+    "lang": "zh-TW",
+    "summary": "為響應國際身心障礙者日，新竹縣舉辦績優暨資深身心障礙服務人員表揚活動，康銖允與范雯雯母女檔分別以手語舞動與即時聽打，為聽障族群搭建無障礙溝通橋梁，雙雙獲得資深服務獎。",
+    "category": "assistive-tech",
+    "tags": [
+      "sign language",
+      "real-time captioning",
+      "deaf accessibility",
+      "Taiwan",
+      "service award"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ca87fa80-0baa-412c-bd6d-c22c87a5fce9",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ca87fa80-0baa-412c-bd6d-c22c87a5fce9"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-b23cb60f",
+    "status": "published",
+    "translationOf": "mother-and-daughter-earn-first-sign-language-certification-in-hsinchu-county-bui-b23cb60f",
+    "publishedAt": "2026-11-22T06:51:24.000Z",
+    "fetchedAt": "2026-11-24T19:38:27.580Z",
+    "body": "為響應國際身心障礙者日，新竹縣舉辦績優暨資深身心障礙服務人員表揚活動，康銖允與范雯雯母女檔分別以手語舞動與即時聽打，為聽障族群搭建無障礙溝通橋梁，雙雙獲得資深服務獎。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ca87fa80-0baa-412c-bd6d-c22c87a5fce9)"
+  },
+  {
+    "title": "孫德榮轟101遭疑「假身障」氣炸！公開證明反擊酸民　肯定賈永婕正視問題",
+    "slug": "agent-sun-derong-criticizes-taipei-101s-inaccessible-elevators-and-restrooms-zh-65a86670",
+    "lang": "zh-TW",
+    "summary": "資深經紀人孫德榮坐輪椅前往台北101，抱怨電梯難找、無障礙廁所不便，指內部混亂。面對網友質疑其身障身份，他公開身心障礙證明回擊，同時賈永婕承諾改善。",
+    "category": "physical-design",
+    "tags": [
+      "wheelchair",
+      "inaccessible design",
+      "Taipei 101",
+      "accessibility complaint",
+      "disability rights"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a368a8b6-b2f0-4e64-96cf-7ddbed48cd3b",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a368a8b6-b2f0-4e64-96cf-7ddbed48cd3b"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-65a86670",
+    "status": "published",
+    "translationOf": "agent-sun-derong-criticizes-taipei-101s-inaccessible-elevators-and-restrooms-65a86670",
+    "publishedAt": "2026-11-22T05:05:00.000Z",
+    "fetchedAt": "2026-11-24T19:38:27.682Z",
+    "body": "資深經紀人孫德榮坐輪椅前往台北101，抱怨電梯難找、無障礙廁所不便，指內部混亂。面對網友質疑其身障身份，他公開身心障礙證明回擊，同時賈永婕承諾改善。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a368a8b6-b2f0-4e64-96cf-7ddbed48cd3b)"
   }
 ]
