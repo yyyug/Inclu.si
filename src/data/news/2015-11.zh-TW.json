@@ -31,5 +31,38 @@
     "publishedAt": "2015-11-27T08:00:00.000Z",
     "fetchedAt": "2026-10-23T15:33:21.629Z",
     "body": "UAE社會事務部正式啟用一個新中心，專門為殘疾人士提供輔助技術服務與支持。\n\n原文來源： [news.google.com](https://www.emaratalyoum.com/local-section/health/2015-11-27-1.844667)"
+  },
+  {
+    "title": "瑪麗亞姆·阿魯梅伊（Maryam Al-Rumai）啟用“邁因”殘障人士輔助科技中心",
+    "slug": "maryam-al-rumai-opens-main-assistive-technology-center-for-persons-with-disabili-zh-16380501",
+    "lang": "zh-TW",
+    "summary": "瑪麗亞姆·阿魯梅伊正式啟用專門為身障人士提供輔助科技與支援服務的「邁因」中心。",
+    "category": "assistive-tech",
+    "tags": [
+      "assistive-technology",
+      "uae",
+      "disability-services"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.wam.ae/ar/article/hszirse7-%D9%85%D8%B1%D9%8A%D9%85-%D8%A7%D9%84%D8%B1%D9%88%D9%85%D9%8A-%D8%AA%D9%81%D8%AA%D8%AA%D8%AD-%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9-%D9%84%D8%B0%D9%88%D9%8A",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.wam.ae/ar/article/hszirse7-%D9%85%D8%B1%D9%8A%D9%85-%D8%A7%D9%84%D8%B1%D9%88%D9%85%D9%8A-%D8%AA%D9%81%D8%AA%D8%AA%D8%AD-%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9-%D9%84%D8%B0%D9%88%D9%8A"
+      }
+    ],
+    "sourceCountry": "EG",
+    "queryRegion": "EG",
+    "region": "EG",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-16380501",
+    "status": "published",
+    "translationOf": "maryam-al-rumai-opens-main-assistive-technology-center-for-persons-with-disabili-16380501",
+    "publishedAt": "2015-11-26T08:00:00.000Z",
+    "fetchedAt": "2026-11-25T20:11:18.749Z",
+    "body": "瑪麗亞姆·阿魯梅伊正式啟用專門為身障人士提供輔助科技與支援服務的「邁因」中心。\n\n原文來源： [news.google.com](https://www.wam.ae/ar/article/hszirse7-%D9%85%D8%B1%D9%8A%D9%85-%D8%A7%D9%84%D8%B1%D9%88%D9%85%D9%8A-%D8%AA%D9%81%D8%AA%D8%AA%D8%AD-%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9-%D9%84%D8%B0%D9%88%D9%8A)"
   }
 ]
