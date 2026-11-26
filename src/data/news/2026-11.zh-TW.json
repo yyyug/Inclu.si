@@ -59106,5 +59106,1221 @@
     "publishedAt": "2026-11-13T02:40:43.000Z",
     "fetchedAt": "2026-11-26T18:35:24.442Z",
     "body": "Core 公司推出 Photoshop 插件「CUD & Accessibility Suite」，協助設計師檢測與調整色彩通用設計及無障礙需求，提升設計過程中的可及性符合性。\n\n原文來源： [Prtimes.jp](https://prtimes.jp/main/html/rd/p/000000049.000070745.html)"
+  },
+  {
+    "title": "高級實踐護士：簡化醫療照護的解決方案？",
+    "slug": "advanced-practice-nurses-a-solution-to-facilitate-care-zh-facc1525",
+    "lang": "zh-TW",
+    "summary": "12月1日起，法國六個省份的部分高級實踐護士（IPAs）將可直接診治患者。對殘障人士而言，其實際好處將取決於資源的部署與照護協調。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "healthcare",
+      "disability",
+      "IPA",
+      "France"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-infirmiers-ipa-une-solution-pour-faciliter-les-soins-40071.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-infirmiers-ipa-une-solution-pour-faciliter-les-soins-40071.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-facc1525",
+    "status": "published",
+    "translationOf": "advanced-practice-nurses-a-solution-to-facilitate-care-facc1525",
+    "publishedAt": "2026-11-26T14:00:00.000Z",
+    "fetchedAt": "2026-11-26T19:48:37.376Z",
+    "body": "12月1日起，法國六個省份的部分高級實踐護士（IPAs）將可直接診治患者。對殘障人士而言，其實際好處將取決於資源的部署與照護協調。\n\n原文來源： [handicap.fr](https://informations.handicap.fr/a-infirmiers-ipa-une-solution-pour-faciliter-les-soins-40071.php)"
+  },
+  {
+    "title": "稽核簡報 #8：使用 aria-label 屬性指定可及性按鈕名稱",
+    "slug": "audit-brief-8-specifying-an-accessible-button-name-with-the-aria-label-attribute-zh-865a3f1f",
+    "lang": "zh-TW",
+    "summary": "本文探討按鈕的顯示文字與其 aria-label 屬性值之間的一致性，這對於螢幕讀者使用者及數位無障礙至關重要。",
+    "category": "digital-a11y",
+    "tags": [
+      "ARIA",
+      "button",
+      "web-a11y",
+      "screen-reader"
+    ],
+    "sourceName": "access42.net",
+    "sourceUrl": "https://access42.net/breves-audit-8-nom-accessible-bouton-aria-label",
+    "relatedSources": [
+      {
+        "name": "access42.net",
+        "url": "https://access42.net/breves-audit-8-nom-accessible-bouton-aria-label"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://access42.net/feed",
+    "ingestProvider": "access42.net",
+    "originalLang": "fr",
+    "clusterId": "cluster-865a3f1f",
+    "status": "published",
+    "translationOf": "audit-brief-8-specifying-an-accessible-button-name-with-the-aria-label-attribute-865a3f1f",
+    "publishedAt": "2026-11-26T07:42:31.000Z",
+    "fetchedAt": "2026-11-26T19:48:37.473Z",
+    "body": "本文探討按鈕的顯示文字與其 aria-label 屬性值之間的一致性，這對於螢幕讀者使用者及數位無障礙至關重要。\n\n原文來源： [access42.net](https://access42.net/breves-audit-8-nom-accessible-bouton-aria-label)"
+  },
+  {
+    "title": "Ésat 機構中的 AAH 津貼：向 CAF 進行季度申報的問題",
+    "slug": "aah-in-esat-the-glitches-of-trimesterly-declarations-to-caf-zh-6fe67d32",
+    "lang": "zh-TW",
+    "summary": "在 Ésat 機構工作的 AAH 受領者的申報頻率已從年度改為季度。新的計算方式伴隨著難以理解的津貼削減。",
+    "category": "laws-rights",
+    "tags": [
+      "AAH",
+      "ESAT",
+      "benefits",
+      "France",
+      "disability-rights"
+    ],
+    "sourceName": "faire-face.fr",
+    "sourceUrl": "https://www.faire-face.fr/2026/11/26/aah-esat-couacs-trimestrialisation-declarations-caf",
+    "relatedSources": [
+      {
+        "name": "faire-face.fr",
+        "url": "https://www.faire-face.fr/2026/11/26/aah-esat-couacs-trimestrialisation-declarations-caf"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://faire-face.fr/feed",
+    "ingestProvider": "faire-face.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-6fe67d32",
+    "status": "published",
+    "translationOf": "aah-in-esat-the-glitches-of-trimesterly-declarations-to-caf-6fe67d32",
+    "publishedAt": "2026-11-26T10:15:53.000Z",
+    "fetchedAt": "2026-11-26T19:48:37.564Z",
+    "body": "在 Ésat 機構工作的 AAH 受領者的申報頻率已從年度改為季度。新的計算方式伴隨著難以理解的津貼削減。\n\n原文來源： [faire-face.fr](https://www.faire-face.fr/2026/11/26/aah-esat-couacs-trimestrialisation-declarations-caf)"
+  },
+  {
+    "title": "巴塞羅那舉辦青年人工耳蝸使用者無障礙與包容性休閒活動會議",
+    "slug": "barcelona-hosts-young-people-with-cochlear-implants-for-inclusive-accessibility--zh-6019ab56",
+    "lang": "zh-TW",
+    "summary": "西班牙人工耳蝸使用者協會（AICE）將於11月27日至28日在巴塞羅那舉辦為期兩天的活動，對象為18至35歲的人工耳蝸使用者。活動包括關於音樂會無障礙的研討會、醫療照護工作坊，以及前往高迪鬼魅車站的文化參訪，該路線配備個別磁氣迴路以方便參與者溝通。活動最後將舉行AICE 2026頒獎典禮，表彰致力於聽力障礙無障礙與提升生活質量的倡議。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "cochlear-implant",
+      "inclusivity",
+      "magnetic-loop",
+      "accessibility",
+      "event"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/barcelona-reune-jovenes-con-implante-coclear-en-un-encuentro-sobre-accesibilidad-y-ocio",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/barcelona-reune-jovenes-con-implante-coclear-en-un-encuentro-sobre-accesibilidad-y-ocio"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-6019ab56",
+    "status": "published",
+    "translationOf": "barcelona-hosts-young-people-with-cochlear-implants-for-inclusive-accessibility--6019ab56",
+    "publishedAt": "2026-11-26T11:50:46.000Z",
+    "fetchedAt": "2026-11-26T19:48:40.669Z",
+    "body": "西班牙人工耳蝸使用者協會（AICE）將於11月27日至28日在巴塞羅那舉辦為期兩天的活動，對象為18至35歲的人工耳蝸使用者。活動包括關於音樂會無障礙的研討會、醫療照護工作坊，以及前往高迪鬼魅車站的文化參訪，該路線配備個別磁氣迴路以方便參與者溝通。活動最後將舉行AICE 2026頒獎典禮，表彰致力於聽力障礙無障礙與提升生活質量的倡議。\n\n原文來源： [discapnet.es](https://www.discapnet.es/noticia/barcelona-reune-jovenes-con-implante-coclear-en-un-encuentro-sobre-accesibilidad-y-ocio)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "story-564b6c69-zh-564b6c69",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "mo3akpress.com",
+    "sourceUrl": "https://www.mo3akpress.com/2026/11/%d9%85%d8%b5%d8%b1-%d8%a7%d9%84%d8%ae%d9%8a%d8%b1-%d8%aa%d9%88%d8%ac%d9%91%d9%87-%d9%81%d8%b1%d9%82-%d8%a7%d9%84%d8%a5%d8%ba%d8%a7%d8%ab%d8%a9-%d9%88%d8%a7%d9%84%d8%b7%d9%88%d8%a7%d8%b1%d8%a6-%d8%a5",
+    "relatedSources": [
+      {
+        "name": "mo3akpress.com",
+        "url": "https://www.mo3akpress.com/2026/11/%d9%85%d8%b5%d8%b1-%d8%a7%d9%84%d8%ae%d9%8a%d8%b1-%d8%aa%d9%88%d8%ac%d9%91%d9%87-%d9%81%d8%b1%d9%82-%d8%a7%d9%84%d8%a5%d8%ba%d8%a7%d8%ab%d8%a9-%d9%88%d8%a7%d9%84%d8%b7%d9%88%d8%a7%d8%b1%d8%a6-%d8%a5"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://mo3akpress.com/feed",
+    "ingestProvider": "mo3akpress.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-564b6c69",
+    "status": "draft",
+    "translationOf": "story-564b6c69-564b6c69",
+    "publishedAt": "2026-11-26T15:53:39.000Z",
+    "fetchedAt": "2026-11-26T19:48:40.745Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [mo3akpress.com](https://www.mo3akpress.com/2026/11/%d9%85%d8%b5%d8%b1-%d8%a7%d9%84%d8%ae%d9%8a%d8%b1-%d8%aa%d9%88%d8%ac%d9%91%d9%87-%d9%81%d8%b1%d9%82-%d8%a7%d9%84%d8%a5%d8%ba%d8%a7%d8%ab%d8%a9-%d9%88%d8%a7%d9%84%d8%b7%d9%88%d8%a7%d8%b1%d8%a6-%d8%a5)"
+  },
+  {
+    "title": "參議院教育委員會建議設立針對身心障礙者的應用技術學院",
+    "slug": "senate-education-committee-recommends-establishing-an-applied-technology-college-zh-57a8e37c",
+    "lang": "zh-TW",
+    "summary": "參議院教育委員會已提出建議，設立專門針對身心障礙者的應用技術學院，旨在提供職業與技術培訓機會，以提升其就業能力與獨立性。",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "education",
+      "policy",
+      "vocational-training"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.youm7.com/story/2026/11/26/%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%AA%D9%88%D8%B5%D9%89-%D8%A8%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%83%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%8A%D8%A9-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9/7633162",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.youm7.com/story/2026/11/26/%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%AA%D9%88%D8%B5%D9%89-%D8%A8%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%83%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%8A%D8%A9-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9/7633162"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-57a8e37c",
+    "status": "published",
+    "translationOf": "senate-education-committee-recommends-establishing-an-applied-technology-college-57a8e37c",
+    "publishedAt": "2026-11-26T12:00:00.000Z",
+    "fetchedAt": "2026-11-26T19:48:40.829Z",
+    "body": "參議院教育委員會已提出建議，設立專門針對身心障礙者的應用技術學院，旨在提供職業與技術培訓機會，以提升其就業能力與獨立性。\n\n原文來源： [news.google.com](https://www.youm7.com/story/2026/11/26/%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%AA%D9%88%D8%B5%D9%89-%D8%A8%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%83%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%8A%D8%A9-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9/7633162)"
+  },
+  {
+    "title": "科威特綜合護理基金會舉辦世界智障運動日",
+    "slug": "inclusive-care-foundation-organizes-world-day-of-intellectual-disability-sports--zh-5d7a2559",
+    "lang": "zh-TW",
+    "summary": "科威特綜合護理基金會舉辦了世界智障日活動，重點關注體育活動，以促進科威特智障人士的體育活動和社會融合。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "intellectual-disability",
+      "sports",
+      "inclusion",
+      "kuwait"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://t.co/bq1vNxwez9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://t.co/bq1vNxwez9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-5d7a2559",
+    "status": "published",
+    "translationOf": "inclusive-care-foundation-organizes-world-day-of-intellectual-disability-sports--5d7a2559",
+    "publishedAt": "2026-11-26T11:20:42.000Z",
+    "fetchedAt": "2026-11-26T19:49:07.969Z",
+    "body": "科威特綜合護理基金會舉辦了世界智障日活動，重點關注體育活動，以促進科威特智障人士的體育活動和社會融合。\n\n原文來源： [news.google.com](https://t.co/bq1vNxwez9)"
+  },
+  {
+    "title": "زايد 殘障人士權限局與Sukina加強對自閉症學生的心理支持",
+    "slug": "zayed-authority-for-people-of-determination-and-sukina-enhance-psychological-sup-zh-e445de1f",
+    "lang": "zh-TW",
+    "summary": "扎耶德殘障人士權限局與Sukina計畫正在合作，加強針對自閉症譜系障礙學生的心理支援服務，旨在改善其身心健康和社會融合。",
+    "category": "general",
+    "tags": [
+      "autism",
+      "psychological-support",
+      "uae",
+      "education"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.wam.ae/ar/article/c3g7ip0-%D9%87%D9%8A%D8%A6%D8%A9-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%84%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%B3%D9%83%D9%8A%D9%86%D8%A9-%D8%AA%D8%B9%D8%B2%D8%B2%D8%A7%D9%86-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.wam.ae/ar/article/c3g7ip0-%D9%87%D9%8A%D8%A6%D8%A9-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%84%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%B3%D9%83%D9%8A%D9%86%D8%A9-%D8%AA%D8%B9%D8%B2%D8%B2%D8%A7%D9%86-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-e445de1f",
+    "status": "published",
+    "translationOf": "zayed-authority-for-people-of-determination-and-sukina-enhance-psychological-sup-e445de1f",
+    "publishedAt": "2026-11-26T08:56:16.000Z",
+    "fetchedAt": "2026-11-26T19:49:08.071Z",
+    "body": "扎耶德殘障人士權限局與Sukina計畫正在合作，加強針對自閉症譜系障礙學生的心理支援服務，旨在改善其身心健康和社會融合。\n\n原文來源： [news.google.com](https://www.wam.ae/ar/article/c3g7ip0-%D9%87%D9%8A%D8%A6%D8%A9-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%84%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%B3%D9%83%D9%8A%D9%86%D8%A9-%D8%AA%D8%B9%D8%B2%D8%B2%D8%A7%D9%86-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A)"
+  },
+  {
+    "title": "火車站安靜空間改善自閉症旅客服務無障礙性",
+    "slug": "quiet-spaces-at-train-stations-to-improve-accessibility-for-autistic-travelers-zh-c4bcc3a3",
+    "lang": "zh-TW",
+    "summary": "繼東站（Gare de l'Est）成功試點後，多座火車站計劃新增安靜空間。這些低感官環境旨在提升無障礙出行體驗，特別是為自閉症旅客提供減壓支持，預計將成為一系列類似設施的首個項目。",
+    "category": "physical-design",
+    "tags": [
+      "quiet-space",
+      "autism",
+      "public-transport",
+      "sensory-friendly"
+    ],
+    "sourceName": "handicap.fr",
+    "sourceUrl": "https://informations.handicap.fr/a-espace-calme-apres-la-gare-de-l-est-de-nouveaux-projets-40067.php",
+    "relatedSources": [
+      {
+        "name": "handicap.fr",
+        "url": "https://informations.handicap.fr/a-espace-calme-apres-la-gare-de-l-est-de-nouveaux-projets-40067.php"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://handicap.fr/rss",
+    "ingestProvider": "handicap.fr",
+    "originalLang": "fr",
+    "clusterId": "cluster-c4bcc3a3",
+    "status": "published",
+    "translationOf": "quiet-spaces-at-train-stations-to-improve-accessibility-for-autistic-travelers-c4bcc3a3",
+    "publishedAt": "2026-11-26T09:59:43.000Z",
+    "fetchedAt": "2026-11-26T19:49:11.605Z",
+    "body": "繼東站（Gare de l'Est）成功試點後，多座火車站計劃新增安靜空間。這些低感官環境旨在提升無障礙出行體驗，特別是為自閉症旅客提供減壓支持，預計將成為一系列類似設施的首個項目。\n\n原文來源： [handicap.fr](https://informations.handicap.fr/a-espace-calme-apres-la-gare-de-l-est-de-nouveaux-projets-40067.php)"
+  },
+  {
+    "title": "馬德里舉辦第三屆全國創業與殘疾大會，支持包容性創業",
+    "slug": "third-national-conference-on-entrepreneurship-and-disability-in-madrid-supports--zh-086506ac",
+    "lang": "zh-TW",
+    "summary": "約200人蔘與了在馬德里舉行的第三屆全國創業與殘疾大會，該活動由ONCE基金會、CERMI及ASEMDIS聯合組織。會議重點探討自主創業面臨的挑戰與情緒韌性，並為身殘人士創業項目提供培訓支持。大會議程還包括針對創新、韌性及女性創業者的頒獎儀式。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "entrepreneurship",
+      "disability",
+      "inclusion",
+      "career",
+      "event"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/el-iii-congreso-nacional-sobre-emprendimiento-y-discapacidad-reune-en-madrid-cerca-de-200",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/el-iii-congreso-nacional-sobre-emprendimiento-y-discapacidad-reune-en-madrid-cerca-de-200"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-086506ac",
+    "status": "published",
+    "translationOf": "third-national-conference-on-entrepreneurship-and-disability-in-madrid-supports--086506ac",
+    "publishedAt": "2026-11-26T11:41:00.000Z",
+    "fetchedAt": "2026-11-26T19:49:11.682Z",
+    "body": "約200人蔘與了在馬德里舉行的第三屆全國創業與殘疾大會，該活動由ONCE基金會、CERMI及ASEMDIS聯合組織。會議重點探討自主創業面臨的挑戰與情緒韌性，並為身殘人士創業項目提供培訓支持。大會議程還包括針對創新、韌性及女性創業者的頒獎儀式。\n\n原文來源： [discapnet.es](https://www.discapnet.es/noticia/el-iii-congreso-nacional-sobre-emprendimiento-y-discapacidad-reune-en-madrid-cerca-de-200)"
+  },
+  {
+    "title": "成立聯合委員會監督建築物無障礙通行標準的執行",
+    "slug": "joint-committee-formed-to-enforce-building-code-for-mobility-disability-accessib-zh-b46ce577",
+    "lang": "zh-TW",
+    "summary": "已成立聯合委員會，以監督建築規範中關於行動不便人士無障礙通行部分的落實，確保結構符合殘疾人士的需求。",
+    "category": "physical-design",
+    "tags": [
+      "building-code",
+      "mobility-access",
+      "regulation"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://twaslnews1.twaslnews.com/8359958",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://twaslnews1.twaslnews.com/8359958"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-b46ce577",
+    "status": "published",
+    "translationOf": "joint-committee-formed-to-enforce-building-code-for-mobility-disability-accessib-b46ce577",
+    "publishedAt": "2026-11-26T19:11:38.000Z",
+    "fetchedAt": "2026-11-26T19:49:24.933Z",
+    "body": "已成立聯合委員會，以監督建築規範中關於行動不便人士無障礙通行部分的落實，確保結構符合殘疾人士的需求。\n\n原文來源： [news.google.com](https://twaslnews1.twaslnews.com/8359958)"
+  },
+  {
+    "title": "知識峰會探討利用人工智慧協助殘障人士",
+    "slug": "knowledge-summit-discusses-ai-solutions-for-people-with-disabilities-zh-e40540ad",
+    "lang": "zh-TW",
+    "summary": "在知識峰會上，与会者討論如何利用人工智慧科技協助和支持殘障人士，探索人工智慧如何提升無障礙環境及獨立生活品質。",
+    "category": "assistive-tech",
+    "tags": [
+      "AI",
+      "disability-support",
+      "technology"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alkhaleej.ae/2026-11-26/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%81%D8%A9-%D8%AA%D9%86%D8%A7%D9%82%D8%B4-%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alkhaleej.ae/2026-11-26/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%81%D8%A9-%D8%AA%D9%86%D8%A7%D9%82%D8%B4-%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-e40540ad",
+    "status": "published",
+    "translationOf": "knowledge-summit-discusses-ai-solutions-for-people-with-disabilities-e40540ad",
+    "publishedAt": "2026-11-25T22:03:09.000Z",
+    "fetchedAt": "2026-11-26T19:49:25.032Z",
+    "body": "在知識峰會上，与会者討論如何利用人工智慧科技協助和支持殘障人士，探索人工智慧如何提升無障礙環境及獨立生活品質。\n\n原文來源： [news.google.com](https://www.alkhaleej.ae/2026-11-26/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%81%D8%A9-%D8%AA%D9%86%D8%A7%D9%82%D8%B4-%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A)"
+  },
+  {
+    "title": "Link EM 2026 會議：推動多發性硬化症研究、包容性就業與患者權益",
+    "slug": "link-em-2026-conference-advancing-research-inclusive-employment-and-rights-for-m-zh-07e24c57",
+    "lang": "zh-TW",
+    "summary": "由西班牙多發性硬化症協會組織的第十一屆 Link EM 2026 會議在馬德里舉行，重點關注神經研究、神經康復以及多發性硬化症患者的包容性就業。會議探討了診斷進展、職場融合障礙及患者權益捍衛，並慶祝該機構成立 30 週年。",
+    "category": "case-studies",
+    "tags": [
+      "multiple-sclerosis",
+      "inclusive-employment",
+      "rights",
+      "neuro-rehabilitation",
+      "es-es"
+    ],
+    "sourceName": "discapnet.es",
+    "sourceUrl": "https://www.discapnet.es/noticia/link-em-2026-aborda-investigacion-empleo-y-derechos-en-esclerosis-multiple",
+    "relatedSources": [
+      {
+        "name": "discapnet.es",
+        "url": "https://www.discapnet.es/noticia/link-em-2026-aborda-investigacion-empleo-y-derechos-en-esclerosis-multiple"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.discapnet.es/rss/noticias-eventos.xml",
+    "ingestProvider": "discapnet.es",
+    "originalLang": "es",
+    "clusterId": "cluster-07e24c57",
+    "status": "published",
+    "translationOf": "link-em-2026-conference-advancing-research-inclusive-employment-and-rights-for-m-07e24c57",
+    "publishedAt": "2026-11-26T07:00:00.000Z",
+    "fetchedAt": "2026-11-26T19:49:40.635Z",
+    "body": "由西班牙多發性硬化症協會組織的第十一屆 Link EM 2026 會議在馬德里舉行，重點關注神經研究、神經康復以及多發性硬化症患者的包容性就業。會議探討了診斷進展、職場融合障礙及患者權益捍衛，並慶祝該機構成立 30 週年。\n\n原文來源： [discapnet.es](https://www.discapnet.es/noticia/link-em-2026-aborda-investigacion-empleo-y-derechos-en-esclerosis-multiple)"
+  },
+  {
+    "title": "巴林殘疾公民與巴基斯坦居民在伊朗襲擊中受傷",
+    "slug": "disabled-bahraini-citizen-and-pakistani-resident-injured-in-iranian-attacks-zh-98abe968",
+    "lang": "zh-TW",
+    "summary": "一名巴林殘疾國民和一名巴基斯坦居民在巴林的伊朗襲擊事件中受傷。此事件突顯了殘障人士在地緣政治衝突和安全事件中的脆弱性。",
+    "category": "laws-rights",
+    "tags": [
+      "iran",
+      "bahrain",
+      "injury",
+      "disabled-citizen",
+      "conflict"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://sabq.org/article/41lshax",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://sabq.org/article/41lshax"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-98abe968",
+    "status": "published",
+    "translationOf": "disabled-bahraini-citizen-and-pakistani-resident-injured-in-iranian-attacks-98abe968",
+    "publishedAt": "2026-11-22T19:12:37.000Z",
+    "fetchedAt": "2026-11-26T19:49:40.729Z",
+    "body": "一名巴林殘疾國民和一名巴基斯坦居民在巴林的伊朗襲擊事件中受傷。此事件突顯了殘障人士在地緣政治衝突和安全事件中的脆弱性。\n\n原文來源： [news.google.com](https://sabq.org/article/41lshax)"
+  },
+  {
+    "title": "部長：無障礙是實現身障人士獨立與機會平等的固有權利",
+    "slug": "minister-of-affairs-accessibility-is-a-fundamental-right-for-disability-independ-zh-598f18cd",
+    "lang": "zh-TW",
+    "summary": "社會事務部部長強調，無障礙是固有權利，對於確保身心障礙人士的獨立性和實現機會平等至關重要。",
+    "category": "laws-rights",
+    "tags": [
+      "accessibility",
+      "disability rights",
+      "policy",
+      "independence"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://alseyassah.com/article/475847/%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%B3%D9%87%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D8%AD%D9%82-%D8%A3%D8%B5%D9%8A%D9%84-%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%AA%D9%83%D8%A7%D9%81%D8%A4-%D8%A7%D9%84%D9%81%D8%B1%D8%B5",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://alseyassah.com/article/475847/%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%B3%D9%87%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D8%AD%D9%82-%D8%A3%D8%B5%D9%8A%D9%84-%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%AA%D9%83%D8%A7%D9%81%D8%A4-%D8%A7%D9%84%D9%81%D8%B1%D8%B5"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-598f18cd",
+    "status": "published",
+    "translationOf": "minister-of-affairs-accessibility-is-a-fundamental-right-for-disability-independ-598f18cd",
+    "publishedAt": "2026-11-26T10:29:40.000Z",
+    "fetchedAt": "2026-11-26T19:49:43.012Z",
+    "body": "社會事務部部長強調，無障礙是固有權利，對於確保身心障礙人士的獨立性和實現機會平等至關重要。\n\n原文來源： [news.google.com](https://alseyassah.com/article/475847/%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%B3%D9%87%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D8%AD%D9%82-%D8%A3%D8%B5%D9%8A%D9%84-%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%AA%D9%83%D8%A7%D9%81%D8%A4-%D8%A7%D9%84%D9%81%D8%B1%D8%B5)"
+  },
+  {
+    "title": "國際職業健康會議探討如何提升身心障礙人士的咀嚼與吞嚥技巧",
+    "slug": "international-occupational-health-conference-discusses-improving-chewing-and-swa-zh-18fb4f6a",
+    "lang": "zh-TW",
+    "summary": "一場國際職業健康會議專注於發展身心障礙人士的咀嚼和吞嚥技巧，解決了照護和康復中的特定問題。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability",
+      "healthcare",
+      "swallowing",
+      "rehabilitation",
+      "occupational health"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.wam.ae/ar/article/c35hpyd-%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D9%87%D9%86%D9%8A%D8%A9-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.wam.ae/ar/article/c35hpyd-%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D9%87%D9%86%D9%8A%D8%A9-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8+%D8%A7%D9%84%D9%87%D9%85%D9%85&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-18fb4f6a",
+    "status": "published",
+    "translationOf": "international-occupational-health-conference-discusses-improving-chewing-and-swa-18fb4f6a",
+    "publishedAt": "2026-11-08T10:53:16.000Z",
+    "fetchedAt": "2026-11-26T19:49:43.085Z",
+    "body": "一場國際職業健康會議專注於發展身心障礙人士的咀嚼和吞嚥技巧，解決了照護和康復中的特定問題。\n\n原文來源： [news.google.com](https://www.wam.ae/ar/article/c35hpyd-%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D9%87%D9%86%D9%8A%D8%A9-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA)"
+  },
+  {
+    "title": "伊拉克藝術家艾比爾·巴塔維將殘疾挑戰轉化為創意成功",
+    "slug": "iraqi-artist-abeer-batawi-transforms-disability-challenges-into-creative-success-zh-d7cd0dad",
+    "lang": "zh-TW",
+    "summary": "本文側寫伊拉克藝術家艾比爾·巴塔維，她克服殘疾帶來的挑戰以達成創意成功，突顯在殘障面前的個人韌性與藝術成就。",
+    "category": "case-studies",
+    "tags": [
+      "disability",
+      "art",
+      "Iraq",
+      "resilience",
+      "accomplishment"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.ajnet.me/women/2026/11/24/%D8%A3%D9%8A%D8%B3%D8%B1-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D8%AA%D9%8A-%D8%B5%D8%AD%D9%81%D9%8A%D8%A9-%D9%88%D9%81%D9%86%D8%A7%D9%86%D8%A9-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%AA%D9%83%D8%B3%D8%B1",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.ajnet.me/women/2026/11/24/%D8%A3%D9%8A%D8%B3%D8%B1-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D8%AA%D9%8A-%D8%B5%D8%AD%D9%81%D9%8A%D8%A9-%D9%88%D9%81%D9%86%D8%A7%D9%86%D8%A9-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%AA%D9%83%D8%B3%D8%B1"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-d7cd0dad",
+    "status": "published",
+    "translationOf": "iraqi-artist-abeer-batawi-transforms-disability-challenges-into-creative-success-d7cd0dad",
+    "publishedAt": "2026-11-24T08:26:52.000Z",
+    "fetchedAt": "2026-11-26T19:49:45.494Z",
+    "body": "本文側寫伊拉克藝術家艾比爾·巴塔維，她克服殘疾帶來的挑戰以達成創意成功，突顯在殘障面前的個人韌性與藝術成就。\n\n原文來源： [news.google.com](https://www.ajnet.me/women/2026/11/24/%D8%A3%D9%8A%D8%B3%D8%B1-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D8%AA%D9%8A-%D8%B5%D8%AD%D9%81%D9%8A%D8%A9-%D9%88%D9%81%D9%86%D8%A7%D9%86%D8%A9-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%AA%D9%83%D8%B3%D8%B1)"
+  },
+  {
+    "title": "阿拉伯聯盟討論殘障人士權利未來",
+    "slug": "arab-league-discusses-future-of-rights-for-persons-with-disabilities-zh-90096c32",
+    "lang": "zh-TW",
+    "summary": "阿拉伯聯盟正在審查和討論該地區殘障人士權利與保護的未來框架，重點關注政策發展與倡導。",
+    "category": "laws-rights",
+    "tags": [
+      "Arab League",
+      "rights",
+      "policy",
+      "persons with disabilities"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.youm7.com/story/2026/11/26/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%A8%D8%AD%D8%AB-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9/7632913",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.youm7.com/story/2026/11/26/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%A8%D8%AD%D8%AB-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9/7632913"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-90096c32",
+    "status": "published",
+    "translationOf": "arab-league-discusses-future-of-rights-for-persons-with-disabilities-90096c32",
+    "publishedAt": "2026-11-26T08:26:00.000Z",
+    "fetchedAt": "2026-11-26T19:49:45.568Z",
+    "body": "阿拉伯聯盟正在審查和討論該地區殘障人士權利與保護的未來框架，重點關注政策發展與倡導。\n\n原文來源： [news.google.com](https://www.youm7.com/story/2026/11/26/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%A8%D8%AD%D8%AB-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9/7632913)"
+  },
+  {
+    "title": "研究者指出刻板印象与歧视限制了残障人士的融入",
+    "slug": "researcher-addresses-how-stereotypes-and-discrimination-limit-the-inclusion-of-p-zh-00865040",
+    "lang": "zh-TW",
+    "summary": "一位研究者探讨了社会刻板印象和针对残障人士的歧视如何成为障碍，并提出了改善其社会融入的途径。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "disability-inclusion",
+      "stereotypes",
+      "discrimination"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://shaam.org/society/%D8%B5%D9%88%D8%B1-%D9%86%D9%85%D8%B7%D9%8A%D8%A9-%D9%88%D8%AA%D9%85%D9%8A%D9%8A%D8%B2-%D9%8A%D8%AD%D8%AF%D9%91%D8%A7%D9%86-%D9%85%D9%86-%D8%A7%D9%86%D8%AF%D9%85%D8%A7%D8%AC-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%A8%D8%A7%D8%AD%D8%AB%D8%A9-%D8%AA%D9%88%D8%B6%D8%AD-%D8%B3%D8%A8%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://shaam.org/society/%D8%B5%D9%88%D8%B1-%D9%86%D9%85%D8%B7%D9%8A%D8%A9-%D9%88%D8%AA%D9%85%D9%8A%D9%8A%D8%B2-%D9%8A%D8%AD%D8%AF%D9%91%D8%A7%D9%86-%D9%85%D9%86-%D8%A7%D9%86%D8%AF%D9%85%D8%A7%D8%AC-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%A8%D8%A7%D8%AD%D8%AB%D8%A9-%D8%AA%D9%88%D8%B6%D8%AD-%D8%B3%D8%A8%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-00865040",
+    "status": "published",
+    "translationOf": "researcher-addresses-how-stereotypes-and-discrimination-limit-the-inclusion-of-p-00865040",
+    "publishedAt": "2026-11-24T09:01:46.000Z",
+    "fetchedAt": "2026-11-26T19:49:47.273Z",
+    "body": "一位研究者探讨了社会刻板印象和针对残障人士的歧视如何成为障碍，并提出了改善其社会融入的途径。\n\n原文來源： [news.google.com](https://shaam.org/society/%D8%B5%D9%88%D8%B1-%D9%86%D9%85%D8%B7%D9%8A%D8%A9-%D9%88%D8%AA%D9%85%D9%8A%D9%8A%D8%B2-%D9%8A%D8%AD%D8%AF%D9%91%D8%A7%D9%86-%D9%85%D9%86-%D8%A7%D9%86%D8%AF%D9%85%D8%A7%D8%AC-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%A8%D8%A7%D8%AD%D8%AB%D8%A9-%D8%AA%D9%88%D8%B6%D8%AD-%D8%B3%D8%A8%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9)"
+  },
+  {
+    "title": "部长：无障碍是残障人士实现独立和公平机会的基本权利",
+    "slug": "minister-accessibility-is-an-inherent-right-for-independence-and-equal-opportuni-zh-8a35ffcb",
+    "lang": "zh-TW",
+    "summary": "社会事务部长强调，无障碍是基本权利，对于实现残障人士的独立和确保公平机会至关重要。",
+    "category": "laws-rights",
+    "tags": [
+      "accessibility",
+      "rights",
+      "policy"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://sarmad.com/355178",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://sarmad.com/355178"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-8a35ffcb",
+    "status": "published",
+    "translationOf": "minister-accessibility-is-an-inherent-right-for-independence-and-equal-opportuni-8a35ffcb",
+    "publishedAt": "2026-11-26T10:36:25.000Z",
+    "fetchedAt": "2026-11-26T19:49:47.363Z",
+    "body": "社会事务部长强调，无障碍是基本权利，对于实现残障人士的独立和确保公平机会至关重要。\n\n原文來源： [news.google.com](https://sarmad.com/355178)"
+  },
+  {
+    "title": "摩洛哥 8.7% 人口有障礙… 呼籲加強融合與醫療服務的可及性 – 今日24",
+    "slug": "87-of-moroccans-have-a-disability-calls-to-strengthen-inclusion-and-access-to-he-zh-163ca526",
+    "lang": "zh-TW",
+    "summary": "報導指出摩洛哥有 8.7% 人口屬於障礙者，呼籲提升其融合與醫療服務的可及性。",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "Morocco",
+      "health services",
+      "inclusion"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://alyaoum24.com/2060181.html",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://alyaoum24.com/2060181.html"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-163ca526",
+    "status": "published",
+    "translationOf": "87-of-moroccans-have-a-disability-calls-to-strengthen-inclusion-and-access-to-he-163ca526",
+    "publishedAt": "2026-11-26T19:34:32.000Z",
+    "fetchedAt": "2026-11-26T19:49:57.552Z",
+    "body": "報導指出摩洛哥有 8.7% 人口屬於障礙者，呼籲提升其融合與醫療服務的可及性。\n\n原文來源： [news.google.com](https://alyaoum24.com/2060181.html)"
+  },
+  {
+    "title": "2028 輛車因佔用殘障停車位被查扣，較上週減少 165 輛 - 沙烏地汽車",
+    "slug": "2028-cars-seized-in-disabled-parking-spots-down-165-from-previous-week-saudi-aut-zh-96177b10",
+    "lang": "zh-TW",
+    "summary": "報導指出沙烏地當局查扣 2,028 輛非法佔用殘障停車位的車輛，較前週減少 165 輛，顯示對無障礙停車規定的執法情況。",
+    "category": "physical-design",
+    "tags": [
+      "disabled parking",
+      "enforcement",
+      "Saudi Arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://saudiauto.com.sa/%D8%B6%D8%A8%D8%B7-2028-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D9%81%D9%8A-%D9%85%D9%88%D8%A7%D9%82%D9%81-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-16",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://saudiauto.com.sa/%D8%B6%D8%A8%D8%B7-2028-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D9%81%D9%8A-%D9%85%D9%88%D8%A7%D9%82%D9%81-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-16"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-96177b10",
+    "status": "published",
+    "translationOf": "2028-cars-seized-in-disabled-parking-spots-down-165-from-previous-week-saudi-aut-96177b10",
+    "publishedAt": "2026-11-26T18:07:23.000Z",
+    "fetchedAt": "2026-11-26T19:49:57.659Z",
+    "body": "報導指出沙烏地當局查扣 2,028 輛非法佔用殘障停車位的車輛，較前週減少 165 輛，顯示對無障礙停車規定的執法情況。\n\n原文來源： [news.google.com](https://saudiauto.com.sa/%D8%B6%D8%A8%D8%B7-2028-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D9%81%D9%8A-%D9%85%D9%88%D8%A7%D9%82%D9%81-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-16)"
+  },
+  {
+    "title": "租車無障礙 – 以色列殘障權益委員會",
+    "slug": "rental-vehicles-accessibility-disability-rights-commission-israel-zh-53727c98",
+    "lang": "zh-TW",
+    "summary": "以色列殘障權益委員會致力於確保租賃車輛對殘障人士無障礙，符合相關設計標準。",
+    "category": "laws-rights",
+    "tags": [
+      "rental vehicles",
+      "accessibility",
+      "disability rights",
+      "Israel"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.gov.il/ar/pages/rental_vehicles_accessibility",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.gov.il/ar/pages/rental_vehicles_accessibility"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "SA",
+    "region": "SA",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%A5%D8%B9%D8%A7%D9%82%D8%A9&hl=ar&gl=SA&ceid=SA%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-53727c98",
+    "status": "published",
+    "translationOf": "rental-vehicles-accessibility-disability-rights-commission-israel-53727c98",
+    "publishedAt": "2026-11-18T08:00:00.000Z",
+    "fetchedAt": "2026-11-26T19:50:06.936Z",
+    "body": "以色列殘障權益委員會致力於確保租賃車輛對殘障人士無障礙，符合相關設計標準。\n\n原文來源： [news.google.com](https://www.gov.il/ar/pages/rental_vehicles_accessibility)"
+  },
+  {
+    "title": "部長宣示無障礙是殘障人士獨立與平等機會的基本權利",
+    "slug": "minister-declares-accessibility-a-fundamental-right-for-disability-independence-zh-9112018a",
+    "lang": "zh-TW",
+    "summary": "部長指出，無障礙是殘障人士實現獨立與平等機會的根本權利，並強調相關政策承諾。",
+    "category": "laws-rights",
+    "tags": [
+      "accessibility",
+      "disability rights",
+      "policy",
+      "Jordan"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alqabas.com/article/5972803-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%B3%D9%87%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D8%AD%D9%82-%D8%A3%D8%B5%D9%8A%D9%84-%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%D9%8A%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%AA%D9%83%D8%A7%D9%81%D8%A4-%D8%A7%D9%84%D9%81%D8%B1%D8%B5",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alqabas.com/article/5972803-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%B3%D9%87%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D8%AD%D9%82-%D8%A3%D8%B5%D9%8A%D9%84-%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%D9%8A%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%AA%D9%83%D8%A7%D9%81%D8%A4-%D8%A7%D9%84%D9%81%D8%B1%D8%B5"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-9112018a",
+    "status": "published",
+    "translationOf": "minister-declares-accessibility-a-fundamental-right-for-disability-independence-9112018a",
+    "publishedAt": "2026-11-26T12:05:54.000Z",
+    "fetchedAt": "2026-11-26T19:50:07.034Z",
+    "body": "部長指出，無障礙是殘障人士實現獨立與平等機會的根本權利，並強調相關政策承諾。\n\n原文來源： [news.google.com](https://www.alqabas.com/article/5972803-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%B3%D9%87%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D8%AD%D9%82-%D8%A3%D8%B5%D9%8A%D9%84-%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%D9%8A%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%AA%D9%83%D8%A7%D9%81%D8%A4-%D8%A7%D9%84%D9%81%D8%B1%D8%B5)"
+  },
+  {
+    "title": "智力障礙人士全球體育日：體育競賽與藝術表演",
+    "slug": "sports-competitions-and-entertainment-at-the-global-sports-day-for-people-with-i-zh-6771f194",
+    "lang": "zh-TW",
+    "summary": "在「智力障礙人士全球體育日」期間，舉辦了包含體育競賽、示範環節及藝術表演的活動，旨在促進該群体的參與與娛樂。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "intellectual-disability",
+      "sports",
+      "inclusion",
+      "event"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.alraimedia.com/article/10883925/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%AD%D9%84%D9%8A%D8%A9/%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-%D9%88%D9%81%D9%82%D8%B1%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%B9%D8%B1%D8%A7%D8%B6%D9%8A%D8%A9-%D9%88%D9%81%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B0%D9%87%D9%86%D9%8A%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.alraimedia.com/article/10883925/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%AD%D9%84%D9%8A%D8%A9/%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-%D9%88%D9%81%D9%82%D8%B1%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%B9%D8%B1%D8%A7%D8%B6%D9%8A%D8%A9-%D9%88%D9%81%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B0%D9%87%D9%86%D9%8A%D8%A9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-6771f194",
+    "status": "published",
+    "translationOf": "sports-competitions-and-entertainment-at-the-global-sports-day-for-people-with-i-6771f194",
+    "publishedAt": "2026-11-26T12:17:00.000Z",
+    "fetchedAt": "2026-11-26T19:50:11.103Z",
+    "body": "在「智力障礙人士全球體育日」期間，舉辦了包含體育競賽、示範環節及藝術表演的活動，旨在促進該群体的參與與娛樂。\n\n原文來源： [news.google.com](https://www.alraimedia.com/article/10883925/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%AD%D9%84%D9%8A%D8%A9/%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-%D9%88%D9%81%D9%82%D8%B1%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%B9%D8%B1%D8%A7%D8%B6%D9%8A%D8%A9-%D9%88%D9%81%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B0%D9%87%D9%86%D9%8A%D8%A9)"
+  },
+  {
+    "title": "交通警察對佔用身心障礙專屬車位的2028輛汽車處罰",
+    "slug": "traffic-authority-fines-2028-vehicles-parking-in-disabled-reserved-spaces-zh-f0b6b9be",
+    "lang": "zh-TW",
+    "summary": "交通執法單位針對非法佔用身心障礙人士專用車位的行為進行執法，共處罰超過2000輛汽車，以確保殘障人士的通行權益。",
+    "category": "laws-rights",
+    "tags": [
+      "parking",
+      "enforcement",
+      "saudi-arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://ajel.sa/local/gy69tlzu6",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://ajel.sa/local/gy69tlzu6"
+      }
+    ],
+    "sourceCountry": "SA",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-f0b6b9be",
+    "status": "published",
+    "translationOf": "traffic-authority-fines-2028-vehicles-parking-in-disabled-reserved-spaces-f0b6b9be",
+    "publishedAt": "2026-11-26T18:43:50.000Z",
+    "fetchedAt": "2026-11-26T19:50:15.447Z",
+    "body": "交通執法單位針對非法佔用身心障礙人士專用車位的行為進行執法，共處罰超過2000輛汽車，以確保殘障人士的通行權益。\n\n原文來源： [news.google.com](https://ajel.sa/local/gy69tlzu6)"
+  },
+  {
+    "title": "維護身心障礙者權益：交通警察查處2028輛佔用專用車位的汽車",
+    "slug": "protecting-rights-of-persons-with-disabilities-traffic-police-seize-2028-vehicle-zh-dabf429c",
+    "lang": "zh-TW",
+    "summary": "為保障身心障礙人士的權益，交通警察查處了2028輛佔用專用車位的汽車，以強化對無障礙法律法規的遵守。",
+    "category": "laws-rights",
+    "tags": [
+      "parking",
+      "rights",
+      "saudi-arabia"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://sabq.org/article/p9bbozk",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://sabq.org/article/p9bbozk"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-dabf429c",
+    "status": "published",
+    "translationOf": "protecting-rights-of-persons-with-disabilities-traffic-police-seize-2028-vehicle-dabf429c",
+    "publishedAt": "2026-11-26T17:00:00.000Z",
+    "fetchedAt": "2026-11-26T19:50:15.526Z",
+    "body": "為保障身心障礙人士的權益，交通警察查處了2028輛佔用專用車位的汽車，以強化對無障礙法律法規的遵守。\n\n原文來源： [news.google.com](https://sabq.org/article/p9bbozk)"
+  },
+  {
+    "title": "計劃於2027年前逐步淘汰殘障人士機構照護",
+    "slug": "plan-to-phase-out-institutional-care-for-people-with-disabilities-by-2027-zh-d658c8a8",
+    "lang": "zh-TW",
+    "summary": "當局宣布一項計劃，將逐步結束身障人士的機構住宿照護，並於2027年初過渡到替代的家庭照護模式。",
+    "category": "laws-rights",
+    "tags": [
+      "disability",
+      "policy",
+      "institutional-care",
+      "family-based-care"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.addustour.com/articles/1606863-%D8%A8%D9%86%D9%8A-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D9%8A%D9%88%D8%A7%D8%A1-%D9%81%D9%8A-%D9%85%D8%B1%D8%A7%D9%83%D8%B2-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%AA%D8%AF%D8%B1%D9%8A%D8%AC%D9%8A%D8%A7%D9%8B-%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1-%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D9%84%D8%A9-%D9%85%D8%B7%D9%84%D8%B9-2027",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.addustour.com/articles/1606863-%D8%A8%D9%86%D9%8A-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D9%8A%D9%88%D8%A7%D8%A1-%D9%81%D9%8A-%D9%85%D8%B1%D8%A7%D9%83%D8%B2-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%AA%D8%AF%D8%B1%D9%8A%D8%AC%D9%8A%D8%A7%D9%8B-%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1-%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D9%84%D8%A9-%D9%85%D8%B7%D9%84%D8%B9-2027"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-d658c8a8",
+    "status": "published",
+    "translationOf": "plan-to-phase-out-institutional-care-for-people-with-disabilities-by-2027-d658c8a8",
+    "publishedAt": "2026-11-26T17:06:42.000Z",
+    "fetchedAt": "2026-11-26T19:50:24.031Z",
+    "body": "當局宣布一項計劃，將逐步結束身障人士的機構住宿照護，並於2027年初過渡到替代的家庭照護模式。\n\n原文來源： [news.google.com](https://www.addustour.com/articles/1606863-%D8%A8%D9%86%D9%8A-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D9%8A%D9%88%D8%A7%D8%A1-%D9%81%D9%8A-%D9%85%D8%B1%D8%A7%D9%83%D8%B2-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%AA%D8%AF%D8%B1%D9%8A%D8%AC%D9%8A%D8%A7%D9%8B-%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1-%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D9%84%D8%A9-%D9%85%D8%B7%D9%84%D8%B9-2027)"
+  },
+  {
+    "title": "議員建議修訂《殘疾人士權利法》以強化融合教育",
+    "slug": "mp-proposes-amendments-to-persons-with-disabilities-rights-law-to-enhance-inclus-zh-a0f1aacd",
+    "lang": "zh-TW",
+    "summary": "一名國會議員建議修訂《殘疾人士權利法》，旨在加強殘障人士的融合與綜合教育體系。",
+    "category": "laws-rights",
+    "tags": [
+      "disability law",
+      "inclusive education",
+      "legislation",
+      "parliament"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.parlmany.com/News/4/621624/%D8%A7%D9%84%D9%86%D8%A7%D8%A6%D8%A8-%D9%85%D8%AD%D9%85%D8%AF-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D9%83%D8%B4%D8%B1-%D9%8A%D9%82%D8%AA%D8%B1%D8%AD-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.parlmany.com/News/4/621624/%D8%A7%D9%84%D9%86%D8%A7%D8%A6%D8%A8-%D9%85%D8%AD%D9%85%D8%AF-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D9%83%D8%B4%D8%B1-%D9%8A%D9%82%D8%AA%D8%B1%D8%AD-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-a0f1aacd",
+    "status": "published",
+    "translationOf": "mp-proposes-amendments-to-persons-with-disabilities-rights-law-to-enhance-inclus-a0f1aacd",
+    "publishedAt": "2026-11-26T08:00:00.000Z",
+    "fetchedAt": "2026-11-26T19:50:28.329Z",
+    "body": "一名國會議員建議修訂《殘疾人士權利法》，旨在加強殘障人士的融合與綜合教育體系。\n\n原文來源： [news.google.com](https://www.parlmany.com/News/4/621624/%D8%A7%D9%84%D9%86%D8%A7%D8%A6%D8%A8-%D9%85%D8%AD%D9%85%D8%AF-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D9%83%D8%B4%D8%B1-%D9%8A%D9%82%D8%AA%D8%B1%D8%AD-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5)"
+  },
+  {
+    "title": "「融合與賦權」聚焦提升殘障學生的教育質量與服務",
+    "slug": "inclusion-and-empowerment-highlights-enhancing-education-quality-and-services-fo-zh-668284e6",
+    "lang": "zh-TW",
+    "summary": "本文關注旨在提升殘障學生教育質量與服務水平的舉措，重點強調融合與賦權的主題。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "inclusive education",
+      "disability rights",
+      "student support",
+      "empowerment"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://al-sharq.com/article/25/11/2026/%D8%A7%D9%84%D8%AF%D9%85%D8%AC-%D9%88%D8%A7%D9%84%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D9%8A%D8%B3%D9%84%D8%B7-%D8%A7%D9%84%D8%B6%D9%88%D8%A1-%D8%B9%D9%84%D9%89-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AC%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%88%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9-%D9%84%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://al-sharq.com/article/25/11/2026/%D8%A7%D9%84%D8%AF%D9%85%D8%AC-%D9%88%D8%A7%D9%84%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D9%8A%D8%B3%D9%84%D8%B7-%D8%A7%D9%84%D8%B6%D9%88%D8%A1-%D8%B9%D9%84%D9%89-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AC%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%88%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9-%D9%84%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-668284e6",
+    "status": "published",
+    "translationOf": "inclusion-and-empowerment-highlights-enhancing-education-quality-and-services-fo-668284e6",
+    "publishedAt": "2026-11-26T01:59:47.000Z",
+    "fetchedAt": "2026-11-26T19:50:28.404Z",
+    "body": "本文關注旨在提升殘障學生教育質量與服務水平的舉措，重點強調融合與賦權的主題。\n\n原文來源： [news.google.com](https://al-sharq.com/article/25/11/2026/%D8%A7%D9%84%D8%AF%D9%85%D8%AC-%D9%88%D8%A7%D9%84%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D9%8A%D8%B3%D9%84%D8%B7-%D8%A7%D9%84%D8%B6%D9%88%D8%A1-%D8%B9%D9%84%D9%89-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AC%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%88%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9-%D9%84%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9)"
+  },
+  {
+    "title": "埃及殘障人士委員會：融合教育需要統一的學術標準和多元學習路徑",
+    "slug": "egyptian-national-council-for-disabled-persons-calls-for-unified-academic-standa-zh-702dc72e",
+    "lang": "zh-TW",
+    "summary": "埃及殘障人士國家委員會強調，融合教育需要統一的學術標準和多樣的學習路徑，才能有效支持殘障學生。",
+    "category": "laws-rights",
+    "tags": [
+      "inclusive-education",
+      "accessibility",
+      "rights"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.youm7.com/story/2026/11/26/%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%89-%D9%84%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%AF%D8%A7%D9%85%D8%AC-%D9%8A%D8%AD%D8%AA%D8%A7%D8%AC-%D9%85%D8%B9%D9%8A%D8%A7%D8%B1%D8%A7-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D8%A7-%D9%85%D9%88%D8%AD%D8%AF%D8%A7-%D9%88%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%A9/7633027",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.youm7.com/story/2026/11/26/%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%89-%D9%84%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%AF%D8%A7%D9%85%D8%AC-%D9%8A%D8%AD%D8%AA%D8%A7%D8%AC-%D9%85%D8%B9%D9%8A%D8%A7%D8%B1%D8%A7-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D8%A7-%D9%85%D9%88%D8%AD%D8%AF%D8%A7-%D9%88%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%A9/7633027"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-702dc72e",
+    "status": "published",
+    "translationOf": "egyptian-national-council-for-disabled-persons-calls-for-unified-academic-standa-702dc72e",
+    "publishedAt": "2026-11-26T16:00:00.000Z",
+    "fetchedAt": "2026-11-26T19:50:29.662Z",
+    "body": "埃及殘障人士國家委員會強調，融合教育需要統一的學術標準和多樣的學習路徑，才能有效支持殘障學生。\n\n原文來源： [news.google.com](https://www.youm7.com/story/2026/11/26/%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%89-%D9%84%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%AF%D8%A7%D9%85%D8%AC-%D9%8A%D8%AD%D8%AA%D8%A7%D8%AC-%D9%85%D8%B9%D9%8A%D8%A7%D8%B1%D8%A7-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D8%A7-%D9%85%D9%88%D8%AD%D8%AF%D8%A7-%D9%88%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%A9/7633027)"
+  },
+  {
+    "title": "輔助器具與輪椅是每位身心障礙者的權利",
+    "slug": "assistive-devices-and-wheelchairs-are-a-right-for-all-persons-with-disabilities-zh-6ab642e2",
+    "lang": "zh-TW",
+    "summary": "Najlaa Al-Asili 主張輔助器具與輪椅是所有身心障礙人士的基本權利，強調平等獲取輔助科技的必要性。",
+    "category": "assistive-tech",
+    "tags": [
+      "assistive-devices",
+      "wheelchairs",
+      "rights",
+      "accessibility"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.altreeq.com/552000",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.altreeq.com/552000"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-6ab642e2",
+    "status": "published",
+    "translationOf": "assistive-devices-and-wheelchairs-are-a-right-for-all-persons-with-disabilities-6ab642e2",
+    "publishedAt": "2026-11-25T23:27:58.000Z",
+    "fetchedAt": "2026-11-26T19:50:45.468Z",
+    "body": "Najlaa Al-Asili 主張輔助器具與輪椅是所有身心障礙人士的基本權利，強調平等獲取輔助科技的必要性。\n\n原文來源： [news.google.com](https://www.altreeq.com/552000)"
+  },
+  {
+    "title": "亞歷山大大學無障礙發展委員會召開會議以改進學服務",
+    "slug": "alexandria-university-council-for-people-with-disabilities-meets-to-develop-stud-zh-af88d46b",
+    "lang": "zh-TW",
+    "summary": "亞歷山大大學無障礙發展委員會召開會議，討論如何改進和完善為殘障學服務，旨在提升校園的無障礙環境與支持體系。",
+    "category": "laws-rights",
+    "tags": [
+      "higher-education",
+      "services",
+      "accommodation",
+      "arabia",
+      "egypt"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.youm7.com/story/2026/11/26/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%A8%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9-%D9%84%D9%85%D9%86%D8%A7%D9%82%D8%B4%D8%A9-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/7633790",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.youm7.com/story/2026/11/26/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%A8%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9-%D9%84%D9%85%D9%86%D8%A7%D9%82%D8%B4%D8%A9-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/7633790"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-af88d46b",
+    "status": "published",
+    "translationOf": "alexandria-university-council-for-people-with-disabilities-meets-to-develop-stud-af88d46b",
+    "publishedAt": "2026-11-26T18:40:00.000Z",
+    "fetchedAt": "2026-11-26T19:50:51.916Z",
+    "body": "亞歷山大大學無障礙發展委員會召開會議，討論如何改進和完善為殘障學服務，旨在提升校園的無障礙環境與支持體系。\n\n原文來源： [news.google.com](https://www.youm7.com/story/2026/11/26/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%A8%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9-%D9%84%D9%85%D9%86%D8%A7%D9%82%D8%B4%D8%A9-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/7633790)"
+  },
+  {
+    "title": "社會互助部為587名聽障學生提供84名手語翻譯",
+    "slug": "social-solidarity-ministry-provides-84-sign-language-interpreters-for-587-deaf-a-zh-67b825ea",
+    "lang": "zh-TW",
+    "summary": "社會互助部已安排84名手語翻譯，為587名聽障或重聽學生提供服務，確保其教育環境的無障礙性。",
+    "category": "assistive-tech",
+    "tags": [
+      "sign-language",
+      "education",
+      "hearing-impairment"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.youm7.com/story/2026/11/26/%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D9%88%D9%81%D9%8A%D8%B1-84-%D9%85%D8%AA%D8%B1%D8%AC%D9%85-%D9%84%D8%BA%D8%A9-%D8%A5%D8%B4%D8%A7%D8%B1%D8%A9-%D9%84%D8%AE%D8%AF%D9%85%D8%A9-587-%D8%B7%D8%A7%D9%84%D8%A8%D8%A7-%D9%85%D9%86/7633032",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.youm7.com/story/2026/11/26/%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D9%88%D9%81%D9%8A%D8%B1-84-%D9%85%D8%AA%D8%B1%D8%AC%D9%85-%D9%84%D8%BA%D8%A9-%D8%A5%D8%B4%D8%A7%D8%B1%D8%A9-%D9%84%D8%AE%D8%AF%D9%85%D8%A9-587-%D8%B7%D8%A7%D9%84%D8%A8%D8%A7-%D9%85%D9%86/7633032"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-67b825ea",
+    "status": "published",
+    "translationOf": "social-solidarity-ministry-provides-84-sign-language-interpreters-for-587-deaf-a-67b825ea",
+    "publishedAt": "2026-11-26T13:00:00.000Z",
+    "fetchedAt": "2026-11-26T19:50:58.281Z",
+    "body": "社會互助部已安排84名手語翻譯，為587名聽障或重聽學生提供服務，確保其教育環境的無障礙性。\n\n原文來源： [news.google.com](https://www.youm7.com/story/2026/11/26/%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D9%88%D9%81%D9%8A%D8%B1-84-%D9%85%D8%AA%D8%B1%D8%AC%D9%85-%D9%84%D8%BA%D8%A9-%D8%A5%D8%B4%D8%A7%D8%B1%D8%A9-%D9%84%D8%AE%D8%AF%D9%85%D8%A9-587-%D8%B7%D8%A7%D9%84%D8%A8%D8%A7-%D9%85%D9%86/7633032)"
+  },
+  {
+    "title": "兒童代表首次參加試行「兒童議會」會議",
+    "slug": "children-with-disabilities-participate-in-trial-childrens-parliament-session-for-zh-3b3f6798",
+    "lang": "zh-TW",
+    "summary": "殘障兒童代表首次參加試行「兒童議會」會議，這標誌著包容性公民參與的重要一步。",
+    "category": "lifestyle-culture",
+    "tags": [
+      "inclusion",
+      "civic-engagement",
+      "disability-rights"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.vietnam.vn/ar/lan-dau-co-dai-bieu-tre-em-khuyet-tat-tham-gia-phien-hop-gia-dinh-quoc-hoi-tre-em",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.vietnam.vn/ar/lan-dau-co-dai-bieu-tre-em-khuyet-tat-tham-gia-phien-hop-gia-dinh-quoc-hoi-tre-em"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-3b3f6798",
+    "status": "published",
+    "translationOf": "children-with-disabilities-participate-in-trial-childrens-parliament-session-for-3b3f6798",
+    "publishedAt": "2026-11-25T05:54:52.000Z",
+    "fetchedAt": "2026-11-26T19:50:58.362Z",
+    "body": "殘障兒童代表首次參加試行「兒童議會」會議，這標誌著包容性公民參與的重要一步。\n\n原文來源： [news.google.com](https://www.vietnam.vn/ar/lan-dau-co-dai-bieu-tre-em-khuyet-tat-tham-gia-phien-hop-gia-dinh-quoc-hoi-tre-em)"
+  },
+  {
+    "title": "教育部：考量學生能力與需求的公平教育機會",
+    "slug": "education-ministry-fair-educational-opportunities-considering-student-abilities--zh-ecebcfac",
+    "lang": "zh-TW",
+    "summary": "教育部強調提供考量學生特定能力與需求的公平教育機會，包括有殘障的學生。",
+    "category": "general",
+    "tags": [
+      "education",
+      "equity",
+      "special-needs"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://al-sharq.com/article/26/11/2026/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%81%D8%B1%D8%B5-%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9-%D8%B9%D8%A7%D8%AF%D9%84%D8%A9-%D8%AA%D8%B1%D8%A7%D8%B9%D9%8A-%D9%82%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D9%88%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%AC%D8%A7%D8%AA%D9%87%D9%85",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://al-sharq.com/article/26/11/2026/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%81%D8%B1%D8%B5-%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9-%D8%B9%D8%A7%D8%AF%D9%84%D8%A9-%D8%AA%D8%B1%D8%A7%D8%B9%D9%8A-%D9%82%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D9%88%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%AC%D8%A7%D8%AA%D9%87%D9%85"
+      }
+    ],
+    "sourceCountry": "AE",
+    "queryRegion": "AE",
+    "region": "AE",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%22%D8%B0%D9%88%D9%8A+%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9%22&hl=ar&gl=AE&ceid=AE%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-ecebcfac",
+    "status": "published",
+    "translationOf": "education-ministry-fair-educational-opportunities-considering-student-abilities--ecebcfac",
+    "publishedAt": "2026-11-26T07:07:06.000Z",
+    "fetchedAt": "2026-11-26T19:50:58.465Z",
+    "body": "教育部強調提供考量學生特定能力與需求的公平教育機會，包括有殘障的學生。\n\n原文來源： [news.google.com](https://al-sharq.com/article/26/11/2026/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%81%D8%B1%D8%B5-%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9-%D8%B9%D8%A7%D8%AF%D9%84%D8%A9-%D8%AA%D8%B1%D8%A7%D8%B9%D9%8A-%D9%82%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D9%88%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%AC%D8%A7%D8%AA%D9%87%D9%85)"
   }
 ]
