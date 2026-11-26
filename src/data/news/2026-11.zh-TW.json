@@ -58655,5 +58655,456 @@
     "publishedAt": "2026-11-23T05:01:00.000Z",
     "fetchedAt": "2026-11-26T18:30:31.798Z",
     "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [accessinformationnews.com](https://accessinformationnews.com/over-90-percent-of-readers-matched-to-linkedin)"
+  },
+  {
+    "title": "人行道的朋友還是敵人：Grubhub 送餐員的無障礙風險與配套措施",
+    "slug": "friend-or-foe-on-the-sidewalk-grubhub-rovers-accessibility-risk-and-accommodatio-zh-d82e053b",
+    "lang": "zh-TW",
+    "summary": "本文探討 Grubhub 的人行道送餐員（Rovers）可能對行動不便者造成的障礙，並討論改善人行道無障礙性的可能配套與政策調整。",
+    "category": "physical-design",
+    "tags": [
+      "Grubhub",
+      "sidewalk",
+      "mobility",
+      "public space",
+      "accommodations"
+    ],
+    "sourceName": "The Lantern",
+    "sourceUrl": "https://www.thelantern.com/2026/11/friend-or-foe-on-the-sidewalk-grubhub-rovers-accessibility-risk-and-accommodations",
+    "relatedSources": [
+      {
+        "name": "The Lantern",
+        "url": "https://www.thelantern.com/2026/11/friend-or-foe-on-the-sidewalk-grubhub-rovers-accessibility-risk-and-accommodations"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-d82e053b",
+    "status": "published",
+    "translationOf": "friend-or-foe-on-the-sidewalk-grubhub-rovers-accessibility-risk-and-accommodatio-d82e053b",
+    "publishedAt": "2026-11-25T05:37:55.000Z",
+    "fetchedAt": "2026-11-26T18:26:19.531Z",
+    "body": "本文探討 Grubhub 的人行道送餐員（Rovers）可能對行動不便者造成的障礙，並討論改善人行道無障礙性的可能配套與政策調整。\n\n原文來源： [The Lantern](https://www.thelantern.com/2026/11/friend-or-foe-on-the-sidewalk-grubhub-rovers-accessibility-risk-and-accommodations)"
+  },
+  {
+    "title": "《Ramayana》語言應用程式在 42 國超過 10 萬觀眾後成為 IFFI 無障礙合作夥伴",
+    "slug": "ramayana-language-app-cinedubs-named-iffi-accessibility-partner-after-reaching-m-zh-5790c0a9",
+    "lang": "zh-TW",
+    "summary": "報導指出《Ramayana》語言應用提供影視配音與字幕，成為 IFFI 無障礙合作夥伴，凸顯其為聽障與視障觀眾提供音訊描述與字幕的助益。",
+    "category": "assistive-tech",
+    "tags": [
+      "Ramayana",
+      "cinedubs",
+      "audio description",
+      "captioning",
+      "film festivals",
+      "assistive technology"
+    ],
+    "sourceName": "Variety",
+    "sourceUrl": "https://variety.com/2026/film/festivals/ramayana-app-cinedubs-iffi-2026-accessibility-partner-1236957861",
+    "relatedSources": [
+      {
+        "name": "Variety",
+        "url": "https://variety.com/2026/film/festivals/ramayana-app-cinedubs-iffi-2026-accessibility-partner-1236957861"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-5790c0a9",
+    "status": "published",
+    "translationOf": "ramayana-language-app-cinedubs-named-iffi-accessibility-partner-after-reaching-m-5790c0a9",
+    "publishedAt": "2026-11-25T11:52:00.000Z",
+    "fetchedAt": "2026-11-26T18:26:19.632Z",
+    "body": "報導指出《Ramayana》語言應用提供影視配音與字幕，成為 IFFI 無障礙合作夥伴，凸顯其為聽障與視障觀眾提供音訊描述與字幕的助益。\n\n原文來源： [Variety](https://variety.com/2026/film/festivals/ramayana-app-cinedubs-iffi-2026-accessibility-partner-1236957861)"
+  },
+  {
+    "title": "APEX FTE EXPO 2026：打造更具無障礙與包容性的機上體驗",
+    "slug": "apex-fte-expo-2026-designing-a-more-accessible-and-inclusive-inflight-experience-zh-9b665516",
+    "lang": "zh-TW",
+    "summary": "本文報導 APEX Media 對 APEX FTE Expo 2026 的報導，重點說明提升飛機客艙無障礙與包容性的各項措施，包括座椅、洗手間、標示的重新設計，以及為身障乘客整合輔助技術。",
+    "category": "physical-design",
+    "tags": [
+      "inflight",
+      "accessibility",
+      "inclusive design",
+      "aviation",
+      "APEX"
+    ],
+    "sourceName": "APEX Media",
+    "sourceUrl": "https://apex.aero/articles/apex-fte-expo-2026-designing-a-more-accessible-and-inclusive-inflight-experience",
+    "relatedSources": [
+      {
+        "name": "APEX Media",
+        "url": "https://apex.aero/articles/apex-fte-expo-2026-designing-a-more-accessible-and-inclusive-inflight-experience"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=accessibility&hl=en-US&gl=US&ceid=US%3Aen",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-9b665516",
+    "status": "published",
+    "translationOf": "apex-fte-expo-2026-designing-a-more-accessible-and-inclusive-inflight-experience-9b665516",
+    "publishedAt": "2026-11-26T12:02:47.000Z",
+    "fetchedAt": "2026-11-26T18:28:31.119Z",
+    "body": "本文報導 APEX Media 對 APEX FTE Expo 2026 的報導，重點說明提升飛機客艙無障礙與包容性的各項措施，包括座椅、洗手間、標示的重新設計，以及為身障乘客整合輔助技術。\n\n原文來源： [APEX Media](https://apex.aero/articles/apex-fte-expo-2026-designing-a-more-accessible-and-inclusive-inflight-experience)"
+  },
+  {
+    "title": "台中太平公園無障礙通道設柵欄 輪椅、嬰兒車通行受阻",
+    "slug": "taichung-taiping-park-accessible-path-blocked-by-fence-hindering-wheelchairs-and-zh-2699c611",
+    "lang": "zh-TW",
+    "summary": "台中太平公園新設的無障礙通道被柵欄阻擋，導致輪椅與嬰兒車無法通行，引發對障礙設計不當的關注與改善需求。",
+    "category": "physical-design",
+    "tags": [
+      "park",
+      "accessible design",
+      "wheelchair",
+      "stroller",
+      "Taiwan"
+    ],
+    "sourceName": "公視新聞",
+    "sourceUrl": "https://news.pts.org.tw/article/836688",
+    "relatedSources": [
+      {
+        "name": "公視新聞",
+        "url": "https://news.pts.org.tw/article/836688"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-2699c611",
+    "status": "published",
+    "translationOf": "taichung-taiping-park-accessible-path-blocked-by-fence-hindering-wheelchairs-and-2699c611",
+    "publishedAt": "2026-11-20T12:21:28.000Z",
+    "fetchedAt": "2026-11-26T18:30:46.947Z",
+    "body": "台中太平公園新設的無障礙通道被柵欄阻擋，導致輪椅與嬰兒車無法通行，引發對障礙設計不當的關注與改善需求。\n\n原文來源： [公視新聞](https://news.pts.org.tw/article/836688)"
+  },
+  {
+    "title": "謝國樑團隊突破前任框架 從經濟支持到無障礙空間 全方位守護高齡與身障市民",
+    "slug": "team-led-by-hsieh-kuo-liang-expands-support-from-economic-aid-to-accessible-spac-zh-2e3ec18d",
+    "lang": "zh-TW",
+    "summary": "謝國樑團隊推出結合經濟補助與無障礙空間的全方位方案，致力於全台高齡與身障市民的生活保障。",
+    "category": "case-studies",
+    "tags": [
+      "policy",
+      "social welfare",
+      "accessibility",
+      "elderly",
+      "disabled",
+      "Taiwan"
+    ],
+    "sourceName": "Yahoo新聞",
+    "sourceUrl": "https://tw.news.yahoo.com/%E8%AC%9D%E5%9C%8B%E6%A8%91%E5%9C%98%E9%9A%8A%E7%AA%81%E7%A0%B4%E5%89%8D%E4%BB%BB%E6%A1%86%E6%9E%B6-%E5%BE%9E%E7%B6%93%E6%BF%9F%E6%94%AF%E6%8C%81%E5%88%B0%E7%84%A1%E9%9A%9C%E7%A4%99%E7%A9%BA%E9%96%93-%E5%85%A8%E6%96%B9%E4%BD%8D%E5%AE%88%E8%AD%B7%E9%AB%98%E9%BD%A1%E8%88%87%E8%BA%AB%E9%9A%9C%E5%B8%82%E6%B0%91-060617838.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo新聞",
+        "url": "https://tw.news.yahoo.com/%E8%AC%9D%E5%9C%8B%E6%A8%91%E5%9C%98%E9%9A%8A%E7%AA%81%E7%A0%B4%E5%89%8D%E4%BB%BB%E6%A1%86%E6%9E%B6-%E5%BE%9E%E7%B6%93%E6%BF%9F%E6%94%AF%E6%8C%81%E5%88%B0%E7%84%A1%E9%9A%9C%E7%A4%99%E7%A9%BA%E9%96%93-%E5%85%A8%E6%96%B9%E4%BD%8D%E5%AE%88%E8%AD%B7%E9%AB%98%E9%BD%A1%E8%88%87%E8%BA%AB%E9%9A%9C%E5%B8%82%E6%B0%91-060617838.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-2e3ec18d",
+    "status": "published",
+    "translationOf": "team-led-by-hsieh-kuo-liang-expands-support-from-economic-aid-to-accessible-spac-2e3ec18d",
+    "publishedAt": "2026-11-24T06:06:17.000Z",
+    "fetchedAt": "2026-11-26T18:30:47.045Z",
+    "body": "謝國樑團隊推出結合經濟補助與無障礙空間的全方位方案，致力於全台高齡與身障市民的生活保障。\n\n原文來源： [Yahoo新聞](https://tw.news.yahoo.com/%E8%AC%9D%E5%9C%8B%E6%A8%91%E5%9C%98%E9%9A%8A%E7%AA%81%E7%A0%B4%E5%89%8D%E4%BB%BB%E6%A1%86%E6%9E%B6-%E5%BE%9E%E7%B6%93%E6%BF%9F%E6%94%AF%E6%8C%81%E5%88%B0%E7%84%A1%E9%9A%9C%E7%A4%99%E7%A9%BA%E9%96%93-%E5%85%A8%E6%96%B9%E4%BD%8D%E5%AE%88%E8%AD%B7%E9%AB%98%E9%BD%A1%E8%88%87%E8%BA%AB%E9%9A%9C%E5%B8%82%E6%B0%91-060617838.html)"
+  },
+  {
+    "title": "強化國會原民元素、無障礙 立院允研議改善",
+    "slug": "legislative-yuan-to-study-enhancements-for-indigenous-representation-and-accessi-zh-055dd875",
+    "lang": "zh-TW",
+    "summary": "立法院同意研議提升原住民族元素與改善議會內部無障礙設施，顯示對包容性環境的重視。",
+    "category": "laws-rights",
+    "tags": [
+      "legislation",
+      "accessibility",
+      "indigenous",
+      "Taiwan",
+      "parliament"
+    ],
+    "sourceName": "原住民族文化事業基金會",
+    "sourceUrl": "https://news.ipcf.org.tw/215723",
+    "relatedSources": [
+      {
+        "name": "原住民族文化事業基金會",
+        "url": "https://news.ipcf.org.tw/215723"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E7%84%A1%E9%9A%9C%E7%A4%99&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-055dd875",
+    "status": "published",
+    "translationOf": "legislative-yuan-to-study-enhancements-for-indigenous-representation-and-accessi-055dd875",
+    "publishedAt": "2026-11-19T11:23:00.000Z",
+    "fetchedAt": "2026-11-26T18:30:47.115Z",
+    "body": "立法院同意研議提升原住民族元素與改善議會內部無障礙設施，顯示對包容性環境的重視。\n\n原文來源： [原住民族文化事業基金會](https://news.ipcf.org.tw/215723)"
+  },
+  {
+    "title": "歐洲議會對 AgoraEU 計畫採取雄心勃勃的立場",
+    "slug": "european-parliament-adopts-ambitious-position-on-agoraeu-programme-zh-2da8b9e9",
+    "lang": "zh-TW",
+    "summary": "歐洲議會批准了對 AgoraEU 計畫的修訂立場，將預算提升至 107.2 億歐元，高於歐盟委員會最初的 85.8 億歐元提案，儘管成員國要求削減 30%。該計畫旨在加強全歐洲的殘障包容與無障礙措施。",
+    "category": "laws-rights",
+    "tags": [
+      "EU",
+      "AgoraEU",
+      "budget",
+      "disability",
+      "accessibility",
+      "policy"
+    ],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.edf-feph.org/european-parliament-adopts-ambitious-position-on-agoraeu-programme",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.edf-feph.org/european-parliament-adopts-ambitious-position-on-agoraeu-programme"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.edf-feph.org/feed",
+    "ingestProvider": "edf-feph.org",
+    "clusterId": "cluster-2da8b9e9",
+    "status": "published",
+    "translationOf": "european-parliament-adopts-ambitious-position-on-agoraeu-programme-2da8b9e9",
+    "publishedAt": "2026-11-26T08:47:17.000Z",
+    "fetchedAt": "2026-11-26T18:33:19.814Z",
+    "body": "歐洲議會批准了對 AgoraEU 計畫的修訂立場，將預算提升至 107.2 億歐元，高於歐盟委員會最初的 85.8 億歐元提案，儘管成員國要求削減 30%。該計畫旨在加強全歐洲的殘障包容與無障礙措施。\n\n原文來源： [Unknown source](https://www.edf-feph.org/european-parliament-adopts-ambitious-position-on-agoraeu-programme)"
+  },
+  {
+    "title": "Mike Ervin，劇作家與身心障礙權益倡導者逝世，享年70歲",
+    "slug": "mike-ervin-playwright-and-disability-rights-activist-dies-at-70-zh-ebaecb56",
+    "lang": "zh-TW",
+    "summary": "Mike Ervin 是劇作家兼長期身心障礙權益倡導者，於70歲逝世。他以推動無障礙與殘障者在戲劇中的代表性聞名。",
+    "category": "case-studies",
+    "tags": [
+      "disability rights",
+      "activist",
+      "theatre",
+      "obituary",
+      "Mike Ervin"
+    ],
+    "sourceName": "Chicago Reader",
+    "sourceUrl": "https://chicagoreader.com/performing-arts/theater/mike-ervin-obituary-2026",
+    "relatedSources": [
+      {
+        "name": "Chicago Reader",
+        "url": "https://chicagoreader.com/performing-arts/theater/mike-ervin-obituary-2026"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-ebaecb56",
+    "status": "published",
+    "translationOf": "mike-ervin-playwright-and-disability-rights-activist-dies-at-70-ebaecb56",
+    "publishedAt": "2026-11-25T18:00:33.000Z",
+    "fetchedAt": "2026-11-26T18:34:10.956Z",
+    "body": "Mike Ervin 是劇作家兼長期身心障礙權益倡導者，於70歲逝世。他以推動無障礙與殘障者在戲劇中的代表性聞名。\n\n原文來源： [Chicago Reader](https://chicagoreader.com/performing-arts/theater/mike-ervin-obituary-2026)"
+  },
+  {
+    "title": "選舉委員會審查西孟加拉邦450萬身障選民的無障礙措施，呼籲擴大納入範圍",
+    "slug": "ec-reviews-accessibility-measures-for-over-45-lakh-pwd-voters-in-bengal-seeks-wi-zh-8cc86b61",
+    "lang": "zh-TW",
+    "summary": "西孟加拉邦選舉委員會檢視2026年選舉的無障礙措施，涵蓋坡道、盲文選票、居家投票、交通及BLO協助，NGO要求擴大身障類別。",
+    "category": "laws-rights",
+    "tags": [
+      "election",
+      "accessibility",
+      "Braille ballots",
+      "ramps",
+      "home voting",
+      "India",
+      "disability inclusion"
+    ],
+    "sourceName": "The Times of India",
+    "sourceUrl": "https://timesofindia.indiatimes.com/city/kolkata/ec-reviews-accessibility-measures-for-over-4-5-lakh-pwd-voters-in-bengal-seeks-wider-inclusion/articleshow/136166977.cms",
+    "relatedSources": [
+      {
+        "name": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/kolkata/ec-reviews-accessibility-measures-for-over-4-5-lakh-pwd-voters-in-bengal-seeks-wider-inclusion/articleshow/136166977.cms"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-8cc86b61",
+    "status": "published",
+    "translationOf": "ec-reviews-accessibility-measures-for-over-45-lakh-pwd-voters-in-bengal-seeks-wi-8cc86b61",
+    "publishedAt": "2026-11-25T15:51:59.000Z",
+    "fetchedAt": "2026-11-26T18:34:11.060Z",
+    "body": "西孟加拉邦選舉委員會檢視2026年選舉的無障礙措施，涵蓋坡道、盲文選票、居家投票、交通及BLO協助，NGO要求擴大身障類別。\n\n原文來源： [The Times of India](https://timesofindia.indiatimes.com/city/kolkata/ec-reviews-accessibility-measures-for-over-4-5-lakh-pwd-voters-in-bengal-seeks-wider-inclusion/articleshow/136166977.cms)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "a11y-toolkit-5352-zh-24fa1572",
+    "lang": "zh-TW",
+    "summary": "a11y-toolkit 5.35.2 是一個 Python 套件，為 AI 程式碼代理提供無障礙層，支援 WCAG 2.2 靜態與渲染稽核、對比度分析、目標尺寸檢查、焦點管理與合規聲明。",
+    "category": "digital-a11y",
+    "tags": [
+      "accessibility tool",
+      "WCAG 2.2",
+      "Python",
+      "AI coding agents",
+      "audit",
+      "contrast"
+    ],
+    "sourceName": "Pypi.org",
+    "sourceUrl": "https://pypi.org/project/a11y-toolkit/5.35.2",
+    "relatedSources": [
+      {
+        "name": "Pypi.org",
+        "url": "https://pypi.org/project/a11y-toolkit/5.35.2"
+      }
+    ],
+    "sourceCountry": "US",
+    "queryRegion": "US",
+    "region": "US",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-24fa1572",
+    "status": "draft",
+    "translationOf": "a11y-toolkit-5352-24fa1572",
+    "publishedAt": "2026-11-25T14:17:56.000Z",
+    "fetchedAt": "2026-11-26T18:34:11.126Z",
+    "body": "a11y-toolkit 5.35.2 是一個 Python 套件，為 AI 程式碼代理提供無障礙層，支援 WCAG 2.2 靜態與渲染稽核、對比度分析、目標尺寸檢查、焦點管理與合規聲明。\n\n原文來源： [Pypi.org](https://pypi.org/project/a11y-toolkit/5.35.2)"
+  },
+  {
+    "title": "AI 招募成身障者雙面刃 國際研究揭暗藏歧視風險",
+    "slug": "ai-recruitment-becomes-a-doubleedged-sword-for-persons-with-disabilities-interna-zh-79fc4f33",
+    "lang": "zh-TW",
+    "summary": "系統性文獻回顧（2020‑2026 年 21 篇）發現在《Science and Engineering Ethics》發表的研究指出，AI 招募系統可透過自適應介面與自動篩選為身心障礙求職者帶來實質無障礙效益，但同時也伴隨顯著的倫理風險與演算法偏見，可能加深對弱勢群體的就業歧視。研究呼籲加強監管與包容性設計以降低此類風險。",
+    "category": "assistive-tech",
+    "tags": [
+      "AI recruitment",
+      "disability employment",
+      "algorithmic bias",
+      "ethical risk",
+      "accessibility",
+      "adaptive interface"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://tw.stock.yahoo.com/news/ai-%E6%8B%9B%E5%8B%9F%E6%88%90%E8%BA%AB%E9%9A%9C%E8%80%85%E9%9B%99%E9%9D%A2%E5%88%83-%E5%9C%8B%E9%9A%9B%E7%A0%94%E7%A9%B6%E6%8F%AD%E6%9A%97%E8%97%8F%E6%AD%A7%E8%A6%96%E9%A2%A8%E9%9A%AA-145541055.html",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://tw.stock.yahoo.com/news/ai-%E6%8B%9B%E5%8B%9F%E6%88%90%E8%BA%AB%E9%9A%9C%E8%80%85%E9%9B%99%E9%9D%A2%E5%88%83-%E5%9C%8B%E9%9A%9B%E7%A0%94%E7%A9%B6%E6%8F%AD%E6%9A%97%E8%97%8F%E6%AD%A7%E8%A6%96%E9%A2%A8%E9%9A%AA-145541055.html"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-79fc4f33",
+    "status": "published",
+    "translationOf": "ai-recruitment-becomes-a-doubleedged-sword-for-persons-with-disabilities-interna-79fc4f33",
+    "publishedAt": "2026-11-25T14:55:41.000Z",
+    "fetchedAt": "2026-11-26T18:34:26.610Z",
+    "body": "系統性文獻回顧（2020‑2026 年 21 篇）發現在《Science and Engineering Ethics》發表的研究指出，AI 招募系統可透過自適應介面與自動篩選為身心障礙求職者帶來實質無障礙效益，但同時也伴隨顯著的倫理風險與演算法偏見，可能加深對弱勢群體的就業歧視。研究呼籲加強監管與包容性設計以降低此類風險。\n\n原文來源： [Yahoo Entertainment](https://tw.stock.yahoo.com/news/ai-%E6%8B%9B%E5%8B%9F%E6%88%90%E8%BA%AB%E9%9A%9C%E8%80%85%E9%9B%99%E9%9D%A2%E5%88%83-%E5%9C%8B%E9%9A%9B%E7%A0%94%E7%A9%B6%E6%8F%AD%E6%9A%97%E8%97%8F%E6%AD%A7%E8%A6%96%E9%A2%A8%E9%9A%AA-145541055.html)"
+  },
+  {
+    "title": "謝國樑團隊全方位守護高齡與身障市民",
+    "slug": "mayor-hsiehs-team-provides-comprehensive-support-for-elderly-and-disabled-citize-zh-fe61f532",
+    "lang": "zh-TW",
+    "summary": "基隆市長謝國樑將高齡與身障福利列為施政重點，擴大現金補助、導入數位智慧防災、活化閒置空間、整頓行人環境，並推動「長樂65專案」等，全面升級城市的無障礙軟硬體與經濟支持，成為城市無障礙政策的案例。",
+    "category": "case-studies",
+    "tags": [
+      "elderly",
+      "disability",
+      "policy",
+      "digital-tech",
+      "urban-design",
+      "cash-subsidy"
+    ],
+    "sourceName": "Yahoo Entertainment",
+    "sourceUrl": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_55b49c56-9aa7-4d31-b1a6-baf4943e06f1",
+    "relatedSources": [
+      {
+        "name": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_55b49c56-9aa7-4d31-b1a6-baf4943e06f1"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-fe61f532",
+    "status": "published",
+    "translationOf": "mayor-hsiehs-team-provides-comprehensive-support-for-elderly-and-disabled-citize-fe61f532",
+    "publishedAt": "2026-11-24T12:22:35.000Z",
+    "fetchedAt": "2026-11-26T18:35:24.337Z",
+    "body": "基隆市長謝國樑將高齡與身障福利列為施政重點，擴大現金補助、導入數位智慧防災、活化閒置空間、整頓行人環境，並推動「長樂65專案」等，全面升級城市的無障礙軟硬體與經濟支持，成為城市無障礙政策的案例。\n\n原文來源： [Yahoo Entertainment](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_55b49c56-9aa7-4d31-b1a6-baf4943e06f1)"
+  },
+  {
+    "title": "Adobe Photoshop 插件「CUD & Accessibility Suite」上市，協助檢測與調整色彩通用設計與無障礙",
+    "slug": "adobe-photoshop-plugin-cud-accessibility-suite-launched-to-support-color-univers-zh-114c0619",
+    "lang": "zh-TW",
+    "summary": "Core 公司推出 Photoshop 插件「CUD & Accessibility Suite」，協助設計師檢測與調整色彩通用設計及無障礙需求，提升設計過程中的可及性符合性。",
+    "category": "digital-a11y",
+    "tags": [
+      "Adobe",
+      "Photoshop",
+      "plugin",
+      "color-universal-design",
+      "accessibility",
+      "design-tool"
+    ],
+    "sourceName": "Prtimes.jp",
+    "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000049.000070745.html",
+    "relatedSources": [
+      {
+        "name": "Prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000049.000070745.html"
+      }
+    ],
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-114c0619",
+    "status": "published",
+    "translationOf": "adobe-photoshop-plugin-cud-accessibility-suite-launched-to-support-color-univers-114c0619",
+    "publishedAt": "2026-11-13T02:40:43.000Z",
+    "fetchedAt": "2026-11-26T18:35:24.442Z",
+    "body": "Core 公司推出 Photoshop 插件「CUD & Accessibility Suite」，協助設計師檢測與調整色彩通用設計及無障礙需求，提升設計過程中的可及性符合性。\n\n原文來源： [Prtimes.jp](https://prtimes.jp/main/html/rd/p/000000049.000070745.html)"
   }
 ]
