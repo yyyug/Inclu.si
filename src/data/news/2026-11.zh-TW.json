@@ -58562,5 +58562,98 @@
     "publishedAt": "2026-11-25T13:47:53.000Z",
     "fetchedAt": "2026-11-25T20:11:31.860Z",
     "body": "殘障基金與牧羊人兒童中心舉辦了慶祝國際殘障人士日的活動，重點關注康復與照護服務。\n\n原文來源： [news.google.com](https://cratar.net/archives/442279)"
+  },
+  {
+    "title": "在燈塔尋找獨立：Anousone 的工作之旅",
+    "slug": "finding-independence-through-work-anousones-journey-at-the-lighthouse-zh-f22027cd",
+    "lang": "zh-TW",
+    "summary": "Anousone Zent 在華盛頓州斯波坎的盲人燈塔工作，重建獨立與自信，說明盲人就業機會。",
+    "category": "case-studies",
+    "tags": [
+      "blindness",
+      "employment",
+      "independence"
+    ],
+    "sourceName": "lhblind.org",
+    "sourceUrl": "https://lhblind.org/employment-for-people-who-are-blind-anousone",
+    "relatedSources": [
+      {
+        "name": "lhblind.org",
+        "url": "https://lhblind.org/employment-for-people-who-are-blind-anousone"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://lhblind.org/feed",
+    "ingestProvider": "lhblind.org",
+    "clusterId": "cluster-f22027cd",
+    "status": "published",
+    "translationOf": "finding-independence-through-work-anousones-journey-at-the-lighthouse-f22027cd",
+    "publishedAt": "2026-11-23T23:03:30.000Z",
+    "fetchedAt": "2026-11-26T18:30:31.603Z",
+    "body": "Anousone Zent 在華盛頓州斯波坎的盲人燈塔工作，重建獨立與自信，說明盲人就業機會。\n\n原文來源： [lhblind.org](https://lhblind.org/employment-for-people-who-are-blind-anousone)"
+  },
+  {
+    "title": "盲文識字？聽眾對閱讀、拼寫與選擇的回饋",
+    "slug": "is-braille-literacy-listener-feedback-on-reading-spelling-and-choice-zh-a53c61ac",
+    "lang": "zh-TW",
+    "summary": "Double Tap 播客討論盲文識字，探討聆聽是否算閱讀，以及盲人使用科技的選擇。",
+    "category": "assistive-tech",
+    "tags": [
+      "braille",
+      "literacy",
+      "technology",
+      "blindness"
+    ],
+    "sourceName": "doubletaponair.com",
+    "sourceUrl": "https://doubletaponair.com/is-braille-literacy-listener-feedback-on-reading-spelling-and-choice-2",
+    "relatedSources": [
+      {
+        "name": "doubletaponair.com",
+        "url": "https://doubletaponair.com/is-braille-literacy-listener-feedback-on-reading-spelling-and-choice-2"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://doubletaponair.com/feed",
+    "ingestProvider": "doubletaponair.com",
+    "clusterId": "cluster-a53c61ac",
+    "status": "published",
+    "translationOf": "is-braille-literacy-listener-feedback-on-reading-spelling-and-choice-a53c61ac",
+    "publishedAt": "2026-11-25T17:44:17.000Z",
+    "fetchedAt": "2026-11-26T18:30:31.719Z",
+    "body": "Double Tap 播客討論盲文識字，探討聆聽是否算閱讀，以及盲人使用科技的選擇。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/is-braille-literacy-listener-feedback-on-reading-spelling-and-choice-2)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "over-90-of-access-information-news-readers-matched-to-linkedin-profiles-zh-05703f19",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "accessinformationnews.com",
+    "sourceUrl": "https://accessinformationnews.com/over-90-percent-of-readers-matched-to-linkedin",
+    "relatedSources": [
+      {
+        "name": "accessinformationnews.com",
+        "url": "https://accessinformationnews.com/over-90-percent-of-readers-matched-to-linkedin"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://accessinformationnews.com/feed",
+    "ingestProvider": "accessinformationnews.com",
+    "clusterId": "cluster-05703f19",
+    "status": "draft",
+    "translationOf": "over-90-of-access-information-news-readers-matched-to-linkedin-profiles-05703f19",
+    "publishedAt": "2026-11-23T05:01:00.000Z",
+    "fetchedAt": "2026-11-26T18:30:31.798Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [accessinformationnews.com](https://accessinformationnews.com/over-90-percent-of-readers-matched-to-linkedin)"
   }
 ]
