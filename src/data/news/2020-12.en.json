@@ -31,5 +31,39 @@
     "publishedAt": "2020-12-03T08:00:00.000Z",
     "fetchedAt": "2026-10-30T16:51:50.520Z",
     "body": "The Eastern Governorate of Saudi Arabia announced the completion of universal access projects in early 2021, focusing on infrastructure that supports individuals with disabilities.\n\nRead more from the original source: [news.google.com](https://alraynews.net/6534934.htm)"
+  },
+  {
+    "title": "March at the foot of the Pyramids calls for access to assistive technologies for people with disabilities",
+    "slug": "march-at-the-foot-of-the-pyramids-calls-for-access-to-assistive-technologies-for-cde4bc11",
+    "lang": "en",
+    "summary": "A United Nations Development Programme press release highlights a march held at the foot of the Pyramids, demanding improved access to assistive technologies for individuals with disabilities.",
+    "category": "assistive-tech",
+    "tags": [
+      "assistive-tech",
+      "UNDP",
+      "Egypt",
+      "advocacy"
+    ],
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://www.undp.org/ar/arab-states/press-releases/msyrt-fy-sfh-alhrm-tdw-lataht-altqnyat-almsadt-llashkhas-dhwy-alaaqt",
+    "relatedSources": [
+      {
+        "name": "news.google.com",
+        "url": "https://www.undp.org/ar/arab-states/press-releases/msyrt-fy-sfh-alhrm-tdw-lataht-altqnyat-almsadt-llashkhas-dhwy-alaaqt"
+      }
+    ],
+    "sourceCountry": "EG",
+    "queryRegion": "EG",
+    "region": "EG",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA+%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9&hl=ar&gl=EG&ceid=EG%3Aar",
+    "ingestProvider": "news.google.com",
+    "originalLang": "ar",
+    "clusterId": "cluster-cde4bc11",
+    "status": "published",
+    "translationOf": "march-at-the-foot-of-the-pyramids-calls-for-access-to-assistive-technologies-for-zh-cde4bc11",
+    "publishedAt": "2020-12-17T08:00:00.000Z",
+    "fetchedAt": "2026-11-27T19:39:38.687Z",
+    "body": "A United Nations Development Programme press release highlights a march held at the foot of the Pyramids, demanding improved access to assistive technologies for individuals with disabilities.\n\nRead more from the original source: [news.google.com](https://www.undp.org/ar/arab-states/press-releases/msyrt-fy-sfh-alhrm-tdw-lataht-altqnyat-almsadt-llashkhas-dhwy-alaaqt)"
   }
 ]
