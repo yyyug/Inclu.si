@@ -60350,5 +60350,103 @@
     "publishedAt": "2026-11-27T17:32:23.000Z",
     "fetchedAt": "2026-11-27T18:18:34.804Z",
     "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [doubletaponair.com](https://doubletaponair.com/listener-asks-if-phone-ai-is-going-backwards-after-gemini-refuses-a-calendar-job)"
+  },
+  {
+    "title": "舉辦「認知症無障礙資訊交流會」- 厚生勞動省",
+    "slug": "mhlw-to-hold-dementia-barrierfree-information-exchange-meeting-zh-48105a83",
+    "lang": "zh-TW",
+    "summary": "日本厚生勞動省宣布舉辦「認知症無障礙資訊交流會」，旨在交流提升認知症患者無障礙環境與支援的資訊。",
+    "category": "laws-rights",
+    "tags": [
+      "dementia",
+      "barrier‑free",
+      "information exchange",
+      "Japan",
+      "Ministry of Health"
+    ],
+    "sourceName": "厚生労働省",
+    "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_241219_00014.html",
+    "relatedSources": [
+      {
+        "name": "厚生労働省",
+        "url": "https://www.mhlw.go.jp/stf/newpage_241219_00014.html"
+      }
+    ],
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E3%83%90%E3%83%AA%E3%82%A2%E3%83%95%E3%83%AA%E3%83%BC&hl=ja&gl=JP&ceid=JP%3Aja",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-48105a83",
+    "status": "published",
+    "translationOf": "mhlw-to-hold-dementia-barrierfree-information-exchange-meeting-48105a83",
+    "publishedAt": "2026-11-26T06:53:53.000Z",
+    "fetchedAt": "2026-11-27T18:14:36.632Z",
+    "body": "日本厚生勞動省宣布舉辦「認知症無障礙資訊交流會」，旨在交流提升認知症患者無障礙環境與支援的資訊。\n\n原文來源： [厚生労働省](https://www.mhlw.go.jp/stf/newpage_241219_00014.html)"
+  },
+  {
+    "title": "無障礙新聞",
+    "slug": "welfare-overhaul-plans-put-rare-focus-on-improving-benefits-system-for-disabled--zh-add32120",
+    "lang": "zh-TW",
+    "summary": "此新聞的中文摘要尚待翻譯。",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/world/2026/nov/26/timms-review-pip-disability-benefits-claimants",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/world/2026/nov/26/timms-review-pip-disability-benefits-claimants"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-add32120",
+    "status": "draft",
+    "translationOf": "welfare-overhaul-plans-put-rare-focus-on-improving-benefits-system-for-disabled--add32120",
+    "publishedAt": "2026-11-26T06:00:47.000Z",
+    "fetchedAt": "2026-11-27T18:16:00.547Z",
+    "body": "此新聞的中文摘要尚待翻譯。\n\n原文來源： [Unknown source](https://www.theguardian.com/world/2026/nov/26/timms-review-pip-disability-benefits-claimants)"
+  },
+  {
+    "title": "LINE 網頁版將於 2027 年 1 月 26 日停用；電腦版先行補齊無障礙功能",
+    "slug": "line-web-version-to-end-desktop-app-adds-accessibility-features-zh-a1ffbedb",
+    "lang": "zh-TW",
+    "summary": "LINE 網頁版將於 2027 年 1 月 26 日停止服務，使用者需改用 LINE 電腦版。電腦版自 26.6.0 版起加入螢幕閱讀器等無障礙支援，彌補視障族群過去依賴網頁版的使用缺口。",
+    "category": "digital-a11y",
+    "tags": [
+      "LINE",
+      "web version",
+      "desktop app",
+      "accessibility",
+      "screen reader",
+      "visually impaired",
+      "service discontinuation"
+    ],
+    "sourceName": "Techbang.com",
+    "sourceUrl": "https://www.techbang.com/posts/135124-line-web-version-ending-january-2025",
+    "relatedSources": [
+      {
+        "name": "Techbang.com",
+        "url": "https://www.techbang.com/posts/135124-line-web-version-ending-january-2025"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-a1ffbedb",
+    "status": "published",
+    "translationOf": "line-web-version-to-end-desktop-app-adds-accessibility-features-a1ffbedb",
+    "publishedAt": "2026-11-26T01:30:00.000Z",
+    "fetchedAt": "2026-11-27T18:19:00.036Z",
+    "body": "LINE 網頁版將於 2027 年 1 月 26 日停止服務，使用者需改用 LINE 電腦版。電腦版自 26.6.0 版起加入螢幕閱讀器等無障礙支援，彌補視障族群過去依賴網頁版的使用缺口。\n\n原文來源： [Techbang.com](https://www.techbang.com/posts/135124-line-web-version-ending-january-2025)"
   }
 ]

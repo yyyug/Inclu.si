@@ -60350,5 +60350,103 @@
     "publishedAt": "2026-11-27T17:32:23.000Z",
     "fetchedAt": "2026-11-27T18:18:34.804Z",
     "body": "A Double Tap listener says Gemini on Android no longer adds dates from a photographed list to his calendar, a job it did a couple of months ago.\n\nRead more from the original source: [doubletaponair.com](https://doubletaponair.com/listener-asks-if-phone-ai-is-going-backwards-after-gemini-refuses-a-calendar-job)"
+  },
+  {
+    "title": "MHLW to Hold “Dementia Barrier‑Free Information Exchange Meeting”",
+    "slug": "mhlw-to-hold-dementia-barrierfree-information-exchange-meeting-48105a83",
+    "lang": "en",
+    "summary": "The Ministry of Health, Labour and Welfare of Japan announces a meeting to exchange information on barrier‑free measures for people with dementia, aiming to improve accessibility and support for this population.",
+    "category": "laws-rights",
+    "tags": [
+      "dementia",
+      "barrier‑free",
+      "information exchange",
+      "Japan",
+      "Ministry of Health"
+    ],
+    "sourceName": "厚生労働省",
+    "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_241219_00014.html",
+    "relatedSources": [
+      {
+        "name": "厚生労働省",
+        "url": "https://www.mhlw.go.jp/stf/newpage_241219_00014.html"
+      }
+    ],
+    "sourceCountry": "JP",
+    "queryRegion": "JP",
+    "region": "JP",
+    "ingestType": "rss",
+    "ingestSource": "https://news.google.com/rss/search?q=%E3%83%90%E3%83%AA%E3%82%A2%E3%83%95%E3%83%AA%E3%83%BC&hl=ja&gl=JP&ceid=JP%3Aja",
+    "ingestProvider": "news.google.com",
+    "clusterId": "cluster-48105a83",
+    "status": "published",
+    "translationOf": "mhlw-to-hold-dementia-barrierfree-information-exchange-meeting-zh-48105a83",
+    "publishedAt": "2026-11-26T06:53:53.000Z",
+    "fetchedAt": "2026-11-27T18:14:36.632Z",
+    "body": "The Ministry of Health, Labour and Welfare of Japan announces a meeting to exchange information on barrier‑free measures for people with dementia, aiming to improve accessibility and support for this population.\n\nRead more from the original source: [厚生労働省](https://www.mhlw.go.jp/stf/newpage_241219_00014.html)"
+  },
+  {
+    "title": "Welfare overhaul plans put rare focus on improving benefits system for disabled claimants",
+    "slug": "welfare-overhaul-plans-put-rare-focus-on-improving-benefits-system-for-disabled--add32120",
+    "lang": "en",
+    "summary": "Timms review tackles some big questions about a flawed system – but leaves other issues in the ‘maybe later’ drawer\nStephen Timms would be forgiven for feeling his thunder has been stolen. The minister for social security has spent the last year reviewing personal independence payments (Pip) in light of Keir Starmer’s doomed measures last summer, but last week the Milburn review pitched a set of changes to the key disability benefit to great fanfare.\nBut when Timms took to the House of Commons to call for a “fundamental overhaul” of Pip on Tuesday, it was clear these were altogether bigger – and notably not explicitly cost-saving – ideas.\n Continue reading...",
+    "category": "general",
+    "tags": [],
+    "sourceName": "Unknown source",
+    "sourceUrl": "https://www.theguardian.com/world/2026/nov/26/timms-review-pip-disability-benefits-claimants",
+    "relatedSources": [
+      {
+        "name": "Unknown source",
+        "url": "https://www.theguardian.com/world/2026/nov/26/timms-review-pip-disability-benefits-claimants"
+      }
+    ],
+    "sourceCountry": null,
+    "queryRegion": null,
+    "region": null,
+    "ingestType": "rss",
+    "ingestSource": "https://www.theguardian.com/world/disability/rss",
+    "ingestProvider": "theguardian.com",
+    "clusterId": "cluster-add32120",
+    "status": "published",
+    "translationOf": "welfare-overhaul-plans-put-rare-focus-on-improving-benefits-system-for-disabled--zh-add32120",
+    "publishedAt": "2026-11-26T06:00:47.000Z",
+    "fetchedAt": "2026-11-27T18:16:00.547Z",
+    "body": "Timms review tackles some big questions about a flawed system – but leaves other issues in the ‘maybe later’ drawer\nStephen Timms would be forgiven for feeling his thunder has been stolen. The minister for social security has spent the last year reviewing personal independence payments (Pip) in light of Keir Starmer’s doomed measures last summer, but last week the Milburn review pitched a set of changes to the key disability benefit to great fanfare.\nBut when Timms took to the House of Commons to call for a “fundamental overhaul” of Pip on Tuesday, it was clear these were altogether bigger – and notably not explicitly cost-saving – ideas.\n Continue reading...\n\nRead more from the original source: [Unknown source](https://www.theguardian.com/world/2026/nov/26/timms-review-pip-disability-benefits-claimants)"
+  },
+  {
+    "title": "LINE Web Version to End; Desktop App Adds Accessibility Features",
+    "slug": "line-web-version-to-end-desktop-app-adds-accessibility-features-a1ffbedb",
+    "lang": "en",
+    "summary": "The LINE web client will be discontinued on January 26, 2027. Users are urged to switch to the LINE desktop application, which from version 26.6.0 includes screen‑reader support and other accessibility improvements to address the needs of visually impaired users previously reliant on the web version.",
+    "category": "digital-a11y",
+    "tags": [
+      "LINE",
+      "web version",
+      "desktop app",
+      "accessibility",
+      "screen reader",
+      "visually impaired",
+      "service discontinuation"
+    ],
+    "sourceName": "Techbang.com",
+    "sourceUrl": "https://www.techbang.com/posts/135124-line-web-version-ending-january-2025",
+    "relatedSources": [
+      {
+        "name": "Techbang.com",
+        "url": "https://www.techbang.com/posts/135124-line-web-version-ending-january-2025"
+      }
+    ],
+    "sourceCountry": "TW",
+    "queryRegion": "TW",
+    "region": "TW",
+    "ingestType": "newsapi",
+    "ingestSource": "newsapi.org",
+    "ingestProvider": "newsapi.org",
+    "clusterId": "cluster-a1ffbedb",
+    "status": "published",
+    "translationOf": "line-web-version-to-end-desktop-app-adds-accessibility-features-zh-a1ffbedb",
+    "publishedAt": "2026-11-26T01:30:00.000Z",
+    "fetchedAt": "2026-11-27T18:19:00.036Z",
+    "body": "The LINE web client will be discontinued on January 26, 2027. Users are urged to switch to the LINE desktop application, which from version 26.6.0 includes screen‑reader support and other accessibility improvements to address the needs of visually impaired users previously reliant on the web version.\n\nRead more from the original source: [Techbang.com](https://www.techbang.com/posts/135124-line-web-version-ending-january-2025)"
   }
 ]
