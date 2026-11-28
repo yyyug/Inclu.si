@@ -16813,96 +16813,61 @@
     }
   },
   "2026-11-28": {
-    "generatedAt": "2026-11-28T01:41:43.758Z",
+    "generatedAt": "2026-11-28T17:28:40.265Z",
     "en": {
-      "title": "Egypt Unveils Disability Education Map and Global Accessibility Advances",
-      "summary": "The Egyptian government launched a comprehensive education roadmap covering 184,000 students in inclusive schools, signaling a major policy shift. Meanwhile, Saudi Arabia intensified enforcement of disabled parking rules, and the Real Madrid Foundation opened its first international sensory school.",
+      "title": "Polling Accessibility Gap and Inclusive Community Initiatives Drive Disability News",
+      "summary": "A centenarian voter exposed the lack of wheelchair-friendly facilities at a polling station, highlighting urgent physical design barriers in Taiwan's elections. Meanwhile, a new community summit advanced disability integration through eleven signed memorandums focused on entrepreneurship and food security.",
       "highlights": [
         {
-          "title": "Government unveils education map for persons with disabilities: 184,000 students in 28,000 integrated schools, 300,000 trained teachers; Senate committee proposes tech college for workforce integration and revises college admission rules",
-          "slug": "government-unveils-education-map-for-persons-with-disabilities-184000-students-i-f9aca355",
-          "url": "https://www.youm7.com/story/2026/11/27/%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D9%87%D9%85%D9%85-184-%D8%A3%D9%84%D9%81-%D8%B7%D8%A7%D9%84%D8%A8-%D9%81%D9%89/7633025"
-        },
-        {
-          "title": "Traffic Police Crack Down on 2,028 Vehicles Violating Disabled Parking Rules in Saudi Arabia",
-          "slug": "traffic-police-crack-down-on-2028-vehicles-violating-disabled-parking-rules-in-s-5f5f26f6",
-          "url": "https://www.sra7h.com/%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B1-%D9%8A%D8%B6%D8%A8%D8%B7-2028-%D9%85%D8%B1%D9%83%D8%A8%D8%A9-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A9-%D9%84%D9%85%D9%88%D8%A7%D9%82%D9%81-%D8%B0%D9%88%D9%8A-%D8%A7"
-        },
-        {
-          "title": "APA Calculation for Seniors to Change in 2027",
-          "slug": "apa-calculation-for-seniors-to-change-in-2027-f6b7c5c2",
-          "url": "https://informations.handicap.fr/a-seniors-le-calcul-de-l-apa-modifie-des-2027-40079.php"
-        },
-        {
-          "title": "Real Madrid Foundation Launches First International Sensory School in Collaboration with MSD and Intersnack",
-          "slug": "real-madrid-foundation-launches-first-international-sensory-school-in-collaborat-924c31a8",
-          "url": "https://www.realmadrid.com/ar-AE/news/club/foundation/la-fundacion-real-madrid-msd-united-way-e-intersnack-impulsan-la-primera-escuela-sensorial-internacional-27-11-2026"
-        },
-        {
-          "title": "CNSE Receives cermi.es 2026 Award for Defending Deaf Women and Girls",
-          "slug": "cnse-receives-cermies-2026-award-for-defending-deaf-women-and-girls-0df3907f",
-          "url": "https://www.discapnet.es/noticia/la-cnse-recibe-el-premio-cermies-2026-por-su-defensa-de-las-mujeres-y-ninas-sordas"
-        },
-        {
-          "title": "Egyptian Administrative Prosecution Explains Complain Mechanisms for Women, Human Rights, and Persons with Disabilities",
-          "slug": "egyptian-administrative-prosecution-explains-complain-mechanisms-for-women-human-776a201e",
-          "url": "https://www.youm7.com/story/2026/11/27/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AA%D9%88%D8%B6%D8%AD-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%AA%D9%84%D9%82%D9%8A-%D8%B4%D9%83%D8%A7%D9%88%D9%89-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9-%D9%88%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86-%D9%88%D8%B0%D9%88%D9%8A/7634400"
-        },
-        {
-          "title": "Study Shows Higher Entrepreneurial Intent but Lower Consolidation Rates for Spanish Business Owners with Disabilities",
-          "slug": "study-shows-higher-entrepreneurial-intent-but-lower-consolidation-rates-for-span-792bd37b",
-          "url": "https://www.discapnet.es/noticia/presentacion-del-titulado-emprender-con-discapacidad-en-espana-diagnostico-de-la-situacion"
+          "title": "Centenarian Grandfather Faces Inaccessible Polling Station",
+          "slug": "centenarian-grandfather-faces-inaccessible-polling-station-1fbacee0",
+          "url": "https://www.mnews.tw/story/20261128sot1111001"
         },
         {
           "title": "11 MoUs Signed to Support Entrepreneurship and Integration of Persons with Disabilities",
           "slug": "11-mous-signed-to-support-entrepreneurship-and-integration-of-persons-with-disab-8c8c4f89",
           "url": "https://twaslnews1.twaslnews.com/8406105"
+        },
+        {
+          "title": "Tariq Roshan: Inclusive Integration for Persons with Disabilities Requires Actual Implementation",
+          "slug": "tariq-roshan-inclusive-integration-for-persons-with-disabilities-requires-actual-74043bf7",
+          "url": "https://www.youm7.com/story/2026/11/27/%D8%B7%D8%A7%D8%B1%D9%82-%D8%B1%D8%B6%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%AF%D9%85%D8%AC-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%8A%D8%AA%D8%B7%D9%84%D8%A8-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%D9%84%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%A7%D9%84%D9%81%D8%B9%D9%84%D9%8A/7634817"
+        },
+        {
+          "title": "2026 Dong Island Carnival Celebrates International Day of Persons with Disabilities at Sun Yat‑sen Memorial Hall",
+          "slug": "2026-dong-island-carnival-celebrates-international-day-of-persons-with-disabilit-13eb18de",
+          "url": "https://www.cdns.com.tw/articles/1497764"
+        },
+        {
+          "title": "Listener asks if phone AI is going backwards after Gemini refuses a calendar job",
+          "slug": "listener-asks-if-phone-ai-is-going-backwards-after-gemini-refuses-a-calendar-job-5595dff0",
+          "url": "https://doubletaponair.com/listener-asks-if-phone-ai-is-going-backwards-after-gemini-refuses-a-calendar-job"
         }
       ]
     },
     "zh-TW": {
-      "title": "埃及公布残障教育蓝图，全球无障碍进展",
-      "summary": "埃及政府公布了覆盖184,000名融合学校学生的全面教育路线图，标志着重大政策转变。同时，沙特阿拉伯加强了对残障人士停车规则的执法力度，皇家马德里基金会也开设了首间国际感官学校。",
+      "title": "投票所無障礙缺口與社區融合措施成焦點",
+      "summary": "百歲選民揭露投票所缺乏無障礙設施，凸顯台灣選舉現場急待解決的實體設計障礙。同時，新近社區高峰會透過簽署十一份備忘錄，推動身心障礙者的創業支持與融合措施。",
       "highlights": [
         {
-          "title": "政府公布殘障人士教育藍圖：184,000 名學生就讀 28,000 所融合學校，300,000 名教師受訓；參議院教育與實務研究委員會建議設立技術學院以促進就業融合並檢討大學錄取規則",
-          "slug": "government-unveils-education-map-for-persons-with-disabilities-184000-students-i-zh-f9aca355",
-          "url": "https://www.youm7.com/story/2026/11/27/%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%B0%D9%88%D9%89-%D8%A7%D9%84%D9%87%D9%85%D9%85-184-%D8%A3%D9%84%D9%81-%D8%B7%D8%A7%D9%84%D8%A8-%D9%81%D9%89/7633025"
-        },
-        {
-          "title": "沙特交通部门查获2,028辆违规占用残疾人车位的车辆",
-          "slug": "traffic-police-crack-down-on-2028-vehicles-violating-disabled-parking-rules-in-s-zh-5f5f26f6",
-          "url": "https://www.sra7h.com/%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B1-%D9%8A%D8%B6%D8%A8%D8%B7-2028-%D9%85%D8%B1%D9%83%D8%A8%D8%A9-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A9-%D9%84%D9%85%D9%88%D8%A7%D9%82%D9%81-%D8%B0%D9%88%D9%8A-%D8%A7"
-        },
-        {
-          "title": "老年人自主生活津貼計算方式將於2027年調整",
-          "slug": "apa-calculation-for-seniors-to-change-in-2027-zh-f6b7c5c2",
-          "url": "https://informations.handicap.fr/a-seniors-le-calcul-de-l-apa-modifie-des-2027-40079.php"
-        },
-        {
-          "title": "皇家馬德里基金會與MSD及Intersnack合作推出首間國際感官學校",
-          "slug": "real-madrid-foundation-launches-first-international-sensory-school-in-collaborat-zh-924c31a8",
-          "url": "https://www.realmadrid.com/ar-AE/news/club/foundation/la-fundacion-real-madrid-msd-united-way-e-intersnack-impulsan-la-primera-escuela-sensorial-internacional-27-11-2026"
-        },
-        {
-          "title": "CNSE 獲得 cermi.es 2026 獎項以表彰其為聾人女性與女孩的權益辯護",
-          "slug": "cnse-receives-cermies-2026-award-for-defending-deaf-women-and-girls-zh-0df3907f",
-          "url": "https://www.discapnet.es/noticia/la-cnse-recibe-el-premio-cermies-2026-por-su-defensa-de-las-mujeres-y-ninas-sordas"
-        },
-        {
-          "title": "埃及行政检察署阐明妇女、人权及残障人士投诉受理机制",
-          "slug": "egyptian-administrative-prosecution-explains-complain-mechanisms-for-women-human-zh-776a201e",
-          "url": "https://www.youm7.com/story/2026/11/27/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AA%D9%88%D8%B6%D8%AD-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%AA%D9%84%D9%82%D9%8A-%D8%B4%D9%83%D8%A7%D9%88%D9%89-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9-%D9%88%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86-%D9%88%D8%B0%D9%88%D9%8A/7634400"
-        },
-        {
-          "title": "西班牙研究：殘障人士創業意願較高但企業存活率低",
-          "slug": "study-shows-higher-entrepreneurial-intent-but-lower-consolidation-rates-for-span-zh-792bd37b",
-          "url": "https://www.discapnet.es/noticia/presentacion-del-titulado-emprender-con-discapacidad-en-espana-diagnostico-de-la-situacion"
+          "title": "百歲阿公投票遭遇投開票所無障礙不便",
+          "slug": "centenarian-grandfather-faces-inaccessible-polling-station-zh-1fbacee0",
+          "url": "https://www.mnews.tw/story/20261128sot1111001"
         },
         {
           "title": "簽署11份備忘錄支持創業及身心障礙人士融合",
           "slug": "11-mous-signed-to-support-entrepreneurship-and-integration-of-persons-with-disab-zh-8c8c4f89",
           "url": "https://twaslnews1.twaslnews.com/8406105"
+        },
+        {
+          "title": "塔里克·魯尚：殘障人士的全納融合需要實際執行",
+          "slug": "tariq-roshan-inclusive-integration-for-persons-with-disabilities-requires-actual-zh-74043bf7",
+          "url": "https://www.youm7.com/story/2026/11/27/%D8%B7%D8%A7%D8%B1%D9%82-%D8%B1%D8%B6%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%AF%D9%85%D8%AC-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84-%D9%84%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%8A%D8%AA%D8%B7%D9%84%D8%A8-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%D9%84%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%A7%D9%84%D9%81%D8%B9%D9%84%D9%8A/7634817"
+        },
+        {
+          "title": "2026動島嘉年華於國父紀念館慶祝國際身心障礙者日",
+          "slug": "2026-dong-island-carnival-celebrates-international-day-of-persons-with-disabilit-zh-13eb18de",
+          "url": "https://www.cdns.com.tw/articles/1497764"
         }
       ]
     }
